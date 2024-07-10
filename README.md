@@ -55,17 +55,16 @@ For a complete list, see the full spreadsheet below:
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
-| Company | Job Title | Location & Work Model | Salary | Date Posted |
+| Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Forensic Investigations and Intelligence](https://jobright.ai/jobs/info/668da14e5c4e3c8d6a5ece46?utm_source=1055&utm_campaign=git)** | Philadelphia, PA | On Site | Jul 09 |
 | **[TriVersity Construction](https://www.trivc.com)** | **[Risk and Compliance Insurance Co-op - Fall Semester 2024](https://jobright.ai/jobs/info/668d93207574eb7eb60c67b7?utm_source=1055&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 09 |
 | **[Buchalter Nemer](http://www.buchalter.com/)** | **[2025 Litigation Summer Law Clerk](https://jobright.ai/jobs/info/668d882da77fbe807aad343e?utm_source=1055&utm_campaign=git)** | San Diego, CA | On Site | Jul 09 |
-| **[Foxit Corporation](https://www.foxit.com)** | **[Legal Intern](https://jobright.ai/jobs/info/668d8386e45593dfb218d478?utm_source=1055&utm_campaign=git)** | Fremont, CA | On Site | Jul 09 |
-| **[Office of the Special Narcotics Prosecutor for the City of New York](http://www.snpnyc.org)** | **[Law Fellow Position](https://jobright.ai/jobs/info/668d64e107bd578dc4dffed4?utm_source=1055&utm_campaign=git)** | New York, NY | On Site | Jul 09 |
 | **[AARP](http://www.aarp.org)** | **[Pickering Law Fellow (Fall)](https://jobright.ai/jobs/info/6668ebb503ac5afee7b10647?utm_source=1055&utm_campaign=git)** | Washington, DC | Hybrid | Jul 09 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2025 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2026)](https://jobright.ai/jobs/info/664eb9fb441ecf4d17eb3f0c?utm_source=1055&utm_campaign=git)** | Atlanta, GA | On Site | Jul 09 |
 | **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney’s Office Spring 2025 Legal Internship](https://jobright.ai/jobs/info/668d73801b3deecce70893e9?utm_source=1055&utm_campaign=git)** | New York, NY | On Site | Jul 09 |
 | **[EPRI](http://www.epri.com)** | **[Legal Operations Student Employee](https://jobright.ai/jobs/info/667106bc5a5b1aa2d9aae709?utm_source=1055&utm_campaign=git)** | Knoxville, TN | On Site | Jul 09 |
+| **[U.S. Bancorp](http://www.usbank.com)** | **[2025 Summer Legal Associate - JD Internship](https://jobright.ai/jobs/info/668e0be75bb009a1d745e528?utm_source=1055&utm_campaign=git)** | Minneapolis, MN | On Site | Jul 09 |
 | **[Cooley](http://www.cooley.com)** | **[2025 Summer Associate – Business Restructuring](https://jobright.ai/jobs/info/665922b7dc30f127d7d723e7?utm_source=1055&utm_campaign=git)** | New York, United States | On Site | Jul 09 |
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Risk and Compliance Intern - 2025](https://jobright.ai/jobs/info/65724f85fe1f54f00d222141?utm_source=1055&utm_campaign=git)** | Chicago, IL | Hybrid | Jul 09 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Card Fraud Strategy](https://jobright.ai/jobs/info/6677b2dfd57a2b58a480d291?utm_source=1055&utm_campaign=git)** | Metairie, LA | On Site | Jul 09 |
@@ -79,6 +78,7 @@ For a complete list, see the full spreadsheet below:
 | **[Raymond James](http://www.raymondjames.com)** | **[2024 Seasonal Associate-Law Clerk - Fully Remote](https://jobright.ai/jobs/info/668c90f9a04664baea38a367?utm_source=1055&utm_campaign=git)** | United States | Remote | Jul 09 |
 | **[Children's Law Center of California](https://www.clccal.org/)** | **[2025 SUMMER LAW CLERK](https://jobright.ai/jobs/info/668c9108a04664baea38a41b?utm_source=1055&utm_campaign=git)** | Monterey Park, CA | On Site | Jul 09 |
 | **[Jackson Lewis P.C.](http://www.jacksonlewis.com)** | **[Summer Associate](https://jobright.ai/jobs/info/668de19c93467c0d94cca0a9?utm_source=1055&utm_campaign=git)** | US - CA - San Francisco | On Site | Jul 09 |
+| **[Foxit Corporation](https://www.foxit.com)** | **[Legal Intern](https://jobright.ai/jobs/info/668d65ca8243c792faeb04ed?utm_source=1055&utm_campaign=git)** | Fremont, CA | On Site | Jul 09 |
 | **[Orion Group Holdings](https://www.oriongroupholdingsinc.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/668c7ca4b17b35a9ab811042?utm_source=1055&utm_campaign=git)** | Greater Houston | On Site | Jul 08 |
 | **[Children’s National Hospital](http://childrensnational.org)** | **[Administrative Intern (Legal/Compliance)](https://jobright.ai/jobs/info/668c6f53722799dac2280440?utm_source=1055&utm_campaign=git)** | Silver Spring, MD | On Site | Jul 08 |
 | **[Civil Rights](https://civilrights.org/)** | **[Spring 2025 Legal Internship](https://jobright.ai/jobs/info/668d150156c9b5680bca08af?utm_source=1055&utm_campaign=git)** | Washington, DC | On Site | Jul 08 |
@@ -105,7 +105,4 @@ For a complete list, see the full spreadsheet below:
 | **[Anaqua](http://anaqua.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6685b5c37a987717e839575d?utm_source=1055&utm_campaign=git)** | Boston, MA | Hybrid | Jul 03 |
 | **[Lancesoft](http://www.lancesoft.com/)** | **[Loss Prevention Analyst](https://jobright.ai/jobs/info/6685a4288e86a0cdfea6200b?utm_source=1055&utm_campaign=git)** | Hoover, AL | On Site | Jul 03 |
 | **[Maryland Legal Aid](https://www.mdlab.org)** | **[Law Clerk (Fall 2024 & Spring 2025)](https://jobright.ai/jobs/info/668589d90ae1f988330dfe34?utm_source=1055&utm_campaign=git)** | Cumberland, MD | On Site | Jul 03 |
-| **[Identifeye Health](https://www.identifeye.health)** | **[Legal Intern - Intellectual Property](https://jobright.ai/jobs/info/6685666e5afc77163088a6a5?utm_source=1055&utm_campaign=git)** | United States | Remote | Jul 03 |
-| **[torq.partners](https://en.torq.partners/)** | **[Werkstudent*in Legal](https://jobright.ai/jobs/info/66862c4c323f5e12beea54de?utm_source=1055&utm_campaign=git)** | Germany, PA | On Site | Jul 03 |
-| **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/668a927d1d90e2991a85b907?utm_source=1055&utm_campaign=git)** | San Diego, CA | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
