@@ -3,7 +3,7 @@
 
 
 
-This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:  and Legal and Compliance
+This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:  and Legal and Compliance.
 
 
 ✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_source=1055&utm_campaign=git). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
@@ -39,11 +39,11 @@ This job repository is your go-to resource for discovering and sharing the lates
 </p>
 
 ---
-<h3>
-Due to capacity constraints, only internship jobs posted within the last 7 days are listed here.
+<h4>
+Only jobs posted in the last 7 days are listed due to capacity constraints.
 <br>
-For a comprehensive list of all available internships, please refer to the full spreadsheet bellowed:
-</h3>
+For a complete list, see the full spreadsheet below:
+</h4>
 <a href="https://docs.google.com/spreadsheets/d/1YhCc56aBbm1h-oiGbAEtRlc2IVW-CRqN_fJjsRBPHpk/edit?gid=384492957#gid=384492957">
     <img src="./static/img/excel_icon.png" alt="excel_icon", style="width: 20%; height: 20%;">
 </a>
@@ -60,6 +60,7 @@ For a comprehensive list of all available internships, please refer to the full 
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Forensic Investigations and Intelligence](https://jobright.ai/jobs/info/668da14e5c4e3c8d6a5ece46?utm_source=1055&utm_campaign=git)** | Philadelphia, PA | On Site | Jul 09 |
 | **[TriVersity Construction](https://www.trivc.com)** | **[Risk and Compliance Insurance Co-op - Fall Semester 2024](https://jobright.ai/jobs/info/668d93207574eb7eb60c67b7?utm_source=1055&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 09 |
 | **[Buchalter Nemer](http://www.buchalter.com/)** | **[2025 Litigation Summer Law Clerk](https://jobright.ai/jobs/info/668d882da77fbe807aad343e?utm_source=1055&utm_campaign=git)** | San Diego, CA | On Site | Jul 09 |
+| **[Foxit Corporation](https://www.foxit.com)** | **[Legal Intern](https://jobright.ai/jobs/info/668d8386e45593dfb218d478?utm_source=1055&utm_campaign=git)** | Fremont, CA | On Site | Jul 09 |
 | **[Office of the Special Narcotics Prosecutor for the City of New York](http://www.snpnyc.org)** | **[Law Fellow Position](https://jobright.ai/jobs/info/668d64e107bd578dc4dffed4?utm_source=1055&utm_campaign=git)** | New York, NY | On Site | Jul 09 |
 | **[AARP](http://www.aarp.org)** | **[Pickering Law Fellow (Fall)](https://jobright.ai/jobs/info/6668ebb503ac5afee7b10647?utm_source=1055&utm_campaign=git)** | Washington, DC | Hybrid | Jul 09 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2025 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2026)](https://jobright.ai/jobs/info/664eb9fb441ecf4d17eb3f0c?utm_source=1055&utm_campaign=git)** | Atlanta, GA | On Site | Jul 09 |
@@ -78,7 +79,6 @@ For a comprehensive list of all available internships, please refer to the full 
 | **[Raymond James](http://www.raymondjames.com)** | **[2024 Seasonal Associate-Law Clerk - Fully Remote](https://jobright.ai/jobs/info/668c90f9a04664baea38a367?utm_source=1055&utm_campaign=git)** | United States | Remote | Jul 09 |
 | **[Children's Law Center of California](https://www.clccal.org/)** | **[2025 SUMMER LAW CLERK](https://jobright.ai/jobs/info/668c9108a04664baea38a41b?utm_source=1055&utm_campaign=git)** | Monterey Park, CA | On Site | Jul 09 |
 | **[Jackson Lewis P.C.](http://www.jacksonlewis.com)** | **[Summer Associate](https://jobright.ai/jobs/info/668de19c93467c0d94cca0a9?utm_source=1055&utm_campaign=git)** | US - CA - San Francisco | On Site | Jul 09 |
-| **[Foxit Corporation](https://www.foxit.com)** | **[Legal Intern](https://jobright.ai/jobs/info/668d65ca8243c792faeb04ed?utm_source=1055&utm_campaign=git)** | Fremont, CA | On Site | Jul 09 |
 | **[Orion Group Holdings](https://www.oriongroupholdingsinc.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/668c7ca4b17b35a9ab811042?utm_source=1055&utm_campaign=git)** | Greater Houston | On Site | Jul 08 |
 | **[Children’s National Hospital](http://childrensnational.org)** | **[Administrative Intern (Legal/Compliance)](https://jobright.ai/jobs/info/668c6f53722799dac2280440?utm_source=1055&utm_campaign=git)** | Silver Spring, MD | On Site | Jul 08 |
 | **[Civil Rights](https://civilrights.org/)** | **[Spring 2025 Legal Internship](https://jobright.ai/jobs/info/668d150156c9b5680bca08af?utm_source=1055&utm_campaign=git)** | Washington, DC | On Site | Jul 08 |
@@ -108,6 +108,4 @@ For a comprehensive list of all available internships, please refer to the full 
 | **[Identifeye Health](https://www.identifeye.health)** | **[Legal Intern - Intellectual Property](https://jobright.ai/jobs/info/6685666e5afc77163088a6a5?utm_source=1055&utm_campaign=git)** | United States | Remote | Jul 03 |
 | **[torq.partners](https://en.torq.partners/)** | **[Werkstudent*in Legal](https://jobright.ai/jobs/info/66862c4c323f5e12beea54de?utm_source=1055&utm_campaign=git)** | Germany, PA | On Site | Jul 03 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/668a927d1d90e2991a85b907?utm_source=1055&utm_campaign=git)** | San Diego, CA | On Site | Jul 03 |
-| **[Protiviti](http://www.protiviti.com)** | **[New York City Legal Consulting Intern - 2025](https://jobright.ai/jobs/info/65724f87fe1f54f00d222166?utm_source=1055&utm_campaign=git)** | New York, NY | Hybrid | Jul 03 |
-| ↳ | **[Charlotte Risk and Compliance Intern - 2025](https://jobright.ai/jobs/info/6571fdec4345dd5229de4743?utm_source=1055&utm_campaign=git)** | Charlotte, NC | Hybrid | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
