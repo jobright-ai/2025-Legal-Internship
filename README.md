@@ -60,7 +60,6 @@ For a complete list, see the full spreadsheet below:
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Forensic Investigations and Intelligence](https://jobright.ai/jobs/info/668da14e5c4e3c8d6a5ece46?utm_source=1055&utm_campaign=git)** | Philadelphia, PA | On Site | Jul 09 |
 | **[TriVersity Construction](https://www.trivc.com)** | **[Risk and Compliance Insurance Co-op - Fall Semester 2024](https://jobright.ai/jobs/info/668d93207574eb7eb60c67b7?utm_source=1055&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 09 |
 | **[Buchalter Nemer](http://www.buchalter.com/)** | **[2025 Litigation Summer Law Clerk](https://jobright.ai/jobs/info/668d882da77fbe807aad343e?utm_source=1055&utm_campaign=git)** | San Diego, CA | On Site | Jul 09 |
-| **[Foxit Corporation](https://www.foxit.com)** | **[Legal Intern](https://jobright.ai/jobs/info/668d8386e45593dfb218d478?utm_source=1055&utm_campaign=git)** | Fremont, CA | On Site | Jul 09 |
 | **[AARP](http://www.aarp.org)** | **[Pickering Law Fellow (Fall)](https://jobright.ai/jobs/info/6668ebb503ac5afee7b10647?utm_source=1055&utm_campaign=git)** | Washington, DC | Hybrid | Jul 09 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2025 2L Summer Associate / Des Moines](https://jobright.ai/jobs/info/6624662e41224af7d6bd26ac?utm_source=1055&utm_campaign=git)** | Des Moines, IA | Hybrid | Jul 09 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2025 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2026)](https://jobright.ai/jobs/info/664eb9fb441ecf4d17eb3f0c?utm_source=1055&utm_campaign=git)** | Atlanta, GA | On Site | Jul 09 |
@@ -80,6 +79,7 @@ For a complete list, see the full spreadsheet below:
 | **[Raymond James](http://www.raymondjames.com)** | **[2024 Seasonal Associate-Law Clerk - Fully Remote](https://jobright.ai/jobs/info/668c90f9a04664baea38a367?utm_source=1055&utm_campaign=git)** | United States | Remote | Jul 09 |
 | **[Children's Law Center of California](https://www.clccal.org/)** | **[2025 SUMMER LAW CLERK](https://jobright.ai/jobs/info/668c9108a04664baea38a41b?utm_source=1055&utm_campaign=git)** | Monterey Park, CA | On Site | Jul 09 |
 | **[Jackson Lewis P.C.](http://www.jacksonlewis.com)** | **[Summer Associate](https://jobright.ai/jobs/info/668de19c93467c0d94cca0a9?utm_source=1055&utm_campaign=git)** | US - CA - San Francisco | On Site | Jul 09 |
+| **[Foxit Corporation](https://www.foxit.com)** | **[Legal Intern](https://jobright.ai/jobs/info/668d65ca8243c792faeb04ed?utm_source=1055&utm_campaign=git)** | Fremont, CA | On Site | Jul 09 |
 | **[Orion Group Holdings](https://www.oriongroupholdingsinc.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/668c7ca4b17b35a9ab811042?utm_source=1055&utm_campaign=git)** | Greater Houston | On Site | Jul 08 |
 | **[Children’s National Hospital](http://childrensnational.org)** | **[Administrative Intern (Legal/Compliance)](https://jobright.ai/jobs/info/668c6f53722799dac2280440?utm_source=1055&utm_campaign=git)** | Silver Spring, MD | On Site | Jul 08 |
 | **[Civil Rights](https://civilrights.org/)** | **[Spring 2025 Legal Internship](https://jobright.ai/jobs/info/668d150156c9b5680bca08af?utm_source=1055&utm_campaign=git)** | Washington, DC | On Site | Jul 08 |
@@ -104,5 +104,4 @@ For a complete list, see the full spreadsheet below:
 | **[Children's Law Center of California](https://www.clccal.org/)** | **[LAW INTERN](https://jobright.ai/jobs/info/6685dae55ce4828b52de8431?utm_source=1055&utm_campaign=git)** | Monterey Park, CA | Hybrid | Jul 03 |
 | **[Anaqua](http://anaqua.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6685b5c37a987717e839575d?utm_source=1055&utm_campaign=git)** | Boston, MA | Hybrid | Jul 03 |
 | **[Lancesoft](http://www.lancesoft.com/)** | **[Loss Prevention Analyst](https://jobright.ai/jobs/info/6685a4288e86a0cdfea6200b?utm_source=1055&utm_campaign=git)** | Hoover, AL | On Site | Jul 03 |
-| **[Maryland Legal Aid](https://www.mdlab.org)** | **[Law Clerk (Fall 2024 & Spring 2025)](https://jobright.ai/jobs/info/668589d90ae1f988330dfe34?utm_source=1055&utm_campaign=git)** | Cumberland, MD | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
