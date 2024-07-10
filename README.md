@@ -3,7 +3,7 @@
 
 
 
-**This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:**  and Legal and Compliance.
+**This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:** Legal and Compliance.
 
 
 ✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_source=1055&utm_campaign=git). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
