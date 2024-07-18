@@ -170,8 +170,8 @@ For a complete list, see the full spreadsheet below:
 | **[Rockefeller Capital Management](https://www.rockco.com/)** | **[Summer Analyst - Legal & Compliance](https://jobright.ai/jobs/info/6691c9b9cf3c8abe59ab66a4?utm_source=1055&utm_campaign=git)** | New York, NY | On Site | Jul 12 |
 | **[Earthjustice](http://earthjustice.org/)** | **[2025 Rocky Mountain Office Clerkship](https://jobright.ai/jobs/info/6691bd44fd9555930f1fd912?utm_source=1055&utm_campaign=git)** | Denver, CO | On Site | Jul 12 |
 | ↳ | **[2025 Alaska Regional Office Clerkship](https://jobright.ai/jobs/info/6691bd44fd9555930f1fd95c?utm_source=1055&utm_campaign=git)** | Anchorage, AK | On Site | Jul 12 |
-| ↳ | **[2025 California Regional Office Clerkship](https://jobright.ai/jobs/info/6691bd44fd9555930f1fd923?utm_source=1055&utm_campaign=git)** | LA Metro Area | On Site | Jul 12 |
 | ↳ | **[2025 Washington D.C. Office Clerkship](https://jobright.ai/jobs/info/6691bd44fd9555930f1fd91b?utm_source=1055&utm_campaign=git)** | Washington, DC | On Site | Jul 12 |
+| ↳ | **[2025 California Regional Office Clerkship](https://jobright.ai/jobs/info/6691bd44fd9555930f1fd923?utm_source=1055&utm_campaign=git)** | LA Metro Area | On Site | Jul 12 |
 | ↳ | **[2025 Northern Rockies Regional Office Clerkship](https://jobright.ai/jobs/info/6691bd44fd9555930f1fd918?utm_source=1055&utm_campaign=git)** | Bozeman, MT | On Site | Jul 12 |
 | ↳ | **[2025 Gulf Regional Office Clerkship](https://jobright.ai/jobs/info/6691bd44fd9555930f1fd91a?utm_source=1055&utm_campaign=git)** | Houston, TX | On Site | Jul 12 |
 | ↳ | **[2025 Mid-Pacific Regional Office Clerkship](https://jobright.ai/jobs/info/6691bd44fd9555930f1fd975?utm_source=1055&utm_campaign=git)** | Honolulu, HI | On Site | Jul 12 |
