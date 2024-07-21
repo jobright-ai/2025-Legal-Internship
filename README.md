@@ -59,6 +59,7 @@ For a complete list, see the full spreadsheet below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[SES](http://www.ses.com)** | **[Internship - Regulatory](https://jobright.ai/jobs/info/6686a811d4be2b4f08f25742?utm_source=1055&utm_campaign=git)** | Washington, DC | Hybrid | Jul 20 |
 | **[Burns White](https://burnswhite.com/)** | **[3L Part time Law Clerk – West Conshohocken, PA](https://jobright.ai/jobs/info/669aa2dc7c95987868d8389a?utm_source=1055&utm_campaign=git)** | Conshohocken, PA | On Site | Jul 19 |
+| **[KeyBank](https://www.key.com)** | **[2025 Summer Risk Management Internship Program - Cleveland](https://jobright.ai/jobs/info/669aa2dc7c95987868d838b9?utm_source=1055&utm_campaign=git)** | Cleveland, OH | On Site | Jul 19 |
 | **[Maryland Legal Aid](https://www.mdlab.org)** | **[Law Clerk (Fall 2024 & Spring 2025)](https://jobright.ai/jobs/info/669a89d0f84b499eedb4936b?utm_source=1055&utm_campaign=git)** | Baltimore, MD | On Site | Jul 19 |
 | **[Russo & Toner LLP](https://www.russotoner.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/669a66650088606983c64847?utm_source=1055&utm_campaign=git)** | Buffalo, NY | On Site | Jul 19 |
 | **[Nixon Peabody](http://www.nixonpeabody.com/)** | **[2025 Summer Associate - Intellectual Property](https://jobright.ai/jobs/info/6661366d8688219a39075a84?utm_source=1055&utm_campaign=git)** | Chicago, IL | On Site | Jul 19 |
@@ -66,9 +67,8 @@ For a complete list, see the full spreadsheet below:
 | **[Vedder Price](http://www.vedderprice.com)** | **[2025 2L Diversity & Inclusion Scholarship, Transactional Rotation (Chicago, IL)](https://jobright.ai/jobs/info/667592f2bad9224db7bb6a2f?utm_source=1055&utm_campaign=git)** | Greater Chicago Area | On Site | Jul 19 |
 | **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/669a3815e55bbac49cf08cc3?utm_source=1055&utm_campaign=git)** | Orlando, FL | Hybrid | Jul 19 |
 | ↳ | **[Fall Legal Intern](https://jobright.ai/jobs/info/669a3815e55bbac49cf08cb0?utm_source=1055&utm_campaign=git)** | Providence, RI | Hybrid | Jul 19 |
-| **[Office of the Special Narcotics Prosecutor for the City of New York](http://www.snpnyc.org)** | **[Law Fellow Position](https://jobright.ai/jobs/info/668fca7d144e48d2af2c513d?utm_source=1055&utm_campaign=git)** | New York, NY | On Site | Jul 19 |
+| **[Office of the Special Narcotics Prosecutor for the City of New York](http://www.snpnyc.org)** | **[Law Fellow Position](https://jobright.ai/jobs/info/668fe25a569bdda61a5669ab?utm_source=1055&utm_campaign=git)** | New York, NY | On Site | Jul 19 |
 | **[Medpace](http://www.medpace.com)** | **[Legal Clerkship (Part-Time)](https://jobright.ai/jobs/info/6699dceec86005e645e335c4?utm_source=1055&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 19 |
-| **[KeyBank](https://www.key.com)** | **[2025 Summer Risk Management Internship Program - Cleveland](https://jobright.ai/jobs/info/669aca1c578612e3a1a1b5c0?utm_source=1055&utm_campaign=git)** | Cleveland, OH | On Site | Jul 19 |
 | **[Mercedes-Benz Research & Development North America](http://www.mbrdna.com)** | **[Legal/IP Intern (Academic Credit, Unpaid)](https://jobright.ai/jobs/info/6699a65e9a33b14b40b73c81?utm_source=1055&utm_campaign=git)** | Sunnyvale, CA | On Site | Jul 18 |
 | **[Cooley](http://www.cooley.com)** | **[2025 Summer Associate – Cyber/Data/Privacy](https://jobright.ai/jobs/info/669a5e496b08a5b9f5cc4069?utm_source=1055&utm_campaign=git)** | San Francisco, CA | On Site | Jul 18 |
 | ↳ | **[2025 Summer Associate – Business Restructuring](https://jobright.ai/jobs/info/665922b7dc30f127d7d723e7?utm_source=1055&utm_campaign=git)** | New York, United States | On Site | Jul 18 |
@@ -99,8 +99,8 @@ For a complete list, see the full spreadsheet below:
 | **[CCMSI](http://www.ccmsi.com)** | **[Launch Your Career: Liability Adjuster Training Program](https://jobright.ai/jobs/info/669a657eccbc474c18d0b00f?utm_source=1055&utm_campaign=git)** | Scottsdale, AZ | On Site | Jul 16 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Contractor - SkillBridge - Legal Counsel Intern](https://jobright.ai/jobs/info/669a4fb82885e142e98ded63?utm_source=1055&utm_campaign=git)** | St Petersburg, FL | On Site | Jul 16 |
 | **[Visio Lending](http://www.visiolending.com)** | **[Remote Quality Control Specialist (Internal Applicants Only)](https://jobright.ai/jobs/info/669648d788909d4f15a4d99a?utm_source=1055&utm_campaign=git)** | United States | Remote | Jul 16 |
-| **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Fall 2024](https://jobright.ai/jobs/info/66963cd37e1560ca41b59a1d?utm_source=1055&utm_campaign=git)** | Cincinnati, OH | Hybrid | Jul 16 |
-| ↳ | **[Regulatory Research Fall Intern](https://jobright.ai/jobs/info/668c2984dbe1aedcdfe00d3d?utm_source=1055&utm_campaign=git)** | Cincinnati, OH | Hybrid | Jul 16 |
+| **[Medpace](http://www.medpace.com)** | **[Regulatory Research Fall Intern](https://jobright.ai/jobs/info/669632a3ffb716512c2a9f6e?utm_source=1055&utm_campaign=git)** | Cincinnati, OH | Hybrid | Jul 16 |
+| ↳ | **[Site Contracts Intern- Fall 2024](https://jobright.ai/jobs/info/66963cd37e1560ca41b59a1d?utm_source=1055&utm_campaign=git)** | Cincinnati, OH | Hybrid | Jul 16 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2024 Intern - Legal (Sports)](https://jobright.ai/jobs/info/6696d3cac0a71c4cec7f4da7?utm_source=1055&utm_campaign=git)** | New York, NY, USA | On Site | Jul 16 |
 | **[OSM Worldwide](http://osmworldwide.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6695c99d9b6af7aab94a6769?utm_source=1055&utm_campaign=git)** | Glendale Heights, IL | On Site | Jul 15 |
 | **[Rockefeller Capital Management](https://www.rockco.com/)** | **[Summer Analyst - Trust Company Delaware](https://jobright.ai/jobs/info/6691dee7e5dddfa7eaabd2a6?utm_source=1055&utm_campaign=git)** | Wilmington, DE | On Site | Jul 15 |
@@ -138,6 +138,4 @@ For a complete list, see the full spreadsheet below:
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Risk Summer 2025 Analyst](https://jobright.ai/jobs/info/665b20399ff4d1b04c4c825d?utm_source=1055&utm_campaign=git)** | New York, NY | On Site | Jul 14 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[Assurance - Intern (Metairie)](https://jobright.ai/jobs/info/663333d208d7f5837f92607a?utm_source=1055&utm_campaign=git)** | Metairie, LA | On Site | Jul 14 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Ethics, Compliance, and Privacy](https://jobright.ai/jobs/info/667633cfe272243dcd4f65af?utm_source=1055&utm_campaign=git)** | Plainsboro, NJ | On Site | Jul 14 |
-| **[Law Offices of Jonathan Liang](http://lianglaw.com)** | **[Legal Assistant](https://jobright.ai/jobs/info/669325da7913836ede8b2e76?utm_source=1055&utm_campaign=git)** | Los Angeles County, CA | On Site | Jul 14 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern (Unpaid)](https://jobright.ai/jobs/info/6690d3922ee59534c58d0725?utm_source=1055&utm_campaign=git)** | Elizabeth, NJ | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
