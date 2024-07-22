@@ -57,6 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Law Clerk PRN](https://jobright.ai/jobs/info/669e436c7102b7b2bcf213fa?utm_source=1055&utm_campaign=git)** | Altamonte Springs, FL | On Site | Jul 22 |
+| **[Cooley](http://www.cooley.com)** | **[2025 Summer Associate – Cyber/Data/Privacy](https://jobright.ai/jobs/info/665922c0dc30f127d7d723f8?utm_source=1055&utm_campaign=git)** | Chicago, IL | Hybrid | Jul 21 |
 | **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/667ef5b756ec5703ba0425b8?utm_source=1055&utm_campaign=git)** | Boston, MA | Hybrid | Jul 20 |
 | **[Syncfusion](https://www.syncfusion.com/)** | **[Paralegal Intern](https://jobright.ai/jobs/info/667f0ac2936892b2c2c78e78?utm_source=1055&utm_campaign=git)** | Morrisville, NC | Hybrid | Jul 20 |
 | **[SES](http://www.ses.com)** | **[Internship - Regulatory](https://jobright.ai/jobs/info/6686a811d4be2b4f08f25742?utm_source=1055&utm_campaign=git)** | Washington, DC | Hybrid | Jul 20 |
@@ -76,10 +78,10 @@ For a complete list, see the full spreadsheet below:
 | **[Cooley](http://www.cooley.com)** | **[2025 Summer Associate – Cyber/Data/Privacy](https://jobright.ai/jobs/info/669a5e496b08a5b9f5cc4069?utm_source=1055&utm_campaign=git)** | San Francisco, CA | On Site | Jul 18 |
 | ↳ | **[2025 Summer Associate – Business Restructuring](https://jobright.ai/jobs/info/665922b7dc30f127d7d723e7?utm_source=1055&utm_campaign=git)** | New York, United States | On Site | Jul 18 |
 | **[Steinger, Greene & Feiner](https://www.injurylawyers.com)** | **[Intern](https://jobright.ai/jobs/info/6699130016b6f5b434a48473?utm_source=1055&utm_campaign=git)** | Nashville, TN | On Site | Jul 18 |
+| **[Winston & Strawn LLP](https://www.winston.com)** | **[Dallas Office - 2025 2L Transactions Summer Associate](https://jobright.ai/jobs/info/6677d2db97271e26801e3596?utm_source=1055&utm_campaign=git)** | Dallas, TX | On Site | Jul 18 |
 | **[Vedder Price](http://www.vedderprice.com)** | **[2025 2L Diversity & Inclusion Scholarship, Litigation (Chicago, IL; Dallas, TX)](https://jobright.ai/jobs/info/6643ffcd09ed325d7081b07a?utm_source=1055&utm_campaign=git)** | Greater Chicago Area | On Site | Jul 18 |
 | **[RWE](https://www.group.rwe/)** | **[Stagiaire Regulatory & Real Estate Law H/F](https://jobright.ai/jobs/info/6642af65835255a01738311d?utm_source=1055&utm_campaign=git)** | San Diego, CA | On Site | Jul 18 |
 | **[Sony](http://www.sony.net)** | **[Legal Intern](https://jobright.ai/jobs/info/667c83cf72fe6297b8f5e2ed?utm_source=1055&utm_campaign=git)** | New York, United States | On Site | Jul 18 |
-| **[Winston & Strawn LLP](https://www.winston.com)** | **[Dallas Office - 2025 2L Transactions Summer Associate](https://jobright.ai/jobs/info/6675b060242bc4c930f29c83?utm_source=1055&utm_campaign=git)** | Dallas, TX | On Site | Jul 18 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Legal Intern (various divisions)](https://jobright.ai/jobs/info/6675a72c6fb7d4bb72dd6e6f?utm_source=1055&utm_campaign=git)** | Cape May, NJ | Hybrid | Jul 18 |
 | **[Marshall, Gerstein & Borun LLP](http://marshallip.com)** | **[2025 IP Law Summer Associate](https://jobright.ai/jobs/info/6698429275958df8e7de6208?utm_source=1055&utm_campaign=git)** | United States | Remote | Jul 17 |
 | **[Rocket Companies](https://www.rocketcompanies.com)** | **[Enterprise Risk Management Intern - Fall 2024](https://jobright.ai/jobs/info/6698074c428a720637bda22c?utm_source=1055&utm_campaign=git)** | Detroit, MI | On Site | Jul 17 |
@@ -101,9 +103,8 @@ For a complete list, see the full spreadsheet below:
 | **[Hightower, Stratton, Novigrod & Kantor](https://www.hightowerlaw.net/)** | **[Law Clerk](https://jobright.ai/jobs/info/6672ef7d09fa87accf6a43a2?utm_source=1055&utm_campaign=git)** | West Palm Beach, FL | On Site | Jul 16 |
 | **[CCMSI](http://www.ccmsi.com)** | **[Launch Your Career: Liability Adjuster Training Program](https://jobright.ai/jobs/info/669a657eccbc474c18d0b00f?utm_source=1055&utm_campaign=git)** | Scottsdale, AZ | On Site | Jul 16 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Contractor - SkillBridge - Legal Counsel Intern](https://jobright.ai/jobs/info/669a4fb82885e142e98ded63?utm_source=1055&utm_campaign=git)** | St Petersburg, FL | On Site | Jul 16 |
-| **[Visio Lending](http://www.visiolending.com)** | **[Remote Quality Control Specialist (Internal Applicants Only)](https://jobright.ai/jobs/info/669648d788909d4f15a4d99a?utm_source=1055&utm_campaign=git)** | United States | Remote | Jul 16 |
 | **[Medpace](http://www.medpace.com)** | **[Regulatory Research Fall Intern](https://jobright.ai/jobs/info/669632a3ffb716512c2a9f6e?utm_source=1055&utm_campaign=git)** | Cincinnati, OH | Hybrid | Jul 16 |
-| ↳ | **[Site Contracts Intern- Fall 2024](https://jobright.ai/jobs/info/668c05498044ac76a5c828be?utm_source=1055&utm_campaign=git)** | Cincinnati, OH | Hybrid | Jul 16 |
+| ↳ | **[Site Contracts Intern- Fall 2024](https://jobright.ai/jobs/info/66963cd37e1560ca41b59a1d?utm_source=1055&utm_campaign=git)** | Cincinnati, OH | Hybrid | Jul 16 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2024 Intern - Legal (Sports)](https://jobright.ai/jobs/info/6696d3cac0a71c4cec7f4da7?utm_source=1055&utm_campaign=git)** | New York, NY, USA | On Site | Jul 16 |
 | **[OSM Worldwide](http://osmworldwide.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6695c99d9b6af7aab94a6769?utm_source=1055&utm_campaign=git)** | Glendale Heights, IL | On Site | Jul 15 |
 | **[Rockefeller Capital Management](https://www.rockco.com/)** | **[Summer Analyst - Trust Company Delaware](https://jobright.ai/jobs/info/6691dee7e5dddfa7eaabd2a6?utm_source=1055&utm_campaign=git)** | Wilmington, DE | On Site | Jul 15 |
