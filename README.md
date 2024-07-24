@@ -57,6 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Maryland](https://jobapscloud.com/MD/)** | **[Graduate Student/Law Student Externship STUDENT TECHNICAL ASSISTANT-Unpaid](https://jobright.ai/jobs/info/66a0ab9e352fb17b61cdc114?utm_source=1055&utm_campaign=git)** | Maryland, United States | On Site | Jul 24 |
+| **[Ohio Attorney General](https://www.ohioattorneygeneral.gov)** | **[Law Clerk- Criminal Justice](https://jobright.ai/jobs/info/66a02a9683fe12fc9f1d45f7?utm_source=1055&utm_campaign=git)** | Columbus, OH | On Site | Jul 24 |
 | **[Shook,Hardy & Bacon](http://www.shb.com)** | **[Legal Administrative Assistant Intern](https://jobright.ai/jobs/info/66a06a264d2690087dea3e0e?utm_source=1055&utm_campaign=git)** | Irvine, CA | On Site | Jul 24 |
 | **[Expert Institute](https://expertinstitute.com/)** | **[Research Intern](https://jobright.ai/jobs/info/66a041600b66118039603dde?utm_source=1055&utm_campaign=git)** | Milwaukee, WI | On Site | Jul 23 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Spring 2025 Legal Externship – Washington, DC Regional Office](https://jobright.ai/jobs/info/66a04be8a71c376ac310e86f?utm_source=1055&utm_campaign=git)** | United States | Hybrid | Jul 23 |
@@ -66,11 +68,13 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Spring 2025 Legal Externship – California Regional Office](https://jobright.ai/jobs/info/66a07218dd8dd72972770542?utm_source=1055&utm_campaign=git)** | United States | Hybrid | Jul 23 |
 | ↳ | **[Spring 2025 Legal Externship – Biodiversity Defense Program](https://jobright.ai/jobs/info/66a053c36d940e38156200ad?utm_source=1055&utm_campaign=git)** | United States | Hybrid | Jul 23 |
 | ↳ | **[Spring 2025 Legal Externship – Northern Rockies Regional Office](https://jobright.ai/jobs/info/66a053c36d940e38156200b4?utm_source=1055&utm_campaign=git)** | United States | Hybrid | Jul 23 |
-| ↳ | **[Spring 2025 Legal Externship – International Program](https://jobright.ai/jobs/info/66a042d6419140b73defa4da?utm_source=1055&utm_campaign=git)** | United States | Hybrid | Jul 23 |
+| **[Children's Law Center of California](https://www.clccal.org/)** | **[LAW INTERN](https://jobright.ai/jobs/info/669ba4f7570252d0306ef433?utm_source=1055&utm_campaign=git)** | Monterey Park, CA | On Site | Jul 23 |
+| **[Earthjustice](http://earthjustice.org/)** | **[Spring 2025 Legal Externship – International Program](https://jobright.ai/jobs/info/66a042d6419140b73defa4da?utm_source=1055&utm_campaign=git)** | United States | Hybrid | Jul 23 |
+| ↳ | **[Spring 2025 Legal Externship – Puerto Rico Team](https://jobright.ai/jobs/info/66a0b3ad716fe1907112f85a?utm_source=1055&utm_campaign=git)** | United States | Hybrid | Jul 23 |
 | **[Federal Deposit Insurance Corporation](https://fdic.gov)** | **[Student Trainee (Legal), CG-0999-7/9 (NTE 1 year)](https://jobright.ai/jobs/info/6694f662f8f235777dbf9a13?utm_source=1055&utm_campaign=git)** | Dallas, TX | On Site | Jul 23 |
 | ↳ | **[Student Trainee (Legal), CG-0999-7/9 (NTE 1 year)](https://jobright.ai/jobs/info/6694f662f8f235777dbf9a12?utm_source=1055&utm_campaign=git)** | Washington, DC | On Site | Jul 23 |
 | ↳ | **[Student Trainee (Legal), CG-0999-7/9 (NTE 1 year)](https://jobright.ai/jobs/info/6694f2ee76a573c60b93d205?utm_source=1055&utm_campaign=git)** | Arlington County, VA | On Site | Jul 23 |
-| **[Ohio Attorney General](https://www.ohioattorneygeneral.gov)** | **[Law Clerk- Criminal Justice](https://jobright.ai/jobs/info/66a02a9683fe12fc9f1d45f7?utm_source=1055&utm_campaign=git)** | Columbus, OH | On Site | Jul 23 |
+| **[CMG Worldwide](https://www.cmgworldwide.com/)** | **[Legal Externship](https://jobright.ai/jobs/info/66a0792ef493ff248a6034ba?utm_source=1055&utm_campaign=git)** | Beverly Hills, CA | On Site | Jul 23 |
 | **[ACLU Pennsylvania](https://www.aclupa.org/)** | **[Fall 2024 Legal Extern - 2L or 3L](https://jobright.ai/jobs/info/66a004217f05eedcfa5784ca?utm_source=1055&utm_campaign=git)** | Pennsylvania, United States | On Site | Jul 23 |
 | **[Thompson Coburn LLP](http://www.thompsoncoburn.com)** | **[SWIC Practice Area Apprenticeship (Paralegal)](https://jobright.ai/jobs/info/6677e275783a239da8418475?utm_source=1055&utm_campaign=git)** | St Louis, MO | On Site | Jul 23 |
 | **[Universal Property & Casualty Insurance Company](http://universalproperty.com/)** | **[Summer Law Clerk Internship](https://jobright.ai/jobs/info/66a00ad0c9e198ff4fdf7f06?utm_source=1055&utm_campaign=git)** | Fort Lauderdale, FL | On Site | Jul 23 |
@@ -105,7 +109,7 @@ For a complete list, see the full spreadsheet below:
 | **[Vedder Price](http://www.vedderprice.com)** | **[2025 2L Diversity & Inclusion Scholarship, Transactional Rotation (Chicago, IL)](https://jobright.ai/jobs/info/667592f2bad9224db7bb6a2f?utm_source=1055&utm_campaign=git)** | Greater Chicago Area | On Site | Jul 19 |
 | **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/669a3815e55bbac49cf08cb0?utm_source=1055&utm_campaign=git)** | Providence, RI | Hybrid | Jul 19 |
 | ↳ | **[Fall Legal Intern](https://jobright.ai/jobs/info/669a3815e55bbac49cf08cc3?utm_source=1055&utm_campaign=git)** | Orlando, FL | Hybrid | Jul 19 |
-| **[Office of the Special Narcotics Prosecutor for the City of New York](http://www.snpnyc.org)** | **[Law Fellow Position](https://jobright.ai/jobs/info/668fc164d472624446c99f8c?utm_source=1055&utm_campaign=git)** | New York, NY | On Site | Jul 19 |
+| **[Office of the Special Narcotics Prosecutor for the City of New York](http://www.snpnyc.org)** | **[Law Fellow Position](https://jobright.ai/jobs/info/668fe96b2fc5ba37662c5a00?utm_source=1055&utm_campaign=git)** | New York, NY | On Site | Jul 19 |
 | **[Medpace](http://www.medpace.com)** | **[Legal Clerkship (Part-Time)](https://jobright.ai/jobs/info/6699dceec86005e645e335c4?utm_source=1055&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 19 |
 | **[Cooley](http://www.cooley.com)** | **[2025 Summer Associate – Business Restructuring](https://jobright.ai/jobs/info/665922b7dc30f127d7d723e7?utm_source=1055&utm_campaign=git)** | New York, United States | On Site | Jul 18 |
 | **[Vedder Price](http://www.vedderprice.com)** | **[2025 2L Diversity & Inclusion Scholarship, Litigation (Chicago, IL; Dallas, TX)](https://jobright.ai/jobs/info/6643ffcd09ed325d7081b07a?utm_source=1055&utm_campaign=git)** | Greater Chicago Area | On Site | Jul 18 |
@@ -120,7 +124,4 @@ For a complete list, see the full spreadsheet below:
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Digital Rights Intern](https://jobright.ai/jobs/info/6697b3279d866742adc558e8?utm_source=1055&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 17 |
 | **[Shook,Hardy & Bacon](http://www.shb.com)** | **[Legal Administrative Assistant Intern](https://jobright.ai/jobs/info/6697ab1daa30cb60b00b6836?utm_source=1055&utm_campaign=git)** | San Francisco, CA | On Site | Jul 17 |
 | **[Systems Planning and Analysis](http://www.spa.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/665ef478ba39aaeb7d3278ec?utm_source=1055&utm_campaign=git)** | Alexandria, VA | On Site | Jul 17 |
-| **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/665a04fd844831dbde0c49b9?utm_source=1055&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 17 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer Law Clerk 2025 (LEGAL)](https://jobright.ai/jobs/info/667b0a7eb4d737a87d6e7f7f?utm_source=1055&utm_campaign=git)** | Washington, DC | On Site | Jul 17 |
-| **[Folx Health](https://www.folxhealth.com)** | **[Legal Intern - Fall 2024](https://jobright.ai/jobs/info/66975a57ab5f4878de7f81bf?utm_source=1055&utm_campaign=git)** | Boston, MA | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
