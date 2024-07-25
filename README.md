@@ -57,15 +57,24 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ANKIN LAW](http://www.ankinlaw.com)** | **[Law Clerk](https://jobright.ai/jobs/info/66a187898153b6c68fde5702?utm_source=1055&utm_campaign=git)** | Chicago, IL | On Site | Jul 24 |
+| **[Fairview Investment Services](https://fairviewinvest.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/66a18af3886017c169bb0251?utm_source=1055&utm_campaign=git)** | Raleigh, NC | On Site | Jul 24 |
+| **[Cooley](http://www.cooley.com)** | **[2025 Summer Associate – Labor & Employment](https://jobright.ai/jobs/info/66a16b525533323038bf9860?utm_source=1055&utm_campaign=git)** | Washington, DC | On Site | Jul 24 |
+| **[Enhesa](http://www.enhesa.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/66a148e753ccbd09bfe38050?utm_source=1055&utm_campaign=git)** | Arlington, VA | On Site | Jul 24 |
+| **[Kutak Rock](http://www.kutakrock.com)** | **[2025 Summer Associate](https://jobright.ai/jobs/info/66a13e96bfb37f3f681f0458?utm_source=1055&utm_campaign=git)** | Rogers, AR | On Site | Jul 24 |
+| **[Lawyers' Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2024 Fall Legal Intern](https://jobright.ai/jobs/info/66a12805a9e645a4a890080f?utm_source=1055&utm_campaign=git)** | Washington, DC | Hybrid | Jul 24 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Law Clerk (Intern) - The Toro Company](https://jobright.ai/jobs/info/66a0eaa2e19c90b42235fdea?utm_source=1055&utm_campaign=git)** | Bloomington, MN | On Site | Jul 24 |
 | **[YMCA of Greater Boston](https://ymcaboston.org/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6684801854017d3eb190d666?utm_source=1055&utm_campaign=git)** | Boston, MA | On Site | Jul 24 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2024 Intern - Legal (Music)](https://jobright.ai/jobs/info/66848d9ef77b2c8f7053f25d?utm_source=1055&utm_campaign=git)** | New York, NY | On Site | Jul 24 |
 | **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/6666e664f6a2ab22eec0be49?utm_source=1055&utm_campaign=git)** | United States | Remote | Jul 24 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2024 Intern - Legal (Music)](https://jobright.ai/jobs/info/668489b42ca14dafe69a1a0d?utm_source=1055&utm_campaign=git)** | New York, NY | On Site | Jul 24 |
-| **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/66a0d5f4d9fc500e9dc36a12?utm_source=1055&utm_campaign=git)** | San Diego, CA | On Site | Jul 24 |
+| **[Nexteer Automotive](http://www.nexteer.com/)** | **[Intellectual Property Counsel Internship 2024](https://jobright.ai/jobs/info/666730aa0686fc19e65074da?utm_source=1055&utm_campaign=git)** | Auburn Hills, MI | Hybrid | Jul 24 |
 | **[State of Maryland](https://jobapscloud.com/MD/)** | **[Graduate Student/Law Student Externship STUDENT TECHNICAL ASSISTANT-Unpaid](https://jobright.ai/jobs/info/66a0ab9e352fb17b61cdc114?utm_source=1055&utm_campaign=git)** | Maryland, United States | On Site | Jul 24 |
 | **[Cooley](http://www.cooley.com)** | **[2025 Summer Associate – Business Restructuring](https://jobright.ai/jobs/info/665922b7dc30f127d7d723ef?utm_source=1055&utm_campaign=git)** | Washington, DC | On Site | Jul 24 |
 | **[Ohio Attorney General](https://www.ohioattorneygeneral.gov)** | **[Law Clerk- Criminal Justice](https://jobright.ai/jobs/info/66a02a9683fe12fc9f1d45f7?utm_source=1055&utm_campaign=git)** | Columbus, OH | On Site | Jul 24 |
 | **[Shook,Hardy & Bacon](http://www.shb.com)** | **[Legal Administrative Assistant Intern](https://jobright.ai/jobs/info/66a06a264d2690087dea3e0e?utm_source=1055&utm_campaign=git)** | Irvine, CA | On Site | Jul 24 |
+| **[C-hit](https://www.c-hit.com/index.html)** | **[Intern - Case clerk](https://jobright.ai/jobs/info/66a16e292178a46615cb32a8?utm_source=1055&utm_campaign=git)** | Columbia, MD | On Site | Jul 24 |
+| **[CASES](https://www.cases.org)** | **[Court Advocate Intern](https://jobright.ai/jobs/info/66a180be137a029884e5ab29?utm_source=1055&utm_campaign=git)** | Brooklyn, NY | On Site | Jul 24 |
 | **[Expert Institute](https://expertinstitute.com/)** | **[Research Intern](https://jobright.ai/jobs/info/66a041600b66118039603dde?utm_source=1055&utm_campaign=git)** | Milwaukee, WI | On Site | Jul 23 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Spring 2025 Legal Externship – Washington, DC Regional Office](https://jobright.ai/jobs/info/66a04be8a71c376ac310e86f?utm_source=1055&utm_campaign=git)** | United States | Hybrid | Jul 23 |
 | ↳ | **[Spring 2025 Legal Externship – Community Partnerships Program](https://jobright.ai/jobs/info/66a04be8a71c376ac310e87a?utm_source=1055&utm_campaign=git)** | United States | Hybrid | Jul 23 |
@@ -112,9 +121,9 @@ For a complete list, see the full spreadsheet below:
 | **[Nixon Peabody](http://www.nixonpeabody.com/)** | **[2025 Summer Associate - Intellectual Property](https://jobright.ai/jobs/info/6661366d8688219a39075a84?utm_source=1055&utm_campaign=git)** | Chicago, IL | On Site | Jul 19 |
 | **[Jackson Lewis P.C.](http://www.jacksonlewis.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/6643b01cbb19244e57d23245?utm_source=1055&utm_campaign=git)** | Boston, MA | On Site | Jul 19 |
 | **[Vedder Price](http://www.vedderprice.com)** | **[2025 2L Diversity & Inclusion Scholarship, Transactional Rotation (Chicago, IL)](https://jobright.ai/jobs/info/667592f2bad9224db7bb6a2f?utm_source=1055&utm_campaign=git)** | Greater Chicago Area | On Site | Jul 19 |
-| **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/669a3815e55bbac49cf08cb0?utm_source=1055&utm_campaign=git)** | Providence, RI | Hybrid | Jul 19 |
-| ↳ | **[Fall Legal Intern](https://jobright.ai/jobs/info/669a3815e55bbac49cf08cc3?utm_source=1055&utm_campaign=git)** | Orlando, FL | Hybrid | Jul 19 |
-| **[Office of the Special Narcotics Prosecutor for the City of New York](http://www.snpnyc.org)** | **[Law Fellow Position](https://jobright.ai/jobs/info/668fe25a569bdda61a5669ac?utm_source=1055&utm_campaign=git)** | New York, NY | On Site | Jul 19 |
+| **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/669a3815e55bbac49cf08cc3?utm_source=1055&utm_campaign=git)** | Orlando, FL | Hybrid | Jul 19 |
+| ↳ | **[Fall Legal Intern](https://jobright.ai/jobs/info/669a3815e55bbac49cf08cb0?utm_source=1055&utm_campaign=git)** | Providence, RI | Hybrid | Jul 19 |
+| **[Office of the Special Narcotics Prosecutor for the City of New York](http://www.snpnyc.org)** | **[Law Fellow Position](https://jobright.ai/jobs/info/668fc164d472624446c99f8a?utm_source=1055&utm_campaign=git)** | New York, NY | On Site | Jul 19 |
 | **[Medpace](http://www.medpace.com)** | **[Legal Clerkship (Part-Time)](https://jobright.ai/jobs/info/6699dceec86005e645e335c4?utm_source=1055&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 19 |
 | **[Cooley](http://www.cooley.com)** | **[2025 Summer Associate – Business Restructuring](https://jobright.ai/jobs/info/665922b7dc30f127d7d723e7?utm_source=1055&utm_campaign=git)** | New York, United States | On Site | Jul 18 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[Dallas Office - 2025 2L Transactions Summer Associate](https://jobright.ai/jobs/info/6677d2db97271e26801e3596?utm_source=1055&utm_campaign=git)** | Dallas, TX | On Site | Jul 18 |
@@ -122,8 +131,4 @@ For a complete list, see the full spreadsheet below:
 | **[RWE](https://www.group.rwe/)** | **[Stagiaire Regulatory & Real Estate Law H/F](https://jobright.ai/jobs/info/6642af65835255a01738311d?utm_source=1055&utm_campaign=git)** | San Diego, CA | On Site | Jul 18 |
 | **[Sony](http://www.sony.net)** | **[Legal Intern](https://jobright.ai/jobs/info/667c83cf72fe6297b8f5e2ed?utm_source=1055&utm_campaign=git)** | New York, United States | On Site | Jul 18 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Legal Intern (various divisions)](https://jobright.ai/jobs/info/6675a72c6fb7d4bb72dd6e6f?utm_source=1055&utm_campaign=git)** | Cape May, NJ | Hybrid | Jul 18 |
-| **[Marshall, Gerstein & Borun LLP](http://marshallip.com)** | **[2025 IP Law Summer Associate](https://jobright.ai/jobs/info/6698429275958df8e7de6208?utm_source=1055&utm_campaign=git)** | United States | Remote | Jul 17 |
-| **[Rocket Companies](https://www.rocketcompanies.com)** | **[Enterprise Risk Management Intern - Fall 2024](https://jobright.ai/jobs/info/6698074c428a720637bda22c?utm_source=1055&utm_campaign=git)** | Detroit, MI | On Site | Jul 17 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern (Fall 2024)](https://jobright.ai/jobs/info/66920fa75f4e680a67db141f?utm_source=1055&utm_campaign=git)** | Richmond, VA | On Site | Jul 17 |
-| **[St. Croix Hospice](http://stcroixhospice.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6697f307ce942828e55edb85?utm_source=1055&utm_campaign=git)** | Oakdale, MN | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
