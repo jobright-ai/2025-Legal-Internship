@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[7G Environmental Compliance Management](https://7g-enviro.com/)** | **[Compliance Analyst Intern or Part Time](https://jobright.ai/jobs/info/66a1a0a4f9d25010fae4c226?utm_source=1055&utm_campaign=git)** | Tallahassee, FL | On Site | Jul 24 |
 | **[ANKIN LAW](http://www.ankinlaw.com)** | **[Law Clerk](https://jobright.ai/jobs/info/66a187898153b6c68fde5702?utm_source=1055&utm_campaign=git)** | Chicago, IL | On Site | Jul 24 |
 | **[Fairview Investment Services](https://fairviewinvest.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/66a18af3886017c169bb0251?utm_source=1055&utm_campaign=git)** | Raleigh, NC | On Site | Jul 24 |
 | **[Cooley](http://www.cooley.com)** | **[2025 Summer Associate – Labor & Employment](https://jobright.ai/jobs/info/66a16b525533323038bf9860?utm_source=1055&utm_campaign=git)** | Washington, DC | On Site | Jul 24 |
@@ -116,15 +117,15 @@ For a complete list, see the full spreadsheet below:
 | **[Syncfusion](https://www.syncfusion.com/)** | **[Paralegal Intern](https://jobright.ai/jobs/info/667f0ac2936892b2c2c78e78?utm_source=1055&utm_campaign=git)** | Morrisville, NC | Hybrid | Jul 20 |
 | **[SES](http://www.ses.com)** | **[Internship - Regulatory](https://jobright.ai/jobs/info/6686a811d4be2b4f08f25742?utm_source=1055&utm_campaign=git)** | Washington, DC | Hybrid | Jul 20 |
 | **[Burns White](https://burnswhite.com/)** | **[3L Part time Law Clerk – West Conshohocken, PA](https://jobright.ai/jobs/info/669aa2dc7c95987868d8389a?utm_source=1055&utm_campaign=git)** | Conshohocken, PA | On Site | Jul 19 |
-| **[KeyBank](https://www.key.com)** | **[2025 Summer Risk Management Internship Program - Cleveland](https://jobright.ai/jobs/info/669aa2dc7c95987868d838b9?utm_source=1055&utm_campaign=git)** | Cleveland, OH | On Site | Jul 19 |
 | **[Russo & Toner LLP](https://www.russotoner.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/669a66650088606983c64847?utm_source=1055&utm_campaign=git)** | Buffalo, NY | On Site | Jul 19 |
 | **[Nixon Peabody](http://www.nixonpeabody.com/)** | **[2025 Summer Associate - Intellectual Property](https://jobright.ai/jobs/info/6661366d8688219a39075a84?utm_source=1055&utm_campaign=git)** | Chicago, IL | On Site | Jul 19 |
 | **[Jackson Lewis P.C.](http://www.jacksonlewis.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/6643b01cbb19244e57d23245?utm_source=1055&utm_campaign=git)** | Boston, MA | On Site | Jul 19 |
 | **[Vedder Price](http://www.vedderprice.com)** | **[2025 2L Diversity & Inclusion Scholarship, Transactional Rotation (Chicago, IL)](https://jobright.ai/jobs/info/667592f2bad9224db7bb6a2f?utm_source=1055&utm_campaign=git)** | Greater Chicago Area | On Site | Jul 19 |
-| **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/669a3815e55bbac49cf08cc3?utm_source=1055&utm_campaign=git)** | Orlando, FL | Hybrid | Jul 19 |
-| ↳ | **[Fall Legal Intern](https://jobright.ai/jobs/info/669a3815e55bbac49cf08cb0?utm_source=1055&utm_campaign=git)** | Providence, RI | Hybrid | Jul 19 |
-| **[Office of the Special Narcotics Prosecutor for the City of New York](http://www.snpnyc.org)** | **[Law Fellow Position](https://jobright.ai/jobs/info/668fc164d472624446c99f8a?utm_source=1055&utm_campaign=git)** | New York, NY | On Site | Jul 19 |
+| **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/669a3815e55bbac49cf08cb0?utm_source=1055&utm_campaign=git)** | Providence, RI | Hybrid | Jul 19 |
+| ↳ | **[Fall Legal Intern](https://jobright.ai/jobs/info/669a3815e55bbac49cf08cc3?utm_source=1055&utm_campaign=git)** | Orlando, FL | Hybrid | Jul 19 |
+| **[Office of the Special Narcotics Prosecutor for the City of New York](http://www.snpnyc.org)** | **[Law Fellow Position](https://jobright.ai/jobs/info/668fc164d472624446c99f7c?utm_source=1055&utm_campaign=git)** | New York, NY | On Site | Jul 19 |
 | **[Medpace](http://www.medpace.com)** | **[Legal Clerkship (Part-Time)](https://jobright.ai/jobs/info/6699dceec86005e645e335c4?utm_source=1055&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 19 |
+| **[KeyBank](https://www.key.com)** | **[2025 Summer Risk Management Internship Program - Cleveland](https://jobright.ai/jobs/info/669aca1c578612e3a1a1b5c0?utm_source=1055&utm_campaign=git)** | Cleveland, OH | On Site | Jul 19 |
 | **[Cooley](http://www.cooley.com)** | **[2025 Summer Associate – Business Restructuring](https://jobright.ai/jobs/info/665922b7dc30f127d7d723e7?utm_source=1055&utm_campaign=git)** | New York, United States | On Site | Jul 18 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[Dallas Office - 2025 2L Transactions Summer Associate](https://jobright.ai/jobs/info/6677d2db97271e26801e3596?utm_source=1055&utm_campaign=git)** | Dallas, TX | On Site | Jul 18 |
 | **[Vedder Price](http://www.vedderprice.com)** | **[2025 2L Diversity & Inclusion Scholarship, Litigation (Chicago, IL; Dallas, TX)](https://jobright.ai/jobs/info/6643ffcd09ed325d7081b07a?utm_source=1055&utm_campaign=git)** | Greater Chicago Area | On Site | Jul 18 |
