@@ -57,6 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Minnesota State Board of Investment](https://mn.gov/sbi/)** | **[Law Student Worker](https://jobright.ai/jobs/info/66a3a5c1c3f6a01b72d3ba4f?utm_campaign=1055&utm_source=git)** | St Paul, MN | On Site | Jul 26 |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[Assurance - Intern Spring 2025 (Baton Rouge)](https://jobright.ai/jobs/info/667597e7ff3b4e0886adaab8?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA | On Site | Jul 26 |
 | **[Chuck E. Cheese](http://chuckecheese.com)** | **[Licensing Internship – Fall](https://jobright.ai/jobs/info/66a35a92945e5cec6b8f79c0?utm_campaign=1055&utm_source=git)** | Irving, TX | Hybrid | Jul 26 |
 | **[Sharebite](http://sharebite.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66a2f4ee66a78c16dec90d4d?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jul 25 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Student Office Associate - Office of University Counsel](https://jobright.ai/jobs/info/66a2f50166a78c16dec90f0d?utm_campaign=1055&utm_source=git)** | Richmond, KY | On Site | Jul 25 |
@@ -124,6 +126,4 @@ For a complete list, see the full spreadsheet below:
 | **[Syncfusion](https://www.syncfusion.com/)** | **[Paralegal Intern](https://jobright.ai/jobs/info/667f0ac2936892b2c2c78e78?utm_campaign=1055&utm_source=git)** | Morrisville, NC | Hybrid | Jul 20 |
 | **[SES](http://www.ses.com)** | **[Internship - Regulatory](https://jobright.ai/jobs/info/6686a811d4be2b4f08f25742?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 20 |
 | **[Burns White](https://burnswhite.com/)** | **[3L Part time Law Clerk – West Conshohocken, PA](https://jobright.ai/jobs/info/669aa2dc7c95987868d8389a?utm_campaign=1055&utm_source=git)** | Conshohocken, PA | On Site | Jul 19 |
-| **[Russo & Toner LLP](https://www.russotoner.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/669a66650088606983c64847?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Jul 19 |
-| **[Nixon Peabody](http://www.nixonpeabody.com/)** | **[2025 Summer Associate - Intellectual Property](https://jobright.ai/jobs/info/6661366d8688219a39075a84?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
