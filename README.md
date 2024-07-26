@@ -127,4 +127,10 @@ For a complete list, see the full spreadsheet below:
 | **[SES](http://www.ses.com)** | **[Internship - Regulatory](https://jobright.ai/jobs/info/6686a811d4be2b4f08f25742?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 20 |
 | **[Burns White](https://burnswhite.com/)** | **[3L Part time Law Clerk – West Conshohocken, PA](https://jobright.ai/jobs/info/669aa2dc7c95987868d8389a?utm_campaign=1055&utm_source=git)** | Conshohocken, PA | On Site | Jul 19 |
 | **[KeyBank](https://www.key.com)** | **[2025 Summer Risk Management Internship Program - Cleveland](https://jobright.ai/jobs/info/669aa2dc7c95987868d838b9?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Jul 19 |
+| **[Russo & Toner LLP](https://www.russotoner.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/669a66650088606983c64847?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Jul 19 |
+| **[Nixon Peabody](http://www.nixonpeabody.com/)** | **[2025 Summer Associate - Intellectual Property](https://jobright.ai/jobs/info/6661366d8688219a39075a84?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jul 19 |
+| **[Jackson Lewis P.C.](http://www.jacksonlewis.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/6643b01cbb19244e57d23245?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jul 19 |
+| **[Vedder Price](http://www.vedderprice.com)** | **[2025 2L Diversity & Inclusion Scholarship, Transactional Rotation (Chicago, IL)](https://jobright.ai/jobs/info/667592f2bad9224db7bb6a2f?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | On Site | Jul 19 |
+| **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/669a3815e55bbac49cf08cb0?utm_campaign=1055&utm_source=git)** | Providence, RI | Hybrid | Jul 19 |
+| ↳ | **[Fall Legal Intern](https://jobright.ai/jobs/info/669a3815e55bbac49cf08cc3?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
