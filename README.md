@@ -57,13 +57,23 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[2025 Risk Specialist Intern](https://jobright.ai/jobs/info/66a4240df9dc8ad9b2c8daca?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jul 26 |
+| **[Foundation for Defense of Democracies](https://www.fdd.org/)** | **[FALL 2024 Legal Internship with Lawfare Program](https://jobright.ai/jobs/info/66a428e0fa09ee0c5722aaaa?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jul 26 |
+| **[ValMark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/66a3ef2a87fb29a0df318dc7?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Jul 26 |
+| **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Contracts Intern D (Salt Lake City, UT)](https://jobright.ai/jobs/info/66a42aae878605eeeff98026?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Jul 26 |
+| **[Bremer Whyte Brown & O'Meara](https://bremerwhyte.com/)** | **[Law Clerk- Fall 2024](https://jobright.ai/jobs/info/66a3e878b020465e7d35ce3f?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jul 26 |
+| **[Campaign for the Fair Sentencing of Youth](http://cfsy.org/hire-ican)** | **[Legal Research Assistant](https://jobright.ai/jobs/info/66a3c9f655a005da42ef5480?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 26 |
+| **[Eckberg Lammers](https://eckberglammers.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/66a3b1b3cc8f335cd486c142?utm_campaign=1055&utm_source=git)** | Stillwater, MN | On Site | Jul 26 |
 | **[Minnesota State Board of Investment](https://mn.gov/sbi/)** | **[Law Student Worker](https://jobright.ai/jobs/info/66a3a5c1c3f6a01b72d3ba4f?utm_campaign=1055&utm_source=git)** | St Paul, MN | On Site | Jul 26 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[Assurance - Intern Spring 2025 (Baton Rouge)](https://jobright.ai/jobs/info/667597e7ff3b4e0886adaab8?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA | On Site | Jul 26 |
 | **[Chuck E. Cheese](http://chuckecheese.com)** | **[Licensing Internship – Fall](https://jobright.ai/jobs/info/66a35a92945e5cec6b8f79c0?utm_campaign=1055&utm_source=git)** | Irving, TX | Hybrid | Jul 26 |
+| **[Chubb](https://www.chubb.com/us-en)** | **[Law Clerk](https://jobright.ai/jobs/info/66a40ca294590a418d6254d2?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jul 26 |
+| **[Indiana Legal Services](https://www.indianalegalservices.org/)** | **[Legal Internship (Fall 2024)](https://jobright.ai/jobs/info/66a436b8493688faecdc8dde?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Jul 26 |
 | **[Sharebite](http://sharebite.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66a2f4ee66a78c16dec90d4d?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jul 25 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Student Office Associate - Office of University Counsel](https://jobright.ai/jobs/info/66a2f50166a78c16dec90f0d?utm_campaign=1055&utm_source=git)** | Richmond, KY | On Site | Jul 25 |
 | **[White and Williams LLP](http://www.whiteandwilliams.com)** | **[Law Clerk - Subrogation](https://jobright.ai/jobs/info/66a2c4b93b534eca8d58b47c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Jul 25 |
 | **[Akin Gump](https://www.akingump.com/)** | **[Intern (Regulatory)](https://jobright.ai/jobs/info/66a2bb87f2f4972269576519?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 25 |
+| **[United Supermarkets](http://www.unitedtexas.com/)** | **[Compliance/Nutrition Intern](https://jobright.ai/jobs/info/66a3e17afa1e56eccb8f54ce?utm_campaign=1055&utm_source=git)** | Lubbock, TX | On Site | Jul 25 |
 | **[Vernis & Bowling](https://www.national-law.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/66a28377eba8f49c259e050c?utm_campaign=1055&utm_source=git)** | St Petersburg, FL | Hybrid | Jul 25 |
 | ↳ | **[Litigation Law Clerk](https://jobright.ai/jobs/info/66a278c51cd865f3973485f2?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Jul 25 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Special Investigations Intern, Corporate – Fall 2024](https://jobright.ai/jobs/info/66a278ce1cd865f3973486e1?utm_campaign=1055&utm_source=git)** | Culver City, CA | On Site | Jul 25 |
@@ -76,8 +86,8 @@ For a complete list, see the full spreadsheet below:
 | **[Fairview Investment Services](https://fairviewinvest.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/66a18af3886017c169bb0251?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Jul 24 |
 | **[Enhesa](http://www.enhesa.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/66a148e753ccbd09bfe38050?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Jul 24 |
 | **[Kutak Rock](http://www.kutakrock.com)** | **[2025 Summer Associate](https://jobright.ai/jobs/info/66a13e96bfb37f3f681f0458?utm_campaign=1055&utm_source=git)** | Rogers, AR | On Site | Jul 24 |
+| **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/66a3e1cdfa1e56eccb8f5b27?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jul 24 |
 | **[Lawyers' Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2024 Fall Legal Intern](https://jobright.ai/jobs/info/66a12805a9e645a4a890080f?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 24 |
-| **[Cooley](http://www.cooley.com)** | **[2025 Summer Associate – Business Restructuring](https://jobright.ai/jobs/info/66a24af29a00a2533986dd1d?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jul 24 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Law Clerk (Intern) - The Toro Company](https://jobright.ai/jobs/info/66a0eaa2e19c90b42235fdea?utm_campaign=1055&utm_source=git)** | Bloomington, MN | On Site | Jul 24 |
 | **[YMCA of Greater Boston](https://ymcaboston.org/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6684801854017d3eb190d666?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jul 24 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2024 Intern - Legal (Music)](https://jobright.ai/jobs/info/66848d9ef77b2c8f7053f25d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 24 |
@@ -102,10 +112,10 @@ For a complete list, see the full spreadsheet below:
 | **[Federal Deposit Insurance Corporation](https://fdic.gov)** | **[Student Trainee (Legal), CG-0999-7/9 (NTE 1 year)](https://jobright.ai/jobs/info/6694f662f8f235777dbf9a13?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jul 23 |
 | ↳ | **[Student Trainee (Legal), CG-0999-7/9 (NTE 1 year)](https://jobright.ai/jobs/info/6694f662f8f235777dbf9a12?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jul 23 |
 | ↳ | **[Student Trainee (Legal), CG-0999-7/9 (NTE 1 year)](https://jobright.ai/jobs/info/6694f2ee76a573c60b93d205?utm_campaign=1055&utm_source=git)** | Arlington County, VA | On Site | Jul 23 |
-| **[CMG Worldwide](https://www.cmgworldwide.com/)** | **[Legal Externship](https://jobright.ai/jobs/info/66a0792ef493ff248a6034ba?utm_campaign=1055&utm_source=git)** | Beverly Hills, CA | On Site | Jul 23 |
 | **[ACLU Pennsylvania](https://www.aclupa.org/)** | **[Fall 2024 Legal Extern - 2L or 3L](https://jobright.ai/jobs/info/66a004217f05eedcfa5784ca?utm_campaign=1055&utm_source=git)** | Pennsylvania, United States | On Site | Jul 23 |
 | **[Thompson Coburn LLP](http://www.thompsoncoburn.com)** | **[SWIC Practice Area Apprenticeship (Paralegal)](https://jobright.ai/jobs/info/6677e275783a239da8418475?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Jul 23 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Affairs Intern, SPT – Fall 2024](https://jobright.ai/jobs/info/669fe8c2e7a91c490018add4?utm_campaign=1055&utm_source=git)** | Culver City, CA | On Site | Jul 23 |
+| **[Legal Aid Society](https://www.lasnny.org/)** | **[Law Clerk Opportunities Fall 2024](https://jobright.ai/jobs/info/66a3f4ed5fcbfa8457ce1571?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Jul 23 |
 | **[Maryland Legal Aid](https://www.mdlab.org)** | **[Law Clerk (Fall 2024 & Spring 2025)](https://jobright.ai/jobs/info/669a89d0f84b499eedb4936b?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Jul 23 |
 | **[IINE](https://iine.org/)** | **[[Fall 2024] Shelter Services Legal Intern, IINE Lowell](https://jobright.ai/jobs/info/6671ac54a068d83e65cbbdb3?utm_campaign=1055&utm_source=git)** | Lowell, MA | On Site | Jul 23 |
 | **[Comcast](http://corporate.comcast.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66a063fbb7c3431a09f4e19d?utm_campaign=1055&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Jul 23 |
@@ -125,5 +135,4 @@ For a complete list, see the full spreadsheet below:
 | **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/667ef5b756ec5703ba0425b8?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jul 20 |
 | **[Syncfusion](https://www.syncfusion.com/)** | **[Paralegal Intern](https://jobright.ai/jobs/info/667f0ac2936892b2c2c78e78?utm_campaign=1055&utm_source=git)** | Morrisville, NC | Hybrid | Jul 20 |
 | **[SES](http://www.ses.com)** | **[Internship - Regulatory](https://jobright.ai/jobs/info/6686a811d4be2b4f08f25742?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 20 |
-| **[Burns White](https://burnswhite.com/)** | **[3L Part time Law Clerk – West Conshohocken, PA](https://jobright.ai/jobs/info/669aa2dc7c95987868d8389a?utm_campaign=1055&utm_source=git)** | Conshohocken, PA | On Site | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
