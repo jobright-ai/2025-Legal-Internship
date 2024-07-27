@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSAA Insurance Group](https://csaa-insurance.aaa.com)** | **[Paralegal Intern (Sacramento, CA) - Hybrid](https://jobright.ai/jobs/info/66a4bd3cf2e58f82384d70d7?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jul 27 |
 | **[Amazon](https://amazon.com)** | **[2025 Risk Specialist Intern](https://jobright.ai/jobs/info/66a4240df9dc8ad9b2c8daca?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jul 26 |
 | **[Foundation for Defense of Democracies](https://www.fdd.org/)** | **[FALL 2024 Legal Internship with Lawfare Program](https://jobright.ai/jobs/info/66a428e0fa09ee0c5722aaaa?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jul 26 |
 | **[ValMark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/66a3ef2a87fb29a0df318dc7?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Jul 26 |
@@ -135,5 +136,4 @@ For a complete list, see the full spreadsheet below:
 | **[Greenberg Traurig](http://www.gtlaw.com/)** | **[Summer Associate - 2025](https://jobright.ai/jobs/info/669ec29a155221b6e18e9b46?utm_campaign=1055&utm_source=git)** | Phoenix | On Site | Jul 22 |
 | **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/667ef5b756ec5703ba0425b8?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jul 20 |
 | **[Syncfusion](https://www.syncfusion.com/)** | **[Paralegal Intern](https://jobright.ai/jobs/info/667f0ac2936892b2c2c78e78?utm_campaign=1055&utm_source=git)** | Morrisville, NC | Hybrid | Jul 20 |
-| **[SES](http://www.ses.com)** | **[Internship - Regulatory](https://jobright.ai/jobs/info/6686a811d4be2b4f08f25742?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
