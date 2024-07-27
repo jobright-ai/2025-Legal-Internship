@@ -65,6 +65,7 @@ For a complete list, see the full spreadsheet below:
 | **[Campaign for the Fair Sentencing of Youth](http://cfsy.org/hire-ican)** | **[Legal Research Assistant](https://jobright.ai/jobs/info/66a3c9f655a005da42ef5480?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Eckberg Lammers](https://eckberglammers.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/66a3b1b3cc8f335cd486c142?utm_campaign=1055&utm_source=git)** | Stillwater, MN | On Site | Jul 26 |
 | **[Minnesota State Board of Investment](https://mn.gov/sbi/)** | **[Law Student Worker](https://jobright.ai/jobs/info/66a3a5c1c3f6a01b72d3ba4f?utm_campaign=1055&utm_source=git)** | St Paul, MN | On Site | Jul 26 |
+| **[K&L Gates LLP](http://www.klgates.com/)** | **[2025 Seattle 2L IP Summer Associate](https://jobright.ai/jobs/info/664de07b0790ade97e15e8a8?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jul 26 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[Assurance - Intern Spring 2025 (Baton Rouge)](https://jobright.ai/jobs/info/667597e7ff3b4e0886adaab8?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA | On Site | Jul 26 |
 | **[Chuck E. Cheese](http://chuckecheese.com)** | **[Licensing Internship – Fall](https://jobright.ai/jobs/info/66a35a92945e5cec6b8f79c0?utm_campaign=1055&utm_source=git)** | Irving, TX | Hybrid | Jul 26 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Law Clerk](https://jobright.ai/jobs/info/66a40ca294590a418d6254d2?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jul 26 |
