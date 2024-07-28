@@ -106,8 +106,8 @@ For a complete list, see the full spreadsheet below:
 | **[Expert Institute](https://expertinstitute.com/)** | **[Research Intern](https://jobright.ai/jobs/info/66a041600b66118039603dde?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Jul 23 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Spring 2025 Legal Externship – Washington, DC Regional Office](https://jobright.ai/jobs/info/66a04be8a71c376ac310e86f?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
 | ↳ | **[Spring 2025 Legal Externship – Community Partnerships Program](https://jobright.ai/jobs/info/66a04be8a71c376ac310e87a?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
-| ↳ | **[Spring 2025 Legal Externship – Clean Energy Program](https://jobright.ai/jobs/info/66a04be8a71c376ac310e874?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
 | ↳ | **[Spring 2025 Legal Externship – Northeast Regional Office](https://jobright.ai/jobs/info/66a04be8a71c376ac310e87e?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
+| ↳ | **[Spring 2025 Legal Externship – Clean Energy Program](https://jobright.ai/jobs/info/66a04be8a71c376ac310e874?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
 | ↳ | **[Spring 2025 Legal Externship – California Regional Office](https://jobright.ai/jobs/info/66a07218dd8dd72972770542?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
 | ↳ | **[Spring 2025 Legal Externship – Biodiversity Defense Program](https://jobright.ai/jobs/info/66a053c36d940e38156200ad?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
 | ↳ | **[Spring 2025 Legal Externship – Northern Rockies Regional Office](https://jobright.ai/jobs/info/66a053c36d940e38156200b4?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
