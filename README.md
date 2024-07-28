@@ -57,7 +57,6 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal and Compliance Department COO Office Intern](https://jobright.ai/jobs/info/66a573d60ba9f1877c192ea2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 27 |
 | **[Rockefeller Capital Management](https://www.rockco.com/)** | **[Summer Analyst - Business Supervision & Controls](https://jobright.ai/jobs/info/6691c77d55fdc8d51c7e450b?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Jul 26 |
 | **[Amazon](https://amazon.com)** | **[2025 Risk Specialist Intern](https://jobright.ai/jobs/info/66a4240df9dc8ad9b2c8daca?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jul 26 |
 | **[Oregon Health & Science University](http://www.ohsu.edu/)** | **[SHW Compliance Student Worker](https://jobright.ai/jobs/info/6674862d1cdb1fdbb8e5591a?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Jul 26 |
