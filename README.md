@@ -57,7 +57,10 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal and Compliance Department COO Office Intern](https://jobright.ai/jobs/info/66a573d60ba9f1877c192ea2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 27 |
+| **[Rockefeller Capital Management](https://www.rockco.com/)** | **[Summer Analyst - Business Supervision & Controls](https://jobright.ai/jobs/info/6691c77d55fdc8d51c7e450b?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Jul 26 |
 | **[Amazon](https://amazon.com)** | **[2025 Risk Specialist Intern](https://jobright.ai/jobs/info/66a4240df9dc8ad9b2c8daca?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jul 26 |
+| **[Oregon Health & Science University](http://www.ohsu.edu/)** | **[SHW Compliance Student Worker](https://jobright.ai/jobs/info/6674862d1cdb1fdbb8e5591a?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Jul 26 |
 | **[Foundation for Defense of Democracies](https://www.fdd.org/)** | **[FALL 2024 Legal Internship with Lawfare Program](https://jobright.ai/jobs/info/66a428e0fa09ee0c5722aaaa?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jul 26 |
 | **[ValMark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/66a3ef2a87fb29a0df318dc7?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Jul 26 |
 | **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Contracts Intern D (Salt Lake City, UT)](https://jobright.ai/jobs/info/66a42aae878605eeeff98026?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Jul 26 |
@@ -134,6 +137,4 @@ For a complete list, see the full spreadsheet below:
 | **[State of Florida](http://www.myflorida.com)** | **[REGULATORY SPECIALIST II - 42005596 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/66a0de6428125a716783e41c?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Jul 22 |
 | **[Jackson Lewis P.C.](http://www.jacksonlewis.com)** | **[Summer Associate](https://jobright.ai/jobs/info/669f00705f98b7af6efac3d6?utm_campaign=1055&utm_source=git)** | US - TX - Dallas | On Site | Jul 22 |
 | **[Greenberg Traurig](http://www.gtlaw.com/)** | **[Summer Associate - 2025](https://jobright.ai/jobs/info/669ec29a155221b6e18e9b46?utm_campaign=1055&utm_source=git)** | Phoenix | On Site | Jul 22 |
-| **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/667ef5b756ec5703ba0425b8?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jul 20 |
-| **[Syncfusion](https://www.syncfusion.com/)** | **[Paralegal Intern](https://jobright.ai/jobs/info/667f0ac2936892b2c2c78e78?utm_campaign=1055&utm_source=git)** | Morrisville, NC | Hybrid | Jul 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
