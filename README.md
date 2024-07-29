@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSAA Insurance Group](https://csaa-insurance.aaa.com)** | **[Paralegal Intern (Sacramento, CA) - Hybrid](https://jobright.ai/jobs/info/66a662775a569aeb6479557a?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jul 27 |
 | **[Rockefeller Capital Management](https://www.rockco.com/)** | **[Summer Analyst - Business Supervision & Controls](https://jobright.ai/jobs/info/6691c77d55fdc8d51c7e450b?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Jul 26 |
 | **[Amazon](https://amazon.com)** | **[2025 Risk Specialist Intern](https://jobright.ai/jobs/info/66a4240df9dc8ad9b2c8daca?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jul 26 |
 | **[Oregon Health & Science University](http://www.ohsu.edu/)** | **[SHW Compliance Student Worker](https://jobright.ai/jobs/info/6674862d1cdb1fdbb8e5591a?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Jul 26 |
@@ -120,6 +121,7 @@ For a complete list, see the full spreadsheet below:
 | **[ACLU Pennsylvania](https://www.aclupa.org/)** | **[Fall 2024 Legal Extern - 2L or 3L](https://jobright.ai/jobs/info/66a004217f05eedcfa5784ca?utm_campaign=1055&utm_source=git)** | Pennsylvania, United States | On Site | Jul 23 |
 | **[Thompson Coburn LLP](http://www.thompsoncoburn.com)** | **[SWIC Practice Area Apprenticeship (Paralegal)](https://jobright.ai/jobs/info/6677e275783a239da8418475?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Jul 23 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Affairs Intern, SPT – Fall 2024](https://jobright.ai/jobs/info/669fe8c2e7a91c490018add4?utm_campaign=1055&utm_source=git)** | Culver City, CA | On Site | Jul 23 |
+| **[Legal Aid Society](https://www.lasnny.org/)** | **[Law Clerk Opportunities Fall 2024](https://jobright.ai/jobs/info/66a6694f1e973f6ef3a4dcf4?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Jul 23 |
 | **[Maryland Legal Aid](https://www.mdlab.org)** | **[Law Clerk (Fall 2024 & Spring 2025)](https://jobright.ai/jobs/info/669a89d0f84b499eedb4936b?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Jul 23 |
 | **[IINE](https://iine.org/)** | **[[Fall 2024] Shelter Services Legal Intern, IINE Lowell](https://jobright.ai/jobs/info/6671ac54a068d83e65cbbdb3?utm_campaign=1055&utm_source=git)** | Lowell, MA | On Site | Jul 23 |
 | **[Comcast](http://corporate.comcast.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66a063fbb7c3431a09f4e19d?utm_campaign=1055&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Jul 23 |
@@ -134,6 +136,4 @@ For a complete list, see the full spreadsheet below:
 | **[CCMSI](http://www.ccmsi.com)** | **[Multi-Line Claim Associate I LevelUP- P&C](https://jobright.ai/jobs/info/669e8cc70a6fdfaac9d5d9b1?utm_campaign=1055&utm_source=git)** | Maitland, FL | On Site | Jul 22 |
 | **[RESICAP](http://www.resicap.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/669e803a3f732b1a49b78868?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jul 22 |
 | **[State of Florida](http://www.myflorida.com)** | **[REGULATORY SPECIALIST II - 42005596 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/66a0de6428125a716783e41c?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Jul 22 |
-| **[Jackson Lewis P.C.](http://www.jacksonlewis.com)** | **[Summer Associate](https://jobright.ai/jobs/info/669f00705f98b7af6efac3d6?utm_campaign=1055&utm_source=git)** | US - TX - Dallas | On Site | Jul 22 |
-| **[Greenberg Traurig](http://www.gtlaw.com/)** | **[Summer Associate - 2025](https://jobright.ai/jobs/info/669ec29a155221b6e18e9b46?utm_campaign=1055&utm_source=git)** | Phoenix | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
