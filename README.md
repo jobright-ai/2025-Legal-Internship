@@ -57,9 +57,21 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Civil Liberties Union](http://www.aclu.org)** | **[Legal Internship, Women's Rights Project (Fall 2024)](https://jobright.ai/jobs/info/66a79bc8ebe6c214d1e355a9?utm_campaign=1055&utm_source=git)** | NYC Metro Area | On Site | Jul 29 |
+| ↳ | **[Legal Internship, State Supreme Court Initiative (Fall 2024)](https://jobright.ai/jobs/info/66a798cfcd17e79034dc8c55?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 29 |
+| ↳ | **[Legal Internship, Reproductive Freedom (Fall 2024)](https://jobright.ai/jobs/info/66a798cfcd17e79034dc8c74?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Jul 29 |
+| ↳ | **[Legal Intern, Racial Justice Program (Fall 2024)](https://jobright.ai/jobs/info/66a79586b9cb705e2bb221fa?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Jul 29 |
+| ↳ | **[Legal Internship, National Prison Project (Fall 2024)](https://jobright.ai/jobs/info/66a79586b9cb705e2bb22211?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 29 |
+| ↳ | **[Legal Internship, Disability Rights (Fall 2024)](https://jobright.ai/jobs/info/66a79586b9cb705e2bb22221?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Jul 29 |
+| ↳ | **[Legal Intern, Criminal Law Reform (Fall 2024)](https://jobright.ai/jobs/info/66a798cfcd17e79034dc8ca1?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Jul 29 |
+| ↳ | **[Legal Intern, Capital Punishment Program (Fall 2024)](https://jobright.ai/jobs/info/66a798cfcd17e79034dc8caa?utm_campaign=1055&utm_source=git)** | Durham, NC | Hybrid | Jul 29 |
+| ↳ | **[Legal Intern, Abortion Criminal Defense Initiative](https://jobright.ai/jobs/info/66a78f886e9d706bd5d5dac5?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 29 |
 | **[USDA Animal and Plant Health Inspection Service](https://www.aphis.usda.gov/aphis/home/)** | **[Student Trainee (Compliance)](https://jobright.ai/jobs/info/66a724cf7dabaa55bd4d4663?utm_campaign=1055&utm_source=git)** | Wingdale, NY | On Site | Jul 29 |
+| **[USDA](https://www.usda.gov/)** | **[Student Trainee (Compliance)](https://jobright.ai/jobs/info/66a781ee1490dbc745e6d430?utm_campaign=1055&utm_source=git)** | Wingdale, NY | On Site | Jul 29 |
+| **[bioMérieux](https://www.biomerieux.com)** | **[Stage - Droit privé des affaires - R&D et Affaires Médicales - F/H/D](https://jobright.ai/jobs/info/669578743bbf45b28ba87e93?utm_campaign=1055&utm_source=git)** | Marcy, IA | On Site | Jul 28 |
+| **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Compliance Associate Program - Summer Associate Opportunity](https://jobright.ai/jobs/info/666cd923b31f9a793b8022ba?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Jul 28 |
 | **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/666b23d3efc55bec90187b14?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Jul 28 |
-| **[CSAA Insurance Group](https://csaa-insurance.aaa.com)** | **[Paralegal Intern (Sacramento, CA) - Hybrid](https://jobright.ai/jobs/info/66a662775a569aeb6479557a?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jul 27 |
+| **[CSAA Insurance Group](https://csaa-insurance.aaa.com)** | **[Paralegal Intern (Sacramento, CA) - Hybrid](https://jobright.ai/jobs/info/66a79320010aab477ad80383?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jul 27 |
 | **[Rockefeller Capital Management](https://www.rockco.com/)** | **[Summer Analyst - Business Supervision & Controls](https://jobright.ai/jobs/info/6691c77d55fdc8d51c7e450b?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Jul 26 |
 | **[Amazon](https://amazon.com)** | **[2025 Risk Specialist Intern](https://jobright.ai/jobs/info/66a4240df9dc8ad9b2c8daca?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jul 26 |
 | **[Oregon Health & Science University](http://www.ohsu.edu/)** | **[SHW Compliance Student Worker](https://jobright.ai/jobs/info/6674862d1cdb1fdbb8e5591a?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Jul 26 |
@@ -137,5 +149,4 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Queens District Attorney’s Office Spring 2025 Legal Internship](https://jobright.ai/jobs/info/668d73801b3deecce70893e9?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 22 |
 | **[CCMSI](http://www.ccmsi.com)** | **[Multi-Line Claim Associate I LevelUP- P&C](https://jobright.ai/jobs/info/669e8cc70a6fdfaac9d5d9b1?utm_campaign=1055&utm_source=git)** | Maitland, FL | On Site | Jul 22 |
 | **[RESICAP](http://www.resicap.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/669e803a3f732b1a49b78868?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jul 22 |
-| **[State of Florida](http://www.myflorida.com)** | **[REGULATORY SPECIALIST II - 42005596 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/66a0de6428125a716783e41c?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
