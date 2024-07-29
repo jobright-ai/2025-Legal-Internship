@@ -57,6 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[USDA Animal and Plant Health Inspection Service](https://www.aphis.usda.gov/aphis/home/)** | **[Student Trainee (Compliance)](https://jobright.ai/jobs/info/66a724cf7dabaa55bd4d4663?utm_campaign=1055&utm_source=git)** | Wingdale, NY | On Site | Jul 29 |
+| **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/666b23d3efc55bec90187b14?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Jul 28 |
 | **[CSAA Insurance Group](https://csaa-insurance.aaa.com)** | **[Paralegal Intern (Sacramento, CA) - Hybrid](https://jobright.ai/jobs/info/66a662775a569aeb6479557a?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jul 27 |
 | **[Rockefeller Capital Management](https://www.rockco.com/)** | **[Summer Analyst - Business Supervision & Controls](https://jobright.ai/jobs/info/6691c77d55fdc8d51c7e450b?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Jul 26 |
 | **[Amazon](https://amazon.com)** | **[2025 Risk Specialist Intern](https://jobright.ai/jobs/info/66a4240df9dc8ad9b2c8daca?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jul 26 |
