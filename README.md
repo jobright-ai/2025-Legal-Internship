@@ -60,7 +60,7 @@ For a complete list, see the full spreadsheet below:
 | **[Munger, Tolles & Olson LLP.](http://www.mto.com)** | **[Munger, Tolles & Olson 2025 3L Pre-Clerkship Summer Associate Position (Los Angeles or San Francisco)](https://jobright.ai/jobs/info/66a840b2e509f93364989d88?utm_campaign=1055&utm_source=git)** | California, United States | Hybrid | Jul 30 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Legal (Conway, AR)](https://jobright.ai/jobs/info/66a8280072eb9b695ae9a854?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Lawyers' Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[Sponsorship for 2025-2027 Externally-Funded Legal Fellowships](https://jobright.ai/jobs/info/66a7e5ea259501eb30bd9750?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jul 29 |
-| **[Novelis](http://novelis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66a7ca29fe3ec3acdcd1f2a3?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Jul 29 |
+| **[Novelis](http://novelis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66a7ca14fe3ec3acdcd1f089?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Jul 29 |
 | **[CSL](https://www.csl.com)** | **[2024 Summer Legal Internship (US)](https://jobright.ai/jobs/info/66a7bb2bba6f19b98f6ff0cd?utm_campaign=1055&utm_source=git)** | King of Prussia, PA | On Site | Jul 29 |
 | **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/66a7b82af163910b4186f00a?utm_campaign=1055&utm_source=git)** | Northern, VA | Hybrid | Jul 29 |
 | **[EPGD Business Law](http://www.epgdlaw.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66a7a69d2efd028a197f22b2?utm_campaign=1055&utm_source=git)** | Coral Gables, FL | On Site | Jul 29 |
@@ -79,7 +79,7 @@ For a complete list, see the full spreadsheet below:
 | **[CSL](https://www.csl.com)** | **[2024 Summer Legal Internship (US)](https://jobright.ai/jobs/info/66a7acd1ed2bfa1c4f836484?utm_campaign=1055&utm_source=git)** | Americas, US-PA, King of Prussia, CSL Behring | On Site | Jul 29 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[Stage - Droit privé des affaires - R&D et Affaires Médicales - F/H/D](https://jobright.ai/jobs/info/669578743bbf45b28ba87e93?utm_campaign=1055&utm_source=git)** | Marcy, IA | On Site | Jul 28 |
 | **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/666b23d3efc55bec90187b14?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Jul 28 |
-| **[CSAA Insurance Group](https://csaa-insurance.aaa.com)** | **[Paralegal Intern (Sacramento, CA) - Hybrid](https://jobright.ai/jobs/info/66a662775a569aeb6479557a?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jul 27 |
+| **[CSAA Insurance Group](https://csaa-insurance.aaa.com)** | **[Paralegal Intern (Sacramento, CA) - Hybrid](https://jobright.ai/jobs/info/66a79320010aab477ad80383?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jul 27 |
 | **[Rockefeller Capital Management](https://www.rockco.com/)** | **[Summer Analyst - Business Supervision & Controls](https://jobright.ai/jobs/info/6691c77d55fdc8d51c7e450b?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Jul 26 |
 | **[Amazon](https://amazon.com)** | **[2025 Risk Specialist Intern](https://jobright.ai/jobs/info/66a4240df9dc8ad9b2c8daca?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jul 26 |
 | **[Foundation for Defense of Democracies](https://www.fdd.org/)** | **[FALL 2024 Legal Internship with Lawfare Program](https://jobright.ai/jobs/info/66a428e0fa09ee0c5722aaaa?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jul 26 |
@@ -125,8 +125,8 @@ For a complete list, see the full spreadsheet below:
 | **[Expert Institute](https://expertinstitute.com/)** | **[Research Intern](https://jobright.ai/jobs/info/66a041600b66118039603dde?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Jul 23 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Spring 2025 Legal Externship – Washington, DC Regional Office](https://jobright.ai/jobs/info/66a04be8a71c376ac310e86f?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
 | ↳ | **[Spring 2025 Legal Externship – Community Partnerships Program](https://jobright.ai/jobs/info/66a04be8a71c376ac310e87a?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
-| ↳ | **[Spring 2025 Legal Externship – Clean Energy Program](https://jobright.ai/jobs/info/66a04be8a71c376ac310e874?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
 | ↳ | **[Spring 2025 Legal Externship – Northeast Regional Office](https://jobright.ai/jobs/info/66a04be8a71c376ac310e87e?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
+| ↳ | **[Spring 2025 Legal Externship – Clean Energy Program](https://jobright.ai/jobs/info/66a04be8a71c376ac310e874?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
 | ↳ | **[Spring 2025 Legal Externship – California Regional Office](https://jobright.ai/jobs/info/66a07218dd8dd72972770542?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
 | ↳ | **[Spring 2025 Legal Externship – Biodiversity Defense Program](https://jobright.ai/jobs/info/66a053c36d940e38156200ad?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
 | ↳ | **[Spring 2025 Legal Externship – Northern Rockies Regional Office](https://jobright.ai/jobs/info/66a053c36d940e38156200b4?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
@@ -140,5 +140,4 @@ For a complete list, see the full spreadsheet below:
 | **[Thompson Coburn LLP](http://www.thompsoncoburn.com)** | **[SWIC Practice Area Apprenticeship (Paralegal)](https://jobright.ai/jobs/info/6677e275783a239da8418475?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Jul 23 |
 | **[Legal Aid Society](https://www.lasnny.org/)** | **[Law Clerk Opportunities Fall 2024](https://jobright.ai/jobs/info/66a6694f1e973f6ef3a4dcf4?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Jul 23 |
 | **[Maryland Legal Aid](https://www.mdlab.org)** | **[Law Clerk (Fall 2024 & Spring 2025)](https://jobright.ai/jobs/info/669a89d0f84b499eedb4936b?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Jul 23 |
-| **[IINE](https://iine.org/)** | **[[Fall 2024] Shelter Services Legal Intern, IINE Lowell](https://jobright.ai/jobs/info/6671ac54a068d83e65cbbdb3?utm_campaign=1055&utm_source=git)** | Lowell, MA | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
