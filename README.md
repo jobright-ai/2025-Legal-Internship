@@ -57,9 +57,9 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Munger, Tolles & Olson LLP.](http://www.mto.com)** | **[Munger, Tolles & Olson 2025 3L Pre-Clerkship Summer Associate Position (Los Angeles or San Francisco)](https://jobright.ai/jobs/info/66a840b2e509f93364989d88?utm_campaign=1055&utm_source=git)** | California, United States | Hybrid | Jul 30 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Legal (Conway, AR)](https://jobright.ai/jobs/info/66a8280072eb9b695ae9a854?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Lawyers' Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[Sponsorship for 2025-2027 Externally-Funded Legal Fellowships](https://jobright.ai/jobs/info/66a7e5ea259501eb30bd9750?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jul 29 |
-| **[Cooley](http://www.cooley.com)** | **[2025 Summer Associate – Business Restructuring](https://jobright.ai/jobs/info/665922b7dc30f127d7d723e7?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jul 29 |
 | **[Novelis](http://novelis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66a7ca29fe3ec3acdcd1f2a3?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Jul 29 |
 | **[CSL](https://www.csl.com)** | **[2024 Summer Legal Internship (US)](https://jobright.ai/jobs/info/66a7bb2bba6f19b98f6ff0cd?utm_campaign=1055&utm_source=git)** | King of Prussia, PA | On Site | Jul 29 |
 | **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/66a7b82af163910b4186f00a?utm_campaign=1055&utm_source=git)** | Northern, VA | Hybrid | Jul 29 |
@@ -79,10 +79,9 @@ For a complete list, see the full spreadsheet below:
 | **[CSL](https://www.csl.com)** | **[2024 Summer Legal Internship (US)](https://jobright.ai/jobs/info/66a7acd1ed2bfa1c4f836484?utm_campaign=1055&utm_source=git)** | Americas, US-PA, King of Prussia, CSL Behring | On Site | Jul 29 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[Stage - Droit privé des affaires - R&D et Affaires Médicales - F/H/D](https://jobright.ai/jobs/info/669578743bbf45b28ba87e93?utm_campaign=1055&utm_source=git)** | Marcy, IA | On Site | Jul 28 |
 | **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/666b23d3efc55bec90187b14?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Jul 28 |
-| **[CSAA Insurance Group](https://csaa-insurance.aaa.com)** | **[Paralegal Intern (Sacramento, CA) - Hybrid](https://jobright.ai/jobs/info/66a79320010aab477ad80383?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jul 27 |
+| **[CSAA Insurance Group](https://csaa-insurance.aaa.com)** | **[Paralegal Intern (Sacramento, CA) - Hybrid](https://jobright.ai/jobs/info/66a662775a569aeb6479557a?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jul 27 |
 | **[Rockefeller Capital Management](https://www.rockco.com/)** | **[Summer Analyst - Business Supervision & Controls](https://jobright.ai/jobs/info/6691c77d55fdc8d51c7e450b?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Jul 26 |
 | **[Amazon](https://amazon.com)** | **[2025 Risk Specialist Intern](https://jobright.ai/jobs/info/66a4240df9dc8ad9b2c8daca?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jul 26 |
-| **[Oregon Health & Science University](http://www.ohsu.edu/)** | **[SHW Compliance Student Worker](https://jobright.ai/jobs/info/6674862d1cdb1fdbb8e5591a?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Jul 26 |
 | **[Foundation for Defense of Democracies](https://www.fdd.org/)** | **[FALL 2024 Legal Internship with Lawfare Program](https://jobright.ai/jobs/info/66a428e0fa09ee0c5722aaaa?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jul 26 |
 | **[ValMark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/66a3ef2a87fb29a0df318dc7?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Jul 26 |
 | **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Contracts Intern D (Salt Lake City, UT)](https://jobright.ai/jobs/info/66a42aae878605eeeff98026?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Jul 26 |
@@ -126,8 +125,8 @@ For a complete list, see the full spreadsheet below:
 | **[Expert Institute](https://expertinstitute.com/)** | **[Research Intern](https://jobright.ai/jobs/info/66a041600b66118039603dde?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Jul 23 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Spring 2025 Legal Externship – Washington, DC Regional Office](https://jobright.ai/jobs/info/66a04be8a71c376ac310e86f?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
 | ↳ | **[Spring 2025 Legal Externship – Community Partnerships Program](https://jobright.ai/jobs/info/66a04be8a71c376ac310e87a?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
-| ↳ | **[Spring 2025 Legal Externship – Northeast Regional Office](https://jobright.ai/jobs/info/66a04be8a71c376ac310e87e?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
 | ↳ | **[Spring 2025 Legal Externship – Clean Energy Program](https://jobright.ai/jobs/info/66a04be8a71c376ac310e874?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
+| ↳ | **[Spring 2025 Legal Externship – Northeast Regional Office](https://jobright.ai/jobs/info/66a04be8a71c376ac310e87e?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
 | ↳ | **[Spring 2025 Legal Externship – California Regional Office](https://jobright.ai/jobs/info/66a07218dd8dd72972770542?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
 | ↳ | **[Spring 2025 Legal Externship – Biodiversity Defense Program](https://jobright.ai/jobs/info/66a053c36d940e38156200ad?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
 | ↳ | **[Spring 2025 Legal Externship – Northern Rockies Regional Office](https://jobright.ai/jobs/info/66a053c36d940e38156200b4?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 23 |
