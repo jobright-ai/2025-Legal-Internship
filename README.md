@@ -57,11 +57,15 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Onsite](https://firstonsite.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/66acafc54e96cbae53fb7633?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | Hybrid | Aug 02 |
 | **[Legal Aid Foundation of Los Angeles](https://lafla.org/)** | **[Fall/Spring Semester Law Clerk (Homelessness Prevention Project) – Eviction Defense Center](https://jobright.ai/jobs/info/665b133760515a1092af7b0d?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 02 |
 | **[G2](https://www.g2.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66ac20afed5fab398c720fa2?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 01 |
 | **[Earthjustice](http://earthjustice.org/)** | **[2025 Northern Rockies Regional Office Clerkship](https://jobright.ai/jobs/info/6691bd44fd9555930f1fd918?utm_campaign=1055&utm_source=git)** | Bozeman, MT | On Site | Aug 01 |
 | **[Mars](http://www.mars.com)** | **[Summer 2025 Mars Digital Technologies Assurance & Compliance Undergraduate Internship](https://jobright.ai/jobs/info/66ac20b9ed5fab398c7210b6?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 01 |
 | **[Earthjustice](http://earthjustice.org/)** | **[2025 Mid-Pacific Regional Office Clerkship](https://jobright.ai/jobs/info/6691bd44fd9555930f1fd975?utm_campaign=1055&utm_source=git)** | Honolulu, HI | On Site | Aug 01 |
+| ↳ | **[2025 Rocky Mountain Office Clerkship](https://jobright.ai/jobs/info/6691bd44fd9555930f1fd912?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Aug 01 |
+| ↳ | **[2025 Washington D.C. Office Clerkship](https://jobright.ai/jobs/info/6691bd44fd9555930f1fd91b?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 01 |
+| ↳ | **[2025 California Regional Office Clerkship](https://jobright.ai/jobs/info/6691bd44fd9555930f1fd923?utm_campaign=1055&utm_source=git)** | LA Metro Area | On Site | Aug 01 |
 | ↳ | **[Spring 2025 Legal Externship – Biodiversity Defense Program](https://jobright.ai/jobs/info/66a053c36d940e38156200ad?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 01 |
 | **[Federal Bureau of Prisons](https://www.bop.gov)** | **[DOJ Pathways Internship Program Bureau of Prisons Student Trainee (Accounting Student Trainee)](https://jobright.ai/jobs/info/66abff3c99497e733a8fd801?utm_campaign=1055&utm_source=git)** | Talladega, AL | On Site | Aug 01 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2025 2L Summer Associate / Minneapolis](https://jobright.ai/jobs/info/66abeeb1b86aa56a0a28ef46?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 01 |
@@ -137,5 +141,4 @@ For a complete list, see the full spreadsheet below:
 | **[Campaign for the Fair Sentencing of Youth](http://cfsy.org/hire-ican)** | **[Legal Research Assistant](https://jobright.ai/jobs/info/66a3c9f655a005da42ef5480?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Eckberg Lammers](https://eckberglammers.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/66a3b1b3cc8f335cd486c142?utm_campaign=1055&utm_source=git)** | Stillwater, MN | On Site | Jul 26 |
 | **[Minnesota State Board of Investment](https://mn.gov/sbi/)** | **[Law Student Worker](https://jobright.ai/jobs/info/66ab894f46e166ecf85d9279?utm_campaign=1055&utm_source=git)** | St Paul, MN | On Site | Jul 26 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Special Investigations Intern, Corporate – Fall 2024](https://jobright.ai/jobs/info/66a8c3acbb84026cb575fcfc?utm_campaign=1055&utm_source=git)** | Culver City, CA | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
