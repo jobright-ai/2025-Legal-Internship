@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legal Aid Foundation of Los Angeles](https://lafla.org/)** | **[Fall/Spring Semester Law Clerk (Homelessness Prevention Project) – Eviction Defense Center](https://jobright.ai/jobs/info/665b133760515a1092af7b0d?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 02 |
 | **[G2](https://www.g2.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66ac20afed5fab398c720fa2?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 01 |
 | **[Earthjustice](http://earthjustice.org/)** | **[2025 Northern Rockies Regional Office Clerkship](https://jobright.ai/jobs/info/6691bd44fd9555930f1fd918?utm_campaign=1055&utm_source=git)** | Bozeman, MT | On Site | Aug 01 |
 | **[Mars](http://www.mars.com)** | **[Summer 2025 Mars Digital Technologies Assurance & Compliance Undergraduate Internship](https://jobright.ai/jobs/info/66ac20b9ed5fab398c7210b6?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 01 |
@@ -79,7 +80,7 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[2025 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/66aac7e0edc12acfa4f24be0?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Jul 31 |
 | ↳ | **[2025 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/66aac7e0edc12acfa4f24be3?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Jul 31 |
 | **[Cooley](http://www.cooley.com)** | **[2025 Summer Associate – General Corporate](https://jobright.ai/jobs/info/66abcddca026bd13c33f03bf?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Jul 31 |
-| **[Office of the Special Narcotics Prosecutor for the City of New York](http://www.snpnyc.org)** | **[Law Fellow Position](https://jobright.ai/jobs/info/66abc23e9ec74fd7699e0c07?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
+| **[Office of the Special Narcotics Prosecutor for the City of New York](http://www.snpnyc.org)** | **[Law Fellow Position](https://jobright.ai/jobs/info/66aba0a4b7e89901bcda3b6c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[TAF Education Fund](https://www.taf.org/)** | **[Legal Internship](https://jobright.ai/jobs/info/66a9782e293aa3524f1a1895?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 31 |
 | **[Glendale Fire Department](http://www.glendalefire.gov)** | **[Litigation Intern](https://jobright.ai/jobs/info/66a9e76ca78b021470632a48?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Jul 31 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2025 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2026)](https://jobright.ai/jobs/info/664eb9fb441ecf4d17eb3f0c?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jul 31 |
@@ -95,7 +96,7 @@ For a complete list, see the full spreadsheet below:
 | **[Cohen Law Group](https://itsaboutjustice.law/)** | **[Legal Assistant - Intern *Must be enrolled in Law school](https://jobright.ai/jobs/info/66a9a15996898bdfe7f1fd2f?utm_campaign=1055&utm_source=git)** | Maitland, FL | On Site | Jul 31 |
 | **[Lewis Roca](https://www.lewisroca.com)** | **[2025 Summer Program – Litigation Summer Associate](https://jobright.ai/jobs/info/66a975e2d2079536e4032dac?utm_campaign=1055&utm_source=git)** | LV Metro Area | On Site | Jul 30 |
 | **[BeiGene](https://www.beigene.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/66a96ce6f2b25adb8b8dc6d8?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 30 |
-| **[Office of the Special Narcotics Prosecutor for the City of New York](http://www.snpnyc.org)** | **[Law Fellow Position](https://jobright.ai/jobs/info/66aa631a795e4e07631ab5f4?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 30 |
+| **[Office of the Special Narcotics Prosecutor for the City of New York](http://www.snpnyc.org)** | **[Law Fellow Position](https://jobright.ai/jobs/info/66aa725a53a197412c50fba7?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/66a9647c882c463f27fd1428?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Jul 30 |
 | **[Locke Lord](http://www.lockelord.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66a9623d1cea0f315542a1ef?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jul 30 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Spring 2025 Legal Externship – Northern Rockies Regional Office](https://jobright.ai/jobs/info/66a053c36d940e38156200b4?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 30 |
