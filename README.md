@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Morrison Mahoney LLP](http://morrisonmahoney.com)** | **[Fall Law Clerk - Providence, RI](https://jobright.ai/jobs/info/66adef2dd1b17170381ee0d9?utm_campaign=1055&utm_source=git)** | Providence, RI | On Site | Aug 03 |
 | **[Wizards of the Coast](http://company.wizards.com/)** | **[Extern - Legal (Fall 2024)](https://jobright.ai/jobs/info/66ad6dae9b1a638be2e2c9dd?utm_campaign=1055&utm_source=git)** | Renton, WA | On Site | Aug 02 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern (Fall 2024)](https://jobright.ai/jobs/info/66ad5c92ae93b46df5b90c6d?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | Hybrid | Aug 02 |
 | **[Jewish Family Service of Colorado](http://www.jewishfamilyservice.org)** | **[Policy and Compliance Intern (unpaid)](https://jobright.ai/jobs/info/66ad66b7dfc735b374bed86b?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Aug 02 |
@@ -117,8 +118,8 @@ For a complete list, see the full spreadsheet below:
 | **[Cohen Law Group](https://itsaboutjustice.law/)** | **[Legal Assistant - Intern *Must be enrolled in Law school](https://jobright.ai/jobs/info/66a9a15996898bdfe7f1fd2f?utm_campaign=1055&utm_source=git)** | Maitland, FL | On Site | Jul 31 |
 | **[Lewis Roca](https://www.lewisroca.com)** | **[2025 Summer Program – Litigation Summer Associate](https://jobright.ai/jobs/info/66a975e2d2079536e4032dac?utm_campaign=1055&utm_source=git)** | LV Metro Area | On Site | Jul 30 |
 | **[BeiGene](https://www.beigene.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/66a96ce6f2b25adb8b8dc6d8?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 30 |
+| **[Office of the Special Narcotics Prosecutor for the City of New York](http://www.snpnyc.org)** | **[Law Fellow Position](https://jobright.ai/jobs/info/66aa725a53a197412c50fba7?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/66a9647c882c463f27fd1428?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Jul 30 |
-| **[Office of the Special Narcotics Prosecutor for the City of New York](http://www.snpnyc.org)** | **[Law Fellow Position](https://jobright.ai/jobs/info/66a96ad8ea9c3ebad61dc31d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[Locke Lord](http://www.lockelord.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66a9623d1cea0f315542a1ef?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jul 30 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Spring 2025 Legal Externship – Northern Rockies Regional Office](https://jobright.ai/jobs/info/66a053c36d940e38156200b4?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 30 |
 | **[Sami](https://www.samisaude.com.br)** | **[Estagiário Jurídico](https://jobright.ai/jobs/info/66ad3f8ce234479a32357133?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 30 |
@@ -147,5 +148,5 @@ For a complete list, see the full spreadsheet below:
 | **[USDA](https://www.usda.gov/)** | **[Student Trainee (Compliance)](https://jobright.ai/jobs/info/66a781ee1490dbc745e6d430?utm_campaign=1055&utm_source=git)** | Wingdale, NY | On Site | Jul 29 |
 | **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Compliance Associate Program - Summer Associate Opportunity](https://jobright.ai/jobs/info/66a8d59cd2bf7bd4e40c9def?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Jul 28 |
 | **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/666b23d3efc55bec90187b14?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Jul 28 |
-| **[CSAA Insurance Group](https://csaa-insurance.aaa.com)** | **[Paralegal Intern (Sacramento, CA) - Hybrid](https://jobright.ai/jobs/info/66ad1999849f465eaf1abc9f?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jul 27 |
+| **[CSAA Insurance Group](https://csaa-insurance.aaa.com)** | **[Paralegal Intern (Sacramento, CA) - Hybrid](https://jobright.ai/jobs/info/66a662775a569aeb6479557a?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
