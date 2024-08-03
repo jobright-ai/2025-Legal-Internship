@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First onsite](http://www.firstonsite.ca/)** | **[Part-Time Legal Intern](https://jobright.ai/jobs/info/66ae9ad23d32404f18236d7c?utm_campaign=1055&utm_source=git)** | Englewood, CO | On Site | Aug 03 |
 | **[CapCenter](https://www.capcenter.com)** | **[Real Estate Attorney Intern](https://jobright.ai/jobs/info/66ae509868c5bb05bae47c9b?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Aug 03 |
 | **[City of New York](http://www1.nyc.gov)** | **[Law School Summer (2L) Intern](https://jobright.ai/jobs/info/66ae39f21a7287370e5a90c7?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Aug 03 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/66ae88c9e8c338b0cc615985?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Aug 03 |
@@ -74,7 +75,6 @@ For a complete list, see the full spreadsheet below:
 | **[Safra National Bank of New York](http://www.safra.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/66ad1c4983e3e6458cea89d8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 02 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Office of the General Counsel Fall Internship](https://jobright.ai/jobs/info/66ad05a46177a09daf816f50?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Aug 02 |
 | **[First Onsite](https://firstonsite.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/66ae2d22d635bf4177313458?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Aug 02 |
-| **[Major League Baseball - (MLB)](https://www.mlb.com)** | **[Special Project Coordinator - Legal Intern](https://jobright.ai/jobs/info/66ae2d22d635bf4177313494?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 02 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2025 Corporate Risk Summer Intern Program (Undergraduate) - Early Careers](https://jobright.ai/jobs/info/6690c2225c416734cd1fad58?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Aug 02 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Internship 2025 / Advisory - Forensic, Litigation & Valuation Services Analyst (44636)](https://jobright.ai/jobs/info/66900fd14a77721ba220edd6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 02 |
 | **[Legal Aid Foundation of Los Angeles](https://lafla.org/)** | **[Fall/Spring Semester Law Clerk (Homelessness Prevention Project) – Eviction Defense Center](https://jobright.ai/jobs/info/665b133760515a1092af7b0d?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 02 |
@@ -114,7 +114,7 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[2025 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/66aac7e0edc12acfa4f24be0?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Jul 31 |
 | ↳ | **[2025 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/66aac7e0edc12acfa4f24be3?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Jul 31 |
 | **[Cooley](http://www.cooley.com)** | **[2025 Summer Associate – General Corporate](https://jobright.ai/jobs/info/66abcddca026bd13c33f03bf?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Jul 31 |
-| **[Office of the Special Narcotics Prosecutor for the City of New York](http://www.snpnyc.org)** | **[Law Fellow Position](https://jobright.ai/jobs/info/66acfb72e83096e35e2c7678?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
+| **[Office of the Special Narcotics Prosecutor for the City of New York](http://www.snpnyc.org)** | **[Law Fellow Position](https://jobright.ai/jobs/info/66aba0a4b7e89901bcda3b6c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[TAF Education Fund](https://www.taf.org/)** | **[Legal Internship](https://jobright.ai/jobs/info/66a9782e293aa3524f1a1895?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 31 |
 | **[Glendale Fire Department](http://www.glendalefire.gov)** | **[Litigation Intern](https://jobright.ai/jobs/info/66a9e76ca78b021470632a48?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Jul 31 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2025 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2026)](https://jobright.ai/jobs/info/664eb9fb441ecf4d17eb3f0c?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jul 31 |
