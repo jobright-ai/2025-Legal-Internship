@@ -147,5 +147,5 @@ For a complete list, see the full spreadsheet below:
 | **[USDA](https://www.usda.gov/)** | **[Student Trainee (Compliance)](https://jobright.ai/jobs/info/66a781ee1490dbc745e6d430?utm_campaign=1055&utm_source=git)** | Wingdale, NY | On Site | Jul 29 |
 | **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Compliance Associate Program - Summer Associate Opportunity](https://jobright.ai/jobs/info/66a8d59cd2bf7bd4e40c9def?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Jul 28 |
 | **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/666b23d3efc55bec90187b14?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Jul 28 |
-| **[CSAA Insurance Group](https://csaa-insurance.aaa.com)** | **[Paralegal Intern (Sacramento, CA) - Hybrid](https://jobright.ai/jobs/info/66a662775a569aeb6479557a?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jul 27 |
+| **[CSAA Insurance Group](https://csaa-insurance.aaa.com)** | **[Paralegal Intern (Sacramento, CA) - Hybrid](https://jobright.ai/jobs/info/66ad1999849f465eaf1abc9f?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
