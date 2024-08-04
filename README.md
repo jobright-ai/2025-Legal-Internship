@@ -131,7 +131,7 @@ For a complete list, see the full spreadsheet below:
 | **[Cohen Law Group](https://itsaboutjustice.law/)** | **[Legal Assistant - Intern *Must be enrolled in Law school](https://jobright.ai/jobs/info/66a9a15996898bdfe7f1fd2f?utm_campaign=1055&utm_source=git)** | Maitland, FL | On Site | Jul 31 |
 | **[Lewis Roca](https://www.lewisroca.com)** | **[2025 Summer Program – Litigation Summer Associate](https://jobright.ai/jobs/info/66a975e2d2079536e4032dac?utm_campaign=1055&utm_source=git)** | LV Metro Area | On Site | Jul 30 |
 | **[BeiGene](https://www.beigene.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/66a96ce6f2b25adb8b8dc6d8?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 30 |
-| **[Office of the Special Narcotics Prosecutor for the City of New York](http://www.snpnyc.org)** | **[Law Fellow Position](https://jobright.ai/jobs/info/66aa18f37554ea68c739d933?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 30 |
+| **[Office of the Special Narcotics Prosecutor for the City of New York](http://www.snpnyc.org)** | **[Law Fellow Position](https://jobright.ai/jobs/info/66aa631a795e4e07631ab5f4?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/66a9647c882c463f27fd1428?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Jul 30 |
 | **[Locke Lord](http://www.lockelord.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66a9623d1cea0f315542a1ef?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jul 30 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Spring 2025 Legal Externship – Northern Rockies Regional Office](https://jobright.ai/jobs/info/66a053c36d940e38156200b4?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jul 30 |
@@ -159,5 +159,4 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Legal Intern, Criminal Law Reform (Fall 2024)](https://jobright.ai/jobs/info/66a798cfcd17e79034dc8ca1?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Jul 29 |
 | ↳ | **[Legal Intern, Capital Punishment Program (Fall 2024)](https://jobright.ai/jobs/info/66a798cfcd17e79034dc8caa?utm_campaign=1055&utm_source=git)** | Durham, NC | Hybrid | Jul 29 |
 | **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Compliance Associate Program - Summer Associate Opportunity](https://jobright.ai/jobs/info/66a8d59cd2bf7bd4e40c9def?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Jul 28 |
-| **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/666b23d3efc55bec90187b14?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
