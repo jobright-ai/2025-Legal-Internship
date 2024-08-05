@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[Assurance - Intern (Metairie)](https://jobright.ai/jobs/info/663333d208d7f5837f92607a?utm_campaign=1055&utm_source=git)** | Metairie, LA | On Site | Aug 05 |
 | **[Inland Empire Criminal Defense](https://iecriminaldefense.com/)** | **[Spanish Speaking Legal Assistant - Law School Student Highly Preferred](https://jobright.ai/jobs/info/66af778435ddd6d5f634d9e1?utm_campaign=1055&utm_source=git)** | Ontario, CA | On Site | Aug 04 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2025 2L Litigation Summer Associate (Seattle)](https://jobright.ai/jobs/info/6632962dad5a1e28625a24be?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Aug 04 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2025 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2026)](https://jobright.ai/jobs/info/664e9940f97ff61ecf83c9f4?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 04 |
@@ -138,8 +139,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[2025 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/66aac7e0edc12acfa4f24bde?utm_campaign=1055&utm_source=git)** | Chandler, AZ | On Site | Jul 31 |
 | ↳ | **[2025 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/66aac7e0edc12acfa4f24be0?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Jul 31 |
 | ↳ | **[2025 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/66aac7e0edc12acfa4f24be3?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Jul 31 |
-| **[Office of the Special Narcotics Prosecutor for the City of New York](http://www.snpnyc.org)** | **[Law Fellow Position](https://jobright.ai/jobs/info/66ad375c64077816f328abee?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[Cooley](http://www.cooley.com)** | **[2025 Summer Associate – General Corporate](https://jobright.ai/jobs/info/66abcddca026bd13c33f03bf?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Jul 31 |
+| **[Office of the Special Narcotics Prosecutor for the City of New York](http://www.snpnyc.org)** | **[Law Fellow Position](https://jobright.ai/jobs/info/66acfb72e83096e35e2c7678?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[TAF Education Fund](https://www.taf.org/)** | **[Legal Internship](https://jobright.ai/jobs/info/66a9782e293aa3524f1a1895?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 31 |
 | **[Glendale Fire Department](http://www.glendalefire.gov)** | **[Litigation Intern](https://jobright.ai/jobs/info/66a9e76ca78b021470632a48?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Jul 31 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2025 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2026)](https://jobright.ai/jobs/info/664eb9fb441ecf4d17eb3f0c?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jul 31 |
