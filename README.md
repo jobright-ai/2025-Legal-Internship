@@ -59,10 +59,6 @@ For a complete list, see the full spreadsheet below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[80 Acres Farms](https://www.80acresfarms.com)** | **[Legal Administration Intern (Fall)](https://jobright.ai/jobs/info/66ba9bf7ffde1d9fe7800c3f?utm_campaign=1055&utm_source=git)** | Hamilton, OH | On Site | Aug 12 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Fellow (Fall 2025)](https://jobright.ai/jobs/info/66ba8d94da33b734878cc648?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Aug 12 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/66ba88e36da4c62685f3c5c0?utm_campaign=1055&utm_source=git)** | Multi Location
-Paducah, KY
-Hazard, KY
-Hopkinsville, KY | On Site | Aug 12 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern – Contracts, Legal – Campus 2025](https://jobright.ai/jobs/info/66ba833bb65ad38999d4c3f0?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Aug 12 |
 | **[HMH](https://hmhw.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/66ba9882312155a4ce631e5d?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 12 |
 | **[SRC](https://www.srcinc.com/)** | **[Contracts (Intern - Summer 2025)](https://jobright.ai/jobs/info/66ba833bb65ad38999d4c515?utm_campaign=1055&utm_source=git)** | Multi Location
@@ -85,14 +81,18 @@ Syracuse, New York, United States | On Site | Aug 12 |
 | **[Neighborhood Defender Service](https://neighborhooddefender.org)** | **[Summer 2025 Legal Internship, Family Defense Practice (2Ls only) - NDS Harlem](https://jobright.ai/jobs/info/66b690ffada452a1932b1fd0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 09 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2025 Risk Advisory Intern](https://jobright.ai/jobs/info/66b64ffe157c49d41227d0ca?utm_campaign=1055&utm_source=git)** | Multi Location
 Tysons Corner, VA
-Louisville, KY
-Raleigh, NC
 Chicago, IL
-Tampa, FL
-Charlotte, NC | On Site | Aug 09 |
+Louisville, KY
+Charlotte, NC
+Raleigh, NC
+Tampa, FL | On Site | Aug 09 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2025 (Dallas)](https://jobright.ai/jobs/info/66b781ae2c9f8afa7d5c5974?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Aug 09 |
 | **[Kent, Campa and Kate Incorporated (KCK)](https://www.kckforvets.com/)** | **[Transitioning Veteran Internship - Contract Closeout Support](https://jobright.ai/jobs/info/66b57774ee7ce4d2001564e6?utm_campaign=1055&utm_source=git)** | Fort Belvoir, VA | On Site | Aug 09 |
 | **[Federal Public Defender](https://www.fd.org/)** | **[Paid Summer Legal Intern](https://jobright.ai/jobs/info/66b65b6e788eaf2adbfdbfda?utm_campaign=1055&utm_source=git)** | Las Cruces, NM | On Site | Aug 09 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/66b639e68e5ec9f158f3eeab?utm_campaign=1055&utm_source=git)** | Multi Location
+Hazard, KY
+Paducah, KY
+Hopkinsville, KY | On Site | Aug 09 |
 | **[NYC Taxi and Limousine Commission](http://www.nyc.gov/tlc)** | **[Prosecuting Attorney Interne](https://jobright.ai/jobs/info/66b62cab98a53d5dba754ba2?utm_campaign=1055&utm_source=git)** | All, MO | On Site | Aug 09 |
 | **[Legal Aid Justice Center](https://www.justice4all.org)** | **[Legal Fellowship Sponsorship ( Hybrid )](https://jobright.ai/jobs/info/66b61d07d8f60e2c83948e53?utm_campaign=1055&utm_source=git)** | Falls Church, VA | Hybrid | Aug 09 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Legal Intern (various divisions)](https://jobright.ai/jobs/info/66b9f25a6f6bf0fd76666b81?utm_campaign=1055&utm_source=git)** | Cape May, NJ | Hybrid | Aug 09 |
@@ -100,14 +100,14 @@ Charlotte, NC | On Site | Aug 09 |
 | **[Vedder Price](http://www.vedderprice.com)** | **[2025 2L Diversity & Inclusion Scholarship, Transactional Rotation (Chicago, IL)](https://jobright.ai/jobs/info/667592f2bad9224db7bb6a2f?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | On Site | Aug 09 |
 | **[Medpace](http://www.medpace.com)** | **[Legal Clerkship (Part-Time)](https://jobright.ai/jobs/info/6699dceec86005e645e335c4?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Aug 09 |
 | **[Peace Corps](http://www.peacecorps.gov)** | **[Student Legal (Intern) - Federal Hire](https://jobright.ai/jobs/info/66b5ba08e34180f357c2d1aa?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 09 |
-| **[Cooley](http://www.cooley.com)** | **[2025 Summer Associate – General Corporate](https://jobright.ai/jobs/info/66b63436f148981d7ff5f65e?utm_campaign=1055&utm_source=git)** | Multi Location
-Reston, VA
-Colorado, United States
-Miami, FL
-Seattle, WA
-Washington, DC | On Site | Aug 09 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Campus Undergraduate - 2025 Global Risk & Compliance Privacy Summer Internship New York, NY](https://jobright.ai/jobs/info/66b59634ee3a6e205d060576?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Aug 09 |
 | ↳ | **[Campus Undergraduate - 2025 Global Risk & Compliance Summer Internship Salt Lake City, UT](https://jobright.ai/jobs/info/66b5a068ff63113f6891b12c?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 09 |
+| **[Cooley](http://www.cooley.com)** | **[2025 Summer Associate – General Corporate](https://jobright.ai/jobs/info/66b57c8bafefe724a85122d2?utm_campaign=1055&utm_source=git)** | Multi Location
+Seattle, WA
+Miami, FL
+Colorado, United States
+Washington, DC
+Reston, VA | On Site | Aug 09 |
 | **[U.S. Environmental Protection Agency](http://www.epa.gov)** | **[Summer Internship - Student Trainee (Legal)](https://jobright.ai/jobs/info/66b64ffe157c49d41227d213?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 09 |
 | **[Amadeus](http://www.amadeus.com)** | **[Legal Extern-1](https://jobright.ai/jobs/info/66b6633c22e1f56fb36a23b9?utm_campaign=1055&utm_source=git)** | Multi Location
 New York, New York
@@ -125,8 +125,6 @@ New York, NY | On Site | Aug 09 |
 | **[Longevity Holdings](https://longevity.inc/)** | **[Intern - Law Clerk](https://jobright.ai/jobs/info/66b4aa26428239f8915430cb?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Aug 08 |
 | **[U.S. Nuclear Regulatory Commission](http://www.nrc.gov)** | **[Law Clerk](https://jobright.ai/jobs/info/66b48190a332a232b10cbf3a?utm_campaign=1055&utm_source=git)** | Rockville, MD | On Site | Aug 08 |
 | **[U.S. Bancorp](http://www.usbank.com)** | **[2025 Financial Crimes Summer Intern](https://jobright.ai/jobs/info/66b44e91bc011512b88eea4a?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Aug 08 |
-| **[Workday](http://www.workday.com)** | **[Legal Fellow](https://jobright.ai/jobs/info/66b41f7b004c84b869530107?utm_campaign=1055&utm_source=git)** | Pleasanton, CA | Hybrid | Aug 08 |
-| ↳ | **[Legal Fellows](https://jobright.ai/jobs/info/66b41f7b004c84b869530104?utm_campaign=1055&utm_source=git)** | Pleasanton, CA | On Site | Aug 08 |
 | **[Human Rights First](http://www.humanrightsfirst.org)** | **[Refugee Protection Legal Fellow](https://jobright.ai/jobs/info/66b56e2bedc57df7949115b2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 08 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Tax Legal Intern](https://jobright.ai/jobs/info/66b3fc9e818aa6e3888c2de1?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Aug 07 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Legal Intern - remote](https://jobright.ai/jobs/info/66b3ea2db9345b6df86720b0?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Aug 07 |
