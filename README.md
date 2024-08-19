@@ -57,10 +57,12 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Raymond James](http://www.raymondjames.com)** | **[2025 Summer Internship - Oversight and Control (RJ Bank) Intern - St. Petersburg, FL](https://jobright.ai/jobs/info/66c2e75fad75c352f8d5c3e1?utm_campaign=1055&utm_source=git)** | St Petersburg, FL | Hybrid | Aug 18 |
 | **[Merchants Bank of Indiana](http://merchantsbankofindiana.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/66c2b102ed9b684104e30d95?utm_campaign=1055&utm_source=git)** | Carmel, IN | On Site | Aug 18 |
 | **[Price Benowitz](http://pricebenowitz.com/)** | **[Fellow (Criminal Defense/Operations)](https://jobright.ai/jobs/info/66c25b6d6b402c0a337a260d?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 18 |
 | **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Compliance Associate Program - Summer Associate Opportunity](https://jobright.ai/jobs/info/66a8d59cd2bf7bd4e40c9def?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Aug 18 |
 | **[CSAA Insurance Group](https://csaa-insurance.aaa.com)** | **[Paralegal Intern (Sacramento, CA) - Hybrid](https://jobright.ai/jobs/info/66ad1999849f465eaf1abc9f?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Aug 18 |
+| **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/66c2e1e6b8654038ce550efc?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Aug 17 |
 | **[Roots and Wings Legal](https://rootsandwings.legal)** | **[3L or LLM Law Clerk](https://jobright.ai/jobs/info/66c1f7ab57f8c57b4b0afb97?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | Hybrid | Aug 17 |
 | **[ValMark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/66a3ef2a87fb29a0df318dc7?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Aug 17 |
 | **[Amazon](https://amazon.com)** | **[2025 Risk Specialist Intern](https://jobright.ai/jobs/info/66a4240df9dc8ad9b2c8daca?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Aug 17 |
@@ -82,19 +84,19 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Spring 2025 Investor Advocate Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2735?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b28ec?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b28f5?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Aug 16 |
+| ↳ | **[Spring 2025 Investor Advocate Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2a22?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Investor Advocate Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2a21?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b28fc?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Aug 16 |
-| ↳ | **[Spring 2025 Investor Advocate Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2a22?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 16 |
-| ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2900?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Investor Advocate Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2a23?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Aug 16 |
-| ↳ | **[Spring 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b273f?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
+| ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2900?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2905?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Aug 16 |
+| ↳ | **[Spring 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b273f?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Investor Advocate Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2a24?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Aug 16 |
-| ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2911?utm_campaign=1055&utm_source=git)** | Ashburn, VA | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2910?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Aug 16 |
+| ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2911?utm_campaign=1055&utm_source=git)** | Ashburn, VA | Hybrid | Aug 16 |
+| ↳ | **[Spring 2025 Investor Advocate Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2a2a?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2912?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Investor Advocate Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2a2b?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Aug 16 |
-| ↳ | **[Spring 2025 Investor Advocate Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2a2a?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Investor Advocate Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2a2f?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfd2965dadc725bb6f7ce2?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Aug 16 |
 | ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfd2965dadc725bb6f7fba?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 16 |
@@ -177,4 +179,9 @@ For a complete list, see the full spreadsheet below:
 | **[Auto-Owners](https://www.auto-owners.com/)** | **[Legal Internship - 2024/25 School Year](https://jobright.ai/jobs/info/66bbaad97ba2ab2c8e676973?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Aug 12 |
 | **[80 Acres Farms](https://www.80acresfarms.com)** | **[Legal Administration Intern (Fall)](https://jobright.ai/jobs/info/66ba9bf7ffde1d9fe7800c3f?utm_campaign=1055&utm_source=git)** | Hamilton, OH | On Site | Aug 12 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Fellow (Fall 2025)](https://jobright.ai/jobs/info/66ba8d94da33b734878cc648?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Aug 12 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern – Contracts, Legal – Campus 2025](https://jobright.ai/jobs/info/66ba833bb65ad38999d4c3f0?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Aug 12 |
+| **[SRC](https://www.srcinc.com/)** | **[Contracts (Intern - Summer 2025)](https://jobright.ai/jobs/info/66ba833bb65ad38999d4c515?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | Aug 12 |
+| **[Mullen Coughlin](https://www.mullen.law/)** | **[Law Clerk - Litigation (Fall/Spring)](https://jobright.ai/jobs/info/66ba647d97922dded73e7425?utm_campaign=1055&utm_source=git)** | Devon, PA | On Site | Aug 12 |
+| **[ACLU of Northern California](https://www.aclunc.org)** | **[Spring 2025 Racial & Economic Justice Internship](https://jobright.ai/jobs/info/66ba6f14e2afc5d2a9a9e607?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Aug 12 |
+| ↳ | **[Spring 2025 Technology & Civil Liberties Internship](https://jobright.ai/jobs/info/66ba88e36da4c62685f3c770?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
