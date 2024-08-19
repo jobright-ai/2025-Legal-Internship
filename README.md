@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Consumer Financial Protection Bureau](http://www.consumerfinance.gov)** | **[Student Trainee (Legal Intern)](https://jobright.ai/jobs/info/66c3070b789356aef9bfd486?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 19 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2025 Summer Internship - Oversight and Control (RJ Bank) Intern - St. Petersburg, FL](https://jobright.ai/jobs/info/66c2e75fad75c352f8d5c3e1?utm_campaign=1055&utm_source=git)** | St Petersburg, FL | Hybrid | Aug 18 |
 | **[Merchants Bank of Indiana](http://merchantsbankofindiana.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/66c2b102ed9b684104e30d95?utm_campaign=1055&utm_source=git)** | Carmel, IN | On Site | Aug 18 |
 | **[Price Benowitz](http://pricebenowitz.com/)** | **[Fellow (Criminal Defense/Operations)](https://jobright.ai/jobs/info/66c25b6d6b402c0a337a260d?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 18 |
@@ -84,19 +85,19 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Spring 2025 Investor Advocate Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2735?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b28ec?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b28f5?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Aug 16 |
-| ↳ | **[Spring 2025 Investor Advocate Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2a22?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Investor Advocate Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2a21?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
+| ↳ | **[Spring 2025 Investor Advocate Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2a22?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b28fc?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Aug 16 |
-| ↳ | **[Spring 2025 Investor Advocate Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2a23?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2900?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Aug 16 |
-| ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2905?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Aug 16 |
+| ↳ | **[Spring 2025 Investor Advocate Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2a23?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b273f?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
+| ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2905?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Investor Advocate Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2a24?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Aug 16 |
-| ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2910?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2911?utm_campaign=1055&utm_source=git)** | Ashburn, VA | Hybrid | Aug 16 |
-| ↳ | **[Spring 2025 Investor Advocate Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2a2a?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Aug 16 |
+| ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2910?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2912?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Investor Advocate Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2a2b?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Aug 16 |
+| ↳ | **[Spring 2025 Investor Advocate Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2a2a?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Investor Advocate Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2a2f?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfd2965dadc725bb6f7ce2?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Aug 16 |
 | ↳ | **[Spring 2025 Legal Intern](https://jobright.ai/jobs/info/66bfd2965dadc725bb6f7fba?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 16 |
