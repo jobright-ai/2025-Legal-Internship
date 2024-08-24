@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kuiper Law Firm, PLLC](http://www.kuiperlawfirm.com)** | **[Law Clerk (Houston Texas)](https://jobright.ai/jobs/info/66c9e07a97ec26e1b7c2c516?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 24 |
+| **[Legal Aid Justice Center](https://www.justice4all.org)** | **[Legal Fellowship Sponsorship ( Hybrid )](https://jobright.ai/jobs/info/66c9d225b2def05cd62e0adf?utm_campaign=1055&utm_source=git)** | Falls Church, VA | Hybrid | Aug 24 |
+| **[Law](http://www.attorneystone.com)** | **[Legal Assistant](https://jobright.ai/jobs/info/66c9e412569864498648e957?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 24 |
+| **[Maryland Works](http://www.mdworks.com)** | **[PATHWAYS STUDENT INTERN (Law Clerk)](https://jobright.ai/jobs/info/66c9c56b5f6a05db4b8cb4f9?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Aug 24 |
+| **[Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org)** | **[Federal Reserve Bank Law Enforcement Internship](https://jobright.ai/jobs/info/66c9b0e82383e00368e0ea28?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Aug 24 |
 | **[Seyfarth Shaw](http://www.seyfarth.com)** | **[2025 Corporate Summer Associate - Seattle Office](https://jobright.ai/jobs/info/66c953da4033db2085d7415e?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Aug 23 |
 | **[TellCo Europe](https://tellco-europe.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66c91cc3c6460b11db88e7a8?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 23 |
 | **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2025 Summer Analyst Program: Financial Crimes Control Office - Tempe, AZ](https://jobright.ai/jobs/info/66c927fd8e494ff552ed7a40?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Aug 23 |
@@ -113,7 +118,7 @@ For a complete list, click the following sortable link below:
 | **[California Department of Industrial Relations](https://www.dir.ca.gov/)** | **[Administrative Judicial Legal Assistant](https://jobright.ai/jobs/info/66c7c06b74150a5661aafa03?utm_campaign=1055&utm_source=git)** | San Bernardino, CA | Hybrid | Aug 21 |
 | **[Link Logistics Real Estate](https://www.linklogistics.com/)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/66c694d536c87eb7de009848?utm_campaign=1055&utm_source=git)** | Illinois, United States | On Site | Aug 21 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern- Cybersecurity and Compliance, ES&I -Campus 2025](https://jobright.ai/jobs/info/66c7833fc0ecaba6d03dacde?utm_campaign=1055&utm_source=git)** | US - UT, Salt Lake City | On Site | Aug 21 |
-| **[Teva Pharmaceuticals](https://www.tevapharm.com)** | **[Quality Compliance Intern - SLC East](https://jobright.ai/jobs/info/66c689d7f77343dedc957419?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Aug 21 |
+| **[Teva Pharmaceuticals](https://www.tevapharm.com)** | **[Quality Compliance Intern - SLC East](https://jobright.ai/jobs/info/66c689d7f77343dedc95739f?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Aug 21 |
 | **[Sepulveda Sanchez Accident Lawyers](https://sepulvedalawgroup.com)** | **[Law Clerk - 25hrs/wk Learn Discovery in a Personal Injury Law Firm (In office)](https://jobright.ai/jobs/info/66c67e6289d6136c4923ea8d?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 21 |
 | **[Peterman Heating & Cooling Inc](https://www.petermanhvac.com)** | **[Licensing Internship - Part Time](https://jobright.ai/jobs/info/66c6760d5b8354e1af800118?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Aug 21 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Customs Trade & Export Control Development (Spring 2025)](https://jobright.ai/jobs/info/66c6760d5b8354e1af800142?utm_campaign=1055&utm_source=git)** | Greensboro, NC | On Site | Aug 21 |
