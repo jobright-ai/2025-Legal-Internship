@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Law Clerk](https://jobright.ai/jobs/info/66d0141f4c80a2ee886273e8?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Aug 28 |
 | **[CNO Financial Group](http://www.cnoinc.com)** | **[Legal Intern- Summer 2025](https://jobright.ai/jobs/info/66cfd4d8a0b6ed1a21eb3eee?utm_campaign=1055&utm_source=git)** | Carmel, IN | On Site | Aug 28 |
 | **[Willis Towers Watson](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk and Broking Internship- Client Advocacy, Commercial Lines- Summer 2025 - NYC](https://jobright.ai/jobs/info/66cfdd8caed693b6a70e6a58?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 28 |
 | **[The Wilhite Law Firm](wilhitelawfirm.com)** | **[Law Clerk Intern/Extern](https://jobright.ai/jobs/info/66cdba12d9f3a063081a0da0?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Aug 28 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2025 Legal Intern](https://jobright.ai/jobs/info/66cf9541a471f94743c5162e?utm_campaign=1055&utm_source=git)** | Providence, RI | On Site | Aug 28 |
 | **[TechnipFMC](https://www.technipfmc.com/)** | **[Legal Co-Op](https://jobright.ai/jobs/info/66cf5e6d5deef0c48b544b3d?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 28 |
 | **[Grant Thornton](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2025](https://jobright.ai/jobs/info/66cf5e6d5deef0c48b544b8a?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Aug 28 |
+| **[Core Specialty Insurance](https://www.corespecialtyinsurance.com/)** | **[Summer Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/66cf554276c7eb11952500ac?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Aug 28 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[Stage Bac +5 - Legal Counsel - F/H 1 1](https://jobright.ai/jobs/info/66cf8a6a5748bc96ec44fb9e?utm_campaign=1055&utm_source=git)** | Marcy, IA | On Site | Aug 28 |
 | **[ACLU of Virginia](http://www.acluva.org)** | **[Summer 2025 Legal Intern](https://jobright.ai/jobs/info/66cf4ff0e535adcc4a7155cb?utm_campaign=1055&utm_source=git)** | Richmond, VA | Hybrid | Aug 28 |
 | **[Seyfarth Shaw](http://www.seyfarth.com)** | **[2025 Corporate Summer Associate - Seattle Office](https://jobright.ai/jobs/info/66c953da4033db2085d7415e?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Aug 28 |
@@ -77,13 +79,13 @@ For a complete list, click the following sortable link below:
 | **[Nissan Motor](https://www.nissan-global.com/EN/)** | **[Ethics & Compliance Program Intern- Fall 2024- Franklin, TN](https://jobright.ai/jobs/info/66b335186c8b7cc3d1a03007?utm_campaign=1055&utm_source=git)** | Franklin, TN | On Site | Aug 28 |
 | **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/66b2f04883b9f52eaa6cad36?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Aug 28 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Compliance and Public Policy)](https://jobright.ai/jobs/info/66c590e358d7058361741203?utm_campaign=1055&utm_source=git)** | Vienna, VA | On Site | Aug 28 |
-| **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Fall 2024](https://jobright.ai/jobs/info/66cf0c0427ea042cb7efe598?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 28 |
+| **[Medpace](http://www.medpace.com)** | **[Regulatory Research Fall Intern](https://jobright.ai/jobs/info/669632a3ffb716512c2a9f6e?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 28 |
+| ↳ | **[Site Contracts Intern- Fall 2024](https://jobright.ai/jobs/info/66cf0c0427ea042cb7efe598?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 28 |
 | **[USAA](https://www.usaa.com)** | **[Associate Attorney Intern – Chief Legal Office](https://jobright.ai/jobs/info/66ce92013ad7116a13da7453?utm_campaign=1055&utm_source=git)** | San Antonio, TX | Hybrid | Aug 27 |
 | **[Colony Brands](http://www.colonybrands.com/)** | **[Supply Chain Logistics & Compliance Internship](https://jobright.ai/jobs/info/66ce857f2ff4ca2e90d7719c?utm_campaign=1055&utm_source=git)** | Monroe, WI | On Site | Aug 27 |
 | **[Kroger](http://www.thekrogerco.com)** | **[Environmental Compliance Internship Summer 2025](https://jobright.ai/jobs/info/66cfa35a521cbaf9ba600909?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 27 |
 | ↳ | **[Environmental Compliance Internship Spring 2025](https://jobright.ai/jobs/info/66cfa35a521cbaf9ba60090c?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 27 |
 | **[Jackson Lewis P.C.](http://www.jacksonlewis.com)** | **[Summer Associate](https://jobright.ai/jobs/info/66cfc5acbb3c823d8e4dfdf8?utm_campaign=1055&utm_source=git)** | US - VA - Norfolk | On Site | Aug 27 |
-| **[Core Specialty Insurance](https://www.corespecialtyinsurance.com/)** | **[Summer Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/66cf79b06d82c20de0988bb6?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Aug 27 |
 | **[Kemper Corporation](http://kemper.com)** | **[Law Clerk Extern](https://jobright.ai/jobs/info/66ce6a14ee25bfbd4f15b921?utm_campaign=1055&utm_source=git)** | Fresno, CA | Hybrid | Aug 27 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[2025 Legal Summer Analyst Program - New York](https://jobright.ai/jobs/info/66ce82b14be66945f1d80202?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Aug 27 |
 | **[Blattner](https://www.blattnercompany.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/66ce6b703c7fafb8b4f7be07?utm_campaign=1055&utm_source=git)** | Avon, MN | On Site | Aug 27 |
@@ -120,7 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Ethics, Compliance, and Privacy](https://jobright.ai/jobs/info/667633cfe272243dcd4f65af?utm_campaign=1055&utm_source=git)** | Plainsboro, NJ | On Site | Aug 27 |
 | **[Infovista](http://www.infovista.com)** | **[Procurement Contractor/Intern (Short term Assignment- Immediate Start)](https://jobright.ai/jobs/info/66cd8813d9e1880f553613c7?utm_campaign=1055&utm_source=git)** | Billerica, MA | On Site | Aug 27 |
 | **[F.N.B. Corp.](https://www.fnb-online.com)** | **[Summer 2025 Enterprise Fraud Risk-Intern - Pittsburgh, PA](https://jobright.ai/jobs/info/66cd7f63f33fa1c4cce2949e?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Aug 26 |
-| ↳ | **[Summer 2025 Enterprise Fraud Risk Intern - Pittsburgh, PA](https://jobright.ai/jobs/info/66cd6ce34ac916b2edf513eb?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Aug 26 |
+| **[Indiana Legal Services](https://www.indianalegalservices.org/)** | **[Legal Internship](https://jobright.ai/jobs/info/66d0176cd318fd9bb0ee7538?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Aug 26 |
+| **[F.N.B. Corp.](https://www.fnb-online.com)** | **[Summer 2025 Enterprise Fraud Risk Intern - Pittsburgh, PA](https://jobright.ai/jobs/info/66cd6ce34ac916b2edf513eb?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Aug 26 |
 | **[TruStage](https://www.trustage.com/)** | **[Legal Research Clerk/Intern (2L) - Remote](https://jobright.ai/jobs/info/66cd6a60005c23995341f66c?utm_campaign=1055&utm_source=git)** | Wisconsin, United States | Remote | Aug 26 |
 | ↳ | **[Legal Research Clerk/Intern (2L) - Remote](https://jobright.ai/jobs/info/66cd629c4c39db0302175b8e?utm_campaign=1055&utm_source=git)** | Madison, WI | Remote | Aug 26 |
 | ↳ | **[Legal Research Clerk/Intern (2L) - Remote](https://jobright.ai/jobs/info/66cd61da29f57103f4066494?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | Remote | Aug 26 |
@@ -170,7 +173,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 2L Corporate Summer Associate (Silicon Valley)](https://jobright.ai/jobs/info/6632962dad5a1e28625a24ca?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Aug 25 |
 | **[Weaver](http://www.weaver.com)** | **[Energy Compliance Services Intern - Spring 2025](https://jobright.ai/jobs/info/66cb0491796ebc6d6929cb4b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 25 |
 | **[Rehmann](http://www.rehmann.com)** | **[Risk Advisory Intern Fall 2024](https://jobright.ai/jobs/info/65db42505a9b144f6446770c?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Aug 25 |
-| **[The Village Law Firm](https://www.thevillagelawfirm.com)** | **[Estate Planning Legal Intern](https://jobright.ai/jobs/info/66ca2a17d5fa0dad19a63137?utm_campaign=1055&utm_source=git)** | New York County, NY | On Site | Aug 24 |
 | **[University of New Mexico](http://unm.edu)** | **[Legal Assistant](https://jobright.ai/jobs/info/66ca2667374ee4a0ae8c4234?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | On Site | Aug 24 |
 | **[Kuiper Law Firm, PLLC](http://www.kuiperlawfirm.com)** | **[Law Clerk (Houston Texas)](https://jobright.ai/jobs/info/66c9e07a97ec26e1b7c2c516?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 24 |
 | **[Legal Aid Justice Center](https://www.justice4all.org)** | **[Legal Fellowship Sponsorship ( Hybrid )](https://jobright.ai/jobs/info/66c9d225b2def05cd62e0adf?utm_campaign=1055&utm_source=git)** | Falls Church, VA | Hybrid | Aug 24 |
@@ -211,6 +213,4 @@ For a complete list, click the following sortable link below:
 | **[Permian Resources](https://permianres.com)** | **[Summer 2025 Legal Internship](https://jobright.ai/jobs/info/66c4df8130ffeda3dba415a5?utm_campaign=1055&utm_source=git)** | Midland, TX | On Site | Aug 22 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2024 LNS Legal Internship, DC](https://jobright.ai/jobs/info/66c77c1718217fb2c3f9a191?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 22 |
 | **[Protiviti](http://www.protiviti.com)** | **[Philadelphia Risk and Compliance Intern - 2025](https://jobright.ai/jobs/info/66c7825382c544aa6c87d7fa?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 22 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern- Cybersecurity and Compliance, ES&I -Campus 2025](https://jobright.ai/jobs/info/66c86b847ad3f6e67074ec4b?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Aug 22 |
-| **[Protiviti](http://www.protiviti.com)** | **[Metro DC Risk and Compliance Intern - 2025](https://jobright.ai/jobs/info/66c8aad0b0c9d07c21af535e?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
