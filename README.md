@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Textron](http://textron.com)** | **[2025 Intern - Contracts - New Orleans, LA](https://jobright.ai/jobs/info/66d44d5f838f49673cf02c30?utm_campaign=1055&utm_source=git)** | New Orleans, LA | Hybrid | Sep 01 |
+| ↳ | **[2025 Summer Intern - Contracts - Fort Worth, TX](https://jobright.ai/jobs/info/66d44d5f838f49673cf02c80?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Sep 01 |
+| ↳ | **[2025 Internship - Legal - Contracts Associate](https://jobright.ai/jobs/info/66d455a5fec04f61e9c01e85?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
+| ↳ | **[2025 Intern - Contracts - Wilmington, MA](https://jobright.ai/jobs/info/66d455a5fec04f61e9c01e5f?utm_campaign=1055&utm_source=git)** | Wilmington, MA | Hybrid | Sep 01 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Contracts Intern (Dallas, TX)](https://jobright.ai/jobs/info/66b79e8c6249cca7a5fe349f?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Sep 01 |
 | **[HNTB](http://www.hntb.com/)** | **[Procurement and Contracts Intern - Summer 2025](https://jobright.ai/jobs/info/66d3ece5ab01b6f6e6afe5d6?utm_campaign=1055&utm_source=git)** | Bellevue, WA | On Site | Aug 31 |
 | **[ALLY Energy](http://www.allyenergy.com)** | **[Internship - Trade Compliance](https://jobright.ai/jobs/info/66d39a9d36df52c4f676c082?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 31 |
 | **[Defenders of Wildlife](http://www.defenders.org)** | **[Biodiversity Law Center Internship (Summer 2025)](https://jobright.ai/jobs/info/66d373824d2b5c2afa296a67?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Aug 31 |
@@ -118,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Reinsurance Group Of America](http://www.rgare.com)** | **[Summer Intern - Group Claims Examiner (Minneapolis)](https://jobright.ai/jobs/info/66d0a145d5b928daabe99a24?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Aug 29 |
 | **[Cencora](http://www.cencora.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/66d09ec6cf4524445d5b7200?utm_campaign=1055&utm_source=git)** | Conshohocken, PA | On Site | Aug 29 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/66d1c217b0c4634246f74e36?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Aug 29 |
+| **[Grant Thornton](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2025](https://jobright.ai/jobs/info/66d449369b9d5a7dda419bc8?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 29 |
 | **[U.S. Bancorp](http://www.usbank.com)** | **[2025 Financial Crimes Summer Intern](https://jobright.ai/jobs/info/66b44e91bc011512b88eea4a?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Aug 29 |
 | **[QuidelOrtho](http://quidelortho.com)** | **[DoD Skillbridge - Information Security Intern (Compliance)](https://jobright.ai/jobs/info/667b594d46c6f972c505d660?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Aug 29 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Legal Intern - remote](https://jobright.ai/jobs/info/66b3ea2db9345b6df86720b0?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Aug 29 |
