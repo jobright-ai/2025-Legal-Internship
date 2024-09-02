@@ -136,8 +136,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 AFCO Direct - Compliance & Legal - Internship](https://jobright.ai/jobs/info/66d12ee5cd98a5037ecc2bcf?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Aug 28 |
 | ↳ | **[2025 AFCO Direct - Compliance & Legal - Internship](https://jobright.ai/jobs/info/66d12ee5cd98a5037ecc2bd0?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | ↳ | **[2025 AFCO Direct - Compliance & Legal - Internship](https://jobright.ai/jobs/info/66d12ee5cd98a5037ecc2bd6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 28 |
-| ↳ | **[2025 AFCO Direct - Compliance & Legal - Internship](https://jobright.ai/jobs/info/66d12ee5cd98a5037ecc2bd8?utm_campaign=1055&utm_source=git)** | Rosemont, IL | On Site | Aug 28 |
 | ↳ | **[2025 AFCO Direct - Compliance & Legal - Internship](https://jobright.ai/jobs/info/66d12ee5cd98a5037ecc2bd9?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Aug 28 |
+| ↳ | **[2025 AFCO Direct - Compliance & Legal - Internship](https://jobright.ai/jobs/info/66d12ee5cd98a5037ecc2bd8?utm_campaign=1055&utm_source=git)** | Rosemont, IL | On Site | Aug 28 |
 | **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Student Intern/Externship, OGC (9923)](https://jobright.ai/jobs/info/66c524a693950544f36d9764?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Aug 28 |
 | **[CNO Financial Group](http://www.cnoinc.com)** | **[Legal Intern- Summer 2025](https://jobright.ai/jobs/info/66cfd4d8a0b6ed1a21eb3eee?utm_campaign=1055&utm_source=git)** | Carmel, IN | On Site | Aug 28 |
 | **[Medpace](http://www.medpace.com)** | **[Regulatory Research Spring 2025 Intern](https://jobright.ai/jobs/info/669632a3ffb716512c2a9f6e?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 28 |
@@ -148,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/66cf9de5adf86da04d19b152?utm_campaign=1055&utm_source=git)** | Worcester, MA | Hybrid | Aug 28 |
 | **[Textron](http://textron.com)** | **[2025 Legal Intern](https://jobright.ai/jobs/info/66cf9541a471f94743c5162e?utm_campaign=1055&utm_source=git)** | Providence, RI | On Site | Aug 28 |
 | **[TechnipFMC](https://www.technipfmc.com/)** | **[Legal Co-Op](https://jobright.ai/jobs/info/66cf6eddfadaa10c4e6604a1?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 28 |
-| **[Core Specialty Insurance](https://www.corespecialtyinsurance.com/)** | **[Summer Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/66cf554276c7eb11952500ac?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Aug 28 |
 | **[ACLU of Virginia](http://www.acluva.org)** | **[Summer 2025 Legal Intern](https://jobright.ai/jobs/info/66cf4ff0e535adcc4a7155cb?utm_campaign=1055&utm_source=git)** | Richmond, VA | Hybrid | Aug 28 |
 | **[Seyfarth Shaw](http://www.seyfarth.com)** | **[2025 Corporate Summer Associate - Seattle Office](https://jobright.ai/jobs/info/66c953da4033db2085d7415e?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Aug 28 |
 | **[FS Vector](https://www.fsvector.com/)** | **[Fall Associate, Advisory (Internship)](https://jobright.ai/jobs/info/66cf41f12a1e27bfe35d3dc6?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | On Site | Aug 28 |
@@ -165,6 +164,7 @@ For a complete list, click the following sortable link below:
 | **[Kroger](http://www.thekrogerco.com)** | **[Environmental Compliance Internship Summer 2025](https://jobright.ai/jobs/info/66cfa35a521cbaf9ba600909?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 27 |
 | ↳ | **[Environmental Compliance Internship Spring 2025](https://jobright.ai/jobs/info/66cfa35a521cbaf9ba60090c?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 27 |
 | **[Jackson Lewis P.C.](http://www.jacksonlewis.com)** | **[Summer Associate](https://jobright.ai/jobs/info/66cfc5acbb3c823d8e4dfdf8?utm_campaign=1055&utm_source=git)** | US - VA - Norfolk | On Site | Aug 27 |
+| **[Core Specialty Insurance](https://www.corespecialtyinsurance.com/)** | **[Summer Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/66cf79b06d82c20de0988bb6?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Aug 27 |
 | **[Kemper Corporation](http://kemper.com)** | **[Law Clerk Extern](https://jobright.ai/jobs/info/66ce6a14ee25bfbd4f15b921?utm_campaign=1055&utm_source=git)** | Fresno, CA | Hybrid | Aug 27 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[2025 Legal Summer Analyst Program - New York](https://jobright.ai/jobs/info/66ce82b14be66945f1d80202?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Aug 27 |
 | **[Day One Biopharmaceuticals](https://dayonebio.com)** | **[Join Our Legal Community](https://jobright.ai/jobs/info/66ce6a14ee25bfbd4f15b948?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 27 |
