@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate - 2025 Global Risk & Compliance, Enterprise Risk Management & Risk Oversight Summer Internship New York, NY](https://jobright.ai/jobs/info/66d58b8ca2abd1166dc007fd?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 02 |
+| ↳ | **[Campus Graduate and J.D. - 2025 Global Risk & Compliance Decision Science & Product Management Summer Internship New York, NY](https://jobright.ai/jobs/info/66d58b8ca2abd1166dc007fe?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 02 |
 | **[Cirrus Design Corporation](http://cirrusaircraft.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/66d52e07e5bfb92529794f26?utm_campaign=1055&utm_source=git)** | Duluth, MN | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2025 Intern - Contracts - New Orleans, LA](https://jobright.ai/jobs/info/66d44d5f838f49673cf02c30?utm_campaign=1055&utm_source=git)** | New Orleans, LA | Hybrid | Sep 01 |
 | ↳ | **[2025 Summer Intern - Contracts - Fort Worth, TX](https://jobright.ai/jobs/info/66d44d5f838f49673cf02c80?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Sep 01 |
@@ -214,8 +216,4 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Legal Intern - Summer 2025 Internship](https://jobright.ai/jobs/info/66cd04b72be28447a69e5a49?utm_campaign=1055&utm_source=git)** | New Jersey, United States | On Site | Aug 26 |
 | **[80 Acres Farms](https://www.80acresfarms.com)** | **[Legal Administration Intern (Fall)](https://jobright.ai/jobs/info/66ba9bf7ffde1d9fe7800c3f?utm_campaign=1055&utm_source=git)** | Hamilton, OH | On Site | Aug 26 |
 | **[Seyfarth Shaw](http://www.seyfarth.com)** | **[2025 Summer Associate Program - Atlanta Office](https://jobright.ai/jobs/info/66c011f1a1cd08ae3d315805?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Aug 26 |
-| **[Tighe & Bond](https://www.tighebond.com)** | **[2025 Entry Level Regulatory Compliance Specialist](https://jobright.ai/jobs/info/66cd09295b3d415f76adcb10?utm_campaign=1055&utm_source=git)** | North Kingstown, RI | Hybrid | Aug 26 |
-| **[Orion Group Holdings](https://www.oriongroupholdingsinc.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/66ccd8d757a6d4d4d14b2d54?utm_campaign=1055&utm_source=git)** | Greater Houston | On Site | Aug 26 |
-| **[Texas Attorney General](https://texasattorneygeneral.gov/)** | **[OAG - Human Resources / Law Clerk / 24-0900](https://jobright.ai/jobs/info/66cce26e621a4ce6159ff46e?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Aug 26 |
-| **[Kiefaber & Oliva](https://www.kolawllp.com)** | **[Law Clerk (Houston, TX)](https://jobright.ai/jobs/info/66c8f04a1522ccc6652d7366?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
