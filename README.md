@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data/Program Analyst - Compliance)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e476?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Sep 03 |
+| ↳ | **[Summer Associate Internship (Data/Program Analyst - Compliance)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e523?utm_campaign=1055&utm_source=git)** | Winchester, VA | Hybrid | Sep 03 |
+| ↳ | **[Summer Associate Internship (Data/Program Analyst - Compliance)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e52b?utm_campaign=1055&utm_source=git)** | Pensacola, FL | Hybrid | Sep 03 |
+| ↳ | **[Summer Associate Internship (Compliance Analyst - Monitoring and Testing)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e449?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Sep 03 |
+| ↳ | **[Summer Associate Internship (Consumer Lending – Collateral Control)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e455?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Sep 03 |
+| ↳ | **[Summer Associate Internship (Consumer Lending – Collateral Control)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e468?utm_campaign=1055&utm_source=git)** | Pensacola, FL | Hybrid | Sep 03 |
+| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2025 Trade Compliance Intern](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e4c0?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Sep 02 |
+| ↳ | **[2025 Regulatory Compliance Intern- Thief River Falls, MN](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e496?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Sep 02 |
+| **[Textron GSE](https://textrongse.txtsv.com/)** | **[2025 Legal Operations Intern](https://jobright.ai/jobs/info/66d6ab5da352ea63ba83adf4?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Sep 02 |
+| ↳ | **[2025 Regulatory Compliance Intern- Thief River Falls, MN](https://jobright.ai/jobs/info/66d6ab5da352ea63ba83ade4?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Sep 02 |
+| ↳ | **[2025 Regulatory Compliance Intern](https://jobright.ai/jobs/info/66d6ab5da352ea63ba83adf6?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Sep 02 |
+| ↳ | **[2025 Trade Compliance Intern](https://jobright.ai/jobs/info/66d6a02b5df46c29c981c6f8?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Sep 02 |
+| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Contracts Co-Op (Spring/Summer 2025)(Remote)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e48b?utm_campaign=1055&utm_source=git)** | Avondale Estates, GA | Hybrid | Sep 02 |
 | **[Astratek Solutions](http://www.astrateksol.com/projects.html)** | **[Summer Internship - Risk & Compliance](https://jobright.ai/jobs/info/66d5fffa9b1ac24073fcba8e?utm_campaign=1055&utm_source=git)** | Lake Mary, FL | Hybrid | Sep 02 |
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Risk and Compliance Intern - 2025](https://jobright.ai/jobs/info/66c66740dad76bb73c54629d?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Sep 02 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate - 2025 Global Risk & Compliance, Enterprise Risk Management & Risk Oversight Summer Internship New York, NY](https://jobright.ai/jobs/info/66d58b8ca2abd1166dc007fd?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 02 |
@@ -127,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Reinsurance Group Of America](http://www.rgare.com)** | **[Summer Intern - Group Claims Examiner (Minneapolis)](https://jobright.ai/jobs/info/66d0a145d5b928daabe99a24?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Aug 29 |
 | **[Cencora](http://www.cencora.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/66d09ec6cf4524445d5b7200?utm_campaign=1055&utm_source=git)** | Conshohocken, PA | On Site | Aug 29 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/66d1c217b0c4634246f74e36?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Aug 29 |
-| **[Grant Thornton](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2025](https://jobright.ai/jobs/info/66d449369b9d5a7dda419bc8?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 29 |
 | **[U.S. Bancorp](http://www.usbank.com)** | **[2025 Financial Crimes Summer Intern](https://jobright.ai/jobs/info/66b44e91bc011512b88eea4a?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Aug 29 |
 | **[QuidelOrtho](http://quidelortho.com)** | **[DoD Skillbridge - Information Security Intern (Compliance)](https://jobright.ai/jobs/info/667b594d46c6f972c505d660?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Aug 29 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Legal Intern - remote](https://jobright.ai/jobs/info/66b3ea2db9345b6df86720b0?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Aug 29 |
@@ -175,5 +187,4 @@ For a complete list, click the following sortable link below:
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Professional Liability Underwriting](https://jobright.ai/jobs/info/66ce61a221e6ebc8b7aab04a?utm_campaign=1055&utm_source=git)** | Windsor, CT | Hybrid | Aug 27 |
 | **[Monroe County](https://www.monroecounty.gov)** | **[Legal Secretary II - Bilingual](https://jobright.ai/jobs/info/66ce433955d14b51ab0c1a45?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Aug 27 |
 | **[Grant Thornton](https://www.grantthornton.com)** | **[Cybersecurity and Privacy Associate - Summer 2025](https://jobright.ai/jobs/info/66ce186511a089cf92ca4344?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Aug 27 |
-| ↳ | **[Risk Advisory Intern - Summer 2025](https://jobright.ai/jobs/info/66cf1fea24ddc12c7cd3188d?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
