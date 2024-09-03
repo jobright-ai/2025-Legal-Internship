@@ -57,18 +57,31 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Textron](http://textron.com)** | **[2025 Legal Operations Intern](https://jobright.ai/jobs/info/66d6f5667a0bf690b6194c7e?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Sep 03 |
+| ↳ | **[2025 Regulatory Compliance Intern- Thief River Falls, MN](https://jobright.ai/jobs/info/66d6fd77c2a561bae65a27af?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Sep 03 |
+| ↳ | **[2025 Regulatory Compliance Intern](https://jobright.ai/jobs/info/66d6ef45911a125f2d74224a?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Sep 03 |
+| ↳ | **[2025 Trade Compliance Intern](https://jobright.ai/jobs/info/66d6ef45911a125f2d74224e?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Sep 03 |
+| **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney’s Office Spring 2025 Legal Internship](https://jobright.ai/jobs/info/668d73801b3deecce70893e9?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 03 |
+| ↳ | **[Queens District Attorney's Office Brave Justice Summer 2025 Legal Internship](https://jobright.ai/jobs/info/6682b3d41cdfe5590b6daaf9?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 03 |
+| **[United Airlines](https://www.united.com/)** | **[Intern - Enterprise Risk Management (Summer 2025)](https://jobright.ai/jobs/info/66d6dfa2253ebcf59fb38c59?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
+| **[Hilton Worldwide](https://www.hilton.com/en/brands/home2-suites/)** | **[2025 Corporate Summer Internship - Legal](https://jobright.ai/jobs/info/66d6cb41c6c632e18b90bdac?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Sep 03 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data/Program Analyst - Compliance)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e476?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Sep 03 |
 | ↳ | **[Summer Associate Internship (Data/Program Analyst - Compliance)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e523?utm_campaign=1055&utm_source=git)** | Winchester, VA | Hybrid | Sep 03 |
-| ↳ | **[Summer Associate Internship (Data/Program Analyst - Compliance)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e52b?utm_campaign=1055&utm_source=git)** | Pensacola, FL | Hybrid | Sep 03 |
 | ↳ | **[Summer Associate Internship (Compliance Analyst - Monitoring and Testing)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e449?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Sep 03 |
+| ↳ | **[Summer Associate Internship (Data/Program Analyst - Compliance)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e52b?utm_campaign=1055&utm_source=git)** | Pensacola, FL | Hybrid | Sep 03 |
 | ↳ | **[Summer Associate Internship (Consumer Lending – Collateral Control)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e455?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Sep 03 |
 | ↳ | **[Summer Associate Internship (Consumer Lending – Collateral Control)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e468?utm_campaign=1055&utm_source=git)** | Pensacola, FL | Hybrid | Sep 03 |
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2025 Trade Compliance Intern](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e4c0?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Sep 02 |
 | ↳ | **[2025 Regulatory Compliance Intern- Thief River Falls, MN](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e496?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Sep 02 |
+| ↳ | **[2025 Regulatory Compliance Intern](https://jobright.ai/jobs/info/66d6da4ec2ac51ed9e11877f?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Sep 02 |
+| ↳ | **[2025 Legal Operations Intern](https://jobright.ai/jobs/info/66d6da4ec2ac51ed9e118784?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Sep 02 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2025 Legal Operations Intern](https://jobright.ai/jobs/info/66d6ab5da352ea63ba83adf4?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Sep 02 |
 | ↳ | **[2025 Regulatory Compliance Intern- Thief River Falls, MN](https://jobright.ai/jobs/info/66d6ab5da352ea63ba83ade4?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Sep 02 |
 | ↳ | **[2025 Regulatory Compliance Intern](https://jobright.ai/jobs/info/66d6ab5da352ea63ba83adf6?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Sep 02 |
 | ↳ | **[2025 Trade Compliance Intern](https://jobright.ai/jobs/info/66d6a02b5df46c29c981c6f8?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Sep 02 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2025 Intern - Regulatory Affairs/Quality Affairs - New Jersey](https://jobright.ai/jobs/info/66d708cc39ac1aafd9de0d4b?utm_campaign=1055&utm_source=git)** | Mahwah, NJ | On Site | Sep 02 |
+| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Supply Chain Compliance Intern (Summer 2025) (Hybrid)](https://jobright.ai/jobs/info/66d6ce9996f7baeb86ada104?utm_campaign=1055&utm_source=git)** | Des Moines, IA | Hybrid | Sep 02 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2025 Intern - Regulatory Affairs/Quality Affairs - California](https://jobright.ai/jobs/info/66d7066a6ea6cfb415999fee?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Sep 02 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Contracts Co-Op (Spring/Summer 2025)(Remote)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e48b?utm_campaign=1055&utm_source=git)** | Avondale Estates, GA | Hybrid | Sep 02 |
 | **[Astratek Solutions](http://www.astrateksol.com/projects.html)** | **[Summer Internship - Risk & Compliance](https://jobright.ai/jobs/info/66d5fffa9b1ac24073fcba8e?utm_campaign=1055&utm_source=git)** | Lake Mary, FL | Hybrid | Sep 02 |
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Risk and Compliance Intern - 2025](https://jobright.ai/jobs/info/66c66740dad76bb73c54629d?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Sep 02 |
@@ -140,6 +153,7 @@ For a complete list, click the following sortable link below:
 | **[Reinsurance Group Of America](http://www.rgare.com)** | **[Summer Intern - Group Claims Examiner (Minneapolis)](https://jobright.ai/jobs/info/66d0a145d5b928daabe99a24?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Aug 29 |
 | **[Cencora](http://www.cencora.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/66d09ec6cf4524445d5b7200?utm_campaign=1055&utm_source=git)** | Conshohocken, PA | On Site | Aug 29 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/66d1c217b0c4634246f74e36?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Aug 29 |
+| **[Grant Thornton](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2025](https://jobright.ai/jobs/info/66d6eb46c5a62a0f08c7b37e?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 29 |
 | **[U.S. Bancorp](http://www.usbank.com)** | **[2025 Financial Crimes Summer Intern](https://jobright.ai/jobs/info/66b44e91bc011512b88eea4a?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Aug 29 |
 | **[QuidelOrtho](http://quidelortho.com)** | **[DoD Skillbridge - Information Security Intern (Compliance)](https://jobright.ai/jobs/info/667b594d46c6f972c505d660?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Aug 29 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Legal Intern - remote](https://jobright.ai/jobs/info/66b3ea2db9345b6df86720b0?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Aug 29 |
@@ -184,7 +198,4 @@ For a complete list, click the following sortable link below:
 | **[Grant Thornton](https://www.grantthornton.com)** | **[Cybersecurity and Privacy Associate - Summer 2025](https://jobright.ai/jobs/info/66ce5f31c4351013f32024cf?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 27 |
 | **[CAIR-Chicago](https://www.cairchicago.org)** | **[Law Clerk](https://jobright.ai/jobs/info/66ce4d56c2ea9b93874c8a7e?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 27 |
 | **[Schonfeld Strategic Advisors](http://www.schonfeld.com/)** | **[2024 Compliance Fall Intern](https://jobright.ai/jobs/info/66ce6260bfc1b969cd335eb1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 27 |
-| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Professional Liability Underwriting](https://jobright.ai/jobs/info/66ce61a221e6ebc8b7aab04a?utm_campaign=1055&utm_source=git)** | Windsor, CT | Hybrid | Aug 27 |
-| **[Monroe County](https://www.monroecounty.gov)** | **[Legal Secretary II - Bilingual](https://jobright.ai/jobs/info/66ce433955d14b51ab0c1a45?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Aug 27 |
-| **[Grant Thornton](https://www.grantthornton.com)** | **[Cybersecurity and Privacy Associate - Summer 2025](https://jobright.ai/jobs/info/66ce186511a089cf92ca4344?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
