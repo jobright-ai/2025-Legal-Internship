@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Mexico Financial & Family Law](https://nmfinanciallaw.com)** | **[Paralegal](https://jobright.ai/jobs/info/66e2b145ae829b627d512c19?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | On Site | Sep 11 |
+| **[Disability Rights California](http://www.disabilityrightsca.org)** | **[Law Clerk 2025](https://jobright.ai/jobs/info/66e28088b19d24bd2042635b?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Remote | Sep 11 |
+| **[St. Michael's](http://www.stmichaelsinc.com)** | **[Government Contracting Intern](https://jobright.ai/jobs/info/66e273a818dbba65081ba97a?utm_campaign=1055&utm_source=git)** | Woodbridge, VA | On Site | Sep 11 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Financial Compliance](https://jobright.ai/jobs/info/66e24f66cbc3fa8c7673565e?utm_campaign=1055&utm_source=git)** | Amelia, OH | Hybrid | Sep 11 |
 | **[Federal Home Loan Bank of Chicago](http://www.fhlbc.com)** | **[Summer Internship - Enterprise Risk Management](https://jobright.ai/jobs/info/66e24c442a8a2ed7d0b7fdd0?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 11 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - 2024-25](https://jobright.ai/jobs/info/66e24b903cb22f34de674366?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Sep 11 |
 | **[Minneapolis Housing Authority](https://mphaonline.org)** | **[Law Clerk, Temporary](https://jobright.ai/jobs/info/66e24b903cb22f34de674575?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Sep 11 |
-| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Legal Intern](https://jobright.ai/jobs/info/66e23dd66ad63857eb1a409f?utm_campaign=1055&utm_source=git)** | Cape May, NJ | Hybrid | Sep 11 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Indirect Tax Counsel](https://jobright.ai/jobs/info/66e24b903cb22f34de67459d?utm_campaign=1055&utm_source=git)** | Hayward, CA | Hybrid | Sep 11 |
 | **[IMAGINE](https://www.theimaginegroup.com)** | **[Summer 2025 Corporate Legal Intern](https://jobright.ai/jobs/info/66e23b49247f205586185854?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Sep 11 |
 | **[Longroad Energy](https://www.longroadenergy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66e24481fb7ccc28d0f99183?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Sep 11 |
@@ -111,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[Intellectual Property Group Internship](https://jobright.ai/jobs/info/66e0f86ab37e254727cf76af?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Sep 10 |
 | **[U.S. Environmental Protection Agency](http://www.epa.gov)** | **[Summer Internship - Student Trainee (Legal)](https://jobright.ai/jobs/info/66e1c202fe17ffb1c317a61e?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Sep 10 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Legal, Contracts & Compliance Intern](https://jobright.ai/jobs/info/66e231f21c581963f284cedd?utm_campaign=1055&utm_source=git)** | Chula Vista, CA | On Site | Sep 10 |
-| **[The Boston Consulting Group](http://www.bcg.com)** | **[Compliance Co-op](https://jobright.ai/jobs/info/66e22bd53ae5f486348e0484?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 10 |
-| ↳ | **[Risk Management - Global Assurance & Advisory Co-op](https://jobright.ai/jobs/info/66e22bd53ae5f486348e04cb?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 10 |
+| **[The Boston Consulting Group](http://www.bcg.com)** | **[Risk Management - Global Assurance & Advisory Co-op](https://jobright.ai/jobs/info/66e22bd53ae5f486348e04cb?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 10 |
+| ↳ | **[Compliance Co-op](https://jobright.ai/jobs/info/66e22bd53ae5f486348e0484?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 10 |
 | ↳ | **[Legal Strategy & Operations Co-op](https://jobright.ai/jobs/info/66e22bd53ae5f486348e0492?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 10 |
 | **[ICF Next](https://www.icf.com/next)** | **[Purchasing Intern](https://jobright.ai/jobs/info/66e1e9b0e32dfba053c87456?utm_campaign=1055&utm_source=git)** | Richmond, VA | Hybrid | Sep 10 |
 | **[Federal Home Loan Bank of Chicago](http://www.fhlbc.com)** | **[Summer Internship - Enterprise Risk Management](https://jobright.ai/jobs/info/66e2391b51dab3f73d37ea4a?utm_campaign=1055&utm_source=git)** | Chicago | Hybrid | Sep 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Keches Law Group](https://kecheslaw.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/66dff79f54bf85fe2739ec0c?utm_campaign=1055&utm_source=git)** | Bridgewater, MA | On Site | Sep 09 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/66dff79f54bf85fe2739ebaf?utm_campaign=1055&utm_source=git)** | Milton, MA | On Site | Sep 09 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Information Technology](https://jobright.ai/jobs/info/66dfa6d1cfbb4737d361c639?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Sep 09 |
-| **[Santander US](https://www.santanderus.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66e09b2c21f4fbe401766b4a?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 09 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Information Technology](https://jobright.ai/jobs/info/66df9d4d19b8f7d475f576d7?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
