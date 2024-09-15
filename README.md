@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Circle](https://www.circle.com)** | **[Compliance Role](https://jobright.ai/jobs/info/66779c663fb2e61146dd6820?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 15 |
 | **[BCT](https://www.bct-llc.com/)** | **[Contract Maintenance Professional](https://jobright.ai/jobs/info/66e6734185b346813b190544?utm_campaign=1055&utm_source=git)** | Annapolis Junction, MD | Hybrid | Sep 14 |
 | **[Western New Mexico University](http://www.wnmu.edu/)** | **[Student Worker VP of Compliance and Communication](https://jobright.ai/jobs/info/66e65a7f23b730ecd9358fb1?utm_campaign=1055&utm_source=git)** | Silver City, NM | On Site | Sep 14 |
 | **[Transak](http://transak.com)** | **[Compliance Admin Intern](https://jobright.ai/jobs/info/66e5ab63c998bdc329e1d14c?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Sep 14 |
 | **[Siemens](https://www.siemens.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66e592fa99db55b903be4cf1?utm_campaign=1055&utm_source=git)** | Cary, NC | Hybrid | Sep 14 |
+| **[General Atomics](http://www.ga.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66e6cf0d099416efd5d15206?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Sep 14 |
 | **[Barclays](https://home.barclays)** | **[Compliance Analyst Summer Internship Program 2025](https://jobright.ai/jobs/info/66e57bd877c72ea674ec76d6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 14 |
 | **[NYC Department of Finance](http://www.nyc.gov/html/dof/html/home/home.shtml)** | **[Fraud Management College Aide](https://jobright.ai/jobs/info/66e08d6327ed9ce26d062925?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Sep 14 |
 | **[Crawford & Company](https://www.crawco.com)** | **[Claims Investigation Intern](https://jobright.ai/jobs/info/66c866ca65b6b07d782f8663?utm_campaign=1055&utm_source=git)** | Muncie, IN | On Site | Sep 14 |
@@ -108,8 +110,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Advisory Intern - Summer 2025](https://jobright.ai/jobs/info/66e42bdea6a21a2d1f92e610?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Sep 13 |
 | ↳ | **[Risk Advisory Intern](https://jobright.ai/jobs/info/66e42bdea6a21a2d1f92e617?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Sep 13 |
 | ↳ | **[Risk Advisory Intern - Summer 2025](https://jobright.ai/jobs/info/66e42bdea6a21a2d1f92e2fb?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 13 |
-| ↳ | **[Cybersecurity and Privacy Associate - Summer 2025](https://jobright.ai/jobs/info/66e42bdea6a21a2d1f92e355?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 13 |
 | ↳ | **[Risk Advisory Intern - Summer 2025](https://jobright.ai/jobs/info/66e42bdea6a21a2d1f92e61f?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Sep 13 |
+| ↳ | **[Cybersecurity and Privacy Associate - Summer 2025](https://jobright.ai/jobs/info/66e42bdea6a21a2d1f92e355?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 13 |
 | **[Expert Institute](https://expertinstitute.com/)** | **[Research Intern](https://jobright.ai/jobs/info/66c7fb7d2a96218b475d9f38?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Sep 13 |
 | **[Disability Rights Advocates](http://dralegal.org/)** | **[Summer Law Clerk (2025)](https://jobright.ai/jobs/info/66c7c30666edc81a6ab26ffc?utm_campaign=1055&utm_source=git)** | York, IL | Hybrid | Sep 13 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Cybersecurity and Compliance](https://jobright.ai/jobs/info/66c86b847ad3f6e67074ec4b?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Sep 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tennessee Justice Center](https://www.tnjustice.org)** | **[Summer Legal Clerkship - Health and Nutrition Equity](https://jobright.ai/jobs/info/66e309d5514bd53c0069682e?utm_campaign=1055&utm_source=git)** | Nashville, TN | Hybrid | Sep 12 |
 | **[Kuraray America Inc.](https://www.kuraray.us.com)** | **[Legal Intern, Summer 2025](https://jobright.ai/jobs/info/66e2e4fd7f2ec10d812beb10?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Sep 12 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[IP Litigation/Patent Prosecution Summer Associate](https://jobright.ai/jobs/info/66d714c852c279a1bc0c8062?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Sep 12 |
-| **[Link Logistics Real Estate](https://www.linklogistics.com/)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/66c694d536c87eb7de009848?utm_campaign=1055&utm_source=git)** | Illinois, United States | On Site | Sep 12 |
-| **[CareDx](https://www.caredx.com/)** | **[SOX Intern](https://jobright.ai/jobs/info/66c5c6bc045673cfb128af3a?utm_campaign=1055&utm_source=git)** | Brisbane, CA | Hybrid | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
