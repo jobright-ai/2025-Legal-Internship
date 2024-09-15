@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[IP Litigation/Patent Prosecution Summer Associate](https://jobright.ai/jobs/info/66d5c874428b4944c7224c84?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Sep 15 |
 | **[Circle](https://www.circle.com)** | **[Compliance Role](https://jobright.ai/jobs/info/66779c663fb2e61146dd6820?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 15 |
 | **[BCT](https://www.bct-llc.com/)** | **[Contract Maintenance Professional](https://jobright.ai/jobs/info/66e6734185b346813b190544?utm_campaign=1055&utm_source=git)** | Annapolis Junction, MD | Hybrid | Sep 14 |
 | **[Western New Mexico University](http://www.wnmu.edu/)** | **[Student Worker VP of Compliance and Communication](https://jobright.ai/jobs/info/66e65a7f23b730ecd9358fb1?utm_campaign=1055&utm_source=git)** | Silver City, NM | On Site | Sep 14 |
@@ -146,7 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Ernst & Young](http://www.ey.com)** | **[Personal Independence Compliance Intern](https://jobright.ai/jobs/info/66e402d5aa00756d51bcdc6a?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 12 |
 | **[Philips](https://www.usa.philips.com)** | **[Intern – Service Contracts and Service Operations](https://jobright.ai/jobs/info/66e342caf73eefc86eb6a2d1?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Sep 12 |
 | **[Ernst & Young](http://www.ey.com)** | **[Personal Independence Compliance Intern](https://jobright.ai/jobs/info/66e342e0bdfea77108d2f8bc?utm_campaign=1055&utm_source=git)** | Iselin, NJ | On Site | Sep 12 |
-| **[Unofficial DP&L Company Page](http://dpandl.com)** | **[Intern - Pricing - Regulatory Affairs](https://jobright.ai/jobs/info/66e3450ef1a4035774071aa8?utm_campaign=1055&utm_source=git)** | Ohio, United States | On Site | Sep 12 |
+| **[Unofficial DP&L Company Page](http://dpandl.com)** | **[Co-op internship - Pricing - Regulatory Affairs](https://jobright.ai/jobs/info/66e34c72af26bd7bda725d76?utm_campaign=1055&utm_source=git)** | Ohio, United States | On Site | Sep 12 |
+| ↳ | **[Intern - Pricing - Regulatory Affairs](https://jobright.ai/jobs/info/66e34c72af26bd7bda725ed6?utm_campaign=1055&utm_source=git)** | Ohio, United States | On Site | Sep 12 |
 | **[Johnson Financial Group](https://www.johnsonfinancialgroup.com/)** | **[Wealth Fiduciary Intern](https://jobright.ai/jobs/info/66e33c3e2c68997aebf6b156?utm_campaign=1055&utm_source=git)** | Racine, WI | On Site | Sep 12 |
 | **[Key Bridge Compliance](https://www.keybridgecompliance.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/66e333d5c4c5d1b0f0c39505?utm_campaign=1055&utm_source=git)** | Covington, KY | Hybrid | Sep 12 |
 | **[Textron](http://textron.com)** | **[Intern - Security](https://jobright.ai/jobs/info/66e33095a5c4eabf79cc8e49?utm_campaign=1055&utm_source=git)** | Hunt Valley, MD | Hybrid | Sep 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Energy Compliance Services Intern - Spring 2025](https://jobright.ai/jobs/info/66cc5cbdd9249734a6add1a9?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Sep 12 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2024 Regulatory Internship](https://jobright.ai/jobs/info/66e309d5514bd53c006967c5?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 12 |
 | **[Tennessee Justice Center](https://www.tnjustice.org)** | **[Summer Legal Clerkship - Health and Nutrition Equity](https://jobright.ai/jobs/info/66e309d5514bd53c0069682e?utm_campaign=1055&utm_source=git)** | Nashville, TN | Hybrid | Sep 12 |
-| **[Kuraray America Inc.](https://www.kuraray.us.com)** | **[Legal Intern, Summer 2025](https://jobright.ai/jobs/info/66e2e4fd7f2ec10d812beb10?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Sep 12 |
-| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[IP Litigation/Patent Prosecution Summer Associate](https://jobright.ai/jobs/info/66d714c852c279a1bc0c8062?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
