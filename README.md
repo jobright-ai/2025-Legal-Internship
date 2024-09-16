@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ENGIE North America](http://www.engie-na.com/)** | **[Contracts Intern](https://jobright.ai/jobs/info/66e7a6a39872b5020b1267b6?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Sep 15 |
 | **[Guest and Gray Law Firm](http://guestandgray.com)** | **[Criminal Law Intern - Law Student](https://jobright.ai/jobs/info/66e7480fdb026b3e95414c24?utm_campaign=1055&utm_source=git)** | Forney, TX | Hybrid | Sep 15 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[IP Litigation/Patent Prosecution Summer Associate](https://jobright.ai/jobs/info/66d5c874428b4944c7224c84?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Sep 15 |
 | ↳ | **[IP Litigation/Patent Prosecution Summer Associate](https://jobright.ai/jobs/info/66dc328b642759745132a9d6?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Sep 15 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation](https://jobright.ai/jobs/info/66d6f656d9e475b93e4cf737?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Sep 15 |
 | **[Circle](https://www.circle.com)** | **[Compliance Role](https://jobright.ai/jobs/info/66779c663fb2e61146dd6820?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 15 |
 | **[BCT](https://www.bct-llc.com/)** | **[Contract Maintenance Professional](https://jobright.ai/jobs/info/66e6734185b346813b190544?utm_campaign=1055&utm_source=git)** | Annapolis Junction, MD | Hybrid | Sep 14 |
 | **[Western New Mexico University](http://www.wnmu.edu/)** | **[Student Worker VP of Compliance and Communication](https://jobright.ai/jobs/info/66e65a7f23b730ecd9358fb1?utm_campaign=1055&utm_source=git)** | Silver City, NM | On Site | Sep 14 |
 | **[Transak](http://transak.com)** | **[Compliance Admin Intern](https://jobright.ai/jobs/info/66e5ab63c998bdc329e1d14c?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Sep 14 |
 | **[Siemens](https://www.siemens.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66e592fa99db55b903be4cf1?utm_campaign=1055&utm_source=git)** | Cary, NC | Hybrid | Sep 14 |
-| **[General Atomics](http://www.ga.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66e6cf0d099416efd5d15206?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Sep 14 |
 | **[Barclays](https://home.barclays)** | **[Compliance Analyst Summer Internship Program 2025](https://jobright.ai/jobs/info/66e57bd877c72ea674ec76d6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 14 |
 | **[NYC Department of Finance](http://www.nyc.gov/html/dof/html/home/home.shtml)** | **[Fraud Management College Aide](https://jobright.ai/jobs/info/66e08d6327ed9ce26d062925?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Sep 14 |
 | **[Crawford & Company](https://www.crawco.com)** | **[Claims Investigation Intern](https://jobright.ai/jobs/info/66c866ca65b6b07d782f8663?utm_campaign=1055&utm_source=git)** | Muncie, IN | On Site | Sep 14 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[New York Civil Liberties Union](http://www.nyclu.org/)** | **[Special Project Researcher Intern](https://jobright.ai/jobs/info/66e4ee2460c29e515c8e3a94?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 13 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Global Regulatory Affairs, Virology](https://jobright.ai/jobs/info/66e4dcdace25803eb76980a9?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Sep 13 |
 | **[Robinhood](https://www.robinhood.com)** | **[RHM Compliance Intern](https://jobright.ai/jobs/info/66e4d46aaf5d615ca04f088f?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 13 |
-| **[Pierce County](https://www.piercecountywa.gov/)** | **[Legal Interns - Rule 9](https://jobright.ai/jobs/info/66e4cffacfa609ea8c297a6c?utm_campaign=1055&utm_source=git)** | Tacoma, WA | Hybrid | Sep 13 |
 | **[Brightly](https://www.brightlysoftware.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66e4ca469594f18f85d9ff2e?utm_campaign=1055&utm_source=git)** | Cary, NC | Hybrid | Sep 13 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services](https://jobright.ai/jobs/info/66e4ca469594f18f85da014f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Sep 13 |
 | **[Political Consultant](https://www.linkedin.com/company/2135212)** | **[Student Intern](https://jobright.ai/jobs/info/66e4c6bcc065adacdcb10cd0?utm_campaign=1055&utm_source=git)** | Triangle Area | Hybrid | Sep 13 |
@@ -114,8 +114,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Advisory Intern - Summer 2025](https://jobright.ai/jobs/info/66e42bdea6a21a2d1f92e610?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Sep 13 |
 | ↳ | **[Risk Advisory Intern - Summer 2025](https://jobright.ai/jobs/info/66e42bdea6a21a2d1f92e2fb?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 13 |
 | ↳ | **[Risk Advisory Intern](https://jobright.ai/jobs/info/66e42bdea6a21a2d1f92e617?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Sep 13 |
-| ↳ | **[Cybersecurity and Privacy Associate - Summer 2025](https://jobright.ai/jobs/info/66e42bdea6a21a2d1f92e355?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 13 |
 | ↳ | **[Risk Advisory Intern - Summer 2025](https://jobright.ai/jobs/info/66e42bdea6a21a2d1f92e61f?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Sep 13 |
+| ↳ | **[Cybersecurity and Privacy Associate - Summer 2025](https://jobright.ai/jobs/info/66e42bdea6a21a2d1f92e355?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 13 |
 | **[Expert Institute](https://expertinstitute.com/)** | **[Research Intern](https://jobright.ai/jobs/info/66c7fb7d2a96218b475d9f38?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Sep 13 |
 | **[Disability Rights Advocates](http://dralegal.org/)** | **[Summer Law Clerk (2025)](https://jobright.ai/jobs/info/66c7c30666edc81a6ab26ffc?utm_campaign=1055&utm_source=git)** | York, IL | Hybrid | Sep 13 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Cybersecurity and Compliance](https://jobright.ai/jobs/info/66c86b847ad3f6e67074ec4b?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Sep 13 |
