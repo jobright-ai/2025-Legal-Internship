@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[COO Business Risk Control and Regulatory Oversight Summer Internship](https://jobright.ai/jobs/info/66e7e73d772d836a758dd6db?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Sep 16 |
+| **[MFS Investment Management](https://www.mfs.com)** | **[Compliance Co-op](https://jobright.ai/jobs/info/66e7e0a6e3e0469418f49901?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Sep 16 |
+| **[Sidley Austin](http://www.sidley.com)** | **[Legal Secretary Trainee](https://jobright.ai/jobs/info/66e7c3d1b30015e59f2ba727?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 15 |
 | **[ENGIE North America](http://www.engie-na.com/)** | **[Contracts Intern](https://jobright.ai/jobs/info/66e7a6a39872b5020b1267b6?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Sep 15 |
 | **[Guest and Gray Law Firm](http://guestandgray.com)** | **[Criminal Law Intern - Law Student](https://jobright.ai/jobs/info/66e7480fdb026b3e95414c24?utm_campaign=1055&utm_source=git)** | Forney, TX | Hybrid | Sep 15 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[IP Litigation/Patent Prosecution Summer Associate](https://jobright.ai/jobs/info/66d5c874428b4944c7224c84?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Sep 15 |
 | ↳ | **[IP Litigation/Patent Prosecution Summer Associate](https://jobright.ai/jobs/info/66dc328b642759745132a9d6?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Sep 15 |
+| ↳ | **[IP Litigation/Patent Prosecution Summer Associate](https://jobright.ai/jobs/info/66d45f03af806213c12ea3fd?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Sep 15 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation](https://jobright.ai/jobs/info/66d6f656d9e475b93e4cf737?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Sep 15 |
 | **[Circle](https://www.circle.com)** | **[Compliance Role](https://jobright.ai/jobs/info/66779c663fb2e61146dd6820?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 15 |
 | **[BCT](https://www.bct-llc.com/)** | **[Contract Maintenance Professional](https://jobright.ai/jobs/info/66e6734185b346813b190544?utm_campaign=1055&utm_source=git)** | Annapolis Junction, MD | Hybrid | Sep 14 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Philips](https://www.usa.philips.com)** | **[Intern – Service Contracts and Service Operations](https://jobright.ai/jobs/info/66e342caf73eefc86eb6a2d1?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Sep 12 |
 | **[Ernst & Young](http://www.ey.com)** | **[Personal Independence Compliance Intern](https://jobright.ai/jobs/info/66e342e0bdfea77108d2f8bc?utm_campaign=1055&utm_source=git)** | Iselin, NJ | On Site | Sep 12 |
 | **[Unofficial DP&L Company Page](http://dpandl.com)** | **[Intern - Pricing - Regulatory Affairs](https://jobright.ai/jobs/info/66e34c72af26bd7bda725ed6?utm_campaign=1055&utm_source=git)** | Ohio, United States | On Site | Sep 12 |
-| ↳ | **[Co-op internship - Pricing - Regulatory Affairs](https://jobright.ai/jobs/info/66e34c72af26bd7bda725f0a?utm_campaign=1055&utm_source=git)** | Ohio, United States | On Site | Sep 12 |
 | **[Johnson Financial Group](https://www.johnsonfinancialgroup.com/)** | **[Wealth Fiduciary Intern](https://jobright.ai/jobs/info/66e33c3e2c68997aebf6b156?utm_campaign=1055&utm_source=git)** | Racine, WI | On Site | Sep 12 |
 | **[Key Bridge Compliance](https://www.keybridgecompliance.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/66e333d5c4c5d1b0f0c39505?utm_campaign=1055&utm_source=git)** | Covington, KY | Hybrid | Sep 12 |
-| **[Textron](http://textron.com)** | **[Intern - Security](https://jobright.ai/jobs/info/66e33095a5c4eabf79cc8e49?utm_campaign=1055&utm_source=git)** | Hunt Valley, MD | Hybrid | Sep 12 |
-| **[Hussmann](http://www.hussmann.com)** | **[Intern - Risk Management & Safety](https://jobright.ai/jobs/info/66e339d6764f97187602609c?utm_campaign=1055&utm_source=git)** | Bridgeton, MO | On Site | Sep 12 |
-| **[Weaver](http://www.weaver.com)** | **[Energy Compliance Services Intern - Spring 2025](https://jobright.ai/jobs/info/66cb0491796ebc6d6929cb4b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
