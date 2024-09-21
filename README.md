@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[STAAR Surgical Company](http://staar.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/66ee81967018e4ad423b7851?utm_campaign=1055&utm_source=git)** | Lake Forest, CA | Hybrid | Sep 21 |
+| **[Florida Rural Legal Services](https://www.frls.org)** | **[Pro Bono Paralegal/Advocacy Assistant](https://jobright.ai/jobs/info/66ee85b028b9b39b3726dcf5?utm_campaign=1055&utm_source=git)** | Lakeland, FL | On Site | Sep 21 |
 | **[The Public Company Accounting Oversight Board(PCAOB)](https://pcaobus.org)** | **[Summer 2025 Legal Intern](https://jobright.ai/jobs/info/66ee33a990fd7ea20e1737ae?utm_campaign=1055&utm_source=git)** | Irvine, CA | Hybrid | Sep 20 |
 | ↳ | **[Summer 2025 Legal Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eec7e?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Sep 20 |
 | ↳ | **[Summer 2025 Legal Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eec8d?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Sep 20 |
@@ -64,8 +66,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Legal Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eec96?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
 | ↳ | **[Summer 2025 Legal Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eeca3?utm_campaign=1055&utm_source=git)** | Ashburn, VA | Hybrid | Sep 20 |
 | ↳ | **[Summer 2025 Legal Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eecaa?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Sep 20 |
-| ↳ | **[Summer 2025 Legal Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eecb4?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Sep 20 |
 | ↳ | **[Summer 2025 Legal Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eecae?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 20 |
+| ↳ | **[Summer 2025 Legal Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eecb4?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Sep 20 |
 | ↳ | **[Summer 2025 Legal Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eecb6?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Sep 20 |
 | ↳ | **[Summer 2025 Legal Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eecb5?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 20 |
 | **[Peterman Heating & Cooling Inc](https://www.petermanhvac.com)** | **[Licensing Internship - Part Time](https://jobright.ai/jobs/info/66ee28ae8daf78cc7f9d8e2b?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Sep 20 |
@@ -83,18 +85,19 @@ For a complete list, click the following sortable link below:
 | **[Teva Pharmaceuticals](https://www.tevapharm.com)** | **[Customs Compliance Assistant Co-Op](https://jobright.ai/jobs/info/66ee0b015cbce5924d7676e0?utm_campaign=1055&utm_source=git)** | North Wales, PA | On Site | Sep 20 |
 | **[Cordell & Cordell](http://cordellcordell.com)** | **[Law Clerk](https://jobright.ai/jobs/info/66ee07d1a6df215d367bd156?utm_campaign=1055&utm_source=git)** | Belleville, IL | On Site | Sep 20 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/66ee07d1a6df215d367bd189?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Sep 20 |
-| ↳ | **[Law Clerk](https://jobright.ai/jobs/info/66ee07d1a6df215d367bd1a8?utm_campaign=1055&utm_source=git)** | Independence, MO | On Site | Sep 20 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/66ee07d1a6df215d367bd178?utm_campaign=1055&utm_source=git)** | Falls Church, VA | On Site | Sep 20 |
+| ↳ | **[Law Clerk](https://jobright.ai/jobs/info/66ee07d1a6df215d367bd1a8?utm_campaign=1055&utm_source=git)** | Independence, MO | On Site | Sep 20 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Fall River - Spring 2025](https://jobright.ai/jobs/info/66edeb87108e5a0e33eca3c4?utm_campaign=1055&utm_source=git)** | Fall River, MA | On Site | Sep 20 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Spring Legal Intern](https://jobright.ai/jobs/info/66eddcf3cd331adca7e106f0?utm_campaign=1055&utm_source=git)** | Calabasas, CA | Hybrid | Sep 20 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - CAFL Springfield - Spring 2025](https://jobright.ai/jobs/info/66edf14c2e01da2121943962?utm_campaign=1055&utm_source=git)** | Springfield, MA | Hybrid | Sep 20 |
-| ↳ | **[Internship Opportunities - Mental Health Litigation Division](https://jobright.ai/jobs/info/66eddd0665b05413293a1860?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Sep 20 |
 | ↳ | **[Internship - Mental Health Litigation Division](https://jobright.ai/jobs/info/66eddd0665b05413293a1884?utm_campaign=1055&utm_source=git)** | Brockton, MA | Hybrid | Sep 20 |
+| ↳ | **[Internship Opportunities - Mental Health Litigation Division](https://jobright.ai/jobs/info/66eddd0665b05413293a1860?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Sep 20 |
 | **[Claroty](https://www.claroty.com)** | **[Governance Risk and Compliance Intern](https://jobright.ai/jobs/info/66edd6af99f2d82cbbffbdea?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 20 |
 | ↳ | **[Governance Risk and Compliance Intern](https://jobright.ai/jobs/info/66edd6af99f2d82cbbffbe1b?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Sep 20 |
 | **[Ohio Department of Education](http://education.ohio.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/66edd40dae90441a8410cdae?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Sep 20 |
 | **[KeyBank](https://www.key.com)** | **[Summer Risk Management Internship](https://jobright.ai/jobs/info/66edbeae892df853693f7b2e?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Sep 20 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Advisory Cybersecurity and Compliance Advisor](https://jobright.ai/jobs/info/66edbc09dfa136335ec0519e?utm_campaign=1055&utm_source=git)** | Newtown Square, PA | Hybrid | Sep 20 |
+| **[Seyfarth Shaw](http://www.seyfarth.com)** | **[Summer Associate](https://jobright.ai/jobs/info/66ee80b451fc46e75ad44355?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Sep 20 |
 | **[City of New York](http://www1.nyc.gov)** | **[Compliance Intern](https://jobright.ai/jobs/info/66edc1afee631938b720ae83?utm_campaign=1055&utm_source=git)** | Manhattan, NY | Hybrid | Sep 20 |
 | **[Kimball Electronics](http://www.kimballelectronics.com)** | **[Legal Analyst Intern](https://jobright.ai/jobs/info/66e08a4662f5bb8c3eb0cac4?utm_campaign=1055&utm_source=git)** | Jasper, IN | On Site | Sep 20 |
 | **[Norfolk Southern Corporation](https://www.nscorp.com)** | **[Compliance Intern - Spring 2025](https://jobright.ai/jobs/info/66edb31767d8a1ede67ae7ad?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Sep 20 |
@@ -119,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Lexington Medical, Inc.](https://www.lexington-med.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/66ecf01f9f03950e4e360bd9?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Sep 19 |
 | **[The Public Company Accounting Oversight Board(PCAOB)](https://pcaobus.org)** | **[Summer 2025 Legal Intern](https://jobright.ai/jobs/info/66ee17215139d01a181550bc?utm_campaign=1055&utm_source=git)** | Washington D.C. | On Site | Sep 19 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Spring Legal Intern](https://jobright.ai/jobs/info/66edbf902a9e073e2ef254d5?utm_campaign=1055&utm_source=git)** | Calabasas, CA, USA | On Site | Sep 19 |
-| **[Cordell & Cordell](http://cordellcordell.com)** | **[Law Clerk](https://jobright.ai/jobs/info/66ecc9611251dad010a21e2a?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 19 |
 | **[Northern Trust](http://www.northerntrust.com)** | **[Risk & Compliance Intern](https://jobright.ai/jobs/info/66ecaee6cf31dc0a1b1a385c?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
+| **[Cordell & Cordell](http://cordellcordell.com)** | **[Law Clerk](https://jobright.ai/jobs/info/66ecc9611251dad010a21e2a?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 19 |
 | **[A-C Electric Company](http://a-celectric.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/66ecad27422719cc48d575c9?utm_campaign=1055&utm_source=git)** | Bakersfield, CA | On Site | Sep 19 |
 | **[Huntsman](http://www.huntsman.com/corporate/a/Home)** | **[Legal Internship](https://jobright.ai/jobs/info/66ecb5158d98996de62a4fb1?utm_campaign=1055&utm_source=git)** | The Woodlands, TX | On Site | Sep 19 |
 | **[Independent Sports & Entertainment](http://www.iseworldwide.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/66ec9eb9e2ed5f97793ddca8?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - PDD Lowell - Spring 2025](https://jobright.ai/jobs/info/66ebe56b3301540617bc5036?utm_campaign=1055&utm_source=git)** | Lowell, MA | On Site | Sep 19 |
 | ↳ | **[Internship - Special Projects Unit - Spring 2025](https://jobright.ai/jobs/info/66ebe56b3301540617bc5029?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 19 |
 | ↳ | **[Internship - Alternative Commitment & Registration Support Unit - Spring 2025](https://jobright.ai/jobs/info/66ebe56b3301540617bc5016?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Sep 19 |
-| ↳ | **[Internship - YAD Roxbury - Spring 2025](https://jobright.ai/jobs/info/66ebe56b3301540617bc5020?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Sep 19 |
-| **[Southern California Edison](https://www.sce.com)** | **[Law Clerk Program - Law Students](https://jobright.ai/jobs/info/66ebd6b1fb47224dc0cbebd1?utm_campaign=1055&utm_source=git)** | Rosemead, CA | Hybrid | Sep 18 |
-| **[Occidental Petroleum](https://www.oxy.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/66ebc927f6ecfc93798e7d7a?utm_campaign=1055&utm_source=git)** | The Woodlands, TX | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
