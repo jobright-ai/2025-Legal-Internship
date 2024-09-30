@@ -94,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/66f750c076236dd53c8791e9?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Sep 27 |
 | **[Federal Bureau of Prisons](https://www.bop.gov)** | **[DOJ Pathways Internship Program Bureau of Prisons Student Trainee (Psychology Student Trainee)](https://jobright.ai/jobs/info/66f7599d7503016fff815f4a?utm_campaign=1055&utm_source=git)** | Milan, MI | On Site | Sep 27 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Intern, Mergers and Acquisitions - Supervision & Regulation](https://jobright.ai/jobs/info/66f7365a4900229d5c0cc475?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Sep 27 |
-| **[Aqua Global Systems](https://aquaglobalsystems.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/66f72845d990f672ad7cd32a?utm_campaign=1055&utm_source=git)** | Maryland, United States | Hybrid | Sep 27 |
 | **[West Bend Mutual Insurance](http://www.thesilverlining.com/)** | **[Intern - IT Compliance Analyst](https://jobright.ai/jobs/info/66f7137dbb692bf70848aad4?utm_campaign=1055&utm_source=git)** | West Bend, WI | On Site | Sep 27 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Risk Control Intern](https://jobright.ai/jobs/info/66df89fd446ac25663cf0f40?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Sep 27 |
 | **[CSX](http://www.csx.com)** | **[CSX Fraud Data Analytics Internship](https://jobright.ai/jobs/info/66f7b15cd468686c4f6756b5?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Sep 27 |
@@ -103,9 +102,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/66f6fdbeb37cb62b7dd723ab?utm_campaign=1055&utm_source=git)** | Shelbyville, KY | On Site | Sep 27 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/66f6fdbeb37cb62b7dd7239d?utm_campaign=1055&utm_source=git)** | Owensboro, KY | On Site | Sep 27 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/66f6fdbeb37cb62b7dd723ad?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Sep 27 |
-| ↳ | **[Law Clerk](https://jobright.ai/jobs/info/66f6fdbeb37cb62b7dd7239c?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Sep 27 |
-| ↳ | **[Law Clerk](https://jobright.ai/jobs/info/66f6fdbeb37cb62b7dd723aa?utm_campaign=1055&utm_source=git)** | Cynthiana, KY | On Site | Sep 27 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/66f6fdbeb37cb62b7dd723b1?utm_campaign=1055&utm_source=git)** | Lexington, KY | On Site | Sep 27 |
+| ↳ | **[Law Clerk](https://jobright.ai/jobs/info/66f6fdbeb37cb62b7dd723aa?utm_campaign=1055&utm_source=git)** | Cynthiana, KY | On Site | Sep 27 |
+| ↳ | **[Law Clerk](https://jobright.ai/jobs/info/66f6fdbeb37cb62b7dd7239e?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Sep 27 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/66f6fdbeb37cb62b7dd723c2?utm_campaign=1055&utm_source=git)** | Maysville, KY | On Site | Sep 27 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/66f6fdbeb37cb62b7dd723ba?utm_campaign=1055&utm_source=git)** | Burlington, KY | On Site | Sep 27 |
 | **[bizquick](http://www.bizquick.club)** | **[Legal Intern](https://jobright.ai/jobs/info/66f81de637d6d36039651de4?utm_campaign=1055&utm_source=git)** | San José Metropolitan Area | On Site | Sep 27 |
@@ -142,14 +141,14 @@ For a complete list, click the following sortable link below:
 | **[Equity Residential](http://equityapartments.com)** | **[Legal Intern - Summer 2025](https://jobright.ai/jobs/info/66f8e6cd031b2c2e664e6b1f?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 26 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern - Summer 2025](https://jobright.ai/jobs/info/66f65069e7ada2344590b416?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Sep 26 |
 | **[Athene](https://www.athene.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/66f618897a41ef2035726331?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Sep 26 |
-| **[Jackson Lewis P.C.](http://www.jacksonlewis.com)** | **[Summer Associate](https://jobright.ai/jobs/info/66f6f97930bb623a9f86ec51?utm_campaign=1055&utm_source=git)** | US - NE - Omaha | On Site | Sep 26 |
-| ↳ | **[2025 Summer Associate](https://jobright.ai/jobs/info/66f6f97930bb623a9f86ec30?utm_campaign=1055&utm_source=git)** | US - OH - Cleveland | On Site | Sep 26 |
+| **[Jackson Lewis P.C.](http://www.jacksonlewis.com)** | **[2025 Summer Associate](https://jobright.ai/jobs/info/66f6f97930bb623a9f86ec30?utm_campaign=1055&utm_source=git)** | US - OH - Cleveland | On Site | Sep 26 |
+| ↳ | **[Summer Associate](https://jobright.ai/jobs/info/66f6f97930bb623a9f86ec51?utm_campaign=1055&utm_source=git)** | US - NE - Omaha | On Site | Sep 26 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e838b27?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 26 |
-| **[EAU Holdings](https://www.eauholdings.com/)** | **[International Trade Compliance Internship](https://jobright.ai/jobs/info/66f7ab39aacfbd677b026047?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Sep 26 |
-| ↳ | **[International Trade Compliance Internship](https://jobright.ai/jobs/info/66f7ab70aacfbd677b026694?utm_campaign=1055&utm_source=git)** | Pleasant Prairie, WI | On Site | Sep 26 |
+| **[EAU Holdings](https://www.eauholdings.com/)** | **[International Trade Compliance Internship](https://jobright.ai/jobs/info/66f7ab70aacfbd677b026694?utm_campaign=1055&utm_source=git)** | Pleasant Prairie, WI | On Site | Sep 26 |
+| ↳ | **[International Trade Compliance Internship](https://jobright.ai/jobs/info/66f7ab70aacfbd677b0266aa?utm_campaign=1055&utm_source=git)** | Kenosha, WI | On Site | Sep 26 |
 | ↳ | **[International Trade Compliance Internship](https://jobright.ai/jobs/info/66f7ab70aacfbd677b0266a9?utm_campaign=1055&utm_source=git)** | Waukegan, IL | On Site | Sep 26 |
 | ↳ | **[International Trade Compliance Internship](https://jobright.ai/jobs/info/66f7ab70aacfbd677b0266ab?utm_campaign=1055&utm_source=git)** | Glenview, IL | On Site | Sep 26 |
-| ↳ | **[International Trade Compliance Internship](https://jobright.ai/jobs/info/66f7ab70aacfbd677b0266aa?utm_campaign=1055&utm_source=git)** | Kenosha, WI | On Site | Sep 26 |
+| ↳ | **[International Trade Compliance Internship](https://jobright.ai/jobs/info/66f7ab39aacfbd677b026047?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Sep 26 |
 | **[American Transmission Co](http://www.atcllc.com/)** | **[Intern - Legal Summer 2025](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e838bdd?utm_campaign=1055&utm_source=git)** | Pewaukee, WI | On Site | Sep 26 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer Intern - Law](https://jobright.ai/jobs/info/66f5e418f757854a9098903b?utm_campaign=1055&utm_source=git)** | Lanham, MD | Hybrid | Sep 26 |
 | **[Kirkland & Ellis](http://www.kirkland.com/)** | **[Paralegal Trainee](https://jobright.ai/jobs/info/66f60dd016e3aa0b2f9127cc?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Legal Summer Intern JD](https://jobright.ai/jobs/info/66f5f7cc509f92bbaa99093f?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Sep 26 |
 | ↳ | **[Legal Summer Intern JD](https://jobright.ai/jobs/info/66f5e8dd6d59fcfcf15b8bfb?utm_campaign=1055&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Sep 26 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Regulatory Affairs Co-op](https://jobright.ai/jobs/info/66f5d12f3b562de4839a17a2?utm_campaign=1055&utm_source=git)** | Danvers, MA | On Site | Sep 26 |
+| ↳ | **[IDAR Summer Intern](https://jobright.ai/jobs/info/66f5d12f3b562de4839a17b7?utm_campaign=1055&utm_source=git)** | Spring House, PA | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
