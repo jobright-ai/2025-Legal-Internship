@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sentry](https://www.sentry.com/)** | **[IS Governance, Risk, and Compliance Internship- Summer 2025](https://jobright.ai/jobs/info/67013dc5feee2c449b97237c?utm_campaign=1055&utm_source=git)** | Stevens Point, WI | Hybrid | Oct 05 |
+| **[CONMED Corporation](http://www.conmed.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/67012515aa6fa70f9056e553?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Oct 05 |
+| **[Janney Montgomery Scott LLC](http://www.janney.com)** | **[Compliance and Risk Management Intern](https://jobright.ai/jobs/info/66e4838959e59f33b27102ba?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Oct 05 |
+| **[Acuity Insurance](http://www.acuity.com)** | **[Claims Intern](https://jobright.ai/jobs/info/66e4a2adba227f94793e8db2?utm_campaign=1055&utm_source=git)** | Sheboygan, WI | On Site | Oct 05 |
+| **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern - Property & Casualty Claims (Summer 2025)](https://jobright.ai/jobs/info/66e4b3f2645cf8c6bcf3f573?utm_campaign=1055&utm_source=git)** | West Bend, WI | On Site | Oct 05 |
+| **[General Atomics](http://www.ga.com)** | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/67011d98f53d9834faf1cf00?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 05 |
+| **[Universal Orlando Resort](http://www.universalorlando.com)** | **[Internship – UDX Operational Alignment & Compliance (Summer 2025)](https://jobright.ai/jobs/info/67011d98f53d9834faf1cd07?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Oct 05 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2025 Personal Lines Claims Intern](https://jobright.ai/jobs/info/6701110c9e26b6e1bec1adf5?utm_campaign=1055&utm_source=git)** | Columbus, OH | Remote | Oct 05 |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2025 Democracy Legal Internship, DC](https://jobright.ai/jobs/info/66fc95faa8c1cf0a727617ec?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 04 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Summer 2025 Undergraduate Internship - Legal, Risk, Compliance & Audit](https://jobright.ai/jobs/info/6700b5969cb8070f13894de7?utm_campaign=1055&utm_source=git)** | Westlake, TX | Hybrid | Oct 04 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2025 Democracy Legal Internship, NY](https://jobright.ai/jobs/info/66fc95faa8c1cf0a727617d0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 04 |
 | ↳ | **[Summer 2025 Democracy Legal Internship, NY](https://jobright.ai/jobs/info/66fc95faa8c1cf0a727617d1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 04 |
@@ -82,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Chad Jones Law](https://www.chadjoneslaw.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/66ffd50299b8dd2587b8ddd0?utm_campaign=1055&utm_source=git)** | College Station, TX | On Site | Oct 04 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Regulatory Affairs Summer Intern](https://jobright.ai/jobs/info/66ffcd495389e811091cec94?utm_campaign=1055&utm_source=git)** | Raritan, NJ | On Site | Oct 04 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Corporate Legal](https://jobright.ai/jobs/info/66ffc409ae123988c6c89951?utm_campaign=1055&utm_source=git)** | Waltham, MA | Hybrid | Oct 04 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern- Cybersecurity and Compliance, ES&I -Campus 2025](https://jobright.ai/jobs/info/6700693a65ee9e8b312ad3d8?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Oct 04 |
 | **[FM Global](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/66ffc49fd24aa8196edc3092?utm_campaign=1055&utm_source=git)** | Park Ridge, IL | On Site | Oct 04 |
 | **[Philips](https://www.usa.philips.com)** | **[Intern – Service Contracts and Service Operations – Nashville, TN – Summer 2025](https://jobright.ai/jobs/info/6700255fc382b018f4e8a5bf?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Oct 04 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[First Line Risk Management Intern](https://jobright.ai/jobs/info/66e3703cdc7bb4a4ce6a0924?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Oct 04 |
@@ -95,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Sentry](https://www.sentry.com/)** | **[IS Government, Risk, and Compliance Internship- Summer 2025](https://jobright.ai/jobs/info/67000d7ae074b78c496d700d?utm_campaign=1055&utm_source=git)** | Stevens Point, WI | Hybrid | Oct 03 |
 | **[Gallagher](http://www.ajg.com)** | **[Risk Control Intern GSIP](https://jobright.ai/jobs/info/66ff51f860c175547590413e?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
 | **[CN](http://www.cn.ca)** | **[Intern, Real Estate- EN](https://jobright.ai/jobs/info/66ff0f927062262b2082a558?utm_campaign=1055&utm_source=git)** | Homewood, IL | Hybrid | Oct 03 |
-| **[City of Indianapolis](https://www.indy.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/66ff5681a403e992c52f4f81?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Oct 03 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/66ff0896047aa8b325bfe4a0?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
 | ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/66ff0896047aa8b325bfe536?utm_campaign=1055&utm_source=git)** | Winter Park, FL | Hybrid | Oct 03 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024 Children's Legal Services Intern](https://jobright.ai/jobs/info/66ff05924ab8bdc5e8097aba?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/66e0b2eaab0844ce7bdbf641?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 02 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Legal Intern (Pro Bono Scholar)](https://jobright.ai/jobs/info/66c5095c5bec3e48f9c8c67a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 02 |
 | **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[Spring 2025 Legal Clerkship](https://jobright.ai/jobs/info/66fd244608721ccb7af46843?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Oct 02 |
-| ↳ | **[Arthur D. Hellman Fellowship](https://jobright.ai/jobs/info/66fd4762c0d3a4e9e327f61a?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Oct 02 |
-| **[Reed Smith LLP](http://www.reedsmith.com/)** | **[2025 1L Summer Associate - Miami](https://jobright.ai/jobs/info/66ff87338af10d22328649c5?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Oct 01 |
-| ↳ | **[2025 1L Summer Associate - Chicago](https://jobright.ai/jobs/info/66ff835de7ac4d41880b878b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 01 |
-| ↳ | **[2025 1L Intellectual Property Summer Associate - Houston](https://jobright.ai/jobs/info/66ff7f5cd93ac6c3092d6787?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Oct 01 |
-| **[Federal Deposit Insurance Corporation (FDIC)](https://fdic.gov)** | **[Financial Institution Intern (Compliance), CG-0599-04 (This ad serves as the Public Notice)](https://jobright.ai/jobs/info/66fd0bd4ddbec77f6175f9ac?utm_campaign=1055&utm_source=git)** | Grand Island, NE | On Site | Oct 01 |
-| **[Reed Smith LLP](http://www.reedsmith.com/)** | **[2025 1L Intellectual Property Summer Associate - San Francisco](https://jobright.ai/jobs/info/66ff6fc2073b77ae561e4dac?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Oct 01 |
-| **[Federal Deposit Insurance Corporation (FDIC)](https://fdic.gov)** | **[Financial Institution Intern (Compliance), CG-0599-04 (This ad serves as the Public Notice)](https://jobright.ai/jobs/info/66fcd6b18166d898dba73e63?utm_campaign=1055&utm_source=git)** | Sioux City, IA | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
