@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Operations and Risk Management Internship](https://jobright.ai/jobs/info/67026816fa8777f74f998e12?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Oct 06 |
+| **[JPMorgan Chase & Co.](http://www.jpmorganchase.com)** | **[2025 Compliance Associate Program - Summer Associate Opportunity](https://jobright.ai/jobs/info/66c8ec03a22afd22e8f62efa?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Oct 06 |
 | **[Sentry](https://www.sentry.com/)** | **[IS Governance, Risk, and Compliance Internship- Summer 2025](https://jobright.ai/jobs/info/67013dc5feee2c449b97237c?utm_campaign=1055&utm_source=git)** | Stevens Point, WI | Hybrid | Oct 05 |
 | **[CONMED Corporation](http://www.conmed.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/67012515aa6fa70f9056e553?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Oct 05 |
 | **[Janney Montgomery Scott LLC](http://www.janney.com)** | **[Compliance and Risk Management Intern](https://jobright.ai/jobs/info/66e4838959e59f33b27102ba?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Oct 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/66e0b2eaab0844ce7bdbf641?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 02 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Legal Intern (Pro Bono Scholar)](https://jobright.ai/jobs/info/66c5095c5bec3e48f9c8c67a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 02 |
 | **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[Spring 2025 Legal Clerkship](https://jobright.ai/jobs/info/66fd244608721ccb7af46843?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Oct 02 |
-| ↳ | **[Arthur D. Hellman Fellowship](https://jobright.ai/jobs/info/66fd4762c0d3a4e9e327f61a?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Oct 02 |
-| **[Reed Smith LLP](http://www.reedsmith.com/)** | **[2025 1L Summer Associate - Miami](https://jobright.ai/jobs/info/66ff87338af10d22328649c5?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
