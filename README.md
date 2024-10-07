@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Operations and Risk Management Internship](https://jobright.ai/jobs/info/67030bee9a387d46eee968ad?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Oct 06 |
 | **[JPMorgan Chase & Co.](http://www.jpmorganchase.com)** | **[2025 Compliance Associate Program - Summer Associate Opportunity](https://jobright.ai/jobs/info/66c8ec03a22afd22e8f62efa?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Oct 06 |
 | **[Sentry](https://www.sentry.com/)** | **[IS Governance, Risk, and Compliance Internship- Summer 2025](https://jobright.ai/jobs/info/67013dc5feee2c449b97237c?utm_campaign=1055&utm_source=git)** | Stevens Point, WI | Hybrid | Oct 05 |
 | **[CONMED Corporation](http://www.conmed.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/67012515aa6fa70f9056e553?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Oct 05 |
@@ -99,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[BHE Renewables](https://www.bherenewables.com)** | **[2025 Compliance and Security Operations Intern](https://jobright.ai/jobs/info/66ff70bd9252952acaaa3685?utm_campaign=1055&utm_source=git)** | Des Moines, IA | On Site | Oct 03 |
 | ↳ | **[2025 Regulatory Affairs Internship](https://jobright.ai/jobs/info/66ff70bd9252952acaaa36b3?utm_campaign=1055&utm_source=git)** | Des Moines, IA | On Site | Oct 03 |
 | **[FBC Mortgage, LLC](http://www.fbchomeloans.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6700affe3bf801202c016e9b?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Oct 03 |
-| **[City of Indianapolis](https://www.indy.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6701fb48ef0912da812c4f1b?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Oct 03 |
 | **[Sentry](https://www.sentry.com/)** | **[IS Government, Risk, and Compliance Internship- Summer 2025](https://jobright.ai/jobs/info/67000d7ae074b78c496d700d?utm_campaign=1055&utm_source=git)** | Stevens Point, WI | Hybrid | Oct 03 |
 | **[Gallagher](http://www.ajg.com)** | **[Risk Control Intern GSIP](https://jobright.ai/jobs/info/66ff51f860c175547590413e?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
 | **[CN](http://www.cn.ca)** | **[Intern, Real Estate- EN](https://jobright.ai/jobs/info/66ff0f927062262b2082a558?utm_campaign=1055&utm_source=git)** | Homewood, IL | Hybrid | Oct 03 |
