@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Winged Keel Group](http://wingedkeel.com)** | **[Client Reporting Analyst Intern](https://jobright.ai/jobs/info/671320cff6058771041f5b84?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
+| **[Children's National Hospital](http://childrensnational.org)** | **[Legal Intern (Full-time / 40 Hours per week)](https://jobright.ai/jobs/info/671316ca9e65daf4c2ed7b5c?utm_campaign=1055&utm_source=git)** | Silver Spring, MD | On Site | Oct 18 |
+| **[ofi](https://www.ofi.com)** | **[2025 Summer Intern: Regulatory Afairs](https://jobright.ai/jobs/info/6713049b3d2fe20964cdb7ad?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 18 |
 | **[Temple Health – Temple University Health System](https://www.templehealth.org/)** | **[Student Assistant - Legal](https://jobright.ai/jobs/info/6712e1400818ec3e1c9057b1?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Oct 18 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern (Spring 2025)](https://jobright.ai/jobs/info/6712de8cfdcdb5be104014a7?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/6712d348e1ff8c1976cf40be?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 18 |
@@ -65,8 +68,10 @@ For a complete list, click the following sortable link below:
 | **[SpartanNash](https://www.spartannash.com/)** | **[IT Security GRC (Governance, Risk, and Compliance) Intern](https://jobright.ai/jobs/info/671286d516a4387e10156476?utm_campaign=1055&utm_source=git)** | Byron Center, MI | Hybrid | Oct 18 |
 | ↳ | **[Food Safety Compliance Intern](https://jobright.ai/jobs/info/6712904a396afea5b6c14677?utm_campaign=1055&utm_source=git)** | Byron Center, MI | Hybrid | Oct 18 |
 | **[Moss Adams](http://www.mossadams.com/)** | **[Compliance Internal Audit Intern - 2025](https://jobright.ai/jobs/info/67128b4f6cb0de1a34f7dd87?utm_campaign=1055&utm_source=git)** | California, United States | Hybrid | Oct 18 |
+| **[Cboe Global Markets](http://www.cboe.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/66daa780725860eae9e7b2ee?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Oct 18 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[IDAR Summer Intern](https://jobright.ai/jobs/info/66f5d12f3b562de4839a17b7?utm_campaign=1055&utm_source=git)** | Spring House, PA | On Site | Oct 18 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern - Regulatory Writing](https://jobright.ai/jobs/info/6712370cec12587427a5971a?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 18 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Regulatory Operations - Innovation, Digital, and External Partnerships](https://jobright.ai/jobs/info/66da7d7b9fc418cf07e51afd?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Oct 18 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Pro Bono Spring 2025 Undergraduate Student Internship](https://jobright.ai/jobs/info/66f5dec96f25d4475c0900e6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66d8d7255569bd65f2c04ff8?utm_campaign=1055&utm_source=git)** | Niles, IL | Hybrid | Oct 18 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Summer Intern JD (Intern) United States](https://jobright.ai/jobs/info/67124f906be6a6cc547c338a?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Oct 18 |
@@ -150,11 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Loss Prevention Specialist Internship](https://jobright.ai/jobs/info/6710d8adf7682720f7d9b1f3?utm_campaign=1055&utm_source=git)** | West Deptford, NJ | On Site | Oct 16 |
 | ↳ | **[Loss Prevention Specialist Internship](https://jobright.ai/jobs/info/6710d8adf7682720f7d9b1f4?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Oct 16 |
 | ↳ | **[Loss Prevention Specialist Internship](https://jobright.ai/jobs/info/6710d8adf7682720f7d9b1f7?utm_campaign=1055&utm_source=git)** | Union, OH | On Site | Oct 16 |
-| ↳ | **[Loss Prevention Specialist Internship](https://jobright.ai/jobs/info/6710d8adf7682720f7d9b1f8?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | Oct 16 |
-| ↳ | **[Loss Prevention Specialist Internship](https://jobright.ai/jobs/info/6710d8adf7682720f7d9b1fb?utm_campaign=1055&utm_source=git)** | Stockton, CA | On Site | Oct 16 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate - 2025 Global Risk & Compliance, Enterprise Risk Management & Risk Oversight Summer Internship New York, NY](https://jobright.ai/jobs/info/66d58b8ca2abd1166dc007fd?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 16 |
 | **[Red Hat](http://www.redhat.com)** | **[Legal and Compliance Internship](https://jobright.ai/jobs/info/66fcd2c213331f630070bda0?utm_campaign=1055&utm_source=git)** | Raleigh, NC | Hybrid | Oct 16 |
-| **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Spring 2025](https://jobright.ai/jobs/info/66f36c8f547c8121942b4c8b?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 16 |
-| **[Bristol Myers Squibb](http://www.bms.com)** | **[2025 Summer Intern, Research & Development Quality](https://jobright.ai/jobs/info/67122b3f8432d209ffbcbea9?utm_campaign=1055&utm_source=git)** | Madison, NJ | Hybrid | Oct 16 |
-| **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0cb7426d43835f074ba?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
