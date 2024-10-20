@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Surety Intern (Summer 2025)](https://jobright.ai/jobs/info/671428f682ad16b1d63f2f42?utm_campaign=1055&utm_source=git)** | Westfield Center, OH | Hybrid | Oct 19 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2025 Charles Schwab Corporate Risk Management Internship](https://jobright.ai/jobs/info/6713e4226151bf1892a0e272?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 19 |
 | ↳ | **[2025 Charles Schwab Corporate Risk Management Internship](https://jobright.ai/jobs/info/6713e47c6151bf1892a0ecea?utm_campaign=1055&utm_source=git)** | Westlake, TX | On Site | Oct 19 |
 | ↳ | **[2025 Charles Schwab Corporate Risk Management Internship](https://jobright.ai/jobs/info/6713e47c6151bf1892a0ecec?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Oct 19 |
@@ -66,9 +67,11 @@ For a complete list, click the following sortable link below:
 | **[FM Global](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/6713990bbd189fec9e881bb5?utm_campaign=1055&utm_source=git)** | Frisco, TX | On Site | Oct 19 |
 | **[Fried Frank](http://www.friedfrank.com/)** | **[Paralegal Intern](https://jobright.ai/jobs/info/67093c32eb25d06b0430cd52?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 19 |
 | **[Raven Industries](http://ravenind.com)** | **[Legal and Data Privacy Intern](https://jobright.ai/jobs/info/66f6b57af8b84960c3254224?utm_campaign=1055&utm_source=git)** | Oak Brook, IL | On Site | Oct 19 |
+| **[American Tower](https://www.americantower.com/)** | **[Attorney Internship (Summer 2025)](https://jobright.ai/jobs/info/66da2d6433fad8e5938a0048?utm_campaign=1055&utm_source=git)** | Woburn, MA | On Site | Oct 19 |
 | **[CSX](http://www.csx.com)** | **[CSX Fraud Data Analytics Internship - Summer 2025 (Paid)](https://jobright.ai/jobs/info/66f7b15cd468686c4f6756b5?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Oct 19 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Internship](https://jobright.ai/jobs/info/67137f5cf825c40123eed2d8?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Oct 19 |
 | ↳ | **[Loss Prevention Specialist Internship](https://jobright.ai/jobs/info/67137f5cf825c40123eed339?utm_campaign=1055&utm_source=git)** | West Deptford, NJ | On Site | Oct 19 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Regulatory Business Intern](https://jobright.ai/jobs/info/66da808a6cd14049014b5090?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Oct 19 |
 | **[Uline](http://www.uline.com)** | **[International Trade Compliance Internship - Summer 2025](https://jobright.ai/jobs/info/66be7b8c0122d62156b0c0cc?utm_campaign=1055&utm_source=git)** | Waukegan, IL | On Site | Oct 19 |
 | ↳ | **[International Trade Compliance Internship - Summer 2025](https://jobright.ai/jobs/info/66be91b55ed46d88a72bc80c?utm_campaign=1055&utm_source=git)** | Kenosha, WI | On Site | Oct 19 |
 | ↳ | **[International Trade Compliance Internship - Summer 2025](https://jobright.ai/jobs/info/66be8302b232d66271b18d0b?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Oct 19 |
@@ -101,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[International Trade Compliance Internship - Summer 2025](https://jobright.ai/jobs/info/66be91b55ed46d88a72bc813?utm_campaign=1055&utm_source=git)** | Glenview, IL | On Site | Oct 18 |
 | ↳ | **[International Trade Compliance Internship - Summer 2025](https://jobright.ai/jobs/info/66be91b55ed46d88a72bc81d?utm_campaign=1055&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 18 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - 2024-25](https://jobright.ai/jobs/info/671365e4b837b5dcb2eef0e7?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Oct 18 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship - Compliance (Year-Round)](https://jobright.ai/jobs/info/67135206c11424c9b051f4fd?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Oct 17 |
 | **[Clarios](https://www.clarios.com/)** | **[Intellectual Property Researcher Intern (Summer 2025)](https://jobright.ai/jobs/info/6712875eca3ad8a3f2567188?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Oct 17 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Law](https://jobright.ai/jobs/info/6711a23f1d029b2ec21a2614?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 17 |
 | **[GCM Grosvenor](https://gcmlp.com)** | **[Part-Time Compliance/Legal Intern (Law School)](https://jobright.ai/jobs/info/671199d0b8ba73b01fb7e415?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 17 |
@@ -112,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[BAE Systems, Inc.](https://jobs.baesystems.com/global/en)** | **[Risk Management Intern, Summer 2025](https://jobright.ai/jobs/info/6711b30d5d61185d1b18448d?utm_campaign=1055&utm_source=git)** | Rockville, MD | On Site | Oct 17 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2025 Summer Internship Program - Supervision & Regulation (Records and Information)](https://jobright.ai/jobs/info/67074a8a3b5d84f892f9204b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Oct 17 |
 | **[Clarios](https://www.clarios.com/)** | **[Intellectual Property Researcher Intern (Summer 2025)](https://jobright.ai/jobs/info/67117c88c71323c15298ccb2?utm_campaign=1055&utm_source=git)** | United States, Wisconsin, Milwaukee | On Site | Oct 17 |
+| **[First Internet Bank](https://www.firstib.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/66f44c44dc408dbea28c24dd?utm_campaign=1055&utm_source=git)** | Greater Bloomington Area | Hybrid | Oct 17 |
 | **[Coaction Global](https://www.coactionspecialty.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/6711655e169e4cd68e0cd766?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Oct 17 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Spring 2025 Regulatory Internship](https://jobright.ai/jobs/info/67116f7ab9059bad22a3a57e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 17 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2025 Corporate Security Summer Internship Program](https://jobright.ai/jobs/info/66f4a86ad58a4dae080b5506?utm_campaign=1055&utm_source=git)** | Pontiac, MI | On Site | Oct 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Accordion](https://www.accordionpartners.com)** | **[Legal Extern (Winter/Spring 2025)](https://jobright.ai/jobs/info/67103b28fdbacbe6ef94f234?utm_campaign=1055&utm_source=git)** | Los Angeles | On Site | Oct 16 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  CMC Regulatory Affairs - Biologics](https://jobright.ai/jobs/info/6710324e654272b63315a323?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Oct 16 |
 | **[Foundation for California Community Colleges](https://foundationccc.org/)** | **[Student Law Clerk](https://jobright.ai/jobs/info/6710324e654272b63315a049?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Oct 16 |
-| **[Valvoline Global Operations](https://www.valvolineglobal.com/en/)** | **[Legal Internship](https://jobright.ai/jobs/info/66f2e29a14f61c7accbfcd37?utm_campaign=1055&utm_source=git)** | Lexington, KY | On Site | Oct 16 |
-| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Claims Intern (Erie/Corporate Claims)](https://jobright.ai/jobs/info/6710256df1abdcff8445fb23?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Oct 16 |
-| **[Wicker Smith](https://www.wickersmith.com)** | **[2025 Summer Law Clerk](https://jobright.ai/jobs/info/67101a0e27f1c06b45952225?utm_campaign=1055&utm_source=git)** | Florida, United States | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
