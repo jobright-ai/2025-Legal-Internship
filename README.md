@@ -67,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[FM Global](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/6713990bbd189fec9e881bb5?utm_campaign=1055&utm_source=git)** | Frisco, TX | On Site | Oct 19 |
 | **[Fried Frank](http://www.friedfrank.com/)** | **[Paralegal Intern](https://jobright.ai/jobs/info/67093c32eb25d06b0430cd52?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 19 |
 | **[Raven Industries](http://ravenind.com)** | **[Legal and Data Privacy Intern](https://jobright.ai/jobs/info/66f6b57af8b84960c3254224?utm_campaign=1055&utm_source=git)** | Oak Brook, IL | On Site | Oct 19 |
+| **[Haleon](http://www.haleon.com/)** | **[Co-Op, Regulatory Affairs Associate (12-months, January 2025 Start)](https://jobright.ai/jobs/info/66dbe8d4cf9a94f6d9de8b4f?utm_campaign=1055&utm_source=git)** | New Jersey, United States | Hybrid | Oct 19 |
 | **[American Tower](https://www.americantower.com/)** | **[Attorney Internship (Summer 2025)](https://jobright.ai/jobs/info/66da2d6433fad8e5938a0048?utm_campaign=1055&utm_source=git)** | Woburn, MA | On Site | Oct 19 |
 | **[CSX](http://www.csx.com)** | **[CSX Fraud Data Analytics Internship - Summer 2025 (Paid)](https://jobright.ai/jobs/info/66f7b15cd468686c4f6756b5?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Oct 19 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Internship](https://jobright.ai/jobs/info/67137f5cf825c40123eed2d8?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Oct 19 |
@@ -103,7 +104,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assurance Intern, Risk Advisory Services - Summer 2025 (Greater Washington DC)](https://jobright.ai/jobs/info/66da6d2068156732d95a0dfd?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Oct 18 |
 | **[Uline](http://www.uline.com)** | **[International Trade Compliance Internship - Summer 2025](https://jobright.ai/jobs/info/66be91b55ed46d88a72bc813?utm_campaign=1055&utm_source=git)** | Glenview, IL | On Site | Oct 18 |
 | ↳ | **[International Trade Compliance Internship - Summer 2025](https://jobright.ai/jobs/info/66be91b55ed46d88a72bc81d?utm_campaign=1055&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 18 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - 2024-25](https://jobright.ai/jobs/info/671365e4b837b5dcb2eef0e7?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Oct 18 |
 | **[Clarios](https://www.clarios.com/)** | **[Intellectual Property Researcher Intern (Summer 2025)](https://jobright.ai/jobs/info/6712875eca3ad8a3f2567188?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Oct 17 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Law](https://jobright.ai/jobs/info/6711a23f1d029b2ec21a2614?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 17 |
 | **[GCM Grosvenor](https://gcmlp.com)** | **[Part-Time Compliance/Legal Intern (Law School)](https://jobright.ai/jobs/info/671199d0b8ba73b01fb7e415?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 17 |
@@ -142,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0cb7426d43835f074b3?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 17 |
 | **[CAE](http://www.cae.com)** | **[Security Administrative Assistant Co-Op](https://jobright.ai/jobs/info/66bbf6d1baecff48c10843ad?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Oct 17 |
 | **[Starr Insurance](https://starrcompanies.com/)** | **[2025 Starr Summer Intern - Legal](https://jobright.ai/jobs/info/66bb8759a71cf5362b0c3eea?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 17 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Summer 2025 (Los Angeles)](https://jobright.ai/jobs/info/670f8d6b36ab3b96b49c1eba?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 17 |
 | **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0cb7426d43835f074ca?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 17 |
 | ↳ | **[Financial Crime Intern Summer 2025](https://jobright.ai/jobs/info/66d7bb40ed64565028a9af40?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 17 |
 | ↳ | **[Risk and Compliance Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0cb7426d43835f074b2?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Oct 17 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Accordion](https://www.accordionpartners.com)** | **[Legal Extern (Winter/Spring 2025)](https://jobright.ai/jobs/info/67103b28fdbacbe6ef94f234?utm_campaign=1055&utm_source=git)** | Los Angeles | On Site | Oct 16 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  CMC Regulatory Affairs - Biologics](https://jobright.ai/jobs/info/6710324e654272b63315a323?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Oct 16 |
 | **[Foundation for California Community Colleges](https://foundationccc.org/)** | **[Student Law Clerk](https://jobright.ai/jobs/info/6710324e654272b63315a049?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Oct 16 |
+| **[Valvoline Global Operations](https://www.valvolineglobal.com/en/)** | **[Legal Internship](https://jobright.ai/jobs/info/66f2e29a14f61c7accbfcd37?utm_campaign=1055&utm_source=git)** | Lexington, KY | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
