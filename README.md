@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Advisory Intern, Federal Technology Advisory / McLean Summer 2025](https://jobright.ai/jobs/info/6720de193e3cf99dd4a5607a?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Oct 29 |
+| **[Amgen](http://www.amgen.com)** | **[Grad Intern - Global Labeling Strategy (GRAET)](https://jobright.ai/jobs/info/6720db3a98f87e3e670b6e6a?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Oct 29 |
+| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Risk Management](https://jobright.ai/jobs/info/6720d9cf60beebf0cac1de37?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Oct 29 |
+| **[Zscaler](https://www.zscaler.com)** | **[Procurement Contracts Intern-SkillBridge - Remote](https://jobright.ai/jobs/info/6704a7a7439d9aec0dc09f61?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 29 |
+| **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Healthcare Compliance](https://jobright.ai/jobs/info/6704321bc42578201ec7c75f?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 29 |
+| **[Moody's Corporation](https://about.moodys.io/)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6703f7211a686c01bb64638e?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
 | **[VAST](https://www.vast.space)** | **[Summer 2025 Internship - Legal (Long Beach, CA)](https://jobright.ai/jobs/info/67207958efd505b54af00c02?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 28 |
-| ↳ | **[Summer 2025 Internship - Legal (Long Beach, CA)](https://jobright.ai/jobs/info/672061ee60419818ad1e7eea?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 28 |
 | ↳ | **[Summer 2025 Internship - Legal (Washington, D.C.)](https://jobright.ai/jobs/info/671bffb73fc960fae9bed43d?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 28 |
+| ↳ | **[Summer 2025 Internship - Legal (Long Beach, CA)](https://jobright.ai/jobs/info/672061ee60419818ad1e7eea?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 28 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[IDAR Summer Intern](https://jobright.ai/jobs/info/67206c6bb2aede4760361c62?utm_campaign=1055&utm_source=git)** | Gwynedd, PA | Remote | Oct 28 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Claims Intern, Summer 2025](https://jobright.ai/jobs/info/67203a0962895ce55fb4078c?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Oct 28 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Law - San Diego CLC](https://jobright.ai/jobs/info/6720235279f2dedf7fad3687?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Oct 28 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zoox](https://www.zoox.com/)** | **[Policy and Regulatory Affairs Internship/Co-op](https://jobright.ai/jobs/info/67085a55889234f1088e2755?utm_campaign=1055&utm_source=git)** | Foster City, CA | Hybrid | Oct 24 |
 | **[Verizon](https://www.verizon.com)** | **[Verizon Legal Summer 2025 Internship - San Francisco, CA](https://jobright.ai/jobs/info/671d87a0f3dbf491ca275853?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Oct 24 |
 | **[PIMCO](http://www.pimco.com)** | **[2025 Summer Intern - Legal & Compliance Analyst](https://jobright.ai/jobs/info/66be3cd864667ed96ceede17?utm_campaign=1055&utm_source=git)** | Newport Beach, CA | On Site | Oct 24 |
-| **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2025 Bloomberg Law Internship - Graphics and Data Visualization](https://jobright.ai/jobs/info/671acd7727b6650d89edecf6?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Oct 24 |
-| **[Chicanos Por La Causa, Inc. (CPLC)](http://www.cplc.org/)** | **[Legal Extern - Unpaid](https://jobright.ai/jobs/info/671abc9cb62daae1fda3aeec?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Oct 24 |
-| **[County of San Mateo](https://www.smcgov.org)** | **[Probation Intern - Non-Paid](https://jobright.ai/jobs/info/671ac1fe4386b63e4a326998?utm_campaign=1055&utm_source=git)** | San Mateo County, CA | On Site | Oct 24 |
-| **[Amwins](http://www.amwins.com)** | **[Claims Internship](https://jobright.ai/jobs/info/671ab0b74dd02477b6d0c0bf?utm_campaign=1055&utm_source=git)** | Metairie, LA | On Site | Oct 24 |
-| **[BD](https://www.bd.com)** | **[2025 BD Summer Internship Program - Regulatory Affairs Intern](https://jobright.ai/jobs/info/671aac842e0a3ed4376e53bb?utm_campaign=1055&utm_source=git)** | Franklin Lakes, NJ | Hybrid | Oct 24 |
-| **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Financial Compliance](https://jobright.ai/jobs/info/66e24f66cbc3fa8c7673565e?utm_campaign=1055&utm_source=git)** | Amelia, OH | Hybrid | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
