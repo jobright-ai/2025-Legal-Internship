@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Law - San Diego CLC](https://jobright.ai/jobs/info/6720235279f2dedf7fad3687?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Oct 28 |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Real Estate Law Intern](https://jobright.ai/jobs/info/672016d32d8cb3985f4a520c?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Oct 28 |
+| **[City of Eden Prairie](http://www.edenprairie.org)** | **[Law Enforcement Analyst - Intern](https://jobright.ai/jobs/info/67201cf70f0cd17b0a68cab6?utm_campaign=1055&utm_source=git)** | Eden Prairie, MN | On Site | Oct 28 |
+| **[Voya Investment Management](http://investments.voya.com)** | **[Summer Student - Legal](https://jobright.ai/jobs/info/672015a3f806b1549aad7060?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 28 |
+| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Compliance Intern- Summer 2025](https://jobright.ai/jobs/info/672014f2eb1d07d9bed5b135?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Oct 28 |
+| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Regulatory Labeling Operations Spring Co-Op (Hybrid)](https://jobright.ai/jobs/info/672000f49b024e68a9422cce?utm_campaign=1055&utm_source=git)** | Ridgefield, CT | Hybrid | Oct 28 |
+| **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2025 Anti-Money Laundering Intern - Hermitage, PA](https://jobright.ai/jobs/info/6720062287e711996e677e50?utm_campaign=1055&utm_source=git)** | Hermitage, PA | On Site | Oct 28 |
+| **[City and County of San Francisco](https://sf.gov/)** | **[Law Fellow - 2025/2026 - City Attorney's Office (8175)](https://jobright.ai/jobs/info/672003cc171dfc782a1cb449?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 28 |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Real Estate Law Intern](https://jobright.ai/jobs/info/672003cc171dfc782a1cb4d1?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Oct 28 |
+| **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern (Onsite January - April 2025)](https://jobright.ai/jobs/info/671fec8d313443d5b57f0fea?utm_campaign=1055&utm_source=git)** | Covington, GA | On Site | Oct 28 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2025 - Legal - Graduate Intern](https://jobright.ai/jobs/info/671fd2e3250fd446a5343701?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Oct 28 |
 | **[Voya Financial](https://www.voya.com/)** | **[Summer Student - Legal](https://jobright.ai/jobs/info/671fc46396d7e17999e3b13c?utm_campaign=1055&utm_source=git)** | United States-Remote | Remote | Oct 28 |
 | **[Shift Markets](https://www.shiftmarkets.com/)** | **[Legal Team Internship - Winter 2024/25](https://jobright.ai/jobs/info/671fd6a35bc65591e6c88030?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
@@ -67,11 +77,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Institution Intern (Compliance), CG-0599-04 (This ad serves as the Public Notice)](https://jobright.ai/jobs/info/671f594af3642599a02e2153?utm_campaign=1055&utm_source=git)** | Wixom, MI | On Site | Oct 28 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[2L Legal Intern](https://jobright.ai/jobs/info/671f2f1d2b1790b52dd11a1c?utm_campaign=1055&utm_source=git)** | Boulder | Hybrid | Oct 27 |
 | ↳ | **[2L Legal Intern](https://jobright.ai/jobs/info/671f3409864dd36c5abd2e5f?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 27 |
-| ↳ | **[2L Legal Intern](https://jobright.ai/jobs/info/671f338fa48ade3b3e0653f2?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 27 |
 | ↳ | **[2L Legal Intern](https://jobright.ai/jobs/info/671f338fa48ade3b3e0653e1?utm_campaign=1055&utm_source=git)** | Boulder, CO | Hybrid | Oct 27 |
+| ↳ | **[2L Legal Intern](https://jobright.ai/jobs/info/671f338fa48ade3b3e0653f2?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 27 |
 | **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern (Onsite January - April 2025)](https://jobright.ai/jobs/info/671f153476411d80ffd2249e?utm_campaign=1055&utm_source=git)** | USA GA - Covington BMD | On Site | Oct 27 |
-| **[Environmental Defense Fund](http://www.edf.org/)** | **[​​2L Legal Intern​](https://jobright.ai/jobs/info/671f1280778a3c7a9eee7faa?utm_campaign=1055&utm_source=git)** | Washington DC | Hybrid | Oct 27 |
-| ↳ | **[​​2L Legal Intern​](https://jobright.ai/jobs/info/671f1280778a3c7a9eee7fa3?utm_campaign=1055&utm_source=git)** | Remote - US Home | Hybrid | Oct 27 |
+| **[Environmental Defense Fund](http://www.edf.org/)** | **[​​2L Legal Intern​](https://jobright.ai/jobs/info/671f1280778a3c7a9eee7fa3?utm_campaign=1055&utm_source=git)** | Remote - US Home | Hybrid | Oct 27 |
+| ↳ | **[​​2L Legal Intern​](https://jobright.ai/jobs/info/671f1280778a3c7a9eee7faa?utm_campaign=1055&utm_source=git)** | Washington DC | Hybrid | Oct 27 |
 | **[SCA Health](http://scasurgery.com)** | **[Intern Legal](https://jobright.ai/jobs/info/671ebac76b727245a7146342?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Oct 27 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Global Regulatory Strategy Infrastructure Intern](https://jobright.ai/jobs/info/671e61bf39aa408fa51816e8?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Oct 27 |
 | **[Gallagher](http://www.ajg.com)** | **[Risk Control Intern GSIP](https://jobright.ai/jobs/info/66c884222bf785ff4501700a?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Oct 27 |
@@ -81,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Grant Thornton LLP (US)](https://www.grantthornton.com)** | **[Risk Advisory Associate - Summer 2025](https://jobright.ai/jobs/info/671e16186a0fb88880c97a13?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Oct 27 |
 | **[Siemens](https://www.siemens.com)** | **[Legal Intern - Raleigh, NC Area - Hybrid (Summer 2025)](https://jobright.ai/jobs/info/66e592fa99db55b903be4cf1?utm_campaign=1055&utm_source=git)** | Cary, NC | Hybrid | Oct 27 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[CRA Compliance Intern](https://jobright.ai/jobs/info/670033786609a511f06b3c04?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Oct 26 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Corporate Legal](https://jobright.ai/jobs/info/66ffc409ae123988c6c89951?utm_campaign=1055&utm_source=git)** | Waltham, MA | Hybrid | Oct 26 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Governance, Risk & Compliance Trainee, Information Security - Spring 2025](https://jobright.ai/jobs/info/671d4e97b7557c11cbaa9349?utm_campaign=1055&utm_source=git)** | Culver City, CA | Hybrid | Oct 26 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Internship, Corporate Responsibility](https://jobright.ai/jobs/info/671d32fa360290a0872558e2?utm_campaign=1055&utm_source=git)** | Secaucus, NJ | On Site | Oct 26 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Compliance (Volker/International/FX Business) Intern](https://jobright.ai/jobs/info/670033786609a511f06b3bfd?utm_campaign=1055&utm_source=git)** | Raleigh, NC | Remote | Oct 26 |
@@ -140,21 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Amwins](http://www.amwins.com)** | **[Claims Internship](https://jobright.ai/jobs/info/671ab0b74dd02477b6d0c0bf?utm_campaign=1055&utm_source=git)** | Metairie, LA | On Site | Oct 24 |
 | **[BD](https://www.bd.com)** | **[2025 BD Summer Internship Program - Regulatory Affairs Intern](https://jobright.ai/jobs/info/671aac842e0a3ed4376e53bb?utm_campaign=1055&utm_source=git)** | Franklin Lakes, NJ | Hybrid | Oct 24 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Financial Compliance](https://jobright.ai/jobs/info/66e24f66cbc3fa8c7673565e?utm_campaign=1055&utm_source=git)** | Amelia, OH | Hybrid | Oct 24 |
-| **[Wasserman](http://www.teamwass.com)** | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c672012?utm_campaign=1055&utm_source=git)** | USA-CO - Colorado Remote | On Site | Oct 24 |
-| ↳ | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c672011?utm_campaign=1055&utm_source=git)** | USA-MO - Missouri Remote | On Site | Oct 24 |
-| ↳ | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c672016?utm_campaign=1055&utm_source=git)** | USA-PA - Pennsylvania Remote | On Site | Oct 24 |
-| ↳ | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c672003?utm_campaign=1055&utm_source=git)** | USA-ID - Idaho Remote | On Site | Oct 24 |
-| ↳ | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c671fe7?utm_campaign=1055&utm_source=git)** | USA-KS - Kansas Remote | On Site | Oct 24 |
-| ↳ | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c671ffd?utm_campaign=1055&utm_source=git)** | USA-OH - Ohio Remote | On Site | Oct 24 |
-| ↳ | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c671fea?utm_campaign=1055&utm_source=git)** | USA-TN - Tennessee Remote | On Site | Oct 24 |
-| ↳ | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c671fec?utm_campaign=1055&utm_source=git)** | USA-AZ - Arizona Remote | On Site | Oct 24 |
-| ↳ | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c671ff3?utm_campaign=1055&utm_source=git)** | USA-NM - New Mexico Remote | On Site | Oct 24 |
-| ↳ | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c672007?utm_campaign=1055&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | Oct 24 |
-| ↳ | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c672000?utm_campaign=1055&utm_source=git)** | USA-MD - Maryland Remote | On Site | Oct 24 |
-| ↳ | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c672001?utm_campaign=1055&utm_source=git)** | USA-NY - New York City Office (One Liberty Plaza) | On Site | Oct 24 |
-| ↳ | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c67200e?utm_campaign=1055&utm_source=git)** | USA-UT - Utah Remote | On Site | Oct 24 |
-| ↳ | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c671feb?utm_campaign=1055&utm_source=git)** | USA-WV - West Virginia Remote | On Site | Oct 24 |
-| ↳ | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c67200d?utm_campaign=1055&utm_source=git)** | USA-NE - Nebraska Remote | On Site | Oct 24 |
-| ↳ | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c672013?utm_campaign=1055&utm_source=git)** | USA-WA - Washington Remote | On Site | Oct 24 |
-| ↳ | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c67200f?utm_campaign=1055&utm_source=git)** | USA-VA - Virginia Remote | On Site | Oct 24 |
+| **[Wasserman](http://www.teamwass.com)** | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c672000?utm_campaign=1055&utm_source=git)** | USA-MD - Maryland Remote | On Site | Oct 24 |
+| ↳ | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c672008?utm_campaign=1055&utm_source=git)** | USA-IL - Illinois Remote | On Site | Oct 24 |
+| ↳ | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c672014?utm_campaign=1055&utm_source=git)** | USA-DC - Washington, D.C. Remote | On Site | Oct 24 |
+| ↳ | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c671ffa?utm_campaign=1055&utm_source=git)** | USA-IA - Iowa Remote | On Site | Oct 24 |
+| ↳ | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c671ff7?utm_campaign=1055&utm_source=git)** | USA-NC - North Carolina Remote | On Site | Oct 24 |
+| ↳ | **[Spring 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/671adeeb2cd987a02c672004?utm_campaign=1055&utm_source=git)** | USA-LA - Louisiana Remote | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
