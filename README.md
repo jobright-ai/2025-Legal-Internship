@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bristol Myers Squibb](http://www.bms.com)** | **[2025 Summer Intern Corporate Affairs](https://jobright.ai/jobs/info/672387bc4d8030b1fd6653ff?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Oct 31 |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6706ce149460da82dce7efc8?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Oct 31 |
+| **[Sompo](https://www.sompo-intl.com/)** | **[Surety Intern](https://jobright.ai/jobs/info/672365992f5c2757eef74b05?utm_campaign=1055&utm_source=git)** | Texas, United States | Hybrid | Oct 31 |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship - Risk Management](https://jobright.ai/jobs/info/66ea27405d131cd9b32c772d?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Oct 31 |
+| **[QuidelOrtho](http://quidelortho.com)** | **[DoD Skillbridge - Information Security Intern (Compliance)](https://jobright.ai/jobs/info/6723708f74345f4d14e1a7e8?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Oct 31 |
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Regulatory Affairs Quality Intern](https://jobright.ai/jobs/info/672349ed7561aaa6bdf93849?utm_campaign=1055&utm_source=git)** | Fremont, CA | On Site | Oct 31 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Practical Law Employment and Labor Internship](https://jobright.ai/jobs/info/672349f2af9b65552df7a1c3?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 30 |
 | **[Lincoln Avenue Communities](https://lincolnavecap.com)** | **[Law Intern (Summer 2025)](https://jobright.ai/jobs/info/672310f1fdcef81ea1b7fffa?utm_campaign=1055&utm_source=git)** | New York County, NY | On Site | Oct 30 |
@@ -76,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - DSPV Business Support and Contract Management](https://jobright.ai/jobs/info/6722988593473733f6501b6b?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 30 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Compliance](https://jobright.ai/jobs/info/6722b01b30048ae6e4c635d2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | **[Baker Donelson](http://www.bakerdonelson.com/)** | **[2025 Charleston 1L Summer Associate](https://jobright.ai/jobs/info/6722a07c28cebcc2d0af116a?utm_campaign=1055&utm_source=git)** | Charleston, SC | On Site | Oct 30 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Summer 2026 (Houston)](https://jobright.ai/jobs/info/67236b952eb0def733404a88?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Oct 30 |
 | **[Oshkosh Defense](https://oshkoshdefense.com)** | **[Contract Administration Intern](https://jobright.ai/jobs/info/6722b7483cef4b313e18a84a?utm_campaign=1055&utm_source=git)** | Oshkosh, WI | On Site | Oct 30 |
 | **[Baker Donelson](http://www.bakerdonelson.com/)** | **[2025 Nashville 1L Summer Associate](https://jobright.ai/jobs/info/67229904f4a6c0b3faaa3e4b?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Oct 30 |
 | ↳ | **[2025 Houston 1L Summer Associate](https://jobright.ai/jobs/info/67229904f4a6c0b3faaa3e62?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Oct 30 |
@@ -145,16 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Internship - Legal (Long Beach, CA)](https://jobright.ai/jobs/info/672061ee60419818ad1e7eea?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 28 |
 | ↳ | **[Summer 2025 Internship - Legal (Washington, D.C.)](https://jobright.ai/jobs/info/671bffb73fc960fae9bed43d?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 28 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[IDAR Summer Intern](https://jobright.ai/jobs/info/67206c6bb2aede4760361c62?utm_campaign=1055&utm_source=git)** | Gwynedd, PA | Remote | Oct 28 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Claims Intern, Summer 2025](https://jobright.ai/jobs/info/67203a0962895ce55fb4078c?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Oct 28 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Law - San Diego CLC](https://jobright.ai/jobs/info/6720235279f2dedf7fad3687?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Oct 28 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Real Estate Law Intern](https://jobright.ai/jobs/info/672016d32d8cb3985f4a520c?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Oct 28 |
 | **[City of Eden Prairie](http://www.edenprairie.org)** | **[Law Enforcement Analyst - Intern](https://jobright.ai/jobs/info/67201cf70f0cd17b0a68cab6?utm_campaign=1055&utm_source=git)** | Eden Prairie, MN | On Site | Oct 28 |
 | **[Voya Investment Management](http://investments.voya.com)** | **[Summer Student - Legal](https://jobright.ai/jobs/info/672015a3f806b1549aad7060?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 28 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Compliance Intern- Summer 2025](https://jobright.ai/jobs/info/672014f2eb1d07d9bed5b135?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Oct 28 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Regulatory Labeling Operations Spring Co-Op (Hybrid)](https://jobright.ai/jobs/info/672000f49b024e68a9422cce?utm_campaign=1055&utm_source=git)** | Ridgefield, CT | Hybrid | Oct 28 |
-| **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2025 Anti-Money Laundering Intern - Hermitage, PA](https://jobright.ai/jobs/info/6720062287e711996e677e50?utm_campaign=1055&utm_source=git)** | Hermitage, PA | On Site | Oct 28 |
-| **[City and County of San Francisco](https://sf.gov/)** | **[Law Fellow - 2025/2026 - City Attorney's Office (8175)](https://jobright.ai/jobs/info/672003cc171dfc782a1cb449?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 28 |
-| **[Endeavor](http://www.endeavorco.com/)** | **[UFC Legal Intern - Spring 2025](https://jobright.ai/jobs/info/672300205992d26ab32f4d59?utm_campaign=1055&utm_source=git)** | NV-Las Vegas (UFC) | On Site | Oct 28 |
-| **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern (Onsite January - April 2025)](https://jobright.ai/jobs/info/671fec8d313443d5b57f0fea?utm_campaign=1055&utm_source=git)** | Covington, GA | On Site | Oct 28 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2025 - Legal - Graduate Intern](https://jobright.ai/jobs/info/671fd2e3250fd446a5343701?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
