@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Customer Advocacy Business Intern](https://jobright.ai/jobs/info/6724d2230ff7e6d2bc4b96f4?utm_campaign=1055&utm_source=git)** | Camden, NJ | Remote | Nov 01 |
+| **[Sompo](https://www.sompo-intl.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6724c6eda1e22e394cfe5a5c?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Nov 01 |
+| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/6724c6eda1e22e394cfe5a61?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Nov 01 |
+| **[Zoox](https://www.zoox.com/)** | **[Policy and Regulatory Affairs Internship/Co-op](https://jobright.ai/jobs/info/6708582326352e5e93bae741?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Nov 01 |
+| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/6724af839b9289228541eb34?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Nov 01 |
+| **[Saputo Inc.](http://www.saputo.com/)** | **[Employment Law Intern](https://jobright.ai/jobs/info/6724b44c21b0b64c9b3ec45e?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Nov 01 |
+| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/670801be4c794bdf0c1ba0f0?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 01 |
+| **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Fraud - Summer 2025 (Hybrid Green Bay or Milwaukee)](https://jobright.ai/jobs/info/6724aac84823965321d4f7ff?utm_campaign=1055&utm_source=git)** | Green Bay, Wisconsin Metropolitan Area | Hybrid | Nov 01 |
+| **[Center for Biological Diversity](http://www.biologicaldiversity.org/)** | **[Summer 2025 Law Clerk - Carnivore Conservation](https://jobright.ai/jobs/info/6724af839b9289228541eb88?utm_campaign=1055&utm_source=git)** | Portland, OR | Hybrid | Nov 01 |
+| ↳ | **[Law Clerk - Summer 2025](https://jobright.ai/jobs/info/6724af839b9289228541eb8a?utm_campaign=1055&utm_source=git)** | Oakland, CA | On Site | Nov 01 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Corporate Legal](https://jobright.ai/jobs/info/67248c2dd7f773c2272dcf50?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Nov 01 |
 | **[Sidley Austin LLP](http://www.sidley.com)** | **[Legal Secretary Trainee](https://jobright.ai/jobs/info/67247e19c94582989733115e?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 31 |
 | **[AbbVie](http://www.abbvie.com)** | **[2025 Regulatory Affairs Operations Intern](https://jobright.ai/jobs/info/6724878d47548c157f7ac9f1?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Oct 31 |
@@ -123,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Practical Law Employment and Labor Internship](https://jobright.ai/jobs/info/6722b39d5520a353ff08c4c1?utm_campaign=1055&utm_source=git)** | USA-New York-3 Times Square | Hybrid | Oct 30 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2025 1L Summer Associate (Litigation) (LCLD) / Dallas](https://jobright.ai/jobs/info/6722b29adb3f65bfa9e5dc5b?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Oct 30 |
 | ↳ | **[2025 1L Summer Associate (Litigation) / Dallas](https://jobright.ai/jobs/info/6722b01b30048ae6e4c6332c?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Oct 30 |
-| **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Energy Law and Policy Analysis](https://jobright.ai/jobs/info/6722aa4594bfcbad6a6427e5?utm_campaign=1055&utm_source=git)** | CO - Golden | Hybrid | Oct 30 |
-| ↳ | **[Graduate (Year-Round) Intern - Energy Law and Policy Analysis](https://jobright.ai/jobs/info/6722aa4594bfcbad6a642864?utm_campaign=1055&utm_source=git)** | Remote Site | Hybrid | Oct 30 |
+| **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Energy Law and Policy Analysis](https://jobright.ai/jobs/info/6722aa4594bfcbad6a642864?utm_campaign=1055&utm_source=git)** | Remote Site | Hybrid | Oct 30 |
+| ↳ | **[Graduate (Year-Round) Intern - Energy Law and Policy Analysis](https://jobright.ai/jobs/info/6722aa4594bfcbad6a6427e5?utm_campaign=1055&utm_source=git)** | CO - Golden | Hybrid | Oct 30 |
 | **[RayzeBio](http://rayzebio.com)** | **[2025 Summer Intern Corporate Affairs](https://jobright.ai/jobs/info/67229ce82e70a06160dcfce0?utm_campaign=1055&utm_source=git)** | Princeton - NJ - US | Hybrid | Oct 30 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - DSPV Business Support and Contract Management](https://jobright.ai/jobs/info/6722988593473733f6501b6b?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 30 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Compliance](https://jobright.ai/jobs/info/6722b01b30048ae6e4c635d2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 30 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 - Data Protection - Graduate Intern](https://jobright.ai/jobs/info/6722853afa7379bc6c6a61ec?utm_campaign=1055&utm_source=git)** | Pennsylvania, United States | On Site | Oct 30 |
 | **[Voya Investment Management](http://investments.voya.com)** | **[Summer Student - Compliance](https://jobright.ai/jobs/info/6722819002aa0cc9ffa05690?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 30 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - DSPV Business Support and Contract Management](https://jobright.ai/jobs/info/67226db40538ca01293d4106?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | Oct 30 |
-| **[Grant Thornton LLP (US)](https://www.grantthornton.com)** | **[Risk Advisory Associate - Summer 2025](https://jobright.ai/jobs/info/672259c4f62ac9dbb0e3e747?utm_campaign=1055&utm_source=git)** | Arlington, VA | Hybrid | Oct 30 |
-| **[Merchants Bonding Company](http://merchantsbonding.com)** | **[Claimes Examiner Intern](https://jobright.ai/jobs/info/672259c4f62ac9dbb0e3e514?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Oct 30 |
-| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2025 Summer Internship Program - Supervision & Regulation (Applications and Enforcement Intern)](https://jobright.ai/jobs/info/672249a75c65d769142ba0de?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Oct 30 |
-| **[Moss Adams](http://www.mossadams.com/)** | **[Compliance Internal Audit Intern - 2025](https://jobright.ai/jobs/info/67225603bef6cdafe61191e1?utm_campaign=1055&utm_source=git)** | California, United States | Hybrid | Oct 30 |
-| **[SES Satellites](http://www.ses.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/67224614b7d145e1f3589d36?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 30 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2025 Summer Internship Program - Supervision & Regulation (Applications and Enforcement Intern)](https://jobright.ai/jobs/info/672300205992d26ab32f4a53?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Oct 30 |
-| **[Voya Financial](https://www.voya.com/)** | **[Summer Student - Operational Risk Management](https://jobright.ai/jobs/info/672300205992d26ab32f4a96?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Oct 30 |
-| ↳ | **[Summer Student - Compliance](https://jobright.ai/jobs/info/672300205992d26ab32f4a9f?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 30 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[EHS Intern](https://jobright.ai/jobs/info/670587bde784b24b3fea124e?utm_campaign=1055&utm_source=git)** | Galveston, TX | On Site | Oct 30 |
-| **[Sompo](https://www.sompo-intl.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/672214b343f407158db193a5?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
