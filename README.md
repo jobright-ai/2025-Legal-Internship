@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | **[Greystar](http://greystar.com)** | **[Legal & Compliance Intern - Marketing Operations](https://jobright.ai/jobs/info/672649d4b8cf450f89259a8b?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | Hybrid | Nov 02 |
 | ↳ | **[Legal & Compliance Intern - Marketing Operations](https://jobright.ai/jobs/info/67264184612c9c9dae16d1f7?utm_campaign=1055&utm_source=git)** | Texas, United States | Hybrid | Nov 02 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Graduate Summer - Intellectual Property (IP) and Licensing, Hybrid](https://jobright.ai/jobs/info/67261d6bbfa742dcd5b48d0c?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Nov 02 |
+| **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Risk Advisory Services Intern (Spring 2025)](https://jobright.ai/jobs/info/6709585c88a4460b1e9358d2?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Nov 02 |
 | **[Huntsman Corporation](http://www.huntsman.com/corporate/a/Home)** | **[Legal Internship (The Woodlands, Texas)](https://jobright.ai/jobs/info/67262549aca80faab68a4ae5?utm_campaign=1055&utm_source=git)** | The Woodlands, TX | On Site | Nov 02 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Anti-Money Laundering - Summer 2025 (Hybrid Green Bay or Milwaukee)](https://jobright.ai/jobs/info/672607df0091ddf3d6234ace?utm_campaign=1055&utm_source=git)** | Greater Milwaukee | Hybrid | Nov 02 |
 | **[Benesch](https://www.benesch.com)** | **[Civil Internship](https://jobright.ai/jobs/info/66d120eda4302bc867353726?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 02 |
@@ -81,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Global Data Privacy Compliance](https://jobright.ai/jobs/info/67254c418f44ea708ea08cbe?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Nov 01 |
 | **[Allianz Life](http://www.allianzlife.com)** | **[Business Controls Summer 2025 Internship / Hybrid](https://jobright.ai/jobs/info/67254cd5c01d4c5ef88b6f7a?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 01 |
 | **[Tsang & Associates, PLC](https://tsangslaw.com)** | **[Billingual Legal Intern (Mandarin)](https://jobright.ai/jobs/info/67253933f6e193cf53a05e5d?utm_campaign=1055&utm_source=git)** | Artesia, CA | On Site | Nov 01 |
+| **[Primoris Services Corporation](http://prim.com)** | **[Contracts Analyst Intern](https://jobright.ai/jobs/info/665a5314e44829f8e4d275f6?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 01 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67252816995c6760aba87dad?utm_campaign=1055&utm_source=git)** | Dublin, OH | On Site | Nov 01 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[Houston Office - 2025 1L Summer Associate (Transactions)](https://jobright.ai/jobs/info/672521d4210d2c92ed8a83ab?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 01 |
 | ↳ | **[Houston Office - 2025 1L Summer Associate (Litigation)](https://jobright.ai/jobs/info/672521d4210d2c92ed8a83b9?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[2025 Summer Intern Corporate Affairs](https://jobright.ai/jobs/info/672387bc4d8030b1fd6653ff?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Oct 31 |
 | **[Oxy](https://www.oxy.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/671830dc57bacaeeae8b21f7?utm_campaign=1055&utm_source=git)** | The Woodlands, TX | On Site | Oct 31 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6706ce149460da82dce7efc8?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Oct 31 |
-| **[Sompo](https://www.sompo-intl.com/)** | **[Surety Intern](https://jobright.ai/jobs/info/672365992f5c2757eef74b05?utm_campaign=1055&utm_source=git)** | Texas, United States | Hybrid | Oct 31 |
-| **[Thomas J. Henry Law](http://thomasjhenrylaw.com)** | **[1L Summer Associate](https://jobright.ai/jobs/info/66e9c16f7e3ce4a1c5e9a51f?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
