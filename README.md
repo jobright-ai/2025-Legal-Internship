@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6727a669075f54d235d34a9c?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/66d1c1e8b0c4634246f7466c?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Nov 03 |
 | ↳ | **[Spring Legal Intern](https://jobright.ai/jobs/info/66ed9380be638ac62f433800?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Nov 03 |
 | ↳ | **[Spring Legal Intern](https://jobright.ai/jobs/info/66ed960a3874c247c08f9aca?utm_campaign=1055&utm_source=git)** | Providence, RI | Hybrid | Nov 03 |
@@ -68,6 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Grad Intern - Global Labeling Strategy (GRAET)](https://jobright.ai/jobs/info/672664cacb9d50753cce2185?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 02 |
 | **[Greystar](http://greystar.com)** | **[Legal & Compliance Intern - Marketing Operations](https://jobright.ai/jobs/info/672649d4b8cf450f89259a8b?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | Hybrid | Nov 02 |
 | ↳ | **[Legal & Compliance Intern - Marketing Operations](https://jobright.ai/jobs/info/67264184612c9c9dae16d1f7?utm_campaign=1055&utm_source=git)** | Texas, United States | Hybrid | Nov 02 |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/67099860d53f673f214682bd?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 02 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Graduate Summer - Intellectual Property (IP) and Licensing, Hybrid](https://jobright.ai/jobs/info/67261d6bbfa742dcd5b48d0c?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Nov 02 |
 | **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Risk Advisory Services Intern (Spring 2025)](https://jobright.ai/jobs/info/6709585c88a4460b1e9358d2?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Nov 02 |
 | **[Huntsman Corporation](http://www.huntsman.com/corporate/a/Home)** | **[Legal Internship (The Woodlands, Texas)](https://jobright.ai/jobs/info/67262549aca80faab68a4ae5?utm_campaign=1055&utm_source=git)** | The Woodlands, TX | On Site | Nov 02 |
@@ -111,9 +113,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/6724c6eda1e22e394cfe5a61?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Nov 01 |
 | **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/66b2f04883b9f52eaa6cad36?utm_campaign=1055&utm_source=git)** | Richmond, VA | Remote | Nov 01 |
 | **[Zoox](https://www.zoox.com/)** | **[Policy and Regulatory Affairs Internship/Co-op](https://jobright.ai/jobs/info/6708582326352e5e93bae741?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Nov 01 |
-| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/67080bf5a5e201d9a282dd44?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 01 |
-| ↳ | **[Spring Legal Intern](https://jobright.ai/jobs/info/6724af839b9289228541eb34?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Nov 01 |
+| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/6724af839b9289228541eb34?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Nov 01 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Employment Law Intern](https://jobright.ai/jobs/info/6724b44c21b0b64c9b3ec45e?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Nov 01 |
+| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/670801be4c794bdf0c1ba0f0?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Fraud - Summer 2025 (Hybrid Green Bay or Milwaukee)](https://jobright.ai/jobs/info/6724aac84823965321d4f7ff?utm_campaign=1055&utm_source=git)** | Green Bay, Wisconsin Metropolitan Area | Hybrid | Nov 01 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Corporate Legal](https://jobright.ai/jobs/info/67248c2dd7f773c2272dcf50?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Nov 01 |
 | **[Sidley Austin LLP](http://www.sidley.com)** | **[Legal Secretary Trainee](https://jobright.ai/jobs/info/67247e19c94582989733115e?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern - Global Labeling Strategy (GRAET)](https://jobright.ai/jobs/info/67239c595e686a5270bd424c?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 31 |
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2025 Bloomberg Law Internship](https://jobright.ai/jobs/info/671dd8011ee2656cfe02195b?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Oct 31 |
 | **[TTX Company](http://www.ttx.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/67238e9969ae868c3636efcf?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Oct 31 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2025 - Risk and Compliance - Undergraduate Intern](https://jobright.ai/jobs/info/6723c89207045cfcda9b0455?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Oct 31 |
-| **[RENK America](https://www.renk.com/en/company/about-renk/locations/muskegon)** | **[Contracts & Trade Compliance Intern](https://jobright.ai/jobs/info/67238e9969ae868c3636f02c?utm_campaign=1055&utm_source=git)** | Muskegon, MI | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
