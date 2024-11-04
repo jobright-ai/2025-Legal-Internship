@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercy For Animals](https://mercyforanimals.org)** | **[Internship- Legal Team](https://jobright.ai/jobs/info/672888ce730c11ee56643956?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Nov 03 |
+| **[Cordell & Cordell](http://cordellcordell.com)** | **[Law Clerk- Belleville, IL](https://jobright.ai/jobs/info/67287fb8dc9962774bc17c35?utm_campaign=1055&utm_source=git)** | Belleville, IL | On Site | Nov 03 |
+| **[US Environmental Protection Agency (EPA)](http://www.epa.gov)** | **[Multi-Year Internship- Student Trainee (Legal)](https://jobright.ai/jobs/info/6728905e26104d191ec46243?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 03 |
 | **[Mid-Continent Group](http://www.mcg-ins.com/)** | **[Claims/Underwriting Intern (Hybrid)](https://jobright.ai/jobs/info/672801601076d0a2024ac01d?utm_campaign=1055&utm_source=git)** | Tulsa, OK | Hybrid | Nov 03 |
 | **[Greystar](http://greystar.com)** | **[Legal & Compliance Intern - Marketing Operations](https://jobright.ai/jobs/info/6727ddab0c429adc047cad05?utm_campaign=1055&utm_source=git)** | Arizona, United States | Hybrid | Nov 03 |
 | **[The University of New Mexico](http://unm.edu)** | **[Law Intern](https://jobright.ai/jobs/info/6727e7f3f0db0538fa269131?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | On Site | Nov 03 |
@@ -67,6 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring Legal Intern](https://jobright.ai/jobs/info/66ed960a3874c247c08f9aca?utm_campaign=1055&utm_source=git)** | Providence, RI | Hybrid | Nov 03 |
 | **[Brown & Brown Insurance](http://www.bbinsurance.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/672754d74c5a9c83980d558c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 03 |
 | **[Tallgrass Energy](https://tallgrass.com/)** | **[Intern-PHMSA Compliance](https://jobright.ai/jobs/info/672726063c2da5db67988441?utm_campaign=1055&utm_source=git)** | Lakewood, CO | Remote | Nov 02 |
+| **[CN](http://www.cn.ca)** | **[Intern, Real Estate- EN](https://jobright.ai/jobs/info/670994e1bcb306fe7eeb166b?utm_campaign=1055&utm_source=git)** | Homewood, IL | On Site | Nov 02 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[IDAR Summer Intern](https://jobright.ai/jobs/info/672700cf2d2d6bae11145b3e?utm_campaign=1055&utm_source=git)** | Gwynedd, PA | Remote | Nov 02 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Enterprise Resiliency](https://jobright.ai/jobs/info/670975a47e05a50e9625629f?utm_campaign=1055&utm_source=git)** | Irving, TX | Hybrid | Nov 02 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Legal (Law Student)](https://jobright.ai/jobs/info/67266e7ae299f2237d61ca44?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Nov 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op Marine Compliance (Summer 2025)](https://jobright.ai/jobs/info/6723d89565d3b2e61c591c2e?utm_campaign=1055&utm_source=git)** | Catlettsburg, Kentucky | On Site | Oct 31 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Litigation Internship](https://jobright.ai/jobs/info/6723d8de3f6d64360c120d89?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Oct 31 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Contracts Administrator Intern - Spring 2025](https://jobright.ai/jobs/info/670e88544d11419bb1f539ab?utm_campaign=1055&utm_source=git)** | Melbourne, FL | Hybrid | Oct 31 |
-| **[Tetra Pak](http://www.tetrapak.com)** | **[Legal Affairs Intern](https://jobright.ai/jobs/info/6723c89207045cfcda9b03e9?utm_campaign=1055&utm_source=git)** | Denton, TX | Hybrid | Oct 31 |
-| **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2025 1L Summer Associate - Florham Park (LCLD)](https://jobright.ai/jobs/info/6723c0eaac433bc97fa3d30d?utm_campaign=1055&utm_source=git)** | Florham Park, NJ | Hybrid | Oct 31 |
-| ↳ | **[2025 1L Summer Associate - New York (LCLD)](https://jobright.ai/jobs/info/6723c0eaac433bc97fa3d34c?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 31 |
-| ↳ | **[2025 1L Summer Associate - Los Angeles (Litigation) (LCLD)](https://jobright.ai/jobs/info/6723be47b4ea8e639ff8efda?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
