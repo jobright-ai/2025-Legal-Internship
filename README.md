@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Spring 2025 Pro Bono Scholars, Housing Practice](https://jobright.ai/jobs/info/6728b3dec521450e9aff940b?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 04 |
 | **[Mercy For Animals](https://mercyforanimals.org)** | **[Internship- Legal Team](https://jobright.ai/jobs/info/672888ce730c11ee56643956?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Nov 03 |
 | **[Cordell & Cordell](http://cordellcordell.com)** | **[Law Clerk- Belleville, IL](https://jobright.ai/jobs/info/67287fb8dc9962774bc17c35?utm_campaign=1055&utm_source=git)** | Belleville, IL | On Site | Nov 03 |
 | **[US Environmental Protection Agency (EPA)](http://www.epa.gov)** | **[Multi-Year Internship- Student Trainee (Legal)](https://jobright.ai/jobs/info/6728905e26104d191ec46243?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 03 |
@@ -122,9 +123,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/6724c6eda1e22e394cfe5a61?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Nov 01 |
 | **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/66b2f04883b9f52eaa6cad36?utm_campaign=1055&utm_source=git)** | Richmond, VA | Remote | Nov 01 |
 | **[Zoox](https://www.zoox.com/)** | **[Policy and Regulatory Affairs Internship/Co-op](https://jobright.ai/jobs/info/6708582326352e5e93bae741?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Nov 01 |
-| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/67080bf5a5e201d9a282dd44?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 01 |
-| ↳ | **[Spring Legal Intern](https://jobright.ai/jobs/info/6724af839b9289228541eb34?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Nov 01 |
+| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/6724af839b9289228541eb34?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Nov 01 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Employment Law Intern](https://jobright.ai/jobs/info/6724b44c21b0b64c9b3ec45e?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Nov 01 |
+| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/670801be4c794bdf0c1ba0f0?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Fraud - Summer 2025 (Hybrid Green Bay or Milwaukee)](https://jobright.ai/jobs/info/6724aac84823965321d4f7ff?utm_campaign=1055&utm_source=git)** | Green Bay, Wisconsin Metropolitan Area | Hybrid | Nov 01 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Corporate Legal](https://jobright.ai/jobs/info/67248c2dd7f773c2272dcf50?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Nov 01 |
 | **[Sidley Austin LLP](http://www.sidley.com)** | **[Legal Secretary Trainee](https://jobright.ai/jobs/info/67247e19c94582989733115e?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Legal - Onsite (TX/AZ)](https://jobright.ai/jobs/info/672411ff01f098fbc7a5d1a5?utm_campaign=1055&utm_source=git)** | Tucson, AZ | Hybrid | Oct 31 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op Marine Compliance (Summer 2025)](https://jobright.ai/jobs/info/6723d89565d3b2e61c591c2e?utm_campaign=1055&utm_source=git)** | Catlettsburg, Kentucky | On Site | Oct 31 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Litigation Internship](https://jobright.ai/jobs/info/6723d8de3f6d64360c120d89?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Oct 31 |
-| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Contracts Administrator Intern - Spring 2025](https://jobright.ai/jobs/info/670e88544d11419bb1f539ab?utm_campaign=1055&utm_source=git)** | Melbourne, FL | Hybrid | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
