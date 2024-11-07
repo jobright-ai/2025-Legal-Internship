@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Peninsula Open Space Trust (POST)](https://openspacetrust.org)** | **[Land Transactions Intern](https://jobright.ai/jobs/info/672c2f11bcc9f09b11313769?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 06 |
+| **[AXA XL](https://axaxl.com)** | **[Cyber Claims Intern](https://jobright.ai/jobs/info/672c0f2ea7b0abfe56651cd5?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Nov 06 |
 | **[Matthews International](http://www.matw.com)** | **[Legal Intern](https://jobright.ai/jobs/info/672bee52020f91413ae2585c?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 06 |
 | **[American Family Insurance](http://amfamventures.com/)** | **[Spring 2025- Legal Intern](https://jobright.ai/jobs/info/672bdbb1c99efd38113a6f26?utm_campaign=1055&utm_source=git)** | AZ Phoenix | Hybrid | Nov 06 |
 | **[Schneider Electric](https://www.se.com)** | **[Trade Compliance Internship](https://jobright.ai/jobs/info/672bf733acea46a718c134c2?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Nov 06 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[CBIZ](http://www.cbiz.com)** | **[Corporate Legal Administrative Intern (High School) / Fall 2024](https://jobright.ai/jobs/info/672bc0750b2827e8ba83e58d?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Nov 06 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Law Clerk Intern (Hybrid)](https://jobright.ai/jobs/info/672bcb869136561e1d0c14ec?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 06 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Corporate Affairs](https://jobright.ai/jobs/info/672bb266bd53b7aa2af45a03?utm_campaign=1055&utm_source=git)** | South San Francisco, California, United States | On Site | Nov 06 |
-| **[Accordion](https://www.accordionpartners.com)** | **[Legal Extern (Winter/Spring 2025)](https://jobright.ai/jobs/info/672bbce63703b361a25a627f?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 06 |
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[NP Legal Scholars Program - Health Care](https://jobright.ai/jobs/info/672bb7f38ceda799d609bd69?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 06 |
 | **[Arvest Bank](https://www.arvest.com)** | **[Intern 2025 - All Majors](https://jobright.ai/jobs/info/672bacadc1bf63ddcc24fe9f?utm_campaign=1055&utm_source=git)** | Lowell, AR | On Site | Nov 06 |
 | **[Regent University](http://www.regent.edu/)** | **[Graduate Assistant (Law Library)](https://jobright.ai/jobs/info/672bb39f15b272559cd7a46b?utm_campaign=1055&utm_source=git)** | Virginia Beach, VA | On Site | Nov 06 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Disputes and Investigations - San Francisco Summer 2025](https://jobright.ai/jobs/info/672b9f07ca95167292ef19e4?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Nov 06 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/672b8802a8668c2b2af878ec?utm_campaign=1055&utm_source=git)** | Baltimore, MD | Hybrid | Nov 06 |
 | **[BlueWave](https://bluewave.energy/)** | **[Co-op, Legal](https://jobright.ai/jobs/info/672b8a5477344b55b61bfcf2?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Nov 06 |
+| **[Accordion](https://www.accordionpartners.com)** | **[Legal Extern (Winter/Spring 2025)](https://jobright.ai/jobs/info/672b8802a8668c2b2af879e1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 06 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Law Clerk Intern (Hybrid)](https://jobright.ai/jobs/info/672b7c46341d76095d72c80e?utm_campaign=1055&utm_source=git)** | Plymouth, MN | Hybrid | Nov 06 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Regulatory Affairs (Obesity)](https://jobright.ai/jobs/info/672b65f8294beb6c8a25afae?utm_campaign=1055&utm_source=git)** | United States - Remote | On Site | Nov 06 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/672b6b4104e2cda065b7f526?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Nov 06 |
@@ -142,12 +144,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/6729d71f941a23afa9ae8315?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 04 |
 | ↳ | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d30879aa1f4ba0d9e5f9?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Nov 04 |
 | ↳ | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed58?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 04 |
-| ↳ | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/6729d30879aa1f4ba0d9e62a?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Nov 04 |
 | ↳ | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed59?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 04 |
+| ↳ | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/6729d30879aa1f4ba0d9e62a?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Nov 04 |
 | ↳ | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed5a?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Nov 04 |
 | ↳ | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed5b?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Nov 04 |
-| ↳ | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed5c?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 04 |
 | ↳ | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed5d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 04 |
+| ↳ | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed5c?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 04 |
 | ↳ | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed5e?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 04 |
 | ↳ | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed5f?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Nov 04 |
 | ↳ | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed60?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed62?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 04 |
 | ↳ | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed63?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Nov 04 |
 | ↳ | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed64?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 04 |
-| ↳ | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed65?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 04 |
-| **[CohnReznick LLP](http://www.cohnreznick.com/)** | **[2025 Restructuring and Dispute Resolution Services - RDR Summer 2025 Internship](https://jobright.ai/jobs/info/67299ba6e148a0ad2efd3d3a?utm_campaign=1055&utm_source=git)** | Boston, NY | Hybrid | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
