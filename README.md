@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Legal Compliance](https://jobright.ai/jobs/info/672d536e6cf83abb318bf806?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Nov 07 |
+| **[Intelsat](http://www.intelsat.com)** | **[Legal Intern](https://jobright.ai/jobs/info/672d5181fb9857d62972f714?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Nov 07 |
+| **[ChildServe](https://www.childserve.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/672d4ede1a604d1bac26018e?utm_campaign=1055&utm_source=git)** | Johnston, IA | On Site | Nov 07 |
+| **[Lincoln Institute of Land Policy](https://www.lincolninst.edu/)** | **[Project Assistant Intern - Law](https://jobright.ai/jobs/info/672d4bdec01f7efa55796cf2?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Nov 07 |
+| **[Maryland Legal Aid](https://www.mdlab.org)** | **[Intern](https://jobright.ai/jobs/info/672d45fe1f947cfd4045e6cc?utm_campaign=1055&utm_source=git)** | Towson, MD | On Site | Nov 07 |
+| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Risk Solutions Claims Intern - Summer 2025](https://jobright.ai/jobs/info/672d43fc880efda237b562dd?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Nov 07 |
+| **[Regent University](http://www.regent.edu/)** | **[Graduate Assistant (Law Library)](https://jobright.ai/jobs/info/672d43fc880efda237b565bd?utm_campaign=1055&utm_source=git)** | Virginia Beach, VA | On Site | Nov 07 |
+| **[DriveWealth](https://drivewealth.com)** | **[Summer 2025 Intern, Compliance](https://jobright.ai/jobs/info/672d2b99d42ceb08bb87f66b?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 07 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - Compliance and Risk](https://jobright.ai/jobs/info/672d3663fbbf1a0a8324c9d2?utm_campaign=1055&utm_source=git)** | Lincoln, NE | On Site | Nov 07 |
+| **[Los Angeles Superior Court](https://lacourt.org/)** | **[Volunteer & Internship Programs](https://jobright.ai/jobs/info/672d1ec252953709b22dcf52?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 07 |
+| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Risk Solutions Claims Intern - Summer 2025](https://jobright.ai/jobs/info/672d180f8d0d497a28c2c37a?utm_campaign=1055&utm_source=git)** | Cincinnati, OH (USA) | On Site | Nov 07 |
+| **[Ohio Department of Agriculture](http://www.agri.ohio.gov)** | **[Legal Intern - Summer 2025](https://jobright.ai/jobs/info/672d28e963959503758bff2e?utm_campaign=1055&utm_source=git)** | Reynoldsburg, OH | On Site | Nov 07 |
 | **[Empower](https://www.empower.com)** | **[Spring 2025 Legal Externship](https://jobright.ai/jobs/info/672d0961efb9382a213a082d?utm_campaign=1055&utm_source=git)** | CO Greenwood Village | Hybrid | Nov 07 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[IT Winter Intern - Compliance Maturity and Enablement](https://jobright.ai/jobs/info/6723ed2b8844a1d435609b23?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Nov 07 |
 | **[Southeast Toyota Finance](https://www.setf.com/)** | **[Intern, Compliance](https://jobright.ai/jobs/info/672d174f3ce3cf8f5219458e?utm_campaign=1055&utm_source=git)** | Mobile Metropolitan Area | Hybrid | Nov 07 |
@@ -73,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Benesch](https://www.benesch.com)** | **[Civil Internship](https://jobright.ai/jobs/info/66d76ec386dfc693f74e0d98?utm_campaign=1055&utm_source=git)** | Bellevue, NE | Hybrid | Nov 07 |
 | ↳ | **[Civil Internship](https://jobright.ai/jobs/info/66d7750f09881999655d6788?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Nov 07 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2025 Surety Underwriting Intern](https://jobright.ai/jobs/info/66f46565cab4ecdddff9ef75?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 07 |
+| **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0cb7426d43835f074c4?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Nov 07 |
 | **[Community Legal Aid](https://www.communitylegalaid.org/)** | **[Community Legal Aid Volunteer](https://jobright.ai/jobs/info/672c8871d5e0246b27235c86?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Nov 07 |
 | **[Schroders](https://www.schroders.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/672c6ba7879aa41ec7f39ae7?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Nov 06 |
 | **[SCIEX](http://www.sciex.com)** | **[Cytiva - IT Compliance Intern - Marlborough, MA.](https://jobright.ai/jobs/info/672c44fa693b641c9e3f836d?utm_campaign=1055&utm_source=git)** | Marlborough, MA | On Site | Nov 06 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/672a7ddd2d60e535f4ad21a6?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 05 |
 | **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/670dc7d628bb1cb7dde0528d?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 05 |
 | **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/672a5ebe431429ce1bffde7e?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Nov 05 |
-| ↳ | **[Summer Associate](https://jobright.ai/jobs/info/672a66c003d72beceb56ef63?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 05 |
-| ↳ | **[Summer Associate](https://jobright.ai/jobs/info/672a66c003d72beceb56ef64?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Nov 05 |
-| ↳ | **[Summer Associate](https://jobright.ai/jobs/info/672a66c003d72beceb56ef65?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Nov 05 |
-| **[SCA Health](http://scasurgery.com)** | **[Summer 2025 2L Legal Intern](https://jobright.ai/jobs/info/672a596c160ef0dc8c2f1d15?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Nov 05 |
-| **[Snyk](https://snyk.io)** | **[Legal Co-Op](https://jobright.ai/jobs/info/672a480ad293846a6f57dad4?utm_campaign=1055&utm_source=git)** | Boston | Hybrid | Nov 05 |
-| **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Shelter Services Legal Intern, IINE Lowell](https://jobright.ai/jobs/info/66d89b6e03d0643cfc9a0f9a?utm_campaign=1055&utm_source=git)** | Lowell, MA | On Site | Nov 05 |
-| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/672a5bee87f906e4b7459777?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 05 |
-| ↳ | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/672a5bee87f906e4b7459779?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 05 |
-| ↳ | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/672a5bee87f906e4b745977b?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 05 |
-| **[Amway](http://www.amway.com)** | **[Regulatory Intern, Summer 2025](https://jobright.ai/jobs/info/66f2abf4e60c6b34ecfdd116?utm_campaign=1055&utm_source=git)** | Ada, MI | Hybrid | Nov 05 |
-| **[Amgen](http://www.amgen.com)** | **[Grad Intern - Global Regulatory Affairs CMC](https://jobright.ai/jobs/info/672a229f3184e60ac5ec4622?utm_campaign=1055&utm_source=git)** | United States - Remote | On Site | Nov 05 |
-| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate and J.D. - 2025 Global Risk & Compliance Decision Science & Product Management Summer Internship New York, NY](https://jobright.ai/jobs/info/66d58b8ca2abd1166dc007fe?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 05 |
-| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/66f15434bfc8584aa481a304?utm_campaign=1055&utm_source=git)** | Northern, VA | Hybrid | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
