@@ -84,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship - Compliance (Year-Round)](https://jobright.ai/jobs/info/672ccc0735027cccd5e8e5a8?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Nov 07 |
 | **[Benesch](https://www.benesch.com)** | **[Civil Internship](https://jobright.ai/jobs/info/66d76ec386dfc693f74e0d98?utm_campaign=1055&utm_source=git)** | Bellevue, NE | Hybrid | Nov 07 |
 | ↳ | **[Civil Internship](https://jobright.ai/jobs/info/66d7750f09881999655d6788?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Nov 07 |
+| **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0cb7426d43835f074b3?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 07 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2025 Surety Underwriting Intern](https://jobright.ai/jobs/info/66f46565cab4ecdddff9ef75?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 07 |
 | **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0cb7426d43835f074c4?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Nov 07 |
 | **[Community Legal Aid](https://www.communitylegalaid.org/)** | **[Community Legal Aid Volunteer](https://jobright.ai/jobs/info/672c8871d5e0246b27235c86?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Nov 07 |
@@ -144,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Peninsula Open Space Trust (POST)](https://openspacetrust.org)** | **[Land Transactions Intern](https://jobright.ai/jobs/info/672c04fb61312203c4d5e1a8?utm_campaign=1055&utm_source=git)** | Palo Alto, California, United States | Hybrid | Nov 05 |
 | **[Teachers Federal Credit Union](http://www.teachersfcu.org)** | **[2025 Legal Intern](https://jobright.ai/jobs/info/672aa91bd76cf822298d7714?utm_campaign=1055&utm_source=git)** | Hauppauge, NY | On Site | Nov 05 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Postdoctoral Fellow , Dispute Resolution Research Center](https://jobright.ai/jobs/info/670d865de3304e32c8c7e00e?utm_campaign=1055&utm_source=git)** | Evanston, IL | Hybrid | Nov 05 |
-| **[Energy Transfer](http://www.energytransfer.com)** | **[Intern Contract Adm](https://jobright.ai/jobs/info/672abe745bb063481688e4f5?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 05 |
 | **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Program Integrity - R8104](https://jobright.ai/jobs/info/672aa685fb7e146142f7fa85?utm_campaign=1055&utm_source=git)** | Dayton, OH | Hybrid | Nov 05 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2025 1L Summer Associate (LCLD) - Washington, DC](https://jobright.ai/jobs/info/672a867a7983ba844e24db6e?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 05 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Legal Intern](https://jobright.ai/jobs/info/672a867a7983ba844e24db5b?utm_campaign=1055&utm_source=git)** | Birmingham, MI | On Site | Nov 05 |
