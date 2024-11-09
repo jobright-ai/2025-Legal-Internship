@@ -57,18 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate - 2025 Global Risk & Compliance,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6317?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
-| ↳ | **[Campus Graduate - 2025 US Consumer Services,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6319?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
-| ↳ | **[Campus Graduate - 2025 Global Services Group,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6337?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
+| **[TSC](https://www.tsc.com/)** | **[(Military Personnel ONLY) Dod SkillBridge Intern: Contracts Compliance Analyst](https://jobright.ai/jobs/info/672f1c4b3bad19c91fce68de?utm_campaign=1055&utm_source=git)** | Fairfax County, VA | Hybrid | Nov 08 |
+| **[J.S. Held LLC](http://jsheld.com/)** | **[Economic Damages & Valuation Internship - Summer 2025](https://jobright.ai/jobs/info/672eeb8839c8371fbb23d675?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | Hybrid | Nov 08 |
+| **[Sanford Health](http://www.sanfordhealth.org)** | **[Legal Intern](https://jobright.ai/jobs/info/672ef7332f0f1a46a9bee1c0?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Nov 08 |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate - 2025 US Consumer Services,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6319?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
+| ↳ | **[Campus Graduate - 2025 Global Risk & Compliance,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6317?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | ↳ | **[Campus Graduate - 2025 Credit Fraud & Risk,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6336?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
+| ↳ | **[Campus Graduate - 2025 Global Services Group,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6337?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | **[Gusto](https://www.gusto.com)** | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/672ec9eef596041160abeae3?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 08 |
 | ↳ | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/672ec92682ea6200f04909ba?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
+| ↳ | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/672ed53a026e4592494f8003?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 08 |
 | **[The GIANT Company](https://giantfoodstores.com)** | **[Asset Protection Internship - Willow Grove, PA-Levittown, PA](https://jobright.ai/jobs/info/672eb95c88c3f0f8566cc434?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Nov 08 |
 | ↳ | **[Asset Protection Internship - Harrisburg, PA-Lancaster, PA-York, PA](https://jobright.ai/jobs/info/672eb95c88c3f0f8566cc439?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Nov 08 |
 | **[Gusto](https://www.gusto.com)** | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/672ec1e9c6f8147ac818025a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Nov 08 |
 | **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern (Onsite January - April 2025)](https://jobright.ai/jobs/info/672eb1c5a437b62a708e4960?utm_campaign=1055&utm_source=git)** | USA GA - Covington BMD | On Site | Nov 08 |
 | **[Komatsu](http://www.ehrbar.com)** | **[International Trade Compliance Analyst](https://jobright.ai/jobs/info/672ead531f98ad6b461228db?utm_campaign=1055&utm_source=git)** | Oak Creek, WI | On Site | Nov 08 |
-| **[Gusto](https://www.gusto.com)** | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/672eac209e395ed7968e1248?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 08 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern – Risk Solutions Operations](https://jobright.ai/jobs/info/672eb0deb85ef69ee27965c4?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | On Site | Nov 08 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Paralegal (Summer)](https://jobright.ai/jobs/info/672eb5c2e3024520fe6034fe?utm_campaign=1055&utm_source=git)** | Rapid City, SD | On Site | Nov 08 |
 | **[Ajinomoto Health & Nutrition North America, Inc.](https://www.ajinorthamerica.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/672ead531f98ad6b46122931?utm_campaign=1055&utm_source=git)** | Itasca, IL | On Site | Nov 08 |
@@ -96,6 +99,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/672e06000dbb59fa6c03dd0a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | ↳ | **[BKD BSA/AML Intern](https://jobright.ai/jobs/info/672e06000dbb59fa6c03dc1e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | ↳ | **[ORD New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/672e06000dbb59fa6c03dc35?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 08 |
+| **[John Deere](https://www.deere.com)** | **[Legal Summer Internship - 2025a](https://jobright.ai/jobs/info/66d8fe3b9fe7d3d095e1f4ff?utm_campaign=1055&utm_source=git)** | Moline, IL | On Site | Nov 08 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Summer Intern JD (Intern) United States](https://jobright.ai/jobs/info/66f5e8dd6d59fcfcf15b8bfb?utm_campaign=1055&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Nov 08 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Legal - Corporate Affairs and Legal](https://jobright.ai/jobs/info/66da370d77e89775880f4d4d?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Nov 08 |
 | **[Clarios](https://www.clarios.com/)** | **[Intellectual Property Researcher Intern (Summer 2025)](https://jobright.ai/jobs/info/672dfe5bc7f1c85c2b32564d?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Nov 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schneider Electric](https://www.se.com)** | **[Trade Compliance Internship](https://jobright.ai/jobs/info/672bf733acea46a718c134c2?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Nov 06 |
 | ↳ | **[Trade Compliance Internship](https://jobright.ai/jobs/info/672bf733acea46a718c134c4?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Nov 06 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Corporate Affairs](https://jobright.ai/jobs/info/672bd98a7d772918cff29b52?utm_campaign=1055&utm_source=git)** | South San Francisco, CA | Hybrid | Nov 06 |
-| **[Schneider Electric](https://www.se.com)** | **[Trade Compliance Internship](https://jobright.ai/jobs/info/672bdfca9ec43a108ce2257c?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Nov 06 |
-| **[MacArthur Foundation](http://www.macfound.org)** | **[Legal Intern - Summer 2025](https://jobright.ai/jobs/info/672bdd440c8cc7dcab5af7d8?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 06 |
-| **[CBIZ](http://www.cbiz.com)** | **[Corporate Legal Administrative Intern (High School) / Fall 2024](https://jobright.ai/jobs/info/672bc0750b2827e8ba83e58d?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Nov 06 |
-| **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Corporate Affairs](https://jobright.ai/jobs/info/672bb266bd53b7aa2af45a03?utm_campaign=1055&utm_source=git)** | South San Francisco, California, United States | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
