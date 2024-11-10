@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6730e11b5dd633e32b794ddb?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 10 |
+| ↳ | **[Undergrad Intern - Regulatory Affairs (Obesity)](https://jobright.ai/jobs/info/6730e11b5dd633e32b794d6d?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 10 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Regulatory Specialist - International Registrations](https://jobright.ai/jobs/info/6730ce1acf8a227fa8f6d168?utm_campaign=1055&utm_source=git)** | California, United States | Hybrid | Nov 10 |
 | **[FM Global](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/673046dd567bb5b84ed71980?utm_campaign=1055&utm_source=git)** | Creve Coeur, MO | On Site | Nov 09 |
 | **[Oshkosh Defense](https://oshkoshdefense.com)** | **[Financial Compliance Intern](https://jobright.ai/jobs/info/6730204b03f8e20c0a8db5dd?utm_campaign=1055&utm_source=git)** | Oshkosh, WI | On Site | Nov 09 |
 | ↳ | **[Contract Administration Intern](https://jobright.ai/jobs/info/6730204b03f8e20c0a8db5e8?utm_campaign=1055&utm_source=git)** | Oshkosh, WI | On Site | Nov 09 |
@@ -75,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Legal Intern](https://jobright.ai/jobs/info/672ef7332f0f1a46a9bee1c0?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Nov 08 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate - 2025 Global Risk & Compliance,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6317?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | ↳ | **[Campus Graduate - 2025 US Consumer Services,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6319?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
-| ↳ | **[Campus Graduate - 2025 Global Services Group,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6337?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | ↳ | **[Campus Graduate - 2025 Credit Fraud & Risk,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6336?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
+| ↳ | **[Campus Graduate - 2025 Global Services Group,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6337?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | **[Gusto](https://www.gusto.com)** | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/672ec9eef596041160abeae3?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 08 |
 | ↳ | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/672ec92682ea6200f04909ba?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | ↳ | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/672ed53a026e4592494f8003?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Starr Insurance](https://starrcompanies.com/)** | **[2025 Starr Summer Intern - Legal](https://jobright.ai/jobs/info/66bb8759a71cf5362b0c3eea?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 07 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship - Compliance (Year-Round)](https://jobright.ai/jobs/info/672ccc0735027cccd5e8e5a8?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Nov 07 |
 | **[Benesch](https://www.benesch.com)** | **[Civil Internship](https://jobright.ai/jobs/info/66d76ec386dfc693f74e0d98?utm_campaign=1055&utm_source=git)** | Bellevue, NE | Hybrid | Nov 07 |
-| ↳ | **[Civil Internship](https://jobright.ai/jobs/info/66d7750f09881999655d6788?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Nov 07 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Summer 2025 (Los Angeles)](https://jobright.ai/jobs/info/672da5932bd81205269bde19?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 07 |
-| **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0cb7426d43835f074b3?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
