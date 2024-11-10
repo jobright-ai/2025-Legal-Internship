@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FM Global](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/673046dd567bb5b84ed71980?utm_campaign=1055&utm_source=git)** | Creve Coeur, MO | On Site | Nov 09 |
 | **[Oshkosh Defense](https://oshkoshdefense.com)** | **[Financial Compliance Intern](https://jobright.ai/jobs/info/6730204b03f8e20c0a8db5dd?utm_campaign=1055&utm_source=git)** | Oshkosh, WI | On Site | Nov 09 |
 | ↳ | **[Contract Administration Intern](https://jobright.ai/jobs/info/6730204b03f8e20c0a8db5e8?utm_campaign=1055&utm_source=git)** | Oshkosh, WI | On Site | Nov 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Healthcare Compliance](https://jobright.ai/jobs/info/672fb5ec1127d3a67e0d3453?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 09 |
@@ -68,13 +69,14 @@ For a complete list, click the following sortable link below:
 | **[BlackRock](http://www.blackrock.com)** | **[Vice President, Institutional Compliance](https://jobright.ai/jobs/info/66d9c587236256d70275e163?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Nov 09 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship-AML Monitoring- Financial Intelligence Unit (FIU)](https://jobright.ai/jobs/info/6712c7ceea33a6e08d442f5b?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Nov 09 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/6712d348e1ff8c1976cf40be?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 09 |
+| **[Shure Incorporated](http://www.shure.com)** | **[Legal Intern](https://jobright.ai/jobs/info/66d8d7255569bd65f2c04ff8?utm_campaign=1055&utm_source=git)** | Niles, IL | Hybrid | Nov 08 |
 | **[TSC](https://www.tsc.com/)** | **[(Military Personnel ONLY) Dod SkillBridge Intern: Contracts Compliance Analyst](https://jobright.ai/jobs/info/672f1c4b3bad19c91fce68de?utm_campaign=1055&utm_source=git)** | Fairfax County, VA | Hybrid | Nov 08 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Economic Damages & Valuation Internship - Summer 2025](https://jobright.ai/jobs/info/672eeb8839c8371fbb23d675?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | Hybrid | Nov 08 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Legal Intern](https://jobright.ai/jobs/info/672ef7332f0f1a46a9bee1c0?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Nov 08 |
-| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate - 2025 Global Risk & Compliance,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6317?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
-| ↳ | **[Campus Graduate - 2025 US Consumer Services,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6319?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
-| ↳ | **[Campus Graduate - 2025 Credit Fraud & Risk,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6336?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate - 2025 US Consumer Services,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6319?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
+| ↳ | **[Campus Graduate - 2025 Global Risk & Compliance,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6317?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | ↳ | **[Campus Graduate - 2025 Global Services Group,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6337?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
+| ↳ | **[Campus Graduate - 2025 Credit Fraud & Risk,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6336?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | **[Gusto](https://www.gusto.com)** | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/672ec9eef596041160abeae3?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 08 |
 | ↳ | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/672ec92682ea6200f04909ba?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | **[The GIANT Company](https://giantfoodstores.com)** | **[Asset Protection Internship - Willow Grove, PA-Levittown, PA](https://jobright.ai/jobs/info/672eb95c88c3f0f8566cc434?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Nov 08 |
@@ -88,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Market Regulation Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c4103?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[AssuredPartners](https://www.assuredpartners.com)** | **[Risk Management, Commerical Lines Intern - Summer 2025](https://jobright.ai/jobs/info/672e8ee7dddbbb46f3c5701e?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 08 |
 | **[Spacelabs Healthcare](http://www.spacelabshealthcare.com)** | **[Legal Intern](https://jobright.ai/jobs/info/672e9441f44d10ba10949053?utm_campaign=1055&utm_source=git)** | Snoqualmie, WA | On Site | Nov 08 |
-| **[Grant Thornton LLP (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2025](https://jobright.ai/jobs/info/672e882566be2bb9a0dec8f9?utm_campaign=1055&utm_source=git)** | Newport Beach, CA | On Site | Nov 08 |
-| ↳ | **[Risk Advisory Intern - Summer 2025](https://jobright.ai/jobs/info/672e882566be2bb9a0dec8f8?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
+| **[Grant Thornton LLP (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2025](https://jobright.ai/jobs/info/672e882566be2bb9a0dec8f8?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
+| ↳ | **[Risk Advisory Intern - Summer 2025](https://jobright.ai/jobs/info/672e882566be2bb9a0dec8f9?utm_campaign=1055&utm_source=git)** | Newport Beach, CA | On Site | Nov 08 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Risk Management & Compliance Intern](https://jobright.ai/jobs/info/672e7a7a503a5d1058723939?utm_campaign=1055&utm_source=git)** | Naples, FL | On Site | Nov 08 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Intern - Cyber Security Operations](https://jobright.ai/jobs/info/672e869da08e0246617c8c32?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 08 |
 | **[Real Time Resolutions, Inc.](https://www.realtimeresolutions.com)** | **[Legal Intern](https://jobright.ai/jobs/info/672e653306ba503fcdf9fefa?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0cb7426d43835f074b3?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 07 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2025 Surety Underwriting Intern](https://jobright.ai/jobs/info/66f46565cab4ecdddff9ef75?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 07 |
 | **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0cb7426d43835f074c4?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Nov 07 |
-| **[Community Legal Aid](https://www.communitylegalaid.org/)** | **[Community Legal Aid Volunteer](https://jobright.ai/jobs/info/672c8871d5e0246b27235c86?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Nov 07 |
-| **[Schroders](https://www.schroders.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/672c6ba7879aa41ec7f39ae7?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
