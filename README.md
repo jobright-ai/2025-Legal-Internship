@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oshkosh Defense](https://oshkoshdefense.com)** | **[Financial Compliance Intern](https://jobright.ai/jobs/info/6730204b03f8e20c0a8db5dd?utm_campaign=1055&utm_source=git)** | Oshkosh, WI | On Site | Nov 09 |
+| ↳ | **[Contract Administration Intern](https://jobright.ai/jobs/info/6730204b03f8e20c0a8db5e8?utm_campaign=1055&utm_source=git)** | Oshkosh, WI | On Site | Nov 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Healthcare Compliance](https://jobright.ai/jobs/info/672fb5ec1127d3a67e0d3453?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 09 |
 | ↳ | **[Intern - Legal - Corporate Affairs and Legal](https://jobright.ai/jobs/info/672fbffafbe05f4552c6f54b?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Nov 09 |
 | ↳ | **[Intern  Global Regulatory Affairs, Inflammation](https://jobright.ai/jobs/info/672f91d3c4d74cac67dba5da?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Nov 09 |
@@ -75,11 +77,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Campus Graduate - 2025 Global Services Group,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6337?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | **[Gusto](https://www.gusto.com)** | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/672ec9eef596041160abeae3?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 08 |
 | ↳ | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/672ec92682ea6200f04909ba?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
-| ↳ | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/672ed53a026e4592494f8003?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 08 |
 | **[The GIANT Company](https://giantfoodstores.com)** | **[Asset Protection Internship - Willow Grove, PA-Levittown, PA](https://jobright.ai/jobs/info/672eb95c88c3f0f8566cc434?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Nov 08 |
 | ↳ | **[Asset Protection Internship - Harrisburg, PA-Lancaster, PA-York, PA](https://jobright.ai/jobs/info/672eb95c88c3f0f8566cc439?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Nov 08 |
 | **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern (Onsite January - April 2025)](https://jobright.ai/jobs/info/672eb1c5a437b62a708e4960?utm_campaign=1055&utm_source=git)** | USA GA - Covington BMD | On Site | Nov 08 |
 | **[Komatsu](http://www.ehrbar.com)** | **[International Trade Compliance Analyst](https://jobright.ai/jobs/info/672ead531f98ad6b461228db?utm_campaign=1055&utm_source=git)** | Oak Creek, WI | On Site | Nov 08 |
+| **[Gusto](https://www.gusto.com)** | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/672eac209e395ed7968e1248?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 08 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern – Risk Solutions Operations](https://jobright.ai/jobs/info/672eb0deb85ef69ee27965c4?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | On Site | Nov 08 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Paralegal (Summer)](https://jobright.ai/jobs/info/672eb5c2e3024520fe6034fe?utm_campaign=1055&utm_source=git)** | Rapid City, SD | On Site | Nov 08 |
 | **[Ajinomoto Health & Nutrition North America, Inc.](https://www.ajinorthamerica.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/672ead531f98ad6b46122931?utm_campaign=1055&utm_source=git)** | Itasca, IL | On Site | Nov 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0cb7426d43835f074c4?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Nov 07 |
 | **[Community Legal Aid](https://www.communitylegalaid.org/)** | **[Community Legal Aid Volunteer](https://jobright.ai/jobs/info/672c8871d5e0246b27235c86?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Nov 07 |
 | **[Schroders](https://www.schroders.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/672c6ba7879aa41ec7f39ae7?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Nov 06 |
-| **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Intellectual Property Group Internship](https://jobright.ai/jobs/info/672c3c639f60750f7b196ef1?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Nov 06 |
-| **[Peninsula Open Space Trust (POST)](https://openspacetrust.org)** | **[Land Transactions Intern](https://jobright.ai/jobs/info/672c2f11bcc9f09b11313769?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
