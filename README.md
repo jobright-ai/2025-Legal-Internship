@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BakerHostetler](http://www.bakerlaw.com/)** | **[2025 1L Summer Associate - Denver](https://jobright.ai/jobs/info/6731ed12c01861c35bdb2d32?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 11 |
+| ↳ | **[2025 1L Summer Associate - Cincinnati](https://jobright.ai/jobs/info/6731ed12c01861c35bdb2d37?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6730e11b5dd633e32b794ddb?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 10 |
 | ↳ | **[Undergrad Intern - Regulatory Affairs (Obesity)](https://jobright.ai/jobs/info/6730e11b5dd633e32b794d6d?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 10 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Regulatory Specialist - International Registrations](https://jobright.ai/jobs/info/6730ce1acf8a227fa8f6d168?utm_campaign=1055&utm_source=git)** | California, United States | Hybrid | Nov 10 |
@@ -70,6 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern  Global Regulatory Affairs, Inflammation](https://jobright.ai/jobs/info/672f91d3c4d74cac67dba5da?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Nov 09 |
 | ↳ | **[Grad Intern - Global Regulatory Affairs CMC](https://jobright.ai/jobs/info/672f83cfc35f4e0c57f8a7a2?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 09 |
 | ↳ | **[Intern  Regulatory Operations - Innovation, Digital, and External Partnerships](https://jobright.ai/jobs/info/672f83cfc35f4e0c57f8a89e?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Nov 09 |
+| **[Cummins Inc.](https://www.cummins.com/)** | **[Ethics and Compliance Summer Internship Positions](https://jobright.ai/jobs/info/66f6af9e4dcf1ab3747a10a4?utm_campaign=1055&utm_source=git)** | Columbus, IN | Hybrid | Nov 09 |
 | **[ofi](https://www.ofi.com)** | **[2025 Summer Intern: Regulatory Afairs](https://jobright.ai/jobs/info/6713049b3d2fe20964cdb7ad?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 09 |
 | **[BlackRock](http://www.blackrock.com)** | **[Vice President, Institutional Compliance](https://jobright.ai/jobs/info/66d9c587236256d70275e163?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Nov 09 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship-AML Monitoring- Financial Intelligence Unit (FIU)](https://jobright.ai/jobs/info/6712c7ceea33a6e08d442f5b?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Nov 09 |
@@ -79,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Economic Damages & Valuation Internship - Summer 2025](https://jobright.ai/jobs/info/672eeb8839c8371fbb23d675?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | Hybrid | Nov 08 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Legal Intern](https://jobright.ai/jobs/info/672ef7332f0f1a46a9bee1c0?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Nov 08 |
 | **[K&L Gates](http://www.klgates.com/)** | **[2025 Pittsburgh IP 1L Summer Associate](https://jobright.ai/jobs/info/673179266ff19bc141acb986?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 08 |
-| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate - 2025 US Consumer Services,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6319?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
-| ↳ | **[Campus Graduate - 2025 Global Risk & Compliance,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6317?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate - 2025 Global Risk & Compliance,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6317?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
+| ↳ | **[Campus Graduate - 2025 US Consumer Services,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6319?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | ↳ | **[Campus Graduate - 2025 Credit Fraud & Risk,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6336?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | ↳ | **[Campus Graduate - 2025 Global Services Group,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6337?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | **[Gusto](https://www.gusto.com)** | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/672ec9eef596041160abeae3?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 08 |
@@ -119,6 +122,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/672e06000dbb59fa6c03dd0a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | ↳ | **[BKD BSA/AML Intern](https://jobright.ai/jobs/info/672e06000dbb59fa6c03dc1e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | ↳ | **[ORD New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/672e06000dbb59fa6c03dc35?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 08 |
+| **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Pro Bono Spring 2025 Undergraduate Student Internship](https://jobright.ai/jobs/info/66f5dec96f25d4475c0900e6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | **[John Deere](https://www.deere.com)** | **[Legal Summer Internship - 2025a](https://jobright.ai/jobs/info/66d8fe3b9fe7d3d095e1f4ff?utm_campaign=1055&utm_source=git)** | Moline, IL | On Site | Nov 08 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Summer Intern JD (Intern) United States](https://jobright.ai/jobs/info/66f5e8dd6d59fcfcf15b8bfb?utm_campaign=1055&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Nov 08 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Legal - Corporate Affairs and Legal](https://jobright.ai/jobs/info/66da370d77e89775880f4d4d?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Nov 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Empower](https://www.empower.com)** | **[Spring 2025 Legal Externship](https://jobright.ai/jobs/info/672d0961efb9382a213a082d?utm_campaign=1055&utm_source=git)** | CO Greenwood Village | Hybrid | Nov 07 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[IT Winter Intern - Compliance Maturity and Enablement](https://jobright.ai/jobs/info/6723ed2b8844a1d435609b23?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Nov 07 |
 | **[Southeast Toyota Finance](https://www.setf.com/)** | **[Intern, Compliance](https://jobright.ai/jobs/info/672d174f3ce3cf8f5219458e?utm_campaign=1055&utm_source=git)** | Mobile Metropolitan Area | Hybrid | Nov 07 |
-| ↳ | **[Intern, Compliance](https://jobright.ai/jobs/info/672cf638ad8e030fad2d26a1?utm_campaign=1055&utm_source=git)** | Miami-FTL Area | Hybrid | Nov 07 |
-| ↳ | **[Intern, Compliance](https://jobright.ai/jobs/info/672ce9318ae4b35ddfc79ca7?utm_campaign=1055&utm_source=git)** | Greater St. Louis | Hybrid | Nov 07 |
-| **[Amgen](http://www.amgen.com)** | **[Grad Intern - Global Regulatory Affairs CMC](https://jobright.ai/jobs/info/672cdc80233a28f4a4063e90?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 07 |
-| **[Ropes & Gray LLP](http://www.ropesgray.com/)** | **[Information Governance Specialist](https://jobright.ai/jobs/info/672cd41c4d29fc2e9f25a86e?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
