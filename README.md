@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Compliance Internal Auditor Lead - Payments](https://jobright.ai/jobs/info/673a136268c4e040596956a2?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Nov 17 |
+| ↳ | **[Compliance Internal Audit Leader- Payments](https://jobright.ai/jobs/info/673a136268c4e040596956ae?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 17 |
+| ↳ | **[Compliance Internal Audit Leader- Payments](https://jobright.ai/jobs/info/673a136268c4e040596956b9?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Nov 17 |
+| ↳ | **[Compliance Internal Audit Leader- Payments](https://jobright.ai/jobs/info/673a136268c4e04059695865?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Nov 17 |
+| ↳ | **[Compliance Internal Auditor Lead - Payments](https://jobright.ai/jobs/info/673a136268c4e04059695728?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Nov 17 |
+| ↳ | **[Compliance Internal Audit Leader- Payments](https://jobright.ai/jobs/info/673a136268c4e04059695866?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Nov 17 |
+| ↳ | **[Compliance Internal Auditor Lead - Payments](https://jobright.ai/jobs/info/673a136268c4e040596956f2?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 17 |
+| ↳ | **[Compliance Internal Auditor Lead - Payments](https://jobright.ai/jobs/info/673a136268c4e04059695867?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Nov 17 |
+| **[Gallagher](http://www.ajg.com)** | **[Risk Control Intern GSIP](https://jobright.ai/jobs/info/66c884222bf785ff4501701c?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | Hybrid | Nov 17 |
 | **[Grant Thornton LLP (US)](https://www.grantthornton.com)** | **[Risk Advisory Associate - Summer 2025](https://jobright.ai/jobs/info/6739d355aa97f2b6b48b91cd?utm_campaign=1055&utm_source=git)** | Newport Beach, CA | On Site | Nov 17 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Compliance and Operational Risk Analyst](https://jobright.ai/jobs/info/6739605743420fc02933232d?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Nov 16 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[20th Business Affairs JD Intern, Spring 2025](https://jobright.ai/jobs/info/6738d14890ba2411edb9ad82?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 16 |
@@ -103,8 +112,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Los Angeles Office - 2025 1L LCLD Scholar (Litigation)](https://jobright.ai/jobs/info/67378ed75bea4bf9e15fe198?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 15 |
 | ↳ | **[Houston Office - 2025 1L LCLD Scholar (Transactions)](https://jobright.ai/jobs/info/67378ed75bea4bf9e15fe1a8?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 15 |
 | **[Perkins Coie LLP](http://www.perkinscoie.com)** | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/6737941a00205d377f11a21c?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Nov 15 |
-| ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/6737941a00205d377f11a21e?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Nov 15 |
 | ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/6737941a00205d377f11a21d?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Nov 15 |
+| ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/6737941a00205d377f11a21e?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Nov 15 |
 | ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/6737941a00205d377f11a21f?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Nov 15 |
 | ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/6737941a00205d377f11a220?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 15 |
 | ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/6737941a00205d377f11a221?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Nov 15 |
@@ -113,17 +122,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67378d67a15695328c712f2d?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 15 |
 | ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67378d67a15695328c712f2e?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | On Site | Nov 15 |
 | ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67377cd5b092ebfca6996ae9?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 15 |
-| ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67376ee4282bf0da801ba4fb?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 15 |
+| ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67376ee4282bf0da801ba502?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Nov 15 |
+| ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67376ee4282bf0da801ba459?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | On Site | Nov 15 |
 | ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67376ee4282bf0da801ba500?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Nov 15 |
-| ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67376ee4282bf0da801ba4fd?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Nov 15 |
-| ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67376ee4282bf0da801ba4fe?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Nov 15 |
-| ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67376ee4282bf0da801ba4fc?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 15 |
 | ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67376ee4282bf0da801ba4fa?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Nov 15 |
+| ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67376ee4282bf0da801ba4fd?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Nov 15 |
+| ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67376ee4282bf0da801ba4ff?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Nov 15 |
+| ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67376ee4282bf0da801ba4fb?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 15 |
+| ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67376ee4282bf0da801ba4fc?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 15 |
 | ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67376ee4282bf0da801ba501?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 15 |
 | ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67376ee4282bf0da801ba4f9?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 15 |
-| ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67376ee4282bf0da801ba4ff?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Nov 15 |
-| ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67376ee4282bf0da801ba459?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | On Site | Nov 15 |
-| ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67376ee4282bf0da801ba502?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Nov 15 |
+| ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67376ee4282bf0da801ba4fe?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Nov 15 |
 | **[Accuray](http://www.accuray.com)** | **[Intern - Document Control Specialist](https://jobright.ai/jobs/info/67376b998fae0e2174c21d5e?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Nov 15 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6702138a2b54bd24b93a26ee?utm_campaign=1055&utm_source=git)** | Winter Park, FL | Hybrid | Nov 15 |
 | **[Weaver](http://www.weaver.com)** | **[Energy Compliance Services Intern - Spring 2026](https://jobright.ai/jobs/info/67374c229924e7a7fdb922c4?utm_campaign=1055&utm_source=git)** | The Woodlands, TX | On Site | Nov 15 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[Law Student Intern (Hybrid) #241114-INTERN-LS1](https://jobright.ai/jobs/info/6736e0e6104a03f301274894?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Nov 14 |
 | **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[Contracts Summer Internship](https://jobright.ai/jobs/info/6736e0e6104a03f3012748e4?utm_campaign=1055&utm_source=git)** | Huntsville, AL | On Site | Nov 14 |
 | **[AARP](http://www.aarp.org)** | **[Fraud Watch Network and Prevention Intern](https://jobright.ai/jobs/info/6732de140e29f0593fb08893?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 14 |
-| **[DLA Piper](https://www.dlapiper.com/)** | **[2025 U.S. Summer Program - 1L Candidates (Litigation)](https://jobright.ai/jobs/info/6736cd5f01b445790ec786f1?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 14 |
-| **[US Army Corps of Engineers](https://www.usace.army.mil/)** | **[Student Trainee (Legal)](https://jobright.ai/jobs/info/67373a7e7e33a6e6e44645b8?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Nov 14 |
-| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Legal Department Intern (Summer 2025)](https://jobright.ai/jobs/info/6736bf386033e437b52d97e8?utm_campaign=1055&utm_source=git)** | Westfield Center, OH | On Site | Nov 14 |
-| ↳ | **[Risk Control Intern (Summer 2025)](https://jobright.ai/jobs/info/6736bf386033e437b52d980d?utm_campaign=1055&utm_source=git)** | Westfield Center, OH | On Site | Nov 14 |
-| **[DLA Piper](https://www.dlapiper.com/)** | **[2025 U.S. Summer Program - 1L Candidates (Litigation)](https://jobright.ai/jobs/info/6736a2963378e2d8f69fda5d?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Nov 14 |
-| ↳ | **[2025 U.S. Summer Program - 1L Candidates (Litigation)](https://jobright.ai/jobs/info/6736a2963378e2d8f69fdab0?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 14 |
-| ↳ | **[2025 U.S. Summer Program - 1L Candidates (Litigation)](https://jobright.ai/jobs/info/6736a2963378e2d8f69fdab1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 14 |
-| **[State of Delaware](https://www.delawarestatejobs.com/)** | **[Assistant Unit Head/Deputy Attorney General - Felony Trial Unit **Internal/In-house Criminal Division - New Castle County](https://jobright.ai/jobs/info/6736b58a076ca92a8e215db4?utm_campaign=1055&utm_source=git)** | Delaware, United States | On Site | Nov 14 |
-| **[Scout Clean Energy](http://www.scoutcleanenergy.com)** | **[Legal Intern Summer 2025](https://jobright.ai/jobs/info/6736787adc1d611be4f9df82?utm_campaign=1055&utm_source=git)** | Boulder, CO | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
