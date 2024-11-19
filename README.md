@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate - 2025 American Express National Bank,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/673c045a922e3ec145276899?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 18 |
+| **[DLA Piper](https://www.dlapiper.com/)** | **[2025 U.S. Summer Program - 1L Candidates (Litigation)](https://jobright.ai/jobs/info/6736cd5f01b445790ec786f1?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 18 |
+| **[Squire Patton Boggs](http://www.squirepattonboggs.com/)** | **[1L Summer Associate 2025](https://jobright.ai/jobs/info/673bf1cab6a818f28bf2b453?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Nov 18 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Summer 2026 (Dallas)](https://jobright.ai/jobs/info/673be9596f1776dc6547e0ef?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Nov 18 |
+| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/673bdae474b668f20fbc0c0a?utm_campaign=1055&utm_source=git)** | Albany, NY | Hybrid | Nov 18 |
 | **[Spire](https://www.spireenergy.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/673bd27be52d546dbcd78e17?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 18 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Law - Sacramento CLC](https://jobright.ai/jobs/info/673bd8c278e451286508d99c?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Nov 18 |
 | **[Zinda Law Group, PLLC](http://www.zdfirm.com)** | **[Paid Internship - Personal Injury Law Firm](https://jobright.ai/jobs/info/673bd8c278e451286508da39?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Nov 18 |
@@ -65,7 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Verizon](https://www.verizon.com)** | **[FAMU 1L Legal Summer Internship 2025](https://jobright.ai/jobs/info/673bd0f2a0410463cafefaf8?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 18 |
 | ↳ | **[FAMU 1L Legal Summer Internship 2025](https://jobright.ai/jobs/info/673bd0f2a0410463cafefafb?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 18 |
 | ↳ | **[FAMU 1L Legal Summer Internship 2025](https://jobright.ai/jobs/info/673bd0f2a0410463cafefafc?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | On Site | Nov 18 |
-| **[Power Home Remodeling](http://www.powerhrg.com)** | **[Legal Intern*](https://jobright.ai/jobs/info/673bbfacf953dc1ae8876902?utm_campaign=1055&utm_source=git)** | Jenkintown, PA | On Site | Nov 18 |
+| **[Power Home Remodeling](http://www.powerhrg.com)** | **[Legal Intern*](https://jobright.ai/jobs/info/673bf43ea3225182ddc02205?utm_campaign=1055&utm_source=git)** | Aston, PA | On Site | Nov 18 |
+| ↳ | **[Legal Intern*](https://jobright.ai/jobs/info/673bbfacf953dc1ae8876902?utm_campaign=1055&utm_source=git)** | Jenkintown, PA | On Site | Nov 18 |
 | ↳ | **[Legal Intern*](https://jobright.ai/jobs/info/673bbfdcf953dc1ae8876e58?utm_campaign=1055&utm_source=git)** | Swedesboro, NJ | On Site | Nov 18 |
 | ↳ | **[Legal Intern*](https://jobright.ai/jobs/info/673bbfdcf953dc1ae8876e57?utm_campaign=1055&utm_source=git)** | Glassboro, NJ | On Site | Nov 18 |
 | ↳ | **[Legal Intern*](https://jobright.ai/jobs/info/673bbfdcf953dc1ae8876e59?utm_campaign=1055&utm_source=git)** | Cherry Hill, NJ | On Site | Nov 18 |
@@ -115,8 +121,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Compliance Internal Audit Leader- Payments](https://jobright.ai/jobs/info/673a136268c4e04059695865?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Nov 17 |
 | ↳ | **[Compliance Internal Auditor Lead - Payments](https://jobright.ai/jobs/info/673a136268c4e04059695728?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Nov 17 |
 | ↳ | **[Compliance Internal Audit Leader- Payments](https://jobright.ai/jobs/info/673a136268c4e04059695866?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Nov 17 |
-| ↳ | **[Compliance Internal Auditor Lead - Payments](https://jobright.ai/jobs/info/673a136268c4e04059695867?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Nov 17 |
 | ↳ | **[Compliance Internal Auditor Lead - Payments](https://jobright.ai/jobs/info/673a136268c4e040596956f2?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 17 |
+| ↳ | **[Compliance Internal Auditor Lead - Payments](https://jobright.ai/jobs/info/673a136268c4e04059695867?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Nov 17 |
 | **[Gallagher](http://www.ajg.com)** | **[Risk Control Intern GSIP](https://jobright.ai/jobs/info/66c884222bf785ff4501701c?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | Hybrid | Nov 17 |
 | **[Grant Thornton LLP (US)](https://www.grantthornton.com)** | **[Risk Advisory Associate - Summer 2025](https://jobright.ai/jobs/info/6739d355aa97f2b6b48b91cd?utm_campaign=1055&utm_source=git)** | Newport Beach, CA | On Site | Nov 17 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Compliance and Operational Risk Analyst](https://jobright.ai/jobs/info/6739605743420fc02933232d?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Nov 16 |
@@ -135,6 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Legal Department Co-op / 2025 Treasury Summer Internship Program](https://jobright.ai/jobs/info/673849e0093aaf89fcdb22ca?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Nov 15 |
 | ↳ | **[Massachusetts State Retirement Board Legal Department Co-op / 2025 Treasury Summer Internship Program](https://jobright.ai/jobs/info/673849e0093aaf89fcdb22ea?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Nov 15 |
 | **[Temple Health – Temple University Health System](https://www.templehealth.org/)** | **[Student Assistant - Legal](https://jobright.ai/jobs/info/6738278e59eb43cfe8a97101?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Nov 15 |
+| **[Perkins Coie LLP](http://www.perkinscoie.com)** | **[2025 1L Diversity & Inclusion Fellowship - Commercial Litigation - Los Angeles](https://jobright.ai/jobs/info/673737044ac3d4e525f0aee4?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 15 |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[2025 Legal Sector Advisory Services Summer Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fef2?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA | On Site | Nov 15 |
 | **[Squire Patton Boggs](http://www.squirepattonboggs.com/)** | **[1L Summer Associate 2025](https://jobright.ai/jobs/info/6737fd848759fa306d75a895?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 15 |
 | ↳ | **[1L Summer Associate 2025](https://jobright.ai/jobs/info/6737fd848759fa306d75a8a0?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 15 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Summer 2025 (Dallas)](https://jobright.ai/jobs/info/6737f59fb444791c5246a89e?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Nov 15 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Deposit Insurance Corporation (FDIC)](https://fdic.gov)** | **[Student Trainee (Legal Intern), CG-0999-07/09](https://jobright.ai/jobs/info/6737d5fdb2a7384b8c22cade?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 15 |
 | ↳ | **[Student Trainee (Legal Intern), CG-0999-07/09](https://jobright.ai/jobs/info/6737d5fdb2a7384b8c22cae7?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Nov 15 |
 | ↳ | **[Student Trainee (Legal Intern), CG-0999-07/09](https://jobright.ai/jobs/info/6737d5fdb2a7384b8c22caf1?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 15 |
-| ↳ | **[Student Trainee (Legal Intern), CG-0999-07/09](https://jobright.ai/jobs/info/6737d5fdb2a7384b8c22caf5?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 15 |
-| **[Conifer Realty](http://www.coniferllc.com/)** | **[CONIFER'S 2025 SUMMER INTERNSHIP - LEGAL](https://jobright.ai/jobs/info/6737c38b22a4cc33189f16fe?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Nov 15 |
-| **[Federal Deposit Insurance Corporation (FDIC)](https://fdic.gov)** | **[Student Trainee (Legal Intern), CG-0999-07/09](https://jobright.ai/jobs/info/6737b704a38ce1e28b525b94?utm_campaign=1055&utm_source=git)** | Braintree, MA | On Site | Nov 15 |
-| **[Squire Patton Boggs](http://www.squirepattonboggs.com/)** | **[1L Summer Associate 2025](https://jobright.ai/jobs/info/6737a943d3219f92bf973581?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 15 |
-| ↳ | **[1L Summer Associate 2025](https://jobright.ai/jobs/info/6737a943d3219f92bf973182?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 15 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[International Trade Compliance Intern](https://jobright.ai/jobs/info/66df3184539274ca5b119bc3?utm_campaign=1055&utm_source=git)** | Olathe, KS | On Site | Nov 15 |
-| **[Entertainment Software Association](http://theesa.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/67379754c607401a448dc817?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 15 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern- Risk Management Department](https://jobright.ai/jobs/info/673792001a93998ccc35f143?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
