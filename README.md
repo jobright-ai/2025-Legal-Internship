@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2025 Legal Intern](https://jobright.ai/jobs/info/6742c31919fbf6942451e0b5?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 23 |
 | **[Denali Therapeutics](https://www.denalitherapeutics.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/674269865652d95d9fd3b15c?utm_campaign=1055&utm_source=git)** | South San Francisco, CA | On Site | Nov 23 |
 | **[NetApp](http://netapp.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/674239bb1c10aae28bb48490?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Nov 23 |
 | **[The Institute of Internal Auditors Inc.](https://na.theiia.org)** | **[Sr.Mgr,Exam Content Development Job at The Institute of Internal Auditors Inc in](https://jobright.ai/jobs/info/6742022bbe67a348317c6662?utm_campaign=1055&utm_source=git)** | Lake Mary, FL | On Site | Nov 23 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Farm Credit Administration](https://www.fca.gov/)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6741a2eb34e8e4c81a1ce2b4?utm_campaign=1055&utm_source=git)** | Columbia, SC | On Site | Nov 23 |
 | **[Sheppard Mullin Richter & Hampton LLP](http://www.sheppardmullin.com)** | **[Entertainment, Technology, & Advertising Internship (Spring 2025 Century City)](https://jobright.ai/jobs/info/674169b0222271e39af6e22f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Probation Intern (Hourly)](https://jobright.ai/jobs/info/6733b772ca5196e62172bcea?utm_campaign=1055&utm_source=git)** | Hackensack, NJ | On Site | Nov 22 |
+| **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/671a6f57431b750db020326c?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Nov 22 |
 | **[OceanFirst Bank](https://oceanfirst.com/)** | **[Department Intern (Compliance)](https://jobright.ai/jobs/info/67415c95f500b2ebbbde4d8a?utm_campaign=1055&utm_source=git)** | Red Bank, NJ | On Site | Nov 22 |
 | **[Bernhard](https://bernhard.com)** | **[Legal Intern](https://jobright.ai/jobs/info/674282406354ce836ea91936?utm_campaign=1055&utm_source=git)** | Metairie, LA | On Site | Nov 22 |
 | **[Inari Medical](http://inarimedical.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67414082464a894355381f79?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Nov 22 |
@@ -80,7 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Arkansas Blue Cross and Blue Shield](http://www.arkansasbluecross.com)** | **[Summer Intern Compliance Systems & Accreditation](https://jobright.ai/jobs/info/6741196f5843fcd03c9b7a1d?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Nov 22 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2025 Legal Sector Advisory Services Summer Intern](https://jobright.ai/jobs/info/6741073d1cf90435b16923aa?utm_campaign=1055&utm_source=git)** | Baton Rouge | On Site | Nov 22 |
 | ↳ | **[2025 Legal Sector Advisory Services Summer Intern](https://jobright.ai/jobs/info/6741073d1cf90435b16923b5?utm_campaign=1055&utm_source=git)** | New Orleans | On Site | Nov 22 |
-| **[Compassion International](http://www.compassion.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6741040821b84e08697c8e61?utm_campaign=1055&utm_source=git)** | USA - Global Ministry Center | On Site | Nov 22 |
+| **[Compassion International](http://www.compassion.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6741040821b84e08697c8fa3?utm_campaign=1055&utm_source=git)** | USA - Global Ministry Center | On Site | Nov 22 |
 | **[U.S. Department of Labor](https://oig.dol.gov)** | **[Law Student Volunteer (UNPAID)](https://jobright.ai/jobs/info/67410d3b53e188fba31d052f?utm_campaign=1055&utm_source=git)** | Washington, United States | On Site | Nov 22 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate - 2025 American Express National Bank, Operational Risk Management Control Manager Summer Internship,Salt Lake City, UT](https://jobright.ai/jobs/info/6740f84c013d584f68502efb?utm_campaign=1055&utm_source=git)** | Sandy, UT | Hybrid | Nov 22 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Cyber Security and Compliance (CCA) - Summer 2025 (Minneapolis, Boston, Chicago)](https://jobright.ai/jobs/info/6740f3ff11cfb91427e71d8a?utm_campaign=1055&utm_source=git)** | 800 Nicollet Mall, Minneapolis, MN, 55402, US | On Site | Nov 22 |
@@ -124,17 +126,16 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](http://www.trimble.com)** | **[Software Licensing and Asset Management Intern](https://jobright.ai/jobs/info/673fbdfe9aca12c3132ef342?utm_campaign=1055&utm_source=git)** | Westminster, CO | Remote | Nov 21 |
 | ↳ | **[Software Licensing and Asset Management Intern](https://jobright.ai/jobs/info/673fbdfe9aca12c3132ef3b3?utm_campaign=1055&utm_source=git)** | Lake Oswego, OR | Remote | Nov 21 |
 | **[DLL](http://dllgroup.com)** | **[Compliance/Transaction Support Intern](https://jobright.ai/jobs/info/673fa0a3d55f203e276f431e?utm_campaign=1055&utm_source=git)** | Des Moines, IA | On Site | Nov 21 |
-| **[Genentech](http://gene.com)** | **[2025 Summer Intern - gRED Development Sciences - Contracts Management](https://jobright.ai/jobs/info/673e5c52c7d369b67ac959b3?utm_campaign=1055&utm_source=git)** | South San Francisco, CA | On Site | Nov 21 |
 | **[Symetra](http://www.symetra.com)** | **[2025 Investment Compliance Internship](https://jobright.ai/jobs/info/673f97d42b190b42f687f344?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 21 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Law - Philadelphia CLC](https://jobright.ai/jobs/info/6722c6b426a5a5ea7668c3b2?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 21 |
 | **[Zeta Charter Schools](https://zetaschools.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/673f8a7eca939923901e9eb1?utm_campaign=1055&utm_source=git)** | New York City, NY | On Site | Nov 21 |
 | **[Zoetis](https://www.zoetis.com)** | **[Regulatory CMC Internship](https://jobright.ai/jobs/info/673f6cde01ca0a846c5c619d?utm_campaign=1055&utm_source=git)** | Kalamazoo - Downtown Portage Street | On Site | Nov 21 |
 | ↳ | **[Regulatory CMC Internship](https://jobright.ai/jobs/info/673f6cde01ca0a846c5c61a4?utm_campaign=1055&utm_source=git)** | Kalamazoo - Downtown Portage Street | On Site | Nov 21 |
-| **[Trimble Inc.](http://www.trimble.com)** | **[Software Licensing and Asset Management Intern](https://jobright.ai/jobs/info/673f62a072ebcbc97437f06b?utm_campaign=1055&utm_source=git)** | US - Remote, OR | Remote | Nov 21 |
-| ↳ | **[Software Licensing and Asset Management Intern](https://jobright.ai/jobs/info/673f62a072ebcbc97437effe?utm_campaign=1055&utm_source=git)** | US - Remote, CO | Remote | Nov 21 |
-| ↳ | **[Software Licensing and Asset Management Intern](https://jobright.ai/jobs/info/673f62a072ebcbc97437f06c?utm_campaign=1055&utm_source=git)** | US - CO, Westminster | On Site | Nov 21 |
-| ↳ | **[Software Licensing and Asset Management Intern](https://jobright.ai/jobs/info/673f62a072ebcbc97437f06a?utm_campaign=1055&utm_source=git)** | US - OR, Lake Oswego | On Site | Nov 21 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[Software Licensing and Asset Management Intern](https://jobright.ai/jobs/info/673f62a072ebcbc97437f06c?utm_campaign=1055&utm_source=git)** | US - CO, Westminster | On Site | Nov 21 |
 | ↳ | **[Software Licensing and Asset Management Intern](https://jobright.ai/jobs/info/673f62a072ebcbc97437f069?utm_campaign=1055&utm_source=git)** | US - Remote, MN (ALK) | Remote | Nov 21 |
+| ↳ | **[Software Licensing and Asset Management Intern](https://jobright.ai/jobs/info/673f62a072ebcbc97437f06a?utm_campaign=1055&utm_source=git)** | US - OR, Lake Oswego | On Site | Nov 21 |
+| ↳ | **[Software Licensing and Asset Management Intern](https://jobright.ai/jobs/info/673f62a072ebcbc97437f06b?utm_campaign=1055&utm_source=git)** | US - Remote, OR | Remote | Nov 21 |
+| ↳ | **[Software Licensing and Asset Management Intern](https://jobright.ai/jobs/info/673f62a072ebcbc97437effe?utm_campaign=1055&utm_source=git)** | US - Remote, CO | Remote | Nov 21 |
 | **[FM Global](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/670744238528abfdf186546d?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | On Site | Nov 21 |
 | **[Gordon Rees Scully Mansukhani, LLP](https://www.gordonrees.com)** | **[Law Clerk](https://jobright.ai/jobs/info/673f5e1d8f479049a28467df?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Nov 21 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Global Regulatory Affairs, Inflammation](https://jobright.ai/jobs/info/66da3c668e07bb1c1f46267e?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Nov 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FM Global](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/670763acd2d8ea3c71a67ae7?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | On Site | Nov 21 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern – Subcontracts, Legal – Campus 2025](https://jobright.ai/jobs/info/673f19df015b541496fa31a5?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Nov 21 |
 | **[Medpace](http://www.medpace.com)** | **[Regulatory Research Spring 2025 Intern](https://jobright.ai/jobs/info/669632a3ffb716512c2a9f6e?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 21 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - 2024-25](https://jobright.ai/jobs/info/67215af916cbd91bce95a731?utm_campaign=1055&utm_source=git)** | Rocklin, CA | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
