@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Massachusetts State Retirement Board Legal Department Co-op / 2025 Treasury Summer Internship Program](https://jobright.ai/jobs/info/6743bf57fc5a0441b06a8e5f?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Nov 24 |
+| ↳ | **[Legal Department Co-op / 2025 Treasury Summer Internship Program](https://jobright.ai/jobs/info/67439269f7188d0ce64fc766?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Nov 24 |
 | **[The Institute of Internal Auditors Inc.](https://na.theiia.org)** | **[Sr.Mgr,Exam Content Development Job at The Institute of Internal Auditors Inc in](https://jobright.ai/jobs/info/67434efdfb705d274eae72c9?utm_campaign=1055&utm_source=git)** | Lake Mary, FL | On Site | Nov 24 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2025 Legal Intern](https://jobright.ai/jobs/info/6742c31919fbf6942451e0b5?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 23 |
 | **[Denali Therapeutics](https://www.denalitherapeutics.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/674269865652d95d9fd3b15c?utm_campaign=1055&utm_source=git)** | South San Francisco, CA | On Site | Nov 23 |
@@ -82,8 +84,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Judicial Strategy 2025 Summer Legal Associate](https://jobright.ai/jobs/info/67411eb73c4212b1ca9bd3f2?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Risk and Compliance Intern - IT Services](https://jobright.ai/jobs/info/67411377c42da6db3b1d894a?utm_campaign=1055&utm_source=git)** | Cincinnati, OH (USA) | On Site | Nov 22 |
 | **[Arkansas Blue Cross and Blue Shield](http://www.arkansasbluecross.com)** | **[Summer Intern Compliance Systems & Accreditation](https://jobright.ai/jobs/info/6741196f5843fcd03c9b7a1d?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Nov 22 |
-| **[EisnerAmper](http://www.eisneramper.com)** | **[2025 Legal Sector Advisory Services Summer Intern](https://jobright.ai/jobs/info/6741073d1cf90435b16923b5?utm_campaign=1055&utm_source=git)** | New Orleans | On Site | Nov 22 |
-| ↳ | **[2025 Legal Sector Advisory Services Summer Intern](https://jobright.ai/jobs/info/6741073d1cf90435b16923aa?utm_campaign=1055&utm_source=git)** | Baton Rouge | On Site | Nov 22 |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[2025 Legal Sector Advisory Services Summer Intern](https://jobright.ai/jobs/info/6741073d1cf90435b16923aa?utm_campaign=1055&utm_source=git)** | Baton Rouge | On Site | Nov 22 |
+| ↳ | **[2025 Legal Sector Advisory Services Summer Intern](https://jobright.ai/jobs/info/6741073d1cf90435b16923b5?utm_campaign=1055&utm_source=git)** | New Orleans | On Site | Nov 22 |
 | **[Compassion International](http://www.compassion.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6741040821b84e08697c8fa3?utm_campaign=1055&utm_source=git)** | USA - Global Ministry Center | On Site | Nov 22 |
 | **[U.S. Department of Labor](https://oig.dol.gov)** | **[Law Student Volunteer (UNPAID)](https://jobright.ai/jobs/info/67410d3b53e188fba31d052f?utm_campaign=1055&utm_source=git)** | Washington, United States | On Site | Nov 22 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate - 2025 American Express National Bank, Operational Risk Management Control Manager Summer Internship,Salt Lake City, UT](https://jobright.ai/jobs/info/6740f84c013d584f68502efb?utm_campaign=1055&utm_source=git)** | Sandy, UT | Hybrid | Nov 22 |
@@ -133,12 +135,12 @@ For a complete list, click the following sortable link below:
 | **[Symetra](http://www.symetra.com)** | **[2025 Investment Compliance Internship](https://jobright.ai/jobs/info/673f97d42b190b42f687f344?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 21 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Law - Philadelphia CLC](https://jobright.ai/jobs/info/6722c6b426a5a5ea7668c3b2?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 21 |
 | **[Zeta Charter Schools](https://zetaschools.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/673f8a7eca939923901e9eb1?utm_campaign=1055&utm_source=git)** | New York City, NY | On Site | Nov 21 |
-| **[Zoetis](https://www.zoetis.com)** | **[Regulatory CMC Internship](https://jobright.ai/jobs/info/673f6cde01ca0a846c5c61a4?utm_campaign=1055&utm_source=git)** | Kalamazoo - Downtown Portage Street | On Site | Nov 21 |
-| ↳ | **[Regulatory CMC Internship](https://jobright.ai/jobs/info/673f6cde01ca0a846c5c619d?utm_campaign=1055&utm_source=git)** | Kalamazoo - Downtown Portage Street | On Site | Nov 21 |
-| **[Trimble Inc.](http://www.trimble.com)** | **[Software Licensing and Asset Management Intern](https://jobright.ai/jobs/info/673f62a072ebcbc97437effe?utm_campaign=1055&utm_source=git)** | US - Remote, CO | Remote | Nov 21 |
-| ↳ | **[Software Licensing and Asset Management Intern](https://jobright.ai/jobs/info/673f62a072ebcbc97437f06c?utm_campaign=1055&utm_source=git)** | US - CO, Westminster | On Site | Nov 21 |
-| ↳ | **[Software Licensing and Asset Management Intern](https://jobright.ai/jobs/info/673f62a072ebcbc97437f06a?utm_campaign=1055&utm_source=git)** | US - OR, Lake Oswego | On Site | Nov 21 |
+| **[Zoetis](https://www.zoetis.com)** | **[Regulatory CMC Internship](https://jobright.ai/jobs/info/673f6cde01ca0a846c5c619d?utm_campaign=1055&utm_source=git)** | Kalamazoo - Downtown Portage Street | On Site | Nov 21 |
+| ↳ | **[Regulatory CMC Internship](https://jobright.ai/jobs/info/673f6cde01ca0a846c5c61a4?utm_campaign=1055&utm_source=git)** | Kalamazoo - Downtown Portage Street | On Site | Nov 21 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[Software Licensing and Asset Management Intern](https://jobright.ai/jobs/info/673f62a072ebcbc97437f06c?utm_campaign=1055&utm_source=git)** | US - CO, Westminster | On Site | Nov 21 |
 | ↳ | **[Software Licensing and Asset Management Intern](https://jobright.ai/jobs/info/673f62a072ebcbc97437f069?utm_campaign=1055&utm_source=git)** | US - Remote, MN (ALK) | Remote | Nov 21 |
+| ↳ | **[Software Licensing and Asset Management Intern](https://jobright.ai/jobs/info/673f62a072ebcbc97437effe?utm_campaign=1055&utm_source=git)** | US - Remote, CO | Remote | Nov 21 |
+| ↳ | **[Software Licensing and Asset Management Intern](https://jobright.ai/jobs/info/673f62a072ebcbc97437f06a?utm_campaign=1055&utm_source=git)** | US - OR, Lake Oswego | On Site | Nov 21 |
 | ↳ | **[Software Licensing and Asset Management Intern](https://jobright.ai/jobs/info/673f62a072ebcbc97437f06b?utm_campaign=1055&utm_source=git)** | US - Remote, OR | Remote | Nov 21 |
 | **[FM Global](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/670744238528abfdf186546d?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | On Site | Nov 21 |
 | **[Koch Industries](https://www.kochinc.com)** | **[Legal Internship - 2025](https://jobright.ai/jobs/info/674343bac40ade7afb0ee209?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Knoxville 1L Summer Associate](https://jobright.ai/jobs/info/672286bf6ae36a0a9bd403d3?utm_campaign=1055&utm_source=git)** | Knoxville, TN | On Site | Nov 21 |
 | ↳ | **[2025 Charleston 1L Summer Associate](https://jobright.ai/jobs/info/6722a07c28cebcc2d0af116a?utm_campaign=1055&utm_source=git)** | Charleston, SC | On Site | Nov 21 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - DSPV Business Support and Contract Management](https://jobright.ai/jobs/info/6722988593473733f6501b6b?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 21 |
-| **[Baker Donelson](http://www.bakerdonelson.com/)** | **[2025 Nashville 1L Summer Associate](https://jobright.ai/jobs/info/67229904f4a6c0b3faaa3e4b?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Nov 21 |
-| ↳ | **[2025 Fort Lauderdale 1L Summer Associate](https://jobright.ai/jobs/info/672286bf6ae36a0a9bd403e4?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
