@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Intern  Regulatory Affairs, Oncology](https://jobright.ai/jobs/info/67488f7569bfc74e777cd443?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Nov 28 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Risk Management](https://jobright.ai/jobs/info/674872e86ffa10bcc6eecb0a?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Nov 28 |
+| **[First Internet Bank](https://www.firstib.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/6732c7f6f09dfda2e4c74d67?utm_campaign=1055&utm_source=git)** | Fishers, IN | Hybrid | Nov 28 |
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2025 Law Intern- Corporate Law](https://jobright.ai/jobs/info/67485c90abef33f64cf2d9ce?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 28 |
 | ↳ | **[Summer 2025 Law Intern- Transactions Law Group](https://jobright.ai/jobs/info/67485c90abef33f64cf2d9cf?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 28 |
 | ↳ | **[Summer 2025 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/67485c90abef33f64cf2d9d4?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 28 |
-| **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Corporate Affairs](https://jobright.ai/jobs/info/6748609912501e419ee5db41?utm_campaign=1055&utm_source=git)** | South San Francisco, CA | On Site | Nov 28 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Spring 2025](https://jobright.ai/jobs/info/66f36c8f547c8121942b4c8b?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 28 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Compliance Specialist](https://jobright.ai/jobs/info/674854b66f9ff59149e1b909?utm_campaign=1055&utm_source=git)** | Poway, CA | On Site | Nov 28 |
 | **[CarMax](http://www.carmax.com)** | **[Corporate Law Clerk Hybrid/Remote](https://jobright.ai/jobs/info/6747fc0732b0e5f4eda95ede?utm_campaign=1055&utm_source=git)** | Richmond, VA | Hybrid | Nov 27 |
@@ -83,9 +84,12 @@ For a complete list, click the following sortable link below:
 | **[Capital Blue Cross](https://capbluecross.com)** | **[Legal/Vendor Alliance Intern](https://jobright.ai/jobs/info/67478e0c9b853a4788ce8df2?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | Hybrid | Nov 27 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Financial Crimes Investigator (Fraud) - Temporary Assignment](https://jobright.ai/jobs/info/6747b994acd4bd5ead035087?utm_campaign=1055&utm_source=git)** | Plymouth, MA | On Site | Nov 27 |
 | **[Capital Blue Cross](https://capbluecross.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67478e0c9b853a4788ce8e01?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | Hybrid | Nov 27 |
-| **[PayPal](https://www.paypal.com/home)** | **[Cybersecurity Strat & Policy MBA Intern](https://jobright.ai/jobs/info/6744d6354094bb6b3b202c6d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
+| **[PayPal](https://www.paypal.com/home)** | **[Cybersecurity Strat & Policy MBA Intern](https://jobright.ai/jobs/info/6744d6354094bb6b3b202ca1?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Nov 27 |
+| ↳ | **[Cybersecurity Strat & Policy MBA Intern](https://jobright.ai/jobs/info/6744d6354094bb6b3b202c6d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
+| **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Shelter Services Legal Intern, IINE Lowell](https://jobright.ai/jobs/info/66d89b6e03d0643cfc9a0f9a?utm_campaign=1055&utm_source=git)** | Lowell, MA | On Site | Nov 27 |
 | **[Safra National Bank](http://www.safra.com/)** | **[Intern](https://jobright.ai/jobs/info/674750d8463ef176c07b0d27?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[Dentons Global Advisors](https://www.dentonsglobaladvisors.com)** | **[Intern - Complex Communications Advisory](https://jobright.ai/jobs/info/67474a25e50b087a2889f998?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
+| **[Oracle](https://www.oracle.com/)** | **[M&D Security and Fraud Analyst Intern - OVIP](https://jobright.ai/jobs/info/67292c8fb04bb3d4c6982b7b?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 27 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Global Regulatory Strategy Infrastructure Intern](https://jobright.ai/jobs/info/674768f9c04b614c14628f3c?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Nov 27 |
 | **[Capital Blue Cross](https://capbluecross.com)** | **[Corporate Compliance Legal Intern](https://jobright.ai/jobs/info/67474136994956908b98b74a?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | Hybrid | Nov 27 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate - 2025 Global Risk & Compliance, Enterprise Risk Management & Risk Oversight Summer Internship New York, NY](https://jobright.ai/jobs/info/66d58b8ca2abd1166dc007fd?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
@@ -120,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations – Cybersecurity Incident Response Associate Intern](https://jobright.ai/jobs/info/674601abba24660f2c807fe7?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 26 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Cyber Compliance Intern - Summer 2025](https://jobright.ai/jobs/info/67294453081de74a5ed8e7ed?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Nov 26 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern (Contract Administration Summer Intern)](https://jobright.ai/jobs/info/6745df1125153af60a80f4ad?utm_campaign=1055&utm_source=git)** | Aiken, SC | On Site | Nov 26 |
+| **[Americans for Immigrant Justice](https://aijustice.org/)** | **[Opening – Spring 2025 Extern – Litigation & Advocacy Program](https://jobright.ai/jobs/info/6744f51ba71163a4bc96284e?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Nov 26 |
 | **[Selective Insurance](https://www.selective.com/)** | **[Claims Summer Internships – Charlotte, NC (Hybrid)](https://jobright.ai/jobs/info/6729079a1a3f5a15d10ebe1a?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Nov 26 |
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2025 Legal Intern - Norfolk, Virginia Corporate Office](https://jobright.ai/jobs/info/66f1f9c66600c5412f755c3c?utm_campaign=1055&utm_source=git)** | Norfolk, VA | On Site | Nov 26 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed60?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Encova Insurance](https://www.encova.com)** | **[Intern, Claims](https://jobright.ai/jobs/info/67450cd437c3005e59001c9b?utm_campaign=1055&utm_source=git)** | Greater Wilmington Area | Remote | Nov 25 |
 | **[Americans for Immigrant Justice](https://aijustice.org/)** | **[Opening – Spring 2024 Extern – Family Defense Program](https://jobright.ai/jobs/info/6744ff5c69ac708940ea8002?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Nov 25 |
 | ↳ | **[Spring 2024 Extern – Lucha Program](https://jobright.ai/jobs/info/6744ff5c69ac708940ea8011?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Nov 25 |
-| **[Lincoln Institute of Land Policy](https://www.lincolninst.edu/)** | **[Project Assistant Intern - Law](https://jobright.ai/jobs/info/6744eca5d01db1421b256b10?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Nov 25 |
-| **[Americans for Immigrant Justice](https://aijustice.org/)** | **[Opening – Spring 2024 Extern – Litigation & Advocacy Program](https://jobright.ai/jobs/info/6744f51ba71163a4bc96284e?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Nov 25 |
-| **[Littler](http://www.littler.com)** | **[2025 Los Angeles - 1L LCLD Scholar](https://jobright.ai/jobs/info/6744f51ba71163a4bc9628f8?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 25 |
-| **[Sammons Financial Group Companies](https://www.sammonsfinancialgroup.com)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/6744eca5d01db1421b256981?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Nov 25 |
-| **[The University of New Mexico](http://unm.edu)** | **[Legal Assistant](https://jobright.ai/jobs/info/6744eca5d01db1421b2569f4?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
