@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NetApp](http://netapp.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/67492867d60c91937bed1fa4?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Nov 28 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  Regulatory Affairs, Oncology](https://jobright.ai/jobs/info/67488f7569bfc74e777cd443?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Nov 28 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Risk Management](https://jobright.ai/jobs/info/674872e86ffa10bcc6eecb0a?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Nov 28 |
 | **[First Internet Bank](https://www.firstib.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/6732c7f6f09dfda2e4c74d67?utm_campaign=1055&utm_source=git)** | Fishers, IN | Hybrid | Nov 28 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Law Intern- Transactions Law Group](https://jobright.ai/jobs/info/67485c90abef33f64cf2d9cf?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 28 |
 | ↳ | **[Summer 2025 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/67485c90abef33f64cf2d9d4?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 28 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/672b8802a8668c2b2af878ec?utm_campaign=1055&utm_source=git)** | Baltimore, MD | Hybrid | Nov 28 |
+| **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Corporate Affairs](https://jobright.ai/jobs/info/67493646cbe6302317be3a0a?utm_campaign=1055&utm_source=git)** | South San Francisco, CA | On Site | Nov 28 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Spring 2025](https://jobright.ai/jobs/info/66f36c8f547c8121942b4c8b?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 28 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Compliance Specialist](https://jobright.ai/jobs/info/674854b66f9ff59149e1b909?utm_campaign=1055&utm_source=git)** | Poway, CA | On Site | Nov 28 |
 | **[Federal Deposit Insurance Corporation (FDIC)](https://fdic.gov)** | **[Student Trainee (Legal Intern), CG-0999-07/09](https://jobright.ai/jobs/info/6737d5fdb2a7384b8c22cade?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 28 |
@@ -86,8 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Capital Blue Cross](https://capbluecross.com)** | **[Legal/Vendor Alliance Intern](https://jobright.ai/jobs/info/67478e0c9b853a4788ce8df2?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | Hybrid | Nov 27 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Financial Crimes Investigator (Fraud) - Temporary Assignment](https://jobright.ai/jobs/info/6747b994acd4bd5ead035087?utm_campaign=1055&utm_source=git)** | Plymouth, MA | On Site | Nov 27 |
 | **[Capital Blue Cross](https://capbluecross.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67478e0c9b853a4788ce8e01?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | Hybrid | Nov 27 |
-| **[PayPal](https://www.paypal.com/home)** | **[Cybersecurity Strat & Policy MBA Intern](https://jobright.ai/jobs/info/6744d6354094bb6b3b202ca1?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Nov 27 |
-| ↳ | **[Cybersecurity Strat & Policy MBA Intern](https://jobright.ai/jobs/info/6744d6354094bb6b3b202c6d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
 | **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Shelter Services Legal Intern, IINE Lowell](https://jobright.ai/jobs/info/66d89b6e03d0643cfc9a0f9a?utm_campaign=1055&utm_source=git)** | Lowell, MA | On Site | Nov 27 |
 | **[Safra National Bank](http://www.safra.com/)** | **[Intern](https://jobright.ai/jobs/info/674750d8463ef176c07b0d27?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[Dentons Global Advisors](https://www.dentonsglobaladvisors.com)** | **[Intern - Complex Communications Advisory](https://jobright.ai/jobs/info/67474a25e50b087a2889f998?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
