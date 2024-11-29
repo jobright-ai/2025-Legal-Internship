@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wikimedia Foundation](http://wikimediafoundation.org)** | **[Legal Fellow (Summer 2025)](https://jobright.ai/jobs/info/67497491e34a3973f4a4d1a4?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 28 |
+| **[Lincoln Avenue Communities](https://www.lincolnavenue.com/)** | **[Law Intern (Summer 2025)](https://jobright.ai/jobs/info/67493902d25de4c42069cbf0?utm_campaign=1055&utm_source=git)** | New York County, NY | On Site | Nov 28 |
 | **[NetApp](http://netapp.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/67492867d60c91937bed1fa4?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Nov 28 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  Regulatory Affairs, Oncology](https://jobright.ai/jobs/info/67488f7569bfc74e777cd443?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Nov 28 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Risk Management](https://jobright.ai/jobs/info/674872e86ffa10bcc6eecb0a?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Nov 28 |
@@ -65,10 +67,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Law Intern- Transactions Law Group](https://jobright.ai/jobs/info/67485c90abef33f64cf2d9cf?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 28 |
 | ↳ | **[Summer 2025 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/67485c90abef33f64cf2d9d4?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 28 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/672b8802a8668c2b2af878ec?utm_campaign=1055&utm_source=git)** | Baltimore, MD | Hybrid | Nov 28 |
+| **[Crowe](https://www.crowe.com/)** | **[Financial Crime Intern Summer 2025](https://jobright.ai/jobs/info/6749847880c22745be53c621?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 28 |
+| **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[NP Legal Scholars Program - Health Care](https://jobright.ai/jobs/info/672bb7f38ceda799d609bd69?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 28 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Corporate Affairs](https://jobright.ai/jobs/info/67493646cbe6302317be3a0a?utm_campaign=1055&utm_source=git)** | South San Francisco, CA | On Site | Nov 28 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Spring 2025](https://jobright.ai/jobs/info/66f36c8f547c8121942b4c8b?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 28 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Compliance Specialist](https://jobright.ai/jobs/info/674854b66f9ff59149e1b909?utm_campaign=1055&utm_source=git)** | Poway, CA | On Site | Nov 28 |
-| **[Federal Deposit Insurance Corporation (FDIC)](https://fdic.gov)** | **[Student Trainee (Legal Intern), CG-0999-07/09](https://jobright.ai/jobs/info/6737d5fdb2a7384b8c22cade?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 28 |
+| **[Cask](https://casknx.com)** | **[Contracts Lifecycle Management Intern](https://jobright.ai/jobs/info/674988e522f21fa6a6bcc4ff?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 28 |
 | **[CarMax](http://www.carmax.com)** | **[Corporate Law Clerk Hybrid/Remote](https://jobright.ai/jobs/info/6747fc0732b0e5f4eda95ede?utm_campaign=1055&utm_source=git)** | Richmond, VA | Hybrid | Nov 27 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2025 Summer Intern - Legal](https://jobright.ai/jobs/info/6747fa06a45d20f3f7b3013c?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Nov 27 |
 | **[MannKind Corporation](http://mannkindcorp.com)** | **[Legal Externship](https://jobright.ai/jobs/info/6747d53cd38bab4414257f40?utm_campaign=1055&utm_source=git)** | Westlake Village, CA | On Site | Nov 27 |
@@ -76,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Teachers Federal Credit Union](http://www.teachersfcu.org)** | **[2025 Fraud Analyst Intern](https://jobright.ai/jobs/info/6747a9f804e15b4ad2c43bdc?utm_campaign=1055&utm_source=git)** | Hauppauge, NY | On Site | Nov 27 |
 | **[DEKA Research & Development](http://www.dekaresearch.com)** | **[IP Law Internship- Summer 2025](https://jobright.ai/jobs/info/6747b769e16edda5b4b1544e?utm_campaign=1055&utm_source=git)** | Manchester, NH | On Site | Nov 27 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[2L Legal Intern](https://jobright.ai/jobs/info/671f338fa48ade3b3e0653f2?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 27 |
-| **[Clark Hill Law](http://www.clarkhill.com/)** | **[Real Estate Litigation Law Clerk – San Diego, CA](https://jobright.ai/jobs/info/6747a7b7d4ce2e6e20e18786?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 27 |
 | **[General Dynamics Land Systems](http://www.gdls.com)** | **[Summer Intern – Cyber Security Compliance](https://jobright.ai/jobs/info/6747a5a09b4663e8065e2968?utm_campaign=1055&utm_source=git)** | Sterling Heights, MI | On Site | Nov 27 |
 | **[Public Counsel](https://publiccounsel.org)** | **[2025 Summer Law Student Intern - Community Development Project](https://jobright.ai/jobs/info/672404be8a79e99dcc818d0b?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 27 |
 | ↳ | **[2025 Summer Law Student Intern - Homelessness Prevention Law Project](https://jobright.ai/jobs/info/6723faabeda88fc0c0220ecb?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 27 |
@@ -125,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations – Cybersecurity Incident Response Associate Intern](https://jobright.ai/jobs/info/674601abba24660f2c807fe7?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 26 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Cyber Compliance Intern - Summer 2025](https://jobright.ai/jobs/info/67294453081de74a5ed8e7ed?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Nov 26 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern (Contract Administration Summer Intern)](https://jobright.ai/jobs/info/6745df1125153af60a80f4ad?utm_campaign=1055&utm_source=git)** | Aiken, SC | On Site | Nov 26 |
-| **[Americans for Immigrant Justice](https://aijustice.org/)** | **[Opening – Spring 2025 Extern – Litigation & Advocacy Program](https://jobright.ai/jobs/info/6744f51ba71163a4bc96284e?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Nov 26 |
 | **[Selective Insurance](https://www.selective.com/)** | **[Claims Summer Internships – Charlotte, NC (Hybrid)](https://jobright.ai/jobs/info/6729079a1a3f5a15d10ebe1a?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Nov 26 |
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2025 Legal Intern - Norfolk, Virginia Corporate Office](https://jobright.ai/jobs/info/66f1f9c66600c5412f755c3c?utm_campaign=1055&utm_source=git)** | Norfolk, VA | On Site | Nov 26 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed60?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ACL Digital](https://www.acldigital.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67457a8bdd5a1b0382c98070?utm_campaign=1055&utm_source=git)** | Toledo, OH | On Site | Nov 25 |
 | **[Mullen Coughlin LLC](https://www.mullen.law/)** | **[Litigation Law Clerk (Summer 2025)](https://jobright.ai/jobs/info/674520761f0daf7813ab666d?utm_campaign=1055&utm_source=git)** | Devon, PA | Hybrid | Nov 25 |
 | ↳ | **[IR Law Clerk (Summer 2025)](https://jobright.ai/jobs/info/67450f43b8ad0e3510ca72e7?utm_campaign=1055&utm_source=git)** | Devon, PA | On Site | Nov 25 |
-| **[Encova Insurance](https://www.encova.com)** | **[Intern, Claims](https://jobright.ai/jobs/info/67450cd437c3005e59001c9b?utm_campaign=1055&utm_source=git)** | Greater Wilmington Area | Remote | Nov 25 |
-| **[Americans for Immigrant Justice](https://aijustice.org/)** | **[Opening – Spring 2024 Extern – Family Defense Program](https://jobright.ai/jobs/info/6744ff5c69ac708940ea8002?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
