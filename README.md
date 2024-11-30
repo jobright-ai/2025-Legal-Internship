@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Summer 2025 Law Intern- Corporate Law](https://jobright.ai/jobs/info/674b353e86614fa7de572b0d?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 30 |
+| ↳ | **[Summer 2025 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/674b353e86614fa7de572b0c?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 30 |
+| ↳ | **[Summer 2025 Law Intern- Transactions Law Group](https://jobright.ai/jobs/info/674b3dba868d06f4662942d1?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 30 |
+| **[Arcadis](http://www.arcadis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6718b661644698600d628ef7?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Nov 30 |
 | **[AssuredPartners](https://www.assuredpartners.com)** | **[Risk Management, Commercial Lines Intern - Summer 2025](https://jobright.ai/jobs/info/672e8ee7dddbbb46f3c5701e?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 30 |
 | **[Gusto](https://www.gusto.com)** | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/674af3d7d9ad8d6c55470656?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 30 |
 | **[K&L Gates](http://www.klgates.com/)** | **[2025 Pittsburgh IP 1L Summer Associate](https://jobright.ai/jobs/info/673179266ff19bc141acb986?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 30 |
@@ -76,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Lincoln Avenue Communities](https://www.lincolnavenue.com/)** | **[Law Intern (Summer 2025)](https://jobright.ai/jobs/info/67493902d25de4c42069cbf0?utm_campaign=1055&utm_source=git)** | New York County, NY | On Site | Nov 28 |
 | **[NetApp](http://netapp.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/67492867d60c91937bed1fa4?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Nov 28 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  Regulatory Affairs, Oncology](https://jobright.ai/jobs/info/67488f7569bfc74e777cd443?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Nov 28 |
+| **[Clark Hill Law](http://www.clarkhill.com/)** | **[Real Estate Litigation Law Clerk – San Diego, CA](https://jobright.ai/jobs/info/674b2bde58ab43d3717cf442?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 28 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Risk Management](https://jobright.ai/jobs/info/674872e86ffa10bcc6eecb0a?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Nov 28 |
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2025 Law Intern- Corporate Law](https://jobright.ai/jobs/info/67485c90abef33f64cf2d9ce?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 28 |
 | ↳ | **[Summer 2025 Law Intern- Transactions Law Group](https://jobright.ai/jobs/info/67485c90abef33f64cf2d9cf?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed60?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 26 |
 | ↳ | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed61?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
 | ↳ | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed5a?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Nov 26 |
-| ↳ | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed64?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 26 |
-| ↳ | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed59?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 26 |
-| ↳ | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d8beaaea1a8957daa4ce?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 26 |
-| ↳ | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed58?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
-| ↳ | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d30879aa1f4ba0d9e5f9?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
