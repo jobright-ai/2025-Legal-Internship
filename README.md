@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AssuredPartners](https://www.assuredpartners.com)** | **[Risk Management, Commercial Lines Intern - Summer 2025](https://jobright.ai/jobs/info/672e8ee7dddbbb46f3c5701e?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 30 |
+| **[Gusto](https://www.gusto.com)** | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/674af3d7d9ad8d6c55470656?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 30 |
+| **[K&L Gates](http://www.klgates.com/)** | **[2025 Pittsburgh IP 1L Summer Associate](https://jobright.ai/jobs/info/673179266ff19bc141acb986?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 30 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Supplier Negotiation and Analytics](https://jobright.ai/jobs/info/66f695127db7921d45ace743?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Nov 30 |
 | **[FM Global](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/674aa795c26da1216383f98d?utm_campaign=1055&utm_source=git)** | Creve Coeur, MO | On Site | Nov 29 |
 | **[B. Riley Financial](http://www.brileyfin.com)** | **[Corporate Services: Legal Intern - Boca Raton, FL](https://jobright.ai/jobs/info/674a7a8f7a80a809eeca40c2?utm_campaign=1055&utm_source=git)** | Boca Raton, FL | Hybrid | Nov 29 |
 | **[UMB Bank](https://www.umb.com)** | **[Corporate Trust Intern](https://jobright.ai/jobs/info/674a62887546b993cd836aa4?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Nov 29 |
@@ -119,10 +123,12 @@ For a complete list, click the following sortable link below:
 | **[Teachers Federal Credit Union](http://www.teachersfcu.org)** | **[2025 Legal Intern](https://jobright.ai/jobs/info/672aa91bd76cf822298d7714?utm_campaign=1055&utm_source=git)** | Hauppauge, NY | On Site | Nov 27 |
 | **[Wacker Chemical Corporation USA](https://www.wacker.com/cms/en-us/about-wacker/wacker-global/north-america/about-us/overview.html)** | **[Compliance Intern Summer 2025](https://jobright.ai/jobs/info/672b42718c8eb3ef0a0097ba?utm_campaign=1055&utm_source=git)** | Charleston, TN | On Site | Nov 27 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6746f5b32470b36d5a693ebc?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 27 |
-| ↳ | **[Intern- International Trade Compliance](https://jobright.ai/jobs/info/6746f5b32470b36d5a693edc?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 27 |
+| **[Protiviti](http://www.protiviti.com)** | **[New York City Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/670daffba3816b8136071fd2?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
+| **[General Atomics](http://www.ga.com)** | **[Intern- International Trade Compliance](https://jobright.ai/jobs/info/6746f5b32470b36d5a693edc?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 27 |
 | ↳ | **[Intern - Contract Administrator](https://jobright.ai/jobs/info/6746f5b32470b36d5a693edd?utm_campaign=1055&utm_source=git)** | Poway, CA | On Site | Nov 27 |
 | ↳ | **[Intern - Contract Management](https://jobright.ai/jobs/info/6746f5b32470b36d5a693ee1?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 27 |
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/6746ffcddf98d324767c2223?utm_campaign=1055&utm_source=git)** | Johnston, IA | Hybrid | Nov 27 |
+| **[Environmental Defense Fund](http://www.edf.org/)** | **[2L Legal Intern](https://jobright.ai/jobs/info/671f3409864dd36c5abd2e5f?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 27 |
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2025 Law Intern- Intellectual Property](https://jobright.ai/jobs/info/6746b0a8c3440afd2b604a05?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 26 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Claims Intern (Wisconsin)](https://jobright.ai/jobs/info/672195d0ea7f41bff3fad76b?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | Nov 26 |
 | **[Symetra](http://www.symetra.com)** | **[2025 Law & Compliance Summer Associate Internship - Remote](https://jobright.ai/jobs/info/67468293b63c3de5cf21f58c?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 26 |
@@ -132,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2025 Summer Legal Associate Intern](https://jobright.ai/jobs/info/67464e1a20466600cbbb8bd6?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Nov 26 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Legal (Graduate Intern)](https://jobright.ai/jobs/info/674645a45be0a0a096c4e781?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Nov 26 |
 | **[Atkinson, Andelson, Loya, Ruud & Romo](http://aalrr.com)** | **[Associate Attorney - Student Services and Disabilities](https://jobright.ai/jobs/info/6746463f5be0a0a096c4f053?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Nov 26 |
-| ↳ | **[Associate Attorney - Student Services and Disabilities](https://jobright.ai/jobs/info/6746463f5be0a0a096c4f057?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | Nov 26 |
 | **[Legal Aid of NorthWest Texas](https://internet.lanwt.org/home)** | **[Intern/Clerkship - Community Revitalization Project (CRP)](https://jobright.ai/jobs/info/6746419881fec35e7e33edbb?utm_campaign=1055&utm_source=git)** | Lubbock, TX | On Site | Nov 26 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Legal (Graduate Intern)](https://jobright.ai/jobs/info/67462e8bcf288cb417244805?utm_campaign=1055&utm_source=git)** | Parsippany, New Jersey, United States | On Site | Nov 26 |
 | **[Legal Aid of NorthWest Texas](https://internet.lanwt.org/home)** | **[Intern/Clerkship - Community Revitalization Project (CRP)](https://jobright.ai/jobs/info/674638fc954efe7ed4ef645e?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 26 |
@@ -140,6 +145,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern/Clerkship - Community Revitalization Project (CRP)](https://jobright.ai/jobs/info/67463908954efe7ed4ef693a?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Nov 26 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations – Cybersecurity Incident Response Associate Intern](https://jobright.ai/jobs/info/674601abba24660f2c807fe7?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 26 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Cyber Compliance Intern - Summer 2025](https://jobright.ai/jobs/info/67294453081de74a5ed8e7ed?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Nov 26 |
+| **[Americans for Immigrant Justice](https://aijustice.org/)** | **[Opening – Spring 2025 Extern – Litigation & Advocacy Program](https://jobright.ai/jobs/info/6744f51ba71163a4bc96284e?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Nov 26 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern (Contract Administration Summer Intern)](https://jobright.ai/jobs/info/6745df1125153af60a80f4ad?utm_campaign=1055&utm_source=git)** | Aiken, SC | On Site | Nov 26 |
 | **[Selective Insurance](https://www.selective.com/)** | **[Claims Summer Internships – Charlotte, NC (Hybrid)](https://jobright.ai/jobs/info/6729079a1a3f5a15d10ebe1a?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Nov 26 |
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2025 Legal Intern - Norfolk, Virginia Corporate Office](https://jobright.ai/jobs/info/66f1f9c66600c5412f755c3c?utm_campaign=1055&utm_source=git)** | Norfolk, VA | On Site | Nov 26 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d8beaaea1a8957daa4ce?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 26 |
 | ↳ | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed58?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
 | ↳ | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d30879aa1f4ba0d9e5f9?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Nov 26 |
-| ↳ | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed5c?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 26 |
-| ↳ | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed5b?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Nov 26 |
-| ↳ | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed5f?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Nov 26 |
-| ↳ | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/6729d30879aa1f4ba0d9e62a?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Nov 26 |
-| ↳ | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed65?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 26 |
-| ↳ | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/6729e3fcd7e51d3fce7c7aa3?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
