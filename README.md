@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ofi](https://www.ofi.com)** | **[2025 Summer Intern: Regulatory Afairs](https://jobright.ai/jobs/info/6713049b3d2fe20964cdb7ad?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Dec 01 |
 | **[MAI Capital Management](https://mai.capital)** | **[2025 Intern - Compliance/General Counsel](https://jobright.ai/jobs/info/674c182595eb2f02a4bdada1?utm_campaign=1055&utm_source=git)** | Independence, OH | On Site | Nov 30 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2025 Law Intern- Corporate Law](https://jobright.ai/jobs/info/674b353e86614fa7de572b0d?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 30 |
 | ↳ | **[Summer 2025 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/674b353e86614fa7de572b0c?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 30 |
 | ↳ | **[Summer 2025 Law Intern- Transactions Law Group](https://jobright.ai/jobs/info/674b3dba868d06f4662942d1?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 30 |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/672e4f78219328a20eceda4c?utm_campaign=1055&utm_source=git)** | Prior Lake, MN | On Site | Nov 30 |
 | **[Arcadis](http://www.arcadis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6718b661644698600d628ef7?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Nov 30 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Counsel, International Compliance](https://jobright.ai/jobs/info/66f61510cc3173900449a265?utm_campaign=1055&utm_source=git)** | Washington, NY | Hybrid | Nov 30 |
 | **[Gusto](https://www.gusto.com)** | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/674942ea44025c3f92e2fa61?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 30 |
@@ -70,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - 2024-25](https://jobright.ai/jobs/info/6719f1cce5dd250a508bbb2f?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Nov 30 |
 | **[K&L Gates](http://www.klgates.com/)** | **[2025 Pittsburgh IP 1L Summer Associate](https://jobright.ai/jobs/info/673179266ff19bc141acb986?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 30 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Supplier Negotiation and Analytics](https://jobright.ai/jobs/info/66f695127db7921d45ace743?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Nov 30 |
+| **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Intern Summer 2025](https://jobright.ai/jobs/info/674c2ff18269521f7a198af7?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 30 |
 | **[Clark Hill Law](http://www.clarkhill.com/)** | **[Corporate Law Clerk - Denver, CO](https://jobright.ai/jobs/info/674c2099bec4132dbf391801?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Nov 30 |
 | **[FM Global](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/674aa795c26da1216383f98d?utm_campaign=1055&utm_source=git)** | Creve Coeur, MO | On Site | Nov 29 |
 | **[B. Riley Financial](http://www.brileyfin.com)** | **[Corporate Services: Legal Intern - Boca Raton, FL](https://jobright.ai/jobs/info/674a7a8f7a80a809eeca40c2?utm_campaign=1055&utm_source=git)** | Boca Raton, FL | Hybrid | Nov 29 |
@@ -120,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Financial Crimes Investigator (Fraud) - Temporary Assignment](https://jobright.ai/jobs/info/6747b994acd4bd5ead035087?utm_campaign=1055&utm_source=git)** | Plymouth, MA | On Site | Nov 27 |
 | **[Capital Blue Cross](https://capbluecross.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67478e0c9b853a4788ce8e01?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | Hybrid | Nov 27 |
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2025 Legal Intern - NY Corporate Office](https://jobright.ai/jobs/info/66f1f9c66600c5412f755c2e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 27 |
-| **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Shelter Services Legal Intern, IINE Lowell](https://jobright.ai/jobs/info/66d89b6e03d0643cfc9a0f9a?utm_campaign=1055&utm_source=git)** | Lowell, MA | On Site | Nov 27 |
 | **[Safra National Bank](http://www.safra.com/)** | **[Intern](https://jobright.ai/jobs/info/674750d8463ef176c07b0d27?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[Dentons Global Advisors](https://www.dentonsglobaladvisors.com)** | **[Intern - Complex Communications Advisory](https://jobright.ai/jobs/info/67474a25e50b087a2889f998?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
 | **[Oracle](https://www.oracle.com/)** | **[M&D Security and Fraud Analyst Intern - OVIP](https://jobright.ai/jobs/info/67292c8fb04bb3d4c6982b7b?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 27 |
@@ -141,6 +143,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Contract Administrator](https://jobright.ai/jobs/info/6746f5b32470b36d5a693edd?utm_campaign=1055&utm_source=git)** | Poway, CA | On Site | Nov 27 |
 | ↳ | **[Intern - Contract Management](https://jobright.ai/jobs/info/6746f5b32470b36d5a693ee1?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 27 |
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/6746ffcddf98d324767c2223?utm_campaign=1055&utm_source=git)** | Johnston, IA | Hybrid | Nov 27 |
+| **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern - Commercial Title](https://jobright.ai/jobs/info/67299374b5b83bb28f277ee4?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Nov 27 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[2L Legal Intern](https://jobright.ai/jobs/info/671f3409864dd36c5abd2e5f?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 27 |
 | **[Church Mutual Insurance Company, S.I.](http://www.churchmutual.com)** | **[Claim Intern - Property](https://jobright.ai/jobs/info/67292d6a3aef30de519a2345?utm_campaign=1055&utm_source=git)** | Merrill, WI | On Site | Nov 26 |
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2025 Law Intern- Intellectual Property](https://jobright.ai/jobs/info/6746b0a8c3440afd2b604a05?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Legal (Graduate Intern)](https://jobright.ai/jobs/info/674645a45be0a0a096c4e781?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Nov 26 |
 | **[Legal Aid of NorthWest Texas](https://internet.lanwt.org/home)** | **[Intern/Clerkship - Community Revitalization Project (CRP)](https://jobright.ai/jobs/info/6746419881fec35e7e33edbb?utm_campaign=1055&utm_source=git)** | Lubbock, TX | On Site | Nov 26 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Legal (Graduate Intern)](https://jobright.ai/jobs/info/67462e8bcf288cb417244805?utm_campaign=1055&utm_source=git)** | Parsippany, New Jersey, United States | On Site | Nov 26 |
-| **[Legal Aid of NorthWest Texas](https://internet.lanwt.org/home)** | **[Intern/Clerkship - Community Revitalization Project (CRP)](https://jobright.ai/jobs/info/674638fc954efe7ed4ef645e?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 26 |
-| ↳ | **[Intern/Clerkship - Community Revitalization Project (CRP)](https://jobright.ai/jobs/info/674638fc954efe7ed4ef692c?utm_campaign=1055&utm_source=git)** | Amarillo, TX | On Site | Nov 26 |
-| ↳ | **[Intern/Clerkship - Community Revitalization Project (CRP)](https://jobright.ai/jobs/info/67463908954efe7ed4ef693a?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
