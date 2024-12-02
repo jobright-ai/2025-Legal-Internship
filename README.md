@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Rising 2L Legal Intern - Summer 2025](https://jobright.ai/jobs/info/674d7fc8aef75d978ef97903?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | Remote | Dec 02 |
+| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Customer Advocacy Business Intern](https://jobright.ai/jobs/info/674dacef1983b24f3ce8f8b4?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Dec 02 |
+| **[MKS Instruments](http://www.mksinst.com)** | **[2025 Summer Corporate Trade Compliance Intern/co-op](https://jobright.ai/jobs/info/674da72ac5c36a01ae141309?utm_campaign=1055&utm_source=git)** | United States of America | On Site | Dec 02 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Contract Administrator](https://jobright.ai/jobs/info/674d8b3c991c20126a68e673?utm_campaign=1055&utm_source=git)** | Poway, CA | On Site | Dec 02 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Legal Summer Associate](https://jobright.ai/jobs/info/674d5e9498e75b017b0a2955?utm_campaign=1055&utm_source=git)** | Morrisville, NC | On Site | Dec 01 |
-| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Customer Advocacy Business Intern](https://jobright.ai/jobs/info/674c713db4b80d33df935f8b?utm_campaign=1055&utm_source=git)** | Camden, NJ | Remote | Dec 01 |
 | **[ofi](https://www.ofi.com)** | **[2025 Summer Intern: Regulatory Afairs](https://jobright.ai/jobs/info/6713049b3d2fe20964cdb7ad?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Dec 01 |
 | **[MAI Capital Management](https://mai.capital)** | **[2025 Intern - Compliance/General Counsel](https://jobright.ai/jobs/info/674c182595eb2f02a4bdada1?utm_campaign=1055&utm_source=git)** | Independence, OH | On Site | Nov 30 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2025 Law Intern- Corporate Law](https://jobright.ai/jobs/info/674b353e86614fa7de572b0d?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Austin Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f6d?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Nov 26 |
 | **[Symetra](http://www.symetra.com)** | **[2025 Law & Compliance Summer Associate Internship - Remote](https://jobright.ai/jobs/info/67468293b63c3de5cf21f58c?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Redwood Living](https://www.byredwood.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6747b4d2c4b3a59cc09e1169?utm_campaign=1055&utm_source=git)** | Independence, OH | On Site | Nov 26 |
-| **[Mullen Coughlin LLC](https://www.mullen.law/)** | **[AC Law Clerk (Summer 2025)](https://jobright.ai/jobs/info/67466f50b3e98ed61891c987?utm_campaign=1055&utm_source=git)** | Devon, PA | Hybrid | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
