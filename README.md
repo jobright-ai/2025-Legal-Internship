@@ -73,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - 2024-25](https://jobright.ai/jobs/info/6719f1cce5dd250a508bbb2f?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Nov 30 |
 | **[K&L Gates](http://www.klgates.com/)** | **[2025 Pittsburgh IP 1L Summer Associate](https://jobright.ai/jobs/info/673179266ff19bc141acb986?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 30 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Supplier Negotiation and Analytics](https://jobright.ai/jobs/info/66f695127db7921d45ace743?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Nov 30 |
-| **[Clark Hill Law](http://www.clarkhill.com/)** | **[Corporate Law Clerk - Denver, CO](https://jobright.ai/jobs/info/674c2099bec4132dbf391801?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Nov 30 |
 | **[FM Global](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/674aa795c26da1216383f98d?utm_campaign=1055&utm_source=git)** | Creve Coeur, MO | On Site | Nov 29 |
+| **[Crowe](https://www.crowe.com/)** | **[Financial Crime Intern Summer 2025](https://jobright.ai/jobs/info/674d289646f17f0e94992b5e?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 29 |
 | **[B. Riley Financial](http://www.brileyfin.com)** | **[Corporate Services: Legal Intern - Boca Raton, FL](https://jobright.ai/jobs/info/674a7a8f7a80a809eeca40c2?utm_campaign=1055&utm_source=git)** | Boca Raton, FL | Hybrid | Nov 29 |
 | **[UMB Bank](https://www.umb.com)** | **[Corporate Trust Intern](https://jobright.ai/jobs/info/674a62887546b993cd836aa4?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Nov 29 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Labor Compliance Intern](https://jobright.ai/jobs/info/674a5351bf122c0d63c6304d?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 29 |
@@ -103,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Cask](https://casknx.com)** | **[Contracts Lifecycle Management Intern](https://jobright.ai/jobs/info/674988e522f21fa6a6bcc4ff?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 28 |
 | **[CarMax](http://www.carmax.com)** | **[Corporate Law Clerk Hybrid/Remote](https://jobright.ai/jobs/info/6747fc0732b0e5f4eda95ede?utm_campaign=1055&utm_source=git)** | Richmond, VA | Hybrid | Nov 27 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2025 Summer Intern - Legal](https://jobright.ai/jobs/info/6747fa06a45d20f3f7b3013c?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Nov 27 |
+| **[PayPal](https://www.paypal.com/home)** | **[Cybersecurity Strat & Policy MBA Intern](https://jobright.ai/jobs/info/674d28f3d43a83d7e2703873?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Nov 27 |
 | **[MannKind Corporation](http://mannkindcorp.com)** | **[Legal Externship](https://jobright.ai/jobs/info/6747d53cd38bab4414257f40?utm_campaign=1055&utm_source=git)** | Westlake Village, CA | On Site | Nov 27 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern - Global Regulatory Affairs CMC](https://jobright.ai/jobs/info/672cdc80233a28f4a4063e90?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 27 |
 | **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2025 Summer Analyst Program: Financial Crimes Control Office - Tempe, AZ](https://jobright.ai/jobs/info/6747c26dbdd661d10f71c273?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Nov 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Church Mutual Insurance Company, S.I.](http://www.churchmutual.com)** | **[Claim Intern - Property](https://jobright.ai/jobs/info/67294453081de74a5ed8eb4e?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Nov 26 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Postdoctoral Fellow , Dispute Resolution Research Center](https://jobright.ai/jobs/info/670d865de3304e32c8c7e00e?utm_campaign=1055&utm_source=git)** | Evanston, IL | Hybrid | Nov 26 |
 | **[AbbVie](https://www.abbvie.com)** | **[2025 Summer Legal Associate Intern](https://jobright.ai/jobs/info/67464e1a20466600cbbb8bd6?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Nov 26 |
-| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Legal (Graduate Intern)](https://jobright.ai/jobs/info/674645a45be0a0a096c4e781?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
