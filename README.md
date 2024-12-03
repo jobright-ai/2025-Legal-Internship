@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BakerHostetler](http://www.bakerlaw.com/)** | **[2025 1L Summer Associate - Cincinnati](https://jobright.ai/jobs/info/6731ed12c01861c35bdb2d37?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Dec 03 |
+| **[Reed Smith LLP](http://www.reedsmith.com/)** | **[2025 1L Summer Associate - Los Angeles](https://jobright.ai/jobs/info/674ee90937cc21c1f42686fc?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Dec 03 |
 | **[The Jeffcoat Firm](https://scinjurylawfirm.com)** | **[Spring Intern](https://jobright.ai/jobs/info/674ec13ecd49ecc15bf9b7d7?utm_campaign=1055&utm_source=git)** | Columbia, SC | On Site | Dec 02 |
 | **[Lincoln Institute of Land Policy](https://www.lincolninst.edu/)** | **[Project Assistant Intern - Law](https://jobright.ai/jobs/info/674e7aef862162d200bbca7a?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Dec 02 |
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé USA Legal 1L Scholars Internship](https://jobright.ai/jobs/info/674e75b058ed5206389708ac?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Dec 02 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/674e6a7447dd8e657fa2677a?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 02 |
 | **[CareMetx, LLC](http://www.caremetx.com/)** | **[Summer 2025 Legal Internship](https://jobright.ai/jobs/info/674e58d9239e2a2be05c9027?utm_campaign=1055&utm_source=git)** | Bethesda, MD | Hybrid | Dec 02 |
-| **[Post Holdings](http://postholdings.com)** | **[Cybersecurity TPRM Apprentice](https://jobright.ai/jobs/info/674e52498265abba464c2d16?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Dec 02 |
-| ↳ | **[Privacy and Compliance Apprentice](https://jobright.ai/jobs/info/674e52498265abba464c2d03?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Dec 02 |
+| **[Post Holdings](http://postholdings.com)** | **[Privacy and Compliance Apprentice](https://jobright.ai/jobs/info/674e52498265abba464c2d03?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Dec 02 |
+| ↳ | **[Cybersecurity TPRM Apprentice](https://jobright.ai/jobs/info/674e52498265abba464c2d16?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Dec 02 |
 | **[TowneBank](https://www.townebank.com/)** | **[Summer Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/674e4f57a9ec4e73569a5685?utm_campaign=1055&utm_source=git)** | Suffolk, VA | On Site | Dec 02 |
 | **[Uber](http://www.uber.com)** | **[2025 1L Summer Associate, US](https://jobright.ai/jobs/info/674e46514b7ebcb880e17fd6?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Dec 02 |
 | **[NEOGOV](http://www.neogov.com)** | **[Intern - Parent Contributing to Truancy Case Manager](https://jobright.ai/jobs/info/674e3afe01aff72475b3b497?utm_campaign=1055&utm_source=git)** | Kyle, TX | On Site | Dec 02 |
@@ -71,7 +73,7 @@ For a complete list, click the following sortable link below:
 | **[AssuredPartners](https://www.assuredpartners.com)** | **[Legal Intern - Summer 2025](https://jobright.ai/jobs/info/674e3c45fec2df29018eeb45?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Dec 02 |
 | **[AbbVie](https://www.abbvie.com)** | **[2025 Compliance Intern (Graduate)](https://jobright.ai/jobs/info/674e3a621273b48840593286?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Dec 02 |
 | ↳ | **[2025 Compliance Intern (Undergraduate)](https://jobright.ai/jobs/info/674e3e09acd20f49aee4df01?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Dec 02 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Sr Claims Analyst (Digital Claims)](https://jobright.ai/jobs/info/674e4b640d14017767d3268e?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Dec 02 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Sr Claims Analyst (Digital Claims)](https://jobright.ai/jobs/info/674e4b640d14017767d32691?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Dec 02 |
 | **[Compeer Financial](https://compeer.com/)** | **[Intern Legal](https://jobright.ai/jobs/info/674e304a4afc27818db45974?utm_campaign=1055&utm_source=git)** | Lakeville, MN | On Site | Dec 02 |
 | ↳ | **[Intern Legal](https://jobright.ai/jobs/info/674e2d4d652b5dfb044e5f6e?utm_campaign=1055&utm_source=git)** | Naperville, IL | On Site | Dec 02 |
 | **[Jabil](https://www.jabil.com)** | **[Commercial Legal Intern](https://jobright.ai/jobs/info/674e2c2b2804d8d554c0765e?utm_campaign=1055&utm_source=git)** | St Petersburg, FL | On Site | Dec 02 |
@@ -81,7 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/674e015f39e88856a7e8b546?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 02 |
 | ↳ | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/674e015f39e88856a7e8b547?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 02 |
 | ↳ | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/674dfedb1ffce08a93b3d50d?utm_campaign=1055&utm_source=git)** | Boulder, CO | Hybrid | Dec 02 |
-| **[Zoetis](https://www.zoetis.com)** | **[Third Party Risk Management Intern](https://jobright.ai/jobs/info/674dfcedd3047f5e55ea054a?utm_campaign=1055&utm_source=git)** | US Remote | On Site | Dec 02 |
+| **[Zoetis](https://www.zoetis.com)** | **[Third Party Risk Management Intern](https://jobright.ai/jobs/info/674dfcedd3047f5e55ea053d?utm_campaign=1055&utm_source=git)** | US Remote | On Site | Dec 02 |
 | **[Airbnb](http://www.airbnb.com)** | **[Legal Intern, General Counsel](https://jobright.ai/jobs/info/674df14f238cbc758c5acd23?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 02 |
 | **[Huntsman Corporation](http://www.huntsman.com/corporate/a/Home)** | **[Legal Internship (The Woodlands, Texas)](https://jobright.ai/jobs/info/67262549aca80faab68a4ae5?utm_campaign=1055&utm_source=git)** | The Woodlands, TX | On Site | Dec 02 |
 | **[Bayer](https://www.bayer.com)** | **[Regulatory Affairs Co-Op](https://jobright.ai/jobs/info/674dfa847b9c4d81764e5c0b?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Dec 02 |
@@ -91,10 +93,10 @@ For a complete list, click the following sortable link below:
 | **[Airbnb](http://www.airbnb.com)** | **[Legal Intern, General Counsel](https://jobright.ai/jobs/info/674de17375303aab64e47496?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Regulatory Affairs Operations Intern](https://jobright.ai/jobs/info/674dd8adebcf6f2fa01eb5f9?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Dec 02 |
 | **[Lansing Board of Water & Light](http://lbwl.com)** | **[Legal Services Intern](https://jobright.ai/jobs/info/674dd3bbe94fa4a1bb6e6538?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Dec 02 |
-| **[Environmental Defense Fund](http://www.edf.org/)** | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/674dc41db8c119b8a6332b54?utm_campaign=1055&utm_source=git)** | Boulder | On Site | Dec 02 |
-| ↳ | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/674dc41db8c119b8a6332b56?utm_campaign=1055&utm_source=git)** | New York | On Site | Dec 02 |
+| **[Environmental Defense Fund](http://www.edf.org/)** | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/674dc41db8c119b8a6332b56?utm_campaign=1055&utm_source=git)** | New York | On Site | Dec 02 |
 | ↳ | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/674dc41db8c119b8a6332ae6?utm_campaign=1055&utm_source=git)** | Remote - US Home | Remote | Dec 02 |
 | ↳ | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/674dc41db8c119b8a6332b55?utm_campaign=1055&utm_source=git)** | Washington DC | On Site | Dec 02 |
+| ↳ | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/674dc41db8c119b8a6332b54?utm_campaign=1055&utm_source=git)** | Boulder | On Site | Dec 02 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Customer Advocacy Business Intern](https://jobright.ai/jobs/info/674dacef1983b24f3ce8f8b4?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Dec 02 |
 | **[MKS Instruments](http://www.mksinst.com)** | **[2025 Summer Corporate Trade Compliance Intern/co-op](https://jobright.ai/jobs/info/674da72ac5c36a01ae141309?utm_campaign=1055&utm_source=git)** | United States of America | On Site | Dec 02 |
 | **[State of Missouri](http://mo.gov)** | **[Summer Right of Way (Real Estate) Intern - Springfield](https://jobright.ai/jobs/info/66c5246e93950544f36d9559?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Dec 02 |
@@ -119,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[K&L Gates](http://www.klgates.com/)** | **[2025 Pittsburgh IP 1L Summer Associate](https://jobright.ai/jobs/info/673179266ff19bc141acb986?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 30 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Supplier Negotiation and Analytics](https://jobright.ai/jobs/info/66f695127db7921d45ace743?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Nov 30 |
 | **[Crowe](https://www.crowe.com/)** | **[Risk and Compliance Intern Summer 2025](https://jobright.ai/jobs/info/674eac51feb55f24a0282876?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 29 |
-| ↳ | **[Risk and Compliance Intern Summer 2025](https://jobright.ai/jobs/info/674eac51feb55f24a0282879?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 29 |
 | **[FM Global](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/674aa795c26da1216383f98d?utm_campaign=1055&utm_source=git)** | Creve Coeur, MO | On Site | Nov 29 |
 | **[Clark Hill Law](http://www.clarkhill.com/)** | **[Corporate Law Clerk - Denver, CO](https://jobright.ai/jobs/info/674e9607cab0723d716b87df?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Nov 29 |
 | **[Benesch](https://www.benesch.com)** | **[Civil Internship](https://jobright.ai/jobs/info/66d7750f09881999655d6788?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Nov 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wacker Chemical Corporation USA](https://www.wacker.com/cms/en-us/about-wacker/wacker-global/north-america/about-us/overview.html)** | **[Regulatory Affairs Intern Summer 2025](https://jobright.ai/jobs/info/6739b995717fcffc6cc9115a?utm_campaign=1055&utm_source=git)** | Ann Arbor, MI | On Site | Nov 27 |
 | **[CarMax](http://www.carmax.com)** | **[Corporate Law Clerk Hybrid/Remote](https://jobright.ai/jobs/info/6747fc0732b0e5f4eda95ede?utm_campaign=1055&utm_source=git)** | Richmond, VA | Hybrid | Nov 27 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2025 Summer Intern - Legal](https://jobright.ai/jobs/info/6747fa06a45d20f3f7b3013c?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Nov 27 |
-| **[MannKind Corporation](http://mannkindcorp.com)** | **[Legal Externship](https://jobright.ai/jobs/info/6747d53cd38bab4414257f40?utm_campaign=1055&utm_source=git)** | Westlake Village, CA | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
