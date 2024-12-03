@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lincoln Institute of Land Policy](https://www.lincolninst.edu/)** | **[Project Assistant Intern - Law](https://jobright.ai/jobs/info/674e7aef862162d200bbca7a?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Dec 02 |
+| **[Nestlé](https://www.nestle.com)** | **[Nestlé USA Legal 1L Scholars Internship](https://jobright.ai/jobs/info/674e75b058ed5206389708ac?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Dec 02 |
+| **[Environmental Defense Fund](http://www.edf.org/)** | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/674e6a7447dd8e657fa2677a?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 02 |
+| **[CareMetx, LLC](http://www.caremetx.com/)** | **[Summer 2025 Legal Internship](https://jobright.ai/jobs/info/674e58d9239e2a2be05c9027?utm_campaign=1055&utm_source=git)** | Bethesda, MD | Hybrid | Dec 02 |
+| **[Post Holdings](http://postholdings.com)** | **[Privacy and Compliance Apprentice](https://jobright.ai/jobs/info/674e52498265abba464c2d03?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Dec 02 |
+| ↳ | **[Cybersecurity TPRM Apprentice](https://jobright.ai/jobs/info/674e52498265abba464c2d16?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Dec 02 |
 | **[TowneBank](https://www.townebank.com/)** | **[Summer Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/674e4f57a9ec4e73569a5685?utm_campaign=1055&utm_source=git)** | Suffolk, VA | On Site | Dec 02 |
 | **[Uber](http://www.uber.com)** | **[2025 1L Summer Associate, US](https://jobright.ai/jobs/info/674e46514b7ebcb880e17fd6?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Dec 02 |
 | **[NEOGOV](http://www.neogov.com)** | **[Intern - Parent Contributing to Truancy Case Manager](https://jobright.ai/jobs/info/674e3afe01aff72475b3b497?utm_campaign=1055&utm_source=git)** | Kyle, TX | On Site | Dec 02 |
@@ -74,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/674e015f39e88856a7e8b546?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 02 |
 | ↳ | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/674e015f39e88856a7e8b547?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 02 |
 | ↳ | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/674dfedb1ffce08a93b3d50d?utm_campaign=1055&utm_source=git)** | Boulder, CO | Hybrid | Dec 02 |
-| **[Zoetis](https://www.zoetis.com)** | **[Third Party Risk Management Intern](https://jobright.ai/jobs/info/674dfcedd3047f5e55ea054a?utm_campaign=1055&utm_source=git)** | US Remote | On Site | Dec 02 |
+| **[Zoetis](https://www.zoetis.com)** | **[Third Party Risk Management Intern](https://jobright.ai/jobs/info/674dfcedd3047f5e55ea053d?utm_campaign=1055&utm_source=git)** | US Remote | On Site | Dec 02 |
 | **[Airbnb](http://www.airbnb.com)** | **[Legal Intern, General Counsel](https://jobright.ai/jobs/info/674df14f238cbc758c5acd23?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 02 |
 | **[Bayer](https://www.bayer.com)** | **[Regulatory Affairs Co-Op](https://jobright.ai/jobs/info/674dfa847b9c4d81764e5c0b?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Dec 02 |
 | **[United Educators](https://www.ue.org/)** | **[Resolutions (Claims) Intern - JD](https://jobright.ai/jobs/info/674dfa847b9c4d81764e5c15?utm_campaign=1055&utm_source=git)** | Bethesda, MD | Hybrid | Dec 02 |
@@ -83,10 +89,10 @@ For a complete list, click the following sortable link below:
 | **[Airbnb](http://www.airbnb.com)** | **[Legal Intern, General Counsel](https://jobright.ai/jobs/info/674de17375303aab64e47496?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Regulatory Affairs Operations Intern](https://jobright.ai/jobs/info/674dd8adebcf6f2fa01eb5f9?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Dec 02 |
 | **[Lansing Board of Water & Light](http://lbwl.com)** | **[Legal Services Intern](https://jobright.ai/jobs/info/674dd3bbe94fa4a1bb6e6538?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Dec 02 |
-| **[Environmental Defense Fund](http://www.edf.org/)** | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/674dc41db8c119b8a6332ae6?utm_campaign=1055&utm_source=git)** | Remote - US Home | Remote | Dec 02 |
+| **[Environmental Defense Fund](http://www.edf.org/)** | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/674dc41db8c119b8a6332b56?utm_campaign=1055&utm_source=git)** | New York | On Site | Dec 02 |
 | ↳ | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/674dc41db8c119b8a6332b54?utm_campaign=1055&utm_source=git)** | Boulder | On Site | Dec 02 |
 | ↳ | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/674dc41db8c119b8a6332b55?utm_campaign=1055&utm_source=git)** | Washington DC | On Site | Dec 02 |
-| ↳ | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/674dc41db8c119b8a6332b56?utm_campaign=1055&utm_source=git)** | New York | On Site | Dec 02 |
+| ↳ | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/674dc41db8c119b8a6332ae6?utm_campaign=1055&utm_source=git)** | Remote - US Home | Remote | Dec 02 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Customer Advocacy Business Intern](https://jobright.ai/jobs/info/674dacef1983b24f3ce8f8b4?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Dec 02 |
 | **[MKS Instruments](http://www.mksinst.com)** | **[2025 Summer Corporate Trade Compliance Intern/co-op](https://jobright.ai/jobs/info/674da72ac5c36a01ae141309?utm_campaign=1055&utm_source=git)** | United States of America | On Site | Dec 02 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Contract Administrator](https://jobright.ai/jobs/info/674d8b3c991c20126a68e673?utm_campaign=1055&utm_source=git)** | Poway, CA | On Site | Dec 02 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Summer Law Student Intern - Homelessness Prevention Law Project](https://jobright.ai/jobs/info/6723faabeda88fc0c0220ecb?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 27 |
 | ↳ | **[2025 Summer Law Student Intern - Opportunity Under Law Project](https://jobright.ai/jobs/info/672404be8a79e99dcc818d36?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 27 |
 | ↳ | **[2025 Summer Law Student Intern - Children's Rights Project](https://jobright.ai/jobs/info/6723f0b8e7062bb57d1fe03e?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 27 |
-| ↳ | **[2025 Summer Law Student Intern - Immigrants' Rights Project](https://jobright.ai/jobs/info/672404be8a79e99dcc818d21?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 27 |
-| ↳ | **[2025 Summer Law Student Intern - Consumer Rights & Economic Justice Project](https://jobright.ai/jobs/info/672404be8a79e99dcc818d17?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 27 |
-| ↳ | **[2025 Summer Law Student Intern - Audrey Irmas Gender Justice Project](https://jobright.ai/jobs/info/672404be8a79e99dcc818d19?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 27 |
-| **[Protiviti](http://www.protiviti.com)** | **[Chicago Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f55?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Nov 27 |
-| **[Capital Blue Cross](https://capbluecross.com)** | **[Legal/Vendor Alliance Intern](https://jobright.ai/jobs/info/67478e0c9b853a4788ce8df2?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | Hybrid | Nov 27 |
-| **[Rockland Trust](http://www.rocklandtrust.com)** | **[Financial Crimes Investigator (Fraud) - Temporary Assignment](https://jobright.ai/jobs/info/6747b994acd4bd5ead035087?utm_campaign=1055&utm_source=git)** | Plymouth, MA | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
