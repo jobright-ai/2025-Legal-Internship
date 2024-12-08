@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Perkins Coie LLP](http://www.perkinscoie.com)** | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/6737941a00205d377f11a221?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Dec 07 |
-| ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/6737941a00205d377f11a21c?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Dec 07 |
+| **[Perkins Coie LLP](http://www.perkinscoie.com)** | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/6737941a00205d377f11a21c?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Dec 07 |
+| ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/6737941a00205d377f11a221?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Dec 07 |
 | ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/6737941a00205d377f11a21d?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Dec 07 |
 | ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67377cd5b092ebfca6996ae9?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Dec 07 |
 | ↳ | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/6737941a00205d377f11a21f?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Dec 07 |
@@ -119,10 +119,10 @@ For a complete list, click the following sortable link below:
 | **[L.A. Care Health Plan](http://www.lacare.org/)** | **[Student Intern (Regulatory Affairs)](https://jobright.ai/jobs/info/6752bcea1867388a5bd51452?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Dec 06 |
 | ↳ | **[Student Intern (Regulatory Audits)](https://jobright.ai/jobs/info/6752c8538ec36f832aeba1a6?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Dec 06 |
 | **[Daiichi Sankyo](http://www.daiichisankyo.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6752ed5194b65299b1e7c2bf?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Dec 06 |
+| **[American Friends Service Committee](https://www.afsc.org/)** | **[Legal Services Intern](https://jobright.ai/jobs/info/6752da16a79911f770946665?utm_campaign=1055&utm_source=git)** | Newark, NJ | On Site | Dec 06 |
 | **[Equitas Health](https://www.equitashealth.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6752c8538ec36f832aeba1c5?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Dec 06 |
 | **[Farm Credit Administration](https://www.fca.gov/)** | **[Intern Legal](https://jobright.ai/jobs/info/6752c8538ec36f832aeba19e?utm_campaign=1055&utm_source=git)** | Lakeville, MN | On Site | Dec 06 |
 | **[Equitas Health](https://www.equitashealth.com)** | **[Legal Clinic Intern](https://jobright.ai/jobs/info/6752c596ccdb1b03dde7efba?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Dec 06 |
-| **[American Friends Service Committee](https://www.afsc.org/)** | **[Legal Services Intern](https://jobright.ai/jobs/info/6752c02ff0687e2328640c64?utm_campaign=1055&utm_source=git)** | Newark, NJ | On Site | Dec 05 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Internship](https://jobright.ai/jobs/info/6752de8c4079e8ef3a229360?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Dec 05 |
 | **[Population Services International](https://www.psi.org/)** | **[RFP for Legal Services in Ethiopia](https://jobright.ai/jobs/info/6753b594c43f6373b0fae088?utm_campaign=1055&utm_source=git)** | Washington, DC, US | On Site | Dec 05 |
 | **[Gallagher Re](https://www.capsicumre.com/)** | **[Risk Control Intern GSIP](https://jobright.ai/jobs/info/675285ec9e24f32eaf1cdd79?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 05 |
