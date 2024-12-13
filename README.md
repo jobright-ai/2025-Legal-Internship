@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California ISO](http://www.caiso.com/)** | **[Legal Intern - Summer 2025 (Remote)](https://jobright.ai/jobs/info/675ba3346aa6229ca1a48980?utm_campaign=1055&utm_source=git)** | Folsom, CA | On Site | Dec 12 |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/675b8cbe787f318b1e5a7e2f?utm_campaign=1055&utm_source=git)** | Gaithersburg, MD | On Site | Dec 12 |
+| **[MG+M The Law Firm](http://www.mgmlaw.com/)** | **[LCLD 1L Scholar](https://jobright.ai/jobs/info/675b8f0269a4a00913d13bb3?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 12 |
+| ↳ | **[LCLD 1L Scholar](https://jobright.ai/jobs/info/675b8bba40c6c261b9de59ac?utm_campaign=1055&utm_source=git)** | O'Fallon, IL | On Site | Dec 12 |
 | **[First American](http://www.firstam.com)** | **[Commercial Escrow Intern](https://jobright.ai/jobs/info/675b790feccafae910b90e8b?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Dec 12 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2025 Intern, LISCC Integration- Division of Supervision and Regulation](https://jobright.ai/jobs/info/675b6d4e467b06d4d233147c?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 12 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Legal and Regulatory Compliance Intern - Summer 2025 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/675b5c3154be1fcc41ec289a?utm_campaign=1055&utm_source=git)** | Chicago, IL, USA | On Site | Dec 12 |
@@ -75,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Regulatory Information Management and Technology](https://jobright.ai/jobs/info/675b2fd0e0690f6d2e8e7e9f?utm_campaign=1055&utm_source=git)** | San Rafael, CA | Hybrid | Dec 12 |
 | **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/675b1f6853268efd94db0634?utm_campaign=1055&utm_source=git)** | Greensboro, NC | On Site | Dec 12 |
 | **[Stock Yards Bank & Trust](http://www.syb.com)** | **[BSA & FRAUD PREVENTION INTERN (Summer)](https://jobright.ai/jobs/info/675b2068520d7ac7e92cde1a?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Dec 12 |
-| ↳ | **[FAIR BANKING INTERN (Summer)](https://jobright.ai/jobs/info/675b2068520d7ac7e92cddd6?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Dec 12 |
 | ↳ | **[COMPLIANCE INTERN - ADVISORY (Summer)](https://jobright.ai/jobs/info/675b2068520d7ac7e92cdce7?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Dec 12 |
+| ↳ | **[FAIR BANKING INTERN (Summer)](https://jobright.ai/jobs/info/675b2068520d7ac7e92cddd6?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Dec 12 |
 | **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/675b26f69672e7a6ef6b1c71?utm_campaign=1055&utm_source=git)** | San Rafael, CA | Remote | Dec 12 |
 | **[Milestone Contractors LP](http://milestonelp.com)** | **[HR/Compliance Intern](https://jobright.ai/jobs/info/675b0e6073086800c20b2402?utm_campaign=1055&utm_source=git)** | Columbus, IN | On Site | Dec 12 |
 | **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2025 Internship: Regulatory Specialist RA Documentation (Plainsboro, NJ)](https://jobright.ai/jobs/info/675afad781754aa1ffb0868b?utm_campaign=1055&utm_source=git)** | Princeton, NJ | On Site | Dec 12 |
@@ -111,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Corporate Affairs – Office of General Counsel/Legal Technology & Operations](https://jobright.ai/jobs/info/675a167e664ac5c390d0aa4c?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Dec 11 |
 | **[Husch Blackwell](http://www.huschblackwell.com/)** | **[1L Summer Associate - Milwaukee](https://jobright.ai/jobs/info/675a09ee49be2e55a9ecd078?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Dec 11 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Regulatory and Scientific Affairs Intern](https://jobright.ai/jobs/info/675b143a97d97f8fc862d9ba?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Dec 11 |
-| **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- Claims (Insure Your Future Internship 2025)](https://jobright.ai/jobs/info/675a006fc221ef4dedc0b166?utm_campaign=1055&utm_source=git)** | Iowa - Work From Home | On Site | Dec 11 |
+| **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- Claims (Insure Your Future Internship 2025)](https://jobright.ai/jobs/info/675a006fc221ef4dedc0b1a9?utm_campaign=1055&utm_source=git)** | Iowa - Work From Home | On Site | Dec 11 |
 | **[Missouri State University](https://www.missouristate.edu/usa/)** | **[Compliance Coordinator - Athletics](https://jobright.ai/jobs/info/675a0cb88a5abc332d8fa712?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Dec 11 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Corporate Affairs – Office of General Counsel/Legal Technology & Operations](https://jobright.ai/jobs/info/6759f6b1ec3255d7e59f5b4a?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | On Site | Dec 11 |
 | **[MACOM](https://www.macom.com/)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/6759f7f98661263ce8153132?utm_campaign=1055&utm_source=git)** | Lowell, MA | On Site | Dec 11 |
@@ -124,8 +128,6 @@ For a complete list, click the following sortable link below:
 | **[John Templeton Foundation](http://www.templeton.org)** | **[Legal Intern, Office of the General Counsel, Summer 2025](https://jobright.ai/jobs/info/6759c4ef68137ef7f3d9277a?utm_campaign=1055&utm_source=git)** | Conshohocken, PA | Hybrid | Dec 11 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Internship Undergraduate - Enterprise Risk Management and Audit](https://jobright.ai/jobs/info/6759bba1a1e5b09a880671f1?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Dec 11 |
 | **[Husch Blackwell](http://www.huschblackwell.com/)** | **[LCLD 1L Diversity Summer Associate - Vanderbilt](https://jobright.ai/jobs/info/6759c4ef68137ef7f3d92c76?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Dec 11 |
-| ↳ | **[1L Summer Associate - Austin](https://jobright.ai/jobs/info/6759c4ef68137ef7f3d92c77?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Dec 11 |
-| ↳ | **[LCLD 1L Diversity Summer Associate - Vanderbilt](https://jobright.ai/jobs/info/6759c4ef68137ef7f3d92c78?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Dec 11 |
 | ↳ | **[LCLD 1L Diversity Summer Associate - Vanderbilt](https://jobright.ai/jobs/info/6759c4ef68137ef7f3d92c79?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Dec 11 |
 | ↳ | **[LCLD 1L Diversity Summer Associate - Vanderbilt](https://jobright.ai/jobs/info/6759c4ef68137ef7f3d92c7a?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Dec 11 |
 | ↳ | **[1L Summer Associate - Minneapolis](https://jobright.ai/jobs/info/6759c4ef68137ef7f3d92c7d?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Dec 11 |
@@ -135,7 +137,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[1L Summer Associate - Madison](https://jobright.ai/jobs/info/6759c4ef68137ef7f3d92c82?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Dec 11 |
 | ↳ | **[LCLD 1L Diversity Summer Associate - Vanderbilt](https://jobright.ai/jobs/info/6759c4ef68137ef7f3d92c85?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 11 |
 | ↳ | **[1L Summer Associate - Omaha](https://jobright.ai/jobs/info/6759bffae718f506b55ea3c3?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Dec 11 |
-| ↳ | **[LCLD 1L Diversity Summer Associate - Vanderbilt](https://jobright.ai/jobs/info/6759c4ef68137ef7f3d92c87?utm_campaign=1055&utm_source=git)** | Oakland, CA | On Site | Dec 11 |
 | ↳ | **[LCLD 1L Diversity Summer Associate - Honeywell (Chicago)](https://jobright.ai/jobs/info/6759bffae718f506b55ea14e?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Dec 11 |
 | ↳ | **[1L Summer Associate - Dallas](https://jobright.ai/jobs/info/6759bffae718f506b55ea3c6?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Dec 11 |
 | ↳ | **[LCLD 1L Diversity Summer Associate - Honeywell (Phoenix)](https://jobright.ai/jobs/info/6759c4ef68137ef7f3d92887?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Dec 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - 2024-25](https://jobright.ai/jobs/info/675992385527b42b58ca6090?utm_campaign=1055&utm_source=git)** | Rocklin, CA | On Site | Dec 11 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Legal Intern - 3 Opportunities](https://jobright.ai/jobs/info/673d158aa4df26d21f5567ed?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 11 |
 | **[US Army Corps of Engineers](https://www.usace.army.mil/)** | **[Government Information Specialist (FOIA Officer)](https://jobright.ai/jobs/info/6759a8b5c265dafd80e4d4ae?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Dec 11 |
-| **[Virginia's Community College System](https://www.vccs.edu/)** | **[Student Conduct and Compliance Coordinator](https://jobright.ai/jobs/info/67595d348ab82cf9925f7d4d?utm_campaign=1055&utm_source=git)** | Hampton, VA | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
