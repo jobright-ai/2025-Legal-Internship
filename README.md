@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[New York City Department of Consumer and Worker Protection](http://www.nyc.gov/dcwp)** | **[AGENCY ATTORNEY INTERNE](https://jobright.ai/jobs/info/675de28266dfe6b99b1f38f4?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Dec 14 |
+| **[New York City Department of Consumer and Worker Protection](http://www.nyc.gov/dcwp)** | **[AGENCY ATTORNEY INTERNE](https://jobright.ai/jobs/info/675de28266dfe6b99b1f3900?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Dec 14 |
+| ↳ | **[AGENCY ATTORNEY INTERNE](https://jobright.ai/jobs/info/675de28266dfe6b99b1f38f4?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Dec 14 |
 | **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[AGENCY ATTORNEY INTERNE](https://jobright.ai/jobs/info/675dd549869b7b573d38af24?utm_campaign=1055&utm_source=git)** | All, MO | On Site | Dec 14 |
 | **[FM](https://www.fmglobal.com)** | **[Corporate Claims Intern](https://jobright.ai/jobs/info/675d7960235f56695858ab01?utm_campaign=1055&utm_source=git)** | Johnston, RI | On Site | Dec 14 |
 | **[Raytheon](http://www.bbn.com)** | **[Intern - Legal Operations Process Optimization - Onsite (TX)](https://jobright.ai/jobs/info/672411ff01f098fbc7a5d196?utm_campaign=1055&utm_source=git)** | McKinney, TX | Hybrid | Dec 14 |
 | ↳ | **[Legal Intern, Strategy and International](https://jobright.ai/jobs/info/6740f6724c6a74ed354c88fa?utm_campaign=1055&utm_source=git)** | Annandale, VA | Hybrid | Dec 14 |
+| **[Primoris Services Corporation](http://prim.com)** | **[Contracts Analyst Intern](https://jobright.ai/jobs/info/665a5314e44829f8e4d275f6?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Dec 14 |
 | **[CN](http://www.cn.ca)** | **[Intern, Real Estate- FR](https://jobright.ai/jobs/info/6709ade22b3494ae681f2a7f?utm_campaign=1055&utm_source=git)** | Homewood, IL | On Site | Dec 14 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Practical Law Employment and Labor Internship](https://jobright.ai/jobs/info/672349f2af9b65552df7a1c3?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 14 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Litigation 2025 Summer Legal Associate](https://jobright.ai/jobs/info/67411eb73c4212b1ca9bd62e?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 14 |
@@ -81,6 +83,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Summer Intern – Compliance](https://jobright.ai/jobs/info/675cea80d16a8d85c20f4d7d?utm_campaign=1055&utm_source=git)** | Parsippany, New Jersey, United States | On Site | Dec 13 |
 | **[The Bancorp](http://www.thebancorp.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/675cda1fb98e4746313feb6e?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Dec 13 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[2L Legal Intern](https://jobright.ai/jobs/info/671f338fa48ade3b3e0653e1?utm_campaign=1055&utm_source=git)** | Boulder, CO | Hybrid | Dec 13 |
+| **[Synovus](https://www.synovus.com)** | **[Corporate Summer Internship - Enterprise Risk](https://jobright.ai/jobs/info/67529f55eab0739253c0f857?utm_campaign=1055&utm_source=git)** | Columbus, GA | On Site | Dec 13 |
 | **[Norfolk Southern](https://www.nscorp.com)** | **[Legal Operations Intern (Business MBA) Summer 2025](https://jobright.ai/jobs/info/675cd4240adec8f1d254eb8c?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
 | **[iCapital](https://icapital.com)** | **[Regulatory and Compliance - Intern](https://jobright.ai/jobs/info/675cbd494949883b7be7569c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | ↳ | **[Regulatory and Compliance - Intern](https://jobright.ai/jobs/info/675cb53730a02e260e52e0fb?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Dec 13 |
@@ -102,7 +105,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal & Risk Management Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538be?utm_campaign=1055&utm_source=git)** | Denver, CO | Remote | Dec 13 |
 | ↳ | **[Legal & Risk Management Intern](https://jobright.ai/jobs/info/675c7563a7106fcc38275ac3?utm_campaign=1055&utm_source=git)** | Lebanon, OH | Remote | Dec 13 |
 | **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[ATTORNEY INTERNE](https://jobright.ai/jobs/info/675cda644e79b88cdc38ab0f?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Dec 13 |
-| ↳ | **[AGENCY ATTORNEY INTERNE](https://jobright.ai/jobs/info/675cf43b0bfb47f8de8ed951?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Dec 13 |
 | **[New York City Department of Consumer and Worker Protection](http://www.nyc.gov/dcwp)** | **[Real Property Attorney Intern](https://jobright.ai/jobs/info/675ccd9905ccc30faac05223?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Dec 13 |
 | **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern - Commercial Title](https://jobright.ai/jobs/info/675c7584a2a4fb836c2162cc?utm_campaign=1055&utm_source=git)** | Michigan, United States | On Site | Dec 13 |
 | ↳ | **[Commercial Escrow Intern](https://jobright.ai/jobs/info/675c7584a2a4fb836c2162ce?utm_campaign=1055&utm_source=git)** | Wisconsin, United States | On Site | Dec 13 |
@@ -110,7 +112,8 @@ For a complete list, click the following sortable link below:
 | **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[Real Property Attorney Intern](https://jobright.ai/jobs/info/675ca27232a1de32611932b7?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Dec 13 |
 | **[Ryan](http://ryan.com)** | **[Summer 2025 Intern, Abandoned and Unclaimed Property Compliance - Tampa, FL](https://jobright.ai/jobs/info/675c7ffd495fc5f4a86d9930?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Dec 13 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/675c79077795726c0b48663c?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | Hybrid | Dec 13 |
-| **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[Attorney Intern, Parking Law](https://jobright.ai/jobs/info/675cdf6ad3aa14462e11bc0c?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Dec 13 |
+| **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[AGENCY ATTORNEY INTERNE](https://jobright.ai/jobs/info/675cdf6ad3aa14462e11bc0b?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Dec 13 |
+| ↳ | **[Attorney Intern, Parking Law](https://jobright.ai/jobs/info/675cdf6ad3aa14462e11bc0c?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Dec 13 |
 | **[AMC Networks](http://amcnetworks.com)** | **[Summer Intern - Legal](https://jobright.ai/jobs/info/675c6abadcdb436b06a01dc8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | **[Camping World](http://www.campingworld.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/675c65ca0c60ae36da7d197c?utm_campaign=1055&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 13 |
 | **[Hunton Andrews Kurth LLP](https://www.huntonak.com/en/)** | **[Houston – Hunton Andrews Kurth LLP Client/Law Firm 1L Diversity Champion Clerkship Opportunity – Summer 2025](https://jobright.ai/jobs/info/675c745f854f7d417e4efb9b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zinda Law Group, PLLC](http://www.zdfirm.com)** | **[Paid Intern - Legal Intake Specialist](https://jobright.ai/jobs/info/675b4c5353bed1fb4356a770?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Dec 12 |
 | **[First American](http://www.firstam.com)** | **[Commercial Escrow Intern](https://jobright.ai/jobs/info/675b3721c30af0d1ae32545d?utm_campaign=1055&utm_source=git)** | USA, Wisconsin, Madison | On Site | Dec 12 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/675b34ceb36222e5ba733fa5?utm_campaign=1055&utm_source=git)** | US - Gaithersburg - MD | On Site | Dec 12 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Office of the General Counsel Summer Internship](https://jobright.ai/jobs/info/675b306b0ff580e33027333a?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Dec 12 |
-| **[United Wholesale Mortgage](http://uwm.com)** | **[2025 Legal/Compliance Summer Internship Program](https://jobright.ai/jobs/info/671bf30c94a54e141f35abb9?utm_campaign=1055&utm_source=git)** | Pontiac, MI | On Site | Dec 12 |
-| **[Koch](https://www.kochinc.com)** | **[Legal Internship - 2025](https://jobright.ai/jobs/info/674343bac40ade7afb0ee209?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
