@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Alston & Bird](http://www.alston.com/)** | **[Litigation Paralegal](https://jobright.ai/jobs/info/675f083904aadf1294c0c33c?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Dec 15 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  Corporate Affairs  Office of General Counsel/Legal Technology & Operations](https://jobright.ai/jobs/info/675efdd9d854573a5600927c?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Dec 15 |
 | **[Virginia Office of the Attorney General](http://www.oag.state.va.us)** | **[2025 Summer Attorney Internship](https://jobright.ai/jobs/info/670562be10a6aab5212245aa?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Dec 15 |
+| **[Perkins Coie](http://www.perkinscoie.com)** | **[2025 1L Diversity & Inclusion Fellowship - General Corporate/Business - Seattle](https://jobright.ai/jobs/info/67372a8c3dad49e94b78ea51?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Dec 15 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/66ed960a3874c247c08f9aca?utm_campaign=1055&utm_source=git)** | Providence, RI | Hybrid | Dec 15 |
 | **[Denali Therapeutics](https://www.denalitherapeutics.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/674269865652d95d9fd3b15c?utm_campaign=1055&utm_source=git)** | South San Francisco, CA | On Site | Dec 15 |
 | **[NetApp](http://netapp.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/674be9b2b62a25ed5367d741?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Dec 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Privacy Program Intern](https://jobright.ai/jobs/info/675bb09ab7a9f3fa598818cb?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 12 |
 | **[California ISO](http://www.caiso.com/)** | **[Legal Intern - Summer 2025 (Remote)](https://jobright.ai/jobs/info/675ba3346aa6229ca1a48980?utm_campaign=1055&utm_source=git)** | Folsom, CA | On Site | Dec 12 |
 | **[Baker Donelson](http://www.bakerdonelson.com/)** | **[2025 Knoxville 1L Summer Associate](https://jobright.ai/jobs/info/672286bf6ae36a0a9bd403d3?utm_campaign=1055&utm_source=git)** | Knoxville, TN | On Site | Dec 12 |
-| **[Squire Patton Boggs](http://www.squirepattonboggs.com/)** | **[1L Summer Associate 2025](https://jobright.ai/jobs/info/673e95c33e3fbb4a23d9e4c6?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
