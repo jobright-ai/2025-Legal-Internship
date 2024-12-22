@@ -88,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[New York Power Authority](http://www.nypa.gov)** | **[Legal Affairs & Licensing Unit Developmental Intern](https://jobright.ai/jobs/info/67660e62b7d3d11b751b4a45?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Dec 20 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Contracts Intern](https://jobright.ai/jobs/info/6765f10025e8d1d15a820567?utm_campaign=1055&utm_source=git)** | Westlake Village, CA, United States | On Site | Dec 20 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Legal Department Summer Intern](https://jobright.ai/jobs/info/6765f10025e8d1d15a820569?utm_campaign=1055&utm_source=git)** | 2036 Washington St, Hanover, MA, 02339, US | Hybrid | Dec 20 |
-| ↳ | **[Financial Crimes Summer Intern - BSA](https://jobright.ai/jobs/info/6765f10025e8d1d15a82056e?utm_campaign=1055&utm_source=git)** | 8 Richard's Rd, Plymouth, MA, 02360, US | On Site | Dec 20 |
 | ↳ | **[Financial Crimes Summer Intern - Fraud Prevention](https://jobright.ai/jobs/info/6765f10025e8d1d15a820565?utm_campaign=1055&utm_source=git)** | 8 Richard's Rd, Plymouth, MA, 02360, US | On Site | Dec 20 |
+| ↳ | **[Financial Crimes Summer Intern - BSA](https://jobright.ai/jobs/info/6765f10025e8d1d15a82056e?utm_campaign=1055&utm_source=git)** | 8 Richard's Rd, Plymouth, MA, 02360, US | On Site | Dec 20 |
 | ↳ | **[Commercial Flood Insurance Intern](https://jobright.ai/jobs/info/6765f10025e8d1d15a82059e?utm_campaign=1055&utm_source=git)** | 120 Liberty St, Brockton, MA, 02302, US | On Site | Dec 20 |
 | **[Apex Clean Energy](http://apexcleanenergy.com)** | **[Corporate Legal Summer Associate (Intern)](https://jobright.ai/jobs/info/6765ef7875b93d2604f2150b?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Dec 20 |
 | **[Pacira BioSciences, Inc.](http://www.pacira.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6765ebefa3102f51400171fc?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Dec 20 |
@@ -102,9 +102,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Legal](https://jobright.ai/jobs/info/6765bea04563a82b0fb6d88d?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Dec 20 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6765ba4885def9934719164c?utm_campaign=1055&utm_source=git)** | Northern Virginia | Hybrid | Dec 20 |
 | ↳ | **[Summer Legal Intern](https://jobright.ai/jobs/info/6765ba4885def99347191662?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Dec 20 |
-| ↳ | **[Summer Legal Intern](https://jobright.ai/jobs/info/6765ba4885def9934719164b?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Dec 20 |
 | **[Apex Clean Energy](http://apexcleanenergy.com)** | **[Corporate Legal Summer Associate (Intern)](https://jobright.ai/jobs/info/6765b87e359603117b11e52a?utm_campaign=1055&utm_source=git)** | Charlottesville, VA, USA | On Site | Dec 20 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6765b5a53111067f9b492a75?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Dec 20 |
+| ↳ | **[Summer Legal Intern](https://jobright.ai/jobs/info/6765b2e5d8d99a793cddd7d5?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Dec 20 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[U.S. State Policy and Advocacy 2025 Summer Legal Associate](https://jobright.ai/jobs/info/6765b2e5d8d99a793cddd6cf?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 20 |
 | **[Gordon Rees Scully Mansukhani, LLP](https://www.gordonrees.com)** | **[Law Clerk](https://jobright.ai/jobs/info/6765c0fa8039703d84d5df26?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Dec 20 |
 | **[International Refugee Assistance Project](https://refugeerights.org/)** | **[Legal Intern/Extern (U.S. Legal Services)](https://jobright.ai/jobs/info/6765c0fa8039703d84d5df5c?utm_campaign=1055&utm_source=git)** | Utica-Rome Area | Remote | Dec 20 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed5d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Dec 19 |
 | **[FM](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/67641dd4ac054412b12d74ac?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Dec 19 |
 | **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[Law Clerk Intern, Summer 2025](https://jobright.ai/jobs/info/67641b572ea0ca83af2217e2?utm_campaign=1055&utm_source=git)** | Arden Hills, MN | On Site | Dec 19 |
-| **[Takeda](http://www.takeda.com)** | **[2025 Summer Internship Program: Global Regulatory Affairs Chemistry, Manufacturing & Controls (CMC) Intern](https://jobright.ai/jobs/info/6763aab8d05b0b7ea61dd352?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Dec 19 |
 | **[Dropbox](https://www.dropbox.com)** | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/6764e73cdbc689c2ce9494f2?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 19 |
+| **[Draper](https://www.draper.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/6729110c807ee367cda1fef1?utm_campaign=1055&utm_source=git)** | Cambridge, MA | Hybrid | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
