@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[White & Case LLP](http://www.whitecase.com)** | **[International Arbitration Fellow](https://jobright.ai/jobs/info/676e99e7b3b12aa7edc6da42?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Dec 27 |
+| **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern - Commercial Title](https://jobright.ai/jobs/info/676ee91f9becdb47a4c1a1f9?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Dec 27 |
+| **[BioSpace](http://www.biospace.com/)** | **[2025 Global Regulatory Strategy Infrastructure Intern](https://jobright.ai/jobs/info/676ecdfe85549c1c54e36748?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Dec 27 |
+| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Regulatory Labeling Operations Spring Co-Op (PharmD) - Hybrid](https://jobright.ai/jobs/info/676ec2e0e278a2f7a920a872?utm_campaign=1055&utm_source=git)** | Ridgefield, CT | Hybrid | Dec 27 |
+| ↳ | **[Intern Summer 2025 - Compliance & integrity](https://jobright.ai/jobs/info/676ec2e0e278a2f7a920a83c?utm_campaign=1055&utm_source=git)** | Ridgefield, CT | Hybrid | Dec 27 |
+| ↳ | **[Quality Assurance & Compliance Intern](https://jobright.ai/jobs/info/676ec2e0e278a2f7a920a81f?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Dec 27 |
 | **[The Pete Store LLC](https://www.thepetestore.com)** | **[Legal Intern (Spring 2025)](https://jobright.ai/jobs/info/676e62cd1f8bd068fb765172?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 26 |
+| **[White & Case LLP](http://www.whitecase.com)** | **[International Arbitration Fellow](https://jobright.ai/jobs/info/676e431c7e771d577dfb9a2a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Dec 26 |
 | **[FM](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/676df48a1c3841172cb658ec?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Dec 26 |
 | **[U.S. Nuclear Regulatory Commission](http://www.nrc.gov)** | **[Legal Intern Summer 2025](https://jobright.ai/jobs/info/676dea7c0c83c58bd3e50706?utm_campaign=1055&utm_source=git)** | Rockville, MD | Hybrid | Dec 26 |
 | **[Horace Mann](http://www.horacemann.com)** | **[Legal Internship - Summer 2025 Law Clerk](https://jobright.ai/jobs/info/676de6a295c88fc82013b701?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Dec 26 |
-| **[U.S. Nuclear Regulatory Commission](http://www.nrc.gov)** | **[Legal Intern Summer 2025](https://jobright.ai/jobs/info/676de43fece1b588609a43ef?utm_campaign=1055&utm_source=git)** | Rockville, MD | Hybrid | Dec 26 |
 | **[Premier Nutrition: The Good Energy People](http://www.premiernutrition.com)** | **[International Regulatory Affairs Manager](https://jobright.ai/jobs/info/676e068e77122e91d89ca86e?utm_campaign=1055&utm_source=git)** | Emeryville, CA | Hybrid | Dec 26 |
 | **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Compliance Monitoring Intern - Summer 2025](https://jobright.ai/jobs/info/676dcf27536d9f689478e0a9?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Dec 26 |
 | ↳ | **[Compliance Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/676dcf27536d9f689478e04f?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Dec 26 |
@@ -92,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[AIG](https://www.aig.com/)** | **[2025 - Early Career - Claims (Juris Doctor) - Summer Intern - United States, Atlanta, GA](https://jobright.ai/jobs/info/676b2869283503ed0682ea35?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Dec 24 |
 | **[ORAU](https://www.orau.org/)** | **[Peer Review Intern](https://jobright.ai/jobs/info/676afb6cca965a4015f02068?utm_campaign=1055&utm_source=git)** | Oak Ridge, TN | Hybrid | Dec 24 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/672a5bee87f906e4b7459777?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 24 |
+| **[Protiviti](http://www.protiviti.com)** | **[Minneapolis Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f4e?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 24 |
 | **[Benesch](https://www.benesch.com)** | **[Civil Internship](https://jobright.ai/jobs/info/66d7750f09881999655d6788?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Dec 24 |
 | **[Public Counsel](https://publiccounsel.org)** | **[2025 Summer Law Student Intern - Community Development Project](https://jobright.ai/jobs/info/672404be8a79e99dcc818d0b?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Dec 24 |
 | **[Metropolitan Airports Commission](https://metroairports.org)** | **[Law Clerk](https://jobright.ai/jobs/info/676a85a18d3e000b9b4bce55?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Dec 24 |
@@ -111,13 +116,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/676a359e0550bf5cdea23cf5?utm_campaign=1055&utm_source=git)** | Texas, United States | Hybrid | Dec 23 |
 | ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/676a359e0550bf5cdea23cf7?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
 | ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/676a359e0550bf5cdea23cf8?utm_campaign=1055&utm_source=git)** | Arizona, United States | Hybrid | Dec 23 |
+| ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/676a359e0550bf5cdea23cfd?utm_campaign=1055&utm_source=git)** | Colorado, United States | Hybrid | Dec 23 |
 | ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/676a359e0550bf5cdea23cfc?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | Hybrid | Dec 23 |
 | ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/676a359e0550bf5cdea23cf9?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Dec 23 |
-| ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/676a359e0550bf5cdea23cfd?utm_campaign=1055&utm_source=git)** | Colorado, United States | Hybrid | Dec 23 |
 | ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/676a359e0550bf5cdea23cfa?utm_campaign=1055&utm_source=git)** | South Carolina, United States | Hybrid | Dec 23 |
 | ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/676a359e0550bf5cdea23cfe?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Dec 23 |
-| ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/676a359e0550bf5cdea23cff?utm_campaign=1055&utm_source=git)** | Ohio, United States | Hybrid | Dec 23 |
 | ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/676a359e0550bf5cdea23d02?utm_campaign=1055&utm_source=git)** | California, United States | Hybrid | Dec 23 |
+| ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/676a359e0550bf5cdea23cff?utm_campaign=1055&utm_source=git)** | Ohio, United States | Hybrid | Dec 23 |
 | ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/676a359e0550bf5cdea23d00?utm_campaign=1055&utm_source=git)** | Maine, United States | Hybrid | Dec 23 |
 | ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/676a1dcb458629385ae09837?utm_campaign=1055&utm_source=git)** | Greater Boston | Hybrid | Dec 23 |
 | ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/676a1dcb458629385ae09838?utm_campaign=1055&utm_source=git)** | Connecticut, United States | Hybrid | Dec 23 |
@@ -127,21 +132,21 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/676a1dcb458629385ae0983c?utm_campaign=1055&utm_source=git)** | Minnesota, United States | Hybrid | Dec 23 |
 | ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/676a1dcb458629385ae0983d?utm_campaign=1055&utm_source=git)** | Greater Seattle Area | Hybrid | Dec 23 |
 | ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/676a1dcb458629385ae0983f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Dec 23 |
-| ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/676a1dcb458629385ae09841?utm_campaign=1055&utm_source=git)** | Tennessee, United States | Hybrid | Dec 23 |
 | ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/676a1dcb458629385ae09840?utm_campaign=1055&utm_source=git)** | Kentucky, United States | Hybrid | Dec 23 |
+| ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/676a1dcb458629385ae09841?utm_campaign=1055&utm_source=git)** | Tennessee, United States | Hybrid | Dec 23 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Litigation 2025 Summer Legal Associate](https://jobright.ai/jobs/info/67411eb73c4212b1ca9bd3f8?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6769e7279f295bcbcdd0ad92?utm_campaign=1055&utm_source=git)** | Providence, RI | Hybrid | Dec 23 |
 | **[State Bar of California](http://calbar.ca.gov)** | **[Office of Chief Trial Counsel - Law Clerk (Summer 2025 Internship)](https://jobright.ai/jobs/info/6769e31c98d3344138d7baaf?utm_campaign=1055&utm_source=git)** | 845 S. Figueroa Street, Los Angeles, CA, 90017, US | Hybrid | Dec 23 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Litigation 2025 Summer Legal Associate](https://jobright.ai/jobs/info/67411eb73c4212b1ca9bd62e?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 23 |
-| **[CIBC](https://www.cibc.com)** | **[2025 Summer Law Student Intern - CIBC Bank USA Legal Department](https://jobright.ai/jobs/info/6769d789d1c3bd73f368fa6a?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
+| **[CIBC](https://www.cibc.com)** | **[2025 Summer Law Student Intern - CIBC Bank USA Legal Department](https://jobright.ai/jobs/info/6769d46e39e9fcfe3188ce19?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
 | **[Grammarly](http://www.grammarly.com)** | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769eb44e2c74c27807c1745?utm_campaign=1055&utm_source=git)** | Utah, United States | Hybrid | Dec 23 |
 | ↳ | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769eb44e2c74c27807c1746?utm_campaign=1055&utm_source=git)** | South Carolina, United States | Hybrid | Dec 23 |
 | ↳ | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769de19a77d42372eafb62b?utm_campaign=1055&utm_source=git)** | Connecticut, United States | Hybrid | Dec 23 |
 | ↳ | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769de19a77d42372eafb62c?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Dec 23 |
 | ↳ | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769de19a77d42372eafb62d?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
 | ↳ | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769de19a77d42372eafb62e?utm_campaign=1055&utm_source=git)** | Colorado, United States | Hybrid | Dec 23 |
-| ↳ | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769de19a77d42372eafb630?utm_campaign=1055&utm_source=git)** | Greater Seattle Area | Hybrid | Dec 23 |
 | ↳ | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769de19a77d42372eafb62f?utm_campaign=1055&utm_source=git)** | California, United States | Hybrid | Dec 23 |
+| ↳ | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769de19a77d42372eafb630?utm_campaign=1055&utm_source=git)** | Greater Seattle Area | Hybrid | Dec 23 |
 | **[Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org)** | **[Summer 2025 Graduate Internship - Consumer Affairs Examiner](https://jobright.ai/jobs/info/6769cda120fc5041762ccee2?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 23 |
 | **[Grammarly](http://www.grammarly.com)** | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769d5b81161edd3dca8180a?utm_campaign=1055&utm_source=git)** | Pennsylvania, United States | Hybrid | Dec 23 |
 | ↳ | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769d5b81161edd3dca8180b?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Dec 23 |
@@ -149,12 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769d5b81161edd3dca8180d?utm_campaign=1055&utm_source=git)** | Florida, United States | Hybrid | Dec 23 |
 | ↳ | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769d5b81161edd3dca8180e?utm_campaign=1055&utm_source=git)** | Texas, United States | Hybrid | Dec 23 |
 | ↳ | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769d5b81161edd3dca81810?utm_campaign=1055&utm_source=git)** | Minnesota, United States | Hybrid | Dec 23 |
-| ↳ | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769d5b81161edd3dca81811?utm_campaign=1055&utm_source=git)** | North Carolina, United States | Hybrid | Dec 23 |
 | ↳ | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769d5b81161edd3dca81812?utm_campaign=1055&utm_source=git)** | Virginia, United States | Hybrid | Dec 23 |
+| ↳ | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769d5b81161edd3dca81811?utm_campaign=1055&utm_source=git)** | North Carolina, United States | Hybrid | Dec 23 |
 | ↳ | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769d5b81161edd3dca81815?utm_campaign=1055&utm_source=git)** | Arizona, United States | Hybrid | Dec 23 |
-| ↳ | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769d5b81161edd3dca81814?utm_campaign=1055&utm_source=git)** | Illinois, United States | Hybrid | Dec 23 |
-| ↳ | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769d5b81161edd3dca81816?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | Hybrid | Dec 23 |
-| ↳ | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769d5b81161edd3dca81818?utm_campaign=1055&utm_source=git)** | Ohio, United States | Hybrid | Dec 23 |
-| ↳ | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769d5b81161edd3dca81817?utm_campaign=1055&utm_source=git)** | Tennessee, United States | Hybrid | Dec 23 |
-| ↳ | **[Legal Intern, Litigation and Employment (Summer 2025)](https://jobright.ai/jobs/info/6769d5b81161edd3dca81819?utm_campaign=1055&utm_source=git)** | Georgia, United States | Hybrid | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
