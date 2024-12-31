@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Compliance](https://jobright.ai/jobs/info/67572c6b6502f5ffc7f21967?utm_campaign=1055&utm_source=git)** | Berkeley Heights, NJ | On Site | Dec 31 |
 | **[Wiland](https://wiland.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67735623567f442fa6b0ef2d?utm_campaign=1055&utm_source=git)** | Niwot, CO | Hybrid | Dec 30 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Contracts Administrator Intern - Spring 2025](https://jobright.ai/jobs/info/677327289db38b96a8da1398?utm_campaign=1055&utm_source=git)** | Melbourne, FL | Hybrid | Dec 30 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/67731d10e647b348c3f1d8e4?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | On Site | Dec 30 |
@@ -78,7 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Product Legal](https://jobright.ai/jobs/info/6744d6354094bb6b3b202c9a?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Associate Degree Apprenticeship Program - Premium Audit TOC - Multiple Locations (Summer 2025)](https://jobright.ai/jobs/info/675b736992c25733d3587f84?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | Hybrid | Dec 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Product Legal](https://jobright.ai/jobs/info/6744d6354094bb6b3b202c9b?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Dec 30 |
-| ↳ | **[2025 Intern - Global Data Privacy Compliance](https://jobright.ai/jobs/info/673fee304d817ecb82a72192?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Dec 30 |
+| **[Zurich North America](https://www.zurichna.com)** | **[Associate Degree Apprenticeship Program - Premium Audit TOC - Multiple Locations (Summer 2025)](https://jobright.ai/jobs/info/675b39a9ae1d9aa22a2e9e64?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Dec 30 |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Global Data Privacy Compliance](https://jobright.ai/jobs/info/673fee304d817ecb82a72192?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Dec 30 |
 | ↳ | **[2025 Intern - GTM Legal, Digital Media](https://jobright.ai/jobs/info/673f2a9ad70ba267a339fbab?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Dec 30 |
 | ↳ | **[2025 Intern - Product Legal](https://jobright.ai/jobs/info/6744cdd205ebad00b4a2089a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Claims Intern](https://jobright.ai/jobs/info/66e4a2adba227f94793e8db2?utm_campaign=1055&utm_source=git)** | Sheboygan, WI | On Site | Dec 30 |
@@ -127,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[The Chemours Company](https://www.chemours.com)** | **[APM Product Stewardship and Regulatory Compliance Summer Intern](https://jobright.ai/jobs/info/6716b97d9d9470b2a85cc175?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Dec 26 |
 | **[Post Holdings](http://postholdings.com)** | **[Cybersecurity TPRM Apprentice](https://jobright.ai/jobs/info/674e52498265abba464c2d16?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Dec 26 |
 | ↳ | **[Privacy and Compliance Apprentice - Cybersecurity](https://jobright.ai/jobs/info/6752682bc58a0a4b0e655e8d?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Dec 26 |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate - 2025 US Consumer Services,  Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/672ed2fabecd33fbd19a6319?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 26 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Internship](https://jobright.ai/jobs/info/676d39317f3a95b83e22fe35?utm_campaign=1055&utm_source=git)** | Stockton, CA | On Site | Dec 26 |
 | ↳ | **[Loss Prevention Specialist Internship](https://jobright.ai/jobs/info/676d39317f3a95b83e22fe36?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Dec 26 |
 | **[TransUnion](http://www.transunion.com)** | **[Compliance Internship Summer 2025](https://jobright.ai/jobs/info/66fcb246c30f11b5e15a50da?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Dec 26 |
@@ -138,7 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Corsair](http://www.corsair.com)** | **[Legal Intern](https://jobright.ai/jobs/info/676b7c6f9c2ccf6fad9c4650?utm_campaign=1055&utm_source=git)** | Milpitas, CA | On Site | Dec 24 |
 | **[Sarasota Memorial Health Care System](https://www.smh.com/)** | **[Law Student Extern](https://jobright.ai/jobs/info/676b67db9d1276bece0717d9?utm_campaign=1055&utm_source=git)** | Sarasota, FL | On Site | Dec 24 |
 | **[Cross River](http://crossriver.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/676b4f6b1207d1990ebc1546?utm_campaign=1055&utm_source=git)** | Fort Lee, New Jersey, United States | Hybrid | Dec 24 |
-| **[Atlantic Council](http://www.atlanticcouncil.org/)** | **[Legal Fellow, Strategic Litigation Project](https://jobright.ai/jobs/info/676b20ba95c7f20f65a96086?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Dec 24 |
-| **[Corsair](http://www.corsair.com)** | **[Legal Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4b10?utm_campaign=1055&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
-| **[AIG](https://www.aig.com/)** | **[2025 - Early Career - Claims (Juris Doctor) - Summer Intern - United States, Atlanta, GA](https://jobright.ai/jobs/info/676b2869283503ed0682ea35?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
