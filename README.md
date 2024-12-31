@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wiland](https://wiland.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67735623567f442fa6b0ef2d?utm_campaign=1055&utm_source=git)** | Niwot, CO | Hybrid | Dec 30 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Contracts Administrator Intern - Spring 2025](https://jobright.ai/jobs/info/677327289db38b96a8da1398?utm_campaign=1055&utm_source=git)** | Melbourne, FL | Hybrid | Dec 30 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/67731d10e647b348c3f1d8e4?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | On Site | Dec 30 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 Legal Intern](https://jobright.ai/jobs/info/67731c30e647b348c3f1d3ef?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
@@ -64,7 +65,10 @@ For a complete list, click the following sortable link below:
 | **[Bremer Whyte Brown & O'Meara, LLP](https://bremerwhyte.com/)** | **[Diversity Fellowship (2L Law Students Eligible to Apply)](https://jobright.ai/jobs/info/677322bc63be56730f28378d?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Dec 30 |
 | ↳ | **[Diversity Fellowship (2L Law Students Eligible to Apply)](https://jobright.ai/jobs/info/677322bc63be56730f283792?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Dec 30 |
 | ↳ | **[Diversity Fellowship (2L Law Students Eligible to Apply)](https://jobright.ai/jobs/info/677322bc63be56730f283793?utm_campaign=1055&utm_source=git)** | Newport Beach, CA | On Site | Dec 30 |
-| ↳ | **[Diversity Fellowship (2L Law Students Eligible to Apply)](https://jobright.ai/jobs/info/6772f947348a012a1727f6c0?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | On Site | Dec 30 |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - GTM Legal, Digital Media](https://jobright.ai/jobs/info/6741f2c530fad43488a503a7?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
+| ↳ | **[2025 Intern - Associate Legal Counsel](https://jobright.ai/jobs/info/67400b0b0154af94c7de8bb9?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
+| **[Bremer Whyte Brown & O'Meara, LLP](https://bremerwhyte.com/)** | **[Diversity Fellowship (2L Law Students Eligible to Apply)](https://jobright.ai/jobs/info/6772f947348a012a1727f6c0?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | On Site | Dec 30 |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Legal Compliance Analyst](https://jobright.ai/jobs/info/6740050222e7eebe1ee6bd49?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Dec 30 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2025 Legal Intern](https://jobright.ai/jobs/info/6772d0e51d051ca7f309c526?utm_campaign=1055&utm_source=git)** | USA IL Chicago 205 N Michigan Ave | On Site | Dec 30 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2025 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/6772e7db1a66497d400d237f?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Dec 30 |
 | **[Brightly Software](https://www.brightlysoftware.com)** | **[Legal Intern - Raleigh, NC Area - Hybrid (Summer 2025)](https://jobright.ai/jobs/info/6772bb2eb2106a735b82930c?utm_campaign=1055&utm_source=git)** | Raleigh, NC | Hybrid | Dec 30 |
@@ -141,6 +145,4 @@ For a complete list, click the following sortable link below:
 | **[ORAU](https://www.orau.org/)** | **[Peer Review Intern](https://jobright.ai/jobs/info/676afb6cca965a4015f02068?utm_campaign=1055&utm_source=git)** | Oak Ridge, TN | Hybrid | Dec 24 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/672a5bee87f906e4b7459777?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 24 |
 | **[Protiviti](http://www.protiviti.com)** | **[Minneapolis Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f4e?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 24 |
-| **[Benesch](https://www.benesch.com)** | **[Civil Internship](https://jobright.ai/jobs/info/66d7750f09881999655d6788?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Dec 24 |
-| **[Public Counsel](https://publiccounsel.org)** | **[2025 Summer Law Student Intern - Community Development Project](https://jobright.ai/jobs/info/672404be8a79e99dcc818d0b?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
