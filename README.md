@@ -58,12 +58,14 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Zinda Law Group, PLLC](http://www.zdfirm.com)** | **[Paid Intern - Legal Intake Specialist](https://jobright.ai/jobs/info/67748038b6368cde0bb47ff5?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Dec 31 |
+| **[Rivian](http://www.rivian.com)** | **[Legal Extern - Litigation](https://jobright.ai/jobs/info/6774912284a7dc29b60c8d77?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | On Site | Dec 31 |
 | **[Katten Muchin Rosenman LLP](https://katten.com)** | **[Practice Innovation Intern](https://jobright.ai/jobs/info/67746f37cd600d12a0e1b1f5?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Dec 31 |
 | **[Gallagher](http://www.ajg.com)** | **[Risk Control Intern GSIP](https://jobright.ai/jobs/info/67745f7558be1f06bebc73ca?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 31 |
 | ↳ | **[Risk Control Intern GSIP](https://jobright.ai/jobs/info/67746547badf0e1702a6838c?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Dec 31 |
 | **[Katten Muchin Rosenman LLP](https://katten.com)** | **[Practice Innovation Intern](https://jobright.ai/jobs/info/67745ffa71ed50954b8f8af5?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 31 |
 | **[Grammarly](http://www.grammarly.com)** | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/67745db1d7015ba69950c401?utm_campaign=1055&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Dec 31 |
 | ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/67745db1d7015ba69950c52c?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | On Site | Dec 31 |
+| **[City of Seattle](http://www.seattle.gov/)** | **[Law Data Transparency Intern](https://jobright.ai/jobs/info/676bb513b899da4d44514cbe?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Dec 31 |
 | **[Encompass Health](http://encompasshealth.com/)** | **[Student Intern - Risk Management (Summer 2025)](https://jobright.ai/jobs/info/67743895ed0ca3b6a230a713?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Dec 31 |
 | **[Siemens](https://www.siemens.com/)** | **[Legal Intern - Raleigh, NC Area - Hybrid (Summer 2025)](https://jobright.ai/jobs/info/6774625296b143edf9a44f4b?utm_campaign=1055&utm_source=git)** | Cary, NC | Hybrid | Dec 31 |
 | **[Weaver](http://www.weaver.com)** | **[Energy Compliance Services Intern - Spring 2026](https://jobright.ai/jobs/info/67374c229924e7a7fdb9287b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 31 |
