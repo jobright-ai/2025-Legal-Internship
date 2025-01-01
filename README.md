@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zinda Law Group, PLLC](http://www.zdfirm.com)** | **[Paid Intern - Legal Intake Specialist](https://jobright.ai/jobs/info/67748038b6368cde0bb47ff5?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Dec 31 |
+| **[Katten Muchin Rosenman LLP](https://katten.com)** | **[Practice Innovation Intern](https://jobright.ai/jobs/info/67746f37cd600d12a0e1b1f5?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Dec 31 |
+| **[Gallagher](http://www.ajg.com)** | **[Risk Control Intern GSIP](https://jobright.ai/jobs/info/67745f7558be1f06bebc73ca?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 31 |
+| ↳ | **[Risk Control Intern GSIP](https://jobright.ai/jobs/info/67746547badf0e1702a6838c?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Dec 31 |
+| **[Katten Muchin Rosenman LLP](https://katten.com)** | **[Practice Innovation Intern](https://jobright.ai/jobs/info/67745ffa71ed50954b8f8af5?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 31 |
+| **[Grammarly](http://www.grammarly.com)** | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/67745db1d7015ba69950c401?utm_campaign=1055&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Dec 31 |
+| ↳ | **[Commercial Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/67745db1d7015ba69950c52c?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | On Site | Dec 31 |
 | **[Encompass Health](http://encompasshealth.com/)** | **[Student Intern - Risk Management (Summer 2025)](https://jobright.ai/jobs/info/67743895ed0ca3b6a230a713?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Dec 31 |
+| **[Siemens](https://www.siemens.com/)** | **[Legal Intern - Raleigh, NC Area - Hybrid (Summer 2025)](https://jobright.ai/jobs/info/6774625296b143edf9a44f4b?utm_campaign=1055&utm_source=git)** | Cary, NC | Hybrid | Dec 31 |
+| **[Weaver](http://www.weaver.com)** | **[Energy Compliance Services Intern - Spring 2026](https://jobright.ai/jobs/info/67374c229924e7a7fdb9287b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 31 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Compliance](https://jobright.ai/jobs/info/67572c6b6502f5ffc7f21967?utm_campaign=1055&utm_source=git)** | Berkeley Heights, NJ | On Site | Dec 31 |
 | **[Wiland](https://wiland.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67735623567f442fa6b0ef2d?utm_campaign=1055&utm_source=git)** | Niwot, CO | Hybrid | Dec 30 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Contracts Administrator Intern - Spring 2025](https://jobright.ai/jobs/info/677327289db38b96a8da1398?utm_campaign=1055&utm_source=git)** | Melbourne, FL | Hybrid | Dec 30 |
@@ -88,7 +97,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Intern - Product Legal](https://jobright.ai/jobs/info/6744cdd205ebad00b4a2089a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Claims Intern](https://jobright.ai/jobs/info/66e4a2adba227f94793e8db2?utm_campaign=1055&utm_source=git)** | Sheboygan, WI | On Site | Dec 30 |
 | **[Maryland Legal Aid](https://www.mdlab.org)** | **[Intern](https://jobright.ai/jobs/info/672d45fe1f947cfd4045e6cc?utm_campaign=1055&utm_source=git)** | Towson, MD | On Site | Dec 30 |
-| **[RKT Holdings](https://rocketcentral.com/)** | **[Legal Intern - Summer 2025](https://jobright.ai/jobs/info/67725284280bd68a0bfdae53?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Dec 29 |
+| **[RKT Holdings](https://rocketcentral.com/)** | **[Legal Intern - Summer 2025](https://jobright.ai/jobs/info/67725e7437ecc36ed08464c1?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Dec 29 |
 | **[Spire](https://www.spireenergy.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/673bd27be52d546dbcd78e17?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 29 |
 | **[Rawlings Sporting Goods](https://www.rawlings.com/)** | **[2025 Summer Internship- Legal](https://jobright.ai/jobs/info/677325aba5c7f83e81073208?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Dec 29 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Intern - Legal Department](https://jobright.ai/jobs/info/677175c1934a88c64669b3ca?utm_campaign=1055&utm_source=git)** | Ridgefield, CT | On Site | Dec 29 |
@@ -98,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  Regulatory Affairs, Oncology](https://jobright.ai/jobs/info/6770295775e3cbd48eada013?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Dec 28 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate - 2025 Global Commercial Services Operational Risk Management Control Manager Summer Internship, New York, NY](https://jobright.ai/jobs/info/675364b9f6a3c152c4daf527?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 28 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Diversity in Entertainment Legal Fellowship: NYC- Summer 2025](https://jobright.ai/jobs/info/675416cad7e71514675d3edb?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 28 |
-| **[Clark Hill Law](http://www.clarkhill.com/)** | **[Bankruptcy Law Clerk – Chicago, IL](https://jobright.ai/jobs/info/677262c439d2354cabbf3265?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Dec 28 |
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/676f9cc39d3cee52a65a88a3?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | Hybrid | Dec 27 |
 | **[Vestas](http://www.vestas.com)** | **[Intern, Corp](https://jobright.ai/jobs/info/676f36bdc1add4d71c195f25?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Dec 27 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Legal - Corporate Affairs and Legal](https://jobright.ai/jobs/info/676f14cf6e353b4ef7de1f79?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Dec 27 |
