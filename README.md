@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FM](https://www.fmglobal.com)** | **[Legal Internship](https://jobright.ai/jobs/info/67825d9c6d64cbf683e51f8e?utm_campaign=1055&utm_source=git)** | Johnston, RI | On Site | Jan 11 |
 | **[UNDP Careers](https://www.undp.org)** | **[Legal Intern - Programmes & Projects Team](https://jobright.ai/jobs/info/67820ea400ac92e3af877f65?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 10 |
 | ↳ | **[Legal Intern - Administrative Law Team](https://jobright.ai/jobs/info/67820ea400ac92e3af877f4f?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 10 |
 | **[North Texas Tollway Authority](https://www.ntta.org/)** | **[Legal Internship](https://jobright.ai/jobs/info/67820ea400ac92e3af877f9d?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Jan 10 |
@@ -80,11 +81,11 @@ For a complete list, click the following sortable link below:
 | **[Revantage, A Blackstone Portfolio Company](https://www.revantage.com/)** | **[2025 Legal Internship](https://jobright.ai/jobs/info/678174313390dd2a59815e4b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 10 |
 | **[South Carolina Department of Employment and Workforce](http://dew.sc.gov)** | **[Summer Law Clerk Intern - Columbia](https://jobright.ai/jobs/info/678171709465b2502404a9b9?utm_campaign=1055&utm_source=git)** | Richland County, SC | On Site | Jan 10 |
 | **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern - Commercial Title](https://jobright.ai/jobs/info/6781742284afe8110e624cdb?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 10 |
-| **[Randolph Brooks Federal Credit Union](https://www.rbfcu.org/)** | **[Risk & Compliance College Intern](https://jobright.ai/jobs/info/67815318fee579508c10371e?utm_campaign=1055&utm_source=git)** | San Antonio, Texas Area | On Site | Jan 10 |
+| **[Randolph Brooks Federal Credit Union](https://www.rbfcu.org/)** | **[Risk & Compliance College Intern](https://jobright.ai/jobs/info/67815318fee579508c1036a9?utm_campaign=1055&utm_source=git)** | San Antonio, Texas Area | On Site | Jan 10 |
 | **[UCB](http://www.ucb.com)** | **[Global Trade Compliance Analyst](https://jobright.ai/jobs/info/67814f204d69cbdf6279b939?utm_campaign=1055&utm_source=git)** | Smyrna, GA | Hybrid | Jan 10 |
 | **[Compeer Financial](https://compeer.com/)** | **[Intern Legal](https://jobright.ai/jobs/info/677c6a3dbe387dc0bcea5c3d?utm_campaign=1055&utm_source=git)** | Sun Prairie Town, WI | Hybrid | Jan 10 |
 | **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Risk Advisory Services Intern - Summer 2025](https://jobright.ai/jobs/info/67814b6494c7fcec06a4ae43?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Jan 10 |
-| **[Concord Group Insurance](http://concordgroupinsurance.com)** | **[Claims Adjuster Intern](https://jobright.ai/jobs/info/67815334ad6952e69bf7c704?utm_campaign=1055&utm_source=git)** | Westborough, MA | On Site | Jan 10 |
+| **[Sabre Corporation](https://www.sabre.com)** | **[Legal Litigation, Employment, Technology & General Corporate - 2025 Summer Intern](https://jobright.ai/jobs/info/675781815ef6db46c9f77104?utm_campaign=1055&utm_source=git)** | Southlake, TX | Hybrid | Jan 10 |
 | **[Church World Service](http://cwsglobal.org)** | **[Intern - Administrative Immigration Legal Team](https://jobright.ai/jobs/info/675102689ced628e2777babb?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 10 |
 | **[Weaver](http://www.weaver.com)** | **[Energy Compliance Services Intern - Spring 2026](https://jobright.ai/jobs/info/67388b21a5d698dfd1faa1c6?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jan 10 |
 | **[Husch Blackwell](http://www.huschblackwell.com/)** | **[1L Summer Associate - Springfield](https://jobright.ai/jobs/info/67821869df4ab20619144d4b?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Jan 10 |
@@ -107,7 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed59?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jan 09 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Contract Management](https://jobright.ai/jobs/info/6746f5b32470b36d5a693ee1?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jan 09 |
 | **[GEICO](http://www.geico.com)** | **[Government and Regulatory Affairs Law Clerk – HYBRID](https://jobright.ai/jobs/info/67807899307cd9b9168f461c?utm_campaign=1055&utm_source=git)** | Chevy Chase, MD | Hybrid | Jan 09 |
-| **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2025 Summer Legal Internship](https://jobright.ai/jobs/info/67806cbdf0b1b170462ac115?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 09 |
+| **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2025 Summer Legal Internship](https://jobright.ai/jobs/info/67806cbdf0b1b170462ac113?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 09 |
 | **[DSS, Inc.](http://www.dssinc.com/index.htm)** | **[INTERN Compliance and Risk Management](https://jobright.ai/jobs/info/67818f7bf83f99b126091928?utm_campaign=1055&utm_source=git)** | Juno Beach, FL | On Site | Jan 09 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/6780691f91784ea11691e735?utm_campaign=1055&utm_source=git)** | Baltimore, MD, USA | On Site | Jan 09 |
 | ↳ | **[Legal Intern - Summer 2025](https://jobright.ai/jobs/info/6780691f91784ea11691e6ef?utm_campaign=1055&utm_source=git)** | Atlanta, GA, USA | On Site | Jan 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/675717e7288473c72155862e?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | Hybrid | Jan 08 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Risk Management Internship](https://jobright.ai/jobs/info/677eeaf04867610113bbf5f2?utm_campaign=1055&utm_source=git)** | Maryville, TN | On Site | Jan 08 |
 | **[State of Missouri](http://mo.gov)** | **[Rural Legal Intern - Missouri Stat Public Defender System](https://jobright.ai/jobs/info/677eed388a60f9d21efcb4d4?utm_campaign=1055&utm_source=git)** | Missouri, United States | On Site | Jan 08 |
-| **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern-Regulatory Affairs](https://jobright.ai/jobs/info/677c5fd914eaa19b2dc2173d?utm_campaign=1055&utm_source=git)** | Richmond, VA | Hybrid | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
