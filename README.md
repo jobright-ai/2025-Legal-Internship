@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intuit](https://www.intuit.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6782cf0aed64da8058846838?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Ethics & Compliance - Monitoring and Auditing](https://jobright.ai/jobs/info/6782b538e212722b3681fef4?utm_campaign=1055&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Ethics & Compliance - Investigations](https://jobright.ai/jobs/info/6782a607b950c9bb99317fd6?utm_campaign=1055&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Legal - Strategy and Operations (Multiple Positions)](https://jobright.ai/jobs/info/6782a607b950c9bb99317feb?utm_campaign=1055&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
@@ -77,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/6781c39e5c90907ccf9eff8b?utm_campaign=1055&utm_source=git)** | Plano, TX | Hybrid | Jan 10 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Paralegal - Bloomington, IL](https://jobright.ai/jobs/info/6781c39e5c90907ccf9eff5a?utm_campaign=1055&utm_source=git)** | Bloomington, IL | Hybrid | Jan 10 |
 | **[UL Research Institutes](https://ul.org)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/6781add1bd178f76b919f541?utm_campaign=1055&utm_source=git)** | Evanston, IL | Hybrid | Jan 10 |
+| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed5d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 10 |
 | **[Halcyon](http://www.halcyon.ai)** | **[Legal Intern](https://jobright.ai/jobs/info/6781a0e8ee4c417beeb078c8?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jan 10 |
 | **[Revantage, A Blackstone Portfolio Company](https://www.revantage.com/)** | **[2025 Legal Internship](https://jobright.ai/jobs/info/6781a0e8ee4c417beeb07b66?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 10 |
 | **[Concord Group Insurance](http://concordgroupinsurance.com)** | **[Claims Adjuster Intern](https://jobright.ai/jobs/info/6781969950ee66a6a1eddfeb?utm_campaign=1055&utm_source=git)** | Bedford, NH | On Site | Jan 10 |
@@ -85,7 +87,9 @@ For a complete list, click the following sortable link below:
 | **[Strada Education Foundation](https://www.stradaeducation.org)** | **[Strada Education Foundation Internship: Legal Intern](https://jobright.ai/jobs/info/67620b89d03d46f04888f930?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 10 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2025 Risk Advisory Intern - Cybersecurity](https://jobright.ai/jobs/info/67817bdce7caddfd9a130bdf?utm_campaign=1055&utm_source=git)** | USA NY New York | On Site | Jan 10 |
 | **[Revantage, A Blackstone Portfolio Company](https://www.revantage.com/)** | **[2025 Legal Internship](https://jobright.ai/jobs/info/678174313390dd2a59815e4b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 10 |
+| **[Compeer Financial](https://compeer.com/)** | **[Intern Legal](https://jobright.ai/jobs/info/677c6a3dbe387dc0bcea5c44?utm_campaign=1055&utm_source=git)** | Sun Prairie Town, WI | Hybrid | Jan 10 |
 | **[South Carolina Department of Employment and Workforce](http://dew.sc.gov)** | **[Summer Law Clerk Intern - Columbia](https://jobright.ai/jobs/info/678171709465b2502404a9b9?utm_campaign=1055&utm_source=git)** | Richland County, SC | On Site | Jan 10 |
+| **[Church Mutual Insurance Company, S.I.](http://www.churchmutual.com)** | **[Claims Intern](https://jobright.ai/jobs/info/67292d6a3aef30de519a2345?utm_campaign=1055&utm_source=git)** | Merrill, WI | Hybrid | Jan 10 |
 | **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern - Commercial Title](https://jobright.ai/jobs/info/6781742284afe8110e624cdb?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 10 |
 | **[Coaction Global](https://www.coactionspecialty.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/67118e7739924286b8f7e942?utm_campaign=1055&utm_source=git)** | Morristown, NJ | Hybrid | Jan 10 |
 | **[Randolph Brooks Federal Credit Union](https://www.rbfcu.org/)** | **[Risk & Compliance College Intern](https://jobright.ai/jobs/info/67815318fee579508c1036a9?utm_campaign=1055&utm_source=git)** | San Antonio, Texas Area | On Site | Jan 10 |
@@ -116,7 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed59?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jan 09 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Contract Management](https://jobright.ai/jobs/info/6746f5b32470b36d5a693ee1?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jan 09 |
 | **[GEICO](http://www.geico.com)** | **[Government and Regulatory Affairs Law Clerk – HYBRID](https://jobright.ai/jobs/info/67807899307cd9b9168f461c?utm_campaign=1055&utm_source=git)** | Chevy Chase, MD | Hybrid | Jan 09 |
-| **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2025 Summer Legal Internship](https://jobright.ai/jobs/info/67806cbdf0b1b170462ac115?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 09 |
+| **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2025 Summer Legal Internship](https://jobright.ai/jobs/info/67806cbdf0b1b170462ac113?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 09 |
 | **[DSS, Inc.](http://www.dssinc.com/index.htm)** | **[INTERN Compliance and Risk Management](https://jobright.ai/jobs/info/67818f7bf83f99b126091928?utm_campaign=1055&utm_source=git)** | Juno Beach, FL | On Site | Jan 09 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Intern - Summer 2025](https://jobright.ai/jobs/info/6780691f91784ea11691e6ef?utm_campaign=1055&utm_source=git)** | Atlanta, GA, USA | On Site | Jan 09 |
 | ↳ | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/6780691f91784ea11691e735?utm_campaign=1055&utm_source=git)** | Baltimore, MD, USA | On Site | Jan 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Compliance Auditor Internship](https://jobright.ai/jobs/info/677f384a3750a9bf4653010d?utm_campaign=1055&utm_source=git)** | Maryville, TN | On Site | Jan 08 |
 | **[Cencora](http://www.cencora.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/677f3117fa4dc3f54025d6d8?utm_campaign=1055&utm_source=git)** | Conshohocken, PA | On Site | Jan 08 |
 | **[Continental](https://www.continental.com)** | **[Intern - Customs Compliance, Year-Round](https://jobright.ai/jobs/info/677f1d5b4e66aad31764f2b9?utm_campaign=1055&utm_source=git)** | 1830 MacMillan Park Dr, Fort Mill, SC 29707, USA | On Site | Jan 08 |
-| **[NEOGOV](http://www.neogov.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/677f1d5b4e66aad31764f2ca?utm_campaign=1055&utm_source=git)** | Portland 97218, OR | On Site | Jan 08 |
-| **[10x Genomics](http://10xgenomics.com)** | **[SOX Compliance Intern](https://jobright.ai/jobs/info/677f1b829e8ad474b9d003db?utm_campaign=1055&utm_source=git)** | Pleasanton, California, USA HQ | On Site | Jan 08 |
-| **[Kapitus](https://kapitus.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/677f237dead3099ad5b9d8a0?utm_campaign=1055&utm_source=git)** | Arlington, VA | Remote | Jan 08 |
-| **[Continental](https://www.continental.com)** | **[Intern - Customs Compliance, Year-Round](https://jobright.ai/jobs/info/677f1aee53e19167e7d8154d?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | On Site | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
