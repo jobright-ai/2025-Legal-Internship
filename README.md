@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Internship](https://jobright.ai/jobs/info/6783ac1c4018f3595ba70071?utm_campaign=1055&utm_source=git)** | New Jersey, United States | On Site | Jan 12 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Supplier Negotiation and Analytics](https://jobright.ai/jobs/info/6781eca98395d3826b2a9e25?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Jan 12 |
+| **[Reed Smith LLP](http://www.reedsmith.com/)** | **[2025 1L Summer Associate - Los Angeles](https://jobright.ai/jobs/info/6783a321e45bd3de73ddc6f6?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jan 12 |
 | **[Intuit](https://www.intuit.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6783305a6abaf46d45a8d5fd?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Jan 11 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6782cf0aed64da8058846838?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Ethics & Compliance - Monitoring and Auditing](https://jobright.ai/jobs/info/6782b538e212722b3681fef4?utm_campaign=1055&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
@@ -66,8 +69,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Privacy and Data Ethics](https://jobright.ai/jobs/info/6782a607b950c9bb99318015?utm_campaign=1055&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern](https://jobright.ai/jobs/info/678278aff200e02d9fab03e3?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Jan 11 |
 | **[FM](https://www.fmglobal.com)** | **[Legal Internship](https://jobright.ai/jobs/info/67825d9c6d64cbf683e51f8e?utm_campaign=1055&utm_source=git)** | Johnston, RI | On Site | Jan 11 |
-| **[UNDP Careers](https://www.undp.org)** | **[Legal Intern - Administrative Law Team](https://jobright.ai/jobs/info/67820ea400ac92e3af877f4f?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 10 |
-| ↳ | **[Legal Intern - Programmes & Projects Team](https://jobright.ai/jobs/info/67820ea400ac92e3af877f65?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 10 |
+| **[UNDP Careers](https://www.undp.org)** | **[Legal Intern - Corporate and Institutional Law Team](https://jobright.ai/jobs/info/6781b386557ce9ace3a2e72e?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 11 |
+| **[UNDP Careers](https://www.undp.org)** | **[Legal Intern - Programmes & Projects Team](https://jobright.ai/jobs/info/67820ea400ac92e3af877f65?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 10 |
+| ↳ | **[Legal Intern - Administrative Law Team](https://jobright.ai/jobs/info/67820ea400ac92e3af877f4f?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 10 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Spring/Summer 2025 Compliance Intern](https://jobright.ai/jobs/info/6783567323108cabd11de897?utm_campaign=1055&utm_source=git)** | Kansas City, KS | Hybrid | Jan 10 |
 | **[North Texas Tollway Authority](https://www.ntta.org/)** | **[Legal Internship](https://jobright.ai/jobs/info/67820ea400ac92e3af877f9d?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Jan 10 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Power Conversion & Storage Summer Legal Intern](https://jobright.ai/jobs/info/6781f6c78f25f9036acdbd12?utm_campaign=1055&utm_source=git)** | Imperial, PA | On Site | Jan 10 |
@@ -78,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[International Refugee Assistance Project](https://refugeerights.org/)** | **[Legal Intern/Extern (U.S. Legal Services)](https://jobright.ai/jobs/info/6781c7d9e2e4cd92939f7285?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 10 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/6781c39e5c90907ccf9eff8b?utm_campaign=1055&utm_source=git)** | Plano, TX | Hybrid | Jan 10 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Paralegal - Bloomington, IL](https://jobright.ai/jobs/info/6781c39e5c90907ccf9eff5a?utm_campaign=1055&utm_source=git)** | Bloomington, IL | Hybrid | Jan 10 |
-| **[UNDP Careers](https://www.undp.org)** | **[Legal Intern](https://jobright.ai/jobs/info/6781b386557ce9ace3a2e72e?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 10 |
 | **[UL Research Institutes](https://ul.org)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/6781add1bd178f76b919f541?utm_campaign=1055&utm_source=git)** | Evanston, IL | Hybrid | Jan 10 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed5d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 10 |
 | **[Halcyon](http://www.halcyon.ai)** | **[Legal Intern](https://jobright.ai/jobs/info/6781a0e8ee4c417beeb078c8?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jan 10 |
@@ -112,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Matthews International](http://www.matw.com)** | **[Legal Intern](https://jobright.ai/jobs/info/672bee52020f91413ae2585c?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Jan 10 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Legal Intern (Pre-Law) Spring/Summer 2025](https://jobright.ai/jobs/info/6740d020d609d48944f5ef13?utm_campaign=1055&utm_source=git)** | Wickliffe, OH | On Site | Jan 10 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Finance Risk and Compliance - Summer 2025 (Co-Op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/6780e82530a92ef05204d05a?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 10 |
-| **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2025 Summer Legal Internship](https://jobright.ai/jobs/info/6780f28a0b8b5a83f2878efa?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 10 |
+| **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2025 Summer Legal Internship](https://jobright.ai/jobs/info/6780e69d6a88f4d7ce317d50?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 10 |
 | **[New Jersey Economic Development Authority (NJEDA)](https://www.njeda.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/674fac6c361ccb09f7380bcf?utm_campaign=1055&utm_source=git)** | Middlesex County, NJ | On Site | Jan 09 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Judicial Strategy 2025 Summer Legal Associate](https://jobright.ai/jobs/info/67411eb73c4212b1ca9bd3f2?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 09 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Risk Management Internship](https://jobright.ai/jobs/info/67809cc0a9801fb15a7a38e2?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Jan 09 |
@@ -120,10 +123,10 @@ For a complete list, click the following sortable link below:
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed59?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jan 09 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Contract Management](https://jobright.ai/jobs/info/6746f5b32470b36d5a693ee1?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jan 09 |
 | **[GEICO](http://www.geico.com)** | **[Government and Regulatory Affairs Law Clerk – HYBRID](https://jobright.ai/jobs/info/67807899307cd9b9168f461c?utm_campaign=1055&utm_source=git)** | Chevy Chase, MD | Hybrid | Jan 09 |
-| **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2025 Summer Legal Internship](https://jobright.ai/jobs/info/67806cbdf0b1b170462ac113?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 09 |
+| **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2025 Summer Legal Internship](https://jobright.ai/jobs/info/67806cbdf0b1b170462ac115?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 09 |
 | **[DSS, Inc.](http://www.dssinc.com/index.htm)** | **[INTERN Compliance and Risk Management](https://jobright.ai/jobs/info/67818f7bf83f99b126091928?utm_campaign=1055&utm_source=git)** | Juno Beach, FL | On Site | Jan 09 |
-| **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Intern - Summer 2025](https://jobright.ai/jobs/info/6780691f91784ea11691e6ef?utm_campaign=1055&utm_source=git)** | Atlanta, GA, USA | On Site | Jan 09 |
-| ↳ | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/6780691f91784ea11691e735?utm_campaign=1055&utm_source=git)** | Baltimore, MD, USA | On Site | Jan 09 |
+| **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/6780691f91784ea11691e735?utm_campaign=1055&utm_source=git)** | Baltimore, MD, USA | On Site | Jan 09 |
+| ↳ | **[Legal Intern - Summer 2025](https://jobright.ai/jobs/info/6780691f91784ea11691e6ef?utm_campaign=1055&utm_source=git)** | Atlanta, GA, USA | On Site | Jan 09 |
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2025 Law Intern- Intellectual Property](https://jobright.ai/jobs/info/6746b0a8c3440afd2b604a05?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Jan 09 |
 | **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Program Integrity - R8104](https://jobright.ai/jobs/info/672aa685fb7e146142f7fa85?utm_campaign=1055&utm_source=git)** | Dayton, OH | Hybrid | Jan 09 |
 | **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Wintrust 2025 Summer Internship - Legal](https://jobright.ai/jobs/info/67806ba3fbec9b8ae0a788f7?utm_campaign=1055&utm_source=git)** | Rosemont, IL | On Site | Jan 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[10x Genomics](http://10xgenomics.com)** | **[SOX Compliance Intern](https://jobright.ai/jobs/info/677f3151ab380747a19718a9?utm_campaign=1055&utm_source=git)** | Pleasanton, CA | On Site | Jan 08 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Default Servicing Internship](https://jobright.ai/jobs/info/677f2fa333336373bf18f12f?utm_campaign=1055&utm_source=git)** | Maryville, TN | On Site | Jan 08 |
 | ↳ | **[Risk Management Internship](https://jobright.ai/jobs/info/677f477d732b8fc9a37587e5?utm_campaign=1055&utm_source=git)** | Maryville, TN | On Site | Jan 08 |
-| ↳ | **[Compliance Auditor Internship](https://jobright.ai/jobs/info/677f384a3750a9bf4653010d?utm_campaign=1055&utm_source=git)** | Maryville, TN | On Site | Jan 08 |
-| **[Cencora](http://www.cencora.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/677f3117fa4dc3f54025d6d8?utm_campaign=1055&utm_source=git)** | Conshohocken, PA | On Site | Jan 08 |
-| **[Continental](https://www.continental.com)** | **[Intern - Customs Compliance, Year-Round](https://jobright.ai/jobs/info/677f1d5b4e66aad31764f2b9?utm_campaign=1055&utm_source=git)** | 1830 MacMillan Park Dr, Fort Mill, SC 29707, USA | On Site | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
