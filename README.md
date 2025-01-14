@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern](https://jobright.ai/jobs/info/678663ee25f18e8aeca6ddda?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Jan 14 |
+| **[IDEMIA](https://www.idemia.com/)** | **[Legal Internship, Transformation - Summer 2025](https://jobright.ai/jobs/info/6759d44e9ecf22ad8560840e?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Jan 14 |
+| **[Ogletree Deakins](http://www.ogletreedeakins.com)** | **[LCLD 1L Scholar](https://jobright.ai/jobs/info/67605f7629121a70b71272fe?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 14 |
 | **[Auctane](https://auctane.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/678630b117d32389d2cad72a?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Jan 13 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Legal Intern](https://jobright.ai/jobs/info/678630b117d32389d2cad79d?utm_campaign=1055&utm_source=git)** | Hershey, PA | On Site | Jan 13 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Chief General Counsel), Ref# 8350](https://jobright.ai/jobs/info/6785e67304c3ba50f082ef48?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 13 |
@@ -95,16 +98,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Financial Services Regulation & Compliance](https://jobright.ai/jobs/info/67856678b477cb8f671a406c?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jan 13 |
 | **[UNDP Careers](https://www.undp.org)** | **[Legal Intern - Corporate and Institutional Law Team](https://jobright.ai/jobs/info/6781b386557ce9ace3a2e72e?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 13 |
 | **[AssetMark](http://www.assetmark.com)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/6785500472e9dd912e63d1a2?utm_campaign=1055&utm_source=git)** | Concord, CA | Hybrid | Jan 13 |
-| **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - Legal](https://jobright.ai/jobs/info/678543ce8dca791d7b484a57?utm_campaign=1055&utm_source=git)** | CT Stamford HQ | On Site | Jan 13 |
-| ↳ | **[Summer Intern - Legal](https://jobright.ai/jobs/info/678543ce8dca791d7b48497f?utm_campaign=1055&utm_source=git)** | CT Waterbury 145 Bank St | On Site | Jan 13 |
+| **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - Legal](https://jobright.ai/jobs/info/678543ce8dca791d7b48497f?utm_campaign=1055&utm_source=git)** | CT Waterbury 145 Bank St | On Site | Jan 13 |
+| ↳ | **[Summer Intern - Legal](https://jobright.ai/jobs/info/678543ce8dca791d7b484a57?utm_campaign=1055&utm_source=git)** | CT Stamford HQ | On Site | Jan 13 |
 | **[Travelers](https://www.travelers.com)** | **[Bond & Specialty Insurance Legal Intern](https://jobright.ai/jobs/info/6785319e9f121d928fbcec68?utm_campaign=1055&utm_source=git)** | CT - Hartford | On Site | Jan 13 |
 | **[Metropolitan Transit Authority of Harris County](http://www.ridemetro.org/)** | **[College Intern - Authority Compliance](https://jobright.ai/jobs/info/678523504657a820cb838e68?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 13 |
-| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/6729d30879aa1f4ba0d9e62a?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Jan 13 |
+| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[1L - 2025 Summer Associate with Diversity Fellowship – JD Class 2027](https://jobright.ai/jobs/info/6729d32379aa1f4ba0d9ed62?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 13 |
+| ↳ | **[1L – 2025 Summer Associate – JD Class 2027 (Patent Litigation or Patent Prosecution)](https://jobright.ai/jobs/info/6729d30879aa1f4ba0d9e62a?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Jan 13 |
 | **[Church World Service](http://cwsglobal.org)** | **[Intern - Legal, Unaccompanied Children Program](https://jobright.ai/jobs/info/673d319d8be7c227581a2809?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 13 |
 | **[Squire Patton Boggs](http://www.squirepattonboggs.com/)** | **[1L Summer Associate 2025](https://jobright.ai/jobs/info/6737fd848759fa306d75a895?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jan 13 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6765bb320c4a5d88b9f7a126?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jan 13 |
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2025 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/67485c90abef33f64cf2d9d4?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Jan 13 |
 | **[Sarepta Therapeutics](https://www.sarepta.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/67660d9c52a93b9f2e3ec9fc?utm_campaign=1055&utm_source=git)** | Cambridge, MA | Hybrid | Jan 13 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Vehicle Licensing Internship - Summer 2025](https://jobright.ai/jobs/info/6765fab91c469f5e45ed6042?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Jan 13 |
 | **[Protiviti](http://www.protiviti.com)** | **[Metro DC Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f3e?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 13 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6784d0cfb867c22c4dda2fff?utm_campaign=1055&utm_source=git)** | Hershey, PA | On Site | Jan 12 |
 | **[Lincoln Avenue Communities](https://www.lincolnavenue.com/)** | **[Law Intern (Summer 2025)](https://jobright.ai/jobs/info/6784a152b0bb4c562b5c1019?utm_campaign=1055&utm_source=git)** | New York County, NY | On Site | Jan 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[South Carolina Department of Employment and Workforce](http://dew.sc.gov)** | **[Summer Law Clerk Intern - Columbia](https://jobright.ai/jobs/info/678171709465b2502404a9b9?utm_campaign=1055&utm_source=git)** | Richland County, SC | On Site | Jan 10 |
 | **[Perkins Coie](http://www.perkinscoie.com)** | **[2025 1L Patent Litigation Fellowship](https://jobright.ai/jobs/info/67377cd5b092ebfca6996ae9?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 10 |
 | **[Church Mutual Insurance Company, S.I.](http://www.churchmutual.com)** | **[Claims Intern](https://jobright.ai/jobs/info/67292d6a3aef30de519a2345?utm_campaign=1055&utm_source=git)** | Merrill, WI | Hybrid | Jan 10 |
-| **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern - Commercial Title](https://jobright.ai/jobs/info/6781742284afe8110e624cdb?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 10 |
-| **[Coaction Global](https://www.coactionspecialty.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/67118e7739924286b8f7e942?utm_campaign=1055&utm_source=git)** | Morristown, NJ | Hybrid | Jan 10 |
-| **[Randolph Brooks Federal Credit Union](https://www.rbfcu.org/)** | **[Risk & Compliance College Intern](https://jobright.ai/jobs/info/67815318fee579508c10371e?utm_campaign=1055&utm_source=git)** | San Antonio, Texas Area | On Site | Jan 10 |
-| **[UCB](http://www.ucb.com)** | **[Global Trade Compliance Analyst](https://jobright.ai/jobs/info/67814f204d69cbdf6279b939?utm_campaign=1055&utm_source=git)** | Smyrna, GA | Hybrid | Jan 10 |
-| **[Compeer Financial](https://compeer.com/)** | **[Intern Legal](https://jobright.ai/jobs/info/677c6a3dbe387dc0bcea5c3d?utm_campaign=1055&utm_source=git)** | Sun Prairie Town, WI | Hybrid | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
