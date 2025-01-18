@@ -74,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com/)** | **[Cybersecurity Compliance Audit Intern](https://jobright.ai/jobs/info/678ae7124ae8e2aa0f5e1f23?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Jan 17 |
 | **[UCB](http://www.ucb.com)** | **[Global Trade Compliance Analyst](https://jobright.ai/jobs/info/678ad9b648418799c85b6fe1?utm_campaign=1055&utm_source=git)** | Smyrna, GA | Hybrid | Jan 17 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2025 - Legal Intern, Vera Louisiana](https://jobright.ai/jobs/info/678ade853cf4853b1f5823c9?utm_campaign=1055&utm_source=git)** | New Orleans, LA | Hybrid | Jan 17 |
+| **[Jabil](https://www.jabil.com)** | **[Legal Intern - Trade Compliance](https://jobright.ai/jobs/info/678b7781ad62562f4af873d5?utm_campaign=1055&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Jan 17 |
 | **[Haemonetics](http://www.haemonetics.com)** | **[Internship - Regulatory Affairs](https://jobright.ai/jobs/info/678ad4981095e1af8934e156?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 17 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Economic Damages & Valuation Internship - Summer 2025](https://jobright.ai/jobs/info/678ade853cf4853b1f582626?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 17 |
 | **[PeoplesBank](http://bankatpeoples.com)** | **[PeoplesBank Internship Program- Summer 2025](https://jobright.ai/jobs/info/678ae6547791999c9b47fe9a?utm_campaign=1055&utm_source=git)** | Holyoke, MA | On Site | Jan 17 |
@@ -118,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[BSA Intern](https://jobright.ai/jobs/info/6789b384fade8859f716a7b1?utm_campaign=1055&utm_source=git)** | Greater Boston | Hybrid | Jan 16 |
 | **[Zeeco, Inc.](http://www.zeeco.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6789d134a9e2b25e9ff0cbd8?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Jan 16 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Legal Internship](https://jobright.ai/jobs/info/6789a552fc34e3bc4a6de641?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Jan 16 |
-| **[Webster Bank](https://www.websterbank.com)** | **[Compliance Risk Intern](https://jobright.ai/jobs/info/67899f8cd58d630b5a56806b?utm_campaign=1055&utm_source=git)** | NY WP Hamilton | On Site | Jan 16 |
-| ↳ | **[Compliance Risk Intern](https://jobright.ai/jobs/info/67899f8cd58d630b5a56806a?utm_campaign=1055&utm_source=git)** | NY LI Jericho | On Site | Jan 16 |
+| **[Webster Bank](https://www.websterbank.com)** | **[Compliance Risk Intern](https://jobright.ai/jobs/info/67899f8cd58d630b5a56806a?utm_campaign=1055&utm_source=git)** | NY LI Jericho | On Site | Jan 16 |
+| ↳ | **[Compliance Risk Intern](https://jobright.ai/jobs/info/67899f8cd58d630b5a56806b?utm_campaign=1055&utm_source=git)** | NY WP Hamilton | On Site | Jan 16 |
 | ↳ | **[Compliance Risk Intern](https://jobright.ai/jobs/info/67899f8cd58d630b5a568043?utm_campaign=1055&utm_source=git)** | CT Southington | On Site | Jan 16 |
 | **[Jacobs](http://www.jacobs.com)** | **[Governance, Risk, and Compliance Intern - Summer 2025](https://jobright.ai/jobs/info/6789a0f01fd5d3916aa5889f?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Jan 16 |
 | **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Research Contracts Group](https://jobright.ai/jobs/info/67898bc1f6bf0f3d066e8ec3?utm_campaign=1055&utm_source=git)** | South San Francisco | On Site | Jan 16 |
@@ -147,14 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Legal Counsel Intern - Juris Doctorate Internship Opportunities](https://jobright.ai/jobs/info/673511b21e662d8d0b182b58?utm_campaign=1055&utm_source=git)** | Redmond, WA | Hybrid | Jan 16 |
 | **[AtriCure, Inc.](http://www.atricure.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6788ffb092013d24841988dc?utm_campaign=1055&utm_source=git)** | Mason, OH | On Site | Jan 16 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/6788ffb092013d24841988e2?utm_campaign=1055&utm_source=git)** | Cincinnati Metro | On Site | Jan 16 |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Associate - Summer 2025](https://jobright.ai/jobs/info/673e629f1e77af8f327b39fc?utm_campaign=1055&utm_source=git)** | Southfield, MI | On Site | Jan 16 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6765bb320c4a5d88b9f7a158?utm_campaign=1055&utm_source=git)** | Northern, VA | Hybrid | Jan 16 |
+| **[Evans & Dixon, LLC](http://evans-dixon.com)** | **[Law Clerk](https://jobright.ai/jobs/info/678b77b678dd2a664513fbea?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Jan 16 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/6765e3038e465cac3b7b13d1?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jan 16 |
 | **[General Atomics](http://www.ga.com)** | **[Intern- International Trade Compliance](https://jobright.ai/jobs/info/674f9f25513e3a210645021c?utm_campaign=1055&utm_source=git)** | Poway, CA | On Site | Jan 16 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk](https://jobright.ai/jobs/info/6788d8e219feb5bc4262c263?utm_campaign=1055&utm_source=git)** | Norwell, MA | On Site | Jan 16 |
-| **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2025 Enterprise Fraud Risk-Intern - Pittsburgh, PA](https://jobright.ai/jobs/info/6788d8e219feb5bc4262c2bc?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Jan 16 |
-| **[Agile Consulting Group, Inc.](https://www.salesandusetax.com)** | **[Tax Law Clerk](https://jobright.ai/jobs/info/6788cfd7375d9b6abb0ece1e?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Jan 15 |
 | **[Roche](http://www.roche.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6788b168ad7655f3d825a388?utm_campaign=1055&utm_source=git)** | Shanghai, VA | On Site | Jan 15 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2025](https://jobright.ai/jobs/info/677c5fd914eaa19b2dc2182b?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 15 |
-| **[Webster Bank](https://www.websterbank.com)** | **[Summer Internship - Law Firm Banking](https://jobright.ai/jobs/info/6788841c3ea8774b9b61eead?utm_campaign=1055&utm_source=git)** | Jericho, NY | On Site | Jan 15 |
-| ↳ | **[Summer Intern - Reconciliation Compliance, Acctg](https://jobright.ai/jobs/info/6788841c3ea8774b9b61ee97?utm_campaign=1055&utm_source=git)** | Waterbury, CT | On Site | Jan 15 |
+| **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2025 Enterprise Fraud Risk-Intern - Pittsburgh, PA](https://jobright.ai/jobs/info/67888f9ea4a7ec467c2a5275?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
