@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[MaineHealth](https://mainehealth.org/)** | **[Intern- Non-Clinical Contracts](https://jobright.ai/jobs/info/678ee70dc8b340024337da74?utm_campaign=1055&utm_source=git)** | Portland, ME | On Site | Jan 20 |
+| **[MaineHealth](https://mainehealth.org/)** | **[Intern- Legal Affairs](https://jobright.ai/jobs/info/678ee96c166e62c5abd7e2ad?utm_campaign=1055&utm_source=git)** | Portland, ME | On Site | Jan 20 |
+| ↳ | **[Intern- Non-Clinical Contracts](https://jobright.ai/jobs/info/678ee70dc8b340024337da74?utm_campaign=1055&utm_source=git)** | Portland, ME | On Site | Jan 20 |
 | **[Kiewit](http://www.kiewit.com)** | **[Legal Real Estate - Intern Summer 2025](https://jobright.ai/jobs/info/678ed59bb75df9f3ff3466c6?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Jan 20 |
 | **[BitGo](http://www.bitgo.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/678710aa82a495158be72e20?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 20 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Intellectual Property Legal](https://jobright.ai/jobs/info/678e9c37237cb16801409dab?utm_campaign=1055&utm_source=git)** | Columbia, MO | Hybrid | Jan 20 |
@@ -103,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com/)** | **[Cybersecurity Compliance Audit Intern](https://jobright.ai/jobs/info/678ae7124ae8e2aa0f5e1f23?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Jan 17 |
 | **[UCB](http://www.ucb.com)** | **[Global Trade Compliance Analyst](https://jobright.ai/jobs/info/678ad9b648418799c85b6fe1?utm_campaign=1055&utm_source=git)** | Smyrna, GA | Hybrid | Jan 17 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2025 - Legal Intern, Vera Louisiana](https://jobright.ai/jobs/info/678ade853cf4853b1f5823c9?utm_campaign=1055&utm_source=git)** | New Orleans, LA | Hybrid | Jan 17 |
-| **[Jabil](https://www.jabil.com)** | **[Legal Intern - Trade Compliance](https://jobright.ai/jobs/info/678b7781ad62562f4af873dd?utm_campaign=1055&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Jan 17 |
+| **[Jabil](https://www.jabil.com)** | **[Legal Intern - Trade Compliance](https://jobright.ai/jobs/info/678b7781ad62562f4af873d5?utm_campaign=1055&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Jan 17 |
 | **[Haemonetics](http://www.haemonetics.com)** | **[Internship - Regulatory Affairs](https://jobright.ai/jobs/info/678ad4981095e1af8934e156?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 17 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Economic Damages & Valuation Internship - Summer 2025](https://jobright.ai/jobs/info/678ade853cf4853b1f582626?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 17 |
 | **[PeoplesBank](http://bankatpeoples.com)** | **[PeoplesBank Internship Program- Summer 2025](https://jobright.ai/jobs/info/678ae6547791999c9b47fe9a?utm_campaign=1055&utm_source=git)** | Holyoke, MA | On Site | Jan 17 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Weaver](http://www.weaver.com)** | **[Energy Compliance Services Intern - Spring 2026](https://jobright.ai/jobs/info/67374c229924e7a7fdb922c4?utm_campaign=1055&utm_source=git)** | The Woodlands, TX | On Site | Jan 16 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Legal Internship](https://jobright.ai/jobs/info/6789a552fc34e3bc4a6de641?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Jan 16 |
 | **[Foundation for California Community Colleges](https://foundationccc.org/)** | **[Student Law Clerk](https://jobright.ai/jobs/info/6710324e654272b63315a049?utm_campaign=1055&utm_source=git)** | California, United States | On Site | Jan 16 |
-| **[Webster Bank](https://www.websterbank.com)** | **[Compliance Risk Intern](https://jobright.ai/jobs/info/67899f8cd58d630b5a568043?utm_campaign=1055&utm_source=git)** | CT Southington | On Site | Jan 16 |
-| ↳ | **[Compliance Risk Intern](https://jobright.ai/jobs/info/67899f8cd58d630b5a56806a?utm_campaign=1055&utm_source=git)** | NY LI Jericho | On Site | Jan 16 |
+| **[Webster Bank](https://www.websterbank.com)** | **[Compliance Risk Intern](https://jobright.ai/jobs/info/67899f8cd58d630b5a56806a?utm_campaign=1055&utm_source=git)** | NY LI Jericho | On Site | Jan 16 |
+| ↳ | **[Compliance Risk Intern](https://jobright.ai/jobs/info/67899f8cd58d630b5a568043?utm_campaign=1055&utm_source=git)** | CT Southington | On Site | Jan 16 |
 | ↳ | **[Compliance Risk Intern](https://jobright.ai/jobs/info/67899f8cd58d630b5a56806b?utm_campaign=1055&utm_source=git)** | NY WP Hamilton | On Site | Jan 16 |
 | **[Jacobs](http://www.jacobs.com)** | **[Governance, Risk, and Compliance Intern - Summer 2025](https://jobright.ai/jobs/info/6789a0f01fd5d3916aa5889f?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Jan 16 |
 | **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Research Contracts Group](https://jobright.ai/jobs/info/67898bc1f6bf0f3d066e8ec3?utm_campaign=1055&utm_source=git)** | South San Francisco | On Site | Jan 16 |
 | **[Continental](https://www.continental.com)** | **[Intern - Customs Compliance, Year-Round](https://jobright.ai/jobs/info/677f1aee53e19167e7d8154d?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | On Site | Jan 16 |
 | **[First American](http://www.firstam.com)** | **[Commercial Escrow Intern](https://jobright.ai/jobs/info/675b790feccafae910b90e8b?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Jan 16 |
 | **[Public Counsel](https://publiccounsel.org)** | **[2025 Summer Law Student Intern - Children's Rights Project](https://jobright.ai/jobs/info/6723f0b8e7062bb57d1fe03e?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jan 16 |
-| **[Hillel International](http://hillel.org/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/6785e10ead3793e32eefd973?utm_campaign=1055&utm_source=git)** | Chicago, IL | Remote | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
