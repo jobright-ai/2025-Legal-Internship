@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TSC](https://www.tsc.com/)** | **[(Military Personnel ONLY) Dod SkillBridge Intern: Contracts Compliance Analyst](https://jobright.ai/jobs/info/6798437288fa6432778d58a4?utm_campaign=1055&utm_source=git)** | Greenville County, SC | Hybrid | Jan 27 |
+| **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/679825f948cc1ba68aaf9376?utm_campaign=1055&utm_source=git)** | CSBS Corporate, Washington, District Of Columbia, United States of America | Hybrid | Jan 27 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/679825f948cc1ba68aaf9379?utm_campaign=1055&utm_source=git)** | CSBS Corporate, Washington, District Of Columbia, United States of America | Hybrid | Jan 27 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2025: ESG Legal Intern (Mid May through Mid August)](https://jobright.ai/jobs/info/6798217b5426a86f75356e16?utm_campaign=1055&utm_source=git)** | Needham, MA | On Site | Jan 27 |
+| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Compliance Co-op](https://jobright.ai/jobs/info/67982c9a100c2f2e373846e7?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 27 |
 | **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Legal Intern](https://jobright.ai/jobs/info/67980cb6dc89640ffcfee96b?utm_campaign=1055&utm_source=git)** | TX-Arlington | On Site | Jan 27 |
 | **[Formlabs](http://www.formlabs.com)** | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/6798120bc422e3c977f3ea46?utm_campaign=1055&utm_source=git)** | Somerville, MA | On Site | Jan 27 |
 | **[MetLife](http://www.metlife.com)** | **[Law Intern](https://jobright.ai/jobs/info/6798135d5c1858498e2c38a2?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jan 27 |
+| **[Kearny Bank](http://kearnybank.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/6798271e0bb1b454bc0c9a4e?utm_campaign=1055&utm_source=git)** | Fairfield, NJ | On Site | Jan 27 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Iowa Farm Bureau Federation Law Clerk- Summer 2025](https://jobright.ai/jobs/info/6797fe75cdad5dfc5f9f693c?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Jan 27 |
 | **[Publix Super Markets](https://www.publix.com/)** | **[Intern – Employment Law & Investigations](https://jobright.ai/jobs/info/6798120bc422e3c977f3ed9c?utm_campaign=1055&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
 | ↳ | **[Intern – Corporate Counsel](https://jobright.ai/jobs/info/6798120bc422e3c977f3ede0?utm_campaign=1055&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
@@ -92,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern - Commercial Title](https://jobright.ai/jobs/info/675c7584a2a4fb836c2162cc?utm_campaign=1055&utm_source=git)** | Michigan, United States | On Site | Jan 27 |
 | **[Integrity Express Logistics](https://www.ielfreight.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/6761d7b0a3bd7d8cebcf9614?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 27 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[EHS Intern](https://jobright.ai/jobs/info/673dca957d65dce7952127af?utm_campaign=1055&utm_source=git)** | Galveston, TX | On Site | Jan 27 |
+| **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - GFS, Operational Risk](https://jobright.ai/jobs/info/6752c5e2b232437059babe55?utm_campaign=1055&utm_source=git)** | Chesterfield, MO | On Site | Jan 27 |
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Rising 2L Legal Intern - Summer 2025](https://jobright.ai/jobs/info/67975ad58a65dd57b4a4dc4a?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | Remote | Jan 27 |
 | **[Western Digital](https://www.westerndigital.com)** | **[Summer 2025 Intern, Information Technology (SOX Compliance)](https://jobright.ai/jobs/info/67972d200191c4727f1c1fb7?utm_campaign=1055&utm_source=git)** | San Jose, CA | Remote | Jan 26 |
 | **[POWER Engineers](http://www.powereng.com)** | **[Legal Services Intern](https://jobright.ai/jobs/info/6797021bfb6ba4f77f8492a2?utm_campaign=1055&utm_source=git)** | Boise, ID | Hybrid | Jan 26 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Dallas Office - 2025 1L LCLD Scholar (Litigation)](https://jobright.ai/jobs/info/67936265a342a0b7d4979e71?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 24 |
 | **[NetApp](http://netapp.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/67948d6e040a239db1db5a09?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Jan 23 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[US Transaction Advisory Services Intern Summer 2026](https://jobright.ai/jobs/info/679325d8fb4dc3eaccf7fbcc?utm_campaign=1055&utm_source=git)** | Boston | On Site | Jan 23 |
-| ↳ | **[US Transaction Advisory Services Intern Summer 2026](https://jobright.ai/jobs/info/679325d8fb4dc3eaccf7fc01?utm_campaign=1055&utm_source=git)** | Chicago | On Site | Jan 23 |
-| ↳ | **[US Transaction Advisory Services Intern Summer 2026](https://jobright.ai/jobs/info/679325d8fb4dc3eaccf7fc02?utm_campaign=1055&utm_source=git)** | New York | On Site | Jan 23 |
-| **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[Graduate Intern - Attorney Services](https://jobright.ai/jobs/info/67934945cbc6072fd68301fb?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
-| **[Defense Logistics Agency](http://www.dla.mil)** | **[Student Trainee (Legal).](https://jobright.ai/jobs/info/679509fb6e9f330dc887f719?utm_campaign=1055&utm_source=git)** | Whitehall, OH | On Site | Jan 23 |
-| **[Oceaneering](http://www.oceaneering.com/)** | **[Contracts Analyst Intern](https://jobright.ai/jobs/info/679713024803cdb028e3e67f?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Jan 23 |
-| **[Defense Logistics Agency](http://www.dla.mil)** | **[Student Trainee (Legal).](https://jobright.ai/jobs/info/67950b956e9f330dc887fef2?utm_campaign=1055&utm_source=git)** | New Cumberland, PA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
