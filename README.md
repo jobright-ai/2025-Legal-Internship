@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PGP Title](https://www.pgptitle.com)** | **[Title Summer 2025 Intern (PGP Title)](https://jobright.ai/jobs/info/679987c38df2bae83aec7038?utm_campaign=1055&utm_source=git)** | Coppell, TX | On Site | Jan 28 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Contract Administrator](https://jobright.ai/jobs/info/67996eeffb052e4735b2dc12?utm_campaign=1055&utm_source=git)** | Poway, CA | Hybrid | Jan 28 |
+| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67997a9e0bf61f079ec05c49?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
+| **[COLSA](http://www.colsa.com)** | **[Contracts Administration Intern](https://jobright.ai/jobs/info/679984d2456cc0aeb6aedb20?utm_campaign=1055&utm_source=git)** | Huntsville, AL | On Site | Jan 28 |
 | **[Lido Advisors, LLC](https://www.lidoadvisors.com/)** | **[Summer 2025 Intern, Legal and Compliance](https://jobright.ai/jobs/info/6799732d5b02ee9fb06b9550?utm_campaign=1055&utm_source=git)** | California, United States | Hybrid | Jan 28 |
 | **[Cipla USA](http://www.ciplausa.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6799732d5b02ee9fb06b9571?utm_campaign=1055&utm_source=git)** | Central Islip, NY | On Site | Jan 28 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Operational Risk](https://jobright.ai/jobs/info/67996eeffb052e4735b2dac2?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Jan 28 |
@@ -78,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[San Francisco Office - 2025 1L LCLD Scholar (Litigation)](https://jobright.ai/jobs/info/67378ed75bea4bf9e15fe18d?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jan 28 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/6765bea04563a82b0fb6d88d?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 28 |
 | **[Corsair](http://www.corsair.com)** | **[Legal Intern](https://jobright.ai/jobs/info/676b7c6f9c2ccf6fad9c4650?utm_campaign=1055&utm_source=git)** | Milpitas, CA | On Site | Jan 28 |
-| **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Intern the Otsuka Way 2025 - Ethics & Compliance Intern](https://jobright.ai/jobs/info/677710eeeb2458bc1fac55ae?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Jan 28 |
 | **[AbbVie](https://www.abbvie.com)** | **[2025 Compliance Intern (Undergraduate)](https://jobright.ai/jobs/info/674e3e09acd20f49aee4df01?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Jan 28 |
 | **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/675835d85ed303e2fbe4d55c?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Jan 28 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Practical Law Employment and Labor Internship](https://jobright.ai/jobs/info/672349f2af9b65552df7a1c3?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
@@ -94,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Legal Intern, Summer 2025](https://jobright.ai/jobs/info/67985646797cecda46d2ffea?utm_campaign=1055&utm_source=git)** | Orrville, OH | Hybrid | Jan 27 |
 | **[TSC](https://www.tsc.com/)** | **[(Military Personnel ONLY) Dod SkillBridge Intern: Contracts Compliance Analyst](https://jobright.ai/jobs/info/6798437288fa6432778d58a4?utm_campaign=1055&utm_source=git)** | Greenville County, SC | Hybrid | Jan 27 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Legal Intern](https://jobright.ai/jobs/info/679825f948cc1ba68aaf9379?utm_campaign=1055&utm_source=git)** | CSBS Corporate, Washington, District Of Columbia, United States of America | Hybrid | Jan 27 |
+| **[Oregon Department of Corrections](https://www.oregon.gov/doc/)** | **[Minor Decoy (Student Professional/Technical Worker)](https://jobright.ai/jobs/info/679977311cfcc4e661a6c151?utm_campaign=1055&utm_source=git)** | Salem | OLCC | On Site | Jan 27 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2025: ESG Legal Intern (Mid May through Mid August)](https://jobright.ai/jobs/info/6798217b5426a86f75356e16?utm_campaign=1055&utm_source=git)** | Needham, MA | On Site | Jan 27 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Compliance Co-op](https://jobright.ai/jobs/info/67982c9a100c2f2e373846e7?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 27 |
 | **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Legal Intern](https://jobright.ai/jobs/info/67980cb6dc89640ffcfee96b?utm_campaign=1055&utm_source=git)** | TX-Arlington | On Site | Jan 27 |
@@ -102,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Iowa Farm Bureau Federation Law Clerk- Summer 2025](https://jobright.ai/jobs/info/6797fe75cdad5dfc5f9f693c?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Jan 27 |
 | **[Publix Super Markets](https://www.publix.com/)** | **[Intern – Employment Law & Investigations](https://jobright.ai/jobs/info/6798120bc422e3c977f3ed9c?utm_campaign=1055&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
 | ↳ | **[Intern – Corporate Counsel](https://jobright.ai/jobs/info/6798120bc422e3c977f3ede0?utm_campaign=1055&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
+| **[Oregon Department of Corrections](https://www.oregon.gov/doc/)** | **[Minor Decoy (Student Professional/Technical Worker)](https://jobright.ai/jobs/info/679977311cfcc4e661a6c161?utm_campaign=1055&utm_source=git)** | Klamath Falls | OLCC | On Site | Jan 27 |
 | **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Legal Intern](https://jobright.ai/jobs/info/679802bfffa131b33c8627d7?utm_campaign=1055&utm_source=git)** | Arlington, TX | On Site | Jan 27 |
 | **[Ice Miller LLP](http://www.icemiller.com/)** | **[Government Affairs and Regulatory Law Intern](https://jobright.ai/jobs/info/67980b96d9af1fbd9a59afae?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Jan 27 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[FALL 2025 - Compliance Co-ops (6 Months)](https://jobright.ai/jobs/info/6797f83945ab6b6a6251e98d?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jan 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Global Regulatory Strategy Infrastructure Intern](https://jobright.ai/jobs/info/67951e0ce84f07557aa997cc?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Jan 25 |
 | **[Wilchins Cosentino & Novins LLP](https://wcnllp.com)** | **[Trust & Estates Attorney](https://jobright.ai/jobs/info/679509fb6e9f330dc887f409?utm_campaign=1055&utm_source=git)** | Wellesley Hills, MA | On Site | Jan 25 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations - Health Data Exchange Associate Intern](https://jobright.ai/jobs/info/67963f3a3343dcaeda29e88a?utm_campaign=1055&utm_source=git)** | IL - Chicago | On Site | Jan 25 |
-| **[AssuredPartners](https://www.assuredpartners.com)** | **[Legal Intern - Summer 2025](https://jobright.ai/jobs/info/6777b9ecd911a8f0aa8f5610?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jan 25 |
-| **[Zeno Power](https://zenopower.com/)** | **[Nuclear Regulatory Compliance Internship](https://jobright.ai/jobs/info/6794ace460c06975daf2dbe5?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
-| **[IDEMIA](https://www.idemia.com/)** | **[Security & Background Clearance Internship - Summer 2025](https://jobright.ai/jobs/info/6795db07e02e3386384ed668?utm_campaign=1055&utm_source=git)** | Bedford, MA | Hybrid | Jan 24 |
-| **[Zeno Power](https://zenopower.com/)** | **[Nuclear Regulatory Compliance Internship](https://jobright.ai/jobs/info/679482911130b802ed6bfbab?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
