@@ -60,12 +60,13 @@ For a complete list, click the following sortable link below:
 | **[Daiichi Sankyo](http://www.daiichisankyo.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/679f3cbd23d41dc499ce1878?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Feb 01 |
 | **[RealTruck, Inc.](http://www.realtruck.com)** | **[Legal Intern](https://jobright.ai/jobs/info/679ee40b4d663992164c8f1a?utm_campaign=1055&utm_source=git)** | Ann Arbor, MI | On Site | Feb 01 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Office of General Counsel Legal Intern](https://jobright.ai/jobs/info/679ece01df7a113712bab92e?utm_campaign=1055&utm_source=git)** | Los Alamos, NM | On Site | Feb 01 |
-| **[Tenet Healthcare](http://tenethealth.com)** | **[Legal Operations Intern - Summer 2025 - Onsite in Dallas, TX](https://jobright.ai/jobs/info/679e5fb16ec02876e569baf2?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Feb 01 |
 | **[SEPHORA](https://www.sephora.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/679e53147a7e3b7d9270d904?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Remote | Feb 01 |
 | **[Legal Aid Justice Center](https://www.justice4all.org)** | **[Summer 2025 Legal Internship (Hybrid)](https://jobright.ai/jobs/info/679e57f03856b691215b65c1?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | Hybrid | Feb 01 |
+| **[Squire Patton Boggs](http://www.squirepattonboggs.com/)** | **[1L Summer Associate 2025](https://jobright.ai/jobs/info/67340af23ed99bb617cf365d?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Feb 01 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Legal Fellow](https://jobright.ai/jobs/info/677d7143dfc54cc454a68376?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f51?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Feb 01 |
 | **[BeiGene](https://www.beigene.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/676618895d0280565134fe13?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 01 |
+| **[PDS Health](http://www.pacificdentalservices.com/)** | **[Legal (Intern)](https://jobright.ai/jobs/info/679d3f292b41d95c68e3ba71?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Feb 01 |
 | **[NEOGOV](http://www.neogov.com)** | **[Legal Intern - County Attorney's Office - Human Services Division](https://jobright.ai/jobs/info/679dd1416a56447100d23fa4?utm_campaign=1055&utm_source=git)** | Colorado Springs, CO | On Site | Jan 31 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Compliance](https://jobright.ai/jobs/info/679ddfa04f1ffa949ba2fc5f?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | On Site | Jan 31 |
 | **[Missouri State University](https://www.missouristate.edu/usa/)** | **[Compliance Coordinator - Athletics](https://jobright.ai/jobs/info/679d997dc022ee484c62d520?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Jan 31 |
@@ -80,28 +81,27 @@ For a complete list, click the following sortable link below:
 | ↳ | **[New York – Hunton Andrews Kurth LLP Client/Law Firm 1L Diversity Champion Clerkship Opportunity - Summer 2025](https://jobright.ai/jobs/info/672e385e4563453482315d3a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 31 |
 | **[Public Company Accounting Oversight Board (PCAOB)](https://pcaobus.org)** | **[Fall 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0035?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0036?utm_campaign=1055&utm_source=git)** | Irvine, CA | Hybrid | Jan 31 |
-| ↳ | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0041?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 31 |
-| ↳ | **[Fall 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0044?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0049?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
-| ↳ | **[Fall 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0047?utm_campaign=1055&utm_source=git)** | Irvine, CA | Hybrid | Jan 31 |
-| ↳ | **[Fall 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0042?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f003f?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Jan 31 |
+| ↳ | **[Fall 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0044?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 31 |
+| ↳ | **[Fall 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0047?utm_campaign=1055&utm_source=git)** | Irvine, CA | Hybrid | Jan 31 |
+| ↳ | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0041?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 31 |
+| ↳ | **[Fall 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0042?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 31 |
+| ↳ | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0050?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f004c?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0051?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Jan 31 |
-| ↳ | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0050?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
-| ↳ | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0054?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 31 |
-| ↳ | **[Fall 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0055?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0057?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Jan 31 |
+| ↳ | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0054?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0053?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 31 |
+| ↳ | **[Fall 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0055?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0060?utm_campaign=1055&utm_source=git)** | Ashburn, VA | Hybrid | Jan 31 |
-| **[PDS Health](http://www.pacificdentalservices.com/)** | **[Legal Compliance & Ethics (Intern)](https://jobright.ai/jobs/info/679d3f292b41d95c68e3ba71?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/679d3f292b41d95c68e3bcce?utm_campaign=1055&utm_source=git)** | Fresno, CA | Hybrid | Jan 31 |
 | **[Public Company Accounting Oversight Board (PCAOB)](https://pcaobus.org)** | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d70d096badb40019c95fe?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d6520a7522eddbcb66d00?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/679d6520a7522eddbcb66cff?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/679d6520a7522eddbcb66d01?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 31 |
-| ↳ | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d6520a7522eddbcb66d06?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/679d6520a7522eddbcb66d07?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Jan 31 |
+| ↳ | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d6520a7522eddbcb66d06?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d6520a7522eddbcb66d0a?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/679d6520a7522eddbcb66d0b?utm_campaign=1055&utm_source=git)** | Ashburn, VA | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/679d6520a7522eddbcb66d0f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 31 |
@@ -109,8 +109,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/679d4224657c8876743f6101?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/679d4224657c8876743f6375?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d4224657c8876743f612a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
-| ↳ | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d4224657c8876743f6380?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/679d4224657c8876743f637d?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
+| ↳ | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d4224657c8876743f6380?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d4224657c8876743f638b?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 31 |
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Security and Compliance](https://jobright.ai/jobs/info/679d3424e65c3946b3264ab3?utm_campaign=1055&utm_source=git)** | South San Francisco, CA | On Site | Jan 31 |
 | **[Johnson County, KS Government](https://jocogov.org)** | **[Legal Department Intern/Extern](https://jobright.ai/jobs/info/679d516f6f41bc84cb66faf7?utm_campaign=1055&utm_source=git)** | Olathe, KS | On Site | Jan 31 |
