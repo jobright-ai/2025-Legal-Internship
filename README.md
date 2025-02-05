@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2025 Summer Internship - IT Security Compliance](https://jobright.ai/jobs/info/67a2d026b8c6e4f3f31dbe77?utm_campaign=1055&utm_source=git)** | DFW Metroplex | On Site | Feb 04 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation – Summer 2026 (Chicago)](https://jobright.ai/jobs/info/67a2c0a85de492577f1a16e0?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 04 |
+| **[HITT Contracting Inc.](http://www.hitt.com)** | **[Risk Management and Insurance Intern](https://jobright.ai/jobs/info/67a2ba4918463e68dca07d41?utm_campaign=1055&utm_source=git)** | Falls Church, VA | On Site | Feb 04 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation – Summer 2026 (Chicago)](https://jobright.ai/jobs/info/67a2b3ca630d71dada08d14b?utm_campaign=1055&utm_source=git)** | 330 North Wabash, Chicago, IL, 60611, US | On Site | Feb 04 |
+| **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Risk, Compliance](https://jobright.ai/jobs/info/67a2b356e368bd5ad0b9d8b3?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Feb 04 |
+| **[Werfen](http://www.werfen.com/)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/67a2c0a85de492577f1a1775?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Feb 04 |
+| **[Travelers](https://www.travelers.com)** | **[Bond & Specialty Insurance Legal Intern](https://jobright.ai/jobs/info/67a2b91144e1ccaec5c40290?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Feb 04 |
 | **[Glencore](http://glencore.com)** | **[Summer Intern - Compliance](https://jobright.ai/jobs/info/67a2a14f01f6c7be96522351?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 04 |
 | **[Missouri State University](https://www.missouristate.edu/usa/)** | **[Compliance Coordinator - Athletics](https://jobright.ai/jobs/info/67a298974bafe03d7a4ad32a?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Feb 04 |
 | **[Deckers Brands](http://deckers.com)** | **[Law Student Summer Intern](https://jobright.ai/jobs/info/67a29043ced5da18454086b0?utm_campaign=1055&utm_source=git)** | Santa Barbara, CA | On Site | Feb 04 |
@@ -88,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern](https://jobright.ai/jobs/info/67a224ed21c55c0daab62d72?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Feb 04 |
 | **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/66b2f04883b9f52eaa6cad36?utm_campaign=1055&utm_source=git)** | Richmond, VA | Remote | Feb 04 |
 | **[Zoox](https://www.zoox.com/)** | **[Policy and Regulatory Affairs Intern](https://jobright.ai/jobs/info/6708582326352e5e93bae741?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Feb 04 |
+| **[Coaction Global](https://www.coactionspecialty.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/67118e7739924286b8f7e942?utm_campaign=1055&utm_source=git)** | Morristown, NJ | Hybrid | Feb 04 |
 | **[Milestone Contractors LP](http://milestonelp.com)** | **[HR/Compliance Intern](https://jobright.ai/jobs/info/675b0e6073086800c20b2402?utm_campaign=1055&utm_source=git)** | Columbus, IN | On Site | Feb 04 |
 | **[Squire Patton Boggs](http://www.squirepattonboggs.com/)** | **[1L Summer Associate 2025](https://jobright.ai/jobs/info/67340af23ed99bb617cf3974?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Feb 04 |
 | **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Commercial Property and Casualty Intern](https://jobright.ai/jobs/info/6781e21535b4cc2e9f542a46?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Feb 04 |
@@ -142,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[PDS Health](http://www.pacificdentalservices.com/)** | **[Legal (Intern)](https://jobright.ai/jobs/info/679d3f292b41d95c68e3ba71?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Feb 01 |
 | **[NEOGOV](http://www.neogov.com)** | **[Legal Intern - County Attorney's Office - Human Services Division](https://jobright.ai/jobs/info/679dd1416a56447100d23fa4?utm_campaign=1055&utm_source=git)** | Colorado Springs, CO | On Site | Jan 31 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Compliance](https://jobright.ai/jobs/info/679ddfa04f1ffa949ba2fc5f?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | On Site | Jan 31 |
-| **[Missouri State University](https://www.missouristate.edu/usa/)** | **[Compliance Coordinator - Athletics](https://jobright.ai/jobs/info/679d997dc022ee484c62d520?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Jan 31 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, GRC - Policy and Compliance](https://jobright.ai/jobs/info/679d90fd880c4bccdc3ee0d2?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 31 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Compliance and Transitions Intern - Summer 2025 - Greenbelt, MD](https://jobright.ai/jobs/info/6792a587a3d006db3394d8c0?utm_campaign=1055&utm_source=git)** | Greenbelt, MD, 20770 | On Site | Jan 31 |
 | **[American Arbitration Association](https://www.adr.org)** | **[Legal Research Intern](https://jobright.ai/jobs/info/679d8787e3b57e1a4e00853a?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Remote | Jan 31 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KLA](https://www.kla.com)** | **[Ethics & Legal Compliance Summer Internship](https://jobright.ai/jobs/info/679d6cb16aab7bb28b271bd4?utm_campaign=1055&utm_source=git)** | Milpitas, CA | On Site | Jan 31 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2025 Summer Internship – Escrow Operations (On-site Greenville, SC)](https://jobright.ai/jobs/info/679d68503216e684f1b25d6a?utm_campaign=1055&utm_source=git)** | Greenville, SC | On Site | Jan 31 |
 | **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Program Integrity - R8104](https://jobright.ai/jobs/info/672aa685fb7e146142f7fa85?utm_campaign=1055&utm_source=git)** | Dayton, OH | Hybrid | Jan 31 |
-| **[Hunton Andrews Kurth LLP](https://www.huntonak.com/en/)** | **[Richmond – Hunton Andrews Kurth LLP Client/Law Firm 1L Diversity Champion Clerkship Opportunity – Summer 2025](https://jobright.ai/jobs/info/672e3d890d968cace89fba34?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Jan 31 |
-| ↳ | **[Washington, DC – Hunton Andrews Kurth LLP Client/Law Firm 1L Diversity Champion Clerkship Opportunity – Summer 2025](https://jobright.ai/jobs/info/67536b20fa3b4f98905644c3?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | On Site | Jan 31 |
-| ↳ | **[New York – Hunton Andrews Kurth LLP Client/Law Firm 1L Diversity Champion Clerkship Opportunity - Summer 2025](https://jobright.ai/jobs/info/672e385e4563453482315d3a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 31 |
-| **[Public Company Accounting Oversight Board (PCAOB)](https://pcaobus.org)** | **[Fall 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0035?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
-| ↳ | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0036?utm_campaign=1055&utm_source=git)** | Irvine, CA | Hybrid | Jan 31 |
-| ↳ | **[Fall 2025 Office of International Affairs Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0042?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 31 |
-| ↳ | **[Fall 2025 Legal Intern](https://jobright.ai/jobs/info/679d4edff02d4628a94f0041?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
