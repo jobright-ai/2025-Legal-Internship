@@ -86,12 +86,12 @@ For a complete list, click the following sortable link below:
 | **[Edward Jones](https://www.edwardjones.com)** | **[Compliance Internship](https://jobright.ai/jobs/info/67a64fb29d18b46b7de38216?utm_campaign=1055&utm_source=git)** | Missouri, St. Louis, Arizona, Tempe | On Site | Feb 07 |
 | **[ProAmpac](http://www.proampac.com/)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/67a648a25d6f942aba6e82fb?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Feb 07 |
 | **[Sony](http://www.sony.net)** | **[Legal Intern](https://jobright.ai/jobs/info/67a6448b2cade187f1257e3f?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 07 |
-| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/67a62e7c9d997f4723c462c6?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Feb 07 |
+| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/67a635ce2d73b2548d08ce69?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Feb 07 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Corporate Affairs – Office of General Counsel/Legal Technology & Operations](https://jobright.ai/jobs/info/675a167e664ac5c390d0aa4c?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Feb 07 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Associate Attorney, Tribal Partnerships Program](https://jobright.ai/jobs/info/67a62110ce31940c45f906eb?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Feb 07 |
 | ↳ | **[Associate Attorney, Tribal Partnerships Program](https://jobright.ai/jobs/info/67a62110ce31940c45f906ec?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Feb 07 |
-| ↳ | **[Associate Attorney, Tribal Partnerships Program](https://jobright.ai/jobs/info/67a61b0a58058319a53886ca?utm_campaign=1055&utm_source=git)** | United States | On Site | Feb 07 |
 | ↳ | **[Associate Attorney, Tribal Partnerships Program](https://jobright.ai/jobs/info/67a61b0a58058319a53886cb?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 07 |
+| ↳ | **[Associate Attorney, Tribal Partnerships Program](https://jobright.ai/jobs/info/67a61b0a58058319a53886ca?utm_campaign=1055&utm_source=git)** | United States | On Site | Feb 07 |
 | **[Qlik](https://www.qlik.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67a61b0a58058319a53887b5?utm_campaign=1055&utm_source=git)** | King of Prussia, PA | On Site | Feb 07 |
 | **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Legal Department](https://jobright.ai/jobs/info/67a60eb98322ade363aa9f6a?utm_campaign=1055&utm_source=git)** | Tucson, AZ | On Site | Feb 07 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Legal Intern Summer 2025 (Hybrid- 3 Days in Office)](https://jobright.ai/jobs/info/67608c9dcb9ef628eef49f2f?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Feb 07 |
@@ -116,15 +116,40 @@ For a complete list, click the following sortable link below:
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2025 Guardian Life Summer Intern, Litigation](https://jobright.ai/jobs/info/67a53febd4fcbb5aff2bec1e?utm_campaign=1055&utm_source=git)** | Pittsfield, MA | Hybrid | Feb 06 |
 | **[uShip](http://www.uship.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67a53a8f4af964493847e83d?utm_campaign=1055&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Feb 06 |
 | **[Rabobank](http://www.rabobank.com)** | **[Regulatory Reporting Intern](https://jobright.ai/jobs/info/67a53a8f4af964493847eaf4?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
-| **[Wasserman](http://www.teamwass.com)** | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa55c?utm_campaign=1055&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa572?utm_campaign=1055&utm_source=git)** | USA-OH - Ohio Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa56d?utm_campaign=1055&utm_source=git)** | USA-TX - Texas Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa550?utm_campaign=1055&utm_source=git)** | USA-SC - Charleston Office | On Site | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa56b?utm_campaign=1055&utm_source=git)** | USA-MA - Massachusetts Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa55a?utm_campaign=1055&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa568?utm_campaign=1055&utm_source=git)** | USA-MO - Missouri Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa552?utm_campaign=1055&utm_source=git)** | USA-WA - Washington Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa563?utm_campaign=1055&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Feb 06 |
+| **[Wasserman](http://www.teamwass.com)** | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa56a?utm_campaign=1055&utm_source=git)** | USA-VT - Vermont Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa54d?utm_campaign=1055&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa549?utm_campaign=1055&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa543?utm_campaign=1055&utm_source=git)** | USA-IN - Indiana Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa551?utm_campaign=1055&utm_source=git)** | USA-UT - Utah Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa561?utm_campaign=1055&utm_source=git)** | USA-WY - Wyoming Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa541?utm_campaign=1055&utm_source=git)** | USA-PA - Pennsylvania Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa565?utm_campaign=1055&utm_source=git)** | USA-ND - North Dakota Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa575?utm_campaign=1055&utm_source=git)** | USA-SC - South Carolina Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa431?utm_campaign=1055&utm_source=git)** | USA-ID - Idaho Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa54a?utm_campaign=1055&utm_source=git)** | USA-OR - Oregon Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa553?utm_campaign=1055&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa56f?utm_campaign=1055&utm_source=git)** | USA-WV - West Virginia Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa571?utm_campaign=1055&utm_source=git)** | USA-IL - Illinois Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa573?utm_campaign=1055&utm_source=git)** | USA-MI - Michigan Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa54e?utm_campaign=1055&utm_source=git)** | USA-MS - Mississippi Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa556?utm_campaign=1055&utm_source=git)** | USA-AR - Arkansas Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa544?utm_campaign=1055&utm_source=git)** | USA-CO - Colorado Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa570?utm_campaign=1055&utm_source=git)** | USA-NY - Brooklyn (Dumbo) | On Site | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa547?utm_campaign=1055&utm_source=git)** | USA-NV - Nevada Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa55b?utm_campaign=1055&utm_source=git)** | USA-OK - Oklahoma City Office | On Site | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa55e?utm_campaign=1055&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa546?utm_campaign=1055&utm_source=git)** | USA-NY - New York City Office (One Liberty Plaza) | On Site | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa54f?utm_campaign=1055&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa557?utm_campaign=1055&utm_source=git)** | USA-NM - New Mexico Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa560?utm_campaign=1055&utm_source=git)** | USA-GA - Georgia Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa54b?utm_campaign=1055&utm_source=git)** | USA-OK - Oklahoma Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa540?utm_campaign=1055&utm_source=git)** | USA-MD - Maryland Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa55d?utm_campaign=1055&utm_source=git)** | USA-SC - Columbia Office | On Site | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa566?utm_campaign=1055&utm_source=git)** | USA-NC - Raleigh Office | On Site | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa53d?utm_campaign=1055&utm_source=git)** | USA-DC - Washington, D.C. Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa567?utm_campaign=1055&utm_source=git)** | USA-NE - Nebraska Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa542?utm_campaign=1055&utm_source=git)** | USA-MN - Minnesota Remote | Remote | Feb 06 |
+| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa559?utm_campaign=1055&utm_source=git)** | USA-MT - Montana Remote | Remote | Feb 06 |
 | ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa56e?utm_campaign=1055&utm_source=git)** | USA-VA - Virginia Remote | Remote | Feb 06 |
 | ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa555?utm_campaign=1055&utm_source=git)** | USA-KS - Kansas Remote | Remote | Feb 06 |
 | ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa558?utm_campaign=1055&utm_source=git)** | USA-NY - New York Remote | Remote | Feb 06 |
@@ -132,29 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa53f?utm_campaign=1055&utm_source=git)** | USA-AZ - Arizona Remote | Remote | Feb 06 |
 | ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa545?utm_campaign=1055&utm_source=git)** | USA-LA - Louisiana Remote | Remote | Feb 06 |
 | ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa54c?utm_campaign=1055&utm_source=git)** | USA-FL - Florida Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa548?utm_campaign=1055&utm_source=git)** | USA-CA - California Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa554?utm_campaign=1055&utm_source=git)** | USA-CA - Encinitas Office | On Site | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa569?utm_campaign=1055&utm_source=git)** | USA-ME - Maine Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa564?utm_campaign=1055&utm_source=git)** | USA-IA - Iowa Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa431?utm_campaign=1055&utm_source=git)** | USA-ID - Idaho Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa54a?utm_campaign=1055&utm_source=git)** | USA-OR - Oregon Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa553?utm_campaign=1055&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa56f?utm_campaign=1055&utm_source=git)** | USA-WV - West Virginia Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa571?utm_campaign=1055&utm_source=git)** | USA-IL - Illinois Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa540?utm_campaign=1055&utm_source=git)** | USA-MD - Maryland Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa546?utm_campaign=1055&utm_source=git)** | USA-NY - New York City Office (One Liberty Plaza) | On Site | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa54f?utm_campaign=1055&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa557?utm_campaign=1055&utm_source=git)** | USA-NM - New Mexico Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa560?utm_campaign=1055&utm_source=git)** | USA-GA - Georgia Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa54b?utm_campaign=1055&utm_source=git)** | USA-OK - Oklahoma Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa556?utm_campaign=1055&utm_source=git)** | USA-AR - Arkansas Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa544?utm_campaign=1055&utm_source=git)** | USA-CO - Colorado Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa570?utm_campaign=1055&utm_source=git)** | USA-NY - Brooklyn (Dumbo) | On Site | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa547?utm_campaign=1055&utm_source=git)** | USA-NV - Nevada Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa55b?utm_campaign=1055&utm_source=git)** | USA-OK - Oklahoma City Office | On Site | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa55e?utm_campaign=1055&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa53e?utm_campaign=1055&utm_source=git)** | USA-NC - North Carolina Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa56c?utm_campaign=1055&utm_source=git)** | USA-SD - South Dakota Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa574?utm_campaign=1055&utm_source=git)** | USA-AK - Alaska Remote | Remote | Feb 06 |
-| ↳ | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67a52a4af153de5125afa562?utm_campaign=1055&utm_source=git)** | USA-DE - Delaware Remote | Remote | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
