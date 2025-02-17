@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Rising 2L Legal Intern - Summer 2025](https://jobright.ai/jobs/info/67b2587bb5b16c2607332bd3?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | Remote | Feb 16 |
+| **[SolarWinds](http://www.solarwinds.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67a25b367cda261c806e6492?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 16 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Quality Compliance](https://jobright.ai/jobs/info/67b22aca421c6a8c7ceae986?utm_campaign=1055&utm_source=git)** | Novato, CA | On Site | Feb 16 |
 | **[Legal Aid Justice Center](https://www.justice4all.org)** | **[Summer 2025 Legal Internship (Hybrid)](https://jobright.ai/jobs/info/67b2092ebedd97bd8a663402?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | Hybrid | Feb 16 |
 | **[AMETEK](http://www.ametek.com)** | **[U.S. Trade Compliance Intern - Summer 2025](https://jobright.ai/jobs/info/67a25009276b7d1513cba5b3?utm_campaign=1055&utm_source=git)** | Middlefield, CT | On Site | Feb 16 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/67b13d26faf7151e546355dc?utm_campaign=1055&utm_source=git)** | Fort Collins, CO | On Site | Feb 15 |
 | **[Astria Therapeutics, Inc.](https://www.astriatx.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/67b0ea91acd4adf29e23aa69?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Feb 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/67b0ea91acd4adf29e23aa63?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 15 |
+| **[Protiviti](http://www.protiviti.com)** | **[Minneapolis Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f4e?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 15 |
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Intern](https://jobright.ai/jobs/info/67b0da94feb6743786aa653e?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Feb 15 |
 | **[KLDiscovery](https://www.kldiscovery.com/)** | **[Document Reviewer](https://jobright.ai/jobs/info/677c9f1882f2403e8c0418cd?utm_campaign=1055&utm_source=git)** | Arizona, United States | On Site | Feb 15 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Internship](https://jobright.ai/jobs/info/6752de8c4079e8ef3a229360?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Feb 15 |
@@ -120,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[INFICON](http://www.inficon.com)** | **[2025 Summer Legal Intern](https://jobright.ai/jobs/info/67b0076bbccecce4e1962922?utm_campaign=1055&utm_source=git)** | East Syracuse, NY | Hybrid | Feb 14 |
 | **[Protiviti](http://www.protiviti.com)** | **[New York City Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/670daffba3816b8136071fd2?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 14 |
 | **[NEOGOV](http://www.neogov.com)** | **[Summer 2L Legal Internship](https://jobright.ai/jobs/info/67afd0e307326fafdb067a1a?utm_campaign=1055&utm_source=git)** | CO 80111, CO | On Site | Feb 14 |
+| **[iCapital](https://icapital.com)** | **[Regulatory and Compliance - Intern](https://jobright.ai/jobs/info/675cbd494949883b7be7569c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 14 |
 | **[Grifols](http://www.grifols.com)** | **[Intern - Contract Operations, Marketing 1](https://jobright.ai/jobs/info/67afd45914bd94af4065adf7?utm_campaign=1055&utm_source=git)** | North Carolina, United States | Hybrid | Feb 14 |
 | **[NEOGOV](http://www.neogov.com)** | **[*2025 Summer College Internship Program -  City Attorney](https://jobright.ai/jobs/info/67afb6d625a675bb7c18ea7b?utm_campaign=1055&utm_source=git)** | Hampton, VA | On Site | Feb 14 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Procurement Defense Intern](https://jobright.ai/jobs/info/67afc5f8d47d0f29385b83aa?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Feb 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[Environmental Compliance Internship Fall 2025](https://jobright.ai/jobs/info/67aec22474a2d021f4e0c07e?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 13 |
 | **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Inventory Management and Compliance Internship](https://jobright.ai/jobs/info/67aeb40199c9a2a17d090de1?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Feb 13 |
 | **[Maxim Crane Works, LP](http://www.maximcrane.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67aff82e58d417f686245317?utm_campaign=1055&utm_source=git)** | Canonsburg, PA | On Site | Feb 13 |
-| **[Pinnacle Propane, LLC](https://pinnaclepropane.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67afff1745b062b6b28d72a6?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Feb 13 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Environmental Compliance Internship Fall 2025](https://jobright.ai/jobs/info/67ae9f777b3608f8f710b0b1?utm_campaign=1055&utm_source=git)** | 1014 Vine St, Cincinnati, OH, 45202, US | On Site | Feb 13 |
-| **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Legal Services](https://jobright.ai/jobs/info/67ae9de5eb4e4d9757997274?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Feb 13 |
-| **[PTC Therapeutics, Inc.](http://www.ptcbio.com)** | **[Contract, Global Regulatory Affairs CMC Fellow](https://jobright.ai/jobs/info/67ae82c04270a4c7f65f9596?utm_campaign=1055&utm_source=git)** | New Jersey, United States | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
