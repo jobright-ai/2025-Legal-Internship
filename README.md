@@ -58,12 +58,12 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[NEOGOV](http://www.neogov.com)** | **[Urban Scholar Internship - Law](https://jobright.ai/jobs/info/67b2f92421885d30792564cf?utm_campaign=1055&utm_source=git)** | Various locations within the Twin Cities Metro Area, MN | On Site | Feb 17 |
-| **[Vistra Corp.](https://www.vistracorp.com/)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/67b2e3cabe47e85e0162c0d8?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Feb 16 |
+| **[Vistra Corp.](https://www.vistracorp.com/)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/67b2e3cabe47e85e0162c0d7?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Feb 16 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2025-2026 Yearlong EEO and Compliance Programs Intern](https://jobright.ai/jobs/info/67b2f302fb7e59e518038840?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 16 |
 | ↳ | **[2025-2026 Yearlong Legal Torts Intern](https://jobright.ai/jobs/info/67b2f302fb7e59e518038888?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 16 |
 | ↳ | **[2025-2026 Yearlong ADA Compliance Intern](https://jobright.ai/jobs/info/67b2f302fb7e59e518038805?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 16 |
 | ↳ | **[2025-2026 Yearlong Legal Intern](https://jobright.ai/jobs/info/67b2f302fb7e59e518038879?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 16 |
-| **[Vistra Corp.](https://www.vistracorp.com/)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/67b2daf5a7afb94053b15b92?utm_campaign=1055&utm_source=git)** | Irving, Texas | On Site | Feb 16 |
+| **[Vistra Corp.](https://www.vistracorp.com/)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/67b2daf5a7afb94053b15b8f?utm_campaign=1055&utm_source=git)** | Irving, Texas | On Site | Feb 16 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[IT Legal Analyst Co-op](https://jobright.ai/jobs/info/67b2d5884b961b4a9ff21fca?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 16 |
 | ↳ | **[Compliance Co-op](https://jobright.ai/jobs/info/67b2d5884b961b4a9ff22042?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 16 |
 | ↳ | **[Risk Management - Enterprise Risk Co-op](https://jobright.ai/jobs/info/67b2fbe6a79af412b43e0daf?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 16 |
@@ -138,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - 2024-25](https://jobright.ai/jobs/info/6780bb3bf096473538fb2b79?utm_campaign=1055&utm_source=git)** | Lake Oswego, OR | On Site | Feb 15 |
 | **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Document Processer Intern - Summer 2025](https://jobright.ai/jobs/info/67858b2ee8ad8a6ebde1aafc?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Feb 15 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[US Transaction Advisory Services Intern Summer 2026](https://jobright.ai/jobs/info/67938060be40905d41029323?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 15 |
+| **[Fluor Corporation](http://www.fluor.com)** | **[CO-OP - Contracts Management - Greenville](https://jobright.ai/jobs/info/67abbdf10d96d579317a9d6b?utm_campaign=1055&utm_source=git)** | Greenville, SC | On Site | Feb 15 |
 | **[Uber](http://www.uber.com)** | **[2025 Risk Operations MBA Intern, US](https://jobright.ai/jobs/info/67b0569235a024b2ca5ea290?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 14 |
 | **[Keches Law Group](https://kecheslaw.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/67b05d4caa1cc6fe657bf6c9?utm_campaign=1055&utm_source=git)** | Bridgewater, MA | On Site | Feb 14 |
 | **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern - Commercial Title](https://jobright.ai/jobs/info/67a2fbb7f6affc84ac5ec886?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Feb 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2025 - Legal Intern, Talent](https://jobright.ai/jobs/info/67aff82e58d417f68624551c?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Feb 14 |
 | **[Taiho Oncology, Inc.](https://www.taihooncology.com)** | **[Legal Summer Associate](https://jobright.ai/jobs/info/67aff82e58d417f68624555a?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Feb 14 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/676d97327443e5ad7c38ac43?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Feb 14 |
-| **[LabConnect](https://www.labconnect.com/)** | **[Intern, Legal - Legal](https://jobright.ai/jobs/info/67af90668fcd035c45cc66ef?utm_campaign=1055&utm_source=git)** | Raleigh, NC, USA | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
