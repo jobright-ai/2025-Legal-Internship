@@ -64,6 +64,8 @@ For a complete list, click the following sortable link below:
 | **[AMETEK](http://www.ametek.com)** | **[U.S. Trade Compliance Intern - Summer 2025](https://jobright.ai/jobs/info/67a25009276b7d1513cba5b3?utm_campaign=1055&utm_source=git)** | Middlefield, CT | On Site | Feb 16 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67b1c778c6e20b667f7b0d0f?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 16 |
 | **[City of Denton](https://www.cityofdenton.com)** | **[Legal Intern II](https://jobright.ai/jobs/info/67b1b81f841896319b1e8752?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Feb 16 |
+| **[Protiviti](http://www.protiviti.com)** | **[Philadelphia Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/670dbab9d337f7192aa4ac39?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 15 |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2025](https://jobright.ai/jobs/info/679419f0da5db0d864eab9fb?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Feb 15 |
 | **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/67b13d26faf7151e546355dc?utm_campaign=1055&utm_source=git)** | Fort Collins, CO | On Site | Feb 15 |
 | **[Astria Therapeutics, Inc.](https://www.astriatx.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/67b0ea91acd4adf29e23aa69?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Feb 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/67b0ea91acd4adf29e23aa63?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Regulatory Affairs](https://jobright.ai/jobs/info/67aec88ba87663c36c4bdc05?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Feb 13 |
 | **[Gallagher](http://www.ajg.com)** | **[Risk Control Intern GSIP](https://jobright.ai/jobs/info/67aebf1f246ca05dc1d63f81?utm_campaign=1055&utm_source=git)** | Englewood, CO | Hybrid | Feb 13 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Environmental Compliance Internship Fall 2025](https://jobright.ai/jobs/info/67aec22474a2d021f4e0c07e?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 13 |
-| **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Inventory Management and Compliance Internship](https://jobright.ai/jobs/info/67aeb40199c9a2a17d090de1?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Feb 13 |
-| **[Maxim Crane Works, LP](http://www.maximcrane.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67aff82e58d417f686245317?utm_campaign=1055&utm_source=git)** | Canonsburg, PA | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
