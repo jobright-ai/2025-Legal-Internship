@@ -70,8 +70,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Practical Law Intern – Intellectual Property & Technology](https://jobright.ai/jobs/info/67b939bd53e36e95d3a4c129?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
 | ↳ | **[Commercial Transactions](https://jobright.ai/jobs/info/67b9435d8f70c73ca83ce692?utm_campaign=1055&utm_source=git)** | Eagan, MN | Hybrid | Feb 21 |
 | ↳ | **[Practical Law Real Estate Intern](https://jobright.ai/jobs/info/67b9435d8f70c73ca83ce691?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
-| ↳ | **[Practical Law Bankruptcy Summer Intern](https://jobright.ai/jobs/info/67b9435d8f70c73ca83ce69f?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
 | ↳ | **[Practical Law Antitrust Internship Summer Intern - Summer 2025](https://jobright.ai/jobs/info/67b9435d8f70c73ca83ce6ac?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
+| ↳ | **[Practical Law Bankruptcy Summer Intern](https://jobright.ai/jobs/info/67b9435d8f70c73ca83ce69f?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Regulatory & Legal Compliance Intern](https://jobright.ai/jobs/info/67b925bec700a597fb20d106?utm_campaign=1055&utm_source=git)** | Work From Home - California | On Site | Feb 21 |
 | **[American Bar Association](http://www.americanbar.org/aba.html)** | **[Pro Bono - ABA UNPAID Intern](https://jobright.ai/jobs/info/67b921f33b2328fdd919fa2e?utm_campaign=1055&utm_source=git)** | ABA Chicago, Chicago, Illinois, United States of America | Hybrid | Feb 21 |
 | ↳ | **[Pro Bono - ABA UNPAID Intern](https://jobright.ai/jobs/info/67b921f33b2328fdd919fa30?utm_campaign=1055&utm_source=git)** | Chicago, IL, USA | Hybrid | Feb 21 |
@@ -90,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Weaver](http://www.weaver.com)** | **[Forensic Litigation and Valuation Services Intern - Summer 2025](https://jobright.ai/jobs/info/67b905179ee9a508ac2c342f?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 21 |
 | **[New Jersey Economic Development Authority (NJEDA)](https://www.njeda.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67a858d92383b9299fcc0e27?utm_campaign=1055&utm_source=git)** | Middlesex County, NJ | On Site | Feb 21 |
 | **[Weaver](http://www.weaver.com)** | **[Forensic Litigation and Valuation Services Intern - Summer 2025](https://jobright.ai/jobs/info/67b8f20790567a1457f658da?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Feb 21 |
-| ↳ | **[Forensic Litigation and Valuation Services Intern - Summer 2025](https://jobright.ai/jobs/info/67b8fda8458f231b3fb57bce?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Feb 21 |
 | ↳ | **[Forensic Litigation and Valuation Services Intern - Summer 2025](https://jobright.ai/jobs/info/67b8fda8458f231b3fb57bcc?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 21 |
+| ↳ | **[Forensic Litigation and Valuation Services Intern - Summer 2025](https://jobright.ai/jobs/info/67b8fda8458f231b3fb57bce?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Feb 21 |
 | ↳ | **[Forensic Litigation and Valuation Services Intern - Summer 2025](https://jobright.ai/jobs/info/67b8fda8458f231b3fb57bcf?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Feb 21 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk and Broking Internship- Client Advocacy, Commercial Lines- Summer 2025 - Chicago](https://jobright.ai/jobs/info/67b8e626b4dbcc7954dbd906?utm_campaign=1055&utm_source=git)** | 150 JFK Parkway, Short Hills, NJ, 07078, US | On Site | Feb 21 |
 | **[Convergint](http://www.convergint.com)** | **[Legal Department Summer Associate (Compliance and Litigation) (1L) (Schaumburg-IL)](https://jobright.ai/jobs/info/67b8efac1d424dafc5c99e77?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 21 |
@@ -107,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Legal Corporate Intern- Summer 2025](https://jobright.ai/jobs/info/67b8deb5e05dcb22beed44bd?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Feb 21 |
 | **[Zeno Power](https://zenopower.com/)** | **[Nuclear Regulatory Compliance Internship](https://jobright.ai/jobs/info/67b8e00c5d3321910ebeab80?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 21 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Practical Law Real Estate Intern](https://jobright.ai/jobs/info/67b8ca9560bbe30d2be18607?utm_campaign=1055&utm_source=git)** | USA-New York-3 Times Square | Hybrid | Feb 21 |
-| ↳ | **[Practical Law Litigation Internship](https://jobright.ai/jobs/info/67b8ca9560bbe30d2be186b9?utm_campaign=1055&utm_source=git)** | USA-New York-3 Times Square | Hybrid | Feb 21 |
 | ↳ | **[Practical Law Antitrust Internship Summer Intern - Summer 2025](https://jobright.ai/jobs/info/67b8ca9560bbe30d2be18609?utm_campaign=1055&utm_source=git)** | USA-New York-3 Times Square | Hybrid | Feb 21 |
+| ↳ | **[Practical Law Litigation Internship](https://jobright.ai/jobs/info/67b8ca9560bbe30d2be186b9?utm_campaign=1055&utm_source=git)** | USA-New York-3 Times Square | Hybrid | Feb 21 |
 | **[Construction Specialties](https://www.c-sgroup.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/67b8e890894454ce6065b9da?utm_campaign=1055&utm_source=git)** | Lebanon, NJ | Hybrid | Feb 21 |
 | **[Qlik](https://www.qlik.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67a61b0a58058319a53887b5?utm_campaign=1055&utm_source=git)** | King of Prussia, PA | On Site | Feb 21 |
 | **[NEOGOV](http://www.neogov.com)** | **[Intern - County Attorney’s Office – Human Services Division](https://jobright.ai/jobs/info/67b8b2a55aa6b4625a7b3499?utm_campaign=1055&utm_source=git)** | Colorado Springs, CO | On Site | Feb 21 |
@@ -125,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Bergen New Bridge Medical Center](http://www.newbridgehealth.org/)** | **[2025 SUMMER STUDENT INTERN/INTERNSHIP - COMPLIANCE (23757)](https://jobright.ai/jobs/info/67bad8ce4c7ef231fcac869d?utm_campaign=1055&utm_source=git)** | Paramus, NJ | On Site | Feb 20 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/679a9ef382a7619ae45674e7?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 20 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Regulatory Affairs - Surgical](https://jobright.ai/jobs/info/67b805a2e8a39ba63d821ae0?utm_campaign=1055&utm_source=git)** | Marlborough, MA | On Site | Feb 20 |
-| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Real Estate Trust](https://jobright.ai/jobs/info/67baaec44a52af9f614902da?utm_campaign=1055&utm_source=git)** | Memphis, TN | On Site | Feb 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Intern](https://jobright.ai/jobs/info/67baa20f6f47689ea8a1308a?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | On Site | Feb 20 |
 | ↳ | **[Children's Legal Intern](https://jobright.ai/jobs/info/67ba9c666f5f139a1d193c83?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | On Site | Feb 20 |
 | **[MBTA](http://mbta.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67b7dfd68ca6ba083dd2ce77?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 20 |
@@ -134,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Mid-Minnesota Legal Aid](https://mylegalaid.org/)** | **[Paid Consumer/Homeownership Law Clerk](https://jobright.ai/jobs/info/67b93047523312ea7214d81c?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 20 |
 | **[Greater Portland Health](https://www.greaterportlandhealth.org)** | **[Intern - Compliance and Risk](https://jobright.ai/jobs/info/67b93047523312ea7214d864?utm_campaign=1055&utm_source=git)** | South Portland, ME | On Site | Feb 20 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Regulatory Affairs - Surgical](https://jobright.ai/jobs/info/67b7d584f3f8ee2a65e20492?utm_campaign=1055&utm_source=git)** | Marlborough, MA, United States | On Site | Feb 20 |
+| **[OrthoPediatrics](http://www.orthopediatrics.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67b7d1cb8bf441be158c854d?utm_campaign=1055&utm_source=git)** | Warsaw, IN | On Site | Feb 20 |
 | **[ScentAir](http://scentair.com)** | **[Administrative Risk & Compliance Intern](https://jobright.ai/jobs/info/67b7d4cad98ab6ae5ff191d9?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Feb 20 |
 | **[OrthoPediatrics](http://www.orthopediatrics.com)** | **[Regulatory Inern](https://jobright.ai/jobs/info/67b7cb56d71cd96fe1b998f6?utm_campaign=1055&utm_source=git)** | Warsaw, IN | On Site | Feb 20 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67b7b82aa38bddc108ab2067?utm_campaign=1055&utm_source=git)** | New York City, New York, United States of America | On Site | Feb 20 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Title Assistant Intern](https://jobright.ai/jobs/info/67b7642180150810b601f6af?utm_campaign=1055&utm_source=git)** | USA, California, Santa Ana | On Site | Feb 20 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Legal Intern](https://jobright.ai/jobs/info/67b75e9f7692d3dbbbbfecdb?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Feb 20 |
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/67b7597366df5cac553e3509?utm_campaign=1055&utm_source=git)** | Remote - Minnesota | Remote | Feb 20 |
-| **[OrthoPediatrics](http://www.orthopediatrics.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67b7597366df5cac553e356f?utm_campaign=1055&utm_source=git)** | Warsaw, IN | On Site | Feb 20 |
-| ↳ | **[Regulatory Inern ](https://jobright.ai/jobs/info/67b87628a157ec6ff0cf9073?utm_campaign=1055&utm_source=git)** | Warsaw, IN | On Site | Feb 20 |
+| **[OrthoPediatrics](http://www.orthopediatrics.com)** | **[Regulatory Inern ](https://jobright.ai/jobs/info/67b87628a157ec6ff0cf9073?utm_campaign=1055&utm_source=git)** | Warsaw, IN | On Site | Feb 20 |
+| **[AllianceBernstein](http://www.alliancebernstein.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/67b754ea06fc858764a70bab?utm_campaign=1055&utm_source=git)** | Nashville, Tennessee | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
