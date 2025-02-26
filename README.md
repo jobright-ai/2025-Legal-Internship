@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vistra Corp.](https://www.vistracorp.com/)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/67be7e7487762ed3304fb9ae?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Feb 25 |
+| **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Legal Intern- Onsite Chippewa Falls, Wisconsin](https://jobright.ai/jobs/info/67be8b596c1075eb36db2fc3?utm_campaign=1055&utm_source=git)** | Chippewa Falls, WI | On Site | Feb 25 |
+| **[Canon USA](https://www.usa.canon.com)** | **[2025 Canon Insights Summer Internship - Legal Intern](https://jobright.ai/jobs/info/67be757a925bf8faa81133e5?utm_campaign=1055&utm_source=git)** | Melville, NY | Hybrid | Feb 25 |
+| **[Crown Castle](https://www.crowncastle.com/)** | **[Supply Chain Contracts Intern](https://jobright.ai/jobs/info/67be7229f1c3178fdacae8a9?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Feb 25 |
+| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[In House Legal Intern](https://jobright.ai/jobs/info/67be6f66a26f73013ec7afb1?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 25 |
+| **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Legal Intern- Onsite Chippewa Falls, Wisconsin](https://jobright.ai/jobs/info/67be62f5fceebcd586098040?utm_campaign=1055&utm_source=git)** | Corporate Office, Chippewa Falls, Wisconsin, United States of America | On Site | Feb 25 |
+| **[CME Group](http://www.cmegroup.com)** | **[Risk Management Policy Internship - Summer 2025](https://jobright.ai/jobs/info/67be6a9dccf9e7019d63c09a?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
+| **[United Supermarkets, LLC](http://www.unitedtexas.com/)** | **[Compliance/Nutrition Intern](https://jobright.ai/jobs/info/67be7adaac04acdcaae0ad16?utm_campaign=1055&utm_source=git)** | Lubbock, TX | On Site | Feb 25 |
 | **[Center for Internet Security](http://cisecurity.org/)** | **[Legal Intern - Remote](https://jobright.ai/jobs/info/67be28ea008b92e32127552d?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 25 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Associate Degree Apprenticeship Program - Paralegal - Overland Park, KS (Summer 2025)](https://jobright.ai/jobs/info/67be30fca3b8c007dfd0a86d?utm_campaign=1055&utm_source=git)** | Overland Park, KS | Hybrid | Feb 25 |
 | **[CBIZ](http://www.cbiz.com)** | **[Risk Advisory Intern / Summer 2025 / International Trade Remedies](https://jobright.ai/jobs/info/67be20bcf842c4911604f417?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 25 |
@@ -80,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Oceaneering](http://www.oceaneering.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67bd5cc4fc012b74cadd6004?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 24 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Compliance Specialist - Intern](https://jobright.ai/jobs/info/67bd44459936a681f6924452?utm_campaign=1055&utm_source=git)** | Deer Park, TX | On Site | Feb 24 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Summer Intern - Compliance Department](https://jobright.ai/jobs/info/67bd485a97c45d2acaa419f4?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 24 |
-| **[Pratt & Whitney](https://prattwhitney.com)** | **[Intern: Summer 2025 - Legal Operations (Remote)](https://jobright.ai/jobs/info/67bd2ec7ddaa3aab85b1d818?utm_campaign=1055&utm_source=git)** | East Hartford, CT | Hybrid | Feb 24 |
 | **[Brown & Brown Insurance](http://www.bbinsurance.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67bd294c9388209b9876a442?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Feb 24 |
 | **[Nexteer Automotive](http://www.nexteer.com/)** | **[2025 IT Internal Controls Summer Internship](https://jobright.ai/jobs/info/6785db91a2f2d8d6268fe811?utm_campaign=1055&utm_source=git)** | Saginaw, MI | Hybrid | Feb 24 |
 | **[MBTA](http://mbta.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67b7dfd68ca6ba083dd2ce77?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 24 |
@@ -141,20 +148,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Practical Law Intern – Intellectual Property & Technology](https://jobright.ai/jobs/info/67b939bd53e36e95d3a4c129?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
 | ↳ | **[Commercial Transactions](https://jobright.ai/jobs/info/67b9435d8f70c73ca83ce692?utm_campaign=1055&utm_source=git)** | Eagan, MN | Hybrid | Feb 21 |
 | ↳ | **[Practical Law Real Estate Intern](https://jobright.ai/jobs/info/67b9435d8f70c73ca83ce691?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
-| ↳ | **[Practical Law Bankruptcy Summer Intern](https://jobright.ai/jobs/info/67b9435d8f70c73ca83ce69f?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
 | ↳ | **[Practical Law Antitrust Internship Summer Intern - Summer 2025](https://jobright.ai/jobs/info/67b9435d8f70c73ca83ce6ac?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
+| ↳ | **[Practical Law Bankruptcy Summer Intern](https://jobright.ai/jobs/info/67b9435d8f70c73ca83ce69f?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Regulatory & Legal Compliance Intern](https://jobright.ai/jobs/info/67b925bec700a597fb20d106?utm_campaign=1055&utm_source=git)** | Work From Home - California | On Site | Feb 21 |
-| **[American Bar Association](http://www.americanbar.org/aba.html)** | **[Pro Bono - ABA UNPAID Intern](https://jobright.ai/jobs/info/67b921f33b2328fdd919f883?utm_campaign=1055&utm_source=git)** | ABA Chicago, Chicago, Illinois, United States of America | Hybrid | Feb 21 |
-| ↳ | **[Pro Bono - ABA UNPAID Intern](https://jobright.ai/jobs/info/67b921f33b2328fdd919fa2f?utm_campaign=1055&utm_source=git)** | Chicago, IL, USA | Hybrid | Feb 21 |
-| **[City and County of Denver](https://www.denvergov.org)** | **[Labor Compliance Intern](https://jobright.ai/jobs/info/67b91c3e3140ee960eb48499?utm_campaign=1055&utm_source=git)** | Downtown Denver | Hybrid | Feb 21 |
-| ↳ | **[Labor Compliance Intern](https://jobright.ai/jobs/info/67b91c3e3140ee960eb48a18?utm_campaign=1055&utm_source=git)** | Denver International Airport | Hybrid | Feb 21 |
+| **[Astria Therapeutics, Inc.](https://www.astriatx.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67b0ea91acd4adf29e23aa63?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 21 |
+| **[American Bar Association](http://www.americanbar.org/aba.html)** | **[Pro Bono - ABA UNPAID Intern](https://jobright.ai/jobs/info/67b921f33b2328fdd919fa2f?utm_campaign=1055&utm_source=git)** | Chicago, IL, USA | Hybrid | Feb 21 |
+| ↳ | **[Pro Bono - ABA UNPAID Intern](https://jobright.ai/jobs/info/67b921f33b2328fdd919f883?utm_campaign=1055&utm_source=git)** | ABA Chicago, Chicago, Illinois, United States of America | Hybrid | Feb 21 |
+| **[City and County of Denver](https://www.denvergov.org)** | **[Labor Compliance Intern](https://jobright.ai/jobs/info/67b91c3e3140ee960eb48a18?utm_campaign=1055&utm_source=git)** | Denver International Airport | Hybrid | Feb 21 |
+| ↳ | **[Labor Compliance Intern](https://jobright.ai/jobs/info/67b91c3e3140ee960eb48499?utm_campaign=1055&utm_source=git)** | Downtown Denver | Hybrid | Feb 21 |
 | **[CONMED Corporation](http://www.conmed.com/)** | **[Regulatory Affairs Co-Op (July 2025-December 2025)](https://jobright.ai/jobs/info/67b9242192347ce018ce91c2?utm_campaign=1055&utm_source=git)** | Westborough, MA | On Site | Feb 21 |
-| **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Legal Intern](https://jobright.ai/jobs/info/679c731deb9b35466f2c1056?utm_campaign=1055&utm_source=git)** | Kirkland, WA | On Site | Feb 21 |
-| **[City and County of Denver](https://www.denvergov.org)** | **[Labor Compliance Intern](https://jobright.ai/jobs/info/67b93047523312ea7214d746?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Feb 21 |
-| **[NEOGOV](http://www.neogov.com)** | **[Growing Grads - Procurement & Contracts Intern](https://jobright.ai/jobs/info/67b90f76de8983bc4246b279?utm_campaign=1055&utm_source=git)** | 80601, CO | On Site | Feb 21 |
-| ↳ | **[Growing Grads - Investigations Intern](https://jobright.ai/jobs/info/67b90f76de8983bc4246b277?utm_campaign=1055&utm_source=git)** | 80601, CO | On Site | Feb 21 |
-| **[Savvas Learning Company](https://www.savvas.com)** | **[Intern (Legal)](https://jobright.ai/jobs/info/67b91483157223c924a841a8?utm_campaign=1055&utm_source=git)** | Chandler, AZ | Hybrid | Feb 21 |
-| **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Records Retention Intern](https://jobright.ai/jobs/info/67b8f9aaf56b58320a2b5233?utm_campaign=1055&utm_source=git)** | Greenville, NC | On Site | Feb 21 |
-| **[Weaver](http://www.weaver.com)** | **[Forensic Litigation and Valuation Services Intern - Summer 2025](https://jobright.ai/jobs/info/67b905179ee9a508ac2c342f?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 21 |
-| **[New Jersey Economic Development Authority (NJEDA)](https://www.njeda.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67a858d92383b9299fcc0e27?utm_campaign=1055&utm_source=git)** | Middlesex County, NJ | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
