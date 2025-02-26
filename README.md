@@ -66,7 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Crown Castle](https://www.crowncastle.com/)** | **[Supply Chain Contracts Intern](https://jobright.ai/jobs/info/67be7229f1c3178fdacae8a9?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Feb 25 |
 | **[Healthfirst](https://healthfirst.org)** | **[Legal Intern](https://jobright.ai/jobs/info/67be948b7b01018200097c0a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 25 |
 | **[Electric Power Engineers](https://www.epeconsulting.com)** | **[In House Legal Intern](https://jobright.ai/jobs/info/67be6f66a26f73013ec7afb1?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 25 |
-| **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Legal Intern- Onsite Chippewa Falls, Wisconsin](https://jobright.ai/jobs/info/67be62f5fceebcd586097da7?utm_campaign=1055&utm_source=git)** | Corporate Office, Chippewa Falls, Wisconsin, United States of America | On Site | Feb 25 |
+| **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Legal Intern- Onsite Chippewa Falls, Wisconsin](https://jobright.ai/jobs/info/67be62f5fceebcd586098040?utm_campaign=1055&utm_source=git)** | Corporate Office, Chippewa Falls, Wisconsin, United States of America | On Site | Feb 25 |
 | **[CME Group](http://www.cmegroup.com)** | **[Risk Management Policy Internship - Summer 2025](https://jobright.ai/jobs/info/67be6a9dccf9e7019d63c09a?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
 | **[United Supermarkets, LLC](http://www.unitedtexas.com/)** | **[Compliance/Nutrition Intern](https://jobright.ai/jobs/info/67be7adaac04acdcaae0ad16?utm_campaign=1055&utm_source=git)** | Lubbock, TX | On Site | Feb 25 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Legal & Corporate Affairs Summer Internship](https://jobright.ai/jobs/info/67be9d80933a00b7d4bca733?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 25 |
@@ -86,13 +86,13 @@ For a complete list, click the following sortable link below:
 | **[Aspida](http://globalbankers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67be39939a4703b92b37d420?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Feb 25 |
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Corporate Responsibility & Sustainability Intern](https://jobright.ai/jobs/info/67a0ec4df9f7b2742ac8ffd4?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Feb 25 |
 | **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Commercial Property and Casualty Intern](https://jobright.ai/jobs/info/6781e21535b4cc2e9f542a46?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Feb 25 |
+| **[Safran](http://www.safran-group.com)** | **[Intern - Legal (Data Management)](https://jobright.ai/jobs/info/67bcc662a8f56e3475530dd5?utm_campaign=1055&utm_source=git)** | Brea, CA | On Site | Feb 25 |
 | **[Intuit](https://www.intuit.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67a123b6bfa397fc6dfc63c2?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Feb 25 |
 | **[Intuitive](https://intusurg.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/67622e0ea1ce95f57c08ba2e?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | On Site | Feb 25 |
 | **[Tencent](https://www.tencent.com/en-us)** | **[Legal Intern](https://jobright.ai/jobs/info/67bda5277d0d84b425fdafc9?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | On Site | Feb 25 |
+| **[HealthEquity](http://www.healthequity.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/67bca61b008f23933c2391b1?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 25 |
 | **[Jabil](https://www.jabil.com)** | **[APAC Commercial Legal Intern](https://jobright.ai/jobs/info/67bd7fae10ce793cc56381ff?utm_campaign=1055&utm_source=git)** | USA - St. Petersburg - 16th Street | On Site | Feb 25 |
-| **[California Water Service](https://www.calwater.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67bd8db0af42b33c8e3b84a5?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Feb 24 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Legal Corporate Intern- Summer 2025](https://jobright.ai/jobs/info/67bd7f35c1fa2154055975a5?utm_campaign=1055&utm_source=git)** | Woonsocket, RI | Hybrid | Feb 24 |
-| **[GE Aerospace](https://www.geaerospace.com)** | **[GE Aerospace US Law Clerk – Summer 2025](https://jobright.ai/jobs/info/67bd57da4547d2ea4da7f72e?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Feb 24 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67bd5cc4fc012b74cadd6004?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 24 |
 | **[Thompson Coburn LLP](http://www.thompsoncoburn.com)** | **[Law Clerk - Birmingham](https://jobright.ai/jobs/info/67beb9d28368d0b3af78a83e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Feb 24 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Compliance Specialist - Intern](https://jobright.ai/jobs/info/67bd44459936a681f6924452?utm_campaign=1055&utm_source=git)** | Deer Park, TX | On Site | Feb 24 |
@@ -125,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Kemper](http://kemper.com)** | **[Law Extern - Summer 2025](https://jobright.ai/jobs/info/67bccc39118ac42afacf57c1?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Feb 24 |
 | **[AECOM](http://www.aecom.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/67bcc0fac440d06e23a052fd?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 24 |
 | **[Arbonne](http://www.arbonne.com/)** | **[Corporate Responsibility Intern](https://jobright.ai/jobs/info/67bcbf5773ae9880b9877f8f?utm_campaign=1055&utm_source=git)** | Irvine, CA | Hybrid | Feb 24 |
-| **[Safran](http://www.safran-group.com)** | **[Intern - Data Classification Management (International Trade Compliance)](https://jobright.ai/jobs/info/67bcc662a8f56e3475530dd5?utm_campaign=1055&utm_source=git)** | Brea, CA | On Site | Feb 24 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Intern, Business Controls ](https://jobright.ai/jobs/info/67bca132dad6f293684fb54a?utm_campaign=1055&utm_source=git)** | New York, New York | On Site | Feb 24 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - Vendor Risk Assessment Coordinator (Summer)](https://jobright.ai/jobs/info/67bc90bdbf660e3fed4d5bb2?utm_campaign=1055&utm_source=git)** | Portland, ME | Hybrid | Feb 24 |
 | **[Kemper](http://kemper.com)** | **[Law Extern - Summer 2025](https://jobright.ai/jobs/info/67bc90bdbf660e3fed4d5cf0?utm_campaign=1055&utm_source=git)** | San Jose, California | Hybrid | Feb 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Practical Law Litigation Internship](https://jobright.ai/jobs/info/67b939bd53e36e95d3a4c146?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
 | ↳ | **[Practical Law Intern – Intellectual Property & Technology](https://jobright.ai/jobs/info/67b939bd53e36e95d3a4c129?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
 | ↳ | **[Commercial Transactions](https://jobright.ai/jobs/info/67b9435d8f70c73ca83ce692?utm_campaign=1055&utm_source=git)** | Eagan, MN | Hybrid | Feb 21 |
+| ↳ | **[Practical Law Real Estate Intern](https://jobright.ai/jobs/info/67b9435d8f70c73ca83ce691?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
