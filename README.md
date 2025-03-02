@@ -57,17 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kightlinger & Gray, LLP](http://k-glaw.com)** | **[Summer Law Clerk (New Albany)](https://jobright.ai/jobs/info/67c438c76a4a90abe72357a4?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Mar 02 |
+| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/67c430872aaff622093fa383?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Mar 02 |
 | **[Syncfusion](https://www.syncfusion.com/)** | **[Law Student Extern- 30-hours/Week, Flexible Hybrid Schedule](https://jobright.ai/jobs/info/67c40d7fbbff6944e30fadcd?utm_campaign=1055&utm_source=git)** | Morrisville, NC | Hybrid | Mar 01 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c3f636c80805021f5431f4?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Mar 01 |
 | ↳ | **[2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/67c3f256ff11c215dbdc56f6?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Mar 01 |
 | ↳ | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c3f256ff11c215dbdc5705?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Mar 01 |
-| **[US Lighting Group (OTC:USLG)](https://uslightinggroup.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67c3905c199e8f1be8c3b9f2?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Legal Intern - 1L LCLD Scholar](https://jobright.ai/jobs/info/67c3634cbc138ac40e3d08f4?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Mar 01 |
+| **[First Student](http://www.firststudentinc.com)** | **[Intern](https://jobright.ai/jobs/info/67c45638f869e14c19976497?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Mar 01 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Internship](https://jobright.ai/jobs/info/676f33638b891622f502d28d?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Mar 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Regulatory Affairs Operations Intern](https://jobright.ai/jobs/info/67c346cc05aa218dff5b5915?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Mar 01 |
 | **[ProAmpac](http://www.proampac.com/)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/67a648a25d6f942aba6e82fb?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Remote | Mar 01 |
 | **[Millennium Space Systems, A Boeing Company](http://www.millennium-space.com/)** | **[Summer 2025 Internship - Contracts](https://jobright.ai/jobs/info/67a6d41052e0fc97671c3a16?utm_campaign=1055&utm_source=git)** | El Segundo, CA | On Site | Mar 01 |
 | **[AbbVie](https://www.abbvie.com)** | **[2025 Global Regulatory Strategy Infrastructure Intern](https://jobright.ai/jobs/info/671c3a6f794d39b690d325bb?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Mar 01 |
+| **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Regulatory Summer Associate (Washington, D.C.)](https://jobright.ai/jobs/info/67c45638f869e14c19976231?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 01 |
 | **[OrthoPediatrics](http://www.orthopediatrics.com)** | **[Regulatory Inern](https://jobright.ai/jobs/info/67c3086d030bfee92304d2d8?utm_campaign=1055&utm_source=git)** | Warsaw, IN | On Site | Mar 01 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Strategic Risk - 2025 Summer Intern](https://jobright.ai/jobs/info/675001eeb7af22fec2d0f4be?utm_campaign=1055&utm_source=git)** | Southlake, TX | On Site | Mar 01 |
 | **[Florida Crystals](https://www.floridacrystals.com/)** | **[Legal - Intern](https://jobright.ai/jobs/info/67a528b82faa6b3aa986d6f1?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL | On Site | Feb 28 |
@@ -89,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Midrex Technologies, Inc.](https://www.midrex.com/)** | **[Intern - Legal (Summer 2025)](https://jobright.ai/jobs/info/67b6ece7b1bfa04f77271fb8?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Feb 28 |
 | **[Yahoo](http://www.yahoo.com)** | **[Legal Intern - Ad Law, IP, Trust & Safety](https://jobright.ai/jobs/info/67c23671695f970b79747854?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 28 |
 | **[Precisely](https://www.precisely.com)** | **[Product and IP Legal Intern](https://jobright.ai/jobs/info/67c22dc0661cd145a377147e?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 28 |
-| **[Ansell](https://www.ansell.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67c220d3106e9c0aabe28beb?utm_campaign=1055&utm_source=git)** | US NJ Iselin 111 Wood Avenue South111 Wood Avenue South | Hybrid | Feb 28 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/67c220d3106e9c0aabe28bf1?utm_campaign=1055&utm_source=git)** | United States-New Jersey-Iselin | Hybrid | Feb 28 |
+| **[Ansell](https://www.ansell.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67c220d3106e9c0aabe28bf1?utm_campaign=1055&utm_source=git)** | United States-New Jersey-Iselin | Hybrid | Feb 28 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/67c220d3106e9c0aabe28beb?utm_campaign=1055&utm_source=git)** | US NJ Iselin 111 Wood Avenue South111 Wood Avenue South | Hybrid | Feb 28 |
 | **[Suncoast Credit Union](http://suncoastcreditunion.com/)** | **[Collegiate Internship - Compliance](https://jobright.ai/jobs/info/67c23671695f970b79747939?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Feb 28 |
 | **[Vibe Credit Union](http://vibecreditunion.com)** | **[Risk Specialist Internship](https://jobright.ai/jobs/info/67c23671695f970b7974793a?utm_campaign=1055&utm_source=git)** | Waterford, MI | On Site | Feb 28 |
 | **[ABF Freight](https://arcb.com/abf-freight)** | **[Intern, Legal](https://jobright.ai/jobs/info/67c25a5ad2661494a617d1bf?utm_campaign=1055&utm_source=git)** | Fort Smith, AR | On Site | Feb 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Family Insurance](http://amfamventures.com/)** | **[Summer 2025 Intern – LITIGATION DIVISION/FLORIDA STAFF COUNSEL](https://jobright.ai/jobs/info/67c092f6cf087970fa935b5d?utm_campaign=1055&utm_source=git)** | AF-FL Offsite Florida | On Site | Feb 27 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Intern, Legal, Compliance, and Privacy 1](https://jobright.ai/jobs/info/67c08e9b820d46f81d1495ea?utm_campaign=1055&utm_source=git)** | Michigan, United States | Hybrid | Feb 27 |
 | **[Tech Electronics](http://www.techelectronics.com/)** | **[Legal Intern- Immediate Availability](https://jobright.ai/jobs/info/67b600a2491738b5c98297e1?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Feb 27 |
-| **[RWE](https://www.group.rwe/)** | **[Legal Intern](https://jobright.ai/jobs/info/67c08e9b820d46f81d14961a?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/67c07de2bca32e1cc35567d6?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 27 |
-| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Compliance](https://jobright.ai/jobs/info/67c08083a8d2544a972b7bf7?utm_campaign=1055&utm_source=git)** | Okemos, MI | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
