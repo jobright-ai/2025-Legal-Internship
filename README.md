@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[US Lighting Group (OTC:USLG)](https://uslightinggroup.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67c3905c199e8f1be8c3b9f2?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Legal Intern - 1L LCLD Scholar](https://jobright.ai/jobs/info/67c3634cbc138ac40e3d08f4?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Mar 01 |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Internship](https://jobright.ai/jobs/info/676f33638b891622f502d28d?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Mar 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Regulatory Affairs Operations Intern](https://jobright.ai/jobs/info/67c346cc05aa218dff5b5915?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Mar 01 |
 | **[ProAmpac](http://www.proampac.com/)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/67a648a25d6f942aba6e82fb?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Remote | Mar 01 |
 | **[Millennium Space Systems, A Boeing Company](http://www.millennium-space.com/)** | **[Summer 2025 Internship - Contracts](https://jobright.ai/jobs/info/67a6d41052e0fc97671c3a16?utm_campaign=1055&utm_source=git)** | El Segundo, CA | On Site | Mar 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2025 Summer Internship - IT Security Compliance](https://jobright.ai/jobs/info/67c08083a8d2544a972b7f46?utm_campaign=1055&utm_source=git)** | DFW Metroplex | On Site | Feb 27 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/67a44760df15080da834a92d?utm_campaign=1055&utm_source=git)** | Norwell, MA | On Site | Feb 27 |
 | **[FIFCO USA](https://www.fifcousa.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/67c04819d0bff131872ff0be?utm_campaign=1055&utm_source=git)** | Buffalo, NY | Remote | Feb 27 |
-| **[Agile Consulting Group, Inc.](https://www.salesandusetax.com)** | **[Tax Law Clerk](https://jobright.ai/jobs/info/67c0364ddd163a6dd792d804?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
