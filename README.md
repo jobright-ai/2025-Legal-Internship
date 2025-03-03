@@ -60,8 +60,8 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[Legal Intern - Summer 2025](https://jobright.ai/jobs/info/67c540b085b5247a746f7487?utm_campaign=1055&utm_source=git)** | Gaston County Administration Building, NC | Hybrid | Mar 02 |
 | **[Kjar, McKenna & Stockalper, LLP](https://www.kmslegal.com)** | **[Law Clerk](https://jobright.ai/jobs/info/67c4e6c55f8ee5ea473e3471?utm_campaign=1055&utm_source=git)** | Huntington Beach, CA | On Site | Mar 02 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/67c4ab04e8986607dd82f4a2?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Mar 02 |
-| ↳ | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c4ab04e8986607dd82f4a4?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Mar 02 |
 | ↳ | **[2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/67c4ab04e8986607dd82f4a3?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Mar 02 |
+| ↳ | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c4ab04e8986607dd82f4a4?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Mar 02 |
 | ↳ | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c4a0020d65632e14c0119c?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Mar 02 |
 | ↳ | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c4a3540b75ccc99fad2898?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Mar 02 |
 | ↳ | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c4a3540b75ccc99fad2899?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Mar 02 |
@@ -70,6 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f08b?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Mar 02 |
 | ↳ | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c4a9046ce16cb4c2ecbb06?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Mar 02 |
 | **[Apex Clean Energy](http://apexcleanenergy.com)** | **[Corporate Legal Summer Associate (Intern)](https://jobright.ai/jobs/info/6765ef7875b93d2604f2150b?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Mar 02 |
+| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Enterprise Risk - Business Intelligence Internship](https://jobright.ai/jobs/info/6786cfb78c9fea32f7b9c069?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Mar 02 |
 | **[Kightlinger & Gray, LLP](http://k-glaw.com)** | **[Summer Law Clerk (New Albany)](https://jobright.ai/jobs/info/67c438c76a4a90abe72357a4?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Mar 02 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/67c430872aaff622093fa383?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Mar 02 |
 | **[Syncfusion](https://www.syncfusion.com/)** | **[Law Student Extern- 30-hours/Week, Flexible Hybrid Schedule](https://jobright.ai/jobs/info/67c40d7fbbff6944e30fadcd?utm_campaign=1055&utm_source=git)** | Morrisville, NC | Hybrid | Mar 01 |
@@ -137,7 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2025 Summer Legal Internship](https://jobright.ai/jobs/info/67c1b315a5f2e350e9ef319a?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Feb 28 |
 | **[Tripadvisor](https://www.tripadvisor.com)** | **[Legal Fellow](https://jobright.ai/jobs/info/677eb5f079785611f9305f53?utm_campaign=1055&utm_source=git)** | Needham, MA | Hybrid | Feb 28 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - 2024-25](https://jobright.ai/jobs/info/67a317be7dc3e3a5e3d0f208?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Feb 28 |
-| **[HSB - Hartford Steam Boiler](http://www.hsb.com/)** | **[Loss Prevention Intern](https://jobright.ai/jobs/info/67a567fa5dd129729f621275?utm_campaign=1055&utm_source=git)** | King of Prussia, PA | Hybrid | Feb 28 |
+| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Loss Prevention Intern](https://jobright.ai/jobs/info/67a567fa5dd129729f621275?utm_campaign=1055&utm_source=git)** | King of Prussia, PA | Hybrid | Feb 28 |
 | **[General Atomics](http://www.ga.com)** | **[Intern- International Trade Compliance](https://jobright.ai/jobs/info/674f9f25513e3a210645021c?utm_campaign=1055&utm_source=git)** | Poway, CA | On Site | Feb 28 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/6785d5e398a114096f271f7d?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Feb 28 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Legal  Summer Associate](https://jobright.ai/jobs/info/67c17f5d0b82b996fb6592a7?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Feb 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern - Commercial Title](https://jobright.ai/jobs/info/67c12bdd68603da9ad89f19b?utm_campaign=1055&utm_source=git)** | Pasadena, CA | On Site | Feb 27 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Fellow (Fall 2025)](https://jobright.ai/jobs/info/67252a7a1815c32102cf9f1b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 27 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Practical Law Finance Internship](https://jobright.ai/jobs/info/67c0f3f11677c77b4959926d?utm_campaign=1055&utm_source=git)** | USA-New York-3 Times Square | Hybrid | Feb 27 |
-| **[Stride, Inc.](https://www.stridelearning.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67c10079fbbca81ed251005f?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
