@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valley Bank](https://www.valley.com/)** | **[Intern - Enterprise Compliance](https://jobright.ai/jobs/info/67ca845b19fb030270a343f1?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Mar 06 |
+| **[Peraton](https://www.peraton.com/)** | **[Summer 2025 Legal Intern- Reston, VA](https://jobright.ai/jobs/info/67ca845b19fb030270a343f6?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Mar 06 |
 | **[EquiTrust Life Insurance Company](https://www.equitrust.com)** | **[Legal, Compliance & Info Security (Compliance) Intern](https://jobright.ai/jobs/info/67ca6ae6bf3449f60e1bccc5?utm_campaign=1055&utm_source=git)** | Des Moines Metro | Hybrid | Mar 06 |
-| **[Murphy USA](http://corporate.murphyusa.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67ca621294886494c80c63bb?utm_campaign=1055&utm_source=git)** | El Dorado, AR | Hybrid | Mar 06 |
+| **[Allstate](http://www.allstate.com)** | **[Client Legal Services Paralegal Specialist](https://jobright.ai/jobs/info/67ca70c03e5d861f7a4f512d?utm_campaign=1055&utm_source=git)** | Miami-FTL Area | Hybrid | Mar 06 |
+| **[Lightpath](https://lightpathfiber.com/)** | **[Intern - Contract Data Analyst](https://jobright.ai/jobs/info/67ca845b19fb030270a348b1?utm_campaign=1055&utm_source=git)** | Bethpage, NY | On Site | Mar 06 |
+| **[Murphy USA](http://corporate.murphyusa.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67ca621294886494c80c63b1?utm_campaign=1055&utm_source=git)** | El Dorado, AR | Hybrid | Mar 06 |
 | **[Global Payments Inc.](https://www.globalpayments.com/)** | **[Legislative & Regulatory Compliance Summer Intern](https://jobright.ai/jobs/info/67ca52375dc203c4065cad07?utm_campaign=1055&utm_source=git)** | Columbus, GA | On Site | Mar 06 |
 | **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[Title Services Intern](https://jobright.ai/jobs/info/67ca5a1cd6f69d84bfa6f594?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Mar 06 |
 | ↳ | **[Indirect Lending Intern](https://jobright.ai/jobs/info/67ca5a1cd6f69d84bfa6f5c7?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Mar 06 |
@@ -86,10 +90,12 @@ For a complete list, click the following sortable link below:
 | **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[Cyber Audit and Compliance College Aide](https://jobright.ai/jobs/info/67c9fd9efaed535026ea7ffc?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Mar 06 |
 | **[VSE Corporation](http://www.vsecorp.com)** | **[Intern - Compliance](https://jobright.ai/jobs/info/67ca0fe192da3e635bd2a081?utm_campaign=1055&utm_source=git)** | Doral, FL | On Site | Mar 06 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern, Legal](https://jobright.ai/jobs/info/67c9db9e868eb27e17c8d635?utm_campaign=1055&utm_source=git)** | San Carlos, CA | On Site | Mar 06 |
+| **[Gordon Brothers](http://gordonbrothers.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/67ca739e5ddc17f5b2454e1f?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Mar 06 |
 | **[Justrite Safety Group](https://www.justrite.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67acec7eaea7bba132e5524e?utm_campaign=1055&utm_source=git)** | Deerfield, IL | On Site | Mar 06 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/67ad234184f0d80dd1a665a3?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Mar 06 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Legal Services Intern](https://jobright.ai/jobs/info/67c972f89a6bd157ee6bd403?utm_campaign=1055&utm_source=git)** | Newark, NJ | On Site | Mar 06 |
 | **[Quaker Chemical Corporation](http://www.quakerchem.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67c96f1bf969f57ee0a0171b?utm_campaign=1055&utm_source=git)** | Conshohocken, PA | On Site | Mar 06 |
+| **[Cincinnati Children's](http://cincinnatichildrens.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6787d599677c7c1efd3c1359?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Mar 05 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/67c93030208e4e86ff244b46?utm_campaign=1055&utm_source=git)** | Lynchburg, VA | On Site | Mar 05 |
 | **[City Electric Supply](https://www.cityelectricsupply.com/)** | **[In-House Legal Intern](https://jobright.ai/jobs/info/67c93ff5e5220a8c8339917f?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Mar 05 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[CMC Regulatory Affairs Co-Op](https://jobright.ai/jobs/info/67c91ed428275c956169b9bf?utm_campaign=1055&utm_source=git)** | Ridgefield, CT | On Site | Mar 05 |
@@ -112,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[MicroVention-Terumo](http://microvention.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/67c89d4cd8dfff2896184815?utm_campaign=1055&utm_source=git)** | Aliso Viejo, California, USA | On Site | Mar 05 |
 | **[BlueRock Therapeutics](http://www.bluerocktx.com)** | **[Intern, Intellectual Property (Legal)](https://jobright.ai/jobs/info/67c88e765695adadd7ac91bb?utm_campaign=1055&utm_source=git)** | Cambridge, Massachusetts | Hybrid | Mar 05 |
 | **[Celonis](https://www.celonis.com)** | **[Legal Sustainability Intern: ESG Summernaut Program](https://jobright.ai/jobs/info/67c8848641a294d310bd4bdd?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 05 |
-| **[Torch Technologies, Inc.](https://www.torchtechnologies.com)** | **[Contracts Intern - Summer 2025](https://jobright.ai/jobs/info/67b59da5d8bc3602a71da03e?utm_campaign=1055&utm_source=git)** | Huntsville, AL | On Site | Mar 05 |
 | **[PwC](http://pwc.com)** | **[Tax LLM Associate - Summer / Fall 2025](https://jobright.ai/jobs/info/678b3d9c7fbbf038e405d0cd?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 05 |
 | **[RLI Insurance Company](http://www.rlicorp.com/)** | **[IT Risk and Compliance Intern](https://jobright.ai/jobs/info/67abe8c94acdd0ef0249d340?utm_campaign=1055&utm_source=git)** | Peoria, IL | On Site | Mar 05 |
 | **[California ISO](http://www.caiso.com/)** | **[Legal Intern - Summer 2025 (Remote)](https://jobright.ai/jobs/info/67b0732bc532c371722a0856?utm_campaign=1055&utm_source=git)** | Folsom, CA | Hybrid | Mar 05 |
@@ -141,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Citizens Energy Group](https://www.citizensenergygroup.com/)** | **[Paralegal Intern](https://jobright.ai/jobs/info/67c7b297b12b25da0ac83ed4?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Mar 04 |
 | **[The Center for Health Information and Analysis](https://www.chiamass.gov/)** | **[Summer 2025 CHIA Legal Internship](https://jobright.ai/jobs/info/67c7984f0eef9c4103c77211?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Mar 04 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern – Child Support Litigation Assessment – Southern Region](https://jobright.ai/jobs/info/67c78559a742bb5026e4dfbd?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Taunton-100 Myles Standish Blv | On Site | Mar 04 |
-| ↳ | **[Summer Intern - Office of Appeals](https://jobright.ai/jobs/info/67c78559a742bb5026e4dfc2?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Mar 04 |
 | ↳ | **[Summer Intern - Child Support - Western Region](https://jobright.ai/jobs/info/67c78559a742bb5026e4dfbc?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Springfield- 1 Federal Street | On Site | Mar 04 |
+| ↳ | **[Summer Intern - Office of Appeals](https://jobright.ai/jobs/info/67c78559a742bb5026e4dfc2?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Mar 04 |
 | ↳ | **[Summer Intern - Litigation Bureau](https://jobright.ai/jobs/info/67c78559a742bb5026e4dfbf?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Mar 04 |
 | **[The Shyft Group](https://theshyftgroup.com/)** | **[Legal and Compliance Intern](https://jobright.ai/jobs/info/67c78d3d81c9ad10d378a047?utm_campaign=1055&utm_source=git)** | Novi, MI | On Site | Mar 04 |
 | **[Beam Therapeutics](https://beamtx.com)** | **[Regulatory Co-op](https://jobright.ai/jobs/info/67c77b86facb4da4b34b3bec?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Mar 04 |
@@ -151,10 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University-Contracts, Pricing, and Procurement Intern](https://jobright.ai/jobs/info/67c784f1c23dffc77827d6db?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Mar 04 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Certified Summer Legal Intern](https://jobright.ai/jobs/info/67c77d2185af1dc735375438?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Mar 04 |
 | **[Public Counsel](https://publiccounsel.org)** | **[2025 Summer Law Student Intern - Homelessness Prevention Law Project](https://jobright.ai/jobs/info/6723faabeda88fc0c0220ecb?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 04 |
-| **[Nationwide](http://nationwide.com)** | **[Summer 2025 Legal Trial Division Intern](https://jobright.ai/jobs/info/67c76314661427a2e9803969?utm_campaign=1055&utm_source=git)** | California - Newport Beach, 4685 MacArthur Court | On Site | Mar 04 |
-| ↳ | **[Summer 2025 Legal Trial Division Intern](https://jobright.ai/jobs/info/67c76314661427a2e9803732?utm_campaign=1055&utm_source=git)** | New York - Elmsford, 565 Taxter Road | On Site | Mar 04 |
-| ↳ | **[Summer 2025 Legal Trial Division Intern](https://jobright.ai/jobs/info/67c76314661427a2e980396b?utm_campaign=1055&utm_source=git)** | New York - Garden City, 990 Stewart Avenue | On Site | Mar 04 |
-| ↳ | **[Summer 2025 Legal Trial Division Intern](https://jobright.ai/jobs/info/67c76314661427a2e980396c?utm_campaign=1055&utm_source=git)** | Pennsylvania - Philadelphia, 1601 Market Street | On Site | Mar 04 |
-| ↳ | **[Summer 2025 Legal Trial Division Intern](https://jobright.ai/jobs/info/67c76314661427a2e980396a?utm_campaign=1055&utm_source=git)** | Florida - Plantation, 8151 Peters Road | On Site | Mar 04 |
-| **[Volkswagen of America, Inc](https://www.vw.com/)** | **[Summer Intern - Procurement Contracts](https://jobright.ai/jobs/info/67c6128766c318d0073877a2?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Mar 04 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2025 Legal Trial Division Intern](https://jobright.ai/jobs/info/67c76314661427a2e980396b?utm_campaign=1055&utm_source=git)** | New York - Garden City, 990 Stewart Avenue | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
