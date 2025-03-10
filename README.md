@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Zydus Pharmaceuticals (USA) Inc.](https://www.zydususa.com)** | **[Summer Intern- Legal and Communications](https://jobright.ai/jobs/info/67cd1816c5474976e131cbc8?utm_campaign=1055&utm_source=git)** | Pennington, NJ | On Site | Mar 08 |
+| **[Gallagher](http://www.ajg.com)** | **[Risk Control Intern GSIP](https://jobright.ai/jobs/info/67ae70a7c30010b479a6d507?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 08 |
 | **[Federal Home Loan Bank of Pittsburgh](http://www.fhlb-pgh.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67af71a743aa94f436a33619?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 08 |
 | **[Gallagher](http://www.ajg.com)** | **[Risk Control Intern GSIP](https://jobright.ai/jobs/info/67aebd2cdce96657fb0e4e66?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 08 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Legal Intern](https://jobright.ai/jobs/info/678886f8fd0831c9ecd9baf6?utm_campaign=1055&utm_source=git)** | Trumbull, CT | On Site | Mar 08 |
@@ -132,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Link Logistics](https://www.linklogistics.com/)** | **[Environmental Diligence and Compliance Summer Intern](https://jobright.ai/jobs/info/67ca3ecff4acae9f8e9f262a?utm_campaign=1055&utm_source=git)** | Fort Washington, PA | On Site | Mar 06 |
 | **[Constellation Brands](http://cbrands.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/67ca3084b825c048adb863be?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Mar 06 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/67ad3b9f17f43fabb725234f?utm_campaign=1055&utm_source=git)** | Garden Grove, CA | On Site | Mar 06 |
-| **[Constellation Brands New Zealand & Australia](https://www.constellationnz.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/67ca132072f2f19b031aec70?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia | Hybrid | Mar 06 |
-| ↳ | **[Intern, Legal](https://jobright.ai/jobs/info/67ca132072f2f19b031aee16?utm_campaign=1055&utm_source=git)** | Rochester, New York | Hybrid | Mar 06 |
+| **[Constellation Brands New Zealand & Australia](https://www.constellationnz.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/67ca132072f2f19b031aee16?utm_campaign=1055&utm_source=git)** | Rochester, New York | Hybrid | Mar 06 |
+| ↳ | **[Intern, Legal](https://jobright.ai/jobs/info/67ca132072f2f19b031aec70?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia | Hybrid | Mar 06 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Special Investigations Intern, Investigative Services – Summer 2025](https://jobright.ai/jobs/info/67ca132072f2f19b031aec90?utm_campaign=1055&utm_source=git)** | Culver City, California | On Site | Mar 06 |
 | **[Link Logistics](https://www.linklogistics.com/)** | **[Environmental Diligence and Compliance Summer Intern](https://jobright.ai/jobs/info/67ca132072f2f19b031aec88?utm_campaign=1055&utm_source=git)** | Fort Washington, Pennsylvania | On Site | Mar 06 |
 | **[AmTrust Financial Services, Inc.](https://amtrustfinancial.com/)** | **[Litigation - Summer 2025 Internship](https://jobright.ai/jobs/info/67ca1f5dfafcf41eb4522bcc?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Quaker Chemical Corporation](http://www.quakerchem.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67c96f1bf969f57ee0a0171b?utm_campaign=1055&utm_source=git)** | Conshohocken, PA | On Site | Mar 06 |
 | **[Cincinnati Children's](http://cincinnatichildrens.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6787d599677c7c1efd3c1359?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Mar 05 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/67cbcacd474a806a124cbf99?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Mar 05 |
-| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Internship](https://jobright.ai/jobs/info/676d39317f3a95b83e22fe35?utm_campaign=1055&utm_source=git)** | Stockton, CA | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
