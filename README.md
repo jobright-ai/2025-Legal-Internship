@@ -57,15 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Denton](https://www.cityofdenton.com)** | **[Legal Intern II](https://jobright.ai/jobs/info/67cffa328f247734d7df83f2?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Mar 11 |
+| **[Allstate](http://www.allstate.com)** | **[Client Legal Services Paralegal Specialist Apprentice Program](https://jobright.ai/jobs/info/67cfc601b378ff0b65ca1eac?utm_campaign=1055&utm_source=git)** | Miami-FTL Area | Hybrid | Mar 10 |
 | **[NEOGOV](http://www.neogov.com)** | **[Intern - Rental & Business Licensing](https://jobright.ai/jobs/info/67cf8a289032324ae3de9c1b?utm_campaign=1055&utm_source=git)** | Brooklyn Park, MN | On Site | Mar 10 |
+| **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[U.S. State Policy and Advocacy 2025 Summer Legal Associate](https://jobright.ai/jobs/info/6765b2e5d8d99a793cddd6cf?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 10 |
 | **[Dialpad](https://www.dialpad.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67cb9eb5faa575407403f909?utm_campaign=1055&utm_source=git)** | San Ramon, CA | On Site | Mar 10 |
 | **[First American](http://www.firstam.com)** | **[Legal & Compliance Undergraduate Internship](https://jobright.ai/jobs/info/67cf7abd9516d0156129d347?utm_campaign=1055&utm_source=git)** | Idaho Falls, ID | On Site | Mar 10 |
+| **[Asian Law Caucus](http://asianlawcaucus.org)** | **[Legal Aid Leaders Summer Law Clerk](https://jobright.ai/jobs/info/67cf7ca857dde3b7a8a0ad12?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Mar 10 |
 | **[MRI Software](http://www.mrisoftware.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67cf7ca857dde3b7a8a0af17?utm_campaign=1055&utm_source=git)** | Greater Cleveland | On Site | Mar 10 |
 | **[First American](http://www.firstam.com)** | **[Legal & Compliance Undergraduate Internship](https://jobright.ai/jobs/info/67cf6707cf70e9401f3d3619?utm_campaign=1055&utm_source=git)** | USA, Idaho, Idaho Falls | On Site | Mar 10 |
 | **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/67cf6943086d1ce76a781e4c?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Mar 10 |
 | **[Verizon](https://www.verizon.com)** | **[PRLS Summer 2025 Internship](https://jobright.ai/jobs/info/67cf5f8a59972c05f13b3e74?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | Hybrid | Mar 10 |
-| **[The Cigna Group](https://www.cigna.com/)** | **[Patent & Innovation Law Summer Intern](https://jobright.ai/jobs/info/67cf665f7a2ce8aa0cf37d61?utm_campaign=1055&utm_source=git)** | Bloomfield, CT | Hybrid | Mar 10 |
-| ↳ | **[Patent & Innovation Law Summer Intern](https://jobright.ai/jobs/info/67cf665f7a2ce8aa0cf37d60?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 10 |
+| **[The Cigna Group](https://www.cigna.com/)** | **[Patent & Innovation Law Summer Intern](https://jobright.ai/jobs/info/67cf665f7a2ce8aa0cf37d60?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 10 |
+| ↳ | **[Patent & Innovation Law Summer Intern](https://jobright.ai/jobs/info/67cf665f7a2ce8aa0cf37d61?utm_campaign=1055&utm_source=git)** | Bloomfield, CT | Hybrid | Mar 10 |
 | ↳ | **[Patent & Innovation Law Summer Intern](https://jobright.ai/jobs/info/67cf665f7a2ce8aa0cf37d62?utm_campaign=1055&utm_source=git)** | Morris Plains, NJ | Hybrid | Mar 10 |
 | ↳ | **[Patent & Innovation Law Summer Intern](https://jobright.ai/jobs/info/67cf665f7a2ce8aa0cf37d68?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Mar 10 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern (Summer 2025)](https://jobright.ai/jobs/info/67cf5f8a59972c05f13b3ea3?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Mar 10 |
@@ -75,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[County of San Mateo](https://www.smcgov.org)** | **[Volunteer Summer Internship Program - County Attorney's Office](https://jobright.ai/jobs/info/67cf57c5f715052ba91dfb05?utm_campaign=1055&utm_source=git)** | Redwood City, CA | On Site | Mar 10 |
 | **[Astria Therapeutics, Inc.](https://www.astriatx.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67b0ea91acd4adf29e23aa63?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Mar 10 |
 | **[NEOGOV](http://www.neogov.com)** | **[Volunteer Summer Internship Program - County Attorney's Office](https://jobright.ai/jobs/info/67cf428073ffb4d315cc2723?utm_campaign=1055&utm_source=git)** | Redwood City, CA | On Site | Mar 10 |
-| **[Asian Law Caucus](http://asianlawcaucus.org)** | **[Legal Aid Leaders Summer Law Clerk](https://jobright.ai/jobs/info/67cf3f30b563a1f108ade03a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Mar 10 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Legal Intern- Kansas City](https://jobright.ai/jobs/info/67cf39f06094862eb65901cd?utm_campaign=1055&utm_source=git)** | Overland Park, KS | Hybrid | Mar 10 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/67cf3f44a539192b095edbdb?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Mar 10 |
 | **[Allstate](http://www.allstate.com)** | **[Client Legal Services Paralegal Specialist Apprentice Program](https://jobright.ai/jobs/info/67cf411276b8b5c4cee5d237?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 10 |
@@ -86,22 +89,24 @@ For a complete list, click the following sortable link below:
 | **[Markel](https://www.markel.com)** | **[Claims Legal Intern](https://jobright.ai/jobs/info/67cf2186b150ca5b3b1cfebc?utm_campaign=1055&utm_source=git)** | Chicago IL | On Site | Mar 10 |
 | **[Dow](https://www.dowchemical.com)** | **[Local College Co-op: Legal Administration](https://jobright.ai/jobs/info/67cf130e2b1127099b55b051?utm_campaign=1055&utm_source=git)** | Midland (MI, USA) | On Site | Mar 10 |
 | **[The Bancorp](http://www.thebancorp.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67a854676afc8e83f94103e1?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Mar 10 |
-| **[First American](http://www.firstam.com)** | **[2025 Legal Intern - Title Services](https://jobright.ai/jobs/info/67cef36200cd704ac73ccbb4?utm_campaign=1055&utm_source=git)** | USA, Florida, St Petersburg | On Site | Mar 10 |
+| **[First American](http://www.firstam.com)** | **[2025 Legal Intern - Title Services](https://jobright.ai/jobs/info/67cef36200cd704ac73ccc90?utm_campaign=1055&utm_source=git)** | USA, Florida, Remote | Remote | Mar 10 |
 | ↳ | **[2025 Legal Intern - Title Services](https://jobright.ai/jobs/info/67cef36200cd704ac73ccc92?utm_campaign=1055&utm_source=git)** | USA, Florida, Miami | On Site | Mar 10 |
-| ↳ | **[2025 Legal Intern - Title Services](https://jobright.ai/jobs/info/67cef36200cd704ac73ccc91?utm_campaign=1055&utm_source=git)** | USA, Florida, Orlando | On Site | Mar 10 |
-| ↳ | **[2025 Legal Intern - Title Services](https://jobright.ai/jobs/info/67cef36200cd704ac73ccc8e?utm_campaign=1055&utm_source=git)** | USA, Florida, Boynton Beach | On Site | Mar 10 |
-| ↳ | **[2025 Legal Intern - Title Services](https://jobright.ai/jobs/info/67cef36200cd704ac73ccc90?utm_campaign=1055&utm_source=git)** | USA, Florida, Remote | Remote | Mar 10 |
 | ↳ | **[2025 Legal Intern - Title Services](https://jobright.ai/jobs/info/67cef36200cd704ac73ccc8f?utm_campaign=1055&utm_source=git)** | USA, Florida, Tampa | On Site | Mar 10 |
+| ↳ | **[2025 Legal Intern - Title Services](https://jobright.ai/jobs/info/67cef36200cd704ac73ccc8e?utm_campaign=1055&utm_source=git)** | USA, Florida, Boynton Beach | On Site | Mar 10 |
+| ↳ | **[2025 Legal Intern - Title Services](https://jobright.ai/jobs/info/67cef36200cd704ac73ccbb4?utm_campaign=1055&utm_source=git)** | USA, Florida, St Petersburg | On Site | Mar 10 |
+| ↳ | **[2025 Legal Intern - Title Services](https://jobright.ai/jobs/info/67cef36200cd704ac73ccc91?utm_campaign=1055&utm_source=git)** | USA, Florida, Orlando | On Site | Mar 10 |
 | **[Primoris Services Corporation](http://prim.com)** | **[Contracts Analyst Intern](https://jobright.ai/jobs/info/665a5314e44829f8e4d275f6?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Mar 10 |
 | **[PineBridge Investments](http://www.pinebridge.com)** | **[Corporate Responsibility Intern](https://jobright.ai/jobs/info/67917b81e35b4c6b2701c77f?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Mar 10 |
+| **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Intern the Otsuka Way 2025 - Legal Affairs Intern](https://jobright.ai/jobs/info/67773d9b9065f68a6542f999?utm_campaign=1055&utm_source=git)** | Princeton, NJ | On Site | Mar 10 |
+| **[Databricks](https://www.databricks.com)** | **[Legal Intern](https://jobright.ai/jobs/info/677f0b55c3081543652c502b?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Mar 10 |
 | **[NEOGOV](http://www.neogov.com)** | **[Graduate Intern - BDCC](https://jobright.ai/jobs/info/67cec3db984b4fe2466d465f?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Mar 10 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2025](https://jobright.ai/jobs/info/67cd6ba35fb542b54ee3371b?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Mar 10 |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2025](https://jobright.ai/jobs/info/678f189546929de398ec0738?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Mar 10 |
 | **[Concord](https://concord.com/)** | **[Sync Licensing Administration Intern](https://jobright.ai/jobs/info/67ce8bb0574a5f29be896c41?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Mar 09 |
-| **[Fike Corporation](https://www.fike.com/)** | **[Paralegal Summer Intern](https://jobright.ai/jobs/info/67ce6785540ee25ad9442a60?utm_campaign=1055&utm_source=git)** | Blue Springs, MO | On Site | Mar 09 |
 | **[King County, WA](http://kingcounty.gov/)** | **[Graduate Intern - BDCC](https://jobright.ai/jobs/info/67cf1cbcc86d9a7a4372d895?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Mar 09 |
 | **[CIPRIANI & WERNER PC](http://c-wlaw.com)** | **[Law Clerk](https://jobright.ai/jobs/info/67cf71839c61419ac7e50536?utm_campaign=1055&utm_source=git)** | Mt. Laurel, NJ | On Site | Mar 09 |
 | **[NetApp](http://netapp.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/67948d6e040a239db1db5a09?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Mar 09 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Vehicle Licensing Internship - Summer 2025](https://jobright.ai/jobs/info/6765fab91c469f5e45ed6042?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Mar 08 |
+| **[Gallagher Re](https://www.capsicumre.com/)** | **[Risk Control Intern GSIP](https://jobright.ai/jobs/info/67ae7fb9b4f1f53b5bfb6b3f?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 08 |
 | **[Zydus Pharmaceuticals (USA) Inc.](https://www.zydususa.com)** | **[Summer Intern- Legal and Communications](https://jobright.ai/jobs/info/67cd1816c5474976e131cbc8?utm_campaign=1055&utm_source=git)** | Pennington, NJ | On Site | Mar 08 |
 | **[Gallagher](http://www.ajg.com)** | **[Risk Control Intern GSIP](https://jobright.ai/jobs/info/67b048201cb42ccaae6ccbb8?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Mar 08 |
 | ↳ | **[Risk Control Intern GSIP](https://jobright.ai/jobs/info/67ae70a7c30010b479a6d507?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 08 |
@@ -109,18 +114,20 @@ For a complete list, click the following sortable link below:
 | **[Gallagher](http://www.ajg.com)** | **[Risk Control Intern GSIP](https://jobright.ai/jobs/info/67aebd2cdce96657fb0e4e66?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 08 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Legal Intern](https://jobright.ai/jobs/info/678886f8fd0831c9ecd9baf6?utm_campaign=1055&utm_source=git)** | Trumbull, CT | On Site | Mar 08 |
 | **[State of Minnesota](https://mn.gov)** | **[Staff Attorney 1 or Staff Attorney 2](https://jobright.ai/jobs/info/67ccc0252851862db86f0007?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Mar 08 |
+| **[Gallagher](http://www.ajg.com)** | **[Risk Control Intern GSIP](https://jobright.ai/jobs/info/67ae70a7c30010b479a6d500?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | Hybrid | Mar 08 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Legal, Internship](https://jobright.ai/jobs/info/67cc3bd1101a4900d302105a?utm_campaign=1055&utm_source=git)** | Schenectady, NY | Hybrid | Mar 08 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Procurement Defense Intern](https://jobright.ai/jobs/info/67afc5f8d47d0f29385b83aa?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Mar 08 |
-| **[Gallagher](http://www.ajg.com)** | **[Risk Control Intern GSIP](https://jobright.ai/jobs/info/67ae70a7c30010b479a6d548?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | Hybrid | Mar 08 |
-| ↳ | **[Risk Control Intern GSIP](https://jobright.ai/jobs/info/67ae70a7c30010b479a6d506?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Mar 08 |
+| **[Gallagher](http://www.ajg.com)** | **[Risk Control Intern GSIP](https://jobright.ai/jobs/info/67ae70a7c30010b479a6d506?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Mar 08 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Ethics & Compliance - Monitoring and Auditing](https://jobright.ai/jobs/info/67cc1f112074e5b028f20271?utm_campaign=1055&utm_source=git)** | Plainsboro, NJ | On Site | Mar 08 |
 | **[First Student](http://www.firststudentinc.com)** | **[Intern](https://jobright.ai/jobs/info/67cd0ae17e0edf3f93cffcb2?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Mar 08 |
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Security and Compliance](https://jobright.ai/jobs/info/67cc126c56723aa764b59311?utm_campaign=1055&utm_source=git)** | South San Francisco, CA | On Site | Mar 08 |
 | **[MannKind Corporation](http://mannkindcorp.com)** | **[Legal Internship](https://jobright.ai/jobs/info/67cc04797ecf45e960b6a1d6?utm_campaign=1055&utm_source=git)** | Westlake Village, CA | On Site | Mar 08 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/67cc7867ec4271dbcc2fc2b5?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Mar 07 |
+| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/67cfe483cea76bb77b1a34d2?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 07 |
 | **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern - Commercial Title](https://jobright.ai/jobs/info/67a2fbb7f6affc84ac5ec886?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Mar 07 |
 | **[Chevron Phillips Chemical Company](http://www.cpchem.com/en-us/Pages/default.aspx)** | **[Legal Summer Intern - EH&S and Manufacturing](https://jobright.ai/jobs/info/67cbd5bdabb6eff427f13576?utm_campaign=1055&utm_source=git)** | Spring, TX | On Site | Mar 07 |
 | **[Larimer County](https://www.larimer.gov)** | **[District Attorney Legal Intern Fall 2025 or Spring 2026](https://jobright.ai/jobs/info/67ccba3fda9d3e9f8520ba14?utm_campaign=1055&utm_source=git)** | Fort Collins, CO | On Site | Mar 07 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Regulatory Affairs Co-op](https://jobright.ai/jobs/info/67cfad408abf01d5d9062e3d?utm_campaign=1055&utm_source=git)** | Danvers, MA | On Site | Mar 07 |
 | **[Box](http://www.box.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/67cbab76fbe1ed1c09bbebda?utm_campaign=1055&utm_source=git)** | Redwood City, CA | On Site | Mar 07 |
 | **[Nexteer Automotive](http://www.nexteer.com/)** | **[2025 IT Internal Controls Summer Internship](https://jobright.ai/jobs/info/6785db91a2f2d8d6268fe811?utm_campaign=1055&utm_source=git)** | Saginaw, MI | Hybrid | Mar 07 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Legal, Internship](https://jobright.ai/jobs/info/67cb91936ba7c88b2caddf76?utm_campaign=1055&utm_source=git)** | 625 State St, Schenectady, NY 12305, USA | On Site | Mar 07 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Interstate Insurance Company](https://natl.com)** | **[Subrogation Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/67cb5baf5d60346486c5e5d0?utm_campaign=1055&utm_source=git)** | Richfield, OH | On Site | Mar 07 |
 | **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[Legal Intern - Legal Services](https://jobright.ai/jobs/info/67cb537f254f97f16e477969?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 07 |
 | **[Crown Castle](https://www.crowncastle.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67cb43cf54d2ea285607f9dc?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Mar 07 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/67cb43cf54d2ea285607f9df?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Mar 07 |
-| **[NEOGOV](http://www.neogov.com)** | **[Summer Intern to Senior Deputy City Attorney- Legal Department](https://jobright.ai/jobs/info/67cf1c9d64c155f0f97b50f3?utm_campaign=1055&utm_source=git)** | Port St. Lucie FL  34984, FL | On Site | Mar 07 |
-| **[AmTrust Financial Services, Inc.](https://amtrustfinancial.com/)** | **[Regulatory - Summer 2025 Internship](https://jobright.ai/jobs/info/67cb18c93a134bf2bfa40f71?utm_campaign=1055&utm_source=git)** | Greater Cleveland | On Site | Mar 07 |
-| **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/676d97327443e5ad7c38ac43?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Mar 07 |
-| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Subrogation Intern - 2025 Internship](https://jobright.ai/jobs/info/67cb02361151303522a50705?utm_campaign=1055&utm_source=git)** | Richfield, OH (USA) | On Site | Mar 07 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Sync Licensing Intern](https://jobright.ai/jobs/info/67cb023b173ced65a3e80201?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2025](https://jobright.ai/jobs/info/679de2f60ada78bacb9a9b40?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
