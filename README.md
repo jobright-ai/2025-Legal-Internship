@@ -115,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f55?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 18 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67db8fbcce3f0e2258711d2b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 18 |
 | **[Five9](http://www.five9.com)** | **[2025 Compliance and Privacy Intern](https://jobright.ai/jobs/info/67da3ad9dd5c6c3f66c31eb9?utm_campaign=1055&utm_source=git)** | San Ramon, CA | On Site | Mar 18 |
+| **[Epicor](http://www.epicor.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67dce4349aaa95b5a1619f31?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Mar 18 |
 | **[SonicWall](http://www.sonicwall.com)** | **[Legal Intern - USA Remote](https://jobright.ai/jobs/info/67da5995bfb201d8355d4355?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 18 |
 | **[AIG](https://www.aig.com/)** | **[2025 - Early Career - Claims (Juris Doctor) - Summer Intern - United States, Jersey City, NJ & Atlanta, GA](https://jobright.ai/jobs/info/67da415b21a1a49a6017d98a?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | Hybrid | Mar 18 |
 | **[Mutual of America Financial Group](http://www.mutualofamerica.com)** | **[Summer Internship - Legal](https://jobright.ai/jobs/info/67da32f8c86c1571a608a5b6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 18 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[HARTING Technology Group](https://www.harting.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67d8c9f9f19a1bce6a686761?utm_campaign=1055&utm_source=git)** | Illinois, United States | On Site | Mar 17 |
 | **[RapidRatings](http://www.rapidratings.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67b74d6a5ff75a6491b5ce68?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 17 |
 | **[Branch](https://www.branchgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67d8b77f90aa43c05af610ed?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Mar 17 |
-| **[S&P Global](https://www.spglobal.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67d89e4d20412c9e302d8815?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 17 |
-| ↳ | **[Summer Intern Legal](https://jobright.ai/jobs/info/67d89e4d20412c9e302d8816?utm_campaign=1055&utm_source=git)** | Michigan, US | On Site | Mar 17 |
-| **[United Supermarkets, LLC](http://www.unitedtexas.com/)** | **[Compliance/Nutrition Intern](https://jobright.ai/jobs/info/67d8ace5f3bdc2bf925c4a33?utm_campaign=1055&utm_source=git)** | Lubbock, TX | On Site | Mar 17 |
+| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern Legal](https://jobright.ai/jobs/info/67d89e4d20412c9e302d874e?utm_campaign=1055&utm_source=git)** | Michigan, US | On Site | Mar 17 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/67d89e4d20412c9e302d8755?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
