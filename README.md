@@ -57,23 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/67db8fbcce3f0e2258711d2b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 08 |
+| **[Foundation for California Community Colleges](https://foundationccc.org/)** | **[Law Clerk, Student Assistant, Legal Operations](https://jobright.ai/jobs/info/67f4ec0ea67c3f46e6d7729c?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Apr 07 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67f4a146af1a0ae615b201e1?utm_campaign=1055&utm_source=git)** | Woodland Hills, CA (Hybrid) | On Site | Apr 07 |
 | **[BigID](https://www.bigid.com)** | **[GRC Intern](https://jobright.ai/jobs/info/67f49662bd2699df45df0c75?utm_campaign=1055&utm_source=git)** | Remote - US | Remote | Apr 07 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Trademarks Summer Intern ](https://jobright.ai/jobs/info/67f49662bd2699df45df0f31?utm_campaign=1055&utm_source=git)** | New York, New York | On Site | Apr 07 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Alert Adjudication Unit Analyst, Summer 2025 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/67f471d78a96a4ce69d5b0a1?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | Apr 07 |
 | ↳ | **[Alert Adjudication Unit Analyst, Summer 2025 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/67f473f28a96a4ce69d5bae8?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 07 |
 | **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern - Commercial Title](https://jobright.ai/jobs/info/67f46b5e7d8d50f71a5d27fe?utm_campaign=1055&utm_source=git)** | Pasadena, CA | On Site | Apr 07 |
+| **[Primerica](https://www.primerica.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67f4af3f6c43301c571a8d68?utm_campaign=1055&utm_source=git)** | Duluth, GA | On Site | Apr 07 |
 | **[Zeta Charter Schools](https://zetaschools.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/67f48b6b3ebe52b93d5d0cb4?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 07 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Intern - Criminal Division](https://jobright.ai/jobs/info/67f471d78a96a4ce69d5b37c?utm_campaign=1055&utm_source=git)** | Toms River, NJ | Hybrid | Apr 07 |
 | **[Thompson Hine LLP](http://www.thompsonhine.com/)** | **[2026 2L Summer Associate (Ohio & New York)](https://jobright.ai/jobs/info/67f438524552e52260a744b0?utm_campaign=1055&utm_source=git)** | Ohio, United States | On Site | Apr 07 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Alert Adjudication Unit Analyst, Summer 2025 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/67f42e5d3d782f903e20fb93?utm_campaign=1055&utm_source=git)** | Chicago, IL, USA | On Site | Apr 07 |
 | ↳ | **[Alert Adjudication Unit Analyst, Summer 2025 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/67f42e5d3d782f903e20fb94?utm_campaign=1055&utm_source=git)** | Brookfield, WI, USA | On Site | Apr 07 |
-| **[Primerica](https://www.primerica.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67f42cc8f51f6b45513f95cb?utm_campaign=1055&utm_source=git)** | Duluth, GA | On Site | Apr 07 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[INTERN - Contracts Management & Supply Chain Tech - Greenville, SC](https://jobright.ai/jobs/info/67f42824b99a6af0960b8e94?utm_campaign=1055&utm_source=git)** | Greenville, SC | On Site | Apr 07 |
 | **[Command Post Technologies, Inc](http://commandposttech.com)** | **[Contracts Internship](https://jobright.ai/jobs/info/67f4219e99c1b8062e8af7da?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Apr 07 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[INTERN - Contracts Management &amp; Supply Chain Tech - Greenville, SC](https://jobright.ai/jobs/info/67f41aa966112c448a9c1517?utm_campaign=1055&utm_source=git)** | South Carolina | On Site | Apr 07 |
-| **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Product Regulatory Compliance Intern](https://jobright.ai/jobs/info/67f419655fa49027848f37d1?utm_campaign=1055&utm_source=git)** | Albertville, AL (PRSC Corp HQ) - 001 | On Site | Apr 07 |
-| ↳ | **[Product Regulatory Compliance Intern](https://jobright.ai/jobs/info/67f419655fa49027848f3a26?utm_campaign=1055&utm_source=git)** | Albertville | On Site | Apr 07 |
+| **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Product Regulatory Compliance Intern](https://jobright.ai/jobs/info/67f419655fa49027848f3a26?utm_campaign=1055&utm_source=git)** | Albertville | On Site | Apr 07 |
+| ↳ | **[Product Regulatory Compliance Intern](https://jobright.ai/jobs/info/67f419655fa49027848f37d1?utm_campaign=1055&utm_source=git)** | Albertville, AL (PRSC Corp HQ) - 001 | On Site | Apr 07 |
 | ↳ | **[Product Regulatory Compliance Intern](https://jobright.ai/jobs/info/67f47e03afaaf68fa9c84e63?utm_campaign=1055&utm_source=git)** | Albertville, AL | On Site | Apr 07 |
 | **[White and Williams LLP](http://www.whiteandwilliams.com)** | **[Law Clerk](https://jobright.ai/jobs/info/67f45d0ebcbbea71aeb6b6bc?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
 | **[SGS](http://www.sgs.com/)** | **[Legal Intern (Hybrid)](https://jobright.ai/jobs/info/67f411693af98c9ae0628985?utm_campaign=1055&utm_source=git)** | Bloomfield, NJ | Hybrid | Apr 07 |
@@ -133,7 +135,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Student Law Clerk Unpaid](https://jobright.ai/jobs/info/67efe516ff8106897340de8d?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 04 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/67efe516ff8106897340de7e?utm_campaign=1055&utm_source=git)** | St Charles, MO | On Site | Apr 04 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Graduate Assistant](https://jobright.ai/jobs/info/67efb4f3a9cb0aeac6aa5a91?utm_campaign=1055&utm_source=git)** | Lubbock, TX | On Site | Apr 04 |
-| **[Asian Law Caucus](http://asianlawcaucus.org)** | **[Legal Aid Leaders Summer Law Clerk](https://jobright.ai/jobs/info/67cf7ca857dde3b7a8a0ad12?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Apr 04 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Summer Intern, Legal](https://jobright.ai/jobs/info/67ef94987def267c1c757f93?utm_campaign=1055&utm_source=git)** | Port Washington, NY | On Site | Apr 03 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/67f359d3de9554e006e85efc?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Apr 03 |
 | **[Republic Services](http://www.republicservices.com)** | **[Environmental Compliance Intern](https://jobright.ai/jobs/info/67ef4ea4678ebe6ede903771?utm_campaign=1055&utm_source=git)** | Robstown, TX | On Site | Apr 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Regulatory Research Spring 2025 Intern](https://jobright.ai/jobs/info/677d504fc5eb3d7911a601e5?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 03 |
 | **[Revantage, A Blackstone Portfolio Company](https://www.revantage.com/)** | **[2025 Legal Internship](https://jobright.ai/jobs/info/67d1ffb8ebb20297f5594f8c?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Apr 03 |
 | **[Kemper](http://kemper.com)** | **[Law Extern - Summer 2025](https://jobright.ai/jobs/info/67d1e61370d49eb5513657ef?utm_campaign=1055&utm_source=git)** | Fresno, CA | Hybrid | Apr 03 |
-| **[State of Minnesota](https://mn.gov)** | **[Staff Attorney 1 or Staff Attorney 2](https://jobright.ai/jobs/info/67ee7cec94508c692c41b541?utm_campaign=1055&utm_source=git)** | St Paul, MN | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
