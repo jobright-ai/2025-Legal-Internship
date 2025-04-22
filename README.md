@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/67a0394359663c8c5d433c8b?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 22 |
+| **[Cooley LLP](http://www.cooley.com)** | **[2026 Summer Associate – Business Restructuring](https://jobright.ai/jobs/info/67ebe51c5b77728f128428ea?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 22 |
+| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Corporate Law Intern](https://jobright.ai/jobs/info/6807663617aba4972f8980d6?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ | On Site | Apr 22 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[2026 Washington 2L Summer Associate](https://jobright.ai/jobs/info/68072dd431728a0711eaee8f?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 21 |
 | ↳ | **[2026 New York 2L Summer Associate](https://jobright.ai/jobs/info/680727497342888e097f6ed3?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Fraud - Summer 2025](https://jobright.ai/jobs/info/680706b52fcad173e5bd6fd9?utm_campaign=1055&utm_source=git)** | Green Bay, Wisconsin Metropolitan Area | On Site | Apr 21 |
@@ -64,11 +67,11 @@ For a complete list, click the following sortable link below:
 | **[Baker Botts](http://www.bakerbotts.com)** | **[Seasonal Intern](https://jobright.ai/jobs/info/6806de5983ce42ca2e187645?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 21 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Paralegal Intern](https://jobright.ai/jobs/info/6806dbb937efb25aefcf6242?utm_campaign=1055&utm_source=git)** | Springdale, AR | On Site | Apr 21 |
 | **[Rocket](https://rocket.com/?utm_source=linkedin&utm_medium=social&source=SocialMedia-LinkedInOrganic)** | **[Risk Detection and Compliance Intern - Summer 2025](https://jobright.ai/jobs/info/6806cb0365fb6d9aa3d48f7f?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Apr 21 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Legal Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806cb0365fb6d9aa3d48f92?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 21 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Legal Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806cb0365fb6d9aa3d48fa9?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Apr 21 |
 | ↳ | **[Legal Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806cb0365fb6d9aa3d48fa2?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Apr 21 |
-| ↳ | **[Legal Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806cb0365fb6d9aa3d48fa9?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Apr 21 |
-| ↳ | **[Legal Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806c4b92c879f38404ff0fd?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 21 |
+| ↳ | **[Legal Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806cb0365fb6d9aa3d48f92?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 21 |
 | ↳ | **[Legal Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806c4b92c879f38404ff116?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Apr 21 |
+| ↳ | **[Legal Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806c4b92c879f38404ff0fd?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 21 |
 | **[SWBC](https://www.swbc.com)** | **[PEO Compliance Intern](https://jobright.ai/jobs/info/6806c219248e53a426b17703?utm_campaign=1055&utm_source=git)** | Bulverde, TX | On Site | Apr 21 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Law Clerk (Cumberland/Gloucester/Salem) Recent Law School Graduates Needed for 2025-2026 Clerkships](https://jobright.ai/jobs/info/67f433fa4ba589f6bd9058e7?utm_campaign=1055&utm_source=git)** | Gloucester, NJ | Hybrid | Apr 21 |
 | **[HBK Engineering, LLC](http://hbkengineering.com)** | **[Legal Intern (Summer 2025)](https://jobright.ai/jobs/info/6806be60a2974ef86a00346d?utm_campaign=1055&utm_source=git)** | Oak Brook, IL | On Site | Apr 21 |
@@ -108,12 +111,12 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[New York City Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/670daffba3816b8136071fd2?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 19 |
 | **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[Cyber Audit and Compliance College Aide](https://jobright.ai/jobs/info/67c9fd9efaed535026ea7ffc?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Apr 19 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Fall 2025 Legal Externship – International Program](https://jobright.ai/jobs/info/68001d6e0d4962cf80f83059?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Apr 19 |
+| **[Cypress Creek Renewables](https://ccrenew.com/)** | **[Legal Summer Associate](https://jobright.ai/jobs/info/68030861f8e23452513f361f?utm_campaign=1055&utm_source=git)** | Los Angeles County, CA | On Site | Apr 19 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/67f240866afff48b6fc3b7a1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 19 |
 | **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/680351ba05c9993cec4bf89b?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Apr 19 |
 | **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern - Commercial Title](https://jobright.ai/jobs/info/6803400e5087317e6028355a?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 18 |
-| **[The University of Kansas](http://www.spencerart.ku.edu/)** | **[Audit, Risk & Compliance Intern](https://jobright.ai/jobs/info/6802f944f8e0beb2442f3203?utm_campaign=1055&utm_source=git)** | Lawrence, KS | On Site | Apr 18 |
+| **[The University of Kansas](https://www.lsi.ku.edu)** | **[Audit, Risk & Compliance Intern](https://jobright.ai/jobs/info/6802f944f8e0beb2442f3203?utm_campaign=1055&utm_source=git)** | Lawrence, KS | On Site | Apr 18 |
 | **[LivaNova](http://www.livanova.com)** | **[Contracts Support Specialist (Summer Intern)](https://jobright.ai/jobs/info/6802f65702fb92d733b5977b?utm_campaign=1055&utm_source=git)** | Texas, United States | Remote | Apr 18 |
-| **[Cypress Creek Renewables](https://ccrenew.com/)** | **[Intern - Legal Summer Associate](https://jobright.ai/jobs/info/68030861f8e23452513f361f?utm_campaign=1055&utm_source=git)** | Los Angeles County, CA | On Site | Apr 18 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/6802f1af0b93984febf00bae?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Apr 18 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Fall 2025 Legal Externship – Community Partnerships Program](https://jobright.ai/jobs/info/680029ee9c9a2b14d29e26f7?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Apr 18 |
 | ↳ | **[Fall 2025 Legal Externship – Clean Energy Program](https://jobright.ai/jobs/info/68001d6e0d4962cf80f8303a?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Apr 18 |
@@ -123,13 +126,11 @@ For a complete list, click the following sortable link below:
 | **[Ever.Ag](https://www.ever.ag)** | **[Intern, Legal Operations](https://jobright.ai/jobs/info/67f1889fd82de3d6e76d1ef1?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 18 |
 | **[Tech Electronics](http://www.techelectronics.com/)** | **[Legal Intern- Immediate Availability](https://jobright.ai/jobs/info/6802a2cb0bb0012479f03373?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Apr 18 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Registration Compliance Intern](https://jobright.ai/jobs/info/67e5b1ec5519d35b65c5e09f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 18 |
-| **[EMD Strategies](https://www.emdstrategies.com)** | **[Contract Acquisition Specialist Intern](https://jobright.ai/jobs/info/68028c1f57ee9803dc39caa0?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Remote | Apr 18 |
 | **[VSE Corporation](http://www.vsecorp.com)** | **[Intern - Compliance](https://jobright.ai/jobs/info/67ca0fe192da3e635bd2a081?utm_campaign=1055&utm_source=git)** | Doral, FL | On Site | Apr 18 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Intern - Criminal Division](https://jobright.ai/jobs/info/67f471d78a96a4ce69d5b37c?utm_campaign=1055&utm_source=git)** | Toms River, NJ | Hybrid | Apr 18 |
 | **[Hudson Valley Credit Union](https://www.hvcu.org/)** | **[Legal & Compliance Internship - College](https://jobright.ai/jobs/info/67e5fa8ca68a26d46464ac2b?utm_campaign=1055&utm_source=git)** | Poughkeepsie, NY | On Site | Apr 18 |
 | **[American Regent, Inc.](http://www.americanregent.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/67e5c52fb1866b910ba75829?utm_campaign=1055&utm_source=git)** | New Albany, OH | On Site | Apr 18 |
 | **[Alfa Laval](http://www.alfalaval.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/6802579a7a6f1294d1d3783e?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Apr 18 |
-| **[Stinson LLP](https://www.stinson.com)** | **[2025 Fall/Spring Pro Bono Law Clerk](https://jobright.ai/jobs/info/67e5cf04002722fdd0185023?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Apr 18 |
 | **[Lake Trust Credit Union](https://laketrust.org/)** | **[Loss Mitigation/Fraud Loss Internship (Summer 2025)](https://jobright.ai/jobs/info/67ed20d7b446740ddbcdc13e?utm_campaign=1055&utm_source=git)** | Brighton, MI | On Site | Apr 18 |
 | **[MCN Build](http://mcnbuild.com)** | **[Contracts & Compliance Specialist Intern](https://jobright.ai/jobs/info/67ff02837d1ea36c928e51e5?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 17 |
 | **[MCRA, an IQVIA business](https://www.mcra.com)** | **[Intern, Regulatory Affairs (Musculoskeletal - Ortho/Spine)](https://jobright.ai/jobs/info/6801afd22e42f8f7b952e420?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 17 |
@@ -142,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[McGuireWoods LLP](http://www.mcguirewoods.com)** | **[2026 New York 2L Summer Associate](https://jobright.ai/jobs/info/6801838802b160cc8f01f53a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68015e3a5cf5ed5eb590e005?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Apr 17 |
 | **[McGuireWoods LLP](http://www.mcguirewoods.com)** | **[2026 Washington 2L Summer Associate](https://jobright.ai/jobs/info/68017bb69e5a92b831fbce98?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 17 |
-| **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/680153f366a52e3515204a5a?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Apr 17 |
 | **[Reingold, Inc.](http://reingold.com)** | **[Legal Internship](https://jobright.ai/jobs/info/67f832a0e4436ba6585b1d25?utm_campaign=1055&utm_source=git)** | Alexandria, VA | On Site | Apr 17 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Legal Intern - Semester 2 - Generation H](https://jobright.ai/jobs/info/68014484765ce00863f836e8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 17 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Legal Intern](https://jobright.ai/jobs/info/67ef25adc343c6e79581b2d8?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
