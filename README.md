@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Darling Ingredients](http://darlingii.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68167d2234df48de07b99a1a?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | May 03 |
+| **[Cooley LLP](http://www.cooley.com)** | **[2026 Summer Associate – Cyber/Data/Privacy](https://jobright.ai/jobs/info/67ebcea822b10e4a69c4d716?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | May 03 |
 | **[ENGIE](https://www.engie.com/en)** | **[Risk Control Intern](https://jobright.ai/jobs/info/6815f9a4549b6a8b1492a513?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | May 03 |
 | **[Cooley LLP](http://www.cooley.com)** | **[2026 Summer Associate – Cyber/Data/Privacy](https://jobright.ai/jobs/info/67ebba99937fcd9b904c888a?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | May 03 |
 | **[Cooley LLP](http://www.cooley.com)** | **[2026 Summer Associate – Cyber/Data/Privacy](https://jobright.ai/jobs/info/67ebbcbd937fcd9b904c937a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | May 02 |
-| **[ENGIE](https://www.engie.com/en)** | **[Contracts Intern](https://jobright.ai/jobs/info/6815a285b35e21877edc8335?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | May 02 |
+| **[ENGIE](https://www.engie.com/en)** | **[Contracts Intern](https://jobright.ai/jobs/info/68169eed3c89298ef48e5ee8?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | May 02 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/68158296ce62abef42a3b082?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | May 02 |
 | **[BDT & MSD Partners](https://bdtmsd.com/)** | **[Legal & Compliance Intern - Summer 2025](https://jobright.ai/jobs/info/68157fd59e8fe7c965854edb?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | May 02 |
 | **[Security Finance](https://www.securityfinance.com)** | **[Real Estate and Branch Services Intern](https://jobright.ai/jobs/info/6815774ed92762f49d5bf909?utm_campaign=1055&utm_source=git)** | Spartanburg, SC | On Site | May 02 |
@@ -75,10 +77,10 @@ For a complete list, click the following sortable link below:
 | **[Stellar Management](http://stellarmanagement.com)** | **[Legal Intern](https://jobright.ai/jobs/info/681535379b1e5285fd2dda8a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 02 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/68152bffd3aa80c95cf057f0?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | May 02 |
 | **[Kuehne+Nagel](http://www.kuehne-nagel.com)** | **[Customs Intern - Summer](https://jobright.ai/jobs/info/681522f7b4fdf9402c4ffeb2?utm_campaign=1055&utm_source=git)** | McAllen, TX | On Site | May 02 |
-| **[Oracle](https://www.oracle.com/)** | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/681522284d48109cb7ee6eb5?utm_campaign=1055&utm_source=git)** | United States | Remote | May 02 |
-| ↳ | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/681522284d48109cb7ee6eb6?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | May 02 |
+| **[Oracle](https://www.oracle.com/)** | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/681522284d48109cb7ee6eb4?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | May 02 |
 | ↳ | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c69f9?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | May 02 |
-| ↳ | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c69fa?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | May 02 |
+| ↳ | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c69f7?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | May 02 |
+| ↳ | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c6960?utm_campaign=1055&utm_source=git)** | United States | Remote | May 02 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Legal Intern (Onsite, Seattle)](https://jobright.ai/jobs/info/68151967983bdee363cb325f?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | May 02 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Legal Intern/ Tulsa](https://jobright.ai/jobs/info/6815149fab15d1c57445fc72?utm_campaign=1055&utm_source=git)** | Tulsa, OK | Hybrid | May 02 |
 | **[Brown Brothers Harriman](http://www.bbh.com)** | **[2025 Enterprise Risk Management Summer Intern](https://jobright.ai/jobs/info/681511abf8de9f27ec049854?utm_campaign=1055&utm_source=git)** | Boston | On Site | May 02 |
@@ -108,19 +110,19 @@ For a complete list, click the following sortable link below:
 | **[Alfa Laval](http://www.alfalaval.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/6802579a7a6f1294d1d3783e?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | May 01 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Legal Contracts Intern](https://jobright.ai/jobs/info/681404fa05977efb1470e577?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | May 01 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Legal Intern](https://jobright.ai/jobs/info/6813e9661531f4be9b01aec8?utm_campaign=1055&utm_source=git)** | Oklahoma County | On Site | May 01 |
-| **[Stoel Rives LLP](http://www.stoel.com)** | **[2026 2L Minneapolis Summer Associate](https://jobright.ai/jobs/info/6813e4521cd03b87d6d7dbab?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | May 01 |
-| ↳ | **[2026 2L Portland Summer Associate](https://jobright.ai/jobs/info/6813e4521cd03b87d6d7dbc2?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | May 01 |
+| **[Stoel Rives LLP](http://www.stoel.com)** | **[2026 2L Seattle Summer Associate](https://jobright.ai/jobs/info/6813e4521cd03b87d6d7dbb6?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | May 01 |
 | ↳ | **[2026 2L Boise Summer Associate](https://jobright.ai/jobs/info/6813e4521cd03b87d6d7db94?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | May 01 |
-| ↳ | **[2026 2L Seattle Summer Associate](https://jobright.ai/jobs/info/6813e4521cd03b87d6d7dbb6?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | May 01 |
-| ↳ | **[2026 2L San Diego Summer Associate](https://jobright.ai/jobs/info/6813e4521cd03b87d6d7db9d?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | May 01 |
 | ↳ | **[2026 2L Sacramento Summer Associate](https://jobright.ai/jobs/info/6813e4521cd03b87d6d7dbbe?utm_campaign=1055&utm_source=git)** | Sacramento, CA | On Site | May 01 |
+| ↳ | **[2026 2L Minneapolis Summer Associate](https://jobright.ai/jobs/info/6813e4521cd03b87d6d7dbab?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | May 01 |
+| ↳ | **[2026 2L Portland Summer Associate](https://jobright.ai/jobs/info/6813e4521cd03b87d6d7dbc2?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | May 01 |
+| ↳ | **[2026 2L San Diego Summer Associate](https://jobright.ai/jobs/info/6813e4521cd03b87d6d7db9d?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | May 01 |
 | **[Solar Energy Industries Association](http://www.seia.org)** | **[Regulatory Affairs Summer Law Clerk](https://jobright.ai/jobs/info/6813e2d090c2d18f3bd50666?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 01 |
 | **[Saul Ewing LLP](http://www.saul.com/)** | **[Summer Associate Law Clerk](https://jobright.ai/jobs/info/6813df3d1b44fc935e34c9d6?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 01 |
 | **[DASNY (Dormitory Authority - State of New York )](https://www.dasny.org)** | **[Student Intern - Opportunity Programs Group (Junior Analyst)](https://jobright.ai/jobs/info/6813d95dd2fa660820e85769?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | May 01 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Legal Contracts Intern](https://jobright.ai/jobs/info/6813d93fb798c04a534b3618?utm_campaign=1055&utm_source=git)** | Chicago, Illinois, USA | On Site | May 01 |
 | **[Solar Energy Industries Association](http://www.seia.org)** | **[Legal Affairs Summer Intern](https://jobright.ai/jobs/info/6813d6e2bc7a61ba9ab61779?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 01 |
 | **[FXI](https://www.fxi.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6813cd4578d1b65a02a013bf?utm_campaign=1055&utm_source=git)** | Red Bank, NJ | On Site | May 01 |
-| **[TSC](https://www.tsc.com/)** | **[(Military Personnel ONLY) Dod SkillBridge Intern: Contracts Compliance Analyst](https://jobright.ai/jobs/info/6813cb16db782d6a52f54734?utm_campaign=1055&utm_source=git)** | Dahlgren, VA | Hybrid | May 01 |
+| **[TSC](https://www.tsc.com/)** | **[(Military Personnel ONLY) Dod SkillBridge Intern: Contracts Compliance Analyst](https://jobright.ai/jobs/info/6813cb16db782d6a52f5499e?utm_campaign=1055&utm_source=git)** | Dahlgren, VA | Hybrid | May 01 |
 | **[Leidos](https://www.leidos.com/)** | **[Contracts Intern](https://jobright.ai/jobs/info/6813cb16db782d6a52f54647?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | May 01 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Product Regulatory & Environmental Affairs Intern (Undergraduate 2025 Summer Internship)](https://jobright.ai/jobs/info/67db36e9f54aa1ecf6a7e723?utm_campaign=1055&utm_source=git)** | Englewood Cliffs, NJ | On Site | May 01 |
 | **[Old Republic Title](http://www.oldrepublictitle.com/)** | **[Internship in Underwriting - Law Students](https://jobright.ai/jobs/info/67f74cfeaadfcc406b3e4989?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | May 01 |
@@ -145,6 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Wikimedia Foundation](http://wikimediafoundation.org)** | **[Legal Fellow (Fall 2025)](https://jobright.ai/jobs/info/6811afc0f9525e884702a6c5?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Remote | Apr 29 |
 | **[Phibro Animal Health](http://www.pahc.com/)** | **[Regulatory Intern](https://jobright.ai/jobs/info/68116f0a588b9a57614f3dbe?utm_campaign=1055&utm_source=git)** | Teaneck, NJ | On Site | Apr 29 |
 | **[Foxen](https://www.foxen.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68115a71aea77350adef8246?utm_campaign=1055&utm_source=git)** | Columbus, Ohio | On Site | Apr 29 |
+| **[United Supermarkets, LLC](http://www.unitedtexas.com/)** | **[Compliance/Nutrition Intern](https://jobright.ai/jobs/info/67d8ace5f3bdc2bf925c4a33?utm_campaign=1055&utm_source=git)** | Lubbock, TX | On Site | Apr 29 |
 | **[Oracle](https://www.oracle.com/)** | **[Regulatory Research Analyst](https://jobright.ai/jobs/info/68112a56784d3f3abf2aff9d?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Procurement Data and Process Analyst Intern](https://jobright.ai/jobs/info/6811100a18abc717c8963b75?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 29 |
 | ↳ | **[Procurement Data and Process Analyst Intern](https://jobright.ai/jobs/info/68110288c93a05d932eb5b75?utm_campaign=1055&utm_source=git)** | Chicago | On Site | Apr 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[San Francisco Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/670dbab9d337f7192aa4ac5f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Apr 29 |
 | ↳ | **[New York City Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/670daffba3816b8136071fd2?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 29 |
 | ↳ | **[Chicago Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f55?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Apr 29 |
-| ↳ | **[Philadelphia Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/670dbab9d337f7192aa4ac39?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 29 |
-| ↳ | **[Minneapolis Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f4e?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 29 |
-| ↳ | **[Dallas Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/680b709e211719a65a88ab59?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
