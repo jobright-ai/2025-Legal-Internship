@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SentinelOne](http://www.sentinelone.com)** | **[Legal Intern](https://jobright.ai/jobs/info/682f58cc87af641003f9fe5a?utm_campaign=1055&utm_source=git)** | United States | Remote | May 22 |
+| **[Coaction Global](https://www.coactionspecialty.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/682f56da75c563e093750616?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | May 22 |
+| **[NSF](http://www.nsf.org)** | **[Food Product Claims Intern](https://jobright.ai/jobs/info/682f3d4ca8c5f875d03c1a2d?utm_campaign=1055&utm_source=git)** | 125 Chancellors Way, Ontario, CA | On Site | May 22 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[High School Internship with the Massachusetts Probation Service - New Bedford District Court](https://jobright.ai/jobs/info/682f3d4ca8c5f875d03c19f7?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-New Bedford District Court | On Site | May 22 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Land Rights Intern](https://jobright.ai/jobs/info/682f32927717ce0871423df7?utm_campaign=1055&utm_source=git)** | Fresno, CA | Hybrid | May 22 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/682eebed85acf98ab994ad7c?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | May 22 |
 | **[LeyLine](https://leylinepro.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/682eb2150f6e449885cda104?utm_campaign=1055&utm_source=git)** | Los Angeles County, CA | Remote | May 21 |
 | **[Base-2 Solutions](https://www.base-2solutions.com)** | **[Contracts Intern Summer/Fall 2025](https://jobright.ai/jobs/info/68252c19f38a84ddd7b1cce2?utm_campaign=1055&utm_source=git)** | Arlington, VA | Hybrid | May 21 |
@@ -78,15 +83,15 @@ For a complete list, click the following sortable link below:
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern – Enterprise Risk Management](https://jobright.ai/jobs/info/680fc78a35a238913c02298c?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | On Site | May 20 |
 | **[TEAM](http://www.weareteam.com)** | **[Legal and Compliance Intern](https://jobright.ai/jobs/info/682d2bc36037a7e771321e24?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | May 20 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Analyst) - Desktop Governance & Compliance](https://jobright.ai/jobs/info/682d2244c7da76624a258beb?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | May 20 |
-| ↳ | **[Intern - Year Round (Analyst) - Desktop Governance & Compliance](https://jobright.ai/jobs/info/682d2244c7da76624a258bec?utm_campaign=1055&utm_source=git)** | Pensacola, FL | Hybrid | May 20 |
 | ↳ | **[Intern - Year Round (Analyst) - Desktop Governance & Compliance](https://jobright.ai/jobs/info/682d2244c7da76624a258a39?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | May 20 |
+| ↳ | **[Intern - Year Round (Analyst) - Desktop Governance & Compliance](https://jobright.ai/jobs/info/682d2244c7da76624a258bec?utm_campaign=1055&utm_source=git)** | Pensacola, FL | Hybrid | May 20 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/682d1678044e7219a0e143c4?utm_campaign=1055&utm_source=git)** | Falls Church, VA | On Site | May 20 |
 | **[Moss Adams](http://www.mossadams.com)** | **[SOC Compliance Intern - Fall 2025 (Salt Lake City)](https://jobright.ai/jobs/info/682d1678044e7219a0e1422d?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | May 20 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Legal & National Security Intern](https://jobright.ai/jobs/info/682d1675052e29ea1b560af3?utm_campaign=1055&utm_source=git)** | Herndon, VA | Hybrid | May 20 |
 | **[Cypress Creek Renewables](https://ccrenew.com/)** | **[Legal Summer Associate](https://jobright.ai/jobs/info/682caa61aebad423e42788e4?utm_campaign=1055&utm_source=git)** | Los Angeles County, CA | On Site | May 20 |
 | **[ThunderSoft](http://www.thundersoft.com)** | **[Legal Intern](https://jobright.ai/jobs/info/682ca38e5b0953e3f4097ebc?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | May 20 |
-| **[Nokia](http://www.nokia.com)** | **[Legal, Compliance & Sustainability Coop](https://jobright.ai/jobs/info/6810128850c44e87c20b51f5?utm_campaign=1055&utm_source=git)** | New Jersey, United States | Hybrid | May 20 |
-| ↳ | **[Legal, Compliance & Sustainability Coop](https://jobright.ai/jobs/info/6810128850c44e87c20b51f4?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | May 20 |
+| **[Nokia](http://www.nokia.com)** | **[Legal, Compliance & Sustainability Coop](https://jobright.ai/jobs/info/6810128850c44e87c20b51f4?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | May 20 |
+| ↳ | **[Legal, Compliance & Sustainability Coop](https://jobright.ai/jobs/info/6810128850c44e87c20b51f5?utm_campaign=1055&utm_source=git)** | New Jersey, United States | Hybrid | May 20 |
 | ↳ | **[Legal, Compliance & Sustainability Coop](https://jobright.ai/jobs/info/681006a5ef63c6656d58cdcc?utm_campaign=1055&utm_source=git)** | New Providence, NJ | Hybrid | May 20 |
 | **[ACL Digital](https://www.acldigital.com/)** | **[Intellectual Property – JD Candidate](https://jobright.ai/jobs/info/682b7ba8c339eb677fa15552?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | May 20 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Paralegal Intern](https://jobright.ai/jobs/info/682d7f0d7d3dbaa5e3e02079?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | May 20 |
@@ -107,11 +112,10 @@ For a complete list, click the following sortable link below:
 | **[Atradius Trade Credit Insurance, Inc.](https://atradius.us)** | **[Legal Intern](https://jobright.ai/jobs/info/680a8720d342b9e409012b8a?utm_campaign=1055&utm_source=git)** | Baltimore, MD | Hybrid | May 17 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Sync Licensing Intern](https://jobright.ai/jobs/info/68283997700c9fd067f9a965?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
 | **[Howard Energy Partners](http://www.howardenergypartners.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/681c3e3ba57a5380884a78e4?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | May 17 |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2025 - Legal Intern](https://jobright.ai/jobs/info/68297e38a12bf87e534a668c?utm_campaign=1055&utm_source=git)** | Savannah, GA | On Site | May 16 |
 | **[Xpansiv](https://www.xpansiv.com)** | **[Environmental Regulatory Compliance Intern](https://jobright.ai/jobs/info/6827ee3e2d8c6d3081c8ad22?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | May 16 |
 | **[St. Luke's Health System](https://www.stlukesonline.org)** | **[Legal Intern](https://jobright.ai/jobs/info/6827dda4266861538b32ad8c?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | May 16 |
-| **[Stoel Rives LLP](http://www.stoel.com)** | **[2026 2L Patent Prosecution Summer Associate](https://jobright.ai/jobs/info/6827bc600ffaf1a39dc42dde?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 16 |
-| ↳ | **[2026 2L Patent Prosecution Summer Associate](https://jobright.ai/jobs/info/6827bc600ffaf1a39dc42c9e?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | May 16 |
+| **[Stoel Rives LLP](http://www.stoel.com)** | **[2026 2L Patent Prosecution Summer Associate](https://jobright.ai/jobs/info/6827bc600ffaf1a39dc42c9e?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | May 16 |
+| ↳ | **[2026 2L Patent Prosecution Summer Associate](https://jobright.ai/jobs/info/6827bc600ffaf1a39dc42dde?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 16 |
 | ↳ | **[2026 2L Patent Prosecution Summer Associate](https://jobright.ai/jobs/info/6827bc600ffaf1a39dc42de1?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | May 16 |
 | ↳ | **[2026 2L Patent Prosecution Summer Associate](https://jobright.ai/jobs/info/6827bc600ffaf1a39dc42ddc?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | May 16 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2025 Summer College Intern- Department of Law](https://jobright.ai/jobs/info/6827bc600ffaf1a39dc42cc1?utm_campaign=1055&utm_source=git)** | 68 Mitchell Street SW, Atlanta, GA, 30303, US | On Site | May 16 |
@@ -126,7 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Wikimedia Foundation](http://wikimediafoundation.org)** | **[Legal Fellow (Fall 2025)](https://jobright.ai/jobs/info/6826c573d05c08c3e3e710f4?utm_campaign=1055&utm_source=git)** | United States | Remote | May 15 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Risk Management SME (CI Poly) (SkillBridge Intern) - 17408](https://jobright.ai/jobs/info/682ab9f5d37c869596eabb93?utm_campaign=1055&utm_source=git)** | Fort Meade, MD | On Site | May 15 |
 | **[Recor Medical](http://recormedical.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6826bb698e823a32fa9ee6cd?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | On Site | May 15 |
-| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Contracts Intern - Fall 2025](https://jobright.ai/jobs/info/6826a438c3e207529eaa89d4?utm_campaign=1055&utm_source=git)** | Melbourne, FL | Hybrid | May 15 |
-| **[Denver Water](https://www.denverwater.org/)** | **[Spring 2026 Law Clerk / Legal Intern](https://jobright.ai/jobs/info/682e9cab0a539a654871f78e?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | May 15 |
-| **[Marvin](http://www.marvin.com/)** | **[Environmental Compliance Intern](https://jobright.ai/jobs/info/6826795de9d6d25c5eae4f79?utm_campaign=1055&utm_source=git)** | West Fargo, ND | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
