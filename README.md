@@ -59,10 +59,11 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Chicago)](https://jobright.ai/jobs/info/6840a0c856fb2ed363ab8dea?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jun 04 |
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Legal Division Administrative Intern Program](https://jobright.ai/jobs/info/68407b28409ad2a743228047?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | On Site | Jun 04 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Marvel Studios Business & Legal Affairs JD Intern, Fall 2025](https://jobright.ai/jobs/info/68406ad0dbaab9b98bb5e43f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 04 |
-| ↳ | **[Marvel Studios Business & Legal Affairs JD Intern, Fall 2025](https://jobright.ai/jobs/info/68406ad0dbaab9b98bb5e463?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Jun 04 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Marvel Studios Business & Legal Affairs JD Intern, Fall 2025](https://jobright.ai/jobs/info/68406ad0dbaab9b98bb5e463?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Jun 04 |
+| ↳ | **[Marvel Studios Business & Legal Affairs JD Intern, Fall 2025](https://jobright.ai/jobs/info/68406ad0dbaab9b98bb5e43f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[PwC](http://pwc.com)** | **[Practicante de Consultoria  Legal](https://jobright.ai/jobs/info/68404dd8036444b729d55d47?utm_campaign=1055&utm_source=git)** | Panamá City | On Site | Jun 04 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[ethics intern](https://jobright.ai/jobs/info/68407423caed78b5b98a3aaa?utm_campaign=1055&utm_source=git)** | Roswell, GA | On Site | Jun 04 |
+| **[Winston & Strawn LLP](https://www.winston.com)** | **[Chicago Office - 2026 2L Transactions Summer Associate](https://jobright.ai/jobs/info/681ed10cfd482f48d50f9659?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 04 |
 | **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Mergers & Acquisitions - Atlanta, Chicago, Raleigh](https://jobright.ai/jobs/info/680852ab804ef551980e064b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jun 04 |
 | **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[Cyber Audit and Compliance College Aide](https://jobright.ai/jobs/info/67c9fd9efaed535026ea7ffc?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Jun 04 |
 | **[First American](http://www.firstam.com)** | **[Escrow Assistant Intern](https://jobright.ai/jobs/info/683fad5d76ce326df6d33700?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jun 03 |
@@ -81,8 +82,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marvel Studios Business & Legal Affairs JD Intern, Fall 2025](https://jobright.ai/jobs/info/683f276bf100ad21ce1f7d8e?utm_campaign=1055&utm_source=git)** | New York, NY, USA | On Site | Jun 03 |
 | **[Air Methods](http://airmethods.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/683f14924e46690bd5c67177?utm_campaign=1055&utm_source=git)** | Englewood, CO | On Site | Jun 03 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/683e9145c8eff275d8ebbe07?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Jun 02 |
-| **[Saul Ewing LLP](http://www.saul.com/)** | **[Summer Associate Law Clerk](https://jobright.ai/jobs/info/683fbdea812fa2a105478943?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jun 02 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[2025 Legal Summer Internship - Irving, TX](https://jobright.ai/jobs/info/683e5bd44bc214621af05d18?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Jun 02 |
 | **[Sony](http://www.sony.net)** | **[Legal Intern](https://jobright.ai/jobs/info/683e44e44df955f0404bdb0a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 02 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/683e3edf0994476ef99b3ed5?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Jun 02 |
 | **[AAON, Inc.](https://www.aaon.com)** | **[Legal College Intern](https://jobright.ai/jobs/info/683e1976c79eefc98034c623?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Jun 02 |
@@ -90,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[AFL](http://www.AFLglobal.com)** | **[International Trade Intern- Fall 2025](https://jobright.ai/jobs/info/683e0b6ea41241a3a99d532e?utm_campaign=1055&utm_source=git)** | Duncan, SC | On Site | Jun 02 |
 | **[Morgan & Morgan, P.A.](https://www.forthepeople.com)** | **[MAP Summer Associate (Summer 2026)](https://jobright.ai/jobs/info/683df139abb1ff44979fe79f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 02 |
 | **[Cooley LLP](http://www.cooley.com)** | **[2026 Summer Associate – Business Restructuring](https://jobright.ai/jobs/info/67fde5d1e4b1d05d6e28ee37?utm_campaign=1055&utm_source=git)** | LA Metro Area | On Site | Jun 02 |
-| **[CME Group](http://www.cmegroup.com)** | **[Legal Iintern](https://jobright.ai/jobs/info/683dd33a5445f45ee0489783?utm_campaign=1055&utm_source=git)** | Chicago - 20 S. Wacker | On Site | Jun 02 |
 | **[Koley Jessen P.C., L.L.O.](http://koleyjessen.com)** | **[2026 2L Summer Associate](https://jobright.ai/jobs/info/683db41cd1da153a2e426361?utm_campaign=1055&utm_source=git)** | Omaha, Nebraska, United States | On Site | Jun 02 |
 | **[New Mexico Corrections Department](http://cd.nm.gov)** | **[Legal Graduate School Intern (NMCD #10117878)](https://jobright.ai/jobs/info/683d75ecfa18b6c42acef12c?utm_campaign=1055&utm_source=git)** | Santa Fe, NM | On Site | Jun 02 |
 | **[AARP](http://www.aarp.org)** | **[Pickering Law Fellow (Fall start)](https://jobright.ai/jobs/info/6802dc19623b22804828203b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 01 |
@@ -124,37 +122,36 @@ For a complete list, click the following sortable link below:
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[San Francisco Office - 2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/68000565c04de00ad2556ab0?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | May 29 |
 | **[EarthRights International](https://www.earthrights.org/)** | **[U.S. Fall Legal Internship](https://jobright.ai/jobs/info/683a330fbc974a6dfbdc23e1?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | May 29 |
 | **[MannKind Corporation](http://mannkindcorp.com)** | **[Legal Externship - Fall 2025](https://jobright.ai/jobs/info/681c6f427f82d9187080505d?utm_campaign=1055&utm_source=git)** | Westlake Village, CA | On Site | May 29 |
-| **[Humana](http://www.humana.com)** | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30e4?utm_campaign=1055&utm_source=git)** | Remote Pennsylvania | Hybrid | May 29 |
+| **[Humana](http://www.humana.com)** | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30de?utm_campaign=1055&utm_source=git)** | Fort Myers, FL | Hybrid | May 29 |
 | ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30e9?utm_campaign=1055&utm_source=git)** | Fort Drum, NY | Hybrid | May 29 |
-| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30d7?utm_campaign=1055&utm_source=git)** | Remote South Carolina | Hybrid | May 29 |
-| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30d9?utm_campaign=1055&utm_source=git)** | Remote Ohio | Hybrid | May 29 |
-| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30eb?utm_campaign=1055&utm_source=git)** | Fort Bragg - NC | Hybrid | May 29 |
-| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30e5?utm_campaign=1055&utm_source=git)** | Fort Gordon, GA | Hybrid | May 29 |
-| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30e2?utm_campaign=1055&utm_source=git)** | Remote Maryland | Hybrid | May 29 |
-| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30ed?utm_campaign=1055&utm_source=git)** | Fort Stewart, GA | Hybrid | May 29 |
-| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30dc?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | Hybrid | May 29 |
-| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30de?utm_campaign=1055&utm_source=git)** | Fort Myers, FL | Hybrid | May 29 |
-| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30df?utm_campaign=1055&utm_source=git)** | Remote Indiana | Hybrid | May 29 |
-| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30e8?utm_campaign=1055&utm_source=git)** | Fort Pierce, FL | Hybrid | May 29 |
-| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30db?utm_campaign=1055&utm_source=git)** | Remote Virginia | Hybrid | May 29 |
-| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30d8?utm_campaign=1055&utm_source=git)** | Fort Thomas, KY | Hybrid | May 29 |
-| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30e6?utm_campaign=1055&utm_source=git)** | Fort Benning, GA | Hybrid | May 29 |
-| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30d6?utm_campaign=1055&utm_source=git)** | Fort Campbell, KY | Hybrid | May 29 |
-| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30ec?utm_campaign=1055&utm_source=git)** | Fort Knox, KY | Hybrid | May 29 |
-| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30d5?utm_campaign=1055&utm_source=git)** | Remote West Virginia | Hybrid | May 29 |
-| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30e3?utm_campaign=1055&utm_source=git)** | Remote North Carolina | Hybrid | May 29 |
-| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30e0?utm_campaign=1055&utm_source=git)** | Fort Lee, VA | Hybrid | May 29 |
-| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30e7?utm_campaign=1055&utm_source=git)** | Fort Belvoir, VA | Hybrid | May 29 |
-| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30da?utm_campaign=1055&utm_source=git)** | Fort Eustis, VA | Hybrid | May 29 |
-| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30e1?utm_campaign=1055&utm_source=git)** | Remote Florida | Hybrid | May 29 |
 | ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30dd?utm_campaign=1055&utm_source=git)** | Fort Bragg, NC | Hybrid | May 29 |
-| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c2ee5?utm_campaign=1055&utm_source=git)** | Fort Walton Beach, FL | Hybrid | May 29 |
 | ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30ea?utm_campaign=1055&utm_source=git)** | Remote Kentucky | Hybrid | May 29 |
+| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30ec?utm_campaign=1055&utm_source=git)** | Fort Knox, KY | Hybrid | May 29 |
+| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30df?utm_campaign=1055&utm_source=git)** | Remote Indiana | Hybrid | May 29 |
+| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30d8?utm_campaign=1055&utm_source=git)** | Fort Thomas, KY | Hybrid | May 29 |
+| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30e8?utm_campaign=1055&utm_source=git)** | Fort Pierce, FL | Hybrid | May 29 |
+| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30d5?utm_campaign=1055&utm_source=git)** | Remote West Virginia | Hybrid | May 29 |
+| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30d7?utm_campaign=1055&utm_source=git)** | Remote South Carolina | Hybrid | May 29 |
+| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30e7?utm_campaign=1055&utm_source=git)** | Fort Belvoir, VA | Hybrid | May 29 |
+| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c2ee5?utm_campaign=1055&utm_source=git)** | Fort Walton Beach, FL | Hybrid | May 29 |
+| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30e5?utm_campaign=1055&utm_source=git)** | Fort Gordon, GA | Hybrid | May 29 |
+| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30e1?utm_campaign=1055&utm_source=git)** | Remote Florida | Hybrid | May 29 |
+| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30d6?utm_campaign=1055&utm_source=git)** | Fort Campbell, KY | Hybrid | May 29 |
+| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30ed?utm_campaign=1055&utm_source=git)** | Fort Stewart, GA | Hybrid | May 29 |
+| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30eb?utm_campaign=1055&utm_source=git)** | Fort Bragg - NC | Hybrid | May 29 |
+| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30e0?utm_campaign=1055&utm_source=git)** | Fort Lee, VA | Hybrid | May 29 |
+| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30da?utm_campaign=1055&utm_source=git)** | Fort Eustis, VA | Hybrid | May 29 |
+| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30d9?utm_campaign=1055&utm_source=git)** | Remote Ohio | Hybrid | May 29 |
+| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30dc?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | Hybrid | May 29 |
+| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30e4?utm_campaign=1055&utm_source=git)** | Remote Pennsylvania | Hybrid | May 29 |
+| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30e2?utm_campaign=1055&utm_source=git)** | Remote Maryland | Hybrid | May 29 |
+| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30e3?utm_campaign=1055&utm_source=git)** | Remote North Carolina | Hybrid | May 29 |
+| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30e6?utm_campaign=1055&utm_source=git)** | Fort Benning, GA | Hybrid | May 29 |
+| ↳ | **[Quality Compliance Professional](https://jobright.ai/jobs/info/68388405094a75bdb72c30db?utm_campaign=1055&utm_source=git)** | Remote Virginia | Hybrid | May 29 |
 | **[Wiss](http://www.wiss.com)** | **[Intern, Litigation Support (Fall 2025)](https://jobright.ai/jobs/info/6838756293cb50aabf3c28ee?utm_campaign=1055&utm_source=git)** | Florham Park, NJ | On Site | May 29 |
 | **[SAP](https://www.sap.com)** | **[SAP Sales Performance Management iXp Intern - Operational Security Specialist](https://jobright.ai/jobs/info/682974b601a158a85f463169?utm_campaign=1055&utm_source=git)** | Birmingham, AL | Hybrid | May 29 |
-| **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f08a?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | May 29 |
+| **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f089?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | May 29 |
+| ↳ | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f08a?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | May 29 |
 | ↳ | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c4a9046ce16cb4c2ecbb06?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | May 29 |
-| ↳ | **[2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f089?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | May 29 |
 | **[Mechanics Bank](https://www.mechanicsbank.com/mechbank/Mbwebsite.nsf/home/index)** | **[Bank Contract Management Intern](https://jobright.ai/jobs/info/681c17fa51162154c8dcdd50?utm_campaign=1055&utm_source=git)** | Roseville, CA | On Site | May 29 |
-| **[Cooley LLP](http://www.cooley.com)** | **[2026 Summer Associate – Real Estate - Transactions](https://jobright.ai/jobs/info/67fee0b2b0c067d54f11154e?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
