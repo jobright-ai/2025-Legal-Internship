@@ -57,16 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/6842ee59dd64fe988321545c?utm_campaign=1055&utm_source=git)** | Falls Church, VA | On Site | Jun 06 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/6842ae93c96c441a3bf79030?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Jun 06 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Operational Alignment & Compliance (Spring 2026)](https://jobright.ai/jobs/info/68429501e9520a51adaa35f5?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Jun 06 |
-| **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Columbus, OH](https://jobright.ai/jobs/info/684272cfa15c2e6579b7713b?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jun 05 |
-| ↳ | **[Summer Associate 2026 - Tampa, FL](https://jobright.ai/jobs/info/684272cfa15c2e6579b770e2?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Jun 05 |
-| ↳ | **[Summer Associate 2026 - Edina, MN](https://jobright.ai/jobs/info/684272cfa15c2e6579b7713d?utm_campaign=1055&utm_source=git)** | Edina, MN | On Site | Jun 05 |
+| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Operational Alignment & Compliance (Spring 2026)](https://jobright.ai/jobs/info/684289a062bcd3ab9bf4d92e?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6842caa8049cb58d6c7dd1fa?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jun 05 |
+| **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Houston, TX](https://jobright.ai/jobs/info/684272cfa15c2e6579b77111?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 05 |
 | ↳ | **[Summer Associate 2026 - St. Louis, MO](https://jobright.ai/jobs/info/684272cfa15c2e6579b7710b?utm_campaign=1055&utm_source=git)** | Town & Country, MO | On Site | Jun 05 |
-| ↳ | **[Summer Associate 2026 - Houston, TX](https://jobright.ai/jobs/info/684272cfa15c2e6579b77111?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 05 |
-| ↳ | **[Summer Associate 2026 - Denver, CO](https://jobright.ai/jobs/info/684272cfa15c2e6579b77124?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jun 05 |
+| ↳ | **[Summer Associate 2026 - Edina, MN](https://jobright.ai/jobs/info/684272cfa15c2e6579b7713d?utm_campaign=1055&utm_source=git)** | Edina, MN | On Site | Jun 05 |
+| ↳ | **[Summer Associate 2026 - Columbus, OH](https://jobright.ai/jobs/info/684272cfa15c2e6579b7713b?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jun 05 |
 | ↳ | **[Summer Associate 2026 - Bethesda, MD](https://jobright.ai/jobs/info/684272cfa15c2e6579b7710c?utm_campaign=1055&utm_source=git)** | Bethesda, MD | On Site | Jun 05 |
 | ↳ | **[Summer Associate 2026 - Cincinnati, OH](https://jobright.ai/jobs/info/684272cfa15c2e6579b77113?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jun 05 |
+| ↳ | **[Summer Associate 2026 - Denver, CO](https://jobright.ai/jobs/info/684272cfa15c2e6579b77124?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jun 05 |
+| ↳ | **[Summer Associate 2026 - Tampa, FL](https://jobright.ai/jobs/info/684272cfa15c2e6579b770e2?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Jun 05 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, GRC - Policy and Compliance](https://jobright.ai/jobs/info/68424c6e7b31390256016108?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 05 |
 | **[Landscape Structures](http://playlsi.com)** | **[Legal Intern](https://jobright.ai/jobs/info/684237f5604e5eed46a53cb9?utm_campaign=1055&utm_source=git)** | Delano, MN | On Site | Jun 05 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, GRC - Policy and Compliance](https://jobright.ai/jobs/info/68421d63ea5e5f6013eb1428?utm_campaign=1055&utm_source=git)** | United States Remote Office | Remote | Jun 05 |
@@ -74,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Canary Marketing](http://canarymarketing.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6841ba56bb24ae68030fab9c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 05 |
 | **[Cypress Creek Renewables](https://ccrenew.com/)** | **[Legal Summer Associate](https://jobright.ai/jobs/info/6841a4a5db8db2a876ea8866?utm_campaign=1055&utm_source=git)** | Los Angeles County, CA | On Site | Jun 05 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Office of the General Counsel Fall  Internship](https://jobright.ai/jobs/info/684197f121f29fbfdb8caa1e?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Jun 05 |
+| **[Cooley LLP](http://www.cooley.com)** | **[2026 Summer Associate – Trademark](https://jobright.ai/jobs/info/68081eefbcda5c9758dcdd0a?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jun 05 |
 | **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Real Estate Investment & Development - Raleigh](https://jobright.ai/jobs/info/680852ab804ef551980e05df?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Jun 05 |
 | **[Burr & Forman ](http://www.burr.com)** | **[2026 Summer Law Clerk (Second Year Law Students)](https://jobright.ai/jobs/info/684168b8a1faafd7477d4f4f?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 05 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[New York Office - 2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/682d5f929d56317f5cceb3b8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 05 |
@@ -131,8 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Apple](https://www.apple.com)** | **[Legal and Global Security Internships](https://jobright.ai/jobs/info/683a3697f427a19f8b1b43fd?utm_campaign=1055&utm_source=git)** | United States | Remote | May 30 |
 | **[Pear VC](http://www.pear.vc/)** | **[Legal Intern](https://jobright.ai/jobs/info/683a1fae9bd6f87922e1b6c7?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 30 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Fort Lauderdale)](https://jobright.ai/jobs/info/683a1e1060f965d99c47f892?utm_campaign=1055&utm_source=git)** | 515 E Las Olas Blvd, Fort Lauderdale, FL, 33301, US | On Site | May 30 |
-| **[Cypress Creek Renewables](https://ccrenew.com/)** | **[Legal Summer Associate](https://jobright.ai/jobs/info/683a14cf8e8a422be2f9ece9?utm_campaign=1055&utm_source=git)** | Los Angeles County, CA | On Site | May 30 |
-| **[U.S. Commodity Futures Trading Commission](http://www.cftc.gov)** | **[Student Volunteer- Unclassified Duties (General Legal)](https://jobright.ai/jobs/info/683a118c95793c98b8127b2b?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 30 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/683a0be534b19661699e1a96?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | May 30 |
-| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Corporate Legal](https://jobright.ai/jobs/info/6839eb8f8c6b678f41abf23c?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | May 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
