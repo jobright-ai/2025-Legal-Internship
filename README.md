@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Viatris](https://www.viatris.com/en)** | **[Intern, GRC - Policy and Compliance](https://jobright.ai/jobs/info/68421d63ea5e5f6013eb1428?utm_campaign=1055&utm_source=git)** | United States Remote Office | Remote | Jun 05 |
 | **[Canary Marketing](http://canarymarketing.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6841ba56bb24ae68030fab9c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 05 |
 | **[Cypress Creek Renewables](https://ccrenew.com/)** | **[Legal Summer Associate](https://jobright.ai/jobs/info/6841a4a5db8db2a876ea8866?utm_campaign=1055&utm_source=git)** | Los Angeles County, CA | On Site | Jun 05 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Office of the General Counsel Fall  Internship](https://jobright.ai/jobs/info/684197f121f29fbfdb8caa1e?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Jun 05 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal and Compliance BSA/AML Compliance Intern](https://jobright.ai/jobs/info/683fc5e39041a52da39b26fe?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 03 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Unpaid Paralegal Internship – Prosecution and Code Enforcement](https://jobright.ai/jobs/info/683f4cc766a6181a9f58d252?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jun 03 |
 | **[Markel](https://www.markel.com)** | **[Intern, Bermuda Claims](https://jobright.ai/jobs/info/683f4ac53c56cc0f95b61cce?utm_campaign=1055&utm_source=git)** | Bermuda, VA | On Site | Jun 03 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Marvel Studios Business & Legal Affairs JD Intern, Fall 2025](https://jobright.ai/jobs/info/683f276bf100ad21ce1f7d8e?utm_campaign=1055&utm_source=git)** | New York, NY, USA | On Site | Jun 03 |
-| ↳ | **[Marvel Studios Business & Legal Affairs JD Intern, Fall 2025](https://jobright.ai/jobs/info/683f276bf100ad21ce1f7d96?utm_campaign=1055&utm_source=git)** | Remote Worker Location, USA | Remote | Jun 03 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Marvel Studios Business & Legal Affairs JD Intern, Fall 2025](https://jobright.ai/jobs/info/683f276bf100ad21ce1f7d96?utm_campaign=1055&utm_source=git)** | Remote Worker Location, USA | Remote | Jun 03 |
+| ↳ | **[Marvel Studios Business & Legal Affairs JD Intern, Fall 2025](https://jobright.ai/jobs/info/683f276bf100ad21ce1f7d8e?utm_campaign=1055&utm_source=git)** | New York, NY, USA | On Site | Jun 03 |
 | **[Air Methods](http://airmethods.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/683f14924e46690bd5c67177?utm_campaign=1055&utm_source=git)** | Englewood, CO | On Site | Jun 03 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/683e9145c8eff275d8ebbe07?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Jun 02 |
 | **[Sony](http://www.sony.net)** | **[Legal Intern](https://jobright.ai/jobs/info/683e44e44df955f0404bdb0a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 02 |
