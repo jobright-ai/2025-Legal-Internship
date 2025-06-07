@@ -57,32 +57,33 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Community Legal Aid](https://www.communitylegalaid.org/)** | **[Community Legal Aid Volunteer](https://jobright.ai/jobs/info/6843ff0b6dafc05782102948?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Jun 07 |
+| **[ESCO Technologies](http://www.escotechnologies.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6843efd51e0b882bfe2321c7?utm_campaign=1055&utm_source=git)** | Greater St. Louis | On Site | Jun 07 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern](https://jobright.ai/jobs/info/68439c452bb14cb9f762adfd?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jun 06 |
-| **[ESCO Technologies](http://www.escotechnologies.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/684396574bf9f1b4c72f01d7?utm_campaign=1055&utm_source=git)** | Greater St. Louis | On Site | Jun 06 |
 | **[Prolec Energy](https://www.prolec.energy)** | **[Contracts Legal Intern](https://jobright.ai/jobs/info/68437d539c2e6d36ec9231a2?utm_campaign=1055&utm_source=git)** | Waukesha County, WI | On Site | Jun 06 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern](https://jobright.ai/jobs/info/684378c3c314cbb3d8e0f3a7?utm_campaign=1055&utm_source=git)** | HQ - San Diego, CA | On Site | Jun 06 |
-| **[Alliance Defending Freedom](https://adflegal.org)** | **[Legal Extern](https://jobright.ai/jobs/info/684354e5ca355f8efe3e8725?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 06 |
 | **[Sentara Health](https://www.sentara.com/)** | **[Cyber Security Compliance Intern](https://jobright.ai/jobs/info/684353728c77815ebc127f8d?utm_campaign=1055&utm_source=git)** | Virginia Beach, VA | On Site | Jun 06 |
+| **[Alliance Defending Freedom](https://adflegal.org)** | **[Legal Extern](https://jobright.ai/jobs/info/684353728c77815ebc127f37?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 06 |
 | **[Flexera](https://www.flexera.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68434c39ac43eee0f91364e7?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 06 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/68434926e9dcf338e1cbf0fe?utm_campaign=1055&utm_source=git)** | Winter Haven, FL | Remote | Jun 06 |
 | **[Flexera](https://www.flexera.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68434144021c6ae3617f0206?utm_campaign=1055&utm_source=git)** | Home-United States | On Site | Jun 06 |
 | **[Center for a New American Security (CNAS)](http://www.cnas.org)** | **[Legal Intern](https://jobright.ai/jobs/info/68434144021c6ae3617f0225?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 06 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/68430ba3d43d42fd92de5e1d?utm_campaign=1055&utm_source=git)** | Remote Opportunity - VA, NC, SC, GA,  FL, AL, TX, & CO | Remote | Jun 06 |
-| **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Commercial Litigation - Atlanta, Winston-Salem](https://jobright.ai/jobs/info/6843044ab4d685e091b7f577?utm_campaign=1055&utm_source=git)** | US-GA-Atlanta | On Site | Jun 06 |
-| ↳ | **[2026 Summer Associate - Commercial Litigation - Atlanta, Winston-Salem](https://jobright.ai/jobs/info/6843044ab4d685e091b7f4dd?utm_campaign=1055&utm_source=git)** | US-NC-Winston-Salem | On Site | Jun 06 |
+| **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Commercial Litigation - Atlanta, Winston-Salem](https://jobright.ai/jobs/info/6843044ab4d685e091b7f4dd?utm_campaign=1055&utm_source=git)** | US-NC-Winston-Salem | On Site | Jun 06 |
+| ↳ | **[2026 Summer Associate - Commercial Litigation - Atlanta, Winston-Salem](https://jobright.ai/jobs/info/6843044ab4d685e091b7f577?utm_campaign=1055&utm_source=git)** | US-GA-Atlanta | On Site | Jun 06 |
 | **[Sentara Health](https://www.sentara.com/)** | **[Cyber Security Compliance Intern](https://jobright.ai/jobs/info/68430013ddb25231fe2b1591?utm_campaign=1055&utm_source=git)** | Virginia Beach, VA | On Site | Jun 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Risk Arbitration Analyst Intern (Monetization Integrity) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/682648301ff0402117fb6e00?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Jun 06 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/6842ae93c96c441a3bf79030?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Jun 06 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Operational Alignment & Compliance (Spring 2026)](https://jobright.ai/jobs/info/68429501e9520a51adaa35f5?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Jun 06 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6842caa8049cb58d6c7dd1fa?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jun 05 |
-| **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Bethesda, MD](https://jobright.ai/jobs/info/684272cfa15c2e6579b7710c?utm_campaign=1055&utm_source=git)** | Bethesda, MD | On Site | Jun 05 |
+| **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Houston, TX](https://jobright.ai/jobs/info/684272cfa15c2e6579b77111?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 05 |
 | ↳ | **[Summer Associate 2026 - Tampa, FL](https://jobright.ai/jobs/info/684272cfa15c2e6579b770e2?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Jun 05 |
 | ↳ | **[Summer Associate 2026 - Denver, CO](https://jobright.ai/jobs/info/684272cfa15c2e6579b77124?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jun 05 |
-| ↳ | **[Summer Associate 2026 - Columbus, OH](https://jobright.ai/jobs/info/684272cfa15c2e6579b7713b?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jun 05 |
-| ↳ | **[Summer Associate 2026 - Edina, MN](https://jobright.ai/jobs/info/684272cfa15c2e6579b7713d?utm_campaign=1055&utm_source=git)** | Edina, MN | On Site | Jun 05 |
+| ↳ | **[Summer Associate 2026 - Bethesda, MD](https://jobright.ai/jobs/info/684272cfa15c2e6579b7710c?utm_campaign=1055&utm_source=git)** | Bethesda, MD | On Site | Jun 05 |
 | ↳ | **[Summer Associate 2026 - Cincinnati, OH](https://jobright.ai/jobs/info/684272cfa15c2e6579b77113?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jun 05 |
 | ↳ | **[Summer Associate 2026 - St. Louis, MO](https://jobright.ai/jobs/info/684272cfa15c2e6579b7710b?utm_campaign=1055&utm_source=git)** | Town & Country, MO | On Site | Jun 05 |
-| ↳ | **[Summer Associate 2026 - Houston, TX](https://jobright.ai/jobs/info/684272cfa15c2e6579b77111?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 05 |
+| ↳ | **[Summer Associate 2026 - Columbus, OH](https://jobright.ai/jobs/info/684272cfa15c2e6579b7713b?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jun 05 |
+| ↳ | **[Summer Associate 2026 - Edina, MN](https://jobright.ai/jobs/info/684272cfa15c2e6579b7713d?utm_campaign=1055&utm_source=git)** | Edina, MN | On Site | Jun 05 |
 | **[Landscape Structures](http://playlsi.com)** | **[Legal Intern](https://jobright.ai/jobs/info/684237f5604e5eed46a53cb9?utm_campaign=1055&utm_source=git)** | Delano, MN | On Site | Jun 05 |
 | **[Bridge ](https://www.bridgemarketplace.com)** | **[GRC Analyst - Governance, Risk, & Compliance](https://jobright.ai/jobs/info/68424ea32b95c941446a7bab?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Jun 05 |
 | **[Cypress Creek Renewables](https://ccrenew.com/)** | **[Legal Summer Associate](https://jobright.ai/jobs/info/6841a4a5db8db2a876ea8866?utm_campaign=1055&utm_source=git)** | Los Angeles County, CA | On Site | Jun 05 |
@@ -117,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[City and County of Denver](https://www.denvergov.org)** | **[Unpaid Paralegal Internship – Prosecution and Code Enforcement](https://jobright.ai/jobs/info/683f4cc766a6181a9f58d252?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jun 03 |
 | **[Markel](https://www.markel.com)** | **[Intern, Bermuda Claims](https://jobright.ai/jobs/info/683f4ac53c56cc0f95b61cce?utm_campaign=1055&utm_source=git)** | Bermuda, VA | On Site | Jun 03 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/68224a44cdaf82e297b60700?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jun 03 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Marvel Studios Business & Legal Affairs JD Intern, Fall 2025](https://jobright.ai/jobs/info/683f276bf100ad21ce1f7d8e?utm_campaign=1055&utm_source=git)** | New York, NY, USA | On Site | Jun 03 |
-| ↳ | **[Marvel Studios Business & Legal Affairs JD Intern, Fall 2025](https://jobright.ai/jobs/info/683f276bf100ad21ce1f7d96?utm_campaign=1055&utm_source=git)** | Remote Worker Location, USA | Remote | Jun 03 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Marvel Studios Business & Legal Affairs JD Intern, Fall 2025](https://jobright.ai/jobs/info/683f276bf100ad21ce1f7d96?utm_campaign=1055&utm_source=git)** | Remote Worker Location, USA | Remote | Jun 03 |
+| ↳ | **[Marvel Studios Business & Legal Affairs JD Intern, Fall 2025](https://jobright.ai/jobs/info/683f276bf100ad21ce1f7d8e?utm_campaign=1055&utm_source=git)** | New York, NY, USA | On Site | Jun 03 |
 | **[Air Methods](http://airmethods.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/683f14924e46690bd5c67177?utm_campaign=1055&utm_source=git)** | Englewood, CO | On Site | Jun 03 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/683e9145c8eff275d8ebbe07?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Jun 02 |
 | **[Saul Ewing LLP](http://www.saul.com/)** | **[Summer Associate Law Clerk](https://jobright.ai/jobs/info/68425f4306806cb3cd6a9cc4?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jun 02 |
@@ -134,7 +135,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Pickering Law Fellow (Fall start)](https://jobright.ai/jobs/info/6802dc19623b22804828203b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 01 |
 | **[Sidley Austin LLP](http://www.sidley.com)** | **[Legal Secretary Trainee](https://jobright.ai/jobs/info/683cea8d643bb55efe92b0b4?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 01 |
 | **[Cooley LLP](http://www.cooley.com)** | **[2026 Summer Associate – Labor & Employment](https://jobright.ai/jobs/info/683bef89ba832780a8fd56e5?utm_campaign=1055&utm_source=git)** | LA Metro Area | On Site | May 31 |
-| **[The Jeffcoat Firm](https://scinjurylawfirm.com)** | **[Internship - Summer 2025](https://jobright.ai/jobs/info/683af40342c3bf8827199d1d?utm_campaign=1055&utm_source=git)** | Columbia, SC | On Site | May 31 |
-| **[Amazon](https://amazon.com)** | **[2026 Risk Specialist Intern](https://jobright.ai/jobs/info/683af3a4d9344c8c1d15a02f?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | May 31 |
-| **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/67441261e2978da4d10d8234?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | May 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
