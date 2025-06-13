@@ -57,15 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[uShip](http://www.uship.com)** | **[Legal Intern](https://jobright.ai/jobs/info/684b5fc885557cd1fb999a88?utm_campaign=1055&utm_source=git)** | Austin, TX | Remote | Jun 12 |
+| **[Clarkson Law Firm](http://www.clarksonlawfirm.com/)** | **[2/3L Fall Law Clerk](https://jobright.ai/jobs/info/684b59e2ef081b65d1ed8fea?utm_campaign=1055&utm_source=git)** | Malibu, CA | Remote | Jun 12 |
+| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Strategy/Compliance Intern](https://jobright.ai/jobs/info/684b4d5950464e53b59a4d6a?utm_campaign=1055&utm_source=git)** | Norwalk, CT | Hybrid | Jun 12 |
+| ↳ | **[Strategy/Compliance Intern](https://jobright.ai/jobs/info/684b3ae4ebca4af0f93cede8?utm_campaign=1055&utm_source=git)** | HEI Hotels and Resorts Corporate Office - Norwalk, CT | On Site | Jun 12 |
+| **[New York Legal Assistance Group](https://www.nylag.org)** | **[Fall Legal Intern, Consumer Protection Unit](https://jobright.ai/jobs/info/684b2d16cadb5bd34e6d9826?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 12 |
 | **[TransMedics, Inc.](http://www.transmedics.com/wt/home/index)** | **[Legal Intern](https://jobright.ai/jobs/info/684b0df2b2026e55d27ff8cf?utm_campaign=1055&utm_source=git)** | Andover, MA | On Site | Jun 12 |
 | **[ARETUM](https://www.aretum.com)** | **[Summer Intern - Contracts](https://jobright.ai/jobs/info/684afae246f20a50d199e50e?utm_campaign=1055&utm_source=git)** | Tysons Corner, VA | On Site | Jun 12 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Legal Intern](https://jobright.ai/jobs/info/684ae81a200a842de20d6072?utm_campaign=1055&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Jun 12 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/684ae7ffa6f34088cf9d3249?utm_campaign=1055&utm_source=git)** | Beachwood, OH | Hybrid | Jun 12 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Quality Compliance & Oversight (QCO) Intern](https://jobright.ai/jobs/info/684ac767c96a6723b4f023cb?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jun 12 |
 | **[Cooley LLP](http://www.cooley.com)** | **[2026 Summer Associate – Business Restructuring](https://jobright.ai/jobs/info/684ac3baf563153b359fd25f?utm_campaign=1055&utm_source=git)** | LA Metro Area | On Site | Jun 12 |
+| ↳ | **[2026 Summer Associate – Real Estate - Transactions](https://jobright.ai/jobs/info/67fee0b2b0c067d54f11154e?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Jun 12 |
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/680b709e211719a65a88ab59?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Jun 12 |
 | **[MBTA](http://mbta.com)** | **[Quality Compliance & Oversight (QCO) Co-Op](https://jobright.ai/jobs/info/684a498064fc6ac7462a8329?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jun 11 |
-| **[Port Houston](https://porthouston.com/)** | **[Intern, Enterprise Risk Managment](https://jobright.ai/jobs/info/684a2a630c54e7c466e1974a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 11 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Internship (Fall 2025)](https://jobright.ai/jobs/info/6849d6f0e9076f7b4bb78ce4?utm_campaign=1055&utm_source=git)** | Baltimore | On Site | Jun 11 |
 | **[Clarkson Law Firm](http://www.clarksonlawfirm.com/)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/6849b7e08af96ec556024285?utm_campaign=1055&utm_source=git)** | Malibu, CA | Hybrid | Jun 11 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Analyst) - Desktop Governance & Compliance](https://jobright.ai/jobs/info/682d2244c7da76624a258beb?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Jun 11 |
@@ -82,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern – Enterprise Risk Management](https://jobright.ai/jobs/info/680fc78a35a238913c02298c?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | On Site | Jun 10 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[2026 Legal Internship](https://jobright.ai/jobs/info/68488cb009fdf60d89737a05?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jun 10 |
 | **[State Bar of California](http://calbar.ca.gov)** | **[Legal Externship - Office of General Counsel](https://jobright.ai/jobs/info/68486208ac6a3612f8c02f73?utm_campaign=1055&utm_source=git)** | 180 Howard Street, San Francisco, CA, 94105, US | Hybrid | Jun 10 |
-| **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Legal Fellow](https://jobright.ai/jobs/info/68486208ac6a3612f8c030ab?utm_campaign=1055&utm_source=git)** | Lynchburg, VA | On Site | Jun 10 |
 | **[United Supermarkets, LLC](http://www.unitedtexas.com/)** | **[Compliance/Nutrition Intern](https://jobright.ai/jobs/info/68483c422a5fb10072d4a836?utm_campaign=1055&utm_source=git)** | Lubbock, TX | On Site | Jun 10 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2025 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/682b24ecff45e283259d96ca?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jun 10 |
 | **[Nokia](http://www.nokia.com)** | **[Legal, Compliance & Sustainability Coop](https://jobright.ai/jobs/info/681006a5ef63c6656d58cdcc?utm_campaign=1055&utm_source=git)** | New Providence, NJ | Hybrid | Jun 10 |
@@ -91,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Butler Snow LLP](https://www.butlersnow.com/)** | **[Summer Associate 2026](https://jobright.ai/jobs/info/6848b253508b17213abaec99?utm_campaign=1055&utm_source=git)** | Ridgeland, MS | On Site | Jun 09 |
 | **[Unite Us](https://uniteus.com)** | **[Legal Intern ](https://jobright.ai/jobs/info/684762e9280bb5310834712c?utm_campaign=1055&utm_source=git)** | New York, New York | On Site | Jun 09 |
 | **[Dolby OptiView](https://dolby.io)** | **[Legal Operations Intern (Fall 2025)](https://jobright.ai/jobs/info/684761a3e5385904cd1bfa93?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 09 |
-| **[Maricopa County](http://www.maricopa.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/68474b3149d66ce393068bb6?utm_campaign=1055&utm_source=git)** | 175 W Madison St, Phoenix, AZ 85003 | On Site | Jun 09 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68474b3149d66ce393068edf?utm_campaign=1055&utm_source=git)** | 222 N Central Ave, Phoenix, AZ 85004 | On Site | Jun 09 |
+| **[Maricopa County](http://www.maricopa.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/68474b3149d66ce393068edf?utm_campaign=1055&utm_source=git)** | 222 N Central Ave, Phoenix, AZ 85004 | On Site | Jun 09 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68474b3149d66ce393068bb6?utm_campaign=1055&utm_source=git)** | 175 W Madison St, Phoenix, AZ 85003 | On Site | Jun 09 |
 | **[Whataburger](http://www.whataburger.com)** | **[Office of General Counsel Intern (Part-time)](https://jobright.ai/jobs/info/684740cdcb0c2ff82bb0ada2?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Jun 09 |
 | ↳ | **[Office of General Counsel Intern](https://jobright.ai/jobs/info/684740cdcb0c2ff82bb0ade4?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Jun 09 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Legal Operations Intern (Fall 2025)](https://jobright.ai/jobs/info/684729a7cd3a1f70ebe3fc4c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
@@ -102,13 +106,12 @@ For a complete list, click the following sortable link below:
 | **[Whataburger](http://www.whataburger.com)** | **[Office of General Counsel Intern (Part-time)](https://jobright.ai/jobs/info/6846ff30aede8872d21b5144?utm_campaign=1055&utm_source=git)** | 300 Concord Plaza Dr San Antonio TX 78216-6903 | On Site | Jun 09 |
 | ↳ | **[Office of General Counsel Intern](https://jobright.ai/jobs/info/6846ff30aede8872d21b514b?utm_campaign=1055&utm_source=git)** | 300 Concord Plaza Dr San Antonio TX 78216-6903 | On Site | Jun 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Mortgage Servicing Response)](https://jobright.ai/jobs/info/6846f33443f592f81464fcd4?utm_campaign=1055&utm_source=git)** | Vienna, VA, United States | On Site | Jun 09 |
-| **[Sallie Mae](https://www.salliemae.com)** | **[Legal Intern](https://jobright.ai/jobs/info/684664141237fec9148fbc7e?utm_campaign=1055&utm_source=git)** | Newark, DE | Hybrid | Jun 08 |
+| **[Sallie Mae](https://www.salliemae.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68468ba9a61f1b91b5e2e47a?utm_campaign=1055&utm_source=git)** | Newark, DE | Hybrid | Jun 09 |
 | **[Kuehne+Nagel](http://www.kuehne-nagel.com)** | **[Customs Intern](https://jobright.ai/jobs/info/6845969da72002ec9eae2d42?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | On Site | Jun 08 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[SkillBridge Trainee - Legal Counsel Intern](https://jobright.ai/jobs/info/680be1805096f46f3ea0ac04?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Jun 08 |
 | **[K&L Gates](http://www.klgates.com/)** | **[National Security and International Trade Law Clerk](https://jobright.ai/jobs/info/680a8720d342b9e409012b74?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 07 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Payer Strategy Student Intern](https://jobright.ai/jobs/info/6844d7e234586cf33b059c7e?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Jun 07 |
 | **[ESCO Technologies](http://www.escotechnologies.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/684493ab3641df9c3c540e16?utm_campaign=1055&utm_source=git)** | Greater St. Louis | On Site | Jun 07 |
-| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2025 Co-Op - Legal](https://jobright.ai/jobs/info/6844765bc2981a79ba658675?utm_campaign=1055&utm_source=git)** | Burlington, MA | On Site | Jun 07 |
 | **[Cincinnati Children's](http://cincinnatichildrens.org)** | **[Pharmacy Intern I](https://jobright.ai/jobs/info/68278fc4c9d12d69f019d51c?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jun 07 |
 | **[Medpace](http://www.medpace.com)** | **[Regulatory Research Fall 2025 Intern](https://jobright.ai/jobs/info/6799a5f27b45d044d3fd9e63?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 07 |
 | **[Arcadis](http://www.arcadis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/680ade422c05e3c4b90c893b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 06 |
@@ -122,13 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/67a0394359663c8c5d433c8b?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Jun 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Risk Arbitration Analyst Intern (Monetization Integrity) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/682648301ff0402117fb6e00?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Jun 06 |
 | **[Cooley LLP](http://www.cooley.com)** | **[2026 Summer Associate – Trademark](https://jobright.ai/jobs/info/68082aa951246f8e727b9e5e?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 06 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Operational Alignment & Compliance (Spring 2026)](https://jobright.ai/jobs/info/68429501e9520a51adaa35f5?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Jun 06 |
-| **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Houston, TX](https://jobright.ai/jobs/info/684272cfa15c2e6579b77111?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 05 |
-| ↳ | **[Summer Associate 2026 - Cincinnati, OH](https://jobright.ai/jobs/info/684272cfa15c2e6579b77113?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jun 05 |
-| ↳ | **[Summer Associate 2026 - Columbus, OH](https://jobright.ai/jobs/info/684272cfa15c2e6579b7713b?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jun 05 |
-| ↳ | **[Summer Associate 2026 - Denver, CO](https://jobright.ai/jobs/info/684272cfa15c2e6579b77124?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jun 05 |
-| ↳ | **[Summer Associate 2026 - Bethesda, MD](https://jobright.ai/jobs/info/684272cfa15c2e6579b7710c?utm_campaign=1055&utm_source=git)** | Bethesda, MD | On Site | Jun 05 |
-| ↳ | **[Summer Associate 2026 - St. Louis, MO](https://jobright.ai/jobs/info/684272cfa15c2e6579b7710b?utm_campaign=1055&utm_source=git)** | Town & Country, MO | On Site | Jun 05 |
-| ↳ | **[Summer Associate 2026 - Tampa, FL](https://jobright.ai/jobs/info/684272cfa15c2e6579b770e2?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Jun 05 |
-| ↳ | **[Summer Associate 2026 - Edina, MN](https://jobright.ai/jobs/info/684272cfa15c2e6579b7713d?utm_campaign=1055&utm_source=git)** | Edina, MN | On Site | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
