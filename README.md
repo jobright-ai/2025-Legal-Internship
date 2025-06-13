@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Internship (Fall 2025)](https://jobright.ai/jobs/info/684c7447480a10a74c90fd6b?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Jun 13 |
+| **[Cook County State’s Attorney’s Office](https://www.cookcountystatesattorney.org/)** | **[Extension - Summer to Fall 2025 Unpaid Intern and Law Clerk Program](https://jobright.ai/jobs/info/684c72553af50420ea06af70?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 13 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2025 Co-Op - Legal](https://jobright.ai/jobs/info/684c6878b0ad53a79b6a2f6a?utm_campaign=1055&utm_source=git)** | Burlington, MA | On Site | Jun 13 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/684c197918ab9f8fdb479091?utm_campaign=1055&utm_source=git)** | Falls Church, VA | On Site | Jun 13 |
 | **[Real Time Resolutions, Inc.](https://www.realtimeresolutions.com)** | **[Legal Intern](https://jobright.ai/jobs/info/684bfc4a6d65db3f7dbae331?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jun 13 |
 | **[Woolpert](http://www.woolpert.com)** | **[Legal Intern](https://jobright.ai/jobs/info/684b85c8b09f72d3ec339416?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 12 |
@@ -66,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategy/Compliance Intern](https://jobright.ai/jobs/info/684b3ae4ebca4af0f93cede8?utm_campaign=1055&utm_source=git)** | HEI Hotels and Resorts Corporate Office - Norwalk, CT | On Site | Jun 12 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Sr Fraud Analyst - Year Up](https://jobright.ai/jobs/info/684b9716c906e303bf470e20?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Jun 12 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Fall Legal Intern, Consumer Protection Unit](https://jobright.ai/jobs/info/684b2d16cadb5bd34e6d9826?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 12 |
-| **[TransMedics, Inc.](http://www.transmedics.com/wt/home/index)** | **[Legal Intern](https://jobright.ai/jobs/info/684b0df2b2026e55d27ff8cf?utm_campaign=1055&utm_source=git)** | Andover, MA | On Site | Jun 12 |
 | **[ARETUM](https://www.aretum.com)** | **[Summer Intern - Contracts](https://jobright.ai/jobs/info/684afae246f20a50d199e50e?utm_campaign=1055&utm_source=git)** | Tysons Corner, VA | On Site | Jun 12 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Legal Intern](https://jobright.ai/jobs/info/684ae81a200a842de20d6071?utm_campaign=1055&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Jun 12 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/684ae7ffa6f34088cf9d3249?utm_campaign=1055&utm_source=git)** | Beachwood, OH | Hybrid | Jun 12 |
@@ -123,7 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Cincinnati Children's](http://cincinnatichildrens.org)** | **[Pharmacy Intern I](https://jobright.ai/jobs/info/68278fc4c9d12d69f019d51c?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jun 07 |
 | **[Medpace](http://www.medpace.com)** | **[Regulatory Research Fall 2025 Intern](https://jobright.ai/jobs/info/6799a5f27b45d044d3fd9e63?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 07 |
 | **[Arcadis](http://www.arcadis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/680ade422c05e3c4b90c893b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 06 |
-| **[Clark Hill Law](http://www.clarkhill.com/)** | **[2026 Summer Associate - Litigation - Pittsburgh, PA](https://jobright.ai/jobs/info/684b8fa8a36551061370dca5?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Jun 06 |
-| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Risk Management SME (CI Poly) (SkillBridge Intern) - 17408](https://jobright.ai/jobs/info/682ab9f5d37c869596eabb93?utm_campaign=1055&utm_source=git)** | Fort Meade, MD | On Site | Jun 06 |
-| **[Prolec Energy](https://www.prolec.energy)** | **[Contracts Legal Intern](https://jobright.ai/jobs/info/68437d539c2e6d36ec9231a2?utm_campaign=1055&utm_source=git)** | Waukesha County, WI | On Site | Jun 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
