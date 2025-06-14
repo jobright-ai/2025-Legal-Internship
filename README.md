@@ -57,17 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Fellowship Sponsorship, State Supreme Court Initiative](https://jobright.ai/jobs/info/684ce4675213d45f533283f9?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jun 13 |
+| **[PTC Therapeutics, Inc.](http://www.ptcbio.com)** | **[Contract, Legal Intern](https://jobright.ai/jobs/info/684cdea24de9d3ad163c5eca?utm_campaign=1055&utm_source=git)** | Warren, NJ | Hybrid | Jun 13 |
+| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Certified Criminal Law Clerk](https://jobright.ai/jobs/info/684cde200abcd95f348692a9?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Jun 13 |
+| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Fellowship Sponsorship, State Supreme Court Initiative](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5a1c?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 13 |
+| ↳ | **[Fall 2026 Fellowship Sponsorship, National Prison Project](https://jobright.ai/jobs/info/684cefcb9139e52f0ceade7e?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 13 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/684cc3c71e326d2b265eaa39?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Jun 13 |
 | ↳ | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/684c86cea6381e013f155e38?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Jun 13 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern (Fall 2025 )](https://jobright.ai/jobs/info/684c81ec4ab515ce959a51cc?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Jun 13 |
 | **[Unified Patents](http://unifiedpatents.com/)** | **[Intern](https://jobright.ai/jobs/info/684c9f42335456891b9db1a9?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Jun 13 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Internship (Fall 2025)](https://jobright.ai/jobs/info/684c7447480a10a74c90fd6b?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Jun 13 |
+| **[Cook County State’s Attorney’s Office](https://www.cookcountystatesattorney.org/)** | **[Extension - Summer to Fall 2025 Unpaid Intern and Law Clerk Program](https://jobright.ai/jobs/info/684c72553af50420ea06af70?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 13 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2025 Co-Op - Legal](https://jobright.ai/jobs/info/684c6878b0ad53a79b6a2f6a?utm_campaign=1055&utm_source=git)** | Burlington, MA | On Site | Jun 13 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/684c197918ab9f8fdb479091?utm_campaign=1055&utm_source=git)** | Falls Church, VA | On Site | Jun 13 |
 | **[FXI](https://www.fxi.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6813cd4578d1b65a02a013bf?utm_campaign=1055&utm_source=git)** | Red Bank, NJ | On Site | Jun 13 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Minneapolis)](https://jobright.ai/jobs/info/682f7c8f500e1d5a61b15dc4?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Jun 13 |
 | **[Real Time Resolutions, Inc.](https://www.realtimeresolutions.com)** | **[Legal Intern](https://jobright.ai/jobs/info/684bfc4a6d65db3f7dbae331?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jun 13 |
 | **[Woolpert](http://www.woolpert.com)** | **[Legal Intern](https://jobright.ai/jobs/info/684b85c8b09f72d3ec339416?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 12 |
-| **[Cook County State’s Attorney’s Office](https://www.cookcountystatesattorney.org/)** | **[Extension - Summer to Fall 2025 Unpaid Intern and Law Clerk Program](https://jobright.ai/jobs/info/684c797308d351b56933757c?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 12 |
+| **[New American Pathways](https://newamericanpathways.org)** | **[Immigration Intern](https://jobright.ai/jobs/info/684ccc3f855d755c58b1fccd?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jun 12 |
 | **[uShip](http://www.uship.com)** | **[Legal Intern](https://jobright.ai/jobs/info/684b5fc885557cd1fb999a88?utm_campaign=1055&utm_source=git)** | Austin, TX | Remote | Jun 12 |
 | **[Clarkson Law Firm](http://www.clarksonlawfirm.com/)** | **[2/3L Fall Law Clerk](https://jobright.ai/jobs/info/684b59e2ef081b65d1ed8fea?utm_campaign=1055&utm_source=git)** | Malibu, CA | Remote | Jun 12 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Strategy/Compliance Intern](https://jobright.ai/jobs/info/684b4d5950464e53b59a4d6a?utm_campaign=1055&utm_source=git)** | Norwalk, CT | Hybrid | Jun 12 |
