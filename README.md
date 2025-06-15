@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/684ddb7105a41ebc10bb1418?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Jun 14 |
-| **[Oracle](https://www.oracle.com/)** | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/681522284d48109cb7ee6eb6?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Jun 14 |
+| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/684e90f6e44ff36c87466b36?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Jun 15 |
+| **[Oracle](https://www.oracle.com/)** | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c69f7?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Jun 14 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Fellowship Sponsorship, State Supreme Court Initiative](https://jobright.ai/jobs/info/684ce4675213d45f533283f9?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jun 13 |
 | **[PTC Therapeutics, Inc.](http://www.ptcbio.com)** | **[Contract, Legal Intern](https://jobright.ai/jobs/info/684cdea24de9d3ad163c5eca?utm_campaign=1055&utm_source=git)** | Warren, NJ | Hybrid | Jun 13 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Certified Criminal Law Clerk](https://jobright.ai/jobs/info/684cde200abcd95f348692a9?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Jun 13 |
@@ -68,21 +68,20 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern (Fall 2025 )](https://jobright.ai/jobs/info/684c81ec4ab515ce959a51cc?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Jun 13 |
 | **[Unified Patents](http://unifiedpatents.com/)** | **[Intern](https://jobright.ai/jobs/info/684c9f42335456891b9db1a9?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Jun 13 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Internship (Fall 2025)](https://jobright.ai/jobs/info/684c7447480a10a74c90fd6b?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Jun 13 |
+| **[Cook County State’s Attorney’s Office](https://www.cookcountystatesattorney.org/)** | **[Extension - Summer to Fall 2025 Unpaid Intern and Law Clerk Program](https://jobright.ai/jobs/info/684c72553af50420ea06af70?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 13 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2025 Co-Op - Legal](https://jobright.ai/jobs/info/684c6878b0ad53a79b6a2f6a?utm_campaign=1055&utm_source=git)** | Burlington, MA | On Site | Jun 13 |
 | **[FXI](https://www.fxi.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6813cd4578d1b65a02a013bf?utm_campaign=1055&utm_source=git)** | Red Bank, NJ | On Site | Jun 13 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Minneapolis)](https://jobright.ai/jobs/info/682f7c8f500e1d5a61b15dc4?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Jun 13 |
 | **[Real Time Resolutions, Inc.](https://www.realtimeresolutions.com)** | **[Legal Intern](https://jobright.ai/jobs/info/684bfc4a6d65db3f7dbae331?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jun 13 |
 | **[Woolpert](http://www.woolpert.com)** | **[Legal Intern](https://jobright.ai/jobs/info/684b85c8b09f72d3ec339416?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 12 |
-| **[Cook County State’s Attorney’s Office](https://www.cookcountystatesattorney.org/)** | **[Extension - Summer to Fall 2025 Unpaid Intern and Law Clerk Program](https://jobright.ai/jobs/info/684c797308d351b56933757c?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 12 |
 | **[New American Pathways](https://newamericanpathways.org)** | **[Immigration Intern](https://jobright.ai/jobs/info/684ccc3f855d755c58b1fccd?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jun 12 |
 | **[uShip](http://www.uship.com)** | **[Legal Intern](https://jobright.ai/jobs/info/684b5fc885557cd1fb999a88?utm_campaign=1055&utm_source=git)** | Austin, TX | Remote | Jun 12 |
 | **[Clarkson Law Firm](http://www.clarksonlawfirm.com/)** | **[2/3L Fall Law Clerk](https://jobright.ai/jobs/info/684b59e2ef081b65d1ed8fea?utm_campaign=1055&utm_source=git)** | Malibu, CA | Remote | Jun 12 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Strategy/Compliance Intern](https://jobright.ai/jobs/info/684b4d5950464e53b59a4d6a?utm_campaign=1055&utm_source=git)** | Norwalk, CT | Hybrid | Jun 12 |
 | ↳ | **[Strategy/Compliance Intern](https://jobright.ai/jobs/info/684b3ae4ebca4af0f93cede8?utm_campaign=1055&utm_source=git)** | HEI Hotels and Resorts Corporate Office - Norwalk, CT | On Site | Jun 12 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Sr Fraud Analyst - Year Up](https://jobright.ai/jobs/info/684b9716c906e303bf470e20?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Jun 12 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Fall Legal Intern, Consumer Protection Unit](https://jobright.ai/jobs/info/684b2d16cadb5bd34e6d9826?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 12 |
 | **[ARETUM](https://www.aretum.com)** | **[Summer Intern - Contracts](https://jobright.ai/jobs/info/684afae246f20a50d199e50e?utm_campaign=1055&utm_source=git)** | Tysons Corner, VA | On Site | Jun 12 |
-| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Legal Intern](https://jobright.ai/jobs/info/684ae81a200a842de20d6072?utm_campaign=1055&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Jun 12 |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Legal Intern](https://jobright.ai/jobs/info/684ae81a200a842de20d6071?utm_campaign=1055&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Jun 12 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/684ae7ffa6f34088cf9d3249?utm_campaign=1055&utm_source=git)** | Beachwood, OH | Hybrid | Jun 12 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Litigation Specialist Intern](https://jobright.ai/jobs/info/6822a14d2786e42a2342843a?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jun 12 |
 | **[MAN Energy Solutions](https://www.man-es.com/)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Jun 12 |
@@ -132,6 +131,4 @@ For a complete list, click the following sortable link below:
 | **[Whataburger](http://www.whataburger.com)** | **[Office of General Counsel Intern (Part-time)](https://jobright.ai/jobs/info/6846ff30aede8872d21b5144?utm_campaign=1055&utm_source=git)** | 300 Concord Plaza Dr San Antonio TX 78216-6903 | On Site | Jun 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Mortgage Servicing Response)](https://jobright.ai/jobs/info/6846f33443f592f81464fcd4?utm_campaign=1055&utm_source=git)** | Vienna, VA, United States | On Site | Jun 09 |
 | **[Sallie Mae](https://www.salliemae.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68468ba9a61f1b91b5e2e47a?utm_campaign=1055&utm_source=git)** | Newark, DE | Hybrid | Jun 09 |
-| **[Kuehne+Nagel](http://www.kuehne-nagel.com)** | **[Customs Intern](https://jobright.ai/jobs/info/6845969da72002ec9eae2d42?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | On Site | Jun 08 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[SkillBridge Trainee - Legal Counsel Intern](https://jobright.ai/jobs/info/680be1805096f46f3ea0ac04?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
