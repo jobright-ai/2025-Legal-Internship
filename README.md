@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Unified Patents](http://unifiedpatents.com/)** | **[Intern](https://jobright.ai/jobs/info/684f5e853d24f56e1a87ee95?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Jun 15 |
+| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/684f251e482512b482898f5f?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Jun 15 |
 | **[Cooley LLP](http://www.cooley.com)** | **[2026 Summer Associate – Labor & Employment](https://jobright.ai/jobs/info/684f0501c0a55cf7c5f52cb0?utm_campaign=1055&utm_source=git)** | LA Metro Area | On Site | Jun 15 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c6960?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 15 |
+| ↳ | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c69f9?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jun 15 |
+| **[Oracle](https://www.oracle.com/)** | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c69fa?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jun 14 |
 | **[Kuehne+Nagel](http://www.kuehne-nagel.com)** | **[Customs Intern - Summer](https://jobright.ai/jobs/info/6831cf1c1072d006d6eae094?utm_campaign=1055&utm_source=git)** | McAllen, TX | On Site | Jun 14 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/681522284d48109cb7ee6eb6?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Jun 14 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Fellowship Sponsorship, State Supreme Court Initiative](https://jobright.ai/jobs/info/684ce4675213d45f533283f9?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jun 13 |
@@ -131,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Thomas J. Henry Law](http://thomasjhenrylaw.com)** | **[1L Summer Associate](https://jobright.ai/jobs/info/68471b3ffafe4a7db8fc3044?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Jun 09 |
 | **[Whataburger](http://www.whataburger.com)** | **[Office of General Counsel Intern (Part-time)](https://jobright.ai/jobs/info/6846ff30aede8872d21b5144?utm_campaign=1055&utm_source=git)** | 300 Concord Plaza Dr San Antonio TX 78216-6903 | On Site | Jun 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Mortgage Servicing Response)](https://jobright.ai/jobs/info/6846f33443f592f81464fcd4?utm_campaign=1055&utm_source=git)** | Vienna, VA, United States | On Site | Jun 09 |
-| **[Sallie Mae](https://www.salliemae.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68468ba9a61f1b91b5e2e47a?utm_campaign=1055&utm_source=git)** | Newark, DE | Hybrid | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
