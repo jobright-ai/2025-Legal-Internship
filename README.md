@@ -57,18 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Operational Alignment & Compliance (Spring 2026)](https://jobright.ai/jobs/info/6856a46dae0608f715a8a449?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Jun 21 |
+| **[ACLU](https://www.aclu.org/)** | **[Fall 2025 Legal Intern, Immigrants' Rights Project, SF](https://jobright.ai/jobs/info/6856caab0625096fd9cf1b89?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 21 |
+| ↳ | **[Fall 2025 Legal Intern, Criminal Law Reform Project](https://jobright.ai/jobs/info/6856c3eb60d0691700ed093b?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 21 |
+| ↳ | **[Fall 2026 Fellowship Sponsorship, Capital Punishment Project](https://jobright.ai/jobs/info/6856c3eb60d0691700ed0965?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 21 |
+| ↳ | **[Fall 2026 Fellowship Sponsorship, Capital Punishment Project](https://jobright.ai/jobs/info/6856c3eb60d0691700ed0d04?utm_campaign=1055&utm_source=git)** | Durham, NC | Hybrid | Jun 21 |
 | **[ACLU](https://www.aclu.org/)** | **[Legal Fellow, Reproductive Freedom Project](https://jobright.ai/jobs/info/685625e1bc541e6170c5045d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jun 20 |
 | **[Kuehne+Nagel](http://www.kuehne-nagel.com)** | **[Customs Intern](https://jobright.ai/jobs/info/68560dfdc2b2cd68886d9333?utm_campaign=1055&utm_source=git)** | El Paso, TX | On Site | Jun 20 |
-| **[ACLU](https://www.aclu.org/)** | **[Fall 2025 Legal Intern, Abortion Criminal Defense Initiative](https://jobright.ai/jobs/info/68560dfdc2b2cd68886d92cc?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 20 |
-| ↳ | **[Fall 2025 Legal Intern, Abortion Criminal Defense Initiative](https://jobright.ai/jobs/info/68560dfdc2b2cd68886d95fa?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 20 |
+| **[ACLU](https://www.aclu.org/)** | **[Fall 2025 Legal Intern, Abortion Criminal Defense Initiative](https://jobright.ai/jobs/info/68560dfdc2b2cd68886d95fa?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 20 |
+| ↳ | **[Fall 2025 Legal Intern, Abortion Criminal Defense Initiative](https://jobright.ai/jobs/info/68560dfdc2b2cd68886d92cc?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 20 |
 | **[Jun Wang & Associates, P.C.](https://junwanglaw.com/)** | **[Law Clerk - Immediate Start Only](https://jobright.ai/jobs/info/68568226c3193c83ac1f5ba5?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 20 |
 | **[iHerb, LLC](http://www.iherb.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6855bc5690528a0f65361497?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Jun 20 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[Medicolegal Death Investigator (MDI) Intern](https://jobright.ai/jobs/info/6855b5982d77e62fc9ea8e38?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | Hybrid | Jun 20 |
 | ↳ | **[Medicolegal Death Investigator (MDI) Intern](https://jobright.ai/jobs/info/68558dd082e739e7aac38598?utm_campaign=1055&utm_source=git)** | 701 W Jefferson St, Phoenix, AZ 85007 | On Site | Jun 20 |
 | **[iHerb, LLC](http://www.iherb.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68558c41dbf988ef1388563d?utm_campaign=1055&utm_source=git)** | United States of America - Irvine, California | On Site | Jun 20 |
+| **[Natus Medical Incorporated](http://www.natus.com)** | **[Legal Intern - Corporate Governance & Healthcare Compliance](https://jobright.ai/jobs/info/6840e4600ae2704e22dea807?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | Hybrid | Jun 20 |
 | **[moomoo ](https://www.moomoo.com)** | **[Unpaid Legal/Compliance Intern](https://jobright.ai/jobs/info/685484a900b0279362b4d169?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Jun 19 |
 | **[ENGIE Global Energy Management & Sales (GEMS)](https://gems.engie.com)** | **[Risk Control Intern](https://jobright.ai/jobs/info/6836ff1fcd4225e591efe118?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 19 |
+| **[MannKind Corporation](http://mannkindcorp.com)** | **[Legal Externship - Fall 2025](https://jobright.ai/jobs/info/681c6f427f82d9187080505e?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Jun 19 |
+| **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c4a3540b75ccc99fad2899?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jun 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Compliance - Real Estate Lending)](https://jobright.ai/jobs/info/6837bdcfb88e91dcda2b3b8e?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Jun 19 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f08a?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jun 19 |
 | ↳ | **[2026 2L Regulatory Summer Associate (Washington, D.C.)](https://jobright.ai/jobs/info/67c45638f869e14c19976231?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 19 |
@@ -91,7 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Upgrade, Inc.](http://www.upgrade.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68533b4b901b84409d4e5e26?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jun 18 |
 | **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Impact Litigation (Fall)](https://jobright.ai/jobs/info/685315305cd31e0b4ade73c7?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 18 |
 | **[GEP Worldwide](https://www.gep.com)** | **[Paralegal - Intern](https://jobright.ai/jobs/info/685315305cd31e0b4ade7537?utm_campaign=1055&utm_source=git)** | US-NJ-Clark | Hybrid | Jun 18 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/68530f0e3f24d7c4b2cdba66?utm_campaign=1055&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Jun 18 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/685315305cd31e0b4ade73ed?utm_campaign=1055&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Jun 18 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/685308b1d50947d600f6c061?utm_campaign=1055&utm_source=git)** | Garden Grove, CA | On Site | Jun 18 |
 | ↳ | **[Intern, Legal](https://jobright.ai/jobs/info/6853053b586d1b8ea70243aa?utm_campaign=1055&utm_source=git)** | Garden Grove, CA | On Site | Jun 18 |
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3db0?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jun 18 |
@@ -144,8 +150,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c6960?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 15 |
 | **[iHealth Labs](http://www.ihealthlabs.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6851499337a40ebe63267219?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | On Site | Jun 15 |
 | **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e228ad?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Jun 14 |
-| **[Oracle](https://www.oracle.com/)** | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c69f8?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jun 14 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (NYC)](https://jobright.ai/jobs/info/6830cbff8ecef5bba03b929a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jun 14 |
-| **[Oracle](https://www.oracle.com/)** | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c69fa?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jun 14 |
-| **[IGT](http://igt.com)** | **[Intern- Security and Compliance](https://jobright.ai/jobs/info/6830a932721aa256d7425f13?utm_campaign=1055&utm_source=git)** | Lakeland, FL | On Site | Jun 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
