@@ -61,9 +61,9 @@ For a complete list, click the following sortable link below:
 | **[Real Time Resolutions, Inc.](https://www.realtimeresolutions.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6857ccaf5ac3faa0219c1c92?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jun 22 |
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/67441261e2978da4d10d8234?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jun 21 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2025 Legal Intern, Immigrants' Rights Project, SF](https://jobright.ai/jobs/info/6856caab0625096fd9cf1b89?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 21 |
-| ↳ | **[Fall 2026 Fellowship Sponsorship, Capital Punishment Project](https://jobright.ai/jobs/info/6856c3eb60d0691700ed0965?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 21 |
 | ↳ | **[Fall 2026 Fellowship Sponsorship, Capital Punishment Project](https://jobright.ai/jobs/info/6856c3eb60d0691700ed0d04?utm_campaign=1055&utm_source=git)** | Durham, NC | Hybrid | Jun 21 |
 | ↳ | **[Fall 2025 Legal Intern, Criminal Law Reform Project](https://jobright.ai/jobs/info/6856c3eb60d0691700ed093b?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 21 |
+| ↳ | **[Fall 2026 Fellowship Sponsorship, Capital Punishment Project](https://jobright.ai/jobs/info/6856c3eb60d0691700ed0965?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 21 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/683a3eb5ed34bb2251d34557?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jun 21 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2025 Legal Intern, Immigrants' Rights Project](https://jobright.ai/jobs/info/68577288127547bbd660ad88?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 21 |
 | ↳ | **[Fall 2026 Fellowship Sponsorship, Capital Punishment Project](https://jobright.ai/jobs/info/68577288127547bbd660b011?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jun 21 |
@@ -104,13 +104,14 @@ For a complete list, click the following sortable link below:
 | **[Lennox](http://www.lennox.com)** | **[Legal Admin Intern](https://jobright.ai/jobs/info/6853d8b81088865f813bad2c?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Jun 18 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c4a3540b75ccc99fad2898?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Jun 18 |
 | **[Roche](http://www.roche.com)** | **[PD Technical Regulatory Intern](https://jobright.ai/jobs/info/67fe065f7f19e826ca7eb9df?utm_campaign=1055&utm_source=git)** | Shanghai, VA | On Site | Jun 18 |
+| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/68191100c93186a3e89670ed?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Jun 18 |
 | **[Aptive Environmental](http://goaptive.com/)** | **[Licensing Intern](https://jobright.ai/jobs/info/6855ef737a03d808fd0c63ef?utm_campaign=1055&utm_source=git)** | Provo, UT | On Site | Jun 18 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Legal Assistant (Intern)-FlexStaff (TEMP)](https://jobright.ai/jobs/info/68532636de65909e9769135e?utm_campaign=1055&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | Jun 18 |
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3db7?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 18 |
 | **[Upgrade, Inc.](http://www.upgrade.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68533b4b901b84409d4e5e26?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jun 18 |
 | **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Impact Litigation (Fall)](https://jobright.ai/jobs/info/685315305cd31e0b4ade73c7?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 18 |
 | **[GEP Worldwide](https://www.gep.com)** | **[Paralegal - Intern](https://jobright.ai/jobs/info/685315305cd31e0b4ade7537?utm_campaign=1055&utm_source=git)** | US-NJ-Clark | Hybrid | Jun 18 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/68530f0e3f24d7c4b2cdba66?utm_campaign=1055&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Jun 18 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/685315305cd31e0b4ade73ed?utm_campaign=1055&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Jun 18 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/685308b1d50947d600f6c061?utm_campaign=1055&utm_source=git)** | Garden Grove, CA | On Site | Jun 18 |
 | ↳ | **[Intern, Legal](https://jobright.ai/jobs/info/6853053b586d1b8ea70243aa?utm_campaign=1055&utm_source=git)** | Garden Grove, CA | On Site | Jun 18 |
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3db0?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jun 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[Corporate Paralegal Apprentice](https://jobright.ai/jobs/info/68501ec760f238f0eb1644a2?utm_campaign=1055&utm_source=git)** | Atlanta,Georgia,United States | On Site | Jun 16 |
 | ↳ | **[Corporate Paralegal Apprentice](https://jobright.ai/jobs/info/68501dc7d91a59db229fadc4?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jun 16 |
 | **[The D. E. Shaw Group](https://www.deshaw.com)** | **[Legal & Compliance Intern (New York) – Summer 2026](https://jobright.ai/jobs/info/685012f0be7ee84085da7037?utm_campaign=1055&utm_source=git)** | New York | On Site | Jun 16 |
-| **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c3f636c80805021f5431f4?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
