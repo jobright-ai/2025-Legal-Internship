@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ALKEGEN](https://alkegen.com/)** | **[Legal Services Summer Internship](https://jobright.ai/jobs/info/6859e6060b804256a07bca0a?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jun 23 |
+| **[Accordion](https://www.accordionpartners.com)** | **[Legal Extern (Fall/Winter 2025)](https://jobright.ai/jobs/info/6859c36b8c4ce1f832dd88de?utm_campaign=1055&utm_source=git)** | Los Angeles | On Site | Jun 23 |
+| **[Cleveland Cavaliers](http://www.cavs.com)** | **[Legal Fellow (2025-26 Season)](https://jobright.ai/jobs/info/6859b5e232ac1863031389f1?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Jun 23 |
 | **[ALKEGEN](https://alkegen.com/)** | **[Legal Services Summer Internship](https://jobright.ai/jobs/info/6859a81a4241677d91526686?utm_campaign=1055&utm_source=git)** | Dallas, Texas | On Site | Jun 23 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Compliance Intern - Monitoring, Analytics and Reporting](https://jobright.ai/jobs/info/68599ff61e0ccd0524a78cee?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jun 23 |
+| **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[District Court Judicial Law Clerk](https://jobright.ai/jobs/info/6859b9709fd382d77ee20ee6?utm_campaign=1055&utm_source=git)** | Rochester Hills, MI | On Site | Jun 23 |
 | **[TÜV SÜD](http://www.tuv-sud.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68598ce1d66e0e7fc47c5b65?utm_campaign=1055&utm_source=git)** | Wakefield, MA | Hybrid | Jun 23 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Tech Compliance Support](https://jobright.ai/jobs/info/68598ce1d66e0e7fc47c5d16?utm_campaign=1055&utm_source=git)** | Overland Park, KS | Hybrid | Jun 23 |
 | **[Kuehne+Nagel](http://www.kuehne-nagel.com)** | **[Customs Intern](https://jobright.ai/jobs/info/685955314fdc6f5c0b26d71d?utm_campaign=1055&utm_source=git)** | El Paso, TX | On Site | Jun 23 |
@@ -78,9 +82,9 @@ For a complete list, click the following sortable link below:
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c4a9046ce16cb4c2ecbb06?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Jun 20 |
 | **[Allstate](http://www.allstate.com)** | **[Client Legal Services Paralegal Specialist Apprentice Program](https://jobright.ai/jobs/info/6858f33476e6a69a5b8f7ae9?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jun 19 |
 | **[ENGIE Global Energy Management & Sales (GEMS)](https://gems.engie.com)** | **[Risk Control Intern](https://jobright.ai/jobs/info/68370ce86ebc4083e42a64b7?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Jun 19 |
-| **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[Legal Intern](https://jobright.ai/jobs/info/68375340a4a8b1b302203c2a?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jun 19 |
 | **[moomoo ](https://www.moomoo.com)** | **[Unpaid Legal/Compliance Intern](https://jobright.ai/jobs/info/685484a900b0279362b4d169?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Jun 19 |
 | **[ENGIE Global Energy Management & Sales (GEMS)](https://gems.engie.com)** | **[Risk Control Intern](https://jobright.ai/jobs/info/6836ff1fcd4225e591efe118?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 19 |
+| **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f089?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 19 |
 | **[MannKind Corporation](http://mannkindcorp.com)** | **[Legal Externship - Fall 2025](https://jobright.ai/jobs/info/681c6f427f82d9187080505e?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Jun 19 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c4a3540b75ccc99fad2899?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jun 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Compliance - Real Estate Lending)](https://jobright.ai/jobs/info/6837bdcfb88e91dcda2b3b8e?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Jun 19 |
@@ -131,10 +135,9 @@ For a complete list, click the following sortable link below:
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/67c4ab04e8986607dd82f4a3?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jun 18 |
 | ↳ | **[2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/67c4ab04e8986607dd82f4a2?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
 | **[K&L Gates](http://www.klgates.com/)** | **[National Security and International Trade Law Clerk](https://jobright.ai/jobs/info/6818ffc75776c6c4efe60fd0?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 18 |
-| **[Thomson Reuters](http://thomsonreuters.com)** | **[Practical Law Real Estate Internship](https://jobright.ai/jobs/info/683656a4fb8f8576d3e31ec8?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jun 18 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Fall 2025](https://jobright.ai/jobs/info/68190da131c47f451c460eb4?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 18 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Digital Rights Intern](https://jobright.ai/jobs/info/685213b4a7d038569ef1fe57?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jun 17 |
-| ↳ | **[Digital Rights Intern](https://jobright.ai/jobs/info/685213b4a7d038569ef200c4?utm_campaign=1055&utm_source=git)** | Remote (Los Angeles, California, US) | Hybrid | Jun 17 |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Digital Rights Intern](https://jobright.ai/jobs/info/685213b4a7d038569ef200c4?utm_campaign=1055&utm_source=git)** | Remote (Los Angeles, California, US) | Hybrid | Jun 17 |
+| ↳ | **[Digital Rights Intern](https://jobright.ai/jobs/info/685213b4a7d038569ef1fe57?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jun 17 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68520b266a155e5478c06626?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jun 17 |
 | **[SAP](https://www.sap.com)** | **[SAP CSA iXp Intern - Information Security Compliance Analyst](https://jobright.ai/jobs/info/68520089a447b26d3883d115?utm_campaign=1055&utm_source=git)** | Newtown Square, PA | Hybrid | Jun 17 |
 | **[Dolby OptiView](https://dolby.io)** | **[Legal Intern](https://jobright.ai/jobs/info/6851e7cef2d8f0e4b4172bd2?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jun 17 |
@@ -145,6 +148,4 @@ For a complete list, click the following sortable link below:
 | **[Safelite](http://www.safelite.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6851b236ace462bbaa32302c?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jun 17 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68519ca455f14fb37e672f86?utm_campaign=1055&utm_source=git)** | COLUMBUS, OH | On Site | Jun 17 |
 | **[K&L Gates](http://www.klgates.com/)** | **[National Security and International Trade Law Clerk](https://jobright.ai/jobs/info/68191100c93186a3e896701e?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 17 |
-| **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[Internship - FIU BSA Intern](https://jobright.ai/jobs/info/68593692353e3be10cb04545?utm_campaign=1055&utm_source=git)** | Oneonta, NY | On Site | Jun 17 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2025 Democracy Legal Internship, NY](https://jobright.ai/jobs/info/6850dec4b74c6cfc50088046?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
