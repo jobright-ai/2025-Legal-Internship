@@ -114,7 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Upgrade, Inc.](http://www.upgrade.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68533b4b901b84409d4e5e26?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jun 18 |
 | **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Impact Litigation (Fall)](https://jobright.ai/jobs/info/685315305cd31e0b4ade73c7?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 18 |
 | **[GEP Worldwide](https://www.gep.com)** | **[Paralegal - Intern](https://jobright.ai/jobs/info/685315305cd31e0b4ade7537?utm_campaign=1055&utm_source=git)** | US-NJ-Clark | Hybrid | Jun 18 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/68530f0e3f24d7c4b2cdba66?utm_campaign=1055&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Jun 18 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/685315305cd31e0b4ade73ed?utm_campaign=1055&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Jun 18 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/685308b1d50947d600f6c061?utm_campaign=1055&utm_source=git)** | Garden Grove, CA | On Site | Jun 18 |
 | ↳ | **[Intern, Legal](https://jobright.ai/jobs/info/6853053b586d1b8ea70243aa?utm_campaign=1055&utm_source=git)** | Garden Grove, CA | On Site | Jun 18 |
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3db0?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jun 18 |
@@ -127,8 +127,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/68191100c93186a3e89670ea?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jun 18 |
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Intellectual Property](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3dac?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jun 18 |
 | **[Mohawk Global](http://mohawkglobal.com)** | **[Corporate Trade Compliance Intern](https://jobright.ai/jobs/info/6852c3a6a7af83dab9e78835?utm_campaign=1055&utm_source=git)** | North Syracuse, NY | Hybrid | Jun 18 |
-| ↳ | **[Corporate Trade Compliance Intern](https://jobright.ai/jobs/info/6852bc5716510d261ce30faa?utm_campaign=1055&utm_source=git)** | Middleburg Heights, OH | Hybrid | Jun 18 |
 | ↳ | **[Corporate Trade Compliance Intern](https://jobright.ai/jobs/info/6852bc5716510d261ce3122a?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Jun 18 |
+| ↳ | **[Corporate Trade Compliance Intern](https://jobright.ai/jobs/info/6852bc5716510d261ce30faa?utm_campaign=1055&utm_source=git)** | Middleburg Heights, OH | Hybrid | Jun 18 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f08b?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 18 |
 | ↳ | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c3f256ff11c215dbdc5705?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Jun 18 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819027acf9261d3a8bf0083?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 18 |
