@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[Cyber Audit and Compliance College Aide](https://jobright.ai/jobs/info/67c9fd9efaed535026ea7ffc?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Jun 25 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern - Fall 2025](https://jobright.ai/jobs/info/685bb02abdb702ed7b7fd7f8?utm_campaign=1055&utm_source=git)** | Silver Spring, MD | On Site | Jun 25 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/685b6272ddcb51c911228dd4?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Jun 24 |
 | **[GEP Worldwide](https://www.gep.com)** | **[Paralegal Intern – Contract-to-Hire](https://jobright.ai/jobs/info/685b55315bd49a5c14b08f81?utm_campaign=1055&utm_source=git)** | US-NJ-Clark | On Site | Jun 24 |
 | **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[Ethics and Compliance Intern- Summer/Fall 2025](https://jobright.ai/jobs/info/685b43debc23eac2e2129eb0?utm_campaign=1055&utm_source=git)** | Greater Roanoke Area | Hybrid | Jun 24 |
-| **[Oliva Gibbs LLP](https://www.kolawllp.com)** | **[Law Clerk (Oklahoma City, OK)](https://jobright.ai/jobs/info/685b0b721fe76f13ca7b5ef1?utm_campaign=1055&utm_source=git)** | Edmond, OK | On Site | Jun 24 |
 | **[TSC](https://www.tsc.com/)** | **[Contracts Compliance Analyst](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc48d?utm_campaign=1055&utm_source=git)** | Greenville County, SC | Hybrid | Jun 24 |
 | **[Organogenesis](http://www.organogenesis.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc387?utm_campaign=1055&utm_source=git)** | Canton, MA | Hybrid | Jun 24 |
+| **[Oliva Gibbs LLP](https://www.kolawllp.com)** | **[Law Clerk (Oklahoma City, OK)](https://jobright.ai/jobs/info/685afaf6c056354424642d68?utm_campaign=1055&utm_source=git)** | Edmond, OK | On Site | Jun 24 |
 | **[TSC](https://www.tsc.com/)** | **[Contracts Compliance Analyst](https://jobright.ai/jobs/info/685ab7fbc040522ae064ac33?utm_campaign=1055&utm_source=git)** | SC Remote | Hybrid | Jun 24 |
+| **[Sony](http://www.sony.net)** | **[Legal Intern](https://jobright.ai/jobs/info/683e44e44df955f0404bdb0a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Digital Rights Intern](https://jobright.ai/jobs/info/685a4ddcc7361bb6020fc580?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Digital Rights Intern](https://jobright.ai/jobs/info/685a5af6b129c6a131abaa92?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jun 23 |
 | **[Accordion](https://www.accordionpartners.com)** | **[Legal Extern (Fall/Winter 2025)](https://jobright.ai/jobs/info/6859c36b8c4ce1f832dd88de?utm_campaign=1055&utm_source=git)** | Los Angeles | On Site | Jun 23 |
@@ -125,14 +127,4 @@ For a complete list, click the following sortable link below:
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c4a3540b75ccc99fad2898?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Jun 18 |
 | **[Roche](http://www.roche.com)** | **[PD Technical Regulatory Intern](https://jobright.ai/jobs/info/67fe065f7f19e826ca7eb9df?utm_campaign=1055&utm_source=git)** | Shanghai, VA | On Site | Jun 18 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/68191100c93186a3e89670ed?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Jun 18 |
-| **[Aptive Environmental](http://goaptive.com/)** | **[Licensing Intern](https://jobright.ai/jobs/info/6855ef737a03d808fd0c63ef?utm_campaign=1055&utm_source=git)** | Provo, UT | On Site | Jun 18 |
-| **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3db7?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 18 |
-| **[Upgrade, Inc.](http://www.upgrade.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68533b4b901b84409d4e5e26?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jun 18 |
-| **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Impact Litigation (Fall)](https://jobright.ai/jobs/info/685315305cd31e0b4ade73c7?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 18 |
-| **[GEP Worldwide](https://www.gep.com)** | **[Paralegal - Intern](https://jobright.ai/jobs/info/685315305cd31e0b4ade7537?utm_campaign=1055&utm_source=git)** | US-NJ-Clark | Hybrid | Jun 18 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/68530f0e3f24d7c4b2cdba66?utm_campaign=1055&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Jun 18 |
-| **[Harbinger](https://harbingermotors.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/685308b1d50947d600f6c061?utm_campaign=1055&utm_source=git)** | Garden Grove, CA | On Site | Jun 18 |
-| ↳ | **[Intern, Legal](https://jobright.ai/jobs/info/6853053b586d1b8ea70243aa?utm_campaign=1055&utm_source=git)** | Garden Grove, CA | On Site | Jun 18 |
-| **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3db0?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jun 18 |
-| **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Privacy (Fall Semester)](https://jobright.ai/jobs/info/68365a4205e2cf1db8abbf62?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
