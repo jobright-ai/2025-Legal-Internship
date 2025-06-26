@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Economic Justice Fall/Spring Legal Internship](https://jobright.ai/jobs/info/685c92e0405e076a68e993db?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 25 |
 | **[SES Satellites](http://www.ses.com)** | **[Regulatory Intern (Fall 2025)](https://jobright.ai/jobs/info/685c350d487fdc0a52b99156?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 25 |
 | **[Manhattan Institute](https://www.manhattan.institute)** | **[Law School Associate Program](https://jobright.ai/jobs/info/685c225bf1e10bde997f7429?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 25 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[Dallas Office - 2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/680648cc4db2f10bef57425e?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jun 25 |
 | **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[Cyber Audit and Compliance College Aide](https://jobright.ai/jobs/info/67c9fd9efaed535026ea7ffc?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Jun 25 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern - Fall 2025](https://jobright.ai/jobs/info/685bb02abdb702ed7b7fd7f8?utm_campaign=1055&utm_source=git)** | Silver Spring, MD | On Site | Jun 25 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/685b6272ddcb51c911228dd4?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Jun 24 |
 | **[GEP Worldwide](https://www.gep.com)** | **[Paralegal Intern – Contract-to-Hire](https://jobright.ai/jobs/info/685b55315bd49a5c14b08f81?utm_campaign=1055&utm_source=git)** | US-NJ-Clark | On Site | Jun 24 |
 | **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[Ethics and Compliance Intern- Summer/Fall 2025](https://jobright.ai/jobs/info/685b43debc23eac2e2129eb0?utm_campaign=1055&utm_source=git)** | Greater Roanoke Area | Hybrid | Jun 24 |
 | **[TSC](https://www.tsc.com/)** | **[Contracts Compliance Analyst](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc48d?utm_campaign=1055&utm_source=git)** | Greenville County, SC | Hybrid | Jun 24 |
@@ -111,10 +111,4 @@ For a complete list, click the following sortable link below:
 | **[Mechanics Bank](https://www.mechanicsbank.com/mechbank/Mbwebsite.nsf/home/index)** | **[Bank Contract Management Intern](https://jobright.ai/jobs/info/681c17fa51162154c8dcdd50?utm_campaign=1055&utm_source=git)** | Roseville, CA | On Site | Jun 19 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f08a?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jun 19 |
 | ↳ | **[2026 2L Regulatory Summer Associate (Washington, D.C.)](https://jobright.ai/jobs/info/67c45638f869e14c19976231?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 19 |
-| **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd56fcf425589cee18a0c9?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jun 19 |
-| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819027acf9261d3a8bf00a4?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 19 |
-| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819027acf9261d3a8bf0085?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jun 18 |
-| **[Aptive Environmental](http://goaptive.com/)** | **[Licensing Intern](https://jobright.ai/jobs/info/685658560b3c9de77db8ad60?utm_campaign=1055&utm_source=git)** | Provo, UT | On Site | Jun 18 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Boston)](https://jobright.ai/jobs/info/6836273d032d219d2a433bb6?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jun 18 |
-| **[ASU Enterprise Partners](http://asuenterprisepartners.org/)** | **[Law Extern](https://jobright.ai/jobs/info/68577b4b1ab4f5f7192fcf93?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
