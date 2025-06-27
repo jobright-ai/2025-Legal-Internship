@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Austin Community College](http://austincc.edu)** | **[Intern, Office of Equal Opportunity Compliance (Hourly)](https://jobright.ai/jobs/info/685ef390bad40fb8047ec6cc?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jun 27 |
+| ↳ | **[Intern, Office of Equal Opportunity Compliance (Hourly)](https://jobright.ai/jobs/info/685ead89c5ec22eb4f5249fe?utm_campaign=1055&utm_source=git)** | Highland Campus | On Site | Jun 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Risk Arbitration Analyst Intern (Monetization Integrity) - 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/682648301ff0402117fb6e00?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Jun 27 |
 | **[Yuhaaviatam of San Manuel Nation](https://sanmanuel-nsn.gov/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/685deefb2fb4aba079998b5e?utm_campaign=1055&utm_source=git)** | Highland, CA | On Site | Jun 26 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850cd6762ba50bc7c2bd40f?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Jun 26 |
@@ -84,9 +86,9 @@ For a complete list, click the following sortable link below:
 | **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[Ethics and Compliance Intern- Summer/Fall 2025](https://jobright.ai/jobs/info/685b43debc23eac2e2129eb0?utm_campaign=1055&utm_source=git)** | Greater Roanoke Area | Hybrid | Jun 24 |
 | **[AFL](http://www.AFLglobal.com)** | **[International Trade Intern- Fall 2025](https://jobright.ai/jobs/info/683e0b6ea41241a3a99d532e?utm_campaign=1055&utm_source=git)** | Duncan, SC | On Site | Jun 24 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Intern](https://jobright.ai/jobs/info/68240df6627dff6917a0db84?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | On Site | Jun 24 |
+| **[Oliva Gibbs LLP](https://www.kolawllp.com)** | **[Law Clerk (Oklahoma City, OK)](https://jobright.ai/jobs/info/685b0b721fe76f13ca7b5ef1?utm_campaign=1055&utm_source=git)** | Edmond, OK | On Site | Jun 24 |
 | **[TSC](https://www.tsc.com/)** | **[Contracts Compliance Analyst](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc48d?utm_campaign=1055&utm_source=git)** | Greenville County, SC | Hybrid | Jun 24 |
 | **[Organogenesis](http://www.organogenesis.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc387?utm_campaign=1055&utm_source=git)** | Canton, MA | Hybrid | Jun 24 |
-| **[Oliva Gibbs LLP](https://www.kolawllp.com)** | **[Law Clerk (Oklahoma City, OK)](https://jobright.ai/jobs/info/685afaf6c056354424642d68?utm_campaign=1055&utm_source=git)** | Edmond, OK | On Site | Jun 24 |
 | **[TSC](https://www.tsc.com/)** | **[Contracts Compliance Analyst](https://jobright.ai/jobs/info/685ab7fbc040522ae064ac33?utm_campaign=1055&utm_source=git)** | SC Remote | Hybrid | Jun 24 |
 | **[Sony](http://www.sony.net)** | **[Legal Intern](https://jobright.ai/jobs/info/683e44e44df955f0404bdb0a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Digital Rights Intern](https://jobright.ai/jobs/info/685a4ddcc7361bb6020fc580?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 24 |
@@ -109,5 +111,4 @@ For a complete list, click the following sortable link below:
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/683a3eb5ed34bb2251d34557?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jun 21 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Fort Lauderdale)](https://jobright.ai/jobs/info/683a648d24b1d2d95fb5b3d5?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jun 21 |
 | **[Wiss](http://www.wiss.com)** | **[Intern, Litigation Support (Fall 2025)](https://jobright.ai/jobs/info/6838756293cb50aabf3c28ee?utm_campaign=1055&utm_source=git)** | Florham Park, NJ | On Site | Jun 20 |
-| **[Jun Wang & Associates, P.C.](https://junwanglaw.com/)** | **[Law Clerk - Immediate Start Only](https://jobright.ai/jobs/info/68568226c3193c83ac1f5ba5?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
