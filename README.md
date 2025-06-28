@@ -99,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Organogenesis](http://www.organogenesis.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc387?utm_campaign=1055&utm_source=git)** | Canton, MA | Hybrid | Jun 24 |
 | **[TSC](https://www.tsc.com/)** | **[Contracts Compliance Analyst](https://jobright.ai/jobs/info/685ab7fbc040522ae064ac33?utm_campaign=1055&utm_source=git)** | SC Remote | Hybrid | Jun 24 |
 | **[Sony](http://www.sony.net)** | **[Legal Intern](https://jobright.ai/jobs/info/683e44e44df955f0404bdb0a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 24 |
+| **[Sidley Austin LLP](http://www.sidley.com)** | **[Legal Secretary Trainee](https://jobright.ai/jobs/info/683cea8d643bb55efe92b0b4?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Digital Rights Intern](https://jobright.ai/jobs/info/685a4ddcc7361bb6020fc580?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Digital Rights Intern](https://jobright.ai/jobs/info/685a5af6b129c6a131abaa92?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jun 23 |
 | **[Accordion](https://www.accordionpartners.com)** | **[Legal Extern (Fall/Winter 2025)](https://jobright.ai/jobs/info/6859c36b8c4ce1f832dd88de?utm_campaign=1055&utm_source=git)** | Los Angeles | On Site | Jun 23 |
@@ -116,6 +117,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Legal Intern, Capital Punishment Project- Justice Division](https://jobright.ai/jobs/info/685f6fd5dda593694d52976a?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Jun 21 |
 | ↳ | **[Fall 2025 Legal Intern, Immigrants' Rights Project](https://jobright.ai/jobs/info/685cca7a85b8bb36976bc9cc?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 21 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/683a6b008f1dc4958bd0befe?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Jun 21 |
-| **[Winston & Strawn LLP](https://www.winston.com)** | **[Houston Office - 2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/681d7fac2d8d94fdb384c6ec?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 21 |
-| **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/67441261e2978da4d10d8234?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jun 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
