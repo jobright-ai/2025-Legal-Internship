@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sarasota Memorial Health Care System](https://www.smh.com/)** | **[Law Student Extern](https://jobright.ai/jobs/info/685f5f40c7aeeec9fbf83ac7?utm_campaign=1055&utm_source=git)** | Sarasota, FL | On Site | Jun 27 |
+| **[Metropolitan Airports Commission](https://metroairports.org)** | **[Law Clerk](https://jobright.ai/jobs/info/685f5f40c7aeeec9fbf83a29?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jun 27 |
 | **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Real Estate Investment & Development - Raleigh](https://jobright.ai/jobs/info/685f0e6cbc4035b5c63bc463?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Jun 27 |
 | ↳ | **[2026 Summer Associate - Mergers & Acquisitions - Atlanta, Chicago, Raleigh](https://jobright.ai/jobs/info/685f011cbb6f954fa7925403?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jun 27 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Contracts](https://jobright.ai/jobs/info/685f011cbb6f954fa79252d2?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jun 27 |
@@ -115,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[Houston Office - 2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/681d7fac2d8d94fdb384c6ec?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 21 |
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/67441261e2978da4d10d8234?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jun 21 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/683a3eb5ed34bb2251d34557?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jun 21 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Fort Lauderdale)](https://jobright.ai/jobs/info/683a648d24b1d2d95fb5b3d5?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jun 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
