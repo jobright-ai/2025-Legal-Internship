@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/685fa3f579cbf09a4d2b95ed?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Jun 28 |
 | **[Sarasota Memorial Health Care System](https://www.smh.com/)** | **[Law Student Extern](https://jobright.ai/jobs/info/685f5f40c7aeeec9fbf83ac7?utm_campaign=1055&utm_source=git)** | Sarasota, FL | On Site | Jun 27 |
 | **[Metropolitan Airports Commission](https://metroairports.org)** | **[Law Clerk](https://jobright.ai/jobs/info/685f5f40c7aeeec9fbf83a29?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jun 27 |
 | **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Real Estate Investment & Development - Raleigh](https://jobright.ai/jobs/info/685f0e6cbc4035b5c63bc463?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Jun 27 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Yuhaaviatam of San Manuel Nation](https://sanmanuel-nsn.gov/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/685deefb2fb4aba079998b5e?utm_campaign=1055&utm_source=git)** | Highland, CA | On Site | Jun 26 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850cd6762ba50bc7c2bd40f?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Jun 26 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/685dacf692471452f2c9eb0e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 26 |
-| **[County of Los Angeles](https://lacounty.gov/)** | **[LAW CLERK-EMERGENCY APPOINTMENT/HOMELESS INITIATIVE](https://jobright.ai/jobs/info/685d9bd1d918a4f7adda0a46?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jun 26 |
 | **[Demant](https://www.demant.com/)** | **[Legal Intern, Summer](https://jobright.ai/jobs/info/685e6ed87bbe5fc0e09b23fd?utm_campaign=1055&utm_source=git)** | Somerset, NJ | On Site | Jun 26 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2025 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/685d7e8bf53c5c34c3a77a33?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 26 |
 | ↳ | **[Fall 2025 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/685d7ea4f53c5c34c3a77f38?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 26 |
@@ -94,9 +94,9 @@ For a complete list, click the following sortable link below:
 | **[AFL](http://www.AFLglobal.com)** | **[International Trade Intern- Fall 2025](https://jobright.ai/jobs/info/683e0b6ea41241a3a99d532e?utm_campaign=1055&utm_source=git)** | Duncan, SC | On Site | Jun 24 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Intern](https://jobright.ai/jobs/info/68240df6627dff6917a0db84?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | On Site | Jun 24 |
 | ↳ | **[Fall 2025 Immigration Casework Intern](https://jobright.ai/jobs/info/6851cef7fe2edaf8853c057e?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jun 24 |
+| **[Oliva Gibbs LLP](https://www.kolawllp.com)** | **[Law Clerk (Oklahoma City, OK)](https://jobright.ai/jobs/info/685b0b721fe76f13ca7b5ef1?utm_campaign=1055&utm_source=git)** | Edmond, OK | On Site | Jun 24 |
 | **[TSC](https://www.tsc.com/)** | **[Contracts Compliance Analyst](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc48d?utm_campaign=1055&utm_source=git)** | Greenville County, SC | Hybrid | Jun 24 |
 | **[Organogenesis](http://www.organogenesis.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc387?utm_campaign=1055&utm_source=git)** | Canton, MA | Hybrid | Jun 24 |
-| **[Oliva Gibbs LLP](https://www.kolawllp.com)** | **[Law Clerk (Oklahoma City, OK)](https://jobright.ai/jobs/info/685afaf6c0563544246433d2?utm_campaign=1055&utm_source=git)** | Edmond, OK | On Site | Jun 24 |
 | **[TSC](https://www.tsc.com/)** | **[Contracts Compliance Analyst](https://jobright.ai/jobs/info/685ab7fbc040522ae064ac33?utm_campaign=1055&utm_source=git)** | SC Remote | Hybrid | Jun 24 |
 | **[Sony](http://www.sony.net)** | **[Legal Intern](https://jobright.ai/jobs/info/683e44e44df955f0404bdb0a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Digital Rights Intern](https://jobright.ai/jobs/info/685a4ddcc7361bb6020fc580?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 24 |
@@ -110,11 +110,12 @@ For a complete list, click the following sortable link below:
 | **[moomoo ](https://www.moomoo.com)** | **[Unpaid Legal/Compliance Intern](https://jobright.ai/jobs/info/6858d8f461094df25e782104?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Jun 22 |
 | ↳ | **[Unpaid Legal/Compliance Intern](https://jobright.ai/jobs/info/68583ee1583d4c575a04b9e8?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | On Site | Jun 22 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Fellowship Sponsorship, Capital Punishment Project](https://jobright.ai/jobs/info/685cf615c82e147d26dfa45d?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 21 |
+| ↳ | **[Fall 2025 Legal Intern, Capital Punishment Project- Justice Division](https://jobright.ai/jobs/info/685f8b0387c7f34cc64a8c41?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 21 |
 | ↳ | **[Fall 2026 Fellowship Sponsorship, Capital Punishment Project](https://jobright.ai/jobs/info/685cd7b43f50673d4ea67df8?utm_campaign=1055&utm_source=git)** | Durham, NC | Hybrid | Jun 21 |
 | ↳ | **[Fall 2025 Legal Intern, Immigrants' Rights Project, SF](https://jobright.ai/jobs/info/685cd7b43f50673d4ea67e05?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 21 |
+| ↳ | **[Fall 2025 Legal Intern, Capital Punishment Project- Justice Division](https://jobright.ai/jobs/info/685f6fd5dda593694d52976a?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Jun 21 |
 | ↳ | **[Fall 2025 Legal Intern, Immigrants' Rights Project](https://jobright.ai/jobs/info/685cca7a85b8bb36976bc9cc?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 21 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/683a6b008f1dc4958bd0befe?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Jun 21 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[Houston Office - 2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/681d7fac2d8d94fdb384c6ec?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 21 |
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/67441261e2978da4d10d8234?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jun 21 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/683a3eb5ed34bb2251d34557?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jun 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
