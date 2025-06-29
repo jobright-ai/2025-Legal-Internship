@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Champaign](https://champaignil.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/686144167f81c360416e52a4?utm_campaign=1055&utm_source=git)** | Urbana-Champaign Area | On Site | Jun 29 |
 | **[Medpace](http://www.medpace.com)** | **[Regulatory Research Fall 2025 Intern](https://jobright.ai/jobs/info/6799a5f27b45d044d3fd9e63?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 29 |
-| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/68610965fa6ab3fa86ad5c36?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Jun 29 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Lawfare Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e67e5?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 28 |
 | **[Arcadis](http://www.arcadis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/680ade422c05e3c4b90c893b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 28 |
 | **[K&L Gates](http://www.klgates.com/)** | **[National Security and International Trade Law Clerk](https://jobright.ai/jobs/info/680a8720d342b9e409012b74?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 28 |
@@ -100,9 +100,9 @@ For a complete list, click the following sortable link below:
 | **[AFL](http://www.AFLglobal.com)** | **[International Trade Intern- Fall 2025](https://jobright.ai/jobs/info/683e0b6ea41241a3a99d532e?utm_campaign=1055&utm_source=git)** | Duncan, SC | On Site | Jun 24 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Intern](https://jobright.ai/jobs/info/68240df6627dff6917a0db84?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | On Site | Jun 24 |
 | ↳ | **[Fall 2025 Immigration Casework Intern](https://jobright.ai/jobs/info/6851cef7fe2edaf8853c057e?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jun 24 |
+| **[Oliva Gibbs LLP](https://www.kolawllp.com)** | **[Law Clerk (Oklahoma City, OK)](https://jobright.ai/jobs/info/685b0b721fe76f13ca7b5ef1?utm_campaign=1055&utm_source=git)** | Edmond, OK | On Site | Jun 24 |
 | **[TSC](https://www.tsc.com/)** | **[Contracts Compliance Analyst](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc48d?utm_campaign=1055&utm_source=git)** | Greenville County, SC | Hybrid | Jun 24 |
 | **[Organogenesis](http://www.organogenesis.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc387?utm_campaign=1055&utm_source=git)** | Canton, MA | Hybrid | Jun 24 |
-| **[Oliva Gibbs LLP](https://www.kolawllp.com)** | **[Law Clerk (Oklahoma City, OK)](https://jobright.ai/jobs/info/685afaf6c056354424642d68?utm_campaign=1055&utm_source=git)** | Edmond, OK | On Site | Jun 24 |
 | **[TSC](https://www.tsc.com/)** | **[Contracts Compliance Analyst](https://jobright.ai/jobs/info/685ab7fbc040522ae064ac33?utm_campaign=1055&utm_source=git)** | SC Remote | Hybrid | Jun 24 |
 | **[Sony](http://www.sony.net)** | **[Legal Intern](https://jobright.ai/jobs/info/683e44e44df955f0404bdb0a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 24 |
 | **[Sidley Austin LLP](http://www.sidley.com)** | **[Legal Secretary Trainee](https://jobright.ai/jobs/info/683cea8d643bb55efe92b0b4?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 24 |
