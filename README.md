@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/68610965fa6ab3fa86ad5c36?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Jun 29 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Lawfare Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e67e5?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 28 |
 | **[Arcadis](http://www.arcadis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/680ade422c05e3c4b90c893b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 28 |
 | **[K&L Gates](http://www.klgates.com/)** | **[National Security and International Trade Law Clerk](https://jobright.ai/jobs/info/680a8720d342b9e409012b74?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 28 |
@@ -92,14 +93,15 @@ For a complete list, click the following sortable link below:
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[Dallas Office - 2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/680648cc4db2f10bef57425e?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jun 25 |
 | **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[Cyber Audit and Compliance College Aide](https://jobright.ai/jobs/info/67c9fd9efaed535026ea7ffc?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Jun 25 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern - Fall 2025](https://jobright.ai/jobs/info/685bb02abdb702ed7b7fd7f8?utm_campaign=1055&utm_source=git)** | Silver Spring, MD | On Site | Jun 25 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern (Fall 2025 )](https://jobright.ai/jobs/info/684c81ec4ab515ce959a51cc?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Jun 24 |
 | **[GEP Worldwide](https://www.gep.com)** | **[Paralegal Intern – Contract-to-Hire](https://jobright.ai/jobs/info/685b55315bd49a5c14b08f81?utm_campaign=1055&utm_source=git)** | US-NJ-Clark | On Site | Jun 24 |
 | **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[Ethics and Compliance Intern- Summer/Fall 2025](https://jobright.ai/jobs/info/685b43debc23eac2e2129eb0?utm_campaign=1055&utm_source=git)** | Greater Roanoke Area | Hybrid | Jun 24 |
 | **[AFL](http://www.AFLglobal.com)** | **[International Trade Intern- Fall 2025](https://jobright.ai/jobs/info/683e0b6ea41241a3a99d532e?utm_campaign=1055&utm_source=git)** | Duncan, SC | On Site | Jun 24 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Intern](https://jobright.ai/jobs/info/68240df6627dff6917a0db84?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | On Site | Jun 24 |
 | ↳ | **[Fall 2025 Immigration Casework Intern](https://jobright.ai/jobs/info/6851cef7fe2edaf8853c057e?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jun 24 |
+| **[Oliva Gibbs LLP](https://www.kolawllp.com)** | **[Law Clerk (Oklahoma City, OK)](https://jobright.ai/jobs/info/685b0b721fe76f13ca7b5ef1?utm_campaign=1055&utm_source=git)** | Edmond, OK | On Site | Jun 24 |
 | **[TSC](https://www.tsc.com/)** | **[Contracts Compliance Analyst](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc48d?utm_campaign=1055&utm_source=git)** | Greenville County, SC | Hybrid | Jun 24 |
 | **[Organogenesis](http://www.organogenesis.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc387?utm_campaign=1055&utm_source=git)** | Canton, MA | Hybrid | Jun 24 |
-| **[Oliva Gibbs LLP](https://www.kolawllp.com)** | **[Law Clerk (Oklahoma City, OK)](https://jobright.ai/jobs/info/685afaf6c0563544246433d2?utm_campaign=1055&utm_source=git)** | Edmond, OK | On Site | Jun 24 |
 | **[TSC](https://www.tsc.com/)** | **[Contracts Compliance Analyst](https://jobright.ai/jobs/info/685ab7fbc040522ae064ac33?utm_campaign=1055&utm_source=git)** | SC Remote | Hybrid | Jun 24 |
 | **[Sony](http://www.sony.net)** | **[Legal Intern](https://jobright.ai/jobs/info/683e44e44df955f0404bdb0a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 24 |
 | **[Sidley Austin LLP](http://www.sidley.com)** | **[Legal Secretary Trainee](https://jobright.ai/jobs/info/683cea8d643bb55efe92b0b4?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 24 |
