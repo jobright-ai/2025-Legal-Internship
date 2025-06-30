@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corpay Technologies](http://www.corpay.com/)** | **[Sr. Compliance Analyst, IT Internal Control](https://jobright.ai/jobs/info/6862923536b64377ae2c9632?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Jun 30 |
+| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/686281cedf8930d661578997?utm_campaign=1055&utm_source=git)** | Falls Church, VA | On Site | Jun 30 |
+| **[Cisco](http://www.cisco.com)** | **[Legal Intern - Italy](https://jobright.ai/jobs/info/6810bf5317f5c40098cfa05b?utm_campaign=1055&utm_source=git)** | Rome, OR | On Site | Jun 30 |
 | **[EarthRights International](https://www.earthrights.org/)** | **[U.S. Fall Legal Internship](https://jobright.ai/jobs/info/686211cfba8716ce4f3bb933?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 29 |
 | **[Whataburger](http://www.whataburger.com)** | **[Office of General Counsel Intern (Part-time)](https://jobright.ai/jobs/info/6861f4791249f50b06d1ef6f?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Jun 29 |
 | **[City of Champaign](https://champaignil.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/686144167f81c360416e52a4?utm_campaign=1055&utm_source=git)** | Urbana-Champaign Area | On Site | Jun 29 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Contracts Intern - Fall 2025](https://jobright.ai/jobs/info/6826a438c3e207529eaa89d4?utm_campaign=1055&utm_source=git)** | Melbourne, FL | Hybrid | Jun 29 |
 | **[Medpace](http://www.medpace.com)** | **[Regulatory Research Fall 2025 Intern](https://jobright.ai/jobs/info/6799a5f27b45d044d3fd9e63?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 29 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Lawfare Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e67e5?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 28 |
 | **[Arcadis](http://www.arcadis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/680ade422c05e3c4b90c893b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 28 |
@@ -111,8 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Digital Rights Intern](https://jobright.ai/jobs/info/685a4ddcc7361bb6020fc580?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 24 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Digital Rights Intern](https://jobright.ai/jobs/info/685a5af6b129c6a131abaa92?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jun 23 |
 | **[Accordion](https://www.accordionpartners.com)** | **[Legal Extern (Fall/Winter 2025)](https://jobright.ai/jobs/info/6859c36b8c4ce1f832dd88de?utm_campaign=1055&utm_source=git)** | Los Angeles | On Site | Jun 23 |
-| **[Cleveland Cavaliers](http://www.cavs.com)** | **[Legal Fellow (2025-26 Season)](https://jobright.ai/jobs/info/6859b5e232ac1863031389f1?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Jun 23 |
-| **[Winston & Strawn LLP](https://www.winston.com)** | **[Houston Office - 2026 2L Transactions Summer Associate](https://jobright.ai/jobs/info/6805969b10a8f21e39bb6053?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 23 |
-| **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[District Court Judicial Law Clerk](https://jobright.ai/jobs/info/6859b9709fd382d77ee20ee6?utm_campaign=1055&utm_source=git)** | Rochester Hills, MI | On Site | Jun 23 |
-| **[Security Benefit](https://securitybenefit.com)** | **[Internship - Tech Compliance Support](https://jobright.ai/jobs/info/68598ce1d66e0e7fc47c5d16?utm_campaign=1055&utm_source=git)** | Overland Park, KS | Hybrid | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
