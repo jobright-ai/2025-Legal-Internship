@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Whataburger](http://www.whataburger.com)** | **[Office of General Counsel Intern (Part-time)](https://jobright.ai/jobs/info/6861f4791249f50b06d1ef6f?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Jun 29 |
 | **[City of Champaign](https://champaignil.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/686144167f81c360416e52a4?utm_campaign=1055&utm_source=git)** | Urbana-Champaign Area | On Site | Jun 29 |
 | **[Medpace](http://www.medpace.com)** | **[Regulatory Research Fall 2025 Intern](https://jobright.ai/jobs/info/6799a5f27b45d044d3fd9e63?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 29 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Lawfare Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e67e5?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 28 |
