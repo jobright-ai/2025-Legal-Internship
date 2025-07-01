@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/6863a9384a8d5970f4a9e777?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Jul 01 |
+| **[Chevron](http://www.chevron.com)** | **[2025 - 2026 Law Compliance Intern](https://jobright.ai/jobs/info/6863751fda9e68c00b135a7d?utm_campaign=1055&utm_source=git)** | Houston, Texas, United States of America | On Site | Jun 30 |
+| ↳ | **[2025 - 2026 Law Compliance Intern](https://jobright.ai/jobs/info/6863751fda9e68c00b135ade?utm_campaign=1055&utm_source=git)** | Ames, Iowa, United States of America | On Site | Jun 30 |
 | **[University of Michigan](https://www.umich.edu)** | **[Compliance Intern (TEMP)](https://jobright.ai/jobs/info/686333ca09c6b7a139454681?utm_campaign=1055&utm_source=git)** | Ann Arbor, MI | On Site | Jun 30 |
-| **[Protiviti](http://www.protiviti.com)** | **[Philadelphia Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/686333ca09c6b7a139454720?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 30 |
 | **[Children's Law Center of California](https://www.clccal.org/)** | **[FALL INTERN](https://jobright.ai/jobs/info/68632c8b2ed5b4b8ec2cfd08?utm_campaign=1055&utm_source=git)** | Monterey Park, CA | Hybrid | Jun 30 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Fall 2025: DOL Legal Internship](https://jobright.ai/jobs/info/6862fcd298c5bd01178a65cc?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston - 1 Federal St | On Site | Jun 30 |
 | **[Philadelphia Gas Works](http://www.pgworks.com)** | **[Intern- Risk Management](https://jobright.ai/jobs/info/6862fa2ae4591759d560bcd4?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Jun 30 |
@@ -88,11 +90,11 @@ For a complete list, click the following sortable link below:
 | **[Austin Community College](http://austincc.edu)** | **[Intern, Office of Equal Opportunity Compliance (Hourly)](https://jobright.ai/jobs/info/685ef390bad40fb8047ec6cc?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jun 27 |
 | **[iHerb, LLC](http://www.iherb.com)** | **[Legal Intern](https://jobright.ai/jobs/info/685f1f933304145429e44e88?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Jun 27 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850c0a88f493779c01567ce?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Jun 27 |
-| **[Hannover Re](https://www.hannover-re.com/)** | **[Premium Analytics, Compliance & Treaty Intern, 2633](https://jobright.ai/jobs/info/685f07d4362a6cfcb760fbcc?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Jun 27 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850c0a88f493779c01567f3?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Jun 27 |
+| ↳ | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850c0a88f493779c01567f3?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Jun 27 |
 | ↳ | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850c590d48c52e5f91024bf?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jun 27 |
 | **[Austin Community College](http://austincc.edu)** | **[Intern, Office of Equal Opportunity Compliance (Hourly)](https://jobright.ai/jobs/info/685ead89c5ec22eb4f5249fe?utm_campaign=1055&utm_source=git)** | Highland Campus | On Site | Jun 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Risk Arbitration Analyst Intern (Monetization Integrity) - 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/682648301ff0402117fb6e00?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Jun 27 |
+| **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/67a0394359663c8c5d433c8b?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Jun 26 |
 | **[Yuhaaviatam of San Manuel Nation](https://sanmanuel-nsn.gov/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/685deefb2fb4aba079998b5e?utm_campaign=1055&utm_source=git)** | Highland, CA | On Site | Jun 26 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850cd6762ba50bc7c2bd40f?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Jun 26 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/685dacf692471452f2c9eb0e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 26 |
@@ -120,6 +122,4 @@ For a complete list, click the following sortable link below:
 | **[TSC](https://www.tsc.com/)** | **[Contracts Compliance Analyst](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc48d?utm_campaign=1055&utm_source=git)** | Greenville County, SC | Hybrid | Jun 24 |
 | **[Organogenesis](http://www.organogenesis.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc387?utm_campaign=1055&utm_source=git)** | Canton, MA | Hybrid | Jun 24 |
 | **[Oliva Gibbs LLP](https://www.kolawllp.com)** | **[Law Clerk (Oklahoma City, OK)](https://jobright.ai/jobs/info/685afaf6c0563544246433d2?utm_campaign=1055&utm_source=git)** | Edmond, OK | On Site | Jun 24 |
-| **[TSC](https://www.tsc.com/)** | **[Contracts Compliance Analyst](https://jobright.ai/jobs/info/685ab7fbc040522ae064ac33?utm_campaign=1055&utm_source=git)** | SC Remote | Hybrid | Jun 24 |
-| **[Sony](http://www.sony.net)** | **[Legal Intern](https://jobright.ai/jobs/info/683e44e44df955f0404bdb0a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
