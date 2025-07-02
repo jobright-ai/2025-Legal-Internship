@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Mergers & Acquisitions - Chicago, Raleigh](https://jobright.ai/jobs/info/6864602ed52a71f698a3f9ac?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Jul 01 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Non-Lending Compliance)](https://jobright.ai/jobs/info/6864493b1832878982e8e903?utm_campaign=1055&utm_source=git)** | Pensacola, FL, United States | On Site | Jul 01 |
+| **[State of Michigan](http://www.michigan.gov)** | **[2025 Fall Internship - SSB / FSD / Grand Rapids Lab (Two vacancies)](https://jobright.ai/jobs/info/686449364bf7c7e646513b76?utm_campaign=1055&utm_source=git)** | Grand Rapids, MI | On Site | Jul 01 |
+| **[Protiviti](http://www.protiviti.com)** | **[Philadelphia Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68643f5353eb2f5985836e3c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Jul 01 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Fall 2025: Cybersecurity and Compliance Analyst Co-op](https://jobright.ai/jobs/info/686415e858e255bd22b3b2cd?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Jul 01 |
 | **[Unite Us](https://uniteus.com)** | **[Legal Intern](https://jobright.ai/jobs/info/684786a8a566a684f36f6646?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Jul 01 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2025 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/682b24ecff45e283259d96ca?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jul 01 |
-| **[Dolby Laboratories](http://www.dolby.com)** | **[Legal Operations Intern (Fall 2025)](https://jobright.ai/jobs/info/684729a7cd3a1f70ebe3fc4c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jul 01 |
-| **[Chevron](http://www.chevron.com)** | **[2025 - 2026 Law Compliance Intern](https://jobright.ai/jobs/info/6863751fda9e68c00b135a7d?utm_campaign=1055&utm_source=git)** | Houston, Texas, United States of America | On Site | Jun 30 |
-| ↳ | **[2025 - 2026 Law Compliance Intern](https://jobright.ai/jobs/info/6863751fda9e68c00b135ade?utm_campaign=1055&utm_source=git)** | Ames, Iowa, United States of America | On Site | Jun 30 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern – Enterprise Risk Management](https://jobright.ai/jobs/info/686210082e30e7f10d201e3e?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | On Site | Jul 01 |
+| **[Chevron](http://www.chevron.com)** | **[2025 - 2026 Law Compliance Intern](https://jobright.ai/jobs/info/6863751fda9e68c00b135ade?utm_campaign=1055&utm_source=git)** | Ames, Iowa, United States of America | On Site | Jun 30 |
+| ↳ | **[2025 - 2026 Law Compliance Intern](https://jobright.ai/jobs/info/6863751fda9e68c00b135a7d?utm_campaign=1055&utm_source=git)** | Houston, Texas, United States of America | On Site | Jun 30 |
 | **[University of Michigan](https://www.umich.edu)** | **[Compliance Intern (TEMP)](https://jobright.ai/jobs/info/686333ca09c6b7a139454681?utm_campaign=1055&utm_source=git)** | Ann Arbor, MI | On Site | Jun 30 |
 | **[Children's Law Center of California](https://www.clccal.org/)** | **[FALL INTERN](https://jobright.ai/jobs/info/68632c8b2ed5b4b8ec2cfd08?utm_campaign=1055&utm_source=git)** | Monterey Park, CA | Hybrid | Jun 30 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Fall 2025: DOL Legal Internship](https://jobright.ai/jobs/info/6862fcd298c5bd01178a65cc?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston - 1 Federal St | On Site | Jun 30 |
@@ -118,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Manhattan Institute](https://www.manhattan.institute)** | **[Law School Associate Program](https://jobright.ai/jobs/info/685c225bf1e10bde997f7429?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 25 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[Dallas Office - 2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/680648cc4db2f10bef57425e?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jun 25 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern - Fall 2025](https://jobright.ai/jobs/info/685bb02abdb702ed7b7fd7f8?utm_campaign=1055&utm_source=git)** | Silver Spring, MD | On Site | Jun 25 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern (Fall 2025 )](https://jobright.ai/jobs/info/684c81ec4ab515ce959a51cc?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
