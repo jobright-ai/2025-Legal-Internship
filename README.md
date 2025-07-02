@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Non-Lending Compliance)](https://jobright.ai/jobs/info/686493d3fee3780c06446b65?utm_campaign=1055&utm_source=git)** | Pensacola, FL | Hybrid | Jul 01 |
+| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Student Research Assistant, Bech-Loughlin First Amendment Center, School of Law](https://jobright.ai/jobs/info/6864900d0ea66d3345902029?utm_campaign=1055&utm_source=git)** | UT MAIN CAMPUS | On Site | Jul 01 |
+| **[Protiviti](http://www.protiviti.com)** | **[Charlotte Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68648a7584153b63ff401cdd?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Jul 01 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Non-Lending Compliance)](https://jobright.ai/jobs/info/68649411fee3780c06447358?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Jul 01 |
 | **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Mergers & Acquisitions - Chicago, Raleigh](https://jobright.ai/jobs/info/6864602ed52a71f698a3f9ac?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Jul 01 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Non-Lending Compliance)](https://jobright.ai/jobs/info/6864493b1832878982e8e903?utm_campaign=1055&utm_source=git)** | Pensacola, FL, United States | On Site | Jul 01 |
 | **[State of Michigan](http://www.michigan.gov)** | **[2025 Fall Internship - SSB / FSD / Grand Rapids Lab (Two vacancies)](https://jobright.ai/jobs/info/686449364bf7c7e646513b76?utm_campaign=1055&utm_source=git)** | Grand Rapids, MI | On Site | Jul 01 |
 | **[Protiviti](http://www.protiviti.com)** | **[Philadelphia Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68643f5353eb2f5985836e3c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Jul 01 |
+| **[New York State Department of Taxation and Finance](http://www.tax.ny.gov/)** | **[Revenue Crimes Specialist Trainee 1 / Revenue Crimes Specialist Trainee 2 / Revenue Crimes Specialist 1](https://jobright.ai/jobs/info/686434ab3b01d176faa7013e?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | Jul 01 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Fall 2025: Cybersecurity and Compliance Analyst Co-op](https://jobright.ai/jobs/info/686415e858e255bd22b3b2cd?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Jul 01 |
 | **[Unite Us](https://uniteus.com)** | **[Legal Intern](https://jobright.ai/jobs/info/684786a8a566a684f36f6646?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Jul 01 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2025 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/682b24ecff45e283259d96ca?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jul 01 |
@@ -104,8 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/67a0394359663c8c5d433c8b?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Jun 26 |
 | **[Yuhaaviatam of San Manuel Nation](https://sanmanuel-nsn.gov/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/685deefb2fb4aba079998b5e?utm_campaign=1055&utm_source=git)** | Highland, CA | On Site | Jun 26 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850cd6762ba50bc7c2bd40f?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Jun 26 |
-| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/685dacf692471452f2c9eb0e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 26 |
-| **[Demant](https://www.demant.com/)** | **[Legal Intern, Summer](https://jobright.ai/jobs/info/685e6ed87bbe5fc0e09b23fd?utm_campaign=1055&utm_source=git)** | Somerset, NJ | On Site | Jun 26 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[New York Office - 2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/684a715959c11ab4995d946b?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 26 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2025 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/685d7e8bf53c5c34c3a77a33?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 26 |
 | ↳ | **[Fall 2025 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/685d7ea4f53c5c34c3a77f38?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 26 |
@@ -121,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[SES Satellites](http://www.ses.com)** | **[Regulatory Intern (Fall 2025)](https://jobright.ai/jobs/info/685c350d487fdc0a52b99156?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 25 |
 | **[Manhattan Institute](https://www.manhattan.institute)** | **[Law School Associate Program](https://jobright.ai/jobs/info/685c225bf1e10bde997f7429?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 25 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[Dallas Office - 2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/680648cc4db2f10bef57425e?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jun 25 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern - Fall 2025](https://jobright.ai/jobs/info/685bb02abdb702ed7b7fd7f8?utm_campaign=1055&utm_source=git)** | Silver Spring, MD | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
