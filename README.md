@@ -57,45 +57,53 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6865c2b574d7b0c6769b1660?utm_campaign=1055&utm_source=git)** | Worcester, PA | On Site | Jul 02 |
+| **[WM Partners, LP](http://wmplp.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6865b6f2622f12d27b5f2b51?utm_campaign=1055&utm_source=git)** | Aventura, FL | Remote | Jul 02 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6865b6f2622f12d27b5f2b96?utm_campaign=1055&utm_source=git)** | Aventura, FL | Remote | Jul 02 |
+| **[Earthjustice](http://earthjustice.org/)** | **[2026 General Counsel Clerkship](https://jobright.ai/jobs/info/6865a14e8054137aa8fd5dc3?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jul 02 |
+| ↳ | **[2026 General Counsel Clerkship](https://jobright.ai/jobs/info/6865a14e8054137aa8fd5bce?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jul 02 |
+| **[moomoo ](https://www.moomoo.com)** | **[Unpaid Legal/Compliance Intern](https://jobright.ai/jobs/info/68659e8676eebf05c69847b6?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Jul 02 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern (Fall 2025) - UNPAID](https://jobright.ai/jobs/info/68659e8676eebf05c6984487?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Jul 02 |
 | **[Protiviti](http://www.protiviti.com)** | **[Minneapolis Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68658af4dacc710e97af26dc?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Jul 02 |
-| **[Earthjustice](http://earthjustice.org/)** | **[2026 Alaska Regional Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f573843c?utm_campaign=1055&utm_source=git)** | Anchorage, Alaska | On Site | Jul 02 |
-| ↳ | **[2026 Washington DC Regional Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f5738444?utm_campaign=1055&utm_source=git)** | Washington, District Of Columbia | On Site | Jul 02 |
-| ↳ | **[2026 Florida Regional Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f5738447?utm_campaign=1055&utm_source=git)** | Miami, Florida | On Site | Jul 02 |
-| ↳ | **[2026 Community Partnerships Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f573843a?utm_campaign=1055&utm_source=git)** | Los Angeles, California | On Site | Jul 02 |
-| ↳ | **[2026 Gulf Regional Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f573844a?utm_campaign=1055&utm_source=git)** | New Orleans, Louisiana | On Site | Jul 02 |
-| ↳ | **[2026 Biodiversity Defense Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f5738438?utm_campaign=1055&utm_source=git)** | San Francisco, California | On Site | Jul 02 |
-| ↳ | **[2026 Community Partnerships Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f5738439?utm_campaign=1055&utm_source=git)** | Washington, District Of Columbia | On Site | Jul 02 |
-| ↳ | **[2026 Toxic Exposure & Health Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f5738440?utm_campaign=1055&utm_source=git)** | Washington, District Of Columbia | On Site | Jul 02 |
-| ↳ | **[2026 Oceans Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f5738442?utm_campaign=1055&utm_source=git)** | San Francisco, California | On Site | Jul 02 |
-| ↳ | **[2026 Oceans Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f573843d?utm_campaign=1055&utm_source=git)** | Seattle, Washington | On Site | Jul 02 |
+| **[Earthjustice](http://earthjustice.org/)** | **[2026 Community Partnerships Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f5738439?utm_campaign=1055&utm_source=git)** | Washington, District Of Columbia | On Site | Jul 02 |
 | ↳ | **[2026 California Regional Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f573843b?utm_campaign=1055&utm_source=git)** | San Francisco, California | On Site | Jul 02 |
+| ↳ | **[2026 Gulf Regional Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f573844a?utm_campaign=1055&utm_source=git)** | New Orleans, Louisiana | On Site | Jul 02 |
+| ↳ | **[2026 Community Partnerships Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f573843a?utm_campaign=1055&utm_source=git)** | Los Angeles, California | On Site | Jul 02 |
+| ↳ | **[2026 Oceans Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f573843d?utm_campaign=1055&utm_source=git)** | Seattle, Washington | On Site | Jul 02 |
+| ↳ | **[2026 Oceans Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f5738442?utm_campaign=1055&utm_source=git)** | San Francisco, California | On Site | Jul 02 |
 | ↳ | **[2026 Biodiversity Defense Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f5738436?utm_campaign=1055&utm_source=git)** | Seattle, Washington | On Site | Jul 02 |
-| ↳ | **[2026 Biodiversity Defense Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f5738437?utm_campaign=1055&utm_source=git)** | New York, New York | On Site | Jul 02 |
 | ↳ | **[2026 General Counsel Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f573844b?utm_campaign=1055&utm_source=git)** | Washington, District Of Columbia | On Site | Jul 02 |
-| ↳ | **[2026 Community Partnerships Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737eb1?utm_campaign=1055&utm_source=git)** | New York, New York | On Site | Jul 02 |
-| ↳ | **[2026 Toxic Exposure & Health Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737e92?utm_campaign=1055&utm_source=git)** | New York, New York | On Site | Jul 02 |
-| ↳ | **[2026 Northeast Regional Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737eaf?utm_campaign=1055&utm_source=git)** | New York, New York | On Site | Jul 02 |
-| ↳ | **[2026 Alaska Regional Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737e98?utm_campaign=1055&utm_source=git)** | Juneau, Alaska | On Site | Jul 02 |
-| ↳ | **[2026 Biodiversity Defense Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737eb0?utm_campaign=1055&utm_source=git)** | Bozeman, Montana | On Site | Jul 02 |
-| ↳ | **[2026 California Regional Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737e91?utm_campaign=1055&utm_source=git)** | Los Angeles, California | On Site | Jul 02 |
-| ↳ | **[2026 Fossil Fuels Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737ebe?utm_campaign=1055&utm_source=git)** | New Orleans, Louisiana | On Site | Jul 02 |
-| ↳ | **[2026 Midwest Regional Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737e9e?utm_campaign=1055&utm_source=git)** | Chicago, Illinois | On Site | Jul 02 |
-| ↳ | **[2026 Northern Rockies Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737efd?utm_campaign=1055&utm_source=git)** | Bozeman, Montana | On Site | Jul 02 |
+| ↳ | **[2026 Toxic Exposure & Health Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f5738440?utm_campaign=1055&utm_source=git)** | Washington, District Of Columbia | On Site | Jul 02 |
+| ↳ | **[2026 Washington DC Regional Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f5738444?utm_campaign=1055&utm_source=git)** | Washington, District Of Columbia | On Site | Jul 02 |
+| ↳ | **[2026 Biodiversity Defense Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f5738437?utm_campaign=1055&utm_source=git)** | New York, New York | On Site | Jul 02 |
+| ↳ | **[2026 Florida Regional Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f5738447?utm_campaign=1055&utm_source=git)** | Miami, Florida | On Site | Jul 02 |
+| ↳ | **[2026 Alaska Regional Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f573843c?utm_campaign=1055&utm_source=git)** | Anchorage, Alaska | On Site | Jul 02 |
+| ↳ | **[2026 Biodiversity Defense Clerkship](https://jobright.ai/jobs/info/6865873e671b2427f5738438?utm_campaign=1055&utm_source=git)** | San Francisco, California | On Site | Jul 02 |
 | ↳ | **[2026 Rocky Mountain Regional Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737e8e?utm_campaign=1055&utm_source=git)** | Denver, Colorado | On Site | Jul 02 |
-| ↳ | **[2026 General Counsel Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737eff?utm_campaign=1055&utm_source=git)** | San Francisco, California | On Site | Jul 02 |
-| ↳ | **[2026 Tribal Partnership Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737e94?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 02 |
-| ↳ | **[2026 Washington DC Regional Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737ebc?utm_campaign=1055&utm_source=git)** | Washington, DC Regional | On Site | Jul 02 |
+| ↳ | **[2026 Fossil Fuels Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737ebe?utm_campaign=1055&utm_source=git)** | New Orleans, Louisiana | On Site | Jul 02 |
+| ↳ | **[2026 Biodiversity Defense Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737eb0?utm_campaign=1055&utm_source=git)** | Bozeman, Montana | On Site | Jul 02 |
+| ↳ | **[2026 Toxic Exposure & Health Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737e92?utm_campaign=1055&utm_source=git)** | New York, New York | On Site | Jul 02 |
 | ↳ | **[2026 Florida Regional Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737eba?utm_campaign=1055&utm_source=git)** | Tallahassee, Florida | On Site | Jul 02 |
-| ↳ | **[2026 Gulf Regional Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737eb5?utm_campaign=1055&utm_source=git)** | Houston, Texas | On Site | Jul 02 |
+| ↳ | **[2026 Alaska Regional Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737e98?utm_campaign=1055&utm_source=git)** | Juneau, Alaska | On Site | Jul 02 |
 | ↳ | **[2026 Oceans Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737e8c?utm_campaign=1055&utm_source=git)** | New York, New York | On Site | Jul 02 |
+| ↳ | **[2026 Midwest Regional Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737e9e?utm_campaign=1055&utm_source=git)** | Chicago, Illinois | On Site | Jul 02 |
 | ↳ | **[2026 Mid-Pacific Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737e96?utm_campaign=1055&utm_source=git)** | Honolulu, Hawaii | On Site | Jul 02 |
+| ↳ | **[2026 Tribal Partnership Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737e94?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 02 |
+| ↳ | **[2026 California Regional Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737e91?utm_campaign=1055&utm_source=git)** | Los Angeles, California | On Site | Jul 02 |
 | ↳ | **[2026 Northwest Regional Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737ea4?utm_campaign=1055&utm_source=git)** | Seattle, Washington | On Site | Jul 02 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance – Specialist](https://jobright.ai/jobs/info/68657b9f3fa46b40027496a8?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Jul 02 |
+| ↳ | **[2026 Community Partnerships Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737eb1?utm_campaign=1055&utm_source=git)** | New York, New York | On Site | Jul 02 |
+| ↳ | **[2026 Gulf Regional Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737eb5?utm_campaign=1055&utm_source=git)** | Houston, Texas | On Site | Jul 02 |
+| ↳ | **[2026 Northern Rockies Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737efd?utm_campaign=1055&utm_source=git)** | Bozeman, Montana | On Site | Jul 02 |
+| ↳ | **[2026 Northeast Regional Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737eaf?utm_campaign=1055&utm_source=git)** | New York, New York | On Site | Jul 02 |
+| ↳ | **[2026 Washington DC Regional Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737ebc?utm_campaign=1055&utm_source=git)** | Washington, DC Regional | On Site | Jul 02 |
+| ↳ | **[2026 General Counsel Clerkship](https://jobright.ai/jobs/info/68658712671b2427f5737eff?utm_campaign=1055&utm_source=git)** | San Francisco, California | On Site | Jul 02 |
 | **[Glenmede](http://www.glenmede.com/)** | **[Compliance/Business Assurance Co-Op](https://jobright.ai/jobs/info/68657b9f3fa46b4002749654?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Jul 02 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance – Specialist](https://jobright.ai/jobs/info/6865650468fb3d9209f753e7?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 02 |
 | **[Sarasota Memorial Health Care System](https://www.smh.com/)** | **[Law Student Extern](https://jobright.ai/jobs/info/6865432d16403fbe751c419c?utm_campaign=1055&utm_source=git)** | Sarasota, FL | On Site | Jul 02 |
 | **[Metropolitan Airports Commission](https://metroairports.org)** | **[Law Clerk](https://jobright.ai/jobs/info/6865432d16403fbe751c4169?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jul 02 |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2025 Democracy Legal Internship, NY](https://jobright.ai/jobs/info/6850dec4b74c6cfc50088046?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 02 |
 | **[City of Champaign](https://champaignil.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/686568df4a305d4a9e943b2e?utm_campaign=1055&utm_source=git)** | Urbana-Champaign Area | On Site | Jul 02 |
+| **[Nokia](http://www.nokia.com)** | **[Legal, Compliance & Sustainability Coop](https://jobright.ai/jobs/info/6810128850c44e87c20b51f5?utm_campaign=1055&utm_source=git)** | New Jersey, United States | Hybrid | Jul 02 |
 | **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Commercial Litigation - Winston-Salem](https://jobright.ai/jobs/info/6864dc9f5d1676a32671d45e?utm_campaign=1055&utm_source=git)** | US-NC-Winston-Salem | On Site | Jul 02 |
 | **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DSCYF Division of Family Services-Contract Management Intern](https://jobright.ai/jobs/info/6864d211be4482d8971f4691?utm_campaign=1055&utm_source=git)** | Delaware, United States | On Site | Jul 01 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Legal Operations Intern - Fall 2025](https://jobright.ai/jobs/info/6864d211be4482d8971f490d?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 01 |
@@ -149,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[New York Office - 2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/684a715959c11ab4995d946b?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 26 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2025 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/685d7e8bf53c5c34c3a77a33?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 26 |
 | ↳ | **[Fall 2025 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/685d7ea4f53c5c34c3a77f38?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 26 |
-| ↳ | **[Fall 2025 Legal Intern, State Supreme Court Initiative](https://jobright.ai/jobs/info/685d7e8bf53c5c34c3a77a81?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 26 |
-| ↳ | **[Fall 2025 Legal Intern, State Supreme Court Initiative](https://jobright.ai/jobs/info/685d7ea4f53c5c34c3a77f3a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 26 |
-| **[Winston & Strawn LLP](https://www.winston.com)** | **[Chicago Office - 2026 2L Transactions Summer Associate](https://jobright.ai/jobs/info/681ed10cfd482f48d50f9659?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 26 |
-| ↳ | **[Silicon Valley Office - 2026 2L Litigation (IP) Summer Associate](https://jobright.ai/jobs/info/681c2f2df3956c2a2ce0d459?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Jun 26 |
-| **[Real Time Resolutions, Inc.](https://www.realtimeresolutions.com)** | **[Legal Intern](https://jobright.ai/jobs/info/685d13393c423f3ae0650b89?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jun 26 |
-| **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/68224a44cdaf82e297b60700?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
