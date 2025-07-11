@@ -58,12 +58,13 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c4a0020d65632e14c0119c?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jul 11 |
-| **[LifeSource](https://www.life-source.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/68702e42a5ae807a59cf668b?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jul 10 |
+| ↳ | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f08a?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jul 11 |
 | **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/6870241106ad7073463bb67d?utm_campaign=1055&utm_source=git)** | Glendale, CA | Hybrid | Jul 10 |
 | **[McDonnell Boehnen Hulbert & Berghoff LLP](http://mbhb.com)** | **[Summer Associate](https://jobright.ai/jobs/info/6870346001cc0956e7e8029f?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jul 10 |
 | **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/686fdc02178a6ebd781e3467?utm_campaign=1055&utm_source=git)** | Glendale, California | Hybrid | Jul 10 |
 | **[GEP Worldwide](https://www.gep.com)** | **[Paralegal Intern – Contract-to-Hire](https://jobright.ai/jobs/info/68561f2ddb9b2a749af54516?utm_campaign=1055&utm_source=git)** | Clark, NJ | On Site | Jul 10 |
 | **[Roche](http://www.roche.com)** | **[PD Technical Regulatory Intern](https://jobright.ai/jobs/info/67fe065f7f19e826ca7eb9df?utm_campaign=1055&utm_source=git)** | Shanghai, VA | On Site | Jul 10 |
+| **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3e11?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 10 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819087a549ca8705983ecc1?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jul 10 |
 | ↳ | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819027acf9261d3a8bf0085?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jul 10 |
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd56fcf425589cee18a047?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jul 10 |
@@ -113,9 +114,9 @@ For a complete list, click the following sortable link below:
 | **[Societe Generale](https://www.societegenerale.com)** | **[INTERNSHIP - Client Position Regulatory Reporting Analyst - Chicago](https://jobright.ai/jobs/info/686d7c350993a226dac3969b?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jul 08 |
 | **[Centric Brands](https://centricbrands.com)** | **[Compliance Intern – Fall 2025 (On-site)](https://jobright.ai/jobs/info/686d9764a1ce85dcfa8bfd85?utm_campaign=1055&utm_source=git)** | Greensboro, NC | On Site | Jul 08 |
 | **[Jackson Lewis P.C.](http://www.jacksonlewis.com)** | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dba?utm_campaign=1055&utm_source=git)** | US - TX - Austin | On Site | Jul 08 |
-| ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dc7?utm_campaign=1055&utm_source=git)** | US - TX - Dallas | On Site | Jul 08 |
-| ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dca?utm_campaign=1055&utm_source=git)** | US - FL - Tampa | On Site | Jul 08 |
 | ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dec?utm_campaign=1055&utm_source=git)** | US - FL - Miami | On Site | Jul 08 |
+| ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dca?utm_campaign=1055&utm_source=git)** | US - FL - Tampa | On Site | Jul 08 |
+| ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dc7?utm_campaign=1055&utm_source=git)** | US - TX - Dallas | On Site | Jul 08 |
 | ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dbc?utm_campaign=1055&utm_source=git)** | US - FL - Orlando | On Site | Jul 08 |
 | ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dbf?utm_campaign=1055&utm_source=git)** | US - FL - Jacksonville | On Site | Jul 08 |
 | ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dce?utm_campaign=1055&utm_source=git)** | US - TX - Houston | On Site | Jul 08 |
