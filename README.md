@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EnergyX](https://energyx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/687168cf18d65dc0f5c73ab0?utm_campaign=1055&utm_source=git)** | Austin, Texas, United States | On Site | Jul 11 |
 | **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[Cyber Audit and Compliance College Aide](https://jobright.ai/jobs/info/687150de06ad7073463c4736?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Jul 11 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c4a0020d65632e14c0119c?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jul 11 |
 | ↳ | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f08a?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jul 11 |
 | **[MannKind Corporation](http://mannkindcorp.com)** | **[Legal Externship - Fall 2025](https://jobright.ai/jobs/info/681c6f427f82d9187080505d?utm_campaign=1055&utm_source=git)** | Westlake Village, CA | On Site | Jul 11 |
+| **[ENGIE - International Supply & Energy Management](https://gems.engie.com)** | **[Risk Control Intern](https://jobright.ai/jobs/info/68370ce86ebc4083e42a64b7?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Jul 11 |
 | **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/6870241106ad7073463bb67d?utm_campaign=1055&utm_source=git)** | Glendale, CA | Hybrid | Jul 10 |
 | **[McDonnell Boehnen Hulbert & Berghoff LLP](http://mbhb.com)** | **[Summer Associate](https://jobright.ai/jobs/info/6870346001cc0956e7e8029f?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jul 10 |
 | **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/686fdc02178a6ebd781e3467?utm_campaign=1055&utm_source=git)** | Glendale, California | Hybrid | Jul 10 |
@@ -73,8 +75,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3db7?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 10 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/68191100c93186a3e89670e9?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jul 10 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c4a9046ce16cb4c2ecbb06?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Jul 10 |
-| ↳ | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c4a3540b75ccc99fad2898?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Jul 10 |
 | ↳ | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f08b?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jul 10 |
+| ↳ | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c4a3540b75ccc99fad2898?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Jul 10 |
 | ↳ | **[2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f089?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jul 10 |
 | ↳ | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c3f256ff11c215dbdc5705?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Jul 10 |
 | ↳ | **[2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/67c4ab04e8986607dd82f4a2?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jul 10 |
@@ -140,9 +142,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025-2026 Land Full Time (Returning Intern)](https://jobright.ai/jobs/info/686bf75a35584b6542c8c67c?utm_campaign=1055&utm_source=git)** | Houston, Texas, United States of America | On Site | Jul 07 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/681522284d48109cb7ee6eb5?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Dynamic Access](https://dynamicaccess.com/)** | **[Intern](https://jobright.ai/jobs/info/686cb04935584b6542149aeb?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Jul 06 |
-| **[Oracle](https://www.oracle.com/)** | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c69f8?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jul 06 |
+| **[Oracle](https://www.oracle.com/)** | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/681522284d48109cb7ee6eb6?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Jul 06 |
+| ↳ | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c69f8?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jul 06 |
 | **[Mortgage Research Center](https://www.mortgageresearch.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/686ada8a35584b6542979822?utm_campaign=1055&utm_source=git)** | Columbia, MO | On Site | Jul 06 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (NYC)](https://jobright.ai/jobs/info/6830cbff8ecef5bba03b929a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jul 06 |
-| **[Oracle](https://www.oracle.com/)** | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c69f7?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Jul 06 |
 | **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e228ad?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Jul 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
