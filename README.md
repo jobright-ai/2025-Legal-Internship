@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern (Fall 2025- Unpaid)](https://jobright.ai/jobs/info/6871c85106ad7073463c7370?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Jul 11 |
 | **[EnergyX](https://energyx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/687168cf18d65dc0f5c73ab0?utm_campaign=1055&utm_source=git)** | Austin, Texas, United States | On Site | Jul 11 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Ethics Intern](https://jobright.ai/jobs/info/68718a9606ad7073463c5c32?utm_campaign=1055&utm_source=git)** | Marietta, GA | On Site | Jul 11 |
 | **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[Cyber Audit and Compliance College Aide](https://jobright.ai/jobs/info/687150de06ad7073463c4736?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Jul 11 |
@@ -120,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Societe Generale](https://www.societegenerale.com)** | **[INTERNSHIP - Client Position Regulatory Reporting Analyst - Chicago](https://jobright.ai/jobs/info/686d7c350993a226dac3969b?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jul 08 |
 | **[Centric Brands](https://centricbrands.com)** | **[Compliance Intern – Fall 2025 (On-site)](https://jobright.ai/jobs/info/686d9764a1ce85dcfa8bfd85?utm_campaign=1055&utm_source=git)** | Greensboro, NC | On Site | Jul 08 |
 | **[Jackson Lewis P.C.](http://www.jacksonlewis.com)** | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dba?utm_campaign=1055&utm_source=git)** | US - TX - Austin | On Site | Jul 08 |
-| ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dec?utm_campaign=1055&utm_source=git)** | US - FL - Miami | On Site | Jul 08 |
 | ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dc7?utm_campaign=1055&utm_source=git)** | US - TX - Dallas | On Site | Jul 08 |
+| ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dec?utm_campaign=1055&utm_source=git)** | US - FL - Miami | On Site | Jul 08 |
 | ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dca?utm_campaign=1055&utm_source=git)** | US - FL - Tampa | On Site | Jul 08 |
 | ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dbc?utm_campaign=1055&utm_source=git)** | US - FL - Orlando | On Site | Jul 08 |
 | ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dbf?utm_campaign=1055&utm_source=git)** | US - FL - Jacksonville | On Site | Jul 08 |
@@ -145,9 +146,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025-2026 Land Full Time (Returning Intern)](https://jobright.ai/jobs/info/686bf75a35584b6542c8c67c?utm_campaign=1055&utm_source=git)** | Houston, Texas, United States of America | On Site | Jul 07 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/681522284d48109cb7ee6eb5?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Dynamic Access](https://dynamicaccess.com/)** | **[Intern](https://jobright.ai/jobs/info/686cb04935584b6542149aeb?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Jul 06 |
-| **[Oracle](https://www.oracle.com/)** | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/681522284d48109cb7ee6eb6?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Jul 06 |
-| ↳ | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c69f8?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jul 06 |
 | **[Mortgage Research Center](https://www.mortgageresearch.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/686ada8a35584b6542979822?utm_campaign=1055&utm_source=git)** | Columbia, MO | On Site | Jul 06 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (NYC)](https://jobright.ai/jobs/info/6830cbff8ecef5bba03b929a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jul 06 |
+| **[Oracle](https://www.oracle.com/)** | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c69f7?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Jul 06 |
+| ↳ | **[OCI Data Center Compliance Program Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c69f9?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jul 06 |
 | **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e228ad?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Jul 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
