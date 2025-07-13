@@ -110,14 +110,14 @@ For a complete list, click the following sortable link below:
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68520b266a155e5478c06626?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jul 09 |
 | **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Dallas, TX](https://jobright.ai/jobs/info/684272cfa15c2e6579b77111?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jul 09 |
 | **[Lafayette Square](https://www.lafayettesquare.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/686f77d404229046f5ded1a3?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jul 09 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations, Diligence and Compliance Core](https://jobright.ai/jobs/info/686f1371365c2cd552472703?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Jul 09 |
-| ↳ | **[Intern, Investigations Diligence & Compliance - Core](https://jobright.ai/jobs/info/686f1371365c2cd5524726e7?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Jul 09 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance - Core](https://jobright.ai/jobs/info/686f1371365c2cd5524726e7?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Jul 09 |
+| ↳ | **[Intern, Investigations, Diligence and Compliance Core](https://jobright.ai/jobs/info/686f1371365c2cd552472703?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Jul 09 |
 | **[Scoular](http://www.scoular.com/)** | **[Legal Intern - Contract Management](https://jobright.ai/jobs/info/686f0628de69584b9e37a15f?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Jul 09 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[Part-Time Compliance/Legal Intern (Law School)](https://jobright.ai/jobs/info/686efe5cd08bf5ea46efb19f?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jul 09 |
 | **[Protiviti](http://www.protiviti.com)** | **[Charlotte Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68648a7584153b63ff401cdd?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Jul 09 |
-| ↳ | **[Los Angeles Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/6862e89fbea298b4eb60a0d4?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 09 |
 | ↳ | **[San Francisco Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/670dbab9d337f7192aa4ac5f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jul 09 |
 | ↳ | **[Philadelphia Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68643f5353eb2f5985836e3c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Jul 09 |
+| ↳ | **[Los Angeles Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/6862e89fbea298b4eb60a0d4?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 09 |
 | ↳ | **[Metro DC Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/686edd7e9f5f2363699bbff0?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 09 |
 | **[Lafayette Square](https://www.lafayettesquare.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/686ed4df293cdf80c953e546?utm_campaign=1055&utm_source=git)** | Washington, DC, New York, Other, Remote | Remote | Jul 09 |
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/686c25d035584b6542efc5f8?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Jul 09 |
@@ -135,9 +135,9 @@ For a complete list, click the following sortable link below:
 | **[Societe Generale](https://www.societegenerale.com)** | **[INTERNSHIP - Client Position Regulatory Reporting Analyst - Chicago](https://jobright.ai/jobs/info/686d7c350993a226dac3969b?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jul 08 |
 | **[Centric Brands](https://centricbrands.com)** | **[Compliance Intern – Fall 2025 (On-site)](https://jobright.ai/jobs/info/686d9764a1ce85dcfa8bfd85?utm_campaign=1055&utm_source=git)** | Greensboro, NC | On Site | Jul 08 |
 | **[Jackson Lewis P.C.](http://www.jacksonlewis.com)** | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dba?utm_campaign=1055&utm_source=git)** | US - TX - Austin | On Site | Jul 08 |
-| ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dec?utm_campaign=1055&utm_source=git)** | US - FL - Miami | On Site | Jul 08 |
-| ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dc7?utm_campaign=1055&utm_source=git)** | US - TX - Dallas | On Site | Jul 08 |
 | ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dca?utm_campaign=1055&utm_source=git)** | US - FL - Tampa | On Site | Jul 08 |
+| ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dc7?utm_campaign=1055&utm_source=git)** | US - TX - Dallas | On Site | Jul 08 |
+| ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dec?utm_campaign=1055&utm_source=git)** | US - FL - Miami | On Site | Jul 08 |
 | ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dbc?utm_campaign=1055&utm_source=git)** | US - FL - Orlando | On Site | Jul 08 |
 | ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dbf?utm_campaign=1055&utm_source=git)** | US - FL - Jacksonville | On Site | Jul 08 |
 | ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/686dfa942781bcbf52693dce?utm_campaign=1055&utm_source=git)** | US - TX - Houston | On Site | Jul 08 |
