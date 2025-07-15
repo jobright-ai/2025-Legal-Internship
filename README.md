@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Intern](https://jobright.ai/jobs/info/6876ba82ae2f413e4a5b2f7f?utm_campaign=1055&utm_source=git)** | DC - Washington, 300 New Jersey Ave Nw | On Site | Jul 15 |
+| **[NPR](http://www.npr.org)** | **[Office of the General Counsel Externship - Fall 2025](https://jobright.ai/jobs/info/6876b192299cbc74b875fa6a?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jul 15 |
+| ↳ | **[Office of the General Counsel (Copyright) Externship - Fall 2025](https://jobright.ai/jobs/info/6876c61eae2f413e4a5b373b?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jul 15 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Fellowship Sponsorship, Center for Liberty](https://jobright.ai/jobs/info/68768610299cbc74b875ddc9?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Jul 15 |
-| **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study/ Compliance Assist Software Support](https://jobright.ai/jobs/info/687683a6ae2f413e4a5b0724?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jul 15 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[Houston Office - 2026 2L Transactions Summer Associate](https://jobright.ai/jobs/info/6805969b10a8f21e39bb6053?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jul 15 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Corporate Legal - Fall 2025](https://jobright.ai/jobs/info/68765e30299cbc74b875cb3e?utm_campaign=1055&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
-| **[VT Group (VTG)](https://vtgdefense.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6875ec36ae2f413e4a5ab1e8?utm_campaign=1055&utm_source=git)** | Chantilly, VA | On Site | Jul 14 |
 | **[Brigham Young University](https://byu.edu)** | **[Continuing Education Pre-Law Clerk (Part-time)](https://jobright.ai/jobs/info/6875b091ae2f413e4a5a920a?utm_campaign=1055&utm_source=git)** | Provo, UT | On Site | Jul 14 |
 | **[Seyfarth Shaw LLP](http://www.seyfarth.com)** | **[2026 Summer Associate Program - Seattle Office](https://jobright.ai/jobs/info/6875a731299cbc74b8756a67?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jul 14 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Corporate Legal - Fall 2025](https://jobright.ai/jobs/info/6875a68cae2f413e4a5a8ad9?utm_campaign=1055&utm_source=git)** | Burbank, CA | On Site | Jul 14 |
@@ -102,8 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd56fcf425589cee18a0c9?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jul 10 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819027acf9261d3a8bf00a4?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 10 |
 | ↳ | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819027acf9261d3a8bf0084?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Jul 10 |
-| **[Allstate](http://www.allstate.com)** | **[Client Legal Services Paralegal Specialist Apprentice Program](https://jobright.ai/jobs/info/686229b18221679ca32e19ae?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jul 10 |
-| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/68191100c93186a3e89670ea?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jul 10 |
+| ↳ | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/68191100c93186a3e89670ea?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jul 10 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Fall 2025](https://jobright.ai/jobs/info/68190da131c47f451c460eb4?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 10 |
 | **[Lennox](http://www.lennox.com)** | **[Legal Admin Intern](https://jobright.ai/jobs/info/6853d8b81088865f813bad2c?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Jul 10 |
 | **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/6870241106ad7073463bb67d?utm_campaign=1055&utm_source=git)** | Glendale, CA | Hybrid | Jul 10 |
@@ -141,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Scoular](http://www.scoular.com/)** | **[Legal Intern - Contract Management](https://jobright.ai/jobs/info/686f0628de69584b9e37a15f?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Jul 09 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[Part-Time Compliance/Legal Intern (Law School)](https://jobright.ai/jobs/info/686efe5cd08bf5ea46efb19f?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jul 09 |
 | **[Protiviti](http://www.protiviti.com)** | **[Charlotte Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68648a7584153b63ff401cdd?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Jul 09 |
-| ↳ | **[Los Angeles Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/6862e89fbea298b4eb60a0d4?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 09 |
 | ↳ | **[Philadelphia Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68643f5353eb2f5985836e3c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Jul 09 |
+| ↳ | **[Los Angeles Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/6862e89fbea298b4eb60a0d4?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 09 |
 | ↳ | **[San Francisco Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/670dbab9d337f7192aa4ac5f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jul 09 |
 | ↳ | **[Metro DC Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/686edd7e9f5f2363699bbff0?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 09 |
 | **[Lafayette Square](https://www.lafayettesquare.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/686ed4df293cdf80c953e546?utm_campaign=1055&utm_source=git)** | Washington, DC, New York, Other, Remote | Remote | Jul 09 |
