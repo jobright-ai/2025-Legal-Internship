@@ -59,8 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Fellowship Sponsorship, Center for Liberty](https://jobright.ai/jobs/info/68768610299cbc74b875ddc9?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Jul 15 |
 | **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study/ Compliance Assist Software Support](https://jobright.ai/jobs/info/687683a6ae2f413e4a5b0724?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jul 15 |
+| **[Winston & Strawn LLP](https://www.winston.com)** | **[Houston Office - 2026 2L Transactions Summer Associate](https://jobright.ai/jobs/info/6805969b10a8f21e39bb6053?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jul 15 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Corporate Legal - Fall 2025](https://jobright.ai/jobs/info/68765e30299cbc74b875cb3e?utm_campaign=1055&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
-| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/68762be3299cbc74b875b2c8?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Jul 15 |
 | **[VT Group (VTG)](https://vtgdefense.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6875ec36ae2f413e4a5ab1e8?utm_campaign=1055&utm_source=git)** | Chantilly, VA | On Site | Jul 14 |
 | **[Brigham Young University](https://byu.edu)** | **[Continuing Education Pre-Law Clerk (Part-time)](https://jobright.ai/jobs/info/6875b091ae2f413e4a5a920a?utm_campaign=1055&utm_source=git)** | Provo, UT | On Site | Jul 14 |
 | **[Seyfarth Shaw LLP](http://www.seyfarth.com)** | **[2026 Summer Associate Program - Seattle Office](https://jobright.ai/jobs/info/6875a731299cbc74b8756a67?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jul 14 |
@@ -141,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Scoular](http://www.scoular.com/)** | **[Legal Intern - Contract Management](https://jobright.ai/jobs/info/686f0628de69584b9e37a15f?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Jul 09 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[Part-Time Compliance/Legal Intern (Law School)](https://jobright.ai/jobs/info/686efe5cd08bf5ea46efb19f?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jul 09 |
 | **[Protiviti](http://www.protiviti.com)** | **[Charlotte Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68648a7584153b63ff401cdd?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Jul 09 |
-| ↳ | **[Philadelphia Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68643f5353eb2f5985836e3c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Jul 09 |
 | ↳ | **[Los Angeles Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/6862e89fbea298b4eb60a0d4?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 09 |
+| ↳ | **[Philadelphia Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68643f5353eb2f5985836e3c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Jul 09 |
 | ↳ | **[San Francisco Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/670dbab9d337f7192aa4ac5f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jul 09 |
 | ↳ | **[Metro DC Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/686edd7e9f5f2363699bbff0?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 09 |
 | **[Lafayette Square](https://www.lafayettesquare.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/686ed4df293cdf80c953e546?utm_campaign=1055&utm_source=git)** | Washington, DC, New York, Other, Remote | Remote | Jul 09 |
