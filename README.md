@@ -58,12 +58,14 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[County of San Mateo](https://www.smcgov.org)** | **[Michael P. Murphy Public Law Fellowship](https://jobright.ai/jobs/info/6875776bae2f413e4a5a75bb?utm_campaign=1055&utm_source=git)** | San Mateo County, CA | On Site | Jul 14 |
+| **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Legal & Compliance Externship](https://jobright.ai/jobs/info/687581975cebcd1dd51c1619?utm_campaign=1055&utm_source=git)** | Jackson, MS | On Site | Jul 14 |
 | **[Seyfarth Shaw LLP](http://www.seyfarth.com)** | **[2026 Summer Associate Program - Charlotte Office](https://jobright.ai/jobs/info/687552455cebcd1dd51bf7b9?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Jul 14 |
 | ↳ | **[2026 Summer Associate Program - Atlanta Office](https://jobright.ai/jobs/info/6875509fae2f413e4a5a5a83?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jul 14 |
 | **[EnergyX](https://energyx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68754c47299cbc74b87537c4?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jul 14 |
 | **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[Cyber Audit and Compliance College Aide](https://jobright.ai/jobs/info/687150de06ad7073463c4736?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Jul 14 |
 | **[NPR](http://www.npr.org)** | **[Office of the General Counsel (Copyright) Externship - Fall 2025](https://jobright.ai/jobs/info/687538ee299cbc74b875300f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 14 |
 | ↳ | **[Office of the General Counsel Externship - Fall 2025](https://jobright.ai/jobs/info/687538005cebcd1dd51beba1?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 14 |
+| **[moomoo ](https://www.moomoo.com)** | **[Unpaid Legal/Compliance Intern](https://jobright.ai/jobs/info/68583ee1583d4c575a04b9e8?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | On Site | Jul 14 |
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/67441261e2978da4d10d8234?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jul 13 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/683a3eb5ed34bb2251d34557?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jul 12 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[Los Angeles Office - 2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/681ec5928319211b9d3fa5d2?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jul 12 |
@@ -100,8 +102,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3db7?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 10 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/68191100c93186a3e89670e9?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jul 10 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c4a9046ce16cb4c2ecbb06?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Jul 10 |
-| ↳ | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f08b?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jul 10 |
 | ↳ | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c4a3540b75ccc99fad2898?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Jul 10 |
+| ↳ | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f08b?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jul 10 |
 | ↳ | **[2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f089?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jul 10 |
 | ↳ | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c3f256ff11c215dbdc5705?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Jul 10 |
 | ↳ | **[2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/67c4ab04e8986607dd82f4a2?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jul 10 |
