@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/6877fec75cebcd1dd51d6d62?utm_campaign=1055&utm_source=git)** | US-New York | Hybrid | Jul 16 |
+| ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6877feb9ae2f413e4a5beea6?utm_campaign=1055&utm_source=git)** | US-Dallas | Hybrid | Jul 16 |
+| ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6877fea95cebcd1dd51d6d46?utm_campaign=1055&utm_source=git)** | US-Silicon Valley | Hybrid | Jul 16 |
+| ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6877fe97866a435525ab5d56?utm_campaign=1055&utm_source=git)** | US-Phoenix | Hybrid | Jul 16 |
+| ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6877fe87866a435525ab5d41?utm_campaign=1055&utm_source=git)** | US-San Francisco | Hybrid | Jul 16 |
+| ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6877fe5d5cebcd1dd51d6d0d?utm_campaign=1055&utm_source=git)** | US-Boston | Hybrid | Jul 16 |
+| ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6877fe4c5cebcd1dd51d6d04?utm_campaign=1055&utm_source=git)** | US-Atlanta | Hybrid | Jul 16 |
+| ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6877fe3a866a435525ab5cd9?utm_campaign=1055&utm_source=git)** | US-Los Angeles | Hybrid | Jul 16 |
+| ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6877fe12ae2f413e4a5bee1b?utm_campaign=1055&utm_source=git)** | US-Irvine | Hybrid | Jul 16 |
+| ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6877fdbeae2f413e4a5bede2?utm_campaign=1055&utm_source=git)** | US-San Diego | Hybrid | Jul 16 |
+| ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6877fdae866a435525ab5c3b?utm_campaign=1055&utm_source=git)** | US-Detroit | Hybrid | Jul 16 |
+| ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6877fd8e5cebcd1dd51d6c7e?utm_campaign=1055&utm_source=git)** | US-Washington DC | Hybrid | Jul 16 |
+| ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6877fd62866a435525ab5be5?utm_campaign=1055&utm_source=git)** | US-Houston | Hybrid | Jul 16 |
+| ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6877fd04ae2f413e4a5bed2d?utm_campaign=1055&utm_source=git)** | US-Miami | Hybrid | Jul 16 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Intern](https://jobright.ai/jobs/info/6877ecf1866a435525ab5187?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Jul 16 |
 | **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[Corporate Paralegal Apprentice](https://jobright.ai/jobs/info/6877b3f85cebcd1dd51d471e?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jul 16 |
 | **[Oliva Gibbs](https://www.kolawllp.com)** | **[Law Clerk (Oklahoma City, OK)](https://jobright.ai/jobs/info/685b0b721fe76f13ca7b5ef1?utm_campaign=1055&utm_source=git)** | Edmond, OK | On Site | Jul 16 |
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/68774f9cae2f413e4a5b9dfc?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jul 15 |
@@ -142,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/6853de39dee22b2fb32812ba?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jul 10 |
 | **[Frontier Airlines](http://www.flyfrontier.com)** | **[2025 Fall Intern, Legal](https://jobright.ai/jobs/info/686f52447cb0882021e0570f?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jul 09 |
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/686c298835584b65420c14f1?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jul 09 |
-| **[Dolby Laboratories](http://www.dolby.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68520b266a155e5478c06626?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jul 09 |
-| **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Dallas, TX](https://jobright.ai/jobs/info/684272cfa15c2e6579b77111?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jul 09 |
-| **[Lafayette Square](https://www.lafayettesquare.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/686f77d404229046f5ded1a3?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jul 09 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations, Diligence and Compliance Core](https://jobright.ai/jobs/info/686f1371365c2cd552472703?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Jul 09 |
-| ↳ | **[Intern, Investigations Diligence & Compliance - Core](https://jobright.ai/jobs/info/686f1371365c2cd5524726e7?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
