@@ -145,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68520b266a155e5478c06626?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jul 09 |
 | **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Dallas, TX](https://jobright.ai/jobs/info/684272cfa15c2e6579b77111?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jul 09 |
 | **[Lafayette Square](https://www.lafayettesquare.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/686f77d404229046f5ded1a3?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jul 09 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance - Core](https://jobright.ai/jobs/info/686f1371365c2cd5524726e7?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Jul 09 |
-| ↳ | **[Intern, Investigations, Diligence and Compliance Core](https://jobright.ai/jobs/info/686f1371365c2cd552472703?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Jul 09 |
-| **[Scoular](http://www.scoular.com/)** | **[Legal Intern - Contract Management](https://jobright.ai/jobs/info/686f0628de69584b9e37a15f?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Jul 09 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations, Diligence and Compliance Core](https://jobright.ai/jobs/info/686f1371365c2cd552472703?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Jul 09 |
+| ↳ | **[Intern, Investigations Diligence & Compliance - Core](https://jobright.ai/jobs/info/686f1371365c2cd5524726e7?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
