@@ -105,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[MannKind Corporation](http://mannkindcorp.com)** | **[Legal Externship - Fall 2025](https://jobright.ai/jobs/info/681c6f427f82d9187080505d?utm_campaign=1055&utm_source=git)** | Westlake Village, CA | On Site | Jul 11 |
 | **[ENGIE - International Supply & Energy Management](https://gems.engie.com)** | **[Risk Control Intern](https://jobright.ai/jobs/info/6836ff1fcd4225e591efe118?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jul 11 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/68191100c93186a3e89670ed?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Jul 11 |
+| **[MannKind Corporation](http://mannkindcorp.com)** | **[Legal Externship - Fall 2025](https://jobright.ai/jobs/info/681c6f427f82d9187080505e?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Jul 11 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/6853de39dee22b2fb32812cb?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Jul 11 |
 | **[K&L Gates](http://www.klgates.com/)** | **[2026 Seattle IP 2L Summer Associate](https://jobright.ai/jobs/info/687758f8ae2f413e4a5ba3c5?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jul 10 |
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd56fcf425589cee18a0c9?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jul 10 |
@@ -126,8 +127,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3db7?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 10 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/68191100c93186a3e89670e9?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jul 10 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c4a9046ce16cb4c2ecbb06?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Jul 10 |
-| ↳ | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c4a3540b75ccc99fad2898?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Jul 10 |
 | ↳ | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f08b?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jul 10 |
+| ↳ | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c4a3540b75ccc99fad2898?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Jul 10 |
 | ↳ | **[2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f089?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jul 10 |
 | ↳ | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c3f256ff11c215dbdc5705?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Jul 10 |
 | ↳ | **[2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/67c4ab04e8986607dd82f4a2?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jul 10 |
@@ -143,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68520b266a155e5478c06626?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jul 09 |
 | **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Dallas, TX](https://jobright.ai/jobs/info/684272cfa15c2e6579b77111?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jul 09 |
 | **[Lafayette Square](https://www.lafayettesquare.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/686f77d404229046f5ded1a3?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jul 09 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations, Diligence and Compliance Core](https://jobright.ai/jobs/info/686f1371365c2cd552472703?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Jul 09 |
-| ↳ | **[Intern, Investigations Diligence & Compliance - Core](https://jobright.ai/jobs/info/686f1371365c2cd5524726e7?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Jul 09 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance - Core](https://jobright.ai/jobs/info/686f1371365c2cd5524726e7?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Jul 09 |
+| ↳ | **[Intern, Investigations, Diligence and Compliance Core](https://jobright.ai/jobs/info/686f1371365c2cd552472703?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Jul 09 |
 | **[Scoular](http://www.scoular.com/)** | **[Legal Intern - Contract Management](https://jobright.ai/jobs/info/686f0628de69584b9e37a15f?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Jul 09 |
 | **[Protiviti](http://www.protiviti.com)** | **[Charlotte Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68648a7584153b63ff401cdd?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Jul 09 |
 | ↳ | **[Philadelphia Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68643f5353eb2f5985836e3c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Jul 09 |
@@ -155,5 +156,4 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/686c25d035584b6542efc5f8?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Jul 09 |
 | **[SAP](https://www.sap.com)** | **[SAP CSA iXp Intern - Information Security Compliance Analyst](https://jobright.ai/jobs/info/686eca5bdf2178a8ef2a9f6e?utm_campaign=1055&utm_source=git)** | Lake Mary, FL | Hybrid | Jul 09 |
 | **[Protiviti](http://www.protiviti.com)** | **[Cincinnati Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/6865f41a7166d16714b68ddd?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 09 |
-| ↳ | **[Minneapolis Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68658af4dacc710e97af26dc?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
