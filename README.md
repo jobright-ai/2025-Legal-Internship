@@ -149,5 +149,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/68191100c93186a3e89670ea?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jul 10 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Fall 2025](https://jobright.ai/jobs/info/68190da131c47f451c460eb4?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 10 |
 | **[Lennox](http://www.lennox.com)** | **[Legal Admin Intern](https://jobright.ai/jobs/info/6853d8b81088865f813bad2c?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Jul 10 |
-| **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/6870241106ad7073463bb67d?utm_campaign=1055&utm_source=git)** | Glendale, CA | Hybrid | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
