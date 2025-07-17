@@ -73,7 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6878532e866a435525ab86f2?utm_campaign=1055&utm_source=git)** | Detroit Metro | Hybrid | Jul 16 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/68782aa75cebcd1dd51d8411?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | ↳ | **[Operational Risk Management Department Third Party Risk Management Intern](https://jobright.ai/jobs/info/687826f0866a435525ab7212?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
-| ↳ | **[Operational Risk Management Department Governance Intern](https://jobright.ai/jobs/info/68782666ae2f413e4a5c02eb?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
+| ↳ | **[Operational Risk Management Department Governance Intern](https://jobright.ai/jobs/info/6878234f866a435525ab703d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | ↳ | **[Legal and Compliance Department - FLU Oversight Intern](https://jobright.ai/jobs/info/68781e47866a435525ab6e7a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Legal & Compliance Externship](https://jobright.ai/jobs/info/687581975cebcd1dd51c1619?utm_campaign=1055&utm_source=git)** | Jackson, MS | On Site | Jul 16 |
 | **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/6877fec75cebcd1dd51d6d62?utm_campaign=1055&utm_source=git)** | US-New York | Hybrid | Jul 16 |
@@ -124,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[moomoo ](https://www.moomoo.com)** | **[Unpaid Legal/Compliance Intern](https://jobright.ai/jobs/info/68583ee1583d4c575a04b9e8?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | On Site | Jul 14 |
 | **[Concord](https://concord.com/)** | **[Rights Optimization Intern](https://jobright.ai/jobs/info/68760a765cebcd1dd51c60b5?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jul 13 |
 | ↳ | **[Copyright Intern](https://jobright.ai/jobs/info/68761f195cebcd1dd51c6bfd?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jul 13 |
-| **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/68787e9b5cebcd1dd51db130?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jul 13 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[LAW CLERK-EMERGENCY APPOINTMENT/HOMELESS INITIATIVE](https://jobright.ai/jobs/info/687899105cebcd1dd51dc33c?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jul 12 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/683a3eb5ed34bb2251d34557?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jul 12 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[Los Angeles Office - 2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/681ec5928319211b9d3fa5d2?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jul 12 |
@@ -151,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Fall 2025](https://jobright.ai/jobs/info/68190da131c47f451c460eb4?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 10 |
 | **[Lennox](http://www.lennox.com)** | **[Legal Admin Intern](https://jobright.ai/jobs/info/6853d8b81088865f813bad2c?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Jul 10 |
 | **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/6870241106ad7073463bb67d?utm_campaign=1055&utm_source=git)** | Glendale, CA | Hybrid | Jul 10 |
-| **[McDonnell Boehnen Hulbert & Berghoff LLP](http://mbhb.com)** | **[Summer Associate](https://jobright.ai/jobs/info/6870346001cc0956e7e8029f?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
