@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/68782aa75cebcd1dd51d8411?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
+| ↳ | **[Operational Risk Management Department Third Party Risk Management Intern](https://jobright.ai/jobs/info/687826f0866a435525ab7212?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
+| ↳ | **[Operational Risk Management Department Governance Intern](https://jobright.ai/jobs/info/6878234f866a435525ab703d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
+| ↳ | **[Legal and Compliance Department - FLU Oversight Intern](https://jobright.ai/jobs/info/68781e47866a435525ab6e7a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
+| **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Legal & Compliance Externship](https://jobright.ai/jobs/info/687581975cebcd1dd51c1619?utm_campaign=1055&utm_source=git)** | Jackson, MS | On Site | Jul 16 |
 | **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/6877fec75cebcd1dd51d6d62?utm_campaign=1055&utm_source=git)** | US-New York | Hybrid | Jul 16 |
 | ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6877feb9ae2f413e4a5beea6?utm_campaign=1055&utm_source=git)** | US-Dallas | Hybrid | Jul 16 |
 | ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6877fea95cebcd1dd51d6d46?utm_campaign=1055&utm_source=git)** | US-Silicon Valley | Hybrid | Jul 16 |
@@ -93,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Legal Intern Fall 2025-Spring 2026 (Atlantic/Cape May, various divisions)](https://jobright.ai/jobs/info/6875990fae2f413e4a5a859b?utm_campaign=1055&utm_source=git)** | Cape May, NJ | Hybrid | Jul 14 |
 | **[The Jeffcoat Firm](https://scinjurylawfirm.com)** | **[Internship - Fall 2025](https://jobright.ai/jobs/info/6875abf45cebcd1dd51c2b3f?utm_campaign=1055&utm_source=git)** | Columbia, SC | On Site | Jul 14 |
 | **[County of San Mateo](https://www.smcgov.org)** | **[Michael P. Murphy Public Law Fellowship](https://jobright.ai/jobs/info/6875776bae2f413e4a5a75bb?utm_campaign=1055&utm_source=git)** | San Mateo County, CA | On Site | Jul 14 |
-| **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Legal & Compliance Externship](https://jobright.ai/jobs/info/687581975cebcd1dd51c1619?utm_campaign=1055&utm_source=git)** | Jackson, MS | On Site | Jul 14 |
 | **[Seyfarth Shaw LLP](http://www.seyfarth.com)** | **[2026 Summer Associate Program - Charlotte Office](https://jobright.ai/jobs/info/687552455cebcd1dd51bf7b9?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Jul 14 |
 | ↳ | **[2026 Summer Associate Program - Atlanta Office](https://jobright.ai/jobs/info/6875509fae2f413e4a5a5a83?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jul 14 |
 | **[EnergyX](https://energyx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68754c47299cbc74b87537c4?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jul 14 |
@@ -104,8 +108,6 @@ For a complete list, click the following sortable link below:
 | **[moomoo ](https://www.moomoo.com)** | **[Unpaid Legal/Compliance Intern](https://jobright.ai/jobs/info/68583ee1583d4c575a04b9e8?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | On Site | Jul 14 |
 | **[Concord](https://concord.com/)** | **[Rights Optimization Intern](https://jobright.ai/jobs/info/68760a765cebcd1dd51c60b5?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jul 13 |
 | ↳ | **[Copyright Intern](https://jobright.ai/jobs/info/68761f195cebcd1dd51c6bfd?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jul 13 |
-| **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/68772c2e5cebcd1dd51d0888?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jul 13 |
-| **[County of Los Angeles](https://lacounty.gov/)** | **[LAW CLERK-EMERGENCY APPOINTMENT/HOMELESS INITIATIVE](https://jobright.ai/jobs/info/6877435d5cebcd1dd51d1baf?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jul 12 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/683a3eb5ed34bb2251d34557?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jul 12 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[Los Angeles Office - 2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/681ec5928319211b9d3fa5d2?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jul 12 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Fort Lauderdale)](https://jobright.ai/jobs/info/683a648d24b1d2d95fb5b3d5?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jul 12 |
@@ -143,8 +145,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3db7?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 10 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/68191100c93186a3e89670e9?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jul 10 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c4a9046ce16cb4c2ecbb06?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Jul 10 |
-| ↳ | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c4a3540b75ccc99fad2898?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Jul 10 |
 | ↳ | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f08b?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jul 10 |
+| ↳ | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c4a3540b75ccc99fad2898?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Jul 10 |
 | ↳ | **[2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f089?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jul 10 |
 | ↳ | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c3f256ff11c215dbdc5705?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Jul 10 |
 | ↳ | **[2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/67c4ab04e8986607dd82f4a2?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jul 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Investigations Diligence & Compliance - Core](https://jobright.ai/jobs/info/6870096201cc0956e7e7eba9?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jul 10 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/6853053b586d1b8ea70243aa?utm_campaign=1055&utm_source=git)** | Garden Grove, CA | On Site | Jul 10 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/6853de39dee22b2fb32812ba?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jul 10 |
-| **[Frontier Airlines](http://www.flyfrontier.com)** | **[2025 Fall Intern, Legal](https://jobright.ai/jobs/info/686f52447cb0882021e0570f?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jul 09 |
-| **[Protiviti](http://www.protiviti.com)** | **[Chicago Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/686c298835584b65420c14f1?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
