@@ -73,7 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6878532e866a435525ab86f2?utm_campaign=1055&utm_source=git)** | Detroit Metro | Hybrid | Jul 16 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/68782aa75cebcd1dd51d8411?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | ↳ | **[Operational Risk Management Department Third Party Risk Management Intern](https://jobright.ai/jobs/info/687826f0866a435525ab7212?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
-| ↳ | **[Operational Risk Management Department Governance Intern](https://jobright.ai/jobs/info/68782666ae2f413e4a5c02eb?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
+| ↳ | **[Operational Risk Management Department Governance Intern](https://jobright.ai/jobs/info/6878234f866a435525ab703d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | ↳ | **[Legal and Compliance Department - FLU Oversight Intern](https://jobright.ai/jobs/info/68781e47866a435525ab6e7a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Legal & Compliance Externship](https://jobright.ai/jobs/info/687581975cebcd1dd51c1619?utm_campaign=1055&utm_source=git)** | Jackson, MS | On Site | Jul 16 |
 | **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/6877fec75cebcd1dd51d6d62?utm_campaign=1055&utm_source=git)** | US-New York | Hybrid | Jul 16 |
@@ -92,6 +92,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6877fd04ae2f413e4a5bed2d?utm_campaign=1055&utm_source=git)** | US-Miami | Hybrid | Jul 16 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Intern](https://jobright.ai/jobs/info/6877ecf1866a435525ab5187?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Jul 16 |
 | **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[Corporate Paralegal Apprentice](https://jobright.ai/jobs/info/6877b3f85cebcd1dd51d471e?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jul 16 |
+| **[Sony](https://www.sony.com)** | **[Legal Intern](https://jobright.ai/jobs/info/683e44e44df955f0404bdb0a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jul 16 |
 | **[Oliva Gibbs](https://www.kolawllp.com)** | **[Law Clerk (Oklahoma City, OK)](https://jobright.ai/jobs/info/685b0b721fe76f13ca7b5ef1?utm_campaign=1055&utm_source=git)** | Edmond, OK | On Site | Jul 16 |
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/68774f9cae2f413e4a5b9dfc?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jul 15 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal and Compliance Department Technology Governance & Optimization Intern](https://jobright.ai/jobs/info/6876dadc299cbc74b87614f6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 15 |
@@ -122,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[moomoo ](https://www.moomoo.com)** | **[Unpaid Legal/Compliance Intern](https://jobright.ai/jobs/info/68583ee1583d4c575a04b9e8?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | On Site | Jul 14 |
 | **[Concord](https://concord.com/)** | **[Rights Optimization Intern](https://jobright.ai/jobs/info/68760a765cebcd1dd51c60b5?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jul 13 |
 | ↳ | **[Copyright Intern](https://jobright.ai/jobs/info/68761f195cebcd1dd51c6bfd?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jul 13 |
+| **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/68787e9b5cebcd1dd51db130?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jul 13 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/683a3eb5ed34bb2251d34557?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jul 12 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[Los Angeles Office - 2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/681ec5928319211b9d3fa5d2?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jul 12 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Fort Lauderdale)](https://jobright.ai/jobs/info/683a648d24b1d2d95fb5b3d5?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jul 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819087a549ca8705983ecc1?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jul 10 |
 | ↳ | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819027acf9261d3a8bf0085?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jul 10 |
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd56fcf425589cee18a047?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jul 10 |
-| ↳ | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3db7?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 10 |
-| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/68191100c93186a3e89670e9?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
