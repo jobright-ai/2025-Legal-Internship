@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SES Satellites](http://www.ses.com)** | **[Regulatory Intern (Fall 2025)](https://jobright.ai/jobs/info/68791added63844c94498a95?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Jul 17 |
 | **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/68785215866a435525ab85fd?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Jul 16 |
 | ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6878520b866a435525ab85f7?utm_campaign=1055&utm_source=git)** | SD Metro Area | Hybrid | Jul 16 |
 | ↳ | **[Summer Associate](https://jobright.ai/jobs/info/687850085cebcd1dd51d954c?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Jul 16 |
@@ -146,6 +147,4 @@ For a complete list, click the following sortable link below:
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd56fcf425589cee18a0c9?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jul 10 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819027acf9261d3a8bf00a4?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 10 |
 | ↳ | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819027acf9261d3a8bf0084?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Jul 10 |
-| ↳ | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/68191100c93186a3e89670ea?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jul 10 |
-| **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Fall 2025](https://jobright.ai/jobs/info/68190da131c47f451c460eb4?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
