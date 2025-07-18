@@ -117,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[County of San Mateo](https://www.smcgov.org)** | **[Michael P. Murphy Public Law Fellowship](https://jobright.ai/jobs/info/6875776bae2f413e4a5a75bb?utm_campaign=1055&utm_source=git)** | San Mateo County, CA | On Site | Jul 14 |
 | **[Seyfarth Shaw LLP](http://www.seyfarth.com)** | **[2026 Summer Associate Program - Charlotte Office](https://jobright.ai/jobs/info/687552455cebcd1dd51bf7b9?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Jul 14 |
 | ↳ | **[2026 Summer Associate Program - Atlanta Office](https://jobright.ai/jobs/info/6875509fae2f413e4a5a5a83?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jul 14 |
-| **[EnergyX](https://energyx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68754c47299cbc74b87537c4?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jul 14 |
 | **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[Cyber Audit and Compliance College Aide](https://jobright.ai/jobs/info/687150de06ad7073463c4736?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Jul 14 |
 | **[NPR](http://www.npr.org)** | **[Office of the General Counsel (Copyright) Externship - Fall 2025](https://jobright.ai/jobs/info/687538ee299cbc74b875300f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 14 |
 | ↳ | **[Office of the General Counsel Externship - Fall 2025](https://jobright.ai/jobs/info/687538005cebcd1dd51beba1?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 14 |
@@ -144,5 +143,4 @@ For a complete list, click the following sortable link below:
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/68191100c93186a3e89670ed?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Jul 11 |
 | **[MannKind Corporation](http://mannkindcorp.com)** | **[Legal Externship - Fall 2025](https://jobright.ai/jobs/info/681c6f427f82d9187080505e?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Jul 11 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/6853de39dee22b2fb32812cb?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Jul 11 |
-| **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd56fcf425589cee18a0c9?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
