@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Minneapolis/St. Paul, MN (Edina)](https://jobright.ai/jobs/info/684272cfa15c2e6579b7713d?utm_campaign=1055&utm_source=git)** | Minneapolis/St. Paul/Edina, MN | On Site | Jul 18 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6879bd84a7fc8904e39650a0?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Jul 17 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Business & Legal Affairs, Sony Pictures Classics - Fall 2025](https://jobright.ai/jobs/info/6879b0672097a271a897954d?utm_campaign=1055&utm_source=git)** | Culver City, California | On Site | Jul 17 |
 | **[Candidly](https://getcandidly.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6879a004ed63844c9449cfd1?utm_campaign=1055&utm_source=git)** | Remote - USA | Remote | Jul 17 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Affairs Intern – Fall 2025](https://jobright.ai/jobs/info/6879981fa7fc8904e3963d96?utm_campaign=1055&utm_source=git)** | Culver City, California | On Site | Jul 17 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Affairs Intern – Fall 2025](https://jobright.ai/jobs/info/687998cced63844c9449cc52?utm_campaign=1055&utm_source=git)** | Culver City, California | On Site | Jul 17 |
 | **[Candidly](https://getcandidly.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68798af0ed63844c9449c70b?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 17 |
 | **[SES Satellites](http://www.ses.com)** | **[Regulatory Intern (Fall 2025)](https://jobright.ai/jobs/info/68791added63844c94498a95?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Jul 17 |
 | **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/68785215866a435525ab85fd?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Jul 16 |
@@ -136,5 +137,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern (Fall 2025- Unpaid)](https://jobright.ai/jobs/info/6871c85106ad7073463c7370?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Jul 11 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c4ab04e8986607dd82f4a4?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jul 11 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[San Francisco Office - 2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/68000565c04de00ad2556ab0?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jul 11 |
-| **[EnergyX](https://energyx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/687168cf18d65dc0f5c73ab0?utm_campaign=1055&utm_source=git)** | Austin, Texas, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
