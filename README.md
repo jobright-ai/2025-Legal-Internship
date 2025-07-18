@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Environmental Defense Fund](http://www.edf.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/687a824ded63844c944a37c5?utm_campaign=1055&utm_source=git)** | Remote - US Home | Remote | Jul 18 |
+| **[Environmental Defense Fund](http://www.edf.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/687a9f062097a271a898058d?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 18 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/687a824ded63844c944a37c5?utm_campaign=1055&utm_source=git)** | Remote - US Home | Remote | Jul 18 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Business & Legal Affairs, Sony Pictures Classics - Fall 2025](https://jobright.ai/jobs/info/687a81ad764c3d7411c2d951?utm_campaign=1055&utm_source=git)** | Culver City, CA | On Site | Jul 18 |
 | ↳ | **[Business Affairs Intern – Fall 2025](https://jobright.ai/jobs/info/687a7d7eed63844c944a367a?utm_campaign=1055&utm_source=git)** | Culver City, CA | On Site | Jul 18 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern – Enterprise Risk Management](https://jobright.ai/jobs/info/687a667a764c3d7411c2ce6c?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | Hybrid | Jul 18 |
@@ -137,8 +138,5 @@ For a complete list, click the following sortable link below:
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/6879dd56ed63844c9449efb2?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jul 13 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[LAW CLERK-EMERGENCY APPOINTMENT/HOMELESS INITIATIVE](https://jobright.ai/jobs/info/687899105cebcd1dd51dc33c?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jul 12 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/683a3eb5ed34bb2251d34557?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jul 12 |
-| **[Winston & Strawn LLP](https://www.winston.com)** | **[Los Angeles Office - 2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/681ec5928319211b9d3fa5d2?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jul 12 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Fort Lauderdale)](https://jobright.ai/jobs/info/683a648d24b1d2d95fb5b3d5?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jul 12 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern (Fall 2025- Unpaid)](https://jobright.ai/jobs/info/6871c85106ad7073463c7370?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Jul 11 |
-| **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c4ab04e8986607dd82f4a4?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
