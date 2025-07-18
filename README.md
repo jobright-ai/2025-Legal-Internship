@@ -138,7 +138,4 @@ For a complete list, click the following sortable link below:
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c4ab04e8986607dd82f4a4?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jul 11 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[San Francisco Office - 2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/68000565c04de00ad2556ab0?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jul 11 |
 | **[EnergyX](https://energyx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/687168cf18d65dc0f5c73ab0?utm_campaign=1055&utm_source=git)** | Austin, Texas, United States | On Site | Jul 11 |
-| **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L IP-Technology Transactions Summer Associate](https://jobright.ai/jobs/info/67c4a0020d65632e14c0119c?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jul 11 |
-| **[Wiss](http://www.wiss.com)** | **[Intern, Litigation Support (Fall 2025)](https://jobright.ai/jobs/info/6838756293cb50aabf3c28ee?utm_campaign=1055&utm_source=git)** | Florham Park, NJ | On Site | Jul 11 |
-| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819087a549ca8705983ecc0?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
