@@ -61,7 +61,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/687a824ded63844c944a37c5?utm_campaign=1055&utm_source=git)** | Remote - US Home | Remote | Jul 18 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Business & Legal Affairs, Sony Pictures Classics - Fall 2025](https://jobright.ai/jobs/info/687a81ad764c3d7411c2d951?utm_campaign=1055&utm_source=git)** | Culver City, CA | On Site | Jul 18 |
 | ↳ | **[Business Affairs Intern – Fall 2025](https://jobright.ai/jobs/info/687a7d7eed63844c944a367a?utm_campaign=1055&utm_source=git)** | Culver City, CA | On Site | Jul 18 |
-| **[MedPro Group](https://www.medpro.com/)** | **[Intern – Enterprise Risk Management](https://jobright.ai/jobs/info/687a667a764c3d7411c2ce6c?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | Hybrid | Jul 18 |
 | **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Minneapolis/St. Paul, MN (Edina)](https://jobright.ai/jobs/info/684272cfa15c2e6579b7713d?utm_campaign=1055&utm_source=git)** | Minneapolis/St. Paul/Edina, MN | On Site | Jul 18 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6879bd84a7fc8904e39650a0?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Jul 17 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Business & Legal Affairs, Sony Pictures Classics - Fall 2025](https://jobright.ai/jobs/info/6879b0672097a271a897954d?utm_campaign=1055&utm_source=git)** | Culver City, California | On Site | Jul 17 |
@@ -86,7 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6878532e866a435525ab86f2?utm_campaign=1055&utm_source=git)** | Detroit Metro | Hybrid | Jul 16 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/68782aa75cebcd1dd51d8411?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | ↳ | **[Operational Risk Management Department Third Party Risk Management Intern](https://jobright.ai/jobs/info/687826f0866a435525ab7212?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
-| ↳ | **[Operational Risk Management Department Governance Intern](https://jobright.ai/jobs/info/68782666ae2f413e4a5c02eb?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
+| ↳ | **[Operational Risk Management Department Governance Intern](https://jobright.ai/jobs/info/6878234f866a435525ab703d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | ↳ | **[Legal and Compliance Department - FLU Oversight Intern](https://jobright.ai/jobs/info/68781e47866a435525ab6e7a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Legal & Compliance Externship](https://jobright.ai/jobs/info/687581975cebcd1dd51c1619?utm_campaign=1055&utm_source=git)** | Jackson, MS | On Site | Jul 16 |
 | **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/6877fec75cebcd1dd51d6d62?utm_campaign=1055&utm_source=git)** | US-New York | Hybrid | Jul 16 |
