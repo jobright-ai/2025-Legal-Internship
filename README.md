@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Manhattan Institute](https://www.manhattan.institute)** | **[Law School Associate Program](https://jobright.ai/jobs/info/685c225bf1e10bde997f7429?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jul 21 |
 | **[Pinnacle Propane, LLC](https://pinnaclepropane.com)** | **[Legal Intern](https://jobright.ai/jobs/info/687d4d38ed63844c944b2500?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Jul 20 |
 | **[Medpace](http://www.medpace.com)** | **[Regulatory Research Fall 2025 Intern](https://jobright.ai/jobs/info/6799a5f27b45d044d3fd9e63?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 20 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Contracts Intern - Fall 2025](https://jobright.ai/jobs/info/6826a438c3e207529eaa89d4?utm_campaign=1055&utm_source=git)** | Melbourne, FL | Hybrid | Jul 19 |
@@ -98,7 +99,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6878532e866a435525ab86f2?utm_campaign=1055&utm_source=git)** | Detroit Metro | Hybrid | Jul 16 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/68782aa75cebcd1dd51d8411?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | ↳ | **[Operational Risk Management Department Third Party Risk Management Intern](https://jobright.ai/jobs/info/687826f0866a435525ab7212?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
-| ↳ | **[Operational Risk Management Department Governance Intern](https://jobright.ai/jobs/info/68782666ae2f413e4a5c02eb?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
+| ↳ | **[Operational Risk Management Department Governance Intern](https://jobright.ai/jobs/info/6878234f866a435525ab703d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | ↳ | **[Legal and Compliance Department - FLU Oversight Intern](https://jobright.ai/jobs/info/68781e47866a435525ab6e7a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Legal & Compliance Externship](https://jobright.ai/jobs/info/687581975cebcd1dd51c1619?utm_campaign=1055&utm_source=git)** | Jackson, MS | On Site | Jul 16 |
 | **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/6877fec75cebcd1dd51d6d62?utm_campaign=1055&utm_source=git)** | US-New York | Hybrid | Jul 16 |
