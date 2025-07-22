@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Real Estate Investment & Development - Raleigh](https://jobright.ai/jobs/info/687f73182097a271a899cf03?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Jul 22 |
 | **[AARP](http://www.aarp.org)** | **[Legal Counsel for the Elderly Intern](https://jobright.ai/jobs/info/687f332f764c3d7411c4a218?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 21 |
 | ↳ | **[Legal Counsel for the Elderly Intern](https://jobright.ai/jobs/info/687f47db2097a271a899c60e?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 21 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Fellowship Sponsorship, Center for Liberty](https://jobright.ai/jobs/info/687f04f5764c3d7411c4835b?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jul 21 |
@@ -139,6 +140,4 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal and Compliance Department Technology Governance & Optimization Intern](https://jobright.ai/jobs/info/6876dadc299cbc74b87614f6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 15 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Intern](https://jobright.ai/jobs/info/6876ba82ae2f413e4a5b2f7f?utm_campaign=1055&utm_source=git)** | DC - Washington, 300 New Jersey Ave Nw | On Site | Jul 15 |
 | **[NPR](http://www.npr.org)** | **[Office of the General Counsel Externship - Fall 2025](https://jobright.ai/jobs/info/6876b192299cbc74b875fa6a?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jul 15 |
-| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Early Talent - Trade Compliance Clerk](https://jobright.ai/jobs/info/6874c48eae2f413e4a5a027a?utm_campaign=1055&utm_source=git)** | Peoria, IL | On Site | Jul 15 |
-| **[NPR](http://www.npr.org)** | **[Office of the General Counsel (Copyright) Externship - Fall 2025](https://jobright.ai/jobs/info/6876c61eae2f413e4a5b373b?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
