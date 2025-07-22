@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Counsel for the Elderly Intern](https://jobright.ai/jobs/info/687f47db2097a271a899c60e?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 21 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Fellowship Sponsorship, Center for Liberty](https://jobright.ai/jobs/info/687f04f5764c3d7411c4835b?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jul 21 |
 | ↳ | **[Fall 2025 Legal Intern, Women's Rights Project](https://jobright.ai/jobs/info/687ef8da2097a271a899947e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 21 |
-| ↳ | **[Fall 2025 Legal Intern, Immigrants' Rights Project, SF](https://jobright.ai/jobs/info/687f12969f72804245700d65?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jul 21 |
 | **[University of Denver](http://www.du.edu/)** | **[IAALS Law Student Intern](https://jobright.ai/jobs/info/687ee30d764c3d7411c46e5e?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jul 21 |
 | **[ACLU](https://www.aclu.org/)** | **[Legal Intern, Immigrants' Rights Project](https://jobright.ai/jobs/info/687efe5b2097a271a8999784?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 21 |
 | ↳ | **[Fall 2026 Fellowship Sponsorship, Center for Liberty](https://jobright.ai/jobs/info/687efe302097a271a899976d?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 21 |
@@ -137,7 +136,4 @@ For a complete list, click the following sortable link below:
 | **[Oliva Gibbs](https://www.kolawllp.com)** | **[Law Clerk (Oklahoma City, OK)](https://jobright.ai/jobs/info/685b0b721fe76f13ca7b5ef1?utm_campaign=1055&utm_source=git)** | Edmond, OK | On Site | Jul 16 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/683e3edf0994476ef99b3ed5?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Jul 16 |
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/68774f9cae2f413e4a5b9dfc?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jul 15 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal and Compliance Department Technology Governance & Optimization Intern](https://jobright.ai/jobs/info/6876dadc299cbc74b87614f6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 15 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Intern](https://jobright.ai/jobs/info/6876ba82ae2f413e4a5b2f7f?utm_campaign=1055&utm_source=git)** | DC - Washington, 300 New Jersey Ave Nw | On Site | Jul 15 |
-| **[NPR](http://www.npr.org)** | **[Office of the General Counsel Externship - Fall 2025](https://jobright.ai/jobs/info/6876b192299cbc74b875fa6a?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
