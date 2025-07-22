@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Fellowship Sponsorship, Center for Liberty](https://jobright.ai/jobs/info/687f04f5764c3d7411c4835b?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jul 21 |
 | ↳ | **[Fall 2025 Legal Intern, Women's Rights Project](https://jobright.ai/jobs/info/687ef8da2097a271a899947e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 21 |
+| ↳ | **[Fall 2025 Legal Intern, Immigrants' Rights Project, SF](https://jobright.ai/jobs/info/687f12969f72804245700d65?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jul 21 |
 | **[University of Denver](http://www.du.edu/)** | **[IAALS Law Student Intern](https://jobright.ai/jobs/info/687ee30d764c3d7411c46e5e?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jul 21 |
 | **[ACLU](https://www.aclu.org/)** | **[Legal Intern, Immigrants' Rights Project](https://jobright.ai/jobs/info/687efe5b2097a271a8999784?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 21 |
 | ↳ | **[Fall 2026 Fellowship Sponsorship, Center for Liberty](https://jobright.ai/jobs/info/687efe302097a271a899976d?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 21 |
@@ -86,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/68787169866a435525ab96d3?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Jul 18 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6879bd84a7fc8904e39650a0?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Jul 17 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[Dallas Office - 2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/680648cc4db2f10bef57425e?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jul 17 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Business & Legal Affairs, Sony Pictures Classics - Fall 2025](https://jobright.ai/jobs/info/6879b0672097a271a897954d?utm_campaign=1055&utm_source=git)** | Culver City, California | On Site | Jul 17 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Business & Legal Affairs, Sony Pictures Classics - Fall 2025](https://jobright.ai/jobs/info/6879b09f2097a271a8979592?utm_campaign=1055&utm_source=git)** | Culver City, California | On Site | Jul 17 |
 | **[Candidly](https://getcandidly.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6879a004ed63844c9449cfd1?utm_campaign=1055&utm_source=git)** | Remote - USA | Remote | Jul 17 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Affairs Intern – Fall 2025](https://jobright.ai/jobs/info/6879981fa7fc8904e3963d96?utm_campaign=1055&utm_source=git)** | Culver City, California | On Site | Jul 17 |
 | **[CareVet](https://www.carevethealth.com)** | **[Legal Intern](https://jobright.ai/jobs/info/687c9fce2097a271a898c0fb?utm_campaign=1055&utm_source=git)** | Clayton, MO | On Site | Jul 17 |
@@ -140,5 +141,4 @@ For a complete list, click the following sortable link below:
 | **[NPR](http://www.npr.org)** | **[Office of the General Counsel (Copyright) Externship - Fall 2025](https://jobright.ai/jobs/info/6876c61eae2f413e4a5b373b?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jul 15 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Fellowship Sponsorship, Center for Liberty](https://jobright.ai/jobs/info/68768610299cbc74b875ddc9?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Jul 15 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Compliance - Real Estate Lending)](https://jobright.ai/jobs/info/687701caae2f413e4a5b5ccb?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Jul 15 |
-| **[Winston & Strawn LLP](https://www.winston.com)** | **[Houston Office - 2026 2L Transactions Summer Associate](https://jobright.ai/jobs/info/6805969b10a8f21e39bb6053?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
