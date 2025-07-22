@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/687ead292097a271a8996eff?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Jul 21 |
+| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Fellowship Sponsorship, Center for Liberty](https://jobright.ai/jobs/info/687f04f5764c3d7411c4835b?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jul 21 |
+| ↳ | **[Fall 2025 Legal Intern, Women's Rights Project](https://jobright.ai/jobs/info/687ef8da2097a271a899947e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 21 |
+| **[University of Denver](http://www.du.edu/)** | **[IAALS Law Student Intern](https://jobright.ai/jobs/info/687ee30d764c3d7411c46e5e?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jul 21 |
+| **[ACLU](https://www.aclu.org/)** | **[Legal Intern, Immigrants' Rights Project](https://jobright.ai/jobs/info/687efe5b2097a271a8999784?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 21 |
+| ↳ | **[Fall 2026 Fellowship Sponsorship, Center for Liberty](https://jobright.ai/jobs/info/687efe302097a271a899976d?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 21 |
+| **[Larimer County](https://www.larimer.gov)** | **[District Attorney Legal Intern Fall 2025, or Spring or Summer 2026](https://jobright.ai/jobs/info/687f03ce764c3d7411c482cd?utm_campaign=1055&utm_source=git)** | Fort Collins, CO | On Site | Jul 21 |
 | **[Clarkson Law Firm](http://www.clarksonlawfirm.com/)** | **[3L Fall Law Clerk](https://jobright.ai/jobs/info/687e73b0db19f31cf0d6a578?utm_campaign=1055&utm_source=git)** | Malibu, CA | Hybrid | Jul 21 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2025 Regulatory Internship](https://jobright.ai/jobs/info/687e5b7ddb19f31cf0d69a2f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 21 |
 | **[Manhattan Institute](https://www.manhattan.institute)** | **[Law School Associate Program](https://jobright.ai/jobs/info/685c225bf1e10bde997f7429?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jul 21 |
@@ -81,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/68787169866a435525ab96d3?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Jul 18 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6879bd84a7fc8904e39650a0?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Jul 17 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[Dallas Office - 2026 2L Litigation Summer Associate](https://jobright.ai/jobs/info/680648cc4db2f10bef57425e?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jul 17 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Business & Legal Affairs, Sony Pictures Classics - Fall 2025](https://jobright.ai/jobs/info/6879b09f2097a271a8979592?utm_campaign=1055&utm_source=git)** | Culver City, California | On Site | Jul 17 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Business & Legal Affairs, Sony Pictures Classics - Fall 2025](https://jobright.ai/jobs/info/6879b0672097a271a897954d?utm_campaign=1055&utm_source=git)** | Culver City, California | On Site | Jul 17 |
 | **[Candidly](https://getcandidly.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6879a004ed63844c9449cfd1?utm_campaign=1055&utm_source=git)** | Remote - USA | Remote | Jul 17 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Affairs Intern – Fall 2025](https://jobright.ai/jobs/info/6879981fa7fc8904e3963d96?utm_campaign=1055&utm_source=git)** | Culver City, California | On Site | Jul 17 |
 | **[CareVet](https://www.carevethealth.com)** | **[Legal Intern](https://jobright.ai/jobs/info/687c9fce2097a271a898c0fb?utm_campaign=1055&utm_source=git)** | Clayton, MO | On Site | Jul 17 |
@@ -105,7 +110,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6878532e866a435525ab86f2?utm_campaign=1055&utm_source=git)** | Detroit Metro | Hybrid | Jul 16 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/68782aa75cebcd1dd51d8411?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | ↳ | **[Operational Risk Management Department Third Party Risk Management Intern](https://jobright.ai/jobs/info/687826f0866a435525ab7212?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
-| ↳ | **[Operational Risk Management Department Governance Intern](https://jobright.ai/jobs/info/6878234f866a435525ab703d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
+| ↳ | **[Operational Risk Management Department Governance Intern](https://jobright.ai/jobs/info/68782666ae2f413e4a5c02eb?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | ↳ | **[Legal and Compliance Department - FLU Oversight Intern](https://jobright.ai/jobs/info/68781e47866a435525ab6e7a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Legal & Compliance Externship](https://jobright.ai/jobs/info/687581975cebcd1dd51c1619?utm_campaign=1055&utm_source=git)** | Jackson, MS | On Site | Jul 16 |
 | **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/6877fec75cebcd1dd51d6d62?utm_campaign=1055&utm_source=git)** | US-New York | Hybrid | Jul 16 |
@@ -136,5 +141,4 @@ For a complete list, click the following sortable link below:
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Fellowship Sponsorship, Center for Liberty](https://jobright.ai/jobs/info/68768610299cbc74b875ddc9?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Jul 15 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Compliance - Real Estate Lending)](https://jobright.ai/jobs/info/687701caae2f413e4a5b5ccb?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Jul 15 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[Houston Office - 2026 2L Transactions Summer Associate](https://jobright.ai/jobs/info/6805969b10a8f21e39bb6053?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jul 15 |
-| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Corporate Legal - Fall 2025](https://jobright.ai/jobs/info/68765e30299cbc74b875cb3e?utm_campaign=1055&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
