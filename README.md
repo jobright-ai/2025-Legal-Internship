@@ -57,19 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sign In Solutions | Visitor Management System](https://signinsolutions.com)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/688150a929ad6b2744ae11c5?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | Hybrid | Jul 23 |
+| **[Burns White LLC](https://burnswhite.com/)** | **[3L Part time Law Clerk – Cherry Hill](https://jobright.ai/jobs/info/68814a9829ad6b2744ae0e36?utm_campaign=1055&utm_source=git)** | Cherry Hill, NJ | On Site | Jul 23 |
 | **[Omaha Productions](https://omahaproductions.com)** | **[Business & Legal Affairs Intern](https://jobright.ai/jobs/info/68811c2716ea5743a3736244?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
 | **[Federal Public Defender, Central District of California](https://fpdcdca.org)** | **[Noncapital Habeas Unit Law Clerk](https://jobright.ai/jobs/info/688117e329ad6b2744adefda?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Non-Lending Compliance)](https://jobright.ai/jobs/info/68649411fee3780c06447358?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Jul 23 |
 | **[Federal Public Defender, Central District of California](https://fpdcdca.org)** | **[Trial Unit Law Clerk - Los Angeles](https://jobright.ai/jobs/info/68811f6629ad6b2744adf64b?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
 | ↳ | **[Capital Habeas Unit Law Clerk](https://jobright.ai/jobs/info/68811b84f4f06100f3a2416c?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
-| **[AmericanIIR](americaniir.org)** | **[Legal Intern](https://jobright.ai/jobs/info/68811b7d29ad6b2744adf286?utm_campaign=1055&utm_source=git)** | Atlanta Metro | Remote | Jul 23 |
 | **[SES Satellites](http://www.ses.com)** | **[Regulatory Intern (Fall 2025)](https://jobright.ai/jobs/info/6880fbedf4f06100f3a22acd?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Jul 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Non-Lending Compliance)](https://jobright.ai/jobs/info/686493d3fee3780c06446b65?utm_campaign=1055&utm_source=git)** | Pensacola, FL | Hybrid | Jul 23 |
 | **[Hightower, Stratton, Novigrod & Kantor](https://www.hightowerlaw.net/)** | **[Law Clerk](https://jobright.ai/jobs/info/68810df229ad6b2744ade887?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Jul 23 |
+| **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Mergers & Acquisitions - Chicago, Raleigh](https://jobright.ai/jobs/info/6864602ed52a71f698a3f9ac?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Jul 23 |
 | **[Illinois Legal Aid Online ](https://www.illinoislegalaid.org/)** | **[Fall 2025 Law Student Internships - Legal Aid Society of MFS](https://jobright.ai/jobs/info/6880e1d9f4f06100f3a21af3?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jul 23 |
 | **[Thomas J. Henry Law](http://thomasjhenrylaw.com)** | **[1L Summer Associate](https://jobright.ai/jobs/info/68471b3ffafe4a7db8fc3044?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Jul 23 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Information Technology (DRC) - Summer 2026 (Houston)](https://jobright.ai/jobs/info/68806a3e2097a271a89a486f?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Jul 22 |
 | **[Adolfson & Peterson Construction](http://www.a-p.com)** | **[Risk Management Internship](https://jobright.ai/jobs/info/6880a15416ea5743a373193f?utm_campaign=1055&utm_source=git)** | Bloomington, MN | On Site | Jul 22 |
+| **[CIPRIANI & WERNER PC](http://c-wlaw.com)** | **[Law Clerk](https://jobright.ai/jobs/info/688147ddf4f06100f3a25a6d?utm_campaign=1055&utm_source=git)** | Syosset, NY | Hybrid | Jul 22 |
 | **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern - Part- Time Claims Coordinator](https://jobright.ai/jobs/info/688076109f7280424570b641?utm_campaign=1055&utm_source=git)** | Midlothian, TX | On Site | Jul 22 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[INTERNSHIP- Immigration Legal Intern  - Spanish Fluency Required](https://jobright.ai/jobs/info/6881016529ad6b2744ade085?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Jul 22 |
 | ↳ | **[INTERNSHIP- Immigration Legal Intern](https://jobright.ai/jobs/info/68806f099f7280424570b260?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Jul 22 |
