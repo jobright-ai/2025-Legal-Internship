@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6888eebcaab47a17f66fdb79?utm_campaign=1055&utm_source=git)** | Columbia, KY | On Site | Jul 29 |
+| **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/6888eca0aab47a17f66fda5f?utm_campaign=1055&utm_source=git)** | Miami, Florida | Hybrid | Jul 29 |
+| **[Bacardi](https://www.bacardilimited.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6888ec8709808a6103e438d1?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Jul 29 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6888eb4109808a6103e43732?utm_campaign=1055&utm_source=git)** | Catlettsburg, KY | On Site | Jul 29 |
+| ↳ | **[Law Clerk](https://jobright.ai/jobs/info/6888eb0a09808a6103e43704?utm_campaign=1055&utm_source=git)** | Princeton, KY | On Site | Jul 29 |
+| **[Teleflex](http://www.teleflex.com)** | **[Compliance Intern, Global Business Practices](https://jobright.ai/jobs/info/6888e3209f961617fe21016c?utm_campaign=1055&utm_source=git)** | Wayne, PA | On Site | Jul 29 |
 | **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[Ethics and Compliance Intern- Summer/Fall 2025](https://jobright.ai/jobs/info/686c1f4335584b6542c1840c?utm_campaign=1055&utm_source=git)** | Greater Roanoke Area | On Site | Jul 29 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Intern](https://jobright.ai/jobs/info/68886ec3c2947d673c175e31?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Jul 28 |
 | **[Arnold & Itkin LLP](https://www.arnolditkin.com)** | **[Law Clerk](https://jobright.ai/jobs/info/688836cf73e3e13cbd943045?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jul 28 |
@@ -122,10 +128,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/6882702f6fcd973d15ad92b7?utm_campaign=1055&utm_source=git)** | USA-IA - Iowa Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68827025835a903aa07ed890?utm_campaign=1055&utm_source=git)** | USA-CO - Colorado Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/6882701f6fcd973d15ad92a1?utm_campaign=1055&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/6882701b6fcd973d15ad9296?utm_campaign=1055&utm_source=git)** | USA-MS - Mississippi Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/6882701b6fcd973d15ad9297?utm_campaign=1055&utm_source=git)** | USA-TX - Texas Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/6882701a835a903aa07ed881?utm_campaign=1055&utm_source=git)** | USA-NV - Nevada Remote | Remote | Jul 24 |
+| ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/6882701b6fcd973d15ad9296?utm_campaign=1055&utm_source=git)** | USA-MS - Mississippi Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/6882701a835a903aa07ed87f?utm_campaign=1055&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Jul 24 |
+| ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/6882701a835a903aa07ed881?utm_campaign=1055&utm_source=git)** | USA-NV - Nevada Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68827013835a903aa07ed871?utm_campaign=1055&utm_source=git)** | USA-WY - Wyoming Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/688270136fcd973d15ad9286?utm_campaign=1055&utm_source=git)** | USA-MT - Montana Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/68827012835a903aa07ed868?utm_campaign=1055&utm_source=git)** | USA-ID - Idaho Remote | Remote | Jul 24 |
@@ -134,27 +140,21 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68826fff6fcd973d15ad9268?utm_campaign=1055&utm_source=git)** | USA-CA - Los Angeles HQ | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68826fff6fcd973d15ad9269?utm_campaign=1055&utm_source=git)** | USA-OH - Ohio Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68826ff9b54cac0f1e72f862?utm_campaign=1055&utm_source=git)** | USA-LA - Louisiana Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68826ff1835a903aa07ed835?utm_campaign=1055&utm_source=git)** | USA-ME - Maine Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/68826ff1835a903aa07ed834?utm_campaign=1055&utm_source=git)** | USA-VT - Vermont Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68826ff1835a903aa07ed836?utm_campaign=1055&utm_source=git)** | USA-HI - Hawaii Remote | Remote | Jul 24 |
+| ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68826ff1835a903aa07ed835?utm_campaign=1055&utm_source=git)** | USA-ME - Maine Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/68826fed6fcd973d15ad9251?utm_campaign=1055&utm_source=git)** | USA-CA - California Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/68826fe8835a903aa07ed825?utm_campaign=1055&utm_source=git)** | USA-MN - Minnesota Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68826fe5b54cac0f1e72f847?utm_campaign=1055&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68826fde6fcd973d15ad9238?utm_campaign=1055&utm_source=git)** | USA-NY - Brooklyn (Dumbo) | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/68826fdd6fcd973d15ad9237?utm_campaign=1055&utm_source=git)** | USA-NE - Nebraska Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68826fd8835a903aa07ed814?utm_campaign=1055&utm_source=git)** | USA-AZ - Arizona Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/68826fd8835a903aa07ed816?utm_campaign=1055&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Jul 24 |
+| ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68826fd8835a903aa07ed814?utm_campaign=1055&utm_source=git)** | USA-AZ - Arizona Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/68826fd8835a903aa07ed815?utm_campaign=1055&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/68826fd7b54cac0f1e72f837?utm_campaign=1055&utm_source=git)** | USA-ND - North Dakota Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/68826fcfb54cac0f1e72f82b?utm_campaign=1055&utm_source=git)** | USA-HI - Hawaii Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68826fc46fcd973d15ad9225?utm_campaign=1055&utm_source=git)** | USA-PA - Pennsylvania Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/68826fc46fcd973d15ad9224?utm_campaign=1055&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68826fc3835a903aa07ed802?utm_campaign=1055&utm_source=git)** | USA-UT - Utah Remote | Remote | Jul 24 |
+| ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68826fc46fcd973d15ad9225?utm_campaign=1055&utm_source=git)** | USA-PA - Pennsylvania Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68826fc3835a903aa07ed801?utm_campaign=1055&utm_source=git)** | USA-DE - Delaware Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/68826fc36fcd973d15ad921f?utm_campaign=1055&utm_source=git)** | USA-AK - Alaska Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/68826fc36fcd973d15ad921e?utm_campaign=1055&utm_source=git)** | USA-LA - Louisiana Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68826fc36fcd973d15ad9220?utm_campaign=1055&utm_source=git)** | USA-MN - Minnesota Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/68826fb66fcd973d15ad9214?utm_campaign=1055&utm_source=git)** | USA-GA - Georgia Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68826fb5835a903aa07ed7f6?utm_campaign=1055&utm_source=git)** | USA-SC - South Carolina Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/68826fb4b54cac0f1e72f802?utm_campaign=1055&utm_source=git)** | USA-OR - Oregon Remote | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
