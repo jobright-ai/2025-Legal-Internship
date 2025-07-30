@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[moomoo ](https://www.moomoo.com)** | **[Unpaid Legal/Compliance Intern](https://jobright.ai/jobs/info/688999d49f961617fe215ea8?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Jul 29 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6889985c9f961617fe215df0?utm_campaign=1055&utm_source=git)** | Somerset, KY | On Site | Jul 29 |
 | **[Black Rifle Coffee Company](https://www.blackriflecoffee.com)** | **[Skillbridge Legal Extern](https://jobright.ai/jobs/info/6889887c09808a6103e48354?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 29 |
 | **[Colin Darke Solutions](https://linktr.ee/Colindarke)** | **[Legal Intern](https://jobright.ai/jobs/info/68898453aab47a17f6702279?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Sensience](https://sensience.com)** | **[US - Legal Intern (Columbus)](https://jobright.ai/jobs/info/6889663109808a6103e472fb?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jul 29 |
@@ -71,16 +73,19 @@ For a complete list, click the following sortable link below:
 | **[Berliner Cohen, LLP](http://berliner.com)** | **[Law Clerk](https://jobright.ai/jobs/info/688920fc09808a6103e45334?utm_campaign=1055&utm_source=git)** | Modesto, CA | On Site | Jul 29 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/68891cd609808a6103e44f53?utm_campaign=1055&utm_source=git)** | Merced, CA | On Site | Jul 29 |
 | **[Ticket Crushers, A Law Corporation](https://www.ticketcrusherslaw.com/)** | **[Legal Administrative Intern](https://jobright.ai/jobs/info/688915369f961617fe2116db?utm_campaign=1055&utm_source=git)** | Arizona, United States | Remote | Jul 29 |
+| **[Bacardi](https://www.bacardilimited.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68890a16aab47a17f66fe698?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Jul 29 |
 | **[ICON plc](http://www.iconplc.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/688901d19f961617fe210ebf?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Jul 29 |
 | **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Cincinnati, OH](https://jobright.ai/jobs/info/6888fcd9aab47a17f66fe08a?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jul 29 |
 | **[ICON Strategic Solutions](https://www.iconplc.com/services/strategic-solutions/)** | **[Regulatory Intern](https://jobright.ai/jobs/info/6888fa5baab47a17f66fe02d?utm_campaign=1055&utm_source=git)** | US, Raleigh, NC | Hybrid | Jul 29 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6888eebcaab47a17f66fdb79?utm_campaign=1055&utm_source=git)** | Columbia, KY | On Site | Jul 29 |
 | **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/6888eca0aab47a17f66fda5f?utm_campaign=1055&utm_source=git)** | Miami, Florida | Hybrid | Jul 29 |
-| **[Bacardi](https://www.bacardilimited.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6888ec8709808a6103e438d1?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Jul 29 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6888eb4109808a6103e43732?utm_campaign=1055&utm_source=git)** | Catlettsburg, KY | On Site | Jul 29 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/6888eb0a09808a6103e43704?utm_campaign=1055&utm_source=git)** | Princeton, KY | On Site | Jul 29 |
+| **[Playfly Sports](https://www.playfly.com/)** | **[Legal Intern (Berwyn Office)](https://jobright.ai/jobs/info/68899ed0aab47a17f67038fd?utm_campaign=1055&utm_source=git)** | Berwyn, PA | On Site | Jul 29 |
 | **[Teleflex](http://www.teleflex.com)** | **[Compliance Intern, Global Business Practices](https://jobright.ai/jobs/info/6888e3209f961617fe21016c?utm_campaign=1055&utm_source=git)** | Wayne, PA | On Site | Jul 29 |
 | **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[Ethics and Compliance Intern- Summer/Fall 2025](https://jobright.ai/jobs/info/686c1f4335584b6542c1840c?utm_campaign=1055&utm_source=git)** | Greater Roanoke Area | On Site | Jul 29 |
+| **[K&L Gates](http://www.klgates.com/)** | **[2026 Charlotte IP 2L Summer Associate](https://jobright.ai/jobs/info/68899aba09808a6103e48fd5?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Jul 29 |
+| ↳ | **[2026 Houston IP 2L Summer Associate](https://jobright.ai/jobs/info/68899e05aab47a17f67037aa?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jul 29 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[SkillBridge, Internal Investigations Analyst (Remote)](https://jobright.ai/jobs/info/686c21ce35584b6542d28095?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | Remote | Jul 29 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Intern](https://jobright.ai/jobs/info/68886ec3c2947d673c175e31?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Jul 28 |
 | **[Arnold & Itkin LLP](https://www.arnolditkin.com)** | **[Law Clerk](https://jobright.ai/jobs/info/688836cf73e3e13cbd943045?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jul 28 |
@@ -105,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[BBB National Programs](https://bbbprograms.org/)** | **[Fall Semester Law Student Externship](https://jobright.ai/jobs/info/688795f04174df41e0f9f035?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jul 28 |
 | **[Delaware County, Ohio](http://www.co.delaware.oh.us)** | **[Public Defender Intern](https://jobright.ai/jobs/info/688792cf4174df41e0f9ef6b?utm_campaign=1055&utm_source=git)** | Delaware, OH | On Site | Jul 28 |
 | **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e228ad?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Jul 27 |
+| **[MDK](https://www.manleydeas.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6889b0819f961617fe217491?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jul 27 |
 | **[International Institute of New England](https://iine.org/)** | **[Shelter Services Legal Intern (IINE Lowell)](https://jobright.ai/jobs/info/6887f9314174df41e0fa1fe7?utm_campaign=1055&utm_source=git)** | Lowell, MA | On Site | Jul 27 |
 | **[River Road Asset Management](http://riverroadam.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68861c9cb651c92cb78aed11?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Jul 27 |
 | **[Atomic - Remote Jobs](https://jobs.hireatomic.com/)** | **[Paid Internship for Law School Students L1/L2 / Immigration Law Firm / Remote](https://jobright.ai/jobs/info/68847091b651c92cb78a86ac?utm_campaign=1055&utm_source=git)** | Laguna Beach, CA | Remote | Jul 25 |
@@ -145,16 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/6882702f6fcd973d15ad92b7?utm_campaign=1055&utm_source=git)** | USA-IA - Iowa Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68827025835a903aa07ed890?utm_campaign=1055&utm_source=git)** | USA-CO - Colorado Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/6882701f6fcd973d15ad92a1?utm_campaign=1055&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/6882701b6fcd973d15ad9296?utm_campaign=1055&utm_source=git)** | USA-MS - Mississippi Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/6882701b6fcd973d15ad9297?utm_campaign=1055&utm_source=git)** | USA-TX - Texas Remote | Remote | Jul 24 |
+| ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/6882701b6fcd973d15ad9296?utm_campaign=1055&utm_source=git)** | USA-MS - Mississippi Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/6882701a835a903aa07ed87f?utm_campaign=1055&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/6882701a835a903aa07ed881?utm_campaign=1055&utm_source=git)** | USA-NV - Nevada Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68827013835a903aa07ed871?utm_campaign=1055&utm_source=git)** | USA-WY - Wyoming Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/688270136fcd973d15ad9286?utm_campaign=1055&utm_source=git)** | USA-MT - Montana Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/68827012835a903aa07ed868?utm_campaign=1055&utm_source=git)** | USA-ID - Idaho Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/6882700a835a903aa07ed85d?utm_campaign=1055&utm_source=git)** | USA-WV - West Virginia Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68827000835a903aa07ed84f?utm_campaign=1055&utm_source=git)** | USA-IN - Indiana Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68826fff6fcd973d15ad9269?utm_campaign=1055&utm_source=git)** | USA-OH - Ohio Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68826fff6fcd973d15ad9268?utm_campaign=1055&utm_source=git)** | USA-CA - Los Angeles HQ | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68826ff9b54cac0f1e72f862?utm_campaign=1055&utm_source=git)** | USA-LA - Louisiana Remote | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
