@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dallas County Public Defender's](https://www.dallascounty.org/government/public-defender/)** | **[Intern](https://jobright.ai/jobs/info/688a6c2baab47a17f6708976?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jul 30 |
+| **[Clarios](https://www.clarios.com/)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/688a5db89f961617fe21b04e?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Jul 30 |
 | **[Tangify](https://www.tangify.co)** | **[Intellectual Property Specialist](https://jobright.ai/jobs/info/688a4d0209808a6103e4dacf?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Clarios](https://www.clarios.com/)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/688a4a6109808a6103e4d986?utm_campaign=1055&utm_source=git)** | United States, Wisconsin, Milwaukee | Hybrid | Jul 30 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/688a48b2aab47a17f6707998?utm_campaign=1055&utm_source=git)** | Shelbyville, KY | On Site | Jul 30 |
@@ -82,10 +84,11 @@ For a complete list, click the following sortable link below:
 | **[Berliner Cohen, LLP](http://berliner.com)** | **[Law Clerk](https://jobright.ai/jobs/info/688920fc09808a6103e45334?utm_campaign=1055&utm_source=git)** | Modesto, CA | On Site | Jul 29 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/68891cd609808a6103e44f53?utm_campaign=1055&utm_source=git)** | Merced, CA | On Site | Jul 29 |
 | **[Ticket Crushers, A Law Corporation](https://www.ticketcrusherslaw.com/)** | **[Legal Administrative Intern](https://jobright.ai/jobs/info/688915369f961617fe2116db?utm_campaign=1055&utm_source=git)** | Arizona, United States | Remote | Jul 29 |
+| **[Bacardi](https://www.bacardilimited.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68890a16aab47a17f66fe698?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Jul 29 |
+| **[First Financial Bank Texas](https://ffin.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/686c19d835584b65429e0854?utm_campaign=1055&utm_source=git)** | Abilene, TX | On Site | Jul 29 |
 | **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Cincinnati, OH](https://jobright.ai/jobs/info/6888fcd9aab47a17f66fe08a?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jul 29 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6888eebcaab47a17f66fdb79?utm_campaign=1055&utm_source=git)** | Columbia, KY | On Site | Jul 29 |
 | **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/6888eca0aab47a17f66fda5f?utm_campaign=1055&utm_source=git)** | Miami, Florida | Hybrid | Jul 29 |
-| **[Bacardi](https://www.bacardilimited.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6888ec8709808a6103e438d1?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Jul 29 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6888eb4109808a6103e43732?utm_campaign=1055&utm_source=git)** | Catlettsburg, KY | On Site | Jul 29 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/6888eb0a09808a6103e43704?utm_campaign=1055&utm_source=git)** | Princeton, KY | On Site | Jul 29 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Legal Intern (Berwyn Office)](https://jobright.ai/jobs/info/68899ed0aab47a17f67038fd?utm_campaign=1055&utm_source=git)** | Berwyn, PA | On Site | Jul 29 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/6882a545835a903aa07efa49?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Jul 24 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Compliance Specialist (Administrative Analyst/Specialist I)](https://jobright.ai/jobs/info/6882727db54cac0f1e72f980?utm_campaign=1055&utm_source=git)** | SD Metro Area | On Site | Jul 24 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/688270446fcd973d15ad92da?utm_campaign=1055&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/6882703e6fcd973d15ad92d1?utm_campaign=1055&utm_source=git)** | USA-NY - New York Office (8th Avenue) | On Site | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/6882703e6fcd973d15ad92d0?utm_campaign=1055&utm_source=git)** | USA-NC - North Carolina Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/688270386fcd973d15ad92c5?utm_campaign=1055&utm_source=git)** | USA-NY - New York City Office (One Liberty Plaza) | On Site | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/6882702f6fcd973d15ad92b7?utm_campaign=1055&utm_source=git)** | USA-IA - Iowa Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/68827025835a903aa07ed890?utm_campaign=1055&utm_source=git)** | USA-CO - Colorado Remote | Remote | Jul 24 |
+| ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/6882703e6fcd973d15ad92d1?utm_campaign=1055&utm_source=git)** | USA-NY - New York Office (8th Avenue) | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
