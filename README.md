@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rivas & Associates PLLC](http://www.RivasAssociates.com)** | **[Immigration Law Fall Intern](https://jobright.ai/jobs/info/688ac05009808a6103e51003?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Jul 30 |
+| ↳ | **[Immigration Law Fall Intern](https://jobright.ai/jobs/info/688abfbcaab47a17f670b257?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Jul 30 |
+| **[J.S. Held LLC](http://jsheld.com/)** | **[Intellectual Property, Advisory Internship - Summer 2026](https://jobright.ai/jobs/info/688ab31f9f961617fe21d880?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jul 30 |
 | **[The Chemours Company](https://www.chemours.com)** | **[APM Product Stewardship and Regulatory Compliance Intern](https://jobright.ai/jobs/info/688a991909808a6103e50155?utm_campaign=1055&utm_source=git)** | New Castle County, DE | On Site | Jul 30 |
 | **[Steinger, Greene & Feiner](https://www.injurylawyers.com)** | **[Law Clerk - Personal Injury](https://jobright.ai/jobs/info/688a973faab47a17f670a172?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jul 30 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/688a8f849f961617fe21c9dd?utm_campaign=1055&utm_source=git)** | Maysville, KY | On Site | Jul 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Summer 2026 (Chicago)](https://jobright.ai/jobs/info/68828a13835a903aa07ee95b?utm_campaign=1055&utm_source=git)** | 330 North Wabash, Chicago, IL, 60611, US | On Site | Jul 24 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Human Rights (Spring)](https://jobright.ai/jobs/info/6882864c835a903aa07ee2ee?utm_campaign=1055&utm_source=git)** | Pierre, SD | On Site | Jul 24 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/6882a545835a903aa07efa49?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Jul 24 |
-| **[San Diego State University](http://www.sdsu.edu)** | **[Compliance Specialist (Administrative Analyst/Specialist I)](https://jobright.ai/jobs/info/6882727db54cac0f1e72f980?utm_campaign=1055&utm_source=git)** | SD Metro Area | On Site | Jul 24 |
-| **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/688270446fcd973d15ad92da?utm_campaign=1055&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/6882703e6fcd973d15ad92d0?utm_campaign=1055&utm_source=git)** | USA-NC - North Carolina Remote | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
