@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Spring 2026 - CAFL Conflicts Springfield](https://jobright.ai/jobs/info/688af45109808a6103e52cd6?utm_campaign=1055&utm_source=git)** | Springfield, MA | Remote | Jul 30 |
+| **[Young Center for Immigrant Children's Rights](https://www.theyoungcenter.org)** | **[Elizabeth Frankel Fellowship](https://jobright.ai/jobs/info/688b1056aab47a17f670e3b6?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jul 30 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Cyber Compliance Associate - Summer 2026](https://jobright.ai/jobs/info/688af12eaab47a17f670cd66?utm_campaign=1055&utm_source=git)** | McLean | On Site | Jul 30 |
 | ↳ | **[Cyber Compliance Associate - Summer 2026](https://jobright.ai/jobs/info/688af11daab47a17f670cd51?utm_campaign=1055&utm_source=git)** | Houston | On Site | Jul 30 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Intern (unpaid)](https://jobright.ai/jobs/info/688ae0ff09808a6103e51e88?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 30 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Intellectual Property, Advisory Internship - Summer 2026](https://jobright.ai/jobs/info/688ab31f9f961617fe21d880?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jul 30 |
 | **[The Chemours Company](https://www.chemours.com)** | **[APM Product Stewardship and Regulatory Compliance Intern](https://jobright.ai/jobs/info/688a991909808a6103e50155?utm_campaign=1055&utm_source=git)** | New Castle County, DE | On Site | Jul 30 |
 | **[Steinger, Greene & Feiner](https://www.injurylawyers.com)** | **[Law Clerk - Personal Injury](https://jobright.ai/jobs/info/688a973faab47a17f670a172?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jul 30 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/68782aa75cebcd1dd51d8411?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/688a8f849f961617fe21c9dd?utm_campaign=1055&utm_source=git)** | Maysville, KY | On Site | Jul 30 |
 | **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/688a81779f961617fe21c270?utm_campaign=1055&utm_source=git)** | Fulton County, GA | Hybrid | Jul 30 |
 | **[California Department of Industrial Relations](https://www.dir.ca.gov/)** | **[Senior Legal Typist](https://jobright.ai/jobs/info/688aeb7faab47a17f670c70a?utm_campaign=1055&utm_source=git)** | Sacramento, CA | On Site | Jul 30 |
@@ -95,11 +97,11 @@ For a complete list, click the following sortable link below:
 | **[Faehner PLLC](https://faehner.law)** | **[Law Clerk](https://jobright.ai/jobs/info/688924a5aab47a17f66ff6f1?utm_campaign=1055&utm_source=git)** | Oldsmar, FL | On Site | Jul 29 |
 | **[Berliner Cohen, LLP](http://berliner.com)** | **[Law Clerk](https://jobright.ai/jobs/info/688920fc09808a6103e45334?utm_campaign=1055&utm_source=git)** | Modesto, CA | On Site | Jul 29 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/68891cd609808a6103e44f53?utm_campaign=1055&utm_source=git)** | Merced, CA | On Site | Jul 29 |
-| **[Bacardi](https://www.bacardilimited.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68890a16aab47a17f66fe698?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Jul 29 |
 | **[First Financial Bank Texas](https://ffin.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/686c19d835584b65429e0854?utm_campaign=1055&utm_source=git)** | Abilene, TX | On Site | Jul 29 |
 | **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Cincinnati, OH](https://jobright.ai/jobs/info/6888fcd9aab47a17f66fe08a?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jul 29 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6888eebcaab47a17f66fdb79?utm_campaign=1055&utm_source=git)** | Columbia, KY | On Site | Jul 29 |
 | **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/6888eca0aab47a17f66fda5f?utm_campaign=1055&utm_source=git)** | Miami, Florida | Hybrid | Jul 29 |
+| **[Bacardi](https://www.bacardilimited.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6888ec8709808a6103e438d1?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Jul 29 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6888eb4109808a6103e43732?utm_campaign=1055&utm_source=git)** | Catlettsburg, KY | On Site | Jul 29 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/6888eb0a09808a6103e43704?utm_campaign=1055&utm_source=git)** | Princeton, KY | On Site | Jul 29 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Legal Intern (Berwyn Office)](https://jobright.ai/jobs/info/68899ed0aab47a17f67038fd?utm_campaign=1055&utm_source=git)** | Berwyn, PA | On Site | Jul 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fredrikson & Byron, P.A.](http://www.fredlaw.com/)** | **[2026 2L Law Clerk - Madison, WI](https://jobright.ai/jobs/info/68898d4caab47a17f67025df?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Jul 24 |
 | **[International Institute of New England](https://iine.org/)** | **[Training & Compliance Intern (IINE Boston)](https://jobright.ai/jobs/info/6882d381b54cac0f1e732fb9?utm_campaign=1055&utm_source=git)** | Lowell, MA | Remote | Jul 24 |
 | ↳ | **[Training & Compliance Intern (IINE Boston)](https://jobright.ai/jobs/info/6882d368835a903aa07f0ee5?utm_campaign=1055&utm_source=git)** | Manchester, NH | Remote | Jul 24 |
-| ↳ | **[Training & Compliance Intern (IINE Boston)](https://jobright.ai/jobs/info/6882d32d835a903aa07f0e90?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Jul 24 |
-| **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern - Part- Time Claims Coordinator](https://jobright.ai/jobs/info/6882cb75835a903aa07f0c4f?utm_campaign=1055&utm_source=git)** | Midlothian, TX | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
