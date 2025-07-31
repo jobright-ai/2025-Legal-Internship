@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Searby PLLC](https://www.searby.law/)** | **[Legal Intern](https://jobright.ai/jobs/info/688bad9a906ac06e1d1cd602?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jul 31 |
 | **[American Cancer Society](http://www.cancer.org/)** | **[Legal Associate](https://jobright.ai/jobs/info/688b93e93a30793eb963bb13?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jul 31 |
 | **[Earthjustice](http://earthjustice.org/)** | **[2026 Summer Law Clerks](https://jobright.ai/jobs/info/688b8bbb1808534a89cb3dee?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Jul 31 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seeker Legal Services Intern (unpaid)](https://jobright.ai/jobs/info/688b9f37906ac06e1d1ccd03?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6883f3616fcd973d15ae4c06?utm_campaign=1055&utm_source=git)** | Georgetown, KY | On Site | Jul 25 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Contract Services, Emerging Talent Intern](https://jobright.ai/jobs/info/6883d3536fcd973d15ae37a7?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Jul 25 |
 | **[Glendale Fire Department](http://www.glendalefire.gov)** | **[Fall 2025 Legal Clerkship](https://jobright.ai/jobs/info/6883bc366fcd973d15ae2b88?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
-| **[PowerSnell, P.C.](http://www.powersnell.com)** | **[Law Clerk](https://jobright.ai/jobs/info/6883a50b6fcd973d15ae2100?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Jul 25 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6883bd30b54cac0f1e739285?utm_campaign=1055&utm_source=git)** | Paducah, KY | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
