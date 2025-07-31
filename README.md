@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern – Spring 2026](https://jobright.ai/jobs/info/688be436906ac06e1d1cf4b7?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Jul 31 |
+| ↳ | **[Legal Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688be37d906ac06e1d1cf37e?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Jul 31 |
+| ↳ | **[Legal Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688be3183a30793eb963e7ab?utm_campaign=1055&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Jul 31 |
+| ↳ | **[Investigations & Law Enforcement Development Intern – Spring 2026](https://jobright.ai/jobs/info/688be2e23a30793eb963e759?utm_campaign=1055&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Jul 31 |
 | **[Searby PLLC](https://www.searby.law/)** | **[Legal Intern](https://jobright.ai/jobs/info/688bad9a906ac06e1d1cd602?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jul 31 |
 | **[American Cancer Society](http://www.cancer.org/)** | **[Legal Associate](https://jobright.ai/jobs/info/688b93e93a30793eb963bb13?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jul 31 |
 | **[Earthjustice](http://earthjustice.org/)** | **[2026 Summer Law Clerks](https://jobright.ai/jobs/info/688b8bbb1808534a89cb3dee?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Jul 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Corpay](https://payments.corpay.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68840aa8b54cac0f1e73bbc1?utm_campaign=1055&utm_source=git)** | Peachtree Corners, GA | On Site | Jul 25 |
 | **[New York City Fire Department](https://www.joinfdny.com)** | **[ATTORNEY INTERNE](https://jobright.ai/jobs/info/688407dbb54cac0f1e73ba5a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Legal Student Assistant](https://jobright.ai/jobs/info/6883f381835a903aa07f9369?utm_campaign=1055&utm_source=git)** | Lansing, MI | Hybrid | Jul 25 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6883f3616fcd973d15ae4c06?utm_campaign=1055&utm_source=git)** | Georgetown, KY | On Site | Jul 25 |
-| **[Metropolitan Transportation Authority](http://mta.info)** | **[Contract Services, Emerging Talent Intern](https://jobright.ai/jobs/info/6883d3536fcd973d15ae37a7?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Jul 25 |
-| **[Glendale Fire Department](http://www.glendalefire.gov)** | **[Fall 2025 Legal Clerkship](https://jobright.ai/jobs/info/6883bc366fcd973d15ae2b88?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6883bd30b54cac0f1e739285?utm_campaign=1055&utm_source=git)** | Paducah, KY | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
