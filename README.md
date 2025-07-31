@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Spring 2026 - CAFL Conflicts Springfield](https://jobright.ai/jobs/info/688af45109808a6103e52cd6?utm_campaign=1055&utm_source=git)** | Springfield, MA | Remote | Jul 30 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Cyber Compliance Associate - Summer 2026](https://jobright.ai/jobs/info/688af12eaab47a17f670cd66?utm_campaign=1055&utm_source=git)** | McLean | On Site | Jul 30 |
+| ↳ | **[Cyber Compliance Associate - Summer 2026](https://jobright.ai/jobs/info/688af11daab47a17f670cd51?utm_campaign=1055&utm_source=git)** | Houston | On Site | Jul 30 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Intern (unpaid)](https://jobright.ai/jobs/info/688ae0ff09808a6103e51e88?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[Center for Disability & Elder Law](https://www.cdelaw.org)** | **[Fall 2025 Paralegal Intern](https://jobright.ai/jobs/info/688adcb8aab47a17f670be9a?utm_campaign=1055&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jul 30 |
 | **[Rivas & Associates PLLC](http://www.RivasAssociates.com)** | **[Immigration Law Fall Intern](https://jobright.ai/jobs/info/688ac05009808a6103e51003?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Jul 30 |
@@ -66,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Steinger, Greene & Feiner](https://www.injurylawyers.com)** | **[Law Clerk - Personal Injury](https://jobright.ai/jobs/info/688a973faab47a17f670a172?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jul 30 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/688a8f849f961617fe21c9dd?utm_campaign=1055&utm_source=git)** | Maysville, KY | On Site | Jul 30 |
 | **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/688a81779f961617fe21c270?utm_campaign=1055&utm_source=git)** | Fulton County, GA | Hybrid | Jul 30 |
+| **[California Department of Industrial Relations](https://www.dir.ca.gov/)** | **[Senior Legal Typist](https://jobright.ai/jobs/info/688aeb7faab47a17f670c70a?utm_campaign=1055&utm_source=git)** | Sacramento, CA | On Site | Jul 30 |
 | **[Dallas County Public Defender's](https://www.dallascounty.org/government/public-defender/)** | **[Intern](https://jobright.ai/jobs/info/688a6c2baab47a17f6708976?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jul 30 |
 | **[Clarios](https://www.clarios.com/)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/688a5db89f961617fe21b04e?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Jul 30 |
 | **[Tangify](https://www.tangify.co)** | **[Intellectual Property Specialist](https://jobright.ai/jobs/info/688a4d0209808a6103e4dacf?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 30 |
@@ -74,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Intellectual Property](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3dac?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jul 30 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Pittsburgh)](https://jobright.ai/jobs/info/688a320f09808a6103e4cf80?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Jul 30 |
 | **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Pittsburgh)](https://jobright.ai/jobs/info/688a2ff809808a6103e4ce56?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 30 |
+| **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c3f636c80805021f5431f4?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Jul 30 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Boston)](https://jobright.ai/jobs/info/6889f5b609808a6103e4c2a5?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jul 30 |
 | **[moomoo ](https://www.moomoo.com)** | **[Unpaid Legal/Compliance Intern](https://jobright.ai/jobs/info/688999d49f961617fe215ea8?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Jul 29 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6889985c9f961617fe215df0?utm_campaign=1055&utm_source=git)** | Somerset, KY | On Site | Jul 29 |
@@ -104,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[K&L Gates](http://www.klgates.com/)** | **[2026 Houston IP 2L Summer Associate](https://jobright.ai/jobs/info/68899e05aab47a17f67037aa?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jul 29 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[SkillBridge, Internal Investigations Analyst (Remote)](https://jobright.ai/jobs/info/686c21ce35584b6542d28095?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | Remote | Jul 29 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Intern](https://jobright.ai/jobs/info/68886ec3c2947d673c175e31?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Jul 28 |
+| **[Delaware County, Ohio](http://www.co.delaware.oh.us)** | **[Public Defender Intern](https://jobright.ai/jobs/info/688af23f09808a6103e52a59?utm_campaign=1055&utm_source=git)** | Delaware, OH | On Site | Jul 28 |
 | **[Arnold & Itkin LLP](https://www.arnolditkin.com)** | **[Law Clerk](https://jobright.ai/jobs/info/688836cf73e3e13cbd943045?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jul 28 |
 | **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/68784ce25cebcd1dd51d9332?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Jul 28 |
 | **[San Joaquin College of Law](https://www.sjcl.edu/)** | **[Full or Part Time Law Clerk - Clason Immigration Law Firm (Fresno)](https://jobright.ai/jobs/info/68882f0c4174df41e0fa33e6?utm_campaign=1055&utm_source=git)** | Fresno, CA | On Site | Jul 28 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Training & Compliance Intern (IINE Boston)](https://jobright.ai/jobs/info/6882d368835a903aa07f0ee5?utm_campaign=1055&utm_source=git)** | Manchester, NH | Remote | Jul 24 |
 | ↳ | **[Training & Compliance Intern (IINE Boston)](https://jobright.ai/jobs/info/6882d32d835a903aa07f0e90?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Jul 24 |
 | **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern - Part- Time Claims Coordinator](https://jobright.ai/jobs/info/6882cb75835a903aa07f0c4f?utm_campaign=1055&utm_source=git)** | Midlothian, TX | On Site | Jul 24 |
-| **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/6882a07a835a903aa07ef75c?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Jul 24 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Chicago)](https://jobright.ai/jobs/info/688294fab54cac0f1e7310fa?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jul 24 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/687ae810764c3d7411c2fff7?utm_campaign=1055&utm_source=git)** | Lexington, KY | On Site | Jul 24 |
-| **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern, Risk Advisory Services - Summer 2026 (Chicago)](https://jobright.ai/jobs/info/68828a9bb54cac0f1e7308f1?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Summer 2026 (Chicago)](https://jobright.ai/jobs/info/68828a13835a903aa07ee95b?utm_campaign=1055&utm_source=git)** | 330 North Wabash, Chicago, IL, 60611, US | On Site | Jul 24 |
-| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Human Rights (Spring)](https://jobright.ai/jobs/info/6882864c835a903aa07ee2ee?utm_campaign=1055&utm_source=git)** | Pierre, SD | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
