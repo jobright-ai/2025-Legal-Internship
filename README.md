@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Cyber Compliance Associate - Summer 2026](https://jobright.ai/jobs/info/688b43103a30793eb96394c9?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Jul 31 |
+| ↳ | **[Cyber Compliance Associate - Summer 2026](https://jobright.ai/jobs/info/688b42661808534a89cb1c5c?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jul 31 |
+| ↳ | **[Cyber Compliance Associate - Summer 2026](https://jobright.ai/jobs/info/688b42613a30793eb96394b0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[NYC Department of Social Services](https://www.nyc.gov/site/dss/index.page)** | **[ATTORNEY INTERNE](https://jobright.ai/jobs/info/688b229a9f961617fe222046?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Jul 30 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Spring 2026 - CAFL Conflicts Springfield](https://jobright.ai/jobs/info/688af45109808a6103e52cd6?utm_campaign=1055&utm_source=git)** | Springfield, MA | Remote | Jul 30 |
 | **[Young Center for Immigrant Children's Rights](https://www.theyoungcenter.org)** | **[Elizabeth Frankel Fellowship](https://jobright.ai/jobs/info/688b1056aab47a17f670e3b6?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jul 30 |
@@ -75,8 +78,7 @@ For a complete list, click the following sortable link below:
 | **[California Department of Industrial Relations](https://www.dir.ca.gov/)** | **[Senior Legal Typist](https://jobright.ai/jobs/info/688aeb7faab47a17f670c70a?utm_campaign=1055&utm_source=git)** | Sacramento, CA | On Site | Jul 30 |
 | **[Dallas County Public Defender's](https://www.dallascounty.org/government/public-defender/)** | **[Intern](https://jobright.ai/jobs/info/688a6c2baab47a17f6708976?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jul 30 |
 | **[Clarios](https://www.clarios.com/)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/688a5db89f961617fe21b04e?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Jul 30 |
-| **[Tangify](https://www.tangify.co)** | **[Intellectual Property Specialist](https://jobright.ai/jobs/info/688a4d0209808a6103e4dacf?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 30 |
-| **[Clarios](https://www.clarios.com/)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/688a4a6109808a6103e4d986?utm_campaign=1055&utm_source=git)** | United States, Wisconsin, Milwaukee | Hybrid | Jul 30 |
+| ↳ | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/688a4a6109808a6103e4d986?utm_campaign=1055&utm_source=git)** | United States, Wisconsin, Milwaukee | Hybrid | Jul 30 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/688a48b2aab47a17f6707998?utm_campaign=1055&utm_source=git)** | Shelbyville, KY | On Site | Jul 30 |
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Intellectual Property](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3dac?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jul 30 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Pittsburgh)](https://jobright.ai/jobs/info/688a320f09808a6103e4cf80?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Jul 30 |
@@ -98,11 +100,11 @@ For a complete list, click the following sortable link below:
 | **[Faehner PLLC](https://faehner.law)** | **[Law Clerk](https://jobright.ai/jobs/info/688924a5aab47a17f66ff6f1?utm_campaign=1055&utm_source=git)** | Oldsmar, FL | On Site | Jul 29 |
 | **[Berliner Cohen, LLP](http://berliner.com)** | **[Law Clerk](https://jobright.ai/jobs/info/688920fc09808a6103e45334?utm_campaign=1055&utm_source=git)** | Modesto, CA | On Site | Jul 29 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/68891cd609808a6103e44f53?utm_campaign=1055&utm_source=git)** | Merced, CA | On Site | Jul 29 |
+| **[Bacardi](https://www.bacardilimited.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68890a16aab47a17f66fe698?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Jul 29 |
 | **[First Financial Bank Texas](https://ffin.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/686c19d835584b65429e0854?utm_campaign=1055&utm_source=git)** | Abilene, TX | On Site | Jul 29 |
 | **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Cincinnati, OH](https://jobright.ai/jobs/info/6888fcd9aab47a17f66fe08a?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jul 29 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6888eebcaab47a17f66fdb79?utm_campaign=1055&utm_source=git)** | Columbia, KY | On Site | Jul 29 |
 | **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/6888eca0aab47a17f66fda5f?utm_campaign=1055&utm_source=git)** | Miami, Florida | Hybrid | Jul 29 |
-| **[Bacardi](https://www.bacardilimited.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6888ec8709808a6103e438d1?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Jul 29 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6888eb4109808a6103e43732?utm_campaign=1055&utm_source=git)** | Catlettsburg, KY | On Site | Jul 29 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/6888eb0a09808a6103e43704?utm_campaign=1055&utm_source=git)** | Princeton, KY | On Site | Jul 29 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Legal Intern (Berwyn Office)](https://jobright.ai/jobs/info/68899ed0aab47a17f67038fd?utm_campaign=1055&utm_source=git)** | Berwyn, PA | On Site | Jul 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Illinois Legal Aid Online ](https://www.illinoislegalaid.org/)** | **[ACLU Legal Internship - Fall 2025 - ACLU of Illinois](https://jobright.ai/jobs/info/68836b0e835a903aa07f5cc5?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jul 25 |
 | **[University of Denver](http://www.du.edu/)** | **[IAALS Law Student Intern](https://jobright.ai/jobs/info/687ee30d764c3d7411c46e5e?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jul 25 |
 | **[Fredrikson & Byron, P.A.](http://www.fredlaw.com/)** | **[2026 2L Law Clerk - Madison, WI](https://jobright.ai/jobs/info/68898d4caab47a17f67025df?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Jul 24 |
-| **[International Institute of New England](https://iine.org/)** | **[Training & Compliance Intern (IINE Boston)](https://jobright.ai/jobs/info/6882d381b54cac0f1e732fb9?utm_campaign=1055&utm_source=git)** | Lowell, MA | Remote | Jul 24 |
-| ↳ | **[Training & Compliance Intern (IINE Boston)](https://jobright.ai/jobs/info/6882d368835a903aa07f0ee5?utm_campaign=1055&utm_source=git)** | Manchester, NH | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
