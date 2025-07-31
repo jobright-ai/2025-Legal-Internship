@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Earthjustice](http://earthjustice.org/)** | **[2026 Summer Law Clerks](https://jobright.ai/jobs/info/688b8bbb1808534a89cb3dee?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Jul 31 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Legal Associate](https://jobright.ai/jobs/info/688b7ccd1808534a89cb3697?utm_campaign=1055&utm_source=git)** | GA Atlanta | On Site | Jul 31 |
 | **[Scoular](http://www.scoular.com/)** | **[Legal Intern - Contract Management](https://jobright.ai/jobs/info/686f0628de69584b9e37a15f?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Jul 31 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Cyber Compliance Associate - Summer 2026](https://jobright.ai/jobs/info/688b43103a30793eb96394c9?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Jul 31 |
 | ↳ | **[Cyber Compliance Associate - Summer 2026](https://jobright.ai/jobs/info/688b42661808534a89cb1c5c?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jul 31 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Black Rifle Coffee Company](https://www.blackriflecoffee.com)** | **[Skillbridge Legal Extern](https://jobright.ai/jobs/info/68893ff309808a6103e46355?utm_campaign=1055&utm_source=git)** | Salt Lake City Corporate | Hybrid | Jul 29 |
 | **[Guggenheim Partners](http://www.guggenheimpartners.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68893f6509808a6103e462b8?utm_campaign=1055&utm_source=git)** | New York City, NY – U.S. | On Site | Jul 29 |
 | **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/68892be09f961617fe2125f8?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Jul 29 |
-| **[AmericanIIR](americaniir.org)** | **[Legal Intern](https://jobright.ai/jobs/info/68898ca79f961617fe215652?utm_campaign=1055&utm_source=git)** | Atlanta Metro | On Site | Jul 29 |
 | **[Faehner PLLC](https://faehner.law)** | **[Law Clerk](https://jobright.ai/jobs/info/688924a5aab47a17f66ff6f1?utm_campaign=1055&utm_source=git)** | Oldsmar, FL | On Site | Jul 29 |
 | **[Berliner Cohen, LLP](http://berliner.com)** | **[Law Clerk](https://jobright.ai/jobs/info/688920fc09808a6103e45334?utm_campaign=1055&utm_source=git)** | Modesto, CA | On Site | Jul 29 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/68891cd609808a6103e44f53?utm_campaign=1055&utm_source=git)** | Merced, CA | On Site | Jul 29 |
@@ -133,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[CAE](http://www.cae.com)** | **[Legal Assistant Co-Op-EN](https://jobright.ai/jobs/info/6887dd694174df41e0fa122c?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Jul 28 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6883d1a76fcd973d15ae36d9?utm_campaign=1055&utm_source=git)** | Elizabethtown, KY | On Site | Jul 28 |
 | **[Ensign College ](https://www.ldsbc.edu/)** | **[Student Employee – Assistant to Chief Compliance Officer](https://jobright.ai/jobs/info/6887c805fbbf032d0007664e?utm_campaign=1055&utm_source=git)** | Ensign College | On Site | Jul 28 |
-| **[King & Jones](https://www.chicagobusinesstriallawyers.com/)** | **[Law Clerk / Litigation Associate](https://jobright.ai/jobs/info/6889c096aab47a17f6705699?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | On Site | Jul 28 |
 | **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Law Clerk - Intern](https://jobright.ai/jobs/info/6887b66c73e3e13cbd93f72d?utm_campaign=1055&utm_source=git)** | Topeka | Hybrid | Jul 28 |
 | **[Chargent (by AppFrontier)](http://www.appfrontier.com/)** | **[Corporate Legal Assistant](https://jobright.ai/jobs/info/68879aed73e3e13cbd93eb5c?utm_campaign=1055&utm_source=git)** | Boulder, CO | Hybrid | Jul 28 |
 | **[CAE](http://www.cae.com)** | **[Legal Assistant Co-Op](https://jobright.ai/jobs/info/6887975c73e3e13cbd93e8f5?utm_campaign=1055&utm_source=git)** | Tampa | Hybrid | Jul 28 |
