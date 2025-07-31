@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NYC Department of Social Services](https://www.nyc.gov/site/dss/index.page)** | **[ATTORNEY INTERNE](https://jobright.ai/jobs/info/688b229a9f961617fe222046?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Jul 30 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Spring 2026 - CAFL Conflicts Springfield](https://jobright.ai/jobs/info/688af45109808a6103e52cd6?utm_campaign=1055&utm_source=git)** | Springfield, MA | Remote | Jul 30 |
 | **[Young Center for Immigrant Children's Rights](https://www.theyoungcenter.org)** | **[Elizabeth Frankel Fellowship](https://jobright.ai/jobs/info/688b1056aab47a17f670e3b6?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jul 30 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Cyber Compliance Associate - Summer 2026](https://jobright.ai/jobs/info/688af12eaab47a17f670cd66?utm_campaign=1055&utm_source=git)** | McLean | On Site | Jul 30 |
@@ -110,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[Ethics and Compliance Intern- Summer/Fall 2025](https://jobright.ai/jobs/info/686c1f4335584b6542c1840c?utm_campaign=1055&utm_source=git)** | Greater Roanoke Area | On Site | Jul 29 |
 | **[K&L Gates](http://www.klgates.com/)** | **[2026 Houston IP 2L Summer Associate](https://jobright.ai/jobs/info/68899e05aab47a17f67037aa?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jul 29 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[SkillBridge, Internal Investigations Analyst (Remote)](https://jobright.ai/jobs/info/686c21ce35584b6542d28095?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | Remote | Jul 29 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Intern](https://jobright.ai/jobs/info/68886ec3c2947d673c175e31?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Jul 28 |
 | **[Delaware County, Ohio](http://www.co.delaware.oh.us)** | **[Public Defender Intern](https://jobright.ai/jobs/info/688af23f09808a6103e52a59?utm_campaign=1055&utm_source=git)** | Delaware, OH | On Site | Jul 28 |
 | **[Arnold & Itkin LLP](https://www.arnolditkin.com)** | **[Law Clerk](https://jobright.ai/jobs/info/688836cf73e3e13cbd943045?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jul 28 |
 | **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/68784ce25cebcd1dd51d9332?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Jul 28 |
