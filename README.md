@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern – Spring 2026](https://jobright.ai/jobs/info/688c1658906ac06e1d1d09e1?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 31 |
+| **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern - Part- Time Claims Coordinator](https://jobright.ai/jobs/info/688c0d9d906ac06e1d1d04c7?utm_campaign=1055&utm_source=git)** | Midlothian, TX | On Site | Jul 31 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Returning Intern - Global Trade Intern - Hybrid (AZ)](https://jobright.ai/jobs/info/688bf1ab906ac06e1d1cfa1a?utm_campaign=1055&utm_source=git)** | AZ201: RMS AP Bldg 801 1151 East Hermans Road Building 801, Tucson, AZ, 85756 USA | Hybrid | Jul 31 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Department Governance Intern](https://jobright.ai/jobs/info/688be6b53a30793eb963e9f9?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[Blue Clay Health](www.blueclayhealth.com)** | **[Health Care Compliance Intern](https://jobright.ai/jobs/info/688be5403a30793eb963e939?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[River Road Asset Management](http://riverroadam.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68861c9cb651c92cb78aed11?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Jul 27 |
 | **[Atomic - Remote Jobs](https://jobs.hireatomic.com/)** | **[Paid Internship for Law School Students L1/L2 / Immigration Law Firm / Remote](https://jobright.ai/jobs/info/68847091b651c92cb78a86ac?utm_campaign=1055&utm_source=git)** | Laguna Beach, CA | Remote | Jul 25 |
 | **[Everllence](www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Jul 25 |
-| **[Corpay Technologies](http://www.corpay.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/68841f72835a903aa07fa2b1?utm_campaign=1055&utm_source=git)** | Peachtree Corners, GA | Remote | Jul 25 |
-| **[Corpay](https://payments.corpay.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68840aa8b54cac0f1e73bbc1?utm_campaign=1055&utm_source=git)** | Peachtree Corners, GA | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
