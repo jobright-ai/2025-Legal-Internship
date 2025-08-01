@@ -72,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[American Cancer Society](http://www.cancer.org/)** | **[Legal Associate](https://jobright.ai/jobs/info/688b93e93a30793eb963bb13?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jul 31 |
 | **[Earthjustice](http://earthjustice.org/)** | **[2026 Summer Law Clerks](https://jobright.ai/jobs/info/688b8bbb1808534a89cb3dee?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Jul 31 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819027acf9261d3a8bf00a4?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations, Diligence and Compliance Core](https://jobright.ai/jobs/info/686fea0801cc0956e7e7de26?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jul 31 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seeker Legal Services Intern (unpaid)](https://jobright.ai/jobs/info/688b9f37906ac06e1d1ccd03?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | ↳ | **[Immigration Legal Team Intern (unpaid)](https://jobright.ai/jobs/info/688ba3281808534a89cb4960?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Legal Associate](https://jobright.ai/jobs/info/688b7ccd1808534a89cb3697?utm_campaign=1055&utm_source=git)** | GA Atlanta | On Site | Jul 31 |
@@ -88,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Cyber Compliance Associate - Summer 2026](https://jobright.ai/jobs/info/688af12eaab47a17f670cd66?utm_campaign=1055&utm_source=git)** | McLean | On Site | Jul 30 |
 | ↳ | **[Cyber Compliance Associate - Summer 2026](https://jobright.ai/jobs/info/688af11daab47a17f670cd51?utm_campaign=1055&utm_source=git)** | Houston | On Site | Jul 30 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Intern (unpaid)](https://jobright.ai/jobs/info/688ae0ff09808a6103e51e88?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 30 |
+| **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Compliance Specialist (Administrative Analyst/Specialist I)](https://jobright.ai/jobs/info/688c3d3c1808534a89cb9da0?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jul 30 |
 | **[Center for Disability & Elder Law](https://www.cdelaw.org)** | **[Fall 2025 Paralegal Intern](https://jobright.ai/jobs/info/688adcb8aab47a17f670be9a?utm_campaign=1055&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jul 30 |
 | **[Rivas & Associates PLLC](http://www.RivasAssociates.com)** | **[Immigration Law Fall Intern](https://jobright.ai/jobs/info/688ac05009808a6103e51003?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Jul 30 |
 | ↳ | **[Immigration Law Fall Intern](https://jobright.ai/jobs/info/688abfbcaab47a17f670b257?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Jul 30 |
@@ -106,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Pittsburgh)](https://jobright.ai/jobs/info/688a2ff809808a6103e4ce56?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 30 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c3f636c80805021f5431f4?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Jul 30 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Boston)](https://jobright.ai/jobs/info/6889f5b609808a6103e4c2a5?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jul 30 |
+| **[K&L Gates](http://www.klgates.com/)** | **[2026 Charlotte IP 2L Summer Associate](https://jobright.ai/jobs/info/688c4b5c1808534a89cba5a8?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Jul 29 |
 | **[moomoo ](https://www.moomoo.com)** | **[Unpaid Legal/Compliance Intern](https://jobright.ai/jobs/info/688999d49f961617fe215ea8?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Jul 29 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6889985c9f961617fe215df0?utm_campaign=1055&utm_source=git)** | Somerset, KY | On Site | Jul 29 |
 | **[Black Rifle Coffee Company](https://www.blackriflecoffee.com)** | **[Skillbridge Legal Extern](https://jobright.ai/jobs/info/6889887c09808a6103e48354?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CAE](http://www.cae.com)** | **[Legal Assistant Co-Op](https://jobright.ai/jobs/info/6887975c73e3e13cbd93e8f5?utm_campaign=1055&utm_source=git)** | Tampa | Hybrid | Jul 28 |
 | **[BBB National Programs](https://bbbprograms.org/)** | **[Fall Semester Law Student Externship](https://jobright.ai/jobs/info/688795f04174df41e0f9f035?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jul 28 |
 | **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e228ad?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Jul 27 |
-| **[MDK](https://www.manleydeas.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6889b0819f961617fe217491?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jul 27 |
-| **[International Institute of New England](https://iine.org/)** | **[Shelter Services Legal Intern (IINE Lowell)](https://jobright.ai/jobs/info/6887f9314174df41e0fa1fe7?utm_campaign=1055&utm_source=git)** | Lowell, MA | On Site | Jul 27 |
-| **[River Road Asset Management](http://riverroadam.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68861c9cb651c92cb78aed11?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
