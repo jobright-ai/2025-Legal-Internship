@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RTX](http://www.raytheon.com)** | **[2026 Returning Intern - Global Trade Intern - Hybrid (AZ)](https://jobright.ai/jobs/info/688bf1ab906ac06e1d1cfa1a?utm_campaign=1055&utm_source=git)** | AZ201: RMS AP Bldg 801 1151 East Hermans Road Building 801, Tucson, AZ, 85756 USA | Hybrid | Jul 31 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Department Governance Intern](https://jobright.ai/jobs/info/688be6b53a30793eb963e9f9?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
+| **[Blue Clay Health](www.blueclayhealth.com)** | **[Health Care Compliance Intern](https://jobright.ai/jobs/info/688be5403a30793eb963e939?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 31 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern – Spring 2026](https://jobright.ai/jobs/info/688be436906ac06e1d1cf4b7?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Jul 31 |
 | ↳ | **[Legal Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688be37d906ac06e1d1cf37e?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Jul 31 |
 | ↳ | **[Legal Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688be3183a30793eb963e7ab?utm_campaign=1055&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Jul 31 |
@@ -89,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/68782aa75cebcd1dd51d8411?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/688a8f849f961617fe21c9dd?utm_campaign=1055&utm_source=git)** | Maysville, KY | On Site | Jul 30 |
 | **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/688a81779f961617fe21c270?utm_campaign=1055&utm_source=git)** | Fulton County, GA | Hybrid | Jul 30 |
-| **[California Department of Industrial Relations](https://www.dir.ca.gov/)** | **[Senior Legal Typist](https://jobright.ai/jobs/info/688aeb7faab47a17f670c70a?utm_campaign=1055&utm_source=git)** | Sacramento, CA | On Site | Jul 30 |
 | **[Dallas County Public Defender's](https://www.dallascounty.org/government/public-defender/)** | **[Intern](https://jobright.ai/jobs/info/688a6c2baab47a17f6708976?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jul 30 |
 | **[Clarios](https://www.clarios.com/)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/688a5db89f961617fe21b04e?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Jul 30 |
 | ↳ | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/688a4a6109808a6103e4d986?utm_campaign=1055&utm_source=git)** | United States, Wisconsin, Milwaukee | Hybrid | Jul 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Everllence](www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Jul 25 |
 | **[Corpay Technologies](http://www.corpay.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/68841f72835a903aa07fa2b1?utm_campaign=1055&utm_source=git)** | Peachtree Corners, GA | Remote | Jul 25 |
 | **[Corpay](https://payments.corpay.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68840aa8b54cac0f1e73bbc1?utm_campaign=1055&utm_source=git)** | Peachtree Corners, GA | On Site | Jul 25 |
-| **[New York City Fire Department](https://www.joinfdny.com)** | **[ATTORNEY INTERNE](https://jobright.ai/jobs/info/688407dbb54cac0f1e73ba5a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 25 |
-| **[State of Michigan](http://www.michigan.gov)** | **[Legal Student Assistant](https://jobright.ai/jobs/info/6883f381835a903aa07f9369?utm_campaign=1055&utm_source=git)** | Lansing, MI | Hybrid | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
