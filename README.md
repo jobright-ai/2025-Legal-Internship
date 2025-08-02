@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[M&A Legal Internship](https://jobright.ai/jobs/info/688d63ca27f9022553c0b17f?utm_campaign=1055&utm_source=git)** | Remote (Los Angeles, California, US) | Remote | Aug 01 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2025 Liberty and National Security (LNS) Legal Internship, NY](https://jobright.ai/jobs/info/688d386b27f9022553c0a1c1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Kutak Rock](http://www.kutakrock.com)** | **[2026 Summer Associate](https://jobright.ai/jobs/info/688d348d27f9022553c09ff5?utm_campaign=1055&utm_source=git)** | Little Rock Metro | On Site | Aug 01 |
 | ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/688d31633a30793eb964958b?utm_campaign=1055&utm_source=git)** | Rogers, AR | On Site | Aug 01 |
@@ -86,7 +87,6 @@ Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_camp
 | ↳ | **[Legal Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688be3183a30793eb963e7ab?utm_campaign=1055&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Jul 31 |
 | ↳ | **[Investigations & Law Enforcement Development Intern – Spring 2026](https://jobright.ai/jobs/info/688be2e23a30793eb963e759?utm_campaign=1055&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Jul 31 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal and Compliance Department - FLU Oversight Intern](https://jobright.ai/jobs/info/68781e47866a435525ab6e7a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
-| **[Societe Generale Assurances](http://www.assurances.societegenerale.com)** | **[2025 "Career Arc" Returnship Program - Legal Division (SEGL)](https://jobright.ai/jobs/info/688c99a21808534a89cbd5fd?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819027acf9261d3a8bf00a3?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jul 31 |
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/686c25d035584b6542efc5f8?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Jul 31 |
 | **[Searby PLLC](https://www.searby.law/)** | **[Legal Intern](https://jobright.ai/jobs/info/688bad9a906ac06e1d1cd602?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jul 31 |
@@ -118,6 +118,7 @@ Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_camp
 | **[Rivas & Associates PLLC](http://www.RivasAssociates.com)** | **[Immigration Law Fall Intern](https://jobright.ai/jobs/info/688ac05009808a6103e51003?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Jul 30 |
 | ↳ | **[Immigration Law Fall Intern](https://jobright.ai/jobs/info/688abfbcaab47a17f670b257?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Jul 30 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Intellectual Property, Advisory Internship - Summer 2026](https://jobright.ai/jobs/info/688ab31f9f961617fe21d880?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jul 30 |
+| **[Centric Brands](https://centricbrands.com)** | **[Compliance Intern – Fall 2025 (On-site)](https://jobright.ai/jobs/info/686d9764a1ce85dcfa8bfd85?utm_campaign=1055&utm_source=git)** | Greensboro, NC | On Site | Jul 30 |
 | **[The Chemours Company](https://www.chemours.com)** | **[APM Product Stewardship and Regulatory Compliance Intern](https://jobright.ai/jobs/info/688a991909808a6103e50155?utm_campaign=1055&utm_source=git)** | New Castle County, DE | On Site | Jul 30 |
 | **[Steinger, Greene & Feiner](https://www.injurylawyers.com)** | **[Law Clerk - Personal Injury](https://jobright.ai/jobs/info/688a973faab47a17f670a172?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jul 30 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/68782aa75cebcd1dd51d8411?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 30 |
@@ -157,5 +158,4 @@ Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_camp
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[SkillBridge, Internal Investigations Analyst (Remote)](https://jobright.ai/jobs/info/686c21ce35584b6542d28095?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | Remote | Jul 29 |
 | **[Delaware County, Ohio](http://www.co.delaware.oh.us)** | **[Public Defender Intern](https://jobright.ai/jobs/info/688af23f09808a6103e52a59?utm_campaign=1055&utm_source=git)** | Delaware, OH | On Site | Jul 28 |
 | **[Arnold & Itkin LLP](https://www.arnolditkin.com)** | **[Law Clerk](https://jobright.ai/jobs/info/688836cf73e3e13cbd943045?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jul 28 |
-| **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/68784ce25cebcd1dd51d9332?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
