@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TruStage](https://www.trustage.com/)** | **[Legal Research Clerk - Law Students (Hybrid) Wisconsin-Madison](https://jobright.ai/jobs/info/68749c9aae2f413e4a59dfe5?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Aug 02 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Legal Affairs Interns
+Job ID : 261505](https://jobright.ai/jobs/info/688ddf2fe5cead4afd45b281?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Aug 02 |
 | **[Nassau County District Attorney](https://nassauda.org)** | **[Intern - Fall 2025](https://jobright.ai/jobs/info/688da010cdbd821a3663d09c?utm_campaign=1055&utm_source=git)** | Nassau, NY | On Site | Aug 01 |
 | **[California Rural Legal Assistance, Inc.](https://crla.org)** | **[Intern](https://jobright.ai/jobs/info/688d6f9227f9022553c0b6a6?utm_campaign=1055&utm_source=git)** | California, United States | On Site | Aug 01 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[M&A Legal Internship](https://jobright.ai/jobs/info/688d63ca27f9022553c0b17f?utm_campaign=1055&utm_source=git)** | Remote (Los Angeles, California, US) | Remote | Aug 01 |
@@ -75,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Harris Williams](http://www.harriswilliams.com)** | **[2026 M&A Summer Associate](https://jobright.ai/jobs/info/688cc43a1808534a89cbeac7?utm_campaign=1055&utm_source=git)** | VA - Richmond (23219) | On Site | Aug 01 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c4a3540b75ccc99fad2899?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Aug 01 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Fall 2025](https://jobright.ai/jobs/info/68190da131c47f451c460eb4?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 01 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6888eb0a09808a6103e43704?utm_campaign=1055&utm_source=git)** | Princeton, KY | On Site | Aug 01 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Legal Affairs Interns
 Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Aug 01 |
 | **[FirstCash](https://firstcash.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/688c81e43a30793eb9643f4e?utm_campaign=1055&utm_source=git)** | Coppell, TX | On Site | Aug 01 |
@@ -86,7 +90,6 @@ Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_camp
 | **[UnCommon Law](https://www.uncommonlaw.org)** | **[Legal Internship (Fall and Spring)](https://jobright.ai/jobs/info/688c1f5b3a30793eb9640258?utm_campaign=1055&utm_source=git)** | Oakland, California, United States | Hybrid | Jul 31 |
 | **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/6862e89fbea298b4eb60a0d4?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 31 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern – Spring 2026](https://jobright.ai/jobs/info/688c1658906ac06e1d1d09e1?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 31 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2025 Liberty and National Security (LNS) Legal Internship, NY](https://jobright.ai/jobs/info/688d16e427f9022553c0909c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern - Part- Time Claims Coordinator](https://jobright.ai/jobs/info/688c0d9d906ac06e1d1d04c7?utm_campaign=1055&utm_source=git)** | Midlothian, TX | On Site | Jul 31 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Returning Intern - Global Trade Intern - Hybrid (AZ)](https://jobright.ai/jobs/info/688bf1ab906ac06e1d1cfa1a?utm_campaign=1055&utm_source=git)** | AZ201: RMS AP Bldg 801 1151 East Hermans Road Building 801, Tucson, AZ, 85756 USA | Hybrid | Jul 31 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Department Governance Intern](https://jobright.ai/jobs/info/688be6b53a30793eb963e9f9?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
@@ -154,8 +157,6 @@ Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_camp
 | **[Bacardi](https://www.bacardilimited.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68890a16aab47a17f66fe698?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Jul 29 |
 | **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Cincinnati, OH](https://jobright.ai/jobs/info/6888fcd9aab47a17f66fe08a?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jul 29 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6888eb4109808a6103e43732?utm_campaign=1055&utm_source=git)** | Catlettsburg, KY | On Site | Jul 29 |
-| ↳ | **[Law Clerk](https://jobright.ai/jobs/info/6888eb0a09808a6103e43704?utm_campaign=1055&utm_source=git)** | Princeton, KY | On Site | Jul 29 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Legal Intern (Berwyn Office)](https://jobright.ai/jobs/info/68899ed0aab47a17f67038fd?utm_campaign=1055&utm_source=git)** | Berwyn, PA | On Site | Jul 29 |
 | **[Teleflex](http://www.teleflex.com)** | **[Compliance Intern, Global Business Practices](https://jobright.ai/jobs/info/6888e3209f961617fe21016c?utm_campaign=1055&utm_source=git)** | Wayne, PA | On Site | Jul 29 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68850d884174df41e0f95f77?utm_campaign=1055&utm_source=git)** | London, KY | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
