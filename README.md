@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Fayetteville, North Carolina](http://www.FayettevilleNC.gov)** | **[Legal Intern –  City Attorney’s Office](https://jobright.ai/jobs/info/688f057be5cead4afd45fdbe?utm_campaign=1055&utm_source=git)** | Fayetteville, NC | On Site | Aug 02 |
 | **[Sepulveda Sanchez Accident Lawyers](https://sepulvedalawgroup.com)** | **[Law Clerk - 25hrs/wk Learn Discovery in a Personal Injury Law Firm (In office)](https://jobright.ai/jobs/info/688ea227e5cead4afd45cff3?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 02 |
 | **[County of Orange](https://ocgov.com/)** | **[Legal Secretary Trainee](https://jobright.ai/jobs/info/688e4406cdbd821a366410d7?utm_campaign=1055&utm_source=git)** | Santa Ana, CA | On Site | Aug 02 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/683a3eb5ed34bb2251d34557?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Aug 02 |
@@ -93,9 +94,9 @@ Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_camp
 | **[FirstCash](https://firstcash.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/688c81e43a30793eb9643f4e?utm_campaign=1055&utm_source=git)** | Coppell, TX | On Site | Aug 01 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6889985c9f961617fe215df0?utm_campaign=1055&utm_source=git)** | Somerset, KY | On Site | Aug 01 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/68191100c93186a3e89670ec?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jul 31 |
+| ↳ | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819027acf9261d3a8bf0084?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Jul 31 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Legal Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688d9f6fcdbd821a3663d012?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Jul 31 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Vera Louisiana - Law and Policy Intern](https://jobright.ai/jobs/info/688dad1f6a4aac5783cd5cae?utm_campaign=1055&utm_source=git)** | New Orleans, LA | Hybrid | Jul 31 |
-| **[Fredrikson & Byron, P.A.](http://www.fredlaw.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/688d92b6cdbd821a3663c229?utm_campaign=1055&utm_source=git)** | Mankato, MN | On Site | Jul 31 |
 | **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Children's Legal Intern (unpaid)](https://jobright.ai/jobs/info/688ed86bcdbd821a36642818?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[UnCommon Law](https://www.uncommonlaw.org)** | **[Legal Internship (Fall and Spring)](https://jobright.ai/jobs/info/688c1f5b3a30793eb9640258?utm_campaign=1055&utm_source=git)** | Oakland, California, United States | Hybrid | Jul 31 |
 | **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/6862e89fbea298b4eb60a0d4?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 31 |
@@ -159,5 +160,4 @@ Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_camp
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68895d579f961617fe213da6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 29 |
 | **[Mission Action](https://www.missionaction.org/)** | **[Legal Internship Opportunities: Summer 2025 Law Student Clerk](https://jobright.ai/jobs/info/68897907aab47a17f6701d4c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jul 29 |
 | **[Avalere Health](https://avalerehealth.com)** | **[FDA Fellow: Market Access](https://jobright.ai/jobs/info/688951df09808a6103e46c39?utm_campaign=1055&utm_source=git)** | Washington DC | Remote | Jul 29 |
-| **[Black Rifle Coffee Company](https://www.blackriflecoffee.com)** | **[Skillbridge Legal Extern](https://jobright.ai/jobs/info/68893ff309808a6103e46355?utm_campaign=1055&utm_source=git)** | Salt Lake City Corporate | Hybrid | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
