@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The State University of New York](http://www.suny.edu/)** | **[Law Student Internships](https://jobright.ai/jobs/info/688f5c1fe5cead4afd460aa5?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Aug 03 |
 | **[The University of New Mexico](http://unm.edu)** | **[Legal Assistant](https://jobright.ai/jobs/info/688f37e56a4aac5783cdd06a?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | On Site | Aug 03 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/688f2d2ae5cead4afd46073d?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Aug 03 |
 | **[City of Fayetteville, North Carolina](http://www.FayettevilleNC.gov)** | **[Legal Intern –  City Attorney’s Office](https://jobright.ai/jobs/info/688f057be5cead4afd45fdbe?utm_campaign=1055&utm_source=git)** | Fayetteville, NC | On Site | Aug 02 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[County of Orange](https://ocgov.com/)** | **[Legal Secretary Trainee](https://jobright.ai/jobs/info/688e4406cdbd821a366410d7?utm_campaign=1055&utm_source=git)** | Santa Ana, CA | On Site | Aug 02 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/683a3eb5ed34bb2251d34557?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Aug 02 |
 | **[TruStage](https://www.trustage.com/)** | **[Legal Research Clerk - Law Students (Hybrid) Wisconsin-Madison](https://jobright.ai/jobs/info/68749c9aae2f413e4a59dfe5?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Aug 02 |
+| **[AmericanIIR](americaniir.org)** | **[Legal Intern](https://jobright.ai/jobs/info/688d9557cdbd821a3663c4f5?utm_campaign=1055&utm_source=git)** | Atlanta Metro | On Site | Aug 02 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Legal Affairs Interns
 Job ID : 261505](https://jobright.ai/jobs/info/688ddf2fe5cead4afd45b281?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Aug 02 |
 | ↳ | **[Legal Intern
@@ -89,6 +91,7 @@ Job ID : 262201](https://jobright.ai/jobs/info/688ee033cdbd821a36642e0f?utm_camp
 | **[Keplr Vision](https://keplrvision.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/688ccbca27f9022553c06e44?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Aug 01 |
 | **[Harris Williams](http://www.harriswilliams.com)** | **[2026 M&A Summer Associate](https://jobright.ai/jobs/info/688cc43a1808534a89cbeac7?utm_campaign=1055&utm_source=git)** | VA - Richmond (23219) | On Site | Aug 01 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c4a3540b75ccc99fad2899?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Aug 01 |
+| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819087a549ca8705983ecc0?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Aug 01 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Fall 2025](https://jobright.ai/jobs/info/68190da131c47f451c460eb4?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 01 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6888eb0a09808a6103e43704?utm_campaign=1055&utm_source=git)** | Princeton, KY | On Site | Aug 01 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Legal Affairs Interns
@@ -157,7 +160,4 @@ Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_camp
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Boston)](https://jobright.ai/jobs/info/6889f5b609808a6103e4c2a5?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jul 30 |
 | **[Our Rescue](http://ourrescue.org)** | **[Legal Internship (Fall)](https://jobright.ai/jobs/info/688db790e5cead4afd45997e?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Jul 29 |
 | **[K&L Gates](http://www.klgates.com/)** | **[2026 Charlotte IP 2L Summer Associate](https://jobright.ai/jobs/info/688ee366cdbd821a36643073?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Jul 29 |
-| **[Black Rifle Coffee Company](https://www.blackriflecoffee.com)** | **[Skillbridge Legal Extern](https://jobright.ai/jobs/info/6889887c09808a6103e48354?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 29 |
-| **[Sensience](https://sensience.com)** | **[US - Legal Intern (Columbus)](https://jobright.ai/jobs/info/6889663109808a6103e472fb?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jul 29 |
-| **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68895d579f961617fe213da6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
