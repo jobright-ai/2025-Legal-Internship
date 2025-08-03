@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zumpano Castro, PLLC](https://www.zumpanocastro.com/)** | **[Part-Time Litigation Law Clerk](https://jobright.ai/jobs/info/688fb608cdbd821a36645e71?utm_campaign=1055&utm_source=git)** | Coral Gables, FL | On Site | Aug 03 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Law Student Internships](https://jobright.ai/jobs/info/688f5c1fe5cead4afd460aa5?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Aug 03 |
 | **[The University of New Mexico](http://unm.edu)** | **[Legal Assistant](https://jobright.ai/jobs/info/688f37e56a4aac5783cdd06a?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | On Site | Aug 03 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/688f2d2ae5cead4afd46073d?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Aug 03 |
@@ -119,6 +120,7 @@ Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_camp
 | ↳ | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819027acf9261d3a8bf00a3?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jul 31 |
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/686c25d035584b6542efc5f8?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Jul 31 |
 | **[Searby PLLC](https://www.searby.law/)** | **[Legal Intern](https://jobright.ai/jobs/info/688bad9a906ac06e1d1cd602?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jul 31 |
+| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819027acf9261d3a8bf0085?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jul 31 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6888eebcaab47a17f66fdb79?utm_campaign=1055&utm_source=git)** | Columbia, KY | On Site | Jul 31 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819087a549ca8705983ecc1?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jul 31 |
 | **[American Cancer Society](http://www.cancer.org/)** | **[Legal Associate](https://jobright.ai/jobs/info/688b93e93a30793eb963bb13?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jul 31 |
@@ -158,6 +160,4 @@ Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_camp
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Pittsburgh)](https://jobright.ai/jobs/info/688a320f09808a6103e4cf80?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Jul 30 |
 | **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Pittsburgh)](https://jobright.ai/jobs/info/688a2ff809808a6103e4ce56?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 30 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c3f636c80805021f5431f4?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Jul 30 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Boston)](https://jobright.ai/jobs/info/6889f5b609808a6103e4c2a5?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jul 30 |
-| **[Our Rescue](http://ourrescue.org)** | **[Legal Internship (Fall)](https://jobright.ai/jobs/info/688db790e5cead4afd45997e?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
