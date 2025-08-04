@@ -146,6 +146,7 @@ Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_camp
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Intern (unpaid)](https://jobright.ai/jobs/info/688ae0ff09808a6103e51e88?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Compliance Specialist (Administrative Analyst/Specialist I)](https://jobright.ai/jobs/info/688c3d3c1808534a89cb9da0?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jul 30 |
 | **[Center for Disability & Elder Law](https://www.cdelaw.org)** | **[Fall 2025 Paralegal Intern](https://jobright.ai/jobs/info/688adcb8aab47a17f670be9a?utm_campaign=1055&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jul 30 |
+| **[California Department of Industrial Relations](https://www.dir.ca.gov/)** | **[Senior Legal Typist](https://jobright.ai/jobs/info/689026386a4aac5783cdec1e?utm_campaign=1055&utm_source=git)** | Sacramento, CA | On Site | Jul 30 |
 | **[Rivas & Associates PLLC](http://www.RivasAssociates.com)** | **[Immigration Law Fall Intern](https://jobright.ai/jobs/info/688ac05009808a6103e51003?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Jul 30 |
 | ↳ | **[Immigration Law Fall Intern](https://jobright.ai/jobs/info/688abfbcaab47a17f670b257?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Jul 30 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Intellectual Property, Advisory Internship - Summer 2026](https://jobright.ai/jobs/info/688ab31f9f961617fe21d880?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jul 30 |
@@ -159,5 +160,4 @@ Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_camp
 | ↳ | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/688a4a6109808a6103e4d986?utm_campaign=1055&utm_source=git)** | United States, Wisconsin, Milwaukee | Hybrid | Jul 30 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/688a48b2aab47a17f6707998?utm_campaign=1055&utm_source=git)** | Shelbyville, KY | On Site | Jul 30 |
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Intellectual Property](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3dac?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jul 30 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Pittsburgh)](https://jobright.ai/jobs/info/688a320f09808a6103e4cf80?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
