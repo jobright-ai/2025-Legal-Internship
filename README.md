@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jimerson Birr](https://www.jimersonfirm.com)** | **[Collections Intern](https://jobright.ai/jobs/info/6891065af47efe2113951f3c?utm_campaign=1055&utm_source=git)** | Jacksonville, Florida | On Site | Aug 04 |
+| **[JETZY](http://jetzyapp.com)** | **[Law Intern](https://jobright.ai/jobs/info/6890f7e24c7e851b90acaebf?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Aug 04 |
 | **[National Futures Association](https://www.nfa.futures.org/)** | **[Summer Regulatory Compliance Intern](https://jobright.ai/jobs/info/6890eda64c7e851b90acaa98?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 04 |
 | **[Jimerson Birr](https://www.jimersonfirm.com)** | **[Collections Intern](https://jobright.ai/jobs/info/6890e0054c7e851b90aca49e?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Aug 04 |
 | **[National Futures Association](https://www.nfa.futures.org/)** | **[Summer Regulatory Compliance Intern](https://jobright.ai/jobs/info/6890dfbbf47efe211395102b?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 04 |
 | **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[Ethics and Compliance Intern- Summer/Fall 2025](https://jobright.ai/jobs/info/6890d2e24c7e851b90ac9e3c?utm_campaign=1055&utm_source=git)** | Greater Roanoke Area | On Site | Aug 04 |
 | **[Haynes and Boone, LLP](http://www.haynesboone.com)** | **[Business Transaction Intern](https://jobright.ai/jobs/info/6890cad94c7e851b90ac99c7?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Aug 04 |
-| **[Corpay](https://payments.corpay.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6890a084f5ee707a15db8279?utm_campaign=1055&utm_source=git)** | Peachtree Corners, GA | On Site | Aug 04 |
 | **[Cornerstone Abstract & Settlement](http://www.cornerstonesettlement.com)** | **[Title Agent Assistant / Apprentice](https://jobright.ai/jobs/info/6890ada54c7e851b90ac8abd?utm_campaign=1055&utm_source=git)** | Wellsboro, PA | On Site | Aug 04 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/68906ba1f5ee707a15db6b2a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 04 |
+| **[New York Legal Assistance Group](https://www.nylag.org)** | **[Intern Posting - Legal Intern](https://jobright.ai/jobs/info/6890f915f47efe2113951a73?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 03 |
 | **[Zumpano Castro, PLLC](https://www.zumpanocastro.com/)** | **[Part-Time Litigation Law Clerk](https://jobright.ai/jobs/info/688fb608cdbd821a36645e71?utm_campaign=1055&utm_source=git)** | Coral Gables, FL | On Site | Aug 03 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Law Student Internships](https://jobright.ai/jobs/info/688f5c1fe5cead4afd460aa5?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Aug 03 |
 | **[The University of New Mexico](http://unm.edu)** | **[Legal Assistant](https://jobright.ai/jobs/info/688f37e56a4aac5783cdd06a?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | On Site | Aug 03 |
@@ -74,11 +76,11 @@ For a complete list, click the following sortable link below:
 | **[Mona Shah & Associates Global](http://www.mshahlaw.com)** | **[Legal Internship](https://jobright.ai/jobs/info/689032d14c7e851b90ac4224?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 02 |
 | **[Sepulveda Sanchez Accident Lawyers](https://sepulvedalawgroup.com)** | **[Law Clerk - 25hrs/wk Learn Discovery in a Personal Injury Law Firm (In office)](https://jobright.ai/jobs/info/688ea227e5cead4afd45cff3?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 02 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f08a?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Aug 02 |
+| **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Settlement Intern](https://jobright.ai/jobs/info/685955304fdc6f5c0b26d6b5?utm_campaign=1055&utm_source=git)** | Lancaster, PA | On Site | Aug 02 |
 | **[County of Orange](https://ocgov.com/)** | **[Legal Secretary Trainee](https://jobright.ai/jobs/info/688e4406cdbd821a366410d7?utm_campaign=1055&utm_source=git)** | Santa Ana, CA | On Site | Aug 02 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c4ab04e8986607dd82f4a4?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Aug 02 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/683a3eb5ed34bb2251d34557?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Aug 02 |
 | **[Holwell Shuster & Goldberg LLP](http://www.hsgllp.com)** | **[Summer Associate](https://jobright.ai/jobs/info/689087a1f5ee707a15db7286?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Aug 02 |
-| **[AmericanIIR](americaniir.org)** | **[Legal Intern](https://jobright.ai/jobs/info/6890a8f24c7e851b90ac885e?utm_campaign=1055&utm_source=git)** | Atlanta Metro | On Site | Aug 02 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/688a8f849f961617fe21c9dd?utm_campaign=1055&utm_source=git)** | Maysville, KY | On Site | Aug 02 |
 | **[TruStage](https://www.trustage.com/)** | **[Legal Research Clerk - Law Students (Hybrid) Wisconsin-Madison](https://jobright.ai/jobs/info/68749c9aae2f413e4a59dfe5?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Aug 02 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Legal Affairs Interns
@@ -123,7 +125,6 @@ Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_camp
 | **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/6862e89fbea298b4eb60a0d4?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 31 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern – Spring 2026](https://jobright.ai/jobs/info/688c1658906ac06e1d1d09e1?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 31 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Department Governance Intern](https://jobright.ai/jobs/info/688be6b53a30793eb963e9f9?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
-| **[Blue Clay Health](www.blueclayhealth.com)** | **[Health Care Compliance Intern](https://jobright.ai/jobs/info/688be5403a30793eb963e939?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 31 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern – Spring 2026](https://jobright.ai/jobs/info/688be436906ac06e1d1cf4b7?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Jul 31 |
 | ↳ | **[Legal Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688be37d906ac06e1d1cf37e?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Jul 31 |
 | ↳ | **[Legal Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688be3183a30793eb963e7ab?utm_campaign=1055&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Jul 31 |
@@ -159,5 +160,4 @@ Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_camp
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Compliance Specialist (Administrative Analyst/Specialist I)](https://jobright.ai/jobs/info/688c3d3c1808534a89cb9da0?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jul 30 |
 | **[Center for Disability & Elder Law](https://www.cdelaw.org)** | **[Fall 2025 Paralegal Intern](https://jobright.ai/jobs/info/688adcb8aab47a17f670be9a?utm_campaign=1055&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jul 30 |
 | **[California Department of Industrial Relations](https://www.dir.ca.gov/)** | **[Senior Legal Typist](https://jobright.ai/jobs/info/689026386a4aac5783cdec1e?utm_campaign=1055&utm_source=git)** | Sacramento, CA | On Site | Jul 30 |
-| **[Rivas & Associates PLLC](http://www.RivasAssociates.com)** | **[Immigration Law Fall Intern](https://jobright.ai/jobs/info/688ac05009808a6103e51003?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
