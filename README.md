@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[Ethics and Compliance Intern- Summer/Fall 2025](https://jobright.ai/jobs/info/6890d2e24c7e851b90ac9e3c?utm_campaign=1055&utm_source=git)** | Greater Roanoke Area | On Site | Aug 04 |
+| **[Haynes and Boone, LLP](http://www.haynesboone.com)** | **[Business Transaction Intern](https://jobright.ai/jobs/info/6890cad94c7e851b90ac99c7?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Aug 04 |
 | **[Corpay](https://payments.corpay.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6890a084f5ee707a15db8279?utm_campaign=1055&utm_source=git)** | Peachtree Corners, GA | On Site | Aug 04 |
 | **[Cornerstone Abstract & Settlement](http://www.cornerstonesettlement.com)** | **[Title Agent Assistant / Apprentice](https://jobright.ai/jobs/info/6890ada54c7e851b90ac8abd?utm_campaign=1055&utm_source=git)** | Wellsboro, PA | On Site | Aug 04 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/68906ba1f5ee707a15db6b2a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 04 |
@@ -158,6 +160,4 @@ Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_camp
 | ↳ | **[Immigration Law Fall Intern](https://jobright.ai/jobs/info/688abfbcaab47a17f670b257?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Jul 30 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Intellectual Property, Advisory Internship - Summer 2026](https://jobright.ai/jobs/info/688ab31f9f961617fe21d880?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jul 30 |
 | **[Centric Brands](https://centricbrands.com)** | **[Compliance Intern – Fall 2025 (On-site)](https://jobright.ai/jobs/info/686d9764a1ce85dcfa8bfd85?utm_campaign=1055&utm_source=git)** | Greensboro, NC | On Site | Jul 30 |
-| **[The Chemours Company](https://www.chemours.com)** | **[APM Product Stewardship and Regulatory Compliance Intern](https://jobright.ai/jobs/info/688a991909808a6103e50155?utm_campaign=1055&utm_source=git)** | New Castle County, DE | On Site | Jul 30 |
-| **[Steinger, Greene & Feiner](https://www.injurylawyers.com)** | **[Law Clerk - Personal Injury](https://jobright.ai/jobs/info/688a973faab47a17f670a172?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
