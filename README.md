@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corpay](https://payments.corpay.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6890a084f5ee707a15db8279?utm_campaign=1055&utm_source=git)** | Peachtree Corners, GA | On Site | Aug 04 |
+| **[Cornerstone Abstract & Settlement](http://www.cornerstonesettlement.com)** | **[Title Agent Assistant / Apprentice](https://jobright.ai/jobs/info/6890ada54c7e851b90ac8abd?utm_campaign=1055&utm_source=git)** | Wellsboro, PA | On Site | Aug 04 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/68906ba1f5ee707a15db6b2a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 04 |
 | **[Zumpano Castro, PLLC](https://www.zumpanocastro.com/)** | **[Part-Time Litigation Law Clerk](https://jobright.ai/jobs/info/688fb608cdbd821a36645e71?utm_campaign=1055&utm_source=git)** | Coral Gables, FL | On Site | Aug 03 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Law Student Internships](https://jobright.ai/jobs/info/688f5c1fe5cead4afd460aa5?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Aug 03 |
@@ -71,6 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c4ab04e8986607dd82f4a4?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Aug 02 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/683a3eb5ed34bb2251d34557?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Aug 02 |
 | **[Holwell Shuster & Goldberg LLP](http://www.hsgllp.com)** | **[Summer Associate](https://jobright.ai/jobs/info/689087a1f5ee707a15db7286?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Aug 02 |
+| **[AmericanIIR](americaniir.org)** | **[Legal Intern](https://jobright.ai/jobs/info/6890a8f24c7e851b90ac885e?utm_campaign=1055&utm_source=git)** | Atlanta Metro | On Site | Aug 02 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/688a8f849f961617fe21c9dd?utm_campaign=1055&utm_source=git)** | Maysville, KY | On Site | Aug 02 |
 | **[TruStage](https://www.trustage.com/)** | **[Legal Research Clerk - Law Students (Hybrid) Wisconsin-Madison](https://jobright.ai/jobs/info/68749c9aae2f413e4a59dfe5?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Aug 02 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Legal Affairs Interns
 Job ID : 261505](https://jobright.ai/jobs/info/688ddf2fe5cead4afd45b281?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Aug 02 |
@@ -156,8 +160,4 @@ Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_camp
 | **[Centric Brands](https://centricbrands.com)** | **[Compliance Intern – Fall 2025 (On-site)](https://jobright.ai/jobs/info/686d9764a1ce85dcfa8bfd85?utm_campaign=1055&utm_source=git)** | Greensboro, NC | On Site | Jul 30 |
 | **[The Chemours Company](https://www.chemours.com)** | **[APM Product Stewardship and Regulatory Compliance Intern](https://jobright.ai/jobs/info/688a991909808a6103e50155?utm_campaign=1055&utm_source=git)** | New Castle County, DE | On Site | Jul 30 |
 | **[Steinger, Greene & Feiner](https://www.injurylawyers.com)** | **[Law Clerk - Personal Injury](https://jobright.ai/jobs/info/688a973faab47a17f670a172?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jul 30 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/68782aa75cebcd1dd51d8411?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 30 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/688a8f849f961617fe21c9dd?utm_campaign=1055&utm_source=git)** | Maysville, KY | On Site | Jul 30 |
-| **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/688a81779f961617fe21c270?utm_campaign=1055&utm_source=git)** | Fulton County, GA | Hybrid | Jul 30 |
-| **[Clarios](https://www.clarios.com/)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/688a5db89f961617fe21b04e?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
