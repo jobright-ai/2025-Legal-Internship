@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Risk & Compliance (Pittsburgh, PA)](https://jobright.ai/jobs/info/689273a6f47efe211395c811?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
+| **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Student Research Assistant for Law](https://jobright.ai/jobs/info/68926a9d4c7e851b90ad57e7?utm_campaign=1055&utm_source=git)** | Lynchburg, VA | On Site | Aug 05 |
+| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Risk & Compliance (Lake Mary, FL)](https://jobright.ai/jobs/info/68926689f47efe211395c0de?utm_campaign=1055&utm_source=git)** | Lake Mary, FL | On Site | Aug 05 |
+| **[Bond, Schoeneck & King PLLC](https://www.bsk.com/)** | **[2026 Summer Law Clerk (multiple locations hiring)](https://jobright.ai/jobs/info/687693345cebcd1dd51ca274?utm_campaign=1055&utm_source=git)** | Rochester, New York Metropolitan Area | On Site | Aug 05 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[Intern-County Attorney](https://jobright.ai/jobs/info/68925edaf47efe211395bca2?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Aug 05 |
 | **[AspinRock](https://aspinrock.com)** | **[Regulatory Compliance Analyst Intern](https://jobright.ai/jobs/info/68924bddf47efe211395b233?utm_campaign=1055&utm_source=git)** | Triangle Area | On Site | Aug 05 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/68924772f47efe211395b083?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 05 |
@@ -71,11 +75,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 BNY Summer Internship Program - Risk & Compliance (New York, NY)](https://jobright.ai/jobs/info/68921aaf4c7e851b90ad3395?utm_campaign=1055&utm_source=git)** | 240 Greenwich Street, New York, NY, 10286, US | On Site | Aug 05 |
 | **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Legal](https://jobright.ai/jobs/info/68920110f5ee707a15dc2bec?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Aug 05 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[Houston Office - 2026 2L Transactions Summer Associate](https://jobright.ai/jobs/info/6805969b10a8f21e39bb6053?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 05 |
+| **[Sidley Austin LLP](http://www.sidley.com)** | **[Legal Secretary Trainee](https://jobright.ai/jobs/info/683cea8d643bb55efe92b0b4?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 05 |
 | **[The Signals Network](https://thesignalsnetwork.org)** | **[Legal Externship](https://jobright.ai/jobs/info/6891b8664c7e851b90ad1c65?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 05 |
 | **[Teleflex](http://www.teleflex.com)** | **[Compliance Intern, Global Business Practices](https://jobright.ai/jobs/info/6891ad744c7e851b90ad1767?utm_campaign=1055&utm_source=git)** | Wayne, PA | On Site | Aug 04 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/689166fe4c7e851b90ace36f?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Aug 04 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68915062f47efe211395442c?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Aug 04 |
-| **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern - Part- Time Claims Coordinator](https://jobright.ai/jobs/info/68914c20f47efe2113954338?utm_campaign=1055&utm_source=git)** | Midlothian, TX | On Site | Aug 04 |
 | **[Torres & Zheng at Law, P.C.](www.torresbusinesslaw.com)** | **[NYC Law Firm - Legal Intern](https://jobright.ai/jobs/info/68913b15f5ee707a15dbd1d0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 04 |
 | **[Bremer Whyte Brown & O'Meara, LLP](https://bremerwhyte.com/)** | **[Diversity Fellowship - Summer 2026 Law Clerk (2L Students Eligible to Apply)](https://jobright.ai/jobs/info/68913972f47efe2113953a9b?utm_campaign=1055&utm_source=git)** | Newport Beach, CA | On Site | Aug 04 |
 | ↳ | **[Diversity Fellowship - Summer 2026 Law Clerk (2L Students Eligible to Apply)](https://jobright.ai/jobs/info/6891801ff5ee707a15dbf210?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Aug 04 |
@@ -154,8 +158,4 @@ Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_camp
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/68191100c93186a3e89670e9?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jul 31 |
 | ↳ | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819027acf9261d3a8bf00a3?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jul 31 |
 | ↳ | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819027acf9261d3a8bf0085?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jul 31 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6888eebcaab47a17f66fdb79?utm_campaign=1055&utm_source=git)** | Columbia, KY | On Site | Jul 31 |
-| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819087a549ca8705983ecc1?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jul 31 |
-| **[American Cancer Society](http://www.cancer.org/)** | **[Legal Associate](https://jobright.ai/jobs/info/688b93e93a30793eb963bb13?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jul 31 |
-| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/68191100c93186a3e89670ed?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
