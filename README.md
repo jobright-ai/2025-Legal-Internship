@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Signals Network](https://thesignalsnetwork.org)** | **[Legal Externship](https://jobright.ai/jobs/info/6891b8664c7e851b90ad1c65?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 05 |
 | **[Teleflex](http://www.teleflex.com)** | **[Compliance Intern, Global Business Practices](https://jobright.ai/jobs/info/6891ad744c7e851b90ad1767?utm_campaign=1055&utm_source=git)** | Wayne, PA | On Site | Aug 04 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/689166fe4c7e851b90ace36f?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Aug 04 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68915062f47efe211395442c?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Aug 04 |
@@ -85,10 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Zumpano Castro, PLLC](https://www.zumpanocastro.com/)** | **[Part-Time Litigation Law Clerk](https://jobright.ai/jobs/info/688fb608cdbd821a36645e71?utm_campaign=1055&utm_source=git)** | Coral Gables, FL | On Site | Aug 03 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Law Student Internships](https://jobright.ai/jobs/info/688f5c1fe5cead4afd460aa5?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Aug 03 |
 | **[The University of New Mexico](http://unm.edu)** | **[Legal Assistant](https://jobright.ai/jobs/info/688f37e56a4aac5783cdd06a?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | On Site | Aug 03 |
-| **[State of Rhode Island](http://www.dot.ri.gov/)** | **[Chambers Law Clerk](https://jobright.ai/jobs/info/689044d1f5ee707a15db5851?utm_campaign=1055&utm_source=git)** | Providence, RI | On Site | Aug 03 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/688f2d2ae5cead4afd46073d?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Aug 03 |
 | **[City of Fayetteville, North Carolina](http://www.FayettevilleNC.gov)** | **[Legal Intern –  City Attorney’s Office](https://jobright.ai/jobs/info/689003ede5cead4afd4617f9?utm_campaign=1055&utm_source=git)** | Fayetteville, NC | On Site | Aug 02 |
-| **[Mona Shah & Associates Global](http://www.mshahlaw.com)** | **[Legal Internship](https://jobright.ai/jobs/info/689032d14c7e851b90ac4224?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 02 |
 | **[Sepulveda Sanchez Accident Lawyers](https://sepulvedalawgroup.com)** | **[Law Clerk - 25hrs/wk Learn Discovery in a Personal Injury Law Firm (In office)](https://jobright.ai/jobs/info/688ea227e5cead4afd45cff3?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 02 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f08a?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Aug 02 |
 | **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Settlement Intern](https://jobright.ai/jobs/info/685955304fdc6f5c0b26d6b5?utm_campaign=1055&utm_source=git)** | Lancaster, PA | On Site | Aug 02 |
@@ -97,8 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/683a3eb5ed34bb2251d34557?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Aug 02 |
 | **[Holwell Shuster & Goldberg LLP](http://www.hsgllp.com)** | **[Summer Associate](https://jobright.ai/jobs/info/689087a1f5ee707a15db7286?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Aug 02 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/688a8f849f961617fe21c9dd?utm_campaign=1055&utm_source=git)** | Maysville, KY | On Site | Aug 02 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Legal Affairs Interns
-Job ID : 261505](https://jobright.ai/jobs/info/688ddf2fe5cead4afd45b281?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Aug 02 |
 | **[TruStage](https://www.trustage.com/)** | **[Legal Research Clerk - Law Students (Hybrid) Wisconsin-Madison](https://jobright.ai/jobs/info/68749c9aae2f413e4a59dfe5?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Aug 02 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Legal Intern
 Job ID : 262201](https://jobright.ai/jobs/info/688ee033cdbd821a36642e0f?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Aug 02 |
@@ -160,4 +157,6 @@ Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_camp
 | ↳ | **[Immigration Legal Team Intern (unpaid)](https://jobright.ai/jobs/info/688ba3281808534a89cb4960?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Legal Associate](https://jobright.ai/jobs/info/688b7ccd1808534a89cb3697?utm_campaign=1055&utm_source=git)** | GA Atlanta | On Site | Jul 31 |
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3e11?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Jul 31 |
+| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819027acf9261d3a8bf0083?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jul 31 |
+| **[Protiviti](http://www.protiviti.com)** | **[San Francisco Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/670dbab9d337f7192aa4ac5f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
