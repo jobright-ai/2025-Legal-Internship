@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of San Mateo](https://www.smcgov.org)** | **[Michael P. Murphy Public Law Fellowship](https://jobright.ai/jobs/info/6875776bae2f413e4a5a75bb?utm_campaign=1055&utm_source=git)** | San Mateo County, CA | On Site | Aug 05 |
+| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Risk & Compliance (Lake Mary, FL)](https://jobright.ai/jobs/info/68921de2f5ee707a15dc3406?utm_campaign=1055&utm_source=git)** | Lake Mary, FL, United States | On Site | Aug 05 |
+| ↳ | **[2026 BNY Summer Internship Program - Risk & Compliance (Pittsburgh, PA)](https://jobright.ai/jobs/info/68921dcdf47efe2113959ecc?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 05 |
+| ↳ | **[2026 BNY Summer Internship Program - Risk & Compliance (Lake Mary, FL)](https://jobright.ai/jobs/info/68921abff47efe2113959e04?utm_campaign=1055&utm_source=git)** | 300 Colonial Center Parkway, Lake Mary, FL, 32746, US | On Site | Aug 05 |
+| ↳ | **[2026 BNY Summer Internship Program - Risk & Compliance (Pittsburgh, PA)](https://jobright.ai/jobs/info/68921ab7f47efe2113959e01?utm_campaign=1055&utm_source=git)** | 500 Ross Street, Pittsburgh, PA, 15262, US | On Site | Aug 05 |
+| ↳ | **[2026 BNY Summer Internship Program - Risk & Compliance (New York, NY)](https://jobright.ai/jobs/info/68921aaf4c7e851b90ad3395?utm_campaign=1055&utm_source=git)** | 240 Greenwich Street, New York, NY, 10286, US | On Site | Aug 05 |
 | **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Legal](https://jobright.ai/jobs/info/68920110f5ee707a15dc2bec?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Aug 05 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/6891d7a5f5ee707a15dc2443?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Aug 05 |
 | **[The Signals Network](https://thesignalsnetwork.org)** | **[Legal Externship](https://jobright.ai/jobs/info/6891b8664c7e851b90ad1c65?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 05 |
@@ -80,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Jimerson Birr](https://www.jimersonfirm.com)** | **[Collections Intern](https://jobright.ai/jobs/info/6890e0054c7e851b90aca49e?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Aug 04 |
 | **[National Futures Association](https://www.nfa.futures.org/)** | **[Summer Regulatory Compliance Intern](https://jobright.ai/jobs/info/6890dfbbf47efe211395102b?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 04 |
 | **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[Ethics and Compliance Intern- Summer/Fall 2025](https://jobright.ai/jobs/info/6890d2e24c7e851b90ac9e3c?utm_campaign=1055&utm_source=git)** | Greater Roanoke Area | On Site | Aug 04 |
-| **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 2L Summer Associate - New York](https://jobright.ai/jobs/info/67f8020fe57ed6c092d01340?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 04 |
 | **[Haynes and Boone, LLP](http://www.haynesboone.com)** | **[Business Transaction Intern](https://jobright.ai/jobs/info/6890cad94c7e851b90ac99c7?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Aug 04 |
 | **[Cornerstone Abstract & Settlement](http://www.cornerstonesettlement.com)** | **[Title Agent Assistant / Apprentice](https://jobright.ai/jobs/info/6890ada54c7e851b90ac8abd?utm_campaign=1055&utm_source=git)** | Wellsboro, PA | On Site | Aug 04 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/68906ba1f5ee707a15db6b2a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 04 |
@@ -115,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal](https://jobright.ai/jobs/info/688d29c43a30793eb9648f60?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Aug 01 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/688dc3096a4aac5783cd720a?utm_campaign=1055&utm_source=git)** | Bowling Green, KY | On Site | Aug 01 |
 | **[MannKind Corporation](http://mannkindcorp.com)** | **[Legal Externship - Fall 2025](https://jobright.ai/jobs/info/681c6f427f82d9187080505d?utm_campaign=1055&utm_source=git)** | Westlake Village, CA | On Site | Aug 01 |
-| **[Hightower, Stratton, Novigrod & Kantor](https://www.hightowerlaw.net/)** | **[Law Clerk](https://jobright.ai/jobs/info/6818dbec10caaee8065589d9?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL | On Site | Aug 01 |
 | **[Cornerstone Abstract & Settlement](http://www.cornerstonesettlement.com)** | **[Title Agent Assistant / Apprentice](https://jobright.ai/jobs/info/688e0f21e5cead4afd45b9a0?utm_campaign=1055&utm_source=git)** | Wellsboro, PA | On Site | Aug 01 |
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd56fcf425589cee18a0c9?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 01 |
 | **[Wiss](http://www.wiss.com)** | **[Intern, Litigation Support (Fall 2025)](https://jobright.ai/jobs/info/688cda193a30793eb96468b5?utm_campaign=1055&utm_source=git)** | Florham Park, NJ | On Site | Aug 01 |
@@ -154,8 +158,4 @@ Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_camp
 | ↳ | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819027acf9261d3a8bf00a4?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[K&L Gates](http://www.klgates.com/)** | **[National Security and International Trade Law Clerk](https://jobright.ai/jobs/info/6818ffc75776c6c4efe60fd0?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jul 31 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seeker Legal Services Intern (unpaid)](https://jobright.ai/jobs/info/688b9f37906ac06e1d1ccd03?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
-| ↳ | **[Immigration Legal Team Intern (unpaid)](https://jobright.ai/jobs/info/688ba3281808534a89cb4960?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Legal Associate](https://jobright.ai/jobs/info/688b7ccd1808534a89cb3697?utm_campaign=1055&utm_source=git)** | GA Atlanta | On Site | Jul 31 |
-| **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3e11?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Jul 31 |
-| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819027acf9261d3a8bf0083?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
