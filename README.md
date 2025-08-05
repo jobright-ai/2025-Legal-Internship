@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68915062f47efe211395442c?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Aug 04 |
+| **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern - Part- Time Claims Coordinator](https://jobright.ai/jobs/info/68914c20f47efe2113954338?utm_campaign=1055&utm_source=git)** | Midlothian, TX | On Site | Aug 04 |
 | **[Bremer Whyte Brown & O'Meara, LLP](https://bremerwhyte.com/)** | **[Diversity Fellowship (Rising 2L Law Students Eligible to Apply)](https://jobright.ai/jobs/info/68913e2a4c7e851b90acd315?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | On Site | Aug 04 |
 | **[Torres & Zheng at Law, P.C.](www.torresbusinesslaw.com)** | **[NYC Law Firm - Legal Intern](https://jobright.ai/jobs/info/68913b15f5ee707a15dbd1d0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 04 |
 | **[Bremer Whyte Brown & O'Meara, LLP](https://bremerwhyte.com/)** | **[Diversity Fellowship - Summer 2026 Law Clerk (2L Students Eligible to Apply)](https://jobright.ai/jobs/info/68913972f47efe2113953a9b?utm_campaign=1055&utm_source=git)** | Newport Beach, CA | On Site | Aug 04 |
@@ -75,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Cornerstone Abstract & Settlement](http://www.cornerstonesettlement.com)** | **[Title Agent Assistant / Apprentice](https://jobright.ai/jobs/info/6890ada54c7e851b90ac8abd?utm_campaign=1055&utm_source=git)** | Wellsboro, PA | On Site | Aug 04 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/68906ba1f5ee707a15db6b2a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 04 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Intern Posting - Legal Intern](https://jobright.ai/jobs/info/6890f915f47efe2113951a73?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 03 |
+| **[King County, WA](http://kingcounty.gov/)** | **[Public Defense Legal Intern, 10 Week Summer 2026, (Rule 9 Licensed)](https://jobright.ai/jobs/info/68915712f47efe2113954621?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Aug 03 |
 | **[Zumpano Castro, PLLC](https://www.zumpanocastro.com/)** | **[Part-Time Litigation Law Clerk](https://jobright.ai/jobs/info/688fb608cdbd821a36645e71?utm_campaign=1055&utm_source=git)** | Coral Gables, FL | On Site | Aug 03 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Law Student Internships](https://jobright.ai/jobs/info/688f5c1fe5cead4afd460aa5?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Aug 03 |
 | **[The University of New Mexico](http://unm.edu)** | **[Legal Assistant](https://jobright.ai/jobs/info/688f37e56a4aac5783cdd06a?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | On Site | Aug 03 |
@@ -157,7 +160,4 @@ Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_camp
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/686c298835584b65420c14f1?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jul 31 |
 | ↳ | **[Charlotte Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68648a7584153b63ff401cdd?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Jul 31 |
 | ↳ | **[Cincinnati Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/6865f41a7166d16714b68ddd?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 31 |
-| **[NYC Department of Social Services](https://www.nyc.gov/site/dss/index.page)** | **[ATTORNEY INTERNE](https://jobright.ai/jobs/info/688b229a9f961617fe222046?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Jul 30 |
-| **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Asylum Seeker Legal Services Intern (unpaid)](https://jobright.ai/jobs/info/689048a64c7e851b90ac5ca2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 30 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Spring 2026 - CAFL Conflicts Springfield](https://jobright.ai/jobs/info/688af45109808a6103e52cd6?utm_campaign=1055&utm_source=git)** | Springfield, MA | Remote | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
