@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Risk Solutions Intern](https://jobright.ai/jobs/info/6892aad5f47efe211395e221?utm_campaign=1055&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 05 |
+| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Risk & Compliance (New York, NY)](https://jobright.ai/jobs/info/6892a8944c7e851b90ad764a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 05 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/68929d034c7e851b90ad70f9?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 05 |
+| **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern - Part- Time Claims Coordinator](https://jobright.ai/jobs/info/68929c184c7e851b90ad708f?utm_campaign=1055&utm_source=git)** | Midlothian, TX | On Site | Aug 05 |
 | **[Hooks Meng & Clement, PLLC.](http://www.hmc.law)** | **[Law Clerk](https://jobright.ai/jobs/info/689292e54c7e851b90ad6cfc?utm_campaign=1055&utm_source=git)** | Carson City, NV | On Site | Aug 05 |
 | **[trabajito](https://www.trabajito.com.bo/)** | **[Pasante Legal - Scz](https://jobright.ai/jobs/info/6892883d4c7e851b90ad6955?utm_campaign=1055&utm_source=git)** | Santa Cruz, CA | On Site | Aug 05 |
 | **[Argo Group](http://www.argogroup.com)** | **[Legal Extern, Fall 2025](https://jobright.ai/jobs/info/689287ef4c7e851b90ad68d6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 05 |
@@ -102,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[National Futures Association](https://www.nfa.futures.org/)** | **[Summer Regulatory Compliance Intern](https://jobright.ai/jobs/info/6890dfbbf47efe211395102b?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 04 |
 | **[Haynes and Boone, LLP](http://www.haynesboone.com)** | **[Business Transaction Intern](https://jobright.ai/jobs/info/6890cad94c7e851b90ac99c7?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Aug 04 |
 | **[Cornerstone Abstract & Settlement](http://www.cornerstonesettlement.com)** | **[Title Agent Assistant / Apprentice](https://jobright.ai/jobs/info/6890ada54c7e851b90ac8abd?utm_campaign=1055&utm_source=git)** | Wellsboro, PA | On Site | Aug 04 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/68906ba1f5ee707a15db6b2a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 04 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Intern Posting - Legal Intern](https://jobright.ai/jobs/info/6890f915f47efe2113951a73?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 03 |
 | **[King County, WA](http://kingcounty.gov/)** | **[Public Defense Legal Intern, 10 Week Summer 2026, (Rule 9 Licensed)](https://jobright.ai/jobs/info/68915712f47efe2113954621?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Aug 03 |
 | **[Zumpano Castro, PLLC](https://www.zumpanocastro.com/)** | **[Part-Time Litigation Law Clerk](https://jobright.ai/jobs/info/688fb608cdbd821a36645e71?utm_campaign=1055&utm_source=git)** | Coral Gables, FL | On Site | Aug 03 |
@@ -155,7 +158,4 @@ Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_camp
 | **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/6862e89fbea298b4eb60a0d4?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 31 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern – Spring 2026](https://jobright.ai/jobs/info/688c1658906ac06e1d1d09e1?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 31 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Department Governance Intern](https://jobright.ai/jobs/info/688be6b53a30793eb963e9f9?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern – Spring 2026](https://jobright.ai/jobs/info/688be436906ac06e1d1cf4b7?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Jul 31 |
-| ↳ | **[Legal Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688be37d906ac06e1d1cf37e?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Jul 31 |
-| ↳ | **[Legal Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688be3183a30793eb963e7ab?utm_campaign=1055&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
