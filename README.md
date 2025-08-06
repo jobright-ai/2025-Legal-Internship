@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Burns White LLC](https://burnswhite.com/)** | **[3L Part time Law Clerk – Philadelphia, PA (West Conshohocken)](https://jobright.ai/jobs/info/6893c2244c7e851b90ae030a?utm_campaign=1055&utm_source=git)** | Conshohocken, PA | On Site | Aug 06 |
+| **[Kroll Technologies](https://www.linkedin.com/company/4094885)** | **[Intern, Legal](https://jobright.ai/jobs/info/6893bdd8a9199876488dfbfa?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 06 |
+| **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[Corporate Paralegal Apprenticeship](https://jobright.ai/jobs/info/6893b8384c7e851b90adfcd0?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Aug 06 |
+| **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Compliance - Intern](https://jobright.ai/jobs/info/6893b807f47efe21139665a8?utm_campaign=1055&utm_source=git)** | Abilene, TX | On Site | Aug 06 |
+| **[Amadeus](http://www.amadeus.com)** | **[Legal Extern](https://jobright.ai/jobs/info/6893b440a9199876488df762?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 06 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6893b3d54c7e851b90adfa9e?utm_campaign=1055&utm_source=git)** | Elizabethtown, KY | On Site | Aug 06 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Paralegal Intern (Pre-Law) Fall/Winter 2025/26](https://jobright.ai/jobs/info/6893aa144c7e851b90adf4f8?utm_campaign=1055&utm_source=git)** | Wickliffe, OH | On Site | Aug 06 |
 | **[VideoLabs, Inc.](https://videolabsinc.com/)** | **[Intern, Intellectual Property Research & Engineering](https://jobright.ai/jobs/info/6893a665a9199876488def00?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Amadeus](http://www.amadeus.com)** | **[Legal Extern](https://jobright.ai/jobs/info/6893a528f47efe211396599e?utm_campaign=1055&utm_source=git)** | New York, New York | Remote | Aug 06 |
@@ -103,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Legal](https://jobright.ai/jobs/info/68920110f5ee707a15dc2bec?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Aug 05 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[Houston Office - 2026 2L Transactions Summer Associate](https://jobright.ai/jobs/info/6805969b10a8f21e39bb6053?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 05 |
 | **[Bremer Whyte Brown & O'Meara, LLP](https://bremerwhyte.com/)** | **[Diversity Fellowship - Summer 2026 Law Clerk (2L Students Eligible to Apply)](https://jobright.ai/jobs/info/68913e2a4c7e851b90acd315?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | On Site | Aug 05 |
-| **[Fairview LLC](https://fairviewinvest.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6893092cf47efe21139627b8?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Aug 05 |
 | **[Sidley Austin LLP](http://www.sidley.com)** | **[Legal Secretary Trainee](https://jobright.ai/jobs/info/683cea8d643bb55efe92b0b4?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 05 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Risk Management Internship](https://jobright.ai/jobs/info/687554505cebcd1dd51bf99d?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Aug 05 |
 | **[The Signals Network](https://thesignalsnetwork.org)** | **[Legal Externship](https://jobright.ai/jobs/info/6891b8664c7e851b90ad1c65?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2025 Liberty and National Security (LNS) Legal Internship, NY](https://jobright.ai/jobs/info/688d386b27f9022553c0a1c1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Kutak Rock](http://www.kutakrock.com)** | **[2026 Summer Associate](https://jobright.ai/jobs/info/688d348d27f9022553c09ff5?utm_campaign=1055&utm_source=git)** | Little Rock Metro | On Site | Aug 01 |
 | ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/688d31633a30793eb964958b?utm_campaign=1055&utm_source=git)** | Rogers, AR | On Site | Aug 01 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal](https://jobright.ai/jobs/info/688d29c43a30793eb9648f60?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Aug 01 |
-| **[MannKind Corporation](http://mannkindcorp.com)** | **[Legal Externship - Fall 2025](https://jobright.ai/jobs/info/681c6f427f82d9187080505d?utm_campaign=1055&utm_source=git)** | Westlake Village, CA | On Site | Aug 01 |
-| **[Cornerstone Abstract & Settlement](http://www.cornerstonesettlement.com)** | **[Title Agent Assistant / Apprentice](https://jobright.ai/jobs/info/688e0f21e5cead4afd45b9a0?utm_campaign=1055&utm_source=git)** | Wellsboro, PA | On Site | Aug 01 |
-| **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd56fcf425589cee18a0c9?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 01 |
-| **[Wiss](http://www.wiss.com)** | **[Intern, Litigation Support (Fall 2025)](https://jobright.ai/jobs/info/688cda193a30793eb96468b5?utm_campaign=1055&utm_source=git)** | Florham Park, NJ | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
