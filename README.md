@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern](https://jobright.ai/jobs/info/6892ccc1f47efe211395f334?utm_campaign=1055&utm_source=git)** | West Valley City, UT | On Site | Aug 05 |
+| **[Parold Entertainment Inc.](http://parold.com)** | **[Administrative/Copyright/Publishing Intern](https://jobright.ai/jobs/info/6892bd0a4c7e851b90ad7f6a?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Aug 05 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Risk Solutions Intern](https://jobright.ai/jobs/info/6892aad5f47efe211395e221?utm_campaign=1055&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 05 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Risk & Compliance (New York, NY)](https://jobright.ai/jobs/info/6892a8944c7e851b90ad764a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 05 |
+| **[ConocoPhillips](http://www.conocophillips.com)** | **[Intern, Land Negotiator 2026](https://jobright.ai/jobs/info/6892ca414c7e851b90ad8780?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 05 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/68929d034c7e851b90ad70f9?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern - Part- Time Claims Coordinator](https://jobright.ai/jobs/info/68929c184c7e851b90ad708f?utm_campaign=1055&utm_source=git)** | Midlothian, TX | On Site | Aug 05 |
 | **[Hooks Meng & Clement, PLLC.](http://www.hmc.law)** | **[Law Clerk](https://jobright.ai/jobs/info/689292e54c7e851b90ad6cfc?utm_campaign=1055&utm_source=git)** | Carson City, NV | On Site | Aug 05 |
@@ -66,6 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Argo Group](http://www.argogroup.com)** | **[Legal Extern, Fall 2025](https://jobright.ai/jobs/info/689287ef4c7e851b90ad68d6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Edwards Lifesciences](http://www.edwards.com)** | **[Clinical & Regulatory Internship, Summer 2026](https://jobright.ai/jobs/info/6892879ff47efe211395d278?utm_campaign=1055&utm_source=git)** | USA - California – Irvine | On Site | Aug 05 |
 | ↳ | **[Clinical & Regulatory Internship, Summer 2026](https://jobright.ai/jobs/info/689287304c7e851b90ad67d2?utm_campaign=1055&utm_source=git)** | USA-Illinois -Naperville | On Site | Aug 05 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/688dc3096a4aac5783cd720a?utm_campaign=1055&utm_source=git)** | Bowling Green, KY | On Site | Aug 05 |
+| ↳ | **[Law Clerk](https://jobright.ai/jobs/info/688d2ee03a30793eb964944c?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Aug 05 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Risk & Compliance (Pittsburgh, PA)](https://jobright.ai/jobs/info/689273a6f47efe211395c811?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Student Research Assistant for Law](https://jobright.ai/jobs/info/68926a9d4c7e851b90ad57e7?utm_campaign=1055&utm_source=git)** | Lynchburg, VA | On Site | Aug 05 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Risk & Compliance (Lake Mary, FL)](https://jobright.ai/jobs/info/68926689f47efe211395c0de?utm_campaign=1055&utm_source=git)** | Lake Mary, FL | On Site | Aug 05 |
@@ -133,9 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2025 Liberty and National Security (LNS) Legal Internship, NY](https://jobright.ai/jobs/info/688d386b27f9022553c0a1c1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Kutak Rock](http://www.kutakrock.com)** | **[2026 Summer Associate](https://jobright.ai/jobs/info/688d348d27f9022553c09ff5?utm_campaign=1055&utm_source=git)** | Little Rock Metro | On Site | Aug 01 |
 | ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/688d31633a30793eb964958b?utm_campaign=1055&utm_source=git)** | Rogers, AR | On Site | Aug 01 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/688d2ee03a30793eb964944c?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Aug 01 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal](https://jobright.ai/jobs/info/688d29c43a30793eb9648f60?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Aug 01 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/688dc3096a4aac5783cd720a?utm_campaign=1055&utm_source=git)** | Bowling Green, KY | On Site | Aug 01 |
 | **[MannKind Corporation](http://mannkindcorp.com)** | **[Legal Externship - Fall 2025](https://jobright.ai/jobs/info/681c6f427f82d9187080505d?utm_campaign=1055&utm_source=git)** | Westlake Village, CA | On Site | Aug 01 |
 | **[Cornerstone Abstract & Settlement](http://www.cornerstonesettlement.com)** | **[Title Agent Assistant / Apprentice](https://jobright.ai/jobs/info/688e0f21e5cead4afd45b9a0?utm_campaign=1055&utm_source=git)** | Wellsboro, PA | On Site | Aug 01 |
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd56fcf425589cee18a0c9?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 01 |
@@ -154,8 +157,5 @@ Job ID : 261486](https://jobright.ai/jobs/info/688c88c31808534a89cbc871?utm_camp
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/6888eb4109808a6103e43732?utm_campaign=1055&utm_source=git)** | Catlettsburg, KY | On Site | Jul 31 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Legal Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688d9f6fcdbd821a3663d012?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Jul 31 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Vera Louisiana - Law and Policy Intern](https://jobright.ai/jobs/info/688dad1f6a4aac5783cd5cae?utm_campaign=1055&utm_source=git)** | New Orleans, LA | Hybrid | Jul 31 |
-| **[UnCommon Law](https://www.uncommonlaw.org)** | **[Legal Internship (Fall and Spring)](https://jobright.ai/jobs/info/688c1f5b3a30793eb9640258?utm_campaign=1055&utm_source=git)** | Oakland, California, United States | Hybrid | Jul 31 |
-| **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/6862e89fbea298b4eb60a0d4?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 31 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern – Spring 2026](https://jobright.ai/jobs/info/688c1658906ac06e1d1d09e1?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 31 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Department Governance Intern](https://jobright.ai/jobs/info/688be6b53a30793eb963e9f9?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 31 |
+| **[Fredrikson & Byron, P.A.](http://www.fredlaw.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/6892ce8a4c7e851b90ad8d17?utm_campaign=1055&utm_source=git)** | Mankato, MN | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
