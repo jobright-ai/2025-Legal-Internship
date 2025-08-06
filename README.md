@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/689366e8f47efe2113963eca?utm_campaign=1055&utm_source=git)** | Hazard, KY | On Site | Aug 06 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Legal Extern 2025](https://jobright.ai/jobs/info/68845b09b651c92cb78a72e3?utm_campaign=1055&utm_source=git)** | Frisco, TX | On Site | Aug 06 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Fall 2025–Spring 2026 Student Law Clerk – Immigration Hub (Minneapolis, MMLA)](https://jobright.ai/jobs/info/68933a22f47efe21139633bc?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 06 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Risk & Compliance (Lake Mary, FL)](https://jobright.ai/jobs/info/68933452a9199876488dc64a?utm_campaign=1055&utm_source=git)** | Lake Mary, FL | On Site | Aug 06 |
+| **[Shankar Ninan & Co.](http://shankarninan.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68935501a9199876488dcdeb?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 06 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern](https://jobright.ai/jobs/info/6892ccc1f47efe211395f334?utm_campaign=1055&utm_source=git)** | West Valley City, UT | On Site | Aug 05 |
 | **[Parold Entertainment Inc.](http://parold.com)** | **[Administrative/Copyright/Publishing Intern](https://jobright.ai/jobs/info/6892bd0a4c7e851b90ad7f6a?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Aug 05 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Risk Solutions Intern](https://jobright.ai/jobs/info/6892aad5f47efe211395e221?utm_campaign=1055&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 05 |
@@ -110,7 +113,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Diversity Fellowship - Summer 2026 Law Clerk (2L Students Eligible to Apply)](https://jobright.ai/jobs/info/68913559f5ee707a15dbcf33?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 04 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Asset Management Compliance, Risk & Business Operations Summer 2026 Internship](https://jobright.ai/jobs/info/689119d0f47efe2113952b10?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Aug 04 |
 | ↳ | **[Asset Management Compliance, Risk & Business Operations Summer 2026 Internship](https://jobright.ai/jobs/info/6891191a4c7e851b90acc03d?utm_campaign=1055&utm_source=git)** | Merrimack, NH | Hybrid | Aug 04 |
-| **[Forbes Barrentine Law PLLC](https://forbesbarrentinelaw.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6892f6ecf5ee707a15dcaa1d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Aug 04 |
 | **[CoxHealth](https://www.coxhealth.com/)** | **[Coding Quality Team Lead - Audit and Compliance - Internal Only](https://jobright.ai/jobs/info/68911187f5ee707a15dbbe2c?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Aug 04 |
 | **[Jimerson Birr](https://www.jimersonfirm.com)** | **[Collections Intern](https://jobright.ai/jobs/info/6891065af47efe2113951f3c?utm_campaign=1055&utm_source=git)** | Jacksonville, Florida | On Site | Aug 04 |
 | **[JETZY](http://jetzyapp.com)** | **[Law Intern](https://jobright.ai/jobs/info/6890f7e24c7e851b90acaebf?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Aug 04 |
@@ -127,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[The University of New Mexico](http://unm.edu)** | **[Legal Assistant](https://jobright.ai/jobs/info/688f37e56a4aac5783cdd06a?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | On Site | Aug 03 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/688f2d2ae5cead4afd46073d?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Aug 03 |
 | **[TruStage](https://www.trustage.com/)** | **[Legal Research Clerk - Law Students (Hybrid)](https://jobright.ai/jobs/info/68749c9aae2f413e4a59dfe5?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Aug 02 |
-| **[Sepulveda Sanchez Accident Lawyers](https://sepulvedalawgroup.com)** | **[Law Clerk - 25hrs/wk Learn Discovery in a Personal Injury Law Firm (In office)](https://jobright.ai/jobs/info/688ea227e5cead4afd45cff3?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 02 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f08a?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Aug 02 |
 | **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Settlement Intern](https://jobright.ai/jobs/info/685955304fdc6f5c0b26d6b5?utm_campaign=1055&utm_source=git)** | Lancaster, PA | On Site | Aug 02 |
 | **[County of Orange](https://ocgov.com/)** | **[Legal Secretary Trainee](https://jobright.ai/jobs/info/688e4406cdbd821a366410d7?utm_campaign=1055&utm_source=git)** | Santa Ana, CA | On Site | Aug 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Harris Williams](http://www.harriswilliams.com)** | **[2026 M&A Summer Associate](https://jobright.ai/jobs/info/688cc43a1808534a89cbeac7?utm_campaign=1055&utm_source=git)** | VA - Richmond (23219) | On Site | Aug 01 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c4a3540b75ccc99fad2899?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Aug 01 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819087a549ca8705983ecc0?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Aug 01 |
-| **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Fall 2025](https://jobright.ai/jobs/info/68190da131c47f451c460eb4?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
