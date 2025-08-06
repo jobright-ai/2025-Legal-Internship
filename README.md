@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Paralegal Intern (Pre-Law) Fall/Winter 2025/26](https://jobright.ai/jobs/info/6893aa144c7e851b90adf4f8?utm_campaign=1055&utm_source=git)** | Wickliffe, OH | On Site | Aug 06 |
+| **[VideoLabs, Inc.](https://videolabsinc.com/)** | **[Intern, Intellectual Property Research & Engineering](https://jobright.ai/jobs/info/6893a665a9199876488def00?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 06 |
+| **[Amadeus](http://www.amadeus.com)** | **[Legal Extern](https://jobright.ai/jobs/info/6893a528f47efe211396599e?utm_campaign=1055&utm_source=git)** | New York, New York | Remote | Aug 06 |
+| **[VideoLabs, Inc.](https://videolabsinc.com/)** | **[Intern, Intellectual Property Research & Engineering](https://jobright.ai/jobs/info/6893a4974c7e851b90adef5f?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | Remote | Aug 06 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/689366e8f47efe2113963eca?utm_campaign=1055&utm_source=git)** | Hazard, KY | On Site | Aug 06 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Legal Extern 2025](https://jobright.ai/jobs/info/68845b09b651c92cb78a72e3?utm_campaign=1055&utm_source=git)** | Frisco, TX | On Site | Aug 06 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Fall 2025–Spring 2026 Student Law Clerk – Immigration Hub (Minneapolis, MMLA)](https://jobright.ai/jobs/info/68933a22f47efe21139633bc?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 06 |
@@ -82,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[United Woundcare Institute](http://www.unitedwounds.org)** | **[Legal Intern](https://jobright.ai/jobs/info/6892da35f5ee707a15dc9405?utm_campaign=1055&utm_source=git)** | Naperville, IL | On Site | Aug 05 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Student Research Assistant for Law](https://jobright.ai/jobs/info/68926a9d4c7e851b90ad57e7?utm_campaign=1055&utm_source=git)** | Lynchburg, VA | On Site | Aug 05 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Risk & Compliance (Lake Mary, FL)](https://jobright.ai/jobs/info/68926689f47efe211395c0de?utm_campaign=1055&utm_source=git)** | Lake Mary, FL | On Site | Aug 05 |
-| **[Bond, Schoeneck & King PLLC](https://www.bsk.com/)** | **[2026 Summer Law Clerk (multiple locations hiring)](https://jobright.ai/jobs/info/687693345cebcd1dd51ca274?utm_campaign=1055&utm_source=git)** | Rochester, New York Metropolitan Area | On Site | Aug 05 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[Intern-County Attorney](https://jobright.ai/jobs/info/68925edaf47efe211395bca2?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Aug 05 |
+| **[Bond, Schoeneck & King PLLC](https://www.bsk.com/)** | **[2026 Summer Law Clerk (2Ls)](https://jobright.ai/jobs/info/687693345cebcd1dd51ca274?utm_campaign=1055&utm_source=git)** | Rochester, New York Metropolitan Area | On Site | Aug 05 |
 | **[AspinRock](https://aspinrock.com)** | **[Regulatory Compliance Analyst Intern](https://jobright.ai/jobs/info/68924bddf47efe211395b233?utm_campaign=1055&utm_source=git)** | Triangle Area | On Site | Aug 05 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/68924772f47efe211395b083?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Legal](https://jobright.ai/jobs/info/68924264f47efe211395ae4f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Aug 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cornerstone Abstract & Settlement](http://www.cornerstonesettlement.com)** | **[Title Agent Assistant / Apprentice](https://jobright.ai/jobs/info/688e0f21e5cead4afd45b9a0?utm_campaign=1055&utm_source=git)** | Wellsboro, PA | On Site | Aug 01 |
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/67fd56fcf425589cee18a0c9?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 01 |
 | **[Wiss](http://www.wiss.com)** | **[Intern, Litigation Support (Fall 2025)](https://jobright.ai/jobs/info/688cda193a30793eb96468b5?utm_campaign=1055&utm_source=git)** | Florham Park, NJ | On Site | Aug 01 |
-| **[Keplr Vision](https://keplrvision.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/688ccbca27f9022553c06e44?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Aug 01 |
-| **[Harris Williams](http://www.harriswilliams.com)** | **[2026 M&A Summer Associate](https://jobright.ai/jobs/info/688cc43a1808534a89cbeac7?utm_campaign=1055&utm_source=git)** | VA - Richmond (23219) | On Site | Aug 01 |
-| **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c4a3540b75ccc99fad2899?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Aug 01 |
-| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 2L IP Litigation/Patent Prosecution Summer Associate (Class of 2027)](https://jobright.ai/jobs/info/6819087a549ca8705983ecc0?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
