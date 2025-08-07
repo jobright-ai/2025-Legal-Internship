@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harris County District Attorney's Office](https://www.harriscountyda.com/)** | **[Houston Law Students - Paid Internship](https://jobright.ai/jobs/info/6895144273b3a600fe884f53?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 07 |
+| **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Spring 2026 Pro Bono Scholars, Housing Practice](https://jobright.ai/jobs/info/689514414ed2ea559ca5346e?utm_campaign=1055&utm_source=git)** | Legal Services NYC | On Site | Aug 07 |
+| **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Risk & Compliance (Lake Mary, FL)](https://jobright.ai/jobs/info/6895141f8c6d6b44267773af?utm_campaign=1055&utm_source=git)** | Lake Mary, FL | On Site | Aug 07 |
+| **[Volvo Financial Services](http://www.vfsco.com)** | **[Intern: D&IT Compliance (Fall 2025)](https://jobright.ai/jobs/info/68950d1e73b3a600fe884ace?utm_campaign=1055&utm_source=git)** | Greensboro, NC | On Site | Aug 07 |
 | **[The University of Kansas](https://www.lsi.ku.edu)** | **[Contract Negotiations Intern](https://jobright.ai/jobs/info/6894ffb573b3a600fe8842d8?utm_campaign=1055&utm_source=git)** | Lawrence, KS | On Site | Aug 07 |
 | **[New York City Anti-Violence Project](https://avp.org/)** | **[Fall Legal Internship](https://jobright.ai/jobs/info/6894fb2c4ed2ea559ca522f8?utm_campaign=1055&utm_source=git)** | New York, New York, United States | Hybrid | Aug 07 |
 | **[The AES Corporation](http://www.aes.com)** | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894f73e4ed2ea559ca520ca?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Aug 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[King County, WA](http://kingcounty.gov/)** | **[Public Defense Legal Intern, 10 Week Summer 2026, (Rule 9 Licensed)](https://jobright.ai/jobs/info/6894417ef47efe211396af1e?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Aug 03 |
 | **[City of Fayetteville, North Carolina](http://www.FayettevilleNC.gov)** | **[Legal Intern –  City Attorney’s Office](https://jobright.ai/jobs/info/689433eff47efe211396a453?utm_campaign=1055&utm_source=git)** | Fayetteville, NC | On Site | Aug 03 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Intern Posting - Legal Intern](https://jobright.ai/jobs/info/6890f915f47efe2113951a73?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 03 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Fort Lauderdale)](https://jobright.ai/jobs/info/683a648d24b1d2d95fb5b3d5?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Aug 03 |
-| **[The State University of New York](http://www.suny.edu/)** | **[Law Student Internships](https://jobright.ai/jobs/info/688f5c1fe5cead4afd460aa5?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Aug 03 |
-| **[Mona Shah & Associates Global](http://www.mshahlaw.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6894af7b73b3a600fe88122f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 03 |
-| **[The University of New Mexico](http://unm.edu)** | **[Legal Assistant](https://jobright.ai/jobs/info/688f37e56a4aac5783cdd06a?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | On Site | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
