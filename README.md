@@ -57,18 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of Kansas](https://www.lsi.ku.edu)** | **[Contract Negotiations Intern](https://jobright.ai/jobs/info/6894ffb573b3a600fe8842d8?utm_campaign=1055&utm_source=git)** | Lawrence, KS | On Site | Aug 07 |
+| **[New York City Anti-Violence Project](https://avp.org/)** | **[Fall Legal Internship](https://jobright.ai/jobs/info/6894fb2c4ed2ea559ca522f8?utm_campaign=1055&utm_source=git)** | New York, New York, United States | Hybrid | Aug 07 |
+| **[The AES Corporation](http://www.aes.com)** | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894f73e4ed2ea559ca520ca?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Aug 07 |
+| **[Greines, Martin, Stein & Richland LLP (GMSR Appellate Lawyers)](http://gmsr.com)** | **[2026-2028 Appellate Fellowship](https://jobright.ai/jobs/info/6894f00c4ed2ea559ca51d91?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 07 |
+| **[Kisling, Nestico & Redick, LLC (KNR)](http://knrlegal.com)** | **[Law Clerk](https://jobright.ai/jobs/info/6894ed848c6d6b4426775b31?utm_campaign=1055&utm_source=git)** | Fairlawn, OH | On Site | Aug 07 |
+| ↳ | **[Law Clerk](https://jobright.ai/jobs/info/6894ed3073b3a600fe883637?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Aug 07 |
 | **[DesegregateCT](https://www.desegregatect.org/)** | **[Legal Fellow](https://jobright.ai/jobs/info/6894dfd073b3a600fe882ef5?utm_campaign=1055&utm_source=git)** | Connecticut, United States | Remote | Aug 07 |
 | **[The AES Corporation](http://www.aes.com)** | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894ccb38c6d6b442677474d?utm_campaign=1055&utm_source=git)** | US, San Diego, CA | Hybrid | Aug 07 |
 | ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894ccae4ed2ea559ca5094c?utm_campaign=1055&utm_source=git)** | US, Salt Lake City, UT | Hybrid | Aug 07 |
 | ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cc7873b3a600fe88240f?utm_campaign=1055&utm_source=git)** | US, Houston, TX | Hybrid | Aug 07 |
 | ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cc6f8c6d6b4426774705?utm_campaign=1055&utm_source=git)** | US, Indianapolis, IN | Hybrid | Aug 07 |
+| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cc5f8c6d6b44267746f6?utm_campaign=1055&utm_source=git)** | US, Arlington, VA | Hybrid | Aug 07 |
 | ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cbe58c6d6b4426774693?utm_campaign=1055&utm_source=git)** | US, Louisville, CO | Hybrid | Aug 07 |
-| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cbb24ed2ea559ca5086f?utm_campaign=1055&utm_source=git)** | US, Arlington, VA | Hybrid | Aug 07 |
 | **[Community Legal Aid](https://www.communitylegalaid.org/)** | **[Community Legal Aid Volunteer](https://jobright.ai/jobs/info/68947cd88c6d6b442677209b?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Aug 07 |
 | **[NYC Department of Social Services](https://www.nyc.gov/site/dss/index.page)** | **[ATTORNEY INTERNE](https://jobright.ai/jobs/info/689497d74ed2ea559ca4ecfa?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Aug 07 |
 | ↳ | **[ATTORNEY INTERNE](https://jobright.ai/jobs/info/689490f04ed2ea559ca4ea24?utm_campaign=1055&utm_source=git)** | Bronx, NY | Hybrid | Aug 07 |
 | **[Solano County](https://www.solanocounty.com)** | **[College Intern-Graduate Level (Juris Doctorate - J.D. only) (Law Clerk)](https://jobright.ai/jobs/info/689452404c7e851b90ae52ca?utm_campaign=1055&utm_source=git)** | Fairfield, CA | On Site | Aug 07 |
-| **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern - Part- Time Claims Coordinator](https://jobright.ai/jobs/info/6894460df47efe211396b3b7?utm_campaign=1055&utm_source=git)** | Midlothian, TX | On Site | Aug 06 |
 | **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Legal Processing Analyst (Student Worker) - Current Law School Students Only](https://jobright.ai/jobs/info/689493bd8c6d6b44267728d3?utm_campaign=1055&utm_source=git)** | Chula Vista, CA | On Site | Aug 06 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[IT Policy and Compliance Intern - IE](https://jobright.ai/jobs/info/6893f20df47efe2113967f92?utm_campaign=1055&utm_source=git)** | Harrisonburg, VA | On Site | Aug 06 |
 | **[Burns White LLC](https://burnswhite.com/)** | **[3L Part time Law Clerk – Philadelphia, PA (West Conshohocken)](https://jobright.ai/jobs/info/6893c2244c7e851b90ae030a?utm_campaign=1055&utm_source=git)** | Conshohocken, PA | On Site | Aug 06 |
@@ -139,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Jimerson Birr](https://www.jimersonfirm.com)** | **[Collections Intern](https://jobright.ai/jobs/info/6891065af47efe2113951f3c?utm_campaign=1055&utm_source=git)** | Jacksonville, Florida | On Site | Aug 04 |
 | **[JETZY](http://jetzyapp.com)** | **[Law Intern](https://jobright.ai/jobs/info/6890f7e24c7e851b90acaebf?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Aug 04 |
 | **[NEON](https://neonrated.com)** | **[Legal and Business Affairs Intern (Fall)](https://jobright.ai/jobs/info/68910f48f47efe211395266e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 04 |
+| **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/687b8825ed63844c944a8287?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Aug 04 |
 | **[National Futures Association](https://www.nfa.futures.org/)** | **[Summer Regulatory Compliance Intern](https://jobright.ai/jobs/info/6890eda64c7e851b90acaa98?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 04 |
 | **[Jimerson Birr](https://www.jimersonfirm.com)** | **[Collections Intern](https://jobright.ai/jobs/info/6890e0054c7e851b90aca49e?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Aug 04 |
 | **[National Futures Association](https://www.nfa.futures.org/)** | **[Summer Regulatory Compliance Intern](https://jobright.ai/jobs/info/6890dfbbf47efe211395102b?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The State University of New York](http://www.suny.edu/)** | **[Law Student Internships](https://jobright.ai/jobs/info/688f5c1fe5cead4afd460aa5?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Aug 03 |
 | **[Mona Shah & Associates Global](http://www.mshahlaw.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6894af7b73b3a600fe88122f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 03 |
 | **[The University of New Mexico](http://unm.edu)** | **[Legal Assistant](https://jobright.ai/jobs/info/688f37e56a4aac5783cdd06a?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | On Site | Aug 03 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/688f2d2ae5cead4afd46073d?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Aug 03 |
-| **[TruStage](https://www.trustage.com/)** | **[Legal Research Clerk - Law Students (Hybrid)](https://jobright.ai/jobs/info/68749c9aae2f413e4a59dfe5?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Aug 02 |
-| **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c49e97b3f159178cc1f08a?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Aug 02 |
-| **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Settlement Intern](https://jobright.ai/jobs/info/685955304fdc6f5c0b26d6b5?utm_campaign=1055&utm_source=git)** | Lancaster, PA | On Site | Aug 02 |
-| **[County of Orange](https://ocgov.com/)** | **[Legal Secretary Trainee](https://jobright.ai/jobs/info/688e4406cdbd821a366410d7?utm_campaign=1055&utm_source=git)** | Santa Ana, CA | On Site | Aug 02 |
-| **[Fenwick & West](http://www.fenwick.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/67c4ab04e8986607dd82f4a4?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Aug 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
