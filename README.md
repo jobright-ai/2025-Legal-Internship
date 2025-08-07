@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[IT Policy and Compliance Intern - IE](https://jobright.ai/jobs/info/6893f20df47efe2113967f92?utm_campaign=1055&utm_source=git)** | Harrisonburg, VA | On Site | Aug 06 |
 | **[Burns White LLC](https://burnswhite.com/)** | **[3L Part time Law Clerk – Philadelphia, PA (West Conshohocken)](https://jobright.ai/jobs/info/6893c2244c7e851b90ae030a?utm_campaign=1055&utm_source=git)** | Conshohocken, PA | On Site | Aug 06 |
 | **[Kroll Technologies](https://www.linkedin.com/company/4094885)** | **[Intern, Legal](https://jobright.ai/jobs/info/6893bdd8a9199876488dfbfa?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[Corporate Paralegal Apprenticeship](https://jobright.ai/jobs/info/6893b8384c7e851b90adfcd0?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Aug 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/6853de39dee22b2fb32812ba?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Aug 01 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2025 Liberty and National Security (LNS) Legal Internship, NY](https://jobright.ai/jobs/info/688d386b27f9022553c0a1c1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Kutak Rock](http://www.kutakrock.com)** | **[2026 Summer Associate](https://jobright.ai/jobs/info/688d348d27f9022553c09ff5?utm_campaign=1055&utm_source=git)** | Little Rock Metro | On Site | Aug 01 |
-| ↳ | **[2026 Summer Associate](https://jobright.ai/jobs/info/688d31633a30793eb964958b?utm_campaign=1055&utm_source=git)** | Rogers, AR | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
