@@ -73,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Spring 2026 Pro Bono Scholars, Housing Practice](https://jobright.ai/jobs/info/689514414ed2ea559ca5346e?utm_campaign=1055&utm_source=git)** | Legal Services NYC | On Site | Aug 07 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Risk & Compliance (Lake Mary, FL)](https://jobright.ai/jobs/info/6895141f8c6d6b44267773af?utm_campaign=1055&utm_source=git)** | Lake Mary, FL | On Site | Aug 07 |
 | **[Volvo Financial Services](http://www.vfsco.com)** | **[Intern: D&IT Compliance (Fall 2025)](https://jobright.ai/jobs/info/68950d1e73b3a600fe884ace?utm_campaign=1055&utm_source=git)** | Greensboro, NC | On Site | Aug 07 |
-| **[The University of Kansas](https://www.lsi.ku.edu)** | **[Contract Negotiations Intern](https://jobright.ai/jobs/info/6894ffb573b3a600fe8842d8?utm_campaign=1055&utm_source=git)** | Lawrence, KS | On Site | Aug 07 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Contract Negotiations Intern](https://jobright.ai/jobs/info/689583074ed2ea559ca5689e?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 07 |
 | **[New York City Anti-Violence Project](https://avp.org/)** | **[Fall Legal Internship](https://jobright.ai/jobs/info/6894fb2c4ed2ea559ca522f8?utm_campaign=1055&utm_source=git)** | New York, New York, United States | Hybrid | Aug 07 |
 | **[The AES Corporation](http://www.aes.com)** | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894f73e4ed2ea559ca520ca?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Aug 07 |
@@ -81,12 +80,12 @@ For a complete list, click the following sortable link below:
 | **[Kisling, Nestico & Redick, LLC (KNR)](http://knrlegal.com)** | **[Law Clerk](https://jobright.ai/jobs/info/6894ed848c6d6b4426775b31?utm_campaign=1055&utm_source=git)** | Fairlawn, OH | On Site | Aug 07 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/6894ed3073b3a600fe883637?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Aug 07 |
 | **[DesegregateCT](https://www.desegregatect.org/)** | **[Legal Fellow](https://jobright.ai/jobs/info/6894dfd073b3a600fe882ef5?utm_campaign=1055&utm_source=git)** | Connecticut, United States | Remote | Aug 07 |
-| **[The AES Corporation](http://www.aes.com)** | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cd214ed2ea559ca509f2?utm_campaign=1055&utm_source=git)** | US, Houston, TX | Hybrid | Aug 07 |
-| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894ccb38c6d6b442677474d?utm_campaign=1055&utm_source=git)** | US, San Diego, CA | Hybrid | Aug 07 |
-| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894ccae4ed2ea559ca5094c?utm_campaign=1055&utm_source=git)** | US, Salt Lake City, UT | Hybrid | Aug 07 |
+| **[The AES Corporation](http://www.aes.com)** | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894ccb38c6d6b442677474d?utm_campaign=1055&utm_source=git)** | US, San Diego, CA | Hybrid | Aug 07 |
+| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cc7873b3a600fe88240f?utm_campaign=1055&utm_source=git)** | US, Houston, TX | Hybrid | Aug 07 |
 | ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cc6f8c6d6b4426774705?utm_campaign=1055&utm_source=git)** | US, Indianapolis, IN | Hybrid | Aug 07 |
 | ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cc5f8c6d6b44267746f6?utm_campaign=1055&utm_source=git)** | US, Arlington, VA | Hybrid | Aug 07 |
-| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cbe58c6d6b4426774693?utm_campaign=1055&utm_source=git)** | US, Louisville, CO | Hybrid | Aug 07 |
+| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cbe673b3a600fe88239a?utm_campaign=1055&utm_source=git)** | US, Louisville, CO | Hybrid | Aug 07 |
+| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894ca3673b3a600fe882249?utm_campaign=1055&utm_source=git)** | US, Salt Lake City, UT | Hybrid | Aug 07 |
 | **[AFL](http://www.AFLglobal.com)** | **[International Trade Intern- Fall 2025](https://jobright.ai/jobs/info/683e0b6ea41241a3a99d532e?utm_campaign=1055&utm_source=git)** | Duncan, SC | On Site | Aug 07 |
 | **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/68783e99ae2f413e4a5c0bfb?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 07 |
 | ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6878450aae2f413e4a5c0e72?utm_campaign=1055&utm_source=git)** | Irvine, CA | Hybrid | Aug 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Diversity Fellowship - Summer 2026 Law Clerk (2L Students Eligible to Apply)](https://jobright.ai/jobs/info/68917c3b4c7e851b90acf038?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Aug 04 |
 | ↳ | **[Diversity Fellowship (Rising 2L Law Students Eligible to Apply)](https://jobright.ai/jobs/info/68913559f5ee707a15dbcf33?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 04 |
 | ↳ | **[Diversity Fellowship (Rising 2L Law Students Eligible to Apply)](https://jobright.ai/jobs/info/68913e2a4c7e851b90acd315?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | On Site | Aug 04 |
+| **[Fidelity Investments](https://www.fidelity.com)** | **[Asset Management Compliance, Risk & Business Operations Summer 2026 Internship](https://jobright.ai/jobs/info/689119d0f47efe2113952b10?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
