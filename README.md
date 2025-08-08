@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Philbrook Law Office](https://www.philbrook-law.com)** | **[Criminal Defense Legal Intern](https://jobright.ai/jobs/info/6895a7084ed2ea559ca58458?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Aug 08 |
 | **[Warshaw, DiCarlo & Poncia, P.C.](http://www.warshawdicarlo.com)** | **[Real Estate Law Clerk (Current Law Student)](https://jobright.ai/jobs/info/68956b7e73b3a600fe887428?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Aug 07 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2025 Legal Intern, Disability Rights Program](https://jobright.ai/jobs/info/6895687a73b3a600fe887312?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Aug 07 |
 | ↳ | **[Fall 2025 Legal Intern, Immigrants' Rights Project, SF](https://jobright.ai/jobs/info/689567db4ed2ea559ca5585c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Aug 07 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6895586a4ed2ea559ca55256?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Aug 07 |
 | **[ACLU](https://www.aclu.org/)** | **[Legal Intern, Immigrants' Rights Project](https://jobright.ai/jobs/info/68956af34ed2ea559ca5598e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern - College - Compliance Reliability & Protocols](https://jobright.ai/jobs/info/68954b4873b3a600fe8865f1?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Aug 07 |
+| **[iCross Capital](https://www.icrossfund.com)** | **[In house Immigration Attorney – EB-5 Fund Management](https://jobright.ai/jobs/info/689596a44ed2ea559ca573f6?utm_campaign=1055&utm_source=git)** | NYC Metro Area | On Site | Aug 07 |
 | **[Florida Atlantic University](http://www.fau.edu)** | **[Parealegal Intern](https://jobright.ai/jobs/info/689574dc73b3a600fe887afa?utm_campaign=1055&utm_source=git)** | Boca Raton, FL | On Site | Aug 07 |
 | **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern - Part- Time Claims Coordinator](https://jobright.ai/jobs/info/689539dd4ed2ea559ca543c6?utm_campaign=1055&utm_source=git)** | Midlothian, TX | On Site | Aug 07 |
 | **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Spring 2026 Pro Bono Scholars, Housing Practice](https://jobright.ai/jobs/info/68952a514ed2ea559ca53d43?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 07 |
@@ -81,10 +83,10 @@ For a complete list, click the following sortable link below:
 | **[DesegregateCT](https://www.desegregatect.org/)** | **[Legal Fellow](https://jobright.ai/jobs/info/6894dfd073b3a600fe882ef5?utm_campaign=1055&utm_source=git)** | Connecticut, United States | Remote | Aug 07 |
 | **[The AES Corporation](http://www.aes.com)** | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cd214ed2ea559ca509f2?utm_campaign=1055&utm_source=git)** | US, Houston, TX | Hybrid | Aug 07 |
 | ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894ccfb4ed2ea559ca509b6?utm_campaign=1055&utm_source=git)** | US, San Diego, CA | Hybrid | Aug 07 |
-| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894ccae4ed2ea559ca5094c?utm_campaign=1055&utm_source=git)** | US, Salt Lake City, UT | Hybrid | Aug 07 |
 | ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cc6f8c6d6b4426774705?utm_campaign=1055&utm_source=git)** | US, Indianapolis, IN | Hybrid | Aug 07 |
-| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cc5f8c6d6b44267746f6?utm_campaign=1055&utm_source=git)** | US, Arlington, VA | Hybrid | Aug 07 |
-| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cbe673b3a600fe88239a?utm_campaign=1055&utm_source=git)** | US, Louisville, CO | Hybrid | Aug 07 |
+| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cbe58c6d6b4426774693?utm_campaign=1055&utm_source=git)** | US, Louisville, CO | Hybrid | Aug 07 |
+| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cbb24ed2ea559ca5086f?utm_campaign=1055&utm_source=git)** | US, Arlington, VA | Hybrid | Aug 07 |
+| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894ca3673b3a600fe882249?utm_campaign=1055&utm_source=git)** | US, Salt Lake City, UT | Hybrid | Aug 07 |
 | **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/68783e99ae2f413e4a5c0bfb?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 07 |
 | ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6878450aae2f413e4a5c0e72?utm_campaign=1055&utm_source=git)** | Irvine, CA | Hybrid | Aug 07 |
 | **[Community Legal Aid](https://www.communitylegalaid.org/)** | **[Community Legal Aid Volunteer](https://jobright.ai/jobs/info/68947cd88c6d6b442677209b?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Aug 07 |
@@ -107,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Legal Extern 2025](https://jobright.ai/jobs/info/68845b09b651c92cb78a72e3?utm_campaign=1055&utm_source=git)** | Frisco, TX | On Site | Aug 06 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Fall 2025–Spring 2026 Student Law Clerk – Immigration Hub (Minneapolis, MMLA)](https://jobright.ai/jobs/info/68933a22f47efe21139633bc?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 06 |
 | **[The University of Alabama System](https://uasystem.edu/)** | **[2026 Summer Law Clerk - Tuscaloosa](https://jobright.ai/jobs/info/6894944173b3a600fe88061d?utm_campaign=1055&utm_source=git)** | Tuscaloosa, AL | On Site | Aug 06 |
-| **[Bond, Schoeneck & King PLLC](https://www.bsk.com/)** | **[2026 Summer Law Clerk (2Ls)](https://jobright.ai/jobs/info/687693345cebcd1dd51ca274?utm_campaign=1055&utm_source=git)** | Rochester, New York Metropolitan Area | On Site | Aug 06 |
 | **[Shankar Ninan Law Firm](http://shankarninan.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68935501a9199876488dcdeb?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 06 |
 | **[Sepulveda Sanchez Accident Lawyers](https://sepulvedalawgroup.com)** | **[Law Clerk - 25hrs/wk Learn Discovery in a Personal Injury Law Firm (In office)](https://jobright.ai/jobs/info/689455e5a9199876488e4f6d?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 05 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern](https://jobright.ai/jobs/info/6892ccc1f47efe211395f334?utm_campaign=1055&utm_source=git)** | West Valley City, UT | On Site | Aug 05 |
@@ -129,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[United Woundcare Institute](http://www.unitedwounds.org)** | **[Legal Intern](https://jobright.ai/jobs/info/6892da35f5ee707a15dc9405?utm_campaign=1055&utm_source=git)** | Naperville, IL | On Site | Aug 05 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Student Research Assistant for Law](https://jobright.ai/jobs/info/68926a9d4c7e851b90ad57e7?utm_campaign=1055&utm_source=git)** | Lynchburg, VA | On Site | Aug 05 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Risk & Compliance (Lake Mary, FL)](https://jobright.ai/jobs/info/68926689f47efe211395c0de?utm_campaign=1055&utm_source=git)** | Lake Mary, FL | On Site | Aug 05 |
+| **[Bond, Schoeneck & King PLLC](https://www.bsk.com/)** | **[2026 Summer Law Clerk (multiple locations hiring)](https://jobright.ai/jobs/info/687693345cebcd1dd51ca274?utm_campaign=1055&utm_source=git)** | Rochester, New York Metropolitan Area | On Site | Aug 05 |
 | **[AspinRock](https://aspinrock.com)** | **[Regulatory Compliance Analyst Intern](https://jobright.ai/jobs/info/68924bddf47efe211395b233?utm_campaign=1055&utm_source=git)** | Triangle Area | On Site | Aug 05 |
 | **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Legal](https://jobright.ai/jobs/info/68924264f47efe211395ae4f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Aug 05 |
 | **[Florida Atlantic University](http://www.fau.edu)** | **[Paralegal Intern](https://jobright.ai/jobs/info/689234f2f5ee707a15dc3c4d?utm_campaign=1055&utm_source=git)** | Boca Raton, FL | On Site | Aug 05 |
@@ -142,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney’s Office Fall 2025 Legal Internship](https://jobright.ai/jobs/info/67e6e9d124ddccaa0b571cd5?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Legal](https://jobright.ai/jobs/info/68920110f5ee707a15dc2bec?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Aug 05 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[Houston Office - 2026 2L Transactions Summer Associate](https://jobright.ai/jobs/info/6805969b10a8f21e39bb6053?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 05 |
-| **[Bremer Whyte Brown & O'Meara, LLP](https://bremerwhyte.com/)** | **[Diversity Fellowship - Summer 2026 Law Clerk (2L Students Eligible to Apply)](https://jobright.ai/jobs/info/68913e2a4c7e851b90acd315?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | On Site | Aug 05 |
 | **[Sidley Austin LLP](http://www.sidley.com)** | **[Legal Secretary Trainee](https://jobright.ai/jobs/info/683cea8d643bb55efe92b0b4?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 05 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Risk Management Internship](https://jobright.ai/jobs/info/687554505cebcd1dd51bf99d?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Aug 05 |
 | **[The Signals Network](https://thesignalsnetwork.org)** | **[Legal Externship](https://jobright.ai/jobs/info/6891b8664c7e851b90ad1c65?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 05 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Bremer Whyte Brown & O'Meara, LLP](https://bremerwhyte.com/)** | **[Diversity Fellowship - Summer 2026 Law Clerk (2L Students Eligible to Apply)](https://jobright.ai/jobs/info/68913972f47efe2113953a9b?utm_campaign=1055&utm_source=git)** | Newport Beach, CA | On Site | Aug 04 |
 | ↳ | **[Diversity Fellowship - Summer 2026 Law Clerk (2L Students Eligible to Apply)](https://jobright.ai/jobs/info/6891801ff5ee707a15dbf210?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Aug 04 |
 | ↳ | **[Diversity Fellowship - Summer 2026 Law Clerk (2L Students Eligible to Apply)](https://jobright.ai/jobs/info/68917c3b4c7e851b90acf038?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Aug 04 |
-| ↳ | **[Diversity Fellowship - Summer 2026 Law Clerk (2L Students Eligible to Apply)](https://jobright.ai/jobs/info/68913559f5ee707a15dbcf33?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 04 |
+| ↳ | **[Diversity Fellowship (Rising 2L Law Students Eligible to Apply)](https://jobright.ai/jobs/info/68913559f5ee707a15dbcf33?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 04 |
+| ↳ | **[Diversity Fellowship (Rising 2L Law Students Eligible to Apply)](https://jobright.ai/jobs/info/68913e2a4c7e851b90acd315?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | On Site | Aug 04 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Asset Management Compliance, Risk & Business Operations Summer 2026 Internship](https://jobright.ai/jobs/info/689119d0f47efe2113952b10?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Aug 04 |
-| ↳ | **[Asset Management Compliance, Risk & Business Operations Summer 2026 Internship](https://jobright.ai/jobs/info/6891191a4c7e851b90acc03d?utm_campaign=1055&utm_source=git)** | Merrimack, NH | Hybrid | Aug 04 |
-| **[CoxHealth](https://www.coxhealth.com/)** | **[Coding Quality Team Lead - Audit and Compliance - Internal Only](https://jobright.ai/jobs/info/68911187f5ee707a15dbbe2c?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
