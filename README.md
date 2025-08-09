@@ -89,12 +89,12 @@ For a complete list, click the following sortable link below:
 | **[Kisling, Nestico & Redick, LLC (KNR)](http://knrlegal.com)** | **[Law Clerk](https://jobright.ai/jobs/info/6894ed848c6d6b4426775b31?utm_campaign=1055&utm_source=git)** | Fairlawn, OH | On Site | Aug 07 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/6894ed3073b3a600fe883637?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Aug 07 |
 | **[DesegregateCT](https://www.desegregatect.org/)** | **[Legal Fellow](https://jobright.ai/jobs/info/6894dfd073b3a600fe882ef5?utm_campaign=1055&utm_source=git)** | Connecticut, United States | Remote | Aug 07 |
-| **[The AES Corporation](http://www.aes.com)** | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cd214ed2ea559ca509f2?utm_campaign=1055&utm_source=git)** | US, Houston, TX | Hybrid | Aug 07 |
-| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894ccfb4ed2ea559ca509b6?utm_campaign=1055&utm_source=git)** | US, San Diego, CA | Hybrid | Aug 07 |
+| **[The AES Corporation](http://www.aes.com)** | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894ccfb4ed2ea559ca509b6?utm_campaign=1055&utm_source=git)** | US, San Diego, CA | Hybrid | Aug 07 |
+| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cc7873b3a600fe88240f?utm_campaign=1055&utm_source=git)** | US, Houston, TX | Hybrid | Aug 07 |
+| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cc6f8c6d6b4426774705?utm_campaign=1055&utm_source=git)** | US, Indianapolis, IN | Hybrid | Aug 07 |
 | ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cbe58c6d6b4426774693?utm_campaign=1055&utm_source=git)** | US, Louisville, CO | Hybrid | Aug 07 |
 | ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cbb24ed2ea559ca5086f?utm_campaign=1055&utm_source=git)** | US, Arlington, VA | Hybrid | Aug 07 |
 | ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894ca3673b3a600fe882249?utm_campaign=1055&utm_source=git)** | US, Salt Lake City, UT | Hybrid | Aug 07 |
-| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894ca3173b3a600fe88223b?utm_campaign=1055&utm_source=git)** | US, Indianapolis, IN | Hybrid | Aug 07 |
 | **[Placer County](https://www.placer.ca.gov/)** | **[Civil Litigation Attorney](https://jobright.ai/jobs/info/689607db8c6d6b442677e732?utm_campaign=1055&utm_source=git)** | Auburn, CA | On Site | Aug 06 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[Intern-County Attorney](https://jobright.ai/jobs/info/689608a78c6d6b442677e7df?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Aug 05 |
 | **[Mona Shah & Associates Global](http://www.mshahlaw.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6894af7b73b3a600fe88122f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 03 |
