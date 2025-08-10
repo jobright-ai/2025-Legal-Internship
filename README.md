@@ -114,7 +114,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894ccfb4ed2ea559ca509b6?utm_campaign=1055&utm_source=git)** | US, San Diego, CA | Hybrid | Aug 07 |
 | ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894ccae4ed2ea559ca5094c?utm_campaign=1055&utm_source=git)** | US, Salt Lake City, UT | Hybrid | Aug 07 |
 | ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cc5f8c6d6b44267746f6?utm_campaign=1055&utm_source=git)** | US, Arlington, VA | Hybrid | Aug 07 |
-| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cbe673b3a600fe88239a?utm_campaign=1055&utm_source=git)** | US, Louisville, CO | Hybrid | Aug 07 |
+| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cbe58c6d6b4426774693?utm_campaign=1055&utm_source=git)** | US, Louisville, CO | Hybrid | Aug 07 |
 | ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894ca3173b3a600fe88223b?utm_campaign=1055&utm_source=git)** | US, Indianapolis, IN | Hybrid | Aug 07 |
 | **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/68783e99ae2f413e4a5c0bfb?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 07 |
 | ↳ | **[Summer Associate](https://jobright.ai/jobs/info/687843255cebcd1dd51d8c3a?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 07 |
@@ -136,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[VideoLabs, Inc.](https://videolabsinc.com/)** | **[Intern, Intellectual Property Research & Engineering](https://jobright.ai/jobs/info/6893a665a9199876488def00?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Amadeus](http://www.amadeus.com)** | **[Legal Extern](https://jobright.ai/jobs/info/6893a528f47efe211396599e?utm_campaign=1055&utm_source=git)** | New York, New York | Remote | Aug 06 |
 | **[VideoLabs, Inc.](https://videolabsinc.com/)** | **[Intern, Intellectual Property Research & Engineering](https://jobright.ai/jobs/info/6893a4974c7e851b90adef5f?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | Remote | Aug 06 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Compliance - Real Estate Lending)](https://jobright.ai/jobs/info/687701caae2f413e4a5b5ccb?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Aug 06 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/689366e8f47efe2113963eca?utm_campaign=1055&utm_source=git)** | Hazard, KY | On Site | Aug 06 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Legal Extern 2025](https://jobright.ai/jobs/info/68845b09b651c92cb78a72e3?utm_campaign=1055&utm_source=git)** | Frisco, TX | On Site | Aug 06 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Fall 2025–Spring 2026 Student Law Clerk – Immigration Hub (Minneapolis, MMLA)](https://jobright.ai/jobs/info/68933a22f47efe21139633bc?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/6892e99af5ee707a15dca1d2?utm_campaign=1055&utm_source=git)** | Murray, KY | On Site | Aug 05 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/6892e3fdf47efe21139606e2?utm_campaign=1055&utm_source=git)** | Richmond, KY | On Site | Aug 05 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Risk & Compliance (Pittsburgh, PA)](https://jobright.ai/jobs/info/689273a6f47efe211395c811?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
-| **[United Woundcare Institute](http://www.unitedwounds.org)** | **[Legal Intern](https://jobright.ai/jobs/info/6892da35f5ee707a15dc9405?utm_campaign=1055&utm_source=git)** | Naperville, IL | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
