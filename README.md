@@ -73,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Salt River Project](https://www.srpnet.com/)** | **[Legal Services College Intern](https://jobright.ai/jobs/info/6899cc325574fd6bc0c7e088?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Aug 11 |
 | **[Southern Utah University](http://www.suu.edu/)** | **[Compliance and Safety Intern](https://jobright.ai/jobs/info/6899b35883d13d1f5b6941ea?utm_campaign=1055&utm_source=git)** | Cedar City, UT | On Site | Aug 11 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Risk & Compliance (Lake Mary, FL)](https://jobright.ai/jobs/info/6899d31efaa4e875e8254268?utm_campaign=1055&utm_source=git)** | Lake Mary, FL | On Site | Aug 11 |
+| **[North Dakota Office of Attorney General](https://www.omb.nd.gov/team-nd-careers/career-openings)** | **[Law School Fellow](https://jobright.ai/jobs/info/689ad5ddfaa4e875e825cd87?utm_campaign=1055&utm_source=git)** | Bismarck, ND | On Site | Aug 10 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[SOS Temporary Law Clerk](https://jobright.ai/jobs/info/6898fa1d83d13d1f5b6912b1?utm_campaign=1055&utm_source=git)** | Lincoln, NE | On Site | Aug 10 |
 | **[Education Minnesota](https://educationminnesota.org)** | **[Law Clerk](https://jobright.ai/jobs/info/6898c9d3faa4e875e8250a36?utm_campaign=1055&utm_source=git)** | St Paul, MN | On Site | Aug 10 |
 | **[Medpace](http://www.medpace.com)** | **[Regulatory Research Fall 2025 Intern](https://jobright.ai/jobs/info/6799a5f27b45d044d3fd9e63?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 10 |
@@ -98,10 +99,10 @@ For a complete list, click the following sortable link below:
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Risk & Compliance (Lake Mary, FL)](https://jobright.ai/jobs/info/689852185574fd6bc0c7827f?utm_campaign=1055&utm_source=git)** | Lake Mary, FL | On Site | Aug 08 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68984c145574fd6bc0c77499?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Aug 08 |
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/68787169866a435525ab96d3?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 08 |
+| **[Ventra Health](https://ventrahealth.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/68982f9dfaa4e875e824b384?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 08 |
 | **[Amynta Group](https://www.amyntagroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6897b0488c6d6b44267907ed?utm_campaign=1055&utm_source=git)** | NY - Remote | Remote | Aug 08 |
 | **[Second Life](http://secondlife.ngo)** | **[Head of Legal Department Intern (Remote – USA Based)](https://jobright.ai/jobs/info/6897a98473b3a600fe89d500?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 08 |
-| **[Ventra Health](https://ventrahealth.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/6897a7591b9e81727f19ec1a?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 08 |
-| ↳ | **[Intern, Legal](https://jobright.ai/jobs/info/6897b2558c6d6b4426790b9a?utm_campaign=1055&utm_source=git)** | Remote Nationwide U.S.A. | Remote | Aug 08 |
+| **[Ventra Health](https://ventrahealth.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/6897b2558c6d6b4426790b9a?utm_campaign=1055&utm_source=git)** | Remote Nationwide U.S.A. | Remote | Aug 08 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2025 Reproductive Rights and Health Legal Intern](https://jobright.ai/jobs/info/68794e29ed63844c9449a80f?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Aug 08 |
 | ↳ | **[Fall 2025 – Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/68793a65ed63844c94499c05?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Aug 08 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[Silicon Valley Office - 2026 2L Litigation (IP) Summer Associate](https://jobright.ai/jobs/info/681c2f2df3956c2a2ce0d459?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Aug 08 |
@@ -129,12 +130,12 @@ For a complete list, click the following sortable link below:
 | **[Kisling, Nestico & Redick, LLC (KNR)](http://knrlegal.com)** | **[Law Clerk](https://jobright.ai/jobs/info/6897ab1073b3a600fe89d77d?utm_campaign=1055&utm_source=git)** | Columbus | On Site | Aug 07 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/6894ed848c6d6b4426775b31?utm_campaign=1055&utm_source=git)** | Fairlawn, OH | On Site | Aug 07 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/6894ed3073b3a600fe883637?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Aug 07 |
-| **[The AES Corporation](http://www.aes.com)** | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cd214ed2ea559ca509f2?utm_campaign=1055&utm_source=git)** | US, Houston, TX | Hybrid | Aug 07 |
-| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894ccfb4ed2ea559ca509b6?utm_campaign=1055&utm_source=git)** | US, San Diego, CA | Hybrid | Aug 07 |
+| **[The AES Corporation](http://www.aes.com)** | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894ccfb4ed2ea559ca509b6?utm_campaign=1055&utm_source=git)** | US, San Diego, CA | Hybrid | Aug 07 |
+| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894ccae4ed2ea559ca5094c?utm_campaign=1055&utm_source=git)** | US, Salt Lake City, UT | Hybrid | Aug 07 |
+| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cc7873b3a600fe88240f?utm_campaign=1055&utm_source=git)** | US, Houston, TX | Hybrid | Aug 07 |
 | ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cc6f8c6d6b4426774705?utm_campaign=1055&utm_source=git)** | US, Indianapolis, IN | Hybrid | Aug 07 |
-| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cbe673b3a600fe88239a?utm_campaign=1055&utm_source=git)** | US, Louisville, CO | Hybrid | Aug 07 |
-| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cbb24ed2ea559ca5086f?utm_campaign=1055&utm_source=git)** | US, Arlington, VA | Hybrid | Aug 07 |
-| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894ca3673b3a600fe882249?utm_campaign=1055&utm_source=git)** | US, Salt Lake City, UT | Hybrid | Aug 07 |
+| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cc5f8c6d6b44267746f6?utm_campaign=1055&utm_source=git)** | US, Arlington, VA | Hybrid | Aug 07 |
+| ↳ | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894cbe58c6d6b4426774693?utm_campaign=1055&utm_source=git)** | US, Louisville, CO | Hybrid | Aug 07 |
 | **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/68783e99ae2f413e4a5c0bfb?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 07 |
 | ↳ | **[Summer Associate](https://jobright.ai/jobs/info/687843255cebcd1dd51d8c3a?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 07 |
 | ↳ | **[Summer Associate](https://jobright.ai/jobs/info/6878450aae2f413e4a5c0e72?utm_campaign=1055&utm_source=git)** | Irvine, CA | Hybrid | Aug 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Compliance - Real Estate Lending)](https://jobright.ai/jobs/info/687701caae2f413e4a5b5ccb?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Aug 06 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/689366e8f47efe2113963eca?utm_campaign=1055&utm_source=git)** | Hazard, KY | On Site | Aug 06 |
 | **[The University of Alabama System](https://uasystem.edu/)** | **[2026 Summer Law Clerk - Tuscaloosa](https://jobright.ai/jobs/info/6894944173b3a600fe88061d?utm_campaign=1055&utm_source=git)** | Tuscaloosa, AL | On Site | Aug 06 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern](https://jobright.ai/jobs/info/6892ccc1f47efe211395f334?utm_campaign=1055&utm_source=git)** | West Valley City, UT | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
