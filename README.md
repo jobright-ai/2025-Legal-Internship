@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Faehner PLLC](https://faehner.law)** | **[Law Clerk](https://jobright.ai/jobs/info/689cf4f779a9f9666253c676?utm_campaign=1055&utm_source=git)** | Oldsmar, FL | Remote | Aug 13 |
+| **[Litson PLLC](https://www.litson.co)** | **[Law Clerk](https://jobright.ai/jobs/info/689cf15a79a9f9666253c565?utm_campaign=1055&utm_source=git)** | Knoxville, TN | Hybrid | Aug 13 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/689ce90579a9f9666253c132?utm_campaign=1055&utm_source=git)** | Hopkinsville, KY | On Site | Aug 13 |
 | **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern - Part- Time Claims Coordinator](https://jobright.ai/jobs/info/689ccdb383d13d1f5b6aab3f?utm_campaign=1055&utm_source=git)** | Midlothian, TX | On Site | Aug 13 |
 | **[Kennedys](http://kennedyslaw.com)** | **[Law Clerk](https://jobright.ai/jobs/info/689cc873faa4e875e826a778?utm_campaign=1055&utm_source=git)** | Wilmington, DE | Hybrid | Aug 13 |
@@ -73,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Advocates for Children of New York](http://www.advocatesforchildren.org)** | **[Summer Law Student Intern Program in Education Advocacy](https://jobright.ai/jobs/info/689bba6979a9f966625334a9?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Practical Law Capital Markets and Securities Intern](https://jobright.ai/jobs/info/689bb5d379a9f96662533184?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Risk & Compliance (Lake Mary, FL)](https://jobright.ai/jobs/info/689bb49b79a9f96662533055?utm_campaign=1055&utm_source=git)** | Lake Mary, FL | On Site | Aug 12 |
+| **[KeyBank](https://www.key.com)** | **[2026 Summer Risk Management Internship Program - Cleveland](https://jobright.ai/jobs/info/689bb1b879a9f96662532c71?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Aug 12 |
 | **[Selective Insurance](https://www.selective.com/)** | **[Legal Seasonal Support - Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/689bae9183d13d1f5b6a2791?utm_campaign=1055&utm_source=git)** | Branchville, NJ | Hybrid | Aug 12 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Intern, Information Risk & Compliance](https://jobright.ai/jobs/info/689bac92faa4e875e8262657?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Aug 12 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Contract Review Intern](https://jobright.ai/jobs/info/689bab7079a9f966625328a5?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 12 |
@@ -81,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Allegiant](https://www.allegiantair.com/)** | **[Intern, Information Risk & Compliance](https://jobright.ai/jobs/info/689ba40cfaa4e875e8261fcd?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Aug 12 |
 | **[Yuhaaviatam of San Manuel Nation](https://sanmanuel-nsn.gov/)** | **[Summer Law Clerk 2026](https://jobright.ai/jobs/info/689ba1fc83d13d1f5b6a1e08?utm_campaign=1055&utm_source=git)** | Highland, CA | On Site | Aug 12 |
 | **[Texas Attorney General](https://texasattorneygeneral.gov/)** | **[OAG - Human Resources / Legal Assistant I / 25-0732](https://jobright.ai/jobs/info/689b9c51faa4e875e8261b45?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Aug 12 |
-| **[KeyBank](https://www.key.com)** | **[2026 Summer Risk Management Internship Program - Cleveland](https://jobright.ai/jobs/info/689b99f783d13d1f5b6a18ad?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Aug 12 |
 | **[The University of Kansas](https://www.lsi.ku.edu)** | **[Contract Review Intern](https://jobright.ai/jobs/info/689c01d283d13d1f5b6a506e?utm_campaign=1055&utm_source=git)** | Lawrence, KS | On Site | Aug 12 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Contract Services, Emerging Talent Intern](https://jobright.ai/jobs/info/689b90edfaa4e875e8261384?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Aug 12 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Fall 2025 Legal Externship – Northeast Regional Office](https://jobright.ai/jobs/info/68984ed0faa4e875e824de57?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 12 |
@@ -138,10 +140,10 @@ For a complete list, click the following sortable link below:
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Risk & Compliance (Lake Mary, FL)](https://jobright.ai/jobs/info/689852185574fd6bc0c7827f?utm_campaign=1055&utm_source=git)** | Lake Mary, FL | On Site | Aug 08 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68984c145574fd6bc0c77499?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Aug 08 |
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/68787169866a435525ab96d3?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 08 |
+| **[Ventra Health](https://ventrahealth.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/68982f9dfaa4e875e824b384?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 08 |
 | **[Amynta Group](https://www.amyntagroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6897b0488c6d6b44267907ed?utm_campaign=1055&utm_source=git)** | NY - Remote | Remote | Aug 08 |
 | **[Second Life](http://secondlife.ngo)** | **[Head of Legal Department Intern (Remote – USA Based)](https://jobright.ai/jobs/info/6897a98473b3a600fe89d500?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 08 |
-| **[Ventra Health](https://ventrahealth.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/6897a7591b9e81727f19ec1a?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 08 |
-| ↳ | **[Intern, Legal](https://jobright.ai/jobs/info/6897b2558c6d6b4426790b9a?utm_campaign=1055&utm_source=git)** | Remote Nationwide U.S.A. | Remote | Aug 08 |
+| **[Ventra Health](https://ventrahealth.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/6897b2558c6d6b4426790b9a?utm_campaign=1055&utm_source=git)** | Remote Nationwide U.S.A. | Remote | Aug 08 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2025 Reproductive Rights and Health Legal Intern](https://jobright.ai/jobs/info/68794e29ed63844c9449a80f?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Aug 08 |
 | ↳ | **[Fall 2025 – Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/68793a65ed63844c94499c05?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Aug 08 |
 | **[Winston & Strawn LLP](https://www.winston.com)** | **[Silicon Valley Office - 2026 2L Litigation (IP) Summer Associate](https://jobright.ai/jobs/info/681c2f2df3956c2a2ce0d459?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Aug 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[iCross Capital](https://www.icrossfund.com)** | **[In house Immigration Attorney – EB-5 Fund Management](https://jobright.ai/jobs/info/6897968a1b9e81727f19d7cf?utm_campaign=1055&utm_source=git)** | NYC Metro Area | On Site | Aug 07 |
 | **[Florida Atlantic University](http://www.fau.edu)** | **[Parealegal Intern](https://jobright.ai/jobs/info/689574dc73b3a600fe887afa?utm_campaign=1055&utm_source=git)** | Boca Raton, FL | On Site | Aug 07 |
 | **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern - Part- Time Claims Coordinator](https://jobright.ai/jobs/info/689539dd4ed2ea559ca543c6?utm_campaign=1055&utm_source=git)** | Midlothian, TX | On Site | Aug 07 |
-| **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Spring 2026 Pro Bono Scholars, Housing Practice](https://jobright.ai/jobs/info/68952a514ed2ea559ca53d43?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 07 |
-| ↳ | **[Spring 2026 Pro Bono Scholars, Housing Practice](https://jobright.ai/jobs/info/689514414ed2ea559ca5346e?utm_campaign=1055&utm_source=git)** | Legal Services NYC | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
