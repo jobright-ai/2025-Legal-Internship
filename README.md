@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ACLU of Northern California](https://www.aclunc.org)** | **[Spring 2026 Criminal Law & Immigration Project Extern](https://jobright.ai/jobs/info/689d42b883d13d1f5b6ae754?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Aug 13 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/689d3ccf83d13d1f5b6ae540?utm_campaign=1055&utm_source=git)** | Columbia, KY | On Site | Aug 13 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Law Clerk Intern - Coverage Litigation (Hybrid)](https://jobright.ai/jobs/info/689d35b279a9f9666253e353?utm_campaign=1055&utm_source=git)** | Plymouth, MN | Hybrid | Aug 13 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[2026 Summer Law Clerk at Earthjustice](https://jobright.ai/jobs/info/689d2fb0faa4e875e826daee?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 13 |
@@ -111,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[SEIU](http://www.seiu.org)** | **[Law Clerk Spring 2026](https://jobright.ai/jobs/info/689b5fe279a9f9666252feda?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 12 |
 | **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney's Office Brave Justice Summer 2026 Legal Internship](https://jobright.ai/jobs/info/687e9e51db19f31cf0d6bba0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 12 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (NYC)](https://jobright.ai/jobs/info/689b0c2483d13d1f5b69ea92?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
-| **[Thompson Coburn LLP](http://www.thompsoncoburn.com)** | **[Law Clerk - Dallas](https://jobright.ai/jobs/info/689c3a93faa4e875e8267a88?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Aug 11 |
 | **[The Jeffcoat Firm](https://scinjurylawfirm.com)** | **[Internship - Fall 2025](https://jobright.ai/jobs/info/689c39c683d13d1f5b6a7b67?utm_campaign=1055&utm_source=git)** | Columbia, SC | On Site | Aug 11 |
 | **[Chattertons Solicitors & Wealth Management](https://www.chattertons.com/)** | **[TRAINEE PARALEGAL PRIVATE CLIENT - BOSTON](https://jobright.ai/jobs/info/689aaf77faa4e875e825b163?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Aug 11 |
 | **[The AES Corporation](http://www.aes.com)** | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894f73e4ed2ea559ca520ca?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Aug 11 |
