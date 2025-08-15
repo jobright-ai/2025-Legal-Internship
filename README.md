@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Justice Mission](http://www.ijm.org)** | **[Investigations and Law Enforcement Development Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/689f3b64faa4e875e8285350?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 15 |
 | **[Leggett & Platt](http://www.leggett.com/)** | **[Product Compliance Intern](https://jobright.ai/jobs/info/689f35b983d13d1f5b6c4bba?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 15 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Legal Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/689f234c79a9f966625549c0?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 15 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Contracts Intern (Hybrid)](https://jobright.ai/jobs/info/689e8f07faa4e875e827dbf5?utm_campaign=1055&utm_source=git)** | Baltimore, MD | Hybrid | Aug 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southern Utah University](http://www.suu.edu/)** | **[Compliance and Safety Intern](https://jobright.ai/jobs/info/6899b35883d13d1f5b6941ea?utm_campaign=1055&utm_source=git)** | Cedar City, UT | On Site | Aug 11 |
 | **[North Dakota Office of Attorney General](https://www.omb.nd.gov/team-nd-careers/career-openings)** | **[Law School Fellow](https://jobright.ai/jobs/info/689ad5ddfaa4e875e825cd87?utm_campaign=1055&utm_source=git)** | Bismarck, ND | On Site | Aug 10 |
 | **[Western New England University](https://wne.edu)** | **[Student - Law Clerk](https://jobright.ai/jobs/info/689c183683d13d1f5b6a5f15?utm_campaign=1055&utm_source=git)** | Springfield, MA | On Site | Aug 10 |
-| **[Health Law Advocates, Inc.](https://www.healthlawadvocates.org/)** | **[School Discipline Advocacy Program Law Clerk - MHAP for Kids (Paid)](https://jobright.ai/jobs/info/689c183f83d13d1f5b6a5f43?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Aug 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
