@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OSI Optoelectronics](https://www.osioptoelectronics.com)** | **[OPTO Trade Compliance Intern](https://jobright.ai/jobs/info/689e6f67faa4e875e827c82c?utm_campaign=1055&utm_source=git)** | Hawthorne, CA | On Site | Aug 14 |
+| **[Wikimedia Foundation](http://wikimediafoundation.org)** | **[Legal Fellow (Spring 2026)](https://jobright.ai/jobs/info/689e6a5efaa4e875e827c291?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 14 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e555779a9f9666254b48f?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | Hybrid | Aug 14 |
-| ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e5546faa4e875e827b198?utm_campaign=1055&utm_source=git)** | Merrimack, NH | Hybrid | Aug 14 |
 | ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e5546faa4e875e827b19e?utm_campaign=1055&utm_source=git)** | Covington, KY | Hybrid | Aug 14 |
+| ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e5546faa4e875e827b198?utm_campaign=1055&utm_source=git)** | Merrimack, NH | Hybrid | Aug 14 |
 | ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e552979a9f9666254b40b?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Aug 14 |
 | ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e547283d13d1f5b6bade0?utm_campaign=1055&utm_source=git)** | Smithfield, RI | Hybrid | Aug 14 |
 | ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e546083d13d1f5b6bad69?utm_campaign=1055&utm_source=git)** | Westlake, TX | Hybrid | Aug 14 |
+| **[Care Collective](www.carecollective.help.com)** | **[Legal Internship](https://jobright.ai/jobs/info/689e685e79a9f9666254c5de?utm_campaign=1055&utm_source=git)** | Storrs Mansfield, CT | Remote | Aug 14 |
+| **[San Diego State University](http://www.sdsu.edu)** | **[Compliance Specialist (Administrative Analyst/Specialist I)](https://jobright.ai/jobs/info/689e606c83d13d1f5b6bb550?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Aug 14 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/689e3e59faa4e875e8278c62?utm_campaign=1055&utm_source=git)** | Burlington, KY | On Site | Aug 14 |
 | **[East West Bank](http://eastwestbank.com)** | **[Temp-Compliance Analyst](https://jobright.ai/jobs/info/689e315f79a9f96662547b87?utm_campaign=1055&utm_source=git)** | Pasadena, CA | On Site | Aug 14 |
 | **[Oregon State Bar](https://www.osbar.org/index.html)** | **[Legal Content Internship](https://jobright.ai/jobs/info/689e0e3d79a9f96662546a1c?utm_campaign=1055&utm_source=git)** | Tigard, OR | On Site | Aug 14 |
@@ -114,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Contract Review Intern](https://jobright.ai/jobs/info/689bab7079a9f966625328a5?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 12 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Intern, Information Risk & Compliance](https://jobright.ai/jobs/info/689ba40cfaa4e875e8261fcd?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Aug 12 |
 | **[Yuhaaviatam of San Manuel Nation](https://sanmanuel-nsn.gov/)** | **[Summer Law Clerk 2026](https://jobright.ai/jobs/info/689ba1fc83d13d1f5b6a1e08?utm_campaign=1055&utm_source=git)** | Highland, CA | On Site | Aug 12 |
-| **[Texas Attorney General](https://texasattorneygeneral.gov/)** | **[OAG - Human Resources / Legal Assistant I / 25-0732](https://jobright.ai/jobs/info/689b9c51faa4e875e8261b45?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Aug 12 |
 | **[KeyBank](https://www.key.com)** | **[2026 Summer Risk Management Internship Program - Cleveland](https://jobright.ai/jobs/info/689b99f783d13d1f5b6a18ad?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Aug 12 |
 | **[The University of Kansas](http://www.spencerart.ku.edu/)** | **[Contract Review Intern](https://jobright.ai/jobs/info/689c01d283d13d1f5b6a506e?utm_campaign=1055&utm_source=git)** | Lawrence, KS | On Site | Aug 12 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Contract Services, Emerging Talent Intern](https://jobright.ai/jobs/info/689b90edfaa4e875e8261384?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Aug 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Regulatory Research Fall 2025 Intern](https://jobright.ai/jobs/info/6799a5f27b45d044d3fd9e63?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 10 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6880c48b29ad6b2744adbab9?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Aug 10 |
 | ↳ | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850cd6762ba50bc7c2bd40f?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Aug 10 |
-| ↳ | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/68989dc15574fd6bc0c7a391?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Aug 10 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850c590d48c52e5f91024bf?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Aug 09 |
-| ↳ | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850c0a88f493779c01567f3?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Aug 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
