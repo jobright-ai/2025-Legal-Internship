@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Certified Criminal Law Clerk](https://jobright.ai/jobs/info/689faa9083d13d1f5b6ca558?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Aug 15 |
+| **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part Time)](https://jobright.ai/jobs/info/689fc7ba83d13d1f5b6caf73?utm_campaign=1055&utm_source=git)** | Brookfield, WI | Hybrid | Aug 15 |
+| **[Uline](http://www.uline.com)** | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fb72efaa4e875e828aaed?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
+| ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fb70083d13d1f5b6ca88f?utm_campaign=1055&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
+| ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fb6f983d13d1f5b6ca872?utm_campaign=1055&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
+| ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fb6eefaa4e875e828a9d8?utm_campaign=1055&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
+| ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fb6ebcc9ee94dc9119441?utm_campaign=1055&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
+| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/689fafd9faa4e875e828a843?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Aug 15 |
+| ↳ | **[Extra Help Certified Criminal Law Clerk](https://jobright.ai/jobs/info/689faa9083d13d1f5b6ca558?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Aug 15 |
 | **[Harris County Attorney's Office](https://cao.harriscountytx.gov/)** | **[In-Person Law Student Paid Intern](https://jobright.ai/jobs/info/689fa169b3e889632cf092fe?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 15 |
 | **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part Time)](https://jobright.ai/jobs/info/689f9cd7faa4e875e828a1cc?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | Aug 15 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Legal Aid Society](https://jobright.ai/jobs/info/689f8d0283d13d1f5b6c9862?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 15 |
@@ -78,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Wikimedia Foundation](http://wikimediafoundation.org)** | **[Legal Fellow (Spring 2026)](https://jobright.ai/jobs/info/689e6a5efaa4e875e827c291?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 14 |
 | **[MSPG Law Group](https://mspglawgroup.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/689ea6fffaa4e875e827eb18?utm_campaign=1055&utm_source=git)** | Coral Gables, FL | On Site | Aug 14 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e555779a9f9666254b48f?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | Hybrid | Aug 14 |
-| ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e5546faa4e875e827b198?utm_campaign=1055&utm_source=git)** | Merrimack, NH | Hybrid | Aug 14 |
 | ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e5546faa4e875e827b19e?utm_campaign=1055&utm_source=git)** | Covington, KY | Hybrid | Aug 14 |
+| ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e5546faa4e875e827b198?utm_campaign=1055&utm_source=git)** | Merrimack, NH | Hybrid | Aug 14 |
 | ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e552979a9f9666254b40b?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Aug 14 |
 | ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e547283d13d1f5b6bade0?utm_campaign=1055&utm_source=git)** | Smithfield, RI | Hybrid | Aug 14 |
 | ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e546083d13d1f5b6bad69?utm_campaign=1055&utm_source=git)** | Westlake, TX | Hybrid | Aug 14 |
@@ -127,12 +134,12 @@ For a complete list, click the following sortable link below:
 | **[Advocates for Children of New York](http://www.advocatesforchildren.org)** | **[Summer Law Student Intern Program in Education Advocacy](https://jobright.ai/jobs/info/689bba6979a9f966625334a9?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Practical Law Capital Markets and Securities Intern](https://jobright.ai/jobs/info/689bb5d379a9f96662533184?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Risk & Compliance (Lake Mary, FL)](https://jobright.ai/jobs/info/689bb49b79a9f96662533055?utm_campaign=1055&utm_source=git)** | Lake Mary, FL | On Site | Aug 12 |
+| **[KeyBank](https://www.key.com)** | **[2026 Summer Risk Management Internship Program - Cleveland](https://jobright.ai/jobs/info/689bb1b879a9f96662532c71?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Aug 12 |
 | **[Selective Insurance](https://www.selective.com/)** | **[Legal Seasonal Support - Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/689bae9183d13d1f5b6a2791?utm_campaign=1055&utm_source=git)** | Branchville, NJ | Hybrid | Aug 12 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Intern, Information Risk & Compliance](https://jobright.ai/jobs/info/689bac92faa4e875e8262657?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Aug 12 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Contract Review Intern](https://jobright.ai/jobs/info/689bab7079a9f966625328a5?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 12 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Intern, Information Risk & Compliance](https://jobright.ai/jobs/info/689ba40cfaa4e875e8261fcd?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Aug 12 |
 | **[Yuhaaviatam of San Manuel Nation](https://sanmanuel-nsn.gov/)** | **[Summer Law Clerk 2026](https://jobright.ai/jobs/info/689ba1fc83d13d1f5b6a1e08?utm_campaign=1055&utm_source=git)** | Highland, CA | On Site | Aug 12 |
-| **[KeyBank](https://www.key.com)** | **[2026 Summer Risk Management Internship Program - Cleveland](https://jobright.ai/jobs/info/689b99f783d13d1f5b6a18ad?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Aug 12 |
 | **[The University of Kansas](https://www.lsi.ku.edu)** | **[Contract Review Intern](https://jobright.ai/jobs/info/689c01d283d13d1f5b6a506e?utm_campaign=1055&utm_source=git)** | Lawrence, KS | On Site | Aug 12 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Contract Services, Emerging Talent Intern](https://jobright.ai/jobs/info/689b90edfaa4e875e8261384?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Aug 12 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Fall 2025 Legal Externship – Northeast Regional Office](https://jobright.ai/jobs/info/68984ed0faa4e875e824de57?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 12 |
@@ -147,14 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney's Office Brave Justice Summer 2026 Legal Internship](https://jobright.ai/jobs/info/687e9e51db19f31cf0d6bba0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 12 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (NYC)](https://jobright.ai/jobs/info/689b0c2483d13d1f5b69ea92?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
 | **[Trinity Investors](https://www.trinityinvestors.com/)** | **[Compliance Intern – Southlake, TX](https://jobright.ai/jobs/info/689efd1883d13d1f5b6c3e66?utm_campaign=1055&utm_source=git)** | Southlake, TX | On Site | Aug 12 |
-| **[Thompson Coburn LLP](http://www.thompsoncoburn.com)** | **[Law Clerk - Dallas](https://jobright.ai/jobs/info/689edf4afaa4e875e8282f31?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Aug 11 |
 | **[Hays County](http://hayscountytx.com)** | **[District Clerk - Intern](https://jobright.ai/jobs/info/689ec1ad83d13d1f5b6c11e8?utm_campaign=1055&utm_source=git)** | San Marcos, TX | On Site | Aug 11 |
 | **[Chattertons Solicitors & Wealth Management](https://www.chattertons.com/)** | **[TRAINEE PARALEGAL PRIVATE CLIENT - BOSTON](https://jobright.ai/jobs/info/689aaf77faa4e875e825b163?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Aug 11 |
 | **[The AES Corporation](http://www.aes.com)** | **[Intern NERC Compliance Technical Writer](https://jobright.ai/jobs/info/6894f73e4ed2ea559ca520ca?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Aug 11 |
-| **[AARP](http://www.aarp.org)** | **[Foundation Litigation Fellow (Fall 2026)](https://jobright.ai/jobs/info/689a85855574fd6bc0c832d5?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Aug 11 |
-| **[AMAROK Security](https://www.amarok.com)** | **[Legal Intern](https://jobright.ai/jobs/info/689a834bfaa4e875e82594e4?utm_campaign=1055&utm_source=git)** | Columbia, SC | On Site | Aug 11 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689a5b525574fd6bc0c82330?utm_campaign=1055&utm_source=git)** | South Carolina, Columbia | On Site | Aug 11 |
-| **[Weld County Government](http://www.weldgov.com)** | **[DA Legal Intern](https://jobright.ai/jobs/info/689a56c583d13d1f5b698454?utm_campaign=1055&utm_source=git)** | COURTHOUSE | On Site | Aug 11 |
-| **[Faehner PLLC](https://faehner.law)** | **[Law Clerk](https://jobright.ai/jobs/info/689a50e683d13d1f5b6981c1?utm_campaign=1055&utm_source=git)** | Oldsmar, FL | Remote | Aug 11 |
-| **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 4](https://jobright.ai/jobs/info/689a42165574fd6bc0c810c1?utm_campaign=1055&utm_source=git)** | Nashua New Hampshire | Hybrid | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
