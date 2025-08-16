@@ -115,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Wikimedia Foundation](http://wikimediafoundation.org)** | **[Legal Fellow (Spring 2026)](https://jobright.ai/jobs/info/689e6a5efaa4e875e827c291?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 14 |
 | **[MSPG Law Group](https://mspglawgroup.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/689ea6fffaa4e875e827eb18?utm_campaign=1055&utm_source=git)** | Coral Gables, FL | On Site | Aug 14 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e555779a9f9666254b48f?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | Hybrid | Aug 14 |
-| ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e5546faa4e875e827b198?utm_campaign=1055&utm_source=git)** | Merrimack, NH | Hybrid | Aug 14 |
 | ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e5546faa4e875e827b19e?utm_campaign=1055&utm_source=git)** | Covington, KY | Hybrid | Aug 14 |
+| ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e5546faa4e875e827b198?utm_campaign=1055&utm_source=git)** | Merrimack, NH | Hybrid | Aug 14 |
 | ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e552979a9f9666254b40b?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Aug 14 |
 | ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e547283d13d1f5b6bade0?utm_campaign=1055&utm_source=git)** | Smithfield, RI | Hybrid | Aug 14 |
 | ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e546083d13d1f5b6bad69?utm_campaign=1055&utm_source=git)** | Westlake, TX | Hybrid | Aug 14 |
