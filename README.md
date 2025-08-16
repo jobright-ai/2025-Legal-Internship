@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for NYC Neighborhoods](https://cnycn.org)** | **[Paralegal Intern (Part Time)](https://jobright.ai/jobs/info/68a00f0ccc9ee94dc911bc71?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - YAD Springfield - Spring 2026](https://jobright.ai/jobs/info/689fe6cb83d13d1f5b6cbbf8?utm_campaign=1055&utm_source=git)** | Springfield, MA | Remote | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6be83d13d1f5b6cbbbe?utm_campaign=1055&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6aecc9ee94dc911a8c6?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
-| ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fe384faa4e875e828bce4?utm_campaign=1055&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Risk Manager](https://jobright.ai/jobs/info/68a00d3ffaa4e875e828d07d?utm_campaign=1055&utm_source=git)** | Ames, IA | On Site | Aug 15 |
+| **[Uline](http://www.uline.com)** | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fe384faa4e875e828bce4?utm_campaign=1055&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fe08883d13d1f5b6cb97c?utm_campaign=1055&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fe07283d13d1f5b6cb94d?utm_campaign=1055&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | **[Rockefeller Capital Management](https://www.rockco.com/)** | **[Summer Analyst - Compliance](https://jobright.ai/jobs/info/689fd97cfaa4e875e828ba06?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 15 |
@@ -90,8 +92,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fb6f983d13d1f5b6ca872?utm_campaign=1055&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fb6eefaa4e875e828a9d8?utm_campaign=1055&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fb6ebcc9ee94dc9119441?utm_campaign=1055&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
-| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/689fafd9faa4e875e828a843?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Aug 15 |
-| ↳ | **[Extra Help Certified Criminal Law Clerk](https://jobright.ai/jobs/info/689faa9083d13d1f5b6ca558?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Aug 15 |
+| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Certified Criminal Law Clerk](https://jobright.ai/jobs/info/689faa9083d13d1f5b6ca558?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Aug 15 |
 | **[Harris County Attorney's Office](https://cao.harriscountytx.gov/)** | **[In-Person Law Student Paid Intern](https://jobright.ai/jobs/info/689fa169b3e889632cf092fe?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 15 |
 | **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part Time)](https://jobright.ai/jobs/info/689f9cd7faa4e875e828a1cc?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | Aug 15 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Legal Aid Society](https://jobright.ai/jobs/info/689f8d0283d13d1f5b6c9862?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 15 |
@@ -103,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Enterprise Risk Management Department - Model Risk Management Intern](https://jobright.ai/jobs/info/689f5a9e79a9f96662556577?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Investigations and Law Enforcement Development Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/689f3b64faa4e875e8285350?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 15 |
 | **[Leggett & Platt](http://www.leggett.com/)** | **[Product Compliance Intern](https://jobright.ai/jobs/info/689f35b983d13d1f5b6c4bba?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 15 |
+| **[Everllence](www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Aug 15 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Legal Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/689f234c79a9f966625549c0?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 15 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Contracts Intern (Hybrid)](https://jobright.ai/jobs/info/689e8f07faa4e875e827dbf5?utm_campaign=1055&utm_source=git)** | Baltimore, MD | Hybrid | Aug 14 |
 | **[Philadelphia District Attorney's Office](https://www.linkedin.com/company/6745)** | **[2L Summer Internship - Summer 2026](https://jobright.ai/jobs/info/689fd416faa4e875e828b668?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Aug 14 |
@@ -112,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Wikimedia Foundation](http://wikimediafoundation.org)** | **[Legal Fellow (Spring 2026)](https://jobright.ai/jobs/info/689e6a5efaa4e875e827c291?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 14 |
 | **[MSPG Law Group](https://mspglawgroup.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/689ea6fffaa4e875e827eb18?utm_campaign=1055&utm_source=git)** | Coral Gables, FL | On Site | Aug 14 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e555779a9f9666254b48f?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | Hybrid | Aug 14 |
-| ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e5546faa4e875e827b19e?utm_campaign=1055&utm_source=git)** | Covington, KY | Hybrid | Aug 14 |
 | ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e5546faa4e875e827b198?utm_campaign=1055&utm_source=git)** | Merrimack, NH | Hybrid | Aug 14 |
+| ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e5546faa4e875e827b19e?utm_campaign=1055&utm_source=git)** | Covington, KY | Hybrid | Aug 14 |
 | ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e552979a9f9666254b40b?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Aug 14 |
 | ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e547283d13d1f5b6bade0?utm_campaign=1055&utm_source=git)** | Smithfield, RI | Hybrid | Aug 14 |
 | ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e546083d13d1f5b6bad69?utm_campaign=1055&utm_source=git)** | Westlake, TX | Hybrid | Aug 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Legal Intern](https://jobright.ai/jobs/info/689d82b979a9f9666254124d?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Aug 12 |
 | **[Fridman Fels & Soto, PLLC](https://www.ffslawfirm.com/)** | **[International Law Clerk](https://jobright.ai/jobs/info/689d74cf83d13d1f5b6b0558?utm_campaign=1055&utm_source=git)** | Coral Gables, FL | On Site | Aug 12 |
 | **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Pittsburgh, PA](https://jobright.ai/jobs/info/689bd48583d13d1f5b6a3d6a?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Aug 12 |
-| ↳ | **[Summer Associate 2026 - Philadelphia, PA](https://jobright.ai/jobs/info/689bd3f183d13d1f5b6a3c93?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Aug 12 |
-| **[Washington State Office of the Insurance Commissioner](https://www.insurance.wa.gov/)** | **[Producer Licensing and Oversight Manager (WMS2 - Internal Only)](https://jobright.ai/jobs/info/689bd00579a9f96662533e55?utm_campaign=1055&utm_source=git)** | Tumwater, WA | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
