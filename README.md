@@ -98,10 +98,9 @@ Job ID : 261486](https://jobright.ai/jobs/info/68a1976e83d13d1f5b6d4d4d?utm_camp
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689ffa69faa4e875e828c79a?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Aug 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689ff95e83d13d1f5b6cc377?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Aug 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689ff98083d13d1f5b6cc3ed?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Aug 15 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689ffa08faa4e875e828c628?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689ff8f7cc9ee94dc911b0a5?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Aug 15 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689ffa08faa4e875e828c628?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part Time)](https://jobright.ai/jobs/info/689fc7ba83d13d1f5b6caf73?utm_campaign=1055&utm_source=git)** | Brookfield, WI | Hybrid | Aug 15 |
-| **[Public Knowledge](http://publicknowledge.org)** | **[Spring 2025 ASU Law TARP Intern](https://jobright.ai/jobs/info/689fb93ffaa4e875e828aba5?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fb72efaa4e875e828aaed?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fb70083d13d1f5b6ca88f?utm_campaign=1055&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fb6f983d13d1f5b6ca872?utm_campaign=1055&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
@@ -112,6 +111,7 @@ Job ID : 261486](https://jobright.ai/jobs/info/68a1976e83d13d1f5b6d4d4d?utm_camp
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Legal Aid Society](https://jobright.ai/jobs/info/689f8d0283d13d1f5b6c9862?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 15 |
 | **[U.S. Center for SafeSport](https://www.safesport.org/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68a0c4c883d13d1f5b6d195e?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Aug 15 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com/)** | **[In-Person Law Student Paid Intern](https://jobright.ai/jobs/info/689f833dfaa4e875e82890c1?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 15 |
+| **[Public Knowledge](http://publicknowledge.org)** | **[Spring 2025 ASU Law TARP Intern](https://jobright.ai/jobs/info/689f8286faa4e875e8288e1a?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 15 |
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/689f76c9faa4e875e8288714?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Aug 15 |
 | **[TTI, Inc.](https://www.tti.com)** | **[Legal Intern](https://jobright.ai/jobs/info/689f67e683d13d1f5b6c65c4?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Aug 15 |
 | **[Torres & Zheng at Law, P.C.](www.torresbusinesslaw.com)** | **[NYC Law Firm - Legal Intern](https://jobright.ai/jobs/info/689f618b83d13d1f5b6c61c1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 15 |
