@@ -62,6 +62,7 @@ Job ID : 261486](https://jobright.ai/jobs/info/68a1976e83d13d1f5b6d4d4d?utm_camp
 | **[NYC Department of Social Services](https://www.nyc.gov/site/dss/index.page)** | **[ATTORNEY INTERNE](https://jobright.ai/jobs/info/68a16453cc9ee94dc9122558?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Aug 16 |
 | **[Student Basic Needs Coalition](http://www.studentbasicneeds.com)** | **[Legal Fellow](https://jobright.ai/jobs/info/68a143ddfaa4e875e82929db?utm_campaign=1055&utm_source=git)** | Missouri, United States | Remote | Aug 16 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Risk Advisory Intern](https://jobright.ai/jobs/info/6811644104fcee544ad52374?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Aug 16 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[Legal Services College Intern](https://jobright.ai/jobs/info/6899cc325574fd6bc0c7e088?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Aug 16 |
 | **[Center for NYC Neighborhoods](https://cnycn.org)** | **[Paralegal Intern (Part Time)](https://jobright.ai/jobs/info/68a00f0ccc9ee94dc911bc71?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - YAD Springfield - Spring 2026](https://jobright.ai/jobs/info/689fe6cb83d13d1f5b6cbbf8?utm_campaign=1055&utm_source=git)** | Springfield, MA | Remote | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6be83d13d1f5b6cbbbe?utm_campaign=1055&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
@@ -121,8 +122,8 @@ Job ID : 261486](https://jobright.ai/jobs/info/68a1976e83d13d1f5b6d4d4d?utm_camp
 | **[Wikimedia Foundation](http://wikimediafoundation.org)** | **[Legal Fellow (Spring 2026)](https://jobright.ai/jobs/info/689e6a5efaa4e875e827c291?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 14 |
 | **[MSPG Law Group](https://mspglawgroup.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/689ea6fffaa4e875e827eb18?utm_campaign=1055&utm_source=git)** | Coral Gables, FL | On Site | Aug 14 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e555779a9f9666254b48f?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | Hybrid | Aug 14 |
-| ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e5546faa4e875e827b198?utm_campaign=1055&utm_source=git)** | Merrimack, NH | Hybrid | Aug 14 |
 | ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e5546faa4e875e827b19e?utm_campaign=1055&utm_source=git)** | Covington, KY | Hybrid | Aug 14 |
+| ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e5546faa4e875e827b198?utm_campaign=1055&utm_source=git)** | Merrimack, NH | Hybrid | Aug 14 |
 | ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e552979a9f9666254b40b?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Aug 14 |
 | ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e547283d13d1f5b6bade0?utm_campaign=1055&utm_source=git)** | Smithfield, RI | Hybrid | Aug 14 |
 | ↳ | **[Intern, Audit, Risk, Compliance](https://jobright.ai/jobs/info/689e546083d13d1f5b6bad69?utm_campaign=1055&utm_source=git)** | Westlake, TX | Hybrid | Aug 14 |
@@ -157,5 +158,4 @@ Job ID : 261486](https://jobright.ai/jobs/info/68a1976e83d13d1f5b6d4d4d?utm_camp
 | **[Hall Booth Smith, P.C.](http://hallboothsmith.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68819449f4f06100f3a27f6e?utm_campaign=1055&utm_source=git)** | Buffalo-Niagara Area | On Site | Aug 13 |
 | **[Kennedys](http://kennedyslaw.com)** | **[Law Clerk](https://jobright.ai/jobs/info/689cc873faa4e875e826a778?utm_campaign=1055&utm_source=git)** | Wilmington, DE | Hybrid | Aug 13 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/68224a44cdaf82e297b60700?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Aug 13 |
-| **[Cisco](http://www.cisco.com)** | **[Legal Intern - Italy](https://jobright.ai/jobs/info/6810bf5317f5c40098cfa05b?utm_campaign=1055&utm_source=git)** | Rome, OR | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
