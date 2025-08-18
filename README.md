@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/68a348f41ab5f8579e8a4654?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Aug 18 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Contracts Intern (Hybrid)](https://jobright.ai/jobs/info/68a2fc9437d3cc6b0d57408c?utm_campaign=1055&utm_source=git)** | Baltimore, MD | Hybrid | Aug 18 |
 | **[MBTA](http://mbta.com)** | **[Senior Quality Compliance & Oversight Co-Op (Grad Student)](https://jobright.ai/jobs/info/68a2d4a1da4b7a7e730742f6?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Aug 18 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Future Opportunities Intern Quality & Regulatory Compliance (Summer 2026)](https://jobright.ai/jobs/info/68a2d44f468ac21d6fabb380?utm_campaign=1055&utm_source=git)** | Hershey, PA | On Site | Aug 18 |
@@ -68,8 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Job at SGP & Associates: Apply Now!](https://jobright.ai/jobs/info/68a1e3de83d13d1f5b6d5254?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
 | ↳ | **[Project Fellow at Vidhi Centre for Legal Policy: Apply by July 30](https://jobright.ai/jobs/info/68a1e389cc9ee94dc91240be?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
 | ↳ | **[Law Interns / Lawyers at Rahul Ganeshe and Associates: Apply Now!](https://jobright.ai/jobs/info/68a1e38acc9ee94dc91240bf?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Legal Affairs Interns
-Job ID : 261486](https://jobright.ai/jobs/info/68a1976e83d13d1f5b6d4d4d?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Aug 17 |
 | **[New York City Fire Department](https://www.joinfdny.com)** | **[LEGAL - COLLEGE AIDE (2L/3L)](https://jobright.ai/jobs/info/68a2bb47ff570d7ffd65d7af?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Aug 17 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/689ce90579a9f9666253c132?utm_campaign=1055&utm_source=git)** | Hopkinsville, KY | On Site | Aug 16 |
 | **[NYC Department of Social Services](https://www.nyc.gov/site/dss/index.page)** | **[ATTORNEY INTERNE](https://jobright.ai/jobs/info/68a16453cc9ee94dc9122558?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Aug 16 |
@@ -104,10 +103,9 @@ Job ID : 261486](https://jobright.ai/jobs/info/68a1976e83d13d1f5b6d4d4d?utm_camp
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689ffa69faa4e875e828c79a?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Aug 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689ff95e83d13d1f5b6cc377?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Aug 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689ff98083d13d1f5b6cc3ed?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Aug 15 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689ff8f7cc9ee94dc911b0a5?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Aug 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689ffa08faa4e875e828c628?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 15 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689ff8f7cc9ee94dc911b0a5?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Aug 15 |
 | **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part Time)](https://jobright.ai/jobs/info/689fc7ba83d13d1f5b6caf73?utm_campaign=1055&utm_source=git)** | Brookfield, WI | Hybrid | Aug 15 |
-| **[Public Knowledge](http://publicknowledge.org)** | **[Spring 2025 ASU Law TARP Intern](https://jobright.ai/jobs/info/689fb93ffaa4e875e828aba5?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fb72efaa4e875e828aaed?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fb70083d13d1f5b6ca88f?utm_campaign=1055&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fb6f983d13d1f5b6ca872?utm_campaign=1055&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
@@ -117,6 +115,7 @@ Job ID : 261486](https://jobright.ai/jobs/info/68a1976e83d13d1f5b6d4d4d?utm_camp
 | **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part Time)](https://jobright.ai/jobs/info/689f9cd7faa4e875e828a1cc?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | Aug 15 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Legal Aid Society](https://jobright.ai/jobs/info/689f8d0283d13d1f5b6c9862?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 15 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com/)** | **[In-Person Law Student Paid Intern](https://jobright.ai/jobs/info/689f833dfaa4e875e82890c1?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 15 |
+| **[Public Knowledge](http://publicknowledge.org)** | **[Spring 2025 ASU Law TARP Intern](https://jobright.ai/jobs/info/689f8286faa4e875e8288e1a?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 15 |
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/689f76c9faa4e875e8288714?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Aug 15 |
 | **[TTI, Inc.](https://www.tti.com)** | **[Legal Intern](https://jobright.ai/jobs/info/689f67e683d13d1f5b6c65c4?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Aug 15 |
 | **[Torres & Zheng at Law, P.C.](www.torresbusinesslaw.com)** | **[NYC Law Firm - Legal Intern](https://jobright.ai/jobs/info/689f618b83d13d1f5b6c61c1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 15 |
@@ -148,7 +147,7 @@ Job ID : 261486](https://jobright.ai/jobs/info/68a1976e83d13d1f5b6d4d4d?utm_camp
 | **[Ventra Health](https://ventrahealth.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/68982f9dfaa4e875e824b384?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 14 |
 | **[Thomas J. Henry Law](http://thomasjhenrylaw.com)** | **[1L Summer Associate](https://jobright.ai/jobs/info/68471b3ffafe4a7db8fc3044?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Aug 14 |
 | **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[FIU BSA Intern](https://jobright.ai/jobs/info/689d9674faa4e875e8271e5a?utm_campaign=1055&utm_source=git)** | Syracuse, NY | Hybrid | Aug 14 |
-| **[Prysmian](https://www.prysmian.com)** | **[Customs & Compliance Intern](https://jobright.ai/jobs/info/689d7eae79a9f96662540fa4?utm_campaign=1055&utm_source=git)** | Highland Heights, KY | On Site | Aug 13 |
+| **[Prysmian](https://www.prysmian.com)** | **[Customs & Compliance Intern](https://jobright.ai/jobs/info/689d650afaa4e875e826f272?utm_campaign=1055&utm_source=git)** | Highland Heights, KY | On Site | Aug 13 |
 | **[ACLU of Northern California](https://www.aclunc.org)** | **[Spring 2026 Criminal Law & Immigration Project Extern](https://jobright.ai/jobs/info/689d42b883d13d1f5b6ae754?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Aug 13 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/689d3ccf83d13d1f5b6ae540?utm_campaign=1055&utm_source=git)** | Columbia, KY | On Site | Aug 13 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Law Clerk Intern - Coverage Litigation (Hybrid)](https://jobright.ai/jobs/info/689d35b279a9f9666253e353?utm_campaign=1055&utm_source=git)** | Plymouth, MN | Hybrid | Aug 13 |
