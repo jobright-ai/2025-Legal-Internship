@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Law Office of Jack M. Shapiro, P.C.](https://jackshapirolaw.com/)** | **[Law Clerk - Intern - Fall/Winter 2025](https://jobright.ai/jobs/info/68a49e0b541cc3479840ca03?utm_campaign=1055&utm_source=git)** | Buffalo Grove, IL | On Site | Aug 19 |
+| **[Advocates for the West](http://www.advocateswest.org)** | **[2026 Summer Law Clerk](https://jobright.ai/jobs/info/68a4972c541cc3479840c7a1?utm_campaign=1055&utm_source=git)** | Boise, ID | Hybrid | Aug 19 |
+| **[Mercy For Animals](https://mercyforanimals.org)** | **[Summer Legal Internship](https://jobright.ai/jobs/info/68a488092d2a252445cd73e9?utm_campaign=1055&utm_source=git)** | Remote in the United States | Remote | Aug 19 |
+| **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - Risk Management](https://jobright.ai/jobs/info/6887e26773e3e13cbd940dab?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Aug 19 |
+| **[TikTok](https://www.tiktok.com)** | **[Risk Arbitration Analyst Intern (Monetization Integrity) - 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/689c0ba779a9f96662535ad9?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Aug 19 |
+| **[CrowdStrike](http://www.crowdstrike.com)** | **[SkillBridge, Internal Investigations Analyst (Remote)](https://jobright.ai/jobs/info/686c21ce35584b6542d28095?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | Remote | Aug 19 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Paralegal Intern (Pre-Law) Fall/Winter 2025/26](https://jobright.ai/jobs/info/68a4386f2d2a252445cd66c8?utm_campaign=1055&utm_source=git)** | Wickliffe, OH | On Site | Aug 19 |
 | **[Slovensky Divorce & Family Law](https://slovenskylaw.com)** | **[Summer Associate – Family Law Firm](https://jobright.ai/jobs/info/68a429372d2a252445cd639a?utm_campaign=1055&utm_source=git)** | Roanoke, VA | On Site | Aug 19 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Roxbury Defenders Unit - Spring 2026](https://jobright.ai/jobs/info/68a3e73ee9f1c744da11f196?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Aug 18 |
@@ -109,8 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689fcd63faa4e875e828b42c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Aug 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689fcd4dfaa4e875e828b401?utm_campaign=1055&utm_source=git)** | Johnston, RI | On Site | Aug 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689fcd41faa4e875e828b3e9?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Aug 15 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689fcd11faa4e875e828b372?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Aug 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689fcd11faa4e875e828b373?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 15 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689fcd11faa4e875e828b372?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Aug 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689fcd03faa4e875e828b359?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689fcc7acc9ee94dc9119e5a?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689fcc39cc9ee94dc9119db8?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 15 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SEIU](http://www.seiu.org)** | **[Law Clerk Summer 2026  - SEIU](https://jobright.ai/jobs/info/689b4d5083d13d1f5b69f5e0?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 14 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Risk Advisory Intern](https://jobright.ai/jobs/info/6811644104fcee544ad5234c?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Aug 14 |
 | ↳ | **[Summer 2026 Risk Advisory Intern](https://jobright.ai/jobs/info/68115a71aea77350adef849a?utm_campaign=1055&utm_source=git)** | Tysons Corner, VA | On Site | Aug 14 |
-| ↳ | **[Summer 2026 Risk Advisory Intern](https://jobright.ai/jobs/info/68115a71aea77350adef8493?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Aug 14 |
-| ↳ | **[Summer 2026 Risk Advisory Intern](https://jobright.ai/jobs/info/6811644104fcee544ad52357?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Aug 14 |
-| ↳ | **[Summer 2026 Risk Advisory Intern](https://jobright.ai/jobs/info/683befcbba832780a8fd5da4?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 14 |
-| **[Ventra Health](https://ventrahealth.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/68982f9dfaa4e875e824b384?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 14 |
-| **[Thomas J. Henry Law](http://thomasjhenrylaw.com)** | **[1L Summer Associate](https://jobright.ai/jobs/info/68471b3ffafe4a7db8fc3044?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Aug 14 |
-| **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[FIU BSA Intern](https://jobright.ai/jobs/info/689d9674faa4e875e8271e5a?utm_campaign=1055&utm_source=git)** | Syracuse, NY | Hybrid | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
