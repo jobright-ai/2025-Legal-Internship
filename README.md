@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of South Carolina](https://sc.gov/)** | **[Probation & Parole LEO I #11-2025***REANNOUNCED*** ***INTERNAL APPLICANTS ONLY***](https://jobright.ai/jobs/info/68a52869758f2e4ac3fdc5c7?utm_campaign=1055&utm_source=git)** | Sumter County, SC | On Site | Aug 19 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Cyber Security and Compliance (CCA) - Summer 2026 (NYC)](https://jobright.ai/jobs/info/68a526abb6a3617d7fa6f0ad?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 19 |
+| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Professional Liability Underwriting Summer Intern](https://jobright.ai/jobs/info/68a5259533dd7158bbc977c8?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | On Site | Aug 19 |
+| ↳ | **[Professional Liability Underwriting Summer Intern](https://jobright.ai/jobs/info/68a5246e758f2e4ac3fdc3bd?utm_campaign=1055&utm_source=git)** | NYC Metro Area | On Site | Aug 19 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[Legal Intern - Semester 2 - Generation H](https://jobright.ai/jobs/info/68a51d5fb6a3617d7fa6eac2?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Aug 19 |
+| **[New York Civil Liberties Union](http://www.nyclu.org/)** | **[Legal Intake Volunteer](https://jobright.ai/jobs/info/68a51b6bb6a3617d7fa6e950?utm_campaign=1055&utm_source=git)** | NYC HEADQUARTERS OFFICE 1 | Remote | Aug 19 |
+| **[The Pocket Protector](thepocketprotector.com)** | **[Medicare Compliance Paid Internship](https://jobright.ai/jobs/info/68a51566b6a3617d7fa6e5bc?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 19 |
+| **[Children's Law Center of California](https://www.clccal.org/)** | **[2026 SUMMER LAW CLERK](https://jobright.ai/jobs/info/68a51054b6a3617d7fa6e2e9?utm_campaign=1055&utm_source=git)** | Monterey Park, CA | On Site | Aug 19 |
 | **[Utz Brands, Inc.](http://www.utzsnacks.com/)** | **[Regulatory Intern: Part Time Fall Semester](https://jobright.ai/jobs/info/68a50cce758f2e4ac3fdb80d?utm_campaign=1055&utm_source=git)** | State College, PA | On Site | Aug 19 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Certified Criminal Law Clerk](https://jobright.ai/jobs/info/68a4fe6d33dd7158bbc965d4?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Aug 19 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Professional Liability Underwriting Summer Intern](https://jobright.ai/jobs/info/68a4f19933dd7158bbc962c7?utm_campaign=1055&utm_source=git)** | New York, NY United States of America | Hybrid | Aug 19 |
@@ -140,8 +148,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689fcd63faa4e875e828b42c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Aug 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689fcd4dfaa4e875e828b401?utm_campaign=1055&utm_source=git)** | Johnston, RI | On Site | Aug 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689fcd41faa4e875e828b3e9?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Aug 15 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689fcd11faa4e875e828b373?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689fcd11faa4e875e828b372?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Aug 15 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689fcd11faa4e875e828b373?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689fcd03faa4e875e828b359?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689fcc7acc9ee94dc9119e5a?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689fcc39cc9ee94dc9119db8?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 15 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689ff95e83d13d1f5b6cc377?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Aug 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689ff98083d13d1f5b6cc3ed?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Aug 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689ffa08faa4e875e828c628?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 15 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/689ff8f7cc9ee94dc911b0a5?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Aug 15 |
-| **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part Time)](https://jobright.ai/jobs/info/689fc7ba83d13d1f5b6caf73?utm_campaign=1055&utm_source=git)** | Brookfield, WI | Hybrid | Aug 15 |
-| **[Uline](http://www.uline.com)** | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fb72efaa4e875e828aaed?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
-| ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fb70083d13d1f5b6ca88f?utm_campaign=1055&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
-| ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fb6f983d13d1f5b6ca872?utm_campaign=1055&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
-| ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fb6eefaa4e875e828a9d8?utm_campaign=1055&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
-| ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fb6ebcc9ee94dc9119441?utm_campaign=1055&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
-| **[Harris County Attorney's Office](https://cao.harriscountytx.gov/)** | **[In-Person Law Student Paid Intern](https://jobright.ai/jobs/info/689fa169b3e889632cf092fe?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
