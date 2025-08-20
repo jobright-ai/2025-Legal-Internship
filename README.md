@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[Intern, Ethics Office](https://jobright.ai/jobs/info/68a6083ab6a3617d7fa74b3c?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Aug 20 |
+| **[FS Vector](https://www.fsvector.com/)** | **[Fall Associate (Intern), Licensing](https://jobright.ai/jobs/info/68a6072033dd7158bbc9d336?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Remote | Aug 20 |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68a60607b6a3617d7fa749a8?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Aug 20 |
+| ↳ | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68a5fedf758f2e4ac3fe1c7e?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Aug 20 |
+| **[Anders](http://anderscpa.com/)** | **[Compliance/Loan Review Intern - Summer 2026](https://jobright.ai/jobs/info/68a5fcb433dd7158bbc9cfb0?utm_campaign=1055&utm_source=git)** | St. Louis, MO | On Site | Aug 20 |
+| **[Morongo Band of Mission Indians](http://www.morongonation.org/)** | **[Legal Intern (College) - Summer 2026](https://jobright.ai/jobs/info/68a5f84a33dd7158bbc9ccc9?utm_campaign=1055&utm_source=git)** | Banning, CA | On Site | Aug 20 |
 | **[UNFPA Supply Chain](https://www.unfpa.org/supplychain)** | **[Intern, Ethics Office](https://jobright.ai/jobs/info/68a5ce4d758f2e4ac3fe09c7?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Aug 20 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Risk Advisory Internship - FY26](https://jobright.ai/jobs/info/68a5ce3d758f2e4ac3fe09b5?utm_campaign=1055&utm_source=git)** | USA TN Nashville | On Site | Aug 20 |
 | **[Jacobs](http://www.jacobs.com)** | **[KSC Export Control Administrator - DoD SkillBridge Program Intern](https://jobright.ai/jobs/info/68a5c901b6a3617d7fa73264?utm_campaign=1055&utm_source=git)** | United States-Florida-Kennedy Space Center-20339-KSC | On Site | Aug 20 |
@@ -152,10 +158,4 @@ Job ID : 261486](https://jobright.ai/jobs/info/68a5457c33dd7158bbc98afc?utm_camp
 | **[Uline](http://www.uline.com)** | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fe384faa4e875e828bce4?utm_campaign=1055&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fe08883d13d1f5b6cb97c?utm_campaign=1055&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fe07283d13d1f5b6cb94d?utm_campaign=1055&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Spring 2026 - PDD Brockton](https://jobright.ai/jobs/info/68a0beecfaa4e875e82916bc?utm_campaign=1055&utm_source=git)** | Brockton, MA | On Site | Aug 15 |
-| **[Rockefeller Capital Management](https://www.rockco.com/)** | **[Summer Analyst - Compliance](https://jobright.ai/jobs/info/689fd97cfaa4e875e828ba06?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 15 |
-| ↳ | **[Summer Analyst - Business Supervision & Controls](https://jobright.ai/jobs/info/689fd961faa4e875e828b9ad?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Aug 15 |
-| **[Cotton Holdings Inc.](https://cottonholdings.com)** | **[Risk Assistant](https://jobright.ai/jobs/info/689fd540cc9ee94dc911a1c9?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 15 |
-| **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2026 Summer Analyst - Global Financial Crimes Division (GFCD) - Irving, TX](https://jobright.ai/jobs/info/689fd0dd83d13d1f5b6cb295?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Aug 15 |
-| **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part Time)](https://jobright.ai/jobs/info/689fc7ba83d13d1f5b6caf73?utm_campaign=1055&utm_source=git)** | Brookfield, WI | Hybrid | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
