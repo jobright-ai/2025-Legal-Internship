@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Government Compliance Intern (Cincinnati, OH)](https://jobright.ai/jobs/info/68a63a13b6a3617d7fa76628?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Aug 20 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Affairs Intern, SPA – Fall 2025](https://jobright.ai/jobs/info/68a6326bb6a3617d7fa7623a?utm_campaign=1055&utm_source=git)** | Los Angeles, California | Hybrid | Aug 20 |
+| **[Earthjustice](http://earthjustice.org/)** | **[Spring 2026 Legal Externship – Washington, DC Regional Office](https://jobright.ai/jobs/info/68a631e9758f2e4ac3fe391a?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
+| ↳ | **[Spring 2026 Legal Externship – California Regional Office](https://jobright.ai/jobs/info/68a63120758f2e4ac3fe3762?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
+| ↳ | **[Spring 2026 Legal Externship – Biodiversity Defense Program](https://jobright.ai/jobs/info/68a63107758f2e4ac3fe3722?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
+| ↳ | **[Spring 2026 Legal Externship – International Program](https://jobright.ai/jobs/info/68a63087758f2e4ac3fe361b?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
+| ↳ | **[Spring 2026 Legal Externship – Northeast Regional Office](https://jobright.ai/jobs/info/68a6306eb6a3617d7fa760bf?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
+| ↳ | **[Spring 2026 Legal Internship – Washington, DC Regional Office](https://jobright.ai/jobs/info/68a6304d33dd7158bbc9e959?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
+| ↳ | **[Spring 2026 Legal Externship – Community Partnerships Program](https://jobright.ai/jobs/info/68a62ea4b6a3617d7fa75f2c?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
 | **[Crowe](https://www.crowe.com/)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/68a6267733dd7158bbc9e575?utm_campaign=1055&utm_source=git)** | New York NY USA | On Site | Aug 20 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Spring 2026](https://jobright.ai/jobs/info/68a6239933dd7158bbc9e317?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 20 |
 | **[Anders](http://anderscpa.com/)** | **[Compliance/Loan Review Intern - Summer 2026](https://jobright.ai/jobs/info/68a62394b6a3617d7fa75a64?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Aug 20 |
@@ -106,10 +115,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern I - Fall 2025 - Regulatory Licensing & Compliance](https://jobright.ai/jobs/info/68a4d623bdd80e69391be4e0?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Aug 19 |
 | **[IDC](http://www.idc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68a4d5be541cc3479840e95c?utm_campaign=1055&utm_source=git)** | Needham, MA | Hybrid | Aug 19 |
 | **[Weld County Government](http://www.weldgov.com)** | **[DA Legal Intern](https://jobright.ai/jobs/info/68a4d490541cc3479840e6e6?utm_campaign=1055&utm_source=git)** | Greeley, CO | On Site | Aug 19 |
-| **[International Association for the Study of Pain](http://www.iasp-pain.org/)** | **[IASP Publications Intern](https://jobright.ai/jobs/info/68a4d38de9f1c744da124b5e?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 19 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Information Technology (DRC) - Summer 2026 (Boston)](https://jobright.ai/jobs/info/68a4d046541cc3479840e53d?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Aug 19 |
 | **[Hall Booth Smith, P.C.](http://hallboothsmith.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68819449f4f06100f3a27f6e?utm_campaign=1055&utm_source=git)** | Buffalo-Niagara Area | On Site | Aug 19 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Information Technology (DRC) - Summer 2026 (Boston)](https://jobright.ai/jobs/info/68a4d024bdd80e69391bde9b?utm_campaign=1055&utm_source=git)** | 15 One International Place, Boston, MA, 02110, US | On Site | Aug 19 |
+| **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/68784ce25cebcd1dd51d9332?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Aug 19 |
 | **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern, Risk Advisory Services - Information Technology (DRC) - Summer 2026 (Boston)](https://jobright.ai/jobs/info/68a4c954541cc3479840dfd8?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Aug 19 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Fall 2025 - Regulatory Licensing & Compliance](https://jobright.ai/jobs/info/68a4bf392d2a252445cd8c3b?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Aug 19 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management BSA/AML Intern](https://jobright.ai/jobs/info/68a4ba762d2a252445cd89bf?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 19 |
@@ -149,13 +158,4 @@ Job ID : 261486](https://jobright.ai/jobs/info/68a5457c33dd7158bbc98afc?utm_camp
 | **[LawBhoomi](https://lawbhoomi.com/)** | **[Paid Assessment Legal Internship at Coditas: Apply Now!](https://jobright.ai/jobs/info/68a1e3eb83d13d1f5b6d5277?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
 | ↳ | **[Research Fellow at Vidhi Centre for Legal Policy: Apply Now!](https://jobright.ai/jobs/info/68a1e347faa4e875e8295312?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
 | ↳ | **[Legal Researcher at Rajasthan High Court [2 Seats]: Apply by Aug 21](https://jobright.ai/jobs/info/68a1e3eb83d13d1f5b6d5275?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
-| ↳ | **[Law-Researcher at Chambers of Chirayu Jain [Stipend Rs 25-30K]: Apply Now!](https://jobright.ai/jobs/info/68a1e3e683d13d1f5b6d5260?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
-| ↳ | **[Fresh Law Graduate at DMI Alternative Investment Fund: Apply Now!](https://jobright.ai/jobs/info/68a1e335faa4e875e82952e1?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
-| ↳ | **[Legal Job at SGP & Associates: Apply Now!](https://jobright.ai/jobs/info/68a1e3de83d13d1f5b6d5254?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
-| ↳ | **[Project Fellow at Vidhi Centre for Legal Policy: Apply by July 30](https://jobright.ai/jobs/info/68a1e389cc9ee94dc91240be?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
-| ↳ | **[Law Interns / Lawyers at Rahul Ganeshe and Associates: Apply Now!](https://jobright.ai/jobs/info/68a1e38acc9ee94dc91240bf?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
-| **[New York City Fire Department](https://www.joinfdny.com)** | **[LEGAL - COLLEGE AIDE (2L/3L)](https://jobright.ai/jobs/info/68a2bb47ff570d7ffd65d7af?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Aug 17 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/689ce90579a9f9666253c132?utm_campaign=1055&utm_source=git)** | Hopkinsville, KY | On Site | Aug 16 |
-| **[NYC Department of Social Services](https://www.nyc.gov/site/dss/index.page)** | **[ATTORNEY INTERNE](https://jobright.ai/jobs/info/68a16453cc9ee94dc9122558?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Aug 16 |
-| **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Risk Advisory Intern](https://jobright.ai/jobs/info/6811644104fcee544ad52374?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Aug 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
