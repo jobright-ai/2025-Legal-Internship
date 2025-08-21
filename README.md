@@ -57,16 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE Vernova](https://www.gevernova.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68a67513b6a3617d7fa778be?utm_campaign=1055&utm_source=git)** | Imperial, PA | On Site | Aug 20 |
+| **[Wefunder](http://www.wefunder.com)** | **[Internship - Closing and Compliance](https://jobright.ai/jobs/info/68a66f4133dd7158bbca0074?utm_campaign=1055&utm_source=git)** | San Francisco | On Site | Aug 20 |
+| **[Earthjustice](http://earthjustice.org/)** | **[Spring 2026 Legal Internship – Crosscutting Toxics & Drinking Water](https://jobright.ai/jobs/info/68a66e9e33dd7158bbc9ff95?utm_campaign=1055&utm_source=git)** | Remote, United States | Hybrid | Aug 20 |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68a657a133dd7158bbc9f7f7?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 20 |
+| **[Crowe](https://www.crowe.com/)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/68a6569533dd7158bbc9f727?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 20 |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68a6565eb6a3617d7fa76f05?utm_campaign=1055&utm_source=git)** | Arlington, VA | Hybrid | Aug 20 |
+| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Risk Management](https://jobright.ai/jobs/info/68a652d7b6a3617d7fa76e18?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Aug 20 |
+| ↳ | **[Summer Intern - Law Clerk](https://jobright.ai/jobs/info/68a65233b6a3617d7fa76d93?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Aug 20 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Government Compliance Intern (Cincinnati, OH)](https://jobright.ai/jobs/info/68a63a13b6a3617d7fa76628?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Aug 20 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Affairs Intern, SPA – Fall 2025](https://jobright.ai/jobs/info/68a6326bb6a3617d7fa7623a?utm_campaign=1055&utm_source=git)** | Los Angeles, California | Hybrid | Aug 20 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Spring 2026 Legal Externship – Washington, DC Regional Office](https://jobright.ai/jobs/info/68a631e9758f2e4ac3fe391a?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
-| ↳ | **[Spring 2026 Legal Externship – California Regional Office](https://jobright.ai/jobs/info/68a63120758f2e4ac3fe3762?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Affairs Intern, SPA – Fall 2025](https://jobright.ai/jobs/info/68a6316a758f2e4ac3fe3809?utm_campaign=1055&utm_source=git)** | Los Angeles, California | Hybrid | Aug 20 |
+| **[Earthjustice](http://earthjustice.org/)** | **[Spring 2026 Legal Externship – California Regional Office](https://jobright.ai/jobs/info/68a63120758f2e4ac3fe3762?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
 | ↳ | **[Spring 2026 Legal Externship – Biodiversity Defense Program](https://jobright.ai/jobs/info/68a63107758f2e4ac3fe3722?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
 | ↳ | **[Spring 2026 Legal Externship – International Program](https://jobright.ai/jobs/info/68a63087758f2e4ac3fe361b?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
 | ↳ | **[Spring 2026 Legal Externship – Northeast Regional Office](https://jobright.ai/jobs/info/68a6306eb6a3617d7fa760bf?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
 | ↳ | **[Spring 2026 Legal Internship – Washington, DC Regional Office](https://jobright.ai/jobs/info/68a6304d33dd7158bbc9e959?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
 | ↳ | **[Spring 2026 Legal Externship – Community Partnerships Program](https://jobright.ai/jobs/info/68a62ea4b6a3617d7fa75f2c?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
 | **[Crowe](https://www.crowe.com/)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/68a6267733dd7158bbc9e575?utm_campaign=1055&utm_source=git)** | New York NY USA | On Site | Aug 20 |
+| **[Rockefeller Capital Management](https://www.rockco.com/)** | **[Summer Analyst - Business Supervision & Controls](https://jobright.ai/jobs/info/689fd961faa4e875e828b9ad?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Aug 20 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Spring 2026](https://jobright.ai/jobs/info/68a6239933dd7158bbc9e317?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 20 |
 | **[Anders](http://anderscpa.com/)** | **[Compliance/Loan Review Intern - Summer 2026](https://jobright.ai/jobs/info/68a62394b6a3617d7fa75a64?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Aug 20 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Digital Rights Intern](https://jobright.ai/jobs/info/68a62333b6a3617d7fa75a13?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 20 |
@@ -84,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Anders](http://anderscpa.com/)** | **[Compliance/Loan Review Intern - Summer 2026](https://jobright.ai/jobs/info/68a5fcb433dd7158bbc9cfb0?utm_campaign=1055&utm_source=git)** | St. Louis, MO | On Site | Aug 20 |
 | **[Morongo Band of Mission Indians](http://www.morongonation.org/)** | **[Legal Intern (College) - Summer 2026](https://jobright.ai/jobs/info/68a5f84a33dd7158bbc9ccc9?utm_campaign=1055&utm_source=git)** | Banning, CA | On Site | Aug 20 |
 | **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[FIU BSA Intern](https://jobright.ai/jobs/info/68a616dc33dd7158bbc9d8e6?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Aug 20 |
+| **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Intellectual Property](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3dac?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 20 |
 | **[UNFPA Supply Chain](https://www.unfpa.org/supplychain)** | **[Intern, Ethics Office](https://jobright.ai/jobs/info/68a5ce4d758f2e4ac3fe09c7?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Aug 20 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Risk Advisory Internship - FY26](https://jobright.ai/jobs/info/68a5ce3d758f2e4ac3fe09b5?utm_campaign=1055&utm_source=git)** | USA TN Nashville | On Site | Aug 20 |
 | **[Black Rifle Coffee Company](https://www.blackriflecoffee.com)** | **[Skillbridge Legal Extern](https://jobright.ai/jobs/info/6889887c09808a6103e48354?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 20 |
@@ -147,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e228ad?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Aug 18 |
 | **[Fifth Third Bank](http://53.com)** | **[Risk Leadership Program Participant 2026](https://jobright.ai/jobs/info/68a370bf37d3cc6b0d576d90?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Aug 18 |
 | **[Family Service Association - Fall River](http://www.frfsa.org)** | **[Legal Intern](https://jobright.ai/jobs/info/68a40f382d2a252445cd56e5?utm_campaign=1055&utm_source=git)** | Fall River, MA | On Site | Aug 18 |
-| **[Goldman Sachs](https://www.goldmansachs.com)** | **[2026 / Americas / Wilmington / Wealth Management, Tax and Trust Services / Summer Associate](https://jobright.ai/jobs/info/68a383ac37d3cc6b0d577d8d?utm_campaign=1055&utm_source=git)** | DE | On Site | Aug 18 |
-| **[Chapman and Cutler LLP](http://www.chapman.com/)** | **[Law Firm Administrative Intern](https://jobright.ai/jobs/info/68a3591837d3cc6b0d5761e6?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 18 |
-| **[Hightower, Stratton, Novigrod & Kantor](https://www.hightowerlaw.net/)** | **[Law Clerk](https://jobright.ai/jobs/info/68810df229ad6b2744ade887?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Aug 18 |
-| **[MBTA](http://mbta.com)** | **[Senior Quality Compliance & Oversight Co-Op (Grad Student)](https://jobright.ai/jobs/info/68a2d4a1da4b7a7e730742f6?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Aug 18 |
-| **[The Hershey Company](http://thehersheycompany.com)** | **[Future Opportunities Intern Quality & Regulatory Compliance (Summer 2026)](https://jobright.ai/jobs/info/68a2d44f468ac21d6fabb380?utm_campaign=1055&utm_source=git)** | Hershey, PA | On Site | Aug 18 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Legal Affairs Interns
-Job ID : 261486](https://jobright.ai/jobs/info/68a5457c33dd7158bbc98afc?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Aug 17 |
-| **[Toledo's Tenant Defense Line](www.daoudilaw.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68a40c2fe9f1c744da12026f?utm_campaign=1055&utm_source=git)** | Toledo, OH | On Site | Aug 17 |
-| **[LawBhoomi](https://lawbhoomi.com/)** | **[Paid Assessment Legal Internship at Coditas: Apply Now!](https://jobright.ai/jobs/info/68a1e3eb83d13d1f5b6d5277?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
-| ↳ | **[Research Fellow at Vidhi Centre for Legal Policy: Apply Now!](https://jobright.ai/jobs/info/68a1e347faa4e875e8295312?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
-| ↳ | **[Legal Researcher at Rajasthan High Court [2 Seats]: Apply by Aug 21](https://jobright.ai/jobs/info/68a1e3eb83d13d1f5b6d5275?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
