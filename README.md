@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68a776a133dd7158bbca76a2?utm_campaign=1055&utm_source=git)** | Paducah, KY | On Site | Aug 21 |
+| **[Devon Energy](https://www.devonenergy.com)** | **[Land Intern - Summer 2026](https://jobright.ai/jobs/info/68a77484d627244576e2c9e6?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Aug 21 |
+| **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/68a76f75d627244576e2c65f?utm_campaign=1055&utm_source=git)** | Doral, FL | Hybrid | Aug 21 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Mount Laurel, NJ CLC](https://jobright.ai/jobs/info/68a766ffd627244576e2be34?utm_campaign=1055&utm_source=git)** | Mount Laurel, NJ | Hybrid | Aug 21 |
+| ↳ | **[Summer 2026 Intern - Law - Chicago, IL CLC](https://jobright.ai/jobs/info/68a763f7758f2e4ac3feb9e5?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 21 |
 | **[Medartis Inc. - United States](https://www.medartisusa.com)** | **[Legal and Compliance Intern](https://jobright.ai/jobs/info/68a7579ed627244576e2b9a0?utm_campaign=1055&utm_source=git)** | Warsaw, IN | On Site | Aug 21 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Affairs Intern, SPA – Fall 2025](https://jobright.ai/jobs/info/68a74dcad627244576e2b2e1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 21 |
 | **[A-C Electric Company](http://a-celectric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68a74afb758f2e4ac3feabf6?utm_campaign=1055&utm_source=git)** | Bakersfield, CA | On Site | Aug 21 |
@@ -147,14 +152,9 @@ For a complete list, click the following sortable link below:
 | **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern, Risk Advisory Services - Information Technology (DRC) - Summer 2026 (Boston)](https://jobright.ai/jobs/info/68a4c954541cc3479840dfd8?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Aug 19 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Fall 2025 - Regulatory Licensing & Compliance](https://jobright.ai/jobs/info/68a4bf392d2a252445cd8c3b?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Aug 19 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management BSA/AML Intern](https://jobright.ai/jobs/info/68a4ba762d2a252445cd89bf?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 19 |
+| **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/6878520b866a435525ab85f7?utm_campaign=1055&utm_source=git)** | SD Metro Area | Hybrid | Aug 19 |
 | **[Berliner Cohen, LLP](http://berliner.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68a4a2912d2a252445cd805d?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
 | **[Law Office of Jack M. Shapiro, P.C.](https://jackshapirolaw.com/)** | **[Law Clerk - Intern - Fall/Winter 2025](https://jobright.ai/jobs/info/68a49e0b541cc3479840ca03?utm_campaign=1055&utm_source=git)** | Buffalo Grove, IL | On Site | Aug 19 |
 | **[Advocates for the West](http://www.advocateswest.org)** | **[2026 Summer Law Clerk](https://jobright.ai/jobs/info/68a4972c541cc3479840c7a1?utm_campaign=1055&utm_source=git)** | Boise, ID | Hybrid | Aug 19 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/689e3e59faa4e875e8278c62?utm_campaign=1055&utm_source=git)** | Burlington, KY | On Site | Aug 19 |
-| **[Mercy For Animals](https://mercyforanimals.org)** | **[Summer Legal Internship](https://jobright.ai/jobs/info/68a54fb0758f2e4ac3fdddbe?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 19 |
-| ↳ | **[Summer Legal Internship](https://jobright.ai/jobs/info/68a488092d2a252445cd73e9?utm_campaign=1055&utm_source=git)** | Remote in the United States | Remote | Aug 19 |
-| **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - Risk Management](https://jobright.ai/jobs/info/6887e26773e3e13cbd940dab?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Aug 19 |
-| **[CAE](http://www.cae.com)** | **[Legal Assistant Co-Op-EN](https://jobright.ai/jobs/info/6887dd694174df41e0fa122c?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Aug 19 |
-| **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/6878423fae2f413e4a5c0d76?utm_campaign=1055&utm_source=git)** | Atlanta Metro | Hybrid | Aug 19 |
-| **[Arnold & Itkin LLP](https://www.arnolditkin.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68930454f47efe21139621e2?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
