@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68a776a133dd7158bbca76a2?utm_campaign=1055&utm_source=git)** | Paducah, KY | On Site | Aug 21 |
-| **[Devon Energy](https://www.devonenergy.com)** | **[Land Intern - Summer 2026](https://jobright.ai/jobs/info/68a77484d627244576e2c9e6?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Aug 21 |
 | **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/68a76f75d627244576e2c65f?utm_campaign=1055&utm_source=git)** | Doral, FL | Hybrid | Aug 21 |
+| **[Devon Energy](https://www.devonenergy.com)** | **[Land Intern - Summer 2026](https://jobright.ai/jobs/info/68a78f4ed627244576e2d645?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Aug 21 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Mount Laurel, NJ CLC](https://jobright.ai/jobs/info/68a766ffd627244576e2be34?utm_campaign=1055&utm_source=git)** | Mount Laurel, NJ | Hybrid | Aug 21 |
 | ↳ | **[Summer 2026 Intern - Law - Chicago, IL CLC](https://jobright.ai/jobs/info/68a763f7758f2e4ac3feb9e5?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 21 |
 | **[Medartis Inc. - United States](https://www.medartisusa.com)** | **[Legal and Compliance Intern](https://jobright.ai/jobs/info/68a7579ed627244576e2b9a0?utm_campaign=1055&utm_source=git)** | Warsaw, IN | On Site | Aug 21 |
@@ -68,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/68a73d14d627244576e2a939?utm_campaign=1055&utm_source=git)** | Doral, Florida | Hybrid | Aug 21 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Legal Intake Volunteer](https://jobright.ai/jobs/info/68a72cf5d627244576e2a2ac?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 21 |
 | **[NYC Department of Social Services](https://www.nyc.gov/site/dss/index.page)** | **[AGENCY ATTORNEY](https://jobright.ai/jobs/info/68a7295d758f2e4ac3fe9d4d?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Aug 21 |
-| **[Wikimedia Foundation](http://wikimediafoundation.org)** | **[Legal Fellow (Spring 2026)](https://jobright.ai/jobs/info/68a70c1033dd7158bbca428c?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 21 |
 | **[Clarios](https://www.clarios.com/)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/688a5db89f961617fe21b04e?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Aug 21 |
 | **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/6862e89fbea298b4eb60a0d4?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 21 |
 | **[Berding | Weil](https://www.berding-weil.com/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/68a688a3758f2e4ac3fe54e9?utm_campaign=1055&utm_source=git)** | Walnut, CA | On Site | Aug 20 |
@@ -83,9 +82,9 @@ For a complete list, click the following sortable link below:
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Risk Management](https://jobright.ai/jobs/info/68a652d7b6a3617d7fa76e18?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Aug 20 |
 | ↳ | **[Summer Intern - Law Clerk](https://jobright.ai/jobs/info/68a65233b6a3617d7fa76d93?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Aug 20 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Government Compliance Intern (Cincinnati, OH)](https://jobright.ai/jobs/info/68a63a13b6a3617d7fa76628?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Aug 20 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Affairs Intern, SPA – Fall 2025](https://jobright.ai/jobs/info/68a6326bb6a3617d7fa7623a?utm_campaign=1055&utm_source=git)** | Los Angeles, California | Hybrid | Aug 20 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Spring 2026 Legal Externship – Washington, DC Regional Office](https://jobright.ai/jobs/info/68a631e9758f2e4ac3fe391a?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
-| ↳ | **[Spring 2026 Legal Externship – California Regional Office](https://jobright.ai/jobs/info/68a63120758f2e4ac3fe3762?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Affairs Intern, SPA – Fall 2025](https://jobright.ai/jobs/info/68a6316a758f2e4ac3fe3809?utm_campaign=1055&utm_source=git)** | Los Angeles, California | Hybrid | Aug 20 |
+| **[Earthjustice](http://earthjustice.org/)** | **[Spring 2026 Legal Externship – California Regional Office](https://jobright.ai/jobs/info/68a63120758f2e4ac3fe3762?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
 | ↳ | **[Spring 2026 Legal Externship – Biodiversity Defense Program](https://jobright.ai/jobs/info/68a63107758f2e4ac3fe3722?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
 | ↳ | **[Spring 2026 Legal Externship – International Program](https://jobright.ai/jobs/info/68a63087758f2e4ac3fe361b?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
 | ↳ | **[Spring 2026 Legal Externship – Northeast Regional Office](https://jobright.ai/jobs/info/68a6306eb6a3617d7fa760bf?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Law Office of Jack M. Shapiro, P.C.](https://jackshapirolaw.com/)** | **[Law Clerk - Intern - Fall/Winter 2025](https://jobright.ai/jobs/info/68a49e0b541cc3479840ca03?utm_campaign=1055&utm_source=git)** | Buffalo Grove, IL | On Site | Aug 19 |
 | **[Advocates for the West](http://www.advocateswest.org)** | **[2026 Summer Law Clerk](https://jobright.ai/jobs/info/68a4972c541cc3479840c7a1?utm_campaign=1055&utm_source=git)** | Boise, ID | Hybrid | Aug 19 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/689e3e59faa4e875e8278c62?utm_campaign=1055&utm_source=git)** | Burlington, KY | On Site | Aug 19 |
+| **[Mercy For Animals](https://mercyforanimals.org)** | **[Summer Legal Internship](https://jobright.ai/jobs/info/68a54fb0758f2e4ac3fdddbe?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
