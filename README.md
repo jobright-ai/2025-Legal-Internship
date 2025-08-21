@@ -149,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Slovensky Divorce & Family Law](https://slovenskylaw.com)** | **[Summer Associate – Family Law Firm](https://jobright.ai/jobs/info/68a429372d2a252445cd639a?utm_campaign=1055&utm_source=git)** | Roanoke, VA | On Site | Aug 19 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Roxbury Defenders Unit - Spring 2026](https://jobright.ai/jobs/info/68a3e73ee9f1c744da11f196?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Aug 18 |
 | **[Gallagher](http://www.ajg.com)** | **[U.S Internship - Risk Control](https://jobright.ai/jobs/info/68a3d2641ab5f8579e8a8a7d?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | Hybrid | Aug 18 |
+| **[Student Basic Needs Coalition](http://www.studentbasicneeds.com)** | **[Legal Researcher](https://jobright.ai/jobs/info/68a143ddfaa4e875e82929db?utm_campaign=1055&utm_source=git)** | Chicago, IL | Remote | Aug 18 |
 | **[Gallagher Re](https://www.gallagherre.com/)** | **[U.S Internship - Risk Control](https://jobright.ai/jobs/info/68a3cbd437d3cc6b0d579a74?utm_campaign=1055&utm_source=git)** | Rolling Meadows, Illinois | Hybrid | Aug 18 |
 | **[Hays County](http://hayscountytx.com)** | **[County Court at Law Intern](https://jobright.ai/jobs/info/68a4bd47541cc3479840d599?utm_campaign=1055&utm_source=git)** | San Marcos, TX | On Site | Aug 18 |
 | **[State of Colorado](https://dpo.colorado.gov/)** | **[COMPLIANCE INVESTIGATOR INTERN - Racing Division.](https://jobright.ai/jobs/info/68a3c00a37d3cc6b0d579456?utm_campaign=1055&utm_source=git)** | Lakewood, CO | On Site | Aug 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cantex](https://www.cantexcc.com)** | **[Legal Intern (18875)](https://jobright.ai/jobs/info/68a37e23403ad4363b1c1b19?utm_campaign=1055&utm_source=git)** | Carrollton, TX | On Site | Aug 18 |
 | **[State of Utah](http://www.utah.gov/)** | **[Law Clerk - 2026 Spring Semester](https://jobright.ai/jobs/info/68a37c011ab5f8579e8a6323?utm_campaign=1055&utm_source=git)** | Salt Lake County, UT | On Site | Aug 18 |
 | **[Wright Family Law Group](http://wrrightfamilylawgroup.com)** | **[Fall Legal Intern – Small Claims Practice](https://jobright.ai/jobs/info/68a41082e9f1c744da1205dc?utm_campaign=1055&utm_source=git)** | Tewksbury, MA | Remote | Aug 18 |
-| **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e228ad?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
