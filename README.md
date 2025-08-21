@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Berding | Weil](https://www.berding-weil.com/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/68a688a3758f2e4ac3fe54e9?utm_campaign=1055&utm_source=git)** | Walnut, CA | On Site | Aug 20 |
+| **[Earthjustice](http://earthjustice.org/)** | **[Spring 2026 Legal Internship – Crosscutting Toxics & Drinking Water](https://jobright.ai/jobs/info/68a6869a33dd7158bbca066b?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68a67513b6a3617d7fa778be?utm_campaign=1055&utm_source=git)** | Imperial, PA | On Site | Aug 20 |
 | **[Wefunder](http://www.wefunder.com)** | **[Internship - Closing and Compliance](https://jobright.ai/jobs/info/68a66f4133dd7158bbca0074?utm_campaign=1055&utm_source=git)** | San Francisco | On Site | Aug 20 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Spring 2026 Legal Internship – Crosscutting Toxics & Drinking Water](https://jobright.ai/jobs/info/68a66e9e33dd7158bbc9ff95?utm_campaign=1055&utm_source=git)** | Remote, United States | Hybrid | Aug 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Utah](http://www.utah.gov/)** | **[Law Clerk - 2026 Spring Semester](https://jobright.ai/jobs/info/68a37c011ab5f8579e8a6323?utm_campaign=1055&utm_source=git)** | Salt Lake County, UT | On Site | Aug 18 |
 | **[Wright Family Law Group](http://wrrightfamilylawgroup.com)** | **[Fall Legal Intern – Small Claims Practice](https://jobright.ai/jobs/info/68a41082e9f1c744da1205dc?utm_campaign=1055&utm_source=git)** | Tewksbury, MA | Remote | Aug 18 |
 | **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e228ad?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Aug 18 |
-| **[Fifth Third Bank](http://53.com)** | **[Risk Leadership Program Participant 2026](https://jobright.ai/jobs/info/68a370bf37d3cc6b0d576d90?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Aug 18 |
-| **[Family Service Association - Fall River](http://www.frfsa.org)** | **[Legal Intern](https://jobright.ai/jobs/info/68a40f382d2a252445cd56e5?utm_campaign=1055&utm_source=git)** | Fall River, MA | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
