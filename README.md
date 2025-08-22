@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hand Arendall Harrison Sale LLC](https://www.hsmclaw.com)** | **[Summer Associate](https://jobright.ai/jobs/info/68a7c20733dd7158bbca96d7?utm_campaign=1055&utm_source=git)** | Alabama or Florida Panhandle | On Site | Aug 21 |
+| **[Devon Energy](https://www.devonenergy.com)** | **[Land Intern - Summer 2026](https://jobright.ai/jobs/info/68a7b6c633dd7158bbca8f0e?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Aug 21 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Customer Contracts Administrator I (Elec Dist Design)](https://jobright.ai/jobs/info/68a7a68733dd7158bbca8909?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Aug 21 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Probation Intern (Probation Division)](https://jobright.ai/jobs/info/68a7a5a2d627244576e2dc89?utm_campaign=1055&utm_source=git)** | Morristown, NJ | Hybrid | Aug 21 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern- Investigations](https://jobright.ai/jobs/info/68a7a496d627244576e2db7a?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Aug 21 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Security/Cyber Governance & Risk Management)](https://jobright.ai/jobs/info/68a7a34f758f2e4ac3fed622?utm_campaign=1055&utm_source=git)** | 820 Follin Lane, Vienna, VA, 22180, US | On Site | Aug 21 |
 | **[Sierra Club](http://sierraclub.org)** | **[Spring / Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68a7a0d2d627244576e2da25?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 21 |
-| **[Archv AI](https://www.linkedin.com/company/108378302)** | **[Security Compliance Intern](https://jobright.ai/jobs/info/68a79713d627244576e2d835?utm_campaign=1055&utm_source=git)** | Irvine, CA | Hybrid | Aug 21 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68a776a133dd7158bbca76a2?utm_campaign=1055&utm_source=git)** | Paducah, KY | On Site | Aug 21 |
 | **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/68a76f75d627244576e2c65f?utm_campaign=1055&utm_source=git)** | Doral, FL | Hybrid | Aug 21 |
 | **[Devon Energy](https://www.devonenergy.com)** | **[Land Intern - Summer 2026](https://jobright.ai/jobs/info/68a78f4ed627244576e2d645?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Aug 21 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Affairs Intern, SPA – Fall 2025](https://jobright.ai/jobs/info/68a74dcad627244576e2b2e1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 21 |
 | **[A-C Electric Company](http://a-celectric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68a74afb758f2e4ac3feabf6?utm_campaign=1055&utm_source=git)** | Bakersfield, CA | On Site | Aug 21 |
 | **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/68a73d14d627244576e2a939?utm_campaign=1055&utm_source=git)** | Doral, Florida | Hybrid | Aug 21 |
-| **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Legal Intake Volunteer](https://jobright.ai/jobs/info/68a72cf5d627244576e2a2ac?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 21 |
 | **[NYC Department of Social Services](https://www.nyc.gov/site/dss/index.page)** | **[AGENCY ATTORNEY](https://jobright.ai/jobs/info/68a7295d758f2e4ac3fe9d4d?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Aug 21 |
 | **[Clarios](https://www.clarios.com/)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/688a5db89f961617fe21b04e?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Aug 21 |
 | **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/6862e89fbea298b4eb60a0d4?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 21 |
@@ -88,9 +88,9 @@ For a complete list, click the following sortable link below:
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Risk Management](https://jobright.ai/jobs/info/68a652d7b6a3617d7fa76e18?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Aug 20 |
 | ↳ | **[Summer Intern - Law Clerk](https://jobright.ai/jobs/info/68a65233b6a3617d7fa76d93?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Aug 20 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Government Compliance Intern (Cincinnati, OH)](https://jobright.ai/jobs/info/68a63a13b6a3617d7fa76628?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Aug 20 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Affairs Intern, SPA – Fall 2025](https://jobright.ai/jobs/info/68a6326bb6a3617d7fa7623a?utm_campaign=1055&utm_source=git)** | Los Angeles, California | Hybrid | Aug 20 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Spring 2026 Legal Externship – Washington, DC Regional Office](https://jobright.ai/jobs/info/68a631e9758f2e4ac3fe391a?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
-| ↳ | **[Spring 2026 Legal Externship – California Regional Office](https://jobright.ai/jobs/info/68a63120758f2e4ac3fe3762?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Business Affairs Intern, SPA – Fall 2025](https://jobright.ai/jobs/info/68a6316a758f2e4ac3fe3809?utm_campaign=1055&utm_source=git)** | Los Angeles, California | Hybrid | Aug 20 |
+| **[Earthjustice](http://earthjustice.org/)** | **[Spring 2026 Legal Externship – California Regional Office](https://jobright.ai/jobs/info/68a63120758f2e4ac3fe3762?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
 | ↳ | **[Spring 2026 Legal Externship – Biodiversity Defense Program](https://jobright.ai/jobs/info/68a63107758f2e4ac3fe3722?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
 | ↳ | **[Spring 2026 Legal Externship – International Program](https://jobright.ai/jobs/info/68a63087758f2e4ac3fe361b?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
 | ↳ | **[Spring 2026 Legal Externship – Northeast Regional Office](https://jobright.ai/jobs/info/68a6306eb6a3617d7fa760bf?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
