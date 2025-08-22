@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Regulatory Affairs](https://jobright.ai/jobs/info/68a87f04758f2e4ac3ff2d70?utm_campaign=1055&utm_source=git)** | Okemos, MI | Hybrid | Aug 22 |
+| **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[Bilingual Compliance Investigator Intern.](https://jobright.ai/jobs/info/68a8acea6acf96396f721c64?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Aug 22 |
+| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Regulatory Affairs](https://jobright.ai/jobs/info/68a8aa6bd627244576e347fa?utm_campaign=1055&utm_source=git)** | Okemos, MI | Hybrid | Aug 22 |
+| **[Glendale Fire Department](http://www.glendalefire.gov)** | **[Fall 2025 Legal Clerkship](https://jobright.ai/jobs/info/68a8a70e6acf96396f721862?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Aug 22 |
+| **[Vernis & Bowling](https://www.national-law.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/68a8a0066acf96396f72149d?utm_campaign=1055&utm_source=git)** | Islamorada, FL | Hybrid | Aug 22 |
+| **[Singh Law Firm, P.A.](https://www.singhfirm.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68a891ddd627244576e339ae?utm_campaign=1055&utm_source=git)** | Vienna, VA | On Site | Aug 22 |
 | **[The Hartford](https://www.hartfordlife.com)** | **[Intern, Enterprise Risk Management](https://jobright.ai/jobs/info/68a87ed1d627244576e33128?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Aug 22 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/68a88703d627244576e333b5?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Aug 22 |
+| **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern – Spring 2026](https://jobright.ai/jobs/info/688c1658906ac06e1d1d09e1?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Aug 22 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/6853de39dee22b2fb32812ba?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Aug 22 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Disputes and Investigations - National Security Summer 2026](https://jobright.ai/jobs/info/68a80e76758f2e4ac3ff0632?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 21 |
 | **[Hand Arendall Harrison Sale LLC](https://www.hsmclaw.com)** | **[Summer Associate](https://jobright.ai/jobs/info/68a7c20733dd7158bbca96d7?utm_campaign=1055&utm_source=git)** | Alabama or Florida Panhandle | On Site | Aug 21 |
 | **[Devon Energy](https://www.devonenergy.com)** | **[Land Intern - Summer 2026](https://jobright.ai/jobs/info/68a7b6c633dd7158bbca8f0e?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Aug 21 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PURE Insurance](https://www.pureinsurance.com/index)** | **[Claims Fall Intern](https://jobright.ai/jobs/info/68a4f007b6a3617d7fa6d84f?utm_campaign=1055&utm_source=git)** | Charleston | On Site | Aug 19 |
 | **[Proskauer Rose LLP](http://www.proskauer.com)** | **[Pro Bono Intern (Fall 2025)](https://jobright.ai/jobs/info/68a4e94733dd7158bbc96065?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Aug 19 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Cyber Security and Compliance (CCA) - Summer 2026 (NYC)](https://jobright.ai/jobs/info/68a4e942758f2e4ac3fdad11?utm_campaign=1055&utm_source=git)** | 200 Park Avenue, New York, NY, 10166, US | On Site | Aug 19 |
-| **[Montgomery County Police Department](https://www.linkedin.com/company/59521635)** | **[Law Enforcement Internships](https://jobright.ai/jobs/info/68a4e619758f2e4ac3fdac9c?utm_campaign=1055&utm_source=git)** | Montgomery County, MD | On Site | Aug 19 |
-| **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern, Risk Advisory Services - Cyber Security and Compliance (CCA) - Summer 2026 (NYC)](https://jobright.ai/jobs/info/68a4de04e9f1c744da1250d5?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 19 |
-| **[Harris County District Attorney's Office](https://www.harriscountyda.com/)** | **[In-Person Law Student Paid Intern](https://jobright.ai/jobs/info/68a4dd788f3a5e12e68d3cc7?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 19 |
-| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Fall 2025 - Regulatory Licensing & Compliance](https://jobright.ai/jobs/info/68a543cdb6a3617d7fa6ffa4?utm_campaign=1055&utm_source=git)** | Utica, NY | On Site | Aug 19 |
-| ↳ | **[College Intern I - Fall 2025 - Regulatory Licensing & Compliance](https://jobright.ai/jobs/info/68a4d627bdd80e69391be4f3?utm_campaign=1055&utm_source=git)** | DeWitt, NY | On Site | Aug 19 |
-| ↳ | **[College Intern I - Fall 2025 - Regulatory Licensing & Compliance](https://jobright.ai/jobs/info/68a4d623bdd80e69391be4e0?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
