@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AmericanIIR](americaniir.org)** | **[Legal Intern](https://jobright.ai/jobs/info/68a9bff5758f2e4ac3ffb4e3?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 23 |
+| **[Barclays](https://home.barclays)** | **[Compliance Analyst Graduate Program 2026 Whippany](https://jobright.ai/jobs/info/68a9b576d627244576e3b4ec?utm_campaign=1055&utm_source=git)** | Whippany, NJ | On Site | Aug 23 |
+| ↳ | **[Compliance Analyst Graduate Program 2026 New York City](https://jobright.ai/jobs/info/68a9b2bb758f2e4ac3ffb1c9?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 23 |
 | **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Compliance](https://jobright.ai/jobs/info/68a91295d627244576e374c5?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Aug 22 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/68a90f7f6acf96396f724768?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Risk Advisory Intern](https://jobright.ai/jobs/info/68a90f456acf96396f7246ef?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Aug 22 |
@@ -80,7 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Traub Lieberman Straus & Shrewsberry LLP](http://traublieberman.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68a8bdec758f2e4ac3ff4b6f?utm_campaign=1055&utm_source=git)** | Hawthorne, New York, United States | On Site | Aug 22 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Fall 2025 Legal Internship – Washington, DC Regional Office](https://jobright.ai/jobs/info/68a8bcf56acf96396f722256?utm_campaign=1055&utm_source=git)** | Washington, DC Regional | Hybrid | Aug 22 |
 | **[ACLU of Virginia](http://www.acluva.org)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/68a8bcb56acf96396f7221ab?utm_campaign=1055&utm_source=git)** | Hybrid Remote - Richmond | On Site | Aug 22 |
-| **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[Bilingual Compliance Investigator Intern.](https://jobright.ai/jobs/info/68a8acea6acf96396f721c64?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Aug 22 |
+| **[State of Colorado](https://www.colorado.gov/pacific/sipa)** | **[Bilingual Compliance Investigator Intern.](https://jobright.ai/jobs/info/68a8acea6acf96396f721c64?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Aug 22 |
 | **[Glendale Fire Department](http://www.glendalefire.gov)** | **[Fall 2025 Legal Clerkship](https://jobright.ai/jobs/info/68a8a70e6acf96396f721862?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Aug 22 |
 | **[Vernis & Bowling](https://www.national-law.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/68a8a0066acf96396f72149d?utm_campaign=1055&utm_source=git)** | Islamorada, FL | Hybrid | Aug 22 |
 | **[Singh Law Firm, P.A.](https://www.singhfirm.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68a891ddd627244576e339ae?utm_campaign=1055&utm_source=git)** | Vienna, VA | On Site | Aug 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68a5fedf758f2e4ac3fe1c7e?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Aug 20 |
 | **[Anders](http://anderscpa.com/)** | **[Compliance/Loan Review Intern - Summer 2026](https://jobright.ai/jobs/info/68a5fcb433dd7158bbc9cfb0?utm_campaign=1055&utm_source=git)** | St. Louis, MO | On Site | Aug 20 |
 | **[Morongo Band of Mission Indians](http://www.morongonation.org/)** | **[Legal Intern (College) - Summer 2026](https://jobright.ai/jobs/info/68a5f84a33dd7158bbc9ccc9?utm_campaign=1055&utm_source=git)** | Banning, CA | On Site | Aug 20 |
-| **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[FIU BSA Intern](https://jobright.ai/jobs/info/68a616dc33dd7158bbc9d8e6?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Aug 20 |
-| **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68895d579f961617fe213da6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 20 |
-| **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Intellectual Property](https://jobright.ai/jobs/info/67fd51a9d0b22bdc37be3dac?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
