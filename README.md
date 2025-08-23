@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stoel Rives LLP](http://www.stoel.com)** | **[2026 2L Real Estate Summer Associate](https://jobright.ai/jobs/info/68a8f903d627244576e36a8e?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Aug 22 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/68a8e3f76acf96396f72396f?utm_campaign=1055&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
 | ↳ | **[Compliance Summer Intern](https://jobright.ai/jobs/info/68a8e35fd627244576e36504?utm_campaign=1055&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Intern - Compliance](https://jobright.ai/jobs/info/68a8da6b6acf96396f7235a5?utm_campaign=1055&utm_source=git)** | 717 N Harwood St, Dallas, TX, 75201, US | On Site | Aug 22 |
@@ -77,13 +78,14 @@ For a complete list, click the following sortable link below:
 | **[ACLU of Virginia](http://www.acluva.org)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/68a8bcb56acf96396f7221ab?utm_campaign=1055&utm_source=git)** | Hybrid Remote - Richmond | On Site | Aug 22 |
 | **[California Department of Industrial Relations](https://www.dir.ca.gov/)** | **[Administrative Legal Court Services Supervisor II](https://jobright.ai/jobs/info/68a8de4d6acf96396f72377d?utm_campaign=1055&utm_source=git)** | San Francisco County, CA | Hybrid | Aug 22 |
 | **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[Bilingual Compliance Investigator Intern.](https://jobright.ai/jobs/info/68a8acea6acf96396f721c64?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Aug 22 |
+| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Regulatory Affairs](https://jobright.ai/jobs/info/68a8aa6bd627244576e347fa?utm_campaign=1055&utm_source=git)** | Okemos, MI | Hybrid | Aug 22 |
 | **[Glendale Fire Department](http://www.glendalefire.gov)** | **[Fall 2025 Legal Clerkship](https://jobright.ai/jobs/info/68a8a70e6acf96396f721862?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Aug 22 |
 | **[Vernis & Bowling](https://www.national-law.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/68a8a0066acf96396f72149d?utm_campaign=1055&utm_source=git)** | Islamorada, FL | Hybrid | Aug 22 |
 | **[Singh Law Firm, P.A.](https://www.singhfirm.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68a891ddd627244576e339ae?utm_campaign=1055&utm_source=git)** | Vienna, VA | On Site | Aug 22 |
-| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Regulatory Affairs](https://jobright.ai/jobs/info/68a87f04758f2e4ac3ff2d70?utm_campaign=1055&utm_source=git)** | Okemos, MI | Hybrid | Aug 22 |
 | **[The Hartford](https://www.hartfordlife.com)** | **[Intern, Enterprise Risk Management](https://jobright.ai/jobs/info/68a87ed1d627244576e33128?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Aug 22 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/68a88703d627244576e333b5?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Aug 22 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern – Spring 2026](https://jobright.ai/jobs/info/688c1658906ac06e1d1d09e1?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Aug 22 |
+| **[Protiviti](http://www.protiviti.com)** | **[Minneapolis Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68658af4dacc710e97af26dc?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 22 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/6853de39dee22b2fb32812ba?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Aug 22 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Disputes and Investigations - National Security Summer 2026](https://jobright.ai/jobs/info/68a80e76758f2e4ac3ff0632?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 21 |
 | **[Hand Arendall Harrison Sale LLC](https://www.hsmclaw.com)** | **[Summer Associate](https://jobright.ai/jobs/info/68a7c20733dd7158bbca96d7?utm_campaign=1055&utm_source=git)** | Alabama or Florida Panhandle | On Site | Aug 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arnold & Itkin LLP](https://www.arnolditkin.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68a81a37d627244576e31028?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 19 |
 | **[Pinnacle Propane, LLC](https://pinnaclepropane.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68a8138cd627244576e30ba6?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Aug 19 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Fall 2025 - Regulatory Licensing & Compliance](https://jobright.ai/jobs/info/68a6b68e33dd7158bbca2278?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Aug 19 |
-| ↳ | **[College Intern I - Fall 2025 - Regulatory Licensing & Compliance](https://jobright.ai/jobs/info/68a6b795b6a3617d7fa79bba?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Aug 19 |
-| **[PURE Insurance](https://www.pureinsurance.com/index)** | **[Claims Fall Intern](https://jobright.ai/jobs/info/68a5303233dd7158bbc97d78?utm_campaign=1055&utm_source=git)** | Charleston, SC | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
