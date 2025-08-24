@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Cornerstone Abstract & Settlement](http://www.cornerstonesettlement.com)** | **[Title Agent Assistant / Apprentice](https://jobright.ai/jobs/info/68a9f0d0d627244576e3bfea?utm_campaign=1055&utm_source=git)** | Wellsboro, PA | On Site | Aug 23 |
-| **[AmericanIIR](americaniir.org)** | **[Legal Intern](https://jobright.ai/jobs/info/68a9bff5758f2e4ac3ffb4e3?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 23 |
 | **[Barclays](https://home.barclays)** | **[Compliance Analyst Graduate Program 2026 Whippany](https://jobright.ai/jobs/info/68a9b576d627244576e3b4ec?utm_campaign=1055&utm_source=git)** | Whippany, NJ | On Site | Aug 23 |
 | ↳ | **[Compliance Analyst Graduate Program 2026 New York City](https://jobright.ai/jobs/info/68a9b2bb758f2e4ac3ffb1c9?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 23 |
 | **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Compliance](https://jobright.ai/jobs/info/68a91295d627244576e374c5?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Aug 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68a5fedf758f2e4ac3fe1c7e?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Aug 20 |
 | **[Anders](http://anderscpa.com/)** | **[Compliance/Loan Review Intern - Summer 2026](https://jobright.ai/jobs/info/68a5fcb433dd7158bbc9cfb0?utm_campaign=1055&utm_source=git)** | St. Louis, MO | On Site | Aug 20 |
 | **[Morongo Band of Mission Indians](http://www.morongonation.org/)** | **[Legal Intern (College) - Summer 2026](https://jobright.ai/jobs/info/68a5f84a33dd7158bbc9ccc9?utm_campaign=1055&utm_source=git)** | Banning, CA | On Site | Aug 20 |
+| **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[FIU BSA Intern](https://jobright.ai/jobs/info/68a616dc33dd7158bbc9d8e6?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
