@@ -57,9 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Avalara](http://www.avalara.com)** | **[Business Continuity & Disaster Recovery Intern](https://jobright.ai/jobs/info/68ac16efd627244576e44865?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 25 |
-| ↳ | **[Legal Operations Intern](https://jobright.ai/jobs/info/68ac164ed627244576e4482d?utm_campaign=1055&utm_source=git)** | Durham, NC | Hybrid | Aug 25 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68ac132ed627244576e4476d?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Aug 25 |
+| **[Avalara](http://www.avalara.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68ac132ed627244576e4476d?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Aug 25 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68ac12b2daf1431824c93b17?utm_campaign=1055&utm_source=git)** | Durham, NC | Hybrid | Aug 25 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68ac1242daf1431824c93af2?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 25 |
 | **[PwC](http://pwc.com)** | **[Managed Services Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7cddaf1431824c929c0?utm_campaign=1055&utm_source=git)** | PA-Philadelphia | On Site | Aug 24 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Legal Externship – Community Partnerships Program](https://jobright.ai/jobs/info/68a62ea4b6a3617d7fa75f2c?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Aug 20 |
 | **[Crowe](https://www.crowe.com/)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/68a6267733dd7158bbc9e575?utm_campaign=1055&utm_source=git)** | New York NY USA | On Site | Aug 20 |
 | **[Rockefeller Capital Management](https://www.rockco.com/)** | **[Summer Analyst - Business Supervision & Controls](https://jobright.ai/jobs/info/689fd961faa4e875e828b9ad?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Aug 20 |
+| **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Spring 2026](https://jobright.ai/jobs/info/68a6239933dd7158bbc9e317?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 20 |
+| **[Anders](http://anderscpa.com/)** | **[Compliance/Loan Review Intern - Summer 2026](https://jobright.ai/jobs/info/68a62394b6a3617d7fa75a64?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
