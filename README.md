@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Summer Internship 2026 / Risk Advisory Intern (48529)](https://jobright.ai/jobs/info/68ae0abf758f2e4ac3010cfb?utm_campaign=1055&utm_source=git)** | Owings Mills, MD, USA | On Site | Aug 26 |
+| **[Selective Insurance](https://www.selective.com/)** | **[Legal Records Summer Internship - Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/68ae0a53758f2e4ac3010c57?utm_campaign=1055&utm_source=git)** | Branchville, NJ | Hybrid | Aug 26 |
+| **[McDermott International, Ltd](http://www.mcdermott.com)** | **[Legal Co-Op](https://jobright.ai/jobs/info/68ae0a43758f2e4ac3010c3a?utm_campaign=1055&utm_source=git)** | The Woodlands, Texas | On Site | Aug 26 |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Summer Internship 2026 / Risk Advisory Intern (48529)](https://jobright.ai/jobs/info/68ae0a16daf1431824ca01ec?utm_campaign=1055&utm_source=git)** | Owings Mills, MD | On Site | Aug 26 |
+| **[Daikin Comfort](http://www.daikincomfort.com)** | **[Legal Intern - GMC Temp](https://jobright.ai/jobs/info/68ae0957758f2e4ac3010a9d?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 26 |
 | **[Wikimedia Foundation](http://wikimediafoundation.org)** | **[Legal Fellow (Spring 2026)](https://jobright.ai/jobs/info/68adf0f0daf1431824c9f0f6?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 26 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Claims (Auto Property Damage)](https://jobright.ai/jobs/info/68adcfbfdaf1431824c9e2ef?utm_campaign=1055&utm_source=git)** | Worcester, MA | Hybrid | Aug 26 |
 | **[Bremer Whyte Brown & O'Meara, LLP](https://bremerwhyte.com/)** | **[Diversity Fellowship - Summer 2026 Law Clerk (2L Students Eligible to Apply)](https://jobright.ai/jobs/info/68913e2a4c7e851b90acd315?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | On Site | Aug 26 |
@@ -125,7 +130,7 @@ Job ID : 263270](https://jobright.ai/jobs/info/68ad7fbbd627244576e4decd?utm_camp
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac8477758f2e4ac3006280?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac8335d627244576e464cd?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Aug 25 |
 | **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Risk Management](https://jobright.ai/jobs/info/68ac75dddaf1431824c953c5?utm_campaign=1055&utm_source=git)** | Tempe | Hybrid | Aug 25 |
-| ↳ | **[FAR Program: Summer 2026 Internship – Risk Management](https://jobright.ai/jobs/info/68ac73f8d627244576e45d88?utm_campaign=1055&utm_source=git)** | Fort Mill/Charlotte | Hybrid | Aug 25 |
+| ↳ | **[FAR Program: Summer 2026 Internship – Risk Management](https://jobright.ai/jobs/info/68ac756a758f2e4ac3005a70?utm_campaign=1055&utm_source=git)** | Fort Mill/Charlotte | Hybrid | Aug 25 |
 | **[Johnson & Johnson (JNJ)](https://www.linkedin.com/company/105928786)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac3754daf1431824c940cd?utm_campaign=1055&utm_source=git)** | Irvine, California, United States of America | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac374ddaf1431824c940cb?utm_campaign=1055&utm_source=git)** | Atlanta, Georgia, United States | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac3742daf1431824c940c9?utm_campaign=1055&utm_source=git)** | Athens, Georgia, United States of America | On Site | Aug 25 |
@@ -153,9 +158,4 @@ Job ID : 263270](https://jobright.ai/jobs/info/68ad7fbbd627244576e4decd?utm_camp
 | **[MannKind Corporation](http://mannkindcorp.com)** | **[Legal Externship - Fall 2025](https://jobright.ai/jobs/info/681c6f427f82d9187080505d?utm_campaign=1055&utm_source=git)** | Westlake Village, CA | On Site | Aug 23 |
 | **[Danaher Life Sciences](https://lifesciences.danaher.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68aa8451758f2e4ac3ffce98?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Aug 23 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Department Governance Intern](https://jobright.ai/jobs/info/688be6b53a30793eb963e9f9?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 22 |
-| **[School Administrators Association of New York State](http://www.saanys.org)** | **[Legal Intern](https://jobright.ai/jobs/info/68ab0cbc758f2e4ac3ffef12?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Aug 22 |
-| **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Compliance](https://jobright.ai/jobs/info/68a91295d627244576e374c5?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Aug 22 |
-| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/68a90f7f6acf96396f724768?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
-| **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Risk Advisory Intern](https://jobright.ai/jobs/info/68a90f456acf96396f7246ef?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Aug 22 |
-| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/68a90df6d627244576e37202?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
