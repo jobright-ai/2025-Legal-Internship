@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[E&S Property Underwriting Summer Intern](https://jobright.ai/jobs/info/68ad1151daf1431824c9a3d0?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | On Site | Aug 25 |
+| **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad0cc8d627244576e4ae5c?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Aug 25 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad0c75daf1431824c9a247?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 25 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad092d758f2e4ac300a737?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad090b758f2e4ac300a717?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 25 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68acf609d627244576e4a31b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68acf5acd627244576e4a2c8?utm_campaign=1055&utm_source=git)** | Bellevue, WA | Hybrid | Aug 25 |
 | **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/68acf573daf1431824c99672?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/68a8c877758f2e4ac3ff5451?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Aug 22 |
 | **[Sierra Club](http://sierraclub.org)** | **[Spring / Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68a8c64e758f2e4ac3ff532d?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 22 |
 | ↳ | **[Spring / Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68a8c47a758f2e4ac3ff5198?utm_campaign=1055&utm_source=git)** | Oakland, CA | On Site | Aug 22 |
-| **[Mercy For Animals](https://mercyforanimals.org)** | **[Law Scholars for Change Fall 2025/Spring 2026 Legal Internship Program for Animals](https://jobright.ai/jobs/info/68a8c0676acf96396f7227f6?utm_campaign=1055&utm_source=git)** | Remote in the United States | Remote | Aug 22 |
-| **[Earthjustice](http://earthjustice.org/)** | **[Fall 2025 Legal Internship – Washington, DC Regional Office](https://jobright.ai/jobs/info/68a8bdffd627244576e35263?utm_campaign=1055&utm_source=git)** | Remote, United States | Hybrid | Aug 22 |
-| **[Traub Lieberman Straus & Shrewsberry LLP](http://traublieberman.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68a8bdec758f2e4ac3ff4b6f?utm_campaign=1055&utm_source=git)** | Hawthorne, New York, United States | On Site | Aug 22 |
-| **[Earthjustice](http://earthjustice.org/)** | **[Fall 2025 Legal Internship – Washington, DC Regional Office](https://jobright.ai/jobs/info/68a8bcf56acf96396f722256?utm_campaign=1055&utm_source=git)** | Washington, DC Regional | Hybrid | Aug 22 |
-| **[ACLU of Virginia](http://www.acluva.org)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/68a8bcb56acf96396f7221ab?utm_campaign=1055&utm_source=git)** | Hybrid Remote - Richmond | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
