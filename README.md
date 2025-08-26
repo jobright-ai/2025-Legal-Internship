@@ -98,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[CBIZ](http://www.cbiz.com)** | **[Risk Advisory Intern / Summer 2026 / Cyber](https://jobright.ai/jobs/info/68acbacbdaf1431824c97a20?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Aug 25 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Assistant - Law Intern](https://jobright.ai/jobs/info/68acb84dd627244576e48705?utm_campaign=1055&utm_source=git)** | Kansas City, KS | On Site | Aug 25 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Engineering Audit & Risk Associate](https://jobright.ai/jobs/info/68acb48cd627244576e48468?utm_campaign=1055&utm_source=git)** | Nashville, TN | Remote | Aug 25 |
-| **[Continental Resources](https://clr.com/)** | **[Land Intern (Summer 2026)](https://jobright.ai/jobs/info/68acb2b1758f2e4ac3007d26?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Aug 25 |
+| **[Continental Resources](https://clr.com/)** | **[Land Intern (Summer 2026)](https://jobright.ai/jobs/info/68acb26ed627244576e48059?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Aug 25 |
 | **[D.Law](https://d.law)** | **[2026 Summer Associate](https://jobright.ai/jobs/info/68acb15c758f2e4ac3007bd1?utm_campaign=1055&utm_source=git)** | Pasadena | On Site | Aug 25 |
 | **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Risk Management](https://jobright.ai/jobs/info/68acaf48758f2e4ac3007a6f?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | Hybrid | Aug 25 |
 | ↳ | **[FAR Program: Summer 2026 Internship – Risk Management](https://jobright.ai/jobs/info/68acacd4d627244576e47da9?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Aug 25 |
