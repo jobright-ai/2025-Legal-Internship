@@ -64,7 +64,6 @@ For a complete list, click the following sortable link below:
 | **[Berliner Cohen, LLP](http://berliner.com)** | **[Law Clerk](https://jobright.ai/jobs/info/688920fc09808a6103e45334?utm_campaign=1055&utm_source=git)** | Modesto, CA | On Site | Aug 26 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Professional Liability Underwriting](https://jobright.ai/jobs/info/68ae204ddaf1431824ca10a7?utm_campaign=1055&utm_source=git)** | Windsor, CT | On Site | Aug 26 |
 | ↳ | **[Intern - Legal](https://jobright.ai/jobs/info/68ae1e11d627244576e51c1f?utm_campaign=1055&utm_source=git)** | Worcester, MA | On Site | Aug 26 |
-| **[Evans & Dixon, LLC](http://evans-dixon.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68ae1cf1758f2e4ac30116a0?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Aug 26 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Legal Assistant Intern - Nashville, TN (Summer 2026)](https://jobright.ai/jobs/info/68ae135dd627244576e5176e?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Aug 26 |
 | **[Friends of Animals](https://friendsofanimals.org)** | **[Wildlife Law Program Intern](https://jobright.ai/jobs/info/68ae126ddaf1431824ca0925?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | Hybrid | Aug 26 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Summer Internship 2026 / Risk Advisory Intern (48529)](https://jobright.ai/jobs/info/68ae0abf758f2e4ac3010cfb?utm_campaign=1055&utm_source=git)** | Owings Mills, MD, USA | On Site | Aug 26 |
@@ -140,13 +139,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac84c7daf1431824c95a5f?utm_campaign=1055&utm_source=git)** | Horsham, PA | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac8477758f2e4ac3006280?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac8335d627244576e464cd?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Aug 25 |
-| **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Risk Management](https://jobright.ai/jobs/info/68ac75dddaf1431824c953c5?utm_campaign=1055&utm_source=git)** | Tempe | Hybrid | Aug 25 |
-| ↳ | **[FAR Program: Summer 2026 Internship – Risk Management](https://jobright.ai/jobs/info/68ac756a758f2e4ac3005a70?utm_campaign=1055&utm_source=git)** | Fort Mill/Charlotte | Hybrid | Aug 25 |
+| **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Risk Management](https://jobright.ai/jobs/info/68ac756a758f2e4ac3005a70?utm_campaign=1055&utm_source=git)** | Fort Mill/Charlotte | Hybrid | Aug 25 |
+| ↳ | **[FAR Program: Summer 2026 Internship – Risk Management](https://jobright.ai/jobs/info/68ac74ef758f2e4ac30059b1?utm_campaign=1055&utm_source=git)** | Tempe | Hybrid | Aug 25 |
 | **[Johnson & Johnson (JNJ)](https://www.linkedin.com/company/105928786)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac3754daf1431824c940cd?utm_campaign=1055&utm_source=git)** | Irvine, California, United States of America | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac374ddaf1431824c940cb?utm_campaign=1055&utm_source=git)** | Atlanta, Georgia, United States | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac3742daf1431824c940c9?utm_campaign=1055&utm_source=git)** | Athens, Georgia, United States of America | On Site | Aug 25 |
-| ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac373cd627244576e44c65?utm_campaign=1055&utm_source=git)** | Horsham, Pennsylvania, United States of America | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac373cd627244576e44c66?utm_campaign=1055&utm_source=git)** | Jacksonville, Florida, United States of America | On Site | Aug 25 |
+| ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac373cd627244576e44c65?utm_campaign=1055&utm_source=git)** | Horsham, Pennsylvania, United States of America | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac372ed627244576e44c63?utm_campaign=1055&utm_source=git)** | Miami, Florida, United States of America | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac372a758f2e4ac3004897?utm_campaign=1055&utm_source=git)** | Wilson, North Carolina, United States of America | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac3724758f2e4ac3004896?utm_campaign=1055&utm_source=git)** | New Brunswick, New Jersey, United States of America | On Site | Aug 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Managed Services Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5bf758f2e4ac30031d2?utm_campaign=1055&utm_source=git)** | NY-New York | On Site | Aug 24 |
 | ↳ | **[Managed Services Intern - Summer 2026](https://jobright.ai/jobs/info/68abf59cd627244576e43528?utm_campaign=1055&utm_source=git)** | IL-Chicago | On Site | Aug 24 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Internship - Supervision Intern - St. Petersburg, FL](https://jobright.ai/jobs/info/68abe5a7758f2e4ac30014f9?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | Hybrid | Aug 24 |
+| ↳ | **[2026 Summer Internship - RJFS Risk Management Intern - St. Petersburg, FL](https://jobright.ai/jobs/info/68abe569daf1431824c90cad?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | Hybrid | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
