@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Couch Lambert LLC](http://gulfsouthlegal.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/68ae5541daf1431824ca25b5?utm_campaign=1055&utm_source=git)** | Metairie, LA | On Site | Aug 26 |
 | **[Permian Resources](https://permianres.com)** | **[Summer 2026 Land Internship](https://jobright.ai/jobs/info/68ae4337d627244576e52b97?utm_campaign=1055&utm_source=git)** | Midland, TX | On Site | Aug 26 |
 | ↳ | **[Summer 2026 Land Internship](https://jobright.ai/jobs/info/68ae2acedaf1431824ca152a?utm_campaign=1055&utm_source=git)** | Midland, Texas | On Site | Aug 26 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Professional Liability Underwriting](https://jobright.ai/jobs/info/68ae204ddaf1431824ca10a7?utm_campaign=1055&utm_source=git)** | Windsor, CT | On Site | Aug 26 |
@@ -75,8 +76,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Diversity Fellowship - Summer 2026 Law Clerk (2L Students Eligible to Apply)](https://jobright.ai/jobs/info/68913972f47efe2113953a9b?utm_campaign=1055&utm_source=git)** | Newport Beach, CA | On Site | Aug 26 |
 | **[Teleflex](http://www.teleflex.com)** | **[Compliance Intern, Global Business Practices](https://jobright.ai/jobs/info/6891ad744c7e851b90ad1767?utm_campaign=1055&utm_source=git)** | Wayne, PA | On Site | Aug 26 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/687554505cebcd1dd51bf99d?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Aug 26 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Internship - human rights
-Job ID : 263270](https://jobright.ai/jobs/info/68ad7fbbd627244576e4decd?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Aug 26 |
 | **[Hilton](https://www.hilton.com/en/)** | **[2026 Corporate Summer Internship - Legal](https://jobright.ai/jobs/info/68ad86a1758f2e4ac300dad2?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Aug 26 |
 | **[Hilton](https://www.hilton.com/en/)** | **[2026 Corporate Summer Internship - Legal](https://jobright.ai/jobs/info/68ad6416d627244576e4d8a0?utm_campaign=1055&utm_source=git)** | Hilton - Global Headquarters - McLean7930 Jones Branch Drive | On Site | Aug 25 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[E&S Property Underwriting Summer Intern](https://jobright.ai/jobs/info/68ad1151daf1431824c9a3d0?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | On Site | Aug 25 |
@@ -136,13 +135,13 @@ Job ID : 263270](https://jobright.ai/jobs/info/68ad7fbbd627244576e4decd?utm_camp
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac84c7daf1431824c95a5f?utm_campaign=1055&utm_source=git)** | Horsham, PA | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac8477758f2e4ac3006280?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac8335d627244576e464cd?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Aug 25 |
-| **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Risk Management](https://jobright.ai/jobs/info/68ac756a758f2e4ac3005a70?utm_campaign=1055&utm_source=git)** | Fort Mill/Charlotte | Hybrid | Aug 25 |
-| ↳ | **[FAR Program: Summer 2026 Internship – Risk Management](https://jobright.ai/jobs/info/68ac74ef758f2e4ac30059b1?utm_campaign=1055&utm_source=git)** | Tempe | Hybrid | Aug 25 |
+| **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Risk Management](https://jobright.ai/jobs/info/68ac75dddaf1431824c953c5?utm_campaign=1055&utm_source=git)** | Tempe | Hybrid | Aug 25 |
+| ↳ | **[FAR Program: Summer 2026 Internship – Risk Management](https://jobright.ai/jobs/info/68ac73f8d627244576e45d88?utm_campaign=1055&utm_source=git)** | Fort Mill/Charlotte | Hybrid | Aug 25 |
 | **[Johnson & Johnson (JNJ)](https://www.linkedin.com/company/105928786)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac3754daf1431824c940cd?utm_campaign=1055&utm_source=git)** | Irvine, California, United States of America | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac374ddaf1431824c940cb?utm_campaign=1055&utm_source=git)** | Atlanta, Georgia, United States | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac3742daf1431824c940c9?utm_campaign=1055&utm_source=git)** | Athens, Georgia, United States of America | On Site | Aug 25 |
-| ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac373cd627244576e44c66?utm_campaign=1055&utm_source=git)** | Jacksonville, Florida, United States of America | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac373cd627244576e44c65?utm_campaign=1055&utm_source=git)** | Horsham, Pennsylvania, United States of America | On Site | Aug 25 |
+| ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac373cd627244576e44c66?utm_campaign=1055&utm_source=git)** | Jacksonville, Florida, United States of America | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac372ed627244576e44c63?utm_campaign=1055&utm_source=git)** | Miami, Florida, United States of America | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac372a758f2e4ac3004897?utm_campaign=1055&utm_source=git)** | Wilson, North Carolina, United States of America | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac3724758f2e4ac3004896?utm_campaign=1055&utm_source=git)** | New Brunswick, New Jersey, United States of America | On Site | Aug 25 |
