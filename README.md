@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[World Relief](https://worldrelief.org/)** | **[Immigration Legal Services Part-Time Afghan Legal Assistance Intern - 2025315](https://jobright.ai/jobs/info/68af7e5b2daaba398441ec3e?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Aug 27 |
+| **[Mission Action](https://www.missionaction.org/)** | **[Legal Internship Opportunities: Summer 2025 Law Student Clerk](https://jobright.ai/jobs/info/68af7dc61f0a2a568a06229b?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Aug 27 |
+| **[Santander México](http://www.santander.com.mx/)** | **[State Regulatory Relations- Legal Intern](https://jobright.ai/jobs/info/68af79b51f0a2a568a062064?utm_campaign=1055&utm_source=git)** | Dallas | On Site | Aug 27 |
+| **[Tailwind Group](https://thetailwindgroup.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/68af7727962903596357cecb?utm_campaign=1055&utm_source=git)** | Excelsior, MN | On Site | Aug 27 |
+| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/68af74152daaba398441e720?utm_campaign=1055&utm_source=git)** | Worcester, MA | On Site | Aug 27 |
+| ↳ | **[Intern - Information Governance & eDiscovery](https://jobright.ai/jobs/info/68af71d31f0a2a568a061b7f?utm_campaign=1055&utm_source=git)** | Worcester, MA | On Site | Aug 27 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Legal & Compliance Summer Intern - Mortgage Insurance](https://jobright.ai/jobs/info/68af6266962903596357c470?utm_campaign=1055&utm_source=git)** | Triad Area | Hybrid | Aug 27 |
 | **[Cooper Elliott](https://cooperelliott.com)** | **[Law Clerk - Summer 2026](https://jobright.ai/jobs/info/68af57872daaba398441d64f?utm_campaign=1055&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Aug 27 |
 | **[Rose, Klein & Marias](https://www.linkedin.com/company/155218)** | **[Animal Legal Defense Fund Pro Bono Program Summer 2026 Clerkship](https://jobright.ai/jobs/info/68af554e962903596357baa1?utm_campaign=1055&utm_source=git)** | Fully Remote | Remote | Aug 27 |
@@ -65,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[NJM Insurance Group](https://www.njm.com)** | **[General Claims Legal Intern](https://jobright.ai/jobs/info/68af542c2daaba398441d463?utm_campaign=1055&utm_source=git)** | NJM - Trenton | On Site | Aug 27 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68af4b602daaba398441cef4?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 27 |
 | ↳ | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68af43977bcb7608b3d2c081?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 27 |
-| **[Kohl's](https://corporate.kohls.com)** | **[Early Talent - 2026 - Risk/Compliance - IT Enterprise Risk Services Internship](https://jobright.ai/jobs/info/68aeebba1f0a2a568a05e4aa?utm_campaign=1055&utm_source=git)** | Menomonee Falls, WI | On Site | Aug 27 |
 | **[CB&I](http://www.cbi.com)** | **[Legal Co-Op](https://jobright.ai/jobs/info/68ae669cdaf1431824ca2baf?utm_campaign=1055&utm_source=git)** | The Woodlands, TX | On Site | Aug 26 |
 | **[Couch Lambert LLC](http://gulfsouthlegal.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/68ae5541daf1431824ca25b5?utm_campaign=1055&utm_source=git)** | Metairie, LA | On Site | Aug 26 |
 | **[Community Legal Services](https://clsphila.org/)** | **[Summer 2026 Law Student Internship](https://jobright.ai/jobs/info/68af39371f0a2a568a05fc67?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Aug 26 |
@@ -134,7 +139,7 @@ Job ID : 263270](https://jobright.ai/jobs/info/68aee14c1f0a2a568a05e262?utm_camp
 | **[Oatey Company](https://www.oatey.com//)** | **[International Trade Compliance Intern](https://jobright.ai/jobs/info/68acbb60758f2e4ac30082e7?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Aug 25 |
 | **[CBIZ](http://www.cbiz.com)** | **[Risk Advisory Intern / Summer 2026 / Cyber](https://jobright.ai/jobs/info/68acbacbdaf1431824c97a20?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Aug 25 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Assistant - Law Intern](https://jobright.ai/jobs/info/68acb84dd627244576e48705?utm_campaign=1055&utm_source=git)** | Kansas City, KS | On Site | Aug 25 |
-| **[Continental Resources](https://clr.com/)** | **[Land Intern (Summer 2026)](https://jobright.ai/jobs/info/68acb2b1758f2e4ac3007d26?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Aug 25 |
+| **[Continental Resources](https://clr.com/)** | **[Land Intern (Summer 2026)](https://jobright.ai/jobs/info/68acb26ed627244576e48059?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Aug 25 |
 | **[D.Law](https://d.law)** | **[2026 Summer Associate](https://jobright.ai/jobs/info/68acb15c758f2e4ac3007bd1?utm_campaign=1055&utm_source=git)** | Pasadena | On Site | Aug 25 |
 | **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Risk Management](https://jobright.ai/jobs/info/68acaf48758f2e4ac3007a6f?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | Hybrid | Aug 25 |
 | **[PwC](http://pwc.com)** | **[Managed Services Intern - Summer 2026](https://jobright.ai/jobs/info/68ad95ca758f2e4ac300dc70?utm_campaign=1055&utm_source=git)** | Buffalo-Niagara Area | On Site | Aug 25 |
@@ -152,10 +157,5 @@ Job ID : 263270](https://jobright.ai/jobs/info/68aee14c1f0a2a568a05e262?utm_camp
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac84c7daf1431824c95a5f?utm_campaign=1055&utm_source=git)** | Horsham, PA | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac8477758f2e4ac3006280?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac8335d627244576e464cd?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Aug 25 |
-| **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Risk Management](https://jobright.ai/jobs/info/68ac74ef758f2e4ac30059b1?utm_campaign=1055&utm_source=git)** | Tempe | Hybrid | Aug 25 |
-| ↳ | **[FAR Program: Summer 2026 Internship – Risk Management](https://jobright.ai/jobs/info/68ac73f8d627244576e45d88?utm_campaign=1055&utm_source=git)** | Fort Mill/Charlotte | Hybrid | Aug 25 |
-| **[Johnson & Johnson (JNJ)](https://www.linkedin.com/company/105928786)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac3754daf1431824c940cd?utm_campaign=1055&utm_source=git)** | Irvine, California, United States of America | On Site | Aug 25 |
-| ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac374ddaf1431824c940cb?utm_campaign=1055&utm_source=git)** | Atlanta, Georgia, United States | On Site | Aug 25 |
-| ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac3742daf1431824c940c9?utm_campaign=1055&utm_source=git)** | Athens, Georgia, United States of America | On Site | Aug 25 |
-| ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac373cd627244576e44c65?utm_campaign=1055&utm_source=git)** | Horsham, Pennsylvania, United States of America | On Site | Aug 25 |
+| **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Risk Management](https://jobright.ai/jobs/info/68ac75dddaf1431824c953c5?utm_campaign=1055&utm_source=git)** | Tempe | Hybrid | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
