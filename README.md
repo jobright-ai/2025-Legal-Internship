@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Legal Intern](https://jobright.ai/jobs/info/68b097102d46f6396cae6cfa?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Aug 28 |
+| **[DV Trading LLC](https://www.dvtrading.co)** | **[2026 Summer Internship - Risk Management](https://jobright.ai/jobs/info/68b0884713563e782a9f7139?utm_campaign=1055&utm_source=git)** | Chicago | On Site | Aug 28 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[NFL Management Council Law Clerk](https://jobright.ai/jobs/info/68b06bf1b47fb001d6892184?utm_campaign=1055&utm_source=git)** | New York | On Site | Aug 28 |
 | **[LyondellBasell](http://lyondellbasell.com)** | **[2026 Business Resilience & Global Security Intern](https://jobright.ai/jobs/info/68b054f32d46f6396cae4173?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 28 |
 | **[Pinnacle Propane, LLC](https://pinnaclepropane.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b021fd13563e782a9f3a2f?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Aug 28 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[World Relief](https://worldrelief.org/)** | **[Immigration Legal Services Part-Time Afghan Legal Assistance Intern - 2025315](https://jobright.ai/jobs/info/68af7e5b2daaba398441ec3e?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Aug 27 |
 | **[Mission Action](https://www.missionaction.org/)** | **[Legal Internship Opportunities: Summer 2025 Law Student Clerk](https://jobright.ai/jobs/info/68af7dc61f0a2a568a06229b?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Aug 27 |
 | **[Santander México](http://www.santander.com.mx/)** | **[State Regulatory Relations- Legal Intern](https://jobright.ai/jobs/info/68af79b51f0a2a568a062064?utm_campaign=1055&utm_source=git)** | Dallas | On Site | Aug 27 |
-| **[Tailwind Group](https://thetailwindgroup.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/68af7727962903596357cecb?utm_campaign=1055&utm_source=git)** | Excelsior, MN | On Site | Aug 27 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Information Governance & eDiscovery](https://jobright.ai/jobs/info/68af71d31f0a2a568a061b7f?utm_campaign=1055&utm_source=git)** | Worcester, MA | On Site | Aug 27 |
 | ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/68b0212a13563e782a9f39ad?utm_campaign=1055&utm_source=git)** | Worcester, MA | On Site | Aug 27 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Legal & Compliance Summer Intern - Mortgage Insurance](https://jobright.ai/jobs/info/68af6266962903596357c470?utm_campaign=1055&utm_source=git)** | Triad Area | Hybrid | Aug 27 |
@@ -144,6 +145,7 @@ Job ID : 263270](https://jobright.ai/jobs/info/68aee14c1f0a2a568a05e262?utm_camp
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68aceda1daf1431824c991ea?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Aug 25 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Safety](https://jobright.ai/jobs/info/68aced9fdaf1431824c991e7?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Aug 25 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68aced79daf1431824c991cc?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Aug 25 |
+| **[CNO Financial Group](http://www.cnoinc.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/68b083202d46f6396cae6222?utm_campaign=1055&utm_source=git)** | Carmel, IN | Hybrid | Aug 25 |
 | **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/68acda57758f2e4ac300946a?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Aug 25 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Enterprise Risk Management Department Model Risk Management Team Intern](https://jobright.ai/jobs/info/68accf64daf1431824c98738?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 25 |
 | **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Risk Advisory Intern](https://jobright.ai/jobs/info/68accbd6daf1431824c9862e?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Aug 25 |
@@ -156,6 +158,4 @@ Job ID : 263270](https://jobright.ai/jobs/info/68aee14c1f0a2a568a05e262?utm_camp
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acc90ddaf1431824c9830e?utm_campaign=1055&utm_source=git)** | Springfield IL USA | On Site | Aug 25 |
 | ↳ | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/68acc8f2daf1431824c982ec?utm_campaign=1055&utm_source=git)** | Chicago IL USA | On Site | Aug 25 |
 | ↳ | **[Third Party Risk Intern](https://jobright.ai/jobs/info/68acc8dddaf1431824c982cd?utm_campaign=1055&utm_source=git)** | Chicago IL USA | On Site | Aug 25 |
-| **[Oatey Company](https://www.oatey.com//)** | **[International Trade Compliance Intern](https://jobright.ai/jobs/info/68acbb60758f2e4ac30082e7?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Aug 25 |
-| **[CBIZ](http://www.cbiz.com)** | **[Risk Advisory Intern / Summer 2026 / Cyber](https://jobright.ai/jobs/info/68acbacbdaf1431824c97a20?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
