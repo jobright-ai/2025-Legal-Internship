@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Visionary Solutions of Virginia](https://www.visionarysolutions.online/)** | **[Remote Part-Time Law Student Clerk](https://jobright.ai/jobs/info/68afd650b47fb001d688de0f?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Aug 27 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Enterprise Risk Management Intern](https://jobright.ai/jobs/info/68afcea0e723db6c9b7b3be4?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
 | ↳ | **[Summer 2026 Anti-Money Laundering Intern](https://jobright.ai/jobs/info/68afcd88b47fb001d688d4dd?utm_campaign=1055&utm_source=git)** | Hermitage, PA | On Site | Aug 27 |
 | ↳ | **[Summer 2026 Enterprise Fraud Risk Intern](https://jobright.ai/jobs/info/68afd0b613563e782a9f1835?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
@@ -82,7 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Couch Lambert LLC](http://gulfsouthlegal.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/68ae5541daf1431824ca25b5?utm_campaign=1055&utm_source=git)** | Metairie, LA | On Site | Aug 26 |
 | **[Community Legal Services](https://clsphila.org/)** | **[Summer 2026 Law Student Internship](https://jobright.ai/jobs/info/68af39371f0a2a568a05fc67?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Aug 26 |
 | **[Permian Resources](https://permianres.com)** | **[Summer 2026 Land Internship](https://jobright.ai/jobs/info/68ae4337d627244576e52b97?utm_campaign=1055&utm_source=git)** | Midland, TX | On Site | Aug 26 |
-| ↳ | **[Summer 2026 Land Internship](https://jobright.ai/jobs/info/68ae2acedaf1431824ca152a?utm_campaign=1055&utm_source=git)** | Midland, Texas | On Site | Aug 26 |
+| **[Zundel Law LLC](https://zundellawpgh.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68afe9c6b47fb001d688e6a4?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Remote | Aug 26 |
+| **[Permian Resources](https://permianres.com)** | **[Summer 2026 Land Internship](https://jobright.ai/jobs/info/68ae2acedaf1431824ca152a?utm_campaign=1055&utm_source=git)** | Midland, Texas | On Site | Aug 26 |
 | **[Berliner Cohen, LLP](http://berliner.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68891cd609808a6103e44f53?utm_campaign=1055&utm_source=git)** | Merced, CA | On Site | Aug 26 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/688920fc09808a6103e45334?utm_campaign=1055&utm_source=git)** | Modesto, CA | On Site | Aug 26 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Professional Liability Underwriting](https://jobright.ai/jobs/info/68ae204ddaf1431824ca10a7?utm_campaign=1055&utm_source=git)** | Windsor, CT | On Site | Aug 26 |
@@ -146,7 +148,7 @@ Job ID : 263270](https://jobright.ai/jobs/info/68aee14c1f0a2a568a05e262?utm_camp
 | **[Oatey Company](https://www.oatey.com//)** | **[International Trade Compliance Intern](https://jobright.ai/jobs/info/68acbb60758f2e4ac30082e7?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Aug 25 |
 | **[CBIZ](http://www.cbiz.com)** | **[Risk Advisory Intern / Summer 2026 / Cyber](https://jobright.ai/jobs/info/68acbacbdaf1431824c97a20?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Aug 25 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Assistant - Law Intern](https://jobright.ai/jobs/info/68acb84dd627244576e48705?utm_campaign=1055&utm_source=git)** | Kansas City, KS | On Site | Aug 25 |
-| **[Continental Resources](https://clr.com/)** | **[Land Intern (Summer 2026)](https://jobright.ai/jobs/info/68acb2b1758f2e4ac3007d26?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Aug 25 |
+| **[Continental Resources](https://clr.com/)** | **[Land Intern (Summer 2026)](https://jobright.ai/jobs/info/68acb26ed627244576e48059?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Aug 25 |
 | **[D.Law](https://d.law)** | **[2026 Summer Associate](https://jobright.ai/jobs/info/68acb15c758f2e4ac3007bd1?utm_campaign=1055&utm_source=git)** | Pasadena | On Site | Aug 25 |
 | **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Risk Management](https://jobright.ai/jobs/info/68acaf48758f2e4ac3007a6f?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | Hybrid | Aug 25 |
 | **[PwC](http://pwc.com)** | **[Managed Services Intern - Summer 2026](https://jobright.ai/jobs/info/68ad95ca758f2e4ac300dc70?utm_campaign=1055&utm_source=git)** | Buffalo-Niagara Area | On Site | Aug 25 |
@@ -156,6 +158,4 @@ Job ID : 263270](https://jobright.ai/jobs/info/68aee14c1f0a2a568a05e262?utm_camp
 | ↳ | **[Managed Services Intern - Summer 2026](https://jobright.ai/jobs/info/68aca85bdaf1431824c96ee9?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
 | ↳ | **[Managed Services Intern - Summer 2026](https://jobright.ai/jobs/info/68aca83edaf1431824c96ecd?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Aug 25 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Contract Co-op (Spring/Summer 2026)(Remote)](https://jobright.ai/jobs/info/68ac9b04d627244576e473cf?utm_campaign=1055&utm_source=git)** | Maryland, United States | Hybrid | Aug 25 |
-| **[Offit Kurman](http://offitkurman.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68ace716d627244576e49bb6?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 25 |
-| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac8998758f2e4ac30065c4?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
