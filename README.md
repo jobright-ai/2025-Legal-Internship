@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Koch](https://www.kochinc.com)** | **[Legal & Compliance Rotational Internship – Summer 2026](https://jobright.ai/jobs/info/68b0c6fcb47fb001d6895549?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Aug 28 |
+| **[Carnival Corporation](http://carnivalcorp.com)** | **[Winter Internship - Maritime Compliance](https://jobright.ai/jobs/info/68b0c6be2d46f6396cae86d8?utm_campaign=1055&utm_source=git)** | 3655 NW 87th Avenue, Miami, FL, 33178, US | Hybrid | Aug 28 |
+| **[Koch](https://www.kochinc.com)** | **[Legal & Compliance Rotational Internship – Summer 2026](https://jobright.ai/jobs/info/68b0c694b47fb001d6895503?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Aug 28 |
+| **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Mergers & Acquisitions - Raleigh](https://jobright.ai/jobs/info/68b0b921b47fb001d6894f91?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Aug 28 |
+| **[Maryland Legal Aid](https://www.mdlab.org)** | **[Law Clerk - Summer Law Clerk Progam](https://jobright.ai/jobs/info/68b0b56e13563e782a9f8b38?utm_campaign=1055&utm_source=git)** | Towson, MD | On Site | Aug 28 |
+| **[AARP](http://www.aarp.org)** | **[Equal Justice Works Legal Fellow](https://jobright.ai/jobs/info/68b0b4fa13563e782a9f8ac3?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 28 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Law Clerk Intern (Hybrid)](https://jobright.ai/jobs/info/68b0ab06b47fb001d689471d?utm_campaign=1055&utm_source=git)** | Plymouth, MN | Hybrid | Aug 28 |
 | **[Citi](https://www.citi.com)** | **[Senior Legal Counsel for International Swaps and Derivatives Association and Markets Negotiations VP](https://jobright.ai/jobs/info/68b0a94713563e782a9f8393?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Aug 28 |
 | **[Hall & Evans, LLC](http://hallevans.com)** | **[Fall Associate](https://jobright.ai/jobs/info/68b0a64b2d46f6396cae74d7?utm_campaign=1055&utm_source=git)** | Las Vegas, Nevada | On Site | Aug 28 |
@@ -152,10 +158,4 @@ Job ID : 263270](https://jobright.ai/jobs/info/68aee14c1f0a2a568a05e262?utm_camp
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Safety](https://jobright.ai/jobs/info/68aced9fdaf1431824c991e7?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Aug 25 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68aced79daf1431824c991cc?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Aug 25 |
 | **[CNO Financial Group](http://www.cnoinc.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/68b083202d46f6396cae6222?utm_campaign=1055&utm_source=git)** | Carmel, IN | Hybrid | Aug 25 |
-| **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/68acda57758f2e4ac300946a?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Aug 25 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Enterprise Risk Management Department Model Risk Management Team Intern](https://jobright.ai/jobs/info/68accf64daf1431824c98738?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 25 |
-| **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Risk Advisory Intern](https://jobright.ai/jobs/info/68accbd6daf1431824c9862e?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Aug 25 |
-| **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68accb35758f2e4ac3008da7?utm_campaign=1055&utm_source=git)** | Austin TX USA | On Site | Aug 25 |
-| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68accaaddaf1431824c98545?utm_campaign=1055&utm_source=git)** | New York NY USA | On Site | Aug 25 |
-| ↳ | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/68accaa3d627244576e491fc?utm_campaign=1055&utm_source=git)** | New York NY USA | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
