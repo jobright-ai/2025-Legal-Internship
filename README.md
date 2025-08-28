@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Football League (NFL)](http://www.nfl.com)** | **[NFL Management Council Law Clerk](https://jobright.ai/jobs/info/68b06bf1b47fb001d6892184?utm_campaign=1055&utm_source=git)** | New York | On Site | Aug 28 |
 | **[LyondellBasell](http://lyondellbasell.com)** | **[2026 Business Resilience & Global Security Intern](https://jobright.ai/jobs/info/68b054f32d46f6396cae4173?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 28 |
 | **[Pinnacle Propane, LLC](https://pinnaclepropane.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b021fd13563e782a9f3a2f?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Aug 28 |
 | **[Center for Biological Diversity](http://www.biologicaldiversity.org/)** | **[Law Clerk - Summer 2026 (Five Positions)](https://jobright.ai/jobs/info/68b01580e723db6c9b7b5cb6?utm_campaign=1055&utm_source=git)** | Oakland, CA | Remote | Aug 28 |
@@ -84,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68af4b602daaba398441cef4?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 27 |
 | ↳ | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68af43977bcb7608b3d2c081?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 27 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Risk Solutions Intern](https://jobright.ai/jobs/info/6892aad5f47efe211395e221?utm_campaign=1055&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 27 |
+| **[Bremer Whyte Brown & O'Meara, LLP](https://bremerwhyte.com/)** | **[Diversity Fellowship - Summer 2026 Law Clerk (2L Students Eligible to Apply)](https://jobright.ai/jobs/info/68913559f5ee707a15dbcf33?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 27 |
 | **[Jimerson Birr](https://www.jimersonfirm.com)** | **[Collections Intern](https://jobright.ai/jobs/info/6890e0054c7e851b90aca49e?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Aug 27 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern- Investigations](https://jobright.ai/jobs/info/68a7a496d627244576e2db7a?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Aug 26 |
 | **[CB&I](http://www.cbi.com)** | **[Legal Co-Op](https://jobright.ai/jobs/info/68ae669cdaf1431824ca2baf?utm_campaign=1055&utm_source=git)** | The Woodlands, TX | On Site | Aug 26 |
@@ -156,6 +158,4 @@ Job ID : 263270](https://jobright.ai/jobs/info/68aee14c1f0a2a568a05e262?utm_camp
 | ↳ | **[Third Party Risk Intern](https://jobright.ai/jobs/info/68acc8dddaf1431824c982cd?utm_campaign=1055&utm_source=git)** | Chicago IL USA | On Site | Aug 25 |
 | **[Oatey Company](https://www.oatey.com//)** | **[International Trade Compliance Intern](https://jobright.ai/jobs/info/68acbb60758f2e4ac30082e7?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Aug 25 |
 | **[CBIZ](http://www.cbiz.com)** | **[Risk Advisory Intern / Summer 2026 / Cyber](https://jobright.ai/jobs/info/68acbacbdaf1431824c97a20?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Aug 25 |
-| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Assistant - Law Intern](https://jobright.ai/jobs/info/68acb84dd627244576e48705?utm_campaign=1055&utm_source=git)** | Kansas City, KS | On Site | Aug 25 |
-| **[Continental Resources](https://clr.com/)** | **[Land Intern (Summer 2026)](https://jobright.ai/jobs/info/68acb26ed627244576e48059?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
