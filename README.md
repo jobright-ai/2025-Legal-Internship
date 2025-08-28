@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LyondellBasell](http://lyondellbasell.com)** | **[2026 Business Resilience & Global Security Intern](https://jobright.ai/jobs/info/68b054f32d46f6396cae4173?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 28 |
 | **[Pinnacle Propane, LLC](https://pinnaclepropane.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b021fd13563e782a9f3a2f?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Aug 28 |
 | **[Center for Biological Diversity](http://www.biologicaldiversity.org/)** | **[Law Clerk - Summer 2026 (Five Positions)](https://jobright.ai/jobs/info/68b01580e723db6c9b7b5cb6?utm_campaign=1055&utm_source=git)** | Oakland, CA | Remote | Aug 28 |
 | **[Solano County](https://www.solanocounty.com)** | **[College Intern-Graduate Level (Juris Doctorate - J.D. only) (Law Clerk)](https://jobright.ai/jobs/info/68b0365bb47fb001d6890172?utm_campaign=1055&utm_source=git)** | Fairfield, CA | On Site | Aug 28 |
@@ -90,7 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Couch Lambert LLC](http://gulfsouthlegal.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/68ae5541daf1431824ca25b5?utm_campaign=1055&utm_source=git)** | Metairie, LA | On Site | Aug 26 |
 | **[Community Legal Services](https://clsphila.org/)** | **[Summer 2026 Law Student Internship](https://jobright.ai/jobs/info/68af39371f0a2a568a05fc67?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Aug 26 |
 | **[Permian Resources](https://permianres.com)** | **[Summer 2026 Land Internship](https://jobright.ai/jobs/info/68ae4337d627244576e52b97?utm_campaign=1055&utm_source=git)** | Midland, TX | On Site | Aug 26 |
-| **[Zundel Law LLC](https://zundellawpgh.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68afe9c6b47fb001d688e6a4?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Remote | Aug 26 |
+| **[Rankin Legal LLC](https://rankinlegalpa.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68afe9c6b47fb001d688e6a4?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Remote | Aug 26 |
 | **[Permian Resources](https://permianres.com)** | **[Summer 2026 Land Internship](https://jobright.ai/jobs/info/68ae2acedaf1431824ca152a?utm_campaign=1055&utm_source=git)** | Midland, Texas | On Site | Aug 26 |
 | **[Berliner Cohen, LLP](http://berliner.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68891cd609808a6103e44f53?utm_campaign=1055&utm_source=git)** | Merced, CA | On Site | Aug 26 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/688920fc09808a6103e45334?utm_campaign=1055&utm_source=git)** | Modesto, CA | On Site | Aug 26 |
@@ -156,6 +157,5 @@ Job ID : 263270](https://jobright.ai/jobs/info/68aee14c1f0a2a568a05e262?utm_camp
 | **[Oatey Company](https://www.oatey.com//)** | **[International Trade Compliance Intern](https://jobright.ai/jobs/info/68acbb60758f2e4ac30082e7?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Aug 25 |
 | **[CBIZ](http://www.cbiz.com)** | **[Risk Advisory Intern / Summer 2026 / Cyber](https://jobright.ai/jobs/info/68acbacbdaf1431824c97a20?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Aug 25 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Assistant - Law Intern](https://jobright.ai/jobs/info/68acb84dd627244576e48705?utm_campaign=1055&utm_source=git)** | Kansas City, KS | On Site | Aug 25 |
-| **[Continental Resources](https://clr.com/)** | **[Land Intern (Summer 2026)](https://jobright.ai/jobs/info/68acb2b1758f2e4ac3007d26?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Aug 25 |
-| **[D.Law](https://d.law)** | **[2026 Summer Associate](https://jobright.ai/jobs/info/68acb15c758f2e4ac3007bd1?utm_campaign=1055&utm_source=git)** | Pasadena | On Site | Aug 25 |
+| **[Continental Resources](https://clr.com/)** | **[Land Intern (Summer 2026)](https://jobright.ai/jobs/info/68acb26ed627244576e48059?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
