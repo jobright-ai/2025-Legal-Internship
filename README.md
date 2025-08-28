@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Pinnacle Propane, LLC](https://pinnaclepropane.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b021fd13563e782a9f3a2f?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Aug 28 |
 | **[Center for Biological Diversity](http://www.biologicaldiversity.org/)** | **[Law Clerk - Summer 2026 (Five Positions)](https://jobright.ai/jobs/info/68b01580e723db6c9b7b5cb6?utm_campaign=1055&utm_source=git)** | Oakland, CA | Remote | Aug 28 |
+| **[Solano County](https://www.solanocounty.com)** | **[College Intern-Graduate Level (Juris Doctorate - J.D. only) (Law Clerk)](https://jobright.ai/jobs/info/68b0365bb47fb001d6890172?utm_campaign=1055&utm_source=git)** | Fairfield, CA | On Site | Aug 28 |
 | **[Rose, Klein & Marias](https://www.linkedin.com/company/155218)** | **[Animal Legal Defense Fund Pro Bono Program Summer 2026 Clerkship](https://jobright.ai/jobs/info/68aff3bbb47fb001d688ea4a?utm_campaign=1055&utm_source=git)** | Cotati, CA | Remote | Aug 27 |
 | ↳ | **[Animal Legal Defense Fund Litigation Program Summer 2026 Clerkships](https://jobright.ai/jobs/info/68afeeb313563e782a9f2718?utm_campaign=1055&utm_source=git)** | Cotati, CA | Remote | Aug 27 |
 | **[Visionary Solutions of Virginia](https://www.visionarysolutions.online/)** | **[Remote Part-Time Law Student Clerk](https://jobright.ai/jobs/info/68afd650b47fb001d688de0f?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Aug 27 |
@@ -110,6 +111,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Diversity Fellowship - Summer 2026 Law Clerk (2L Students Eligible to Apply)](https://jobright.ai/jobs/info/68913972f47efe2113953a9b?utm_campaign=1055&utm_source=git)** | Newport Beach, CA | On Site | Aug 26 |
 | **[Teleflex](http://www.teleflex.com)** | **[Compliance Intern, Global Business Practices](https://jobright.ai/jobs/info/6891ad744c7e851b90ad1767?utm_campaign=1055&utm_source=git)** | Wayne, PA | On Site | Aug 26 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/687554505cebcd1dd51bf99d?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Aug 26 |
+| **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Customer Contracts Administrator I (Elec Dist Design)](https://jobright.ai/jobs/info/68a7a68733dd7158bbca8909?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Aug 26 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Internship - human rights
 Job ID : 263270](https://jobright.ai/jobs/info/68aee14c1f0a2a568a05e262?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Aug 26 |
 | **[Hilton](https://www.hilton.com/en/)** | **[2026 Corporate Summer Internship - Legal](https://jobright.ai/jobs/info/68ad86a1758f2e4ac300dad2?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Aug 26 |
@@ -156,6 +158,4 @@ Job ID : 263270](https://jobright.ai/jobs/info/68aee14c1f0a2a568a05e262?utm_camp
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Assistant - Law Intern](https://jobright.ai/jobs/info/68acb84dd627244576e48705?utm_campaign=1055&utm_source=git)** | Kansas City, KS | On Site | Aug 25 |
 | **[Continental Resources](https://clr.com/)** | **[Land Intern (Summer 2026)](https://jobright.ai/jobs/info/68acb2b1758f2e4ac3007d26?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Aug 25 |
 | **[D.Law](https://d.law)** | **[2026 Summer Associate](https://jobright.ai/jobs/info/68acb15c758f2e4ac3007bd1?utm_campaign=1055&utm_source=git)** | Pasadena | On Site | Aug 25 |
-| **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Risk Management](https://jobright.ai/jobs/info/68acaf48758f2e4ac3007a6f?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | Hybrid | Aug 25 |
-| **[PwC](http://pwc.com)** | **[Managed Services Intern - Summer 2026](https://jobright.ai/jobs/info/68ad95ca758f2e4ac300dc70?utm_campaign=1055&utm_source=git)** | Buffalo-Niagara Area | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
