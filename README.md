@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Aptive Environmental](http://goaptive.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68af870f2daaba398441ee49?utm_campaign=1055&utm_source=git)** | Provo, UT | On Site | Aug 27 |
+| **[Aptive Environmental](http://goaptive.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68afaea7f20641371441f873?utm_campaign=1055&utm_source=git)** | Provo, UT | On Site | Aug 27 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68af870f2daaba398441ee49?utm_campaign=1055&utm_source=git)** | Provo, UT | On Site | Aug 27 |
 | **[World Relief](https://worldrelief.org/)** | **[Immigration Legal Services Part-Time Afghan Legal Assistance Intern - 2025315](https://jobright.ai/jobs/info/68af7e5b2daaba398441ec3e?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Aug 27 |
 | **[Mission Action](https://www.missionaction.org/)** | **[Legal Internship Opportunities: Summer 2025 Law Student Clerk](https://jobright.ai/jobs/info/68af7dc61f0a2a568a06229b?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Aug 27 |
 | **[Santander México](http://www.santander.com.mx/)** | **[State Regulatory Relations- Legal Intern](https://jobright.ai/jobs/info/68af79b51f0a2a568a062064?utm_campaign=1055&utm_source=git)** | Dallas | On Site | Aug 27 |
@@ -72,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[NJM Insurance Group](https://www.njm.com)** | **[General Claims Legal Intern](https://jobright.ai/jobs/info/68af542c2daaba398441d463?utm_campaign=1055&utm_source=git)** | NJM - Trenton | On Site | Aug 27 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68af4b602daaba398441cef4?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 27 |
 | ↳ | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68af43977bcb7608b3d2c081?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 27 |
+| **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Risk Solutions Intern](https://jobright.ai/jobs/info/6892aad5f47efe211395e221?utm_campaign=1055&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 27 |
 | **[CB&I](http://www.cbi.com)** | **[Legal Co-Op](https://jobright.ai/jobs/info/68ae669cdaf1431824ca2baf?utm_campaign=1055&utm_source=git)** | The Woodlands, TX | On Site | Aug 26 |
 | **[Couch Lambert LLC](http://gulfsouthlegal.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/68ae5541daf1431824ca25b5?utm_campaign=1055&utm_source=git)** | Metairie, LA | On Site | Aug 26 |
 | **[Community Legal Services](https://clsphila.org/)** | **[Summer 2026 Law Student Internship](https://jobright.ai/jobs/info/68af39371f0a2a568a05fc67?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Aug 26 |
@@ -156,6 +158,4 @@ Job ID : 263270](https://jobright.ai/jobs/info/68aee14c1f0a2a568a05e262?utm_camp
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac8551daf1431824c95b60?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac84f0daf1431824c95ab2?utm_campaign=1055&utm_source=git)** | New Brunswick, NJ | On Site | Aug 25 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac84c7daf1431824c95a5f?utm_campaign=1055&utm_source=git)** | Horsham, PA | On Site | Aug 25 |
-| ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac8477758f2e4ac3006280?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Aug 25 |
-| ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac8335d627244576e464cd?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
