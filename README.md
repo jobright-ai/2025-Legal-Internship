@@ -87,7 +87,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Animal Legal Defense Fund Litigation Program Summer 2026 Clerkships](https://jobright.ai/jobs/info/68afeeb313563e782a9f2718?utm_campaign=1055&utm_source=git)** | Cotati, CA | Remote | Aug 27 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Enterprise Risk Management Intern](https://jobright.ai/jobs/info/68afcea0e723db6c9b7b3be4?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
 | ↳ | **[Summer 2026 Anti-Money Laundering Intern](https://jobright.ai/jobs/info/68afcd88b47fb001d688d4dd?utm_campaign=1055&utm_source=git)** | Hermitage, PA | On Site | Aug 27 |
-| ↳ | **[Summer 2026 Enterprise Fraud Risk Intern](https://jobright.ai/jobs/info/68afd0b613563e782a9f1835?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
+| **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Associate - Litigation](https://jobright.ai/jobs/info/68b123126fab621da7b0a16a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 27 |
+| **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Enterprise Fraud Risk Intern](https://jobright.ai/jobs/info/68afd0b613563e782a9f1835?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
 | **[Aptive Environmental](http://goaptive.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68afaea7f20641371441f873?utm_campaign=1055&utm_source=git)** | Provo, UT | On Site | Aug 27 |
 | **[Heidelberg Materials North America](https://cindercrete.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b0f7cc6fab621da7b08efb?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Aug 27 |
 | **[Aptive Environmental](http://goaptive.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68af870f2daaba398441ee49?utm_campaign=1055&utm_source=git)** | Provo, UT | On Site | Aug 27 |
@@ -157,5 +158,4 @@ Job ID : 263270](https://jobright.ai/jobs/info/68aee14c1f0a2a568a05e262?utm_camp
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68acefb7daf1431824c9938f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Aug 25 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acef74daf1431824c9935a?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Aug 25 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68acef5bdaf1431824c9934a?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 25 |
-| ↳ | **[Risk Advisory Associate - Summer 2026](https://jobright.ai/jobs/info/68aceecddaf1431824c992d6?utm_campaign=1055&utm_source=git)** | Newport Beach, CA | Hybrid | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
