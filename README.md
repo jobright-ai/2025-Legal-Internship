@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hall & Evans, LLC](http://hallevans.com)** | **[Summer Associate – 2026 Program](https://jobright.ai/jobs/info/68b0fe6504557a6c207b9512?utm_campaign=1055&utm_source=git)** | Denver, Colorado | On Site | Aug 28 |
+| **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Legal - Law Clerk - Intern](https://jobright.ai/jobs/info/68b0fe15e815524ae11fa8d7?utm_campaign=1055&utm_source=git)** | Independence, OH | On Site | Aug 28 |
+| **[National Football League (NFL)](http://www.nfl.com)** | **[NFL Management Council Law Clerk](https://jobright.ai/jobs/info/68b0f90be815524ae11fa33f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 28 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68b0e864b47fb001d68964db?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Aug 28 |
 | **[PwC](http://pwc.com)** | **[Practicante de PT](https://jobright.ai/jobs/info/68b0dba013563e782a9f9d4f?utm_campaign=1055&utm_source=git)** | Panamá City | On Site | Aug 28 |
 | **[Princess Cruises](http://www.princess.com)** | **[Winter Internship - Maritime Compliance](https://jobright.ai/jobs/info/68b0d9ff2d46f6396cae90d8?utm_campaign=1055&utm_source=git)** | Miami, FL, United States | Hybrid | Aug 28 |
@@ -86,7 +89,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Anti-Money Laundering Intern](https://jobright.ai/jobs/info/68afcd88b47fb001d688d4dd?utm_campaign=1055&utm_source=git)** | Hermitage, PA | On Site | Aug 27 |
 | ↳ | **[Summer 2026 Enterprise Fraud Risk Intern](https://jobright.ai/jobs/info/68afd0b613563e782a9f1835?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
 | **[Aptive Environmental](http://goaptive.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68afaea7f20641371441f873?utm_campaign=1055&utm_source=git)** | Provo, UT | On Site | Aug 27 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68af870f2daaba398441ee49?utm_campaign=1055&utm_source=git)** | Provo, UT | On Site | Aug 27 |
+| **[Heidelberg Materials North America](https://cindercrete.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b0f7cc6fab621da7b08efb?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Aug 27 |
+| **[Aptive Environmental](http://goaptive.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68af870f2daaba398441ee49?utm_campaign=1055&utm_source=git)** | Provo, UT | On Site | Aug 27 |
 | **[World Relief](https://worldrelief.org/)** | **[Immigration Legal Services Part-Time Afghan Legal Assistance Intern - 2025315](https://jobright.ai/jobs/info/68af7e5b2daaba398441ec3e?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Aug 27 |
 | **[Mission Action](https://www.missionaction.org/)** | **[Legal Internship Opportunities: Summer 2025 Law Student Clerk](https://jobright.ai/jobs/info/68af7dc61f0a2a568a06229b?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Aug 27 |
 | **[Santander México](http://www.santander.com.mx/)** | **[State Regulatory Relations- Legal Intern](https://jobright.ai/jobs/info/68af79b51f0a2a568a062064?utm_campaign=1055&utm_source=git)** | Dallas | On Site | Aug 27 |
@@ -154,8 +158,4 @@ Job ID : 263270](https://jobright.ai/jobs/info/68aee14c1f0a2a568a05e262?utm_camp
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acef74daf1431824c9935a?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Aug 25 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68acef5bdaf1431824c9934a?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 25 |
 | ↳ | **[Risk Advisory Associate - Summer 2026](https://jobright.ai/jobs/info/68aceecddaf1431824c992d6?utm_campaign=1055&utm_source=git)** | Newport Beach, CA | Hybrid | Aug 25 |
-| **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acee46daf1431824c99272?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 25 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68aceda1daf1431824c991ea?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Aug 25 |
-| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Safety](https://jobright.ai/jobs/info/68aced9fdaf1431824c991e7?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Aug 25 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68aced79daf1431824c991cc?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
