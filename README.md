@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Football League (NFL)](http://www.nfl.com)** | **[NFL Management Council Law Clerk](https://jobright.ai/jobs/info/68b18f2cf4e41a61efd7e4b5?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Aug 28 |
 | **[NiSource](https://www.nisource.com/)** | **[Regulatory Intern](https://jobright.ai/jobs/info/68b12edce815524ae11fbdfa?utm_campaign=1055&utm_source=git)** | Columbus OH - Arena District | Hybrid | Aug 28 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Graduate Assistant – Office of University Counsel](https://jobright.ai/jobs/info/68b1419404557a6c207bbd17?utm_campaign=1055&utm_source=git)** | Richmond, KY | On Site | Aug 28 |
 | **[Hall & Evans, LLC](http://hallevans.com)** | **[Summer Associate – 2026 Program](https://jobright.ai/jobs/info/68b0fe6504557a6c207b9512?utm_campaign=1055&utm_source=git)** | Denver, Colorado | On Site | Aug 28 |
@@ -100,6 +101,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/68b0212a13563e782a9f39ad?utm_campaign=1055&utm_source=git)** | Worcester, MA | On Site | Aug 27 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Legal & Compliance Summer Intern - Mortgage Insurance](https://jobright.ai/jobs/info/68af6266962903596357c470?utm_campaign=1055&utm_source=git)** | Triad Area | Hybrid | Aug 27 |
 | **[Cooper Elliott](https://cooperelliott.com)** | **[Law Clerk - Summer 2026](https://jobright.ai/jobs/info/68af57872daaba398441d64f?utm_campaign=1055&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Aug 27 |
+| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Legal & Compliance Summer Intern - Mortgage Insurance](https://jobright.ai/jobs/info/68b190a91ade4306aa630825?utm_campaign=1055&utm_source=git)** | Greensboro, NC United States of America | Hybrid | Aug 27 |
 | **[Rose, Klein & Marias](https://www.linkedin.com/company/155218)** | **[Animal Legal Defense Fund Pro Bono Program Summer 2026 Clerkship](https://jobright.ai/jobs/info/68af554e962903596357baa1?utm_campaign=1055&utm_source=git)** | Fully Remote | Remote | Aug 27 |
 | **[Tailwind Group](https://thetailwindgroup.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/68af54c62daaba398441d4e8?utm_campaign=1055&utm_source=git)** | Corp. Office/Excelsior - Excelsior, MN | On Site | Aug 27 |
 | **[Rose, Klein & Marias](https://www.linkedin.com/company/155218)** | **[Animal Legal Defense Fund Litigation Program Summer 2026 Clerkships](https://jobright.ai/jobs/info/68af54b02daaba398441d4cb?utm_campaign=1055&utm_source=git)** | Fully Remote | Remote | Aug 27 |
@@ -156,6 +158,4 @@ Job ID : 263270](https://jobright.ai/jobs/info/68aee14c1f0a2a568a05e262?utm_camp
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Associate - Summer 2026](https://jobright.ai/jobs/info/68acf081d627244576e49ffa?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Aug 25 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acf031d627244576e49fc9?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Aug 25 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Associate - Summer 2026](https://jobright.ai/jobs/info/68acf00dd627244576e49fa9?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 25 |
-| **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/68acefffd627244576e49fa0?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68acefb7daf1431824c9938f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
