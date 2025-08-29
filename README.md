@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Marsh Early Career Program Summer Internship - Advisory Practices - College Program 2026](https://jobright.ai/jobs/info/68b1cb591ade4306aa631e7b?utm_campaign=1055&utm_source=git)** | New York - 1166 | Hybrid | Aug 29 |
+| ↳ | **[Marsh Early Career Program Summer Internship - Advisory Practices - College Program 2026](https://jobright.ai/jobs/info/68b1ca4ff4e41a61efd7fabe?utm_campaign=1055&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Aug 29 |
+| **[Keros Therapeutics](http://kerostx.com/)** | **[Legal Co-Op](https://jobright.ai/jobs/info/68b1bdd2f4e41a61efd7f6d1?utm_campaign=1055&utm_source=git)** | Lexington, MA (Hybrid) | On Site | Aug 29 |
+| **[Hylant](http://www.hylant.com)** | **[Summer 2026 Internship: Specialty (Cyber, Environmental, Mergers & Acquisitions or Executive Risk)](https://jobright.ai/jobs/info/68b1b6c4bc187f64e1bd6478?utm_campaign=1055&utm_source=git)** | Toledo, OH | On Site | Aug 29 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b1aef9f4e41a61efd7eff0?utm_campaign=1055&utm_source=git)** | Dublin, OH - Corporate Office | On Site | Aug 29 |
 | ↳ | **[Regulatory Intern](https://jobright.ai/jobs/info/68b1ae621ade4306aa63129a?utm_campaign=1055&utm_source=git)** | Ohio Remote | Remote | Aug 29 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Post Doctoral Regulatory Affairs Fellow - Policy and Intelligence](https://jobright.ai/jobs/info/68b1aa1af4e41a61efd7ed2c?utm_campaign=1055&utm_source=git)** | Ridgefield, CT | Hybrid | Aug 29 |
@@ -92,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Solano County](https://www.solanocounty.com)** | **[College Intern-Graduate Level (Juris Doctorate - J.D. only) (Law Clerk)](https://jobright.ai/jobs/info/68b0365bb47fb001d6890172?utm_campaign=1055&utm_source=git)** | Fairfield, CA | On Site | Aug 28 |
 | **[Rose, Klein & Marias](https://www.linkedin.com/company/155218)** | **[Animal Legal Defense Fund Pro Bono Program Summer 2026 Clerkship](https://jobright.ai/jobs/info/68aff3bbb47fb001d688ea4a?utm_campaign=1055&utm_source=git)** | Cotati, CA | Remote | Aug 27 |
 | ↳ | **[Animal Legal Defense Fund Litigation Program Summer 2026 Clerkships](https://jobright.ai/jobs/info/68afeeb313563e782a9f2718?utm_campaign=1055&utm_source=git)** | Cotati, CA | Remote | Aug 27 |
+| **[AM Law, PC](http://www.tolucalaw.com)** | **[Legal Intern - 2L/3L](https://jobright.ai/jobs/info/68b1a562bc187f64e1bd5c53?utm_campaign=1055&utm_source=git)** | Glendale, CA | On Site | Aug 27 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Enterprise Risk Management Intern](https://jobright.ai/jobs/info/68afcea0e723db6c9b7b3be4?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
 | ↳ | **[Summer 2026 Anti-Money Laundering Intern](https://jobright.ai/jobs/info/68afcd88b47fb001d688d4dd?utm_campaign=1055&utm_source=git)** | Hermitage, PA | On Site | Aug 27 |
 | ↳ | **[Summer 2026 Enterprise Fraud Risk Intern](https://jobright.ai/jobs/info/68afd0b613563e782a9f1835?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
@@ -153,9 +158,4 @@ Job ID : 263270](https://jobright.ai/jobs/info/68aee14c1f0a2a568a05e262?utm_camp
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad092d758f2e4ac300a737?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad090b758f2e4ac300a717?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 25 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68acf609d627244576e4a31b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68acf5acd627244576e4a2c8?utm_campaign=1055&utm_source=git)** | Bellevue, WA | Hybrid | Aug 25 |
-| **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/68acf573daf1431824c99672?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 25 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68acf500758f2e4ac3009e61?utm_campaign=1055&utm_source=git)** | Newport Beach, CA | Hybrid | Aug 25 |
-| ↳ | **[Risk Advisory Associate - Summer 2026](https://jobright.ai/jobs/info/68acf486758f2e4ac3009dcf?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Aug 25 |
-| **[Crowe](https://www.crowe.com/)** | **[Third Party Risk Intern](https://jobright.ai/jobs/info/68acf38c758f2e4ac3009c28?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
