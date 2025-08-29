@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68b0e864b47fb001d68964db?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Aug 28 |
+| **[PwC](http://pwc.com)** | **[Practicante de PT](https://jobright.ai/jobs/info/68b0dba013563e782a9f9d4f?utm_campaign=1055&utm_source=git)** | Panamá City | On Site | Aug 28 |
+| **[Princess Cruises](http://www.princess.com)** | **[Winter Internship - Maritime Compliance](https://jobright.ai/jobs/info/68b0d9ff2d46f6396cae90d8?utm_campaign=1055&utm_source=git)** | Miami, FL, United States | Hybrid | Aug 28 |
 | **[Koch](https://www.kochinc.com)** | **[Legal & Compliance Rotational Internship – Summer 2026](https://jobright.ai/jobs/info/68b0c6fcb47fb001d6895549?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Aug 28 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Winter Internship - Maritime Compliance](https://jobright.ai/jobs/info/68b0c6be2d46f6396cae86d8?utm_campaign=1055&utm_source=git)** | 3655 NW 87th Avenue, Miami, FL, 33178, US | Hybrid | Aug 28 |
 | **[Koch](https://www.kochinc.com)** | **[Legal & Compliance Rotational Internship – Summer 2026](https://jobright.ai/jobs/info/68b0c694b47fb001d6895503?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Aug 28 |
@@ -79,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Solano County](https://www.solanocounty.com)** | **[College Intern-Graduate Level (Juris Doctorate - J.D. only) (Law Clerk)](https://jobright.ai/jobs/info/68b0365bb47fb001d6890172?utm_campaign=1055&utm_source=git)** | Fairfield, CA | On Site | Aug 28 |
 | **[Rose, Klein & Marias](https://www.linkedin.com/company/155218)** | **[Animal Legal Defense Fund Pro Bono Program Summer 2026 Clerkship](https://jobright.ai/jobs/info/68aff3bbb47fb001d688ea4a?utm_campaign=1055&utm_source=git)** | Cotati, CA | Remote | Aug 27 |
 | ↳ | **[Animal Legal Defense Fund Litigation Program Summer 2026 Clerkships](https://jobright.ai/jobs/info/68afeeb313563e782a9f2718?utm_campaign=1055&utm_source=git)** | Cotati, CA | Remote | Aug 27 |
-| **[Visionary Solutions of Virginia](https://www.visionarysolutions.online/)** | **[Remote Part-Time Law Student Clerk](https://jobright.ai/jobs/info/68afd650b47fb001d688de0f?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Aug 27 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Enterprise Risk Management Intern](https://jobright.ai/jobs/info/68afcea0e723db6c9b7b3be4?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
 | ↳ | **[Summer 2026 Anti-Money Laundering Intern](https://jobright.ai/jobs/info/68afcd88b47fb001d688d4dd?utm_campaign=1055&utm_source=git)** | Hermitage, PA | On Site | Aug 27 |
 | ↳ | **[Summer 2026 Enterprise Fraud Risk Intern](https://jobright.ai/jobs/info/68afd0b613563e782a9f1835?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
@@ -116,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Friends of Animals](https://friendsofanimals.org)** | **[Wildlife Law Program Intern](https://jobright.ai/jobs/info/68ae126ddaf1431824ca0925?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | Hybrid | Aug 26 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Summer Internship 2026 / Risk Advisory Intern (48529)](https://jobright.ai/jobs/info/68ae0abf758f2e4ac3010cfb?utm_campaign=1055&utm_source=git)** | Owings Mills, MD, USA | On Site | Aug 26 |
 | **[Selective Insurance](https://www.selective.com/)** | **[Legal Records Summer Internship - Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/68ae0a53758f2e4ac3010c57?utm_campaign=1055&utm_source=git)** | Branchville, NJ | Hybrid | Aug 26 |
-| **[McDermott International, Ltd](http://www.mcdermott.com)** | **[Legal Co-Op](https://jobright.ai/jobs/info/68ae0a43758f2e4ac3010c3a?utm_campaign=1055&utm_source=git)** | The Woodlands, Texas | On Site | Aug 26 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Summer Internship 2026 / Risk Advisory Intern (48529)](https://jobright.ai/jobs/info/68ae0a16daf1431824ca01ec?utm_campaign=1055&utm_source=git)** | Owings Mills, MD | On Site | Aug 26 |
 | **[Daikin Comfort](http://www.daikincomfort.com)** | **[Legal Intern - GMC Temp](https://jobright.ai/jobs/info/68ae0957758f2e4ac3010a9d?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Aug 26 |
 | **[Wikimedia Foundation](http://wikimediafoundation.org)** | **[Legal Fellow (Spring 2026)](https://jobright.ai/jobs/info/68adf0f0daf1431824c9f0f6?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 26 |
@@ -157,5 +158,4 @@ Job ID : 263270](https://jobright.ai/jobs/info/68aee14c1f0a2a568a05e262?utm_camp
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68aceda1daf1431824c991ea?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Aug 25 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Safety](https://jobright.ai/jobs/info/68aced9fdaf1431824c991e7?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Aug 25 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68aced79daf1431824c991cc?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Aug 25 |
-| **[CNO Financial Group](http://www.cnoinc.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/68b083202d46f6396cae6222?utm_campaign=1055&utm_source=git)** | Carmel, IN | Hybrid | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
