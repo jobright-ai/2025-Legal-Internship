@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Legal & Compliance Analyst](https://jobright.ai/jobs/info/68b21e2cbc187f64e1bd9710?utm_campaign=1055&utm_source=git)** | Newport Beach, CA USA | On Site | Aug 29 |
+| **[USAA](https://www.usaa.com)** | **[Associate Attorney Intern - CLO](https://jobright.ai/jobs/info/68b212091ade4306aa6342cf?utm_campaign=1055&utm_source=git)** | San Antonio Home Office I | On Site | Aug 29 |
 | **[AAK](http://www.aak.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/68b20512bc187f64e1bd8c12?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Aug 29 |
 | **[Keros Therapeutics](http://kerostx.com/)** | **[Legal Co-Op](https://jobright.ai/jobs/info/68b204c31ade4306aa633dc5?utm_campaign=1055&utm_source=git)** | Lexington, MA | On Site | Aug 29 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b201ddbc187f64e1bd8ae4?utm_campaign=1055&utm_source=git)** | Dublin, OH | On Site | Aug 29 |
@@ -101,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Koch](https://www.kochinc.com)** | **[Legal & Compliance Rotational Internship – Summer 2026](https://jobright.ai/jobs/info/68b0c694b47fb001d6895503?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Aug 28 |
 | **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Mergers & Acquisitions - Raleigh](https://jobright.ai/jobs/info/68b0b921b47fb001d6894f91?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Aug 28 |
 | **[Maryland Legal Aid](https://www.mdlab.org)** | **[Law Clerk - Summer Law Clerk Progam](https://jobright.ai/jobs/info/68b0b56e13563e782a9f8b38?utm_campaign=1055&utm_source=git)** | Towson, MD | On Site | Aug 28 |
+| **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/68783e99ae2f413e4a5c0bfb?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 28 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Law Clerk Intern (Hybrid)](https://jobright.ai/jobs/info/68b0ab06b47fb001d689471d?utm_campaign=1055&utm_source=git)** | Plymouth, MN | Hybrid | Aug 28 |
 | **[Citi](https://www.citi.com)** | **[Senior Legal Counsel for International Swaps and Derivatives Association and Markets Negotiations VP](https://jobright.ai/jobs/info/68b0a94713563e782a9f8393?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Aug 28 |
 | **[Hall & Evans, LLC](http://hallevans.com)** | **[Fall Associate](https://jobright.ai/jobs/info/68b0a64b2d46f6396cae74d7?utm_campaign=1055&utm_source=git)** | Las Vegas, Nevada | On Site | Aug 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Legal](https://jobright.ai/jobs/info/68ae1e11d627244576e51c1f?utm_campaign=1055&utm_source=git)** | Worcester, MA | On Site | Aug 26 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Legal Assistant Intern - Nashville, TN (Summer 2026)](https://jobright.ai/jobs/info/68ae135dd627244576e5176e?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Aug 26 |
 | **[Friends of Animals](https://friendsofanimals.org)** | **[Wildlife Law Program Intern](https://jobright.ai/jobs/info/68ae126ddaf1431824ca0925?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | Hybrid | Aug 26 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Summer Internship 2026 / Risk Advisory Intern (48529)](https://jobright.ai/jobs/info/68ae0abf758f2e4ac3010cfb?utm_campaign=1055&utm_source=git)** | Owings Mills, MD, USA | On Site | Aug 26 |
-| **[Selective Insurance](https://www.selective.com/)** | **[Legal Records Summer Internship - Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/68ae0a53758f2e4ac3010c57?utm_campaign=1055&utm_source=git)** | Branchville, NJ | Hybrid | Aug 26 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Summer Internship 2026 / Risk Advisory Intern (48529)](https://jobright.ai/jobs/info/68ae0a16daf1431824ca01ec?utm_campaign=1055&utm_source=git)** | Owings Mills, MD | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
