@@ -58,9 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[NiSource](https://www.nisource.com/)** | **[Regulatory Intern](https://jobright.ai/jobs/info/68b12edce815524ae11fbdfa?utm_campaign=1055&utm_source=git)** | Columbus OH - Arena District | Hybrid | Aug 28 |
+| **[Eastern Kentucky University](http://www.eku.edu/)** | **[Graduate Assistant – Office of University Counsel](https://jobright.ai/jobs/info/68b1419404557a6c207bbd17?utm_campaign=1055&utm_source=git)** | Richmond, KY | On Site | Aug 28 |
 | **[Hall & Evans, LLC](http://hallevans.com)** | **[Summer Associate – 2026 Program](https://jobright.ai/jobs/info/68b0fe6504557a6c207b9512?utm_campaign=1055&utm_source=git)** | Denver, Colorado | On Site | Aug 28 |
 | **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Legal - Law Clerk - Intern](https://jobright.ai/jobs/info/68b0fe15e815524ae11fa8d7?utm_campaign=1055&utm_source=git)** | Independence, OH | On Site | Aug 28 |
-| **[National Football League (NFL)](http://www.nfl.com)** | **[NFL Management Council Law Clerk](https://jobright.ai/jobs/info/68b0f90be815524ae11fa33f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 28 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68b0e864b47fb001d68964db?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Aug 28 |
 | **[PwC](http://pwc.com)** | **[Practicante de PT](https://jobright.ai/jobs/info/68b0dba013563e782a9f9d4f?utm_campaign=1055&utm_source=git)** | Panamá City | On Site | Aug 28 |
 | **[Princess Cruises](http://www.princess.com)** | **[Winter Internship - Maritime Compliance](https://jobright.ai/jobs/info/68b0d9ff2d46f6396cae90d8?utm_campaign=1055&utm_source=git)** | Miami, FL, United States | Hybrid | Aug 28 |
@@ -109,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Bremer Whyte Brown & O'Meara, LLP](https://bremerwhyte.com/)** | **[Diversity Fellowship - Summer 2026 Law Clerk (2L Students Eligible to Apply)](https://jobright.ai/jobs/info/68913559f5ee707a15dbcf33?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 27 |
 | **[Jimerson Birr](https://www.jimersonfirm.com)** | **[Collections Intern](https://jobright.ai/jobs/info/6890e0054c7e851b90aca49e?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Aug 27 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern- Investigations](https://jobright.ai/jobs/info/68a7a496d627244576e2db7a?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Aug 26 |
+| **[Fuyao Glass Corporation of America](https://fuyaousa.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68b1533204557a6c207bc74e?utm_campaign=1055&utm_source=git)** | Moraine, OH | On Site | Aug 26 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68a622c5b6a3617d7fa759ad?utm_campaign=1055&utm_source=git)** | Hopkinsville, KY | On Site | Aug 26 |
 | **[Couch Lambert LLC](http://gulfsouthlegal.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/68ae5541daf1431824ca25b5?utm_campaign=1055&utm_source=git)** | Metairie, LA | On Site | Aug 26 |
 | **[Community Legal Services](https://clsphila.org/)** | **[Summer 2026 Law Student Internship](https://jobright.ai/jobs/info/68af39371f0a2a568a05fc67?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Aug 26 |
@@ -157,5 +158,4 @@ Job ID : 263270](https://jobright.ai/jobs/info/68aee14c1f0a2a568a05e262?utm_camp
 | **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/68acefffd627244576e49fa0?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68acefb7daf1431824c9938f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Aug 25 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acef74daf1431824c9935a?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Aug 25 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68acef5bdaf1431824c9934a?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
