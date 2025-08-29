@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IGS Energy](http://www.igsenergy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b1aef9f4e41a61efd7eff0?utm_campaign=1055&utm_source=git)** | Dublin, OH - Corporate Office | On Site | Aug 29 |
+| ↳ | **[Regulatory Intern](https://jobright.ai/jobs/info/68b1ae621ade4306aa63129a?utm_campaign=1055&utm_source=git)** | Ohio Remote | Remote | Aug 29 |
+| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Post Doctoral Regulatory Affairs Fellow - Policy and Intelligence](https://jobright.ai/jobs/info/68b1aa1af4e41a61efd7ed2c?utm_campaign=1055&utm_source=git)** | Ridgefield, CT | Hybrid | Aug 29 |
+| **[Henkel](http://www.henkel.com)** | **[Product Safety and Regulatory Affairs Intern – Summer 2026](https://jobright.ai/jobs/info/68b19f791ade4306aa630bb7?utm_campaign=1055&utm_source=git)** | Rocky Hill, None, US | On Site | Aug 29 |
+| **[NiSource](https://www.nisource.com/)** | **[Regulatory Intern](https://jobright.ai/jobs/info/68b1a053bc187f64e1bd5ace?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Aug 29 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[NFL Management Council Law Clerk](https://jobright.ai/jobs/info/68b18f2cf4e41a61efd7e4b5?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Aug 28 |
 | **[NiSource](https://www.nisource.com/)** | **[Regulatory Intern](https://jobright.ai/jobs/info/68b12edce815524ae11fbdfa?utm_campaign=1055&utm_source=git)** | Columbus OH - Arena District | Hybrid | Aug 28 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Graduate Assistant – Office of University Counsel](https://jobright.ai/jobs/info/68b1419404557a6c207bbd17?utm_campaign=1055&utm_source=git)** | Richmond, KY | On Site | Aug 28 |
@@ -75,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Citi](https://www.citi.com)** | **[Senior Legal Counsel for International Swaps and Derivatives Association and Markets Negotiations VP](https://jobright.ai/jobs/info/68b0a94713563e782a9f8393?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Aug 28 |
 | **[Hall & Evans, LLC](http://hallevans.com)** | **[Fall Associate](https://jobright.ai/jobs/info/68b0a64b2d46f6396cae74d7?utm_campaign=1055&utm_source=git)** | Las Vegas, Nevada | On Site | Aug 28 |
 | **[Santander Consumer USA](https://santanderconsumerusa.com/)** | **[State Regulatory Relations- Legal Intern](https://jobright.ai/jobs/info/68b0a3c02d46f6396cae722a?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Aug 28 |
-| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Probation Intern (Hourly)](https://jobright.ai/jobs/info/68b0998c2d46f6396cae6e96?utm_campaign=1055&utm_source=git)** | Cherry Hill, NJ | Hybrid | Aug 28 |
 | **[North Star Mutual Insurance Company](http://northstarmutual.com)** | **[Claims Intern - Property & Casualty Claims](https://jobright.ai/jobs/info/68b0990b2d46f6396cae6e43?utm_campaign=1055&utm_source=git)** | Cottonwood, MN | On Site | Aug 28 |
 | **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Legal Intern](https://jobright.ai/jobs/info/68b097102d46f6396cae6cfa?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Aug 28 |
 | **[DV Trading LLC](https://www.dvtrading.co)** | **[2026 Summer Internship - Risk Management](https://jobright.ai/jobs/info/68b0884713563e782a9f7139?utm_campaign=1055&utm_source=git)** | Chicago | On Site | Aug 28 |
@@ -154,8 +158,4 @@ Job ID : 263270](https://jobright.ai/jobs/info/68aee14c1f0a2a568a05e262?utm_camp
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68acf500758f2e4ac3009e61?utm_campaign=1055&utm_source=git)** | Newport Beach, CA | Hybrid | Aug 25 |
 | ↳ | **[Risk Advisory Associate - Summer 2026](https://jobright.ai/jobs/info/68acf486758f2e4ac3009dcf?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Aug 25 |
 | **[Crowe](https://www.crowe.com/)** | **[Third Party Risk Intern](https://jobright.ai/jobs/info/68acf38c758f2e4ac3009c28?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
-| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Paralegal](https://jobright.ai/jobs/info/68acf1ccd627244576e4a0ec?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Aug 25 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Associate - Summer 2026](https://jobright.ai/jobs/info/68acf081d627244576e49ffa?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Aug 25 |
-| **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acf031d627244576e49fc9?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Aug 25 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Associate - Summer 2026](https://jobright.ai/jobs/info/68acf00dd627244576e49fa9?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
