@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[sweetgreen](http://sweetgreen.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b22a371ade4306aa634a6a?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 29 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Legal & Compliance Analyst](https://jobright.ai/jobs/info/68b21e2cbc187f64e1bd9710?utm_campaign=1055&utm_source=git)** | Newport Beach, CA USA | On Site | Aug 29 |
 | **[USAA](https://www.usaa.com)** | **[Associate Attorney Intern - CLO](https://jobright.ai/jobs/info/68b212091ade4306aa6342cf?utm_campaign=1055&utm_source=git)** | San Antonio Home Office I | On Site | Aug 29 |
 | **[AAK](http://www.aak.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/68b20512bc187f64e1bd8c12?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Aug 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Professional Liability Underwriting](https://jobright.ai/jobs/info/68ae204ddaf1431824ca10a7?utm_campaign=1055&utm_source=git)** | Windsor, CT | On Site | Aug 26 |
 | ↳ | **[Intern - Legal](https://jobright.ai/jobs/info/68ae1e11d627244576e51c1f?utm_campaign=1055&utm_source=git)** | Worcester, MA | On Site | Aug 26 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Legal Assistant Intern - Nashville, TN (Summer 2026)](https://jobright.ai/jobs/info/68ae135dd627244576e5176e?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Aug 26 |
-| **[Friends of Animals](https://friendsofanimals.org)** | **[Wildlife Law Program Intern](https://jobright.ai/jobs/info/68ae126ddaf1431824ca0925?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | Hybrid | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
