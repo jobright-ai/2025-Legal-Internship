@@ -88,11 +88,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern: Intellectual Property Legal](https://jobright.ai/jobs/info/68b1f46ebc187f64e1bd8030?utm_campaign=1055&utm_source=git)** | St. Louis, MO | Hybrid | Aug 29 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Summer Intern JD Rising 3L (Intern) United States](https://jobright.ai/jobs/info/68b1f448f4e41a61efd80ee1?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Aug 29 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Intellectual Property Legal](https://jobright.ai/jobs/info/68b1f421bc187f64e1bd7fed?utm_campaign=1055&utm_source=git)** | Kansas City, MO | Hybrid | Aug 29 |
-| **[NiSource](https://www.nisource.com/)** | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24ddcbc187f64e1bda73d?utm_campaign=1055&utm_source=git)** | Chester VA-Op Ctr | Hybrid | Aug 29 |
-| ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24e43bc187f64e1bda785?utm_campaign=1055&utm_source=git)** | Merrillville IN-SLC | Hybrid | Aug 29 |
-| ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24d44f4e41a61efd8341d?utm_campaign=1055&utm_source=git)** | Columbus OH - Arena District | Hybrid | Aug 29 |
-| ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24d081ade4306aa635627?utm_campaign=1055&utm_source=git)** | Indianapolis IN | Hybrid | Aug 29 |
+| **[NiSource](https://www.nisource.com/)** | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24d44f4e41a61efd8341d?utm_campaign=1055&utm_source=git)** | Columbus OH - Arena District | Hybrid | Aug 29 |
 | ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b2510ef4e41a61efd8371c?utm_campaign=1055&utm_source=git)** | Canonsburg-SPT PA-Hqtr | Hybrid | Aug 29 |
+| ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24e43bc187f64e1bda785?utm_campaign=1055&utm_source=git)** | Merrillville IN-SLC | Hybrid | Aug 29 |
+| ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24d081ade4306aa635627?utm_campaign=1055&utm_source=git)** | Indianapolis IN | Hybrid | Aug 29 |
+| ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24ddcbc187f64e1bda73d?utm_campaign=1055&utm_source=git)** | Chester VA-Op Ctr | Hybrid | Aug 29 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship – Legal Intern](https://jobright.ai/jobs/info/68b1e92b1ade4306aa632d0e?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Aug 29 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Consumer Compliance Management Intern](https://jobright.ai/jobs/info/68b1e7651ade4306aa632b37?utm_campaign=1055&utm_source=git)** | Dallas | On Site | Aug 29 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship – Legal / Media Law and First Amendment Intern](https://jobright.ai/jobs/info/68b1e7571ade4306aa632b25?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Aug 29 |
