@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Henkel](http://www.henkel.com)** | **[Product Safety & Regulatory Affairs Intern – Summer 2026](https://jobright.ai/jobs/info/68b39be7f4e41a61efd894b1?utm_campaign=1055&utm_source=git)** | Rocky Hill, None, US | On Site | Aug 30 |
+| **[Henkel](http://www.henkel.com)** | **[Product Safety & Regulatory Affairs Intern – Summer 2026](https://jobright.ai/jobs/info/68b3db00bc187f64e1be1e99?utm_campaign=1055&utm_source=git)** | Rocky Hill, CT | Hybrid | Aug 30 |
+| ↳ | **[Product Safety & Regulatory Affairs Intern – Summer 2026](https://jobright.ai/jobs/info/68b39be7f4e41a61efd894b1?utm_campaign=1055&utm_source=git)** | Rocky Hill, None, US | On Site | Aug 30 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management BSA/AML Intern](https://jobright.ai/jobs/info/68a4ba762d2a252445cd89bf?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney’s Office Spring 2026 Legal Internship](https://jobright.ai/jobs/info/684200627c40b03d2fa0658a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 30 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850c590d48c52e5f91024bf?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Aug 30 |
@@ -77,8 +78,7 @@ For a complete list, click the following sortable link below:
 | **[AAK](http://www.aak.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/68b20512bc187f64e1bd8c12?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Aug 29 |
 | **[Keros Therapeutics](http://kerostx.com/)** | **[Legal Co-Op](https://jobright.ai/jobs/info/68b204c31ade4306aa633dc5?utm_campaign=1055&utm_source=git)** | Lexington, MA | On Site | Aug 29 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b201ddbc187f64e1bd8ae4?utm_campaign=1055&utm_source=git)** | Dublin, OH | On Site | Aug 29 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Intellectual Property Legal](https://jobright.ai/jobs/info/68b1fe7fbc187f64e1bd8896?utm_campaign=1055&utm_source=git)** | Kansas City, MO | Hybrid | Aug 29 |
-| **[IGS Energy](http://www.igsenergy.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/68b1fde41ade4306aa633ab5?utm_campaign=1055&utm_source=git)** | Ohio, United States | Remote | Aug 29 |
+| ↳ | **[Regulatory Intern](https://jobright.ai/jobs/info/68b1fde41ade4306aa633ab5?utm_campaign=1055&utm_source=git)** | Ohio, United States | Remote | Aug 29 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Intellectual Property Legal](https://jobright.ai/jobs/info/68b1fdb91ade4306aa633a9d?utm_campaign=1055&utm_source=git)** | Columbia, MO | Hybrid | Aug 29 |
 | ↳ | **[Intern: Intellectual Property Legal](https://jobright.ai/jobs/info/68b1fc8fbc187f64e1bd876e?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
 | **[Center for Family Representation](https://cfrny.org/)** | **[Legal Externship/ Fellowship Summer 2026](https://jobright.ai/jobs/info/68b1fa87f4e41a61efd813b9?utm_campaign=1055&utm_source=git)** | New York, NY, USA | On Site | Aug 29 |
@@ -91,11 +91,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern: Intellectual Property Legal](https://jobright.ai/jobs/info/68b1f4bbf4e41a61efd80f37?utm_campaign=1055&utm_source=git)** | Chicago, IL (Southwest) | Hybrid | Aug 29 |
 | ↳ | **[Intern: Intellectual Property Legal](https://jobright.ai/jobs/info/68b1f46ebc187f64e1bd8030?utm_campaign=1055&utm_source=git)** | St. Louis, MO | Hybrid | Aug 29 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Summer Intern JD Rising 3L (Intern) United States](https://jobright.ai/jobs/info/68b1f448f4e41a61efd80ee1?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Aug 29 |
-| **[NiSource](https://www.nisource.com/)** | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b2510ef4e41a61efd8371c?utm_campaign=1055&utm_source=git)** | Canonsburg-SPT PA-Hqtr | Hybrid | Aug 29 |
-| ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24ddcbc187f64e1bda73d?utm_campaign=1055&utm_source=git)** | Chester VA-Op Ctr | Hybrid | Aug 29 |
-| ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24e43bc187f64e1bda785?utm_campaign=1055&utm_source=git)** | Merrillville IN-SLC | Hybrid | Aug 29 |
-| ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24d44f4e41a61efd8341d?utm_campaign=1055&utm_source=git)** | Columbus OH - Arena District | Hybrid | Aug 29 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Intellectual Property Legal](https://jobright.ai/jobs/info/68b1f421bc187f64e1bd7fed?utm_campaign=1055&utm_source=git)** | Kansas City, MO | Hybrid | Aug 29 |
+| **[NiSource](https://www.nisource.com/)** | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24d44f4e41a61efd8341d?utm_campaign=1055&utm_source=git)** | Columbus OH - Arena District | Hybrid | Aug 29 |
 | ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24d081ade4306aa635627?utm_campaign=1055&utm_source=git)** | Indianapolis IN | Hybrid | Aug 29 |
+| ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24ddcbc187f64e1bda73d?utm_campaign=1055&utm_source=git)** | Chester VA-Op Ctr | Hybrid | Aug 29 |
+| ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b2510ef4e41a61efd8371c?utm_campaign=1055&utm_source=git)** | Canonsburg-SPT PA-Hqtr | Hybrid | Aug 29 |
+| ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24e43bc187f64e1bda785?utm_campaign=1055&utm_source=git)** | Merrillville IN-SLC | Hybrid | Aug 29 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship – Legal Intern](https://jobright.ai/jobs/info/68b1e92b1ade4306aa632d0e?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Aug 29 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Consumer Compliance Management Intern](https://jobright.ai/jobs/info/68b1e7651ade4306aa632b37?utm_campaign=1055&utm_source=git)** | Dallas | On Site | Aug 29 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship – Legal / Media Law and First Amendment Intern](https://jobright.ai/jobs/info/68b1e7571ade4306aa632b25?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Aug 29 |
@@ -106,9 +107,9 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/68929d034c7e851b90ad70f9?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[Keros Therapeutics](http://kerostx.com/)** | **[Legal Co-Op](https://jobright.ai/jobs/info/68b1bdd2f4e41a61efd7f6d1?utm_campaign=1055&utm_source=git)** | Lexington, MA (Hybrid) | On Site | Aug 29 |
 | **[Hylant](http://www.hylant.com)** | **[Summer 2026 Internship: Specialty (Cyber, Environmental, Mergers & Acquisitions or Executive Risk)](https://jobright.ai/jobs/info/68b1b6c4bc187f64e1bd6478?utm_campaign=1055&utm_source=git)** | Toledo, OH | On Site | Aug 29 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Post-Doctoral Regulatory Affairs Fellow - Policy and Intelligence](https://jobright.ai/jobs/info/68b1aa1af4e41a61efd7ed2c?utm_campaign=1055&utm_source=git)** | Ridgefield, CT | On Site | Aug 29 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b1aef9f4e41a61efd7eff0?utm_campaign=1055&utm_source=git)** | Dublin, OH - Corporate Office | On Site | Aug 29 |
 | ↳ | **[Regulatory Intern](https://jobright.ai/jobs/info/68b1ae621ade4306aa63129a?utm_campaign=1055&utm_source=git)** | Ohio Remote | Remote | Aug 29 |
+| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Post Doctoral Regulatory Affairs Fellow - Policy and Intelligence](https://jobright.ai/jobs/info/68b1aa1af4e41a61efd7ed2c?utm_campaign=1055&utm_source=git)** | Ridgefield, CT | Hybrid | Aug 29 |
 | **[Henkel](http://www.henkel.com)** | **[Product Safety and Regulatory Affairs Intern – Summer 2026](https://jobright.ai/jobs/info/68b19f791ade4306aa630bb7?utm_campaign=1055&utm_source=git)** | Rocky Hill, None, US | On Site | Aug 29 |
 | **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/68784cc8ae2f413e4a5c1531?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Aug 29 |
 | **[NiSource](https://www.nisource.com/)** | **[Regulatory Intern](https://jobright.ai/jobs/info/68b1a053bc187f64e1bd5ace?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Aug 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Information Governance & eDiscovery](https://jobright.ai/jobs/info/68af71d31f0a2a568a061b7f?utm_campaign=1055&utm_source=git)** | Worcester, MA | On Site | Aug 27 |
 | ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/68b0212a13563e782a9f39ad?utm_campaign=1055&utm_source=git)** | Worcester, MA | On Site | Aug 27 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Legal & Compliance Summer Intern - Mortgage Insurance](https://jobright.ai/jobs/info/68af6266962903596357c470?utm_campaign=1055&utm_source=git)** | Triad Area | Hybrid | Aug 27 |
-| **[Cooper Elliott](https://cooperelliott.com)** | **[Law Clerk - Summer 2026](https://jobright.ai/jobs/info/68af57872daaba398441d64f?utm_campaign=1055&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
