@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850c0a88f493779c01567f3?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Aug 31 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Graduate Assistant - Office of University Counsel](https://jobright.ai/jobs/info/68b417891ade4306aa63df38?utm_campaign=1055&utm_source=git)** | Richmond, KY | On Site | Aug 31 |
 | **[Henkel](http://www.henkel.com)** | **[Product Safety & Regulatory Affairs Intern – Summer 2026](https://jobright.ai/jobs/info/68b3db00bc187f64e1be1e99?utm_campaign=1055&utm_source=git)** | Rocky Hill, CT | Hybrid | Aug 30 |
 | ↳ | **[Product Safety & Regulatory Affairs Intern – Summer 2026](https://jobright.ai/jobs/info/68b39be7f4e41a61efd894b1?utm_campaign=1055&utm_source=git)** | Rocky Hill, None, US | On Site | Aug 30 |
@@ -93,9 +94,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern: Intellectual Property Legal](https://jobright.ai/jobs/info/68b1f4bbf4e41a61efd80f37?utm_campaign=1055&utm_source=git)** | Chicago, IL (Southwest) | Hybrid | Aug 29 |
 | ↳ | **[Intern: Intellectual Property Legal](https://jobright.ai/jobs/info/68b1f46ebc187f64e1bd8030?utm_campaign=1055&utm_source=git)** | St. Louis, MO | Hybrid | Aug 29 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Summer Intern JD Rising 3L (Intern) United States](https://jobright.ai/jobs/info/68b1f448f4e41a61efd80ee1?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Aug 29 |
-| **[NiSource](https://www.nisource.com/)** | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b2510ef4e41a61efd8371c?utm_campaign=1055&utm_source=git)** | Canonsburg-SPT PA-Hqtr | Hybrid | Aug 29 |
-| ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24e43bc187f64e1bda785?utm_campaign=1055&utm_source=git)** | Merrillville IN-SLC | Hybrid | Aug 29 |
+| **[NiSource](https://www.nisource.com/)** | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24e43bc187f64e1bda785?utm_campaign=1055&utm_source=git)** | Merrillville IN-SLC | Hybrid | Aug 29 |
 | ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24ddcbc187f64e1bda73d?utm_campaign=1055&utm_source=git)** | Chester VA-Op Ctr | Hybrid | Aug 29 |
+| ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b2510ef4e41a61efd8371c?utm_campaign=1055&utm_source=git)** | Canonsburg-SPT PA-Hqtr | Hybrid | Aug 29 |
 | ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24d081ade4306aa635627?utm_campaign=1055&utm_source=git)** | Indianapolis IN | Hybrid | Aug 29 |
 | ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24d44f4e41a61efd8341d?utm_campaign=1055&utm_source=git)** | Columbus OH - Arena District | Hybrid | Aug 29 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship – Legal Intern](https://jobright.ai/jobs/info/68b1e92b1ade4306aa632d0e?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Aug 29 |
@@ -114,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Product Safety and Regulatory Affairs Intern – Summer 2026](https://jobright.ai/jobs/info/68b19f791ade4306aa630bb7?utm_campaign=1055&utm_source=git)** | Rocky Hill, None, US | On Site | Aug 29 |
 | **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/68784cc8ae2f413e4a5c1531?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Aug 29 |
 | **[NiSource](https://www.nisource.com/)** | **[Regulatory Intern](https://jobright.ai/jobs/info/68b1a053bc187f64e1bd5ace?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Aug 29 |
+| **[Zurich North America](https://www.zurichna.com)** | **[Sr. Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/68b4240c1ade4306aa63dfdb?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | Hybrid | Aug 29 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[NFL Management Council Law Clerk](https://jobright.ai/jobs/info/68b18f2cf4e41a61efd7e4b5?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Aug 28 |
 | **[NiSource](https://www.nisource.com/)** | **[Regulatory Intern](https://jobright.ai/jobs/info/68b12edce815524ae11fbdfa?utm_campaign=1055&utm_source=git)** | Columbus OH - Arena District | Hybrid | Aug 28 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Graduate Assistant – Office of University Counsel](https://jobright.ai/jobs/info/68b1419404557a6c207bbd17?utm_campaign=1055&utm_source=git)** | Richmond, KY | On Site | Aug 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[World Relief](https://worldrelief.org/)** | **[Immigration Legal Services Part-Time Afghan Legal Assistance Intern - 2025315](https://jobright.ai/jobs/info/68af7e5b2daaba398441ec3e?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Aug 27 |
 | **[Mission Action](https://www.missionaction.org/)** | **[Legal Internship Opportunities: Summer 2025 Law Student Clerk](https://jobright.ai/jobs/info/68af7dc61f0a2a568a06229b?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Aug 27 |
 | **[Santander México](http://www.santander.com.mx/)** | **[State Regulatory Relations- Legal Intern](https://jobright.ai/jobs/info/68af79b51f0a2a568a062064?utm_campaign=1055&utm_source=git)** | Dallas | On Site | Aug 27 |
-| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Information Governance & eDiscovery](https://jobright.ai/jobs/info/68af71d31f0a2a568a061b7f?utm_campaign=1055&utm_source=git)** | Worcester, MA | On Site | Aug 27 |
-| ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/68b0212a13563e782a9f39ad?utm_campaign=1055&utm_source=git)** | Worcester, MA | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
