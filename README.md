@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Corporate Functions Control Management, American Express National Bank - New York, NY](https://jobright.ai/jobs/info/68b55030f4e41a61efd8f5d3?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 01 |
+| ↳ | **[Campus Graduate Summer Internship Program - 2026 Operational Risk Management Control Management, Credit & Fraud Risk - New York, NY](https://jobright.ai/jobs/info/68b55021f4e41a61efd8f5d1?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 01 |
+| **[Textron](http://textron.com)** | **[2026 Intern - Intellectual Property - Hunt Valley, MD](https://jobright.ai/jobs/info/68b54ef8bc187f64e1be65bc?utm_campaign=1055&utm_source=git)** | Hunt Valley, MD | Hybrid | Sep 01 |
+| ↳ | **[2026 Summer Intern - Trade Compliance - Fort Worth, TX](https://jobright.ai/jobs/info/68b54b80f4e41a61efd8f24f?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Sep 01 |
+| **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Summer)](https://jobright.ai/jobs/info/68b5495ebc187f64e1be5eff?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Sep 01 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Regulatory Policy Intern](https://jobright.ai/jobs/info/68b54949bc187f64e1be5edc?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Sep 01 |
+| **[Textron](http://textron.com)** | **[2026 Internship - Legal (Contracts Associate)](https://jobright.ai/jobs/info/68b5456af4e41a61efd8edfa?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
+| ↳ | **[2026 Summer Intern - Contracts - Fort Worth, TX](https://jobright.ai/jobs/info/68b5454a1ade4306aa640e5b?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Sep 01 |
+| **[Textron](http://textron.com)** | **[2026 Summer Intern - Ethics & Compliance - Fort Worth, TX](https://jobright.ai/jobs/info/68b5446f1ade4306aa640e0d?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Aug 31 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Regulatory Policy Intern](https://jobright.ai/jobs/info/68b53f6b1ade4306aa640ca4?utm_campaign=1055&utm_source=git)** | Denver, CO, 80205 | On Site | Aug 31 |
+| **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Spring)](https://jobright.ai/jobs/info/68b53efbf4e41a61efd8ebd3?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Aug 31 |
 | **[Bayer](https://www.bayer.com)** | **[Regulatory Specialist Co-Op](https://jobright.ai/jobs/info/68b52b5a1ade4306aa640a5c?utm_campaign=1055&utm_source=git)** | Indianola, PA | On Site | Aug 31 |
 | **[NYC Department of Social Services](https://www.nyc.gov/site/dss/index.page)** | **[ATTORNEY INTERNE](https://jobright.ai/jobs/info/68b4b1debc187f64e1be3adb?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Aug 31 |
 | ↳ | **[ATTORNEY INTERNE](https://jobright.ai/jobs/info/68b4a2311ade4306aa63e9e1?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Aug 31 |
@@ -82,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Tennessee Comptroller of the Treasury](https://comptroller.tn.gov/careers.html)** | **[Investigations Intern - Summer 2026](https://jobright.ai/jobs/info/68b26912bc187f64e1bdb171?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Aug 29 |
 | **[Henkel](http://www.henkel.com)** | **[Global Trade Intern – Spring 2026](https://jobright.ai/jobs/info/68b28516bc187f64e1bdc9b6?utm_campaign=1055&utm_source=git)** | Rocky Hill, CT | On Site | Aug 29 |
 | **[Empower Pharmacy](http://empowerpharmacy.com/)** | **[Intern - Legal Associate](https://jobright.ai/jobs/info/68b25145bc187f64e1bda8a6?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Aug 29 |
-| **[sweetgreen](http://sweetgreen.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b22a371ade4306aa634a6a?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Aug 29 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Legal & Compliance Analyst](https://jobright.ai/jobs/info/68b21e2cbc187f64e1bd9710?utm_campaign=1055&utm_source=git)** | Newport Beach, CA USA | On Site | Aug 29 |
 | **[USAA](https://www.usaa.com)** | **[Associate Attorney Intern - CLO](https://jobright.ai/jobs/info/68b212091ade4306aa6342cf?utm_campaign=1055&utm_source=git)** | San Antonio Home Office I | On Site | Aug 29 |
 | **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/68784c6b5cebcd1dd51d928b?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Aug 29 |
@@ -104,10 +114,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern: Intellectual Property Legal](https://jobright.ai/jobs/info/68b1f46ebc187f64e1bd8030?utm_campaign=1055&utm_source=git)** | St. Louis, MO | Hybrid | Aug 29 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Summer Intern JD Rising 3L (Intern) United States](https://jobright.ai/jobs/info/68b1f448f4e41a61efd80ee1?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Aug 29 |
 | **[NiSource](https://www.nisource.com/)** | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24d44f4e41a61efd8341d?utm_campaign=1055&utm_source=git)** | Columbus OH - Arena District | Hybrid | Aug 29 |
-| ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24d081ade4306aa635627?utm_campaign=1055&utm_source=git)** | Indianapolis IN | Hybrid | Aug 29 |
-| ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b2510ef4e41a61efd8371c?utm_campaign=1055&utm_source=git)** | Canonsburg-SPT PA-Hqtr | Hybrid | Aug 29 |
 | ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24e43bc187f64e1bda785?utm_campaign=1055&utm_source=git)** | Merrillville IN-SLC | Hybrid | Aug 29 |
+| ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b2510ef4e41a61efd8371c?utm_campaign=1055&utm_source=git)** | Canonsburg-SPT PA-Hqtr | Hybrid | Aug 29 |
 | ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24ddcbc187f64e1bda73d?utm_campaign=1055&utm_source=git)** | Chester VA-Op Ctr | Hybrid | Aug 29 |
+| ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24d081ade4306aa635627?utm_campaign=1055&utm_source=git)** | Indianapolis IN | Hybrid | Aug 29 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship – Legal Intern](https://jobright.ai/jobs/info/68b1e92b1ade4306aa632d0e?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Aug 29 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Consumer Compliance Management Intern](https://jobright.ai/jobs/info/68b1e7651ade4306aa632b37?utm_campaign=1055&utm_source=git)** | Dallas | On Site | Aug 29 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship – Legal / Media Law and First Amendment Intern](https://jobright.ai/jobs/info/68b1e7571ade4306aa632b25?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Aug 29 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Star Mutual Insurance Company](http://northstarmutual.com)** | **[Claims Intern - Property & Casualty Claims](https://jobright.ai/jobs/info/68b0990b2d46f6396cae6e43?utm_campaign=1055&utm_source=git)** | Cottonwood, MN | On Site | Aug 28 |
 | **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Legal Intern](https://jobright.ai/jobs/info/68b097102d46f6396cae6cfa?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Aug 28 |
 | **[DV Trading LLC](https://www.dvtrading.co)** | **[2026 Summer Internship - Risk Management](https://jobright.ai/jobs/info/68b0884713563e782a9f7139?utm_campaign=1055&utm_source=git)** | Chicago | On Site | Aug 28 |
-| **[National Football League (NFL)](http://www.nfl.com)** | **[NFL Management Council Law Clerk](https://jobright.ai/jobs/info/68b06bf1b47fb001d6892184?utm_campaign=1055&utm_source=git)** | New York | On Site | Aug 28 |
-| **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/68784ce85cebcd1dd51d933c?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Aug 28 |
-| **[LyondellBasell](http://lyondellbasell.com)** | **[2026 Business Resilience & Global Security Intern](https://jobright.ai/jobs/info/68b054f32d46f6396cae4173?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Aug 28 |
-| **[Pinnacle Propane, LLC](https://pinnaclepropane.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b021fd13563e782a9f3a2f?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Aug 28 |
-| **[Center for Biological Diversity](http://www.biologicaldiversity.org/)** | **[Law Clerk - Summer 2026 (Five Positions)](https://jobright.ai/jobs/info/68b01580e723db6c9b7b5cb6?utm_campaign=1055&utm_source=git)** | Oakland, CA | Remote | Aug 28 |
-| **[Rose, Klein & Marias](https://www.linkedin.com/company/155218)** | **[Animal Legal Defense Fund Pro Bono Program Summer 2026 Clerkship](https://jobright.ai/jobs/info/68aff3bbb47fb001d688ea4a?utm_campaign=1055&utm_source=git)** | Cotati, CA | Remote | Aug 27 |
-| ↳ | **[Animal Legal Defense Fund Litigation Program Summer 2026 Clerkships](https://jobright.ai/jobs/info/68afeeb313563e782a9f2718?utm_campaign=1055&utm_source=git)** | Cotati, CA | Remote | Aug 27 |
-| **[GO-Counsel Inc., APC](http://www.tolucalaw.com)** | **[Legal Intern - 2L/3L](https://jobright.ai/jobs/info/68b1a562bc187f64e1bd5c53?utm_campaign=1055&utm_source=git)** | Glendale, CA | On Site | Aug 27 |
-| **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Enterprise Risk Management Intern](https://jobright.ai/jobs/info/68afcea0e723db6c9b7b3be4?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
-| ↳ | **[Summer 2026 Anti-Money Laundering Intern](https://jobright.ai/jobs/info/68afcd88b47fb001d688d4dd?utm_campaign=1055&utm_source=git)** | Hermitage, PA | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
