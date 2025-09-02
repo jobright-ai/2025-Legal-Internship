@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68b72d162124650c1401ff3d?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Sep 02 |
+| **[Textron](http://textron.com)** | **[2026 Summer Intern - Ethics & Compliance  - Fort Worth, TX](https://jobright.ai/jobs/info/68b5d28abc187f64e1be8516?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Sep 02 |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68b7268c2124650c1401fb6a?utm_campaign=1055&utm_source=git)** | Southfield, MI | Hybrid | Sep 02 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Financial Crimes Summer Intern](https://jobright.ai/jobs/info/68b711651ade4306aa64762a?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Sep 02 |
 | **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney's Office Brave Justice Summer 2026 Legal Internship](https://jobright.ai/jobs/info/687e9e51db19f31cf0d6bba0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 02 |
 | **[Vernis & Bowling](https://www.national-law.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/68b70c541ade4306aa647362?utm_campaign=1055&utm_source=git)** | Hollywood, FL | Hybrid | Sep 02 |
@@ -75,8 +78,7 @@ For a complete list, click the following sortable link below:
 | **[MORSE Corp](https://www.morsecorp.com)** | **[Security Compliance Co-op](https://jobright.ai/jobs/info/68b6579ff4e41a61efd923d0?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Sep 01 |
 | **[Advancement Project](https://advancementproject.org)** | **[Legal Fellowship](https://jobright.ai/jobs/info/68b6432d1ade4306aa644225?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Sep 01 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - Phoenix, AZ](https://jobright.ai/jobs/info/68b5e0e81ade4306aa64372b?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
-| **[Textron](http://textron.com)** | **[2026 Summer Intern - Ethics & Compliance  - Fort Worth, TX](https://jobright.ai/jobs/info/68b5d28abc187f64e1be8516?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Sep 01 |
-| ↳ | **[2026 Summer Intern - Trade Compliance  - Fort Worth, TX](https://jobright.ai/jobs/info/68b5ced91ade4306aa6434f8?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Sep 01 |
+| **[Textron](http://textron.com)** | **[2026 Summer Intern - Trade Compliance  - Fort Worth, TX](https://jobright.ai/jobs/info/68b5ced91ade4306aa6434f8?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Sep 01 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/68989dc15574fd6bc0c7a391?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Sep 01 |
 | ↳ | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6880c48b29ad6b2744adbab9?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Sep 01 |
 | ↳ | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850cd6762ba50bc7c2bd40f?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Sep 01 |
@@ -141,11 +143,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern: Intellectual Property Legal](https://jobright.ai/jobs/info/68b1f4bbf4e41a61efd80f37?utm_campaign=1055&utm_source=git)** | Chicago, IL (Southwest) | Hybrid | Aug 29 |
 | ↳ | **[Intern: Intellectual Property Legal](https://jobright.ai/jobs/info/68b1f46ebc187f64e1bd8030?utm_campaign=1055&utm_source=git)** | St. Louis, MO | Hybrid | Aug 29 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Summer Intern JD Rising 3L (Intern) United States](https://jobright.ai/jobs/info/68b1f448f4e41a61efd80ee1?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Aug 29 |
-| **[NiSource](https://www.nisource.com/)** | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24ddcbc187f64e1bda73d?utm_campaign=1055&utm_source=git)** | Chester VA-Op Ctr | Hybrid | Aug 29 |
+| **[NiSource](https://www.nisource.com/)** | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24d44f4e41a61efd8341d?utm_campaign=1055&utm_source=git)** | Columbus OH - Arena District | Hybrid | Aug 29 |
+| ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24ddcbc187f64e1bda73d?utm_campaign=1055&utm_source=git)** | Chester VA-Op Ctr | Hybrid | Aug 29 |
 | ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24e43bc187f64e1bda785?utm_campaign=1055&utm_source=git)** | Merrillville IN-SLC | Hybrid | Aug 29 |
 | ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24d081ade4306aa635627?utm_campaign=1055&utm_source=git)** | Indianapolis IN | Hybrid | Aug 29 |
 | ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b2510ef4e41a61efd8371c?utm_campaign=1055&utm_source=git)** | Canonsburg-SPT PA-Hqtr | Hybrid | Aug 29 |
-| ↳ | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68b24d44f4e41a61efd8341d?utm_campaign=1055&utm_source=git)** | Columbus OH - Arena District | Hybrid | Aug 29 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship – Legal Intern](https://jobright.ai/jobs/info/68b1e92b1ade4306aa632d0e?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Aug 29 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Consumer Compliance Management Intern](https://jobright.ai/jobs/info/68b1e7651ade4306aa632b37?utm_campaign=1055&utm_source=git)** | Dallas | On Site | Aug 29 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship – Legal / Media Law and First Amendment Intern](https://jobright.ai/jobs/info/68b1e7571ade4306aa632b25?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Aug 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marsh Early Career Program Summer Internship - Advisory Practices - College Program 2026](https://jobright.ai/jobs/info/68b1ca4ff4e41a61efd7fabe?utm_campaign=1055&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Aug 29 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/68929d034c7e851b90ad70f9?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[Keros Therapeutics](http://kerostx.com/)** | **[Legal Co-Op](https://jobright.ai/jobs/info/68b1bdd2f4e41a61efd7f6d1?utm_campaign=1055&utm_source=git)** | Lexington, MA (Hybrid) | On Site | Aug 29 |
-| **[Hylant](http://www.hylant.com)** | **[Summer 2026 Internship: Specialty (Cyber, Environmental, Mergers & Acquisitions or Executive Risk)](https://jobright.ai/jobs/info/68b1b6c4bc187f64e1bd6478?utm_campaign=1055&utm_source=git)** | Toledo, OH | On Site | Aug 29 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Post-Doctoral Regulatory Affairs Fellow - Policy and Intelligence](https://jobright.ai/jobs/info/68b1aa1af4e41a61efd7ed2c?utm_campaign=1055&utm_source=git)** | Ridgefield, CT | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
