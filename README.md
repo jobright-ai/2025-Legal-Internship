@@ -57,12 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[INTEGRIS Health](https://www.integrisok.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b79c9c2124650c140245e7?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Sep 02 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern – Regulatory Affairs – California](https://jobright.ai/jobs/info/68b796db2124650c140242a2?utm_campaign=1055&utm_source=git)** | Fremont, CA | On Site | Sep 02 |
+| **[Midcontinent Independent System Operator (MISO)](https://www.misoenergy.org/)** | **[2026 Summer Intern - Regulatory Affairs & Compliance](https://jobright.ai/jobs/info/68b796812124650c14024210?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Sep 02 |
+| **[Ameritas](http://www.ameritas.com)** | **[Legal Intern - Compliance](https://jobright.ai/jobs/info/68b794ef2124650c14023ee9?utm_campaign=1055&utm_source=git)** | Lincoln, NE | Hybrid | Sep 02 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern – Regulatory Affairs – California](https://jobright.ai/jobs/info/68b794aff4e41a61efd9a3ca?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Sep 02 |
+| **[Bridgewater Bank](https://www.bridgewaterbankmn.com/)** | **[Bank Secrecy Act (BSA) Intern](https://jobright.ai/jobs/info/68b7941ef4e41a61efd9a2a6?utm_campaign=1055&utm_source=git)** | St Louis Park, MN | On Site | Sep 02 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern – Regulatory Affairs – Michigan](https://jobright.ai/jobs/info/68b792d21ade4306aa64c11a?utm_campaign=1055&utm_source=git)** | Portage, MI | On Site | Sep 02 |
+| **[Northern Trust](http://www.northerntrust.com)** | **[Risk and Compliance Intern](https://jobright.ai/jobs/info/68b77e652124650c14023351?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 02 |
+| **[American National](https://www.americannational.com)** | **[Internship - Corporate Compliance](https://jobright.ai/jobs/info/68b786f5f4e41a61efd99b01?utm_campaign=1055&utm_source=git)** | League City, TX | On Site | Sep 02 |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Surveillance Compliance Intern](https://jobright.ai/jobs/info/68b78692f4e41a61efd99a98?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 02 |
 | **[Midcontinent Independent System Operator (MISO)](https://www.misoenergy.org/)** | **[2026 Summer Intern - Regulatory Affairs & Compliance](https://jobright.ai/jobs/info/68b7822d2124650c14023439?utm_campaign=1055&utm_source=git)** | Eagan, MN | On Site | Sep 02 |
 | **[ACLU of Pennsylvania](https://www.aclupa.org/)** | **[Summer 2026 Legal Intern - Second Year Law Student](https://jobright.ai/jobs/info/68b7809c1ade4306aa64b897?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 02 |
 | **[Weaver](http://www.weaver.com)** | **[Governance, Risk and Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/68b7802ff4e41a61efd99708?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Sep 02 |
 | ↳ | **[Governance, Risk and Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/68b780231ade4306aa64b809?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Sep 02 |
 | ↳ | **[Governance, Risk and Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/68b77e99f4e41a61efd9955a?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Sep 02 |
-| **[Northern Trust](http://www.northerntrust.com)** | **[Risk and Compliance Intern](https://jobright.ai/jobs/info/68b77e652124650c14023351?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 02 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Regulatory Affairs](https://jobright.ai/jobs/info/68b77cda2124650c14023187?utm_campaign=1055&utm_source=git)** | Bloomington, Minnesota | On Site | Sep 02 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Contracts Co-op (Spring/Summer 2026)(Remote)](https://jobright.ai/jobs/info/68b77c0d2124650c140230c7?utm_campaign=1055&utm_source=git)** | Winston-Salem, NC | Hybrid | Sep 02 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Spring 2026 Corporate Affairs Intern](https://jobright.ai/jobs/info/68b778ed1ade4306aa64b35e?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Sep 02 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2026 Internship - Legal (Contracts Associate)](https://jobright.ai/jobs/info/68b5456af4e41a61efd8edfa?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | ↳ | **[2026 Summer Intern - Contracts - Fort Worth, TX](https://jobright.ai/jobs/info/68b5454a1ade4306aa640e5b?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Summer Intern - Ethics & Compliance - Fort Worth, TX](https://jobright.ai/jobs/info/68b5446f1ade4306aa640e0d?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Aug 31 |
-| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Global Compliance & Ethics, Global Risk & Compliance - New York, NY](https://jobright.ai/jobs/info/68b56c3cbc187f64e1be6ad5?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Aug 31 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Regulatory Policy Intern](https://jobright.ai/jobs/info/68b53f6b1ade4306aa640ca4?utm_campaign=1055&utm_source=git)** | Denver, CO, 80205 | On Site | Aug 31 |
-| **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Spring)](https://jobright.ai/jobs/info/68b53efbf4e41a61efd8ebd3?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Aug 31 |
-| **[Bayer](https://www.bayer.com)** | **[Regulatory Specialist Co-Op](https://jobright.ai/jobs/info/68b52b5a1ade4306aa640a5c?utm_campaign=1055&utm_source=git)** | Indianola, PA | On Site | Aug 31 |
-| **[NYC Department of Social Services](https://www.nyc.gov/site/dss/index.page)** | **[ATTORNEY INTERNE](https://jobright.ai/jobs/info/68b4b1debc187f64e1be3adb?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Aug 31 |
-| ↳ | **[ATTORNEY INTERNE](https://jobright.ai/jobs/info/68b4a2311ade4306aa63e9e1?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Aug 31 |
-| ↳ | **[ATTORNEY INTERNE](https://jobright.ai/jobs/info/68b4a0e8bc187f64e1be39c1?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Aug 31 |
-| ↳ | **[ATTORNEY INTERNE](https://jobright.ai/jobs/info/68b4a0e4bc187f64e1be39c0?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Aug 31 |
-| ↳ | **[ATTORNEY INTERNE](https://jobright.ai/jobs/info/68b4a096f4e41a61efd8c897?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
