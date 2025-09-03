@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midcontinent Independent System Operator (MISO)](https://www.misoenergy.org/)** | **[2026 Summer Intern - Regulatory Affairs & Compliance](https://jobright.ai/jobs/info/68b7822d2124650c14023439?utm_campaign=1055&utm_source=git)** | Eagan, MN | On Site | Sep 02 |
+| **[ACLU of Pennsylvania](https://www.aclupa.org/)** | **[Summer 2026 Legal Intern - Second Year Law Student](https://jobright.ai/jobs/info/68b7809c1ade4306aa64b897?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 02 |
+| **[Weaver](http://www.weaver.com)** | **[Governance, Risk and Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/68b7802ff4e41a61efd99708?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Sep 02 |
+| ↳ | **[Governance, Risk and Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/68b780231ade4306aa64b809?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Sep 02 |
+| ↳ | **[Governance, Risk and Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/68b77e99f4e41a61efd9955a?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Sep 02 |
+| **[Northern Trust](http://www.northerntrust.com)** | **[Risk and Compliance Intern](https://jobright.ai/jobs/info/68b77e652124650c14023351?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 02 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Regulatory Affairs](https://jobright.ai/jobs/info/68b77cda2124650c14023187?utm_campaign=1055&utm_source=git)** | Bloomington, Minnesota | On Site | Sep 02 |
+| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Contracts Co-op (Spring/Summer 2026)(Remote)](https://jobright.ai/jobs/info/68b77c0d2124650c140230c7?utm_campaign=1055&utm_source=git)** | Winston-Salem, NC | Hybrid | Sep 02 |
+| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Spring 2026 Corporate Affairs Intern](https://jobright.ai/jobs/info/68b778ed1ade4306aa64b35e?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Sep 02 |
+| **[INTEGRIS Health](https://www.integrisok.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b7761c1ade4306aa64b239?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 02 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Personal Lines Claims Intern](https://jobright.ai/jobs/info/68b75c132124650c140223bf?utm_campaign=1055&utm_source=git)** | Grandview Heights, OH | On Site | Sep 02 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Legal & Compliance, Research Compliance Associate (Summer 2026)](https://jobright.ai/jobs/info/68b75ad92124650c14022295?utm_campaign=1055&utm_source=git)** | New York | On Site | Sep 02 |
 | **[Valero](http://www.valero.com)** | **[Risk Intern - (Summer 2026) - Headquarters in San Antonio](https://jobright.ai/jobs/info/68b758b12124650c1402208a?utm_campaign=1055&utm_source=git)** | US-TX-San Antonio | On Site | Sep 02 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ATTORNEY INTERNE](https://jobright.ai/jobs/info/68b4a0e8bc187f64e1be39c1?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Aug 31 |
 | ↳ | **[ATTORNEY INTERNE](https://jobright.ai/jobs/info/68b4a0e4bc187f64e1be39c0?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Aug 31 |
 | ↳ | **[ATTORNEY INTERNE](https://jobright.ai/jobs/info/68b4a096f4e41a61efd8c897?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Aug 31 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850c0a88f493779c01567f3?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Aug 31 |
-| **[Eastern Kentucky University](http://www.eku.edu/)** | **[Graduate Assistant - Office of University Counsel](https://jobright.ai/jobs/info/68b417891ade4306aa63df38?utm_campaign=1055&utm_source=git)** | Richmond, KY | On Site | Aug 31 |
-| **[Henkel](http://www.henkel.com)** | **[Product Safety & Regulatory Affairs Intern – Summer 2026](https://jobright.ai/jobs/info/68b3db00bc187f64e1be1e99?utm_campaign=1055&utm_source=git)** | Rocky Hill, CT | Hybrid | Aug 30 |
-| **[Fredrikson & Byron, P.A.](http://www.fredlaw.com/)** | **[2026 2L Summer Law Clerk - Fargo, ND](https://jobright.ai/jobs/info/68b65fbef4e41a61efd92761?utm_campaign=1055&utm_source=git)** | Fargo, ND | On Site | Aug 30 |
-| **[Henkel](http://www.henkel.com)** | **[Product Safety & Regulatory Affairs Intern – Summer 2026](https://jobright.ai/jobs/info/68b39be7f4e41a61efd894b1?utm_campaign=1055&utm_source=git)** | Rocky Hill, None, US | On Site | Aug 30 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management BSA/AML Intern](https://jobright.ai/jobs/info/68a4ba762d2a252445cd89bf?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 30 |
-| **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney’s Office Spring 2026 Legal Internship](https://jobright.ai/jobs/info/684200627c40b03d2fa0658a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 30 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850c590d48c52e5f91024bf?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Aug 30 |
-| **[Fragomen](https://www.fragomen.com)** | **[Summer Associate](https://jobright.ai/jobs/info/687843255cebcd1dd51d8c3a?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 29 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Enterprise Risk Management Department - Model Risk Management Intern](https://jobright.ai/jobs/info/689f5a9e79a9f96662556577?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
