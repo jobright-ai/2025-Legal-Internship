@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Regulatory Affairs](https://jobright.ai/jobs/info/68b7edb85e55be5e2604f653?utm_campaign=1055&utm_source=git)** | Bloomington, MN | On Site | Sep 03 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Cyber Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b763effbb9793f7b7791?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 02 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Anti-Money Laundering Intern](https://jobright.ai/jobs/info/68b7b099effbb9793f7b6e10?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Sep 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Cyber Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b026195d032a0960aa71?utm_campaign=1055&utm_source=git)** | Chicago | On Site | Sep 02 |
@@ -87,8 +88,7 @@ For a complete list, click the following sortable link below:
 | **[NCR Atleos](https://www.ncratleos.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b758b11ade4306aa64a598?utm_campaign=1055&utm_source=git)** | TEXAS VIRTUAL, USA | On Site | Sep 02 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68b7581c2124650c14021ffb?utm_campaign=1055&utm_source=git)** | ATLANTA, GA, USA | On Site | Sep 02 |
 | **[FINRA](http://www.finra.org)** | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74dd41ade4306aa649de0?utm_campaign=1055&utm_source=git)** | Boston, MA (Job Posting) | Hybrid | Sep 02 |
-| **[Cencora](http://www.cencora.com)** | **[Corporate Responsibility Intern](https://jobright.ai/jobs/info/68b74dd12124650c14021ad0?utm_campaign=1055&utm_source=git)** | Conshohocken, PA | On Site | Sep 02 |
-| **[FINRA](http://www.finra.org)** | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74d82f4e41a61efd97e93?utm_campaign=1055&utm_source=git)** | San Francisco, CA (Job Posting) | Hybrid | Sep 02 |
+| ↳ | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74d82f4e41a61efd97e93?utm_campaign=1055&utm_source=git)** | San Francisco, CA (Job Posting) | Hybrid | Sep 02 |
 | ↳ | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74d411ade4306aa649d56?utm_campaign=1055&utm_source=git)** | Philadelphia, PA (Job Posting) | Hybrid | Sep 02 |
 | ↳ | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74d341ade4306aa649d48?utm_campaign=1055&utm_source=git)** | Washington, DC (Job Posting) | Hybrid | Sep 02 |
 | ↳ | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74d2bf4e41a61efd97e88?utm_campaign=1055&utm_source=git)** | New York, NY (Job Posting) | Hybrid | Sep 02 |
@@ -131,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Vernis & Bowling](https://www.national-law.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/68b70c541ade4306aa647362?utm_campaign=1055&utm_source=git)** | Hollywood, FL | Hybrid | Sep 02 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Spring 2026 Corporate Affairs Intern](https://jobright.ai/jobs/info/68b705942124650c1401ecd8?utm_campaign=1055&utm_source=git)** | 1014 Vine St, Cincinnati, OH, 45202, US | On Site | Sep 02 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Fellow (Fall 2026)](https://jobright.ai/jobs/info/689a85855574fd6bc0c832d5?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Sep 02 |
+| **[Cencora](http://www.cencora.com)** | **[Corporate Responsibility Intern](https://jobright.ai/jobs/info/68b7022c1ade4306aa647036?utm_campaign=1055&utm_source=git)** | Conshohocken, PA | On Site | Sep 02 |
 | **[URBN (Urban Outfitters, Anthropologie Group, Free People & Nuuly)](http://urbn.com)** | **[URBN Compliance Intern](https://jobright.ai/jobs/info/68b7006c2124650c1401eb22?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 02 |
 | **[IAT Insurance Group](https://www.iatinsurancegroup.com)** | **[Internship / Contract Surety Underwriting](https://jobright.ai/jobs/info/68b6f9b6f4e41a61efd94d44?utm_campaign=1055&utm_source=git)** | Spring, TX | Hybrid | Sep 02 |
 | ↳ | **[Internship / Commercial Surety Underwriting](https://jobright.ai/jobs/info/68b6f9a4f4e41a61efd94d3a?utm_campaign=1055&utm_source=git)** | Norristown, PA | Hybrid | Sep 02 |
@@ -141,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Zivian Health](https://www.zivianhealth.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68b7363d1ade4306aa648745?utm_campaign=1055&utm_source=git)** | Austin, TX | Remote | Sep 01 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68b67270f4e41a61efd92f26?utm_campaign=1055&utm_source=git)** | Remote (Austin, Texas, US) | Remote | Sep 01 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Compliance Analyst](https://jobright.ai/jobs/info/68b67221f4e41a61efd92e51?utm_campaign=1055&utm_source=git)** | New York | Hybrid | Sep 01 |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Surveillance Compliance Intern](https://jobright.ai/jobs/info/68b7da265e55be5e2604ec2b?utm_campaign=1055&utm_source=git)** | Topeka, KS | On Site | Sep 01 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Supply Chain, Trade (Summer 2026)](https://jobright.ai/jobs/info/68b65ba91ade4306aa644522?utm_campaign=1055&utm_source=git)** | Neenah, WI | On Site | Sep 01 |
 | **[MORSE Corp](https://www.morsecorp.com)** | **[Security Compliance Co-op](https://jobright.ai/jobs/info/68b6579ff4e41a61efd923d0?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Sep 01 |
 | **[Advancement Project](https://advancementproject.org)** | **[Legal Fellowship](https://jobright.ai/jobs/info/68b6432d1ade4306aa644225?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Sep 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Trade Compliance  - Fort Worth, TX](https://jobright.ai/jobs/info/68b55f78bc187f64e1be686f?utm_campaign=1055&utm_source=git)** | US-Texas-Fort Worth | On Site | Sep 01 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Operational Risk Management, Global Risk & Compliance - New York, NY](https://jobright.ai/jobs/info/68b55588f4e41a61efd8f71d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 01 |
 | ↳ | **[Campus Graduate Summer Internship Program - 2026 Enterprise Risk Management & Risk Oversight, Global Risk & Compliance - New York, NY](https://jobright.ai/jobs/info/68b555461ade4306aa6417d6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 01 |
-| ↳ | **[Campus Graduate Summer Internship Program - 2026 Corporate Functions Control Management, American Express National Bank - New York, NY](https://jobright.ai/jobs/info/68b55030f4e41a61efd8f5d3?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 01 |
-| ↳ | **[Campus Graduate Summer Internship Program - 2026 Operational Risk Management Control Management, Credit & Fraud Risk - New York, NY](https://jobright.ai/jobs/info/68b55021f4e41a61efd8f5d1?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
