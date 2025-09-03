@@ -138,6 +138,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship / Contract Surety Underwriting](https://jobright.ai/jobs/info/68b6f9712124650c1401e97c?utm_campaign=1055&utm_source=git)** | Plano, TX | Hybrid | Sep 02 |
 | **[The Signals Network](https://thesignalsnetwork.org)** | **[Legal Intern/Extern](https://jobright.ai/jobs/info/68b6e64bf4e41a61efd9471b?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 02 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Technology Transfer Office Intern](https://jobright.ai/jobs/info/68b73407f4e41a61efd967b7?utm_campaign=1055&utm_source=git)** | Laramie, WY | Hybrid | Sep 02 |
+| **[Euronext](https://www.euronext.com/en)** | **[Euronext Clearing - Default Management Procedure, Operational Oversight & Advisory Intern](https://jobright.ai/jobs/info/68b7f5fb5e55be5e2604f963?utm_campaign=1055&utm_source=git)** | Rome, GA | On Site | Sep 02 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Compliance Analyst](https://jobright.ai/jobs/info/68b6941dbc187f64e1beab0b?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 01 |
 | **[Zivian Health](https://www.zivianhealth.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68b7363d1ade4306aa648745?utm_campaign=1055&utm_source=git)** | Austin, TX | Remote | Sep 01 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68b67270f4e41a61efd92f26?utm_campaign=1055&utm_source=git)** | Remote (Austin, Texas, US) | Remote | Sep 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2026 Summer Intern - Ethics & Compliance  - Fort Worth, TX](https://jobright.ai/jobs/info/68b55fe7bc187f64e1be6895?utm_campaign=1055&utm_source=git)** | US-Texas-Fort Worth | On Site | Sep 01 |
 | ↳ | **[2026 Summer Intern - Trade Compliance  - Fort Worth, TX](https://jobright.ai/jobs/info/68b55f78bc187f64e1be686f?utm_campaign=1055&utm_source=git)** | US-Texas-Fort Worth | On Site | Sep 01 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Operational Risk Management, Global Risk & Compliance - New York, NY](https://jobright.ai/jobs/info/68b55588f4e41a61efd8f71d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 01 |
-| ↳ | **[Campus Graduate Summer Internship Program - 2026 Enterprise Risk Management & Risk Oversight, Global Risk & Compliance - New York, NY](https://jobright.ai/jobs/info/68b555461ade4306aa6417d6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
