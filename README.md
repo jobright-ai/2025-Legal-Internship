@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Internship Program - Compliance (St. Petersburg, FL)](https://jobright.ai/jobs/info/68b9a2e06105227d11896975?utm_campaign=1055&utm_source=git)** | Saint Petersburg, Florida - United States | Hybrid | Sep 04 |
+| **[University of Michigan](https://www.umich.edu)** | **[Compliance Intern (TEMP)](https://jobright.ai/jobs/info/68b9cdf18043103d4f21a8fe?utm_campaign=1055&utm_source=git)** | Ann Arbor, MI | On Site | Sep 04 |
+| **[Starr Insurance](https://starrcompanies.com/)** | **[2026 Starr Summer Intern -  Professional Liability](https://jobright.ai/jobs/info/68b9cb6e5f38327491860d76?utm_campaign=1055&utm_source=git)** | 399 Park Avenue-New York, NY | On Site | Sep 04 |
+| **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Internship Program - Compliance (St. Petersburg, FL)](https://jobright.ai/jobs/info/68b9c85c8043103d4f21a5ad?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | Hybrid | Sep 04 |
+| ↳ | **[2026 Summer Internship Program - Compliance (St. Petersburg, FL)](https://jobright.ai/jobs/info/68b9a2e06105227d11896975?utm_campaign=1055&utm_source=git)** | Saint Petersburg, Florida - United States | Hybrid | Sep 04 |
 | **[Clearbrief.ai](https://clearbrief.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b99e518043103d4f218fc9?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 04 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Chicago)](https://jobright.ai/jobs/info/68b99ba55f3832749185f448?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 04 |
 | ↳ | **[Assurance Intern, Risk Advisory Services - Summer 2026 (Chicago)](https://jobright.ai/jobs/info/68b99b6e6105227d118964a8?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 04 |
@@ -145,8 +148,7 @@ Job ID : 263771](https://jobright.ai/jobs/info/68b9662f5f3832749185da5c?utm_camp
 | **[NCR Atleos](https://www.ncratleos.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b758b11ade4306aa64a598?utm_campaign=1055&utm_source=git)** | TEXAS VIRTUAL, USA | On Site | Sep 02 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68b7581c2124650c14021ffb?utm_campaign=1055&utm_source=git)** | ATLANTA, GA, USA | On Site | Sep 02 |
 | **[FINRA](http://www.finra.org)** | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74dd41ade4306aa649de0?utm_campaign=1055&utm_source=git)** | Boston, MA (Job Posting) | Hybrid | Sep 02 |
-| **[Cencora](http://www.cencora.com)** | **[Corporate Responsibility Intern](https://jobright.ai/jobs/info/68b74dd12124650c14021ad0?utm_campaign=1055&utm_source=git)** | Conshohocken, PA | On Site | Sep 02 |
-| **[FINRA](http://www.finra.org)** | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74d82f4e41a61efd97e93?utm_campaign=1055&utm_source=git)** | San Francisco, CA (Job Posting) | Hybrid | Sep 02 |
+| ↳ | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74d82f4e41a61efd97e93?utm_campaign=1055&utm_source=git)** | San Francisco, CA (Job Posting) | Hybrid | Sep 02 |
 | ↳ | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74d411ade4306aa649d56?utm_campaign=1055&utm_source=git)** | Philadelphia, PA (Job Posting) | Hybrid | Sep 02 |
 | ↳ | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74d341ade4306aa649d48?utm_campaign=1055&utm_source=git)** | Washington, DC (Job Posting) | Hybrid | Sep 02 |
 | ↳ | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74d2bf4e41a61efd97e88?utm_campaign=1055&utm_source=git)** | New York, NY (Job Posting) | Hybrid | Sep 02 |
@@ -156,6 +158,4 @@ Job ID : 263771](https://jobright.ai/jobs/info/68b9662f5f3832749185da5c?utm_camp
 | **[World Wide Technology Healthcare Solutions](https://www.wwt.com/industry/healthcare/)** | **[Legal & Compliance Intern - 2026](https://jobright.ai/jobs/info/68b74bb72124650c14021842?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Sep 02 |
 | **[FINRA](http://www.finra.org)** | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74b872124650c140217d7?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ (Job Posting) | Hybrid | Sep 02 |
 | ↳ | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74b5f2124650c1402177c?utm_campaign=1055&utm_source=git)** | Rockville, MD (Job Posting) | Hybrid | Sep 02 |
-| **[Hooks Meng & Clement, PLLC.](http://www.hmc.law)** | **[Law Clerk in our Carson City Office](https://jobright.ai/jobs/info/68b74b162124650c140216d7?utm_campaign=1055&utm_source=git)** | Carson City, NV | On Site | Sep 02 |
-| **[FINRA](http://www.finra.org)** | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74ada2124650c1402165c?utm_campaign=1055&utm_source=git)** | Jersey City, NJ (Job Posting) | Hybrid | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
