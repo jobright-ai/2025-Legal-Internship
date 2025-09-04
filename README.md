@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/68b9972e8043103d4f218b68?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | Hybrid | Sep 04 |
+| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Regulatory Relations Intern](https://jobright.ai/jobs/info/68b992b65f3832749185eee8?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
+| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/68b98eab6105227d11895a3d?utm_campaign=1055&utm_source=git)** | Jersey City, NJ United States of America | Hybrid | Sep 04 |
+| **[Mercy For Animals](https://mercyforanimals.org)** | **[Summer Legal Internship](https://jobright.ai/jobs/info/68a488092d2a252445cd73e9?utm_campaign=1055&utm_source=git)** | Remote in the United States | Remote | Sep 04 |
 | **[Bronx County District Attorney Office](https://www.bronxda.nyc.gov/html/home/home.shtml)** | **[Law School Summer (2L) Intern 2026](https://jobright.ai/jobs/info/6881981816ea5743a373a2ad?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Sep 04 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Certified Criminal Law Clerk](https://jobright.ai/jobs/info/68b95fcb7b787c4522cf9e4b?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Sep 04 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Summer 2026 (NYC)](https://jobright.ai/jobs/info/6881d0de1321092fa0061932?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
@@ -71,8 +75,8 @@ Job ID : 263771](https://jobright.ai/jobs/info/68b9662f5f3832749185da5c?utm_camp
 | **[MasTec](http://mastec.com)** | **[Part-Time SOX Compliance Intern](https://jobright.ai/jobs/info/68b8e7d407090163b6ba6137?utm_campaign=1055&utm_source=git)** | Coral Gables, Florida | Hybrid | Sep 03 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[2025 Legal and Compliance Fall Intern](https://jobright.ai/jobs/info/68b8e5e05b42bc4562828d93?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Sep 03 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - Western Ohio](https://jobright.ai/jobs/info/68b8dc415b42bc4562828468?utm_campaign=1055&utm_source=git)** | Maumee, OH | On Site | Sep 03 |
-| **[The Garrett Companies](https://www.thegarrettco.com/)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68b904edea901c0d269fb8af?utm_campaign=1055&utm_source=git)** | Indianapolis,  IN | On Site | Sep 03 |
-| ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68b901fc5b42bc4562829b1e?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Sep 03 |
+| **[The Garrett Companies](https://www.thegarrettco.com/)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68b901fc5b42bc4562829b1e?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Sep 03 |
+| ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68b904edea901c0d269fb8af?utm_campaign=1055&utm_source=git)** | Indianapolis,  IN | On Site | Sep 03 |
 | **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern](https://jobright.ai/jobs/info/68b8d6b3ea901c0d269f9f72?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Sep 03 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Economic Damages & Valuation Internship - Summer 2026](https://jobright.ai/jobs/info/68b8d56c07090163b6ba5495?utm_campaign=1055&utm_source=git)** | Birmingham, AL | Hybrid | Sep 03 |
 | **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern](https://jobright.ai/jobs/info/68b8d416ea901c0d269f9c21?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
@@ -87,7 +91,7 @@ Job ID : 263771](https://jobright.ai/jobs/info/68b9662f5f3832749185da5c?utm_camp
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern - Legal Leasing](https://jobright.ai/jobs/info/68b88ddc5b42bc45628256cb?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Sep 03 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Graduate Intern, LFBO- Firm Oversight- Division of Supervision & Regulation](https://jobright.ai/jobs/info/68b8862a5b42bc4562825266?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Sep 03 |
 | ↳ | **[Graduate Intern, LFBO- Firm Oversight- Division of Supervision & Regulation](https://jobright.ai/jobs/info/68b8743607090163b6ba1cf7?utm_campaign=1055&utm_source=git)** | DC-Washington | On Site | Sep 03 |
-| **[Santander México](http://www.santander.com.mx/)** | **[Regulatory Relations Intern](https://jobright.ai/jobs/info/68b86ea0ea901c0d269f611f?utm_campaign=1055&utm_source=git)** | Dallas | On Site | Sep 03 |
+| **[Santander México](http://www.santander.com.mx/)** | **[Regulatory Relations Intern](https://jobright.ai/jobs/info/68b86ed05b42bc45628245c8?utm_campaign=1055&utm_source=git)** | Dallas | On Site | Sep 03 |
 | **[Valvoline Inc.](http://www.valvoline.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b8a43e5b42bc4562826855?utm_campaign=1055&utm_source=git)** | Lexington, KY | Hybrid | Sep 03 |
 | **[Meijer](https://www.meijer.com/)** | **[Corporate Compliance Intern- Summer 2026](https://jobright.ai/jobs/info/68b85a7207090163b6ba114b?utm_campaign=1055&utm_source=git)** | Grand Rapids, MI | On Site | Sep 03 |
 | ↳ | **[Asset Protection Intern- Summer 2026](https://jobright.ai/jobs/info/68b8583007090163b6ba0f85?utm_campaign=1055&utm_source=git)** | Grand Rapids, MI | On Site | Sep 03 |
@@ -95,7 +99,7 @@ Job ID : 263771](https://jobright.ai/jobs/info/68b9662f5f3832749185da5c?utm_camp
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/68224a44cdaf82e297b60700?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Sep 03 |
 | **[Meijer](https://www.meijer.com/)** | **[Corporate Compliance Intern- Summer 2026](https://jobright.ai/jobs/info/68b8535407090163b6ba0e83?utm_campaign=1055&utm_source=git)** | Grand Rapids, MI | Hybrid | Sep 03 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Summer 2026 Corporate Affairs Intern](https://jobright.ai/jobs/info/68b83f265b42bc4562823433?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Sep 03 |
-| **[State of Arizona](https://gaming.az.gov)** | **[Procurement Internship](https://jobright.ai/jobs/info/68b827f73dd50f6e92b89a5e?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | Hybrid | Sep 03 |
+| **[State of Arizona](https://az.gov/)** | **[Procurement Internship](https://jobright.ai/jobs/info/68b827f73dd50f6e92b89a5e?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | Hybrid | Sep 03 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Cyber Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68b80fdc5e55be5e2604fd6b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Sep 03 |
 | ↳ | **[Cyber Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/68b80ec1a10b650604b628ab?utm_campaign=1055&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 03 |
 | ↳ | **[Cyber Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68b80e770514b74d7c3ec409?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Sep 03 |
@@ -150,12 +154,8 @@ Job ID : 263771](https://jobright.ai/jobs/info/68b9662f5f3832749185da5c?utm_camp
 | **[UNDP Careers](https://www.undp.org)** | **[Private Sector Due Diligence Intern](https://jobright.ai/jobs/info/68b74a83f4e41a61efd97c50?utm_campaign=1055&utm_source=git)** | Home, KS | On Site | Sep 02 |
 | **[FINRA](http://www.finra.org)** | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74a5b1ade4306aa649c67?utm_campaign=1055&utm_source=git)** | Jericho, NY (Job Posting) | Hybrid | Sep 02 |
 | ↳ | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74a15f4e41a61efd97bb9?utm_campaign=1055&utm_source=git)** | Boca Raton, FL (Job Posting) | Hybrid | Sep 02 |
+| **[Northern Trust](http://www.northerntrust.com)** | **[Risk and Compliance Intern](https://jobright.ai/jobs/info/68b749d41ade4306aa649c08?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 02 |
 | **[Coverys](https://www.coverys.com)** | **[Compliance Co-Op](https://jobright.ai/jobs/info/68b74963f4e41a61efd97a83?utm_campaign=1055&utm_source=git)** | Boston | On Site | Sep 02 |
 | **[Selective Insurance](https://www.selective.com/)** | **[Claims Experience Summer Internship – Charlotte, NC (Hybrid)](https://jobright.ai/jobs/info/68b7481b1ade4306aa64996e?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Sep 02 |
-| **[Northern Trust](http://www.northerntrust.com)** | **[Risk and Compliance Intern](https://jobright.ai/jobs/info/68b74805f4e41a61efd97905?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 02 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Law Clerk Intern (Hybrid)](https://jobright.ai/jobs/info/68b747901ade4306aa6498d8?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 02 |
-| **[Societe Generale](https://www.societegenerale.com)** | **[2026 Compliance Summer Analyst Program - New York](https://jobright.ai/jobs/info/68b745f62124650c14021436?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Sep 02 |
-| **[The Hershey Company](http://thehersheycompany.com)** | **[Future Opportunities Intern Quality & Regulatory Compliance - Digital Quality (Summer 2026)](https://jobright.ai/jobs/info/68b743672124650c140210d1?utm_campaign=1055&utm_source=git)** | Hershey, PA | On Site | Sep 02 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Corporate Affairs Intern](https://jobright.ai/jobs/info/68b7433b2124650c140210ac?utm_campaign=1055&utm_source=git)** | 1014 Vine St, Cincinnati, OH, 45202, US | On Site | Sep 02 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern – Regulatory Affairs – California](https://jobright.ai/jobs/info/68b73ffe1ade4306aa649232?utm_campaign=1055&utm_source=git)** | Fremont, California | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
