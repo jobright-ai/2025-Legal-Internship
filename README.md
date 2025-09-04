@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Certified Criminal Law Clerk](https://jobright.ai/jobs/info/68b95fcb7b787c4522cf9e4b?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Sep 04 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Summer 2026 (NYC)](https://jobright.ai/jobs/info/6881d0de1321092fa0061932?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Law Clerk](https://jobright.ai/jobs/info/68b9237fea901c0d269fcb2f?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Sep 03 |
+| **[World Relief](https://worldrelief.org/)** | **[Immigration Legal Services Part-Time Afghan Legal Assistance Intern - 2025315](https://jobright.ai/jobs/info/68af7e5b2daaba398441ec3e?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Sep 03 |
 | **[Geotab](http://www.geotab.com/)** | **[Government Security Operations Intern (Winter/January 2026, 4-8 Months)](https://jobright.ai/jobs/info/68b91ad207090163b6ba7a66?utm_campaign=1055&utm_source=git)** | Remote - USA | Remote | Sep 03 |
 | **[Santander](https://www.santander.com/)** | **[Regulatory Relations Intern](https://jobright.ai/jobs/info/68b8f99a07090163b6ba6900?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Sep 03 |
 | **[Primoris Services Corporation](http://prim.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/68b8f1c55b42bc4562829243?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Sep 03 |
@@ -65,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[MasTec](http://mastec.com)** | **[Part-Time SOX Compliance Intern](https://jobright.ai/jobs/info/68b8e7d407090163b6ba6137?utm_campaign=1055&utm_source=git)** | Coral Gables, Florida | Hybrid | Sep 03 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[2025 Legal and Compliance Fall Intern](https://jobright.ai/jobs/info/68b8e5e05b42bc4562828d93?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Sep 03 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - Western Ohio](https://jobright.ai/jobs/info/68b8dc415b42bc4562828468?utm_campaign=1055&utm_source=git)** | Maumee, OH | On Site | Sep 03 |
-| **[The Garrett Companies](https://www.thegarrettco.com/)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68b901fc5b42bc4562829b1e?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Sep 03 |
-| ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68b904edea901c0d269fb8af?utm_campaign=1055&utm_source=git)** | Indianapolis,  IN | On Site | Sep 03 |
+| **[The Garrett Companies](https://www.thegarrettco.com/)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68b904edea901c0d269fb8af?utm_campaign=1055&utm_source=git)** | Indianapolis,  IN | On Site | Sep 03 |
+| ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68b901fc5b42bc4562829b1e?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Sep 03 |
 | **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern](https://jobright.ai/jobs/info/68b8d6b3ea901c0d269f9f72?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Sep 03 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Economic Damages & Valuation Internship - Summer 2026](https://jobright.ai/jobs/info/68b8d56c07090163b6ba5495?utm_campaign=1055&utm_source=git)** | Birmingham, AL | Hybrid | Sep 03 |
 | **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern](https://jobright.ai/jobs/info/68b8d416ea901c0d269f9c21?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
@@ -128,7 +131,8 @@ For a complete list, click the following sortable link below:
 | **[NCR Atleos](https://www.ncratleos.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b758b11ade4306aa64a598?utm_campaign=1055&utm_source=git)** | TEXAS VIRTUAL, USA | On Site | Sep 02 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68b7581c2124650c14021ffb?utm_campaign=1055&utm_source=git)** | ATLANTA, GA, USA | On Site | Sep 02 |
 | **[FINRA](http://www.finra.org)** | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74dd41ade4306aa649de0?utm_campaign=1055&utm_source=git)** | Boston, MA (Job Posting) | Hybrid | Sep 02 |
-| ↳ | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74d82f4e41a61efd97e93?utm_campaign=1055&utm_source=git)** | San Francisco, CA (Job Posting) | Hybrid | Sep 02 |
+| **[Cencora](http://www.cencora.com)** | **[Corporate Responsibility Intern](https://jobright.ai/jobs/info/68b74dd12124650c14021ad0?utm_campaign=1055&utm_source=git)** | Conshohocken, PA | On Site | Sep 02 |
+| **[FINRA](http://www.finra.org)** | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74d82f4e41a61efd97e93?utm_campaign=1055&utm_source=git)** | San Francisco, CA (Job Posting) | Hybrid | Sep 02 |
 | ↳ | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74d411ade4306aa649d56?utm_campaign=1055&utm_source=git)** | Philadelphia, PA (Job Posting) | Hybrid | Sep 02 |
 | ↳ | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74d341ade4306aa649d48?utm_campaign=1055&utm_source=git)** | Washington, DC (Job Posting) | Hybrid | Sep 02 |
 | ↳ | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74d2bf4e41a61efd97e88?utm_campaign=1055&utm_source=git)** | New York, NY (Job Posting) | Hybrid | Sep 02 |
@@ -143,9 +147,9 @@ For a complete list, click the following sortable link below:
 | **[UNDP Careers](https://www.undp.org)** | **[Private Sector Due Diligence Intern](https://jobright.ai/jobs/info/68b74a83f4e41a61efd97c50?utm_campaign=1055&utm_source=git)** | Home, KS | On Site | Sep 02 |
 | **[FINRA](http://www.finra.org)** | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74a5b1ade4306aa649c67?utm_campaign=1055&utm_source=git)** | Jericho, NY (Job Posting) | Hybrid | Sep 02 |
 | ↳ | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74a15f4e41a61efd97bb9?utm_campaign=1055&utm_source=git)** | Boca Raton, FL (Job Posting) | Hybrid | Sep 02 |
-| **[Northern Trust](http://www.northerntrust.com)** | **[Risk and Compliance Intern](https://jobright.ai/jobs/info/68b749d41ade4306aa649c08?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 02 |
 | **[Coverys](https://www.coverys.com)** | **[Compliance Co-Op](https://jobright.ai/jobs/info/68b74963f4e41a61efd97a83?utm_campaign=1055&utm_source=git)** | Boston | On Site | Sep 02 |
 | **[Selective Insurance](https://www.selective.com/)** | **[Claims Experience Summer Internship – Charlotte, NC (Hybrid)](https://jobright.ai/jobs/info/68b7481b1ade4306aa64996e?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Sep 02 |
+| **[Northern Trust](http://www.northerntrust.com)** | **[Risk and Compliance Intern](https://jobright.ai/jobs/info/68b74805f4e41a61efd97905?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 02 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Law Clerk Intern (Hybrid)](https://jobright.ai/jobs/info/68b747901ade4306aa6498d8?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 02 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[2026 Compliance Summer Analyst Program - New York](https://jobright.ai/jobs/info/68b745f62124650c14021436?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Sep 02 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Future Opportunities Intern Quality & Regulatory Compliance - Digital Quality (Summer 2026)](https://jobright.ai/jobs/info/68b743672124650c140210d1?utm_campaign=1055&utm_source=git)** | Hershey, PA | On Site | Sep 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern – Regulatory Affairs – California](https://jobright.ai/jobs/info/68b73ffe1ade4306aa649232?utm_campaign=1055&utm_source=git)** | Fremont, California | On Site | Sep 02 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Personal Lines Claims Intern](https://jobright.ai/jobs/info/68b73ee12124650c14020e1a?utm_campaign=1055&utm_source=git)** | Ohio - Grandview Heights, 1000 Yard Street, H Building | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Personal Lines Claims Intern](https://jobright.ai/jobs/info/68b73ee01ade4306aa648fb8?utm_campaign=1055&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 02 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern – Regulatory Affairs – Michigan](https://jobright.ai/jobs/info/68b73d40f4e41a61efd96e02?utm_campaign=1055&utm_source=git)** | Portage, Michigan | On Site | Sep 02 |
-| **[World Wide Technology](http://www.wwt.com)** | **[Legal & Compliance Intern - 2026](https://jobright.ai/jobs/info/68b73ce2f4e41a61efd96d8f?utm_campaign=1055&utm_source=git)** | Maryland Heights, MO | On Site | Sep 02 |
-| **[ACLU of Pennsylvania](https://www.aclupa.org/)** | **[Summer 2026 Legal Intern - Second Year Law Student](https://jobright.ai/jobs/info/68b73cdaf4e41a61efd96d6f?utm_campaign=1055&utm_source=git)** | Philadelphia or Pittsburgh, PA | Hybrid | Sep 02 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern – Regulatory Affairs – California](https://jobright.ai/jobs/info/68b73c512124650c14020905?utm_campaign=1055&utm_source=git)** | San Jose, California | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
