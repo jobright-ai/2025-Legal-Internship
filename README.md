@@ -57,11 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Internship Program - Compliance (St. Petersburg, FL)](https://jobright.ai/jobs/info/68b9a2e06105227d11896975?utm_campaign=1055&utm_source=git)** | Saint Petersburg, Florida - United States | Hybrid | Sep 04 |
+| **[Clearbrief.ai](https://clearbrief.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b99e518043103d4f218fc9?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 04 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Chicago)](https://jobright.ai/jobs/info/68b99ba55f3832749185f448?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 04 |
+| ↳ | **[Assurance Intern, Risk Advisory Services - Summer 2026 (Chicago)](https://jobright.ai/jobs/info/68b99b6e6105227d118964a8?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 04 |
+| **[Stellantis](https://www.stellantis.com)** | **[2026 Corporate Security Summer Internship](https://jobright.ai/jobs/info/689d24effaa4e875e826d6fb?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Sep 04 |
+| **[Santander Consumer USA](https://santanderconsumerusa.com/)** | **[Regulatory Relations Intern](https://jobright.ai/jobs/info/68b998bd6105227d11896171?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/68b9972e8043103d4f218b68?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | Hybrid | Sep 04 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Regulatory Relations Intern](https://jobright.ai/jobs/info/68b992b65f3832749185eee8?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/68b98eab6105227d11895a3d?utm_campaign=1055&utm_source=git)** | Jersey City, NJ United States of America | Hybrid | Sep 04 |
 | **[Mercy For Animals](https://mercyforanimals.org)** | **[Summer Legal Internship](https://jobright.ai/jobs/info/68a488092d2a252445cd73e9?utm_campaign=1055&utm_source=git)** | Remote in the United States | Remote | Sep 04 |
 | **[Bronx County District Attorney Office](https://www.bronxda.nyc.gov/html/home/home.shtml)** | **[Law School Summer (2L) Intern 2026](https://jobright.ai/jobs/info/6881981816ea5743a373a2ad?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Sep 04 |
+| **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Real Estate Investment & Development - Raleigh](https://jobright.ai/jobs/info/687f73182097a271a899cf03?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Sep 04 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Certified Criminal Law Clerk](https://jobright.ai/jobs/info/68b95fcb7b787c4522cf9e4b?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Sep 04 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Summer 2026 (NYC)](https://jobright.ai/jobs/info/6881d0de1321092fa0061932?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Legal Intern
@@ -75,8 +82,8 @@ Job ID : 263771](https://jobright.ai/jobs/info/68b9662f5f3832749185da5c?utm_camp
 | **[MasTec](http://mastec.com)** | **[Part-Time SOX Compliance Intern](https://jobright.ai/jobs/info/68b8e7d407090163b6ba6137?utm_campaign=1055&utm_source=git)** | Coral Gables, Florida | Hybrid | Sep 03 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[2025 Legal and Compliance Fall Intern](https://jobright.ai/jobs/info/68b8e5e05b42bc4562828d93?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Sep 03 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - Western Ohio](https://jobright.ai/jobs/info/68b8dc415b42bc4562828468?utm_campaign=1055&utm_source=git)** | Maumee, OH | On Site | Sep 03 |
-| **[The Garrett Companies](https://www.thegarrettco.com/)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68b901fc5b42bc4562829b1e?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Sep 03 |
-| ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68b904edea901c0d269fb8af?utm_campaign=1055&utm_source=git)** | Indianapolis,  IN | On Site | Sep 03 |
+| **[The Garrett Companies](https://www.thegarrettco.com/)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68b904edea901c0d269fb8af?utm_campaign=1055&utm_source=git)** | Indianapolis,  IN | On Site | Sep 03 |
+| ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68b901fc5b42bc4562829b1e?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Sep 03 |
 | **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern](https://jobright.ai/jobs/info/68b8d6b3ea901c0d269f9f72?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Sep 03 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Economic Damages & Valuation Internship - Summer 2026](https://jobright.ai/jobs/info/68b8d56c07090163b6ba5495?utm_campaign=1055&utm_source=git)** | Birmingham, AL | Hybrid | Sep 03 |
 | **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern](https://jobright.ai/jobs/info/68b8d416ea901c0d269f9c21?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
@@ -151,11 +158,4 @@ Job ID : 263771](https://jobright.ai/jobs/info/68b9662f5f3832749185da5c?utm_camp
 | ↳ | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74b5f2124650c1402177c?utm_campaign=1055&utm_source=git)** | Rockville, MD (Job Posting) | Hybrid | Sep 02 |
 | **[Hooks Meng & Clement, PLLC.](http://www.hmc.law)** | **[Law Clerk in our Carson City Office](https://jobright.ai/jobs/info/68b74b162124650c140216d7?utm_campaign=1055&utm_source=git)** | Carson City, NV | On Site | Sep 02 |
 | **[FINRA](http://www.finra.org)** | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74ada2124650c1402165c?utm_campaign=1055&utm_source=git)** | Jersey City, NJ (Job Posting) | Hybrid | Sep 02 |
-| **[UNDP Careers](https://www.undp.org)** | **[Private Sector Due Diligence Intern](https://jobright.ai/jobs/info/68b74a83f4e41a61efd97c50?utm_campaign=1055&utm_source=git)** | Home, KS | On Site | Sep 02 |
-| **[FINRA](http://www.finra.org)** | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74a5b1ade4306aa649c67?utm_campaign=1055&utm_source=git)** | Jericho, NY (Job Posting) | Hybrid | Sep 02 |
-| ↳ | **[FINRA Legal Extern, Enforcement (UNPAID) - SPRING 2026 SEMESTER](https://jobright.ai/jobs/info/68b74a15f4e41a61efd97bb9?utm_campaign=1055&utm_source=git)** | Boca Raton, FL (Job Posting) | Hybrid | Sep 02 |
-| **[Northern Trust](http://www.northerntrust.com)** | **[Risk and Compliance Intern](https://jobright.ai/jobs/info/68b749d41ade4306aa649c08?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 02 |
-| **[Coverys](https://www.coverys.com)** | **[Compliance Co-Op](https://jobright.ai/jobs/info/68b74963f4e41a61efd97a83?utm_campaign=1055&utm_source=git)** | Boston | On Site | Sep 02 |
-| **[Selective Insurance](https://www.selective.com/)** | **[Claims Experience Summer Internship – Charlotte, NC (Hybrid)](https://jobright.ai/jobs/info/68b7481b1ade4306aa64996e?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Sep 02 |
-| **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Law Clerk Intern (Hybrid)](https://jobright.ai/jobs/info/68b747901ade4306aa6498d8?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
