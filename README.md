@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Santander](https://www.santander.com/)** | **[Regulatory Relations Intern](https://jobright.ai/jobs/info/68b8f99a07090163b6ba6900?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Sep 03 |
+| **[Primoris Services Corporation](http://prim.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/68b8f1c55b42bc4562829243?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Sep 03 |
 | **[MasTec Utility Services](http://MasTec.com)** | **[Part-Time SOX Compliance Intern](https://jobright.ai/jobs/info/68b8e80c5b42bc4562828e69?utm_campaign=1055&utm_source=git)** | Coral Gables, Florida | Hybrid | Sep 03 |
 | **[MasTec](http://mastec.com)** | **[Part-Time SOX Compliance Intern](https://jobright.ai/jobs/info/68b8e7d407090163b6ba6137?utm_campaign=1055&utm_source=git)** | Coral Gables, Florida | Hybrid | Sep 03 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[2025 Legal and Compliance Fall Intern](https://jobright.ai/jobs/info/68b8e5e05b42bc4562828d93?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Sep 03 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - Western Ohio](https://jobright.ai/jobs/info/68b8dc415b42bc4562828468?utm_campaign=1055&utm_source=git)** | Maumee, OH | On Site | Sep 03 |
+| **[The Garrett Companies](https://www.thegarrettco.com/)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68b904edea901c0d269fb8af?utm_campaign=1055&utm_source=git)** | Indianapolis,  IN | On Site | Sep 03 |
+| ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68b901fc5b42bc4562829b1e?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Sep 03 |
 | **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern](https://jobright.ai/jobs/info/68b8d6b3ea901c0d269f9f72?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Sep 03 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Economic Damages & Valuation Internship - Summer 2026](https://jobright.ai/jobs/info/68b8d56c07090163b6ba5495?utm_campaign=1055&utm_source=git)** | Birmingham, AL | Hybrid | Sep 03 |
 | **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern](https://jobright.ai/jobs/info/68b8d416ea901c0d269f9c21?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
@@ -72,7 +76,7 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - Western Ohio](https://jobright.ai/jobs/info/68b8a99f07090163b6ba406b?utm_campaign=1055&utm_source=git)** | Maumee, OH | On Site | Sep 03 |
 | **[Sheridan Ross P.C.](http://www.sheridanross.com)** | **[2026 Summer Associate, Intellectual Property (Electrical Engineering/Computer Science)](https://jobright.ai/jobs/info/68b8a5175b42bc4562826932?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Sep 03 |
 | **[Selective Insurance](https://www.selective.com/)** | **[Enterprise Risk Management & Reinsurance, Summer Internship – Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/68b895ae5b42bc4562825ef7?utm_campaign=1055&utm_source=git)** | Branchville, NJ | Hybrid | Sep 03 |
-| **[Simon Property Group](https://www.simon.com/)** | **[Intern - Legal Leasing](https://jobright.ai/jobs/info/68b88e01ea901c0d269f7273?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Sep 03 |
+| **[Simon Property Group](https://www.simon.com/)** | **[Intern - Legal Leasing](https://jobright.ai/jobs/info/68b88ddc5b42bc45628256cb?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Sep 03 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Graduate Intern, LFBO- Firm Oversight- Division of Supervision & Regulation](https://jobright.ai/jobs/info/68b8862a5b42bc4562825266?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Sep 03 |
 | ↳ | **[Graduate Intern, LFBO- Firm Oversight- Division of Supervision & Regulation](https://jobright.ai/jobs/info/68b8743607090163b6ba1cf7?utm_campaign=1055&utm_source=git)** | DC-Washington | On Site | Sep 03 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Regulatory Relations Intern](https://jobright.ai/jobs/info/68b86ea0ea901c0d269f611f?utm_campaign=1055&utm_source=git)** | Dallas | On Site | Sep 03 |
@@ -92,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Anti-Money Laundering Intern](https://jobright.ai/jobs/info/68b7b099effbb9793f7b6e10?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Sep 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Cyber Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68b7b026195d032a0960aa71?utm_campaign=1055&utm_source=git)** | Chicago | On Site | Sep 02 |
 | ↳ | **[Cyber Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/68b7ae98effbb9793f7b698a?utm_campaign=1055&utm_source=git)** | McLean | On Site | Sep 02 |
+| **[Pierce County](https://www.piercecountywa.gov/)** | **[Rule 9 - Legal Intern - Assigned Counsel](https://jobright.ai/jobs/info/67f6b990e2082528cc701d44?utm_campaign=1055&utm_source=git)** | Greater Seattle Area | On Site | Sep 02 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b79c9c2124650c140245e7?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Sep 02 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern – Regulatory Affairs – California](https://jobright.ai/jobs/info/68b796db2124650c140242a2?utm_campaign=1055&utm_source=git)** | Fremont, CA | On Site | Sep 02 |
 | **[Midcontinent Independent System Operator (MISO)](https://www.misoenergy.org/)** | **[2026 Summer Intern - Regulatory Affairs & Compliance](https://jobright.ai/jobs/info/68b796812124650c14024210?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Sep 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern – Regulatory Affairs – California](https://jobright.ai/jobs/info/68b73c512124650c14020905?utm_campaign=1055&utm_source=git)** | San Jose, California | On Site | Sep 02 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Spring 2026 Corporate Affairs Intern](https://jobright.ai/jobs/info/68b73b1cf4e41a61efd96b25?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Sep 02 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Financial Crimes Summer Intern](https://jobright.ai/jobs/info/68b73ac1f4e41a61efd96aba?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Sep 02 |
-| **[Koley Jessen P.C., L.L.O.](http://koleyjessen.com)** | **[2026 2L Summer Associate / Litigation](https://jobright.ai/jobs/info/68b735d81ade4306aa6486c9?utm_campaign=1055&utm_source=git)** | Omaha, Nebraska, United States | On Site | Sep 02 |
-| **[OLA of Eastern Long Island, Inc.](www.olaofeasternlongisland.org)** | **[Fall Intern (Law student)](https://jobright.ai/jobs/info/68b733f52124650c1402034e?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Sep 02 |
-| **[Midcontinent Independent System Operator (MISO)](https://www.misoenergy.org/)** | **[2026 Summer Intern - Legal (Undergraduate)](https://jobright.ai/jobs/info/68b732df2124650c140201fe?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Sep 02 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management BSA/AML Intern](https://jobright.ai/jobs/info/68a4ba762d2a252445cd89bf?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 02 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68b72d162124650c1401ff3d?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
