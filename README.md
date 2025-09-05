@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Contract Management Intern - part time (one year)](https://jobright.ai/jobs/info/68ba5b1f5f3832749186656a?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 04 |
+| **[Nassau County District Attorney](https://nassauda.org)** | **[Intern - Fall 2025](https://jobright.ai/jobs/info/68ba4ee76105227d1189cba3?utm_campaign=1055&utm_source=git)** | Nassau, NY | On Site | Sep 04 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ba3b9a6105227d1189c398?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Sep 04 |
 | **[Tetra Pak](http://www.tetrapak.com)** | **[Legal Affairs Intern](https://jobright.ai/jobs/info/68ba3aab8043103d4f21ed81?utm_campaign=1055&utm_source=git)** | Denton, TX | Hybrid | Sep 04 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ba3a8f8043103d4f21ed59?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Sep 04 |
@@ -108,17 +110,17 @@ Job ID : 263771](https://jobright.ai/jobs/info/68b9662f5f3832749185da5c?utm_camp
 | **[World Relief](https://worldrelief.org/)** | **[Immigration Legal Services Part-Time Afghan Legal Assistance Intern - 2025315](https://jobright.ai/jobs/info/68af7e5b2daaba398441ec3e?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Sep 03 |
 | **[Geotab](http://www.geotab.com/)** | **[Government Security Operations Intern (Winter/January 2026, 4-8 Months)](https://jobright.ai/jobs/info/68b91ad207090163b6ba7a66?utm_campaign=1055&utm_source=git)** | Remote - USA | Remote | Sep 03 |
 | **[Santander](https://www.santander.com/)** | **[Regulatory Relations Intern](https://jobright.ai/jobs/info/68b8f99a07090163b6ba6900?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Sep 03 |
+| **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern - June 2026](https://jobright.ai/jobs/info/68b8d6b3ea901c0d269f9f72?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Sep 03 |
+| ↳ | **[Risk Solutions Intern - June 2026](https://jobright.ai/jobs/info/68b8d416ea901c0d269f9c21?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
 | **[MasTec Utility Services](http://MasTec.com)** | **[Part-Time SOX Compliance Intern](https://jobright.ai/jobs/info/68b8e80c5b42bc4562828e69?utm_campaign=1055&utm_source=git)** | Coral Gables, Florida | Hybrid | Sep 03 |
 | **[MasTec](http://mastec.com)** | **[Part-Time SOX Compliance Intern](https://jobright.ai/jobs/info/68b8e7d407090163b6ba6137?utm_campaign=1055&utm_source=git)** | Coral Gables, Florida | Hybrid | Sep 03 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[2025 Legal and Compliance Fall Intern](https://jobright.ai/jobs/info/68b8e5e05b42bc4562828d93?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Sep 03 |
 | **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[Third Party Risk Management Intern (Hybrid, Columbia SC)](https://jobright.ai/jobs/info/68b9f18f5f38327491862ac6?utm_campaign=1055&utm_source=git)** | Columbia, SC | Hybrid | Sep 03 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - Western Ohio](https://jobright.ai/jobs/info/68b8dc415b42bc4562828468?utm_campaign=1055&utm_source=git)** | Maumee, OH | On Site | Sep 03 |
 | **[Youth Advocate Programs, Inc.](https://www.yapinc.org/)** | **[Intern](https://jobright.ai/jobs/info/68ba23068043103d4f21dba9?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Sep 03 |
-| **[The Garrett Companies](https://www.thegarrettco.com/)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68b904edea901c0d269fb8af?utm_campaign=1055&utm_source=git)** | Indianapolis,  IN | On Site | Sep 03 |
-| ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68b901fc5b42bc4562829b1e?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Sep 03 |
-| **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern](https://jobright.ai/jobs/info/68b8d6b3ea901c0d269f9f72?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Sep 03 |
+| **[The Garrett Companies](https://www.thegarrettco.com/)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68b901fc5b42bc4562829b1e?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Sep 03 |
+| ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68b904edea901c0d269fb8af?utm_campaign=1055&utm_source=git)** | Indianapolis,  IN | On Site | Sep 03 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Economic Damages & Valuation Internship - Summer 2026](https://jobright.ai/jobs/info/68b8d56c07090163b6ba5495?utm_campaign=1055&utm_source=git)** | Birmingham, AL | Hybrid | Sep 03 |
-| **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern](https://jobright.ai/jobs/info/68b8d416ea901c0d269f9c21?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
 | **[PBMares, LLP](http://pbmares.com)** | **[Risk Advisory Services Intern- Summer 2026](https://jobright.ai/jobs/info/68b8ce96ea901c0d269f99a6?utm_campaign=1055&utm_source=git)** | Rockville, MD | On Site | Sep 03 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Legal & Compliance Analyst - PIMCO](https://jobright.ai/jobs/info/68b8c3e207090163b6ba4b9c?utm_campaign=1055&utm_source=git)** | Newport Beach, CA | On Site | Sep 03 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Certified Criminal Law Clerk](https://jobright.ai/jobs/info/68b8ad6f5b42bc4562826f97?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Sep 03 |
@@ -156,6 +158,4 @@ Job ID : 263771](https://jobright.ai/jobs/info/68b9662f5f3832749185da5c?utm_camp
 | **[Ameritas](http://www.ameritas.com)** | **[Legal Intern - Compliance](https://jobright.ai/jobs/info/68b794ef2124650c14023ee9?utm_campaign=1055&utm_source=git)** | Lincoln, NE | Hybrid | Sep 02 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern – Regulatory Affairs – California](https://jobright.ai/jobs/info/68b794aff4e41a61efd9a3ca?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Sep 02 |
 | **[Bridgewater Bank](https://www.bridgewaterbankmn.com/)** | **[Bank Secrecy Act (BSA) Intern](https://jobright.ai/jobs/info/68b7941ef4e41a61efd9a2a6?utm_campaign=1055&utm_source=git)** | St Louis Park, MN | On Site | Sep 02 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern – Regulatory Affairs – Michigan](https://jobright.ai/jobs/info/68b792d21ade4306aa64c11a?utm_campaign=1055&utm_source=git)** | Portage, MI | On Site | Sep 02 |
-| **[Northern Trust](http://www.northerntrust.com)** | **[Risk and Compliance Intern](https://jobright.ai/jobs/info/68b77e652124650c14023351?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
