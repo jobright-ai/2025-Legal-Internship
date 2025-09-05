@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Enterprise Risk Management Internship](https://jobright.ai/jobs/info/68bb58b68043103d4f228196?utm_campaign=1055&utm_source=git)** | Ohio - Columbus Metro | On Site | Sep 05 |
+| **[Thomson Reuters](http://thomsonreuters.com)** | **[Practical Law Intern – Intellectual Property & Technology](https://jobright.ai/jobs/info/68bb56f56105227d118a56e6?utm_campaign=1055&utm_source=git)** | USA-New York-3 Times Square | Hybrid | Sep 05 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Enterprise Risk Management Internship](https://jobright.ai/jobs/info/68bb55b86105227d118a55dc?utm_campaign=1055&utm_source=git)** | Ohio - Columbus | On Site | Sep 05 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Audit/Compliance](https://jobright.ai/jobs/info/68bb46bd5f3832749186ded5?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Sep 05 |
+| **[Center for NYC Neighborhoods](https://cnycn.org)** | **[Paralegal Intern (Part-Time)](https://jobright.ai/jobs/info/68bb460a5f3832749186de23?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 05 |
+| **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Chief General Counsel), Ref# 9493](https://jobright.ai/jobs/info/68bb42f98043103d4f2274ce?utm_campaign=1055&utm_source=git)** | Albany, NY | Hybrid | Sep 05 |
+| **[Elanco](https://www.elanco.com)** | **[Legal Operations Academic Worker: L&C Special Projects (Indy Based)](https://jobright.ai/jobs/info/68bb41fb6105227d118a49da?utm_campaign=1055&utm_source=git)** | US Territory Field based | Remote | Sep 05 |
+| **[The Huntington](http://huntingtontheatre.org)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68bb412f6105227d118a48e0?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Sep 05 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68bb40b98043103d4f22718b?utm_campaign=1055&utm_source=git)** | Princeton, KY | On Site | Sep 05 |
+| **[Elanco](https://www.elanco.com)** | **[Legal Operations Academic Worker: L&C Legal Projects (MBA or JD Student- Indy Based)](https://jobright.ai/jobs/info/68bb40478043103d4f2270ca?utm_campaign=1055&utm_source=git)** | US Territory Field based | On Site | Sep 05 |
+| **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/68bb3fee8043103d4f227044?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Sep 05 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Civil Practice Legal Intern, 2L – Summer 2026](https://jobright.ai/jobs/info/68bb3b2b8043103d4f226e81?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/68bb39995f3832749186d73b?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Sep 05 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Law Reform Legal Intern, 2L- Summer 2026](https://jobright.ai/jobs/info/68bb39668043103d4f226cd9?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 05 |
@@ -147,15 +158,4 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Summer 2026 (NYC)](https://jobright.ai/jobs/info/6881d0de1321092fa0061932?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Legal Intern
 Job ID : 263771](https://jobright.ai/jobs/info/68b9662f5f3832749185da5c?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Sep 04 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Law Clerk](https://jobright.ai/jobs/info/68b9237fea901c0d269fcb2f?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Sep 03 |
-| **[World Relief](https://worldrelief.org/)** | **[Immigration Legal Services Part-Time Afghan Legal Assistance Intern - 2025315](https://jobright.ai/jobs/info/68af7e5b2daaba398441ec3e?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Sep 03 |
-| **[Geotab](http://www.geotab.com/)** | **[Government Security Operations Intern (Winter/January 2026, 4-8 Months)](https://jobright.ai/jobs/info/68b91ad207090163b6ba7a66?utm_campaign=1055&utm_source=git)** | Remote - USA | Remote | Sep 03 |
-| **[Santander](https://www.santander.com/)** | **[Regulatory Relations Intern](https://jobright.ai/jobs/info/68b8f99a07090163b6ba6900?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Sep 03 |
-| **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern - June 2026](https://jobright.ai/jobs/info/68b8d416ea901c0d269f9c21?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
-| **[MasTec Utility Services](http://MasTec.com)** | **[Part-Time SOX Compliance Intern](https://jobright.ai/jobs/info/68b8e80c5b42bc4562828e69?utm_campaign=1055&utm_source=git)** | Coral Gables, Florida | Hybrid | Sep 03 |
-| **[MasTec](http://mastec.com)** | **[Part-Time SOX Compliance Intern](https://jobright.ai/jobs/info/68b8e7d407090163b6ba6137?utm_campaign=1055&utm_source=git)** | Coral Gables, Florida | Hybrid | Sep 03 |
-| **[StepStone Group](https://www.stepstonegroup.com)** | **[2025 Legal and Compliance Fall Intern](https://jobright.ai/jobs/info/68b8e5e05b42bc4562828d93?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Sep 03 |
-| **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[Third Party Risk Management Intern (Hybrid, Columbia SC)](https://jobright.ai/jobs/info/68b9f18f5f38327491862ac6?utm_campaign=1055&utm_source=git)** | Columbia, SC | Hybrid | Sep 03 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - Western Ohio](https://jobright.ai/jobs/info/68b8dc415b42bc4562828468?utm_campaign=1055&utm_source=git)** | Maumee, OH | On Site | Sep 03 |
-| **[Youth Advocate Programs, Inc.](https://www.yapinc.org/)** | **[Intern](https://jobright.ai/jobs/info/68ba23068043103d4f21dba9?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
