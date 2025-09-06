@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elanco](https://www.elanco.com)** | **[Legal Operations Academic Worker: L&C Special Projects (Indy Based)](https://jobright.ai/jobs/info/68bb74648043103d4f228b38?utm_campaign=1055&utm_source=git)** | Field, MN | On Site | Sep 05 |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Quality Management Internship](https://jobright.ai/jobs/info/68bb6f358043103d4f228922?utm_campaign=1055&utm_source=git)** | Dublin, OH | On Site | Sep 05 |
+| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Interiors Contracts Co-op (Spring/Summer 2026)(Remote)](https://jobright.ai/jobs/info/68bb6b4c6105227d118a5d0e?utm_campaign=1055&utm_source=git)** | Illinois, United States | Hybrid | Sep 05 |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Quality Management Internship](https://jobright.ai/jobs/info/68bb68fe5f3832749186eeb5?utm_campaign=1055&utm_source=git)** | OH-Dublin-Cardinal Place | On Site | Sep 05 |
+| **[Lambda Legal](http://www.lambdalegal.org)** | **[Law Student Intern - Summer 2026](https://jobright.ai/jobs/info/68bb5f0b6105227d118a5905?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 05 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Audit/Compliance](https://jobright.ai/jobs/info/68bb46bd5f3832749186ded5?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Sep 05 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Enterprise Risk Management Internship](https://jobright.ai/jobs/info/68bb58b68043103d4f228196?utm_campaign=1055&utm_source=git)** | Ohio - Columbus Metro | On Site | Sep 05 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Practical Law Intern – Intellectual Property & Technology](https://jobright.ai/jobs/info/68bb56f56105227d118a56e6?utm_campaign=1055&utm_source=git)** | USA-New York-3 Times Square | Hybrid | Sep 05 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Enterprise Risk Management Internship](https://jobright.ai/jobs/info/68bb55b86105227d118a55dc?utm_campaign=1055&utm_source=git)** | Ohio - Columbus | On Site | Sep 05 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Audit/Compliance](https://jobright.ai/jobs/info/68bb46bd5f3832749186ded5?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Sep 05 |
 | **[Center for NYC Neighborhoods](https://cnycn.org)** | **[Paralegal Intern (Part-Time)](https://jobright.ai/jobs/info/68bb460a5f3832749186de23?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Chief General Counsel), Ref# 9493](https://jobright.ai/jobs/info/68bb42f98043103d4f2274ce?utm_campaign=1055&utm_source=git)** | Albany, NY | Hybrid | Sep 05 |
 | **[Elanco](https://www.elanco.com)** | **[Legal Operations Academic Worker: L&C Special Projects (Indy Based)](https://jobright.ai/jobs/info/68bb41fb6105227d118a49da?utm_campaign=1055&utm_source=git)** | US Territory Field based | Remote | Sep 05 |
@@ -152,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kennedys](http://kennedyslaw.com)** | **[Part Time Law Clerk](https://jobright.ai/jobs/info/689cc873faa4e875e826a778?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Sep 04 |
 | **[Gelbman Law PLLC](http://www.gelbmanlaw.com)** | **[Intern - 4th year undergrad or law student](https://jobright.ai/jobs/info/68baeb626105227d118a174b?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Sep 04 |
 | **[Bronx County District Attorney Office](https://www.bronxda.nyc.gov/html/home/home.shtml)** | **[Law School Summer (2L) Intern 2026](https://jobright.ai/jobs/info/6881981816ea5743a373a2ad?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Sep 04 |
-| **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Real Estate Investment & Development - Raleigh](https://jobright.ai/jobs/info/687f73182097a271a899cf03?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Sep 04 |
-| **[Thomas J. Henry Law](http://thomasjhenrylaw.com)** | **[1L Summer Associate](https://jobright.ai/jobs/info/68471b3ffafe4a7db8fc3044?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Sep 04 |
-| **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern - June 2026](https://jobright.ai/jobs/info/68b8d6b3ea901c0d269f9f72?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Sep 04 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Summer 2026 (NYC)](https://jobright.ai/jobs/info/6881d0de1321092fa0061932?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Legal Intern
-Job ID : 263771](https://jobright.ai/jobs/info/68b9662f5f3832749185da5c?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
