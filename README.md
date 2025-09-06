@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kansas State University](http://www.k-state.edu/)** | **[Paralegal and Open Records Custodian](https://jobright.ai/jobs/info/68bc9d163bf9eb44f832455a?utm_campaign=1055&utm_source=git)** | Manhattan, KS | On Site | Sep 06 |
+| **[Fasig | Brooks](https://fasigbrooks.com/)** | **[Litigation Law Clerk](https://jobright.ai/jobs/info/68bc93eeae79610dacddbe0b?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Sep 06 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Corporate Risk Management Internship](https://jobright.ai/jobs/info/68bc80ad68300c452ca15b69?utm_campaign=1055&utm_source=git)** | Southlake, TX | On Site | Sep 06 |
 | ↳ | **[2026 Charles Schwab Corporate Risk Management Internship](https://jobright.ai/jobs/info/68bc6ffa3bf9eb44f8324031?utm_campaign=1055&utm_source=git)** | Lone Tree, CO | On Site | Sep 06 |
 | ↳ | **[2026 Charles Schwab Corporate Risk Management Internship](https://jobright.ai/jobs/info/68bc6bb43bf9eb44f8323fc0?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Sep 06 |
@@ -72,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Philadelphia, PA](https://jobright.ai/jobs/info/68bbba3e6105227d118a9271?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 05 |
 | ↳ | **[Summer Associate 2026 - Pittsburgh, PA](https://jobright.ai/jobs/info/68bbb9b86105227d118a9197?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Sep 05 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Enterprise Risk Management Internship](https://jobright.ai/jobs/info/68bba1988043103d4f22a4fe?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Sep 05 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, International Productions Legal - Fall 2025](https://jobright.ai/jobs/info/68bb9e516105227d118a78a9?utm_campaign=1055&utm_source=git)** | Culver City, California | On Site | Sep 05 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, International Productions Legal - Fall 2025](https://jobright.ai/jobs/info/68bb9e078043103d4f22a0f0?utm_campaign=1055&utm_source=git)** | Culver City, California | On Site | Sep 05 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Practical Law Intern – Intellectual Property & Technology](https://jobright.ai/jobs/info/68bb994f8043103d4f229fa4?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 05 |
 | **[King Law Offices](http://kinglawoffices.com)** | **[Summer Law Clerk (2026)](https://jobright.ai/jobs/info/68bb8bef6105227d118a6ec9?utm_campaign=1055&utm_source=git)** | Forest City, NC | On Site | Sep 05 |
 | **[ Pilot Company](http://www.pilotflyingj.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68bb88215f3832749186ff47?utm_campaign=1055&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Sep 05 |
@@ -125,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Bessemer Trust](http://www.bessemertrust.com/)** | **[Client Advisory Intern](https://jobright.ai/jobs/info/68bb19bb5f3832749186c02d?utm_campaign=1055&utm_source=git)** | Naples, FL | On Site | Sep 05 |
 | ↳ | **[Client Advisory Intern](https://jobright.ai/jobs/info/68bb194d5f3832749186bfb8?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Sep 05 |
 | **[Offit Kurman](http://offitkurman.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68bb065e5f3832749186b867?utm_campaign=1055&utm_source=git)** | Lutherville, MD | On Site | Sep 05 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Fraud Analyst)](https://jobright.ai/jobs/info/68bafce75f3832749186b416?utm_campaign=1055&utm_source=git)** | 5510 Heritage Oaks Drive, Pensacola, FL, 32526, US | On Site | Sep 05 |
-| ↳ | **[Summer Associate Internship (Standards Compliance & Authorizations)](https://jobright.ai/jobs/info/68bafce75f3832749186b417?utm_campaign=1055&utm_source=git)** | 820 Follin Lane, Vienna, VA, 22180, US | On Site | Sep 05 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Standards Compliance & Authorizations)](https://jobright.ai/jobs/info/68bafce75f3832749186b417?utm_campaign=1055&utm_source=git)** | 820 Follin Lane, Vienna, VA, 22180, US | On Site | Sep 05 |
+| ↳ | **[Summer Associate Internship (Fraud Analyst)](https://jobright.ai/jobs/info/68bafce75f3832749186b416?utm_campaign=1055&utm_source=git)** | 5510 Heritage Oaks Drive, Pensacola, FL, 32526, US | On Site | Sep 05 |
 | ↳ | **[Summer Associate Internship (Mortgage Assumption Specalist) ](https://jobright.ai/jobs/info/68bafc4d6105227d118a21a3?utm_campaign=1055&utm_source=git)** | 5510 Heritage Oaks Drive, Pensacola, FL, 32526, US | On Site | Sep 05 |
 | ↳ | **[Summer Associate Internship (Asset Risk Assessment (ARA) Program)](https://jobright.ai/jobs/info/68bafc2c5f3832749186b320?utm_campaign=1055&utm_source=git)** | 123 Test Street, Raleigh, NC, 27601, US | On Site | Sep 05 |
 | ↳ | **[Summer Associate Internship (Enterprise Risk Management - Strategy and Reporting)](https://jobright.ai/jobs/info/68bafbf36105227d118a20fc?utm_campaign=1055&utm_source=git)** | 820 Follin Lane, Vienna, VA, 22180, US | On Site | Sep 05 |
@@ -139,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Checkmk](https://checkmk.com)** | **[Working Student (m/f/d) Legal](https://jobright.ai/jobs/info/68bae1b46105227d118a12bb?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 05 |
 | **[OSI Optoelectronics](https://www.osioptoelectronics.com)** | **[OPTO Trade Compliance Intern](https://jobright.ai/jobs/info/689e6f67faa4e875e827c82c?utm_campaign=1055&utm_source=git)** | Hawthorne, CA | On Site | Sep 05 |
 | **[CML Security, LLC](http://cmlsecurity.us)** | **[Legal Internship](https://jobright.ai/jobs/info/68bad44b8043103d4f223461?utm_campaign=1055&utm_source=git)** | Broomfield, CO | On Site | Sep 05 |
-| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Certified Criminal Law Clerk](https://jobright.ai/jobs/info/68baaa695f38327491868f13?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Sep 05 |
 | **[United Woundcare Institute](http://www.unitedwounds.org)** | **[Legal Intern](https://jobright.ai/jobs/info/68ba92d35f38327491868913?utm_campaign=1055&utm_source=git)** | Naperville, IL | On Site | Sep 05 |
 | **[Arup](http://www.arup.com)** | **[Legal Intern (Available June 2026)](https://jobright.ai/jobs/info/68ba855e6105227d1189e9bd?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs - JD / Dallas Summer 2026](https://jobright.ai/jobs/info/68ba83ec8043103d4f22131d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cook County State’s Attorney’s Office](https://www.cookcountystatesattorney.org/)** | **[Spring 2026 Volunteer Internship Program](https://jobright.ai/jobs/info/68ba32a65f38327491864be8?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
 | **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[COMPLIANCE INVESTIGATOR INTERN - Racing Division.](https://jobright.ai/jobs/info/68ba310e6105227d1189b784?utm_campaign=1055&utm_source=git)** | Lakewood, CO | On Site | Sep 04 |
 | **[Family & Children's Services](https://www.fcsok.org)** | **[Legal Intern](https://jobright.ai/jobs/info/68bb810a8043103d4f229146?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Sep 04 |
-| **[Amway](http://www.amway.com)** | **[Global Customs & Trade Intern, Summer 2026 (42225)](https://jobright.ai/jobs/info/68ba2ac96105227d1189b5f9?utm_campaign=1055&utm_source=git)** | Ada, MI | Hybrid | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
