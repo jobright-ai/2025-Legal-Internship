@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kroll](http://www.kroll.com/)** | **[Analyst, Enterprise Security Risk Management](https://jobright.ai/jobs/info/68bbcdbd6105227d118aa074?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | **[Rose, Klein & Marias](https://www.linkedin.com/company/155218)** | **[Animal Legal Defense Fund Criminal Justice Program Summer 2026 Clerkships](https://jobright.ai/jobs/info/68bbc8be8043103d4f22c7d6?utm_campaign=1055&utm_source=git)** | Cotati, CA | Remote | Sep 05 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Accessibility Compliance Analyst](https://jobright.ai/jobs/info/68bbc59b5f38327491872d85?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
 | **[Kroll](http://www.kroll.com/)** | **[Analyst, Enterprise Security Risk Management](https://jobright.ai/jobs/info/68bbc2108043103d4f22c37b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 05 |
 | **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Philadelphia, PA](https://jobright.ai/jobs/info/68bbba3e6105227d118a9271?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 05 |
 | ↳ | **[Summer Associate 2026 - Pittsburgh, PA](https://jobright.ai/jobs/info/68bbb9b86105227d118a9197?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Sep 05 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Enterprise Risk Management Internship](https://jobright.ai/jobs/info/68bba1988043103d4f22a4fe?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Sep 05 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, International Productions Legal - Fall 2025](https://jobright.ai/jobs/info/68bb9e516105227d118a78a9?utm_campaign=1055&utm_source=git)** | Culver City, California | On Site | Sep 05 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, International Productions Legal - Fall 2025](https://jobright.ai/jobs/info/68bb9e078043103d4f22a0f0?utm_campaign=1055&utm_source=git)** | Culver City, California | On Site | Sep 05 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Practical Law Intern – Intellectual Property & Technology](https://jobright.ai/jobs/info/68bb994f8043103d4f229fa4?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 05 |
 | **[King Law Offices](http://kinglawoffices.com)** | **[Summer Law Clerk (2026)](https://jobright.ai/jobs/info/68bb8bef6105227d118a6ec9?utm_campaign=1055&utm_source=git)** | Forest City, NC | On Site | Sep 05 |
 | **[ Pilot Company](http://www.pilotflyingj.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68bb88215f3832749186ff47?utm_campaign=1055&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Sep 05 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Bessemer Trust](http://www.bessemertrust.com/)** | **[Client Advisory Intern](https://jobright.ai/jobs/info/68bb19bb5f3832749186c02d?utm_campaign=1055&utm_source=git)** | Naples, FL | On Site | Sep 05 |
 | ↳ | **[Client Advisory Intern](https://jobright.ai/jobs/info/68bb194d5f3832749186bfb8?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Sep 05 |
 | **[Offit Kurman](http://offitkurman.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68bb065e5f3832749186b867?utm_campaign=1055&utm_source=git)** | Lutherville, MD | On Site | Sep 05 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Standards Compliance & Authorizations)](https://jobright.ai/jobs/info/68bafce75f3832749186b417?utm_campaign=1055&utm_source=git)** | 820 Follin Lane, Vienna, VA, 22180, US | On Site | Sep 05 |
-| ↳ | **[Summer Associate Internship (Fraud Analyst)](https://jobright.ai/jobs/info/68bafce75f3832749186b416?utm_campaign=1055&utm_source=git)** | 5510 Heritage Oaks Drive, Pensacola, FL, 32526, US | On Site | Sep 05 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Fraud Analyst)](https://jobright.ai/jobs/info/68bafce75f3832749186b416?utm_campaign=1055&utm_source=git)** | 5510 Heritage Oaks Drive, Pensacola, FL, 32526, US | On Site | Sep 05 |
+| ↳ | **[Summer Associate Internship (Standards Compliance & Authorizations)](https://jobright.ai/jobs/info/68bafce75f3832749186b417?utm_campaign=1055&utm_source=git)** | 820 Follin Lane, Vienna, VA, 22180, US | On Site | Sep 05 |
 | ↳ | **[Summer Associate Internship (Mortgage Assumption Specalist) ](https://jobright.ai/jobs/info/68bafc4d6105227d118a21a3?utm_campaign=1055&utm_source=git)** | 5510 Heritage Oaks Drive, Pensacola, FL, 32526, US | On Site | Sep 05 |
 | ↳ | **[Summer Associate Internship (Asset Risk Assessment (ARA) Program)](https://jobright.ai/jobs/info/68bafc2c5f3832749186b320?utm_campaign=1055&utm_source=git)** | 123 Test Street, Raleigh, NC, 27601, US | On Site | Sep 05 |
 | ↳ | **[Summer Associate Internship (Enterprise Risk Management - Strategy and Reporting)](https://jobright.ai/jobs/info/68bafbf36105227d118a20fc?utm_campaign=1055&utm_source=git)** | 820 Follin Lane, Vienna, VA, 22180, US | On Site | Sep 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Contract Management Intern - part time (one year)](https://jobright.ai/jobs/info/68ba120e5f38327491863c17?utm_campaign=1055&utm_source=git)** | Riverton, UT, United States | Hybrid | Sep 04 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Enterprise Risk Management Department Model Risk Management Team Intern](https://jobright.ai/jobs/info/68accf64daf1431824c98738?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 04 |
 | **[Blackstone](http://blackstone.com)** | **[2025 Blackstone at Princeton](https://jobright.ai/jobs/info/68b9fa246105227d11899e49?utm_campaign=1055&utm_source=git)** | New York | On Site | Sep 04 |
-| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Legal and Government Affairs Intern- Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68b9f8d65f38327491862ee9?utm_campaign=1055&utm_source=git)** | Franklin, Tennessee - United States of America | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
