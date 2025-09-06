@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Elanco](https://www.elanco.com)** | **[Legal Operations Academic Worker: L&C Spend Management](https://jobright.ai/jobs/info/68bc05be5f38327491874ba8?utm_campaign=1055&utm_source=git)** | Greenfield, IN | On Site | Sep 06 |
+| ↳ | **[Legal Operations Academic Worker: L&C Legal Projects](https://jobright.ai/jobs/info/68bc2aed6105227d118ac0f2?utm_campaign=1055&utm_source=git)** | Greenfield, IN | On Site | Sep 06 |
 | ↳ | **[Legal Operations Academic Worker: L&C Special Projects](https://jobright.ai/jobs/info/68bc0f318043103d4f22e3a9?utm_campaign=1055&utm_source=git)** | Greenfield, IN | On Site | Sep 06 |
 | **[Kroll](http://www.kroll.com/)** | **[Analyst, Enterprise Security Risk Management](https://jobright.ai/jobs/info/68bbcdbd6105227d118aa074?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | **[Rose, Klein & Marias](https://www.linkedin.com/company/155218)** | **[Animal Legal Defense Fund Criminal Justice Program Summer 2026 Clerkships](https://jobright.ai/jobs/info/68bbc8be8043103d4f22c7d6?utm_campaign=1055&utm_source=git)** | Cotati, CA | Remote | Sep 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ba26d95f383274918646d9?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
 | ↳ | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ba24cd8043103d4f21ddaf?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
 | ↳ | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ba23fc5f38327491864493?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
-| **[Midea America](https://www.midea.com/us/)** | **[Logistics Customs Compliance – Intern](https://jobright.ai/jobs/info/68ba20265f383274918642ef?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
