@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Corporate Risk Management Internship](https://jobright.ai/jobs/info/68bc6ffa3bf9eb44f8324031?utm_campaign=1055&utm_source=git)** | Lone Tree, CO | On Site | Sep 06 |
+| ↳ | **[2026 Charles Schwab Corporate Risk Management Internship](https://jobright.ai/jobs/info/68bc6bb43bf9eb44f8323fc0?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Sep 06 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, International Productions Legal - Fall 2025](https://jobright.ai/jobs/info/68bc67b6ae79610dacddb92e?utm_campaign=1055&utm_source=git)** | Culver City, CA | On Site | Sep 06 |
 | **[City of New York](http://www1.nyc.gov)** | **[Agency Attorney Interne](https://jobright.ai/jobs/info/68bc45c2ae79610dacddb42d?utm_campaign=1055&utm_source=git)** | Queens, NY | On Site | Sep 06 |
 | **[Elanco](https://www.elanco.com)** | **[Legal Operations Academic Worker: L&C Spend Management](https://jobright.ai/jobs/info/68bc05be5f38327491874ba8?utm_campaign=1055&utm_source=git)** | Greenfield, IN | On Site | Sep 06 |
-| ↳ | **[Legal Operations Academic Worker: L&C Special Projects](https://jobright.ai/jobs/info/68bc0f318043103d4f22e3a9?utm_campaign=1055&utm_source=git)** | Greenfield, IN | On Site | Sep 06 |
 | ↳ | **[Legal Operations Academic Worker: L&C Legal Projects](https://jobright.ai/jobs/info/68bc2aed6105227d118ac0f2?utm_campaign=1055&utm_source=git)** | Greenfield, IN | On Site | Sep 06 |
+| ↳ | **[Legal Operations Academic Worker: L&C Special Projects](https://jobright.ai/jobs/info/68bc0f318043103d4f22e3a9?utm_campaign=1055&utm_source=git)** | Greenfield, IN | On Site | Sep 06 |
 | **[Kroll](http://www.kroll.com/)** | **[Analyst, Enterprise Security Risk Management](https://jobright.ai/jobs/info/68bbcdbd6105227d118aa074?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | **[Rose, Klein & Marias](https://www.linkedin.com/company/155218)** | **[Animal Legal Defense Fund Criminal Justice Program Summer 2026 Clerkships](https://jobright.ai/jobs/info/68bbc8be8043103d4f22c7d6?utm_campaign=1055&utm_source=git)** | Cotati, CA | Remote | Sep 05 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Accessibility Compliance Analyst](https://jobright.ai/jobs/info/68bbc59b5f38327491872d85?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Family & Children's Services](https://www.fcsok.org)** | **[Legal Intern](https://jobright.ai/jobs/info/68bb810a8043103d4f229146?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Sep 04 |
 | **[Amway](http://www.amway.com)** | **[Global Customs & Trade Intern, Summer 2026 (42225)](https://jobright.ai/jobs/info/68ba2ac96105227d1189b5f9?utm_campaign=1055&utm_source=git)** | Ada, MI | Hybrid | Sep 04 |
 | **[BHE GT&S](https://www.bhegts.com/)** | **[Intern (Regulatory & Pricing)](https://jobright.ai/jobs/info/68bb211a8043103d4f225b41?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | On Site | Sep 04 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ba28d18043103d4f21dea2?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 04 |
-| ↳ | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ba26d95f383274918646d9?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
-| ↳ | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ba24cd8043103d4f21ddaf?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
