@@ -123,6 +123,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Asset Risk Assessment (ARA) Program)](https://jobright.ai/jobs/info/68bafc2c5f3832749186b320?utm_campaign=1055&utm_source=git)** | 123 Test Street, Raleigh, NC, 27601, US | On Site | Sep 05 |
 | ↳ | **[Summer Associate Internship (Enterprise Risk Management - Strategy and Reporting)](https://jobright.ai/jobs/info/68bafbf36105227d118a20fc?utm_campaign=1055&utm_source=git)** | 820 Follin Lane, Vienna, VA, 22180, US | On Site | Sep 05 |
 | **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/68baf6bd6105227d118a1c5e?utm_campaign=1055&utm_source=git)** | Miami, Florida | Hybrid | Sep 05 |
+| **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Risk Advisory Intern](https://jobright.ai/jobs/info/683befcbba832780a8fd5da4?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
 | **[FM](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68bae9d88043103d4f223fa3?utm_campaign=1055&utm_source=git)** | Creve Coeur, MO | On Site | Sep 05 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[V.I.E. Regulatory Reporting Analyst](https://jobright.ai/jobs/info/68bae8fd8043103d4f223efd?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Sep 05 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Legal and Government Affairs Intern- Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68bae83b8043103d4f223e4b?utm_campaign=1055&utm_source=git)** | Franklin, TN | On Site | Sep 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68ba1f915f3832749186424b?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 04 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Contract Management Intern - part time (one year)](https://jobright.ai/jobs/info/68ba120e5f38327491863c17?utm_campaign=1055&utm_source=git)** | Riverton, UT, United States | Hybrid | Sep 04 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Enterprise Risk Management Department Model Risk Management Team Intern](https://jobright.ai/jobs/info/68accf64daf1431824c98738?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 04 |
-| **[Blackstone](http://blackstone.com)** | **[2025 Blackstone at Princeton](https://jobright.ai/jobs/info/68b9fa246105227d11899e49?utm_campaign=1055&utm_source=git)** | New York | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
