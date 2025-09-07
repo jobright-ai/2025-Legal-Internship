@@ -57,15 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Intern (Regulatory & Pricing)](https://jobright.ai/jobs/info/68bd4ca768300c452ca192b6?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | On Site | Sep 07 |
 | **[Take Back The Night Foundation](https://takebackthenight.org/)** | **[Law School & Pre-Law Student Internship for Largest International Org to End Sexual Violence](https://jobright.ai/jobs/info/68bcee6268300c452ca16601?utm_campaign=1055&utm_source=git)** | Wayne County, PA | On Site | Sep 06 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Compliance Analyst](https://jobright.ai/jobs/info/68bcb7bd68300c452ca16004?utm_campaign=1055&utm_source=git)** | Seattle, WA | Remote | Sep 06 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Paralegal and Open Records Custodian](https://jobright.ai/jobs/info/68bc9d163bf9eb44f832455a?utm_campaign=1055&utm_source=git)** | Manhattan, KS | On Site | Sep 06 |
 | **[Fasig | Brooks](https://fasigbrooks.com/)** | **[Litigation Law Clerk](https://jobright.ai/jobs/info/68bc93eeae79610dacddbe0b?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Sep 06 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Corporate Risk Management Internship](https://jobright.ai/jobs/info/68bc80ad68300c452ca15b69?utm_campaign=1055&utm_source=git)** | Southlake, TX | On Site | Sep 06 |
 | ↳ | **[2026 Charles Schwab Corporate Risk Management Internship](https://jobright.ai/jobs/info/68bc6ffa3bf9eb44f8324031?utm_campaign=1055&utm_source=git)** | Lone Tree, CO | On Site | Sep 06 |
+| ↳ | **[2026 Charles Schwab Corporate Risk Management Internship](https://jobright.ai/jobs/info/68bd4d0168300c452ca192d5?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Sep 06 |
 | ↳ | **[2026 Charles Schwab Corporate Risk Management Internship](https://jobright.ai/jobs/info/68bc6bb43bf9eb44f8323fc0?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Sep 06 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, International Productions Legal - Fall 2025](https://jobright.ai/jobs/info/68bc67b6ae79610dacddb92e?utm_campaign=1055&utm_source=git)** | Culver City, CA | On Site | Sep 06 |
 | **[City of New York](http://www1.nyc.gov)** | **[Agency Attorney Interne](https://jobright.ai/jobs/info/68bc45c2ae79610dacddb42d?utm_campaign=1055&utm_source=git)** | Queens, NY | On Site | Sep 06 |
+| **[Uline](http://www.uline.com)** | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fe08883d13d1f5b6cb97c?utm_campaign=1055&utm_source=git)** | Glenview, IL | On Site | Sep 06 |
 | **[Elanco](https://www.elanco.com)** | **[Legal Operations Academic Worker: L&C Spend Management](https://jobright.ai/jobs/info/68bc05be5f38327491874ba8?utm_campaign=1055&utm_source=git)** | Greenfield, IN | On Site | Sep 06 |
 | ↳ | **[Legal Operations Academic Worker: L&C Special Projects](https://jobright.ai/jobs/info/68bc0f318043103d4f22e3a9?utm_campaign=1055&utm_source=git)** | Greenfield, IN | On Site | Sep 06 |
 | ↳ | **[Legal Operations Academic Worker: L&C Legal Projects](https://jobright.ai/jobs/info/68bc2aed6105227d118ac0f2?utm_campaign=1055&utm_source=git)** | Greenfield, IN | On Site | Sep 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Contract Management Intern - part time (one year)](https://jobright.ai/jobs/info/68ba5b1f5f3832749186656a?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 04 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ba3b9a6105227d1189c398?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Sep 04 |
 | **[Tetra Pak](http://www.tetrapak.com)** | **[Legal Affairs Intern](https://jobright.ai/jobs/info/68ba3aab8043103d4f21ed81?utm_campaign=1055&utm_source=git)** | Denton, TX | Hybrid | Sep 04 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ba3a8f8043103d4f21ed59?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Sep 04 |
-| ↳ | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ba3a276105227d1189c16d?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Sep 04 |
-| ↳ | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ba3a258043103d4f21ece7?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
