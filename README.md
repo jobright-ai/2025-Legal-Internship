@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crowe](https://www.crowe.com/)** | **[Financial Crime Technology Intern](https://jobright.ai/jobs/info/68beeb21702aa35207aa19ba?utm_campaign=1055&utm_source=git)** | Chicago IL USA | On Site | Sep 08 |
+| ↳ | **[Financial Crime Technology Intern](https://jobright.ai/jobs/info/68beeb21702aa35207aa19bb?utm_campaign=1055&utm_source=git)** | New York NY USA | On Site | Sep 08 |
+| ↳ | **[Financial Crime Technology Intern](https://jobright.ai/jobs/info/68beeacb8e65e77df55b5655?utm_campaign=1055&utm_source=git)** | San Francisco CA USA | On Site | Sep 08 |
+| ↳ | **[Financial Crime Technology Intern](https://jobright.ai/jobs/info/68bee8d38e65e77df55b54d2?utm_campaign=1055&utm_source=git)** | Los Angeles CA USA | On Site | Sep 08 |
+| ↳ | **[Financial Crime Technology Intern](https://jobright.ai/jobs/info/68bee8d15c5d5f14f46d2214?utm_campaign=1055&utm_source=git)** | Boston MA USA | On Site | Sep 08 |
+| ↳ | **[Financial Crime Technology Intern](https://jobright.ai/jobs/info/68bee83c5c5d5f14f46d2154?utm_campaign=1055&utm_source=git)** | Dallas TX USA | On Site | Sep 08 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68bee6e0702aa35207aa1669?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Sep 08 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/68becc12702aa35207aa074e?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Sep 08 |
 | **[NinjaHoldings](https://www.ninjaholdings.com/)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/68beb9135c5d5f14f46d0a31?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 08 |
 | **[Tallgrass](https://tallgrass.com/)** | **[Intern-Right of Way Agent](https://jobright.ai/jobs/info/68be89883d31ec76b7e8b011?utm_campaign=1055&utm_source=git)** | Lakewood, CO | On Site | Sep 08 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Mortgage Assumption Specalist) ](https://jobright.ai/jobs/info/68bafc4d6105227d118a21a3?utm_campaign=1055&utm_source=git)** | 5510 Heritage Oaks Drive, Pensacola, FL, 32526, US | On Site | Sep 05 |
 | ↳ | **[Summer Associate Internship (Asset Risk Assessment (ARA) Program)](https://jobright.ai/jobs/info/68bafc2c5f3832749186b320?utm_campaign=1055&utm_source=git)** | 123 Test Street, Raleigh, NC, 27601, US | On Site | Sep 05 |
 | ↳ | **[Summer Associate Internship (Enterprise Risk Management - Strategy and Reporting)](https://jobright.ai/jobs/info/68bafbf36105227d118a20fc?utm_campaign=1055&utm_source=git)** | 820 Follin Lane, Vienna, VA, 22180, US | On Site | Sep 05 |
-| **[Kemper](http://kemper.com)** | **[Law Extern - Fall 2025](https://jobright.ai/jobs/info/68baf6bd6105227d118a1c5e?utm_campaign=1055&utm_source=git)** | Miami, Florida | Hybrid | Sep 05 |
-| **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Risk Advisory Intern](https://jobright.ai/jobs/info/683befcbba832780a8fd5da4?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
-| **[FM](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68bae9d88043103d4f223fa3?utm_campaign=1055&utm_source=git)** | Creve Coeur, MO | On Site | Sep 05 |
-| **[Societe Generale](https://www.societegenerale.com)** | **[V.I.E. Regulatory Reporting Analyst](https://jobright.ai/jobs/info/68bae8fd8043103d4f223efd?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Sep 05 |
-| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Legal and Government Affairs Intern- Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68bae83b8043103d4f223e4b?utm_campaign=1055&utm_source=git)** | Franklin, TN | On Site | Sep 05 |
-| **[Stellantis](https://www.stellantis.com)** | **[2026 Technical Safety & Regulatory Compliance (TSRC) Summer Internship](https://jobright.ai/jobs/info/689e7d4683d13d1f5b6bcf02?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 05 |
-| **[Checkmk](https://checkmk.com)** | **[Working Student (m/f/d) Legal](https://jobright.ai/jobs/info/68bae1b46105227d118a12bb?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
