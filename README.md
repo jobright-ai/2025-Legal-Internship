@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/68becc12702aa35207aa074e?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Sep 08 |
 | **[NinjaHoldings](https://www.ninjaholdings.com/)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/68beb9135c5d5f14f46d0a31?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 08 |
 | **[Tallgrass](https://tallgrass.com/)** | **[Intern-Right of Way Agent](https://jobright.ai/jobs/info/68be89883d31ec76b7e8b011?utm_campaign=1055&utm_source=git)** | Lakewood, CO | On Site | Sep 08 |
 | **[NinjaHoldings](https://www.ninjaholdings.com/)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/68be80a1c4c5904ff6006dc5?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Legal and Government Affairs Intern- Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68bae83b8043103d4f223e4b?utm_campaign=1055&utm_source=git)** | Franklin, TN | On Site | Sep 05 |
 | **[Stellantis](https://www.stellantis.com)** | **[2026 Technical Safety & Regulatory Compliance (TSRC) Summer Internship](https://jobright.ai/jobs/info/689e7d4683d13d1f5b6bcf02?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 05 |
 | **[Checkmk](https://checkmk.com)** | **[Working Student (m/f/d) Legal](https://jobright.ai/jobs/info/68bae1b46105227d118a12bb?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 05 |
-| **[OSI Optoelectronics](https://www.osioptoelectronics.com)** | **[OPTO Trade Compliance Intern](https://jobright.ai/jobs/info/689e6f67faa4e875e827c82c?utm_campaign=1055&utm_source=git)** | Hawthorne, CA | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
