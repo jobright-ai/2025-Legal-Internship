@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Legal Summer Intern JD Rising 2L (Intern) United States](https://jobright.ai/jobs/info/68bf7dad5c5d5f14f46d767f?utm_campaign=1055&utm_source=git)** | Remote, USA | Remote | Sep 08 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - St. Petersburg, FL CLC](https://jobright.ai/jobs/info/68bf7c935c5d5f14f46d757b?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | Hybrid | Sep 08 |
+| **[Cisco](http://www.cisco.com)** | **[Legal Summer Intern JD Rising 2L (Intern) United States](https://jobright.ai/jobs/info/68bf7b3d8e65e77df55ba8f5?utm_campaign=1055&utm_source=git)** | San Jose, California, US | Remote | Sep 08 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Orlando, FL CLC](https://jobright.ai/jobs/info/68bf7a2a702aa35207aa68b4?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Sep 08 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - Timonium, MD (Baltimore County)](https://jobright.ai/jobs/info/68bf78978e65e77df55ba815?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Sep 08 |
+| ↳ | **[Risk Advisory Intern - Summer 2026 - King of Prussia, PA](https://jobright.ai/jobs/info/68bf76fb8e65e77df55ba6b6?utm_campaign=1055&utm_source=git)** | King of Prussia, PA | On Site | Sep 08 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern – Investigative Intern (OIG)](https://jobright.ai/jobs/info/68bf70a88e65e77df55ba419?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Sep 08 |
+| **[MillerKnoll](http://www.millerknoll.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/68bf6d1e702aa35207aa6393?utm_campaign=1055&utm_source=git)** | Holland, MI | On Site | Sep 08 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Intellectual Property, Advisory Internship - Summer 2026](https://jobright.ai/jobs/info/68bf6af08e65e77df55ba1af?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 08 |
 | ↳ | **[IP, Expert Testimony Internship - Summer 2026](https://jobright.ai/jobs/info/68bf67f1702aa35207aa618f?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 08 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Regulatory Policy Intern](https://jobright.ai/jobs/info/68bf4a0e702aa35207aa534a?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Sep 08 |
@@ -85,6 +93,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Crime Technology Intern](https://jobright.ai/jobs/info/68bf1965702aa35207aa3230?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 08 |
 | ↳ | **[Financial Crime Technology Intern](https://jobright.ai/jobs/info/68bf148b8e65e77df55b6b4b?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 08 |
 | ↳ | **[Financial Crime Technology Intern](https://jobright.ai/jobs/info/68bf13b88e65e77df55b6a67?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Sep 08 |
+| **[The Hartford](http://www.thehartford.com)** | **[Intern, Enterprise Risk Management](https://jobright.ai/jobs/info/68bf13028e65e77df55b69f7?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Sep 08 |
 | **[GOAT USA](https://www.goatusa.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68bf0ec15c5d5f14f46d3407?utm_campaign=1055&utm_source=git)** | Plainview, NY | On Site | Sep 08 |
 | **[Philips](https://www.usa.philips.com)** | **[Intern - Regulatory Affairs - Plymouth. MN - Summer 2026](https://jobright.ai/jobs/info/68bf09d3702aa35207aa282a?utm_campaign=1055&utm_source=git)** | Plymouth | On Site | Sep 08 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children’s Legal Intern (unpaid)](https://jobright.ai/jobs/info/68bf02cb702aa35207aa2457?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | On Site | Sep 08 |
@@ -92,10 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Immigration Legal Intern](https://jobright.ai/jobs/info/68bf01008e65e77df55b61ec?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | On Site | Sep 08 |
 | ↳ | **[Immigration Legal Team Intern (unpaid)](https://jobright.ai/jobs/info/68beff458e65e77df55b60ae?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 08 |
 | ↳ | **[Immigration Legal Services Intern](https://jobright.ai/jobs/info/68befefd8e65e77df55b6083?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Sep 08 |
-| ↳ | **[Fall 2025 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/68befe6c8e65e77df55b603b?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Sep 08 |
 | ↳ | **[Asylum Seeker Legal Services Intern (unpaid)](https://jobright.ai/jobs/info/68befcc6702aa35207aa222e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 08 |
 | ↳ | **[Children's Legal Intern (unpaid)](https://jobright.ai/jobs/info/68befb25702aa35207aa20ca?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 08 |
-| **[The Hartford](http://www.thehartford.com)** | **[Intern, Enterprise Risk Management](https://jobright.ai/jobs/info/68bf30048e65e77df55b7fa5?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Sep 08 |
 | **[Crowe](https://www.crowe.com/)** | **[Financial Crime Technology Intern](https://jobright.ai/jobs/info/68beeb21702aa35207aa19ba?utm_campaign=1055&utm_source=git)** | Chicago IL USA | On Site | Sep 08 |
 | ↳ | **[Financial Crime Technology Intern](https://jobright.ai/jobs/info/68beeb21702aa35207aa19bb?utm_campaign=1055&utm_source=git)** | New York NY USA | On Site | Sep 08 |
 | ↳ | **[Financial Crime Technology Intern](https://jobright.ai/jobs/info/68beeacb8e65e77df55b5655?utm_campaign=1055&utm_source=git)** | San Francisco CA USA | On Site | Sep 08 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shure Incorporated](http://www.shure.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68bb80616105227d118a6727?utm_campaign=1055&utm_source=git)** | Niles, IL | Hybrid | Sep 05 |
 | ↳ | **[Trade Compliance Intern](https://jobright.ai/jobs/info/68bb802b5f3832749186fa0e?utm_campaign=1055&utm_source=git)** | Niles, IL | Hybrid | Sep 05 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68bb7f436105227d118a6643?utm_campaign=1055&utm_source=git)** | Knoxville, TN | On Site | Sep 05 |
-| **[Shure Incorporated](http://www.shure.com)** | **[Environmental Compliance Intern](https://jobright.ai/jobs/info/68bb7e346105227d118a656e?utm_campaign=1055&utm_source=git)** | Niles, IL | Hybrid | Sep 05 |
-| **[Elanco](https://www.elanco.com)** | **[Legal Operations Academic Worker: L&C Spend Management (Indy Based)](https://jobright.ai/jobs/info/68bb798d6105227d118a6482?utm_campaign=1055&utm_source=git)** | Field, MN | On Site | Sep 05 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Standards Compliance & Authorizations)](https://jobright.ai/jobs/info/68bb797d5f3832749186f73f?utm_campaign=1055&utm_source=git)** | Vienna, VA | On Site | Sep 05 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/68bb797d6105227d118a646f?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Sep 05 |
-| **[Elanco](https://www.elanco.com)** | **[Legal Operations Academic Worker: L&C Records (Indy Based)](https://jobright.ai/jobs/info/68bb79035f3832749186f6b3?utm_campaign=1055&utm_source=git)** | Field, MN | On Site | Sep 05 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Enterprise Risk Management - Strategy and Reporting)](https://jobright.ai/jobs/info/68bb78725f3832749186f627?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
-| ↳ | **[Summer Associate Internship (Fraud Analyst)](https://jobright.ai/jobs/info/68bb77ed6105227d118a62da?utm_campaign=1055&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
