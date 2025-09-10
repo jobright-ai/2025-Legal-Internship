@@ -83,11 +83,11 @@ For a complete list, click the following sortable link below:
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Legal & Compliance](https://jobright.ai/jobs/info/68c0af705c5d5f14f46e0428?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Sep 09 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Compliance (Year-Round)](https://jobright.ai/jobs/info/68c0aea58e65e77df55c3939?utm_campaign=1055&utm_source=git)** | WI-Milwaukee | Hybrid | Sep 09 |
 | **[KCH Transportation](https://www.kchtrans.com)** | **[Carrier Compliance Intern](https://jobright.ai/jobs/info/68b9d6ef8043103d4f21adc2?utm_campaign=1055&utm_source=git)** | Chattanooga, TN | On Site | Sep 09 |
-| **[Waystar](http://www.waystar.com)** | **[Legal Internship](https://jobright.ai/jobs/info/68c09feb5c5d5f14f46dfc95?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Sep 09 |
+| **[Waystar](http://www.waystar.com)** | **[Legal Internship](https://jobright.ai/jobs/info/68c0a0a18e65e77df55c3582?utm_campaign=1055&utm_source=git)** | Duluth, GA | On Site | Sep 09 |
+| ↳ | **[Legal Internship](https://jobright.ai/jobs/info/68c09feb5c5d5f14f46dfc95?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Sep 09 |
 | ↳ | **[Legal Internship](https://jobright.ai/jobs/info/68c09fca5c5d5f14f46dfc68?utm_campaign=1055&utm_source=git)** | Lehi, UT | On Site | Sep 09 |
-| ↳ | **[Legal Internship](https://jobright.ai/jobs/info/68c09fa85c5d5f14f46dfc43?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Sep 09 |
 | **[Sterling Foundation Management, LLC](https://www.sterlingfoundations.com)** | **[Summer Intern](https://jobright.ai/jobs/info/68c123a84d652f0447755f2e?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Sep 09 |
-| **[Waystar](http://www.waystar.com)** | **[Legal Internship](https://jobright.ai/jobs/info/68c09eec702aa35207aaf429?utm_campaign=1055&utm_source=git)** | Duluth, GA | On Site | Sep 09 |
+| **[Waystar](http://www.waystar.com)** | **[Legal Internship](https://jobright.ai/jobs/info/68c09d37702aa35207aaf339?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Sep 09 |
 | **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Motor Vehicle Division Records Intern (Business Administration)](https://jobright.ai/jobs/info/68c09a5c702aa35207aaf146?utm_campaign=1055&utm_source=git)** | Ankeny, IA | On Site | Sep 09 |
 | **[Seattle Sounders FC](http://www.soundersfc.com)** | **[Legal Externship (Spring 2026)](https://jobright.ai/jobs/info/68c098425c5d5f14f46df80b?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Sep 09 |
 | **[Nokia](http://www.nokia.com)** | **[Legal, Compliance & Sustainability Co-op](https://jobright.ai/jobs/info/68c098398e65e77df55c2fee?utm_campaign=1055&utm_source=git)** | 600-700 Mountain Avenue, Murray Hill, New Jersey, 07974-0636, US | Hybrid | Sep 09 |
