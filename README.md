@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Neighborhood Defender Service](https://neighborhooddefender.org)** | **[Summer 2026 Legal Internship, Family Defense Practice (2Ls Only)](https://jobright.ai/jobs/info/68c0f1648e65e77df55c5dd7?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 09 |
+| **[Tallgrass](https://tallgrass.com/)** | **[Intern-PHMSA Compliance](https://jobright.ai/jobs/info/68c0de1b5c5d5f14f46e1ca8?utm_campaign=1055&utm_source=git)** | Lakewood, CO | Hybrid | Sep 09 |
 | **[Medpace](http://www.medpace.com)** | **[Legal Clerkship -Summer 2026](https://jobright.ai/jobs/info/68c0d7ea5c5d5f14f46e199d?utm_campaign=1055&utm_source=git)** | Cincinnati, Ohio | Hybrid | Sep 09 |
 | **[Santee Cooper](http://www.santeecooper.com)** | **[Records Management-Summer Intern](https://jobright.ai/jobs/info/68c0d4b0702aa35207ab0d9d?utm_campaign=1055&utm_source=git)** | Moncks Corner, SC | On Site | Sep 09 |
 | **[Neighborhood Defender Service](https://neighborhooddefender.org)** | **[Summer 2026 Legal Internship, Family Defense Practice (2Ls Only)](https://jobright.ai/jobs/info/68c0d3ec5c5d5f14f46e163f?utm_campaign=1055&utm_source=git)** | US-NY-New York | Hybrid | Sep 09 |
@@ -79,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[KCH Transportation](https://www.kchtrans.com)** | **[Carrier Compliance Intern](https://jobright.ai/jobs/info/68b9d6ef8043103d4f21adc2?utm_campaign=1055&utm_source=git)** | Chattanooga, TN | On Site | Sep 09 |
 | **[Waystar](http://www.waystar.com)** | **[Legal Internship](https://jobright.ai/jobs/info/68c0a0a18e65e77df55c3582?utm_campaign=1055&utm_source=git)** | Duluth, GA | On Site | Sep 09 |
 | ↳ | **[Legal Internship](https://jobright.ai/jobs/info/68c09fca5c5d5f14f46dfc68?utm_campaign=1055&utm_source=git)** | Lehi, UT | On Site | Sep 09 |
+| ↳ | **[Legal Internship](https://jobright.ai/jobs/info/68c09fa85c5d5f14f46dfc43?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Sep 09 |
 | ↳ | **[Legal Internship](https://jobright.ai/jobs/info/68c09d82702aa35207aaf35e?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Sep 09 |
-| ↳ | **[Legal Internship](https://jobright.ai/jobs/info/68c09d37702aa35207aaf339?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Sep 09 |
 | **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Motor Vehicle Division Records Intern (Business Administration)](https://jobright.ai/jobs/info/68c09a5c702aa35207aaf146?utm_campaign=1055&utm_source=git)** | Ankeny, IA | On Site | Sep 09 |
 | **[Seattle Sounders FC](http://www.soundersfc.com)** | **[Legal Externship (Spring 2026)](https://jobright.ai/jobs/info/68c098425c5d5f14f46df80b?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Sep 09 |
 | **[Nokia](http://www.nokia.com)** | **[Legal, Compliance & Sustainability Co-op](https://jobright.ai/jobs/info/68c098398e65e77df55c2fee?utm_campaign=1055&utm_source=git)** | 600-700 Mountain Avenue, Murray Hill, New Jersey, 07974-0636, US | Hybrid | Sep 09 |
@@ -116,7 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68bfbbc0702aa35207aa8c68?utm_campaign=1055&utm_source=git)** | Durham, North Carolina, USA | Remote | Sep 08 |
 | **[AIG](https://www.aig.com/)** | **[2026 - Early Career - Claims (Juris Doctor) Summer Intern – United States, New York (NY), Jersey City (NJ), & Atlanta (GA)](https://jobright.ai/jobs/info/68bfa3f5702aa35207aa83c9?utm_campaign=1055&utm_source=git)** | NJ-Jersey City | On Site | Sep 08 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/68bfa39a5c5d5f14f46d8ceb?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Sep 08 |
-| **[AIG](https://www.aig.com/)** | **[2026 - Early Career - Claims (Juris Doctor) Summer Intern – United States, New York (NY), Jersey City (NJ), & Atlanta (GA)](https://jobright.ai/jobs/info/68bfa35f8e65e77df55bc220?utm_campaign=1055&utm_source=git)** | GA-Atlanta | On Site | Sep 08 |
+| **[AIG](https://www.aig.com/)** | **[2026 - Early Career - Claims (Juris Doctor) Summer Intern – United States, New York (NY), Jersey City (NJ), & Atlanta (GA)](https://jobright.ai/jobs/info/68bfa34c702aa35207aa839d?utm_campaign=1055&utm_source=git)** | GA-Atlanta | On Site | Sep 08 |
 | ↳ | **[2026 - Early Career - Claims (Juris Doctor) Summer Intern – United States, New York (NY), Jersey City (NJ), & Atlanta (GA)](https://jobright.ai/jobs/info/68bfa3138e65e77df55bc1c9?utm_campaign=1055&utm_source=git)** | NY-New York | On Site | Sep 08 |
 | **[Bechtel Plant Machinery, Inc. (BPMI)](http://bpmionline.com)** | **[Contract Management Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf98928e65e77df55bbb58?utm_campaign=1055&utm_source=git)** | Monroeville, PA | On Site | Sep 08 |
 | **[Law Offices of Sabrina Li, P.C.](https://www.sabrinali.law/)** | **[Legal Intern](https://jobright.ai/jobs/info/68bf95ca5c5d5f14f46d82a9?utm_campaign=1055&utm_source=git)** | Pasadena, CA | On Site | Sep 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[SkillBridge Trainee - Legal Counsel Intern](https://jobright.ai/jobs/info/68bf40dd702aa35207aa4c80?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Sep 08 |
 | **[Crowe](https://www.crowe.com/)** | **[Financial Crime Technology Intern](https://jobright.ai/jobs/info/68bf20045c5d5f14f46d3e7c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Sep 08 |
 | ↳ | **[Financial Crime Technology Intern](https://jobright.ai/jobs/info/68bf1b4f8e65e77df55b6f8a?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Sep 08 |
-| ↳ | **[Financial Crime Technology Intern](https://jobright.ai/jobs/info/68bf196b5c5d5f14f46d3b6e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 08 |
-| ↳ | **[Financial Crime Technology Intern](https://jobright.ai/jobs/info/68bf1965702aa35207aa3230?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
