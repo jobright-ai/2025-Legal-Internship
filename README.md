@@ -60,13 +60,16 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Pittsburgh)](https://jobright.ai/jobs/info/688a320f09808a6103e4cf80?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 11 |
 | **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[Spring 2026 Legal Clerkship](https://jobright.ai/jobs/info/68c292a503b99f6b342967b5?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 11 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68c28829b535a221b153b3a8?utm_campaign=1055&utm_source=git)** | Greater Indianapolis | Hybrid | Sep 11 |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Contract Negotiations Intern](https://jobright.ai/jobs/info/68c29c27b535a221b153d6e6?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 10 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Economic Damages & Valuation Internship - Summer 2026](https://jobright.ai/jobs/info/68c26ba94d652f04477607eb?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | Hybrid | Sep 10 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/68c29ae6b535a221b153d4cd?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Sep 10 |
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/68c290e503b99f6b34296210?utm_campaign=1055&utm_source=git)** | East Syracuse, NY | On Site | Sep 10 |
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/68c292a88753a565272fbe51?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Sep 10 |
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Legal Intern (Public Defender's Department)](https://jobright.ai/jobs/info/68c255044d652f044775f77b?utm_campaign=1055&utm_source=git)** | 633 Court Street, Reading, PA, 19601, US | On Site | Sep 10 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/68c2917303b99f6b342962ec?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Sep 10 |
+| ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/68c29bf403b99f6b34297436?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 10 |
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/68c2917b03b99f6b342962f8?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 10 |
+| ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/68c29c33b535a221b153d6ec?utm_campaign=1055&utm_source=git)** | Suwanee, GA | On Site | Sep 10 |
 | **[NiSource](https://www.nisource.com/)** | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68c299288753a565272fc2ff?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Sep 10 |
 | **[Valvoline Global Operations](https://www.valvolineglobal.com/en/)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/68c29159b535a221b153c93a?utm_campaign=1055&utm_source=git)** | Lexington, KY | On Site | Sep 10 |
 | **[The University of Kansas](http://www.spencerart.ku.edu/)** | **[Contract Negotiations Intern](https://jobright.ai/jobs/info/68c221c133864f172f9bd5ac?utm_campaign=1055&utm_source=git)** | Lawrence, KS | On Site | Sep 10 |
@@ -77,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Danaher Life Sciences](https://lifesciences.danaher.com)** | **[IT Compliance & Audit Intern](https://jobright.ai/jobs/info/68c2128333864f172f9bcd4a?utm_campaign=1055&utm_source=git)** | Brea, CA | On Site | Sep 10 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[BCG Platinion Risk Management Intern - Summer 2026](https://jobright.ai/jobs/info/68c20a7c33864f172f9bc891?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Sep 10 |
 | ↳ | **[BCG Platinion Risk Management Intern - Summer 2026](https://jobright.ai/jobs/info/68c20a3833864f172f9bc846?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 10 |
+| **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/68c2091c33864f172f9bc6fb?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Sep 10 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Regulatory Compliance Internship - Summer 2026 - Erie, PA](https://jobright.ai/jobs/info/68c204eb33864f172f9bc5f8?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Sep 10 |
 | **[Associated Electric Cooperative Inc.](https://www.aeci.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/68c1f05633864f172f9bbc9c?utm_campaign=1055&utm_source=git)** | Springfield, Missouri | On Site | Sep 10 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Contracts Intern (Northampton, MA)](https://jobright.ai/jobs/info/68c1ec584d652f044775bb3a?utm_campaign=1055&utm_source=git)** | Northampton, MA | On Site | Sep 10 |
@@ -88,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Morgan Street Holdings](https://morganstreet.com/)** | **[2026 LEGAL SUMMER INTERN](https://jobright.ai/jobs/info/68c290c603b99f6b342961cb?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 10 |
 | **[Gilbert](https://www.groupe-gilbert.fr)** | **[STAGE JURISTE D’ENTREPRISE SOCIETES H/F](https://jobright.ai/jobs/info/68c1dd3f233c7d3e64d055d9?utm_campaign=1055&utm_source=git)** | Saint Clair, IL | On Site | Sep 10 |
 | ↳ | **[STAGE JURISTE D’ENTREPRISE H/F](https://jobright.ai/jobs/info/68c1dcaa3fd8b059a20f36f9?utm_campaign=1055&utm_source=git)** | Saint Clair, IL | On Site | Sep 10 |
-| **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/68c1d5f93fd8b059a20f331d?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Sep 10 |
 | **[Seacoast Bank](https://www.seacoastbank.com)** | **[Trust Intern](https://jobright.ai/jobs/info/68c1d4c13fd8b059a20f31b3?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Sep 10 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68c1cd624d652f044775a342?utm_campaign=1055&utm_source=git)** | Indianapolis - RayzeBio - IN | Hybrid | Sep 10 |
 | **[LCS](https://www.lcsnet.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68c1ca283fd8b059a20f25e6?utm_campaign=1055&utm_source=git)** | Des Moines, IA | On Site | Sep 10 |
@@ -124,9 +127,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Advisory & Compliance Intern - 2026](https://jobright.ai/jobs/info/68c14ad73fd8b059a20ef58d?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 09 |
 | **[Live Oak Bank](https://www.liveoakbank.com)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68c286aa03b99f6b342946ca?utm_campaign=1055&utm_source=git)** | Wilmington, NC | On Site | Sep 09 |
 | **[Neighborhood Defender Service](https://neighborhooddefender.org)** | **[Summer 2026 Legal Internship, Family Defense Practice (2Ls Only)](https://jobright.ai/jobs/info/68c0f1648e65e77df55c5dd7?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 09 |
-| **[Waystar](http://www.waystar.com)** | **[Legal Internship](https://jobright.ai/jobs/info/68c14b53233c7d3e64d0135b?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Sep 09 |
+| **[Waystar](http://www.waystar.com)** | **[Legal Internship](https://jobright.ai/jobs/info/68c149973fd8b059a20ef4d6?utm_campaign=1055&utm_source=git)** | Lehi, UT | On Site | Sep 09 |
 | ↳ | **[Legal Internship](https://jobright.ai/jobs/info/68c1502d4d652f0447757096?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Sep 09 |
-| ↳ | **[Legal Internship](https://jobright.ai/jobs/info/68c149973fd8b059a20ef4d6?utm_campaign=1055&utm_source=git)** | Lehi, UT | On Site | Sep 09 |
+| ↳ | **[Legal Internship](https://jobright.ai/jobs/info/68c14b53233c7d3e64d0135b?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Sep 09 |
 | **[Tallgrass](https://tallgrass.com/)** | **[Intern-PHMSA Compliance](https://jobright.ai/jobs/info/68c0de1b5c5d5f14f46e1ca8?utm_campaign=1055&utm_source=git)** | Lakewood, CO | Hybrid | Sep 09 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/68c23ac763b706703e11297b?utm_campaign=1055&utm_source=git)** | Topeka, KS | On Site | Sep 09 |
 | **[Medpace](http://www.medpace.com)** | **[Legal Clerkship -Summer 2026](https://jobright.ai/jobs/info/68c0d7ea5c5d5f14f46e199d?utm_campaign=1055&utm_source=git)** | Cincinnati, Ohio | Hybrid | Sep 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Legal & Compliance](https://jobright.ai/jobs/info/68c0af705c5d5f14f46e0428?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Sep 09 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Compliance (Year-Round)](https://jobright.ai/jobs/info/68c0aea58e65e77df55c3939?utm_campaign=1055&utm_source=git)** | WI-Milwaukee | Hybrid | Sep 09 |
 | **[KCH Transportation](https://www.kchtrans.com)** | **[Carrier Compliance Intern](https://jobright.ai/jobs/info/68b9d6ef8043103d4f21adc2?utm_campaign=1055&utm_source=git)** | Chattanooga, TN | On Site | Sep 09 |
-| **[Waystar](http://www.waystar.com)** | **[Legal Internship](https://jobright.ai/jobs/info/68c0a0a18e65e77df55c3582?utm_campaign=1055&utm_source=git)** | Duluth, GA | On Site | Sep 09 |
-| ↳ | **[Legal Internship](https://jobright.ai/jobs/info/68c09fca5c5d5f14f46dfc68?utm_campaign=1055&utm_source=git)** | Lehi, UT | On Site | Sep 09 |
-| **[Sterling Foundation Management, LLC](https://www.sterlingfoundations.com)** | **[Summer Intern](https://jobright.ai/jobs/info/68c123a84d652f0447755f2e?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
