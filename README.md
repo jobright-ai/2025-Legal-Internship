@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[BCG Platinion Risk Management Intern - Summer 2026](https://jobright.ai/jobs/info/68c20a7c33864f172f9bc891?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Sep 10 |
+| ↳ | **[BCG Platinion Risk Management Intern - Summer 2026](https://jobright.ai/jobs/info/68c20a3833864f172f9bc846?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 10 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Regulatory Compliance Internship - Summer 2026 - Erie, PA](https://jobright.ai/jobs/info/68c204eb33864f172f9bc5f8?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Sep 10 |
+| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/68c1f86133864f172f9bc152?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Sep 10 |
+| ↳ | **[Extra Help Certified Criminal Law Clerk](https://jobright.ai/jobs/info/68c1f5974d652f044775c17c?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Sep 10 |
 | **[Associated Electric Cooperative Inc.](https://www.aeci.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/68c1f05633864f172f9bbc9c?utm_campaign=1055&utm_source=git)** | Springfield, Missouri | On Site | Sep 10 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Contracts Intern (Northampton, MA)](https://jobright.ai/jobs/info/68c1ec584d652f044775bb3a?utm_campaign=1055&utm_source=git)** | Northampton, MA | On Site | Sep 10 |
 | ↳ | **[Contracts Intern (Camden, NJ)](https://jobright.ai/jobs/info/68c1eaa34d652f044775b990?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Sep 10 |
@@ -109,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Valero](http://www.valero.com)** | **[SOX Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/68c0cd70702aa35207ab085d?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 09 |
 | **[Santee Cooper](http://www.santeecooper.com)** | **[Records Management-Summer Intern](https://jobright.ai/jobs/info/68c0c874702aa35207ab0631?utm_campaign=1055&utm_source=git)** | Moncks Corner, SC | On Site | Sep 09 |
 | **[Loureiro Engineering Associates, Inc.](http://www.Loureiro.com)** | **[Environmental Compliance Internship](https://jobright.ai/jobs/info/68c1da3b233c7d3e64d05322?utm_campaign=1055&utm_source=git)** | Plainville, CT | On Site | Sep 09 |
+| **[Montgomery County, PA](https://www.montcopa.org)** | **[Public Defender Summer Legal INTERN](https://jobright.ai/jobs/info/68c208ef4d652f044775c975?utm_campaign=1055&utm_source=git)** | Norristown, PA | On Site | Sep 09 |
 | **[Kingland](http://www.kingland.com)** | **[Advanced Cybersecurity Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/68c1f02663b706703e11069f?utm_campaign=1055&utm_source=git)** | Ames, IA | On Site | Sep 09 |
 | **[Nokia](http://www.nokia.com)** | **[Legal, Compliance & Sustainability Co-op](https://jobright.ai/jobs/info/68c0c6d4702aa35207ab04cd?utm_campaign=1055&utm_source=git)** | New Jersey, United States | Hybrid | Sep 09 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Global Trade Authorizations Intern (Summer 2026)(Remote)](https://jobright.ai/jobs/info/68c0c0ad702aa35207ab02f2?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Sep 09 |
@@ -123,10 +129,10 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Compliance (Year-Round)](https://jobright.ai/jobs/info/68c0aea58e65e77df55c3939?utm_campaign=1055&utm_source=git)** | WI-Milwaukee | Hybrid | Sep 09 |
 | **[KCH Transportation](https://www.kchtrans.com)** | **[Carrier Compliance Intern](https://jobright.ai/jobs/info/68b9d6ef8043103d4f21adc2?utm_campaign=1055&utm_source=git)** | Chattanooga, TN | On Site | Sep 09 |
 | **[Waystar](http://www.waystar.com)** | **[Legal Internship](https://jobright.ai/jobs/info/68c0a0a18e65e77df55c3582?utm_campaign=1055&utm_source=git)** | Duluth, GA | On Site | Sep 09 |
-| ↳ | **[Legal Internship](https://jobright.ai/jobs/info/68c09feb5c5d5f14f46dfc95?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Sep 09 |
 | ↳ | **[Legal Internship](https://jobright.ai/jobs/info/68c09fca5c5d5f14f46dfc68?utm_campaign=1055&utm_source=git)** | Lehi, UT | On Site | Sep 09 |
+| ↳ | **[Legal Internship](https://jobright.ai/jobs/info/68c09fa85c5d5f14f46dfc43?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Sep 09 |
 | **[Sterling Foundation Management, LLC](https://www.sterlingfoundations.com)** | **[Summer Intern](https://jobright.ai/jobs/info/68c123a84d652f0447755f2e?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Sep 09 |
-| **[Waystar](http://www.waystar.com)** | **[Legal Internship](https://jobright.ai/jobs/info/68c09d37702aa35207aaf339?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Sep 09 |
+| **[Waystar](http://www.waystar.com)** | **[Legal Internship](https://jobright.ai/jobs/info/68c09d82702aa35207aaf35e?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Sep 09 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Motor Vehicle Division Records Intern (Business Administration)](https://jobright.ai/jobs/info/68c09a5c702aa35207aaf146?utm_campaign=1055&utm_source=git)** | Ankeny, IA | On Site | Sep 09 |
 | **[Seattle Sounders FC](http://www.soundersfc.com)** | **[Legal Externship (Spring 2026)](https://jobright.ai/jobs/info/68c098425c5d5f14f46df80b?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Sep 09 |
 | **[Nokia](http://www.nokia.com)** | **[Legal, Compliance & Sustainability Co-op](https://jobright.ai/jobs/info/68c098398e65e77df55c2fee?utm_campaign=1055&utm_source=git)** | 600-700 Mountain Avenue, Murray Hill, New Jersey, 07974-0636, US | Hybrid | Sep 09 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Civil Rights Corps](https://civilrightscorps.org/)** | **[Summer 2026 Litigation Interns (2L)](https://jobright.ai/jobs/info/68c0f9db5c5d5f14f46e2d81?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Sep 09 |
 | **[Gallagher](http://www.ajg.com)** | **[U.S Internship - Risk Control](https://jobright.ai/jobs/info/68a3d2641ab5f8579e8a8a7d?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | Hybrid | Sep 09 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Regulatory Relations Intern](https://jobright.ai/jobs/info/68c02ea88e65e77df55bf136?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Sep 09 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68c014b48e65e77df55beaf6?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Sep 09 |
-| **[Town of Marana](https://www.maranaaz.gov/)** | **[Intern](https://jobright.ai/jobs/info/68c1636d3fd8b059a20efb0e?utm_campaign=1055&utm_source=git)** | Marana, AZ | On Site | Sep 09 |
-| **[Santander](https://www.santander.com/)** | **[Regulatory Relations Intern](https://jobright.ai/jobs/info/68bfe9108e65e77df55be2fd?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Sep 09 |
-| **[AIG](https://www.aig.com/)** | **[2026 - Early Career - Claims (Juris Doctor) Summer Intern – United States, New York (NY), Jersey City (NJ), & Atlanta (GA)](https://jobright.ai/jobs/info/68bfdf5a702aa35207aaa099?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | On Site | Sep 09 |
-| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - AI & Legal Compliance (Summer 2026)](https://jobright.ai/jobs/info/68bfdf56702aa35207aaa098?utm_campaign=1055&utm_source=git)** | Garland, TX | On Site | Sep 09 |
-| **[Wizards of the Coast](http://company.wizards.com/)** | **[Extern - Legal (Fall 2025)](https://jobright.ai/jobs/info/68bfda708e65e77df55bda4e?utm_campaign=1055&utm_source=git)** | Renton, WA | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
