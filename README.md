@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/68c53bc8db52c07d28841dc8?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Sep 13 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/6853de39dee22b2fb32812cb?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Sep 13 |
+| ↳ | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/6853de39dee22b2fb32812ba?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Sep 13 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern   - Law - Washington DC CLC](https://jobright.ai/jobs/info/68c514aedb52c07d28840f1c?utm_campaign=1055&utm_source=git)** | Bowie, MD | Hybrid | Sep 12 |
 | **[Michigan Advocacy Program](https://miadvocacy.org/)** | **[2026 Law Clerks (EJW Fair Participants ONLY)](https://jobright.ai/jobs/info/68c5141e7d0db4114273238b?utm_campaign=1055&utm_source=git)** | Ypsilanti, Michigan, United States | On Site | Sep 12 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Legal Services Intern](https://jobright.ai/jobs/info/68c4f9567d0db4114273058c?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Sep 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NiSource](https://www.nisource.com/)** | **[Legal Summer Clerk](https://jobright.ai/jobs/info/68c299288753a565272fc2ff?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Sep 10 |
 | **[Valvoline Global Operations](https://www.valvolineglobal.com/en/)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/68c29159b535a221b153c93a?utm_campaign=1055&utm_source=git)** | Lexington, KY | On Site | Sep 10 |
 | **[The University of Kansas](https://www.lsi.ku.edu)** | **[Contract Negotiations Intern](https://jobright.ai/jobs/info/68c221c133864f172f9bd5ac?utm_campaign=1055&utm_source=git)** | Lawrence, KS | On Site | Sep 10 |
-| **[For The People](https://www.fortheppl.org/)** | **[Legal Intern (Spring 2026)](https://jobright.ai/jobs/info/68c21c8763b706703e1119c7?utm_campaign=1055&utm_source=git)** | Oakland, California, United States | Hybrid | Sep 10 |
-| **[Herbein + Company, Inc.](http://herbein.com)** | **[2026 Risk Managment IT Audit/Cyber Security Intern](https://jobright.ai/jobs/info/68c21bfc63b706703e111977?utm_campaign=1055&utm_source=git)** | Allentown, Reading, or Spring House | On Site | Sep 10 |
-| **[Loureiro Engineering Associates, Inc.](http://www.Loureiro.com)** | **[Environmental Compliance Intern](https://jobright.ai/jobs/info/68c21bcf4d652f044775d0c5?utm_campaign=1055&utm_source=git)** | Plainville, CT | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
