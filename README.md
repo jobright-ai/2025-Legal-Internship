@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stoel Rives LLP](http://www.stoel.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/68c58455c96a22563ece9293?utm_campaign=1055&utm_source=git)** | Portland, OR | Hybrid | Sep 13 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Legal Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688d9f6fcdbd821a3663d012?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Sep 13 |
 | **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Mergers & Acquisitions - Raleigh](https://jobright.ai/jobs/info/68c54579c96a22563ece8383?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Sep 13 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Certified Criminal Law Clerk](https://jobright.ai/jobs/info/68c53f1c7d0db4114273329e?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Sep 13 |
@@ -79,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[ACLU](https://www.aclu.org/)** | **[ACLU-NBLSA Southern Legal Internship](https://jobright.ai/jobs/info/68c4986fe396b25cb5c697bc?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Sep 12 |
 | **[Trinity Investors](https://www.trinityinvestors.com/)** | **[Compliance Intern – Southlake, TX](https://jobright.ai/jobs/info/68c48e85e471ef3ce16d7615?utm_campaign=1055&utm_source=git)** | Southlake, TX | On Site | Sep 12 |
 | **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[Arthur D. Hellman Fellowship](https://jobright.ai/jobs/info/68c489b7e471ef3ce16d744d?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 12 |
-| **[CBIZ](http://www.cbiz.com)** | **[Risk Advisory Intern / Summer 2026 / Cyber](https://jobright.ai/jobs/info/68c47d13e471ef3ce16d6c2b?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Sep 12 |
+| **[CBIZ](http://www.cbiz.com)** | **[Risk Advisory Intern / Summer 2026 / Cyber](https://jobright.ai/jobs/info/68c5837e7d0db4114273453e?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Sep 12 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Regulatory Portfolio Management Internship](https://jobright.ai/jobs/info/68c47babe471ef3ce16d6a35?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Sep 12 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/68c475e0e396b25cb5c6843a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 12 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Consumer Protection (Summer)](https://jobright.ai/jobs/info/68c46af714bb275ce0193185?utm_campaign=1055&utm_source=git)** | Pierre, SD | On Site | Sep 12 |
@@ -115,10 +116,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c36c966031587f8458aa48?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | Hybrid | Sep 11 |
 | **[Environmental Law Alliance Worldwide](https://www.elaw.org)** | **[Environmental Law Intern – Summer 2026](https://jobright.ai/jobs/info/68c451dde396b25cb5c66c79?utm_campaign=1055&utm_source=git)** | Eugene, Oregon | Hybrid | Sep 11 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/68c356beb8c22d3828471070?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 11 |
-| **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c34fda6031587f84589dae?utm_campaign=1055&utm_source=git)** | Tempe | Hybrid | Sep 11 |
-| ↳ | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c34fc880e77b1fa6fc831c?utm_campaign=1055&utm_source=git)** | Fort Mill/Charlotte | Hybrid | Sep 11 |
+| **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c34fc880e77b1fa6fc831c?utm_campaign=1055&utm_source=git)** | Fort Mill/Charlotte | Hybrid | Sep 11 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c34f866031587f84589cae?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Sep 11 |
-| ↳ | **[Intern - Legal](https://jobright.ai/jobs/info/68c334aa63829b0a8a500db0?utm_campaign=1055&utm_source=git)** | 801 Cherry Street, Fort Worth, TX, 76102, US | Hybrid | Sep 11 |
+| **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c34f736031587f84589c7b?utm_campaign=1055&utm_source=git)** | Tempe | Hybrid | Sep 11 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c334aa63829b0a8a500db0?utm_campaign=1055&utm_source=git)** | 801 Cherry Street, Fort Worth, TX, 76102, US | Hybrid | Sep 11 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Process Controls & Corporate Card Intern](https://jobright.ai/jobs/info/68c331975adaee6c9bda80dd?utm_campaign=1055&utm_source=git)** | Denver, CO, 80205 | On Site | Sep 11 |
 | ↳ | **[Process Controls & Corporate Card Intern](https://jobright.ai/jobs/info/68c3312f5001f8077bf61e92?utm_campaign=1055&utm_source=git)** | Henderson, CO, 80640 | On Site | Sep 11 |
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[2026 Regulatory & Government Affairs - Intern](https://jobright.ai/jobs/info/68c32bb45adaee6c9bda7e09?utm_campaign=1055&utm_source=git)** | 1615 Locust Street, Des Moines, IA, 50309, US | On Site | Sep 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Professional Liability Underwriting Summer Intern](https://jobright.ai/jobs/info/68a5246e758f2e4ac3fdc3bd?utm_campaign=1055&utm_source=git)** | NYC Metro Area | On Site | Sep 10 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/68c29ae6b535a221b153d4cd?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Sep 10 |
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/68c290e503b99f6b34296210?utm_campaign=1055&utm_source=git)** | East Syracuse, NY | On Site | Sep 10 |
-| ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/68c292a88753a565272fbe51?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
