@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moody's Corporation](http://www.moodys.com)** | **[Compliance Internship](https://jobright.ai/jobs/info/68c4acd931e5763f188e28af?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 12 |
+| **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Global Corporate and Healthcare Compliance](https://jobright.ai/jobs/info/68c4ac94fce86561b9288475?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Hybrid | Sep 12 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Compliance (Year-Round)](https://jobright.ai/jobs/info/68c49d76e471ef3ce16d7bac?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 12 |
+| **[ACLU](https://www.aclu.org/)** | **[ACLU-NBLSA Southern Legal Internship](https://jobright.ai/jobs/info/68c4986fe396b25cb5c697bc?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Sep 12 |
 | **[Trinity Investors](https://www.trinityinvestors.com/)** | **[Compliance Intern – Southlake, TX](https://jobright.ai/jobs/info/68c48e85e471ef3ce16d7615?utm_campaign=1055&utm_source=git)** | Southlake, TX | On Site | Sep 12 |
 | **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[Arthur D. Hellman Fellowship](https://jobright.ai/jobs/info/68c489b7e471ef3ce16d744d?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 12 |
 | **[CBIZ](http://www.cbiz.com)** | **[Risk Advisory Intern / Summer 2026 / Cyber](https://jobright.ai/jobs/info/68c47d13e471ef3ce16d6c2b?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Sep 12 |
@@ -75,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/68c42ff514bb275ce01915b0?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | Hybrid | Sep 12 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Regulatory Exam Lifecycle Management, Global Risk & Compliance - New York, NY](https://jobright.ai/jobs/info/68a7779333dd7158bbca77a9?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 12 |
 | **[MKS Inc.](https://www.mks.com)** | **[IT Risk & Compliance Undergrad Intern](https://jobright.ai/jobs/info/68c41c45e471ef3ce16d3c7f?utm_campaign=1055&utm_source=git)** | Andover, MA | On Site | Sep 12 |
+| **[Inspire](https://inspirebrands.com)** | **[Enterprise Risk & Internal Audit Internship - Summer 2026](https://jobright.ai/jobs/info/68c4974ae396b25cb5c69705?utm_campaign=1055&utm_source=git)** | Canton, MA | On Site | Sep 12 |
 | **[Medartis Inc. - United States](https://www.medartisusa.com)** | **[Legal and Compliance Intern](https://jobright.ai/jobs/info/68a7579ed627244576e2b9a0?utm_campaign=1055&utm_source=git)** | Warsaw, IN | On Site | Sep 12 |
 | **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/6862e89fbea298b4eb60a0d4?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 12 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Certified Criminal Law Clerk](https://jobright.ai/jobs/info/68c3efe914bb275ce0190098?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Sep 12 |
@@ -89,10 +94,10 @@ For a complete list, click the following sortable link below:
 | **[Environmental Law Alliance Worldwide](https://www.elaw.org)** | **[Environmental Law Intern – Summer 2026](https://jobright.ai/jobs/info/68c451dde396b25cb5c66c79?utm_campaign=1055&utm_source=git)** | Eugene, Oregon | Hybrid | Sep 11 |
 | **[CAS](http://www.cas.org)** | **[BU24IN Legal Intern](https://jobright.ai/jobs/info/68c3576780e77b1fa6fc879c?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Sep 11 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/68c356beb8c22d3828471070?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 11 |
-| **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c34fb080e77b1fa6fc82c7?utm_campaign=1055&utm_source=git)** | Fort Mill/Charlotte | Hybrid | Sep 11 |
+| **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c34fda6031587f84589dae?utm_campaign=1055&utm_source=git)** | Tempe | Hybrid | Sep 11 |
+| ↳ | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c34fb080e77b1fa6fc82c7?utm_campaign=1055&utm_source=git)** | Fort Mill/Charlotte | Hybrid | Sep 11 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c34f866031587f84589cae?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Sep 11 |
-| **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c34f736031587f84589c7b?utm_campaign=1055&utm_source=git)** | Tempe | Hybrid | Sep 11 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c334aa63829b0a8a500db0?utm_campaign=1055&utm_source=git)** | 801 Cherry Street, Fort Worth, TX, 76102, US | Hybrid | Sep 11 |
+| ↳ | **[Intern - Legal](https://jobright.ai/jobs/info/68c334aa63829b0a8a500db0?utm_campaign=1055&utm_source=git)** | 801 Cherry Street, Fort Worth, TX, 76102, US | Hybrid | Sep 11 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Co-op Compliance: January - June 2026 (Hybrid)](https://jobright.ai/jobs/info/68c333d25001f8077bf62246?utm_campaign=1055&utm_source=git)** | Acton, MA | Hybrid | Sep 11 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Process Controls & Corporate Card Intern](https://jobright.ai/jobs/info/68c331975adaee6c9bda80dd?utm_campaign=1055&utm_source=git)** | Denver, CO, 80205 | On Site | Sep 11 |
 | ↳ | **[Process Controls & Corporate Card Intern](https://jobright.ai/jobs/info/68c3312f5001f8077bf61e92?utm_campaign=1055&utm_source=git)** | Henderson, CO, 80640 | On Site | Sep 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Associated Electric Cooperative Inc.](https://www.aeci.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/68c1f05633864f172f9bbc9c?utm_campaign=1055&utm_source=git)** | Springfield, Missouri | On Site | Sep 10 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Contracts Intern (Northampton, MA)](https://jobright.ai/jobs/info/68c1ec584d652f044775bb3a?utm_campaign=1055&utm_source=git)** | Northampton, MA | On Site | Sep 10 |
 | ↳ | **[Contracts Intern (Camden, NJ)](https://jobright.ai/jobs/info/68c1eaa34d652f044775b990?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Sep 10 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68c1e6c63fd8b059a20f3dd8?utm_campaign=1055&utm_source=git)** | Owensboro, KY | On Site | Sep 10 |
-| ↳ | **[Law Clerk](https://jobright.ai/jobs/info/68c1e4a43fd8b059a20f3bee?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Sep 10 |
-| **[Blackmore Partners Inc](http://blackmorepartnersinc.com)** | **[Legal Unpaid Intern – Corporate Counsel Track](https://jobright.ai/jobs/info/68c28bfb8753a565272fb416?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 10 |
-| **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68c1e2964d652f044775b537?utm_campaign=1055&utm_source=git)** | 379 Interpace Pkwy, Parsippany, 07054 | On Site | Sep 10 |
-| **[Morgan Street Holdings](https://morganstreet.com/)** | **[2026 LEGAL SUMMER INTERN](https://jobright.ai/jobs/info/68c290c603b99f6b342961cb?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
