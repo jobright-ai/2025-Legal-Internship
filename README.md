@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Town of Marana](https://www.maranaaz.gov/)** | **[Intern](https://jobright.ai/jobs/info/68c66adfdb52c07d28848619?utm_campaign=1055&utm_source=git)** | Marana, AZ | On Site | Sep 14 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Salt Lake City, UT CLC](https://jobright.ai/jobs/info/68c5bd1cc96a22563ece9cb5?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 13 |
 | **[Glendale Fire Department](http://www.glendalefire.gov)** | **[Arthur D. Hellman Fellowship](https://jobright.ai/jobs/info/68c59ae0c96a22563ece9765?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Marvel Studios Business & Legal Affairs JD Intern, Spring 2026](https://jobright.ai/jobs/info/68c5927bc96a22563ece95d2?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Sep 13 |
@@ -108,6 +109,8 @@ For a complete list, click the following sortable link below:
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Certified Criminal Law Clerk](https://jobright.ai/jobs/info/68c3efe914bb275ce0190098?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Sep 12 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Chicago, IL CLC](https://jobright.ai/jobs/info/68a763f7758f2e4ac3feb9e5?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Marvel Studios Business & Legal Affairs JD Intern, Spring 2026](https://jobright.ai/jobs/info/68c3d03680e77b1fa6fcd38b?utm_campaign=1055&utm_source=git)** | Remote Worker Location, USA | Remote | Sep 12 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Legal Intern, In-house Legal Department](https://jobright.ai/jobs/info/68c665c2c96a22563ecee6c2?utm_campaign=1055&utm_source=git)** | Loveland, CO | On Site | Sep 11 |
+| **[Kuraray America, Inc.](https://www.kuraray.us.com)** | **[Legal Intern, Summer 2026](https://jobright.ai/jobs/info/68c66bf0c96a22563ecee966?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Sep 11 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68c653c9c96a22563eced434?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Sep 11 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68c64a347d0db41142738013?utm_campaign=1055&utm_source=git)** | Greater Indianapolis | Hybrid | Sep 11 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Process Controls & Corporate Card Intern](https://jobright.ai/jobs/info/68c395bfb8c22d382847342a?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Sep 11 |
@@ -120,8 +123,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c36c966031587f8458aa48?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | Hybrid | Sep 11 |
 | **[Environmental Law Alliance Worldwide](https://www.elaw.org)** | **[Environmental Law Intern – Summer 2026](https://jobright.ai/jobs/info/68c451dde396b25cb5c66c79?utm_campaign=1055&utm_source=git)** | Eugene, Oregon | Hybrid | Sep 11 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/68c356beb8c22d3828471070?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 11 |
-| **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c34fda6031587f84589dae?utm_campaign=1055&utm_source=git)** | Tempe | Hybrid | Sep 11 |
-| ↳ | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c34fb080e77b1fa6fc82c7?utm_campaign=1055&utm_source=git)** | Fort Mill/Charlotte | Hybrid | Sep 11 |
+| **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c34fc880e77b1fa6fc831c?utm_campaign=1055&utm_source=git)** | Fort Mill/Charlotte | Hybrid | Sep 11 |
+| ↳ | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c34f736031587f84589c7b?utm_campaign=1055&utm_source=git)** | Tempe | Hybrid | Sep 11 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68895d579f961617fe213da6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 11 |
 | **[Black Rifle Coffee Company](https://www.blackriflecoffee.com)** | **[Skillbridge Legal Extern](https://jobright.ai/jobs/info/68a61ff5758f2e4ac3fe2d82?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Sep 11 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c334aa63829b0a8a500db0?utm_campaign=1055&utm_source=git)** | 801 Cherry Street, Fort Worth, TX, 76102, US | Hybrid | Sep 11 |
@@ -136,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68c318bf5adaee6c9bda709b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Sep 11 |
 | **[Vernis & Bowling](https://www.national-law.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/68c3120f63829b0a8a4ff682?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | Hybrid | Sep 11 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern, Investments - Reporting and Compliance](https://jobright.ai/jobs/info/68c311ef5adaee6c9bda6ca0?utm_campaign=1055&utm_source=git)** | Chesterfield, MO | Hybrid | Sep 11 |
+| **[Kuraray America, Inc.](https://www.kuraray.us.com)** | **[Legal Intern, Summer 2026](https://jobright.ai/jobs/info/68c663cbc96a22563ecee1a1?utm_campaign=1055&utm_source=git)** | Houston,TX,US | Hybrid | Sep 11 |
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[2026 Legal Intern](https://jobright.ai/jobs/info/68c301b663829b0a8a4feb87?utm_campaign=1055&utm_source=git)** | 1615 Locust Street, Des Moines, IA, 50309, US | On Site | Sep 11 |
 | **[Vernis & Bowling](https://www.national-law.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/68c2fcb363829b0a8a4fe9c5?utm_campaign=1055&utm_source=git)** | Atlanta Metro | Hybrid | Sep 11 |
 | **[Glendale Fire Department](http://www.glendalefire.gov)** | **[Spring 2026 Legal Clerkship](https://jobright.ai/jobs/info/68c2f5485adaee6c9bda5bfe?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - Risk Management](https://jobright.ai/jobs/info/6887e26773e3e13cbd940dab?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Sep 11 |
 | **[Protiviti](http://www.protiviti.com)** | **[Charlotte Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68648a7584153b63ff401cdd?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Sep 11 |
 | **[Anders](http://anderscpa.com/)** | **[Compliance/Loan Review Intern - Summer 2026](https://jobright.ai/jobs/info/68a62394b6a3617d7fa75a64?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Sep 11 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Pittsburgh)](https://jobright.ai/jobs/info/688a320f09808a6103e4cf80?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 11 |
-| **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[Spring 2026 Legal Clerkship](https://jobright.ai/jobs/info/68c292a503b99f6b342967b5?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 11 |
-| **[K10 Apprenticeships Limited](https://www.k-10.co.uk/)** | **[Corporate Responsibility and Sustainability Apprenticeship - Heathrow Airport](https://jobright.ai/jobs/info/68c5073d7d0db4114273179b?utm_campaign=1055&utm_source=git)** | Heathrow, FL | On Site | Sep 11 |
-| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Contract Negotiations Intern](https://jobright.ai/jobs/info/68c29c27b535a221b153d6e6?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
