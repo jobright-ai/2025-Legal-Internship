@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercy For Animals](https://mercyforanimals.org)** | **[Summer Legal Internship](https://jobright.ai/jobs/info/68c6d52edb52c07d28849c62?utm_campaign=1055&utm_source=git)** | Remote in the United States | Remote | Sep 14 |
 | **[Town of Marana](https://www.maranaaz.gov/)** | **[Intern](https://jobright.ai/jobs/info/68c66adfdb52c07d28848619?utm_campaign=1055&utm_source=git)** | Marana, AZ | On Site | Sep 14 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Salt Lake City, UT CLC](https://jobright.ai/jobs/info/68c5c562c96a22563ece9e21?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 13 |
 | **[Glendale Fire Department](http://www.glendalefire.gov)** | **[Arthur D. Hellman Fellowship](https://jobright.ai/jobs/info/68c59ae0c96a22563ece9765?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 13 |
@@ -96,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Regulatory Portfolio Management Internship](https://jobright.ai/jobs/info/68c45151e471ef3ce16d4f71?utm_campaign=1055&utm_source=git)** | Field - United States - US | Hybrid | Sep 12 |
 | **[Delaware County, Ohio](http://www.co.delaware.oh.us)** | **[Public Defender Intern](https://jobright.ai/jobs/info/68c43d2c14bb275ce0191bc2?utm_campaign=1055&utm_source=git)** | Delaware, OH | On Site | Sep 12 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68c4370b14bb275ce0191898?utm_campaign=1055&utm_source=git)** | Catlettsburg, KY | On Site | Sep 12 |
+| **[Patterson Real Bird & Rasmussen LLP Native Law Group](https://nativelawgroup.com/)** | **[Summer 2026 Law Clerk](https://jobright.ai/jobs/info/68c6be71db52c07d28849a92?utm_campaign=1055&utm_source=git)** | Louisville, CO | On Site | Sep 12 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/68c42ff514bb275ce01915b0?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | Hybrid | Sep 12 |
 | **[Devon Energy](https://www.devonenergy.com)** | **[Land Intern - Summer 2026](https://jobright.ai/jobs/info/68a7b6c633dd7158bbca8f0e?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Sep 12 |
 | **[MKS Inc.](https://www.mks.com)** | **[IT Risk & Compliance Undergrad Intern](https://jobright.ai/jobs/info/68c41c45e471ef3ce16d3c7f?utm_campaign=1055&utm_source=git)** | Andover, MA | On Site | Sep 12 |
@@ -109,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Certified Criminal Law Clerk](https://jobright.ai/jobs/info/68c3efe914bb275ce0190098?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Sep 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Marvel Studios Business & Legal Affairs JD Intern, Spring 2026](https://jobright.ai/jobs/info/68c3d03680e77b1fa6fcd38b?utm_campaign=1055&utm_source=git)** | Remote Worker Location, USA | Remote | Sep 12 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Co-op, Compliance: January - June 2026 (Hybrid)](https://jobright.ai/jobs/info/68c333d25001f8077bf62246?utm_campaign=1055&utm_source=git)** | Acton, MA | Hybrid | Sep 11 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c6e5597d0db4114273b4f9?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Sep 11 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Legal Intern, In-house Legal Department](https://jobright.ai/jobs/info/68c665c2c96a22563ecee6c2?utm_campaign=1055&utm_source=git)** | Loveland, CO | On Site | Sep 11 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68c653c9c96a22563eced434?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Sep 11 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68c64a347d0db41142738013?utm_campaign=1055&utm_source=git)** | Greater Indianapolis | Hybrid | Sep 11 |
@@ -122,8 +125,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c36c966031587f8458aa48?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | Hybrid | Sep 11 |
 | **[Environmental Law Alliance Worldwide](https://www.elaw.org)** | **[Environmental Law Intern – Summer 2026](https://jobright.ai/jobs/info/68c451dde396b25cb5c66c79?utm_campaign=1055&utm_source=git)** | Eugene, Oregon | Hybrid | Sep 11 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/68c356beb8c22d3828471070?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 11 |
-| **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c34fb080e77b1fa6fc82c7?utm_campaign=1055&utm_source=git)** | Fort Mill/Charlotte | Hybrid | Sep 11 |
-| ↳ | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c34f736031587f84589c7b?utm_campaign=1055&utm_source=git)** | Tempe | Hybrid | Sep 11 |
+| **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c34fda6031587f84589dae?utm_campaign=1055&utm_source=git)** | Tempe | Hybrid | Sep 11 |
+| ↳ | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c34fc880e77b1fa6fc831c?utm_campaign=1055&utm_source=git)** | Fort Mill/Charlotte | Hybrid | Sep 11 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68895d579f961617fe213da6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 11 |
 | **[Black Rifle Coffee Company](https://www.blackriflecoffee.com)** | **[Skillbridge Legal Extern](https://jobright.ai/jobs/info/68a61ff5758f2e4ac3fe2d82?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Sep 11 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c334aa63829b0a8a500db0?utm_campaign=1055&utm_source=git)** | 801 Cherry Street, Fort Worth, TX, 76102, US | Hybrid | Sep 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - Risk Management](https://jobright.ai/jobs/info/6887e26773e3e13cbd940dab?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Sep 11 |
 | **[Protiviti](http://www.protiviti.com)** | **[Charlotte Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68648a7584153b63ff401cdd?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Sep 11 |
 | **[Anders](http://anderscpa.com/)** | **[Compliance/Loan Review Intern - Summer 2026](https://jobright.ai/jobs/info/68a62394b6a3617d7fa75a64?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Sep 11 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Pittsburgh)](https://jobright.ai/jobs/info/688a320f09808a6103e4cf80?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 11 |
-| **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[Spring 2026 Legal Clerkship](https://jobright.ai/jobs/info/68c292a503b99f6b342967b5?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 11 |
-| **[K10 Apprenticeships Limited](https://www.k-10.co.uk/)** | **[Corporate Responsibility and Sustainability Apprenticeship - Heathrow Airport](https://jobright.ai/jobs/info/68c5073d7d0db4114273179b?utm_campaign=1055&utm_source=git)** | Heathrow, FL | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
