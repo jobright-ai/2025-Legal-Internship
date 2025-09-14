@@ -57,17 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Salt Lake City, UT CLC](https://jobright.ai/jobs/info/68c5c562c96a22563ece9e21?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 13 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Salt Lake City, UT CLC](https://jobright.ai/jobs/info/68c5bd1cc96a22563ece9cb5?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 13 |
 | **[Glendale Fire Department](http://www.glendalefire.gov)** | **[Arthur D. Hellman Fellowship](https://jobright.ai/jobs/info/68c59ae0c96a22563ece9765?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Marvel Studios Business & Legal Affairs JD Intern, Spring 2026](https://jobright.ai/jobs/info/68c5927bc96a22563ece95d2?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Sep 13 |
 | **[Stoel Rives LLP](http://www.stoel.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/68c58455c96a22563ece9293?utm_campaign=1055&utm_source=git)** | Portland, OR | Hybrid | Sep 13 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Legal Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688d9f6fcdbd821a3663d012?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Sep 13 |
+| ↳ | **[Investigations & Law Enforcement Development Intern – Spring 2026](https://jobright.ai/jobs/info/688c1658906ac06e1d1d09e1?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Sep 13 |
 | **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Mergers & Acquisitions - Raleigh](https://jobright.ai/jobs/info/68c54579c96a22563ece8383?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Sep 13 |
-| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Certified Criminal Law Clerk](https://jobright.ai/jobs/info/68c53f1c7d0db4114273329e?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Sep 13 |
-| ↳ | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/68c53bc8db52c07d28841dc8?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Sep 13 |
+| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/68c53bc8db52c07d28841dc8?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Sep 13 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/6853de39dee22b2fb32812cb?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Sep 13 |
 | ↳ | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/6853de39dee22b2fb32812ba?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Sep 13 |
 | **[Michigan Advocacy Program](https://miadvocacy.org/)** | **[2026 Law Clerks (EJW Fair Participants ONLY)](https://jobright.ai/jobs/info/68c5141e7d0db4114273238b?utm_campaign=1055&utm_source=git)** | Ypsilanti, Michigan, United States | On Site | Sep 12 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern   - Law - Washington DC CLC](https://jobright.ai/jobs/info/68c605dbdb52c07d2884443b?utm_campaign=1055&utm_source=git)** | Bowie, MD | Hybrid | Sep 12 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Legal Services Intern](https://jobright.ai/jobs/info/68c5d8b17d0db4114273527b?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Sep 12 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - CAFL Boston - Spring 2026](https://jobright.ai/jobs/info/68c4ea0bc96a22563ece4125?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Sep 12 |
 | **[Panasonic Energy Corporation of North America](https://na.panasonic.com/panasonic-energy)** | **[Intern - Trade Compliance](https://jobright.ai/jobs/info/68c4dfccc96a22563ece30c7?utm_campaign=1055&utm_source=git)** | Bridgeton, Missouri | On Site | Sep 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Contract Negotiations Intern](https://jobright.ai/jobs/info/68c29c27b535a221b153d6e6?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 10 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Economic Damages & Valuation Internship - Summer 2026](https://jobright.ai/jobs/info/68c26ba94d652f04477607eb?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | Hybrid | Sep 10 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Professional Liability Underwriting Summer Intern](https://jobright.ai/jobs/info/68a5246e758f2e4ac3fdc3bd?utm_campaign=1055&utm_source=git)** | NYC Metro Area | On Site | Sep 10 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/68c29ae6b535a221b153d4cd?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
