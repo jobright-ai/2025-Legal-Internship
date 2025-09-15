@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[Regulatory Affairs Co-Op](https://jobright.ai/jobs/info/68c885c8f9c6ff7aedf0f9a1?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Sep 15 |
+| **[Longroad Energy](https://www.longroadenergy.com)** | **[Legal Intern (Hybrid)](https://jobright.ai/jobs/info/68c87a4595f5211cd2ce58cb?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Sep 15 |
+| **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Regulatory Science Intern - Product Safety and Compliance (May 2026-May 2027)](https://jobright.ai/jobs/info/68c879e1f9c6ff7aedf0f301?utm_campaign=1055&utm_source=git)** | Wickliffe, OH | Hybrid | Sep 15 |
+| **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[LEGAL FELLOW (UNCLASSIFIED)](https://jobright.ai/jobs/info/68c86e8395f5211cd2ce5302?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 15 |
 | **[Community Bank, N.A.](https://cbna.com/locations/naples)** | **[Legal Processing Intern](https://jobright.ai/jobs/info/68c869c9983e6768bc54d132?utm_campaign=1055&utm_source=git)** | Canton, New York | On Site | Sep 15 |
 | **[Chinitz Law LLC](http://www.chinitzlawllc.com)** | **[Fall 2025 Law Clerk](https://jobright.ai/jobs/info/68c869b7983e6768bc54d117?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | Remote | Sep 15 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Norfolk, VA  Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68c86731f9c6ff7aedf0e157?utm_campaign=1055&utm_source=git)** | Norfolk, VA | On Site | Sep 15 |
 | **[Barclays Investment Bank](https://www.investmentbank.barclays.com)** | **[Compliance Analyst Summer Internship Program 2026 New York City](https://jobright.ai/jobs/info/68c861ca983e6768bc54c528?utm_campaign=1055&utm_source=git)** | 745 7th Avenue, New York | On Site | Sep 15 |
 | **[ACLU of North Carolina](https://www.acluofnorthcarolina.org)** | **[ACLU-NC Legal Summer Intern](https://jobright.ai/jobs/info/68c861ac983e6768bc54c4eb?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Sep 15 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern - Operational Risk Services](https://jobright.ai/jobs/info/68c861a195f5211cd2ce441f?utm_campaign=1055&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Sep 15 |
@@ -81,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Legal Internship](https://jobright.ai/jobs/info/68c8343f983e6768bc54abdf?utm_campaign=1055&utm_source=git)** | Bloomington, IL | Hybrid | Sep 15 |
 | **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Intellectual Property (Summer 2026)](https://jobright.ai/jobs/info/68c831d195f5211cd2ce2580?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 15 |
 | ↳ | **[Intern, Antitrust (Summer 2026)](https://jobright.ai/jobs/info/68c8318c983e6768bc54a866?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Sep 15 |
+| **[Hightower, Stratton, Novigrod & Kantor](https://www.hightowerlaw.net/)** | **[Law Clerk](https://jobright.ai/jobs/info/68810df229ad6b2744ade887?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Sep 15 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Legal Summer Internship Program](https://jobright.ai/jobs/info/68c86729f9c6ff7aedf0e14d?utm_campaign=1055&utm_source=git)** | Pontiac, MI | On Site | Sep 15 |
 | **[Crown Castle](https://www.crowncastle.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68c814bf983e6768bc5497a9?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Sep 15 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Internship - Supervision Intern - St. Petersburg, FL](https://jobright.ai/jobs/info/68abe5a7758f2e4ac30014f9?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | Hybrid | Sep 15 |
@@ -103,7 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Town of Marana](https://www.maranaaz.gov/)** | **[Intern](https://jobright.ai/jobs/info/68c66adfdb52c07d28848619?utm_campaign=1055&utm_source=git)** | Marana, AZ | On Site | Sep 14 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/68c86864983e6768bc54ced5?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 13 |
 | **[Stoel Rives LLP](http://www.stoel.com)** | **[2026 2L Real Estate Summer Associate](https://jobright.ai/jobs/info/68a8f903d627244576e36a8e?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Sep 13 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Salt Lake City, UT CLC](https://jobright.ai/jobs/info/68c5c562c96a22563ece9e21?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 13 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Salt Lake City, UT CLC](https://jobright.ai/jobs/info/68c6946ac96a22563ecef935?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 13 |
+| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/68a90f7f6acf96396f724768?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 13 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Contracts Internship (Salt Lake City, UT)](https://jobright.ai/jobs/info/68a8cce5d627244576e35a59?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Sep 13 |
 | **[Glendale Fire Department](http://www.glendalefire.gov)** | **[Arthur D. Hellman Fellowship](https://jobright.ai/jobs/info/68c59ae0c96a22563ece9765?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Marvel Studios Business & Legal Affairs JD Intern, Spring 2026](https://jobright.ai/jobs/info/68c5927bc96a22563ece95d2?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Sep 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Spring 2026](https://jobright.ai/jobs/info/68a6239933dd7158bbc9e317?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Marvel Studios Business & Legal Affairs JD Intern, Spring 2026](https://jobright.ai/jobs/info/68c3d03680e77b1fa6fcd38b?utm_campaign=1055&utm_source=git)** | Remote Worker Location, USA | Remote | Sep 12 |
 | **[Herbein + Company, Inc.](http://herbein.com)** | **[2026 Risk Managment IT Audit/Cyber Security Intern](https://jobright.ai/jobs/info/68c7c546369c3763c743bd8c?utm_campaign=1055&utm_source=git)** | Reading, PA | On Site | Sep 12 |
-| **[Crowe](https://www.crowe.com/)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/68c7cdea5c38e536d41a7078?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 11 |
-| **[Insulet Corporation](https://www.insulet.com)** | **[Co-op, Compliance: January - June 2026 (Hybrid)](https://jobright.ai/jobs/info/68c333d25001f8077bf62246?utm_campaign=1055&utm_source=git)** | Acton, MA | Hybrid | Sep 11 |
-| **[GE Vernova](https://www.gevernova.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68c7b4835c25e576f7b299c5?utm_campaign=1055&utm_source=git)** | Imperial, PA | On Site | Sep 11 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c6e5597d0db4114273b4f9?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Sep 11 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Legal Intern, In-house Legal Department](https://jobright.ai/jobs/info/68c665c2c96a22563ecee6c2?utm_campaign=1055&utm_source=git)** | Loveland, CO | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
