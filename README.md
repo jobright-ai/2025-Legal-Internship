@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern, LISCC- Tech & Reporting- Division of Supervision & Regulation](https://jobright.ai/jobs/info/68c7be79f42a830e1c7e744c?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Sep 15 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern, Supervisory Oversight- Division of Supervision & Regulation](https://jobright.ai/jobs/info/68c7b69e27f0732240603baf?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Sep 14 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Regulatory Affairs](https://jobright.ai/jobs/info/68c7a3f07d0db4114273eee6?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Sep 14 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern, Supervisory Oversight- Division of Supervision & Regulation](https://jobright.ai/jobs/info/68c79dfb7d0db4114273e9b1?utm_campaign=1055&utm_source=git)** | DC-Washington | On Site | Sep 14 |
 | ↳ | **[Summer 2026 Intern, LISCC- Tech & Reporting- Division of Supervision & Regulation](https://jobright.ai/jobs/info/68c79d0fc96a22563ecf31cf?utm_campaign=1055&utm_source=git)** | DC-Washington | On Site | Sep 14 |
@@ -78,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Michigan Advocacy Program](https://miadvocacy.org/)** | **[2026 Law Clerks (EJW Fair Participants ONLY)](https://jobright.ai/jobs/info/68c5141e7d0db4114273238b?utm_campaign=1055&utm_source=git)** | Ypsilanti, Michigan, United States | On Site | Sep 12 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern   - Law - Washington DC CLC](https://jobright.ai/jobs/info/68c605dbdb52c07d2884443b?utm_campaign=1055&utm_source=git)** | Bowie, MD | Hybrid | Sep 12 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68c1e6c63fd8b059a20f3dd8?utm_campaign=1055&utm_source=git)** | Owensboro, KY | On Site | Sep 12 |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Quality & Compliance Intern- Patient Service (Pharm D)](https://jobright.ai/jobs/info/68c7aef9c96a22563ecf41bc?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Sep 12 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Legal Services Intern](https://jobright.ai/jobs/info/68c5d8b17d0db4114273527b?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Sep 12 |
 | **[ACLU](https://www.aclu.org/)** | **[ACLU-NBLSA Southern Legal Internship](https://jobright.ai/jobs/info/68c79976c96a22563ecf2e64?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Sep 12 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Chicago, IL CLC](https://jobright.ai/jobs/info/68c7983b7d0db4114273e17e?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 12 |
@@ -116,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Mount Laurel, NJ CLC](https://jobright.ai/jobs/info/68a766ffd627244576e2be34?utm_campaign=1055&utm_source=git)** | Mount Laurel, NJ | Hybrid | Sep 12 |
 | **[CAS](http://www.cas.org)** | **[BU24IN Legal Intern](https://jobright.ai/jobs/info/68c55155db52c07d288424c8?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Sep 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Marvel Studios Business & Legal Affairs JD Intern, Spring 2026](https://jobright.ai/jobs/info/68c3d03680e77b1fa6fcd38b?utm_campaign=1055&utm_source=git)** | Remote Worker Location, USA | Remote | Sep 12 |
+| **[GE Vernova](https://www.gevernova.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68c7b4835c25e576f7b299c5?utm_campaign=1055&utm_source=git)** | Imperial, PA | On Site | Sep 11 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c6e5597d0db4114273b4f9?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Sep 11 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Legal Intern, In-house Legal Department](https://jobright.ai/jobs/info/68c665c2c96a22563ecee6c2?utm_campaign=1055&utm_source=git)** | Loveland, CO | On Site | Sep 11 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68c653c9c96a22563eced434?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Sep 11 |
@@ -128,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Virginia Office of the Attorney General](http://www.oag.state.va.us)** | **[2026 Summer Attorney Internship](https://jobright.ai/jobs/info/68c382e480e77b1fa6fc9bf6?utm_campaign=1055&utm_source=git)** | Richmond, VA | Hybrid | Sep 11 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern - Compliance Analyst, Compliance Risk Management](https://jobright.ai/jobs/info/68c371a480e77b1fa6fc93c4?utm_campaign=1055&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Sep 11 |
 | **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c36f2ab8c22d3828471cd1?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Sep 11 |
-| ↳ | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c36c966031587f8458aa48?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | Hybrid | Sep 11 |
 | **[Environmental Law Alliance Worldwide](https://www.elaw.org)** | **[Environmental Law Intern – Summer 2026](https://jobright.ai/jobs/info/68c451dde396b25cb5c66c79?utm_campaign=1055&utm_source=git)** | Eugene, Oregon | Hybrid | Sep 11 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/68c356beb8c22d3828471070?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 11 |
 | **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c34fc880e77b1fa6fc831c?utm_campaign=1055&utm_source=git)** | Fort Mill/Charlotte | Hybrid | Sep 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern, Investments - Reporting and Compliance](https://jobright.ai/jobs/info/68c2ebad5adaee6c9bda54fb?utm_campaign=1055&utm_source=git)** | United States, Chesterfield, MO, RGA HQ | Hybrid | Sep 11 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Risk Management](https://jobright.ai/jobs/info/68a652d7b6a3617d7fa76e18?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Sep 11 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68a657a133dd7158bbc9f7f7?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 11 |
-| **[Sallie Mae](https://www.salliemae.com)** | **[Legal Intern - Corporate Finance and Contracts](https://jobright.ai/jobs/info/68c2cb425adaee6c9bda42a4?utm_campaign=1055&utm_source=git)** | Sterling, VA | Hybrid | Sep 11 |
-| ↳ | **[Legal Intern - Corporate Finance and Contracts](https://jobright.ai/jobs/info/68c2bf485001f8077bf5dab0?utm_campaign=1055&utm_source=git)** | Newark, DE | Hybrid | Sep 11 |
-| **[Clarios](https://www.clarios.com/)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/688a5db89f961617fe21b04e?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
