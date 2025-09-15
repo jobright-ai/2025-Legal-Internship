@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crown Castle](https://www.crowncastle.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68c814bf983e6768bc5497a9?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Sep 15 |
+| **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Internship - Supervision Intern - St. Petersburg, FL](https://jobright.ai/jobs/info/68abe5a7758f2e4ac30014f9?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | Hybrid | Sep 15 |
+| **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Global Corporate and Healthcare Compliance](https://jobright.ai/jobs/info/68c7fff8983e6768bc548d2e?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Hybrid | Sep 15 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Internship - RJFS Risk Management Intern - St. Petersburg, FL](https://jobright.ai/jobs/info/68abe569daf1431824c90cad?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | Hybrid | Sep 15 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Fort Lauderdale)](https://jobright.ai/jobs/info/68c7e7f9983e6768bc5481b3?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Sep 15 |
 | ↳ | **[Assurance Intern, Third Party Attestation - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/688f2d2ae5cead4afd46073d?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Sep 15 |
@@ -95,8 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Panasonic Energy Corporation of North America](https://na.panasonic.com/panasonic-energy)** | **[Intern - Trade Compliance](https://jobright.ai/jobs/info/68c4dfccc96a22563ece30c7?utm_campaign=1055&utm_source=git)** | Bridgeton, Missouri | On Site | Sep 12 |
 | **[Hussmann](http://www.hussmann.com)** | **[Intern - Trade Compliance](https://jobright.ai/jobs/info/68c4d7337279451d6a0381f6?utm_campaign=1055&utm_source=git)** | Bridgeton, MO | On Site | Sep 12 |
 | **[Ameritas](http://www.ameritas.com)** | **[Legal Intern - Financial Planning](https://jobright.ai/jobs/info/68c4d180fce86561b928992d?utm_campaign=1055&utm_source=git)** | Lincoln, NE | Hybrid | Sep 12 |
-| **[Office of the Los Angeles City Attorney](https://cityattorney.lacity.gov)** | **[Internship / Law Clerk (FALL 2026)](https://jobright.ai/jobs/info/68c4b32afce86561b92889d0?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Sep 12 |
-| ↳ | **[Internship / Law Clerk (Summer 2026)](https://jobright.ai/jobs/info/68c4b19131e5763f188e2c01?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Sep 12 |
 | **[Moody's Corporation](http://www.moodys.com)** | **[Compliance Internship](https://jobright.ai/jobs/info/68c4acd931e5763f188e28af?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 12 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Global Corporate and Healthcare Compliance](https://jobright.ai/jobs/info/68c4ac94fce86561b9288475?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Hybrid | Sep 12 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Compliance (Year-Round)](https://jobright.ai/jobs/info/68c49d76e471ef3ce16d7bac?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 12 |
@@ -128,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Marvel Studios Business & Legal Affairs JD Intern, Spring 2026](https://jobright.ai/jobs/info/68c3d03680e77b1fa6fcd38b?utm_campaign=1055&utm_source=git)** | Remote Worker Location, USA | Remote | Sep 12 |
 | **[Herbein + Company, Inc.](http://herbein.com)** | **[2026 Risk Managment IT Audit/Cyber Security Intern](https://jobright.ai/jobs/info/68c7c546369c3763c743bd8c?utm_campaign=1055&utm_source=git)** | Reading, PA | On Site | Sep 12 |
 | **[Crowe](https://www.crowe.com/)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/68c7cdea5c38e536d41a7078?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 11 |
+| **[Insulet Corporation](https://www.insulet.com)** | **[Co-op, Compliance: January - June 2026 (Hybrid)](https://jobright.ai/jobs/info/68c333d25001f8077bf62246?utm_campaign=1055&utm_source=git)** | Acton, MA | Hybrid | Sep 11 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68c7b4835c25e576f7b299c5?utm_campaign=1055&utm_source=git)** | Imperial, PA | On Site | Sep 11 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c6e5597d0db4114273b4f9?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Sep 11 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Legal Intern, In-house Legal Department](https://jobright.ai/jobs/info/68c665c2c96a22563ecee6c2?utm_campaign=1055&utm_source=git)** | Loveland, CO | On Site | Sep 11 |
@@ -143,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c36f2ab8c22d3828471cd1?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Sep 11 |
 | **[Environmental Law Alliance Worldwide](https://www.elaw.org)** | **[Environmental Law Intern – Summer 2026](https://jobright.ai/jobs/info/68c451dde396b25cb5c66c79?utm_campaign=1055&utm_source=git)** | Eugene, Oregon | Hybrid | Sep 11 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/68c356beb8c22d3828471070?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 11 |
-| **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c34fb080e77b1fa6fc82c7?utm_campaign=1055&utm_source=git)** | Fort Mill/Charlotte | Hybrid | Sep 11 |
-| ↳ | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c34f736031587f84589c7b?utm_campaign=1055&utm_source=git)** | Tempe | Hybrid | Sep 11 |
+| **[LPL Financial](https://www.lpl.com)** | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c34fda6031587f84589dae?utm_campaign=1055&utm_source=git)** | Tempe | Hybrid | Sep 11 |
+| ↳ | **[FAR Program: Summer 2026 Internship – Compliance](https://jobright.ai/jobs/info/68c34fb080e77b1fa6fc82c7?utm_campaign=1055&utm_source=git)** | Fort Mill/Charlotte | Hybrid | Sep 11 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68895d579f961617fe213da6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 11 |
 | **[Black Rifle Coffee Company](https://www.blackriflecoffee.com)** | **[Skillbridge Legal Extern](https://jobright.ai/jobs/info/68a61ff5758f2e4ac3fe2d82?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Sep 11 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c334aa63829b0a8a500db0?utm_campaign=1055&utm_source=git)** | 801 Cherry Street, Fort Worth, TX, 76102, US | Hybrid | Sep 11 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Process Controls & Corporate Card Intern](https://jobright.ai/jobs/info/68c331975adaee6c9bda80dd?utm_campaign=1055&utm_source=git)** | Denver, CO, 80205 | On Site | Sep 11 |
 | ↳ | **[Process Controls & Corporate Card Intern](https://jobright.ai/jobs/info/68c3312f5001f8077bf61e92?utm_campaign=1055&utm_source=git)** | Henderson, CO, 80640 | On Site | Sep 11 |
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[2026 Regulatory & Government Affairs - Intern](https://jobright.ai/jobs/info/68c32bb45adaee6c9bda7e09?utm_campaign=1055&utm_source=git)** | 1615 Locust Street, Des Moines, IA, 50309, US | On Site | Sep 11 |
-| **[Insulet Corporation](https://www.insulet.com)** | **[Co-op Compliance: January - June 2026 (Hybrid)](https://jobright.ai/jobs/info/68c333d25001f8077bf62246?utm_campaign=1055&utm_source=git)** | Acton, MA | Hybrid | Sep 11 |
 | **[The Children's Law Center](https://clcny.org)** | **[Law Student Internship, Appellate/Writing (Summer 2026)](https://jobright.ai/jobs/info/68c31eef5adaee6c9bda754e?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Sep 11 |
 | ↳ | **[Law Student Internship, Trial (Summer 2026)](https://jobright.ai/jobs/info/68c31ec463829b0a8a4ffe44?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Sep 11 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Co-op, Compliance: January - June 2026 (Hybrid)](https://jobright.ai/jobs/info/68c325545adaee6c9bda7a26?utm_campaign=1055&utm_source=git)** | Acton, Massachusetts | Hybrid | Sep 11 |
-| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68c318bf5adaee6c9bda709b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
