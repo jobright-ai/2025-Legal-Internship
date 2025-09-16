@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CrowdStrike](http://www.crowdstrike.com)** | **[SkillBridge, Internal Investigations Analyst (Remote)](https://jobright.ai/jobs/info/68c8cc9895f5211cd2ce97d0?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 15 |
+| **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2025](https://jobright.ai/jobs/info/68c8ca2df9c6ff7aedf12a85?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Sep 15 |
+| **[TruStage](https://www.trustage.com/)** | **[Legal Compliance Intern (Hybrid)](https://jobright.ai/jobs/info/68c8c00ff9c6ff7aedf12413?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Sep 15 |
 | **[Duquesne Light Company](https://www.duquesnelight.com/)** | **[2026 Summer Internship - NERC Compliance](https://jobright.ai/jobs/info/68c8bfab95f5211cd2ce8ecb?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 15 |
 | **[Vertafore](http://www.vertafore.com)** | **[Intern](https://jobright.ai/jobs/info/68c8ba2d983e6768bc550d7d?utm_campaign=1055&utm_source=git)** | US-CO-Denver | Hybrid | Sep 15 |
 | **[Philips](https://www.usa.philips.com)** | **[Intern - Regulatory Affairs - Colorado Springs, CO - Summer 2026](https://jobright.ai/jobs/info/68c8b636f9c6ff7aedf11bfc?utm_campaign=1055&utm_source=git)** | Colorado Springs | On Site | Sep 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Subrogation Claims Internship - Summer 2026](https://jobright.ai/jobs/info/68c4593ce396b25cb5c672ef?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Sep 12 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68c4dc7431e5763f188e435b?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Sep 12 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Regulatory Portfolio Management Internship](https://jobright.ai/jobs/info/68c45151e471ef3ce16d4f71?utm_campaign=1055&utm_source=git)** | Field - United States - US | Hybrid | Sep 12 |
-| **[Delaware County, Ohio](http://www.co.delaware.oh.us)** | **[Public Defender Intern](https://jobright.ai/jobs/info/68c43d2c14bb275ce0191bc2?utm_campaign=1055&utm_source=git)** | Delaware, OH | On Site | Sep 12 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68c4370b14bb275ce0191898?utm_campaign=1055&utm_source=git)** | Catlettsburg, KY | On Site | Sep 12 |
-| **[Patterson Real Bird & Rasmussen LLP Native Law Group](https://nativelawgroup.com/)** | **[Summer 2026 Law Clerk](https://jobright.ai/jobs/info/68c6be71db52c07d28849a92?utm_campaign=1055&utm_source=git)** | Louisville, CO | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
