@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[States United Democracy Center](https://statesuniteddemocracy.org/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/68c9a1d5f9c6ff7aedf1bcbb?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Sep 16 |
+| **[United Airlines](https://www.united.com)** | **[Intern - Inflight Safety Policy & Procedures (Summer 2026)](https://jobright.ai/jobs/info/68c99334f9c6ff7aedf1afb5?utm_campaign=1055&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Sep 16 |
+| **[Baker Tilly](https://www.bakertilly.global/)** | **[Risk Advisory Internship - FY27](https://jobright.ai/jobs/info/68c992e795f5211cd2cf1b76?utm_campaign=1055&utm_source=git)** | USA TN Nashville | On Site | Sep 16 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: ESG Legal Intern (May to August)](https://jobright.ai/jobs/info/68c992aca0c52d598ea3899c?utm_campaign=1055&utm_source=git)** | Needham, MA, United States | On Site | Sep 16 |
+| **[Glendale Fire Department](http://www.glendalefire.gov)** | **[2026 Summer Legal Internship](https://jobright.ai/jobs/info/68c99286a0c52d598ea38903?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 16 |
+| **[Lederer & Nojima, LLP](http://lntlb.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68c991efa0c52d598ea387e1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Sep 16 |
 | **[Pantex Plant](https://www.pantex.com)** | **[Student Intern - Cyber Policy & Authorizations](https://jobright.ai/jobs/info/68c984ef95f5211cd2cf132a?utm_campaign=1055&utm_source=git)** | Amarillo, TX | On Site | Sep 16 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Analyst Program - Risk & Compliance (Pittsburgh, PA)](https://jobright.ai/jobs/info/68c97a78a0c52d598ea37cf0?utm_campaign=1055&utm_source=git)** | 500 Grant Street, Pittsburgh, PA, 15258, US | On Site | Sep 16 |
 | ↳ | **[2026 BNY Analyst Program - Risk & Compliance (New York, NY)](https://jobright.ai/jobs/info/68c97a51a0c52d598ea37cdd?utm_campaign=1055&utm_source=git)** | 240 Greenwich Street, New York, NY, 10286, US | On Site | Sep 16 |
@@ -67,12 +73,12 @@ For a complete list, click the following sortable link below:
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/68c9550995f5211cd2cefafc?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Sep 16 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Safety](https://jobright.ai/jobs/info/68aced9fdaf1431824c991e7?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Sep 16 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad0cc8d627244576e4ae5c?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Sep 16 |
+| ↳ | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/68c7c428369c3763c743b943?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 16 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acee46daf1431824c99272?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Sep 16 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acef74daf1431824c9935a?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Sep 16 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad092d758f2e4ac300a737?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 16 |
 | **[TruStage](https://www.trustage.com/)** | **[Legal Compliance Intern (Hybrid)](https://jobright.ai/jobs/info/68c9078df9c6ff7aedf16a5d?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Sep 15 |
 | **[Federal Public Defender, Central District of California](https://fpdcdca.org)** | **[Post-Bar Fellowship - Santa Ana](https://jobright.ai/jobs/info/68c904eef9c6ff7aedf1657a?utm_campaign=1055&utm_source=git)** | Santa Ana, CA | On Site | Sep 15 |
-| **[CrowdStrike](http://www.crowdstrike.com)** | **[SkillBridge, Internal Investigations Analyst (Remote)](https://jobright.ai/jobs/info/68c8cc9895f5211cd2ce97d0?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 15 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2025](https://jobright.ai/jobs/info/68c8ca2df9c6ff7aedf12a85?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Sep 15 |
 | **[TruStage](https://www.trustage.com/)** | **[Legal Compliance Intern (Hybrid)](https://jobright.ai/jobs/info/68c8c00ff9c6ff7aedf12413?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Sep 15 |
 | **[Duquesne Light Company](https://www.duquesnelight.com/)** | **[2026 Summer Internship - NERC Compliance](https://jobright.ai/jobs/info/68c8bfab95f5211cd2ce8ecb?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 15 |
@@ -139,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern – Spring 2026](https://jobright.ai/jobs/info/68c8f242983e6768bc553f54?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Sep 13 |
 | **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Mergers & Acquisitions - Raleigh](https://jobright.ai/jobs/info/68c8e6dbf9c6ff7aedf14416?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Sep 13 |
 | **[Stoel Rives LLP](http://www.stoel.com)** | **[2026 2L Real Estate Summer Associate](https://jobright.ai/jobs/info/68a8f903d627244576e36a8e?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Sep 13 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Salt Lake City, UT CLC](https://jobright.ai/jobs/info/68c6946ac96a22563ecef935?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 13 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/68a90f7f6acf96396f724768?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 13 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Contracts Internship (Salt Lake City, UT)](https://jobright.ai/jobs/info/68a8cce5d627244576e35a59?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Sep 13 |
 | **[Glendale Fire Department](http://www.glendalefire.gov)** | **[Arthur D. Hellman Fellowship](https://jobright.ai/jobs/info/68c59ae0c96a22563ece9765?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern   - Law - Washington DC CLC](https://jobright.ai/jobs/info/68c605dbdb52c07d2884443b?utm_campaign=1055&utm_source=git)** | Bowie, MD | Hybrid | Sep 12 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68c1e6c63fd8b059a20f3dd8?utm_campaign=1055&utm_source=git)** | Owensboro, KY | On Site | Sep 12 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Quality & Compliance Intern- Patient Service (Pharm D)](https://jobright.ai/jobs/info/68c7aef9c96a22563ecf41bc?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Sep 12 |
-| **[American Friends Service Committee](https://www.afsc.org/)** | **[Legal Services Intern](https://jobright.ai/jobs/info/68c5d8b17d0db4114273527b?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Sep 12 |
-| **[ACLU](https://www.aclu.org/)** | **[ACLU-NBLSA Southern Legal Internship](https://jobright.ai/jobs/info/68c79976c96a22563ecf2e64?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Sep 12 |
-| **[CBIZ](http://www.cbiz.com)** | **[Risk Advisory Intern / Summer 2026 / Cyber](https://jobright.ai/jobs/info/68c63dd17d0db41142737233?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Sep 12 |
-| **[Panasonic Energy Corporation of North America](https://na.panasonic.com/panasonic-energy)** | **[Intern - Trade Compliance](https://jobright.ai/jobs/info/68c4dfccc96a22563ece30c7?utm_campaign=1055&utm_source=git)** | Bridgeton, Missouri | On Site | Sep 12 |
-| **[Hussmann](http://www.hussmann.com)** | **[Intern - Trade Compliance](https://jobright.ai/jobs/info/68c4d7337279451d6a0381f6?utm_campaign=1055&utm_source=git)** | Bridgeton, MO | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
