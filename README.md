@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duquesne Light Company](https://www.duquesnelight.com/)** | **[2026 Summer Internship - NERC Compliance](https://jobright.ai/jobs/info/68c8bfab95f5211cd2ce8ecb?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 15 |
+| **[Vertafore](http://www.vertafore.com)** | **[Intern](https://jobright.ai/jobs/info/68c8ba2d983e6768bc550d7d?utm_campaign=1055&utm_source=git)** | US-CO-Denver | Hybrid | Sep 15 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern - Regulatory Affairs - Colorado Springs, CO - Summer 2026](https://jobright.ai/jobs/info/68c8b636f9c6ff7aedf11bfc?utm_campaign=1055&utm_source=git)** | Colorado Springs | On Site | Sep 15 |
+| **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2025](https://jobright.ai/jobs/info/68c8b590f9c6ff7aedf11aa8?utm_campaign=1055&utm_source=git)** | San Diego California | On Site | Sep 15 |
+| ↳ | **[Legal Intern- Summer 2025](https://jobright.ai/jobs/info/68c8b510f9c6ff7aedf119e4?utm_campaign=1055&utm_source=git)** | San Diego California | On Site | Sep 15 |
+| **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Legal Intern (Part Time)](https://jobright.ai/jobs/info/68c8b15195f5211cd2ce8308?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Sep 15 |
+| **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/68c8ae17983e6768bc5501dd?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Sep 15 |
 | **[Community Bank, N.A.](https://cbna.com/locations/naples)** | **[Legal Processing Intern](https://jobright.ai/jobs/info/68c89beaf9c6ff7aedf10d52?utm_campaign=1055&utm_source=git)** | Canton, NY | On Site | Sep 15 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Certified Criminal Law Clerk](https://jobright.ai/jobs/info/68c88f68983e6768bc54f16b?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Sep 15 |
+| ↳ | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/68c8b84cf9c6ff7aedf11e74?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Sep 15 |
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[Regulatory Affairs Co-Op](https://jobright.ai/jobs/info/68c885c8f9c6ff7aedf0f9a1?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Sep 15 |
 | **[Longroad Energy](https://www.longroadenergy.com)** | **[Legal Intern (Hybrid)](https://jobright.ai/jobs/info/68c87a4595f5211cd2ce58cb?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Sep 15 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Regulatory Science Intern - Product Safety and Compliance (May 2026-May 2027)](https://jobright.ai/jobs/info/68c879e1f9c6ff7aedf0f301?utm_campaign=1055&utm_source=git)** | Wickliffe, OH | Hybrid | Sep 15 |
@@ -101,8 +109,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[STUDENT INTERN - IT GIS & COMPLIANCE (HDQ)](https://jobright.ai/jobs/info/68c7d8225c38e536d41a7237?utm_campaign=1055&utm_source=git)** | Bismarck, ND | On Site | Sep 15 |
 | **[City of Worcester](https://www.worcesterma.gov)** | **[TOBACCO COMPLIANCE INTERN](https://jobright.ai/jobs/info/68c8340895f5211cd2ce2865?utm_campaign=1055&utm_source=git)** | Worcester, MA | On Site | Sep 15 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern, LISCC- Tech & Reporting- Division of Supervision & Regulation](https://jobright.ai/jobs/info/68c7be79f42a830e1c7e744c?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Sep 15 |
+| **[Dexcom](http://www.dexcom.com)** | **[Intern I - Regulatory Affairs](https://jobright.ai/jobs/info/68c8b60795f5211cd2ce8a6e?utm_campaign=1055&utm_source=git)** | San Diego, California | Hybrid | Sep 15 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern, Supervisory Oversight- Division of Supervision & Regulation](https://jobright.ai/jobs/info/68c7b69e27f0732240603baf?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Sep 14 |
-| **[Dexcom](http://www.dexcom.com)** | **[Intern I - Regulatory Affairs](https://jobright.ai/jobs/info/68c7a3f07d0db4114273eee6?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Sep 14 |
+| **[Dexcom](http://www.dexcom.com)** | **[Intern I - Regulatory Affairs](https://jobright.ai/jobs/info/68c8b22495f5211cd2ce842d?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Sep 14 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern, Supervisory Oversight- Division of Supervision & Regulation](https://jobright.ai/jobs/info/68c79dfb7d0db4114273e9b1?utm_campaign=1055&utm_source=git)** | DC-Washington | On Site | Sep 14 |
 | ↳ | **[Summer 2026 Intern, LISCC- Tech & Reporting- Division of Supervision & Regulation](https://jobright.ai/jobs/info/68c79d0fc96a22563ecf31cf?utm_campaign=1055&utm_source=git)** | DC-Washington | On Site | Sep 14 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Risk Management](https://jobright.ai/jobs/info/68c70d9a7d0db4114273b7bd?utm_campaign=1055&utm_source=git)** | Camden, NJ, United States | On Site | Sep 14 |
@@ -116,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/68a90f7f6acf96396f724768?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 13 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Contracts Internship (Salt Lake City, UT)](https://jobright.ai/jobs/info/68a8cce5d627244576e35a59?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Sep 13 |
 | **[Glendale Fire Department](http://www.glendalefire.gov)** | **[Arthur D. Hellman Fellowship](https://jobright.ai/jobs/info/68c59ae0c96a22563ece9765?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 13 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Marvel Studios Business & Legal Affairs JD Intern, Spring 2026](https://jobright.ai/jobs/info/68c5927bc96a22563ece95d2?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Sep 13 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Legal Intern / Summer 2026](https://jobright.ai/jobs/info/68c7e053f9c6ff7aedf08ee0?utm_campaign=1055&utm_source=git)** | Brentwood, TN | Hybrid | Sep 13 |
 | **[Stoel Rives LLP](http://www.stoel.com)** | **[2026 2L Corporate Summer Associate](https://jobright.ai/jobs/info/68c58455c96a22563ece9293?utm_campaign=1055&utm_source=git)** | Portland, OR | Hybrid | Sep 13 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Legal Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688d9f6fcdbd821a3663d012?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Sep 13 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delaware County, Ohio](http://www.co.delaware.oh.us)** | **[Public Defender Intern](https://jobright.ai/jobs/info/68c43d2c14bb275ce0191bc2?utm_campaign=1055&utm_source=git)** | Delaware, OH | On Site | Sep 12 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68c4370b14bb275ce0191898?utm_campaign=1055&utm_source=git)** | Catlettsburg, KY | On Site | Sep 12 |
 | **[Patterson Real Bird & Rasmussen LLP Native Law Group](https://nativelawgroup.com/)** | **[Summer 2026 Law Clerk](https://jobright.ai/jobs/info/68c6be71db52c07d28849a92?utm_campaign=1055&utm_source=git)** | Louisville, CO | On Site | Sep 12 |
-| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/68c42ff514bb275ce01915b0?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | Hybrid | Sep 12 |
-| **[Devon Energy](https://www.devonenergy.com)** | **[Land Intern - Summer 2026](https://jobright.ai/jobs/info/68a7b6c633dd7158bbca8f0e?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Sep 12 |
-| **[MKS Inc.](https://www.mks.com)** | **[IT Risk & Compliance Undergrad Intern](https://jobright.ai/jobs/info/68c41c45e471ef3ce16d3c7f?utm_campaign=1055&utm_source=git)** | Andover, MA | On Site | Sep 12 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[CSR Intern](https://jobright.ai/jobs/info/68c81c2a95f5211cd2ce18b1?utm_campaign=1055&utm_source=git)** | Davidson, NC | Hybrid | Sep 12 |
-| **[Protiviti](http://www.protiviti.com)** | **[Minneapolis Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68c50e90c96a22563ece6ca7?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 12 |
-| **[Inspire](https://inspirebrands.com)** | **[Enterprise Risk & Internal Audit Internship - Summer 2026](https://jobright.ai/jobs/info/68c4fb74c96a22563ece5767?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Sep 12 |
-| **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/6862e89fbea298b4eb60a0d4?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 12 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Mount Laurel, NJ CLC](https://jobright.ai/jobs/info/68a766ffd627244576e2be34?utm_campaign=1055&utm_source=git)** | Mount Laurel, NJ | Hybrid | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
