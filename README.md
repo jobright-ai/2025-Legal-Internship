@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad0cc8d627244576e4ae5c?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Sep 16 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acee46daf1431824c99272?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Sep 16 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acef74daf1431824c9935a?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Sep 16 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad092d758f2e4ac300a737?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 16 |
 | **[TruStage](https://www.trustage.com/)** | **[Legal Compliance Intern (Hybrid)](https://jobright.ai/jobs/info/68c9078df9c6ff7aedf16a5d?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Sep 15 |
 | **[Federal Public Defender, Central District of California](https://fpdcdca.org)** | **[Post-Bar Fellowship - Santa Ana](https://jobright.ai/jobs/info/68c904eef9c6ff7aedf1657a?utm_campaign=1055&utm_source=git)** | Santa Ana, CA | On Site | Sep 15 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[SkillBridge, Internal Investigations Analyst (Remote)](https://jobright.ai/jobs/info/68c8cc9895f5211cd2ce97d0?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 15 |
@@ -75,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[2026 Summer Legal Internship](https://jobright.ai/jobs/info/68c88eba95f5211cd2ce67f1?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 15 |
 | ↳ | **[2026 Arthur D. Hellman Fellowship](https://jobright.ai/jobs/info/68c888c2983e6768bc54e832?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 15 |
 | **[Community Bank, N.A.](https://cbna.com/locations/naples)** | **[Legal Processing Intern](https://jobright.ai/jobs/info/68c869c9983e6768bc54d132?utm_campaign=1055&utm_source=git)** | Canton, New York | On Site | Sep 15 |
-| **[Chinitz Law LLC](http://www.chinitzlawllc.com)** | **[Fall 2025 Law Clerk](https://jobright.ai/jobs/info/68c869b7983e6768bc54d117?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | Remote | Sep 15 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Regulatory Science Intern - Product Safety and Compliance (May 2026-May 2027)](https://jobright.ai/jobs/info/68c8f09cf9c6ff7aedf14fa8?utm_campaign=1055&utm_source=git)** | Wickliffe, OH | Hybrid | Sep 15 |
 | **[Barclays Investment Bank](https://www.investmentbank.barclays.com)** | **[Compliance Analyst Summer Internship Program 2026 New York City](https://jobright.ai/jobs/info/68c861ca983e6768bc54c528?utm_campaign=1055&utm_source=git)** | 745 7th Avenue, New York | On Site | Sep 15 |
 | **[ACLU of North Carolina](https://www.acluofnorthcarolina.org)** | **[ACLU-NC Legal Summer Intern](https://jobright.ai/jobs/info/68c861ac983e6768bc54c4eb?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Sep 15 |
@@ -84,8 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Environmental Law Alliance Worldwide](https://www.elaw.org)** | **[Defending Defenders Law Intern – 2026](https://jobright.ai/jobs/info/68c8614a95f5211cd2ce42f5?utm_campaign=1055&utm_source=git)** | Eugene, Oregon, United States | Hybrid | Sep 15 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern - Financial Crime Systems](https://jobright.ai/jobs/info/68c860eff9c6ff7aedf0d646?utm_campaign=1055&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Sep 15 |
 | **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/68c860c5f9c6ff7aedf0d5f9?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Sep 15 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[NY Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68c8fd75f9c6ff7aedf15e8d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 15 |
-| ↳ | **[Norfolk, VA  Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68c8fce6f9c6ff7aedf15dc7?utm_campaign=1055&utm_source=git)** | Norfolk, VA | On Site | Sep 15 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Claims Intern (Rochester)](https://jobright.ai/jobs/info/68c85c9df9c6ff7aedf0d538?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Sep 15 |
 | **[South Jersey Industries](https://www.sjindustries.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68c85c3f983e6768bc54c1a4?utm_campaign=1055&utm_source=git)** | Folsom, NJ | Hybrid | Sep 15 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Claims Intern (Lexington, KY)](https://jobright.ai/jobs/info/68c85c1ff9c6ff7aedf0d4b4?utm_campaign=1055&utm_source=git)** | Lexington, KY | On Site | Sep 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[Arthur D. Hellman Fellowship](https://jobright.ai/jobs/info/68c489b7e471ef3ce16d744d?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 12 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Regulatory Portfolio Management Internship](https://jobright.ai/jobs/info/68c47babe471ef3ce16d6a35?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Sep 12 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Regulatory Exam Lifecycle Management, Global Risk & Compliance - New York, NY](https://jobright.ai/jobs/info/68c88a23f9c6ff7aedf0ffe4?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 12 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/68c475e0e396b25cb5c6843a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
