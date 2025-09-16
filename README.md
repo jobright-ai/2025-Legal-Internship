@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pantex Plant](https://www.pantex.com)** | **[Student Intern - Cyber Policy & Authorizations](https://jobright.ai/jobs/info/68c984ef95f5211cd2cf132a?utm_campaign=1055&utm_source=git)** | Amarillo, TX | On Site | Sep 16 |
+| **[BNY](https://www.bny.com)** | **[2026 BNY Analyst Program - Risk & Compliance (Pittsburgh, PA)](https://jobright.ai/jobs/info/68c97a78a0c52d598ea37cf0?utm_campaign=1055&utm_source=git)** | 500 Grant Street, Pittsburgh, PA, 15258, US | On Site | Sep 16 |
+| ↳ | **[2026 BNY Analyst Program - Risk & Compliance (New York, NY)](https://jobright.ai/jobs/info/68c97a51a0c52d598ea37cdd?utm_campaign=1055&utm_source=git)** | 240 Greenwich Street, New York, NY, 10286, US | On Site | Sep 16 |
 | **[Middlesex County, NJ - County Government](http://www.middlesexcountynj.gov)** | **[Legal Internship - Middlesex County Prosecutor's Office - Summer 2026](https://jobright.ai/jobs/info/68c969a6a0c52d598ea373a2?utm_campaign=1055&utm_source=git)** | US-NJ-New Brunswick | On Site | Sep 16 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Risk Management](https://jobright.ai/jobs/info/68c96392a0c52d598ea36fce?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Sep 16 |
 | **[Barclays](https://home.barclays)** | **[Compliance Analyst Summer Internship Program 2026 Whippany](https://jobright.ai/jobs/info/68c95d89f9c6ff7aedf19246?utm_campaign=1055&utm_source=git)** | Whippany, NJ | On Site | Sep 16 |
 | ↳ | **[Compliance Analyst Summer Internship Program 2026 New York City](https://jobright.ai/jobs/info/68c95d6095f5211cd2cefc1a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 16 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/68c9550995f5211cd2cefafc?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Sep 16 |
+| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Safety](https://jobright.ai/jobs/info/68aced9fdaf1431824c991e7?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Sep 16 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad0cc8d627244576e4ae5c?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Sep 16 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acee46daf1431824c99272?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Sep 16 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acef74daf1431824c9935a?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Sep 16 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Legal Services Intern](https://jobright.ai/jobs/info/68c5d8b17d0db4114273527b?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Sep 12 |
 | **[ACLU](https://www.aclu.org/)** | **[ACLU-NBLSA Southern Legal Internship](https://jobright.ai/jobs/info/68c79976c96a22563ecf2e64?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Sep 12 |
 | **[CBIZ](http://www.cbiz.com)** | **[Risk Advisory Intern / Summer 2026 / Cyber](https://jobright.ai/jobs/info/68c63dd17d0db41142737233?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Sep 12 |
-| **[Acadia Realty Trust](http://www.acadiarealty.com/)** | **[Corporate Responsibility Intern](https://jobright.ai/jobs/info/68c8e2a2983e6768bc552d1c?utm_campaign=1055&utm_source=git)** | Rye, NY | On Site | Sep 12 |
 | **[Panasonic Energy Corporation of North America](https://na.panasonic.com/panasonic-energy)** | **[Intern - Trade Compliance](https://jobright.ai/jobs/info/68c4dfccc96a22563ece30c7?utm_campaign=1055&utm_source=git)** | Bridgeton, Missouri | On Site | Sep 12 |
 | **[Hussmann](http://www.hussmann.com)** | **[Intern - Trade Compliance](https://jobright.ai/jobs/info/68c4d7337279451d6a0381f6?utm_campaign=1055&utm_source=git)** | Bridgeton, MO | On Site | Sep 12 |
-| **[Ameritas](http://www.ameritas.com)** | **[Legal Intern - Financial Planning](https://jobright.ai/jobs/info/68c4d180fce86561b928992d?utm_campaign=1055&utm_source=git)** | Lincoln, NE | Hybrid | Sep 12 |
-| **[Moody's Corporation](http://www.moodys.com)** | **[Compliance Internship](https://jobright.ai/jobs/info/68c4acd931e5763f188e28af?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 12 |
-| **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Global Corporate and Healthcare Compliance](https://jobright.ai/jobs/info/68c4ac94fce86561b9288475?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Hybrid | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
