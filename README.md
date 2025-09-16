@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TruStage](https://www.trustage.com/)** | **[Legal Compliance Intern (Hybrid)](https://jobright.ai/jobs/info/68c9078df9c6ff7aedf16a5d?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Sep 15 |
+| **[Federal Public Defender, Central District of California](https://fpdcdca.org)** | **[Post-Bar Fellowship - Santa Ana](https://jobright.ai/jobs/info/68c904eef9c6ff7aedf1657a?utm_campaign=1055&utm_source=git)** | Santa Ana, CA | On Site | Sep 15 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[SkillBridge, Internal Investigations Analyst (Remote)](https://jobright.ai/jobs/info/68c8cc9895f5211cd2ce97d0?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 15 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2025](https://jobright.ai/jobs/info/68c8ca2df9c6ff7aedf12a85?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Sep 15 |
 | **[TruStage](https://www.trustage.com/)** | **[Legal Compliance Intern (Hybrid)](https://jobright.ai/jobs/info/68c8c00ff9c6ff7aedf12413?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Sep 15 |
@@ -67,8 +69,6 @@ For a complete list, click the following sortable link below:
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Legal Intern (Part Time)](https://jobright.ai/jobs/info/68c8b15195f5211cd2ce8308?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Sep 15 |
 | **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/68c8ae17983e6768bc5501dd?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Sep 15 |
 | **[Community Bank, N.A.](https://cbna.com/locations/naples)** | **[Legal Processing Intern](https://jobright.ai/jobs/info/68c89beaf9c6ff7aedf10d52?utm_campaign=1055&utm_source=git)** | Canton, NY | On Site | Sep 15 |
-| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Certified Criminal Law Clerk](https://jobright.ai/jobs/info/68c88f68983e6768bc54f16b?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Sep 15 |
-| ↳ | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/68c8b84cf9c6ff7aedf11e74?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Sep 15 |
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[Regulatory Affairs Co-Op](https://jobright.ai/jobs/info/68c885c8f9c6ff7aedf0f9a1?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Sep 15 |
 | **[Longroad Energy](https://www.longroadenergy.com)** | **[Legal Intern (Hybrid)](https://jobright.ai/jobs/info/68c87a4595f5211cd2ce58cb?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Sep 15 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[LEGAL FELLOW (UNCLASSIFIED)](https://jobright.ai/jobs/info/68c86e8395f5211cd2ce5302?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 15 |
@@ -84,6 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Environmental Law Alliance Worldwide](https://www.elaw.org)** | **[Defending Defenders Law Intern – 2026](https://jobright.ai/jobs/info/68c8614a95f5211cd2ce42f5?utm_campaign=1055&utm_source=git)** | Eugene, Oregon, United States | Hybrid | Sep 15 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern - Financial Crime Systems](https://jobright.ai/jobs/info/68c860eff9c6ff7aedf0d646?utm_campaign=1055&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Sep 15 |
 | **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/68c860c5f9c6ff7aedf0d5f9?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Sep 15 |
+| **[Harbor Group Management Company](http://harborgroupint.com)** | **[NY Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68c8fd75f9c6ff7aedf15e8d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 15 |
+| ↳ | **[Norfolk, VA  Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68c8fce6f9c6ff7aedf15dc7?utm_campaign=1055&utm_source=git)** | Norfolk, VA | On Site | Sep 15 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Claims Intern (Rochester)](https://jobright.ai/jobs/info/68c85c9df9c6ff7aedf0d538?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Sep 15 |
 | **[South Jersey Industries](https://www.sjindustries.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68c85c3f983e6768bc54c1a4?utm_campaign=1055&utm_source=git)** | Folsom, NJ | Hybrid | Sep 15 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Claims Intern (Lexington, KY)](https://jobright.ai/jobs/info/68c85c1ff9c6ff7aedf0d4b4?utm_campaign=1055&utm_source=git)** | Lexington, KY | On Site | Sep 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/68c475e0e396b25cb5c6843a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 12 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Consumer Protection (Summer)](https://jobright.ai/jobs/info/68c46af714bb275ce0193185?utm_campaign=1055&utm_source=git)** | Pierre, SD | On Site | Sep 12 |
 | ↳ | **[Intern - Paralegal (Summer)](https://jobright.ai/jobs/info/68c46872e396b25cb5c67938?utm_campaign=1055&utm_source=git)** | Rapid City, SD | On Site | Sep 12 |
-| **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Subrogation Claims Internship - Summer 2026](https://jobright.ai/jobs/info/68c45dcce471ef3ce16d5740?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Sep 12 |
-| ↳ | **[Subrogation Claims Internship - Summer 2026](https://jobright.ai/jobs/info/68c4593ce396b25cb5c672ef?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
