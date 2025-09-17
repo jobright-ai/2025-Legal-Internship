@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CAI](http://www.compaid.com)** | **[Contract Coordinator Intern](https://jobright.ai/jobs/info/68caf451efdec76df36b7017?utm_campaign=1055&utm_source=git)** | PA-CLIENT-STATE | Remote | Sep 17 |
+| **[BeiGene](https://www.beigene.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/68cae5e99e3a822f5d23ff2a?utm_campaign=1055&utm_source=git)** | Remote (US) | Remote | Sep 17 |
+| **[Danaher Corporation](https://www.danaher.com/)** | **[Regulatory Affairs Intern - Miami, Florida](https://jobright.ai/jobs/info/68caec9dd905e25191d9d696?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Sep 17 |
+| ↳ | **[Global Regulatory and Compliance In Semester Graduate Intern](https://jobright.ai/jobs/info/68caec259e3a822f5d2403c1?utm_campaign=1055&utm_source=git)** | Marlborough, MA | On Site | Sep 17 |
+| ↳ | **[IT Compliance & Audit Intern](https://jobright.ai/jobs/info/68caed87d905e25191d9d7c0?utm_campaign=1055&utm_source=git)** | Brea, CA | On Site | Sep 17 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Bachelor Apprenticeship Program - Claims Fraud Investigation - Schaumburg (January 2026)](https://jobright.ai/jobs/info/68caa56f9e3a822f5d23e370?utm_campaign=1055&utm_source=git)** | Illinois, United States | Hybrid | Sep 17 |
 | ↳ | **[Bachelor Apprenticeship Program - Claims Fraud Investigation - Schaumburg (January 2026)](https://jobright.ai/jobs/info/68ca9fd09e3a822f5d23e2a7?utm_campaign=1055&utm_source=git)** | Overland Park, KS | Hybrid | Sep 17 |
 | ↳ | **[Bachelor Apprenticeship Program - Claims Fraud Investigation - Schaumburg (January 2026)](https://jobright.ai/jobs/info/68ca9de7efdec76df36b4a65?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | Hybrid | Sep 17 |
@@ -105,7 +110,10 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: ESG Legal Intern (May to August)](https://jobright.ai/jobs/info/68c992aca0c52d598ea3899c?utm_campaign=1055&utm_source=git)** | Needham, MA, United States | On Site | Sep 16 |
 | **[Glendale Fire Department](http://www.glendalefire.gov)** | **[2026 Summer Legal Internship](https://jobright.ai/jobs/info/68c99286a0c52d598ea38903?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 16 |
 | **[Lederer & Nojima, LLP](http://lntlb.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68c991efa0c52d598ea387e1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Sep 16 |
+| **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/68c8ca2df9c6ff7aedf12a85?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Sep 16 |
+| **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad0c75daf1431824c9a247?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 16 |
 | **[Pantex Plant](https://www.pantex.com)** | **[Student Intern - Cyber Policy & Authorizations](https://jobright.ai/jobs/info/68ca31e1d4187c55157a7a10?utm_campaign=1055&utm_source=git)** | Amarillo, TX | On Site | Sep 16 |
+| **[Crowe](https://www.crowe.com/)** | **[Third Party Risk Intern](https://jobright.ai/jobs/info/68c8e09a95f5211cd2cea7d9?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 16 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Analyst Program - Risk & Compliance (Pittsburgh, PA)](https://jobright.ai/jobs/info/68c97a78a0c52d598ea37cf0?utm_campaign=1055&utm_source=git)** | 500 Grant Street, Pittsburgh, PA, 15258, US | On Site | Sep 16 |
 | ↳ | **[2026 BNY Analyst Program - Risk & Compliance (New York, NY)](https://jobright.ai/jobs/info/68c97a51a0c52d598ea37cdd?utm_campaign=1055&utm_source=git)** | 240 Greenwich Street, New York, NY, 10286, US | On Site | Sep 16 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[E&S Property Underwriting Summer Intern](https://jobright.ai/jobs/info/68ca536f06a34016008c6e36?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | On Site | Sep 16 |
@@ -130,8 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68c1e4a43fd8b059a20f3bee?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Sep 16 |
 | **[Federal Public Defender, Central District of California](https://fpdcdca.org)** | **[Post-Bar Fellowship - Santa Ana](https://jobright.ai/jobs/info/68c904eef9c6ff7aedf1657a?utm_campaign=1055&utm_source=git)** | Santa Ana, CA | On Site | Sep 15 |
 | **[TruStage](https://www.trustage.com/)** | **[Legal Compliance Intern (Hybrid)](https://jobright.ai/jobs/info/68c9d234f9c6ff7aedf1e258?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Sep 15 |
-| **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2025](https://jobright.ai/jobs/info/68c8ca2df9c6ff7aedf12a85?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Sep 15 |
-| **[TruStage](https://www.trustage.com/)** | **[Legal Compliance Intern (Hybrid)](https://jobright.ai/jobs/info/68c8c00ff9c6ff7aedf12413?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Sep 15 |
+| ↳ | **[Legal Compliance Intern (Hybrid)](https://jobright.ai/jobs/info/68c8c00ff9c6ff7aedf12413?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Sep 15 |
 | **[Duquesne Light Company](https://www.duquesnelight.com/)** | **[2026 Summer Internship - NERC Compliance](https://jobright.ai/jobs/info/68c8bfab95f5211cd2ce8ecb?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 15 |
 | **[Philips](https://www.usa.philips.com)** | **[Intern - Regulatory Affairs - Colorado Springs, CO - Summer 2026](https://jobright.ai/jobs/info/68c8b636f9c6ff7aedf11bfc?utm_campaign=1055&utm_source=git)** | Colorado Springs | On Site | Sep 15 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2025](https://jobright.ai/jobs/info/68c8b590f9c6ff7aedf11aa8?utm_campaign=1055&utm_source=git)** | San Diego California | On Site | Sep 15 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern - Operational Risk Services](https://jobright.ai/jobs/info/68c861a195f5211cd2ce441f?utm_campaign=1055&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Sep 15 |
 | **[Barclays Investment Bank](https://www.investmentbank.barclays.com)** | **[Compliance Analyst Summer Internship Program 2026 Whippany](https://jobright.ai/jobs/info/68c8618df9c6ff7aedf0d749?utm_campaign=1055&utm_source=git)** | Building 400-115 South Jefferson Rd Campus, Whippany | On Site | Sep 15 |
 | **[Environmental Law Alliance Worldwide](https://www.elaw.org)** | **[Defending Defenders Law Intern – 2026](https://jobright.ai/jobs/info/68c8614a95f5211cd2ce42f5?utm_campaign=1055&utm_source=git)** | Eugene, Oregon, United States | Hybrid | Sep 15 |
-| **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern - Financial Crime Systems](https://jobright.ai/jobs/info/68c860eff9c6ff7aedf0d646?utm_campaign=1055&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Sep 15 |
-| **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/68c860c5f9c6ff7aedf0d5f9?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Sep 15 |
-| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Claims Intern (Rochester)](https://jobright.ai/jobs/info/68c85c9df9c6ff7aedf0d538?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Sep 15 |
-| **[Manhattan Institute](https://www.manhattan.institute)** | **[Law School Associate Program](https://jobright.ai/jobs/info/68c66ac8db52c07d288485f3?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Sep 15 |
-| **[South Jersey Industries](https://www.sjindustries.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68c85c3f983e6768bc54c1a4?utm_campaign=1055&utm_source=git)** | Folsom, NJ | Hybrid | Sep 15 |
-| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Claims Intern (Lexington, KY)](https://jobright.ai/jobs/info/68c85c1ff9c6ff7aedf0d4b4?utm_campaign=1055&utm_source=git)** | Lexington, KY | On Site | Sep 15 |
-| ↳ | **[Claims Intern (Erie)](https://jobright.ai/jobs/info/68c85c1ef9c6ff7aedf0d4b2?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
