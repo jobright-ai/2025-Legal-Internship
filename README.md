@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Summit, NJ CLC](https://jobright.ai/jobs/info/68ca6b795f9f0336447dd850?utm_campaign=1055&utm_source=git)** | Summit, NJ | Hybrid | Sep 17 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: ESG Legal Intern (May to August)](https://jobright.ai/jobs/info/68ca598546caff4db51fdd96?utm_campaign=1055&utm_source=git)** | Needham, MA | Hybrid | Sep 16 |
 | ↳ | **[Spring 2026: Legal Operations Intern (February to May)](https://jobright.ai/jobs/info/68ca52fd46caff4db51fd538?utm_campaign=1055&utm_source=git)** | Needham, MA | On Site | Sep 16 |
 | **[Moss Adams](http://www.mossadams.com)** | **[Compliance Internal Audit Intern - 2026](https://jobright.ai/jobs/info/68ca3e27f61c922772a758b8?utm_campaign=1055&utm_source=git)** | Seattle, WAOther Locations | Hybrid | Sep 16 |
@@ -88,6 +89,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Opportunities - Summer 2026 - Youth Advocacy Division - Statewide](https://jobright.ai/jobs/info/68c9bd64f9c6ff7aedf1d0ab?utm_campaign=1055&utm_source=git)** | US-MA-Boston | On Site | Sep 16 |
 | **[Campaign for the Fair Sentencing of Youth](http://cfsy.org/hire-ican)** | **[General Intern](https://jobright.ai/jobs/info/68c9bb22a0c52d598ea3a825?utm_campaign=1055&utm_source=git)** | United States | On Site | Sep 16 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Analyst Program - Risk & Compliance (Lake Mary, FL)](https://jobright.ai/jobs/info/68c9b21b95f5211cd2cf2fc7?utm_campaign=1055&utm_source=git)** | Lake Mary, FL | On Site | Sep 16 |
+| ↳ | **[2026 BNY Analyst Program - Risk & Compliance (Pittsburgh, PA)](https://jobright.ai/jobs/info/68ca74735f9f0336447dde45?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Sep 16 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Contracts Administrator Associate (Intern)](https://jobright.ai/jobs/info/68c9b1b7f9c6ff7aedf1c687?utm_campaign=1055&utm_source=git)** | USA VA Herndon | Hybrid | Sep 16 |
 | **[Kisling, Nestico & Redick, LLC (KNR)](http://knrlegal.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68c9a4e495f5211cd2cf259d?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Sep 16 |
 | **[States United Democracy Center](https://statesuniteddemocracy.org/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/68c9a1d5f9c6ff7aedf1bcbb?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Sep 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Claims Intern (Charlotte)](https://jobright.ai/jobs/info/68c85be4983e6768bc54c148?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Sep 15 |
 | **[South Jersey Industries](https://www.sjindustries.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68c852dd983e6768bc54bb71?utm_campaign=1055&utm_source=git)** | Folsom, NJ | Hybrid | Sep 15 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[IP, Expert Testimony Internship - Summer 2026 (Ocean Tomo, a part of J.S. Held)](https://jobright.ai/jobs/info/68c85089983e6768bc54ba72?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 15 |
-| ↳ | **[Intellectual Property, Advisory Internship - Summer 2026 (Ocean Tomo, a part of J.S. Held)](https://jobright.ai/jobs/info/68c8500b95f5211cd2ce36f2?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 15 |
-| **[Watts Water Technologies](https://www.watts.com)** | **[Trade Compliance Analyst Co-Op](https://jobright.ai/jobs/info/68c843cb983e6768bc54b427?utm_campaign=1055&utm_source=git)** | North Andover, MA | Hybrid | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
