@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/68cd6db1b2a74e1837ed6c18?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Sep 19 |
 | **[Mentor A Promise](https://mentorapromise.org/)** | **[Legal Assistant (Volunteer)](https://jobright.ai/jobs/info/68cd29bae23def7af55b6427?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 19 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Operational Alignment & Compliance (Summer 2026)](https://jobright.ai/jobs/info/68ccffa1d11b445e0bee5dcf?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
 | **[DP World](https://www.dpworld.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/68ccf5145954791a1d7019dd?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Sep 18 |
@@ -87,7 +88,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Risk Group - Sophomore](https://jobright.ai/jobs/info/68cc6cce128dc347fd924bea?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 18 |
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Legal Intern (Public Defender's Department)](https://jobright.ai/jobs/info/68cc5389128dc347fd922b5a?utm_campaign=1055&utm_source=git)** | Reading, PA | On Site | Sep 18 |
 | **[Kem Krest](http://kemkrest.com)** | **[Logistics Intern - Trade & Compliance](https://jobright.ai/jobs/info/68cd219be23def7af55b5d67?utm_campaign=1055&utm_source=git)** | Carmel, IN | On Site | Sep 18 |
-| **[Athens Technical College](http://www.athenstech.edu/)** | **[Federal Work Study - Paralegal Studies Program - Clerical](https://jobright.ai/jobs/info/68ccfbe95954791a1d7022a4?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Sep 18 |
 | **[HNTB](http://www.hntb.com/)** | **[Procurement and Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68cc46427342c7623ae61f6d?utm_campaign=1055&utm_source=git)** | Bellevue, WA (Seattle) | On Site | Sep 18 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Trade Compliance Intern (Greenville, TX)](https://jobright.ai/jobs/info/68cc819b16d00d2beeb20bad?utm_campaign=1055&utm_source=git)** | Greenville, TX | On Site | Sep 18 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Opportunities - Summer 2026 - Private Counsel Division & Specialty Units - Statewide](https://jobright.ai/jobs/info/68cc40b27342c7623ae61a7c?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 18 |
@@ -135,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[SunOpta](https://www.sunopta.com/)** | **[Regulatory and Label Intern - Summer 2026](https://jobright.ai/jobs/info/68cbe192ba798c1a501d5c95?utm_campaign=1055&utm_source=git)** | Eden Prairie, MN | On Site | Sep 17 |
 | **[CAI](http://www.compaid.com)** | **[Contract Coordinator Intern](https://jobright.ai/jobs/info/68caf451efdec76df36b7017?utm_campaign=1055&utm_source=git)** | PA-CLIENT-STATE | Remote | Sep 17 |
 | **[BeiGene](https://www.beigene.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/68cae5e99e3a822f5d23ff2a?utm_campaign=1055&utm_source=git)** | Remote (US) | Remote | Sep 17 |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Associate - Summer 2026](https://jobright.ai/jobs/info/68cd672fe23def7af55b97b6?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Sep 17 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[E&S Property Underwriting Summer Intern](https://jobright.ai/jobs/info/68cd51d71ad6b16f02897b92?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | On Site | Sep 17 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Bachelor Apprenticeship Program - Claims Fraud Investigation - Schaumburg (January 2026)](https://jobright.ai/jobs/info/68ca9de7efdec76df36b4a65?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | Hybrid | Sep 17 |
 | **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[Legal Processing Intern](https://jobright.ai/jobs/info/68cd395fe23def7af55b6e35?utm_campaign=1055&utm_source=git)** | Canton, NY | On Site | Sep 17 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[State of Florida](http://www.myflorida.com)** | **[68900256 - OPS ATTORNEY](https://jobright.ai/jobs/info/68cce9d15954791a1d7011ee?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Sep 16 |
 | **[States United Democracy Center](https://statesuniteddemocracy.org/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/68ccfbcf77add66568abd089?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Sep 16 |
 | **[Barclays](https://home.barclays)** | **[Compliance Analyst Summer Internship Program 2026 Whippany](https://jobright.ai/jobs/info/68ccf66877add66568abcb95?utm_campaign=1055&utm_source=git)** | Whippany, NJ | On Site | Sep 16 |
-| **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern - Operational Risk Services](https://jobright.ai/jobs/info/68cceefcd11b445e0bee480c?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Sep 16 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Opportunities - Summer 2026 - Children and Family Law Division - Statewide](https://jobright.ai/jobs/info/68ca3724f61c922772a75070?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
