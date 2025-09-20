@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[San Diego County Regional Airport Authority](http://www.san.org)** | **[Law Clerk - Intern (Part Time)](https://jobright.ai/jobs/info/68ce255fb2a74e1837edfd9b?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Sep 19 |
 | **[Organic Valley](https://www.organicvalley.coop)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/68ce07831ad6b16f028a14b9?utm_campaign=1055&utm_source=git)** | Cashton, WI | Hybrid | Sep 19 |
 | **[Universal Creative](https://jobs.universalparks.com/universal-creative/)** | **[Internship, Universal Creative – Global Compliance (Summer 2026)](https://jobright.ai/jobs/info/68cdf2b51ad6b16f028a027b?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Claims Intern (Warrendale, PA)](https://jobright.ai/jobs/info/68cdefffb2a74e1837edd869?utm_campaign=1055&utm_source=git)** | Warrendale, PA | On Site | Sep 19 |
@@ -86,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Surety Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd8ea81ad6b16f0289b5ce?utm_campaign=1055&utm_source=git)** | One Park Circle, Westfield Center, OH, 44251-5001, US | Hybrid | Sep 19 |
 | **[M&T Bank](https://www3.mtb.com/)** | **[2026 Corporate Summer Internship Program - Legal Management & Support Services](https://jobright.ai/jobs/info/68cd880e1ad6b16f0289ae04?utm_campaign=1055&utm_source=git)** | Getzville, NY | Hybrid | Sep 19 |
 | **[HDR](http://www.hdrinc.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/68cd6db1b2a74e1837ed6c18?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Sep 19 |
+| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Post-Doctoral Regulatory Affairs Fellow - Policy and Intelligence](https://jobright.ai/jobs/info/68b1aa1af4e41a61efd7ed2c?utm_campaign=1055&utm_source=git)** | Ridgefield, CT | On Site | Sep 19 |
 | **[Koch](https://www.kochinc.com)** | **[Legal & Compliance Rotational Internship – Summer 2026](https://jobright.ai/jobs/info/68b0c694b47fb001d6895503?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Sep 19 |
 | **[LyondellBasell](http://lyondellbasell.com)** | **[2026 Business Resilience & Global Security Intern](https://jobright.ai/jobs/info/68cd11a9e23def7af55b4af3?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Sep 19 |
 | **[Mentor A Promise](https://mentorapromise.org/)** | **[Legal Assistant (Volunteer)](https://jobright.ai/jobs/info/68cd29bae23def7af55b6427?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 19 |
@@ -117,7 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Intern - Legal & Compliance - Sophomore](https://jobright.ai/jobs/info/68cc6cf0128dc347fd924c48?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 18 |
 | ↳ | **[2026 Summer Intern - Risk Group - Sophomore](https://jobright.ai/jobs/info/68cc6cce128dc347fd924bea?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 18 |
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Legal Intern (Public Defender's Department)](https://jobright.ai/jobs/info/68cc5389128dc347fd922b5a?utm_campaign=1055&utm_source=git)** | Reading, PA | On Site | Sep 18 |
-| **[HNTB](http://www.hntb.com/)** | **[Procurement and Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68cc45dd16d00d2beeb1ca75?utm_campaign=1055&utm_source=git)** | Bellevue, WA (Seattle) | On Site | Sep 18 |
+| **[HNTB](http://www.hntb.com/)** | **[Procurement and Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68cc46427342c7623ae61f6d?utm_campaign=1055&utm_source=git)** | Bellevue, WA (Seattle) | On Site | Sep 18 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Trade Compliance Intern (Greenville, TX)](https://jobright.ai/jobs/info/68cc819b16d00d2beeb20bad?utm_campaign=1055&utm_source=git)** | Greenville, TX | On Site | Sep 18 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Opportunities - Summer 2026 - Private Counsel Division & Specialty Units - Statewide](https://jobright.ai/jobs/info/68cc40b27342c7623ae61a7c?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 18 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68cc408f7342c7623ae61a38?utm_campaign=1055&utm_source=git)** | Paducah, KY | On Site | Sep 18 |
@@ -144,17 +146,15 @@ For a complete list, click the following sortable link below:
 | **[State of Florida](http://www.myflorida.com)** | **[REGULATORY SPECIALIST II-SES - 42004020 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/68cc514d7342c7623ae62831?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Sep 17 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Summer Intern JD Rising 2L (Intern) United States](https://jobright.ai/jobs/info/68cc6ec17342c7623ae64bcb?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Sep 17 |
 | **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Denver, CO](https://jobright.ai/jobs/info/68cb45539e3a822f5d244570?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Sep 17 |
-| **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- Claims (Complex/Claims Legal/Coverage)](https://jobright.ai/jobs/info/68cb3f76ba798c1a501cd982?utm_campaign=1055&utm_source=git)** | Iowa- Work From Home | Remote | Sep 17 |
+| **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- Claims (Complex/Claims Legal/Coverage)](https://jobright.ai/jobs/info/68cb41479e3a822f5d2442e0?utm_campaign=1055&utm_source=git)** | Iowa- Work From Home | Remote | Sep 17 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Law Clerk Intern - National Taxpayers Union Foundation](https://jobright.ai/jobs/info/68cb3ed59e3a822f5d24423a?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Sep 17 |
 | **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Pittsburgh, PA](https://jobright.ai/jobs/info/68cb3942efdec76df36ba585?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Sep 17 |
 | ↳ | **[Summer Associate 2026 - St. Louis, MO](https://jobright.ai/jobs/info/68cbafc9efdec76df36c105a?utm_campaign=1055&utm_source=git)** | Town & Country, MO | On Site | Sep 17 |
 | ↳ | **[Summer Associate 2026 - Tampa, FL](https://jobright.ai/jobs/info/68cb59d1efdec76df36bb8f3?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Sep 17 |
-| ↳ | **[Summer Associate 2026 - Dallas, TX](https://jobright.ai/jobs/info/68cb821fba798c1a501d0d45?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Sep 17 |
 | ↳ | **[Summer Associate 2026 - Minneapolis/St. Paul, MN (Edina)](https://jobright.ai/jobs/info/68cb9d6eba798c1a501d2db1?utm_campaign=1055&utm_source=git)** | Minneapolis/St. Paul/Edina, MN | On Site | Sep 17 |
+| ↳ | **[Summer Associate 2026 - Dallas, TX](https://jobright.ai/jobs/info/68cb821fba798c1a501d0d45?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Sep 17 |
 | **[Houseman & Feind LLP](http://housemanlaw.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68cc1a6b16d00d2beeb19e02?utm_campaign=1055&utm_source=git)** | Grafton, WI | On Site | Sep 17 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68cb2761ba798c1a501cc653?utm_campaign=1055&utm_source=git)** | Sparks, NV | On Site | Sep 17 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Compliance Analyst Internship - Vendor Risk Specialization](https://jobright.ai/jobs/info/68cb2264ba798c1a501cc3ab?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 17 |
 | **[Traub Lieberman Straus & Shrewsberry LLP](http://traublieberman.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68cc2140128dc347fd91f7f0?utm_campaign=1055&utm_source=git)** | Hawthorne, NY | On Site | Sep 17 |
-| **[SunOpta](https://www.sunopta.com/)** | **[Regulatory and Label Intern - Summer 2026](https://jobright.ai/jobs/info/68cbd75defdec76df36c29c1?utm_campaign=1055&utm_source=git)** | Eden Prairie Office, 7078 Shady Oak Road, Eden Prairie, Minnesota, United States of America | On Site | Sep 17 |
-| **[BeOne Medicines](https://beonemedicines.com/)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/68cc23d3128dc347fd91fc0a?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
