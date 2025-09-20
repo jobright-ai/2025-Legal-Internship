@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[QBE North America](https://www.qbe.com/us)** | **[Enterprise Risk Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68cdbb251ad6b16f0289e5f8?utm_campaign=1055&utm_source=git)** | Sun Prairie Town, WI | On Site | Sep 19 |
+| **[Cohen Law Group](https://itsaboutjustice.law/)** | **[Legal Intern](https://jobright.ai/jobs/info/68cde41c1ad6b16f0289fb1c?utm_campaign=1055&utm_source=git)** | Maitland, FL | On Site | Sep 19 |
+| **[MACOM](https://www.macom.com/)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/68cddffde23def7af55bfe2a?utm_campaign=1055&utm_source=git)** | Lowell, MA | On Site | Sep 19 |
+| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Cybersecurity Compliance Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68cddb0bb2a74e1837edcde5?utm_campaign=1055&utm_source=git)** | Sparks, NV | On Site | Sep 19 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68cdbae41ad6b16f0289e5b2?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Sep 19 |
 | **[Penn State University](http://psu.edu)** | **[Geography ADA Compliance Assistant](https://jobright.ai/jobs/info/68cdbaadb2a74e1837edbba6?utm_campaign=1055&utm_source=git)** | University Park, PA | On Site | Sep 19 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68cdb97bb2a74e1837edba25?utm_campaign=1055&utm_source=git)** | Glasgow, KY | On Site | Sep 19 |
@@ -109,7 +111,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Risk Group - Sophomore](https://jobright.ai/jobs/info/68cc6cce128dc347fd924bea?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 18 |
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Legal Intern (Public Defender's Department)](https://jobright.ai/jobs/info/68cc5389128dc347fd922b5a?utm_campaign=1055&utm_source=git)** | Reading, PA | On Site | Sep 18 |
 | **[Athens Technical College](http://www.athenstech.edu/)** | **[Federal Work Study - Paralegal Studies Program - Clerical](https://jobright.ai/jobs/info/68cdaa16b2a74e1837edac14?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Sep 18 |
-| **[HNTB](http://www.hntb.com/)** | **[Procurement and Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68cc45dd16d00d2beeb1ca75?utm_campaign=1055&utm_source=git)** | Bellevue, WA (Seattle) | On Site | Sep 18 |
+| **[HNTB](http://www.hntb.com/)** | **[Procurement and Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68cc46427342c7623ae61f6d?utm_campaign=1055&utm_source=git)** | Bellevue, WA (Seattle) | On Site | Sep 18 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Trade Compliance Intern (Greenville, TX)](https://jobright.ai/jobs/info/68cc819b16d00d2beeb20bad?utm_campaign=1055&utm_source=git)** | Greenville, TX | On Site | Sep 18 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Opportunities - Summer 2026 - Private Counsel Division & Specialty Units - Statewide](https://jobright.ai/jobs/info/68cc40b27342c7623ae61a7c?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 18 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68cc408f7342c7623ae61a38?utm_campaign=1055&utm_source=git)** | Paducah, KY | On Site | Sep 18 |
@@ -136,7 +138,7 @@ For a complete list, click the following sortable link below:
 | **[State of Florida](http://www.myflorida.com)** | **[REGULATORY SPECIALIST II-SES - 42004020 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/68cc514d7342c7623ae62831?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Sep 17 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Summer Intern JD Rising 2L (Intern) United States](https://jobright.ai/jobs/info/68cc6ec17342c7623ae64bcb?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Sep 17 |
 | **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Denver, CO](https://jobright.ai/jobs/info/68cb45539e3a822f5d244570?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Sep 17 |
-| **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- Claims (Complex/Claims Legal/Coverage)](https://jobright.ai/jobs/info/68cb41479e3a822f5d2442e0?utm_campaign=1055&utm_source=git)** | Iowa- Work From Home | Remote | Sep 17 |
+| **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- Claims (Complex/Claims Legal/Coverage)](https://jobright.ai/jobs/info/68cb3f76ba798c1a501cd982?utm_campaign=1055&utm_source=git)** | Iowa- Work From Home | Remote | Sep 17 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Law Clerk Intern - National Taxpayers Union Foundation](https://jobright.ai/jobs/info/68cb3ed59e3a822f5d24423a?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Sep 17 |
 | **[Cordell & Cordell](http://cordellcordell.com)** | **[Summer Associate 2026 - Pittsburgh, PA](https://jobright.ai/jobs/info/68cb3942efdec76df36ba585?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Sep 17 |
 | ↳ | **[Summer Associate 2026 - St. Louis, MO](https://jobright.ai/jobs/info/68cbafc9efdec76df36c105a?utm_campaign=1055&utm_source=git)** | Town & Country, MO | On Site | Sep 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Litigation Summer Legal Associate](https://jobright.ai/jobs/info/68cdbac1b2a74e1837edbbc7?utm_campaign=1055&utm_source=git)** | NYC Metro Area | On Site | Sep 17 |
 | **[CAI](http://www.compaid.com)** | **[Contract Coordinator Intern](https://jobright.ai/jobs/info/68caf451efdec76df36b7017?utm_campaign=1055&utm_source=git)** | PA-CLIENT-STATE | Remote | Sep 17 |
 | **[BeiGene](https://www.beigene.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/68cae5e99e3a822f5d23ff2a?utm_campaign=1055&utm_source=git)** | Remote (US) | Remote | Sep 17 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Associate - Summer 2026](https://jobright.ai/jobs/info/68cd672fe23def7af55b97b6?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Sep 17 |
-| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[E&S Property Underwriting Summer Intern](https://jobright.ai/jobs/info/68cd51d71ad6b16f02897b92?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
