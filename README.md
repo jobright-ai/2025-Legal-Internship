@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Cybersecurity Compliance Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ce4887dbd9fb154eddd8b8?utm_campaign=1055&utm_source=git)** | Sparks, NV | On Site | Sep 19 |
 | **[San Diego County Regional Airport Authority](http://www.san.org)** | **[Law Clerk - Intern (Part Time)](https://jobright.ai/jobs/info/68ce255fb2a74e1837edfd9b?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Sep 19 |
 | **[Organic Valley](https://www.organicvalley.coop)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/68ce07831ad6b16f028a14b9?utm_campaign=1055&utm_source=git)** | Cashton, WI | Hybrid | Sep 19 |
 | **[Universal Creative](https://jobs.universalparks.com/universal-creative/)** | **[Internship, Universal Creative – Global Compliance (Summer 2026)](https://jobright.ai/jobs/info/68cdf2b51ad6b16f028a027b?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Cohen Law Group](https://itsaboutjustice.law/)** | **[Legal Intern](https://jobright.ai/jobs/info/68cde41c1ad6b16f0289fb1c?utm_campaign=1055&utm_source=git)** | Maitland, FL | On Site | Sep 19 |
 | **[MACOM](https://www.macom.com/)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/68cddffde23def7af55bfe2a?utm_campaign=1055&utm_source=git)** | Lowell, MA | On Site | Sep 19 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Cybersecurity Compliance Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68cddb0bb2a74e1837edcde5?utm_campaign=1055&utm_source=git)** | Sparks, NV | On Site | Sep 19 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68cdbae41ad6b16f0289e5b2?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Sep 19 |
 | **[Penn State University](http://psu.edu)** | **[Geography ADA Compliance Assistant](https://jobright.ai/jobs/info/68cdbaadb2a74e1837edbba6?utm_campaign=1055&utm_source=git)** | University Park, PA | On Site | Sep 19 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68cdb97bb2a74e1837edba25?utm_campaign=1055&utm_source=git)** | Glasgow, KY | On Site | Sep 19 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/68cdb92e1ad6b16f0289e426?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Sep 19 |
@@ -89,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/68cd6db1b2a74e1837ed6c18?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Sep 19 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Post-Doctoral Regulatory Affairs Fellow - Policy and Intelligence](https://jobright.ai/jobs/info/68b1aa1af4e41a61efd7ed2c?utm_campaign=1055&utm_source=git)** | Ridgefield, CT | On Site | Sep 19 |
 | **[Koch](https://www.kochinc.com)** | **[Legal & Compliance Rotational Internship – Summer 2026](https://jobright.ai/jobs/info/68b0c694b47fb001d6895503?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Sep 19 |
+| ↳ | **[Legal & Compliance Rotational Internship – Summer 2026](https://jobright.ai/jobs/info/68b0c6fcb47fb001d6895549?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Sep 19 |
 | **[LyondellBasell](http://lyondellbasell.com)** | **[2026 Business Resilience & Global Security Intern](https://jobright.ai/jobs/info/68cd11a9e23def7af55b4af3?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Sep 19 |
 | **[Mentor A Promise](https://mentorapromise.org/)** | **[Legal Assistant (Volunteer)](https://jobright.ai/jobs/info/68cd29bae23def7af55b6427?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 19 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Operational Alignment & Compliance (Summer 2026)](https://jobright.ai/jobs/info/68ccffa1d11b445e0bee5dcf?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Houseman & Feind LLP](http://housemanlaw.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68cc1a6b16d00d2beeb19e02?utm_campaign=1055&utm_source=git)** | Grafton, WI | On Site | Sep 17 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68cb2761ba798c1a501cc653?utm_campaign=1055&utm_source=git)** | Sparks, NV | On Site | Sep 17 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Compliance Analyst Internship - Vendor Risk Specialization](https://jobright.ai/jobs/info/68cb2264ba798c1a501cc3ab?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 17 |
-| **[Traub Lieberman Straus & Shrewsberry LLP](http://traublieberman.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68cc2140128dc347fd91f7f0?utm_campaign=1055&utm_source=git)** | Hawthorne, NY | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
