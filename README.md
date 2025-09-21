@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comstock Companies](http://comstockcompanies.com/)** | **[Real Estate Law Internship](https://jobright.ai/jobs/info/68d01ca8846f0b04af687972?utm_campaign=1055&utm_source=git)** | Virginia, United States | On Site | Sep 21 |
 | **[Gehi & Associates](https://gehilaw.com/)** | **[JD candidate / Final year JD student](https://jobright.ai/jobs/info/68d0017adbd9fb154edeca78?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 21 |
 | **[Bessemer Trust](http://www.bessemertrust.com/)** | **[Client Advisory Intern](https://jobright.ai/jobs/info/68cfe764846f0b04af686018?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 21 |
 | ↳ | **[Client Advisory Intern](https://jobright.ai/jobs/info/68cfdf5cfb49c96ca6eac231?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 21 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68cce0aa5954791a1d700528?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 18 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68ccf71b77add66568abcd0a?utm_campaign=1055&utm_source=git)** | Sparks, NV | On Site | Sep 18 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Legal & Compliance Summer Intern - Mortgage Insurance](https://jobright.ai/jobs/info/68af6266962903596357c470?utm_campaign=1055&utm_source=git)** | Triad Area | Hybrid | Sep 18 |
+| **[Selective Insurance](https://www.selective.com/)** | **[Legal Records Summer Internship - Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/68ae0a53758f2e4ac3010c57?utm_campaign=1055&utm_source=git)** | Branchville, NJ | Hybrid | Sep 18 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Operations & Compliance Intern - Dewar (Hybrid)](https://jobright.ai/jobs/info/68cfd2eadbd9fb154edeb209?utm_campaign=1055&utm_source=git)** | Quincy, MA | Hybrid | Sep 18 |
-| **[Danaher Corporation](https://www.danaher.com/)** | **[Regulatory Affairs Intern - Miami, Florida](https://jobright.ai/jobs/info/68ce7ecafb49c96ca6ea0ff4?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Sep 18 |
-| ↳ | **[Regulatory Affairs Summer Intern - MSc](https://jobright.ai/jobs/info/68cfbf3cfb49c96ca6eab37d?utm_campaign=1055&utm_source=git)** | Round Rock, TX | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
