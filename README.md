@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gehi & Associates](https://gehilaw.com/)** | **[JD candidate / Final year JD student](https://jobright.ai/jobs/info/68d0017adbd9fb154edeca78?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 21 |
 | **[Bessemer Trust](http://www.bessemertrust.com/)** | **[Client Advisory Intern](https://jobright.ai/jobs/info/68cfe764846f0b04af686018?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 21 |
 | ↳ | **[Client Advisory Intern](https://jobright.ai/jobs/info/68cfdf5cfb49c96ca6eac231?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 21 |
 | ↳ | **[Client Advisory Intern](https://jobright.ai/jobs/info/68cfde77fb49c96ca6eac186?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Sep 21 |
@@ -65,8 +66,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Client Advisory Intern](https://jobright.ai/jobs/info/68cfdc8ddbd9fb154edeb694?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Sep 21 |
 | ↳ | **[Client Advisory Intern](https://jobright.ai/jobs/info/68cfdc09dbd9fb154edeb5c6?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 21 |
 | ↳ | **[Client Advisory Intern](https://jobright.ai/jobs/info/68cfdae4dbd9fb154edeb405?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Sep 21 |
+| **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Mergers & Acquisitions - Raleigh](https://jobright.ai/jobs/info/68cfea6adbd9fb154edebdde?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Sep 21 |
 | **[City of Warren, MI](http://www.cityofwarren.org)** | **[Part-Time Law Clerk](https://jobright.ai/jobs/info/68cfb684dbd9fb154edea59f?utm_campaign=1055&utm_source=git)** | Warren, MI | On Site | Sep 21 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b201ddbc187f64e1bd8ae4?utm_campaign=1055&utm_source=git)** | Dublin, OH | On Site | Sep 20 |
+| **[Henkel](http://www.henkel.com)** | **[Global Trade Intern - Year-Round - 2026](https://jobright.ai/jobs/info/68b28516bc187f64e1bdc9b6?utm_campaign=1055&utm_source=git)** | Rocky Hill, CT | On Site | Sep 20 |
 | **[ENFRA](https://enfrasolutions.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68cebddffb49c96ca6ea31c6?utm_campaign=1055&utm_source=git)** | US-LA-Metairie | On Site | Sep 20 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Cybersecurity Compliance Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68cfe4f5dbd9fb154edeb94d?utm_campaign=1055&utm_source=git)** | Sparks, NV | On Site | Sep 20 |
 | **[Hooks Meng & Clement, PLLC.](http://www.hmc.law)** | **[Law Clerk in our Carson City Office](https://jobright.ai/jobs/info/68b74b162124650c140216d7?utm_campaign=1055&utm_source=git)** | Carson City, NV | On Site | Sep 20 |
@@ -107,7 +110,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal & Compliance Rotational Internship – Summer 2026](https://jobright.ai/jobs/info/68b0c6fcb47fb001d6895549?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Sep 19 |
 | **[LyondellBasell](http://lyondellbasell.com)** | **[2026 Business Resilience & Global Security Intern](https://jobright.ai/jobs/info/68cd11a9e23def7af55b4af3?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Sep 19 |
 | **[Mentor A Promise](https://mentorapromise.org/)** | **[Legal Assistant (Volunteer)](https://jobright.ai/jobs/info/68cd29bae23def7af55b6427?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 19 |
-| **[Philips](https://www.usa.philips.com)** | **[Intern - Regulatory Affairs - Colorado Springs, CO - Summer 2026](https://jobright.ai/jobs/info/68cfbb60dbd9fb154edea74d?utm_campaign=1055&utm_source=git)** | Colorado Springs, CO | On Site | Sep 19 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/68cfae13846f0b04af684515?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 19 |
 | **[DP World](https://www.dpworld.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/68ccf5145954791a1d7019dd?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Sep 18 |
 | **[Federal Public Defender, Central District of California](https://fpdcdca.org)** | **[Post-Bar and Public Interest Law Fellowship - Los Angeles](https://jobright.ai/jobs/info/68cd3336e23def7af55b6bc1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Sep 18 |
@@ -139,7 +141,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Risk Group - Sophomore](https://jobright.ai/jobs/info/68cc6cce128dc347fd924bea?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 18 |
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Legal Intern (Public Defender's Department)](https://jobright.ai/jobs/info/68cc5389128dc347fd922b5a?utm_campaign=1055&utm_source=git)** | Reading, PA | On Site | Sep 18 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Opportunities - Summer 2026 - Private Counsel Division & Specialty Units - Statewide](https://jobright.ai/jobs/info/68cea7d6846f0b04af67c20a?utm_campaign=1055&utm_source=git)** | US-MA-Boston | On Site | Sep 18 |
-| **[HNTB](http://www.hntb.com/)** | **[Procurement and Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68cc45dd16d00d2beeb1ca75?utm_campaign=1055&utm_source=git)** | Bellevue, WA (Seattle) | On Site | Sep 18 |
+| **[HNTB](http://www.hntb.com/)** | **[Procurement and Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68cc46427342c7623ae61f6d?utm_campaign=1055&utm_source=git)** | Bellevue, WA (Seattle) | On Site | Sep 18 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Trade Compliance Intern (Greenville, TX)](https://jobright.ai/jobs/info/68cc819b16d00d2beeb20bad?utm_campaign=1055&utm_source=git)** | Greenville, TX | On Site | Sep 18 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68cc408f7342c7623ae61a38?utm_campaign=1055&utm_source=git)** | Paducah, KY | On Site | Sep 18 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Risk and Compliance Services Winter Intern - Financial & Regulatory Risk Services](https://jobright.ai/jobs/info/68cc367e16d00d2beeb1be85?utm_campaign=1055&utm_source=git)** | Iselin | Hybrid | Sep 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Operations & Compliance Intern - Dewar (Hybrid)](https://jobright.ai/jobs/info/68cfd2eadbd9fb154edeb209?utm_campaign=1055&utm_source=git)** | Quincy, MA | Hybrid | Sep 18 |
 | **[Danaher Corporation](https://www.danaher.com/)** | **[Regulatory Affairs Intern - Miami, Florida](https://jobright.ai/jobs/info/68ce7ecafb49c96ca6ea0ff4?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Sep 18 |
 | ↳ | **[Regulatory Affairs Summer Intern - MSc](https://jobright.ai/jobs/info/68cfbf3cfb49c96ca6eab37d?utm_campaign=1055&utm_source=git)** | Round Rock, TX | On Site | Sep 18 |
-| **[Cisco](http://www.cisco.com)** | **[Legal Summer Intern JD Rising 2L (Intern) United States](https://jobright.ai/jobs/info/68cfaca6846f0b04af68433f?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Sep 18 |
-| **[State of Florida](http://www.myflorida.com)** | **[REGULATORY SPECIALIST II-SES - 42004020 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/68cf9c65846f0b04af6833e8?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
