@@ -58,9 +58,11 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Vernis & Bowling](https://www.national-law.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/68d039cd846f0b04af6882fb?utm_campaign=1055&utm_source=git)** | Islamorada, FL | Hybrid | Sep 21 |
+| **[CAMBA](https://camba.org/)** | **[Housing Summer Intern, CAMBA Legal Services, Brooklyn](https://jobright.ai/jobs/info/68d0497ddbd9fb154edee401?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Sep 21 |
 | **[Comstock Companies](http://comstockcompanies.com/)** | **[Real Estate Law Internship](https://jobright.ai/jobs/info/68d02b32846f0b04af687f29?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Sep 21 |
 | ↳ | **[Real Estate Law Internship](https://jobright.ai/jobs/info/68d01ca8846f0b04af687972?utm_campaign=1055&utm_source=git)** | Virginia, United States | On Site | Sep 21 |
 | **[Gehi & Associates](https://gehilaw.com/)** | **[JD candidate / Final year JD student](https://jobright.ai/jobs/info/68d0017adbd9fb154edeca78?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 21 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850c0a88f493779c01567f3?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Sep 21 |
 | **[Bessemer Trust](http://www.bessemertrust.com/)** | **[Client Advisory Intern](https://jobright.ai/jobs/info/68cfe764846f0b04af686018?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 21 |
 | ↳ | **[Client Advisory Intern](https://jobright.ai/jobs/info/68cfdf5cfb49c96ca6eac231?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 21 |
 | ↳ | **[Client Advisory Intern](https://jobright.ai/jobs/info/68cfde77fb49c96ca6eac186?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Sep 21 |
@@ -113,7 +115,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal & Compliance Rotational Internship – Summer 2026](https://jobright.ai/jobs/info/68b0c6fcb47fb001d6895549?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Sep 19 |
 | **[LyondellBasell](http://lyondellbasell.com)** | **[2026 Business Resilience & Global Security Intern](https://jobright.ai/jobs/info/68cd11a9e23def7af55b4af3?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Sep 19 |
 | **[Mentor A Promise](https://mentorapromise.org/)** | **[Legal Assistant (Volunteer)](https://jobright.ai/jobs/info/68cd29bae23def7af55b6427?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 19 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance](https://jobright.ai/jobs/info/68cfae13846f0b04af684515?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 19 |
 | **[DP World](https://www.dpworld.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/68ccf5145954791a1d7019dd?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Sep 18 |
 | **[Federal Public Defender, Central District of California](https://fpdcdca.org)** | **[Post-Bar and Public Interest Law Fellowship - Los Angeles](https://jobright.ai/jobs/info/68cd3336e23def7af55b6bc1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Sep 18 |
 | **[Federal Reserve Bank of New York](http://newyorkfed.org/)** | **[2026 Summer Intern - Risk Group - Sophomore](https://jobright.ai/jobs/info/68cf86f0846f0b04af682bb4?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ING Americas](http://www.ingwb.com)** | **[Summer 2026 Internship – Trade Risk Management](https://jobright.ai/jobs/info/68cc31c3128dc347fd920a0b?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 18 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68cce0aa5954791a1d700528?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 18 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68ccf71b77add66568abcd0a?utm_campaign=1055&utm_source=git)** | Sparks, NV | On Site | Sep 18 |
-| **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Legal & Compliance Summer Intern - Mortgage Insurance](https://jobright.ai/jobs/info/68af6266962903596357c470?utm_campaign=1055&utm_source=git)** | Triad Area | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
