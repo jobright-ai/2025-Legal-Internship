@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/68d082c7fb49c96ca6eaf2fc?utm_campaign=1055&utm_source=git)** | 565 W Broadway Ave, Jackson, WY, 83001, US | On Site | Sep 21 |
+| ↳ | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/68d082a2846f0b04af688b99?utm_campaign=1055&utm_source=git)** | 500 Stanton Christiana Rd, Newark, DE, 19713, US | On Site | Sep 21 |
+| **[Chase](https://www.chase.com/)** | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/68d0803cfb49c96ca6eaf2c7?utm_campaign=1055&utm_source=git)** | 565 W Broadway Ave, Jackson, WY, 83001, US | On Site | Sep 21 |
+| ↳ | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/68d07ff7dbd9fb154edee9bc?utm_campaign=1055&utm_source=git)** | 500 Stanton Christiana Rd, Newark, DE, 19713, US | On Site | Sep 21 |
 | **[Vernis & Bowling](https://www.national-law.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/68d039cd846f0b04af6882fb?utm_campaign=1055&utm_source=git)** | Islamorada, FL | Hybrid | Sep 21 |
 | **[CAMBA](https://camba.org/)** | **[Housing Summer Intern, CAMBA Legal Services, Brooklyn](https://jobright.ai/jobs/info/68d0497ddbd9fb154edee401?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Sep 21 |
 | **[Comstock Companies](http://comstockcompanies.com/)** | **[Real Estate Law Internship](https://jobright.ai/jobs/info/68d02b32846f0b04af687f29?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Sep 21 |
@@ -73,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Client Advisory Intern](https://jobright.ai/jobs/info/68cfdae4dbd9fb154edeb405?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Sep 21 |
 | **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Mergers & Acquisitions - Raleigh](https://jobright.ai/jobs/info/68cfea6adbd9fb154edebdde?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Sep 21 |
 | **[City of Warren, MI](http://www.cityofwarren.org)** | **[Part-Time Law Clerk](https://jobright.ai/jobs/info/68cfb684dbd9fb154edea59f?utm_campaign=1055&utm_source=git)** | Warren, MI | On Site | Sep 21 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850c590d48c52e5f91024bf?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Sep 20 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b201ddbc187f64e1bd8ae4?utm_campaign=1055&utm_source=git)** | Dublin, OH | On Site | Sep 20 |
 | **[Henkel](http://www.henkel.com)** | **[Global Trade Intern - Year-Round - 2026](https://jobright.ai/jobs/info/68b28516bc187f64e1bdc9b6?utm_campaign=1055&utm_source=git)** | Rocky Hill, CT | On Site | Sep 20 |
 | **[ENFRA](https://enfrasolutions.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68cebddffb49c96ca6ea31c6?utm_campaign=1055&utm_source=git)** | US-LA-Metairie | On Site | Sep 20 |
@@ -145,16 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Risk Group - Sophomore](https://jobright.ai/jobs/info/68cc6cce128dc347fd924bea?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 18 |
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Legal Intern (Public Defender's Department)](https://jobright.ai/jobs/info/68cc5389128dc347fd922b5a?utm_campaign=1055&utm_source=git)** | Reading, PA | On Site | Sep 18 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Opportunities - Summer 2026 - Private Counsel Division & Specialty Units - Statewide](https://jobright.ai/jobs/info/68cea7d6846f0b04af67c20a?utm_campaign=1055&utm_source=git)** | US-MA-Boston | On Site | Sep 18 |
-| **[HNTB](http://www.hntb.com/)** | **[Procurement and Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68cc45dd16d00d2beeb1ca75?utm_campaign=1055&utm_source=git)** | Bellevue, WA (Seattle) | On Site | Sep 18 |
+| **[HNTB](http://www.hntb.com/)** | **[Procurement and Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68cc46427342c7623ae61f6d?utm_campaign=1055&utm_source=git)** | Bellevue, WA (Seattle) | On Site | Sep 18 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Trade Compliance Intern (Greenville, TX)](https://jobright.ai/jobs/info/68cc819b16d00d2beeb20bad?utm_campaign=1055&utm_source=git)** | Greenville, TX | On Site | Sep 18 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68cc408f7342c7623ae61a38?utm_campaign=1055&utm_source=git)** | Paducah, KY | On Site | Sep 18 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Risk and Compliance Services Winter Intern - Financial & Regulatory Risk Services](https://jobright.ai/jobs/info/68cc367e16d00d2beeb1be85?utm_campaign=1055&utm_source=git)** | Iselin | Hybrid | Sep 18 |
 | ↳ | **[2026 Risk and Compliance Services Winter Intern - Financial & Regulatory Risk Services](https://jobright.ai/jobs/info/68cc3597128dc347fd92101d?utm_campaign=1055&utm_source=git)** | New York | Hybrid | Sep 18 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[General Claims Legal Intern- Summer 2026](https://jobright.ai/jobs/info/68cc79f57342c7623ae6584d?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Sep 18 |
 | ↳ | **[General Claims Legal Intern- Summer 2026](https://jobright.ai/jobs/info/68cc35267342c7623ae60d3f?utm_campaign=1055&utm_source=git)** | NJM - Trenton | On Site | Sep 18 |
-| **[Battelle](http://www.battelle.org)** | **[Contracts & Procurement Intern (Summer 2026)](https://jobright.ai/jobs/info/68cce71577add66568abbaf0?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Sep 18 |
-| **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Investments Legal Summer Intern](https://jobright.ai/jobs/info/68ca34ddd4187c55157a827e?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Sep 18 |
-| **[ING Americas](http://www.ingwb.com)** | **[Summer 2026 Internship – Trade Risk Management](https://jobright.ai/jobs/info/68cc31c3128dc347fd920a0b?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 18 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68cce0aa5954791a1d700528?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 18 |
-| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68ccf71b77add66568abcd0a?utm_campaign=1055&utm_source=git)** | Sparks, NV | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
