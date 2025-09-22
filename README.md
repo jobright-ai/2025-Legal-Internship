@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Verizon](https://www.verizon.com)** | **[AUCC Career Fair Verizon Legal Summer 2026 Internship](https://jobright.ai/jobs/info/68d16f20fa731f61692dee0a?utm_campaign=1055&utm_source=git)** | Basking Ridge, New Jersey | Hybrid | Sep 22 |
+| ↳ | **[AUCC Career Fair Verizon Legal Summer 2026 Internship](https://jobright.ai/jobs/info/68d16de9cece431f8b583b80?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia | Hybrid | Sep 22 |
+| ↳ | **[AUCC Career Fair Verizon Legal Summer 2026 Internship](https://jobright.ai/jobs/info/68d16dbffa731f61692deb9e?utm_campaign=1055&utm_source=git)** | San Francisco, California | Hybrid | Sep 22 |
+| ↳ | **[AUCC Career Fair Verizon Legal Summer 2026 Internship](https://jobright.ai/jobs/info/68d16d168c62e63bc7fcb2ad?utm_campaign=1055&utm_source=git)** | Rolling Meadows, Illinois | Hybrid | Sep 22 |
+| ↳ | **[AUCC Career Fair Verizon Legal Summer 2026 Internship](https://jobright.ai/jobs/info/68d16ce0cece431f8b583a8f?utm_campaign=1055&utm_source=git)** | Irving, Texas | Hybrid | Sep 22 |
+| **[RTX](http://www.raytheon.com)** | **[Global Trade Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68d16cb78c62e63bc7fcb260?utm_campaign=1055&utm_source=git)** | HIA32: Cedar Rapids, IA 400 Collins Rd NE  , Cedar Rapids, IA, 52498-0505 USA | On Site | Sep 22 |
+| **[Verizon](https://www.verizon.com)** | **[Verizon Legal Summer 2026 Internship - Basking Ridge, NJ](https://jobright.ai/jobs/info/68d16c268c62e63bc7fcb208?utm_campaign=1055&utm_source=git)** | Basking Ridge, New Jersey | Hybrid | Sep 22 |
+| **[Robinhood](https://www.robinhood.com)** | **[Crypto AML Intern (Summer 2026)](https://jobright.ai/jobs/info/68d168cc8c62e63bc7fcb05b?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Sep 22 |
+| ↳ | **[Financial Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1683cfa731f61692deab5?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Sep 22 |
+| ↳ | **[Fraud Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68d168318c62e63bc7fcafec?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Sep 22 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Regulatory Management Office Undergraduate Intern](https://jobright.ai/jobs/info/68d152b2cece431f8b582d55?utm_campaign=1055&utm_source=git)** | Pittsburgh PA, 15222, FAP, 5th Avenue Place | Hybrid | Sep 22 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Summer 2026 Undergraduate Internship - Audit, Risk, & Compliance](https://jobright.ai/jobs/info/68d1524f8c62e63bc7fca569?utm_campaign=1055&utm_source=git)** | Westlake, TX | Hybrid | Sep 22 |
 | ↳ | **[Summer 2026 Undergraduate Internship - Audit, Risk, & Compliance](https://jobright.ai/jobs/info/68d1522ccece431f8b582cd1?utm_campaign=1055&utm_source=git)** | Merrimack, NH | Hybrid | Sep 22 |
@@ -91,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850c590d48c52e5f91024bf?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Sep 20 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b201ddbc187f64e1bd8ae4?utm_campaign=1055&utm_source=git)** | Dublin, OH | On Site | Sep 20 |
 | **[Henkel](http://www.henkel.com)** | **[Global Trade Intern - Year-Round - 2026](https://jobright.ai/jobs/info/68b28516bc187f64e1bdc9b6?utm_campaign=1055&utm_source=git)** | Rocky Hill, CT | On Site | Sep 20 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – Legal / Media Law and First Amendment Intern](https://jobright.ai/jobs/info/68b24a781ade4306aa635509?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
 | **[ENFRA](https://enfrasolutions.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68cebddffb49c96ca6ea31c6?utm_campaign=1055&utm_source=git)** | US-LA-Metairie | On Site | Sep 20 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Cybersecurity Compliance Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68cfe4f5dbd9fb154edeb94d?utm_campaign=1055&utm_source=git)** | Sparks, NV | On Site | Sep 20 |
 | **[Hooks Meng & Clement, PLLC.](http://www.hmc.law)** | **[Law Clerk in our Carson City Office](https://jobright.ai/jobs/info/68b74b162124650c140216d7?utm_campaign=1055&utm_source=git)** | Carson City, NV | On Site | Sep 20 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Claims Intern (East Peoria, IL)](https://jobright.ai/jobs/info/68cca0647342c7623ae6773d?utm_campaign=1055&utm_source=git)** | East Peoria, IL | On Site | Sep 18 |
 | **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/68cc979116d00d2beeb21df0?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Sep 18 |
 | **[Aldevron](http://www.aldevron.com/)** | **[Regulatory Affairs Summer Intern - MSc](https://jobright.ai/jobs/info/68ccb7e516d00d2beeb2352e?utm_campaign=1055&utm_source=git)** | Austin, TX | Remote | Sep 18 |
-| **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/68cd2a531ad6b16f02895eb6?utm_campaign=1055&utm_source=git)** | Yorktown Heights, NY | On Site | Sep 18 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Capital Markets Compliance Data Analytics (Year-Round)](https://jobright.ai/jobs/info/68cc95807342c7623ae66eea?utm_campaign=1055&utm_source=git)** | WI-Milwaukee | Hybrid | Sep 18 |
-| **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/68cc953b7342c7623ae66dae?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Sep 18 |
-| **[Danaher Life Sciences](https://lifesciences.danaher.com)** | **[Regulatory Affairs Summer Intern - MSc](https://jobright.ai/jobs/info/68cd094ab2a74e1837ed0f9c?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Sep 18 |
-| **[Legal Assistance Of Western New York, Inc. (LawNY)](https://www.lawny.org)** | **[AmeriCorps Legal Assitant - Elmira, NY (6-month and 1-year contracts)](https://jobright.ai/jobs/info/68cc7e567342c7623ae65b41?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Sep 18 |
-| **[Powers Law Group, P.C.](http://www.RubyPowersLaw.com)** | **[Part-Time Law Clerk Job Posting](https://jobright.ai/jobs/info/68ccdaa877add66568abab3c?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Sep 18 |
-| **[Legal Assistance Of Western New York, Inc. (LawNY)](https://www.lawny.org)** | **[AmeriCorps Legal Assistant - Rochester, NY (6 month term)](https://jobright.ai/jobs/info/68cc79b07342c7623ae657c4?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Sep 18 |
-| ↳ | **[AmeriCorps Legal Assistant - Olean, NY (6 month term)](https://jobright.ai/jobs/info/68cc76cd16d00d2beeb203ae?utm_campaign=1055&utm_source=git)** | Olean, NY | On Site | Sep 18 |
-| **[NJM Insurance Group](https://www.njm.com)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68cc9201128dc347fd926ab6?utm_campaign=1055&utm_source=git)** | NJM - Trenton | On Site | Sep 18 |
-| **[Danaher Corporation](https://www.danaher.com/)** | **[Regulatory Affairs Summer Intern - MSc](https://jobright.ai/jobs/info/68cc6d9c128dc347fd924deb?utm_campaign=1055&utm_source=git)** | Austin, Texas, United States | On Site | Sep 18 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Intern - Legal & Compliance - Sophomore](https://jobright.ai/jobs/info/68cc6cf0128dc347fd924c48?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
