@@ -96,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68cdb97bb2a74e1837edba25?utm_campaign=1055&utm_source=git)** | Glasgow, KY | On Site | Sep 19 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/68cdb92e1ad6b16f0289e426?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Sep 19 |
 | **[Cottingham & Butler](https://www.cottinghambutler.com/)** | **[2026 Summer Claims Intern](https://jobright.ai/jobs/info/68cdb7cde23def7af55be8a6?utm_campaign=1055&utm_source=git)** | Dubuque, IA | On Site | Sep 19 |
-| **[San Diego County Regional Airport Authority](http://www.san.org)** | **[Law Clerk - Intern (Part Time)](https://jobright.ai/jobs/info/68cfd5f3846f0b04af6856b5?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Sep 19 |
 | **[Wellmark Blue Cross and Blue Shield](http://www.wellmark.com)** | **[Health Services Operations & Systems Internship – Health Care Innovation (Insure Your Future)](https://jobright.ai/jobs/info/68cdb1e0e23def7af55be565?utm_campaign=1055&utm_source=git)** | Des Moines, IA, USA | Hybrid | Sep 19 |
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Surety Intern (Summer 2026)](https://jobright.ai/jobs/info/68cdaa0b1ad6b16f0289d77c?utm_campaign=1055&utm_source=git)** | Westfield Center, OH, United States | Hybrid | Sep 19 |
 | **[M&T Bank](https://www3.mtb.com/)** | **[2026 Corporate Summer Internship Program - Consumer Default Servicing](https://jobright.ai/jobs/info/68cda93d1ad6b16f0289d4f8?utm_campaign=1055&utm_source=git)** | Getzville, NY | Hybrid | Sep 19 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Risk and Compliance Services Winter Intern - Financial & Regulatory Risk Services](https://jobright.ai/jobs/info/68cc3597128dc347fd92101d?utm_campaign=1055&utm_source=git)** | New York | Hybrid | Sep 18 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[General Claims Legal Intern- Summer 2026](https://jobright.ai/jobs/info/68cc79f57342c7623ae6584d?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Sep 18 |
 | ↳ | **[General Claims Legal Intern- Summer 2026](https://jobright.ai/jobs/info/68cc35267342c7623ae60d3f?utm_campaign=1055&utm_source=git)** | NJM - Trenton | On Site | Sep 18 |
+| **[Battelle](http://www.battelle.org)** | **[Contracts & Procurement Intern (Summer 2026)](https://jobright.ai/jobs/info/68cce71577add66568abbaf0?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
