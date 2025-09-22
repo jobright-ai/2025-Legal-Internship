@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MFS Investment Management](https://www.mfs.com)** | **[SPRING 2026 - Compliance Co-ops (6 Months)](https://jobright.ai/jobs/info/68d103f97727df7d5a850314?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Sep 22 |
 | **[National Healthcare Properties](https://nhpreit.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68d0f6e717bd5d3415aa7fee?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 22 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[SPRING 2026 - Compliance Co-ops (6 Months)](https://jobright.ai/jobs/info/68d0d6ff17bd5d3415aa6ed4?utm_campaign=1055&utm_source=git)** | Boston | Hybrid | Sep 21 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/68d082c7fb49c96ca6eaf2fc?utm_campaign=1055&utm_source=git)** | 565 W Broadway Ave, Jackson, WY, 83001, US | On Site | Sep 21 |
@@ -122,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[LyondellBasell](http://lyondellbasell.com)** | **[2026 Business Resilience & Global Security Intern](https://jobright.ai/jobs/info/68cd11a9e23def7af55b4af3?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Sep 19 |
 | **[Mentor A Promise](https://mentorapromise.org/)** | **[Legal Assistant (Volunteer)](https://jobright.ai/jobs/info/68cd29bae23def7af55b6427?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 19 |
 | **[DP World](https://www.dpworld.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/68ccf5145954791a1d7019dd?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Sep 18 |
-| **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Risk Solutions Intern](https://jobright.ai/jobs/info/68d0ecde17bd5d3415aa7b78?utm_campaign=1055&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 18 |
 | **[Federal Public Defender, Central District of California](https://fpdcdca.org)** | **[Post-Bar and Public Interest Law Fellowship - Los Angeles](https://jobright.ai/jobs/info/68cd3336e23def7af55b6bc1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Sep 18 |
 | **[Federal Reserve Bank of New York](http://newyorkfed.org/)** | **[2026 Summer Intern - Risk Group - Sophomore](https://jobright.ai/jobs/info/68cf86f0846f0b04af682bb4?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 18 |
 | **[Blue Cross Blue Shield of North Dakota](https://www.bcbsnd.com/jobs/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68ca156af16e3266d2822622?utm_campaign=1055&utm_source=git)** | Fargo, ND | Hybrid | Sep 18 |
@@ -153,7 +153,7 @@ For a complete list, click the following sortable link below:
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Legal Intern (Public Defender's Department)](https://jobright.ai/jobs/info/68cc5389128dc347fd922b5a?utm_campaign=1055&utm_source=git)** | Reading, PA | On Site | Sep 18 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Opportunities - Summer 2026 - Private Counsel Division & Specialty Units - Statewide](https://jobright.ai/jobs/info/68cea7d6846f0b04af67c20a?utm_campaign=1055&utm_source=git)** | US-MA-Boston | On Site | Sep 18 |
 | **[Athens Technical College](http://www.athenstech.edu/)** | **[Federal Work Study - Paralegal Studies Program - Clerical](https://jobright.ai/jobs/info/68d0eef67727df7d5a84edda?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Sep 18 |
-| **[HNTB](http://www.hntb.com/)** | **[Procurement and Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68cc45dd16d00d2beeb1ca75?utm_campaign=1055&utm_source=git)** | Bellevue, WA (Seattle) | On Site | Sep 18 |
+| **[HNTB](http://www.hntb.com/)** | **[Procurement and Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68cc46427342c7623ae61f6d?utm_campaign=1055&utm_source=git)** | Bellevue, WA (Seattle) | On Site | Sep 18 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Trade Compliance Intern (Greenville, TX)](https://jobright.ai/jobs/info/68cc819b16d00d2beeb20bad?utm_campaign=1055&utm_source=git)** | Greenville, TX | On Site | Sep 18 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68cc408f7342c7623ae61a38?utm_campaign=1055&utm_source=git)** | Paducah, KY | On Site | Sep 18 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Risk and Compliance Services Winter Intern - Financial & Regulatory Risk Services](https://jobright.ai/jobs/info/68cc367e16d00d2beeb1be85?utm_campaign=1055&utm_source=git)** | Iselin | Hybrid | Sep 18 |
