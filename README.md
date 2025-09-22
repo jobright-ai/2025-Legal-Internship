@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MFS Investment Management](https://www.mfs.com)** | **[SPRING 2026 - Compliance Co-ops (6 Months)](https://jobright.ai/jobs/info/68d0d6ff17bd5d3415aa6ed4?utm_campaign=1055&utm_source=git)** | Boston | Hybrid | Sep 21 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/68d082c7fb49c96ca6eaf2fc?utm_campaign=1055&utm_source=git)** | 565 W Broadway Ave, Jackson, WY, 83001, US | On Site | Sep 21 |
 | ↳ | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/68d082a2846f0b04af688b99?utm_campaign=1055&utm_source=git)** | 500 Stanton Christiana Rd, Newark, DE, 19713, US | On Site | Sep 21 |
 | **[Chase](https://www.chase.com/)** | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/68d0803cfb49c96ca6eaf2c7?utm_campaign=1055&utm_source=git)** | 565 W Broadway Ave, Jackson, WY, 83001, US | On Site | Sep 21 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Risk Group - Sophomore](https://jobright.ai/jobs/info/68cc6cce128dc347fd924bea?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 18 |
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Legal Intern (Public Defender's Department)](https://jobright.ai/jobs/info/68cc5389128dc347fd922b5a?utm_campaign=1055&utm_source=git)** | Reading, PA | On Site | Sep 18 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Opportunities - Summer 2026 - Private Counsel Division & Specialty Units - Statewide](https://jobright.ai/jobs/info/68cea7d6846f0b04af67c20a?utm_campaign=1055&utm_source=git)** | US-MA-Boston | On Site | Sep 18 |
-| **[HNTB](http://www.hntb.com/)** | **[Procurement and Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68cc46427342c7623ae61f6d?utm_campaign=1055&utm_source=git)** | Bellevue, WA (Seattle) | On Site | Sep 18 |
+| **[HNTB](http://www.hntb.com/)** | **[Procurement and Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68cc45dd16d00d2beeb1ca75?utm_campaign=1055&utm_source=git)** | Bellevue, WA (Seattle) | On Site | Sep 18 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Trade Compliance Intern (Greenville, TX)](https://jobright.ai/jobs/info/68cc819b16d00d2beeb20bad?utm_campaign=1055&utm_source=git)** | Greenville, TX | On Site | Sep 18 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68cc408f7342c7623ae61a38?utm_campaign=1055&utm_source=git)** | Paducah, KY | On Site | Sep 18 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Risk and Compliance Services Winter Intern - Financial & Regulatory Risk Services](https://jobright.ai/jobs/info/68cc367e16d00d2beeb1be85?utm_campaign=1055&utm_source=git)** | Iselin | Hybrid | Sep 18 |
 | ↳ | **[2026 Risk and Compliance Services Winter Intern - Financial & Regulatory Risk Services](https://jobright.ai/jobs/info/68cc3597128dc347fd92101d?utm_campaign=1055&utm_source=git)** | New York | Hybrid | Sep 18 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[General Claims Legal Intern- Summer 2026](https://jobright.ai/jobs/info/68cc79f57342c7623ae6584d?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Sep 18 |
 | ↳ | **[General Claims Legal Intern- Summer 2026](https://jobright.ai/jobs/info/68cc35267342c7623ae60d3f?utm_campaign=1055&utm_source=git)** | NJM - Trenton | On Site | Sep 18 |
-| **[Battelle](http://www.battelle.org)** | **[Contracts & Procurement Intern (Summer 2026)](https://jobright.ai/jobs/info/68cce71577add66568abbaf0?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
