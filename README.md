@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Regulatory Management Office Undergraduate Intern](https://jobright.ai/jobs/info/68d152b2cece431f8b582d55?utm_campaign=1055&utm_source=git)** | Pittsburgh PA, 15222, FAP, 5th Avenue Place | Hybrid | Sep 22 |
+| **[Fidelity Investments](https://www.fidelity.com)** | **[Summer 2026 Undergraduate Internship - Audit, Risk, & Compliance](https://jobright.ai/jobs/info/68d1524f8c62e63bc7fca569?utm_campaign=1055&utm_source=git)** | Westlake, TX | Hybrid | Sep 22 |
+| ↳ | **[Summer 2026 Undergraduate Internship - Audit, Risk, & Compliance](https://jobright.ai/jobs/info/68d1522ccece431f8b582cd1?utm_campaign=1055&utm_source=git)** | Merrimack, NH | Hybrid | Sep 22 |
+| ↳ | **[Summer 2026 Undergraduate Internship - Audit, Risk, & Compliance](https://jobright.ai/jobs/info/68d15220cece431f8b582cc4?utm_campaign=1055&utm_source=git)** | Covington, KY | Hybrid | Sep 22 |
+| ↳ | **[Summer 2026 Undergraduate Internship - Audit, Risk, & Compliance](https://jobright.ai/jobs/info/68d151d68c62e63bc7fca4e8?utm_campaign=1055&utm_source=git)** | Smithfield, RI | Hybrid | Sep 22 |
+| ↳ | **[Summer 2026 Undergraduate Internship - Audit, Risk, & Compliance](https://jobright.ai/jobs/info/68d150d2fa731f61692ddf7a?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | Hybrid | Sep 22 |
+| ↳ | **[Summer 2026 Undergraduate Internship - Audit, Risk, & Compliance](https://jobright.ai/jobs/info/68d15056fa731f61692ddedb?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Sep 22 |
+| **[trabajito](https://www.trabajito.com.bo/)** | **[Pasante Legal](https://jobright.ai/jobs/info/68d132edfa731f61692dd375?utm_campaign=1055&utm_source=git)** | Santa Cruz, CA | On Site | Sep 22 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[SPRING 2026 - Compliance Co-ops (6 Months)](https://jobright.ai/jobs/info/68d103f97727df7d5a850314?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Sep 22 |
 | **[National Healthcare Properties](https://nhpreit.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68d0f6e717bd5d3415aa7fee?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 22 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[SPRING 2026 - Compliance Co-ops (6 Months)](https://jobright.ai/jobs/info/68d0d6ff17bd5d3415aa6ed4?utm_campaign=1055&utm_source=git)** | Boston | Hybrid | Sep 21 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NJM Insurance Group](https://www.njm.com)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68cc9201128dc347fd926ab6?utm_campaign=1055&utm_source=git)** | NJM - Trenton | On Site | Sep 18 |
 | **[Danaher Corporation](https://www.danaher.com/)** | **[Regulatory Affairs Summer Intern - MSc](https://jobright.ai/jobs/info/68cc6d9c128dc347fd924deb?utm_campaign=1055&utm_source=git)** | Austin, Texas, United States | On Site | Sep 18 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Intern - Legal & Compliance - Sophomore](https://jobright.ai/jobs/info/68cc6cf0128dc347fd924c48?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 18 |
-| ↳ | **[2026 Summer Intern - Risk Group - Sophomore](https://jobright.ai/jobs/info/68cc6cce128dc347fd924bea?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 18 |
-| **[County of Berks, PA](http://www.berkspa.gov)** | **[Legal Intern (Public Defender's Department)](https://jobright.ai/jobs/info/68cc5389128dc347fd922b5a?utm_campaign=1055&utm_source=git)** | Reading, PA | On Site | Sep 18 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Opportunities - Summer 2026 - Private Counsel Division & Specialty Units - Statewide](https://jobright.ai/jobs/info/68cea7d6846f0b04af67c20a?utm_campaign=1055&utm_source=git)** | US-MA-Boston | On Site | Sep 18 |
-| **[Athens Technical College](http://www.athenstech.edu/)** | **[Federal Work Study - Paralegal Studies Program - Clerical](https://jobright.ai/jobs/info/68d0eef67727df7d5a84edda?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Sep 18 |
-| **[HNTB](http://www.hntb.com/)** | **[Procurement and Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68cc46427342c7623ae61f6d?utm_campaign=1055&utm_source=git)** | Bellevue, WA (Seattle) | On Site | Sep 18 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Trade Compliance Intern (Greenville, TX)](https://jobright.ai/jobs/info/68cc819b16d00d2beeb20bad?utm_campaign=1055&utm_source=git)** | Greenville, TX | On Site | Sep 18 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68cc408f7342c7623ae61a38?utm_campaign=1055&utm_source=git)** | Paducah, KY | On Site | Sep 18 |
-| **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Risk and Compliance Services Winter Intern - Financial & Regulatory Risk Services](https://jobright.ai/jobs/info/68cc367e16d00d2beeb1be85?utm_campaign=1055&utm_source=git)** | Iselin | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
