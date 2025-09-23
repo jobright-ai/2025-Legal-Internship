@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Contracts Administration (Remote or Hybrid)](https://jobright.ai/jobs/info/68d1ea3817554c2d9eee1046?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Sep 22 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Corporate & Business Development - Legal - Hybrid](https://jobright.ai/jobs/info/68d1ddab17554c2d9eee05c8?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | Hybrid | Sep 22 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Global Trade Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68d1d77517554c2d9eee025c?utm_campaign=1055&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 22 |
+| **[AllianceBernstein](http://www.alliancebernstein.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68d2854817554c2d9eee8096?utm_campaign=1055&utm_source=git)** | Nashville, Tennessee | On Site | Sep 22 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Contracts Administration (Remote or Hybrid)](https://jobright.ai/jobs/info/68d1b68fa54edb3bf3e155f9?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Sep 22 |
 | **[Verizon](https://www.verizon.com)** | **[AUCC Career Fair Verizon Legal Summer 2026 Internship](https://jobright.ai/jobs/info/68d1b64c17554c2d9eedec94?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Sep 22 |
 | ↳ | **[AUCC Career Fair Verizon Legal Summer 2026 Internship](https://jobright.ai/jobs/info/68d1b619a54edb3bf3e15584?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | On Site | Sep 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68ce7274dbd9fb154eddfce9?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Sep 19 |
 | **[Penn State University](http://psu.edu)** | **[Geography ADA Compliance Assistant](https://jobright.ai/jobs/info/68cdbaadb2a74e1837edbba6?utm_campaign=1055&utm_source=git)** | University Park, PA | On Site | Sep 19 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68cdb97bb2a74e1837edba25?utm_campaign=1055&utm_source=git)** | Glasgow, KY | On Site | Sep 19 |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/68cdb92e1ad6b16f0289e426?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
