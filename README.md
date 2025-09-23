@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Invenergy](https://invenergy.com)** | **[Analyst, Project Controls Documents & Process](https://jobright.ai/jobs/info/68d2b1d98c62e63bc7fd8e62?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 23 |
+| **[State Street](http://www.statestreet.com)** | **[Conduct Risk Compliance  Co-Op - Jan 2026](https://jobright.ai/jobs/info/68d2dc4ff0d9af73038dc1b2?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts | On Site | Sep 23 |
+| **[Cohen Law Group](https://itsaboutjustice.law/)** | **[Legal Intern](https://jobright.ai/jobs/info/68d2db268c62e63bc7fdaee3?utm_campaign=1055&utm_source=git)** | Maitland, FL | On Site | Sep 23 |
+| **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Material Damage Claims Intern - Summer 2026](https://jobright.ai/jobs/info/68d2d98717554c2d9eeeae05?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Sep 23 |
+| **[FusionSite](https://fusionsiteservices.com/)** | **[Safety and Compliance Intern](https://jobright.ai/jobs/info/68d2c476f0d9af73038dacc3?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Sep 23 |
+| **[Invenergy](https://invenergy.com)** | **[Analyst, Project Controls Documents & Process](https://jobright.ai/jobs/info/68d2b25517554c2d9eee8f88?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 23 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Student - Prosecutor's Office](https://jobright.ai/jobs/info/68d29b4617554c2d9eee86d1?utm_campaign=1055&utm_source=git)** | Pontiac, MI | On Site | Sep 23 |
 | **[Center for Biological Diversity](http://www.biologicaldiversity.org/)** | **[Law Clerk - Summer 2026 Endangered Species Program (two openings)](https://jobright.ai/jobs/info/68d263dba54edb3bf3e1ded4?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Sep 23 |
 | ↳ | **[Law Clerk - Spring 2026 Carnivore Conservation](https://jobright.ai/jobs/info/68d28923f0d9af73038d95a1?utm_campaign=1055&utm_source=git)** | Portland, OR | Remote | Sep 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hooks Meng & Clement, PLLC.](http://www.hmc.law)** | **[Law Clerk in our Carson City Office](https://jobright.ai/jobs/info/68b74b162124650c140216d7?utm_campaign=1055&utm_source=git)** | Carson City, NV | On Site | Sep 20 |
 | **[USAble Life](https://www.usablelife.com)** | **[Legal Internship Summer 2026 - Remote](https://jobright.ai/jobs/info/68cf9135fb49c96ca6ea97cb?utm_campaign=1055&utm_source=git)** | Little Rock, AR | Remote | Sep 19 |
 | **[Organic Valley](https://www.organicvalley.coop)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/68ce07831ad6b16f028a14b9?utm_campaign=1055&utm_source=git)** | Cashton, WI | Hybrid | Sep 19 |
-| **[Universal Creative](https://jobs.universalparks.com/universal-creative/)** | **[Internship, Universal Creative – Global Compliance (Summer 2026)](https://jobright.ai/jobs/info/68cdf2b51ad6b16f028a027b?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
-| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Claims Intern (Warrendale, PA)](https://jobright.ai/jobs/info/68cdefffb2a74e1837edd869?utm_campaign=1055&utm_source=git)** | Warrendale, PA | On Site | Sep 19 |
-| **[Ellis Porter - The Immigration Attorneys](https://www.ellisporter.com)** | **[Summer Law Clerk 2026](https://jobright.ai/jobs/info/68cdee7d1ad6b16f028a00ba?utm_campaign=1055&utm_source=git)** | Troy, MI | Hybrid | Sep 19 |
-| **[Cohen Law Group](https://itsaboutjustice.law/)** | **[Legal Intern](https://jobright.ai/jobs/info/68cde41c1ad6b16f0289fb1c?utm_campaign=1055&utm_source=git)** | Maitland, FL | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
