@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Corporate Environmental Compliance (Spring 2026)](https://jobright.ai/jobs/info/68d1bf1817554c2d9eedf51d?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Sep 22 |
+| **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Corporate & Business Development - Legal - Hybrid](https://jobright.ai/jobs/info/68d1ddab17554c2d9eee05c8?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | Hybrid | Sep 22 |
+| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Global Trade Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68d1d77517554c2d9eee025c?utm_campaign=1055&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 22 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Contracts Administration (Remote or Hybrid)](https://jobright.ai/jobs/info/68d1b68fa54edb3bf3e155f9?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Sep 22 |
 | **[Verizon](https://www.verizon.com)** | **[AUCC Career Fair Verizon Legal Summer 2026 Internship](https://jobright.ai/jobs/info/68d1b64c17554c2d9eedec94?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Sep 22 |
 | ↳ | **[AUCC Career Fair Verizon Legal Summer 2026 Internship](https://jobright.ai/jobs/info/68d1b619a54edb3bf3e15584?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | On Site | Sep 22 |
@@ -106,7 +107,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Undergraduate Internship - Audit, Risk, & Compliance](https://jobright.ai/jobs/info/68d151d68c62e63bc7fca4e8?utm_campaign=1055&utm_source=git)** | Smithfield, RI | Hybrid | Sep 22 |
 | ↳ | **[Summer 2026 Undergraduate Internship - Audit, Risk, & Compliance](https://jobright.ai/jobs/info/68d150d2fa731f61692ddf7a?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | Hybrid | Sep 22 |
 | ↳ | **[Summer 2026 Undergraduate Internship - Audit, Risk, & Compliance](https://jobright.ai/jobs/info/68d15056fa731f61692ddedb?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Sep 22 |
-| **[trabajito](https://www.trabajito.com.bo/)** | **[Pasante Legal](https://jobright.ai/jobs/info/68d132edfa731f61692dd375?utm_campaign=1055&utm_source=git)** | Santa Cruz, CA | On Site | Sep 22 |
+| **[Blackmore Partners Inc](http://blackmorepartnersinc.com)** | **[Legal Unpaid Intern – Corporate Counsel Track](https://jobright.ai/jobs/info/68ce90b5dbd9fb154ede0ccb?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 22 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[SPRING 2026 - Compliance Co-ops (6 Months)](https://jobright.ai/jobs/info/68d103f97727df7d5a850314?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Sep 22 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[SPRING 2026 - Compliance Co-ops (6 Months)](https://jobright.ai/jobs/info/68d0d6ff17bd5d3415aa6ed4?utm_campaign=1055&utm_source=git)** | Boston | Hybrid | Sep 21 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/68d082c7fb49c96ca6eaf2fc?utm_campaign=1055&utm_source=git)** | 565 W Broadway Ave, Jackson, WY, 83001, US | On Site | Sep 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[M&T Bank](https://www3.mtb.com/)** | **[2026 Corporate Summer Internship Program - Consumer Default Servicing](https://jobright.ai/jobs/info/68cda93d1ad6b16f0289d4f8?utm_campaign=1055&utm_source=git)** | Getzville, NY | Hybrid | Sep 19 |
 | **[Balfour Beatty Communities](http://balfourbeattycommunities.com)** | **[Risk Intern](https://jobright.ai/jobs/info/68cda70ae23def7af55bd5cb?utm_campaign=1055&utm_source=git)** | Malvern, PA | On Site | Sep 19 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Surety Intern (Summer 2026)](https://jobright.ai/jobs/info/68cda6fb1ad6b16f0289cf1a?utm_campaign=1055&utm_source=git)** | Westfield Center, OH | Hybrid | Sep 19 |
-| **[John Templeton Foundation](http://www.templeton.org)** | **[Legal Intern, Office of the General Counsel, Spring 2026](https://jobright.ai/jobs/info/68cdefbeb2a74e1837edd839?utm_campaign=1055&utm_source=git)** | Conshohocken, PA | Hybrid | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
