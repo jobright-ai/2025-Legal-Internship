@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Invenergy](https://invenergy.com)** | **[Analyst, Project Controls Documents & Process](https://jobright.ai/jobs/info/68d2b1d98c62e63bc7fd8e62?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 23 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Student - Prosecutor's Office](https://jobright.ai/jobs/info/68d29b4617554c2d9eee86d1?utm_campaign=1055&utm_source=git)** | Pontiac, MI | On Site | Sep 23 |
 | **[Center for Biological Diversity](http://www.biologicaldiversity.org/)** | **[Law Clerk - Summer 2026 Endangered Species Program (two openings)](https://jobright.ai/jobs/info/68d263dba54edb3bf3e1ded4?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Sep 23 |
 | ↳ | **[Law Clerk - Spring 2026 Carnivore Conservation](https://jobright.ai/jobs/info/68d28923f0d9af73038d95a1?utm_campaign=1055&utm_source=git)** | Portland, OR | Remote | Sep 23 |
+| **[HNTB](http://www.hntb.com/)** | **[Procurement and Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68cf63e1846f0b04af681c7d?utm_campaign=1055&utm_source=git)** | Bellevue, WA | On Site | Sep 22 |
 | **[Pennsylvania Lumbermens Mutual Insurance Company](https://www.plmins.com)** | **[Policy Services Intern](https://jobright.ai/jobs/info/68d22624a54edb3bf3e1b1f4?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 22 |
 | **[GlobalFoundries](https://gf.com/)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68d1f403a54edb3bf3e17f8b?utm_campaign=1055&utm_source=git)** | Essex Junction, VT | Hybrid | Sep 22 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Contracts Administration (Remote or Hybrid)](https://jobright.ai/jobs/info/68d1ea3817554c2d9eee1046?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Sep 22 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[ENFRA](https://enfrasolutions.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68cebddffb49c96ca6ea31c6?utm_campaign=1055&utm_source=git)** | US-LA-Metairie | On Site | Sep 20 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Cybersecurity Compliance Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68cfe4f5dbd9fb154edeb94d?utm_campaign=1055&utm_source=git)** | Sparks, NV | On Site | Sep 20 |
 | **[Hooks Meng & Clement, PLLC.](http://www.hmc.law)** | **[Law Clerk in our Carson City Office](https://jobright.ai/jobs/info/68b74b162124650c140216d7?utm_campaign=1055&utm_source=git)** | Carson City, NV | On Site | Sep 20 |
-| **[Maryland Legal Aid](https://www.mdlab.org)** | **[Law Clerk - Summer Law Clerk Progam](https://jobright.ai/jobs/info/68d225c08c62e63bc7fd4924?utm_campaign=1055&utm_source=git)** | Towson, MD | On Site | Sep 19 |
 | **[USAble Life](https://www.usablelife.com)** | **[Legal Internship Summer 2026 - Remote](https://jobright.ai/jobs/info/68cf9135fb49c96ca6ea97cb?utm_campaign=1055&utm_source=git)** | Little Rock, AR | Remote | Sep 19 |
 | **[Organic Valley](https://www.organicvalley.coop)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/68ce07831ad6b16f028a14b9?utm_campaign=1055&utm_source=git)** | Cashton, WI | Hybrid | Sep 19 |
 | **[Universal Creative](https://jobs.universalparks.com/universal-creative/)** | **[Internship, Universal Creative – Global Compliance (Summer 2026)](https://jobright.ai/jobs/info/68cdf2b51ad6b16f028a027b?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Claims Intern (Warrendale, PA)](https://jobright.ai/jobs/info/68cdefffb2a74e1837edd869?utm_campaign=1055&utm_source=git)** | Warrendale, PA | On Site | Sep 19 |
 | **[Ellis Porter - The Immigration Attorneys](https://www.ellisporter.com)** | **[Summer Law Clerk 2026](https://jobright.ai/jobs/info/68cdee7d1ad6b16f028a00ba?utm_campaign=1055&utm_source=git)** | Troy, MI | Hybrid | Sep 19 |
 | **[Cohen Law Group](https://itsaboutjustice.law/)** | **[Legal Intern](https://jobright.ai/jobs/info/68cde41c1ad6b16f0289fb1c?utm_campaign=1055&utm_source=git)** | Maitland, FL | On Site | Sep 19 |
-| **[MACOM](https://www.macom.com/)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/68cddffde23def7af55bfe2a?utm_campaign=1055&utm_source=git)** | Lowell, MA | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
