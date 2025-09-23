@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GlobalFoundries](https://gf.com/)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68d1f403a54edb3bf3e17f8b?utm_campaign=1055&utm_source=git)** | Essex Junction, VT | Hybrid | Sep 22 |
+| **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Contracts Administration (Remote or Hybrid)](https://jobright.ai/jobs/info/68d1ea3817554c2d9eee1046?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Sep 22 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Corporate & Business Development - Legal - Hybrid](https://jobright.ai/jobs/info/68d1ddab17554c2d9eee05c8?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | Hybrid | Sep 22 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Global Trade Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68d1d77517554c2d9eee025c?utm_campaign=1055&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 22 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Contracts Administration (Remote or Hybrid)](https://jobright.ai/jobs/info/68d1b68fa54edb3bf3e155f9?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Sep 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wellmark Blue Cross and Blue Shield](http://www.wellmark.com)** | **[Health Services Operations & Systems Internship – Health Care Innovation (Insure Your Future)](https://jobright.ai/jobs/info/68cdb1e0e23def7af55be565?utm_campaign=1055&utm_source=git)** | Des Moines, IA, USA | Hybrid | Sep 19 |
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Surety Intern (Summer 2026)](https://jobright.ai/jobs/info/68cdaa0b1ad6b16f0289d77c?utm_campaign=1055&utm_source=git)** | Westfield Center, OH, United States | Hybrid | Sep 19 |
 | **[M&T Bank](https://www3.mtb.com/)** | **[2026 Corporate Summer Internship Program - Consumer Default Servicing](https://jobright.ai/jobs/info/68cda93d1ad6b16f0289d4f8?utm_campaign=1055&utm_source=git)** | Getzville, NY | Hybrid | Sep 19 |
-| **[Balfour Beatty Communities](http://balfourbeattycommunities.com)** | **[Risk Intern](https://jobright.ai/jobs/info/68cda70ae23def7af55bd5cb?utm_campaign=1055&utm_source=git)** | Malvern, PA | On Site | Sep 19 |
-| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Surety Intern (Summer 2026)](https://jobright.ai/jobs/info/68cda6fb1ad6b16f0289cf1a?utm_campaign=1055&utm_source=git)** | Westfield Center, OH | Hybrid | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
