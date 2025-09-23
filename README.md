@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for Biological Diversity](http://www.biologicaldiversity.org/)** | **[Law Clerk - Summer 2026 Endangered Species Program (two openings)](https://jobright.ai/jobs/info/68d263dba54edb3bf3e1ded4?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Sep 23 |
 | **[Pennsylvania Lumbermens Mutual Insurance Company](https://www.plmins.com)** | **[Policy Services Intern](https://jobright.ai/jobs/info/68d22624a54edb3bf3e1b1f4?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 22 |
 | **[GlobalFoundries](https://gf.com/)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68d1f403a54edb3bf3e17f8b?utm_campaign=1055&utm_source=git)** | Essex Junction, VT | Hybrid | Sep 22 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Contracts Administration (Remote or Hybrid)](https://jobright.ai/jobs/info/68d1ea3817554c2d9eee1046?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Sep 22 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[GlobalFoundries](https://gf.com/)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68d1a68f17554c2d9eede0dd?utm_campaign=1055&utm_source=git)** | USA - Vermont - Essex Junction | Hybrid | Sep 22 |
 | **[Brown Brothers Harriman](http://www.bbh.com)** | **[2026 Enterprise Risk Management Summer Internship](https://jobright.ai/jobs/info/68d1a3facece431f8b5866fe?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Sep 22 |
 | **[A-C Electric Company](http://a-celectric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68d1a33717554c2d9eedddf4?utm_campaign=1055&utm_source=git)** | Bakersfield, CA | On Site | Sep 22 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Regulatory Management Office Undergraduate Intern](https://jobright.ai/jobs/info/68d19e6c17554c2d9eedd5f1?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Sep 22 |
 | **[Brown Brothers Harriman](http://www.bbh.com)** | **[2026 Compliance Summer Internship](https://jobright.ai/jobs/info/68d19d7b8c62e63bc7fcd400?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Sep 22 |
 | **[Robinhood](https://www.robinhood.com)** | **[Fraud Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68d19d188c62e63bc7fcd367?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Sep 22 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Asset Protection Intern](https://jobright.ai/jobs/info/68d198b5cece431f8b5859db?utm_campaign=1055&utm_source=git)** | Salisbury, NC | Hybrid | Sep 22 |
@@ -134,6 +134,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Client Advisory Intern](https://jobright.ai/jobs/info/68cfdae4dbd9fb154edeb405?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Sep 21 |
 | **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Mergers & Acquisitions - Raleigh](https://jobright.ai/jobs/info/68cfea6adbd9fb154edebdde?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Sep 21 |
 | **[City of Warren, MI](http://www.cityofwarren.org)** | **[Part-Time Law Clerk](https://jobright.ai/jobs/info/68cfb684dbd9fb154edea59f?utm_campaign=1055&utm_source=git)** | Warren, MI | On Site | Sep 21 |
+| **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/68787169866a435525ab96d3?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 21 |
+| **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Legal & Compliance Analyst](https://jobright.ai/jobs/info/68b9422507090163b6ba9764?utm_campaign=1055&utm_source=git)** | Newport Beach, CA | On Site | Sep 21 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850c590d48c52e5f91024bf?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Sep 20 |
 | **[Citi](https://www.citi.com)** | **[Senior Legal Counsel for International Swaps and Derivatives Association and Markets Negotiations VP](https://jobright.ai/jobs/info/68b0a94713563e782a9f8393?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Sep 20 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b201ddbc187f64e1bd8ae4?utm_campaign=1055&utm_source=git)** | Dublin, OH | On Site | Sep 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://psu.edu)** | **[Geography ADA Compliance Assistant](https://jobright.ai/jobs/info/68cdbaadb2a74e1837edbba6?utm_campaign=1055&utm_source=git)** | University Park, PA | On Site | Sep 19 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68cdb97bb2a74e1837edba25?utm_campaign=1055&utm_source=git)** | Glasgow, KY | On Site | Sep 19 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/68cdb92e1ad6b16f0289e426?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Sep 19 |
-| **[Cottingham & Butler](https://www.cottinghambutler.com/)** | **[2026 Summer Claims Intern](https://jobright.ai/jobs/info/68cdb7cde23def7af55be8a6?utm_campaign=1055&utm_source=git)** | Dubuque, IA | On Site | Sep 19 |
-| **[Wellmark Blue Cross and Blue Shield](http://www.wellmark.com)** | **[Health Services Operations & Systems Internship – Health Care Innovation (Insure Your Future)](https://jobright.ai/jobs/info/68cdb1e0e23def7af55be565?utm_campaign=1055&utm_source=git)** | Des Moines, IA, USA | Hybrid | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
