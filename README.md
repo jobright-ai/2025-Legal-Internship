@@ -57,11 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Optiver](http://www.optiver.com)** | **[Compliance Intern 2026](https://jobright.ai/jobs/info/68d2f39d8c62e63bc7fdbed9?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 23 |
+| **[Voltus](https://www.voltus.co)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68d2f1878c62e63bc7fdbd3b?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 23 |
+| **[Sloan](https://www.sloan.com)** | **[Intern Regulatory & Product Compliance](https://jobright.ai/jobs/info/68d2f131f0d9af73038dd346?utm_campaign=1055&utm_source=git)** | Franklin Park, IL | Hybrid | Sep 23 |
+| **[State Street](http://www.statestreet.com)** | **[Conduct Risk Compliance Co-Op - Jan 2026](https://jobright.ai/jobs/info/68d2e3d18c62e63bc7fdb337?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 23 |
+| **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[Contract Administration (Summer Intern)](https://jobright.ai/jobs/info/68d2e02a8c62e63bc7fdb0f3?utm_campaign=1055&utm_source=git)** | Aiken, SC | On Site | Sep 23 |
 | **[State Street](http://www.statestreet.com)** | **[Conduct Risk Compliance  Co-Op - Jan 2026](https://jobright.ai/jobs/info/68d2dc4ff0d9af73038dc1b2?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts | On Site | Sep 23 |
 | **[Cohen Law Group](https://itsaboutjustice.law/)** | **[Legal Intern](https://jobright.ai/jobs/info/68d2db268c62e63bc7fdaee3?utm_campaign=1055&utm_source=git)** | Maitland, FL | On Site | Sep 23 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Material Damage Claims Intern - Summer 2026](https://jobright.ai/jobs/info/68d2d98717554c2d9eeeae05?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Sep 23 |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/68d2f0248c62e63bc7fdbb44?utm_campaign=1055&utm_source=git)** | Jackson, WY | On Site | Sep 23 |
+| ↳ | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/68d2f4638c62e63bc7fdbf68?utm_campaign=1055&utm_source=git)** | Newark, DE | On Site | Sep 23 |
+| **[SunOpta](https://www.sunopta.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68cb077d9e3a822f5d2417c9?utm_campaign=1055&utm_source=git)** | Eden Prairie, MN | On Site | Sep 23 |
 | **[FusionSite](https://fusionsiteservices.com/)** | **[Safety and Compliance Intern](https://jobright.ai/jobs/info/68d2c476f0d9af73038dacc3?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Sep 23 |
-| **[Invenergy](https://invenergy.com)** | **[Analyst, Project Controls Documents & Process](https://jobright.ai/jobs/info/68d2b25517554c2d9eee8f88?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 23 |
+| **[Invenergy](https://invenergy.com)** | **[Analyst, Project Controls Documents & Process](https://jobright.ai/jobs/info/68d2b1d98c62e63bc7fd8e62?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 23 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Student - Prosecutor's Office](https://jobright.ai/jobs/info/68d29b4617554c2d9eee86d1?utm_campaign=1055&utm_source=git)** | Pontiac, MI | On Site | Sep 23 |
 | **[Center for Biological Diversity](http://www.biologicaldiversity.org/)** | **[Law Clerk - Summer 2026 Endangered Species Program (two openings)](https://jobright.ai/jobs/info/68d263dba54edb3bf3e1ded4?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Sep 23 |
 | ↳ | **[Law Clerk - Spring 2026 Carnivore Conservation](https://jobright.ai/jobs/info/68d28923f0d9af73038d95a1?utm_campaign=1055&utm_source=git)** | Portland, OR | Remote | Sep 23 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Legal & Compliance Analyst](https://jobright.ai/jobs/info/68b9422507090163b6ba9764?utm_campaign=1055&utm_source=git)** | Newport Beach, CA | On Site | Sep 21 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850c590d48c52e5f91024bf?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Sep 20 |
 | **[Citi](https://www.citi.com)** | **[Senior Legal Counsel for International Swaps and Derivatives Association and Markets Negotiations VP](https://jobright.ai/jobs/info/68b0a94713563e782a9f8393?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Sep 20 |
-| **[IGS Energy](http://www.igsenergy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b201ddbc187f64e1bd8ae4?utm_campaign=1055&utm_source=git)** | Dublin, OH | On Site | Sep 20 |
-| **[Henkel](http://www.henkel.com)** | **[Global Trade Intern - Year-Round - 2026](https://jobright.ai/jobs/info/68b28516bc187f64e1bdc9b6?utm_campaign=1055&utm_source=git)** | Rocky Hill, CT | On Site | Sep 20 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – Legal / Media Law and First Amendment Intern](https://jobright.ai/jobs/info/68b24a781ade4306aa635509?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
-| **[ENFRA](https://enfrasolutions.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68cebddffb49c96ca6ea31c6?utm_campaign=1055&utm_source=git)** | US-LA-Metairie | On Site | Sep 20 |
-| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Cybersecurity Compliance Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68cfe4f5dbd9fb154edeb94d?utm_campaign=1055&utm_source=git)** | Sparks, NV | On Site | Sep 20 |
-| **[Hooks Meng & Clement, PLLC.](http://www.hmc.law)** | **[Law Clerk in our Carson City Office](https://jobright.ai/jobs/info/68b74b162124650c140216d7?utm_campaign=1055&utm_source=git)** | Carson City, NV | On Site | Sep 20 |
-| **[USAble Life](https://www.usablelife.com)** | **[Legal Internship Summer 2026 - Remote](https://jobright.ai/jobs/info/68cf9135fb49c96ca6ea97cb?utm_campaign=1055&utm_source=git)** | Little Rock, AR | Remote | Sep 19 |
-| **[Organic Valley](https://www.organicvalley.coop)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/68ce07831ad6b16f028a14b9?utm_campaign=1055&utm_source=git)** | Cashton, WI | Hybrid | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
