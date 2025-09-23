@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Student - Prosecutor's Office](https://jobright.ai/jobs/info/68d29b4617554c2d9eee86d1?utm_campaign=1055&utm_source=git)** | Pontiac, MI | On Site | Sep 23 |
 | **[Center for Biological Diversity](http://www.biologicaldiversity.org/)** | **[Law Clerk - Summer 2026 Endangered Species Program (two openings)](https://jobright.ai/jobs/info/68d263dba54edb3bf3e1ded4?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Sep 23 |
+| ↳ | **[Law Clerk - Spring 2026 Carnivore Conservation](https://jobright.ai/jobs/info/68d28923f0d9af73038d95a1?utm_campaign=1055&utm_source=git)** | Portland, OR | Remote | Sep 23 |
 | **[Pennsylvania Lumbermens Mutual Insurance Company](https://www.plmins.com)** | **[Policy Services Intern](https://jobright.ai/jobs/info/68d22624a54edb3bf3e1b1f4?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 22 |
 | **[GlobalFoundries](https://gf.com/)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68d1f403a54edb3bf3e17f8b?utm_campaign=1055&utm_source=git)** | Essex Junction, VT | Hybrid | Sep 22 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Contracts Administration (Remote or Hybrid)](https://jobright.ai/jobs/info/68d1ea3817554c2d9eee1046?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Sep 22 |
@@ -78,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[GlobalFoundries](https://gf.com/)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68d1a68f17554c2d9eede0dd?utm_campaign=1055&utm_source=git)** | USA - Vermont - Essex Junction | Hybrid | Sep 22 |
 | **[Brown Brothers Harriman](http://www.bbh.com)** | **[2026 Enterprise Risk Management Summer Internship](https://jobright.ai/jobs/info/68d1a3facece431f8b5866fe?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Sep 22 |
 | **[A-C Electric Company](http://a-celectric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68d1a33717554c2d9eedddf4?utm_campaign=1055&utm_source=git)** | Bakersfield, CA | On Site | Sep 22 |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Regulatory Management Office Undergraduate Intern](https://jobright.ai/jobs/info/68d29dc517554c2d9eee88c4?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Sep 22 |
 | **[Brown Brothers Harriman](http://www.bbh.com)** | **[2026 Compliance Summer Internship](https://jobright.ai/jobs/info/68d19d7b8c62e63bc7fcd400?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Sep 22 |
 | **[Robinhood](https://www.robinhood.com)** | **[Fraud Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68d19d188c62e63bc7fcd367?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Sep 22 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Asset Protection Intern](https://jobright.ai/jobs/info/68d198b5cece431f8b5859db?utm_campaign=1055&utm_source=git)** | Salisbury, NC | Hybrid | Sep 22 |
@@ -133,6 +136,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Client Advisory Intern](https://jobright.ai/jobs/info/68cfdc8ddbd9fb154edeb694?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Sep 21 |
 | ↳ | **[Client Advisory Intern](https://jobright.ai/jobs/info/68cfdc09dbd9fb154edeb5c6?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 21 |
 | ↳ | **[Client Advisory Intern](https://jobright.ai/jobs/info/68cfdae4dbd9fb154edeb405?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Sep 21 |
+| **[Henkel](http://www.henkel.com)** | **[Product Safety and Regulatory Affairs Intern – Summer 2026](https://jobright.ai/jobs/info/68ce7dad846f0b04af67a601?utm_campaign=1055&utm_source=git)** | Rocky Hill, CT | On Site | Sep 21 |
 | **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Mergers & Acquisitions - Raleigh](https://jobright.ai/jobs/info/68cfea6adbd9fb154edebdde?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Sep 21 |
 | **[City of Warren, MI](http://www.cityofwarren.org)** | **[Part-Time Law Clerk](https://jobright.ai/jobs/info/68cfb684dbd9fb154edea59f?utm_campaign=1055&utm_source=git)** | Warren, MI | On Site | Sep 21 |
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/68787169866a435525ab96d3?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ellis Porter - The Immigration Attorneys](https://www.ellisporter.com)** | **[Summer Law Clerk 2026](https://jobright.ai/jobs/info/68cdee7d1ad6b16f028a00ba?utm_campaign=1055&utm_source=git)** | Troy, MI | Hybrid | Sep 19 |
 | **[Cohen Law Group](https://itsaboutjustice.law/)** | **[Legal Intern](https://jobright.ai/jobs/info/68cde41c1ad6b16f0289fb1c?utm_campaign=1055&utm_source=git)** | Maitland, FL | On Site | Sep 19 |
 | **[MACOM](https://www.macom.com/)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/68cddffde23def7af55bfe2a?utm_campaign=1055&utm_source=git)** | Lowell, MA | On Site | Sep 19 |
-| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Cybersecurity Compliance Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68cddb0bb2a74e1837edcde5?utm_campaign=1055&utm_source=git)** | Sparks, NV | On Site | Sep 19 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68ce7274dbd9fb154eddfce9?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Sep 19 |
-| **[Penn State University](http://psu.edu)** | **[Geography ADA Compliance Assistant](https://jobright.ai/jobs/info/68cdbaadb2a74e1837edbba6?utm_campaign=1055&utm_source=git)** | University Park, PA | On Site | Sep 19 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68cdb97bb2a74e1837edba25?utm_campaign=1055&utm_source=git)** | Glasgow, KY | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
