@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68d331c717554c2d9eeee906?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 23 |
+| **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Underwriting Compliance Intern - North America Specialty Underwriting (Hybrid/Remote)](https://jobright.ai/jobs/info/68d3494a8c62e63bc7fdf5e7?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Sep 23 |
+| **[Segal](https://www.segalco.com)** | **[Summer Intern - Compliance](https://jobright.ai/jobs/info/68d33a91f0d9af73038e0190?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Sep 23 |
+| **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68d332b217554c2d9eeeea1e?utm_campaign=1055&utm_source=git)** | Warrenville, IL | On Site | Sep 23 |
+| ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68d3329d17554c2d9eeeea04?utm_campaign=1055&utm_source=git)** | Plymouth Meeting, PA | On Site | Sep 23 |
+| ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68d332228c62e63bc7fde7b1?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Sep 23 |
+| ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68d331ef8c62e63bc7fde760?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Sep 23 |
+| ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68d331c717554c2d9eeee906?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 23 |
 | ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68d3319217554c2d9eeee8bc?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Sep 23 |
 | ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68d331638c62e63bc7fde690?utm_campaign=1055&utm_source=git)** | Orange, CA | On Site | Sep 23 |
 | ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68d32d2f17554c2d9eeee6f6?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Sep 23 |
@@ -80,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[State Street](http://www.statestreet.com)** | **[Conduct Risk Compliance Co-Op - Jan 2026](https://jobright.ai/jobs/info/68d2e3d18c62e63bc7fdb337?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 23 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[Contract Administration (Summer Intern)](https://jobright.ai/jobs/info/68d2e02a8c62e63bc7fdb0f3?utm_campaign=1055&utm_source=git)** | Aiken, SC | On Site | Sep 23 |
 | **[State Street](http://www.statestreet.com)** | **[Conduct Risk Compliance  Co-Op - Jan 2026](https://jobright.ai/jobs/info/68d2dc4ff0d9af73038dc1b2?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts | On Site | Sep 23 |
-| **[AXA](https://www.axa.com/)** | **[Claims Analyst](https://jobright.ai/jobs/info/68d303eb17554c2d9eeecfa8?utm_campaign=1055&utm_source=git)** | Exton, PA | Hybrid | Sep 23 |
+| **[AXA](https://www.axa.com/)** | **[Claims Analyst](https://jobright.ai/jobs/info/68d3049217554c2d9eeed0ee?utm_campaign=1055&utm_source=git)** | Exton, PA | Hybrid | Sep 23 |
 | **[Cohen Law Group](https://itsaboutjustice.law/)** | **[Legal Intern](https://jobright.ai/jobs/info/68d2db268c62e63bc7fdaee3?utm_campaign=1055&utm_source=git)** | Maitland, FL | On Site | Sep 23 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Material Damage Claims Intern - Summer 2026](https://jobright.ai/jobs/info/68d2d98717554c2d9eeeae05?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Sep 23 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/68d2f0248c62e63bc7fdbb44?utm_campaign=1055&utm_source=git)** | Jackson, WY | On Site | Sep 23 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MFS Investment Management](https://www.mfs.com)** | **[SPRING 2026 - Compliance Co-ops (6 Months)](https://jobright.ai/jobs/info/68d103f97727df7d5a850314?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Sep 22 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[SPRING 2026 - Compliance Co-ops (6 Months)](https://jobright.ai/jobs/info/68d0d6ff17bd5d3415aa6ed4?utm_campaign=1055&utm_source=git)** | Boston | Hybrid | Sep 21 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern – Enterprise Risk Management](https://jobright.ai/jobs/info/687daac1764c3d7411c3d5d7?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | On Site | Sep 21 |
-| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/68d082c7fb49c96ca6eaf2fc?utm_campaign=1055&utm_source=git)** | 565 W Broadway Ave, Jackson, WY, 83001, US | On Site | Sep 21 |
-| ↳ | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/68d082a2846f0b04af688b99?utm_campaign=1055&utm_source=git)** | 500 Stanton Christiana Rd, Newark, DE, 19713, US | On Site | Sep 21 |
-| **[Chase](https://www.chase.com/)** | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/68d0803cfb49c96ca6eaf2c7?utm_campaign=1055&utm_source=git)** | 565 W Broadway Ave, Jackson, WY, 83001, US | On Site | Sep 21 |
-| ↳ | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/68d07ff7dbd9fb154edee9bc?utm_campaign=1055&utm_source=git)** | 500 Stanton Christiana Rd, Newark, DE, 19713, US | On Site | Sep 21 |
-| **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney’s Office Spring 2026 Legal Internship](https://jobright.ai/jobs/info/68cfadeadbd9fb154edea0cc?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 21 |
-| **[CAMBA](https://camba.org/)** | **[Housing Summer Intern, CAMBA Legal Services, Brooklyn](https://jobright.ai/jobs/info/68d0497ddbd9fb154edee401?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Sep 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
