@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68d35f0df0d9af73038e17b7?utm_campaign=1055&utm_source=git)** | United States | US-MN-Arden Hills,  N/A | Hybrid | Sep 23 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Underwriting Compliance Intern - North America Specialty Underwriting (Hybrid/Remote)](https://jobright.ai/jobs/info/68d3494a8c62e63bc7fdf5e7?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Sep 23 |
 | **[Segal](https://www.segalco.com)** | **[Summer Intern - Compliance](https://jobright.ai/jobs/info/68d33a91f0d9af73038e0190?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Sep 23 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68d332b217554c2d9eeeea1e?utm_campaign=1055&utm_source=git)** | Warrenville, IL | On Site | Sep 23 |
@@ -93,7 +94,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/68d2f4638c62e63bc7fdbf68?utm_campaign=1055&utm_source=git)** | Newark, DE | On Site | Sep 23 |
 | **[SunOpta](https://www.sunopta.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68cb077d9e3a822f5d2417c9?utm_campaign=1055&utm_source=git)** | Eden Prairie, MN | On Site | Sep 23 |
 | **[FusionSite](https://fusionsiteservices.com/)** | **[Safety and Compliance Intern](https://jobright.ai/jobs/info/68d2c476f0d9af73038dacc3?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Sep 23 |
-| **[Invenergy](https://invenergy.com)** | **[Analyst, Project Controls Documents & Process](https://jobright.ai/jobs/info/68d2b1d98c62e63bc7fd8e62?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 23 |
+| **[Invenergy](https://invenergy.com)** | **[Analyst, Project Controls Documents & Process](https://jobright.ai/jobs/info/68d2b25517554c2d9eee8f88?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 23 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Student - Prosecutor's Office](https://jobright.ai/jobs/info/68d29b4617554c2d9eee86d1?utm_campaign=1055&utm_source=git)** | Pontiac, MI | On Site | Sep 23 |
 | **[Center for Biological Diversity](http://www.biologicaldiversity.org/)** | **[Law Clerk - Summer 2026 Endangered Species Program (two openings)](https://jobright.ai/jobs/info/68d263dba54edb3bf3e1ded4?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Sep 23 |
 | ↳ | **[Law Clerk - Spring 2026 Carnivore Conservation](https://jobright.ai/jobs/info/68d28923f0d9af73038d95a1?utm_campaign=1055&utm_source=git)** | Portland, OR | Remote | Sep 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blackmore Partners Inc](http://blackmorepartnersinc.com)** | **[Legal Unpaid Intern – Corporate Counsel Track](https://jobright.ai/jobs/info/68ce90b5dbd9fb154ede0ccb?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 22 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[SPRING 2026 - Compliance Co-ops (6 Months)](https://jobright.ai/jobs/info/68d103f97727df7d5a850314?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Sep 22 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[SPRING 2026 - Compliance Co-ops (6 Months)](https://jobright.ai/jobs/info/68d0d6ff17bd5d3415aa6ed4?utm_campaign=1055&utm_source=git)** | Boston | Hybrid | Sep 21 |
-| **[MedPro Group](https://www.medpro.com/)** | **[Intern – Enterprise Risk Management](https://jobright.ai/jobs/info/687daac1764c3d7411c3d5d7?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | On Site | Sep 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
