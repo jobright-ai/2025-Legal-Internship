@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Public Defender, Central District of California](https://fpdcdca.org)** | **[Post-Bar and Public Interest Law Fellowship - Riverside](https://jobright.ai/jobs/info/68d37ea017554c2d9eef1d65?utm_campaign=1055&utm_source=git)** | Riverside, CA | On Site | Sep 23 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68d35f0df0d9af73038e17b7?utm_campaign=1055&utm_source=git)** | United States | US-MN-Arden Hills,  N/A | Hybrid | Sep 23 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Underwriting Compliance Intern - North America Specialty Underwriting (Hybrid/Remote)](https://jobright.ai/jobs/info/68d3494a8c62e63bc7fdf5e7?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Sep 23 |
 | **[Segal](https://www.segalco.com)** | **[Summer Intern - Compliance](https://jobright.ai/jobs/info/68d33a91f0d9af73038e0190?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Sep 23 |
@@ -87,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[State Street](http://www.statestreet.com)** | **[Conduct Risk Compliance Co-Op - Jan 2026](https://jobright.ai/jobs/info/68d2e3d18c62e63bc7fdb337?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 23 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[Contract Administration (Summer Intern)](https://jobright.ai/jobs/info/68d2e02a8c62e63bc7fdb0f3?utm_campaign=1055&utm_source=git)** | Aiken, SC | On Site | Sep 23 |
 | **[State Street](http://www.statestreet.com)** | **[Conduct Risk Compliance  Co-Op - Jan 2026](https://jobright.ai/jobs/info/68d2dc4ff0d9af73038dc1b2?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts | On Site | Sep 23 |
-| **[AXA](https://www.axa.com/)** | **[Claims Analyst](https://jobright.ai/jobs/info/68d3049217554c2d9eeed0ee?utm_campaign=1055&utm_source=git)** | Exton, PA | Hybrid | Sep 23 |
+| **[AXA](https://www.axa.com/)** | **[Claims Analyst](https://jobright.ai/jobs/info/68d303eb17554c2d9eeecfa8?utm_campaign=1055&utm_source=git)** | Exton, PA | Hybrid | Sep 23 |
 | **[Cohen Law Group](https://itsaboutjustice.law/)** | **[Legal Intern](https://jobright.ai/jobs/info/68d2db268c62e63bc7fdaee3?utm_campaign=1055&utm_source=git)** | Maitland, FL | On Site | Sep 23 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Material Damage Claims Intern - Summer 2026](https://jobright.ai/jobs/info/68d2d98717554c2d9eeeae05?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Sep 23 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/68d2f0248c62e63bc7fdbb44?utm_campaign=1055&utm_source=git)** | Jackson, WY | On Site | Sep 23 |
@@ -100,6 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Law Clerk - Spring 2026 Carnivore Conservation](https://jobright.ai/jobs/info/68d28923f0d9af73038d95a1?utm_campaign=1055&utm_source=git)** | Portland, OR | Remote | Sep 23 |
 | **[HNTB](http://www.hntb.com/)** | **[Procurement and Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68cf63e1846f0b04af681c7d?utm_campaign=1055&utm_source=git)** | Bellevue, WA | On Site | Sep 22 |
 | **[Pennsylvania Lumbermens Mutual Insurance Company](https://www.plmins.com)** | **[Policy Services Intern](https://jobright.ai/jobs/info/68d22624a54edb3bf3e1b1f4?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 22 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern - Regulatory Affairs - Plymouth. MN - Summer 2026](https://jobright.ai/jobs/info/68d37fde952b4a32e23d64f1?utm_campaign=1055&utm_source=git)** | Plymouth, MA | On Site | Sep 22 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68cc408f7342c7623ae61a38?utm_campaign=1055&utm_source=git)** | Paducah, KY | On Site | Sep 22 |
 | **[GlobalFoundries](https://gf.com/)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68d1f403a54edb3bf3e17f8b?utm_campaign=1055&utm_source=git)** | Essex Junction, VT | Hybrid | Sep 22 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Contracts Administration (Remote or Hybrid)](https://jobright.ai/jobs/info/68d1ea3817554c2d9eee1046?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Sep 22 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Corporate & Business Development - Legal - Hybrid](https://jobright.ai/jobs/info/68d1ddab17554c2d9eee05c8?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | Hybrid | Sep 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Undergraduate Internship - Audit, Risk, & Compliance](https://jobright.ai/jobs/info/68d151d68c62e63bc7fca4e8?utm_campaign=1055&utm_source=git)** | Smithfield, RI | Hybrid | Sep 22 |
 | ↳ | **[Summer 2026 Undergraduate Internship - Audit, Risk, & Compliance](https://jobright.ai/jobs/info/68d150d2fa731f61692ddf7a?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | Hybrid | Sep 22 |
 | ↳ | **[Summer 2026 Undergraduate Internship - Audit, Risk, & Compliance](https://jobright.ai/jobs/info/68d15056fa731f61692ddedb?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Sep 22 |
-| **[Blackmore Partners Inc](http://blackmorepartnersinc.com)** | **[Legal Unpaid Intern – Corporate Counsel Track](https://jobright.ai/jobs/info/68ce90b5dbd9fb154ede0ccb?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 22 |
-| **[MFS Investment Management](https://www.mfs.com)** | **[SPRING 2026 - Compliance Co-ops (6 Months)](https://jobright.ai/jobs/info/68d103f97727df7d5a850314?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Sep 22 |
-| **[MFS Investment Management](https://www.mfs.com)** | **[SPRING 2026 - Compliance Co-ops (6 Months)](https://jobright.ai/jobs/info/68d0d6ff17bd5d3415aa6ed4?utm_campaign=1055&utm_source=git)** | Boston | Hybrid | Sep 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
