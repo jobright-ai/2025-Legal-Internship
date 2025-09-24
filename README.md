@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Legal and Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/68d3f1f55ae5a90cfd4823ae?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Sep 24 |
 | **[Joslyn Law Firm](https://www.criminalattorneycolumbus.com)** | **[Intern](https://jobright.ai/jobs/info/68d3c9ac5ae5a90cfd481b44?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Sep 24 |
+| **[Midcontinent Independent System Operator (MISO)](https://www.misoenergy.org/)** | **[2026 Summer Intern - Regulatory Affairs & Compliance](https://jobright.ai/jobs/info/68b7822d2124650c14023439?utm_campaign=1055&utm_source=git)** | Eagan, MN | On Site | Sep 24 |
 | **[TC Energy](https://www.tcenergy.com/)** | **[Criminal Justice Intern, Advisors & Investigation](https://jobright.ai/jobs/info/68d3bbfb952b4a32e23d8c4c?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Sep 24 |
 | **[Federal Public Defender, Central District of California](https://fpdcdca.org)** | **[Post-Bar and Public Interest Law Fellowship - Riverside](https://jobright.ai/jobs/info/68d37ea017554c2d9eef1d65?utm_campaign=1055&utm_source=git)** | Riverside, CA | On Site | Sep 23 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Trust Services Internship Program - Early Careers](https://jobright.ai/jobs/info/68d3978117554c2d9eef32d9?utm_campaign=1055&utm_source=git)** | WINSTON SALEM, NC | On Site | Sep 23 |
-| ↳ | **[2026 Trust Services Internship Program - Early Careers](https://jobright.ai/jobs/info/68d39656952b4a32e23d771a?utm_campaign=1055&utm_source=git)** | AUSTIN, TX | On Site | Sep 23 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Trust Services Internship Program - Early Careers](https://jobright.ai/jobs/info/68d39656952b4a32e23d771a?utm_campaign=1055&utm_source=git)** | AUSTIN, TX | On Site | Sep 23 |
+| ↳ | **[2026 Trust Services Internship Program - Early Careers](https://jobright.ai/jobs/info/68d3978117554c2d9eef32d9?utm_campaign=1055&utm_source=git)** | WINSTON SALEM, NC | On Site | Sep 23 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68d35f0df0d9af73038e17b7?utm_campaign=1055&utm_source=git)** | United States | US-MN-Arden Hills,  N/A | Hybrid | Sep 23 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Underwriting Compliance Intern - North America Specialty Underwriting (Hybrid/Remote)](https://jobright.ai/jobs/info/68d3494a8c62e63bc7fdf5e7?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Sep 23 |
 | **[Segal](https://www.segalco.com)** | **[Summer Intern - Compliance](https://jobright.ai/jobs/info/68d33a91f0d9af73038e0190?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Sep 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1683cfa731f61692deab5?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Sep 22 |
 | ↳ | **[Fraud Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68d168318c62e63bc7fcafec?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Sep 22 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Regulatory Management Office Undergraduate Intern](https://jobright.ai/jobs/info/68d152b2cece431f8b582d55?utm_campaign=1055&utm_source=git)** | Pittsburgh PA, 15222, FAP, 5th Avenue Place | Hybrid | Sep 22 |
-| **[Fidelity Investments](https://www.fidelity.com)** | **[Summer 2026 Undergraduate Internship - Audit, Risk, & Compliance](https://jobright.ai/jobs/info/68d1524f8c62e63bc7fca569?utm_campaign=1055&utm_source=git)** | Westlake, TX | Hybrid | Sep 22 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6880c48b29ad6b2744adbab9?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
