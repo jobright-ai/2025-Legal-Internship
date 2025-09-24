@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TC Energy](https://www.tcenergy.com/)** | **[Criminal Justice Intern, Advisors & Investigation](https://jobright.ai/jobs/info/68d3bbfb952b4a32e23d8c4c?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Sep 24 |
 | **[Federal Public Defender, Central District of California](https://fpdcdca.org)** | **[Post-Bar and Public Interest Law Fellowship - Riverside](https://jobright.ai/jobs/info/68d37ea017554c2d9eef1d65?utm_campaign=1055&utm_source=git)** | Riverside, CA | On Site | Sep 23 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Trust Services Internship Program - Early Careers](https://jobright.ai/jobs/info/68d39656952b4a32e23d771a?utm_campaign=1055&utm_source=git)** | AUSTIN, TX | On Site | Sep 23 |
+| ↳ | **[2026 Trust Services Internship Program - Early Careers](https://jobright.ai/jobs/info/68d3978117554c2d9eef32d9?utm_campaign=1055&utm_source=git)** | WINSTON SALEM, NC | On Site | Sep 23 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68d35f0df0d9af73038e17b7?utm_campaign=1055&utm_source=git)** | United States | US-MN-Arden Hills,  N/A | Hybrid | Sep 23 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Underwriting Compliance Intern - North America Specialty Underwriting (Hybrid/Remote)](https://jobright.ai/jobs/info/68d3494a8c62e63bc7fdf5e7?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Sep 23 |
 | **[Segal](https://www.segalco.com)** | **[Summer Intern - Compliance](https://jobright.ai/jobs/info/68d33a91f0d9af73038e0190?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Sep 23 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Law School / Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/68d39f4117554c2d9eef3aa3?utm_campaign=1055&utm_source=git)** | Memphis, TN | Hybrid | Sep 23 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68d332b217554c2d9eeeea1e?utm_campaign=1055&utm_source=git)** | Warrenville, IL | On Site | Sep 23 |
 | ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68d3329d17554c2d9eeeea04?utm_campaign=1055&utm_source=git)** | Plymouth Meeting, PA | On Site | Sep 23 |
 | ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68d332228c62e63bc7fde7b1?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Sep 23 |
@@ -95,13 +99,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/68d2f4638c62e63bc7fdbf68?utm_campaign=1055&utm_source=git)** | Newark, DE | On Site | Sep 23 |
 | **[SunOpta](https://www.sunopta.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68cb077d9e3a822f5d2417c9?utm_campaign=1055&utm_source=git)** | Eden Prairie, MN | On Site | Sep 23 |
 | **[FusionSite](https://fusionsiteservices.com/)** | **[Safety and Compliance Intern](https://jobright.ai/jobs/info/68d2c476f0d9af73038dacc3?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Sep 23 |
-| **[Invenergy](https://invenergy.com)** | **[Analyst, Project Controls Documents & Process](https://jobright.ai/jobs/info/68d2b25517554c2d9eee8f88?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 23 |
+| **[Invenergy](https://invenergy.com)** | **[Analyst, Project Controls Documents & Process](https://jobright.ai/jobs/info/68d2b1d98c62e63bc7fd8e62?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 23 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Student - Prosecutor's Office](https://jobright.ai/jobs/info/68d29b4617554c2d9eee86d1?utm_campaign=1055&utm_source=git)** | Pontiac, MI | On Site | Sep 23 |
 | **[Center for Biological Diversity](http://www.biologicaldiversity.org/)** | **[Law Clerk - Summer 2026 Endangered Species Program (two openings)](https://jobright.ai/jobs/info/68d263dba54edb3bf3e1ded4?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Sep 23 |
 | ↳ | **[Law Clerk - Spring 2026 Carnivore Conservation](https://jobright.ai/jobs/info/68d28923f0d9af73038d95a1?utm_campaign=1055&utm_source=git)** | Portland, OR | Remote | Sep 23 |
 | **[HNTB](http://www.hntb.com/)** | **[Procurement and Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68cf63e1846f0b04af681c7d?utm_campaign=1055&utm_source=git)** | Bellevue, WA | On Site | Sep 22 |
 | **[Pennsylvania Lumbermens Mutual Insurance Company](https://www.plmins.com)** | **[Policy Services Intern](https://jobright.ai/jobs/info/68d22624a54edb3bf3e1b1f4?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 22 |
-| **[Philips](https://www.usa.philips.com)** | **[Intern - Regulatory Affairs - Plymouth. MN - Summer 2026](https://jobright.ai/jobs/info/68d37fde952b4a32e23d64f1?utm_campaign=1055&utm_source=git)** | Plymouth, MA | On Site | Sep 22 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68cc408f7342c7623ae61a38?utm_campaign=1055&utm_source=git)** | Paducah, KY | On Site | Sep 22 |
 | **[GlobalFoundries](https://gf.com/)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68d1f403a54edb3bf3e17f8b?utm_campaign=1055&utm_source=git)** | Essex Junction, VT | Hybrid | Sep 22 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Contracts Administration (Remote or Hybrid)](https://jobright.ai/jobs/info/68d1ea3817554c2d9eee1046?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Sep 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6880c48b29ad6b2744adbab9?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Sep 22 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Summer 2026 Undergraduate Internship - Audit, Risk, & Compliance](https://jobright.ai/jobs/info/68d1522ccece431f8b582cd1?utm_campaign=1055&utm_source=git)** | Merrimack, NH | Hybrid | Sep 22 |
 | ↳ | **[Summer 2026 Undergraduate Internship - Audit, Risk, & Compliance](https://jobright.ai/jobs/info/68d15220cece431f8b582cc4?utm_campaign=1055&utm_source=git)** | Covington, KY | Hybrid | Sep 22 |
-| ↳ | **[Summer 2026 Undergraduate Internship - Audit, Risk, & Compliance](https://jobright.ai/jobs/info/68d151d68c62e63bc7fca4e8?utm_campaign=1055&utm_source=git)** | Smithfield, RI | Hybrid | Sep 22 |
-| ↳ | **[Summer 2026 Undergraduate Internship - Audit, Risk, & Compliance](https://jobright.ai/jobs/info/68d150d2fa731f61692ddf7a?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | Hybrid | Sep 22 |
-| ↳ | **[Summer 2026 Undergraduate Internship - Audit, Risk, & Compliance](https://jobright.ai/jobs/info/68d15056fa731f61692ddedb?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
