@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medartis Inc. - United States](https://www.medartisusa.com)** | **[Legal and Compliance Intern](https://jobright.ai/jobs/info/68d4833b8c62e63bc7fe9e41?utm_campaign=1055&utm_source=git)** | Warsaw, IN | On Site | Sep 24 |
+| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Security Risk & Compliance](https://jobright.ai/jobs/info/68d4817f77769e778f50982f?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Sep 24 |
+| **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern- Cyber Compliance](https://jobright.ai/jobs/info/68d476e0ffc1276de3fdb072?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Sep 24 |
+| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Risk Control Trainee](https://jobright.ai/jobs/info/68d475c38c62e63bc7fe9828?utm_campaign=1055&utm_source=git)** | One Park Circle, Westfield Center, OH, 44251-5001, US | Hybrid | Sep 24 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Information Security Risk and Compliance Intern](https://jobright.ai/jobs/info/68d46723ffc1276de3fda9ab?utm_campaign=1055&utm_source=git)** | Remote - New Jersey | Remote | Sep 24 |
 | ↳ | **[Information Security Risk and Compliance Intern](https://jobright.ai/jobs/info/68d466c7ffc1276de3fda8fe?utm_campaign=1055&utm_source=git)** | Remote - Los Angeles | Remote | Sep 24 |
 | ↳ | **[Information Security Risk and Compliance Intern](https://jobright.ai/jobs/info/68d4668a77769e778f508bd2?utm_campaign=1055&utm_source=git)** | Remote - Connecticut | Remote | Sep 24 |
@@ -115,14 +119,14 @@ For a complete list, click the following sortable link below:
 | **[State Street](http://www.statestreet.com)** | **[Conduct Risk Compliance Co-Op - Jan 2026](https://jobright.ai/jobs/info/68d2e3d18c62e63bc7fdb337?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 23 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[Contract Administration (Summer Intern)](https://jobright.ai/jobs/info/68d2e02a8c62e63bc7fdb0f3?utm_campaign=1055&utm_source=git)** | Aiken, SC | On Site | Sep 23 |
 | **[State Street](http://www.statestreet.com)** | **[Conduct Risk Compliance  Co-Op - Jan 2026](https://jobright.ai/jobs/info/68d2dc4ff0d9af73038dc1b2?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts | On Site | Sep 23 |
-| **[AXA](https://www.axa.com/)** | **[Claims Analyst](https://jobright.ai/jobs/info/68d303eb17554c2d9eeecfa8?utm_campaign=1055&utm_source=git)** | Exton, PA | Hybrid | Sep 23 |
+| **[AXA](https://www.axa.com/)** | **[Claims Analyst](https://jobright.ai/jobs/info/68d3049217554c2d9eeed0ee?utm_campaign=1055&utm_source=git)** | Exton, PA | Hybrid | Sep 23 |
 | **[Cohen Law Group](https://itsaboutjustice.law/)** | **[Legal Intern](https://jobright.ai/jobs/info/68d2db268c62e63bc7fdaee3?utm_campaign=1055&utm_source=git)** | Maitland, FL | On Site | Sep 23 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Material Damage Claims Intern - Summer 2026](https://jobright.ai/jobs/info/68d2d98717554c2d9eeeae05?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Sep 23 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/68d2f0248c62e63bc7fdbb44?utm_campaign=1055&utm_source=git)** | Jackson, WY | On Site | Sep 23 |
 | ↳ | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/68d2f4638c62e63bc7fdbf68?utm_campaign=1055&utm_source=git)** | Newark, DE | On Site | Sep 23 |
 | **[SunOpta](https://www.sunopta.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68cb077d9e3a822f5d2417c9?utm_campaign=1055&utm_source=git)** | Eden Prairie, MN | On Site | Sep 23 |
 | **[FusionSite](https://fusionsiteservices.com/)** | **[Safety and Compliance Intern](https://jobright.ai/jobs/info/68d2c476f0d9af73038dacc3?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Sep 23 |
-| **[Invenergy](https://invenergy.com)** | **[Analyst, Project Controls Documents & Process](https://jobright.ai/jobs/info/68d2b25517554c2d9eee8f88?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 23 |
+| **[Invenergy](https://invenergy.com)** | **[Analyst, Project Controls Documents & Process](https://jobright.ai/jobs/info/68d2b1d98c62e63bc7fd8e62?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 23 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Student - Prosecutor's Office](https://jobright.ai/jobs/info/68d29b4617554c2d9eee86d1?utm_campaign=1055&utm_source=git)** | Pontiac, MI | On Site | Sep 23 |
 | **[Center for Biological Diversity](http://www.biologicaldiversity.org/)** | **[Law Clerk - Summer 2026 Endangered Species Program (two openings)](https://jobright.ai/jobs/info/68d263dba54edb3bf3e1ded4?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Sep 23 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Risk Management SME (CI Poly) (SkillBridge Intern) - 17408](https://jobright.ai/jobs/info/682ab9f5d37c869596eabb93?utm_campaign=1055&utm_source=git)** | Fort Meade, MD | On Site | Sep 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Corporate Functions Control Management, American Express National Bank - New York, NY](https://jobright.ai/jobs/info/68b55030f4e41a61efd8f5d3?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 22 |
 | **[Brown Brothers Harriman](http://www.bbh.com)** | **[2026 Compliance Summer Internship](https://jobright.ai/jobs/info/68d19d7b8c62e63bc7fcd400?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Sep 22 |
 | **[Robinhood](https://www.robinhood.com)** | **[Fraud Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68d19d188c62e63bc7fcd367?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Sep 22 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Asset Protection Intern](https://jobright.ai/jobs/info/68d198b5cece431f8b5859db?utm_campaign=1055&utm_source=git)** | Salisbury, NC | Hybrid | Sep 22 |
-| ↳ | **[Asset Protection Intern](https://jobright.ai/jobs/info/68d19769cece431f8b585898?utm_campaign=1055&utm_source=git)** | Carlisle, PA | Hybrid | Sep 22 |
-| **[VanEck](http://www.vaneck.com/)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/68d196ee8c62e63bc7fcd0e5?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Sep 22 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/68989dc15574fd6bc0c7a391?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
