@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[Student Extern - Cybersecurity Risk Management](https://jobright.ai/jobs/info/68d4e1548c62e63bc7fed6ee?utm_campaign=1055&utm_source=git)** | Houston, TX | Remote | Sep 24 |
 | **[Swiss Re](http://www.swissre.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/68d4a3c3ffc1276de3fdcc17?utm_campaign=1055&utm_source=git)** | Armonk, NY | On Site | Sep 24 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Security Risk & Compliance](https://jobright.ai/jobs/info/68d4a226ffc1276de3fdcb1b?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Sep 24 |
 | **[Agropur](http://www.agropur.com/en/)** | **[Loss Prevention Intern](https://jobright.ai/jobs/info/68d49e24fcd3367e8df16437?utm_campaign=1055&utm_source=git)** | Wisconsin, United States | On Site | Sep 24 |
@@ -148,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Risk Management SME (CI Poly) (SkillBridge Intern) - 17408](https://jobright.ai/jobs/info/682ab9f5d37c869596eabb93?utm_campaign=1055&utm_source=git)** | Fort Meade, MD | On Site | Sep 23 |
 | **[Center for Biological Diversity](http://www.biologicaldiversity.org/)** | **[Law Clerk - Spring 2026 Carnivore Conservation](https://jobright.ai/jobs/info/68d28923f0d9af73038d95a1?utm_campaign=1055&utm_source=git)** | Portland, OR | Remote | Sep 23 |
 | **[HNTB](http://www.hntb.com/)** | **[Procurement and Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68cf63e1846f0b04af681c7d?utm_campaign=1055&utm_source=git)** | Bellevue, WA | On Site | Sep 22 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern - Regulatory Affairs - Plymouth. MN - Summer 2026](https://jobright.ai/jobs/info/68d4e558ffc1276de3fdf47b?utm_campaign=1055&utm_source=git)** | Plymouth, MA | On Site | Sep 22 |
 | **[Pennsylvania Lumbermens Mutual Insurance Company](https://www.plmins.com)** | **[Policy Services Intern](https://jobright.ai/jobs/info/68d22624a54edb3bf3e1b1f4?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Sep 22 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68cc408f7342c7623ae61a38?utm_campaign=1055&utm_source=git)** | Paducah, KY | On Site | Sep 22 |
 | **[GlobalFoundries](https://gf.com/)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68d1f403a54edb3bf3e17f8b?utm_campaign=1055&utm_source=git)** | Essex Junction, VT | Hybrid | Sep 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BNY](https://www.bny.com)** | **[2026 BNY Analyst Program - Risk & Compliance (Lake Mary, FL)](https://jobright.ai/jobs/info/68c9b21b95f5211cd2cf2fc7?utm_campaign=1055&utm_source=git)** | Lake Mary, FL | On Site | Sep 22 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Corporate & Business Development - Legal - Hybrid](https://jobright.ai/jobs/info/68d1ddab17554c2d9eee05c8?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | Hybrid | Sep 22 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Global Trade Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68d1d77517554c2d9eee025c?utm_campaign=1055&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 22 |
-| **[AllianceBernstein](http://www.alliancebernstein.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68d2854817554c2d9eee8096?utm_campaign=1055&utm_source=git)** | Nashville, Tennessee | On Site | Sep 22 |
-| **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Contracts Administration (Remote or Hybrid)](https://jobright.ai/jobs/info/68d1b68fa54edb3bf3e155f9?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
