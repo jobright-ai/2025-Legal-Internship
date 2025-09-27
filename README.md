@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amica Center for Immigrant Rights](https://www.caircoalition.org)** | **[Undergraduate Internship- Detained Adult Program, Direct Representation](https://jobright.ai/jobs/info/68d74ea9f9dbe42bf62c162f?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Sep 26 |
+| **[Brookfield](https://bam.brookfield.com)** | **[Intern, PSG Compliance](https://jobright.ai/jobs/info/68d748ebe5293e3538af391e?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 26 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Paralegal](https://jobright.ai/jobs/info/68d73a7dd3fe025a3015fbd7?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | Hybrid | Sep 26 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d734b5894705799a2f1566?utm_campaign=1055&utm_source=git)** | Stockton, California, USA | On Site | Sep 26 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d73499d3fe025a3015f8fc?utm_campaign=1055&utm_source=git)** | Jacksonville, Florida, USA | On Site | Sep 26 |
@@ -68,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[NinjaHoldings](https://www.ninjaholdings.com/)** | **[In-House Summer Legal Intern](https://jobright.ai/jobs/info/68d733cf894705799a2f1471?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 26 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7331445853d0e39ccd79f?utm_campaign=1055&utm_source=git)** | Mt Juliet, Tennessee, USA | On Site | Sep 26 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7331445853d0e39ccd79e?utm_campaign=1055&utm_source=git)** | Union, Ohio, USA | On Site | Sep 26 |
+| **[Energy Transfer](http://www.energytransfer.com)** | **[Intern -  Legal](https://jobright.ai/jobs/info/68d7545661a175619f8c83fe?utm_campaign=1055&utm_source=git)** | HOUSTON, Texas, United States | On Site | Sep 26 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68d72627894705799a2f106a?utm_campaign=1055&utm_source=git)** | Paducah, KY | On Site | Sep 26 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/68d72398894705799a2f0e01?utm_campaign=1055&utm_source=git)** | Prestonsburg, KY | On Site | Sep 26 |
 | ↳ | **[Law Clerk](https://jobright.ai/jobs/info/68d7208b45853d0e39ccd157?utm_campaign=1055&utm_source=git)** | Catlettsburg, KY | On Site | Sep 26 |
@@ -78,12 +81,15 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://ohio.gov/)** | **[Legal Intern Spring 2026 (Prison Legal Services Section)](https://jobright.ai/jobs/info/68d70d7445853d0e39ccc7f2?utm_campaign=1055&utm_source=git)** | Lorain County, OH | On Site | Sep 26 |
 | **[FM](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68d70cdfd3fe025a3015e8c5?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Sep 26 |
 | **[Amica Insurance](http://www.amica.com)** | **[Sr. Student Intern – Risk Management](https://jobright.ai/jobs/info/68d70c3ad3fe025a3015e7e1?utm_campaign=1055&utm_source=git)** | Rhode Island, United States | Hybrid | Sep 26 |
+| **[NinjaHoldings](https://www.ninjaholdings.com/)** | **[In-House Summer Legal Intern](https://jobright.ai/jobs/info/68d7591861a175619f8c99de?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 26 |
 | **[Ibotta](https://home.ibotta.com)** | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d70a17894705799a2f0310?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, PSG Compliance](https://jobright.ai/jobs/info/68d708e6894705799a2f008d?utm_campaign=1055&utm_source=git)** | Chicago, Illinois | On Site | Sep 26 |
-| **[State of Ohio](http://ohio.gov/)** | **[Legal Intern Spring 2026 (Prison Legal Services Section)](https://jobright.ai/jobs/info/68d702e9d3fe025a3015dfd2?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Lorain County | Hybrid | Sep 26 |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Legal Research Intern - Illinois Policy Institute](https://jobright.ai/jobs/info/68d757e861a175619f8c921c?utm_campaign=1055&utm_source=git)** | Illinois, United States | Remote | Sep 26 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/68d6ffad894705799a2ef961?utm_campaign=1055&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Sep 26 |
+| **[State of Ohio](http://ohio.gov/)** | **[Legal Intern Spring 2026 (Prison Legal Services Section)](https://jobright.ai/jobs/info/68d6ff0ad3fe025a3015dcb3?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Lorain County | Hybrid | Sep 26 |
 | **[Ibotta](https://home.ibotta.com)** | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d6fe6045853d0e39ccbb81?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
-| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Paralegal](https://jobright.ai/jobs/info/68d6ea82894705799a2eeb47?utm_campaign=1055&utm_source=git)** | Fort Mill/Charlotte | Hybrid | Sep 26 |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Legal Research Intern - Illinois Policy Institute](https://jobright.ai/jobs/info/68d757d161a175619f8c90ae?utm_campaign=1055&utm_source=git)** | Illinois | Remote | Sep 26 |
+| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Paralegal](https://jobright.ai/jobs/info/68d6eb94894705799a2eec6f?utm_campaign=1055&utm_source=git)** | Fort Mill/Charlotte | Hybrid | Sep 26 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Global Trade Compliance and Security Intern](https://jobright.ai/jobs/info/68d6ea5945853d0e39ccb027?utm_campaign=1055&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Sep 26 |
 | **[Amica Center for Immigrant Rights](https://www.caircoalition.org)** | **[Undergraduate Internship- Detained Adult Program, Direct Representation](https://jobright.ai/jobs/info/68d6e2efd3fe025a3015cb00?utm_campaign=1055&utm_source=git)** | Fully Remote | Remote | Sep 26 |
 | ↳ | **[Legal Internship- Detained Adult Program, Direct Representation](https://jobright.ai/jobs/info/68d6e2ef894705799a2ee56d?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Sep 26 |
@@ -106,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Spring 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/68d6473a4736ff202fdd2093?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Sep 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC Entertainment & Hulu Business Affairs JD Intern, Spring 2026](https://jobright.ai/jobs/info/68d645d74736ff202fdd1f14?utm_campaign=1055&utm_source=git)** | Burbank, CA, USA | Hybrid | Sep 26 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Spring 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/68d642864736ff202fdd1e19?utm_campaign=1055&utm_source=git)** | Los Angeles, California, USA | On Site | Sep 26 |
-| **[Verizon Connect](https://www.verizonconnect.com/)** | **[Southern Methodist University Legal Summer 2026 Internship](https://jobright.ai/jobs/info/68d62aa7ebcef82ef5cf6fed?utm_campaign=1055&utm_source=git)** | Irving, TX | Hybrid | Sep 25 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[2L Legal Intern](https://jobright.ai/jobs/info/68d626c8894705799a2e806f?utm_campaign=1055&utm_source=git)** | Boulder, CO | On Site | Sep 25 |
 | ↳ | **[2L Legal Intern](https://jobright.ai/jobs/info/68d6264aebcef82ef5cf6d3c?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Sep 25 |
 | **[State of Illinois](https://www2.illinois.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68d6140a63d77d6f6f3f46c0?utm_campaign=1055&utm_source=git)** | Chicago, IL | Remote | Sep 25 |
@@ -145,16 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Texas Southern University Legal Summer 2026 Internship](https://jobright.ai/jobs/info/68d5e33e1f7fb2169ab1454c?utm_campaign=1055&utm_source=git)** | San Francisco, California | Hybrid | Sep 25 |
 | ↳ | **[Verizon Legal Internship - Summer 2026 - Basking Ridge, NJ](https://jobright.ai/jobs/info/68d5e3371f7fb2169ab14546?utm_campaign=1055&utm_source=git)** | Basking Ridge, New Jersey | Hybrid | Sep 25 |
 | ↳ | **[Southern Methodist University Legal Summer 2026 Internship](https://jobright.ai/jobs/info/68d5e31e63d77d6f6f3f2e63?utm_campaign=1055&utm_source=git)** | Irving, Texas | Hybrid | Sep 25 |
-| ↳ | **[Texas Southern University Legal Summer 2026 Internship](https://jobright.ai/jobs/info/68d5d9cb63d77d6f6f3f2b77?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Sep 25 |
+| **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern - June 2026](https://jobright.ai/jobs/info/68cc43307342c7623ae61e7b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 25 |
+| **[Kennedys](http://kennedyslaw.com)** | **[Part Time Law Clerk](https://jobright.ai/jobs/info/689cc873faa4e875e826a778?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Sep 25 |
+| **[Verizon](https://www.verizon.com)** | **[Texas Southern University Legal Summer 2026 Internship](https://jobright.ai/jobs/info/68d5d9cb63d77d6f6f3f2b77?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Sep 25 |
 | **[Nethermind](https://www.nethermind.io)** | **[Risk Assistant Internship](https://jobright.ai/jobs/info/68d65e68ebcef82ef5cfa19b?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 25 |
 | **[Verizon](https://www.verizon.com)** | **[Verizon Legal Summer 2026 Internship - Rolling Meadows, IL](https://jobright.ai/jobs/info/68d5d7692116ff37ee090ac2?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | On Site | Sep 25 |
 | ↳ | **[Verizon Legal Internship - Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/68d5d7642116ff37ee090abd?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Sep 25 |
 | ↳ | **[Southern Methodist University Legal Summer 2026 Internship](https://jobright.ai/jobs/info/68d5d5e02116ff37ee0909af?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Sep 25 |
-| ↳ | **[Texas Southern University Legal Summer 2026 Internship](https://jobright.ai/jobs/info/68d5d56a2116ff37ee090948?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Sep 25 |
-| **[Doherty Enterprises](http://dohertyinc.com)** | **[Real Estate & Legal Intern](https://jobright.ai/jobs/info/68d5d3a463d77d6f6f3f291e?utm_campaign=1055&utm_source=git)** | US-NJ-Allendale | On Site | Sep 25 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68d5d37c63d77d6f6f3f28fb?utm_campaign=1055&utm_source=git)** | Hazard, KY | On Site | Sep 25 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office Business Administration Intern](https://jobright.ai/jobs/info/68d5d36f1f7fb2169ab14081?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Sep 25 |
-| **[Doherty Enterprises](http://dohertyinc.com)** | **[Real Estate & Legal Intern](https://jobright.ai/jobs/info/68d5d2fc2116ff37ee0907ed?utm_campaign=1055&utm_source=git)** | Doherty Remote NJ | Remote | Sep 25 |
-| **[Landry Legal, PLLC](http://landrypllc.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68d606d763d77d6f6f3f3d5d?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 25 |
-| **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Law Clerk - Pittsburgh, PA](https://jobright.ai/jobs/info/68d5f1982116ff37ee091602?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
