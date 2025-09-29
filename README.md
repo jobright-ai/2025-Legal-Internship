@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Legal Intern Spring 2026 (Prison Legal Services Section)](https://jobright.ai/jobs/info/68d70d7445853d0e39ccc7f2?utm_campaign=1055&utm_source=git)** | Lorain County, OH | On Site | Sep 29 |
 | **[Amica Center for Immigrant Rights](https://www.caircoalition.org)** | **[Legal Internship- Detained Adult Program, Direct Representation](https://jobright.ai/jobs/info/68da3ab40b832179ca4aca82?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Sep 29 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/68da394f0b832179ca4aca30?utm_campaign=1055&utm_source=git)** | Los Angeles, California, USA | On Site | Sep 29 |
 | ↳ | **[Summer 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/68da38283c03cd327094481b?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
 | **[CNO Financial Group](http://www.cnoinc.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/68da35226df7b8311bb0dcd2?utm_campaign=1055&utm_source=git)** | Carmel, IN | Remote | Sep 29 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - AI & Legal Compliance (Summer 2026)](https://jobright.ai/jobs/info/68da28a20b832179ca4aba0e?utm_campaign=1055&utm_source=git)** | Garland, TX | On Site | Sep 28 |
 | **[Uline](http://www.uline.com)** | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6be83d13d1f5b6cbbbe?utm_campaign=1055&utm_source=git)** | Waukegan, IL | On Site | Sep 28 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Enterprise Risk Management - Strategy and Reporting)](https://jobright.ai/jobs/info/68bb78725f3832749186f627?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
 | **[Everllence](www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Sep 27 |
 | **[OSI Optoelectronics](https://www.osioptoelectronics.com)** | **[OPTO Trade Compliance Intern](https://jobright.ai/jobs/info/689e6f67faa4e875e827c82c?utm_campaign=1055&utm_source=git)** | Hawthorne, CA | On Site | Sep 27 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Practical Law Intern – Intellectual Property & Technology](https://jobright.ai/jobs/info/68bb994f8043103d4f229fa4?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 27 |
@@ -101,8 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d73403894705799a2f14a5?utm_campaign=1055&utm_source=git)** | West Deptford Twp, New Jersey, USA | On Site | Sep 26 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d733fdd3fe025a3015f7f5?utm_campaign=1055&utm_source=git)** | Fort Worth, Texas, USA | On Site | Sep 26 |
 | **[NinjaHoldings](https://www.ninjaholdings.com/)** | **[In-House Summer Legal Intern](https://jobright.ai/jobs/info/68d733cf894705799a2f1471?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 26 |
-| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7331445853d0e39ccd79f?utm_campaign=1055&utm_source=git)** | Mt Juliet, Tennessee, USA | On Site | Sep 26 |
-| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7331445853d0e39ccd79e?utm_campaign=1055&utm_source=git)** | Union, Ohio, USA | On Site | Sep 26 |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7331445853d0e39ccd79e?utm_campaign=1055&utm_source=git)** | Union, Ohio, USA | On Site | Sep 26 |
+| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7331445853d0e39ccd79f?utm_campaign=1055&utm_source=git)** | Mt Juliet, Tennessee, USA | On Site | Sep 26 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern -  Legal](https://jobright.ai/jobs/info/68d7545661a175619f8c83fe?utm_campaign=1055&utm_source=git)** | HOUSTON, Texas, United States | On Site | Sep 26 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68d72627894705799a2f106a?utm_campaign=1055&utm_source=git)** | Paducah, KY | On Site | Sep 26 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office Business Administration Intern](https://jobright.ai/jobs/info/68d87ab6295f8e37655e7c69?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 26 |
@@ -113,15 +115,14 @@ For a complete list, click the following sortable link below:
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Global Trade Compliance and Security Intern](https://jobright.ai/jobs/info/68d71343d3fe025a3015ec7b?utm_campaign=1055&utm_source=git)** | Oshkosh, WI | On Site | Sep 26 |
 | ↳ | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/68d710b2d3fe025a3015e9bf?utm_campaign=1055&utm_source=git)** | Oshkosh, WI | On Site | Sep 26 |
 | **[Citi](https://www.citi.com)** | **[Senior Legal Counsel for International Swaps and Derivatives Association and Markets Negotiations VP](https://jobright.ai/jobs/info/68d70e9a45853d0e39ccc940?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Sep 26 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Legal Intern Spring 2026 (Prison Legal Services Section)](https://jobright.ai/jobs/info/68d70d7445853d0e39ccc7f2?utm_campaign=1055&utm_source=git)** | Lorain County, OH | On Site | Sep 26 |
 | **[FM](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68d70cdfd3fe025a3015e8c5?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Sep 26 |
 | **[Amica Insurance](http://www.amica.com)** | **[Sr. Student Intern – Risk Management](https://jobright.ai/jobs/info/68d70c3ad3fe025a3015e7e1?utm_campaign=1055&utm_source=git)** | Rhode Island, United States | Hybrid | Sep 26 |
 | **[NinjaHoldings](https://www.ninjaholdings.com/)** | **[In-House Summer Legal Intern](https://jobright.ai/jobs/info/68d7591861a175619f8c99de?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 26 |
 | **[Ibotta](https://home.ibotta.com)** | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d70a17894705799a2f0310?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, PSG Compliance](https://jobright.ai/jobs/info/68d708e6894705799a2f008d?utm_campaign=1055&utm_source=git)** | Chicago, Illinois | On Site | Sep 26 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Legal Research Intern - Illinois Policy Institute](https://jobright.ai/jobs/info/68d757e861a175619f8c921c?utm_campaign=1055&utm_source=git)** | Illinois, United States | Remote | Sep 26 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Legal Intern Spring 2026 (Prison Legal Services Section)](https://jobright.ai/jobs/info/68d702e9d3fe025a3015dfd2?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Lorain County | Hybrid | Sep 26 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/68d6ffad894705799a2ef961?utm_campaign=1055&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Sep 26 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Legal Intern Spring 2026 (Prison Legal Services Section)](https://jobright.ai/jobs/info/68d6ff0ad3fe025a3015dcb3?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Lorain County | Hybrid | Sep 26 |
 | **[Ibotta](https://home.ibotta.com)** | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d6fe6045853d0e39ccbb81?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Legal Research Intern - Illinois Policy Institute](https://jobright.ai/jobs/info/68d757d161a175619f8c90ae?utm_campaign=1055&utm_source=git)** | Illinois | Remote | Sep 26 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ccda7b5954791a1d6ffe6e?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Sep 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/68d8cbeaeed6e340d9e1dc9a?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Sep 25 |
 | **[DESRI](https://desri.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd675ee23def7af55b97e0?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Sep 25 |
 | **[State of Illinois](https://www2.illinois.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68d6140a63d77d6f6f3f46c0?utm_campaign=1055&utm_source=git)** | Chicago, IL | Remote | Sep 25 |
-| **[Environmental Defense Fund](http://www.edf.org/)** | **[2L Legal Intern](https://jobright.ai/jobs/info/68d62dce4736ff202fdd0584?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
