@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc164b6f6c5c3fadf36640?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Sep 30 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department AML Compliance Audit Intern](https://jobright.ai/jobs/info/68dc2e4a97329f2f773234ab?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 30 |
+| **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Tax Compliance Intern](https://jobright.ai/jobs/info/68dc25bf97329f2f77322f05?utm_campaign=1055&utm_source=git)** | Juno Beach, FL | On Site | Sep 30 |
+| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc1886d6470e72cf4d89fc?utm_campaign=1055&utm_source=git)** | Utica, NY | On Site | Sep 30 |
+| ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc1850d6470e72cf4d89b4?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Sep 30 |
+| ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc164b6f6c5c3fadf36640?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc15f797329f2f7732280c?utm_campaign=1055&utm_source=git)** | DeWitt, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc15e26f6c5c3fadf365b7?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Sep 30 |
 | **[ICDR International](https://www.icdrintl.org)** | **[Legal Intern / Becoming a Pro Bono Attorney](https://jobright.ai/jobs/info/68dc128d6f6c5c3fadf364e8?utm_campaign=1055&utm_source=git)** | Fairfax, VA | On Site | Sep 30 |
@@ -77,6 +81,4 @@ For a complete list, click the following sortable link below:
 | **[WoodmenLife](https://www.woodmenlife.org/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68dbd9676f6c5c3fadf328bc?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Sep 23 |
 | **[Medpace](http://www.medpace.com)** | **[Regulatory Research Spring 2026 Intern](https://jobright.ai/jobs/info/6799a5f27b45d044d3fd9e63?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 23 |
 | **[Defender Association of Philadelphia](https://phillydefenders.org)** | **[Summer Law Internship in Child Welfare](https://jobright.ai/jobs/info/68dbc4fe97329f2f7731daf4?utm_campaign=1055&utm_source=git)** | Main Office, Philadelphia, PA, US | On Site | Sep 11 |
-| **[National Health Law Program](https://healthlaw.org/)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68dbafe26f6c5c3fadf2ee49?utm_campaign=1055&utm_source=git)** | North Carolina, Los Angeles, CA, US | Remote | Sep 09 |
-| **[Primoris Services Corporation](http://prim.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/68dbc13d6f6c5c3fadf30d91?utm_campaign=1055&utm_source=git)** | Irvine, California, United States | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
