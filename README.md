@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Claims Internship - Summer 2026](https://jobright.ai/jobs/info/68dc456eddc10244dd673815?utm_campaign=1055&utm_source=git)** | Mesa, AZ | On Site | Sep 30 |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Judge's Intern (Cumberland/Gloucester/Salem)](https://jobright.ai/jobs/info/68dc393a731a804732067ac2?utm_campaign=1055&utm_source=git)** | Gloucester, NJ | Hybrid | Sep 30 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department AML Compliance Audit Intern](https://jobright.ai/jobs/info/68dc2e4a97329f2f773234ab?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Tax Compliance Intern](https://jobright.ai/jobs/info/68dc25bf97329f2f77322f05?utm_campaign=1055&utm_source=git)** | Juno Beach, FL | On Site | Sep 30 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc1886d6470e72cf4d89fc?utm_campaign=1055&utm_source=git)** | Utica, NY | On Site | Sep 30 |
