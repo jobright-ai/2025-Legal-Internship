@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crowe](https://www.crowe.com/)** | **[Financial Crime Technology Intern](https://jobright.ai/jobs/info/68bf1965702aa35207aa3230?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 30 |
+| ↳ | **[Financial Crime Technology Intern](https://jobright.ai/jobs/info/68cd946db2a74e1837ed8f8b?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Sep 30 |
+| ↳ | **[Financial Crime Technology Intern](https://jobright.ai/jobs/info/68cc3171128dc347fd920986?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 30 |
+| ↳ | **[Financial Crime Technology Intern](https://jobright.ai/jobs/info/68cdf9edb2a74e1837eddc33?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Sep 30 |
+| ↳ | **[Financial Crime Technology Intern](https://jobright.ai/jobs/info/68cd65161ad6b16f02899263?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Sep 30 |
+| ↳ | **[Financial Crime Technology Intern](https://jobright.ai/jobs/info/68cd8a3eb2a74e1837ed85f3?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Sep 30 |
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Commercial Surety Trainee](https://jobright.ai/jobs/info/68db5d19e19b9e63ba20b3ac?utm_campaign=1055&utm_source=git)** | Westfield Center, OH, United States | Hybrid | Sep 29 |
 | ↳ | **[Contract Surety Trainee - Tampa, FL](https://jobright.ai/jobs/info/68db5d10e19b9e63ba20b390?utm_campaign=1055&utm_source=git)** | Tampa, FL, United States | Hybrid | Sep 29 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Contract Surety Trainee - Tampa, FL](https://jobright.ai/jobs/info/68db48f434f2c406da6d60d3?utm_campaign=1055&utm_source=git)** | 11918 Boyette Rd, Riverview, FL, 33569, US | Hybrid | Sep 29 |
@@ -64,11 +70,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Contract Surety Trainee - Minneapolis, MN](https://jobright.ai/jobs/info/68db48cae19b9e63ba20a0d8?utm_campaign=1055&utm_source=git)** | 3601 West 76th Street, Edina, MN, 55435, US | Hybrid | Sep 29 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68db48b9e19b9e63ba20a077?utm_campaign=1055&utm_source=git)** | United States | US-MN-Arden Hills,  N/A | Hybrid | Sep 29 |
 | **[Little League International](https://www.littleleague.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/68db4800e19b9e63ba209dc4?utm_campaign=1055&utm_source=git)** | Williamsport, PA | On Site | Sep 29 |
-| **[Highline Warren](https://highlinewarren.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68db43dee19b9e63ba209c56?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Sep 29 |
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Contract Surety Trainee - Minneapolis, MN](https://jobright.ai/jobs/info/68db437b9f13662d20e4906f?utm_campaign=1055&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 29 |
 | **[Lambda Legal](http://www.lambdalegal.org)** | **[Law Student Intern - Summer 2026](https://jobright.ai/jobs/info/68bb5f0b6105227d118a5905?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68db37e49f13662d20e48a73?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Sep 29 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department KYC Intern](https://jobright.ai/jobs/info/68db2dca6df7b8311bb169f6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 29 |
+| **[Highline Warren](https://highlinewarren.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68db2ae1e9b48513789b23d5?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Sep 29 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Management Intern - Summer 2026](https://jobright.ai/jobs/info/68db2adb0dffed6f83d2ce6d?utm_campaign=1055&utm_source=git)** | Colorado, District of Columbia | On Site | Sep 29 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Spring 2026 LegalHealth Internship](https://jobright.ai/jobs/info/68db29b96df7b8311bb16708?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 29 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Management Intern - Summer 2026](https://jobright.ai/jobs/info/68db299c6df7b8311bb166b0?utm_campaign=1055&utm_source=git)** | Possible | On Site | Sep 29 |
@@ -88,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Accordion](https://www.accordionpartners.com)** | **[Legal Extern (Spring 2026)](https://jobright.ai/jobs/info/68daf1a407c157682e56fdd3?utm_campaign=1055&utm_source=git)** | Los Angeles | On Site | Sep 29 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department KYC Intern](https://jobright.ai/jobs/info/68daf1850dffed6f83d2afaa?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Sep 29 |
 | **[JFK Johnson Rehabilitation Institute ](http://JFKJohnson.org)** | **[INTERN, RISK MANAGEMENT](https://jobright.ai/jobs/info/68daf1550dffed6f83d2aea0?utm_campaign=1055&utm_source=git)** | Edison, NJ | On Site | Sep 29 |
-| **[Health Justice Initiative](https://health-justice.org/)** | **[Unpaid Legal Intern](https://jobright.ai/jobs/info/68daef2f6df7b8311bb1434b?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Sep 29 |
 | **[Touro College of Dental Medicine](http://dental.touro.edu/)** | **[Summer 2025 Legal Internship](https://jobright.ai/jobs/info/68dae3480b832179ca4b285c?utm_campaign=1055&utm_source=git)** | US-NY-New York | Hybrid | Sep 29 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Legal (Summer 2026)](https://jobright.ai/jobs/info/68dae27507c157682e56ef28?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Sep 29 |
 | **[Touro College of Dental Medicine](http://dental.touro.edu/)** | **[Summer 2025 Legal Internship](https://jobright.ai/jobs/info/68dae26d07c157682e56eefb?utm_campaign=1055&utm_source=git)** | US | Hybrid | Sep 29 |
@@ -102,7 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Michaels Stores](https://teachitpro.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/68dab6d20b832179ca4b0371?utm_campaign=1055&utm_source=git)** | Irving-Irving Corporate Office-3939 West John Carpenter Freeway | On Site | Sep 29 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68c289bd03b99f6b342952d9?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 29 |
 | ↳ | **[Regulatory Intern](https://jobright.ai/jobs/info/68be646ec4c5904ff60061de?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 29 |
-| **[State of Ohio](http://ohio.gov/)** | **[Legal Intern Spring 2026 (Prison Legal Services Section)](https://jobright.ai/jobs/info/68d70d7445853d0e39ccc7f2?utm_campaign=1055&utm_source=git)** | Lorain County, OH | On Site | Sep 29 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Legal Intern Spring 2026 (Prison Legal Services Section)](https://jobright.ai/jobs/info/68d70d7445853d0e39ccc7f2?utm_campaign=1055&utm_source=git)** | Lorain County, OH | On Site | Sep 29 |
 | **[Amica Center for Immigrant Rights](https://www.caircoalition.org)** | **[Legal Internship- Detained Adult Program, Direct Representation](https://jobright.ai/jobs/info/68da3ab40b832179ca4aca82?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Sep 29 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/68da394f0b832179ca4aca30?utm_campaign=1055&utm_source=git)** | Los Angeles, California, USA | On Site | Sep 29 |
 | ↳ | **[Summer 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/68da38283c03cd327094481b?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
@@ -137,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC Entertainment & Hulu Business Affairs JD Intern, Spring 2026](https://jobright.ai/jobs/info/68d7cf737796a83635f0bf50?utm_campaign=1055&utm_source=git)** | Burbank, CA | On Site | Sep 27 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com/)** | **[Houston Law Students - Paid Internship](https://jobright.ai/jobs/info/68d7c4f57796a83635f0b6d1?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Sep 27 |
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Regulatory Affairs Intern - Miami, Florida](https://jobright.ai/jobs/info/68ccbcad7342c7623ae68c9c?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Sep 27 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Enterprise Risk Management Internship](https://jobright.ai/jobs/info/68bba1988043103d4f22a4fe?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Sep 27 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Sep 27 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a72b7a37c712687d3884?utm_campaign=1055&utm_source=git)** | Union, OH | On Site | Sep 27 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a71c7a37c712687d384c?utm_campaign=1055&utm_source=git)** | Stockton, CA | On Site | Sep 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Law Clerk](https://jobright.ai/jobs/info/68d4521f17554c2d9eef8681?utm_campaign=1055&utm_source=git)** | Shepherdsville, KY | On Site | Sep 26 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, PSG Compliance](https://jobright.ai/jobs/info/68d748ebe5293e3538af391e?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 26 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Paralegal](https://jobright.ai/jobs/info/68d73a7dd3fe025a3015fbd7?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | Hybrid | Sep 26 |
-| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d734b5894705799a2f1566?utm_campaign=1055&utm_source=git)** | Stockton, California, USA | On Site | Sep 26 |
-| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d73499d3fe025a3015f8fc?utm_campaign=1055&utm_source=git)** | Jacksonville, Florida, USA | On Site | Sep 26 |
-| **[Energy Transfer](http://www.energytransfer.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/68d73473d3fe025a3015f8b6?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Sep 26 |
-| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d73428d3fe025a3015f837?utm_campaign=1055&utm_source=git)** | Matteson, Illinois, USA | On Site | Sep 26 |
-| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d73410894705799a2f14b5?utm_campaign=1055&utm_source=git)** | Salt Lake City, Utah, USA | On Site | Sep 26 |
-| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d73403894705799a2f14a5?utm_campaign=1055&utm_source=git)** | West Deptford Twp, New Jersey, USA | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
