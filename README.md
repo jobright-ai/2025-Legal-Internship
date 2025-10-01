@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MBX Biosciences, Inc.](https://www.mbxbio.com)** | **[Regulatory Affairs Fellow](https://jobright.ai/jobs/info/68dd9ca5ddc10244dd681fe0?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 01 |
+| **[Concord Group Insurance](http://concordgroupinsurance.com)** | **[Claims Adjuster Intern](https://jobright.ai/jobs/info/68dd920ea125e75c422ac567?utm_campaign=1055&utm_source=git)** | Bedford, NH | On Site | Oct 01 |
+| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/68dd91b6a125e75c422ac43b?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Oct 01 |
+| **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[Property Claims - Agricultural Insurance Intern](https://jobright.ai/jobs/info/68dd89aea125e75c422abc0c?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Oct 01 |
+| **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/68dd877bddc10244dd6805bf?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 01 |
+| **[Penn Mutual](https://www.pennmutual.com/)** | **[Summer Law Intern](https://jobright.ai/jobs/info/68dd870744d32141e0bf7975?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 01 |
+| **[Prairie State Legal Services Inc.](https://pslegal.org)** | **[Summer 2026 Law Student Internship](https://jobright.ai/jobs/info/68dd8679ddc10244dd680369?utm_campaign=1055&utm_source=git)** | Rockford, IL | On Site | Oct 01 |
 | **[Penn Mutual](https://www.pennmutual.com/)** | **[Summer Law Intern](https://jobright.ai/jobs/info/68dd7a4aa125e75c422aaeef?utm_campaign=1055&utm_source=git)** | Remote - United States | Remote | Oct 01 |
 | **[State of Missouri](http://mo.gov)** | **[2026 Summer Intern - Springfield Right of Way](https://jobright.ai/jobs/info/68dd6f1d44d32141e0bf6ad4?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Oct 01 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/68dd6834ddc10244dd67f28d?utm_campaign=1055&utm_source=git)** | HQ - San Diego, CA | On Site | Oct 01 |
@@ -99,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Judge's Intern (Cumberland/Gloucester/Salem)](https://jobright.ai/jobs/info/68dc393a731a804732067ac2?utm_campaign=1055&utm_source=git)** | Gloucester, NJ | Hybrid | Sep 30 |
 | **[Neighborhood Defender Service](https://neighborhooddefender.org)** | **[Summer 2026 Internship, Criminal Defense Practice](https://jobright.ai/jobs/info/68dc7d4baccfd24b67e55fde?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Sep 30 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department AML Compliance Audit Intern](https://jobright.ai/jobs/info/68dc2e4a97329f2f773234ab?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 30 |
-| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7ca7accfd24b67e55d76?utm_campaign=1055&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
-| ↳ | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7d2addc10244dd675f20?utm_campaign=1055&utm_source=git)** | Connecticut - Avon, 30 Tower Lane | On Site | Sep 30 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7d2addc10244dd675f20?utm_campaign=1055&utm_source=git)** | Connecticut - Avon, 30 Tower Lane | On Site | Sep 30 |
+| ↳ | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7ca7accfd24b67e55d76?utm_campaign=1055&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Tax Compliance Intern](https://jobright.ai/jobs/info/68dc25bf97329f2f77322f05?utm_campaign=1055&utm_source=git)** | Juno Beach, FL | On Site | Sep 30 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6c58a125e75c422a0af2?utm_campaign=1055&utm_source=git)** | Connecticut - Avon, 30 Tower Lane | On Site | Sep 30 |
 | ↳ | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6cd5ddc10244dd675658?utm_campaign=1055&utm_source=git)** | New York - New York, 1 Battery Park Plaza | On Site | Sep 30 |
