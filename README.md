@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 International Trade Compliance Analyst Intern - Mesa AZ - R10209335](https://jobright.ai/jobs/info/68dd00ddddc10244dd67c462?utm_campaign=1055&utm_source=git)** | Mesa, AZ | On Site | Oct 01 |
+| **[MFS Investment Management](https://www.mfs.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68dd00cfddc10244dd67c452?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Oct 01 |
+| ↳ | **[Legal Summer Intern (JD Candidate)](https://jobright.ai/jobs/info/68dd005b44d32141e0bf3965?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Oct 01 |
+| ↳ | **[Enterprise Risk Management (ERM) Intern](https://jobright.ai/jobs/info/68dd003244d32141e0bf393e?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Oct 01 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Law Clerk](https://jobright.ai/jobs/info/68dce289a125e75c422a699e?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Oct 01 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[Legal Summer Intern (JD Candidate)](https://jobright.ai/jobs/info/68dcb0e6ddc10244dd678bd1?utm_campaign=1055&utm_source=git)** | Boston | Hybrid | Sep 30 |
 | ↳ | **[Enterprise Risk Management (ERM) Intern](https://jobright.ai/jobs/info/68dcb0b1accfd24b67e58b54?utm_campaign=1055&utm_source=git)** | Boston | Hybrid | Sep 30 |
@@ -88,13 +92,13 @@ For a complete list, click the following sortable link below:
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Judge's Intern (Cumberland/Gloucester/Salem)](https://jobright.ai/jobs/info/68dc393a731a804732067ac2?utm_campaign=1055&utm_source=git)** | Gloucester, NJ | Hybrid | Sep 30 |
 | **[Neighborhood Defender Service](https://neighborhooddefender.org)** | **[Summer 2026 Internship, Criminal Defense Practice](https://jobright.ai/jobs/info/68dc7d4baccfd24b67e55fde?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Sep 30 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department AML Compliance Audit Intern](https://jobright.ai/jobs/info/68dc2e4a97329f2f773234ab?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 30 |
-| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7d2addc10244dd675f20?utm_campaign=1055&utm_source=git)** | Connecticut - Avon, 30 Tower Lane | On Site | Sep 30 |
-| ↳ | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7ca7accfd24b67e55d76?utm_campaign=1055&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7ca7accfd24b67e55d76?utm_campaign=1055&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
+| ↳ | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7d2addc10244dd675f20?utm_campaign=1055&utm_source=git)** | Connecticut - Avon, 30 Tower Lane | On Site | Sep 30 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Tax Compliance Intern](https://jobright.ai/jobs/info/68dc25bf97329f2f77322f05?utm_campaign=1055&utm_source=git)** | Juno Beach, FL | On Site | Sep 30 |
-| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6cfaa125e75c422a0b9b?utm_campaign=1055&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
-| ↳ | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6cd5ddc10244dd675658?utm_campaign=1055&utm_source=git)** | New York - New York, 1 Battery Park Plaza | On Site | Sep 30 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6cd5ddc10244dd675658?utm_campaign=1055&utm_source=git)** | New York - New York, 1 Battery Park Plaza | On Site | Sep 30 |
 | ↳ | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6c5faccfd24b67e55549?utm_campaign=1055&utm_source=git)** | Illinois - Chicago, 55 W. Monroe | On Site | Sep 30 |
 | ↳ | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6c58a125e75c422a0af2?utm_campaign=1055&utm_source=git)** | Connecticut - Avon, 30 Tower Lane | On Site | Sep 30 |
+| ↳ | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6cfaa125e75c422a0b9b?utm_campaign=1055&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
 | **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Internship - SPRING 2026 - MDT/Criminal Justice](https://jobright.ai/jobs/info/68dc6ca7ddc10244dd6755c0?utm_campaign=1055&utm_source=git)** | Omaha | On Site | Sep 30 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc1886d6470e72cf4d89fc?utm_campaign=1055&utm_source=git)** | Utica, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc1850d6470e72cf4d89b4?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Sep 30 |
