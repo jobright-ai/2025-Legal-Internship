@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2026 Legal Intern - Norfolk, VA](https://jobright.ai/jobs/info/68dc8366accfd24b67e56359?utm_campaign=1055&utm_source=git)** | Norfolk, VA | On Site | Sep 30 |
-| ↳ | **[Summer 2026 Legal Intern - NY](https://jobright.ai/jobs/info/68dc8347accfd24b67e5631f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 30 |
+| **[Neighborhood Defender Service](https://neighborhooddefender.org)** | **[Summer 2026 Internship, Criminal Defense Practice](https://jobright.ai/jobs/info/68dc9890a125e75c422a29b4?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 30 |
+| **[Environmental Law & Policy Center](http://elpc.org)** | **[Law Internships Summer 2026](https://jobright.ai/jobs/info/68dc9384a125e75c422a2501?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 30 |
+| **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Internship - SPRING 2026 - MDT/Criminal Justice](https://jobright.ai/jobs/info/68dc8ef7ddc10244dd676bd6?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Sep 30 |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Liberty and National Security Legal Internship, DC](https://jobright.ai/jobs/info/68dc8b35ddc10244dd67670f?utm_campaign=1055&utm_source=git)** | Washington D.C., DC | On Site | Sep 30 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7c69a125e75c422a11a3?utm_campaign=1055&utm_source=git)** | Avon, CT | On Site | Sep 30 |
 | ↳ | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc7c55a125e75c422a118d?utm_campaign=1055&utm_source=git)** | Avon, CT | On Site | Sep 30 |
 | **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[Enterprise Risk Management Intern - Summer 2026](https://jobright.ai/jobs/info/68dc74c3ddc10244dd675917?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Sep 30 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc5b41a125e75c4229ffd7?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc5a5da125e75c4229fe7f?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Sep 30 |
 | **[Tower Hill Insurance Group](https://www.thig.com/)** | **[Claims Legal Summer Intern](https://jobright.ai/jobs/info/68dc5679accfd24b67e547e5?utm_campaign=1055&utm_source=git)** | Gainesville, FL | On Site | Sep 30 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Enterprise Risk Management Intern - Summer 2026](https://jobright.ai/jobs/info/68dc8b24accfd24b67e5679a?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Sep 30 |
 | **[JFK Johnson Rehabilitation Institute ](http://JFKJohnson.org)** | **[INTERN, RISK MANAGEMENT (CENTRAL)](https://jobright.ai/jobs/info/68dc50d3a125e75c4229f9ef?utm_campaign=1055&utm_source=git)** | Edison, NJ | On Site | Sep 30 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[Intern, Risk Management (South Region)](https://jobright.ai/jobs/info/68dc4c0caccfd24b67e5405e?utm_campaign=1055&utm_source=git)** | Neptune City, NJ | On Site | Sep 30 |
 | ↳ | **[Intern, Risk Management (Central)](https://jobright.ai/jobs/info/68dc4b11a125e75c4229f467?utm_campaign=1055&utm_source=git)** | Edison, NJ | On Site | Sep 30 |
@@ -82,10 +85,10 @@ For a complete list, click the following sortable link below:
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7d2addc10244dd675f20?utm_campaign=1055&utm_source=git)** | Connecticut - Avon, 30 Tower Lane | On Site | Sep 30 |
 | ↳ | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7ca7accfd24b67e55d76?utm_campaign=1055&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Tax Compliance Intern](https://jobright.ai/jobs/info/68dc25bf97329f2f77322f05?utm_campaign=1055&utm_source=git)** | Juno Beach, FL | On Site | Sep 30 |
-| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6cfaa125e75c422a0b9b?utm_campaign=1055&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6c58a125e75c422a0af2?utm_campaign=1055&utm_source=git)** | Connecticut - Avon, 30 Tower Lane | On Site | Sep 30 |
+| ↳ | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6cfaa125e75c422a0b9b?utm_campaign=1055&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
 | ↳ | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6cd5ddc10244dd675658?utm_campaign=1055&utm_source=git)** | New York - New York, 1 Battery Park Plaza | On Site | Sep 30 |
 | ↳ | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6c5faccfd24b67e55549?utm_campaign=1055&utm_source=git)** | Illinois - Chicago, 55 W. Monroe | On Site | Sep 30 |
-| ↳ | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6c58a125e75c422a0af2?utm_campaign=1055&utm_source=git)** | Connecticut - Avon, 30 Tower Lane | On Site | Sep 30 |
 | **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Internship - SPRING 2026 - MDT/Criminal Justice](https://jobright.ai/jobs/info/68dc6ca7ddc10244dd6755c0?utm_campaign=1055&utm_source=git)** | Omaha | On Site | Sep 30 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc1886d6470e72cf4d89fc?utm_campaign=1055&utm_source=git)** | Utica, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc1850d6470e72cf4d89b4?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Sep 30 |
@@ -104,7 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Metropolis Technologies](http://www.metropolis.io)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/68bf498b702aa35207aa52b6?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 30 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68dbbdf597329f2f7731cc78?utm_campaign=1055&utm_source=git)** | Greater Indianapolis | Hybrid | Sep 30 |
 | **[Fort Washington Investment Advisors, Inc.](http://www.fortwashington.com)** | **[Information Technology Intern - Compliance Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/68dc0896d6470e72cf4d818f?utm_campaign=1055&utm_source=git)** | US-OH-CINCINNATI | On Site | Sep 30 |
-| **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part Time, Fall 2025)](https://jobright.ai/jobs/info/689f9cd7faa4e875e828a1cc?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | Sep 29 |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Liberty and National Security Legal Internship, DC](https://jobright.ai/jobs/info/68db0c47e9b48513789b1763?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Sep 29 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Compliance, Public Securities Group](https://jobright.ai/jobs/info/68d748ebe5293e3538af391e?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 27 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Undergraduate Year Round - CIO IT Portfolio Management, Remote](https://jobright.ai/jobs/info/68d495a3ffc1276de3fdc37e?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
