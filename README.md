@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2026 Legal Intern - Norfolk, VA](https://jobright.ai/jobs/info/68dc8366accfd24b67e56359?utm_campaign=1055&utm_source=git)** | Norfolk, VA | On Site | Sep 30 |
+| ↳ | **[Summer 2026 Legal Intern - NY](https://jobright.ai/jobs/info/68dc8347accfd24b67e5631f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 30 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7c69a125e75c422a11a3?utm_campaign=1055&utm_source=git)** | Avon, CT | On Site | Sep 30 |
+| ↳ | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc7c55a125e75c422a118d?utm_campaign=1055&utm_source=git)** | Avon, CT | On Site | Sep 30 |
+| **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[Enterprise Risk Management Intern - Summer 2026](https://jobright.ai/jobs/info/68dc74c3ddc10244dd675917?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Sep 30 |
+| **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc714ea125e75c422a0dba?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Sep 30 |
 | **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Legal - Law Clerk - Intern](https://jobright.ai/jobs/info/68dc6a99ddc10244dd675303?utm_campaign=1055&utm_source=git)** | Fairfield, OH | On Site | Sep 30 |
 | **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc5bcaaccfd24b67e54aba?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc5ba0accfd24b67e54a5a?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Sep 30 |
@@ -71,9 +77,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Risk Management (North Region)](https://jobright.ai/jobs/info/68dc4a7caccfd24b67e53d58?utm_campaign=1055&utm_source=git)** | Hackensack, NJ | On Site | Sep 30 |
 | **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Claims Internship - Summer 2026](https://jobright.ai/jobs/info/68dc456eddc10244dd673815?utm_campaign=1055&utm_source=git)** | Mesa, AZ | On Site | Sep 30 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Judge's Intern (Cumberland/Gloucester/Salem)](https://jobright.ai/jobs/info/68dc393a731a804732067ac2?utm_campaign=1055&utm_source=git)** | Gloucester, NJ | Hybrid | Sep 30 |
+| **[Neighborhood Defender Service](https://neighborhooddefender.org)** | **[Summer 2026 Internship, Criminal Defense Practice](https://jobright.ai/jobs/info/68dc7d4baccfd24b67e55fde?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Sep 30 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department AML Compliance Audit Intern](https://jobright.ai/jobs/info/68dc2e4a97329f2f773234ab?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 30 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7d2addc10244dd675f20?utm_campaign=1055&utm_source=git)** | Connecticut - Avon, 30 Tower Lane | On Site | Sep 30 |
+| ↳ | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7ca7accfd24b67e55d76?utm_campaign=1055&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Tax Compliance Intern](https://jobright.ai/jobs/info/68dc25bf97329f2f77322f05?utm_campaign=1055&utm_source=git)** | Juno Beach, FL | On Site | Sep 30 |
-| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6c58a125e75c422a0af2?utm_campaign=1055&utm_source=git)** | Connecticut - Avon, 30 Tower Lane | On Site | Sep 30 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6cfaa125e75c422a0b9b?utm_campaign=1055&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
+| ↳ | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6cd5ddc10244dd675658?utm_campaign=1055&utm_source=git)** | New York - New York, 1 Battery Park Plaza | On Site | Sep 30 |
+| ↳ | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6c5faccfd24b67e55549?utm_campaign=1055&utm_source=git)** | Illinois - Chicago, 55 W. Monroe | On Site | Sep 30 |
+| ↳ | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6c58a125e75c422a0af2?utm_campaign=1055&utm_source=git)** | Connecticut - Avon, 30 Tower Lane | On Site | Sep 30 |
+| **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Internship - SPRING 2026 - MDT/Criminal Justice](https://jobright.ai/jobs/info/68dc6ca7ddc10244dd6755c0?utm_campaign=1055&utm_source=git)** | Omaha | On Site | Sep 30 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc1886d6470e72cf4d89fc?utm_campaign=1055&utm_source=git)** | Utica, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc1850d6470e72cf4d89b4?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc164b6f6c5c3fadf36640?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Sep 30 |
