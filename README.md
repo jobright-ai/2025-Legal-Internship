@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">30</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -57,10 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Legal - Law Clerk - Intern](https://jobright.ai/jobs/info/68dc6a99ddc10244dd675303?utm_campaign=1055&utm_source=git)** | Fairfield, OH | On Site | Sep 30 |
+| **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc5bcaaccfd24b67e54aba?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Sep 30 |
+| ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc5ba0accfd24b67e54a5a?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Sep 30 |
+| ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc5b58ddc10244dd6748e2?utm_campaign=1055&utm_source=git)** | DeWitt, NY | On Site | Sep 30 |
+| ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc5b43accfd24b67e549b2?utm_campaign=1055&utm_source=git)** | Utica, NY | On Site | Sep 30 |
+| ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc5b41a125e75c4229ffd7?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Sep 30 |
+| ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc5a5da125e75c4229fe7f?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Sep 30 |
+| **[Tower Hill Insurance Group](https://www.thig.com/)** | **[Claims Legal Summer Intern](https://jobright.ai/jobs/info/68dc5679accfd24b67e547e5?utm_campaign=1055&utm_source=git)** | Gainesville, FL | On Site | Sep 30 |
+| **[JFK Johnson Rehabilitation Institute ](http://JFKJohnson.org)** | **[INTERN, RISK MANAGEMENT (CENTRAL)](https://jobright.ai/jobs/info/68dc50d3a125e75c4229f9ef?utm_campaign=1055&utm_source=git)** | Edison, NJ | On Site | Sep 30 |
+| **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[Intern, Risk Management (South Region)](https://jobright.ai/jobs/info/68dc4c0caccfd24b67e5405e?utm_campaign=1055&utm_source=git)** | Neptune City, NJ | On Site | Sep 30 |
+| ↳ | **[Intern, Risk Management (Central)](https://jobright.ai/jobs/info/68dc4b11a125e75c4229f467?utm_campaign=1055&utm_source=git)** | Edison, NJ | On Site | Sep 30 |
+| ↳ | **[Intern, Risk Management (North Region)](https://jobright.ai/jobs/info/68dc4a7caccfd24b67e53d58?utm_campaign=1055&utm_source=git)** | Hackensack, NJ | On Site | Sep 30 |
 | **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Claims Internship - Summer 2026](https://jobright.ai/jobs/info/68dc456eddc10244dd673815?utm_campaign=1055&utm_source=git)** | Mesa, AZ | On Site | Sep 30 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Judge's Intern (Cumberland/Gloucester/Salem)](https://jobright.ai/jobs/info/68dc393a731a804732067ac2?utm_campaign=1055&utm_source=git)** | Gloucester, NJ | Hybrid | Sep 30 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department AML Compliance Audit Intern](https://jobright.ai/jobs/info/68dc2e4a97329f2f773234ab?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Tax Compliance Intern](https://jobright.ai/jobs/info/68dc25bf97329f2f77322f05?utm_campaign=1055&utm_source=git)** | Juno Beach, FL | On Site | Sep 30 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6c58a125e75c422a0af2?utm_campaign=1055&utm_source=git)** | Connecticut - Avon, 30 Tower Lane | On Site | Sep 30 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc1886d6470e72cf4d89fc?utm_campaign=1055&utm_source=git)** | Utica, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc1850d6470e72cf4d89b4?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc164b6f6c5c3fadf36640?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Sep 30 |
@@ -72,15 +85,13 @@ For a complete list, click the following sortable link below:
 | **[Beckman Coulter Diagnostics](http://www.beckmancoulter.com)** | **[IT Compliance & Audit Intern](https://jobright.ai/jobs/info/68dc0f106f6c5c3fadf36340?utm_campaign=1055&utm_source=git)** | Brea, CA | On Site | Sep 30 |
 | **[Baltimore Witness](https://baltimorewitness.org)** | **[Baltimore Witness Spring Internship](https://jobright.ai/jobs/info/68dc0d0bd6470e72cf4d849a?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Sep 30 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/68dc0031d6470e72cf4d7ebf?utm_campaign=1055&utm_source=git)** | Lincoln, NE | On Site | Sep 30 |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 International Trade Compliance Analyst Intern - Mesa AZ](https://jobright.ai/jobs/info/68dc5f20a125e75c422a023c?utm_campaign=1055&utm_source=git)** | United States-Arizona-Mesa | On Site | Sep 30 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[Contract Administration (Summer Intern)](https://jobright.ai/jobs/info/68d2e02a8c62e63bc7fdb0f3?utm_campaign=1055&utm_source=git)** | Aiken, SC | On Site | Sep 30 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern – Investigative Intern (OIG)](https://jobright.ai/jobs/info/68bf70a88e65e77df55ba419?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Sep 30 |
 | **[Metropolis Technologies](http://www.metropolis.io)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/68bf498b702aa35207aa52b6?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Sep 30 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68dbbdf597329f2f7731cc78?utm_campaign=1055&utm_source=git)** | Greater Indianapolis | Hybrid | Sep 30 |
 | **[Fort Washington Investment Advisors, Inc.](http://www.fortwashington.com)** | **[Information Technology Intern - Compliance Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/68dc0896d6470e72cf4d818f?utm_campaign=1055&utm_source=git)** | US-OH-CINCINNATI | On Site | Sep 30 |
+| **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part Time, Fall 2025)](https://jobright.ai/jobs/info/689f9cd7faa4e875e828a1cc?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | Sep 29 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Compliance, Public Securities Group](https://jobright.ai/jobs/info/68d748ebe5293e3538af391e?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Sep 27 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Undergraduate Year Round - CIO IT Portfolio Management, Remote](https://jobright.ai/jobs/info/68d495a3ffc1276de3fdc37e?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Sep 25 |
-| **[Calpine](http://www.calpine.com)** | **[Internship - Legal](https://jobright.ai/jobs/info/68dbe76d97329f2f7731fffa?utm_campaign=1055&utm_source=git)** | Walnut Creek, California, United States | On Site | Sep 23 |
-| **[WoodmenLife](https://www.woodmenlife.org/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68dbd9676f6c5c3fadf328bc?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Sep 23 |
-| **[Medpace](http://www.medpace.com)** | **[Regulatory Research Spring 2026 Intern](https://jobright.ai/jobs/info/6799a5f27b45d044d3fd9e63?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 23 |
-| **[Defender Association of Philadelphia](https://phillydefenders.org)** | **[Summer Law Internship in Child Welfare](https://jobright.ai/jobs/info/68dbc4fe97329f2f7731daf4?utm_campaign=1055&utm_source=git)** | Main Office, Philadelphia, PA, US | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
