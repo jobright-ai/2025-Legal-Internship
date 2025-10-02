@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fortrea](https://www.fortrea.com)** | **[Intern - CLS Project Managment](https://jobright.ai/jobs/info/68ddf39fa125e75c422b06af?utm_campaign=1055&utm_source=git)** | Indianapolis IN | On Site | Oct 01 |
+| **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[Property Claims - Agricultural Insurance Intern](https://jobright.ai/jobs/info/68ddf2f744d32141e0bfc0d1?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Oct 01 |
 | **[Aspida](http://globalbankers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68ddd0a444d32141e0bfafb8?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Oct 01 |
 | **[Public Counsel](https://publiccounsel.org)** | **[2026 Summer Intern - Opportunity Under Law Project](https://jobright.ai/jobs/info/68ddd033d624072d9ab04cd2?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
 | ↳ | **[2026 Summer Intern - Consumer Rights & Economic Justice Project](https://jobright.ai/jobs/info/68ddcfe8ddc10244dd683d97?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
@@ -116,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Judge's Intern (Cumberland/Gloucester/Salem)](https://jobright.ai/jobs/info/68dc393a731a804732067ac2?utm_campaign=1055&utm_source=git)** | Gloucester, NJ | Hybrid | Sep 30 |
 | **[Neighborhood Defender Service](https://neighborhooddefender.org)** | **[Summer 2026 Internship, Criminal Defense Practice](https://jobright.ai/jobs/info/68dc7d4baccfd24b67e55fde?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Sep 30 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department AML Compliance Audit Intern](https://jobright.ai/jobs/info/68dc2e4a97329f2f773234ab?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Sep 30 |
-| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7d2addc10244dd675f20?utm_campaign=1055&utm_source=git)** | Connecticut - Avon, 30 Tower Lane | On Site | Sep 30 |
-| ↳ | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7ca7accfd24b67e55d76?utm_campaign=1055&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7ca7accfd24b67e55d76?utm_campaign=1055&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
+| ↳ | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7d2addc10244dd675f20?utm_campaign=1055&utm_source=git)** | Connecticut - Avon, 30 Tower Lane | On Site | Sep 30 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Tax Compliance Intern](https://jobright.ai/jobs/info/68dc25bf97329f2f77322f05?utm_campaign=1055&utm_source=git)** | Juno Beach, FL | On Site | Sep 30 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6cd5ddc10244dd675658?utm_campaign=1055&utm_source=git)** | New York - New York, 1 Battery Park Plaza | On Site | Sep 30 |
 | ↳ | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6c58a125e75c422a0af2?utm_campaign=1055&utm_source=git)** | Connecticut - Avon, 30 Tower Lane | On Site | Sep 30 |
