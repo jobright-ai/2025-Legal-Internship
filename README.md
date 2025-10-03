@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ACLU of Northern California](https://www.aclunc.org)** | **[Summer 2026 Legal Intern (Appellate Advocacy & Special Litigation)](https://jobright.ai/jobs/info/68df681ffe896042b0b7a890?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 02 |
 | **[Empower Pharmacy](http://empowerpharmacy.com/)** | **[Intern - Legal Associate](https://jobright.ai/jobs/info/68df5970fe896042b0b79ebe?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Oct 02 |
-| **[ACLU of Northern California](https://www.aclunc.org)** | **[Summer 2026 Legal Intern (Appellate Advocacy & Special Litigation)](https://jobright.ai/jobs/info/68df3a196be63b6ec996d28a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 02 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - CLS Project Managment](https://jobright.ai/jobs/info/68df27585ab4977c2e951040?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Oct 02 |
 | **[Tailwind Group](https://thetailwindgroup.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/68df102d5ab4977c2e94e199?utm_campaign=1055&utm_source=git)** | Excelsior, MN | On Site | Oct 02 |
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/68defd5644d32141e0c04a29?utm_campaign=1055&utm_source=git)** | Baltimore MD | On Site | Oct 02 |
@@ -81,10 +81,8 @@ For a complete list, click the following sortable link below:
 | **[MFS Investment Management](https://www.mfs.com)** | **[GDS Distribution Summer Intern](https://jobright.ai/jobs/info/68de8bcf44d32141e0c009b3?utm_campaign=1055&utm_source=git)** | Boston | Hybrid | Oct 02 |
 | **[RENK America](https://www.renk.com/en/company/about-renk/locations/muskegon)** | **[Contracts & Trade Compliance Intern](https://jobright.ai/jobs/info/68de7f3344d32141e0c00504?utm_campaign=1055&utm_source=git)** | Muskegon, MI | On Site | Oct 02 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Regulatory Compliance Internship - Summer 2026 - Erie, PA](https://jobright.ai/jobs/info/68de66b3a125e75c422b4247?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Oct 02 |
-| **[Euronext](https://www.euronext.com/en)** | **[Euronext Clearing - Operational Risk Intern](https://jobright.ai/jobs/info/68df23d65ab4977c2e950ee1?utm_campaign=1055&utm_source=git)** | Rome, GA | On Site | Oct 02 |
 | **[Amica Center for Immigrant Rights](https://www.caircoalition.org)** | **[Legal Internship- Immigration Impact Lab](https://jobright.ai/jobs/info/68de3f1ea125e75c422b2d41?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 02 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Spring 2026 - CAFL Hyannis](https://jobright.ai/jobs/info/68df1b44fe896042b0b76b55?utm_campaign=1055&utm_source=git)** | US-MA-Hyannis | On Site | Oct 02 |
-| **[The Grife Law Firm](http://www.thegrifelawfirm.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68df5e545ab4977c2e953d03?utm_campaign=1055&utm_source=git)** | Boca Raton, FL | On Site | Oct 01 |
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - CLS Project Managment](https://jobright.ai/jobs/info/68ddf39fa125e75c422b06af?utm_campaign=1055&utm_source=git)** | Indianapolis IN | On Site | Oct 01 |
 | **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[Property Claims - Agricultural Insurance Intern](https://jobright.ai/jobs/info/68ddf2f744d32141e0bfc0d1?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Oct 01 |
 | **[Aspida](http://globalbankers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68ddd0a444d32141e0bfafb8?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Oct 01 |
@@ -94,11 +92,11 @@ For a complete list, click the following sortable link below:
 | **[Aspida](http://globalbankers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68ddccdc44d32141e0bfae20?utm_campaign=1055&utm_source=git)** | Durham, NC | Hybrid | Oct 01 |
 | **[Amica Center for Immigrant Rights](https://www.caircoalition.org)** | **[Legal Internship- Immigration Impact Lab](https://jobright.ai/jobs/info/68ddcca744d32141e0bfad8f?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Oct 01 |
 | **[Constellation Health Services](http://constellationhs.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68ddcc2fa125e75c422aee6b?utm_campaign=1055&utm_source=git)** | ORANGE, CT, USA | On Site | Oct 01 |
+| **[Concord Group Insurance](http://concordgroupinsurance.com)** | **[Claims Adjuster Intern](https://jobright.ai/jobs/info/68ddbd0244d32141e0bfaa56?utm_campaign=1055&utm_source=git)** | Bedford, NH | On Site | Oct 01 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Corporate Legal Team (Summer 2026)](https://jobright.ai/jobs/info/68ddadf344d32141e0bfa174?utm_campaign=1055&utm_source=git)** | Waltham, MA | Hybrid | Oct 01 |
 | **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Legal Affairs Internship - Spring 2026](https://jobright.ai/jobs/info/68ddacf9a125e75c422ae177?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 01 |
 | **[Amica Insurance](http://www.amica.com)** | **[Sr. Student Intern – Risk Management](https://jobright.ai/jobs/info/68d70c3ad3fe025a3015e7e1?utm_campaign=1055&utm_source=git)** | Rhode Island, United States | Hybrid | Oct 01 |
 | **[MBX Biosciences, Inc.](https://www.mbxbio.com)** | **[Regulatory Affairs Fellow](https://jobright.ai/jobs/info/68dd9ca5ddc10244dd681fe0?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 01 |
-| **[Concord Group Insurance](http://concordgroupinsurance.com)** | **[Claims Adjuster Intern](https://jobright.ai/jobs/info/68dd920ea125e75c422ac567?utm_campaign=1055&utm_source=git)** | Bedford, NH | On Site | Oct 01 |
 | **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[Property Claims - Agricultural Insurance Intern](https://jobright.ai/jobs/info/68dd89aea125e75c422abc0c?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Oct 01 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/68dd877bddc10244dd6805bf?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 01 |
 | **[Penn Mutual](https://www.pennmutual.com/)** | **[Summer Law Intern](https://jobright.ai/jobs/info/68dd870744d32141e0bf7975?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 01 |
@@ -148,13 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7ca7accfd24b67e55d76?utm_campaign=1055&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
 | ↳ | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7d2addc10244dd675f20?utm_campaign=1055&utm_source=git)** | Connecticut - Avon, 30 Tower Lane | On Site | Sep 30 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Tax Compliance Intern](https://jobright.ai/jobs/info/68dc25bf97329f2f77322f05?utm_campaign=1055&utm_source=git)** | Juno Beach, FL | On Site | Sep 30 |
-| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6c58a125e75c422a0af2?utm_campaign=1055&utm_source=git)** | Connecticut - Avon, 30 Tower Lane | On Site | Sep 30 |
-| ↳ | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6cfaa125e75c422a0b9b?utm_campaign=1055&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6c5faccfd24b67e55549?utm_campaign=1055&utm_source=git)** | Illinois - Chicago, 55 W. Monroe | On Site | Sep 30 |
 | ↳ | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6cd5ddc10244dd675658?utm_campaign=1055&utm_source=git)** | New York - New York, 1 Battery Park Plaza | On Site | Sep 30 |
-| ↳ | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6c5faccfd24b67e55549?utm_campaign=1055&utm_source=git)** | Illinois - Chicago, 55 W. Monroe | On Site | Sep 30 |
+| ↳ | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6cfaa125e75c422a0b9b?utm_campaign=1055&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
+| ↳ | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68dc6c58a125e75c422a0af2?utm_campaign=1055&utm_source=git)** | Connecticut - Avon, 30 Tower Lane | On Site | Sep 30 |
 | **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Internship - SPRING 2026 - MDT/Criminal Justice](https://jobright.ai/jobs/info/68dc6ca7ddc10244dd6755c0?utm_campaign=1055&utm_source=git)** | Omaha | On Site | Sep 30 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc1886d6470e72cf4d89fc?utm_campaign=1055&utm_source=git)** | Utica, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc1850d6470e72cf4d89b4?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc164b6f6c5c3fadf36640?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc15f797329f2f7732280c?utm_campaign=1055&utm_source=git)** | DeWitt, NY | On Site | Sep 30 |
+| ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc15e26f6c5c3fadf365b7?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Sep 30 |
+| **[ICDR International](https://www.icdrintl.org)** | **[Legal Intern / Becoming a Pro Bono Attorney](https://jobright.ai/jobs/info/68dc128d6f6c5c3fadf364e8?utm_campaign=1055&utm_source=git)** | Fairfax, VA | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
