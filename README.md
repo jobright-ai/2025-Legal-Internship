@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Triumph Law, P.C. ](https://www.triumphlaw.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/68e03c59f758fe1f97e4b744?utm_campaign=1055&utm_source=git)** | Folsom, CA | On Site | Oct 03 |
+| **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/68e0353b1852e62f007e8aca?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Oct 03 |
+| **[Nova Biomedical](https://www.novabiomedical.com/)** | **[Regulatory Affairs Co-Op/Intern](https://jobright.ai/jobs/info/68e02cf9b99ec3563b0ccd13?utm_campaign=1055&utm_source=git)** | Waltham, MA | Hybrid | Oct 03 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/68e027f11852e62f007e7f2f?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Oct 03 |
 | **[Norfolk Southern](https://www.nscorp.com)** | **[Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/68e026e0f758fe1f97e4a1b6?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Oct 03 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Financial Institution Examiner (Summer)](https://jobright.ai/jobs/info/68e0205ef758fe1f97e49d24?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Oct 03 |
@@ -68,6 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e0188a1852e62f007e71ce?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Legal Solutions](https://jobright.ai/jobs/info/68e017c21852e62f007e70ec?utm_campaign=1055&utm_source=git)** | Utica, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e017751852e62f007e709d?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Oct 03 |
+| **[Sumitomo Mitsui Trust Bank Limited New York Branch](http://www.smtb.jp/tools/english/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/68e03b0e1852e62f007e8f76?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Legal) - 2 Positions](https://jobright.ai/jobs/info/68e016dfb99ec3563b0cba2e?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Oct 03 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e00baeb99ec3563b0cb594?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e00b0cb99ec3563b0cb4e3?utm_campaign=1055&utm_source=git)** | Utica, NY | On Site | Oct 03 |
@@ -75,11 +79,10 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Global Corporate and Healthcare Compliance](https://jobright.ai/jobs/info/68e00562b99ec3563b0cb0ab?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | Oct 03 |
 | **[Richmond National](https://richmondnational.com)** | **[Legal Intern, Summer 2026](https://jobright.ai/jobs/info/68dfef38f758fe1f97e4801b?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | On Site | Oct 03 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/68dfdf31f758fe1f97e47724?utm_campaign=1055&utm_source=git)** | 200 Renaissance Center, Detroit, MI, 48265, US | Hybrid | Oct 03 |
-| **[LegalBridge](https://legalbridge.ai/)** | **[Law + AI Internship](https://jobright.ai/jobs/info/68dfd14cb99ec3563b0c9735?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Oct 03 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68c653c9c96a22563eced434?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Oct 03 |
 | **[ACLU of Northern California](https://www.aclunc.org)** | **[Summer 2026 Criminal Law & Immigration Project Extern](https://jobright.ai/jobs/info/68df8981fe896042b0b7bf55?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 02 |
+| ↳ | **[Summer 2026 Legal Intern (Appellate Advocacy & Special Litigation)](https://jobright.ai/jobs/info/68df681ffe896042b0b7a890?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 02 |
 | **[Empower Pharmacy](http://empowerpharmacy.com/)** | **[Intern - Legal Associate](https://jobright.ai/jobs/info/68df5970fe896042b0b79ebe?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Oct 02 |
-| **[ACLU of Northern California](https://www.aclunc.org)** | **[Summer 2026 Legal Intern (Appellate Advocacy & Special Litigation)](https://jobright.ai/jobs/info/68df3a196be63b6ec996d28a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 02 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - CLS Project Managment](https://jobright.ai/jobs/info/68df27585ab4977c2e951040?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Oct 02 |
 | **[Tailwind Group](https://thetailwindgroup.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/68df102d5ab4977c2e94e199?utm_campaign=1055&utm_source=git)** | Excelsior, MN | On Site | Oct 02 |
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68defb1d44d32141e0c04796?utm_campaign=1055&utm_source=git)** | Irvine, CA | Hybrid | Oct 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern I - Summer 2026 - Licensing and Compliance](https://jobright.ai/jobs/info/68dc5a5da125e75c4229fe7f?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Sep 30 |
 | **[Tower Hill Insurance Group](https://www.thig.com/)** | **[Claims Legal Summer Intern](https://jobright.ai/jobs/info/68dc5679accfd24b67e547e5?utm_campaign=1055&utm_source=git)** | Gainesville, FL | On Site | Sep 30 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Enterprise Risk Management Intern - Summer 2026](https://jobright.ai/jobs/info/68dc8b24accfd24b67e5679a?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Sep 30 |
-| **[JFK Johnson Rehabilitation Institute ](http://JFKJohnson.org)** | **[INTERN, RISK MANAGEMENT (CENTRAL)](https://jobright.ai/jobs/info/68dc50d3a125e75c4229f9ef?utm_campaign=1055&utm_source=git)** | Edison, NJ | On Site | Sep 30 |
-| **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[Intern, Risk Management (South Region)](https://jobright.ai/jobs/info/68dc4c0caccfd24b67e5405e?utm_campaign=1055&utm_source=git)** | Neptune City, NJ | On Site | Sep 30 |
-| ↳ | **[Intern, Risk Management (Central)](https://jobright.ai/jobs/info/68dc4b11a125e75c4229f467?utm_campaign=1055&utm_source=git)** | Edison, NJ | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
