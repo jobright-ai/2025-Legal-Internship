@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tsang & Associates, PLC](https://tsangslaw.com)** | **[Bilingual Legal Intern](https://jobright.ai/jobs/info/68e0850af758fe1f97e4ddfe?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | Oct 03 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/68e0761cf758fe1f97e4d661?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Oct 03 |
 | **[Utah Judiciary](https://utcourts.applicantpro.com/jobs/)** | **[Remote Time-Limited Intern - Administrative Office of the Courts - Salt Lake City](https://jobright.ai/jobs/info/68e07059f758fe1f97e4d245?utm_campaign=1055&utm_source=git)** | Salt Lake City,UT,US | Remote | Oct 03 |
 | **[National Immigration Law Center](http://www.nilc.org/)** | **[NILC Summer Internship 2026](https://jobright.ai/jobs/info/68e06fe41852e62f007eac92?utm_campaign=1055&utm_source=git)** | Los Angeles & Washington D.C. (preferred) Remote considered (required locations listed in JD) | Remote | Oct 03 |
@@ -101,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/68dfdf31f758fe1f97e47724?utm_campaign=1055&utm_source=git)** | 200 Renaissance Center, Detroit, MI, 48265, US | Hybrid | Oct 03 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68c653c9c96a22563eced434?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Oct 03 |
 | **[ACLU of Northern California](https://www.aclunc.org)** | **[Summer 2026 Criminal Law & Immigration Project Extern](https://jobright.ai/jobs/info/68df8981fe896042b0b7bf55?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 02 |
+| ↳ | **[Summer 2026 Legal Intern (Appellate Advocacy & Special Litigation)](https://jobright.ai/jobs/info/68df681ffe896042b0b7a890?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 02 |
 | **[Empower Pharmacy](http://empowerpharmacy.com/)** | **[Intern - Legal Associate](https://jobright.ai/jobs/info/68df5970fe896042b0b79ebe?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Oct 02 |
-| **[ACLU of Northern California](https://www.aclunc.org)** | **[Summer 2026 Legal Intern (Appellate Advocacy & Special Litigation)](https://jobright.ai/jobs/info/68df3a196be63b6ec996d28a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 02 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - CLS Project Managment](https://jobright.ai/jobs/info/68df27585ab4977c2e951040?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Oct 02 |
 | **[Tailwind Group](https://thetailwindgroup.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/68df102d5ab4977c2e94e199?utm_campaign=1055&utm_source=git)** | Excelsior, MN | On Site | Oct 02 |
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68defb1d44d32141e0c04796?utm_campaign=1055&utm_source=git)** | Irvine, CA | Hybrid | Oct 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Summer Intern (JD Candidate)](https://jobright.ai/jobs/info/68dd005b44d32141e0bf3965?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Oct 01 |
 | ↳ | **[Enterprise Risk Management (ERM) Intern](https://jobright.ai/jobs/info/68dd003244d32141e0bf393e?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Oct 01 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Law Clerk](https://jobright.ai/jobs/info/68dce289a125e75c422a699e?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Oct 01 |
-| **[Constellation Health Services](http://constellationhs.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68df63116be63b6ec996f9c2?utm_campaign=1055&utm_source=git)** | Orange, CT | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
