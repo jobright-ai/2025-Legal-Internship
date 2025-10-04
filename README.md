@@ -59,13 +59,12 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Compliance, Audit & Risk Management Summer Internship](https://jobright.ai/jobs/info/68e1145eb99ec3563b0d5d26?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 04 |
 | **[National Immigration Law Center](http://www.nilc.org/)** | **[NILC Summer Internship 2026](https://jobright.ai/jobs/info/68e0eaf7f758fe1f97e52d97?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 04 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Operational Alignment & Compliance (Summer 2026)](https://jobright.ai/jobs/info/68e0e513f758fe1f97e52905?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
+| **[Devise Research](deviseresearch.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e12098f758fe1f97e54019?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Oct 04 |
 | **[Tsang & Associates, PLC](https://tsangslaw.com)** | **[Bilingual Legal Intern](https://jobright.ai/jobs/info/68e0850af758fe1f97e4ddfe?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | Oct 03 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/68e0761cf758fe1f97e4d661?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Oct 03 |
 | **[National Immigration Law Center](http://www.nilc.org/)** | **[NILC Summer Internship 2026](https://jobright.ai/jobs/info/68e06fe41852e62f007eac92?utm_campaign=1055&utm_source=git)** | Los Angeles & Washington D.C. (preferred) Remote considered (required locations listed in JD) | Remote | Oct 03 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e066a51852e62f007eaa2c?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Legal Solutions](https://jobright.ai/jobs/info/68e065711852e62f007ea982?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
-| **[Utah Judiciary](https://utcourts.applicantpro.com/jobs/)** | **[Remote Time-Limited Intern - Administrative Office of the Courts - Salt Lake City](https://jobright.ai/jobs/info/68e11962f758fe1f97e53c36?utm_campaign=1055&utm_source=git)** | Salt Lake City,UT,US | Remote | Oct 03 |
 | **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e054371852e62f007ea360?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Legal Solutions](https://jobright.ai/jobs/info/68e053ce1852e62f007ea2b8?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Legal Solutions](https://jobright.ai/jobs/info/68e053abb99ec3563b0cea79?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
@@ -132,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - CLS Project Managment](https://jobright.ai/jobs/info/68ddf39fa125e75c422b06af?utm_campaign=1055&utm_source=git)** | Indianapolis IN | On Site | Oct 01 |
 | **[Public Counsel](https://publiccounsel.org)** | **[2026 Summer Intern - Opportunity Under Law Project](https://jobright.ai/jobs/info/68ddd033d624072d9ab04cd2?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
 | ↳ | **[2026 Summer Intern - Consumer Rights & Economic Justice Project](https://jobright.ai/jobs/info/68ddcfe8ddc10244dd683d97?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
-| **[Aspida](http://globalbankers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68ddd0a444d32141e0bfafb8?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Oct 01 |
 | **[Democracy Forward](https://democracyforward.org)** | **[Legal Internship Summer 2026](https://jobright.ai/jobs/info/68ddcd2fddc10244dd683d3e?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 01 |
+| **[Aspida](http://globalbankers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68ddd0a444d32141e0bfafb8?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Oct 01 |
 | **[Constellation Health Services](http://constellationhs.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68ddcc2fa125e75c422aee6b?utm_campaign=1055&utm_source=git)** | ORANGE, CT, USA | On Site | Oct 01 |
 | **[Amica Center for Immigrant Rights](https://www.caircoalition.org)** | **[Legal Internship- Immigration Impact Lab](https://jobright.ai/jobs/info/68ddcca744d32141e0bfad8f?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Oct 01 |
 | **[Aspida](http://globalbankers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68ddccdc44d32141e0bfae20?utm_campaign=1055&utm_source=git)** | Durham, NC | Hybrid | Oct 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[MFS Investment Management](https://www.mfs.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68dd00cfddc10244dd67c452?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Oct 01 |
 | ↳ | **[Legal Summer Intern (JD Candidate)](https://jobright.ai/jobs/info/68dd005b44d32141e0bf3965?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Oct 01 |
 | ↳ | **[Enterprise Risk Management (ERM) Intern](https://jobright.ai/jobs/info/68dd003244d32141e0bf393e?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Oct 01 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Law Clerk](https://jobright.ai/jobs/info/68dce289a125e75c422a699e?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
