@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Vermont](http://vermont.gov/portal/)** | **[Intern Financial Regulation - Paid - Temporary](https://jobright.ai/jobs/info/68e17d78b99ec3563b0d757b?utm_campaign=1055&utm_source=git)** | Montpelier, VT | On Site | Oct 04 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Compliance, Audit & Risk Management Summer Internship](https://jobright.ai/jobs/info/68e1145eb99ec3563b0d5d26?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 04 |
 | **[National Immigration Law Center](http://www.nilc.org/)** | **[NILC Summer Internship 2026](https://jobright.ai/jobs/info/68e0eaf7f758fe1f97e52d97?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 04 |
 | **[Devise Research](deviseresearch.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e12098f758fe1f97e54019?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Oct 04 |
@@ -112,16 +113,16 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68defb1d44d32141e0c04796?utm_campaign=1055&utm_source=git)** | Irvine, CA | Hybrid | Oct 02 |
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/68defd5644d32141e0c04a29?utm_campaign=1055&utm_source=git)** | Baltimore MD | On Site | Oct 02 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68def02e09bda65a4b62f3c3?utm_campaign=1055&utm_source=git)** | Irvine, California, United States of America | Hybrid | Oct 02 |
-| **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/68df07925ab4977c2e94c8bd?utm_campaign=1055&utm_source=git)** | Yorktown Heights, NY | On Site | Oct 02 |
+| **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/68dee0eba125e75c422b79b3?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Oct 02 |
+| ↳ | **[Intellectual Property Intern](https://jobright.ai/jobs/info/68df07925ab4977c2e94c8bd?utm_campaign=1055&utm_source=git)** | Yorktown Heights, NY | On Site | Oct 02 |
 | ↳ | **[Intellectual Property Intern](https://jobright.ai/jobs/info/68df072d5ab4977c2e94c6e9?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Oct 02 |
-| ↳ | **[Intellectual Property Intern](https://jobright.ai/jobs/info/68dee0eba125e75c422b79b3?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Oct 02 |
 | **[Project Harmony](https://linktr.ee/projectforharmony?utm_source=linktree_profile_share&ltsid=39f1b2d6-e6f5-423d-b0dd-d07ee5a1c8ee)** | **[Internship - SPRING 2026 - MDT/Criminal Justice](https://jobright.ai/jobs/info/68ded824a125e75c422b7273?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Oct 02 |
 | **[Youth Law Center](https://www.ylc.org)** | **[2026 Summer Legal Intern / Law Clerk](https://jobright.ai/jobs/info/68decbe9a125e75c422b6a13?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Legal Aid of Southeastern Pennsylvania (LASP)](https://www.lasp.org)** | **[Community Engagement Unit Supervising Attorney](https://jobright.ai/jobs/info/68deb71e44d32141e0c01c3f?utm_campaign=1055&utm_source=git)** | Norristown, PA | Hybrid | Oct 02 |
 | **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[Legal Processing Intern](https://jobright.ai/jobs/info/68deafba44d32141e0c01918?utm_campaign=1055&utm_source=git)** | Canton, NY | On Site | Oct 02 |
 | **[Constellation Brands](http://cbrands.com)** | **[Intern, Financial Compliance & Customer Financial Services](https://jobright.ai/jobs/info/68deab9244d32141e0c01635?utm_campaign=1055&utm_source=git)** | Canandaigua, NY | On Site | Oct 02 |
-| **[State of Ohio](http://ohio.gov/)** | **[Law Library Intern](https://jobright.ai/jobs/info/68deac78a125e75c422b5a9f?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Oct 02 |
-| ↳ | **[Law Library Intern](https://jobright.ai/jobs/info/68dead4d44d32141e0c0182c?utm_campaign=1055&utm_source=git)** | Ohio Judicial Center65 South Front Street | On Site | Oct 02 |
+| **[State of Ohio](http://ohio.gov/)** | **[Law Library Intern](https://jobright.ai/jobs/info/68dead4d44d32141e0c0182c?utm_campaign=1055&utm_source=git)** | Ohio Judicial Center65 South Front Street | On Site | Oct 02 |
+| ↳ | **[Law Library Intern](https://jobright.ai/jobs/info/68deac78a125e75c422b5a9f?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Oct 02 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[GDS Distribution Summer Intern](https://jobright.ai/jobs/info/68deb4dc09bda65a4b62d1e9?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Oct 02 |
 | **[Supreme Court of Ohio](http://www.supremecourt.ohio.gov)** | **[Law Library Intern](https://jobright.ai/jobs/info/68dea3fda125e75c422b56b2?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Oct 02 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[GDS Distribution Summer Intern](https://jobright.ai/jobs/info/68de8bcf44d32141e0c009b3?utm_campaign=1055&utm_source=git)** | Boston | Hybrid | Oct 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 International Trade Compliance Analyst Intern - Mesa AZ - R10209335](https://jobright.ai/jobs/info/68dd00ddddc10244dd67c462?utm_campaign=1055&utm_source=git)** | Mesa, AZ | On Site | Oct 01 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68dd00cfddc10244dd67c452?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Oct 01 |
 | ↳ | **[Legal Summer Intern (JD Candidate)](https://jobright.ai/jobs/info/68dd005b44d32141e0bf3965?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Oct 01 |
-| ↳ | **[Enterprise Risk Management (ERM) Intern](https://jobright.ai/jobs/info/68dd003244d32141e0bf393e?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
