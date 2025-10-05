@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[State of Vermont](http://vermont.gov/portal/)** | **[Intern Financial Regulation - Paid - Temporary](https://jobright.ai/jobs/info/68e17d78b99ec3563b0d757b?utm_campaign=1055&utm_source=git)** | Montpelier, VT | On Site | Oct 04 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Compliance, Audit & Risk Management Summer Internship](https://jobright.ai/jobs/info/68e1145eb99ec3563b0d5d26?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 04 |
 | **[National Immigration Law Center](http://www.nilc.org/)** | **[NILC Summer Internship 2026](https://jobright.ai/jobs/info/68e0eaf7f758fe1f97e52d97?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 04 |
-| **[Devise Research](deviseresearch.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e12098f758fe1f97e54019?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Oct 04 |
 | **[Tsang & Associates, PLC](https://tsangslaw.com)** | **[Bilingual Legal Intern](https://jobright.ai/jobs/info/68e0850af758fe1f97e4ddfe?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | Oct 03 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/68e0761cf758fe1f97e4d661?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Oct 03 |
 | **[National Immigration Law Center](http://www.nilc.org/)** | **[NILC Summer Internship 2026](https://jobright.ai/jobs/info/68e06fe41852e62f007eac92?utm_campaign=1055&utm_source=git)** | Los Angeles & Washington D.C. (preferred) Remote considered (required locations listed in JD) | Remote | Oct 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 International Trade Compliance Analyst Intern - Mesa AZ - R10209335](https://jobright.ai/jobs/info/68dd00ddddc10244dd67c462?utm_campaign=1055&utm_source=git)** | Mesa, AZ | On Site | Oct 01 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68dd00cfddc10244dd67c452?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Oct 01 |
 | ↳ | **[Legal Summer Intern (JD Candidate)](https://jobright.ai/jobs/info/68dd005b44d32141e0bf3965?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Oct 01 |
+| ↳ | **[Enterprise Risk Management (ERM) Intern](https://jobright.ai/jobs/info/68dd003244d32141e0bf393e?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
