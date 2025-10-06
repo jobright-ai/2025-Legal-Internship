@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/68e37aae1852e62f007fc26d?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Oct 06 |
 | **[World Relief](https://worldrelief.org/)** | **[Immigration Legal Services Part-Time Afghan Legal Assistance Intern - 2025315](https://jobright.ai/jobs/info/68e349161852e62f007fa293?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Oct 05 |
-| **[Creative Intell](https://creativeintell.com/)** | **[Legal Internship – Entertainment Law & AI (Remote / For Credit Only)](https://jobright.ai/jobs/info/68e2a281b99ec3563b0dca65?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 05 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Democracy Legal Internship, NY](https://jobright.ai/jobs/info/68e24fd6b99ec3563b0dc242?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 05 |
 | ↳ | **[Spring 2026 Liberty and National Security Legal Internship, NY](https://jobright.ai/jobs/info/68e24fbf1852e62f007f7a28?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 05 |
 | ↳ | **[Spring 2026 Liberty and National Security Legal Internship, DC](https://jobright.ai/jobs/info/68e24f6fb99ec3563b0dc211?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 05 |
