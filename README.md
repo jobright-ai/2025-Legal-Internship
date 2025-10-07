@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Summer 2026 Law Student Internship](https://jobright.ai/jobs/info/68e503abb99ec3563b0efb68?utm_campaign=1055&utm_source=git)** | Rockford, IL | On Site | Oct 07 |
 | **[Morgan Street Holdings](https://morganstreet.com/)** | **[2026 LEGAL SUMMER INTERN](https://jobright.ai/jobs/info/68e4f35cb99ec3563b0ef7d0?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Oct 07 |
 | **[InfoDefense](https://www.infodefense.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68e4f2cbae2b894b1d70a070?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Oct 07 |
+| **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Legal Intern (Part Time)](https://jobright.ai/jobs/info/68e215c2f758fe1f97e57e60?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Oct 07 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - IT Internal Audit](https://jobright.ai/jobs/info/68e4c967b99ec3563b0ee2a5?utm_campaign=1055&utm_source=git)** | Wilmington, MA | On Site | Oct 07 |
-| **[Oshkosh Defense](https://oshkoshdefense.com)** | **[Contract Administration Intern](https://jobright.ai/jobs/info/68e49d431852e62f00807ead?utm_campaign=1055&utm_source=git)** | Oshkosh, WI | On Site | Oct 06 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Contract Manager - Summer 2026](https://jobright.ai/jobs/info/68e4966eae2b894b1d706cb1?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 06 |
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[Intern Trade Compliance](https://jobright.ai/jobs/info/68e49663b99ec3563b0ec093?utm_campaign=1055&utm_source=git)** | Irvine, CA | Remote | Oct 06 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Sales Contracts Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68e48891f758fe1f97e69411?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Oct 06 |
@@ -115,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Summer Intern - Law Clerk](https://jobright.ai/jobs/info/68df3afe6be63b6ec996d521?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Oct 03 |
 | **[National Immigration Law Center](http://www.nilc.org/)** | **[NILC Summer Internship 2026](https://jobright.ai/jobs/info/68e06fe41852e62f007eac92?utm_campaign=1055&utm_source=git)** | Los Angeles & Washington D.C. (preferred) Remote considered (required locations listed in JD) | Remote | Oct 03 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e066a51852e62f007eaa2c?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
-| **[Nova Biomedical](https://www.novabiomedical.com/)** | **[Regulatory Affairs Co-Op/Intern](https://jobright.ai/jobs/info/68e4020c1852e62f0080031a?utm_campaign=1055&utm_source=git)** | Waltham, MA | On Site | Oct 03 |
-| **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Summer 2026 - Enterprise Legal Solutions](https://jobright.ai/jobs/info/68e065711852e62f007ea982?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
+| ↳ | **[College Intern I - Summer 2026 - Enterprise Legal Solutions](https://jobright.ai/jobs/info/68e065711852e62f007ea982?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
+| **[Nova Biomedical](https://www.novabiomedical.com/)** | **[Regulatory Affairs Co-Op/Intern](https://jobright.ai/jobs/info/68e402231852e62f0080033c?utm_campaign=1055&utm_source=git)** | Waltham, MA | On Site | Oct 03 |
 | **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e054371852e62f007ea360?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Legal Solutions](https://jobright.ai/jobs/info/68e053ce1852e62f007ea2b8?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Legal Solutions](https://jobright.ai/jobs/info/68e053abb99ec3563b0cea79?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/68dfdf31f758fe1f97e47724?utm_campaign=1055&utm_source=git)** | 200 Renaissance Center, Detroit, MI, 48265, US | Hybrid | Oct 03 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68c653c9c96a22563eced434?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Oct 03 |
 | **[ND Dept of Corrections and Rehabilitation](https://docr.nd.gov/)** | **[Parole and Probation Intern](https://jobright.ai/jobs/info/68e0f16db99ec3563b0d538c?utm_campaign=1055&utm_source=git)** | Bismarck, ND | On Site | Oct 03 |
-| **[MacArthur Justice Center](https://www.macarthurjustice.org/)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68e4bcf21852e62f00808f50?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
 | **[ACLU of Northern California](https://www.aclunc.org)** | **[Summer 2026 Criminal Law & Immigration Project Extern](https://jobright.ai/jobs/info/68df8981fe896042b0b7bf55?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 02 |
-| **[Empower Pharmacy](http://empowerpharmacy.com/)** | **[Intern - Legal Associate](https://jobright.ai/jobs/info/68df5970fe896042b0b79ebe?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Oct 02 |
+| ↳ | **[Summer 2026 Legal Intern (Appellate Advocacy & Special Litigation)](https://jobright.ai/jobs/info/68df681ffe896042b0b7a890?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
