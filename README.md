@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Spring 2026 Compliance Internship](https://jobright.ai/jobs/info/68e551b0b99ec3563b0f2bf1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 07 |
+| **[Pact](https://pactlegal.com/)** | **[Law Clerk: 2026 Spring Semester Internship / Summer Associate](https://jobright.ai/jobs/info/68e549191852e62f0080dd53?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Oct 07 |
+| **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Financial Compliance Intern](https://jobright.ai/jobs/info/68e54639b99ec3563b0f21c1?utm_campaign=1055&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Oct 07 |
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e534edae2b894b1d70be28?utm_campaign=1055&utm_source=git)** | NY - Tarrytown | Hybrid | Oct 07 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e534e91852e62f0080cf8f?utm_campaign=1055&utm_source=git)** | NY - New York City | Hybrid | Oct 07 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e534b4b99ec3563b0f15f6?utm_campaign=1055&utm_source=git)** | CA - Orange | Hybrid | Oct 07 |
@@ -86,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Contract Administration Intern](https://jobright.ai/jobs/info/68e439f3b99ec3563b0e7cdf?utm_campaign=1055&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Oct 06 |
 | ↳ | **[Contract Administration Intern](https://jobright.ai/jobs/info/68e43986f758fe1f97e65ae9?utm_campaign=1055&utm_source=git)** | Remote, Wisconsin, United States | Remote | Oct 06 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Global Regulatory Affairs Intern](https://jobright.ai/jobs/info/68e43925b99ec3563b0e7aea?utm_campaign=1055&utm_source=git)** | Portage, Michigan | On Site | Oct 06 |
-| **[The Bassett Firm](https://www.thebassettfirm.com)** | **[Law Clerk](https://jobright.ai/jobs/info/68e4e7dfae2b894b1d709d90?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Oct 06 |
 | **[DriveWealth](https://drivewealth.com)** | **[Summer 2026 Intern, Legal](https://jobright.ai/jobs/info/68e43122f758fe1f97e651b4?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Oct 06 |
 | **[ATC](http://www.atcllc.com/)** | **[Intern- Legal Summer 2026](https://jobright.ai/jobs/info/68e42cabb99ec3563b0e70c6?utm_campaign=1055&utm_source=git)** | Pewaukee, WI | On Site | Oct 06 |
 | **[Great Lakes Cheese](http://www.greatlakescheese.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e42ab51852e62f00802593?utm_campaign=1055&utm_source=git)** | Hiram, OH | On Site | Oct 06 |
@@ -132,8 +134,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Legal Solutions](https://jobright.ai/jobs/info/68e053ce1852e62f007ea2b8?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Legal Solutions](https://jobright.ai/jobs/info/68e053abb99ec3563b0cea79?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Legal Solutions](https://jobright.ai/jobs/info/68e05351f758fe1f97e4c662?utm_campaign=1055&utm_source=git)** | DeWitt, NY | On Site | Oct 03 |
-| ↳ | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e053421852e62f007ea228?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e05342f758fe1f97e4c652?utm_campaign=1055&utm_source=git)** | DeWitt, NY | On Site | Oct 03 |
+| ↳ | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e053421852e62f007ea228?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e0533cf758fe1f97e4c649?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e05282f758fe1f97e4c567?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e05258b99ec3563b0ce8fc?utm_campaign=1055&utm_source=git)** | Utica, NY | On Site | Oct 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e0188a1852e62f007e71ce?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Legal Solutions](https://jobright.ai/jobs/info/68e017c21852e62f007e70ec?utm_campaign=1055&utm_source=git)** | Utica, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e017751852e62f007e709d?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Oct 03 |
-| **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Legal) - 2 Positions](https://jobright.ai/jobs/info/68e016dfb99ec3563b0cba2e?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Oct 03 |
-| **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Domestic Violence & Family Law Unit (Summer)](https://jobright.ai/jobs/info/68e01a641852e62f007e7333?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
