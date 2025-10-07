@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ReliabilityFirst Corporation](https://rfirst.org)** | **[Legal Intern](https://jobright.ai/jobs/info/68e56427ae2b894b1d70e476?utm_campaign=1055&utm_source=git)** | CLEVELAND, OH, USA | On Site | Oct 07 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Spring 2026 Compliance Internship](https://jobright.ai/jobs/info/68e551b0b99ec3563b0f2bf1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 07 |
 | **[Pact](https://pactlegal.com/)** | **[Law Clerk: 2026 Spring Semester Internship / Summer Associate](https://jobright.ai/jobs/info/68e549191852e62f0080dd53?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Oct 07 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Financial Compliance Intern](https://jobright.ai/jobs/info/68e54639b99ec3563b0f21c1?utm_campaign=1055&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Oct 07 |
@@ -81,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[DriveWealth](https://drivewealth.com)** | **[Summer 2026 Intern, Legal](https://jobright.ai/jobs/info/68e47c1ef758fe1f97e68c32?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 06 |
 | ↳ | **[Summer 2026 Intern, Compliance](https://jobright.ai/jobs/info/68e47badf758fe1f97e68bc6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 06 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Legal / Commercial Intern](https://jobright.ai/jobs/info/68e478f91852e62f0080643a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
+| **[Still She Rises, Tulsa](https://stillsherises.org/)** | **[Summer Legal Internship 2026](https://jobright.ai/jobs/info/68e5629aae2b894b1d70e281?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Oct 06 |
 | **[DriveWealth](https://drivewealth.com)** | **[Summer 2026 Intern, Compliance](https://jobright.ai/jobs/info/68e4546f1852e62f00804d5a?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Oct 06 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Intern Trade Compliance](https://jobright.ai/jobs/info/68e44ddfb99ec3563b0e8dad?utm_campaign=1055&utm_source=git)** | Irvine, California, United States of America | Remote | Oct 06 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern – Go to Market Legal](https://jobright.ai/jobs/info/68e44a43b99ec3563b0e8c3c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Oct 06 |
@@ -127,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Summer Intern - Law Clerk](https://jobright.ai/jobs/info/68df3afe6be63b6ec996d521?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Oct 03 |
 | **[National Immigration Law Center](http://www.nilc.org/)** | **[NILC Summer Internship 2026](https://jobright.ai/jobs/info/68e06fe41852e62f007eac92?utm_campaign=1055&utm_source=git)** | Los Angeles & Washington D.C. (preferred) Remote considered (required locations listed in JD) | Remote | Oct 03 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e066a51852e62f007eaa2c?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
-| **[Nova Biomedical](https://www.novabiomedical.com/)** | **[Regulatory Affairs Co-Op/Intern](https://jobright.ai/jobs/info/68e4020c1852e62f0080031a?utm_campaign=1055&utm_source=git)** | Waltham, MA | On Site | Oct 03 |
-| **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Summer 2026 - Enterprise Legal Solutions](https://jobright.ai/jobs/info/68e065711852e62f007ea982?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
+| ↳ | **[College Intern I - Summer 2026 - Enterprise Legal Solutions](https://jobright.ai/jobs/info/68e065711852e62f007ea982?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
+| **[Nova Biomedical](https://www.novabiomedical.com/)** | **[Regulatory Affairs Co-Op/Intern](https://jobright.ai/jobs/info/68e402231852e62f0080033c?utm_campaign=1055&utm_source=git)** | Waltham, MA | On Site | Oct 03 |
 | **[Utah Judiciary](https://utcourts.applicantpro.com/jobs/)** | **[Remote Time-Limited Intern - Administrative Office of the Courts - Salt Lake City](https://jobright.ai/jobs/info/68e51ee7ae2b894b1d70adf0?utm_campaign=1055&utm_source=git)** | Salt Lake City,UT,US | Remote | Oct 03 |
 | **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e054371852e62f007ea360?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Legal Solutions](https://jobright.ai/jobs/info/68e053ce1852e62f007ea2b8?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Oct 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Legal Solutions](https://jobright.ai/jobs/info/68e0195df758fe1f97e49605?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e01919f758fe1f97e495c7?utm_campaign=1055&utm_source=git)** | DeWitt, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e0188a1852e62f007e71ce?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Oct 03 |
-| ↳ | **[College Intern I - Summer 2026 - Enterprise Legal Solutions](https://jobright.ai/jobs/info/68e017c21852e62f007e70ec?utm_campaign=1055&utm_source=git)** | Utica, NY | On Site | Oct 03 |
-| ↳ | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e017751852e62f007e709d?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
