@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oshkosh Defense](https://oshkoshdefense.com)** | **[Contract Administration Intern](https://jobright.ai/jobs/info/68e49d431852e62f00807ead?utm_campaign=1055&utm_source=git)** | Oshkosh, WI | On Site | Oct 06 |
+| **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Contract Manager - Summer 2026](https://jobright.ai/jobs/info/68e4966eae2b894b1d706cb1?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 06 |
+| **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[Intern Trade Compliance](https://jobright.ai/jobs/info/68e49663b99ec3563b0ec093?utm_campaign=1055&utm_source=git)** | Irvine, CA | Remote | Oct 06 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Sales Contracts Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68e48891f758fe1f97e69411?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Oct 06 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Legal / Media Law and First Amendment](https://jobright.ai/jobs/info/68e47c7db99ec3563b0eacef?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
 | **[DriveWealth](https://drivewealth.com)** | **[Summer 2026 Intern, Legal](https://jobright.ai/jobs/info/68e47c1ef758fe1f97e68c32?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 06 |
@@ -74,8 +77,7 @@ For a complete list, click the following sortable link below:
 | **[ATC](http://www.atcllc.com/)** | **[Intern- Legal Summer 2026](https://jobright.ai/jobs/info/68e42cabb99ec3563b0e70c6?utm_campaign=1055&utm_source=git)** | Pewaukee, WI | On Site | Oct 06 |
 | **[Great Lakes Cheese](http://www.greatlakescheese.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e42ab51852e62f00802593?utm_campaign=1055&utm_source=git)** | Hiram, OH | On Site | Oct 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Compliance Program Intern - Summer 2026](https://jobright.ai/jobs/info/68e428d5f758fe1f97e64904?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 06 |
-| **[Legal Assistance Of Western New York, Inc. (LawNY)](https://www.lawny.org)** | **[Temporary Staff Attorney](https://jobright.ai/jobs/info/68e422c8b99ec3563b0e67f1?utm_campaign=1055&utm_source=git)** | Geneva, NY | Hybrid | Oct 06 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Compliance Program Intern - Summer 2026](https://jobright.ai/jobs/info/68e421f61852e62f00801e03?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Oct 06 |
+| ↳ | **[Compliance Program Intern - Summer 2026](https://jobright.ai/jobs/info/68e421f61852e62f00801e03?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Oct 06 |
 | ↳ | **[Medical Affairs Medical Review Intern - Summer 2026](https://jobright.ai/jobs/info/68e41fecb99ec3563b0e6441?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Oct 06 |
 | ↳ | **[Medical Affairs Medical Review Intern - Summer 2026](https://jobright.ai/jobs/info/68e41beab99ec3563b0e61f0?utm_campaign=1055&utm_source=git)** | US - WI - Madison | On Site | Oct 06 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern – Go to Market Legal](https://jobright.ai/jobs/info/68e41bbaf758fe1f97e6405d?utm_campaign=1055&utm_source=git)** | San Francisco | Hybrid | Oct 06 |
@@ -116,8 +118,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Legal Solutions](https://jobright.ai/jobs/info/68e053ce1852e62f007ea2b8?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Legal Solutions](https://jobright.ai/jobs/info/68e053abb99ec3563b0cea79?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Legal Solutions](https://jobright.ai/jobs/info/68e05351f758fe1f97e4c662?utm_campaign=1055&utm_source=git)** | DeWitt, NY | On Site | Oct 03 |
-| ↳ | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e05342f758fe1f97e4c652?utm_campaign=1055&utm_source=git)** | DeWitt, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e053421852e62f007ea228?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
+| ↳ | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e05342f758fe1f97e4c652?utm_campaign=1055&utm_source=git)** | DeWitt, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e0533cf758fe1f97e4c649?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e05282f758fe1f97e4c567?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e05258b99ec3563b0ce8fc?utm_campaign=1055&utm_source=git)** | Utica, NY | On Site | Oct 03 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68c653c9c96a22563eced434?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Oct 03 |
 | **[ND Dept of Corrections and Rehabilitation](https://docr.nd.gov/)** | **[Parole and Probation Intern](https://jobright.ai/jobs/info/68e0f16db99ec3563b0d538c?utm_campaign=1055&utm_source=git)** | Bismarck, ND | On Site | Oct 03 |
 | **[ACLU of Northern California](https://www.aclunc.org)** | **[Summer 2026 Criminal Law & Immigration Project Extern](https://jobright.ai/jobs/info/68df8981fe896042b0b7bf55?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 02 |
+| ↳ | **[Summer 2026 Legal Intern (Appellate Advocacy & Special Litigation)](https://jobright.ai/jobs/info/68df681ffe896042b0b7a890?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 02 |
 | **[Empower Pharmacy](http://empowerpharmacy.com/)** | **[Intern - Legal Associate](https://jobright.ai/jobs/info/68df5970fe896042b0b79ebe?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Oct 02 |
-| **[ACLU of Northern California](https://www.aclunc.org)** | **[Summer 2026 Legal Intern (Appellate Advocacy & Special Litigation)](https://jobright.ai/jobs/info/68df3a196be63b6ec996d28a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 02 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: In-House Legal Team (Summer 2026)](https://jobright.ai/jobs/info/68ddadf344d32141e0bfa174?utm_campaign=1055&utm_source=git)** | Waltham, MA | Hybrid | Oct 02 |
+| **[Town of Morrisville](morrisvillenc.gov)** | **[Criminal Justice Intern](https://jobright.ai/jobs/info/68e4a91bae2b894b1d707622?utm_campaign=1055&utm_source=git)** | Morrisville, NC | On Site | Oct 02 |
+| **[MacArthur Justice Center](https://www.macarthurjustice.org/)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/68e4990a1852e62f00807d70?utm_campaign=1055&utm_source=git)** | New Orleans, LA | On Site | Oct 02 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - CLS Project Managment](https://jobright.ai/jobs/info/68df27585ab4977c2e951040?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Oct 02 |
-| **[Tailwind Group](https://thetailwindgroup.com/)** | **[Law Clerk](https://jobright.ai/jobs/info/68df102d5ab4977c2e94e199?utm_campaign=1055&utm_source=git)** | Excelsior, MN | On Site | Oct 02 |
-| **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68defb1d44d32141e0c04796?utm_campaign=1055&utm_source=git)** | Irvine, CA | Hybrid | Oct 02 |
-| **[Fortrea](https://www.fortrea.com)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/68defd5644d32141e0c04a29?utm_campaign=1055&utm_source=git)** | Baltimore MD | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
