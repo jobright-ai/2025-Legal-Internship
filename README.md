@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/68e5ca35ae2b894b1d71376d?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Oct 07 |
+| **[GlobalFoundries](https://gf.com/)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68d1f403a54edb3bf3e17f8b?utm_campaign=1055&utm_source=git)** | Essex Junction, VT | Hybrid | Oct 07 |
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68e5bfbdae2b894b1d7132f5?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Oct 07 |
+| **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Security Audit Intern](https://jobright.ai/jobs/info/68e5d89aae2b894b1d71422a?utm_campaign=1055&utm_source=git)** | Carmel, IN | On Site | Oct 07 |
 | **[City of Ontario](https://ontarioca.gov)** | **[Administrative Intern - Forensic](https://jobright.ai/jobs/info/68e5b7b7e8daec61499a3cea?utm_campaign=1055&utm_source=git)** | Ontario, CA | On Site | Oct 07 |
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68e5ac6ae8daec61499a3872?utm_campaign=1055&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 07 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e5a5711852e62f008133e1?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Vermont](http://vermont.gov/portal/)** | **[Intern Financial Regulation - Paid - Temporary](https://jobright.ai/jobs/info/68e17d78b99ec3563b0d757b?utm_campaign=1055&utm_source=git)** | Montpelier, VT | On Site | Oct 04 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Judge's Intern (Cumberland/Gloucester/Salem)](https://jobright.ai/jobs/info/68dc393a731a804732067ac2?utm_campaign=1055&utm_source=git)** | Gloucester, NJ | Hybrid | Oct 04 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Compliance, Audit & Risk Management Summer Internship](https://jobright.ai/jobs/info/68e1145eb99ec3563b0d5d26?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 04 |
-| **[National Immigration Law Center](http://www.nilc.org/)** | **[NILC Summer Internship 2026](https://jobright.ai/jobs/info/68e0eaf7f758fe1f97e52d97?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 04 |
-| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Criminal Defense Practice Legal Intern – Spring 2026](https://jobright.ai/jobs/info/68e1f55d1852e62f007f4ab2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 03 |
-| **[Tsang & Associates, PLC](https://tsangslaw.com)** | **[Bilingual Legal Intern](https://jobright.ai/jobs/info/68e0850af758fe1f97e4ddfe?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
