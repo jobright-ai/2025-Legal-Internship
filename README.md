@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baker Tilly](https://www.bakertilly.global/)** | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/68e6a5cce8daec61499ad17b?utm_campaign=1055&utm_source=git)** | USA TX Frisco | On Site | Oct 08 |
+| ↳ | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/68e6a4e5e8daec61499ad0c8?utm_campaign=1055&utm_source=git)** | USA IL Chicago 205 N Michigan Ave | On Site | Oct 08 |
+| **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Risk Management Intern](https://jobright.ai/jobs/info/68e6a4dcae2b894b1d71c282?utm_campaign=1055&utm_source=git)** | Central Park Avenue, Virginia Beach, Virginia | Hybrid | Oct 08 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/68e68f05e8daec61499ac2e9?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Oct 08 |
 | **[Selective Insurance](https://www.selective.com/)** | **[Legal Records Summer Internship - Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/68e67fd1ae2b894b1d71ac92?utm_campaign=1055&utm_source=git)** | Branchville, NJ | Hybrid | Oct 08 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Cybersecurity - Summer 2026](https://jobright.ai/jobs/info/68e68a76e8daec61499ac190?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Oct 08 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: ESG Legal Intern (May to August)](https://jobright.ai/jobs/info/68ca598546caff4db51fdd96?utm_campaign=1055&utm_source=git)** | Needham, MA | Hybrid | Oct 08 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Risk Advisory Internship - Cybersecurity - Summer 2026](https://jobright.ai/jobs/info/68e64fc2ae2b894b1d719b00?utm_campaign=1055&utm_source=git)** | USA GA Atlanta 3740 Davinci Ct | On Site | Oct 08 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad090b758f2e4ac300a717?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 08 |
+| ↳ | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/68acf573daf1431824c99672?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 08 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd43591ad6b16f028973c6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 08 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad0cc8d627244576e4ae5c?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Oct 08 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acf031d627244576e49fc9?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Contract Administration Intern](https://jobright.ai/jobs/info/68e439f3b99ec3563b0e7cdf?utm_campaign=1055&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Oct 06 |
 | ↳ | **[Contract Administration Intern](https://jobright.ai/jobs/info/68e43986f758fe1f97e65ae9?utm_campaign=1055&utm_source=git)** | Remote, Wisconsin, United States | Remote | Oct 06 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Global Regulatory Affairs Intern](https://jobright.ai/jobs/info/68e43925b99ec3563b0e7aea?utm_campaign=1055&utm_source=git)** | Portage, Michigan | On Site | Oct 06 |
-| **[DriveWealth](https://drivewealth.com)** | **[Summer 2026 Intern, Legal](https://jobright.ai/jobs/info/68e43122f758fe1f97e651b4?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Oct 06 |
-| **[ATC](http://www.atcllc.com/)** | **[Intern- Legal Summer 2026](https://jobright.ai/jobs/info/68e42cabb99ec3563b0e70c6?utm_campaign=1055&utm_source=git)** | Pewaukee, WI | On Site | Oct 06 |
-| **[Great Lakes Cheese](http://www.greatlakescheese.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e42ab51852e62f00802593?utm_campaign=1055&utm_source=git)** | Hiram, OH | On Site | Oct 06 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Compliance Program Intern - Summer 2026](https://jobright.ai/jobs/info/68e428d5f758fe1f97e64904?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 06 |
-| ↳ | **[Compliance Program Intern - Summer 2026](https://jobright.ai/jobs/info/68e421f61852e62f00801e03?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Oct 06 |
-| ↳ | **[Medical Affairs Medical Review Intern - Summer 2026](https://jobright.ai/jobs/info/68e41fecb99ec3563b0e6441?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
