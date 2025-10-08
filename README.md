@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad090b758f2e4ac300a717?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 08 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd43591ad6b16f028973c6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 08 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad0cc8d627244576e4ae5c?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Oct 08 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acf031d627244576e49fc9?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ce940a846f0b04af67b453?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 08 |
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e631e4e8daec61499a9f05?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | Hybrid | Oct 08 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e62b1eae2b894b1d718d14?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Oct 08 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e62b07e8daec61499a9a76?utm_campaign=1055&utm_source=git)** | San Antonio, TX | Hybrid | Oct 08 |
@@ -68,6 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e62371e8daec61499a93a9?utm_campaign=1055&utm_source=git)** | Hunt Valley, MD | Hybrid | Oct 08 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e6231cae2b894b1d718712?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 08 |
 | ↳ | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e621301852e62f008193d6?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 08 |
+| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e63dc2ae2b894b1d719593?utm_campaign=1055&utm_source=git)** | East Syracuse, NY | Hybrid | Oct 08 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e64169ae2b894b1d719604?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 08 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Spring Legal Intern](https://jobright.ai/jobs/info/68e5f1c1ae2b894b1d715a76?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Oct 07 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Spring Legal Intern](https://jobright.ai/jobs/info/68e5f0cd1852e62f0081683a?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Oct 07 |
 | **[Encompass Health](http://encompasshealth.com/)** | **[Compliance Student Intern (Summer 2026)](https://jobright.ai/jobs/info/68e5ea15e8daec61499a63c6?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Oct 07 |
@@ -79,8 +86,6 @@ For a complete list, click the following sortable link below:
 | **[City of Ontario](https://ontarioca.gov)** | **[Administrative Intern - Forensic](https://jobright.ai/jobs/info/68e5b7b7e8daec61499a3cea?utm_campaign=1055&utm_source=git)** | Ontario, CA | On Site | Oct 07 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Tax Compliance Intern](https://jobright.ai/jobs/info/68dc25bf97329f2f77322f05?utm_campaign=1055&utm_source=git)** | Juno Beach, FL | On Site | Oct 07 |
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68e5ac6ae8daec61499a3872?utm_campaign=1055&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 07 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e5a5711852e62f008133e1?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
-| ↳ | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e5a4c9ae2b894b1d7123b5?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 07 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Security GRC - Summer 2026](https://jobright.ai/jobs/info/68e59d331852e62f00812c2a?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 07 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e5990a1852e62f008129bb?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Oct 07 |
 | ↳ | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e59879b99ec3563b0f7087?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Oct 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern – Go to Market Legal](https://jobright.ai/jobs/info/68e41bbaf758fe1f97e6405d?utm_campaign=1055&utm_source=git)** | San Francisco | Hybrid | Oct 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Compliance Program Intern - Summer 2026](https://jobright.ai/jobs/info/68e41b34b99ec3563b0e5ffc?utm_campaign=1055&utm_source=git)** | US - Remote | Remote | Oct 06 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern – Go to Market Legal](https://jobright.ai/jobs/info/68e41afa1852e62f0080173e?utm_campaign=1055&utm_source=git)** | San Jose | Hybrid | Oct 06 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Compliance Program Intern - Summer 2026](https://jobright.ai/jobs/info/68e41aa91852e62f0080165a?utm_campaign=1055&utm_source=git)** | US - WI - Madison | Remote | Oct 06 |
-| **[Nova Biomedical](https://www.novabiomedical.com/)** | **[Regulatory Affairs Co-Op/Intern](https://jobright.ai/jobs/info/68e414b41852e62f0080123a?utm_campaign=1055&utm_source=git)** | Waltham, MA | On Site | Oct 06 |
-| **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship - Legal / Commercial Intern](https://jobright.ai/jobs/info/68e3ffecb99ec3563b0e4a3c?utm_campaign=1055&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Oct 06 |
-| **[Fakhoury Global Immigration](https://employmentimmigration.com)** | **[Immigration Law Clerk](https://jobright.ai/jobs/info/68e3fd4a1852e62f0080004d?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Oct 06 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Office of the General Counsel Spring Internship](https://jobright.ai/jobs/info/68e3f616b99ec3563b0e4274?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
