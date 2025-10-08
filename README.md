@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e631e4e8daec61499a9f05?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | Hybrid | Oct 08 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e62b1eae2b894b1d718d14?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Oct 08 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e62b07e8daec61499a9a76?utm_campaign=1055&utm_source=git)** | San Antonio, TX | Hybrid | Oct 08 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e62a29ae2b894b1d718bc0?utm_campaign=1055&utm_source=git)** | Melville, NY | Hybrid | Oct 08 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e629f4ae2b894b1d718b74?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Oct 08 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e627af1852e62f0081980b?utm_campaign=1055&utm_source=git)** | Franklin, TN | Hybrid | Oct 08 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e626f91852e62f00819728?utm_campaign=1055&utm_source=git)** | Providence, RI | Hybrid | Oct 08 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e62482e8daec61499a952b?utm_campaign=1055&utm_source=git)** | Blue Bell, PA | Hybrid | Oct 08 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e62371e8daec61499a93a9?utm_campaign=1055&utm_source=git)** | Hunt Valley, MD | Hybrid | Oct 08 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e6231cae2b894b1d718712?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 08 |
+| ↳ | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e621301852e62f008193d6?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 08 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Spring Legal Intern](https://jobright.ai/jobs/info/68e5f1c1ae2b894b1d715a76?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Oct 07 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Spring Legal Intern](https://jobright.ai/jobs/info/68e5f0cd1852e62f0081683a?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Oct 07 |
 | **[Encompass Health](http://encompasshealth.com/)** | **[Compliance Student Intern (Summer 2026)](https://jobright.ai/jobs/info/68e5ea15e8daec61499a63c6?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Oct 07 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship - Legal / Commercial Intern](https://jobright.ai/jobs/info/68e3ffecb99ec3563b0e4a3c?utm_campaign=1055&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Oct 06 |
 | **[Fakhoury Global Immigration](https://employmentimmigration.com)** | **[Immigration Law Clerk](https://jobright.ai/jobs/info/68e3fd4a1852e62f0080004d?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Oct 06 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Office of the General Counsel Spring Internship](https://jobright.ai/jobs/info/68e3f616b99ec3563b0e4274?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Oct 06 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Office of the General Counsel Spring Internship](https://jobright.ai/jobs/info/68e3f4791852e62f007ffa20?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Oct 06 |
-| **[Kimball Electronics](http://www.kimballelectronics.com)** | **[Legal Analyst Intern](https://jobright.ai/jobs/info/68e3f066b99ec3563b0e3ea4?utm_campaign=1055&utm_source=git)** | US Remote - Anywhere | Remote | Oct 06 |
-| **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship - Legal / Media Law and First Amendment](https://jobright.ai/jobs/info/68e3ef59b99ec3563b0e3db3?utm_campaign=1055&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Oct 06 |
-| **[Cherry Bekaert](https://www.cbh.com)** | **[Risk Advisory Internal Audit Senior Associate (Regulatory Compliance)](https://jobright.ai/jobs/info/68e3edfc1852e62f007ff5c5?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | Hybrid | Oct 06 |
-| **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Drug Product Supply Risk Management](https://jobright.ai/jobs/info/68e3ec03f758fe1f97e61b2c?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Oct 06 |
-| **[Death Penalty Information Center](http://www.deathpenaltyinfo.org)** | **[Spring 2026 Legal Intern](https://jobright.ai/jobs/info/68e3e74b1852e62f007ff2ad?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 06 |
-| **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Drug Product Supply Risk Management](https://jobright.ai/jobs/info/68e3d6a41852e62f007fe5a6?utm_campaign=1055&utm_source=git)** | Norwood, Massachusetts | On Site | Oct 06 |
-| **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - SETTLEMENTS (HDQ)](https://jobright.ai/jobs/info/68c7d8e4369c3763c743c614?utm_campaign=1055&utm_source=git)** | Bismarck, ND | On Site | Oct 06 |
-| **[City of Ontario](https://ontarioca.gov)** | **[Administrative Intern - Forensic](https://jobright.ai/jobs/info/68e3a3c41852e62f007fd24d?utm_campaign=1055&utm_source=git)** | Ontario, CA | On Site | Oct 05 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Democracy Legal Internship, NY](https://jobright.ai/jobs/info/68e24fd6b99ec3563b0dc242?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 05 |
-| ↳ | **[Spring 2026 Liberty and National Security Legal Internship, NY](https://jobright.ai/jobs/info/68e24fbf1852e62f007f7a28?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
