@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68e5bfbdae2b894b1d7132f5?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Oct 07 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Security Audit Intern](https://jobright.ai/jobs/info/68e5d89aae2b894b1d71422a?utm_campaign=1055&utm_source=git)** | Carmel, IN | On Site | Oct 07 |
 | **[City of Ontario](https://ontarioca.gov)** | **[Administrative Intern - Forensic](https://jobright.ai/jobs/info/68e5b7b7e8daec61499a3cea?utm_campaign=1055&utm_source=git)** | Ontario, CA | On Site | Oct 07 |
+| **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Tax Compliance Intern](https://jobright.ai/jobs/info/68dc25bf97329f2f77322f05?utm_campaign=1055&utm_source=git)** | Juno Beach, FL | On Site | Oct 07 |
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68e5ac6ae8daec61499a3872?utm_campaign=1055&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 07 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e5a5711852e62f008133e1?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
 | ↳ | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e5a4c9ae2b894b1d7123b5?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Ontario](https://ontarioca.gov)** | **[Administrative Intern - Forensic](https://jobright.ai/jobs/info/68e3a3c41852e62f007fd24d?utm_campaign=1055&utm_source=git)** | Ontario, CA | On Site | Oct 05 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Democracy Legal Internship, NY](https://jobright.ai/jobs/info/68e24fd6b99ec3563b0dc242?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 05 |
 | ↳ | **[Spring 2026 Liberty and National Security Legal Internship, NY](https://jobright.ai/jobs/info/68e24fbf1852e62f007f7a28?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 05 |
-| ↳ | **[Spring 2026 Liberty and National Security Legal Internship, DC](https://jobright.ai/jobs/info/68e24f6fb99ec3563b0dc211?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
