@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Selective Insurance](https://www.selective.com/)** | **[Legal Records Summer Internship - Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/68e67fd1ae2b894b1d71ac92?utm_campaign=1055&utm_source=git)** | Branchville, NJ | Hybrid | Oct 08 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: ESG Legal Intern (May to August)](https://jobright.ai/jobs/info/68ca598546caff4db51fdd96?utm_campaign=1055&utm_source=git)** | Needham, MA | Hybrid | Oct 08 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Risk Advisory Internship - Cybersecurity - Summer 2026](https://jobright.ai/jobs/info/68e64fc2ae2b894b1d719b00?utm_campaign=1055&utm_source=git)** | USA GA Atlanta 3740 Davinci Ct | On Site | Oct 08 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad090b758f2e4ac300a717?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Compliance Program Intern - Summer 2026](https://jobright.ai/jobs/info/68e428d5f758fe1f97e64904?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 06 |
 | ↳ | **[Compliance Program Intern - Summer 2026](https://jobright.ai/jobs/info/68e421f61852e62f00801e03?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Oct 06 |
 | ↳ | **[Medical Affairs Medical Review Intern - Summer 2026](https://jobright.ai/jobs/info/68e41fecb99ec3563b0e6441?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Oct 06 |
-| ↳ | **[Medical Affairs Medical Review Intern - Summer 2026](https://jobright.ai/jobs/info/68e41beab99ec3563b0e61f0?utm_campaign=1055&utm_source=git)** | US - WI - Madison | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
