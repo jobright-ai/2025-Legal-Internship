@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Abandoned and Unclaimed Property Compliance](https://jobright.ai/jobs/info/68e6bfdce8daec61499ae339?utm_campaign=1055&utm_source=git)** | Tampa | On Site | Oct 08 |
+| ↳ | **[Summer 2026 Intern, Abandoned and Unclaimed Property Compliance](https://jobright.ai/jobs/info/68e6bf8ce8daec61499ae2b0?utm_campaign=1055&utm_source=git)** | King of Prussia | On Site | Oct 08 |
+| **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 Compliance Summer Intern](https://jobright.ai/jobs/info/68e6b4ad1852e62f0081db0d?utm_campaign=1055&utm_source=git)** | Chicago, Illinois, United States | On Site | Oct 08 |
+| **[Aspida](http://globalbankers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68ddd0a444d32141e0bfafb8?utm_campaign=1055&utm_source=git)** | Durham, NC | Hybrid | Oct 08 |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Regulatory & Legislative Affairs Undergraduate Intern](https://jobright.ai/jobs/info/68e6b271ae2b894b1d71cb81?utm_campaign=1055&utm_source=git)** | Camp Hill PA, 17011, Center Street Building 1B | Remote | Oct 08 |
+| **[RealINSIGHT](https://www.realinsight.com)** | **[Cyber Governance and Compliance Intern](https://jobright.ai/jobs/info/68e6b105ae2b894b1d71c96a?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Oct 08 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/68e6a5cce8daec61499ad17b?utm_campaign=1055&utm_source=git)** | USA TX Frisco | On Site | Oct 08 |
 | ↳ | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/68e6a4e5e8daec61499ad0c8?utm_campaign=1055&utm_source=git)** | USA IL Chicago 205 N Michigan Ave | On Site | Oct 08 |
 | **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Risk Management Intern](https://jobright.ai/jobs/info/68e6a4dcae2b894b1d71c282?utm_campaign=1055&utm_source=git)** | Central Park Avenue, Virginia Beach, Virginia | Hybrid | Oct 08 |
@@ -70,6 +76,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd43591ad6b16f028973c6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 08 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad0cc8d627244576e4ae5c?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Oct 08 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acf031d627244576e49fc9?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
+| ↳ | **[Third Party Risk Intern](https://jobright.ai/jobs/info/68cf7ae8846f0b04af6825b6?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 08 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ce940a846f0b04af67b453?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 08 |
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e631e4e8daec61499a9f05?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | Hybrid | Oct 08 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd88b01ad6b16f0289aef1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 08 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Internship - SPRING 2026 - MDT/Criminal Justice #HIRING](https://jobright.ai/jobs/info/68e5b17ce8daec61499a3a0a?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Oct 06 |
 | **[Still She Rises, Tulsa](https://stillsherises.org/)** | **[Summer Legal Internship 2026](https://jobright.ai/jobs/info/68e5629aae2b894b1d70e281?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Oct 06 |
 | **[DriveWealth](https://drivewealth.com)** | **[Summer 2026 Intern, Compliance](https://jobright.ai/jobs/info/68e4546f1852e62f00804d5a?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Oct 06 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Intern Trade Compliance](https://jobright.ai/jobs/info/68e44ddfb99ec3563b0e8dad?utm_campaign=1055&utm_source=git)** | Irvine, California, United States of America | Remote | Oct 06 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern – Go to Market Legal](https://jobright.ai/jobs/info/68e44a43b99ec3563b0e8c3c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Oct 06 |
-| **[CHAGEE USA](https://chagee.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e448f2f758fe1f97e668d6?utm_campaign=1055&utm_source=git)** | Orange County, CA | Hybrid | Oct 06 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Global Regulatory Affairs Intern](https://jobright.ai/jobs/info/68e44096f758fe1f97e66137?utm_campaign=1055&utm_source=git)** | Portage, MI | On Site | Oct 06 |
-| **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Contract Administration Intern](https://jobright.ai/jobs/info/68e439f3b99ec3563b0e7cdf?utm_campaign=1055&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Oct 06 |
-| ↳ | **[Contract Administration Intern](https://jobright.ai/jobs/info/68e43986f758fe1f97e65ae9?utm_campaign=1055&utm_source=git)** | Remote, Wisconsin, United States | Remote | Oct 06 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Global Regulatory Affairs Intern](https://jobright.ai/jobs/info/68e43925b99ec3563b0e7aea?utm_campaign=1055&utm_source=git)** | Portage, Michigan | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
