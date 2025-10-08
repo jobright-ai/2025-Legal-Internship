@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: ESG Legal Intern (May to August)](https://jobright.ai/jobs/info/68ca598546caff4db51fdd96?utm_campaign=1055&utm_source=git)** | Needham, MA | Hybrid | Oct 08 |
+| **[Baker Tilly](https://www.bakertilly.global/)** | **[Risk Advisory Internship - Cybersecurity - Summer 2026](https://jobright.ai/jobs/info/68e64fc2ae2b894b1d719b00?utm_campaign=1055&utm_source=git)** | USA GA Atlanta 3740 Davinci Ct | On Site | Oct 08 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad090b758f2e4ac300a717?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 08 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd43591ad6b16f028973c6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 08 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad0cc8d627244576e4ae5c?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Oct 08 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acf031d627244576e49fc9?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ce940a846f0b04af67b453?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 08 |
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e631e4e8daec61499a9f05?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | Hybrid | Oct 08 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e62b1eae2b894b1d718d14?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Oct 08 |
+| **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd88b01ad6b16f0289aef1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 08 |
+| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e62b1eae2b894b1d718d14?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Oct 08 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e62b07e8daec61499a9a76?utm_campaign=1055&utm_source=git)** | San Antonio, TX | Hybrid | Oct 08 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e62a29ae2b894b1d718bc0?utm_campaign=1055&utm_source=git)** | Melville, NY | Hybrid | Oct 08 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e629f4ae2b894b1d718b74?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Oct 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Compliance Program Intern - Summer 2026](https://jobright.ai/jobs/info/68e421f61852e62f00801e03?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Oct 06 |
 | ↳ | **[Medical Affairs Medical Review Intern - Summer 2026](https://jobright.ai/jobs/info/68e41fecb99ec3563b0e6441?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Oct 06 |
 | ↳ | **[Medical Affairs Medical Review Intern - Summer 2026](https://jobright.ai/jobs/info/68e41beab99ec3563b0e61f0?utm_campaign=1055&utm_source=git)** | US - WI - Madison | On Site | Oct 06 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern – Go to Market Legal](https://jobright.ai/jobs/info/68e41bbaf758fe1f97e6405d?utm_campaign=1055&utm_source=git)** | San Francisco | Hybrid | Oct 06 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Compliance Program Intern - Summer 2026](https://jobright.ai/jobs/info/68e41b34b99ec3563b0e5ffc?utm_campaign=1055&utm_source=git)** | US - Remote | Remote | Oct 06 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern – Go to Market Legal](https://jobright.ai/jobs/info/68e41afa1852e62f0080173e?utm_campaign=1055&utm_source=git)** | San Jose | Hybrid | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
