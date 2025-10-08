@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FlightSafety International](https://www.flightsafety.com/)** | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68e5bfbdae2b894b1d7132f5?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Oct 07 |
+| **[City of Ontario](https://ontarioca.gov)** | **[Administrative Intern - Forensic](https://jobright.ai/jobs/info/68e5b7b7e8daec61499a3cea?utm_campaign=1055&utm_source=git)** | Ontario, CA | On Site | Oct 07 |
+| **[FlightSafety International](https://www.flightsafety.com/)** | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68e5ac6ae8daec61499a3872?utm_campaign=1055&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 07 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e5a5711852e62f008133e1?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
 | ↳ | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e5a4c9ae2b894b1d7123b5?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 07 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Security GRC - Summer 2026](https://jobright.ai/jobs/info/68e59d331852e62f00812c2a?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 07 |
@@ -110,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[DriveWealth](https://drivewealth.com)** | **[Summer 2026 Intern, Legal](https://jobright.ai/jobs/info/68e47c1ef758fe1f97e68c32?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 06 |
 | ↳ | **[Summer 2026 Intern, Compliance](https://jobright.ai/jobs/info/68e47badf758fe1f97e68bc6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 06 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Legal / Commercial Intern](https://jobright.ai/jobs/info/68e478f91852e62f0080643a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
+| **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Internship - SPRING 2026 - MDT/Criminal Justice #HIRING](https://jobright.ai/jobs/info/68e5b17ce8daec61499a3a0a?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Oct 06 |
 | **[Still She Rises, Tulsa](https://stillsherises.org/)** | **[Summer Legal Internship 2026](https://jobright.ai/jobs/info/68e5629aae2b894b1d70e281?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Oct 06 |
 | **[DriveWealth](https://drivewealth.com)** | **[Summer 2026 Intern, Compliance](https://jobright.ai/jobs/info/68e4546f1852e62f00804d5a?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Oct 06 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Intern Trade Compliance](https://jobright.ai/jobs/info/68e44ddfb99ec3563b0e8dad?utm_campaign=1055&utm_source=git)** | Irvine, California, United States of America | Remote | Oct 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Immigration Law Center](http://www.nilc.org/)** | **[NILC Summer Internship 2026](https://jobright.ai/jobs/info/68e0eaf7f758fe1f97e52d97?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 04 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Criminal Defense Practice Legal Intern – Spring 2026](https://jobright.ai/jobs/info/68e1f55d1852e62f007f4ab2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[Tsang & Associates, PLC](https://tsangslaw.com)** | **[Bilingual Legal Intern](https://jobright.ai/jobs/info/68e0850af758fe1f97e4ddfe?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | Oct 03 |
-| **[Labcorp](https://www.labcorp.com)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/68e0761cf758fe1f97e4d661?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Oct 03 |
-| **[Union Pacific Railroad](http://www.up.com/)** | **[Summer Intern - Law Clerk](https://jobright.ai/jobs/info/68df3afe6be63b6ec996d521?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Oct 03 |
-| **[National Immigration Law Center](http://www.nilc.org/)** | **[NILC Summer Internship 2026](https://jobright.ai/jobs/info/68e06fe41852e62f007eac92?utm_campaign=1055&utm_source=git)** | Los Angeles & Washington D.C. (preferred) Remote considered (required locations listed in JD) | Remote | Oct 03 |
-| **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Summer 2026 - Enterprise Regulatory Compliance](https://jobright.ai/jobs/info/68e066a51852e62f007eaa2c?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
