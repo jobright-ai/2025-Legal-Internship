@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/68e723a3ae2b894b1d721a7f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Oct 08 |
+| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Boston - Spring 2026](https://jobright.ai/jobs/info/68e721d91852e62f00822871?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Oct 08 |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Intern (Criminal Division)](https://jobright.ai/jobs/info/68e71e6de8daec61499b276b?utm_campaign=1055&utm_source=git)** | New Brunswick, NJ | Hybrid | Oct 08 |
 | **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Risk Management Intern](https://jobright.ai/jobs/info/68e6e72ee8daec61499b067c?utm_campaign=1055&utm_source=git)** | Greater Richmond Region | Hybrid | Oct 08 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Risk Intern](https://jobright.ai/jobs/info/68e6e364e8daec61499b0124?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Oct 08 |
 | **[Weaver](http://www.weaver.com)** | **[Governance, Risk and Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/68e6de7de8daec61499aff4e?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 08 |
@@ -78,7 +81,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Advisory Internship - Cybersecurity - Summer 2026](https://jobright.ai/jobs/info/68e6cd541852e62f0081ec13?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Oct 08 |
 | **[Blumhouse](http://Blumhouse.com)** | **[Development Intern, Business & Legal Affairs](https://jobright.ai/jobs/info/68e6c4ae1852e62f0081e564?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 08 |
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Abandoned and Unclaimed Property Compliance](https://jobright.ai/jobs/info/68e6c1f91852e62f0081e2f2?utm_campaign=1055&utm_source=git)** | Tampa | On Site | Oct 08 |
-| ↳ | **[Summer 2026 Intern, Abandoned and Unclaimed Property Compliance](https://jobright.ai/jobs/info/68e6c1d91852e62f0081e2d5?utm_campaign=1055&utm_source=git)** | King of Prussia | On Site | Oct 08 |
+| ↳ | **[Summer 2026 Intern, Abandoned and Unclaimed Property Compliance](https://jobright.ai/jobs/info/68e6bf8ce8daec61499ae2b0?utm_campaign=1055&utm_source=git)** | King of Prussia | On Site | Oct 08 |
 | **[Highmark](https://www.highmark.com)** | **[Summer 2026 Regulatory & Legislative Affairs Undergraduate Intern](https://jobright.ai/jobs/info/68e6d849ae2b894b1d71eb63?utm_campaign=1055&utm_source=git)** | Camp Hill, PA | On Site | Oct 08 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 Compliance Summer Intern](https://jobright.ai/jobs/info/68e6b4ad1852e62f0081db0d?utm_campaign=1055&utm_source=git)** | Chicago, Illinois, United States | On Site | Oct 08 |
 | **[Aspida](http://globalbankers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68ddd0a444d32141e0bfafb8?utm_campaign=1055&utm_source=git)** | Durham, NC | Hybrid | Oct 08 |
@@ -91,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Selective Insurance](https://www.selective.com/)** | **[Legal Records Summer Internship - Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/68e67fd1ae2b894b1d71ac92?utm_campaign=1055&utm_source=git)** | Branchville, NJ | Hybrid | Oct 08 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Cybersecurity - Summer 2026](https://jobright.ai/jobs/info/68e68a76e8daec61499ac190?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Oct 08 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: ESG Legal Intern (May to August)](https://jobright.ai/jobs/info/68ca598546caff4db51fdd96?utm_campaign=1055&utm_source=git)** | Needham, MA | Hybrid | Oct 08 |
+| **[WoodmenLife](https://www.woodmenlife.org/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68dbd9676f6c5c3fadf328bc?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Oct 08 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Risk Advisory Internship - Cybersecurity - Summer 2026](https://jobright.ai/jobs/info/68e64fc2ae2b894b1d719b00?utm_campaign=1055&utm_source=git)** | USA GA Atlanta 3740 Davinci Ct | On Site | Oct 08 |
 | **[ePayPolicy](https://epaypolicy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e46388f758fe1f97e67a0f?utm_campaign=1055&utm_source=git)** | Texas, United States | Hybrid | Oct 08 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad090b758f2e4ac300a717?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Spring 2026 Compliance Internship](https://jobright.ai/jobs/info/68e551b0b99ec3563b0f2bf1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 07 |
 | **[Pact](https://pactlegal.com/)** | **[Law Clerk: 2026 Spring Semester Internship / Summer Associate](https://jobright.ai/jobs/info/68e549191852e62f0080dd53?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Oct 07 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Financial Compliance Intern](https://jobright.ai/jobs/info/68e54639b99ec3563b0f21c1?utm_campaign=1055&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Oct 07 |
-| **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Spring 2026 Regulatory Internship](https://jobright.ai/jobs/info/68e56fcc1852e62f0080ff36?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 07 |
-| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e534edae2b894b1d70be28?utm_campaign=1055&utm_source=git)** | NY - Tarrytown | Hybrid | Oct 07 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e534e91852e62f0080cf8f?utm_campaign=1055&utm_source=git)** | NY - New York City | Hybrid | Oct 07 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e534b4b99ec3563b0f15f6?utm_campaign=1055&utm_source=git)** | CA - Orange | Hybrid | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
