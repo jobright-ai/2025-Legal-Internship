@@ -57,8 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7f51809580a2fe57f1733?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Oct 09 |
+| **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7f4cf09580a2fe57f16bb?utm_campaign=1055&utm_source=git)** | Utica, NY | On Site | Oct 09 |
+| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7f45a09580a2fe57f15cb?utm_campaign=1055&utm_source=git)** | DeWitt, NY | On Site | Oct 09 |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2025 Contracts Administrator Intern - Mesa AZ](https://jobright.ai/jobs/info/68e7f367cc49a84b7e0ffd36?utm_campaign=1055&utm_source=git)** | United States-Arizona-Mesa | On Site | Oct 09 |
+| **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7f0cbcc49a84b7e0ffbd3?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Oct 09 |
+| ↳ | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7f066cc49a84b7e0ffb42?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Oct 09 |
+| ↳ | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7ee9acc49a84b7e0ff8cd?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 09 |
+| ↳ | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7ede209580a2fe57f10f1?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Oct 09 |
+| ↳ | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7ed5309580a2fe57f1028?utm_campaign=1055&utm_source=git)** | DeWitt, NY | On Site | Oct 09 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Special Enforcement Investigations Intern](https://jobright.ai/jobs/info/68e7ec62c4895107182bf9e1?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Oct 09 |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Special Enforcement Investigations Intern](https://jobright.ai/jobs/info/68e7e7e4cc49a84b7e0ff3c9?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Oct 09 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Intern, Drug Product Supply Risk Management](https://jobright.ai/jobs/info/68e7e47109580a2fe57f0755?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Oct 09 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Contract Administrator Intern - Elkton MD](https://jobright.ai/jobs/info/68e7d845cc49a84b7e0fe9f3?utm_campaign=1055&utm_source=git)** | United States-Maryland-Elkton | On Site | Oct 09 |
 | **[USA Water Polo](https://usawaterpolo.org/)** | **[Sports Compliance Intern - College Credit](https://jobright.ai/jobs/info/68e7d0cdc4895107182be7a9?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 09 |
+| **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Risk Solutions Intern](https://jobright.ai/jobs/info/68e7f178c4895107182bfe91?utm_campaign=1055&utm_source=git)** | Cedar Rapids, IA | On Site | Oct 09 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/68e7c4d8c4895107182bdf5f?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Oct 09 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Intern, Domestic Violence & Family Law Unit (Summer 2026)](https://jobright.ai/jobs/info/68e7b047c4895107182bcff9?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 09 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/68e7926c70315f028bcac2fe?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Oct 09 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e59879b99ec3563b0f7087?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Oct 07 |
 | **[Oshkosh Defense](https://oshkoshdefense.com)** | **[Financial Compliance Intern](https://jobright.ai/jobs/info/68e596ceae2b894b1d711856?utm_campaign=1055&utm_source=git)** | Oshkosh, WI | On Site | Oct 07 |
 | **[Protiviti](http://www.protiviti.com)** | **[Los Angeles Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68e59089b99ec3563b0f693e?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 07 |
-| **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/ Intern Volunteer](https://jobright.ai/jobs/info/68e59089ae2b894b1d711356?utm_campaign=1055&utm_source=git)** | Lakewood, CO | On Site | Oct 07 |
-| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e5906db99ec3563b0f6907?utm_campaign=1055&utm_source=git)** | St Louis, MO | Hybrid | Oct 07 |
-| **[Protiviti](http://www.protiviti.com)** | **[Minneapolis Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68e58fc31852e62f00812113?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 07 |
-| ↳ | **[Charlotte Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68e58f22b99ec3563b0f6705?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Oct 07 |
-| **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Security GRC - Summer 2026](https://jobright.ai/jobs/info/68e58e2d1852e62f00811ebd?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 07 |
-| **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Security Audit Intern](https://jobright.ai/jobs/info/68e58bafae2b894b1d710d8d?utm_campaign=1055&utm_source=git)** | Carmel, IN | On Site | Oct 07 |
-| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e58952b99ec3563b0f61de?utm_campaign=1055&utm_source=git)** | Rancho Cordova, CA | Hybrid | Oct 07 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e58932ae2b894b1d710bce?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Oct 07 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e586c4ae2b894b1d7107a3?utm_campaign=1055&utm_source=git)** | Lake Oswego, OR | Hybrid | Oct 07 |
-| **[Protiviti](http://www.protiviti.com)** | **[Cincinnati Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68e58697b99ec3563b0f5d4b?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 07 |
-| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e5863c1852e62f0081169a?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | Hybrid | Oct 07 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e5829bb99ec3563b0f5bb5?utm_campaign=1055&utm_source=git)** | Melville, NY | Hybrid | Oct 07 |
-| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[PIP Paralegal Intern](https://jobright.ai/jobs/info/68e58236ae2b894b1d7104b3?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
