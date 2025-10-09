@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/68e7926c70315f028bcac2fe?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Oct 09 |
 | **[Pfizer](http://www.pfizer.com)** | **[Summer 2026 Legal/ Compliance Internship](https://jobright.ai/jobs/info/68e75c2fe8daec61499b4abd?utm_campaign=1055&utm_source=git)** | NY- New York, PA- Collegeville | On Site | Oct 08 |
 | ↳ | **[Summer 2026 Legal/ Compliance Internship](https://jobright.ai/jobs/info/68e75a3bae2b894b1d723af9?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Oct 08 |
 | ↳ | **[Summer 2026 Legal/ Compliance Internship](https://jobright.ai/jobs/info/68e75a291852e62f00824851?utm_campaign=1055&utm_source=git)** | US-PA-Collegeville | On Site | Oct 08 |
@@ -87,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/68e6ce52ae2b894b1d71deb6?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 08 |
 | ↳ | **[Risk Advisory Internship - Cybersecurity - Summer 2026](https://jobright.ai/jobs/info/68e6cd541852e62f0081ec13?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Oct 08 |
 | **[Blumhouse](http://Blumhouse.com)** | **[Development Intern, Business & Legal Affairs](https://jobright.ai/jobs/info/68e6c4ae1852e62f0081e564?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 08 |
-| **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Abandoned and Unclaimed Property Compliance](https://jobright.ai/jobs/info/68e6bfdce8daec61499ae339?utm_campaign=1055&utm_source=git)** | Tampa | On Site | Oct 08 |
+| **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Abandoned and Unclaimed Property Compliance](https://jobright.ai/jobs/info/68e6c1f91852e62f0081e2f2?utm_campaign=1055&utm_source=git)** | Tampa | On Site | Oct 08 |
 | ↳ | **[Summer 2026 Intern, Abandoned and Unclaimed Property Compliance](https://jobright.ai/jobs/info/68e6bf8ce8daec61499ae2b0?utm_campaign=1055&utm_source=git)** | King of Prussia | On Site | Oct 08 |
 | **[Highmark](https://www.highmark.com)** | **[Summer 2026 Regulatory & Legislative Affairs Undergraduate Intern](https://jobright.ai/jobs/info/68e6d849ae2b894b1d71eb63?utm_campaign=1055&utm_source=git)** | Camp Hill, PA | On Site | Oct 08 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 Compliance Summer Intern](https://jobright.ai/jobs/info/68e6b4ad1852e62f0081db0d?utm_campaign=1055&utm_source=git)** | Chicago, Illinois, United States | On Site | Oct 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[PIP Paralegal Intern](https://jobright.ai/jobs/info/68e58236ae2b894b1d7104b3?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ | On Site | Oct 07 |
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e58223ae2b894b1d710493?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 07 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e581adb99ec3563b0f5a70?utm_campaign=1055&utm_source=git)** | Diamond Bar, CA | Hybrid | Oct 07 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e57fd31852e62f00811054?utm_campaign=1055&utm_source=git)** | Glendale, CA | Hybrid | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
