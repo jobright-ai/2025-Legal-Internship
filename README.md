@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Contract Administrator Intern - Elkton MD](https://jobright.ai/jobs/info/68e7d845cc49a84b7e0fe9f3?utm_campaign=1055&utm_source=git)** | United States-Maryland-Elkton | On Site | Oct 09 |
+| **[USA Water Polo](https://usawaterpolo.org/)** | **[Sports Compliance Intern - College Credit](https://jobright.ai/jobs/info/68e7d0cdc4895107182be7a9?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 09 |
+| **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/68e7c4d8c4895107182bdf5f?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Oct 09 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Intern, Domestic Violence & Family Law Unit (Summer 2026)](https://jobright.ai/jobs/info/68e7b047c4895107182bcff9?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 09 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/68e7926c70315f028bcac2fe?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Oct 09 |
 | **[Pfizer](http://www.pfizer.com)** | **[Summer 2026 Legal/ Compliance Internship](https://jobright.ai/jobs/info/68e75c2fe8daec61499b4abd?utm_campaign=1055&utm_source=git)** | NY- New York, PA- Collegeville | On Site | Oct 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e5863c1852e62f0081169a?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | Hybrid | Oct 07 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e5829bb99ec3563b0f5bb5?utm_campaign=1055&utm_source=git)** | Melville, NY | Hybrid | Oct 07 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[PIP Paralegal Intern](https://jobright.ai/jobs/info/68e58236ae2b894b1d7104b3?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ | On Site | Oct 07 |
-| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e58223ae2b894b1d710493?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 07 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e581adb99ec3563b0f5a70?utm_campaign=1055&utm_source=git)** | Diamond Bar, CA | Hybrid | Oct 07 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e57fd31852e62f00811054?utm_campaign=1055&utm_source=git)** | Glendale, CA | Hybrid | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
