@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Risk Management Intern](https://jobright.ai/jobs/info/68e6e72ee8daec61499b067c?utm_campaign=1055&utm_source=git)** | Greater Richmond Region | Hybrid | Oct 08 |
+| **[GoFundMe](http://www.gofundme.com)** | **[Risk Intern](https://jobright.ai/jobs/info/68e6e364e8daec61499b0124?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Oct 08 |
+| **[Weaver](http://www.weaver.com)** | **[Governance, Risk and Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/68e6de7de8daec61499aff4e?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 08 |
+| ↳ | **[Governance, Risk and Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/68e6de5f1852e62f0081fbb1?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Oct 08 |
+| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/68e6dd73e8daec61499afdd6?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Oct 08 |
 | **[Weaver](http://www.weaver.com)** | **[Governance, Risk and Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/68e6d85bae2b894b1d71eb79?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Oct 08 |
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Abandoned and Unclaimed Property Compliance](https://jobright.ai/jobs/info/68e6d84ae8daec61499af9e4?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Oct 08 |
 | ↳ | **[Summer 2026 Intern, Abandoned and Unclaimed Property Compliance](https://jobright.ai/jobs/info/68e6d7b9ae2b894b1d71eaa1?utm_campaign=1055&utm_source=git)** | King of Prussia, PA | On Site | Oct 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e534e91852e62f0080cf8f?utm_campaign=1055&utm_source=git)** | NY - New York City | Hybrid | Oct 07 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e534b4b99ec3563b0f15f6?utm_campaign=1055&utm_source=git)** | CA - Orange | Hybrid | Oct 07 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e5340dae2b894b1d70bd43?utm_campaign=1055&utm_source=git)** | OR - Lake Oswego | Hybrid | Oct 07 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e533dfb99ec3563b0f1530?utm_campaign=1055&utm_source=git)** | CA - Diamond Bar | Hybrid | Oct 07 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e533b9b99ec3563b0f1514?utm_campaign=1055&utm_source=git)** | CA - Walnut Creek | Hybrid | Oct 07 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e53371ae2b894b1d70bcd4?utm_campaign=1055&utm_source=git)** | CA - Rancho Cordova | Hybrid | Oct 07 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e533331852e62f0080cdc8?utm_campaign=1055&utm_source=git)** | CA - Glendale | Hybrid | Oct 07 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e532f71852e62f0080cd31?utm_campaign=1055&utm_source=git)** | CT - Hartford | Hybrid | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
