@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Intern, Domestic Violence & Family Law Unit (Summer 2026)](https://jobright.ai/jobs/info/68e7b047c4895107182bcff9?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 09 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/68e7926c70315f028bcac2fe?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Oct 09 |
 | **[Pfizer](http://www.pfizer.com)** | **[Summer 2026 Legal/ Compliance Internship](https://jobright.ai/jobs/info/68e75c2fe8daec61499b4abd?utm_campaign=1055&utm_source=git)** | NY- New York, PA- Collegeville | On Site | Oct 08 |
 | ↳ | **[Summer 2026 Legal/ Compliance Internship](https://jobright.ai/jobs/info/68e75a3bae2b894b1d723af9?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Oct 08 |
@@ -99,7 +100,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/68e6a4e5e8daec61499ad0c8?utm_campaign=1055&utm_source=git)** | USA IL Chicago 205 N Michigan Ave | On Site | Oct 08 |
 | **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Risk Management Intern](https://jobright.ai/jobs/info/68e6a4dcae2b894b1d71c282?utm_campaign=1055&utm_source=git)** | Central Park Avenue, Virginia Beach, Virginia | Hybrid | Oct 08 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/68e68f05e8daec61499ac2e9?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Oct 08 |
-| **[Selective Insurance](https://www.selective.com/)** | **[Legal Records Summer Internship - Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/68e67fd1ae2b894b1d71ac92?utm_campaign=1055&utm_source=git)** | Branchville, NJ | Hybrid | Oct 08 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Cybersecurity - Summer 2026](https://jobright.ai/jobs/info/68e68a76e8daec61499ac190?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Oct 08 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: ESG Legal Intern (May to August)](https://jobright.ai/jobs/info/68ca598546caff4db51fdd96?utm_campaign=1055&utm_source=git)** | Needham, MA | Hybrid | Oct 08 |
 | **[WoodmenLife](https://www.woodmenlife.org/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68dbd9676f6c5c3fadf328bc?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Oct 08 |
@@ -134,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/68e5ca35ae2b894b1d71376d?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Oct 07 |
 | **[GlobalFoundries](https://gf.com/)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68d1f403a54edb3bf3e17f8b?utm_campaign=1055&utm_source=git)** | Essex Junction, VT | Hybrid | Oct 07 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Security Audit Intern](https://jobright.ai/jobs/info/68e5d89aae2b894b1d71422a?utm_campaign=1055&utm_source=git)** | Carmel, IN | On Site | Oct 07 |
-| **[City of Ontario](https://ontarioca.gov)** | **[Administrative Intern - Forensic](https://jobright.ai/jobs/info/68e5b7b7e8daec61499a3cea?utm_campaign=1055&utm_source=git)** | Ontario, CA | On Site | Oct 07 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Tax Compliance Intern](https://jobright.ai/jobs/info/68dc25bf97329f2f77322f05?utm_campaign=1055&utm_source=git)** | Juno Beach, FL | On Site | Oct 07 |
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68e5ac6ae8daec61499a3872?utm_campaign=1055&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 07 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Security GRC - Summer 2026](https://jobright.ai/jobs/info/68e59d331852e62f00812c2a?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[PIP Paralegal Intern](https://jobright.ai/jobs/info/68e58236ae2b894b1d7104b3?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ | On Site | Oct 07 |
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e58223ae2b894b1d710493?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 07 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e581adb99ec3563b0f5a70?utm_campaign=1055&utm_source=git)** | Diamond Bar, CA | Hybrid | Oct 07 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e57fd31852e62f00811054?utm_campaign=1055&utm_source=git)** | Glendale, CA | Hybrid | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
