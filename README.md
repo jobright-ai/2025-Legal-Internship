@@ -57,19 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Dispute Resolution College Intern](https://jobright.ai/jobs/info/68e976b065768b6412b1c662?utm_campaign=1055&utm_source=git)** | Ohio Department of Education25 South Front Street | On Site | Oct 10 |
+| ↳ | **[Dispute Resolution College Intern](https://jobright.ai/jobs/info/68e97626f195760c354a9713?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Oct 10 |
+| **[JonnyPops](https://www.jonnypops.com/)** | **[Consumer Affairs Intern (Summer)](https://jobright.ai/jobs/info/68e9752af195760c354a95e7?utm_campaign=1055&utm_source=git)** | Plymouth, MN | On Site | Oct 10 |
+| **[Capital Farm Credit](https://www.capitalfarmcredit.com/)** | **[Internship - Legal/Real Estate Title](https://jobright.ai/jobs/info/68e97467f195760c354a9517?utm_campaign=1055&utm_source=git)** | College Station, TX | On Site | Oct 10 |
+| **[ACLU of Montana](http://aclumontana.org/)** | **[Summer 2026 Legal Program Internship](https://jobright.ai/jobs/info/68e97441f195760c354a94e6?utm_campaign=1055&utm_source=git)** | Montana, United States | Hybrid | Oct 10 |
+| **[Compassion International](http://www.compassion.com/)** | **[Legal Intern (Spring 2026)](https://jobright.ai/jobs/info/68e96baaf195760c354a8d93?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 10 |
+| **[SubCom](http://subcom.com)** | **[Risk and Compliance Intern (4404)](https://jobright.ai/jobs/info/68e963ce65768b6412b1b69f?utm_campaign=1055&utm_source=git)** | Newington, NH, USA | On Site | Oct 10 |
 | **[American Family Insurance](http://amfamventures.com/)** | **[2026 Summer Internship - Enterprise Compliance and Ethics](https://jobright.ai/jobs/info/68e962f00930fe0bc462508b?utm_campaign=1055&utm_source=git)** | WI Madison | Hybrid | Oct 10 |
 | **[Pinal County](https://www.pinalcountyaz.gov)** | **[Adult Probation Intern](https://jobright.ai/jobs/info/68e960aaf195760c354a8657?utm_campaign=1055&utm_source=git)** | Florence, AZ | On Site | Oct 10 |
 | **[Compassion International](http://www.compassion.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/68e95cfbf195760c354a8318?utm_campaign=1055&utm_source=git)** | USA - Global Ministry Center | On Site | Oct 10 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Regulatory Reporting (Hybrid)](https://jobright.ai/jobs/info/68e95badf195760c354a8180?utm_campaign=1055&utm_source=git)** | Raleigh, North Carolina | Hybrid | Oct 10 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Intern Law Practice Program](https://jobright.ai/jobs/info/68e95b5765768b6412b1af52?utm_campaign=1055&utm_source=git)** | CA-Remote | Hybrid | Oct 10 |
-| **[American Family Insurance](http://amfamventures.com/)** | **[2026 Summer Internship - Legal](https://jobright.ai/jobs/info/68e9461b9020b95add6a5649?utm_campaign=1055&utm_source=git)** | AZ Phoenix | Hybrid | Oct 10 |
 | **[Capital Farm Credit](https://www.capitalfarmcredit.com/)** | **[Internship - Legal/Real Estate Title](https://jobright.ai/jobs/info/68e9432a65768b6412b19e0c?utm_campaign=1055&utm_source=git)** | College Station, Texas | On Site | Oct 10 |
 | **[Empower Pharmacy](http://empowerpharmacy.com/)** | **[Intern - Legal Associate](https://jobright.ai/jobs/info/68e9429b0930fe0bc46238ca?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Oct 10 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Audit & Inspection Intern](https://jobright.ai/jobs/info/68e92dc89020b95add6a4821?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Oct 10 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Compliance & Legal Intern](https://jobright.ai/jobs/info/68e92da00930fe0bc4622e34?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
 | ↳ | **[Compliance & Legal Intern](https://jobright.ai/jobs/info/68e925e065768b6412b18dfc?utm_campaign=1055&utm_source=git)** | Purchase, NY | Hybrid | Oct 10 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/68e91c5c0930fe0bc46224b4?utm_campaign=1055&utm_source=git)** | Triangle Area | Hybrid | Oct 10 |
-| **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68cce0aa5954791a1d700528?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 10 |
 | **[Washington Lawyers'​ Committee for Civil Rights and Urban Affairs](https://www.washlaw.org/)** | **[DC Area Civil Rights Legal Internships](https://jobright.ai/jobs/info/68e907100930fe0bc4621bd8?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 10 |
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/68e8f2d39020b95add6a2f35?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Oct 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Branded Television Business Affairs JD Intern, Spring 2026](https://jobright.ai/jobs/info/68e8be7f09580a2fe57fbac9?utm_campaign=1055&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 10 |
@@ -78,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Tenova LLC](https://tenovallc.com)** | **[SkillBridge - Legal Intern](https://jobright.ai/jobs/info/68e8af41cc49a84b7e108e2c?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Peninsula Open Space Trust (POST)](https://openspacetrust.org)** | **[Land Transactions Intern](https://jobright.ai/jobs/info/68e849accc49a84b7e104c1c?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | Hybrid | Oct 09 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Compliance & Performance Monitoring (20066990)](https://jobright.ai/jobs/info/68e83e75c72beb74cb31cb30?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Oct 09 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Compliance & Performance Monitoring (20066990)](https://jobright.ai/jobs/info/68e8272acc49a84b7e102e65?utm_campaign=1055&utm_source=git)** | William Green Building30 West Spring Street | On Site | Oct 09 |
-| ↳ | **[College Intern - Compliance & Performance Monitoring (20066990)](https://jobright.ai/jobs/info/68e8272a09580a2fe57f47c8?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Oct 09 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Compliance & Performance Monitoring (20066990)](https://jobright.ai/jobs/info/68e8272a09580a2fe57f47c8?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Oct 09 |
+| ↳ | **[College Intern - Compliance & Performance Monitoring (20066990)](https://jobright.ai/jobs/info/68e8272acc49a84b7e102e65?utm_campaign=1055&utm_source=git)** | William Green Building30 West Spring Street | On Site | Oct 09 |
 | ↳ | **[College Intern - Compliance & Performance Monitoring (20066990)](https://jobright.ai/jobs/info/68e820ffc4895107182c294e?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Oct 09 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/68e81fcbcc49a84b7e102669?utm_campaign=1055&utm_source=git)** | Buffalo-Niagara Area | On Site | Oct 09 |
 | ↳ | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/68e81f99cc49a84b7e10262c?utm_campaign=1055&utm_source=git)** | Tewksbury, MA | On Site | Oct 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ePayPolicy](https://epaypolicy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e46388f758fe1f97e67a0f?utm_campaign=1055&utm_source=git)** | Texas, United States | Hybrid | Oct 08 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad090b758f2e4ac300a717?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 08 |
 | ↳ | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/68acf573daf1431824c99672?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 08 |
-| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd43591ad6b16f028973c6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 08 |
-| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad0cc8d627244576e4ae5c?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Oct 08 |
-| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acf031d627244576e49fc9?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
-| ↳ | **[Third Party Risk Intern](https://jobright.ai/jobs/info/68cf7ae8846f0b04af6825b6?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 08 |
-| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ccf71577add66568abccfe?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
