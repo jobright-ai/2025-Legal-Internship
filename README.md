@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solano County](https://www.solanocounty.com)** | **[College Intern-Graduate Level (Juris Doctorate - J.D. only) (Law Clerk)](https://jobright.ai/jobs/info/68e9ad9bfeeb0006c1a567bb?utm_campaign=1055&utm_source=git)** | Fairfield, CA | On Site | Oct 10 |
+| **[Harbinger](https://harbingermotors.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/68e9abc465768b6412b1e705?utm_campaign=1055&utm_source=git)** | Garden Grove, CA | On Site | Oct 10 |
+| **[Arthrex](https://www.arthrex.com/)** | **[Compliance Assurance Intern](https://jobright.ai/jobs/info/68e9ab5bfeeb0006c1a5653c?utm_campaign=1055&utm_source=git)** | Naples, FL | On Site | Oct 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Regional & Product Policy Project Intern (Business Integrity) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68e995f5f195760c354aaeaf?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 10 |
 | ↳ | **[Regional & Product Policy Project Intern (Business Integrity) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68e9953f0930fe0bc4627864?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Oct 10 |
 | **[Cashably](cashably.com)** | **[Compliance Intern (Pre-Law / Legal Studies) — Cashably](https://jobright.ai/jobs/info/68e993f765768b6412b1dc37?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/68e6ce52ae2b894b1d71deb6?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 08 |
 | ↳ | **[Risk Advisory Internship - Cybersecurity - Summer 2026](https://jobright.ai/jobs/info/68e6cd541852e62f0081ec13?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Oct 08 |
 | **[Blumhouse](http://Blumhouse.com)** | **[Development Intern, Business & Legal Affairs](https://jobright.ai/jobs/info/68e6c4ae1852e62f0081e564?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 08 |
-| **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Abandoned and Unclaimed Property Compliance](https://jobright.ai/jobs/info/68e6bfdce8daec61499ae339?utm_campaign=1055&utm_source=git)** | Tampa | On Site | Oct 08 |
-| ↳ | **[Summer 2026 Intern, Abandoned and Unclaimed Property Compliance](https://jobright.ai/jobs/info/68e6bf8ce8daec61499ae2b0?utm_campaign=1055&utm_source=git)** | King of Prussia | On Site | Oct 08 |
+| **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Abandoned and Unclaimed Property Compliance](https://jobright.ai/jobs/info/68e6c1f91852e62f0081e2f2?utm_campaign=1055&utm_source=git)** | Tampa | On Site | Oct 08 |
+| ↳ | **[Summer 2026 Intern, Abandoned and Unclaimed Property Compliance](https://jobright.ai/jobs/info/68e6c1d91852e62f0081e2d5?utm_campaign=1055&utm_source=git)** | King of Prussia | On Site | Oct 08 |
 | **[Highmark](https://www.highmark.com)** | **[Summer 2026 Regulatory & Legislative Affairs Undergraduate Intern](https://jobright.ai/jobs/info/68e6d849ae2b894b1d71eb63?utm_campaign=1055&utm_source=git)** | Camp Hill, PA | On Site | Oct 08 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 Compliance Summer Intern](https://jobright.ai/jobs/info/68e6b4ad1852e62f0081db0d?utm_campaign=1055&utm_source=git)** | Chicago, Illinois, United States | On Site | Oct 08 |
 | **[Aspida](http://globalbankers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68ddd0a444d32141e0bfafb8?utm_campaign=1055&utm_source=git)** | Durham, NC | Hybrid | Oct 08 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Regulatory & Legislative Affairs Undergraduate Intern](https://jobright.ai/jobs/info/68e6b271ae2b894b1d71cb81?utm_campaign=1055&utm_source=git)** | Camp Hill PA, 17011, Center Street Building 1B | Remote | Oct 08 |
-| **[RealINSIGHT](https://www.realinsight.com)** | **[Cyber Governance and Compliance Intern](https://jobright.ai/jobs/info/68e6b105ae2b894b1d71c96a?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Oct 08 |
-| **[Baker Tilly](https://www.bakertilly.global/)** | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/68e6a5cce8daec61499ad17b?utm_campaign=1055&utm_source=git)** | USA TX Frisco | On Site | Oct 08 |
-| ↳ | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/68e6a4e5e8daec61499ad0c8?utm_campaign=1055&utm_source=git)** | USA IL Chicago 205 N Michigan Ave | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
