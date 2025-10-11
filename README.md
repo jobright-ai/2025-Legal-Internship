@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harbinger](https://harbingermotors.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/68e9f7b6cfc08e4908914097?utm_campaign=1055&utm_source=git)** | Garden Grove, CA | On Site | Oct 10 |
 | **[Solano County](https://www.solanocounty.com)** | **[College Intern-Graduate Level (Juris Doctorate - J.D. only) (Law Clerk)](https://jobright.ai/jobs/info/68e9ad9bfeeb0006c1a567bb?utm_campaign=1055&utm_source=git)** | Fairfield, CA | On Site | Oct 10 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/68e9abc465768b6412b1e705?utm_campaign=1055&utm_source=git)** | Garden Grove, CA | On Site | Oct 10 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Compliance Assurance Intern](https://jobright.ai/jobs/info/68e9ab5bfeeb0006c1a5653c?utm_campaign=1055&utm_source=git)** | Naples, FL | On Site | Oct 10 |
@@ -126,7 +127,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate Legal Intern](https://jobright.ai/jobs/info/68e1a966f758fe1f97e55bb8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 09 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Intern, Domestic Violence & Family Law Unit (Summer 2026)](https://jobright.ai/jobs/info/68e7b047c4895107182bcff9?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 09 |
 | **[Pfizer](http://www.pfizer.com)** | **[Summer 2026 Legal/ Compliance Internship](https://jobright.ai/jobs/info/68e75c2fe8daec61499b4abd?utm_campaign=1055&utm_source=git)** | NY- New York, PA- Collegeville | On Site | Oct 08 |
-| ↳ | **[Summer 2026 Legal/ Compliance Internship](https://jobright.ai/jobs/info/68e75a3bae2b894b1d723af9?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Oct 08 |
 | ↳ | **[Summer 2026 Legal/ Compliance Internship](https://jobright.ai/jobs/info/68e75a291852e62f00824851?utm_campaign=1055&utm_source=git)** | US-PA-Collegeville | On Site | Oct 08 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Legal Services Intern - Spring 2026](https://jobright.ai/jobs/info/68e7413ee8daec61499b3bb4?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Oct 08 |
 | **[Farm Credit Council](https://farmcredit.com/)** | **[Paid Regulatory & Economic Affairs Internship](https://jobright.ai/jobs/info/68e7332eae2b894b1d722539?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 08 |
@@ -148,13 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Cybersecurity - Summer 2026](https://jobright.ai/jobs/info/68e6cff1e8daec61499af1a5?utm_campaign=1055&utm_source=git)** | Frisco, TX | On Site | Oct 08 |
 | ↳ | **[Risk Advisory Internship - Cybersecurity - Summer 2026](https://jobright.ai/jobs/info/68e6cf18e8daec61499aef7c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Oct 08 |
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Intern – Ethics & Compliance](https://jobright.ai/jobs/info/68e6cf06ae2b894b1d71e09d?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Oct 08 |
-| **[Fort Washington Investment Advisors, Inc.](http://www.fortwashington.com)** | **[Information Technology - Compliance Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/68e6ced21852e62f0081eea6?utm_campaign=1055&utm_source=git)** | US-OH-CINCINNATI | On Site | Oct 08 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Boston - Spring 2026](https://jobright.ai/jobs/info/68e6ce7e1852e62f0081eddc?utm_campaign=1055&utm_source=git)** | US-MA-Boston | On Site | Oct 08 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/68e6ce52ae2b894b1d71deb6?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 08 |
 | ↳ | **[Risk Advisory Internship - Cybersecurity - Summer 2026](https://jobright.ai/jobs/info/68e6cd541852e62f0081ec13?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Oct 08 |
-| **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Abandoned and Unclaimed Property Compliance](https://jobright.ai/jobs/info/68e6c1d91852e62f0081e2d5?utm_campaign=1055&utm_source=git)** | King of Prussia | On Site | Oct 08 |
-| ↳ | **[Summer 2026 Intern, Abandoned and Unclaimed Property Compliance](https://jobright.ai/jobs/info/68e6bfdce8daec61499ae339?utm_campaign=1055&utm_source=git)** | Tampa | On Site | Oct 08 |
+| **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Abandoned and Unclaimed Property Compliance](https://jobright.ai/jobs/info/68e6bfdce8daec61499ae339?utm_campaign=1055&utm_source=git)** | Tampa | On Site | Oct 08 |
+| ↳ | **[Summer 2026 Intern, Abandoned and Unclaimed Property Compliance](https://jobright.ai/jobs/info/68e6bf8ce8daec61499ae2b0?utm_campaign=1055&utm_source=git)** | King of Prussia | On Site | Oct 08 |
 | **[Highmark](https://www.highmark.com)** | **[Summer 2026 Regulatory & Legislative Affairs Undergraduate Intern](https://jobright.ai/jobs/info/68e6d849ae2b894b1d71eb63?utm_campaign=1055&utm_source=git)** | Camp Hill, PA | On Site | Oct 08 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 Compliance Summer Intern](https://jobright.ai/jobs/info/68e6b4ad1852e62f0081db0d?utm_campaign=1055&utm_source=git)** | Chicago, Illinois, United States | On Site | Oct 08 |
 | **[Aspida](http://globalbankers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68ddd0a444d32141e0bfafb8?utm_campaign=1055&utm_source=git)** | Durham, NC | Hybrid | Oct 08 |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Regulatory & Legislative Affairs Undergraduate Intern](https://jobright.ai/jobs/info/68e6b271ae2b894b1d71cb81?utm_campaign=1055&utm_source=git)** | Camp Hill PA, 17011, Center Street Building 1B | Remote | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
