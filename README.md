@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/68ec124b2f64880ca0b59ee3?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Oct 12 |
 | **[CAMBA](https://camba.org/)** | **[Consumer Summer Intern, CAMBA Legal Services, Brooklyn](https://jobright.ai/jobs/info/68ec0eec76a1db7c59861d33?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Oct 12 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Legal Internship Spring 2026](https://jobright.ai/jobs/info/68ec089a2f64880ca0b59d63?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 12 |
 | **[Intuit](https://www.intuit.com)** | **[Fraud and Risk Intern](https://jobright.ai/jobs/info/68ea896076a1db7c5985b743?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Oct 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Farm Credit Council](https://farmcredit.com/)** | **[Paid Regulatory & Economic Affairs Internship](https://jobright.ai/jobs/info/68e7332eae2b894b1d722539?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 08 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/68e723a3ae2b894b1d721a7f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Oct 08 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Boston - Spring 2026](https://jobright.ai/jobs/info/68e721d91852e62f00822871?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Oct 08 |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Intern (Criminal Division)](https://jobright.ai/jobs/info/68e71e6de8daec61499b276b?utm_campaign=1055&utm_source=git)** | New Brunswick, NJ | Hybrid | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
