@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McMillen](https://www.mcmillen.com/)** | **[Regulatory and Natural Resources Intern](https://jobright.ai/jobs/info/68ed719b70b66e2345d3e18b?utm_campaign=1055&utm_source=git)** | Sacramento, CA | On Site | Oct 13 |
+| **[Laveer Engineering](https://laveer.ca/)** | **[Legal Intern Summer 2026](https://jobright.ai/jobs/info/68ed718570b66e2345d3e14b?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Oct 13 |
+| **[Mittal Consulting](https://mittalconsultingllc.com)** | **[Regulatory Affairs Intern - Medical Devices](https://jobright.ai/jobs/info/68ed672670b66e2345d3d9cf?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 13 |
+| **[Todd](https://toddagriscience.com)** | **[Intern, Legal Counsel](https://jobright.ai/jobs/info/68ed5c9070b66e2345d3d2d8?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Remote | Oct 13 |
 | **[Envoy Air](https://envoyair.com)** | **[College Intern - Corporate Security](https://jobright.ai/jobs/info/68ed4f1281fdd1626d39ae0c?utm_campaign=1055&utm_source=git)** | US-TX-Irving | On Site | Oct 13 |
 | ↳ | **[College Intern - Legal & Labor Relations](https://jobright.ai/jobs/info/68ed4cef70b66e2345d3c3e0?utm_campaign=1055&utm_source=git)** | US-TX-Irving | On Site | Oct 13 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Intern](https://jobright.ai/jobs/info/68ed48f781fdd1626d39a86e?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 13 |
 | **[Copart](http://www.copart.com)** | **[Technology Compliance Intern](https://jobright.ai/jobs/info/68ed411e70b66e2345d3bf06?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Oct 13 |
 | ↳ | **[Technology Compliance Intern](https://jobright.ai/jobs/info/68ed3a6670b66e2345d3ba67?utm_campaign=1055&utm_source=git)** | Dallas, TX - Headquarters | On Site | Oct 13 |
 | **[Wayne-Sanderson Farms](https://waynesandersonfarms.com)** | **[Industrial Hygiene & Safety Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/68ed390181fdd1626d39a0eb?utm_campaign=1055&utm_source=git)** | Mississippi - Laurel Regional Office | Hybrid | Oct 13 |
+| **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68c653c9c96a22563eced434?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Oct 13 |
 | **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Contract Analytics](https://jobright.ai/jobs/info/68ed2e0b81fdd1626d399c06?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Oct 13 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Legal Intern Summer 2026](https://jobright.ai/jobs/info/68ed204570b66e2345d3aaef?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Oct 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Quality Assurance & Compliance Intern (Graduate)](https://jobright.ai/jobs/info/68ed188d6335d33236125630?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Oct 13 |
@@ -71,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[JumpStart  Inc.](http://www.jumpstartinc.org)** | **[Legal Intern](https://jobright.ai/jobs/info/68ed55656335d332361279e0?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Oct 12 |
 | **[CAMBA](https://camba.org/)** | **[Consumer Summer Intern, CAMBA Legal Services, Brooklyn](https://jobright.ai/jobs/info/68ec0eec76a1db7c59861d33?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Oct 12 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Legal Internship Spring 2026](https://jobright.ai/jobs/info/68ec089a2f64880ca0b59d63?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 12 |
+| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e62482e8daec61499a952b?utm_campaign=1055&utm_source=git)** | Blue Bell, PA | Hybrid | Oct 11 |
 | **[Intuit](https://www.intuit.com)** | **[Fraud and Risk Intern](https://jobright.ai/jobs/info/68ea896076a1db7c5985b743?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Oct 11 |
 | **[Amazon](https://amazon.com)** | **[2026 Risk Specialist Intern](https://jobright.ai/jobs/info/68ea77c92f64880ca0b532fb?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Oct 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Branded Television Business Affairs JD Intern, Spring 2026](https://jobright.ai/jobs/info/68ea69942f64880ca0b52dd6?utm_campaign=1055&utm_source=git)** | Burbank, CA | On Site | Oct 11 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7ee9acc49a84b7e0ff8cd?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 09 |
 | ↳ | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7ede209580a2fe57f10f1?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Oct 09 |
 | ↳ | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7ed5309580a2fe57f1028?utm_campaign=1055&utm_source=git)** | DeWitt, NY | On Site | Oct 09 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Special Enforcement Investigations Intern](https://jobright.ai/jobs/info/68e7ec62c4895107182bf9e1?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Oct 09 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Special Enforcement Investigations Intern](https://jobright.ai/jobs/info/68e7e7e4cc49a84b7e0ff3c9?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Oct 09 |
-| **[BioSpace](http://www.biospace.com/)** | **[2026 Intern, Drug Product Supply Risk Management](https://jobright.ai/jobs/info/68e7e47109580a2fe57f0755?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Oct 09 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Contract Administrator Intern - Elkton MD](https://jobright.ai/jobs/info/68e7d845cc49a84b7e0fe9f3?utm_campaign=1055&utm_source=git)** | United States-Maryland-Elkton | On Site | Oct 09 |
-| **[USA Water Polo](https://usawaterpolo.org/)** | **[Sports Compliance Intern - College Credit](https://jobright.ai/jobs/info/68e7d0cdc4895107182be7a9?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 09 |
-| **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/68e7c4d8c4895107182bdf5f?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
