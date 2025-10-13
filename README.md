@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/68ec124b2f64880ca0b59ee3?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Oct 12 |
 | **[CAMBA](https://camba.org/)** | **[Consumer Summer Intern, CAMBA Legal Services, Brooklyn](https://jobright.ai/jobs/info/68ec0eec76a1db7c59861d33?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Oct 12 |
-| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/68ec0c632f64880ca0b59dbc?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Oct 12 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Legal Internship Spring 2026](https://jobright.ai/jobs/info/68ec089a2f64880ca0b59d63?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 12 |
 | **[Intuit](https://www.intuit.com)** | **[Fraud and Risk Intern](https://jobright.ai/jobs/info/68ea896076a1db7c5985b743?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Oct 11 |
 | **[Amazon](https://amazon.com)** | **[2026 Risk Specialist Intern](https://jobright.ai/jobs/info/68ea77c92f64880ca0b532fb?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Oct 11 |
@@ -141,9 +140,9 @@ For a complete list, click the following sortable link below:
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/68e7c4d8c4895107182bdf5f?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Oct 09 |
 | ↳ | **[Corporate Legal Intern](https://jobright.ai/jobs/info/68e1a966f758fe1f97e55bb8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 09 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Intern, Domestic Violence & Family Law Unit (Summer 2026)](https://jobright.ai/jobs/info/68e7b047c4895107182bcff9?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 09 |
-| **[Pfizer](http://www.pfizer.com)** | **[Summer 2026 Legal/ Compliance Internship](https://jobright.ai/jobs/info/68ea52f02f64880ca0b51f10?utm_campaign=1055&utm_source=git)** | US-PA-Collegeville | On Site | Oct 08 |
-| ↳ | **[Summer 2026 Legal/ Compliance Internship](https://jobright.ai/jobs/info/68ea542576a1db7c5985a085?utm_campaign=1055&utm_source=git)** | NY- New York, PA- Collegeville | On Site | Oct 08 |
+| **[Pfizer](http://www.pfizer.com)** | **[Summer 2026 Legal/ Compliance Internship](https://jobright.ai/jobs/info/68ea542576a1db7c5985a085?utm_campaign=1055&utm_source=git)** | NY- New York, PA- Collegeville | On Site | Oct 08 |
 | ↳ | **[Summer 2026 Legal/ Compliance Internship](https://jobright.ai/jobs/info/68ea52778369791ef7820d73?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Oct 08 |
+| ↳ | **[Summer 2026 Legal/ Compliance Internship](https://jobright.ai/jobs/info/68ea52f02f64880ca0b51f10?utm_campaign=1055&utm_source=git)** | US-PA-Collegeville | On Site | Oct 08 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Legal Services Intern - Spring 2026](https://jobright.ai/jobs/info/68e7413ee8daec61499b3bb4?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Oct 08 |
 | **[Farm Credit Council](https://farmcredit.com/)** | **[Paid Regulatory & Economic Affairs Internship](https://jobright.ai/jobs/info/68e7332eae2b894b1d722539?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 08 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/68e723a3ae2b894b1d721a7f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Oct 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Governance, Risk and Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/68e6d85bae2b894b1d71eb79?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Oct 08 |
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Abandoned and Unclaimed Property Compliance](https://jobright.ai/jobs/info/68e6d84ae8daec61499af9e4?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Oct 08 |
 | ↳ | **[Summer 2026 Intern, Abandoned and Unclaimed Property Compliance](https://jobright.ai/jobs/info/68e6d7b9ae2b894b1d71eaa1?utm_campaign=1055&utm_source=git)** | King of Prussia, PA | On Site | Oct 08 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/68e6d6131852e62f0081f415?utm_campaign=1055&utm_source=git)** | Frisco, TX | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
