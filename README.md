@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Insurance Intern](https://jobright.ai/jobs/info/68eea083d078b81ad160cec5?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Oct 14 |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Liberty and National Security Legal Internship](https://jobright.ai/jobs/info/68ee9fd346e5b153e5a5d103?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 14 |
+| **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Insurance Intern](https://jobright.ai/jobs/info/68ee9f28d078b81ad160c916?utm_campaign=1055&utm_source=git)** | Bethesda, MD | On Site | Oct 14 |
+| ↳ | **[2026 Insurance Intern](https://jobright.ai/jobs/info/68ee9f02e0db924225808aef?utm_campaign=1055&utm_source=git)** | Needham, MA | On Site | Oct 14 |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Liberty and National Security Legal Internship](https://jobright.ai/jobs/info/68ee9df6e0db92422580872f?utm_campaign=1055&utm_source=git)** | Washington D.C., DC | On Site | Oct 14 |
+| **[Berkowitz Pollack Brant Advisors + CPAs](http://bpbcpa.com)** | **[Forensic Advisory Services Intern](https://jobright.ai/jobs/info/68ee9d9ed078b81ad160c4e3?utm_campaign=1055&utm_source=git)** | Miami | On Site | Oct 14 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - DRIVE Legal](https://jobright.ai/jobs/info/68ee8df6e0db9242258079e7?utm_campaign=1055&utm_source=git)** | San Francisco | Hybrid | Oct 14 |
 | **[Bechtel Plant Machinery, Inc. (BPMI)](http://bpmionline.com)** | **[Contract Management Specialist (Buyer) Intern (Summer 2026)](https://jobright.ai/jobs/info/68ee8734e0db924225807462?utm_campaign=1055&utm_source=git)** | Monroeville, PA | On Site | Oct 14 |
 | ↳ | **[Contract Management Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/68ee8398d078b81ad160af8f?utm_campaign=1055&utm_source=git)** | Monroeville, PA | On Site | Oct 14 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Insurance Intern](https://jobright.ai/jobs/info/68ee729fe0db9242258061f5?utm_campaign=1055&utm_source=git)** | Needham, MA, USA | On Site | Oct 14 |
@@ -69,7 +76,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Technology and Information Compliance Undergraduate Intern](https://jobright.ai/jobs/info/68ee6518d078b81ad1608f78?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Oct 14 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 - IT Compliance & Risk Internship/Co-Op](https://jobright.ai/jobs/info/68ee620146e5b153e5a59313?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Oct 14 |
 | **[Allianz Commercial](https://www.commercial.allianz.com/)** | **[Student Intern - Property](https://jobright.ai/jobs/info/68ee2df9e0db9242257fe745?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Oct 14 |
-| ↳ | **[Student Intern - Property](https://jobright.ai/jobs/info/68ee2db9d078b81ad16028fe?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 14 |
+| ↳ | **[Student Intern - Property](https://jobright.ai/jobs/info/68ee286ee0db9242257fda7e?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 14 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Contract Administrator Intern - Elkton MD - R10209370](https://jobright.ai/jobs/info/68edd21681fdd1626d39fc5b?utm_campaign=1055&utm_source=git)** | Elkton, MD | On Site | Oct 13 |
 | ↳ | **[2025 Contracts Administrator Intern - Mesa AZ - R10210483](https://jobright.ai/jobs/info/68edd06470b66e2345d413ce?utm_campaign=1055&utm_source=git)** | Mesa, AZ | On Site | Oct 13 |
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68edbf3970b66e2345d40744?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Oct 13 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Washington Lawyers'​ Committee for Civil Rights and Urban Affairs](https://www.washlaw.org/)** | **[DC Area Civil Rights Legal Internships](https://jobright.ai/jobs/info/68e907100930fe0bc4621bd8?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Branded Television Business Affairs JD Intern, Spring 2026](https://jobright.ai/jobs/info/68e8be7f09580a2fe57fbac9?utm_campaign=1055&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 10 |
 | ↳ | **[FX Business Affairs and Legal JD Intern, Spring 2026](https://jobright.ai/jobs/info/68e8bd1809580a2fe57fb80e?utm_campaign=1055&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 10 |
-| **[State of Illinois](https://www2.illinois.gov/)** | **[FRAUD REFERRAL AND DISQUALIFICATION SPECIALIST](https://jobright.ai/jobs/info/68e9009765768b6412b17e4c?utm_campaign=1055&utm_source=git)** | Springfield, IL | Hybrid | Oct 10 |
-| **[Tenova LLC](https://tenovallc.com)** | **[SkillBridge - Legal Intern](https://jobright.ai/jobs/info/68e8af41cc49a84b7e108e2c?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 10 |
-| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e5906db99ec3563b0f6907?utm_campaign=1055&utm_source=git)** | St Louis, MO | Hybrid | Oct 09 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e57f61ae2b894b1d71004f?utm_campaign=1055&utm_source=git)** | Orange, CA | Hybrid | Oct 09 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e57e051852e62f00810cb6?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | Hybrid | Oct 09 |
-| **[FlightSafety International](https://www.flightsafety.com/)** | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68e5ac6ae8daec61499a3872?utm_campaign=1055&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 09 |
-| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e586c4ae2b894b1d7107a3?utm_campaign=1055&utm_source=git)** | Lake Oswego, OR | Hybrid | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
