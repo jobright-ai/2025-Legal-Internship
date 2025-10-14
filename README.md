@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Illumio](http://www.illumio.com)** | **[Security and Compliance Analyst Intern](https://jobright.ai/jobs/info/68eda5a870b66e2345d3fb0c?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | On Site | Oct 13 |
+| **[Fried Frank](http://www.friedfrank.com/)** | **[Paralegal/Financial Services Intern](https://jobright.ai/jobs/info/68ed9d2070b66e2345d3f4b7?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Oct 13 |
 | **[Wayne-Sanderson Farms](https://waynesandersonfarms.com)** | **[Industrial Hygiene & Safety Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/68ed86b170b66e2345d3ee72?utm_campaign=1055&utm_source=git)** | Laurel, MS | Hybrid | Oct 13 |
 | **[Coinbase](https://www.coinbase.com)** | **[Payments Risk Intern](https://jobright.ai/jobs/info/68ed85e970b66e2345d3ecd1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 13 |
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68ed78aa81fdd1626d39cd8d?utm_campaign=1055&utm_source=git)** | South Sioux City, NE | On Site | Oct 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7f45a09580a2fe57f15cb?utm_campaign=1055&utm_source=git)** | DeWitt, NY | On Site | Oct 09 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2025 Contracts Administrator Intern - Mesa AZ](https://jobright.ai/jobs/info/68e7f367cc49a84b7e0ffd36?utm_campaign=1055&utm_source=git)** | United States-Arizona-Mesa | On Site | Oct 09 |
 | **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7f0cbcc49a84b7e0ffbd3?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Oct 09 |
-| ↳ | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7f066cc49a84b7e0ffb42?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Oct 09 |
-| ↳ | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7ee9acc49a84b7e0ff8cd?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
