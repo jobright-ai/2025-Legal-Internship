@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68edbf3970b66e2345d40744?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Oct 13 |
 | **[Illumio](http://www.illumio.com)** | **[Security and Compliance Analyst Intern](https://jobright.ai/jobs/info/68eda5a870b66e2345d3fb0c?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | On Site | Oct 13 |
 | **[Fried Frank](http://www.friedfrank.com/)** | **[Paralegal/Financial Services Intern](https://jobright.ai/jobs/info/68ed9d2070b66e2345d3f4b7?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Oct 13 |
 | **[Wayne-Sanderson Farms](https://waynesandersonfarms.com)** | **[Industrial Hygiene & Safety Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/68ed86b170b66e2345d3ee72?utm_campaign=1055&utm_source=git)** | Laurel, MS | Hybrid | Oct 13 |
@@ -78,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Quality Assurance & Compliance Intern (Graduate)](https://jobright.ai/jobs/info/68ed188d6335d33236125630?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Oct 13 |
 | ↳ | **[2026 Quality Assurance & Compliance Intern](https://jobright.ai/jobs/info/68ed13ff81fdd1626d398a04?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Oct 13 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Intern](https://jobright.ai/jobs/info/68ed11ec70b66e2345d3a35d?utm_campaign=1055&utm_source=git)** | DC - Washington, 300 New Jersey Ave Nw | On Site | Oct 13 |
+| **[IGS Energy](http://www.igsenergy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68df512afe896042b0b7981d?utm_campaign=1055&utm_source=git)** | Dublin, OH | On Site | Oct 12 |
 | **[JumpStart  Inc.](http://www.jumpstartinc.org)** | **[Legal Intern](https://jobright.ai/jobs/info/68ed55656335d332361279e0?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Oct 12 |
 | **[CAMBA](https://camba.org/)** | **[Consumer Summer Intern, CAMBA Legal Services, Brooklyn](https://jobright.ai/jobs/info/68ec0eec76a1db7c59861d33?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Oct 12 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Legal Internship Spring 2026](https://jobright.ai/jobs/info/68ec089a2f64880ca0b59d63?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 12 |
@@ -140,9 +142,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e581adb99ec3563b0f5a70?utm_campaign=1055&utm_source=git)** | Diamond Bar, CA | Hybrid | Oct 09 |
 | **[Peninsula Open Space Trust (POST)](https://openspacetrust.org)** | **[Land Transactions Intern](https://jobright.ai/jobs/info/68e849accc49a84b7e104c1c?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | Hybrid | Oct 09 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Compliance & Performance Monitoring (20066990)](https://jobright.ai/jobs/info/68e83e75c72beb74cb31cb30?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Oct 09 |
-| **[State of Ohio](http://ohio.gov/)** | **[College Intern - Compliance & Performance Monitoring (20066990)](https://jobright.ai/jobs/info/68e8272a09580a2fe57f47c8?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Oct 09 |
+| **[State of Ohio](http://ohio.gov/)** | **[College Intern - Compliance & Performance Monitoring (20066990)](https://jobright.ai/jobs/info/68e8272acc49a84b7e102e65?utm_campaign=1055&utm_source=git)** | William Green Building30 West Spring Street | On Site | Oct 09 |
+| ↳ | **[College Intern - Compliance & Performance Monitoring (20066990)](https://jobright.ai/jobs/info/68e8272a09580a2fe57f47c8?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Oct 09 |
 | ↳ | **[College Intern - Compliance & Performance Monitoring (20066990)](https://jobright.ai/jobs/info/68e820ffc4895107182c294e?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Oct 09 |
-| ↳ | **[College Intern - Compliance & Performance Monitoring (20066990)](https://jobright.ai/jobs/info/68e820f709580a2fe57f417d?utm_campaign=1055&utm_source=git)** | William Green Building30 West Spring Street | On Site | Oct 09 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/68e81fcbcc49a84b7e102669?utm_campaign=1055&utm_source=git)** | Buffalo-Niagara Area | On Site | Oct 09 |
 | ↳ | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/68e81f99cc49a84b7e10262c?utm_campaign=1055&utm_source=git)** | Tewksbury, MA | On Site | Oct 09 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e81d26cc49a84b7e10228b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Oct 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7f51809580a2fe57f1733?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Oct 09 |
 | **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7f4cf09580a2fe57f16bb?utm_campaign=1055&utm_source=git)** | Utica, NY | On Site | Oct 09 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7f45a09580a2fe57f15cb?utm_campaign=1055&utm_source=git)** | DeWitt, NY | On Site | Oct 09 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2025 Contracts Administrator Intern - Mesa AZ](https://jobright.ai/jobs/info/68e7f367cc49a84b7e0ffd36?utm_campaign=1055&utm_source=git)** | United States-Arizona-Mesa | On Site | Oct 09 |
-| **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7f0cbcc49a84b7e0ffbd3?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
