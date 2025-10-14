@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wayne-Sanderson Farms](https://waynesandersonfarms.com)** | **[Industrial Hygiene & Safety Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/68ed86b170b66e2345d3ee72?utm_campaign=1055&utm_source=git)** | Laurel, MS | Hybrid | Oct 13 |
+| **[Coinbase](https://www.coinbase.com)** | **[Payments Risk Intern](https://jobright.ai/jobs/info/68ed85e970b66e2345d3ecd1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 13 |
+| **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68ed78aa81fdd1626d39cd8d?utm_campaign=1055&utm_source=git)** | South Sioux City, NE | On Site | Oct 13 |
 | **[McMillen](https://www.mcmillen.com/)** | **[Regulatory and Natural Resources Intern](https://jobright.ai/jobs/info/68ed719b70b66e2345d3e18b?utm_campaign=1055&utm_source=git)** | Sacramento, CA | On Site | Oct 13 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[Legal Intern Summer 2026](https://jobright.ai/jobs/info/68ed718570b66e2345d3e14b?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Oct 13 |
 | **[Mittal Consulting](https://mittalconsultingllc.com)** | **[Regulatory Affairs Intern - Medical Devices](https://jobright.ai/jobs/info/68ed672670b66e2345d3d9cf?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 13 |
@@ -132,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e57e051852e62f00810cb6?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | Hybrid | Oct 09 |
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68e5ac6ae8daec61499a3872?utm_campaign=1055&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 09 |
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e586c4ae2b894b1d7107a3?utm_campaign=1055&utm_source=git)** | Lake Oswego, OR | Hybrid | Oct 09 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e58932ae2b894b1d710bce?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Oct 09 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e581adb99ec3563b0f5a70?utm_campaign=1055&utm_source=git)** | Diamond Bar, CA | Hybrid | Oct 09 |
 | **[Peninsula Open Space Trust (POST)](https://openspacetrust.org)** | **[Land Transactions Intern](https://jobright.ai/jobs/info/68e849accc49a84b7e104c1c?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | Hybrid | Oct 09 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Compliance & Performance Monitoring (20066990)](https://jobright.ai/jobs/info/68e83e75c72beb74cb31cb30?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Oct 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7f0cbcc49a84b7e0ffbd3?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Oct 09 |
 | ↳ | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7f066cc49a84b7e0ffb42?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Oct 09 |
 | ↳ | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7ee9acc49a84b7e0ff8cd?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 09 |
-| ↳ | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7ede209580a2fe57f10f1?utm_campaign=1055&utm_source=git)** | Binghamton, NY | On Site | Oct 09 |
-| ↳ | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7ed5309580a2fe57f1028?utm_campaign=1055&utm_source=git)** | DeWitt, NY | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
