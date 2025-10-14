@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/68ee064f6335d3323612e82f?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Oct 14 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Contract Administrator Intern - Elkton MD - R10209370](https://jobright.ai/jobs/info/68edd21681fdd1626d39fc5b?utm_campaign=1055&utm_source=git)** | Elkton, MD | On Site | Oct 13 |
 | ↳ | **[2025 Contracts Administrator Intern - Mesa AZ - R10210483](https://jobright.ai/jobs/info/68edd06470b66e2345d413ce?utm_campaign=1055&utm_source=git)** | Mesa, AZ | On Site | Oct 13 |
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68edbf3970b66e2345d40744?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Oct 13 |
@@ -139,7 +140,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FX Business Affairs and Legal JD Intern, Spring 2026](https://jobright.ai/jobs/info/68e8bd1809580a2fe57fb80e?utm_campaign=1055&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 10 |
 | **[State of Illinois](https://www2.illinois.gov/)** | **[FRAUD REFERRAL AND DISQUALIFICATION SPECIALIST](https://jobright.ai/jobs/info/68e9009765768b6412b17e4c?utm_campaign=1055&utm_source=git)** | Springfield, IL | Hybrid | Oct 10 |
 | **[Tenova LLC](https://tenovallc.com)** | **[SkillBridge - Legal Intern](https://jobright.ai/jobs/info/68e8af41cc49a84b7e108e2c?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 10 |
-| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e57f61ae2b894b1d71004f?utm_campaign=1055&utm_source=git)** | Orange, CA | Hybrid | Oct 09 |
+| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e5906db99ec3563b0f6907?utm_campaign=1055&utm_source=git)** | St Louis, MO | Hybrid | Oct 09 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e57f61ae2b894b1d71004f?utm_campaign=1055&utm_source=git)** | Orange, CA | Hybrid | Oct 09 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e57e051852e62f00810cb6?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | Hybrid | Oct 09 |
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68e5ac6ae8daec61499a3872?utm_campaign=1055&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 09 |
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e586c4ae2b894b1d7107a3?utm_campaign=1055&utm_source=git)** | Lake Oswego, OR | Hybrid | Oct 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Americold Logistics, LLC.](http://americold.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e81d26cc49a84b7e10228b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Oct 09 |
 | **[Voltus](https://www.voltus.co)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68ec9077d4b0106e703e9176?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 09 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e80dd309580a2fe57f2d8f?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 09 |
-| **[EarthRights International](https://www.earthrights.org/)** | **[U.S. Spring Legal Internship](https://jobright.ai/jobs/info/68e8090bcc49a84b7e1011ad?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 09 |
-| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[Graduate Intern - Summer 2026 - Legal](https://jobright.ai/jobs/info/68e7fbb709580a2fe57f1c0c?utm_campaign=1055&utm_source=git)** | Utica, NY | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
