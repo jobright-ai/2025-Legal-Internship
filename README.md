@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TKO](https://tkogrp.com)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/68eff09d78ba1621431e1197?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Oct 15 |
 | **[Uline](http://www.uline.com)** | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd9ede50091dbfa50b9a?utm_campaign=1055&utm_source=git)** | Waukegan, IL | On Site | Oct 15 |
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd9878ba1621431e0e55?utm_campaign=1055&utm_source=git)** | Kenosha, WI | On Site | Oct 15 |
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd1cde50091dbfa50b2e?utm_campaign=1055&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 15 |
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efdce578ba1621431e0d9d?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Oct 15 |
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efd819de50091dbfa50999?utm_campaign=1055&utm_source=git)** | Glenview, IL | On Site | Oct 15 |
 | **[Baltimore Witness](https://baltimorewitness.org)** | **[Baltimore Witness Spring Internship](https://jobright.ai/jobs/info/68efd3f19821486c423c7a02?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Oct 15 |
-| **[Orano USA](https://www.orano.group/usa)** | **[Attorney Intern](https://jobright.ai/jobs/info/68efc6549821486c423c72cd?utm_campaign=1055&utm_source=git)** | Bethesda, MD | On Site | Oct 15 |
 | **[WM Partners, LP](http://wmplp.com/)** | **[Legal and Compliance Intern (WMP)](https://jobright.ai/jobs/info/68efba6678ba1621431e0005?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 15 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68b72d162124650c1401ff3d?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Oct 15 |
 | ↳ | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68cf02c5dbd9fb154ede4477?utm_campaign=1055&utm_source=git)** | Southfield, MI | On Site | Oct 15 |
