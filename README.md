@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/68f0012878ba1621431e18eb?utm_campaign=1055&utm_source=git)** | Richardson, TX | Hybrid | Oct 15 |
+| **[American Bankers Association](http://www.aba.com)** | **[Intern, Fraud Risk Management](https://jobright.ai/jobs/info/68f0010fde50091dbfa516d5?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 15 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/68f0009578ba1621431e186b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Oct 15 |
+| ↳ | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/68efff0a78ba1621431e170c?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Oct 15 |
+| ↳ | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/68effd6f78ba1621431e15ae?utm_campaign=1055&utm_source=git)** | Bloomington, IL | Hybrid | Oct 15 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern](https://jobright.ai/jobs/info/68effba3de50091dbfa51209?utm_campaign=1055&utm_source=git)** | Silver Spring, MD | On Site | Oct 15 |
 | **[TKO](https://tkogrp.com)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/68eff09d78ba1621431e1197?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Oct 15 |
+| **[Ultimate Fighting Championship](http://UFC.com)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/68f0027678ba1621431e1a5b?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Oct 15 |
 | **[Uline](http://www.uline.com)** | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd9ede50091dbfa50b9a?utm_campaign=1055&utm_source=git)** | Waukegan, IL | On Site | Oct 15 |
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd9878ba1621431e0e55?utm_campaign=1055&utm_source=git)** | Kenosha, WI | On Site | Oct 15 |
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd1cde50091dbfa50b2e?utm_campaign=1055&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 15 |
@@ -68,8 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68b72d162124650c1401ff3d?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Oct 15 |
 | ↳ | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68cf02c5dbd9fb154ede4477?utm_campaign=1055&utm_source=git)** | Southfield, MI | On Site | Oct 15 |
 | **[Robinhood](https://www.robinhood.com)** | **[Financial Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/68ef85abde50091dbfa4f00e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 15 |
-| **[Fried Frank](http://www.friedfrank.com/)** | **[Paralegal/Financial Services Intern](https://jobright.ai/jobs/info/68ef81c278ba1621431df13a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 15 |
-| **[Robinhood](https://www.robinhood.com)** | **[Financial Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/68ef7dba9821486c423c601a?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Oct 15 |
+| ↳ | **[Financial Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/68ef7dba9821486c423c601a?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Oct 15 |
 | **[Sloan](https://www.sloan.com)** | **[Intern Regulatory & Product Compliance](https://jobright.ai/jobs/info/68d2f131f0d9af73038dd346?utm_campaign=1055&utm_source=git)** | Franklin Park, IL | On Site | Oct 15 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef71cd78ba1621431dee99?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Oct 15 |
 | ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef71c0de50091dbfa4ec5f?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Oct 15 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IGS Energy](http://www.igsenergy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68df512afe896042b0b7981d?utm_campaign=1055&utm_source=git)** | Dublin, OH | On Site | Oct 12 |
 | **[JumpStart  Inc.](http://www.jumpstartinc.org)** | **[Legal Intern](https://jobright.ai/jobs/info/68ed55656335d332361279e0?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Oct 12 |
 | **[CAMBA](https://camba.org/)** | **[Consumer Summer Intern, CAMBA Legal Services, Brooklyn](https://jobright.ai/jobs/info/68ec0eec76a1db7c59861d33?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Oct 12 |
-| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Legal Internship Spring 2026](https://jobright.ai/jobs/info/68ec089a2f64880ca0b59d63?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 12 |
-| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e62482e8daec61499a952b?utm_campaign=1055&utm_source=git)** | Blue Bell, PA | Hybrid | Oct 11 |
-| **[Intuit](https://www.intuit.com)** | **[Fraud and Risk Intern](https://jobright.ai/jobs/info/68ea896076a1db7c5985b743?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Oct 11 |
-| **[Amazon](https://amazon.com)** | **[2026 Risk Specialist Intern](https://jobright.ai/jobs/info/68ea77c92f64880ca0b532fb?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Oct 11 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Branded Television Business Affairs JD Intern, Spring 2026](https://jobright.ai/jobs/info/68ea69942f64880ca0b52dd6?utm_campaign=1055&utm_source=git)** | Burbank, CA | On Site | Oct 11 |
-| ↳ | **[FX Business & Legal Affairs JD Intern, Spring 2026](https://jobright.ai/jobs/info/68ea644576a1db7c5985abd3?utm_campaign=1055&utm_source=git)** | Burbank, CA | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
