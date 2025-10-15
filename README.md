@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WM Partners, LP](http://wmplp.com/)** | **[Legal and Compliance Intern (WMP)](https://jobright.ai/jobs/info/68efba6678ba1621431e0005?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 15 |
+| **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68b72d162124650c1401ff3d?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Oct 15 |
+| ↳ | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68cf02c5dbd9fb154ede4477?utm_campaign=1055&utm_source=git)** | Southfield, MI | On Site | Oct 15 |
 | **[Robinhood](https://www.robinhood.com)** | **[Financial Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/68ef85abde50091dbfa4f00e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | **[Fried Frank](http://www.friedfrank.com/)** | **[Paralegal/Financial Services Intern](https://jobright.ai/jobs/info/68ef81c278ba1621431df13a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | **[Robinhood](https://www.robinhood.com)** | **[Financial Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/68ef7dba9821486c423c601a?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Oct 15 |
@@ -110,8 +113,10 @@ For a complete list, click the following sortable link below:
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Insurance Intern](https://jobright.ai/jobs/info/68ee6e4cd078b81ad1609d6c?utm_campaign=1055&utm_source=git)** | Bethesda, MD, USA | On Site | Oct 14 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[TCL Contracts Intern](https://jobright.ai/jobs/info/68ee6aafd078b81ad1609a44?utm_campaign=1055&utm_source=git)** | Des Moines, IA | On Site | Oct 14 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Global Technology - Risk & Security](https://jobright.ai/jobs/info/68ee6807d078b81ad160962b?utm_campaign=1055&utm_source=git)** | United States, Chesterfield, MO, RGA HQ | On Site | Oct 14 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - West Hartford, CT](https://jobright.ai/jobs/info/68efa830de50091dbfa4f796?utm_campaign=1055&utm_source=git)** | West Hartford, CT | On Site | Oct 14 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Technology and Information Compliance Undergraduate Intern](https://jobright.ai/jobs/info/68ee663046e5b153e5a59624?utm_campaign=1055&utm_source=git)** | Pittsburgh PA, 15222, FAP, 5th Avenue Place | Hybrid | Oct 14 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 - IT Compliance & Risk Internship/Co-Op](https://jobright.ai/jobs/info/68ee620146e5b153e5a59313?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Oct 14 |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Technology and Information Compliance Undergraduate Intern](https://jobright.ai/jobs/info/68efad6dde50091dbfa4f8f9?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Oct 14 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Contract Administrator Intern - Elkton MD - R10209370](https://jobright.ai/jobs/info/68edd21681fdd1626d39fc5b?utm_campaign=1055&utm_source=git)** | Elkton, MD | On Site | Oct 13 |
 | ↳ | **[2025 Contracts Administrator Intern - Mesa AZ - R10210483](https://jobright.ai/jobs/info/68edd06470b66e2345d413ce?utm_campaign=1055&utm_source=git)** | Mesa, AZ | On Site | Oct 13 |
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68edbf3970b66e2345d40744?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Oct 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e5863c1852e62f0081169a?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | Hybrid | Oct 10 |
 | **[Solano County](https://www.solanocounty.com)** | **[College Intern-Graduate Level (Juris Doctorate - J.D. only) (Law Clerk)](https://jobright.ai/jobs/info/68e9ad9bfeeb0006c1a567bb?utm_campaign=1055&utm_source=git)** | Fairfield, CA | On Site | Oct 10 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/68e9abc465768b6412b1e705?utm_campaign=1055&utm_source=git)** | Garden Grove, CA | On Site | Oct 10 |
-| **[Arthrex](https://www.arthrex.com/)** | **[Compliance Assurance Intern](https://jobright.ai/jobs/info/68e9ab5bfeeb0006c1a5653c?utm_campaign=1055&utm_source=git)** | Naples, FL | On Site | Oct 10 |
-| **[TikTok](https://www.tiktok.com)** | **[Regional & Product Policy Project Intern (Business Integrity) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68e995f5f195760c354aaeaf?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 10 |
-| ↳ | **[Regional & Product Policy Project Intern (Business Integrity) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68e9953f0930fe0bc4627864?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Oct 10 |
-| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[2L Summer Internship](https://jobright.ai/jobs/info/68e993010930fe0bc462756a?utm_campaign=1055&utm_source=git)** | Durham, NC | Hybrid | Oct 10 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Quality Assurance & Compliance Intern (Graduate)](https://jobright.ai/jobs/info/68e983b2f195760c354aa21a?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
