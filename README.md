@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68f061cf9e09d311e0431306?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Oct 15 |
 | **[New York Civil Liberties Union](http://www.nyclu.org/)** | **[Summer 2026 Law Student Summer Internship](https://jobright.ai/jobs/info/68f02b5ade50091dbfa52759?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 15 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Internship - Business Compliance and Regulation Division](https://jobright.ai/jobs/info/68f02d219821486c423c9c30?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Oct 15 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - General Bank Business Enhanced Due Diligence](https://jobright.ai/jobs/info/68f0330dde50091dbfa5323e?utm_campaign=1055&utm_source=git)** | Raleigh, NC | Hybrid | Oct 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Contract Analytics](https://jobright.ai/jobs/info/68ed2e0b81fdd1626d399c06?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Oct 13 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Legal Intern Summer 2026](https://jobright.ai/jobs/info/68ed204570b66e2345d3aaef?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Oct 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Quality Assurance & Compliance Intern (Graduate)](https://jobright.ai/jobs/info/68ed188d6335d33236125630?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Oct 13 |
-| ↳ | **[2026 Quality Assurance & Compliance Intern](https://jobright.ai/jobs/info/68ed13ff81fdd1626d398a04?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
