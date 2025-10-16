@@ -82,6 +82,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/68efff0a78ba1621431e170c?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Oct 15 |
 | ↳ | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/68effd6f78ba1621431e15ae?utm_campaign=1055&utm_source=git)** | Bloomington, IL | Hybrid | Oct 15 |
 | **[UFC Brasil](http://ufc.com.br)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/68f029b8de50091dbfa523a8?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Oct 15 |
+| **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68c653c9c96a22563eced434?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Oct 15 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern](https://jobright.ai/jobs/info/68effba3de50091dbfa51209?utm_campaign=1055&utm_source=git)** | Silver Spring, MD | On Site | Oct 15 |
 | **[TKO](https://tkogrp.com)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/68eff09d78ba1621431e1197?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Oct 15 |
 | **[Ultimate Fighting Championship](http://UFC.com)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/68f0027678ba1621431e1a5b?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Oct 15 |
@@ -119,6 +120,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6a3478ba1621431dea32?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Oct 15 |
 | ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef69a6de50091dbfa4e814?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 15 |
 | **[Wealth.com](https://wealth.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68ef3176230ae70a14c41821?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 14 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern - Regulatory Affairs - Plymouth. MN - Summer 2026](https://jobright.ai/jobs/info/68f093281f624a7ec1cf428f?utm_campaign=1055&utm_source=git)** | Plymouth, MA | On Site | Oct 14 |
 | **[International Monetary Fund](http://www.imf.org/)** | **[2026 Fund Internship Program (FIP) - Legal Department](https://jobright.ai/jobs/info/68ef04d520456578d5eb41db?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 14 |
 | **[Wealth.com](https://wealth.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68eeead3d078b81ad16107b1?utm_campaign=1055&utm_source=git)** | Remote, United States | Remote | Oct 14 |
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Legal Intern (For Credit)](https://jobright.ai/jobs/info/68eef874d078b81ad16111ff?utm_campaign=1055&utm_source=git)** | Culver City, CA | Hybrid | Oct 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Intern - Property](https://jobright.ai/jobs/info/68ee2df9e0db9242257fe745?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Oct 14 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Contract Administrator Intern - Elkton MD - R10209370](https://jobright.ai/jobs/info/68edd21681fdd1626d39fc5b?utm_campaign=1055&utm_source=git)** | Elkton, MD | On Site | Oct 13 |
 | ↳ | **[2025 Contracts Administrator Intern - Mesa AZ - R10210483](https://jobright.ai/jobs/info/68edd06470b66e2345d413ce?utm_campaign=1055&utm_source=git)** | Mesa, AZ | On Site | Oct 13 |
-| **[Waterford Bank, N.A.](http://waterfordbankna.com)** | **[Compliance Intern Summer 2026](https://jobright.ai/jobs/info/68f07a08a6b9004b5e320a07?utm_campaign=1055&utm_source=git)** | Toledo, OH | On Site | Oct 13 |
-| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68edbf3970b66e2345d40744?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
