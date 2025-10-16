@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NYC Citywide Administrative Services](https://linktr.ee/nycdcas)** | **[Agency Attorney Intern](https://jobright.ai/jobs/info/68f10b89ef766b3f0fd0812a?utm_campaign=1055&utm_source=git)** | All, MO | On Site | Oct 16 |
 | **[Wellabe](https://www.wellabe.com)** | **[Legal Summer 2026 Internship- Hybrid -Des Moines, Iowa](https://jobright.ai/jobs/info/68d43effffc1276de3fd8988?utm_campaign=1055&utm_source=git)** | Des Moines, IA | Hybrid | Oct 16 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Risk Management](https://jobright.ai/jobs/info/68f0ed9bf462172a5a7d142d?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Oct 16 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68f07cd1eb273a32d97690f1?utm_campaign=1055&utm_source=git)** | East Syracuse, NY | On Site | Oct 15 |
@@ -92,8 +93,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efdce578ba1621431e0d9d?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Oct 15 |
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efd819de50091dbfa50999?utm_campaign=1055&utm_source=git)** | Glenview, IL | On Site | Oct 15 |
 | **[Baltimore Witness](https://baltimorewitness.org)** | **[Baltimore Witness Spring Internship](https://jobright.ai/jobs/info/68efd3f19821486c423c7a02?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Oct 15 |
-| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f0dc0ee6870116b1f511eb?utm_campaign=1055&utm_source=git)** | Orlando area | On Site | Oct 15 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship, Summer 2026 - Legal](https://jobright.ai/jobs/info/68f0e094f462172a5a7d08eb?utm_campaign=1055&utm_source=git)** | Alabama-Birmingham | On Site | Oct 15 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68b72d162124650c1401ff3d?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Oct 15 |
 | ↳ | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68cf02c5dbd9fb154ede4477?utm_campaign=1055&utm_source=git)** | Southfield, MI | On Site | Oct 15 |
 | **[Robinhood](https://www.robinhood.com)** | **[Financial Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/68ef85abde50091dbfa4f00e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 15 |
@@ -140,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Bollinger Shipyards](http://bollingershipyards.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/68eeb195e0db924225809d35?utm_campaign=1055&utm_source=git)** | Lockport, LA | On Site | Oct 14 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Liberty and National Security Legal Internship](https://jobright.ai/jobs/info/68ee9fd346e5b153e5a5d103?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 14 |
 | ↳ | **[Spring 2026 Liberty and National Security Legal Internship](https://jobright.ai/jobs/info/68ee9df6e0db92422580872f?utm_campaign=1055&utm_source=git)** | Washington D.C., DC | On Site | Oct 14 |
-| **[Berkowitz Pollack Brant Advisors + CPAs](http://bpbcpa.com)** | **[Forensic Advisory Services Intern](https://jobright.ai/jobs/info/68ee9d9ed078b81ad160c4e3?utm_campaign=1055&utm_source=git)** | Miami | On Site | Oct 14 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - DRIVE Legal](https://jobright.ai/jobs/info/68ee8df6e0db9242258079e7?utm_campaign=1055&utm_source=git)** | San Francisco | Hybrid | Oct 14 |
 | **[Bechtel Plant Machinery, Inc. (BPMI)](http://bpmionline.com)** | **[Contract Management Specialist (Buyer) Intern (Summer 2026)](https://jobright.ai/jobs/info/68ee8734e0db924225807462?utm_campaign=1055&utm_source=git)** | Monroeville, PA | On Site | Oct 14 |
 | ↳ | **[Contract Management Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/68ee8398d078b81ad160af8f?utm_campaign=1055&utm_source=git)** | Monroeville, PA | On Site | Oct 14 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Technology and Information Compliance Undergraduate Intern](https://jobright.ai/jobs/info/68efad6dde50091dbfa4f8f9?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Oct 14 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Contract Administrator Intern - Elkton MD - R10209370](https://jobright.ai/jobs/info/68edd21681fdd1626d39fc5b?utm_campaign=1055&utm_source=git)** | Elkton, MD | On Site | Oct 13 |
 | ↳ | **[2025 Contracts Administrator Intern - Mesa AZ - R10210483](https://jobright.ai/jobs/info/68edd06470b66e2345d413ce?utm_campaign=1055&utm_source=git)** | Mesa, AZ | On Site | Oct 13 |
+| **[Waterford Bank, N.A.](http://waterfordbankna.com)** | **[Compliance Intern Summer 2026](https://jobright.ai/jobs/info/68f07a08a6b9004b5e320a07?utm_campaign=1055&utm_source=git)** | Toledo, OH | On Site | Oct 13 |
+| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68edbf3970b66e2345d40744?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
