@@ -91,11 +91,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efdce578ba1621431e0d9d?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Oct 15 |
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efd819de50091dbfa50999?utm_campaign=1055&utm_source=git)** | Glenview, IL | On Site | Oct 15 |
 | **[Baltimore Witness](https://baltimorewitness.org)** | **[Baltimore Witness Spring Internship](https://jobright.ai/jobs/info/68efd3f19821486c423c7a02?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Oct 15 |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship, Summer 2026 - Legal](https://jobright.ai/jobs/info/68f0d8dbf462172a5a7d0740?utm_campaign=1055&utm_source=git)** | Alabama-Birmingham | On Site | Oct 15 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68b72d162124650c1401ff3d?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Oct 15 |
 | ↳ | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68cf02c5dbd9fb154ede4477?utm_campaign=1055&utm_source=git)** | Southfield, MI | On Site | Oct 15 |
 | **[Robinhood](https://www.robinhood.com)** | **[Financial Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/68ef85abde50091dbfa4f00e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | ↳ | **[Financial Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/68ef7dba9821486c423c601a?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Oct 15 |
 | **[Sloan](https://www.sloan.com)** | **[Intern Regulatory & Product Compliance](https://jobright.ai/jobs/info/68d2f131f0d9af73038dd346?utm_campaign=1055&utm_source=git)** | Franklin Park, IL | On Site | Oct 15 |
+| **[Optiver](http://www.optiver.com)** | **[Compliance Intern 2026](https://jobright.ai/jobs/info/68e377f7f758fe1f97e5e70f?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 15 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef71cd78ba1621431dee99?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Oct 15 |
 | ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef71c0de50091dbfa4ec5f?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Oct 15 |
 | ↳ | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef713e78ba1621431dee26?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Oct 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Intern - Property](https://jobright.ai/jobs/info/68ee2df9e0db9242257fe745?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Oct 14 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Contract Administrator Intern - Elkton MD - R10209370](https://jobright.ai/jobs/info/68edd21681fdd1626d39fc5b?utm_campaign=1055&utm_source=git)** | Elkton, MD | On Site | Oct 13 |
 | ↳ | **[2025 Contracts Administrator Intern - Mesa AZ - R10210483](https://jobright.ai/jobs/info/68edd06470b66e2345d413ce?utm_campaign=1055&utm_source=git)** | Mesa, AZ | On Site | Oct 13 |
-| **[Waterford Bank, N.A.](http://waterfordbankna.com)** | **[Compliance Intern Summer 2026](https://jobright.ai/jobs/info/68f07a08a6b9004b5e320a07?utm_campaign=1055&utm_source=git)** | Toledo, OH | On Site | Oct 13 |
-| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68edbf3970b66e2345d40744?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
