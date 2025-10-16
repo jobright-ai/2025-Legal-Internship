@@ -59,8 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68f07cd1eb273a32d97690f1?utm_campaign=1055&utm_source=git)** | East Syracuse, NY | On Site | Oct 15 |
 | ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68f07b2e1f624a7ec1cf3545?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Oct 15 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/68f07aa8eb273a32d9768c95?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Oct 15 |
-| **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68f076281f624a7ec1cf31d0?utm_campaign=1055&utm_source=git)** | Warrenville, IL | On Site | Oct 15 |
+| ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68f076281f624a7ec1cf31d0?utm_campaign=1055&utm_source=git)** | Warrenville, IL | On Site | Oct 15 |
 | ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68f07603a6b9004b5e320852?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Oct 15 |
 | ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68f0756fa6b9004b5e320799?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Oct 15 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/68f075651f624a7ec1cf3126?utm_campaign=1055&utm_source=git)** | Suwanee, GA | On Site | Oct 15 |
@@ -106,8 +105,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6daf9821486c423c5ca1?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Oct 15 |
 | ↳ | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6d739821486c423c5c60?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6d3e9821486c423c5c33?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Oct 15 |
-| ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6cf99821486c423c5be9?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Oct 15 |
 | ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6cf99821486c423c5bea?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 15 |
+| ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6cf99821486c423c5be9?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Oct 15 |
 | ↳ | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6c2c9821486c423c5b29?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 15 |
 | ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6c169821486c423c5b04?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Oct 15 |
 | ↳ | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6bcb9821486c423c59d8?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Oct 15 |
@@ -120,7 +119,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6a3478ba1621431dea32?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Oct 15 |
 | ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef69a6de50091dbfa4e814?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 15 |
 | **[Wealth.com](https://wealth.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68ef3176230ae70a14c41821?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 14 |
-| **[Philips](https://www.usa.philips.com)** | **[Intern - Regulatory Affairs - Plymouth. MN - Summer 2026](https://jobright.ai/jobs/info/68f093281f624a7ec1cf428f?utm_campaign=1055&utm_source=git)** | Plymouth, MA | On Site | Oct 14 |
 | **[International Monetary Fund](http://www.imf.org/)** | **[2026 Fund Internship Program (FIP) - Legal Department](https://jobright.ai/jobs/info/68ef04d520456578d5eb41db?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 14 |
 | **[Wealth.com](https://wealth.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68eeead3d078b81ad16107b1?utm_campaign=1055&utm_source=git)** | Remote, United States | Remote | Oct 14 |
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Legal Intern (For Credit)](https://jobright.ai/jobs/info/68eef874d078b81ad16111ff?utm_campaign=1055&utm_source=git)** | Culver City, CA | Hybrid | Oct 14 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Intern - Property](https://jobright.ai/jobs/info/68ee2df9e0db9242257fe745?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Oct 14 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Contract Administrator Intern - Elkton MD - R10209370](https://jobright.ai/jobs/info/68edd21681fdd1626d39fc5b?utm_campaign=1055&utm_source=git)** | Elkton, MD | On Site | Oct 13 |
 | ↳ | **[2025 Contracts Administrator Intern - Mesa AZ - R10210483](https://jobright.ai/jobs/info/68edd06470b66e2345d413ce?utm_campaign=1055&utm_source=git)** | Mesa, AZ | On Site | Oct 13 |
+| **[Waterford Bank, N.A.](http://waterfordbankna.com)** | **[Compliance Intern Summer 2026](https://jobright.ai/jobs/info/68f07a08a6b9004b5e320a07?utm_campaign=1055&utm_source=git)** | Toledo, OH | On Site | Oct 13 |
+| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68edbf3970b66e2345d40744?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
