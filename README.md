@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Civil Liberties Union](http://www.nyclu.org/)** | **[Summer 2026 Law Student Summer Internship](https://jobright.ai/jobs/info/68f02b5ade50091dbfa52759?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 15 |
+| **[State of Michigan](http://www.michigan.gov)** | **[Internship - Business Compliance and Regulation Division](https://jobright.ai/jobs/info/68f02d219821486c423c9c30?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Oct 15 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/68f0012878ba1621431e18eb?utm_campaign=1055&utm_source=git)** | Richardson, TX | Hybrid | Oct 15 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Fraud Risk Management](https://jobright.ai/jobs/info/68f0010fde50091dbfa516d5?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 15 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/68f0009578ba1621431e186b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Oct 15 |
 | ↳ | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/68efff0a78ba1621431e170c?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Oct 15 |
 | ↳ | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/68effd6f78ba1621431e15ae?utm_campaign=1055&utm_source=git)** | Bloomington, IL | Hybrid | Oct 15 |
+| **[UFC Brasil](http://ufc.com.br)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/68f029b8de50091dbfa523a8?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Oct 15 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern](https://jobright.ai/jobs/info/68effba3de50091dbfa51209?utm_campaign=1055&utm_source=git)** | Silver Spring, MD | On Site | Oct 15 |
 | **[TKO](https://tkogrp.com)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/68eff09d78ba1621431e1197?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Oct 15 |
 | **[Ultimate Fighting Championship](http://UFC.com)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/68f0027678ba1621431e1a5b?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Oct 15 |
@@ -71,7 +74,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efdce578ba1621431e0d9d?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Oct 15 |
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efd819de50091dbfa50999?utm_campaign=1055&utm_source=git)** | Glenview, IL | On Site | Oct 15 |
 | **[Baltimore Witness](https://baltimorewitness.org)** | **[Baltimore Witness Spring Internship](https://jobright.ai/jobs/info/68efd3f19821486c423c7a02?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Oct 15 |
-| **[WM Partners, LP](http://wmplp.com/)** | **[Legal and Compliance Intern (WMP)](https://jobright.ai/jobs/info/68efba6678ba1621431e0005?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 15 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68b72d162124650c1401ff3d?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Oct 15 |
 | ↳ | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68cf02c5dbd9fb154ede4477?utm_campaign=1055&utm_source=git)** | Southfield, MI | On Site | Oct 15 |
 | **[Robinhood](https://www.robinhood.com)** | **[Financial Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/68ef85abde50091dbfa4f00e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 15 |
@@ -86,8 +88,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6daf9821486c423c5ca1?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Oct 15 |
 | ↳ | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6d739821486c423c5c60?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6d3e9821486c423c5c33?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Oct 15 |
-| ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6cf99821486c423c5be9?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Oct 15 |
 | ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6cf99821486c423c5bea?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 15 |
+| ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6cf99821486c423c5be9?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Oct 15 |
 | ↳ | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6c2c9821486c423c5b29?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 15 |
 | ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6c169821486c423c5b04?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Oct 15 |
 | ↳ | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6bcb9821486c423c59d8?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Oct 15 |
@@ -109,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Ohio Department of Education and Workforce](http://education.ohio.gov)** | **[Dispute Resolution College Intern](https://jobright.ai/jobs/info/68ec9c481eecd439f43fb7cd?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Oct 14 |
 | **[Gentherm](https://gentherm.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68eec74946e5b153e5a5fde9?utm_campaign=1055&utm_source=git)** | Novi, MI | On Site | Oct 14 |
 | **[International Monetary Fund](http://www.imf.org/)** | **[2026 Fund Internship Program (FIP) - Legal Department](https://jobright.ai/jobs/info/68eec6b2d078b81ad160f375?utm_campaign=1055&utm_source=git)** | USA, Washington DC | On Site | Oct 14 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - Phoenix, AZ](https://jobright.ai/jobs/info/68ea24b1db8fbc4015c658c0?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Oct 14 |
 | **[Washington State Office of the Insurance Commissioner](https://www.insurance.wa.gov/)** | **[Producer Licensing and Oversight Compliance Supervisor (FPA4 - Internal Only)](https://jobright.ai/jobs/info/68eebf79e0db92422580ada3?utm_campaign=1055&utm_source=git)** | Tumwater, WA | On Site | Oct 14 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Insurance Intern](https://jobright.ai/jobs/info/68eea083d078b81ad160cec5?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Oct 14 |
 | ↳ | **[2026 Insurance Intern](https://jobright.ai/jobs/info/68ee9f28d078b81ad160c916?utm_campaign=1055&utm_source=git)** | Bethesda, MD | On Site | Oct 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Quality Assurance & Compliance Intern (Graduate)](https://jobright.ai/jobs/info/68ed188d6335d33236125630?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Oct 13 |
 | ↳ | **[2026 Quality Assurance & Compliance Intern](https://jobright.ai/jobs/info/68ed13ff81fdd1626d398a04?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Oct 13 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Intern](https://jobright.ai/jobs/info/68ed11ec70b66e2345d3a35d?utm_campaign=1055&utm_source=git)** | DC - Washington, 300 New Jersey Ave Nw | On Site | Oct 13 |
-| **[IGS Energy](http://www.igsenergy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68df512afe896042b0b7981d?utm_campaign=1055&utm_source=git)** | Dublin, OH | On Site | Oct 12 |
-| **[JumpStart  Inc.](http://www.jumpstartinc.org)** | **[Legal Intern](https://jobright.ai/jobs/info/68ed55656335d332361279e0?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Oct 12 |
-| **[CAMBA](https://camba.org/)** | **[Consumer Summer Intern, CAMBA Legal Services, Brooklyn](https://jobright.ai/jobs/info/68ec0eec76a1db7c59861d33?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
