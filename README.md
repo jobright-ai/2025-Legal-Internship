@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/68cdb92e1ad6b16f0289e426?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Oct 17 |
+| **[Southwire Company](http://southwire.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f2ccf59a65fd3458581216?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Oct 17 |
+| **[Remington Hospitality](http://www.remingtonhotels.com)** | **[Intern Associate - Legal](https://jobright.ai/jobs/info/68f2c9ac9a65fd3458581163?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Oct 17 |
+| **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/68f2ba8f9a63986de756ba95?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Oct 17 |
+| **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Compliance & Privacy Intern](https://jobright.ai/jobs/info/68f2ba0c9a63986de756b9e2?utm_campaign=1055&utm_source=git)** | Ankeny, IA | Hybrid | Oct 17 |
 | **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/68f2b8179a63986de756b5a8?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Oct 17 |
 | ↳ | **[Intellectual Property Intern](https://jobright.ai/jobs/info/68f2b7799a63986de756b49a?utm_campaign=1055&utm_source=git)** | Yorktown Heights, NY | On Site | Oct 17 |
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/68f2b70b9a65fd345857fe6e?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Oct 17 |
@@ -70,13 +75,15 @@ For a complete list, click the following sortable link below:
 | **[Jones Day](http://www.jonesday.com/)** | **[IP Legal Intern Biological Sciences - BOSTON, NEW YORK, SAN DIEGO, SILICON VALLEY](https://jobright.ai/jobs/info/68f2a75a9a63986de7569e6d?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Oct 17 |
 | ↳ | **[IP Legal Intern Biological Sciences - BOSTON, NEW YORK, SAN DIEGO, SILICON VALLEY](https://jobright.ai/jobs/info/68f2a71a9a63986de7569e2e?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | On Site | Oct 17 |
 | ↳ | **[IP Legal Intern Biological Sciences - BOSTON, NEW YORK, SAN DIEGO, SILICON VALLEY](https://jobright.ai/jobs/info/68f2a71076a51a4307bc5e44?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 17 |
-| ↳ | **[IP Legal Intern Electrical Engineering & Computer Science - PITTSBURGH, SAN DIEGO](https://jobright.ai/jobs/info/68f2a5529a63986de7569be6?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Oct 17 |
+| **[UMB Bank](https://www.umb.com)** | **[Corporate Trust Intern](https://jobright.ai/jobs/info/68f2c3cb76a51a4307bc81f7?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Oct 17 |
+| **[Jones Day](http://www.jonesday.com/)** | **[IP Legal Intern Electrical Engineering & Computer Science - PITTSBURGH, SAN DIEGO](https://jobright.ai/jobs/info/68f2a5529a63986de7569be6?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Oct 17 |
 | ↳ | **[IP Legal Intern Bioinformatics & Computational Biology - PITTSBURGH, SAN DIEGO](https://jobright.ai/jobs/info/68f2a4119a65fd345857e730?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Oct 17 |
 | ↳ | **[IP Legal Intern Bioinformatics & Computational Biology - PITTSBURGH, SAN DIEGO](https://jobright.ai/jobs/info/68f29db676a51a4307bc555b?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
-| ↳ | **[IP Legal Intern Electrical Engineering & Computer Science - PITTSBURGH, SAN DIEGO](https://jobright.ai/jobs/info/68f2b7a076a51a4307bc75c4?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
-| **[Philips](https://www.usa.philips.com)** | **[Intern - Regulatory Affairs - San Diego, CA - Summer 2026](https://jobright.ai/jobs/info/68f2993476a51a4307bc5294?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
+| **[Agropur](http://www.agropur.com/en/)** | **[Loss Prevention Intern](https://jobright.ai/jobs/info/68d49e24fcd3367e8df16437?utm_campaign=1055&utm_source=git)** | Wisconsin, United States | On Site | Oct 17 |
+| **[Jones Day](http://www.jonesday.com/)** | **[IP Legal Intern Electrical Engineering & Computer Science - PITTSBURGH, SAN DIEGO](https://jobright.ai/jobs/info/68f2b7a076a51a4307bc75c4?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - New York, NY](https://jobright.ai/jobs/info/68f2971c9a65fd345857dde1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 17 |
 | **[Jones Day](http://www.jonesday.com/)** | **[IP Legal Intern Biological Sciences - BOSTON, NEW YORK, SAN DIEGO, SILICON VALLEY](https://jobright.ai/jobs/info/68f2b8179a63986de756b5aa?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
+| **[UFC GYM](http://UFCGYM.com)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/68f2bf389a65fd3458580a59?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Oct 17 |
 | **[EarthRights International](https://www.earthrights.org/)** | **[U.S. Summer Legal Internship](https://jobright.ai/jobs/info/68f291859a65fd345857dada?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 17 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Health & Family Services - Office of Legal Services](https://jobright.ai/jobs/info/68f28b3676a51a4307bc49b2?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Oct 17 |
 | ↳ | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f2881e76a51a4307bc4839?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Oct 17 |
@@ -87,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Fried Frank](http://www.friedfrank.com/)** | **[Paralegal/Financial Services Intern](https://jobright.ai/jobs/info/68f2754e76a51a4307bc3e7c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 17 |
 | **[Philips](https://www.usa.philips.com)** | **[Intern - Regulatory Affairs - San Diego, CA - Summer 2026](https://jobright.ai/jobs/info/68f26d5a76a51a4307bc3ad3?utm_campaign=1055&utm_source=git)** | San Diego | On Site | Oct 17 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - New York, NY](https://jobright.ai/jobs/info/68f26489cb0abf15612f7219?utm_campaign=1055&utm_source=git)** | New York City, NY | On Site | Oct 17 |
+| **[The Law Offices of Benjamin T. McLawhorn](www.mclawfirmnc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f26f449a65fd345857c9bb?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Oct 17 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/68d8cbeaeed6e340d9e1dc9a?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
-| **[The Law Offices of Benjamin T. McLawhorn](www.mclawfirmnc.com)** | **[Legal Assistant](https://jobright.ai/jobs/info/68f26f449a65fd345857c9bb?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Oct 17 |
 | **[FM](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68c91186f9c6ff7aedf175b9?utm_campaign=1055&utm_source=git)** | Creve Coeur, MO | On Site | Oct 17 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Safety Compliance & Regulatory (Internship - Summer 2026)](https://jobright.ai/jobs/info/68f295f09a63986de75691d0?utm_campaign=1055&utm_source=git)** | Superior, MI | On Site | Oct 17 |
 | **[Verizon](https://www.verizon.com)** | **[Verizon Legal Summer 2026 Internship - Washington, D.C.](https://jobright.ai/jobs/info/68d5cc3a1f7fb2169ab13dc6?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 17 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Swiss Re](http://www.swissre.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/68d4a3c3ffc1276de3fdcc17?utm_campaign=1055&utm_source=git)** | Armonk, NY | On Site | Oct 16 |
 | **[Wellabe](https://www.wellabe.com)** | **[Legal Summer 2026 Internship- Hybrid -Des Moines, Iowa](https://jobright.ai/jobs/info/68d43effffc1276de3fd8988?utm_campaign=1055&utm_source=git)** | Des Moines, IA | Hybrid | Oct 16 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Risk Management](https://jobright.ai/jobs/info/68f0ed9bf462172a5a7d142d?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Oct 16 |
-| **[INTEGRIS Health](https://www.integrisok.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b79c9c2124650c140245e7?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Oct 16 |
-| **[DESRI](https://desri.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd675ee23def7af55b97e0?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Oct 16 |
-| **[Ocean Conservancy](https://oceanconservancy.org/about/)** | **[Dana Wolfe Memorial Legal Intern](https://jobright.ai/jobs/info/68f208de2636ac47599f312a?utm_campaign=1055&utm_source=git)** | Bellingham, WA | Hybrid | Oct 16 |
-| **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Legal & Compliance](https://jobright.ai/jobs/info/68c0af705c5d5f14f46e0428?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Oct 15 |
-| **[Metro Atlanta Chamber](http://www.metroatlantachamber.com/)** | **[PUBLIC POLICY LEGAL INTERN](https://jobright.ai/jobs/info/68f1f6f4ef766b3f0fd14073?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Oct 15 |
-| **[Orano USA](https://www.orano.group/usa)** | **[Attorney Intern](https://jobright.ai/jobs/info/68f1e385ef766b3f0fd1301b?utm_campaign=1055&utm_source=git)** | Bethesda, MD | On Site | Oct 15 |
-| **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68f07cd1eb273a32d97690f1?utm_campaign=1055&utm_source=git)** | East Syracuse, NY | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
