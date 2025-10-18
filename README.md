@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Internship (Spring 2026)](https://jobright.ai/jobs/info/68f2e52b76a51a4307bc90ef?utm_campaign=1055&utm_source=git)** | Baltimore | Hybrid | Oct 17 |
+| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Intern, Public Benefits Law Unit (Summer)](https://jobright.ai/jobs/info/68f2e28176a51a4307bc8dfb?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 17 |
+| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Risk Control Intern](https://jobright.ai/jobs/info/68f2e0739a65fd345858192e?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Oct 17 |
+| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Intern, Consumer Law Unit (Summer)](https://jobright.ai/jobs/info/68f2df6f9a63986de756cd32?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 17 |
+| ↳ | **[Intern, Reentry Justice Project (Summer)](https://jobright.ai/jobs/info/68f2df679a63986de756cd2c?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 17 |
+| ↳ | **[Intern, Immigration Law Unit (Summer)](https://jobright.ai/jobs/info/68f2dcce76a51a4307bc8c8f?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 17 |
+| ↳ | **[Intern, Appellate Project (Summer)](https://jobright.ai/jobs/info/68f2db9d76a51a4307bc8bf7?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 17 |
+| ↳ | **[Intern, Housing Law Unit (Summer)](https://jobright.ai/jobs/info/68f2db5c9a65fd345858181f?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 17 |
+| ↳ | **[Intern, Systemic Advocacy & Law Reform (Summer)](https://jobright.ai/jobs/info/68f2daac9a65fd34585817d8?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 17 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/68cdb92e1ad6b16f0289e426?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Oct 17 |
 | **[Southwire Company](http://southwire.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f2ccf59a65fd3458581216?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Oct 17 |
 | **[Remington Hospitality](http://www.remingtonhotels.com)** | **[Intern Associate - Legal](https://jobright.ai/jobs/info/68f2c9ac9a65fd3458581163?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Oct 17 |
@@ -135,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Arthrex](https://www.arthrex.com/)** | **[Global Trade Intern](https://jobright.ai/jobs/info/68f1950cf462172a5a7da257?utm_campaign=1055&utm_source=git)** | Fort Myers, FL | On Site | Oct 16 |
 | **[UNICEF](https://agora.unicef.org/)** | **[Ethics Office Intern (1 Year Part-Time)](https://jobright.ai/jobs/info/68f18c25e6870116b1f5a4fd?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Oct 16 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68f18881f462172a5a7d9a16?utm_campaign=1055&utm_source=git)** | Greenville, NC | On Site | Oct 16 |
-| **[CRST The Transportation Solution, Inc.](https://www.crst.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68f2a5f89a63986de7569d2e?utm_campaign=1055&utm_source=git)** | Cedar Rapids, IA | On Site | Oct 16 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Legal Documentation Internship](https://jobright.ai/jobs/info/68f178a1f462172a5a7d8f51?utm_campaign=1055&utm_source=git)** | East Lansing, MI | On Site | Oct 16 |
 | ↳ | **[Legal and Regulatory Compliance Internship](https://jobright.ai/jobs/info/68f175bfe6870116b1f594f7?utm_campaign=1055&utm_source=git)** | East Lansing, MI | On Site | Oct 16 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[IS Contracts Internship 2025 Summer](https://jobright.ai/jobs/info/68f164ecf462172a5a7d7c6d?utm_campaign=1055&utm_source=git)** | US-PA-Mechanicsburg | On Site | Oct 16 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/68f1425be6870116b1f55ce7?utm_campaign=1055&utm_source=git)** | Austin, Texas, United States | On Site | Oct 16 |
 | **[City of New York](http://www1.nyc.gov)** | **[Agency Attorney Intern](https://jobright.ai/jobs/info/68f13c72f462172a5a7d4ad3?utm_campaign=1055&utm_source=git)** | All, MO | On Site | Oct 16 |
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Legal Intern (Unpaid Internship for Course Credit)](https://jobright.ai/jobs/info/68f1de6be6870116b1f5dbb4?utm_campaign=1055&utm_source=git)** | Culver City, California, United States | Hybrid | Oct 16 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/68f1330eef766b3f0fd09b8b?utm_campaign=1055&utm_source=git)** | 801 Cherry Street, Fort Worth, TX, 76102, US | Hybrid | Oct 16 |
-| **[Law Office of the Public Defender, Tenth Judicial Circuit](www.pd10.org)** | **[Paid Summer Intern 2026](https://jobright.ai/jobs/info/68f11c7bef766b3f0fd08cd9?utm_campaign=1055&utm_source=git)** | Winter Haven, FL | On Site | Oct 16 |
-| **[Southwire Company](http://southwire.com)** | **[Legal Intern - Ethics & Compliance](https://jobright.ai/jobs/info/68f11bedf462172a5a7d3188?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Oct 16 |
-| **[NYC Citywide Administrative Services](https://linktr.ee/nycdcas)** | **[Agency Attorney Intern](https://jobright.ai/jobs/info/68f10b89ef766b3f0fd0812a?utm_campaign=1055&utm_source=git)** | All, MO | On Site | Oct 16 |
-| **[SpartanNash](https://www.spartannash.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68f13482f462172a5a7d4441?utm_campaign=1055&utm_source=git)** | Byron Center, Michigan | On Site | Oct 16 |
-| **[Swiss Re](http://www.swissre.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/68d4a3c3ffc1276de3fdcc17?utm_campaign=1055&utm_source=git)** | Armonk, NY | On Site | Oct 16 |
-| **[Wellabe](https://www.wellabe.com)** | **[Legal Summer 2026 Internship- Hybrid -Des Moines, Iowa](https://jobright.ai/jobs/info/68d43effffc1276de3fd8988?utm_campaign=1055&utm_source=git)** | Des Moines, IA | Hybrid | Oct 16 |
-| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Risk Management](https://jobright.ai/jobs/info/68f0ed9bf462172a5a7d142d?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
