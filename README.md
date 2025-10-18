@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/68bb3fee8043103d4f227044?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Oct 18 |
+| **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Law Clerk - Internship](https://jobright.ai/jobs/info/68d6ca96d3fe025a3015c12e?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | Hybrid | Oct 18 |
+| **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Internship Program - Compliance (St. Petersburg, FL)](https://jobright.ai/jobs/info/68ce41571ad6b16f028a358a?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | Hybrid | Oct 18 |
+| **[Everllence](www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Oct 18 |
+| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Appellate Public Defense Internship](https://jobright.ai/jobs/info/68f388b19a65fd34585874f8?utm_campaign=1055&utm_source=git)** | Oakland, CA | On Site | Oct 18 |
+| **[Brookfield](https://bam.brookfield.com)** | **[Intern, Compliance, Public Securities Group](https://jobright.ai/jobs/info/68d748ebe5293e3538af391e?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 18 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Intellectual Property Group – Intern](https://jobright.ai/jobs/info/68ba38a38043103d4f21eb3a?utm_campaign=1055&utm_source=git)** | Rahway, NJ | Hybrid | Oct 18 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68f36a709a65fd3458586d10?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Oct 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Accessibility Compliance Analyst](https://jobright.ai/jobs/info/68f3639576a51a4307bcdfb6?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Oct 18 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Internship (Spring 2026)](https://jobright.ai/jobs/info/68f358c49a65fd34585867bd?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Oct 18 |
 | **[Meijer](https://www.meijer.com/)** | **[Asset Protection Intern- Summer 2026](https://jobright.ai/jobs/info/68f314a89a65fd3458583a86?utm_campaign=1055&utm_source=git)** | Grand Rapids, MI | On Site | Oct 17 |
@@ -104,14 +109,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f2881e76a51a4307bc4839?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Oct 17 |
 | **[UMB Bank](https://www.umb.com)** | **[Corporate Trust Intern](https://jobright.ai/jobs/info/68f2a50e76a51a4307bc5b29?utm_campaign=1055&utm_source=git)** | Phoenix AZ | Hybrid | Oct 17 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Legal Division I](https://jobright.ai/jobs/info/68f27f9e9a65fd345857d289?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Oct 17 |
-| **[Philips](https://www.usa.philips.com)** | **[Intern - Regulatory Affairs - San Diego, CA - Summer 2026](https://jobright.ai/jobs/info/68f3127f76a51a4307bcac82?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
 | **[NYC Department of Finance](http://www.nyc.gov/html/dof/html/home/home.shtml)** | **[Attorney Intern, Parking Law](https://jobright.ai/jobs/info/68f2ab909a63986de756a566?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Oct 17 |
 | **[Equity Residential](http://equityapartments.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/68f278be9a65fd345857cea7?utm_campaign=1055&utm_source=git)** | 2 N Riverside Plaza, Chicago, IL, 60606, US | Hybrid | Oct 17 |
 | **[Fried Frank](http://www.friedfrank.com/)** | **[Paralegal/Financial Services Intern](https://jobright.ai/jobs/info/68f2754e76a51a4307bc3e7c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 17 |
 | **[Philips](https://www.usa.philips.com)** | **[Intern - Regulatory Affairs - San Diego, CA - Summer 2026](https://jobright.ai/jobs/info/68f26d5a76a51a4307bc3ad3?utm_campaign=1055&utm_source=git)** | San Diego | On Site | Oct 17 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - New York, NY](https://jobright.ai/jobs/info/68f26489cb0abf15612f7219?utm_campaign=1055&utm_source=git)** | New York City, NY | On Site | Oct 17 |
+| **[The Law Offices of Benjamin T. McLawhorn](www.mclawfirmnc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f26f449a65fd345857c9bb?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Oct 17 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/68d8cbeaeed6e340d9e1dc9a?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
-| **[The Law Offices of Benjamin T. McLawhorn](www.mclawfirmnc.com)** | **[Legal Assistant](https://jobright.ai/jobs/info/68f26f449a65fd345857c9bb?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Oct 17 |
 | **[FM](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68c91186f9c6ff7aedf175b9?utm_campaign=1055&utm_source=git)** | Creve Coeur, MO | On Site | Oct 17 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Safety Compliance & Regulatory (Internship - Summer 2026)](https://jobright.ai/jobs/info/68f295f09a63986de75691d0?utm_campaign=1055&utm_source=git)** | Superior, MI | On Site | Oct 17 |
 | **[Verizon](https://www.verizon.com)** | **[Verizon Legal Summer 2026 Internship - Washington, D.C.](https://jobright.ai/jobs/info/68d5cc3a1f7fb2169ab13dc6?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arthrex](https://www.arthrex.com/)** | **[Global Trade Intern](https://jobright.ai/jobs/info/68f1950cf462172a5a7da257?utm_campaign=1055&utm_source=git)** | Fort Myers, FL | On Site | Oct 16 |
 | **[UNICEF](https://agora.unicef.org/)** | **[Ethics Office Intern (1 Year Part-Time)](https://jobright.ai/jobs/info/68f18919f462172a5a7d9ae2?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Oct 16 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68f18881f462172a5a7d9a16?utm_campaign=1055&utm_source=git)** | Greenville, NC | On Site | Oct 16 |
-| **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Legal Documentation Internship](https://jobright.ai/jobs/info/68f178a1f462172a5a7d8f51?utm_campaign=1055&utm_source=git)** | East Lansing, MI | On Site | Oct 16 |
-| ↳ | **[Legal and Regulatory Compliance Internship](https://jobright.ai/jobs/info/68f175bfe6870116b1f594f7?utm_campaign=1055&utm_source=git)** | East Lansing, MI | On Site | Oct 16 |
-| **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[IS Contracts Internship 2025 Summer](https://jobright.ai/jobs/info/68f164ecf462172a5a7d7c6d?utm_campaign=1055&utm_source=git)** | US-PA-Mechanicsburg | On Site | Oct 16 |
-| **[Select Medical](http://www.selectmedical.com/)** | **[IS Contracts Internship 2025 Summer](https://jobright.ai/jobs/info/68f159cff462172a5a7d6dea?utm_campaign=1055&utm_source=git)** | Mechanicsburg, PA | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
