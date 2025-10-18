@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Compliance & Privacy Intern](https://jobright.ai/jobs/info/68f2f9559a65fd34585826a5?utm_campaign=1055&utm_source=git)** | Ankeny, IA | Hybrid | Oct 17 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Internship (Spring 2026)](https://jobright.ai/jobs/info/68f2e52b76a51a4307bc90ef?utm_campaign=1055&utm_source=git)** | Baltimore | Hybrid | Oct 17 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Intern, Public Benefits Law Unit (Summer)](https://jobright.ai/jobs/info/68f2e28176a51a4307bc8dfb?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 17 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Risk Control Intern](https://jobright.ai/jobs/info/68f2e0739a65fd345858192e?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Oct 17 |
@@ -135,9 +136,11 @@ For a complete list, click the following sortable link below:
 | **[New York Civil Liberties Union](http://www.nyclu.org/)** | **[Summer 2026 Law Student Policy Internship](https://jobright.ai/jobs/info/68f1be56e6870116b1f5cbbb?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 16 |
 | **[Lockton](https://global.lockton.com)** | **[Transaction Liability Intern](https://jobright.ai/jobs/info/68f1b223f462172a5a7db42c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 16 |
 | ↳ | **[National Surety Practice Intern](https://jobright.ai/jobs/info/68f1b0d3e6870116b1f5bfbd?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Oct 16 |
+| **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68f30ab176a51a4307bca4fd?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | On Site | Oct 16 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Global Regulatory Affairs Summer Intern](https://jobright.ai/jobs/info/68f1acb8ef766b3f0fd1087c?utm_campaign=1055&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Oct 16 |
 | ↳ | **[Global Regulatory Affairs Summer Intern](https://jobright.ai/jobs/info/68f1ac80e6870116b1f5b98c?utm_campaign=1055&utm_source=git)** | Spring House, Pennsylvania, United States of America | Hybrid | Oct 16 |
 | ↳ | **[Global Regulatory Affairs Summer Intern](https://jobright.ai/jobs/info/68f1ac18f462172a5a7db084?utm_campaign=1055&utm_source=git)** | Titusville, New Jersey, United States of America | Hybrid | Oct 16 |
+| **[Equity Residential](http://equityapartments.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/68f3079176a51a4307bca452?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 16 |
 | **[Metro Atlanta Chamber](http://www.metroatlantachamber.com/)** | **[PUBLIC POLICY LEGAL INTERN](https://jobright.ai/jobs/info/68f1a08af462172a5a7dab98?utm_campaign=1055&utm_source=git)** | Atlanta, GA, USA | On Site | Oct 16 |
 | **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Undergraduate Internship, Pro Bono Coordinating Team](https://jobright.ai/jobs/info/68f1966af462172a5a7da551?utm_campaign=1055&utm_source=git)** | Fully Remote | Remote | Oct 16 |
 | **[New York Civil Liberties Union](http://www.nyclu.org/)** | **[Summer 2026 Law Student Policy Internship](https://jobright.ai/jobs/info/68f19537f462172a5a7da2c9?utm_campaign=1055&utm_source=git)** | NYC HEADQUARTERS OFFICE 2 | Hybrid | Oct 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/68f14b72e6870116b1f566c3?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 16 |
 | **[WIN Waste Innovations](https://www.win-waste.com)** | **[Summer Safety Internship](https://jobright.ai/jobs/info/68f145b6f462172a5a7d585a?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Oct 16 |
 | **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/68f14275ef766b3f0fd0abfd?utm_campaign=1055&utm_source=git)** | Austin, Texas, United States | On Site | Oct 16 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/68f1425be6870116b1f55ce7?utm_campaign=1055&utm_source=git)** | Austin, Texas, United States | On Site | Oct 16 |
-| **[City of New York](http://www1.nyc.gov)** | **[Agency Attorney Intern](https://jobright.ai/jobs/info/68f13c72f462172a5a7d4ad3?utm_campaign=1055&utm_source=git)** | All, MO | On Site | Oct 16 |
-| **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Legal Intern (Unpaid Internship for Course Credit)](https://jobright.ai/jobs/info/68f1de6be6870116b1f5dbb4?utm_campaign=1055&utm_source=git)** | Culver City, California, United States | Hybrid | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
