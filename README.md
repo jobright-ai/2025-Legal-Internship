@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Intellectual Property Group – Intern](https://jobright.ai/jobs/info/68ba38a38043103d4f21eb3a?utm_campaign=1055&utm_source=git)** | Rahway, NJ | Hybrid | Oct 18 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68f36a709a65fd3458586d10?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Oct 18 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Accessibility Compliance Analyst](https://jobright.ai/jobs/info/68f3639576a51a4307bcdfb6?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Oct 18 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Internship (Spring 2026)](https://jobright.ai/jobs/info/68f358c49a65fd34585867bd?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Oct 18 |
 | **[Meijer](https://www.meijer.com/)** | **[Asset Protection Intern- Summer 2026](https://jobright.ai/jobs/info/68f314a89a65fd3458583a86?utm_campaign=1055&utm_source=git)** | Grand Rapids, MI | On Site | Oct 17 |
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Compliance & Privacy Intern](https://jobright.ai/jobs/info/68f2f9559a65fd34585826a5?utm_campaign=1055&utm_source=git)** | Ankeny, IA | Hybrid | Oct 17 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Undergraduate Internship, Pro Bono Coordinating Team](https://jobright.ai/jobs/info/68f1966af462172a5a7da551?utm_campaign=1055&utm_source=git)** | Fully Remote | Remote | Oct 16 |
 | **[New York Civil Liberties Union](http://www.nyclu.org/)** | **[Summer 2026 Law Student Policy Internship](https://jobright.ai/jobs/info/68f19537f462172a5a7da2c9?utm_campaign=1055&utm_source=git)** | NYC HEADQUARTERS OFFICE 2 | Hybrid | Oct 16 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Global Trade Intern](https://jobright.ai/jobs/info/68f1950cf462172a5a7da257?utm_campaign=1055&utm_source=git)** | Fort Myers, FL | On Site | Oct 16 |
-| **[UNICEF](https://agora.unicef.org/)** | **[Ethics Office Intern (1 Year Part-Time)](https://jobright.ai/jobs/info/68f18c25e6870116b1f5a4fd?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Oct 16 |
+| **[UNICEF](https://agora.unicef.org/)** | **[Ethics Office Intern (1 Year Part-Time)](https://jobright.ai/jobs/info/68f18919f462172a5a7d9ae2?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Oct 16 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68f18881f462172a5a7d9a16?utm_campaign=1055&utm_source=git)** | Greenville, NC | On Site | Oct 16 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Legal Documentation Internship](https://jobright.ai/jobs/info/68f178a1f462172a5a7d8f51?utm_campaign=1055&utm_source=git)** | East Lansing, MI | On Site | Oct 16 |
 | ↳ | **[Legal and Regulatory Compliance Internship](https://jobright.ai/jobs/info/68f175bfe6870116b1f594f7?utm_campaign=1055&utm_source=git)** | East Lansing, MI | On Site | Oct 16 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[IS Contracts Internship 2025 Summer](https://jobright.ai/jobs/info/68f164ecf462172a5a7d7c6d?utm_campaign=1055&utm_source=git)** | US-PA-Mechanicsburg | On Site | Oct 16 |
 | **[Select Medical](http://www.selectmedical.com/)** | **[IS Contracts Internship 2025 Summer](https://jobright.ai/jobs/info/68f159cff462172a5a7d6dea?utm_campaign=1055&utm_source=git)** | Mechanicsburg, PA | On Site | Oct 16 |
-| **[Turion Space](https://turionspace.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f15928f462172a5a7d6cc4?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Oct 16 |
-| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68edbf3970b66e2345d40744?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Oct 16 |
-| **[SpartanNash](https://www.spartannash.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68f15352e6870116b1f56f49?utm_campaign=1055&utm_source=git)** | Byron Center, MI | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
