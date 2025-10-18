@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meijer](https://www.meijer.com/)** | **[Asset Protection Intern- Summer 2026](https://jobright.ai/jobs/info/68f314a89a65fd3458583a86?utm_campaign=1055&utm_source=git)** | Grand Rapids, MI | On Site | Oct 17 |
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Compliance & Privacy Intern](https://jobright.ai/jobs/info/68f2f9559a65fd34585826a5?utm_campaign=1055&utm_source=git)** | Ankeny, IA | Hybrid | Oct 17 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Internship (Spring 2026)](https://jobright.ai/jobs/info/68f2e52b76a51a4307bc90ef?utm_campaign=1055&utm_source=git)** | Baltimore | Hybrid | Oct 17 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Intern, Public Benefits Law Unit (Summer)](https://jobright.ai/jobs/info/68f2e28176a51a4307bc8dfb?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 17 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Systemic Advocacy & Law Reform (Summer)](https://jobright.ai/jobs/info/68f2daac9a65fd34585817d8?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 17 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/68cdb92e1ad6b16f0289e426?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Oct 17 |
 | **[Southwire Company](http://southwire.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f2ccf59a65fd3458581216?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Oct 17 |
-| **[Remington Hospitality](http://www.remingtonhotels.com)** | **[Intern Associate - Legal](https://jobright.ai/jobs/info/68f2c9ac9a65fd3458581163?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Oct 17 |
 | **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/68f2ba8f9a63986de756ba95?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Oct 17 |
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Compliance & Privacy Intern](https://jobright.ai/jobs/info/68f2ba0c9a63986de756b9e2?utm_campaign=1055&utm_source=git)** | Ankeny, IA | Hybrid | Oct 17 |
 | **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/68f2b8179a63986de756b5a8?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Oct 17 |
@@ -99,6 +99,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f2881e76a51a4307bc4839?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Oct 17 |
 | **[UMB Bank](https://www.umb.com)** | **[Corporate Trust Intern](https://jobright.ai/jobs/info/68f2a50e76a51a4307bc5b29?utm_campaign=1055&utm_source=git)** | Phoenix AZ | Hybrid | Oct 17 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Legal Division I](https://jobright.ai/jobs/info/68f27f9e9a65fd345857d289?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Oct 17 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern - Regulatory Affairs - San Diego, CA - Summer 2026](https://jobright.ai/jobs/info/68f3127f76a51a4307bcac82?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
 | **[NYC Department of Finance](http://www.nyc.gov/html/dof/html/home/home.shtml)** | **[Attorney Intern, Parking Law](https://jobright.ai/jobs/info/68f2ab909a63986de756a566?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Oct 17 |
 | **[Equity Residential](http://equityapartments.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/68f278be9a65fd345857cea7?utm_campaign=1055&utm_source=git)** | 2 N Riverside Plaza, Chicago, IL, 60606, US | Hybrid | Oct 17 |
 | **[Fried Frank](http://www.friedfrank.com/)** | **[Paralegal/Financial Services Intern](https://jobright.ai/jobs/info/68f2754e76a51a4307bc3e7c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 17 |
@@ -114,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern - Professional Liability](https://jobright.ai/jobs/info/68c140cc3fd8b059a20ef1ab?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 17 |
 | **[WoodmenLife](https://www.woodmenlife.org/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68f22cdb65ce784c102eecaa?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Oct 17 |
 | **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[LEGAL OPERATIONS INTERN (Indianapolis)](https://jobright.ai/jobs/info/68d5b6072116ff37ee08fab9?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Oct 17 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68ccda7b5954791a1d6ffe6e?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 17 |
 | **[Bronx County District Attorney Office](https://www.bronxda.nyc.gov/html/home/home.shtml)** | **[Law School Summer (2L) Intern 2026](https://jobright.ai/jobs/info/68c65e9a7d0db411427391ec?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Oct 17 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office Business Administration Intern](https://jobright.ai/jobs/info/68d87ab6295f8e37655e7c69?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 17 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Risk & Compliance Management Undergraduate Intern](https://jobright.ai/jobs/info/68e20e4bf758fe1f97e57b3f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Oct 17 |
@@ -145,7 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Undergraduate Internship, Pro Bono Coordinating Team](https://jobright.ai/jobs/info/68f1966af462172a5a7da551?utm_campaign=1055&utm_source=git)** | Fully Remote | Remote | Oct 16 |
 | **[New York Civil Liberties Union](http://www.nyclu.org/)** | **[Summer 2026 Law Student Policy Internship](https://jobright.ai/jobs/info/68f19537f462172a5a7da2c9?utm_campaign=1055&utm_source=git)** | NYC HEADQUARTERS OFFICE 2 | Hybrid | Oct 16 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Global Trade Intern](https://jobright.ai/jobs/info/68f1950cf462172a5a7da257?utm_campaign=1055&utm_source=git)** | Fort Myers, FL | On Site | Oct 16 |
-| **[UNICEF](https://agora.unicef.org/)** | **[Ethics Office Intern (1 Year Part-Time)](https://jobright.ai/jobs/info/68f18c25e6870116b1f5a4fd?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Oct 16 |
+| **[UNICEF](https://agora.unicef.org/)** | **[Ethics Office Intern (1 Year Part-Time)](https://jobright.ai/jobs/info/68f18919f462172a5a7d9ae2?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Oct 16 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68f18881f462172a5a7d9a16?utm_campaign=1055&utm_source=git)** | Greenville, NC | On Site | Oct 16 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Legal Documentation Internship](https://jobright.ai/jobs/info/68f178a1f462172a5a7d8f51?utm_campaign=1055&utm_source=git)** | East Lansing, MI | On Site | Oct 16 |
 | ↳ | **[Legal and Regulatory Compliance Internship](https://jobright.ai/jobs/info/68f175bfe6870116b1f594f7?utm_campaign=1055&utm_source=git)** | East Lansing, MI | On Site | Oct 16 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[SpartanNash](https://www.spartannash.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68f15352e6870116b1f56f49?utm_campaign=1055&utm_source=git)** | Byron Center, MI | On Site | Oct 16 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68f14e8def766b3f0fd0b98a?utm_campaign=1055&utm_source=git)** | HY US Greenville, NC (Headquarters) | On Site | Oct 16 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/68f14b72e6870116b1f566c3?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 16 |
-| **[WIN Waste Innovations](https://www.win-waste.com)** | **[Summer Safety Internship](https://jobright.ai/jobs/info/68f145b6f462172a5a7d585a?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Oct 16 |
 | **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/68f14275ef766b3f0fd0abfd?utm_campaign=1055&utm_source=git)** | Austin, Texas, United States | On Site | Oct 16 |
+| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/68f1425be6870116b1f55ce7?utm_campaign=1055&utm_source=git)** | Austin, Texas, United States | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
