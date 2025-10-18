@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68f3f0809a63986de7573f79?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 18 |
+| ↳ | **[Contracts Intern](https://jobright.ai/jobs/info/68f3f07176a51a4307bcffe0?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Enterprise Risk Management - Strategy and Reporting)](https://jobright.ai/jobs/info/68bb78725f3832749186f627?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
 | ↳ | **[Summer Associate Internship (Fraud Analyst)](https://jobright.ai/jobs/info/68cdc29ee23def7af55beef4?utm_campaign=1055&utm_source=git)** | Pensacola, FL | Hybrid | Oct 18 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Control Management Risk Identification, Global Commercial Services - New York, NY](https://jobright.ai/jobs/info/68d7202bd3fe025a3015f194?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Regulatory Affairs Summer Intern](https://jobright.ai/jobs/info/68f1c87fef766b3f0fd12076?utm_campaign=1055&utm_source=git)** | Spring House, PA | Hybrid | Oct 16 |
 | **[New York Civil Liberties Union](http://www.nyclu.org/)** | **[Summer 2026 Law Student Policy Internship](https://jobright.ai/jobs/info/68f1be56e6870116b1f5cbbb?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 16 |
 | **[Lockton](https://global.lockton.com)** | **[Transaction Liability Intern](https://jobright.ai/jobs/info/68f1b223f462172a5a7db42c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 16 |
-| ↳ | **[National Surety Practice Intern](https://jobright.ai/jobs/info/68f1b0d3e6870116b1f5bfbd?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Oct 16 |
-| **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68f30ab176a51a4307bca4fd?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
