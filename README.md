@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Control Management Risk Identification, Global Commercial Services - New York, NY](https://jobright.ai/jobs/info/68d7202bd3fe025a3015f194?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Standards Compliance & Authorizations)](https://jobright.ai/jobs/info/68bb797d5f3832749186f73f?utm_campaign=1055&utm_source=git)** | Vienna, VA | On Site | Oct 18 |
+| **[AARP](http://www.aarp.org)** | **[Legal Intern](https://jobright.ai/jobs/info/68c28b218753a565272fb121?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 18 |
+| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Paralegal](https://jobright.ai/jobs/info/68d73a7dd3fe025a3015fbd7?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | Hybrid | Oct 18 |
+| **[Shure Incorporated](http://www.shure.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68bb80616105227d118a6727?utm_campaign=1055&utm_source=git)** | Niles, IL | Hybrid | Oct 18 |
+| ↳ | **[Trade Compliance Intern](https://jobright.ai/jobs/info/68cd4169b2a74e1837ed47cc?utm_campaign=1055&utm_source=git)** | Niles, IL | Hybrid | Oct 18 |
+| ↳ | **[Environmental Compliance Intern](https://jobright.ai/jobs/info/68ec61c9ee50895bd70b4449?utm_campaign=1055&utm_source=git)** | Niles, IL | Hybrid | Oct 18 |
+| **[Ibotta](https://home.ibotta.com)** | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d70a17894705799a2f0310?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Oct 18 |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Quality Management Internship](https://jobright.ai/jobs/info/68c6594cc96a22563eced8ba?utm_campaign=1055&utm_source=git)** | Dublin, OH | On Site | Oct 18 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/68bb3fee8043103d4f227044?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Oct 18 |
 | **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Law Clerk - Internship](https://jobright.ai/jobs/info/68d6ca96d3fe025a3015c12e?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | Hybrid | Oct 18 |
-| **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Internship Program - Compliance (St. Petersburg, FL)](https://jobright.ai/jobs/info/68ce41571ad6b16f028a358a?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | Hybrid | Oct 18 |
 | **[Everllence](www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Oct 18 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Appellate Public Defense Internship](https://jobright.ai/jobs/info/68f388b19a65fd34585874f8?utm_campaign=1055&utm_source=git)** | Oakland, CA | On Site | Oct 18 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Compliance, Public Securities Group](https://jobright.ai/jobs/info/68d748ebe5293e3538af391e?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 18 |
@@ -127,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Bronx County District Attorney Office](https://www.bronxda.nyc.gov/html/home/home.shtml)** | **[Law School Summer (2L) Intern 2026](https://jobright.ai/jobs/info/68c65e9a7d0db411427391ec?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Oct 17 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office Business Administration Intern](https://jobright.ai/jobs/info/68d87ab6295f8e37655e7c69?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 17 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Risk & Compliance Management Undergraduate Intern](https://jobright.ai/jobs/info/68e20e4bf758fe1f97e57b3f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Oct 17 |
+| **[Penguin Random House | 企鹅兰登](http://www.penguinrandomhouse.com)** | **[2026 Summer Remote Internship: Legal](https://jobright.ai/jobs/info/68f392bf9a65fd34585877e5?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Oct 17 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Personal Lines Claims Intern](https://jobright.ai/jobs/info/68f22177cb0abf15612f45c2?utm_campaign=1055&utm_source=git)** | Grandview Heights, OH | On Site | Oct 17 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Spring 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/68d6473a4736ff202fdd2093?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 17 |
 | **[Verizon](https://www.verizon.com)** | **[Verizon Legal Summer 2026 Internship - Rolling Meadows, IL](https://jobright.ai/jobs/info/68d5d7692116ff37ee090ac2?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | On Site | Oct 17 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[National Surety Practice Intern](https://jobright.ai/jobs/info/68f1b0d3e6870116b1f5bfbd?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Oct 16 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68f30ab176a51a4307bca4fd?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | On Site | Oct 16 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Global Regulatory Affairs Summer Intern](https://jobright.ai/jobs/info/68f1acb8ef766b3f0fd1087c?utm_campaign=1055&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Oct 16 |
-| ↳ | **[Global Regulatory Affairs Summer Intern](https://jobright.ai/jobs/info/68f1ac80e6870116b1f5b98c?utm_campaign=1055&utm_source=git)** | Spring House, Pennsylvania, United States of America | Hybrid | Oct 16 |
-| ↳ | **[Global Regulatory Affairs Summer Intern](https://jobright.ai/jobs/info/68f1ac18f462172a5a7db084?utm_campaign=1055&utm_source=git)** | Titusville, New Jersey, United States of America | Hybrid | Oct 16 |
-| **[Equity Residential](http://equityapartments.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/68f3079176a51a4307bca452?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 16 |
-| **[Metro Atlanta Chamber](http://www.metroatlantachamber.com/)** | **[PUBLIC POLICY LEGAL INTERN](https://jobright.ai/jobs/info/68f1a08af462172a5a7dab98?utm_campaign=1055&utm_source=git)** | Atlanta, GA, USA | On Site | Oct 16 |
-| **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Undergraduate Internship, Pro Bono Coordinating Team](https://jobright.ai/jobs/info/68f1966af462172a5a7da551?utm_campaign=1055&utm_source=git)** | Fully Remote | Remote | Oct 16 |
-| **[New York Civil Liberties Union](http://www.nyclu.org/)** | **[Summer 2026 Law Student Policy Internship](https://jobright.ai/jobs/info/68f19537f462172a5a7da2c9?utm_campaign=1055&utm_source=git)** | NYC HEADQUARTERS OFFICE 2 | Hybrid | Oct 16 |
-| **[Arthrex](https://www.arthrex.com/)** | **[Global Trade Intern](https://jobright.ai/jobs/info/68f1950cf462172a5a7da257?utm_campaign=1055&utm_source=git)** | Fort Myers, FL | On Site | Oct 16 |
-| **[UNICEF](https://agora.unicef.org/)** | **[Ethics Office Intern (1 Year Part-Time)](https://jobright.ai/jobs/info/68f18919f462172a5a7d9ae2?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Oct 16 |
-| **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68f18881f462172a5a7d9a16?utm_campaign=1055&utm_source=git)** | Greenville, NC | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
