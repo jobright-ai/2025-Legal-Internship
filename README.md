@@ -143,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Verizon](https://www.verizon.com)** | **[Verizon Legal Summer 2026 Internship - Rolling Meadows, IL](https://jobright.ai/jobs/info/68d5d7692116ff37ee090ac2?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | On Site | Oct 17 |
 | ↳ | **[Verizon Legal Internship - Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/68d5d7642116ff37ee090abd?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Oct 17 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/68f1f770e6870116b1f5f1e9?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 17 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs - JD / Dallas Summer 2026](https://jobright.ai/jobs/info/68ba83ec8043103d4f22131d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Oct 17 |
 | **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern - June 2026](https://jobright.ai/jobs/info/68b8d6b3ea901c0d269f9f72?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Oct 17 |
 | ↳ | **[Risk Solutions Intern - June 2026](https://jobright.ai/jobs/info/68cc43307342c7623ae61e7b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 17 |
 | **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Undergraduate Internship, Pro Bono Coordinating Team](https://jobright.ai/jobs/info/68f1fccfd2b6d776b5915afa?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Oct 17 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[New York Civil Liberties Union](http://www.nyclu.org/)** | **[Summer 2026 Law Student Policy Internship](https://jobright.ai/jobs/info/68f1be56e6870116b1f5cbbb?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 16 |
 | **[Lockton](https://global.lockton.com)** | **[Transaction Liability Intern](https://jobright.ai/jobs/info/68f1b223f462172a5a7db42c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 16 |
 | ↳ | **[National Surety Practice Intern](https://jobright.ai/jobs/info/68f1b0d3e6870116b1f5bfbd?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Oct 16 |
+| **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/68f30ab176a51a4307bca4fd?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
