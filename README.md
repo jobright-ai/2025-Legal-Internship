@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Audit/Compliance](https://jobright.ai/jobs/info/68bb46bd5f3832749186ded5?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Oct 19 |
 | **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68f3f0809a63986de7573f79?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 18 |
 | ↳ | **[Contracts Intern](https://jobright.ai/jobs/info/68f3f07176a51a4307bcffe0?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Enterprise Risk Management - Strategy and Reporting)](https://jobright.ai/jobs/info/68bb78725f3832749186f627?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
@@ -142,6 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Penguin Random House | 企鹅兰登](http://www.penguinrandomhouse.com)** | **[2026 Summer Remote Internship: Legal](https://jobright.ai/jobs/info/68f392bf9a65fd34585877e5?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Oct 17 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Personal Lines Claims Intern](https://jobright.ai/jobs/info/68f22177cb0abf15612f45c2?utm_campaign=1055&utm_source=git)** | Grandview Heights, OH | On Site | Oct 17 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Spring 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/68d6473a4736ff202fdd2093?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 17 |
+| **[WIN Waste Innovations](https://www.win-waste.com)** | **[Summer Safety Internship](https://jobright.ai/jobs/info/68f4c8d576a51a4307bd3983?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Oct 17 |
 | **[Verizon](https://www.verizon.com)** | **[Verizon Legal Summer 2026 Internship - Rolling Meadows, IL](https://jobright.ai/jobs/info/68d5d7692116ff37ee090ac2?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | On Site | Oct 17 |
 | ↳ | **[Verizon Legal Internship - Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/68d5d7642116ff37ee090abd?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Oct 17 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/68f1f770e6870116b1f5f1e9?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Global Regulatory Affairs Summer Intern](https://jobright.ai/jobs/info/68f1c990ef766b3f0fd120ed?utm_campaign=1055&utm_source=git)** | Raritan, NJ | Hybrid | Oct 16 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/68f1c98ff462172a5a7dc7da?utm_campaign=1055&utm_source=git)** | US DC Main Office | Hybrid | Oct 16 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Global Regulatory Affairs Summer Intern](https://jobright.ai/jobs/info/68f1c90ff462172a5a7dc75a?utm_campaign=1055&utm_source=git)** | Titusville, NJ | Hybrid | Oct 16 |
-| ↳ | **[Global Regulatory Affairs Summer Intern](https://jobright.ai/jobs/info/68f1c87fef766b3f0fd12076?utm_campaign=1055&utm_source=git)** | Spring House, PA | Hybrid | Oct 16 |
-| **[New York Civil Liberties Union](http://www.nyclu.org/)** | **[Summer 2026 Law Student Policy Internship](https://jobright.ai/jobs/info/68f1be56e6870116b1f5cbbb?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
