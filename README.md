@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Fraud Analyst)](https://jobright.ai/jobs/info/68cb8d9e9e3a822f5d2482ad?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Oct 19 |
+| **[Henkel](http://www.henkel.com)** | **[Sustainability & Regulatory Analysis Intern – Summer 2026](https://jobright.ai/jobs/info/68c29be1b535a221b153d668?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 19 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | Oct 19 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL | On Site | Oct 19 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a72b7a37c712687d3884?utm_campaign=1055&utm_source=git)** | Union, OH | On Site | Oct 19 |
@@ -129,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[UFC GYM](http://UFCGYM.com)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/68f2bf389a65fd3458580a59?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Oct 17 |
 | **[EarthRights International](https://www.earthrights.org/)** | **[U.S. Summer Legal Internship](https://jobright.ai/jobs/info/68f291859a65fd345857dada?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 17 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Health & Family Services - Office of Legal Services](https://jobright.ai/jobs/info/68f28b3676a51a4307bc49b2?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Oct 17 |
-| ↳ | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f2881e76a51a4307bc4839?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Oct 17 |
 | **[UMB Bank](https://www.umb.com)** | **[Corporate Trust Intern](https://jobright.ai/jobs/info/68f2a50e76a51a4307bc5b29?utm_campaign=1055&utm_source=git)** | Phoenix AZ | Hybrid | Oct 17 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Legal Division I](https://jobright.ai/jobs/info/68f27f9e9a65fd345857d289?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Oct 17 |
 | **[NYC Department of Finance](http://www.nyc.gov/html/dof/html/home/home.shtml)** | **[Attorney Intern, Parking Law](https://jobright.ai/jobs/info/68f2ab909a63986de756a566?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Oct 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Verizon](https://www.verizon.com)** | **[Verizon Legal Summer 2026 Internship - Rolling Meadows, IL](https://jobright.ai/jobs/info/68d5d7692116ff37ee090ac2?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | On Site | Oct 17 |
 | ↳ | **[Verizon Legal Internship - Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/68d5d7642116ff37ee090abd?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Oct 17 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/68f1f770e6870116b1f5f1e9?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 17 |
-| **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern - June 2026](https://jobright.ai/jobs/info/68b8d6b3ea901c0d269f9f72?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
