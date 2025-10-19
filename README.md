@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | Oct 19 |
+| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL | On Site | Oct 19 |
+| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a72b7a37c712687d3884?utm_campaign=1055&utm_source=git)** | Union, OH | On Site | Oct 19 |
+| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a71c7a37c712687d384c?utm_campaign=1055&utm_source=git)** | Stockton, CA | On Site | Oct 19 |
+| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7e7217a37c712687d6d3d?utm_campaign=1055&utm_source=git)** | West Deptford, NJ | On Site | Oct 19 |
+| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a5aa295f8e37655dffdb?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Oct 19 |
+| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a64d7796a83635f09901?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Oct 19 |
+| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Oct 19 |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/68cc282416d00d2beeb1aef8?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Oct 19 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Audit/Compliance](https://jobright.ai/jobs/info/68bb46bd5f3832749186ded5?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Oct 19 |
 | **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68f3f0809a63986de7573f79?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 18 |
 | ↳ | **[Contracts Intern](https://jobright.ai/jobs/info/68f3f07176a51a4307bcffe0?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 18 |
@@ -77,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Appellate Public Defense Internship](https://jobright.ai/jobs/info/68f388b19a65fd34585874f8?utm_campaign=1055&utm_source=git)** | Oakland, CA | On Site | Oct 18 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Compliance, Public Securities Group](https://jobright.ai/jobs/info/68d748ebe5293e3538af391e?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 18 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Intellectual Property Group – Intern](https://jobright.ai/jobs/info/68ba38a38043103d4f21eb3a?utm_campaign=1055&utm_source=git)** | Rahway, NJ | Hybrid | Oct 18 |
+| **[The Law Offices of Benjamin T. McLawhorn](www.mclawfirmnc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f26f449a65fd345857c9bb?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Oct 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Accessibility Compliance Analyst](https://jobright.ai/jobs/info/68f3639576a51a4307bcdfb6?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Oct 18 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Internship (Spring 2026)](https://jobright.ai/jobs/info/68f358c49a65fd34585867bd?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Oct 18 |
 | **[Meijer](https://www.meijer.com/)** | **[Asset Protection Intern- Summer 2026](https://jobright.ai/jobs/info/68f314a89a65fd3458583a86?utm_campaign=1055&utm_source=git)** | Grand Rapids, MI | On Site | Oct 17 |
@@ -128,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Philips](https://www.usa.philips.com)** | **[Intern - Regulatory Affairs - San Diego, CA - Summer 2026](https://jobright.ai/jobs/info/68f26d5a76a51a4307bc3ad3?utm_campaign=1055&utm_source=git)** | San Diego | On Site | Oct 17 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - New York, NY](https://jobright.ai/jobs/info/68f26489cb0abf15612f7219?utm_campaign=1055&utm_source=git)** | New York City, NY | On Site | Oct 17 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/68d8cbeaeed6e340d9e1dc9a?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
-| **[The Law Offices of Benjamin T. McLawhorn](www.mclawfirmnc.com)** | **[Legal Assistant](https://jobright.ai/jobs/info/68f26f449a65fd345857c9bb?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Oct 17 |
 | **[FM](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68c91186f9c6ff7aedf175b9?utm_campaign=1055&utm_source=git)** | Creve Coeur, MO | On Site | Oct 17 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Safety Compliance & Regulatory (Internship - Summer 2026)](https://jobright.ai/jobs/info/68f295f09a63986de75691d0?utm_campaign=1055&utm_source=git)** | Superior, MI | On Site | Oct 17 |
 | **[Verizon](https://www.verizon.com)** | **[Verizon Legal Summer 2026 Internship - Washington, D.C.](https://jobright.ai/jobs/info/68d5cc3a1f7fb2169ab13dc6?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 17 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Verizon Legal Internship - Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/68d5d7642116ff37ee090abd?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Oct 17 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/68f1f770e6870116b1f5f1e9?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 17 |
 | **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern - June 2026](https://jobright.ai/jobs/info/68b8d6b3ea901c0d269f9f72?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Oct 17 |
-| ↳ | **[Risk Solutions Intern - June 2026](https://jobright.ai/jobs/info/68cc43307342c7623ae61e7b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 17 |
-| **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Undergraduate Internship, Pro Bono Coordinating Team](https://jobright.ai/jobs/info/68f1fccfd2b6d776b5915afa?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Oct 17 |
-| **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/68f1f0d7f462172a5a7de495?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Oct 17 |
-| **[American Bankers Association](http://www.aba.com)** | **[Intern, Regulatory Policy Law Clerk](https://jobright.ai/jobs/info/68f1f02ff462172a5a7de3a9?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Oct 17 |
-| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Risk Management](https://jobright.ai/jobs/info/68f4880476a51a4307bd204f?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Oct 16 |
-| **[American Bankers Association](http://www.aba.com)** | **[Intern, Regulatory Policy Law Clerk](https://jobright.ai/jobs/info/68f1ca7cef766b3f0fd1212b?utm_campaign=1055&utm_source=git)** | US DC Main Office | Hybrid | Oct 16 |
-| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Global Regulatory Affairs Summer Intern](https://jobright.ai/jobs/info/68f1c990ef766b3f0fd120ed?utm_campaign=1055&utm_source=git)** | Raritan, NJ | Hybrid | Oct 16 |
-| **[American Bankers Association](http://www.aba.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/68f1c98ff462172a5a7dc7da?utm_campaign=1055&utm_source=git)** | US DC Main Office | Hybrid | Oct 16 |
-| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Global Regulatory Affairs Summer Intern](https://jobright.ai/jobs/info/68f1c90ff462172a5a7dc75a?utm_campaign=1055&utm_source=git)** | Titusville, NJ | Hybrid | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
