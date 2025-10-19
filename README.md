@@ -149,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Undergraduate Internship, Pro Bono Coordinating Team](https://jobright.ai/jobs/info/68f1fccfd2b6d776b5915afa?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Oct 17 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/68f1f0d7f462172a5a7de495?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Oct 17 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Regulatory Policy Law Clerk](https://jobright.ai/jobs/info/68f1f02ff462172a5a7de3a9?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Oct 17 |
+| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Risk Management](https://jobright.ai/jobs/info/68f4880476a51a4307bd204f?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Oct 16 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Regulatory Policy Law Clerk](https://jobright.ai/jobs/info/68f1ca7cef766b3f0fd1212b?utm_campaign=1055&utm_source=git)** | US DC Main Office | Hybrid | Oct 16 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Global Regulatory Affairs Summer Intern](https://jobright.ai/jobs/info/68f1c990ef766b3f0fd120ed?utm_campaign=1055&utm_source=git)** | Raritan, NJ | Hybrid | Oct 16 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/68f1c98ff462172a5a7dc7da?utm_campaign=1055&utm_source=git)** | US DC Main Office | Hybrid | Oct 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Regulatory Affairs Summer Intern](https://jobright.ai/jobs/info/68f1c87fef766b3f0fd12076?utm_campaign=1055&utm_source=git)** | Spring House, PA | Hybrid | Oct 16 |
 | **[New York Civil Liberties Union](http://www.nyclu.org/)** | **[Summer 2026 Law Student Policy Internship](https://jobright.ai/jobs/info/68f1be56e6870116b1f5cbbb?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 16 |
 | **[Lockton](https://global.lockton.com)** | **[Transaction Liability Intern](https://jobright.ai/jobs/info/68f1b223f462172a5a7db42c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 16 |
-| ↳ | **[National Surety Practice Intern](https://jobright.ai/jobs/info/68f1b0d3e6870116b1f5bfbd?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
