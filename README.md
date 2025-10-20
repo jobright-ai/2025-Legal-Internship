@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/68da38283c03cd327094481b?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 20 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - AI & Legal Compliance (Summer 2026)](https://jobright.ai/jobs/info/68da28a20b832179ca4aba0e?utm_campaign=1055&utm_source=git)** | Garland, TX | On Site | Oct 20 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern](https://jobright.ai/jobs/info/68f5f24576a51a4307bd79a6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 20 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Fraud Analyst)](https://jobright.ai/jobs/info/68cb8d9e9e3a822f5d2482ad?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Oct 19 |
 | **[Henkel](http://www.henkel.com)** | **[Sustainability & Regulatory Analysis Intern – Summer 2026](https://jobright.ai/jobs/info/68c29be1b535a221b153d668?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 19 |
@@ -90,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Appellate Public Defense Internship](https://jobright.ai/jobs/info/68f388b19a65fd34585874f8?utm_campaign=1055&utm_source=git)** | Oakland, CA | On Site | Oct 18 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Compliance, Public Securities Group](https://jobright.ai/jobs/info/68d748ebe5293e3538af391e?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 18 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Intellectual Property Group – Intern](https://jobright.ai/jobs/info/68ba38a38043103d4f21eb3a?utm_campaign=1055&utm_source=git)** | Rahway, NJ | Hybrid | Oct 18 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern - Regulatory Affairs - San Diego, CA - Summer 2026](https://jobright.ai/jobs/info/68f61ddf76a51a4307bd8552?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Accessibility Compliance Analyst](https://jobright.ai/jobs/info/68f3639576a51a4307bcdfb6?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Oct 18 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Internship (Spring 2026)](https://jobright.ai/jobs/info/68f358c49a65fd34585867bd?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Oct 18 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs - JD / Dallas Summer 2026](https://jobright.ai/jobs/info/68f5f7469a65fd3458590998?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Oct 18 |
@@ -134,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[UFC GYM](http://UFCGYM.com)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/68f2bf389a65fd3458580a59?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Oct 17 |
 | **[EarthRights International](https://www.earthrights.org/)** | **[U.S. Summer Legal Internship](https://jobright.ai/jobs/info/68f291859a65fd345857dada?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 17 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Health & Family Services - Office of Legal Services](https://jobright.ai/jobs/info/68f28b3676a51a4307bc49b2?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Oct 17 |
+| ↳ | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f2881e76a51a4307bc4839?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Oct 17 |
 | **[UMB Bank](https://www.umb.com)** | **[Corporate Trust Intern](https://jobright.ai/jobs/info/68f2a50e76a51a4307bc5b29?utm_campaign=1055&utm_source=git)** | Phoenix AZ | Hybrid | Oct 17 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Legal Division I](https://jobright.ai/jobs/info/68f27f9e9a65fd345857d289?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Oct 17 |
 | **[NYC Department of Finance](http://www.nyc.gov/html/dof/html/home/home.shtml)** | **[Attorney Intern, Parking Law](https://jobright.ai/jobs/info/68f2ab909a63986de756a566?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Oct 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[LEGAL OPERATIONS INTERN (Indianapolis)](https://jobright.ai/jobs/info/68d5b6072116ff37ee08fab9?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Oct 17 |
 | **[Bronx County District Attorney Office](https://www.bronxda.nyc.gov/html/home/home.shtml)** | **[Law School Summer (2L) Intern 2026](https://jobright.ai/jobs/info/68c65e9a7d0db411427391ec?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Oct 17 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office Business Administration Intern](https://jobright.ai/jobs/info/68d87ab6295f8e37655e7c69?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 17 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Risk & Compliance Management Undergraduate Intern](https://jobright.ai/jobs/info/68e20e4bf758fe1f97e57b3f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Oct 17 |
-| **[Penguin Random House | 企鹅兰登](http://www.penguinrandomhouse.com)** | **[2026 Summer Remote Internship: Legal](https://jobright.ai/jobs/info/68f392bf9a65fd34585877e5?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Oct 17 |
-| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Personal Lines Claims Intern](https://jobright.ai/jobs/info/68f22177cb0abf15612f45c2?utm_campaign=1055&utm_source=git)** | Grandview Heights, OH | On Site | Oct 17 |
-| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Spring 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/68d6473a4736ff202fdd2093?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
