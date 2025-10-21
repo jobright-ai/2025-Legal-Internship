@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A Safe Place](http://www.asafeplaceforhelp.org)** | **[Legal Advocacy Internship](https://jobright.ai/jobs/info/68f74957b0edcf159dc791f8?utm_campaign=1055&utm_source=git)** | Waukegan, IL | On Site | Oct 21 |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[State Intern](https://jobright.ai/jobs/info/68f747bbec6dbe7073fbb3d4?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Oct 21 |
+| **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[State Intern #251017-2552VR-001](https://jobright.ai/jobs/info/68f75128b0edcf159dc7a694?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Oct 21 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Legal and Regulatory Compliance Internship](https://jobright.ai/jobs/info/68f175bfe6870116b1f594f7?utm_campaign=1055&utm_source=git)** | East Lansing, MI | On Site | Oct 20 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Compliance Analyst - R10664](https://jobright.ai/jobs/info/68f6f72776a51a4307bdfbeb?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Oct 20 |
 | **[Southern Environmental Law Center](https://southernenvironment.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/68f6f0129a65fd3458598573?utm_campaign=1055&utm_source=git)** | Nashville, TN | Hybrid | Oct 20 |
@@ -114,20 +117,21 @@ For a complete list, click the following sortable link below:
 | **[FOLX Health](https://www.folxhealth.com)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/68f62daf76a51a4307bd8861?utm_campaign=1055&utm_source=git)** | Remote, US | Remote | Oct 20 |
 | **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Group Compliance Regulatory & Governance - NC](https://jobright.ai/jobs/info/68f5da1b76a51a4307bd6827?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Oct 20 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Compliance Branch Activities Intern- Summer 2026](https://jobright.ai/jobs/info/68f64e0e76a51a4307bd90e1?utm_campaign=1055&utm_source=git)** | US-MO-Saint Louis | On Site | Oct 20 |
-| ↳ | **[Compliance Intern- Summer 2026- Surveillance](https://jobright.ai/jobs/info/68f6521e9a65fd345859237c?utm_campaign=1055&utm_source=git)** | US-MD-Baltimore | On Site | Oct 20 |
-| ↳ | **[Compliance Intern - Summer 2026 - Regulatory Affairs](https://jobright.ai/jobs/info/68f687f376a51a4307bdb291?utm_campaign=1055&utm_source=git)** | US-MO-Saint Louis | On Site | Oct 20 |
 | ↳ | **[Compliance-Branch Activities Intern](https://jobright.ai/jobs/info/68f651759a63986de757d2e4?utm_campaign=1055&utm_source=git)** | US-MO-Saint Louis | On Site | Oct 20 |
 | ↳ | **[Compliance Intern - Summer 2026 - AML](https://jobright.ai/jobs/info/68f651469a65fd3458592244?utm_campaign=1055&utm_source=git)** | US-MO-Saint Louis | On Site | Oct 20 |
-| ↳ | **[Enterprise Risk Management Intern- Summer 2026](https://jobright.ai/jobs/info/68f6861f9a65fd3458593dc9?utm_campaign=1055&utm_source=git)** | US-MO-Saint Louis | On Site | Oct 20 |
+| ↳ | **[Compliance Intern- Summer 2026- Surveillance](https://jobright.ai/jobs/info/68f6521e9a65fd345859237c?utm_campaign=1055&utm_source=git)** | US-MD-Baltimore | On Site | Oct 20 |
+| ↳ | **[Compliance Intern - Summer 2026 - Regulatory Affairs](https://jobright.ai/jobs/info/68f687f376a51a4307bdb291?utm_campaign=1055&utm_source=git)** | US-MO-Saint Louis | On Site | Oct 20 |
 | ↳ | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/68f650e99a63986de757d22e?utm_campaign=1055&utm_source=git)** | US-MO-Saint Louis | On Site | Oct 20 |
 | ↳ | **[Compliance Intern - Summer 2026 - AML Fraud](https://jobright.ai/jobs/info/68f6528a9a65fd3458592424?utm_campaign=1055&utm_source=git)** | US-MO-Saint Louis | On Site | Oct 20 |
 | ↳ | **[Compliance Intern- Summer 2026- Licensing & Registration](https://jobright.ai/jobs/info/68f652319a63986de757d3e3?utm_campaign=1055&utm_source=git)** | US-MO-Saint Louis | On Site | Oct 20 |
+| ↳ | **[Enterprise Risk Management Intern- Summer 2026](https://jobright.ai/jobs/info/68f6861f9a65fd3458593dc9?utm_campaign=1055&utm_source=git)** | US-MO-Saint Louis | On Site | Oct 20 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/68da38283c03cd327094481b?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 20 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - AI & Legal Compliance (Summer 2026)](https://jobright.ai/jobs/info/68da28a20b832179ca4aba0e?utm_campaign=1055&utm_source=git)** | Garland, TX | On Site | Oct 20 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern](https://jobright.ai/jobs/info/68f5f24576a51a4307bd79a6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 20 |
+| **[State of North Dakota](https://www.nd.gov/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/68f74730ec6dbe7073fbb337?utm_campaign=1055&utm_source=git)** | Bismarck, ND | Hybrid | Oct 19 |
 | **[LatinoJustice PRLDEF](https://www.latinojustice.org/en)** | **[Summer 2026 Legal Internship - Headquarters](https://jobright.ai/jobs/info/68f6574976a51a4307bd98ba?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 19 |
-| **[Equity Residential](http://equityapartments.com)** | **[Contract Administrator Intern - Augusta, GA](https://jobright.ai/jobs/info/68f6e10776a51a4307bdf140?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Oct 19 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68f6e2c49a63986de75832b4?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Oct 19 |
+| **[Equity Residential](http://equityapartments.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f6e2c49a63986de75832b4?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Oct 19 |
+| ↳ | **[Contract Administrator Intern - Augusta, GA](https://jobright.ai/jobs/info/68f6e10776a51a4307bdf140?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Oct 19 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Legal Intern](https://jobright.ai/jobs/info/68f6b6c19a65fd345859673c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Fraud Analyst)](https://jobright.ai/jobs/info/68cb8d9e9e3a822f5d2482ad?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Oct 19 |
 | **[Henkel](http://www.henkel.com)** | **[Sustainability & Regulatory Analysis Intern – Summer 2026](https://jobright.ai/jobs/info/68c29be1b535a221b153d668?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shure Incorporated](http://www.shure.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68bb80616105227d118a6727?utm_campaign=1055&utm_source=git)** | Niles, IL | Hybrid | Oct 18 |
 | ↳ | **[Trade Compliance Intern](https://jobright.ai/jobs/info/68cd4169b2a74e1837ed47cc?utm_campaign=1055&utm_source=git)** | Niles, IL | Hybrid | Oct 18 |
 | ↳ | **[Environmental Compliance Intern](https://jobright.ai/jobs/info/68ec61c9ee50895bd70b4449?utm_campaign=1055&utm_source=git)** | Niles, IL | Hybrid | Oct 18 |
-| **[Ibotta](https://home.ibotta.com)** | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d70a17894705799a2f0310?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Oct 18 |
-| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Quality Management Internship](https://jobright.ai/jobs/info/68c6594cc96a22563eced8ba?utm_campaign=1055&utm_source=git)** | Dublin, OH | On Site | Oct 18 |
-| **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/68bb3fee8043103d4f227044?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Oct 18 |
-| **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Law Clerk - Internship](https://jobright.ai/jobs/info/68d6ca96d3fe025a3015c12e?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | Hybrid | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
