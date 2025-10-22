@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f73bcadb2e5a06a5e8c0?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Oct 22 |
+| **[Unilever](http://www.unilever.com)** | **[Unilever US Summer Intern Program - Litigation & Business Integrity Legal Intern](https://jobright.ai/jobs/info/68f8e8374bafad6d2d766129?utm_campaign=1055&utm_source=git)** | Hoboken, NJ | On Site | Oct 22 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[2026 Business Risk Management, Summer Internship](https://jobright.ai/jobs/info/68dce3bda125e75c422a6b2e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | **[American Tower](https://www.americantower.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68c9fe1cf61c922772a71b88?utm_campaign=1055&utm_source=git)** | Woburn, MA | Hybrid | Oct 22 |
 | **[Kemin Industries](http://www.kemin.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68ec5fadee50895bd70b3b0c?utm_campaign=1055&utm_source=git)** | Des Moines, IA | On Site | Oct 22 |
@@ -112,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Corporate Legal Intern](https://jobright.ai/jobs/info/68db0f7f6df7b8311bb15cdb?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Oct 21 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern](https://jobright.ai/jobs/info/68f78d9c5dc1be60128159a5?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 21 |
 | **[First Internet Bank](https://www.firstib.com)** | **[Fraud Operations Intern](https://jobright.ai/jobs/info/68bf2e378e65e77df55b7ee7?utm_campaign=1055&utm_source=git)** | Fishers, IN | On Site | Oct 21 |
-| **[Metropolis Technologies](http://www.metropolis.io)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/68bf498b702aa35207aa52b6?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Oct 21 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern (Spring)](https://jobright.ai/jobs/info/68f7885e5dc1be60128152b9?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 21 |
 | **[Endress+Hauser Group](https://ro.endress.com)** | **[2026 Summer Legal Internship](https://jobright.ai/jobs/info/68ccf73fd11b445e0bee523d?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Oct 21 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f83e54a628d10664e80c70?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Oct 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TopBuild](http://www.topbuild.com)** | **[Intern- Legal](https://jobright.ai/jobs/info/68f68e339a63986de757f712?utm_campaign=1055&utm_source=git)** | Daytona Beach, FL | On Site | Oct 20 |
 | **[Golub Capital](http://golubcapital.com)** | **[Operational Risk Management Intern](https://jobright.ai/jobs/info/68f6898276a51a4307bdb4d2?utm_campaign=1055&utm_source=git)** | Chicago | Hybrid | Oct 20 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Conduct Risk Compliance](https://jobright.ai/jobs/info/68f689719a63986de757f408?utm_campaign=1055&utm_source=git)** | Raleigh, North Carolina | Hybrid | Oct 20 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Spring 2026 Intern - Legal (Music)](https://jobright.ai/jobs/info/68f688449a63986de757f1f9?utm_campaign=1055&utm_source=git)** | New York, NY, USA | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
