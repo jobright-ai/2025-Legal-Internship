@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Spring 2026 Litigation Intern](https://jobright.ai/jobs/info/68f948f06de2db04dc3e7c80?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 22 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68f93441a628d10664e8a5be?utm_campaign=1055&utm_source=git)** | Colorado | On Site | Oct 22 |
 | **[Van Subaru](http://www.vansubaru.com)** | **[INTERN - Legal](https://jobright.ai/jobs/info/68f92e1ccadb2e5a06a62120?utm_campaign=1055&utm_source=git)** | Camden, NJ, United States | On Site | Oct 22 |
 | **[League of Women Voters](https://www.lwv.org/)** | **[Legal Internship](https://jobright.ai/jobs/info/68f92dbc6de2db04dc3e6528?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Compliance Intern - Summer 2026 - AML Fraud](https://jobright.ai/jobs/info/68f6b89c76a51a4307bdda70?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Oct 20 |
 | **[EVE Energy Co.,Ltd.](http://m.evebattery.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68f6b89276a51a4307bdda61?utm_campaign=1055&utm_source=git)** | Lake Forest, CA | On Site | Oct 20 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Compliance Branch Activities Intern- Summer 2026](https://jobright.ai/jobs/info/68f6b66f9a65fd34585966ff?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Oct 20 |
-| ↳ | **[Compliance Intern - Summer 2026 - Regulatory Affairs](https://jobright.ai/jobs/info/68f6b6679a65fd34585966f5?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
