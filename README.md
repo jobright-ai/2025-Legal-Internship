@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern - Winter 2025/2026](https://jobright.ai/jobs/info/68f808df5dc1be6012820766?utm_campaign=1055&utm_source=git)** | HQ - San Diego, CA | On Site | Oct 21 |
+| **[Protiviti](http://www.protiviti.com)** | **[Minneapolis Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68f801a4ec6dbe7073fd03d4?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 21 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Merchant Services Risk](https://jobright.ai/jobs/info/68f7ff105dc1be601281fd6a?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Oct 21 |
-| **[National Basketball Association (NBA)](http://www.nba.com)** | **[Graduate - Legal Intern](https://jobright.ai/jobs/info/68f7fd48ec6dbe7073fcfc1b?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 21 |
 | **[Protiviti](http://www.protiviti.com)** | **[Cincinnati Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68f7fc5fec6dbe7073fcfaa0?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 21 |
 | **[Inmar Intelligence](http://www.inmar.com)** | **[Regulatory & Compliance Investigations Intern, Summer 2026](https://jobright.ai/jobs/info/68f7fbdf5dc1be601281f885?utm_campaign=1055&utm_source=git)** | Grand Prairie, TX | On Site | Oct 21 |
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/68f7fa06ec6dbe7073fcf70b?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Oct 21 |
@@ -80,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f7de1db0edcf159dc8ac92?utm_campaign=1055&utm_source=git)** | Woodland Hills, CA | On Site | Oct 21 |
 | **[Unilever](http://www.unilever.com)** | **[Unilever US Summer Intern Program - Litigation & Business Integrity Legal Intern](https://jobright.ai/jobs/info/68f7dd0db0edcf159dc8aa5d?utm_campaign=1055&utm_source=git)** | Hoboken US HQ | Hybrid | Oct 21 |
 | **[Arapahoe County](https://www.arapahoegov.com)** | **[Spring (2026) 2L Legal Internship](https://jobright.ai/jobs/info/68f7db35b0edcf159dc8a706?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Oct 21 |
+| **[New York City Anti-Violence Project](https://avp.org/)** | **[Spring Semester Legal Internship](https://jobright.ai/jobs/info/68f80ccd5dc1be6012820857?utm_campaign=1055&utm_source=git)** | New York, New York, United States | Hybrid | Oct 21 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Democracy Legal Internship, NY](https://jobright.ai/jobs/info/68e24fd6b99ec3563b0dc242?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 21 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Economic Development - Compliance Division](https://jobright.ai/jobs/info/68f7c9b9ec6dbe7073fcbbad?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Oct 21 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, Complex Claims Unit](https://jobright.ai/jobs/info/68f7e4e1ec6dbe7073fcdd3a?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Oct 21 |
@@ -112,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Southern Environmental Law Center](https://southernenvironment.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/68f6f0129a65fd3458598573?utm_campaign=1055&utm_source=git)** | Nashville, TN | Hybrid | Oct 20 |
 | ↳ | **[Summer Legal Intern](https://jobright.ai/jobs/info/68f6efcf9a63986de75838dc?utm_campaign=1055&utm_source=git)** | Birmingham, AL | Hybrid | Oct 20 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Intern (Criminal Division)](https://jobright.ai/jobs/info/68e71e6de8daec61499b276b?utm_campaign=1055&utm_source=git)** | New Brunswick, NJ | Hybrid | Oct 20 |
+| **[State of Florida](http://www.myflorida.com)** | **[OPS CONSUMER COMPLAINT ANALYST - 41901949](https://jobright.ai/jobs/info/68f801935dc1be60128201e1?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Oct 20 |
 | **[Roc Nation](http://rocnation.com)** | **[Spring 2026 Intern - Legal (Music)](https://jobright.ai/jobs/info/68f6c5899a65fd345859710b?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 20 |
 | **[Intuit](https://www.intuit.com)** | **[Fraud and Risk Intern](https://jobright.ai/jobs/info/68f6c2379a63986de7582225?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Oct 20 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Legal Documentation Internship](https://jobright.ai/jobs/info/68f178a1f462172a5a7d8f51?utm_campaign=1055&utm_source=git)** | East Lansing, MI | On Site | Oct 20 |
@@ -131,7 +134,7 @@ For a complete list, click the following sortable link below:
 | **[Seagate Technology](http://www.seagate.com)** | **[Risk Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f6a63a76a51a4307bdcc5b?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Oct 20 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/68f6a1569a63986de758086b?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 20 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68f69dec9a63986de7580511?utm_campaign=1055&utm_source=git)** | Boulder, CO | On Site | Oct 20 |
-| **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/68f69cb676a51a4307bdc3fd?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Oct 20 |
+| **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/68f69cfd9a65fd34585952f2?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Oct 20 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Compliance Analyst](https://jobright.ai/jobs/info/68f69aaf9a63986de758027e?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Oct 20 |
 | **[Agropur](http://www.agropur.com/en/)** | **[Loss Prevention Intern](https://jobright.ai/jobs/info/68d49e24fcd3367e8df16437?utm_campaign=1055&utm_source=git)** | Wisconsin, United States | On Site | Oct 20 |
 | **[Zekelman Industries](http://www.zekelman.com)** | **[Risk and Compliance, Intern](https://jobright.ai/jobs/info/68f699779a65fd3458594f81?utm_campaign=1055&utm_source=git)** | Chandler, AZ | On Site | Oct 20 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Specialty Claims Summer Intern](https://jobright.ai/jobs/info/68f680d79a65fd3458593b9c?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 20 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Health & Family Services - Office of Legal Services](https://jobright.ai/jobs/info/68f28b3676a51a4307bc49b2?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Oct 20 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Law School/Legal](https://jobright.ai/jobs/info/68f67a9a76a51a4307bdab3b?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Oct 20 |
-| **[Avania](https://www.avaniaclinical.com/)** | **[Regulatory & Market Access Intern x2](https://jobright.ai/jobs/info/68f7fab5ec6dbe7073fcf85a?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Oct 20 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Litigation Intern](https://jobright.ai/jobs/info/68f66be39a65fd3458593256?utm_campaign=1055&utm_source=git)** | Cary, NC | Remote | Oct 20 |
 | **[TopBuild](http://www.topbuild.com)** | **[Intern- Legal](https://jobright.ai/jobs/info/68f665db76a51a4307bd9f0e?utm_campaign=1055&utm_source=git)** | Daytona Beach, FL - Corp. Headquarters | On Site | Oct 20 |
 | **[Lawyering Project](https://lawyeringproject.org)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68f659be9a65fd3458592903?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 20 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/68f6594c9a65fd3458592883?utm_campaign=1055&utm_source=git)** | Washington DC | Hybrid | Oct 20 |
 | **[City of Chicago Department of Law](https://www.chicago.gov/city/en/depts/dol.html)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/68f6590f9a63986de757d9ae?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 20 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/68f657e09a63986de757d839?utm_campaign=1055&utm_source=git)** | Remote - US Home | Remote | Oct 20 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68f6560d76a51a4307bd97bd?utm_campaign=1055&utm_source=git)** | Boulder | Hybrid | Oct 20 |
-| **[Sompo](https://www.sompo-intl.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/68f655fb76a51a4307bd97ad?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
