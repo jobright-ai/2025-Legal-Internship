@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Waystar](http://www.waystar.com)** | **[Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/68c0ce37702aa35207ab0962?utm_campaign=1055&utm_source=git)** | Duluth, GA | Hybrid | Oct 22 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68f87e044bafad6d2d763375?utm_campaign=1055&utm_source=git)** | Avon, CT | On Site | Oct 22 |
+| **[Unilever](http://www.unilever.com)** | **[Unilever US Summer Intern Program - Litigation & Business Integrity Legal Intern](https://jobright.ai/jobs/info/68f89da04bafad6d2d764756?utm_campaign=1055&utm_source=git)** | Hoboken, NJ | Hybrid | Oct 22 |
+| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/68f893b34bafad6d2d764283?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Oct 22 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern - Winter 2025/2026](https://jobright.ai/jobs/info/68f839496de2db04dc3dcdf6?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 21 |
 | **[FM](https://www.fmglobal.com)** | **[Claims intern](https://jobright.ai/jobs/info/68f830ec5dc1be6012821a79?utm_campaign=1055&utm_source=git)** | US-NJ-Parsippany | On Site | Oct 21 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern - Winter 2025/2026](https://jobright.ai/jobs/info/68f808df5dc1be6012820766?utm_campaign=1055&utm_source=git)** | HQ - San Diego, CA | On Site | Oct 21 |
@@ -135,10 +139,9 @@ For a complete list, click the following sortable link below:
 | **[Seagate Technology](http://www.seagate.com)** | **[Risk Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f6a63a76a51a4307bdcc5b?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Oct 20 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/68f6a1569a63986de758086b?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 20 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68f69dec9a63986de7580511?utm_campaign=1055&utm_source=git)** | Boulder, CO | On Site | Oct 20 |
-| **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/68f69cb676a51a4307bdc3fd?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Oct 20 |
+| **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/68f69cfd9a65fd34585952f2?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Oct 20 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Compliance Analyst](https://jobright.ai/jobs/info/68f69aaf9a63986de758027e?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Oct 20 |
 | **[Agropur](http://www.agropur.com/en/)** | **[Loss Prevention Intern](https://jobright.ai/jobs/info/68d49e24fcd3367e8df16437?utm_campaign=1055&utm_source=git)** | Wisconsin, United States | On Site | Oct 20 |
-| **[Zekelman Industries](http://www.zekelman.com)** | **[Risk and Compliance, Intern](https://jobright.ai/jobs/info/68f699779a65fd3458594f81?utm_campaign=1055&utm_source=git)** | Chandler, AZ | On Site | Oct 20 |
 | **[TopBuild](http://www.topbuild.com)** | **[Intern- Legal](https://jobright.ai/jobs/info/68f68e339a63986de757f712?utm_campaign=1055&utm_source=git)** | Daytona Beach, FL | On Site | Oct 20 |
 | **[Golub Capital](http://golubcapital.com)** | **[Operational Risk Management Intern](https://jobright.ai/jobs/info/68f6898276a51a4307bdb4d2?utm_campaign=1055&utm_source=git)** | Chicago | Hybrid | Oct 20 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Conduct Risk Compliance](https://jobright.ai/jobs/info/68f689719a63986de757f408?utm_campaign=1055&utm_source=git)** | Raleigh, North Carolina | Hybrid | Oct 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Law School/Legal](https://jobright.ai/jobs/info/68f67a9a76a51a4307bdab3b?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Oct 20 |
 | **[Avania](https://www.avaniaclinical.com/)** | **[Regulatory & Market Access Intern x2](https://jobright.ai/jobs/info/68f882496de2db04dc3dfd01?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Oct 20 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Litigation Intern](https://jobright.ai/jobs/info/68f66be39a65fd3458593256?utm_campaign=1055&utm_source=git)** | Cary, NC | Remote | Oct 20 |
-| **[TopBuild](http://www.topbuild.com)** | **[Intern- Legal](https://jobright.ai/jobs/info/68f665db76a51a4307bd9f0e?utm_campaign=1055&utm_source=git)** | Daytona Beach, FL - Corp. Headquarters | On Site | Oct 20 |
-| **[Lawyering Project](https://lawyeringproject.org)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68f659be9a65fd3458592903?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 20 |
-| **[Environmental Defense Fund](http://www.edf.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/68f6594c9a65fd3458592883?utm_campaign=1055&utm_source=git)** | Washington DC | Hybrid | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
