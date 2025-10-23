@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Black & Veatch](http://bv.com/Home)** | **[Governance, Risk and Compliance Intern - D&IT](https://jobright.ai/jobs/info/68f9a4676de2db04dc3eae11?utm_campaign=1055&utm_source=git)** | Cary, NC | Hybrid | Oct 22 |
+| **[PCL Construction](http://www.pcl.com)** | **[Legal Intern Summer 2026](https://jobright.ai/jobs/info/68f99afea628d10664e8e4ac?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Oct 22 |
+| **[Sealaska](http://www.sealaska.com/)** | **[Corporate Contracts Intern (THTBC) - Summer 2026](https://jobright.ai/jobs/info/68f99354cadb2e5a06a65e71?utm_campaign=1055&utm_source=git)** | Sealaska Corporation, One Sealaska Plaza, Juneau, Alaska, United States of America | Hybrid | Oct 22 |
+| ↳ | **[Corporate Contracts Intern (THTBC) - Summer 2026](https://jobright.ai/jobs/info/68f98c50cadb2e5a06a65b79?utm_campaign=1055&utm_source=git)** | Juneau, AK | On Site | Oct 22 |
 | **[Illumio](http://www.illumio.com)** | **[Security and Compliance Analyst Intern](https://jobright.ai/jobs/info/68eda5a870b66e2345d3fb0c?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | On Site | Oct 22 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Third Party Risk Management Intern](https://jobright.ai/jobs/info/68f9759acadb2e5a06a64fb2?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Oct 22 |
 | ↳ | **[Privacy Compliance Intern](https://jobright.ai/jobs/info/68f97572cadb2e5a06a64fa3?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Oct 22 |
-| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Client Management Summer Intern](https://jobright.ai/jobs/info/68f96d51cadb2e5a06a64c96?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Oct 22 |
 | **[Concord Group Insurance](http://concordgroupinsurance.com)** | **[Claims Adjuster Intern](https://jobright.ai/jobs/info/68f967b6a628d10664e8cbfe?utm_campaign=1055&utm_source=git)** | Bedford, NH | On Site | Oct 22 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Associate Underwriting Intern](https://jobright.ai/jobs/info/68f9606a6de2db04dc3e8d5d?utm_campaign=1055&utm_source=git)** | IL - Chicago | Hybrid | Oct 22 |
 | ↳ | **[Early Careers – Associate Underwriting Intern](https://jobright.ai/jobs/info/68f95b62a628d10664e8c697?utm_campaign=1055&utm_source=git)** | IL - Downers Grove | Hybrid | Oct 22 |
@@ -94,8 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/68d0150afb49c96ca6eade34?utm_campaign=1055&utm_source=git)** | Richmond, VA | Remote | Oct 22 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Law Clerk](https://jobright.ai/jobs/info/68dce289a125e75c422a699e?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Oct 22 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - St. Petersburg, FL CLC](https://jobright.ai/jobs/info/68e8f70f65768b6412b179d9?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | Hybrid | Oct 22 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2026 Legal Intern - Norfolk, VA](https://jobright.ai/jobs/info/68f8fdb7a628d10664e875f7?utm_campaign=1055&utm_source=git)** | Norfolk, VA | On Site | Oct 22 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Orlando, FL CLC](https://jobright.ai/jobs/info/68bf7a2a702aa35207aa68b4?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Oct 22 |
+| ↳ | **[Summer 2026 Intern - Law - Orlando, FL CLC](https://jobright.ai/jobs/info/68bf7a2a702aa35207aa68b4?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Oct 22 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68ef456478ba1621431dc1f7?utm_campaign=1055&utm_source=git)** | Greater Indianapolis | Hybrid | Oct 22 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7c69a125e75c422a11a3?utm_campaign=1055&utm_source=git)** | Avon, CT | On Site | Oct 22 |
 | **[Waystar](http://www.waystar.com)** | **[Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/68c0ce37702aa35207ab0962?utm_campaign=1055&utm_source=git)** | Duluth, GA | Hybrid | Oct 22 |
@@ -137,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/68f7a917ec6dbe7073fc8d02?utm_campaign=1055&utm_source=git)** | California, United States | On Site | Oct 21 |
 | **[Research Innovations Incorporated](https://www.researchinnovations.com/)** | **[Information Assurance Intern Summer 2026 (Corp199)](https://jobright.ai/jobs/info/68f7a74a5dc1be60128182ea?utm_campaign=1055&utm_source=git)** | San Antonio, FL | Hybrid | Oct 21 |
 | **[The Chemours Company](https://www.chemours.com)** | **[Product Stewardship and Regulatory Compliance Intern](https://jobright.ai/jobs/info/68f7994cec6dbe7073fc730d?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Oct 21 |
-| **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Corporate Legal Intern](https://jobright.ai/jobs/info/68db0f7f6df7b8311bb15cdb?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Oct 21 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern](https://jobright.ai/jobs/info/68f78d9c5dc1be60128159a5?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 21 |
 | **[First Internet Bank](https://www.firstib.com)** | **[Fraud Operations Intern](https://jobright.ai/jobs/info/68bf2e378e65e77df55b7ee7?utm_campaign=1055&utm_source=git)** | Fishers, IN | On Site | Oct 21 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern (Spring)](https://jobright.ai/jobs/info/68f7885e5dc1be60128152b9?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Compliance Analyst - R10664](https://jobright.ai/jobs/info/68f6f72776a51a4307bdfbeb?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Oct 20 |
 | **[Southern Environmental Law Center](https://southernenvironment.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/68f6f0129a65fd3458598573?utm_campaign=1055&utm_source=git)** | Nashville, TN | Hybrid | Oct 20 |
 | ↳ | **[Summer Legal Intern](https://jobright.ai/jobs/info/68f6efcf9a63986de75838dc?utm_campaign=1055&utm_source=git)** | Birmingham, AL | Hybrid | Oct 20 |
-| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Intern (Criminal Division)](https://jobright.ai/jobs/info/68e71e6de8daec61499b276b?utm_campaign=1055&utm_source=git)** | New Brunswick, NJ | Hybrid | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
