@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fa8555b2c86843bf20ea2c?utm_campaign=1055&utm_source=git)** | TX - Dallas | Hybrid | Oct 23 |
+| ↳ | **[Risk Control Property Intern](https://jobright.ai/jobs/info/68fa852d67272b29af73047a?utm_campaign=1055&utm_source=git)** | CA - Walnut Creek | Hybrid | Oct 23 |
+| ↳ | **[Risk Control Property Intern](https://jobright.ai/jobs/info/68fa84bfb2c86843bf20e956?utm_campaign=1055&utm_source=git)** | TX - Dallas | Hybrid | Oct 23 |
+| ↳ | **[Risk Control Property Intern](https://jobright.ai/jobs/info/68fa842bedd190144238d77a?utm_campaign=1055&utm_source=git)** | CT - Hartford | Hybrid | Oct 23 |
+| **[City of Seattle](http://www.seattle.gov/)** | **[Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/68d32740f0d9af73038df6b0?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Oct 23 |
+| **[American Family Insurance](http://amfamventures.com/)** | **[2026 Summer Internship - Litigation Department](https://jobright.ai/jobs/info/68fa7cedb2c86843bf20e0f9?utm_campaign=1055&utm_source=git)** | CA Los Angeles | Hybrid | Oct 23 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Material Damage Claims Intern - Summer 2026](https://jobright.ai/jobs/info/68fa5f7e7959161d33e62858?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Oct 23 |
+| **[Democracy Forward](https://democracyforward.org)** | **[Legal Internship Summer 2026](https://jobright.ai/jobs/info/68fa6afc7959161d33e63272?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 23 |
 | **[Utz Brands, Inc.](http://www.utzsnacks.com/)** | **[Regulatory Intern: Part Time](https://jobright.ai/jobs/info/68a50cce758f2e4ac3fdb80d?utm_campaign=1055&utm_source=git)** | State College, PA | On Site | Oct 23 |
 | **[MBX Biosciences, Inc.](https://www.mbxbio.com)** | **[Regulatory Affairs Fellow](https://jobright.ai/jobs/info/68dd9ca5ddc10244dd681fe0?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 23 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68fa36e67959161d33e60caf?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 23 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Research Innovations Incorporated](https://www.researchinnovations.com/)** | **[Information Assurance  Intern Summer 2026 (Corp199)](https://jobright.ai/jobs/info/68f7a95eb0edcf159dc85d7f?utm_campaign=1055&utm_source=git)** | St. Pete, FL | Hybrid | Oct 21 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Legal (Summer 2026)](https://jobright.ai/jobs/info/68dae27507c157682e56ef28?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Oct 21 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/68f7a917ec6dbe7073fc8d02?utm_campaign=1055&utm_source=git)** | California, United States | On Site | Oct 21 |
-| **[Research Innovations Incorporated](https://www.researchinnovations.com/)** | **[Information Assurance Intern Summer 2026 (Corp199)](https://jobright.ai/jobs/info/68f7a74a5dc1be60128182ea?utm_campaign=1055&utm_source=git)** | San Antonio, FL | Hybrid | Oct 21 |
-| **[The Chemours Company](https://www.chemours.com)** | **[Product Stewardship and Regulatory Compliance Intern](https://jobright.ai/jobs/info/68f7994cec6dbe7073fc730d?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Oct 21 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern](https://jobright.ai/jobs/info/68f78d9c5dc1be60128159a5?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 21 |
-| **[First Internet Bank](https://www.firstib.com)** | **[Fraud Operations Intern](https://jobright.ai/jobs/info/68bf2e378e65e77df55b7ee7?utm_campaign=1055&utm_source=git)** | Fishers, IN | On Site | Oct 21 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern (Spring)](https://jobright.ai/jobs/info/68f7885e5dc1be60128152b9?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 21 |
-| **[Endress+Hauser Group](https://ro.endress.com)** | **[2026 Summer Legal Internship](https://jobright.ai/jobs/info/68ccf73fd11b445e0bee523d?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Oct 21 |
-| **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f83e54a628d10664e80c70?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
