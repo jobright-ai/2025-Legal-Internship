@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Illumio](http://www.illumio.com)** | **[Security and Compliance Analyst Intern](https://jobright.ai/jobs/info/68eda5a870b66e2345d3fb0c?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | On Site | Oct 22 |
+| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Third Party Risk Management Intern](https://jobright.ai/jobs/info/68f9759acadb2e5a06a64fb2?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Oct 22 |
+| ↳ | **[Privacy Compliance Intern](https://jobright.ai/jobs/info/68f97572cadb2e5a06a64fa3?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Oct 22 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Client Management Summer Intern](https://jobright.ai/jobs/info/68f96d51cadb2e5a06a64c96?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Oct 22 |
 | **[Concord Group Insurance](http://concordgroupinsurance.com)** | **[Claims Adjuster Intern](https://jobright.ai/jobs/info/68f967b6a628d10664e8cbfe?utm_campaign=1055&utm_source=git)** | Bedford, NH | On Site | Oct 22 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Associate Underwriting Intern](https://jobright.ai/jobs/info/68f9606a6de2db04dc3e8d5d?utm_campaign=1055&utm_source=git)** | IL - Chicago | Hybrid | Oct 22 |
@@ -100,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/68f893b34bafad6d2d764283?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Oct 22 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern - Winter 2025/2026](https://jobright.ai/jobs/info/68f839496de2db04dc3dcdf6?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 21 |
 | **[FM](https://www.fmglobal.com)** | **[Claims intern](https://jobright.ai/jobs/info/68f830ec5dc1be6012821a79?utm_campaign=1055&utm_source=git)** | US-NJ-Parsippany | On Site | Oct 21 |
+| **[Colorado Legal Services](http://www.coloradolegalservices.org/)** | **[Spring Legal Student Internship – Low Income Taxpayer Clinic](https://jobright.ai/jobs/info/68f97ddb6de2db04dc3e97dd?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Oct 21 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern - Winter 2025/2026](https://jobright.ai/jobs/info/68f808df5dc1be6012820766?utm_campaign=1055&utm_source=git)** | HQ - San Diego, CA | On Site | Oct 21 |
 | **[Solano County](https://www.solanocounty.com)** | **[College Intern-Graduate Level (Juris Doctorate - J.D. only) (Law Clerk)](https://jobright.ai/jobs/info/68f806da5dc1be601282052f?utm_campaign=1055&utm_source=git)** | Fairfield, CA | On Site | Oct 21 |
 | **[Protiviti](http://www.protiviti.com)** | **[Minneapolis Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68f801a4ec6dbe7073fd03d4?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southern Environmental Law Center](https://southernenvironment.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/68f6f0129a65fd3458598573?utm_campaign=1055&utm_source=git)** | Nashville, TN | Hybrid | Oct 20 |
 | ↳ | **[Summer Legal Intern](https://jobright.ai/jobs/info/68f6efcf9a63986de75838dc?utm_campaign=1055&utm_source=git)** | Birmingham, AL | Hybrid | Oct 20 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Intern (Criminal Division)](https://jobright.ai/jobs/info/68e71e6de8daec61499b276b?utm_campaign=1055&utm_source=git)** | New Brunswick, NJ | Hybrid | Oct 20 |
-| **[Roc Nation](http://rocnation.com)** | **[Spring 2026 Intern - Legal (Music)](https://jobright.ai/jobs/info/68f6c5899a65fd345859710b?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 20 |
-| **[Intuit](https://www.intuit.com)** | **[Fraud and Risk Intern](https://jobright.ai/jobs/info/68f6c2379a63986de7582225?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Oct 20 |
-| **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Legal Documentation Internship](https://jobright.ai/jobs/info/68f178a1f462172a5a7d8f51?utm_campaign=1055&utm_source=git)** | East Lansing, MI | On Site | Oct 20 |
-| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Enterprise Risk Management Intern- Summer 2026](https://jobright.ai/jobs/info/68f6bd369a63986de7581d81?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
