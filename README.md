@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perry Homes](http://perryhomes.com)** | **[2026 Summer Internship - Legal](https://jobright.ai/jobs/info/689d11b079a9f9666253d1c1?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Oct 23 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Regulatory Compliance Internship - Summer 2026 - Erie, PA](https://jobright.ai/jobs/info/68de66b3a125e75c422b4247?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Oct 23 |
 | **[The Chemours Company](https://www.chemours.com)** | **[APM Product Stewardship and Regulatory Compliance Intern](https://jobright.ai/jobs/info/68c63d967d0db4114273718a?utm_campaign=1055&utm_source=git)** | New Castle County, DE | On Site | Oct 23 |
 | **[Penn Mutual](https://www.pennmutual.com/)** | **[Summer Law Intern](https://jobright.ai/jobs/info/68e219a01852e62f007f594b?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 23 |
 | **[Crowe](https://www.crowe.com/)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/68d022d9dbd9fb154eded928?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Global Corporate and Healthcare Compliance](https://jobright.ai/jobs/info/68dadd2507c157682e56e9d0?utm_campaign=1055&utm_source=git)** | Headquarters, NJ | On Site | Oct 21 |
 | **[A Safe Place](http://www.asafeplaceforhelp.org)** | **[Legal Advocacy Internship](https://jobright.ai/jobs/info/68f74957b0edcf159dc791f8?utm_campaign=1055&utm_source=git)** | Waukegan, IL | On Site | Oct 21 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[State Intern](https://jobright.ai/jobs/info/68f747bbec6dbe7073fbb3d4?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Oct 21 |
-| **[Textron](http://textron.com)** | **[2026 Internship - Legal (Contracts Associate)](https://jobright.ai/jobs/info/68f762ee5dc1be601280fcbb?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Oct 21 |
-| **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[State Intern #251017-2552VR-001](https://jobright.ai/jobs/info/68f75128b0edcf159dc7a694?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
