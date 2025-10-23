@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Compliance Analyst Summer Intern](https://jobright.ai/jobs/info/68f9e65d8a7359609b8c787e?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Remote | Oct 23 |
 | **[Amica Insurance](http://www.amica.com)** | **[Sr. Student Intern – Operational Risk Management](https://jobright.ai/jobs/info/68f6ae9e9a65fd3458596301?utm_campaign=1055&utm_source=git)** | Rhode Island, United States | Hybrid | Oct 22 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Governance, Risk and Compliance Intern - D&IT](https://jobright.ai/jobs/info/68f9a5e3cadb2e5a06a669e1?utm_campaign=1055&utm_source=git)** | Overland Park, KS | Hybrid | Oct 22 |
 | ↳ | **[Governance, Risk and Compliance Intern - D&IT](https://jobright.ai/jobs/info/68f9a4676de2db04dc3eae11?utm_campaign=1055&utm_source=git)** | Cary, NC | Hybrid | Oct 22 |
@@ -99,8 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/68d0150afb49c96ca6eade34?utm_campaign=1055&utm_source=git)** | Richmond, VA | Remote | Oct 22 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Law Clerk](https://jobright.ai/jobs/info/68dce289a125e75c422a699e?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Oct 22 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - St. Petersburg, FL CLC](https://jobright.ai/jobs/info/68e8f70f65768b6412b179d9?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | Hybrid | Oct 22 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2026 Legal Intern - Norfolk, VA](https://jobright.ai/jobs/info/68f9d5e17b89366816034763?utm_campaign=1055&utm_source=git)** | Norfolk, VA | On Site | Oct 22 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Orlando, FL CLC](https://jobright.ai/jobs/info/68bf7a2a702aa35207aa68b4?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Oct 22 |
+| ↳ | **[Summer 2026 Intern - Law - Orlando, FL CLC](https://jobright.ai/jobs/info/68bf7a2a702aa35207aa68b4?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Oct 22 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68ef456478ba1621431dc1f7?utm_campaign=1055&utm_source=git)** | Greater Indianapolis | Hybrid | Oct 22 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7c69a125e75c422a11a3?utm_campaign=1055&utm_source=git)** | Avon, CT | On Site | Oct 22 |
 | **[Waystar](http://www.waystar.com)** | **[Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/68c0ce37702aa35207ab0962?utm_campaign=1055&utm_source=git)** | Duluth, GA | Hybrid | Oct 22 |
@@ -110,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[FM](https://www.fmglobal.com)** | **[Claims intern](https://jobright.ai/jobs/info/68f830ec5dc1be6012821a79?utm_campaign=1055&utm_source=git)** | US-NJ-Parsippany | On Site | Oct 21 |
 | **[Colorado Legal Services](http://www.coloradolegalservices.org/)** | **[Spring Legal Student Internship – Low Income Taxpayer Clinic](https://jobright.ai/jobs/info/68f97ddb6de2db04dc3e97dd?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Oct 21 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern - Winter 2025/2026](https://jobright.ai/jobs/info/68f808df5dc1be6012820766?utm_campaign=1055&utm_source=git)** | HQ - San Diego, CA | On Site | Oct 21 |
-| **[Solano County](https://www.solanocounty.com)** | **[College Intern-Graduate Level (Juris Doctorate - J.D. only) (Law Clerk)](https://jobright.ai/jobs/info/68f806da5dc1be601282052f?utm_campaign=1055&utm_source=git)** | Fairfield, CA | On Site | Oct 21 |
 | **[Protiviti](http://www.protiviti.com)** | **[Minneapolis Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68f801a4ec6dbe7073fd03d4?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 21 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Merchant Services Risk](https://jobright.ai/jobs/info/68f7ff105dc1be601281fd6a?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Oct 21 |
 | **[Protiviti](http://www.protiviti.com)** | **[Cincinnati Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68f7fc5fec6dbe7073fcfaa0?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[State Intern #251017-2552VR-001](https://jobright.ai/jobs/info/68f75128b0edcf159dc7a694?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Oct 21 |
 | **[Business & Human Rights Resource Centre](http://business-humanrights.org)** | **[Legal Research & Just Transition Intern](https://jobright.ai/jobs/info/68f7a9d1b0edcf159dc85e62?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 20 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Legal and Regulatory Compliance Internship](https://jobright.ai/jobs/info/68f175bfe6870116b1f594f7?utm_campaign=1055&utm_source=git)** | East Lansing, MI | On Site | Oct 20 |
+| **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Compliance Analyst - R10664](https://jobright.ai/jobs/info/68f6f72776a51a4307bdfbeb?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
