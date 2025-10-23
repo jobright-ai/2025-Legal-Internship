@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fa8555b2c86843bf20ea2c?utm_campaign=1055&utm_source=git)** | TX - Dallas | Hybrid | Oct 23 |
+| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Legal Intern- Regulatory & Marketing](https://jobright.ai/jobs/info/68fa9a9067272b29af731b79?utm_campaign=1055&utm_source=git)** | Woodland Hills, CA | On Site | Oct 23 |
+| **[IDEMIA](https://www.idemia.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/68fa98c7b2c86843bf20fe80?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Oct 23 |
+| **[Legal Assistance Of Western New York, Inc. (LawNY)](https://www.lawny.org)** | **[Temporary Staff Housing Paralegal](https://jobright.ai/jobs/info/68fa917867272b29af7310bf?utm_campaign=1055&utm_source=git)** | Bath, NY | On Site | Oct 23 |
+| **[IDEMIA](https://www.idemia.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/68fa8d84edd190144238e1ab?utm_campaign=1055&utm_source=git)** | US-VA-Reston | Hybrid | Oct 23 |
+| **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fa8c8667272b29af730ad0?utm_campaign=1055&utm_source=git)** | CA - Glendale | Hybrid | Oct 23 |
+| ↳ | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fa8b6767272b29af7309d8?utm_campaign=1055&utm_source=git)** | MN - St. Paul | Hybrid | Oct 23 |
+| **[Prairie State Legal Services Inc.](https://pslegal.org)** | **[Summer 2026 Law Student Internship](https://jobright.ai/jobs/info/68fa8775edd190144238dcdd?utm_campaign=1055&utm_source=git)** | Rockford, IL | On Site | Oct 23 |
+| **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fa86cfedd190144238dbec?utm_campaign=1055&utm_source=git)** | TX - Richardson | Hybrid | Oct 23 |
+| ↳ | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fa8555b2c86843bf20ea2c?utm_campaign=1055&utm_source=git)** | TX - Dallas | Hybrid | Oct 23 |
 | ↳ | **[Risk Control Property Intern](https://jobright.ai/jobs/info/68fa852d67272b29af73047a?utm_campaign=1055&utm_source=git)** | CA - Walnut Creek | Hybrid | Oct 23 |
 | ↳ | **[Risk Control Property Intern](https://jobright.ai/jobs/info/68fa84bfb2c86843bf20e956?utm_campaign=1055&utm_source=git)** | TX - Dallas | Hybrid | Oct 23 |
 | ↳ | **[Risk Control Property Intern](https://jobright.ai/jobs/info/68fa842bedd190144238d77a?utm_campaign=1055&utm_source=git)** | CT - Hartford | Hybrid | Oct 23 |
@@ -91,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[New York Civil Liberties Union](http://www.nyclu.org/)** | **[Summer 2026 Education Policy Center Law Student Internship](https://jobright.ai/jobs/info/68f959576de2db04dc3e89bc?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 22 |
 | **[FM](https://www.fmglobal.com)** | **[Claims intern](https://jobright.ai/jobs/info/68f9546fa628d10664e8c2e3?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Oct 22 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Spring 2026 Litigation Intern](https://jobright.ai/jobs/info/68f948f06de2db04dc3e7c80?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 22 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Tourism, Arts, & Heritage - Legal](https://jobright.ai/jobs/info/68f913c36de2db04dc3e5173?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Oct 22 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68f93441a628d10664e8a5be?utm_campaign=1055&utm_source=git)** | Colorado | On Site | Oct 22 |
 | **[Van Subaru](http://www.vansubaru.com)** | **[INTERN - Legal](https://jobright.ai/jobs/info/68f92e1ccadb2e5a06a62120?utm_campaign=1055&utm_source=git)** | Camden, NJ, United States | On Site | Oct 22 |
 | **[League of Women Voters](https://www.lwv.org/)** | **[Legal Internship](https://jobright.ai/jobs/info/68f92dbc6de2db04dc3e6528?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 22 |
@@ -100,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Bechtel Plant Machinery, Inc. (BPMI)](http://bpmionline.com)** | **[Contract Management Specialist (Buyer) Intern (Summer 2026)](https://jobright.ai/jobs/info/68f9226fa628d10664e89926?utm_campaign=1055&utm_source=git)** | Monroeville, PA | On Site | Oct 22 |
 | **[Wealth.com](https://wealth.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f9191da628d10664e8933f?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 22 |
 | **[Premier Brands Group Holdings](https://www.linkedin.com/company/80318658)** | **[Compliance & Logistics Intern](https://jobright.ai/jobs/info/68f916b5cadb2e5a06a60ff7?utm_campaign=1055&utm_source=git)** | NYC Metro Area | On Site | Oct 22 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program-Tourism, Arts and Heritage Cabinet-Legal](https://jobright.ai/jobs/info/68f913c36de2db04dc3e5173?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Oct 22 |
 | **[CBIZ](http://www.cbiz.com)** | **[Risk Advisory Intern / Summer 2026 / Cyber](https://jobright.ai/jobs/info/68f8fdd9a628d10664e8760d?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 22 |
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2026 Legal Intern - Norfolk, VA](https://jobright.ai/jobs/info/68fa52a57959161d33e61bfb?utm_campaign=1055&utm_source=git)** | Norfolk, VA | On Site | Oct 22 |
 | ↳ | **[Summer 2026 Legal Intern - NY](https://jobright.ai/jobs/info/68fa52a47959161d33e61bf5?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 22 |
@@ -142,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Merchant Services Risk](https://jobright.ai/jobs/info/68f7e65d5dc1be601281ddb9?utm_campaign=1055&utm_source=git)** | Raleigh, North Carolina | On Site | Oct 21 |
 | **[Midrex Technologies, Inc.](https://www.midrex.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68f7e63fec6dbe7073fce041?utm_campaign=1055&utm_source=git)** | Charlotte, NC, USA | On Site | Oct 21 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/68f7e3dfb0edcf159dc8b32c?utm_campaign=1055&utm_source=git)** | Tulsa, OK (USA) | Hybrid | Oct 21 |
-| **[Midrex Technologies, Inc.](https://www.midrex.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68f7fe98ec6dbe7073fcfe28?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Oct 21 |
 | **[UHS](https://uhs.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68f7ff43b0edcf159dc8d750?utm_campaign=1055&utm_source=git)** | KING OF PRUSSIA, Pennsylvania | Hybrid | Oct 21 |
 | **[FusionSite](https://fusionsiteservices.com/)** | **[Safety and Compliance Intern](https://jobright.ai/jobs/info/68f7e03fec6dbe7073fcd95e?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Oct 21 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f7de1db0edcf159dc8ac92?utm_campaign=1055&utm_source=git)** | Woodland Hills, CA | On Site | Oct 21 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arapahoe County](https://www.arapahoegov.com)** | **[Spring (2026) 2L Legal Internship](https://jobright.ai/jobs/info/68f7db35b0edcf159dc8a706?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Oct 21 |
 | **[New York City Anti-Violence Project](https://avp.org/)** | **[Spring Semester Legal Internship](https://jobright.ai/jobs/info/68f80ccd5dc1be6012820857?utm_campaign=1055&utm_source=git)** | New York, New York, United States | Hybrid | Oct 21 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Democracy Legal Internship, NY](https://jobright.ai/jobs/info/68e24fd6b99ec3563b0dc242?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 21 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Economic Development - Compliance Division](https://jobright.ai/jobs/info/68f7c9b9ec6dbe7073fcbbad?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Oct 21 |
-| **[The Hartford](http://www.thehartford.com)** | **[Intern, Complex Claims Unit](https://jobright.ai/jobs/info/68f7e4e1ec6dbe7073fcdd3a?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Oct 21 |
-| **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University - Government Compliance Intern](https://jobright.ai/jobs/info/68f7cf395dc1be601281be15?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Oct 21 |
-| **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68c014b48e65e77df55beaf6?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Oct 21 |
-| **[Research Innovations Incorporated](https://www.researchinnovations.com/)** | **[Information Assurance  Intern Summer 2026 (Corp199)](https://jobright.ai/jobs/info/68f7a95eb0edcf159dc85d7f?utm_campaign=1055&utm_source=git)** | St. Pete, FL | Hybrid | Oct 21 |
-| **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Legal (Summer 2026)](https://jobright.ai/jobs/info/68dae27507c157682e56ef28?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Oct 21 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/68f7a917ec6dbe7073fc8d02?utm_campaign=1055&utm_source=git)** | California, United States | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
