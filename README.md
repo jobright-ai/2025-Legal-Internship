@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Summer Intern Client Management](https://jobright.ai/jobs/info/68fb9accf55bb021a889abb2?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Oct 24 |
+| **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Corporate Legal Intern](https://jobright.ai/jobs/info/68fafdd09e8e925ac6c88287?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Oct 24 |
+| **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Compliance Intern](https://jobright.ai/jobs/info/68fbb05693c49825ab104c16?utm_campaign=1055&utm_source=git)** | Kansas City, KS, 66111, United States | On Site | Oct 24 |
+| **[Constellation Brands](http://cbrands.com)** | **[Intern, Financial Compliance & Customer Financial Services](https://jobright.ai/jobs/info/68deab9244d32141e0c01635?utm_campaign=1055&utm_source=git)** | Canandaigua, NY | On Site | Oct 24 |
+| **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Compliance](https://jobright.ai/jobs/info/68fba6a493c49825ab1045fd?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c6e5597d0db4114273b4f9?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 24 |
+| **[Blue Cross Blue Shield of North Dakota](https://www.bcbsnd.com/jobs/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68ca156af16e3266d2822622?utm_campaign=1055&utm_source=git)** | Fargo, ND | Hybrid | Oct 24 |
 | **[Sony](https://www.sony.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68fb9a62f55bb021a889ab7e?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Oct 24 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Intern (Summer 2026)](https://jobright.ai/jobs/info/68c9c1baa0c52d598ea3afa2?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68fb91ea93c49825ab103d5e?utm_campaign=1055&utm_source=git)** | New York | On Site | Oct 24 |
@@ -104,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Utz Brands, Inc.](http://www.utzsnacks.com/)** | **[Regulatory Intern: Part Time](https://jobright.ai/jobs/info/68a50cce758f2e4ac3fdb80d?utm_campaign=1055&utm_source=git)** | State College, PA | On Site | Oct 23 |
 | **[MBX Biosciences, Inc.](https://www.mbxbio.com)** | **[Regulatory Affairs Fellow](https://jobright.ai/jobs/info/68dd9ca5ddc10244dd681fe0?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 23 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68fa36e67959161d33e60caf?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 23 |
-| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Professional Liability Underwriting Summer Intern](https://jobright.ai/jobs/info/68a5259533dd7158bbc977c8?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | Hybrid | Oct 23 |
 | **[State of Missouri](http://mo.gov)** | **[2026 Summer Intern - Springfield Right of Way](https://jobright.ai/jobs/info/68dd6f1d44d32141e0bf6ad4?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Oct 23 |
 | **[Perry Homes](http://perryhomes.com)** | **[2026 Summer Internship - Legal](https://jobright.ai/jobs/info/689d11b079a9f9666253d1c1?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Oct 23 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Regulatory Compliance Internship - Summer 2026 - Erie, PA](https://jobright.ai/jobs/info/68de66b3a125e75c422b4247?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Oct 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/68d0150afb49c96ca6eade34?utm_campaign=1055&utm_source=git)** | Richmond, VA | Remote | Oct 22 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Orlando, FL CLC](https://jobright.ai/jobs/info/68bf7a2a702aa35207aa68b4?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Oct 22 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7c69a125e75c422a11a3?utm_campaign=1055&utm_source=git)** | Avon, CT | On Site | Oct 22 |
-| **[Waystar](http://www.waystar.com)** | **[Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/68c0ce37702aa35207ab0962?utm_campaign=1055&utm_source=git)** | Duluth, GA | Hybrid | Oct 22 |
-| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68f87e044bafad6d2d763375?utm_campaign=1055&utm_source=git)** | Avon, CT | On Site | Oct 22 |
-| **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Corporate Legal Intern](https://jobright.ai/jobs/info/68fafdd09e8e925ac6c88287?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Oct 21 |
-| **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern - Winter 2025/2026](https://jobright.ai/jobs/info/68f839496de2db04dc3dcdf6?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
