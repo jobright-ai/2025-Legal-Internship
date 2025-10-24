@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/68cdb92e1ad6b16f0289e426?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Oct 23 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Legal Intern- Regulatory & Marketing](https://jobright.ai/jobs/info/68fa9a9067272b29af731b79?utm_campaign=1055&utm_source=git)** | Woodland Hills, CA | On Site | Oct 23 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/68fa98c7b2c86843bf20fe80?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Oct 23 |
 | **[Legal Assistance Of Western New York, Inc. (LawNY)](https://www.lawny.org)** | **[Temporary Staff Housing Paralegal](https://jobright.ai/jobs/info/68fa917867272b29af7310bf?utm_campaign=1055&utm_source=git)** | Bath, NY | On Site | Oct 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Unilever](http://www.unilever.com)** | **[Unilever US Summer Intern Program - Litigation & Business Integrity Legal Intern](https://jobright.ai/jobs/info/68f7dd0db0edcf159dc8aa5d?utm_campaign=1055&utm_source=git)** | Hoboken US HQ | Hybrid | Oct 21 |
 | **[Arapahoe County](https://www.arapahoegov.com)** | **[Spring (2026) 2L Legal Internship](https://jobright.ai/jobs/info/68f7db35b0edcf159dc8a706?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Oct 21 |
 | **[New York City Anti-Violence Project](https://avp.org/)** | **[Spring Semester Legal Internship](https://jobright.ai/jobs/info/68f80ccd5dc1be6012820857?utm_campaign=1055&utm_source=git)** | New York, New York, United States | Hybrid | Oct 21 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Democracy Legal Internship, NY](https://jobright.ai/jobs/info/68e24fd6b99ec3563b0dc242?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
