@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Summer Intern Client Management](https://jobright.ai/jobs/info/68fb9accf55bb021a889abb2?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Oct 24 |
+| **[Sony](https://www.sony.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68fb9a62f55bb021a889ab7e?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Oct 24 |
+| **[AARP](http://www.aarp.org)** | **[Foundation Litigation Intern (Summer 2026)](https://jobright.ai/jobs/info/68c9c1baa0c52d598ea3afa2?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
+| **[Sony Electronics](http://www.sonyjobs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68fb91ea93c49825ab103d5e?utm_campaign=1055&utm_source=git)** | New York | On Site | Oct 24 |
+| **[Dexcom](http://www.dexcom.com)** | **[Intern I - Regulatory Affairs](https://jobright.ai/jobs/info/68cf088c846f0b04af67edbe?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 24 |
+| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Legal](https://jobright.ai/jobs/info/68fb86144129dd33cd132903?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Oct 24 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68defb1d44d32141e0c04796?utm_campaign=1055&utm_source=git)** | Irvine, CA | Hybrid | Oct 24 |
 | **[RegASK](https://regask.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68fb7c6993c49825ab103612?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 24 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68c7b4835c25e576f7b299c5?utm_campaign=1055&utm_source=git)** | Imperial, PA | On Site | Oct 24 |
@@ -149,12 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7c69a125e75c422a11a3?utm_campaign=1055&utm_source=git)** | Avon, CT | On Site | Oct 22 |
 | **[Waystar](http://www.waystar.com)** | **[Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/68c0ce37702aa35207ab0962?utm_campaign=1055&utm_source=git)** | Duluth, GA | Hybrid | Oct 22 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68f87e044bafad6d2d763375?utm_campaign=1055&utm_source=git)** | Avon, CT | On Site | Oct 22 |
-| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/68f893b34bafad6d2d764283?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Oct 22 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Corporate Legal Intern](https://jobright.ai/jobs/info/68fafdd09e8e925ac6c88287?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Oct 21 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern - Winter 2025/2026](https://jobright.ai/jobs/info/68f839496de2db04dc3dcdf6?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 21 |
-| **[FM](https://www.fmglobal.com)** | **[Claims intern](https://jobright.ai/jobs/info/68f830ec5dc1be6012821a79?utm_campaign=1055&utm_source=git)** | US-NJ-Parsippany | On Site | Oct 21 |
-| **[Colorado Legal Services](http://www.coloradolegalservices.org/)** | **[Spring Legal Student Internship – Low Income Taxpayer Clinic](https://jobright.ai/jobs/info/68f97ddb6de2db04dc3e97dd?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Oct 21 |
-| **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern - Winter 2025/2026](https://jobright.ai/jobs/info/68f808df5dc1be6012820766?utm_campaign=1055&utm_source=git)** | HQ - San Diego, CA | On Site | Oct 21 |
-| **[Protiviti](http://www.protiviti.com)** | **[Minneapolis Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68f801a4ec6dbe7073fd03d4?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 21 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Merchant Services Risk](https://jobright.ai/jobs/info/68f7ff105dc1be601281fd6a?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
