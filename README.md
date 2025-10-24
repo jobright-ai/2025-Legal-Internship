@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Information Technology (DRC) - Summer 2026 (Boston)](https://jobright.ai/jobs/info/68ccc261a77e5d7d744f4f2f?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Oct 24 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/68fb3faae154835f11efaf43?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Oct 24 |
+| **[Travelers](https://www.travelers.com)** | **[Risk Control Property Intern](https://jobright.ai/jobs/info/68fb397f3c99cc1d96029e28?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Oct 24 |
 | **[Hakakian Law Group, PC](www.hakakianlaw.com)** | **[Personal Injury Paralegal](https://jobright.ai/jobs/info/68fb19113c99cc1d96028b76?utm_campaign=1055&utm_source=git)** | West Hollywood, CA | On Site | Oct 23 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68faf38e9e8e925ac6c87d5e?utm_campaign=1055&utm_source=git)** | Greater Indianapolis | Hybrid | Oct 23 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[2026 Summer Intern - Corporate Law (Hybrid - Raleigh, NC)](https://jobright.ai/jobs/info/68faef079e8e925ac6c87969?utm_campaign=1055&utm_source=git)** | Raleigh, NC | Hybrid | Oct 23 |
@@ -93,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[The Chemours Company](https://www.chemours.com)** | **[APM Product Stewardship and Regulatory Compliance Intern](https://jobright.ai/jobs/info/68c63d967d0db4114273718a?utm_campaign=1055&utm_source=git)** | New Castle County, DE | On Site | Oct 23 |
 | **[Penn Mutual](https://www.pennmutual.com/)** | **[Summer Law Intern](https://jobright.ai/jobs/info/68e219a01852e62f007f594b?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 23 |
 | **[Crowe](https://www.crowe.com/)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/68d022d9dbd9fb154eded928?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 23 |
+| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2026 Legal Intern - NY](https://jobright.ai/jobs/info/68fb321be154835f11efa66d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 23 |
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2026 Legal Intern - Norfolk, VA](https://jobright.ai/jobs/info/68fb2a57e154835f11efa01d?utm_campaign=1055&utm_source=git)** | Norfolk, VA | On Site | Oct 22 |
 | **[Amica Insurance](http://www.amica.com)** | **[Sr. Student Intern – Operational Risk Management](https://jobright.ai/jobs/info/68f6ae9e9a65fd3458596301?utm_campaign=1055&utm_source=git)** | Rhode Island, United States | Hybrid | Oct 22 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Governance, Risk and Compliance Intern - D&IT](https://jobright.ai/jobs/info/68f9a5e3cadb2e5a06a669e1?utm_campaign=1055&utm_source=git)** | Overland Park, KS | Hybrid | Oct 22 |
@@ -135,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department AML Compliance Audit Intern](https://jobright.ai/jobs/info/68ead3628369791ef7823234?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/68d0150afb49c96ca6eade34?utm_campaign=1055&utm_source=git)** | Richmond, VA | Remote | Oct 22 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Orlando, FL CLC](https://jobright.ai/jobs/info/68bf7a2a702aa35207aa68b4?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Oct 22 |
-| **[Bristol Myers Squibb](http://www.bms.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68ef456478ba1621431dc1f7?utm_campaign=1055&utm_source=git)** | Greater Indianapolis | Hybrid | Oct 22 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Claims Intern](https://jobright.ai/jobs/info/68dc7c69a125e75c422a11a3?utm_campaign=1055&utm_source=git)** | Avon, CT | On Site | Oct 22 |
 | **[Waystar](http://www.waystar.com)** | **[Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/68c0ce37702aa35207ab0962?utm_campaign=1055&utm_source=git)** | Duluth, GA | Hybrid | Oct 22 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Surety Underwriting Intern](https://jobright.ai/jobs/info/68f87e044bafad6d2d763375?utm_campaign=1055&utm_source=git)** | Avon, CT | On Site | Oct 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - Government Compliance Intern](https://jobright.ai/jobs/info/68f7f3adec6dbe7073fcf154?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Oct 21 |
 | **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68f7f2195dc1be601281ecb0?utm_campaign=1055&utm_source=git)** | KING OF PRUSSIA, Pennsylvania | Hybrid | Oct 21 |
 | **[Ozinga](https://www.ozinga.com/)** | **[DOT Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/68f7eb19b0edcf159dc8bdba?utm_campaign=1055&utm_source=git)** | Mokena, Illinois | On Site | Oct 21 |
-| **[Inmar Intelligence](http://www.inmar.com)** | **[Regulatory & Compliance Investigations Intern, Summer 2026](https://jobright.ai/jobs/info/68f7e7285dc1be601281df10?utm_campaign=1055&utm_source=git)** | 4355 - Grand Prairie, TX (RX WHS) | On Site | Oct 21 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Merchant Services Risk](https://jobright.ai/jobs/info/68f7e65d5dc1be601281ddb9?utm_campaign=1055&utm_source=git)** | Raleigh, North Carolina | On Site | Oct 21 |
-| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/68f7e3dfb0edcf159dc8b32c?utm_campaign=1055&utm_source=git)** | Tulsa, OK (USA) | Hybrid | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
