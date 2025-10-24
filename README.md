@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern (Spring)](https://jobright.ai/jobs/info/68f7885e5dc1be60128152b9?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 23 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[2026 Summer Intern - Corporate Law (Hybrid - Raleigh, NC)](https://jobright.ai/jobs/info/68fad1669e8e925ac6c86936?utm_campaign=1055&utm_source=git)** | Raleigh, North Carolina | Hybrid | Oct 23 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/68cdb92e1ad6b16f0289e426?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Oct 23 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Legal Intern- Regulatory & Marketing](https://jobright.ai/jobs/info/68fa9a9067272b29af731b79?utm_campaign=1055&utm_source=git)** | Woodland Hills, CA | On Site | Oct 23 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/68fa98c7b2c86843bf20fe80?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Oct 23 |
@@ -111,8 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Wealth.com](https://wealth.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f9191da628d10664e8933f?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 22 |
 | **[Premier Brands Group Holdings](https://www.linkedin.com/company/80318658)** | **[Compliance & Logistics Intern](https://jobright.ai/jobs/info/68f916b5cadb2e5a06a60ff7?utm_campaign=1055&utm_source=git)** | NYC Metro Area | On Site | Oct 22 |
 | **[CBIZ](http://www.cbiz.com)** | **[Risk Advisory Intern / Summer 2026 / Cyber](https://jobright.ai/jobs/info/68f8fdd9a628d10664e8760d?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 22 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2026 Legal Intern - Norfolk, VA](https://jobright.ai/jobs/info/68fa52a57959161d33e61bfb?utm_campaign=1055&utm_source=git)** | Norfolk, VA | On Site | Oct 22 |
-| ↳ | **[Summer 2026 Legal Intern - NY](https://jobright.ai/jobs/info/68fa52a47959161d33e61bf5?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f73bcadb2e5a06a5e8c0?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Oct 22 |
 | **[Unilever](http://www.unilever.com)** | **[Unilever US Summer Intern Program - Litigation & Business Integrity Legal Intern](https://jobright.ai/jobs/info/68f8e8374bafad6d2d766129?utm_campaign=1055&utm_source=git)** | Hoboken, NJ | On Site | Oct 22 |
 | **[Gallagher](http://www.ajg.com)** | **[U.S Internship - Risk Control](https://jobright.ai/jobs/info/68a3d2641ab5f8579e8a8a7d?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | On Site | Oct 22 |
@@ -141,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Merchant Services Risk](https://jobright.ai/jobs/info/68f7ff105dc1be601281fd6a?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Oct 21 |
 | **[Protiviti](http://www.protiviti.com)** | **[Cincinnati Risk and Compliance Intern - 2026](https://jobright.ai/jobs/info/68f7fc5fec6dbe7073fcfaa0?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 21 |
 | **[Inmar Intelligence](http://www.inmar.com)** | **[Regulatory & Compliance Investigations Intern, Summer 2026](https://jobright.ai/jobs/info/68f7fbdf5dc1be601281f885?utm_campaign=1055&utm_source=git)** | Grand Prairie, TX | On Site | Oct 21 |
-| **[Seyfarth Shaw LLP](http://www.seyfarth.com)** | **[Spelman and Morehouse Legal Intern](https://jobright.ai/jobs/info/68f7f5df5dc1be601281f305?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Oct 21 |
 | **[Legal Assistance Of Western New York, Inc. (LawNY)](https://www.lawny.org)** | **[Temporary Staff Attorney](https://jobright.ai/jobs/info/68f7f499b0edcf159dc8ca63?utm_campaign=1055&utm_source=git)** | Geneva, NY | Hybrid | Oct 21 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f7f3b4b0edcf159dc8c8eb?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 21 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - Government Compliance Intern](https://jobright.ai/jobs/info/68f7f3adec6dbe7073fcf154?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Oct 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Unilever](http://www.unilever.com)** | **[Unilever US Summer Intern Program - Litigation & Business Integrity Legal Intern](https://jobright.ai/jobs/info/68f7dd0db0edcf159dc8aa5d?utm_campaign=1055&utm_source=git)** | Hoboken US HQ | Hybrid | Oct 21 |
 | **[Arapahoe County](https://www.arapahoegov.com)** | **[Spring (2026) 2L Legal Internship](https://jobright.ai/jobs/info/68f7db35b0edcf159dc8a706?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Oct 21 |
 | **[New York City Anti-Violence Project](https://avp.org/)** | **[Spring Semester Legal Internship](https://jobright.ai/jobs/info/68f80ccd5dc1be6012820857?utm_campaign=1055&utm_source=git)** | New York, New York, United States | Hybrid | Oct 21 |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Democracy Legal Internship, NY](https://jobright.ai/jobs/info/68e24fd6b99ec3563b0dc242?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
