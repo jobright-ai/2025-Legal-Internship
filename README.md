@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68fc3d9d93c49825ab10b1ae?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 24 |
+| **[NEON](https://neonrated.com)** | **[Legal and Business Affairs Intern (Spring)](https://jobright.ai/jobs/info/68fc3d8f4129dd33cd13a123?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 24 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68fc3b9093c49825ab10b085?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Oct 24 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office Business Administration Intern](https://jobright.ai/jobs/info/68d87ab6295f8e37655e7c69?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 24 |
+| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Summer Intern, Excess/Surplus Insurance Claims](https://jobright.ai/jobs/info/68fc37b393c49825ab10ae0f?utm_campaign=1055&utm_source=git)** | US-NJ-Moorestown | On Site | Oct 24 |
+| **[American Oversight](https://www.americanoversight.org/)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/68fc37574129dd33cd139dcb?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Oct 24 |
+| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Summer Intern, Excess/Surplus Insurance Claims](https://jobright.ai/jobs/info/68fc3125f55bb021a88a14a7?utm_campaign=1055&utm_source=git)** | NJ, Moorestown | On Site | Oct 24 |
+| **[Travis County](https://www.traviscountytx.gov)** | **[Legal Intern - Community Legal Services](https://jobright.ai/jobs/info/68fc2df393c49825ab10a8b3?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 24 |
 | **[Colliers](http://www.colliers.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/68fc293a93c49825ab10a658?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Oct 24 |
 | **[Apex Home Health & Hospice](http://apexhomehealth.com)** | **[Pool: Marketing and Business Law Student Assistant](https://jobright.ai/jobs/info/68fc1cd9f55bb021a88a0892?utm_campaign=1055&utm_source=git)** | Lawrence, KS | On Site | Oct 24 |
 | **[AARP](http://www.aarp.org)** | **[Ethics and Compliance Intern](https://jobright.ai/jobs/info/68fc17c593c49825ab109a48?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
@@ -64,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[National Center for Youth Law](http://youthlaw.org)** | **[Spring 2026 Litigation Clerkships (law students)](https://jobright.ai/jobs/info/68fc04464129dd33cd137c2a?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 24 |
 | **[Intuit](https://www.intuit.com)** | **[Fraud and Risk Intern](https://jobright.ai/jobs/info/68fc014ff55bb021a889f54d?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Oct 24 |
 | **[Group 1001](https://group1001.com/)** | **[Legal Intern (2026)](https://jobright.ai/jobs/info/68fbf6b293c49825ab107f86?utm_campaign=1055&utm_source=git)** | Zionsville, IN | On Site | Oct 24 |
-| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/68fbeeea93c49825ab1078d0?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Oct 24 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Contracts & Proposals Intern](https://jobright.ai/jobs/info/68fbebb993c49825ab10767e?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT, 84416, United States | On Site | Oct 24 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Advisory Seasonal Intern, State and Local Regulatory & Compliance - Lottery / Albany Fall 2025](https://jobright.ai/jobs/info/68fbe914f55bb021a889de87?utm_campaign=1055&utm_source=git)** | Albany, NY | Hybrid | Oct 24 |
 | **[Michael Sullivan & Associates LLP](http://sullivanattorneys.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68fbe70593c49825ab107361?utm_campaign=1055&utm_source=git)** | Orange, CA, US | On Site | Oct 24 |
@@ -87,9 +94,9 @@ For a complete list, click the following sortable link below:
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Corporate Legal Intern](https://jobright.ai/jobs/info/68fafdd09e8e925ac6c88287?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Oct 24 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Compliance Intern](https://jobright.ai/jobs/info/68fbb05693c49825ab104c16?utm_campaign=1055&utm_source=git)** | Kansas City, KS, 66111, United States | On Site | Oct 24 |
 | **[Constellation Brands](http://cbrands.com)** | **[Intern, Financial Compliance & Customer Financial Services](https://jobright.ai/jobs/info/68deab9244d32141e0c01635?utm_campaign=1055&utm_source=git)** | Canandaigua, NY | On Site | Oct 24 |
-| **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Compliance](https://jobright.ai/jobs/info/68fba6a493c49825ab1045fd?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c6e5597d0db4114273b4f9?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 24 |
 | **[Blue Cross Blue Shield of North Dakota](https://www.bcbsnd.com/jobs/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68ca156af16e3266d2822622?utm_campaign=1055&utm_source=git)** | Fargo, ND | Hybrid | Oct 24 |
+| **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Compliance](https://jobright.ai/jobs/info/68fba19893c49825ab104497?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
 | **[Sony](https://www.sony.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68fb9a62f55bb021a889ab7e?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Oct 24 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Intern (Summer 2026)](https://jobright.ai/jobs/info/68c9c1baa0c52d598ea3afa2?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68fb91ea93c49825ab103d5e?utm_campaign=1055&utm_source=git)** | New York | On Site | Oct 24 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Governance, Risk and Compliance Intern - D&IT](https://jobright.ai/jobs/info/68f9a4676de2db04dc3eae11?utm_campaign=1055&utm_source=git)** | Cary, NC | Hybrid | Oct 22 |
 | **[PCL Construction](http://www.pcl.com)** | **[Legal Intern Summer 2026](https://jobright.ai/jobs/info/68f99afea628d10664e8e4ac?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Oct 22 |
 | **[Sealaska](http://www.sealaska.com/)** | **[Corporate Contracts Intern (THTBC) - Summer 2026](https://jobright.ai/jobs/info/68f99354cadb2e5a06a65e71?utm_campaign=1055&utm_source=git)** | Sealaska Corporation, One Sealaska Plaza, Juneau, Alaska, United States of America | Hybrid | Oct 22 |
-| **[Duke University](http://www.duke.edu)** | **[NonDuke/ Student Intern , The Law School](https://jobright.ai/jobs/info/68f9b5fc7b89366816033ada?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Oct 22 |
-| **[Sealaska](http://www.sealaska.com/)** | **[Corporate Contracts Intern (THTBC) - Summer 2026](https://jobright.ai/jobs/info/68f98c50cadb2e5a06a65b79?utm_campaign=1055&utm_source=git)** | Juneau, AK | On Site | Oct 22 |
-| **[Illumio](http://www.illumio.com)** | **[Security and Compliance Analyst Intern](https://jobright.ai/jobs/info/68eda5a870b66e2345d3fb0c?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | On Site | Oct 22 |
-| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Third Party Risk Management Intern](https://jobright.ai/jobs/info/68f9759acadb2e5a06a64fb2?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Oct 22 |
-| ↳ | **[Privacy Compliance Intern](https://jobright.ai/jobs/info/68f97572cadb2e5a06a64fa3?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Oct 22 |
-| **[Concord Group Insurance](http://concordgroupinsurance.com)** | **[Claims Adjuster Intern](https://jobright.ai/jobs/info/68f967b6a628d10664e8cbfe?utm_campaign=1055&utm_source=git)** | Bedford, NH | On Site | Oct 22 |
-| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Associate Underwriting Intern](https://jobright.ai/jobs/info/68f9606a6de2db04dc3e8d5d?utm_campaign=1055&utm_source=git)** | IL - Chicago | Hybrid | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
