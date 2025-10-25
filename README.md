@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Neon](https://neon.tech)** | **[Legal and Business Affairs Intern (Spring)](https://jobright.ai/jobs/info/68fc7386f55bb021a88a3e46?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Oct 24 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68fc3d9d93c49825ab10b1ae?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 24 |
 | **[NEON](https://neonrated.com)** | **[Legal and Business Affairs Intern (Spring)](https://jobright.ai/jobs/info/68fc3d8f4129dd33cd13a123?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 24 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68fc3b9093c49825ab10b085?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Oct 24 |
@@ -94,9 +95,9 @@ For a complete list, click the following sortable link below:
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Corporate Legal Intern](https://jobright.ai/jobs/info/68fafdd09e8e925ac6c88287?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Oct 24 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Compliance Intern](https://jobright.ai/jobs/info/68fbb05693c49825ab104c16?utm_campaign=1055&utm_source=git)** | Kansas City, KS, 66111, United States | On Site | Oct 24 |
 | **[Constellation Brands](http://cbrands.com)** | **[Intern, Financial Compliance & Customer Financial Services](https://jobright.ai/jobs/info/68deab9244d32141e0c01635?utm_campaign=1055&utm_source=git)** | Canandaigua, NY | On Site | Oct 24 |
-| **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Compliance](https://jobright.ai/jobs/info/68fba6a493c49825ab1045fd?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c6e5597d0db4114273b4f9?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 24 |
 | **[Blue Cross Blue Shield of North Dakota](https://www.bcbsnd.com/jobs/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68ca156af16e3266d2822622?utm_campaign=1055&utm_source=git)** | Fargo, ND | Hybrid | Oct 24 |
+| **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Compliance](https://jobright.ai/jobs/info/68fba19893c49825ab104497?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
 | **[Sony](https://www.sony.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68fb9a62f55bb021a889ab7e?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Oct 24 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Intern (Summer 2026)](https://jobright.ai/jobs/info/68c9c1baa0c52d598ea3afa2?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68fb91ea93c49825ab103d5e?utm_campaign=1055&utm_source=git)** | New York | On Site | Oct 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Governance, Risk and Compliance Intern - D&IT](https://jobright.ai/jobs/info/68f9a4676de2db04dc3eae11?utm_campaign=1055&utm_source=git)** | Cary, NC | Hybrid | Oct 22 |
 | **[PCL Construction](http://www.pcl.com)** | **[Legal Intern Summer 2026](https://jobright.ai/jobs/info/68f99afea628d10664e8e4ac?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Oct 22 |
 | **[Sealaska](http://www.sealaska.com/)** | **[Corporate Contracts Intern (THTBC) - Summer 2026](https://jobright.ai/jobs/info/68f99354cadb2e5a06a65e71?utm_campaign=1055&utm_source=git)** | Sealaska Corporation, One Sealaska Plaza, Juneau, Alaska, United States of America | Hybrid | Oct 22 |
-| **[Duke University](http://www.duke.edu)** | **[NonDuke/ Student Intern , The Law School](https://jobright.ai/jobs/info/68f9b5fc7b89366816033ada?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
