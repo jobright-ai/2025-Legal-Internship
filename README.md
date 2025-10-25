@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Center for Youth Law](http://youthlaw.org)** | **[Spring 2026 Litigation Clerkships (law students)](https://jobright.ai/jobs/info/68fc04464129dd33cd137c2a?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 24 |
+| **[Intuit](https://www.intuit.com)** | **[Fraud and Risk Intern](https://jobright.ai/jobs/info/68fc014ff55bb021a889f54d?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Oct 24 |
+| **[Group 1001](https://group1001.com/)** | **[Legal Intern (2026)](https://jobright.ai/jobs/info/68fbf6b293c49825ab107f86?utm_campaign=1055&utm_source=git)** | Zionsville, IN | On Site | Oct 24 |
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/68fbeeea93c49825ab1078d0?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Oct 24 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Contracts & Proposals Intern](https://jobright.ai/jobs/info/68fbebb993c49825ab10767e?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT, 84416, United States | On Site | Oct 24 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Advisory Seasonal Intern, State and Local Regulatory & Compliance - Lottery / Albany Fall 2025](https://jobright.ai/jobs/info/68fbe914f55bb021a889de87?utm_campaign=1055&utm_source=git)** | Albany, NY | Hybrid | Oct 24 |
@@ -69,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[A-C Electric Company](http://a-celectric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68fbdfc6f55bb021a889d630?utm_campaign=1055&utm_source=git)** | Bakersfield, CA | On Site | Oct 24 |
 | **[Colliers](http://www.colliers.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/68fbdc97f55bb021a889d486?utm_campaign=1055&utm_source=git)** | Minneapolis, Minnesota, United States of America | On Site | Oct 24 |
 | **[John Templeton Foundation](http://www.templeton.org)** | **[Legal Intern, Office of the General Counsel - Summer 2026](https://jobright.ai/jobs/info/68fbdb3193c49825ab1069a9?utm_campaign=1055&utm_source=git)** | Conshohocken, PA | Hybrid | Oct 24 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Client Management Summer Intern](https://jobright.ai/jobs/info/68fbd9ef93c49825ab1068bd?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 24 |
 | **[AARP](http://www.aarp.org)** | **[Ethics and Compliance Intern](https://jobright.ai/jobs/info/68fbd96593c49825ab106810?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 24 |
 | **[Notion](https://www.notion.so)** | **[Trust and Safety, Fraud and Abuse Analyst Intern](https://jobright.ai/jobs/info/68fbd93d93c49825ab1067d4?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 24 |
 | ↳ | **[Trust and Safety, Fraud and Abuse Analyst Intern](https://jobright.ai/jobs/info/68fbd85793c49825ab1066c0?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 24 |
@@ -109,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Fraud Risk Management](https://jobright.ai/jobs/info/68fadd298d32c164778cc0bc?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 23 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern (Spring)](https://jobright.ai/jobs/info/68f7885e5dc1be60128152b9?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 23 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[2026 Summer Intern - Corporate Law (Hybrid - Raleigh, NC)](https://jobright.ai/jobs/info/68fad1669e8e925ac6c86936?utm_campaign=1055&utm_source=git)** | Raleigh, North Carolina | Hybrid | Oct 23 |
+| **[St. Louis County, MN](https://stlouismn.attract.neogov.com/saint-louis-county-recruitment-hub-ky)** | **[Legal Intern](https://jobright.ai/jobs/info/68fbf9384129dd33cd137038?utm_campaign=1055&utm_source=git)** | Duluth, MN | On Site | Oct 23 |
 | **[Notion](https://www.notion.so)** | **[Trust and Safety, Fraud and Abuse Analyst Intern](https://jobright.ai/jobs/info/68fbd1e393c49825ab10620a?utm_campaign=1055&utm_source=git)** | San Francisco, California | On Site | Oct 23 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/68cdb92e1ad6b16f0289e426?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Oct 23 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Legal Intern- Regulatory & Marketing](https://jobright.ai/jobs/info/68fa9a9067272b29af731b79?utm_campaign=1055&utm_source=git)** | Woodland Hills, CA | On Site | Oct 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Early Careers – Associate Underwriting Intern](https://jobright.ai/jobs/info/68f959fdcadb2e5a06a643f6?utm_campaign=1055&utm_source=git)** | TX - Richardson | Hybrid | Oct 22 |
 | **[New York Civil Liberties Union](http://www.nyclu.org/)** | **[Summer 2026 Education Policy Center Law Student Internship](https://jobright.ai/jobs/info/68f959576de2db04dc3e89bc?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 22 |
 | **[FM](https://www.fmglobal.com)** | **[Claims intern](https://jobright.ai/jobs/info/68f9546fa628d10664e8c2e3?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Oct 22 |
-| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Spring 2026 Litigation Intern](https://jobright.ai/jobs/info/68f948f06de2db04dc3e7c80?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 22 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/68f93441a628d10664e8a5be?utm_campaign=1055&utm_source=git)** | Colorado | On Site | Oct 22 |
-| **[Van Subaru](http://www.vansubaru.com)** | **[INTERN - Legal](https://jobright.ai/jobs/info/68f92e1ccadb2e5a06a62120?utm_campaign=1055&utm_source=git)** | Camden, NJ, United States | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
