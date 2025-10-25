@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CAS](http://www.cas.org)** | **[CAS 2026 Legal Summer Intern](https://jobright.ai/jobs/info/68cf6388fb49c96ca6ea824f?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Oct 25 |
+| **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/68f32ee19a65fd3458584863?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Oct 25 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/68e0761cf758fe1f97e4d661?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Oct 25 |
 | **[Neon](https://neon.tech)** | **[Legal and Business Affairs Intern (Spring)](https://jobright.ai/jobs/info/68fc7386f55bb021a88a3e46?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Oct 24 |
 | **[NEON](https://neonrated.com)** | **[Legal and Business Affairs Intern (Spring)](https://jobright.ai/jobs/info/68fc3d8f4129dd33cd13a123?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 24 |
@@ -80,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Group 1001](https://group1001.com/)** | **[Legal Intern (2026)](https://jobright.ai/jobs/info/68fbe5d6f55bb021a889dc68?utm_campaign=1055&utm_source=git)** | Zionsville, Indiana | Hybrid | Oct 24 |
 | **[Sur Legal Collaborative](http://www.surlegal.org)** | **[Sur Legal Collaborative Inc / Summer Internship / Externship](https://jobright.ai/jobs/info/68fbe5d193c49825ab10721a?utm_campaign=1055&utm_source=git)** | Decatur, GA | On Site | Oct 24 |
 | **[Mission Action](https://www.missionaction.org/)** | **[Legal Internship Opportunities Summer 2026 Law Student Clerk](https://jobright.ai/jobs/info/68fbe392f55bb021a889da54?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Oct 24 |
+| **[Sapta Global Inc](http://www.saptanet.com/)** | **[Intern](https://jobright.ai/jobs/info/68fca9810ab3b2224629e26e?utm_campaign=1055&utm_source=git)** | Signal Hill, CA, US | On Site | Oct 24 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Contracts & Proposals Intern](https://jobright.ai/jobs/info/68fbe160f55bb021a889d7fe?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Oct 24 |
 | **[A-C Electric Company](http://a-celectric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68fbdfc6f55bb021a889d630?utm_campaign=1055&utm_source=git)** | Bakersfield, CA | On Site | Oct 24 |
 | **[Colliers](http://www.colliers.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/68fbdc97f55bb021a889d486?utm_campaign=1055&utm_source=git)** | Minneapolis, Minnesota, United States of America | On Site | Oct 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Penn Mutual](https://www.pennmutual.com/)** | **[Summer Law Intern](https://jobright.ai/jobs/info/68e219a01852e62f007f594b?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 23 |
 | **[Crowe](https://www.crowe.com/)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/68d022d9dbd9fb154eded928?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 23 |
 | **[Amica Insurance](http://www.amica.com)** | **[Sr. Student Intern – Operational Risk Management](https://jobright.ai/jobs/info/68f6ae9e9a65fd3458596301?utm_campaign=1055&utm_source=git)** | Rhode Island, United States | Hybrid | Oct 22 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Governance, Risk and Compliance Intern - D&IT](https://jobright.ai/jobs/info/68f9a5e3cadb2e5a06a669e1?utm_campaign=1055&utm_source=git)** | Overland Park, KS | Hybrid | Oct 22 |
-| ↳ | **[Governance, Risk and Compliance Intern - D&IT](https://jobright.ai/jobs/info/68f9a4676de2db04dc3eae11?utm_campaign=1055&utm_source=git)** | Cary, NC | Hybrid | Oct 22 |
-| **[PCL Construction](http://www.pcl.com)** | **[Legal Intern Summer 2026](https://jobright.ai/jobs/info/68f99afea628d10664e8e4ac?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
