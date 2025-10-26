@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/6853de39dee22b2fb32812cb?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Oct 26 |
 | **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/68fdd2bb0ab3b222462a4d29?utm_campaign=1055&utm_source=git)** | Durham, NC | Hybrid | Oct 26 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/68e027f11852e62f007e7f2f?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Oct 25 |
 | **[Richmond National](https://richmondnational.com)** | **[Legal Intern, Summer 2026](https://jobright.ai/jobs/info/68dfef38f758fe1f97e4801b?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | On Site | Oct 25 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[CAS](http://www.cas.org)** | **[CAS 2026 Legal Summer Intern](https://jobright.ai/jobs/info/68cf6388fb49c96ca6ea824f?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Oct 25 |
 | **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/68f32ee19a65fd3458584863?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Oct 25 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/68e0761cf758fe1f97e4d661?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Oct 25 |
-| **[MIT Investment Management Company](http://www.mitimco.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/68fdd00de04ac838fb5b1fda?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Oct 25 |
 | **[Neon](https://neon.tech)** | **[Legal and Business Affairs Intern (Spring)](https://jobright.ai/jobs/info/68fc7386f55bb021a88a3e46?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Oct 24 |
 | **[NEON](https://neonrated.com)** | **[Legal and Business Affairs Intern (Spring)](https://jobright.ai/jobs/info/68fc3d8f4129dd33cd13a123?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 24 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68fc3b9093c49825ab10b085?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Oct 24 |
