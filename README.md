@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/68fd372f0ab3b222462a14a1?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Oct 25 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/68e027f11852e62f007e7f2f?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Oct 25 |
 | **[Richmond National](https://richmondnational.com)** | **[Legal Intern, Summer 2026](https://jobright.ai/jobs/info/68dfef38f758fe1f97e4801b?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | On Site | Oct 25 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/68c42ff514bb275ce01915b0?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | Hybrid | Oct 25 |
@@ -109,9 +108,9 @@ For a complete list, click the following sortable link below:
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Compliance Intern](https://jobright.ai/jobs/info/68fbb05693c49825ab104c16?utm_campaign=1055&utm_source=git)** | Kansas City, KS, 66111, United States | On Site | Oct 24 |
 | **[FCC](http://www.fcc.es)** | **[Paid Regulatory & Economic Affairs Internship](https://jobright.ai/jobs/info/68fc8b9639d0ae3279af74ae?utm_campaign=1055&utm_source=git)** | Washington, DC, US | Hybrid | Oct 24 |
 | **[Constellation Brands](http://cbrands.com)** | **[Intern, Financial Compliance & Customer Financial Services](https://jobright.ai/jobs/info/68deab9244d32141e0c01635?utm_campaign=1055&utm_source=git)** | Canandaigua, NY | On Site | Oct 24 |
+| **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Compliance](https://jobright.ai/jobs/info/68fba6a493c49825ab1045fd?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c6e5597d0db4114273b4f9?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 24 |
 | **[Blue Cross Blue Shield of North Dakota](https://www.bcbsnd.com/jobs/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68ca156af16e3266d2822622?utm_campaign=1055&utm_source=git)** | Fargo, ND | Hybrid | Oct 24 |
-| **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Compliance](https://jobright.ai/jobs/info/68fba19893c49825ab104497?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
 | **[Sony](https://www.sony.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68fb9a62f55bb021a889ab7e?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Oct 24 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Intern (Summer 2026)](https://jobright.ai/jobs/info/68c9c1baa0c52d598ea3afa2?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68fb91ea93c49825ab103d5e?utm_campaign=1055&utm_source=git)** | New York | On Site | Oct 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[American Family Insurance](http://amfamventures.com/)** | **[Summer 2026 Internship - Litigation Department](https://jobright.ai/jobs/info/68fa7cedb2c86843bf20e0f9?utm_campaign=1055&utm_source=git)** | CA Los Angeles | Hybrid | Oct 23 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Material Damage Claims Intern - Summer 2026](https://jobright.ai/jobs/info/68fa5f7e7959161d33e62858?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Oct 23 |
 | **[Democracy Forward](https://democracyforward.org)** | **[Legal Internship Summer 2026](https://jobright.ai/jobs/info/68fa6afc7959161d33e63272?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 23 |
+| **[Utz Brands, Inc.](http://www.utzsnacks.com/)** | **[Regulatory Intern: Part Time](https://jobright.ai/jobs/info/68a50cce758f2e4ac3fdb80d?utm_campaign=1055&utm_source=git)** | State College, PA | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
