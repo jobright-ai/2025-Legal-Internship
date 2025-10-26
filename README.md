@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Valorantum](valorantum.us)** | **[Client Management Summer Intern](https://jobright.ai/jobs/info/68fe6c10e04ac838fb5b417b?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Oct 26 |
+| **[Nabidex](https://www.linkedin.com/company/90590589)** | **[Summer Intern Client Management](https://jobright.ai/jobs/info/68fe8cba0ab3b222462a72e7?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Oct 26 |
+| **[Seagate Technology](http://www.seagate.com)** | **[Risk Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f6a63a76a51a4307bdcc5b?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Oct 26 |
 | **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Law Clerk - Internship](https://jobright.ai/jobs/info/68fe5bece04ac838fb5b407c?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | Hybrid | Oct 26 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/68c86864983e6768bc54ced5?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Oct 26 |
 | **[CBIZ](http://www.cbiz.com)** | **[Risk Advisory Intern / Summer 2026 / Cyber](https://jobright.ai/jobs/info/68fe3d11e0c73b3a11196d6d?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Oct 26 |
@@ -118,9 +119,9 @@ For a complete list, click the following sortable link below:
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Compliance Intern](https://jobright.ai/jobs/info/68fbb05693c49825ab104c16?utm_campaign=1055&utm_source=git)** | Kansas City, KS, 66111, United States | On Site | Oct 24 |
 | **[FCC](http://www.fcc.es)** | **[Paid Regulatory & Economic Affairs Internship](https://jobright.ai/jobs/info/68fc8b9639d0ae3279af74ae?utm_campaign=1055&utm_source=git)** | Washington, DC, US | Hybrid | Oct 24 |
 | **[Constellation Brands](http://cbrands.com)** | **[Intern, Financial Compliance & Customer Financial Services](https://jobright.ai/jobs/info/68deab9244d32141e0c01635?utm_campaign=1055&utm_source=git)** | Canandaigua, NY | On Site | Oct 24 |
-| **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Compliance](https://jobright.ai/jobs/info/68fba6a493c49825ab1045fd?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c6e5597d0db4114273b4f9?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 24 |
 | **[Blue Cross Blue Shield of North Dakota](https://www.bcbsnd.com/jobs/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68ca156af16e3266d2822622?utm_campaign=1055&utm_source=git)** | Fargo, ND | Hybrid | Oct 24 |
+| **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Compliance](https://jobright.ai/jobs/info/68fba19893c49825ab104497?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
 | **[Sony](https://www.sony.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68fb9a62f55bb021a889ab7e?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Oct 24 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Intern (Summer 2026)](https://jobright.ai/jobs/info/68c9c1baa0c52d598ea3afa2?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68fb91ea93c49825ab103d5e?utm_campaign=1055&utm_source=git)** | New York | On Site | Oct 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fa8c8667272b29af730ad0?utm_campaign=1055&utm_source=git)** | CA - Glendale | Hybrid | Oct 23 |
 | ↳ | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fa8b6767272b29af7309d8?utm_campaign=1055&utm_source=git)** | MN - St. Paul | Hybrid | Oct 23 |
 | **[Prairie State Legal Services Inc.](https://pslegal.org)** | **[Summer 2026 Law Student Internship](https://jobright.ai/jobs/info/68fa8775edd190144238dcdd?utm_campaign=1055&utm_source=git)** | Rockford, IL | On Site | Oct 23 |
-| **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fa86cfedd190144238dbec?utm_campaign=1055&utm_source=git)** | TX - Richardson | Hybrid | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
