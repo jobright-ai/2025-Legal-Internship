@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/68fdd2bb0ab3b222462a4d29?utm_campaign=1055&utm_source=git)** | Durham, NC | Hybrid | Oct 26 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/68e027f11852e62f007e7f2f?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Oct 25 |
 | **[Richmond National](https://richmondnational.com)** | **[Legal Intern, Summer 2026](https://jobright.ai/jobs/info/68dfef38f758fe1f97e4801b?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | On Site | Oct 25 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/68c42ff514bb275ce01915b0?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | Hybrid | Oct 25 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[CAS](http://www.cas.org)** | **[CAS 2026 Legal Summer Intern](https://jobright.ai/jobs/info/68cf6388fb49c96ca6ea824f?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Oct 25 |
 | **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/68f32ee19a65fd3458584863?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Oct 25 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/68e0761cf758fe1f97e4d661?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Oct 25 |
+| **[MIT Investment Management Company](http://www.mitimco.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/68fdd00de04ac838fb5b1fda?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Oct 25 |
 | **[Neon](https://neon.tech)** | **[Legal and Business Affairs Intern (Spring)](https://jobright.ai/jobs/info/68fc7386f55bb021a88a3e46?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Oct 24 |
 | **[NEON](https://neonrated.com)** | **[Legal and Business Affairs Intern (Spring)](https://jobright.ai/jobs/info/68fc3d8f4129dd33cd13a123?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 24 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68fc3b9093c49825ab10b085?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Oct 24 |
@@ -99,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Ethics and Compliance Intern](https://jobright.ai/jobs/info/68fbd96593c49825ab106810?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 24 |
 | **[Notion](https://www.notion.so)** | **[Trust and Safety, Fraud and Abuse Analyst Intern](https://jobright.ai/jobs/info/68fbd93d93c49825ab1067d4?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 24 |
 | ↳ | **[Trust and Safety, Fraud and Abuse Analyst Intern](https://jobright.ai/jobs/info/68fbd85793c49825ab1066c0?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 24 |
+| **[Empower Capital](http://www.empowercapital.co.za)** | **[FinTech Intern (3-Week Part-Time Contract) in San FranciscoRisk and Compliance Manager](https://jobright.ai/jobs/info/68fdb643e0c73b3a11194700?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Oct 24 |
 | **[American Oversight](https://www.americanoversight.org/)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/68fbd1b74129dd33cd13503d?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 24 |
 | **[Road Commission For Oakland County](http://www.rcocweb.org)** | **[Legal Internship](https://jobright.ai/jobs/info/68fbce9093c49825ab105f02?utm_campaign=1055&utm_source=git)** | Beverly Hills, Michigan, United States | On Site | Oct 24 |
 | **[MarshBerry](http://marshberry.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68fbcd494129dd33cd134dc0?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Oct 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern](https://jobright.ai/jobs/info/68f78d9c5dc1be60128159a5?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 23 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/68d32740f0d9af73038df6b0?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Oct 23 |
 | **[American Family Insurance](http://amfamventures.com/)** | **[Summer 2026 Internship - Litigation Department](https://jobright.ai/jobs/info/68fa7cedb2c86843bf20e0f9?utm_campaign=1055&utm_source=git)** | CA Los Angeles | Hybrid | Oct 23 |
-| **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Material Damage Claims Intern - Summer 2026](https://jobright.ai/jobs/info/68fa5f7e7959161d33e62858?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Oct 23 |
-| **[Democracy Forward](https://democracyforward.org)** | **[Legal Internship Summer 2026](https://jobright.ai/jobs/info/68fa6afc7959161d33e63272?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 23 |
-| **[Utz Brands, Inc.](http://www.utzsnacks.com/)** | **[Regulatory Intern: Part Time](https://jobright.ai/jobs/info/68a50cce758f2e4ac3fdb80d?utm_campaign=1055&utm_source=git)** | State College, PA | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
