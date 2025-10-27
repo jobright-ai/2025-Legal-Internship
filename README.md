@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - IT GIS & COMPLIANCE (HDQ)](https://jobright.ai/jobs/info/68cba071efdec76df36bfcfa?utm_campaign=1055&utm_source=git)** | Bismarck, ND | On Site | Oct 27 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Salt Lake City, UT CLC](https://jobright.ai/jobs/info/68cd43621ad6b16f028973d7?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 27 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/68e88e05c72beb74cb320078?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 27 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Risk Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f6a63a76a51a4307bdcc5b?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Oct 26 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/68e0761cf758fe1f97e4d661?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Oct 25 |
 | **[Neon](https://neon.tech)** | **[Legal and Business Affairs Intern (Spring)](https://jobright.ai/jobs/info/68fc7386f55bb021a88a3e46?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Oct 24 |
 | **[NEON](https://neonrated.com)** | **[Legal and Business Affairs Intern (Spring)](https://jobright.ai/jobs/info/68fc3d8f4129dd33cd13a123?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 24 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/68fc3b9093c49825ab10b085?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Oct 24 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office Business Administration Intern](https://jobright.ai/jobs/info/68d87ab6295f8e37655e7c69?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 24 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Summer Intern, Excess/Surplus Insurance Claims](https://jobright.ai/jobs/info/68fc37b393c49825ab10ae0f?utm_campaign=1055&utm_source=git)** | US-NJ-Moorestown | On Site | Oct 24 |
 | **[American Oversight](https://www.americanoversight.org/)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/68fc37574129dd33cd139dcb?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Oct 24 |
