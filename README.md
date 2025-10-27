@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nabidex](https://www.linkedin.com/company/90590589)** | **[Summer Intern Client Management](https://jobright.ai/jobs/info/68fe8cba0ab3b222462a72e7?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Oct 26 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Risk Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f6a63a76a51a4307bdcc5b?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Oct 26 |
 | **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Law Clerk - Internship](https://jobright.ai/jobs/info/68fe5bece04ac838fb5b407c?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | Hybrid | Oct 26 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/68c86864983e6768bc54ced5?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Oct 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fa8c8667272b29af730ad0?utm_campaign=1055&utm_source=git)** | CA - Glendale | Hybrid | Oct 23 |
 | ↳ | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fa8b6767272b29af7309d8?utm_campaign=1055&utm_source=git)** | MN - St. Paul | Hybrid | Oct 23 |
 | **[Prairie State Legal Services Inc.](https://pslegal.org)** | **[Summer 2026 Law Student Internship](https://jobright.ai/jobs/info/68fa8775edd190144238dcdd?utm_campaign=1055&utm_source=git)** | Rockford, IL | On Site | Oct 23 |
+| **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fa86cfedd190144238dbec?utm_campaign=1055&utm_source=git)** | TX - Richardson | Hybrid | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
