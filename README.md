@@ -113,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Road Commission For Oakland County](http://www.rcocweb.org)** | **[Legal Internship](https://jobright.ai/jobs/info/68fbce9093c49825ab105f02?utm_campaign=1055&utm_source=git)** | Beverly Hills, Michigan, United States | On Site | Oct 24 |
 | **[MarshBerry](http://marshberry.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68fbcd494129dd33cd134dc0?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Oct 24 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Compliance Intern](https://jobright.ai/jobs/info/68fbc3484129dd33cd1346f0?utm_campaign=1055&utm_source=git)** | Kansas City, KS | On Site | Oct 24 |
-| **[California Appellate Project](http://www.capsf.org)** | **[Summer Intern](https://jobright.ai/jobs/info/68fbbcc2f55bb021a889bebe?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Oct 24 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Corporate Legal Intern](https://jobright.ai/jobs/info/68fafdd09e8e925ac6c88287?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Oct 24 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Compliance Intern](https://jobright.ai/jobs/info/68fbb05693c49825ab104c16?utm_campaign=1055&utm_source=git)** | Kansas City, KS, 66111, United States | On Site | Oct 24 |
 | **[FCC](http://www.fcc.es)** | **[Paid Regulatory & Economic Affairs Internship](https://jobright.ai/jobs/info/68fc8b9639d0ae3279af74ae?utm_campaign=1055&utm_source=git)** | Washington, DC, US | Hybrid | Oct 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fa8b6767272b29af7309d8?utm_campaign=1055&utm_source=git)** | MN - St. Paul | Hybrid | Oct 23 |
 | **[Prairie State Legal Services Inc.](https://pslegal.org)** | **[Summer 2026 Law Student Internship](https://jobright.ai/jobs/info/68fa8775edd190144238dcdd?utm_campaign=1055&utm_source=git)** | Rockford, IL | On Site | Oct 23 |
 | **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fa86cfedd190144238dbec?utm_campaign=1055&utm_source=git)** | TX - Richardson | Hybrid | Oct 23 |
+| ↳ | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fa8555b2c86843bf20ea2c?utm_campaign=1055&utm_source=git)** | TX - Dallas | Hybrid | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
