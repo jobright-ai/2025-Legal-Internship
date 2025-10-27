@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Salt Lake City, UT CLC](https://jobright.ai/jobs/info/68cd43621ad6b16f028973d7?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 27 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/68e88e05c72beb74cb320078?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 27 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Risk Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f6a63a76a51a4307bdcc5b?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Oct 26 |
 | **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Law Clerk - Internship](https://jobright.ai/jobs/info/68fe5bece04ac838fb5b407c?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | Hybrid | Oct 26 |
@@ -88,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Summer Intern, Excess/Surplus Insurance Claims](https://jobright.ai/jobs/info/68fc3125f55bb021a88a14a7?utm_campaign=1055&utm_source=git)** | NJ, Moorestown | On Site | Oct 24 |
 | **[Travis County](https://www.traviscountytx.gov)** | **[Legal Intern - Community Legal Services](https://jobright.ai/jobs/info/68fc2df393c49825ab10a8b3?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 24 |
 | **[Colliers](http://www.colliers.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/68fc293a93c49825ab10a658?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Oct 24 |
-| **[Apex Home Health & Hospice](http://apexhomehealth.com)** | **[Pool: Marketing and Business Law Student Assistant](https://jobright.ai/jobs/info/68fc1cd9f55bb021a88a0892?utm_campaign=1055&utm_source=git)** | Lawrence, KS | On Site | Oct 24 |
 | **[AARP](http://www.aarp.org)** | **[Ethics and Compliance Intern](https://jobright.ai/jobs/info/68fc17c593c49825ab109a48?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
 | **[Allen Barron, Inc.](https://www.allenbarron.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68fc1524f55bb021a88a0413?utm_campaign=1055&utm_source=git)** | San Diego County, CA | On Site | Oct 24 |
 | **[National Center for Youth Law](http://youthlaw.org)** | **[Spring 2026 Litigation Clerkships (law students)](https://jobright.ai/jobs/info/68fc04464129dd33cd137c2a?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 24 |
@@ -109,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Ethics and Compliance Intern](https://jobright.ai/jobs/info/68fbd96593c49825ab106810?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 24 |
 | **[Notion](https://www.notion.so)** | **[Trust and Safety, Fraud and Abuse Analyst Intern](https://jobright.ai/jobs/info/68fbd93d93c49825ab1067d4?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 24 |
 | ↳ | **[Trust and Safety, Fraud and Abuse Analyst Intern](https://jobright.ai/jobs/info/68fbd85793c49825ab1066c0?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 24 |
-| **[Empower Capital](http://www.empowercapital.co.za)** | **[FinTech Intern (3-Week Part-Time Contract) in San FranciscoRisk and Compliance Manager](https://jobright.ai/jobs/info/68fdb643e0c73b3a11194700?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Oct 24 |
 | **[American Oversight](https://www.americanoversight.org/)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/68fbd1b74129dd33cd13503d?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 24 |
 | **[Road Commission For Oakland County](http://www.rcocweb.org)** | **[Legal Internship](https://jobright.ai/jobs/info/68fbce9093c49825ab105f02?utm_campaign=1055&utm_source=git)** | Beverly Hills, Michigan, United States | On Site | Oct 24 |
 | **[MarshBerry](http://marshberry.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68fbcd494129dd33cd134dc0?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Oct 24 |
@@ -128,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Legal](https://jobright.ai/jobs/info/68fb86144129dd33cd132903?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Oct 24 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68defb1d44d32141e0c04796?utm_campaign=1055&utm_source=git)** | Irvine, CA | Hybrid | Oct 24 |
 | **[RegASK](https://regask.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68fb7c6993c49825ab103612?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 24 |
-| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68c7b4835c25e576f7b299c5?utm_campaign=1055&utm_source=git)** | Imperial, PA | On Site | Oct 24 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Summer Intern - Law Clerk](https://jobright.ai/jobs/info/68df3afe6be63b6ec996d521?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Oct 24 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Spring 2026](https://jobright.ai/jobs/info/68a6239933dd7158bbc9e317?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 24 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - CLS Project Managment](https://jobright.ai/jobs/info/68df27585ab4977c2e951040?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Oct 24 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fa8b6767272b29af7309d8?utm_campaign=1055&utm_source=git)** | MN - St. Paul | Hybrid | Oct 23 |
 | **[Prairie State Legal Services Inc.](https://pslegal.org)** | **[Summer 2026 Law Student Internship](https://jobright.ai/jobs/info/68fa8775edd190144238dcdd?utm_campaign=1055&utm_source=git)** | Rockford, IL | On Site | Oct 23 |
 | **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fa86cfedd190144238dbec?utm_campaign=1055&utm_source=git)** | TX - Richardson | Hybrid | Oct 23 |
+| ↳ | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fa8555b2c86843bf20ea2c?utm_campaign=1055&utm_source=git)** | TX - Dallas | Hybrid | Oct 23 |
+| ↳ | **[Risk Control Property Intern](https://jobright.ai/jobs/info/68fa852d67272b29af73047a?utm_campaign=1055&utm_source=git)** | CA - Walnut Creek | Hybrid | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
