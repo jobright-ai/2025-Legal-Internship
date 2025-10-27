@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bristol Myers Squibb](http://www.bms.com)** | **[Intern, U.S. Contract Strategy & Analytics (Summer 2026)](https://jobright.ai/jobs/info/68ffe84ee0c73b3a111a0401?utm_campaign=1055&utm_source=git)** | Princeton - NJ - US | Hybrid | Oct 27 |
+| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Investigative Intern, Spring 2026](https://jobright.ai/jobs/info/68ffe8230ab3b222462afdfd?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 27 |
+| **[Denver Water](https://www.denverwater.org/)** | **[Spring 2026 Law Clerk / Legal Intern](https://jobright.ai/jobs/info/68ffe6dc0ab3b222462afcb8?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Oct 27 |
+| **[State of Ohio](http://ohio.gov/)** | **[Legal Intern Spring 2026 (Prison Legal Services Section)](https://jobright.ai/jobs/info/68ffdf44e0c73b3a1119fb23?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Lorain County | Hybrid | Oct 27 |
+| **[Road Commission For Oakland County](http://www.rcocweb.org)** | **[Legal Internship](https://jobright.ai/jobs/info/68ffde79e0c73b3a1119fa24?utm_campaign=1055&utm_source=git)** | Franklin, MI | On Site | Oct 27 |
+| **[Singh Law Firm, P.A.](https://www.singhfirm.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68ffdcd2e0c73b3a1119f789?utm_campaign=1055&utm_source=git)** | Vienna, VA | On Site | Oct 27 |
+| **[Reading Partners](https://readingpartners.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/68ffd7b9e04ac838fb5bc2e7?utm_campaign=1055&utm_source=git)** | Oakland, CA | Remote | Oct 27 |
+| **[Amrize](http://www.amrize.com)** | **[Risk Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68ffd4190ab3b222462ae953?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 27 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Investigative Intern, Spring 2026](https://jobright.ai/jobs/info/68ffa36d0ab3b222462acb00?utm_campaign=1055&utm_source=git)** | New York, NY, 10013, United States | On Site | Oct 27 |
 | **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - IT GIS & COMPLIANCE (HDQ)](https://jobright.ai/jobs/info/68cba071efdec76df36bfcfa?utm_campaign=1055&utm_source=git)** | Bismarck, ND | On Site | Oct 27 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Salt Lake City, UT CLC](https://jobright.ai/jobs/info/68cd43621ad6b16f028973d7?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 27 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[St. Louis County, MN](https://stlouismn.attract.neogov.com/saint-louis-county-recruitment-hub-ky)** | **[Legal Intern](https://jobright.ai/jobs/info/68fbf9384129dd33cd137038?utm_campaign=1055&utm_source=git)** | Duluth, MN | On Site | Oct 23 |
 | **[Notion](https://www.notion.so)** | **[Trust and Safety, Fraud and Abuse Analyst Intern](https://jobright.ai/jobs/info/68fbd1e393c49825ab10620a?utm_campaign=1055&utm_source=git)** | San Francisco, California | On Site | Oct 23 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/68cdb92e1ad6b16f0289e426?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Oct 23 |
-| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Legal Intern- Regulatory & Marketing](https://jobright.ai/jobs/info/68fa9a9067272b29af731b79?utm_campaign=1055&utm_source=git)** | Woodland Hills, CA | On Site | Oct 23 |
-| **[IDEMIA](https://www.idemia.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/68fa98c7b2c86843bf20fe80?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Oct 23 |
-| ↳ | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/68fa8d84edd190144238e1ab?utm_campaign=1055&utm_source=git)** | US-VA-Reston | Hybrid | Oct 23 |
-| **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fa8c8667272b29af730ad0?utm_campaign=1055&utm_source=git)** | CA - Glendale | Hybrid | Oct 23 |
-| ↳ | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fa8b6767272b29af7309d8?utm_campaign=1055&utm_source=git)** | MN - St. Paul | Hybrid | Oct 23 |
-| **[Prairie State Legal Services Inc.](https://pslegal.org)** | **[Summer 2026 Law Student Internship](https://jobright.ai/jobs/info/68fa8775edd190144238dcdd?utm_campaign=1055&utm_source=git)** | Rockford, IL | On Site | Oct 23 |
-| **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fa86cfedd190144238dbec?utm_campaign=1055&utm_source=git)** | TX - Richardson | Hybrid | Oct 23 |
-| ↳ | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fa8555b2c86843bf20ea2c?utm_campaign=1055&utm_source=git)** | TX - Dallas | Hybrid | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
