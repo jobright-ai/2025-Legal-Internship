@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lennox](http://www.lennox.com)** | **[Summer 2026 Business Compliance Intern](https://jobright.ai/jobs/info/69004bd9e04ac838fb5c13b3?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Oct 27 |
 | **[Delmarva Power](http://www.delmarva.com)** | **[2026 Summer Internship - Legal & Governance Intern (Chicago, IL)](https://jobright.ai/jobs/info/69003c53e04ac838fb5c0958?utm_campaign=1055&utm_source=git)** | OAKBROOK TERRACE, Illinois | On Site | Oct 27 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Legal Intern](https://jobright.ai/jobs/info/6900334a0ab3b222462b2cdf?utm_campaign=1055&utm_source=git)** | Rochester, MN, United States | Remote | Oct 27 |
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Ethics & Compliance Intern](https://jobright.ai/jobs/info/69002fe6e0c73b3a111a31a0?utm_campaign=1055&utm_source=git)** | Connecticut, United States | Remote | Oct 27 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Legal & Governance Intern (Chicago, IL)](https://jobright.ai/jobs/info/69002b1f0ab3b222462b27f2?utm_campaign=1055&utm_source=git)** | Villa Park, IL | Hybrid | Oct 27 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Summer 2026 Business Compliance Intern](https://jobright.ai/jobs/info/690023d2e0c73b3a111a283f?utm_campaign=1055&utm_source=git)** | US-TX-Richardson | On Site | Oct 27 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department KYC Intern](https://jobright.ai/jobs/info/68db2dca6df7b8311bb169f6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 27 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Legal & Governance Intern (Chicago, IL)](https://jobright.ai/jobs/info/690014cbe0c73b3a111a1dea?utm_campaign=1055&utm_source=git)** | OAKBROOK TERRACE, Illinois | On Site | Oct 27 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/690014270ab3b222462b1a32?utm_campaign=1055&utm_source=git)** | Miami-FTL Area | On Site | Oct 27 |
+| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Legal & Governance Intern (Chicago, IL)](https://jobright.ai/jobs/info/690013e4e0c73b3a111a1d6c?utm_campaign=1055&utm_source=git)** | OAKBROOK TERRACE, Illinois | On Site | Oct 27 |
 | **[Southeast Toyota Distributors, LLC](https://jmfamily.com/our-businesses/southeast-toyota-distributors/)** | **[Franchise Analyst Intern](https://jobright.ai/jobs/info/69001181e04ac838fb5bec0c?utm_campaign=1055&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 27 |
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Ethics & Compliance Intern](https://jobright.ai/jobs/info/68fff313e0c73b3a111a0d8f?utm_campaign=1055&utm_source=git)** | OTCTH: Connecticut Home Offices Remote Location, Remote City, CT, 06032 USA | Remote | Oct 27 |
 | **[Amica Insurance](http://www.amica.com)** | **[Sr. Student Intern – Operational Risk Management](https://jobright.ai/jobs/info/68f6ae9e9a65fd3458596301?utm_campaign=1055&utm_source=git)** | Rhode Island, United States | Hybrid | Oct 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Risk Control Property Intern](https://jobright.ai/jobs/info/68fb397f3c99cc1d96029e28?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Oct 24 |
 | **[Nova Biomedical](https://www.novabiomedical.com/)** | **[Regulatory Affairs Co-Op/Intern](https://jobright.ai/jobs/info/68fc9d04e0c73b3a1118de7d?utm_campaign=1055&utm_source=git)** | Waltham, MA, US | On Site | Oct 24 |
 | **[Hakakian Law Group, PC](www.hakakianlaw.com)** | **[Personal Injury Paralegal](https://jobright.ai/jobs/info/68fb19113c99cc1d96028b76?utm_campaign=1055&utm_source=git)** | West Hollywood, CA | On Site | Oct 23 |
-| **[Bristol Myers Squibb](http://www.bms.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68faf38e9e8e925ac6c87d5e?utm_campaign=1055&utm_source=git)** | Greater Indianapolis | Hybrid | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
