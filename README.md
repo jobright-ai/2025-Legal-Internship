@@ -57,10 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Paralegal](https://jobright.ai/jobs/info/68df3aa76be63b6ec996d420?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Oct 28 |
+| **[TruStage](https://www.trustage.com/)** | **[Legal Compliance Intern (Hybrid)](https://jobright.ai/jobs/info/68c9d234f9c6ff7aedf1e258?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Oct 28 |
+| **[Oatey Company](https://www.oatey.com//)** | **[International Trade Compliance Intern](https://jobright.ai/jobs/info/68acbb60758f2e4ac30082e7?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Oct 28 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern – Go to Market Legal](https://jobright.ai/jobs/info/68e44a43b99ec3563b0e8c3c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Oct 28 |
+| **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Contract Manager - Summer 2026](https://jobright.ai/jobs/info/690092d8e0c73b3a111a5da1?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 28 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Legal Intern](https://jobright.ai/jobs/info/690081f2e0c73b3a111a56af?utm_campaign=1055&utm_source=git)** | Rochester, MN | On Site | Oct 28 |
+| **[FM](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/6900a1602a6d462b1d70da0b?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Oct 28 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Intern, U.S. Contract Strategy & Analytics (Summer 2026)](https://jobright.ai/jobs/info/69007d7ae04ac838fb5c2586?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Oct 28 |
 | **[Crest Vale](crestvale.us)** | **[Summer Intern Client Management](https://jobright.ai/jobs/info/69007c60e04ac838fb5c24f1?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Oct 28 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern](https://jobright.ai/jobs/info/68f78d9c5dc1be60128159a5?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 28 |
+| **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Regulatory Performance Management](https://jobright.ai/jobs/info/690070f2e04ac838fb5c1ec4?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Oct 28 |
 | **[Lennox](http://www.lennox.com)** | **[Summer 2026 Business Compliance Intern](https://jobright.ai/jobs/info/69004bd9e04ac838fb5c13b3?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Oct 27 |
 | **[Delmarva Power](http://www.delmarva.com)** | **[2026 Summer Internship - Legal & Governance Intern (Chicago, IL)](https://jobright.ai/jobs/info/69003c53e04ac838fb5c0958?utm_campaign=1055&utm_source=git)** | OAKBROOK TERRACE, Illinois | On Site | Oct 27 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Legal Intern](https://jobright.ai/jobs/info/6900334a0ab3b222462b2cdf?utm_campaign=1055&utm_source=git)** | Rochester, MN, United States | Remote | Oct 27 |
@@ -107,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[CAS](http://www.cas.org)** | **[CAS 2026 Legal Summer Intern](https://jobright.ai/jobs/info/68cf6388fb49c96ca6ea824f?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Oct 25 |
 | **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/68f32ee19a65fd3458584863?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Oct 25 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/68e0761cf758fe1f97e4d661?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Oct 25 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/69009cc0e04ac838fb5c3140?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 25 |
 | **[Neon](https://neon.tech)** | **[Legal and Business Affairs Intern (Spring)](https://jobright.ai/jobs/info/68fc7386f55bb021a88a3e46?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Oct 24 |
 | **[NEON](https://neonrated.com)** | **[Legal and Business Affairs Intern (Spring)](https://jobright.ai/jobs/info/68fc3d8f4129dd33cd13a123?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 24 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office Business Administration Intern](https://jobright.ai/jobs/info/68d87ab6295f8e37655e7c69?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 24 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Intern (Summer 2026)](https://jobright.ai/jobs/info/68c9c1baa0c52d598ea3afa2?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68fb91ea93c49825ab103d5e?utm_campaign=1055&utm_source=git)** | New York | On Site | Oct 24 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Regulatory Affairs](https://jobright.ai/jobs/info/68cf088c846f0b04af67edbe?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 24 |
-| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Legal](https://jobright.ai/jobs/info/68fb86144129dd33cd132903?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Oct 24 |
-| **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68defb1d44d32141e0c04796?utm_campaign=1055&utm_source=git)** | Irvine, CA | Hybrid | Oct 24 |
-| **[RegASK](https://regask.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68fb7c6993c49825ab103612?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 24 |
-| **[Union Pacific Railroad](http://www.up.com/)** | **[Summer Intern - Law Clerk](https://jobright.ai/jobs/info/68df3afe6be63b6ec996d521?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Oct 24 |
-| **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Spring 2026](https://jobright.ai/jobs/info/68a6239933dd7158bbc9e317?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 24 |
-| **[Labcorp](https://www.labcorp.com)** | **[Intern - CLS Project Managment](https://jobright.ai/jobs/info/68df27585ab4977c2e951040?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Oct 24 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/68c216274d652f044775cf64?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Oct 24 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Information Technology (DRC) - Summer 2026 (Boston)](https://jobright.ai/jobs/info/68ccc261a77e5d7d744f4f2f?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
