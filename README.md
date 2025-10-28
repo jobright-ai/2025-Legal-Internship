@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/690101004539ea1f2141b73f?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL | Hybrid | Oct 28 |
+| **[Koch](https://www.kochinc.com)** | **[Legal and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/6900fec7f8ce7a040fdbb14a?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Oct 28 |
+| **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Third Party Risk Intern [2026 Internship Program]](https://jobright.ai/jobs/info/6900f376f8ce7a040fdba976?utm_campaign=1055&utm_source=git)** | 18301 Bermuda Green Dr, Tampa, FL, 33647, US | Hybrid | Oct 28 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Sales Contracts Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68e48891f758fe1f97e69411?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Oct 28 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Legal Trial Division Internship](https://jobright.ai/jobs/info/6900ddecf8ce7a040fdb9e3a?utm_campaign=1055&utm_source=git)** | New York - Elmsford, 565 Taxter Road | On Site | Oct 28 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Claims Intern (Charlotte)](https://jobright.ai/jobs/info/68c85be4983e6768bc54c148?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Oct 28 |
@@ -97,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[FM](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/6900a1602a6d462b1d70da0b?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Oct 28 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Intern, U.S. Contract Strategy & Analytics (Summer 2026)](https://jobright.ai/jobs/info/69007d7ae04ac838fb5c2586?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Oct 28 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern](https://jobright.ai/jobs/info/68f78d9c5dc1be60128159a5?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 28 |
+| **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Regulatory Performance Management](https://jobright.ai/jobs/info/690070f2e04ac838fb5c1ec4?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Oct 28 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern (Spring)](https://jobright.ai/jobs/info/68f7885e5dc1be60128152b9?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 27 |
 | **[NorthWestern Energy](http://northwesternenergy.com)** | **[Intern Hydro License Compliance](https://jobright.ai/jobs/info/6900d8c04539ea1f2141a0cd?utm_campaign=1055&utm_source=git)** | Helena, MT | On Site | Oct 27 |
 | **[Lennox](http://www.lennox.com)** | **[Summer 2026 Business Compliance Intern](https://jobright.ai/jobs/info/69004bd9e04ac838fb5c13b3?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Oct 27 |
@@ -106,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Legal & Governance Intern (Chicago, IL)](https://jobright.ai/jobs/info/69002b1f0ab3b222462b27f2?utm_campaign=1055&utm_source=git)** | Villa Park, IL | Hybrid | Oct 27 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Summer 2026 Business Compliance Intern](https://jobright.ai/jobs/info/690023d2e0c73b3a111a283f?utm_campaign=1055&utm_source=git)** | US-TX-Richardson | On Site | Oct 27 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department KYC Intern](https://jobright.ai/jobs/info/68db2dca6df7b8311bb169f6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 27 |
+| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Legal & Governance Intern (Chicago, IL)](https://jobright.ai/jobs/info/690014cbe0c73b3a111a1dea?utm_campaign=1055&utm_source=git)** | OAKBROOK TERRACE, Illinois | On Site | Oct 27 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/690014270ab3b222462b1a32?utm_campaign=1055&utm_source=git)** | Miami-FTL Area | On Site | Oct 27 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Legal & Governance Intern (Chicago, IL)](https://jobright.ai/jobs/info/690013e4e0c73b3a111a1d6c?utm_campaign=1055&utm_source=git)** | OAKBROOK TERRACE, Illinois | On Site | Oct 27 |
 | **[Southeast Toyota Distributors, LLC](https://jmfamily.com/our-businesses/southeast-toyota-distributors/)** | **[Franchise Analyst Intern](https://jobright.ai/jobs/info/69001181e04ac838fb5bec0c?utm_campaign=1055&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 27 |
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Ethics & Compliance Intern](https://jobright.ai/jobs/info/68fff313e0c73b3a111a0d8f?utm_campaign=1055&utm_source=git)** | OTCTH: Connecticut Home Offices Remote Location, Remote City, CT, 06032 USA | Remote | Oct 27 |
 | **[Amica Insurance](http://www.amica.com)** | **[Sr. Student Intern – Operational Risk Management](https://jobright.ai/jobs/info/68f6ae9e9a65fd3458596301?utm_campaign=1055&utm_source=git)** | Rhode Island, United States | Hybrid | Oct 27 |
@@ -125,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/68e88e05c72beb74cb320078?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 27 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Risk Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f6a63a76a51a4307bdcc5b?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Oct 26 |
 | **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Law Clerk - Internship](https://jobright.ai/jobs/info/68fe5bece04ac838fb5b407c?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | Hybrid | Oct 26 |
-| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/68c86864983e6768bc54ced5?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Oct 26 |
 | **[CBIZ](http://www.cbiz.com)** | **[Risk Advisory Intern / Summer 2026 / Cyber](https://jobright.ai/jobs/info/68fe3d11e0c73b3a11196d6d?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Oct 26 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/68a90f7f6acf96396f724768?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Oct 26 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Legal Intern / Summer 2026](https://jobright.ai/jobs/info/68d1991f17554c2d9eedd31e?utm_campaign=1055&utm_source=git)** | Brentwood, TN | Hybrid | Oct 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Travis County](https://www.traviscountytx.gov)** | **[Legal Intern - Community Legal Services](https://jobright.ai/jobs/info/68fc2df393c49825ab10a8b3?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 24 |
 | **[Colliers](http://www.colliers.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/68fc293a93c49825ab10a658?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Oct 24 |
 | **[AARP](http://www.aarp.org)** | **[Ethics and Compliance Intern](https://jobright.ai/jobs/info/68fc17c593c49825ab109a48?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
-| **[Allen Barron, Inc.](https://www.allenbarron.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68fc1524f55bb021a88a0413?utm_campaign=1055&utm_source=git)** | San Diego County, CA | On Site | Oct 24 |
-| **[National Center for Youth Law](http://youthlaw.org)** | **[Spring 2026 Litigation Clerkships (law students)](https://jobright.ai/jobs/info/68fc04464129dd33cd137c2a?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 24 |
-| **[Intuit](https://www.intuit.com)** | **[Fraud and Risk Intern](https://jobright.ai/jobs/info/68fc014ff55bb021a889f54d?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
