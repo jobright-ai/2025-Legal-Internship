@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Notion](https://www.notion.so)** | **[Governance, Risk, and Compliance Intern (Winter 2026)](https://jobright.ai/jobs/info/69011d51f8ce7a040fdbc330?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 28 |
+| **[WIN Waste Innovations](https://www.win-waste.com)** | **[Summer Safety Internship](https://jobright.ai/jobs/info/68f4c8d576a51a4307bd3983?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Oct 28 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Legal Trial Division Internship](https://jobright.ai/jobs/info/69011a68d5259a1b3cff166f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Oct 28 |
+| **[Flowdesk](https://flowdesk.co)** | **[Legal Intern NAM (F/M/D)](https://jobright.ai/jobs/info/690118604539ea1f2141c57f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 28 |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 - Legal - Graduate Intern](https://jobright.ai/jobs/info/6901177a4539ea1f2141c45c?utm_campaign=1055&utm_source=git)** | Pittsburgh PA, 15222, FAP, 5th Avenue Place | On Site | Oct 28 |
+| **[Koch](https://www.kochinc.com)** | **[Legal and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/690105a1d5259a1b3cff0926?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Oct 28 |
 | **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/690101004539ea1f2141b73f?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL | Hybrid | Oct 28 |
 | **[Koch](https://www.kochinc.com)** | **[Legal and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/6900fec7f8ce7a040fdbb14a?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Oct 28 |
 | **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Third Party Risk Intern [2026 Internship Program]](https://jobright.ai/jobs/info/6900f376f8ce7a040fdba976?utm_campaign=1055&utm_source=git)** | 18301 Bermuda Green Dr, Tampa, FL, 33647, US | Hybrid | Oct 28 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Neon](https://neon.tech)** | **[Legal and Business Affairs Intern (Spring)](https://jobright.ai/jobs/info/68fc7386f55bb021a88a3e46?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Oct 24 |
 | **[NEON](https://neonrated.com)** | **[Legal and Business Affairs Intern (Spring)](https://jobright.ai/jobs/info/68fc3d8f4129dd33cd13a123?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 24 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office Business Administration Intern](https://jobright.ai/jobs/info/68d87ab6295f8e37655e7c69?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 24 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Summer Intern, Excess/Surplus Insurance Claims](https://jobright.ai/jobs/info/68fc37b393c49825ab10ae0f?utm_campaign=1055&utm_source=git)** | US-NJ-Moorestown | On Site | Oct 24 |
-| **[American Oversight](https://www.americanoversight.org/)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/68fc37574129dd33cd139dcb?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Oct 24 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Summer Intern, Excess/Surplus Insurance Claims](https://jobright.ai/jobs/info/68fc3125f55bb021a88a14a7?utm_campaign=1055&utm_source=git)** | NJ, Moorestown | On Site | Oct 24 |
-| **[Travis County](https://www.traviscountytx.gov)** | **[Legal Intern - Community Legal Services](https://jobright.ai/jobs/info/68fc2df393c49825ab10a8b3?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 24 |
-| **[Colliers](http://www.colliers.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/68fc293a93c49825ab10a658?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Oct 24 |
-| **[AARP](http://www.aarp.org)** | **[Ethics and Compliance Intern](https://jobright.ai/jobs/info/68fc17c593c49825ab109a48?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
