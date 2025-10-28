@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Legal Intern](https://jobright.ai/jobs/info/690081f2e0c73b3a111a56af?utm_campaign=1055&utm_source=git)** | Rochester, MN | On Site | Oct 28 |
+| **[Bristol Myers Squibb](http://www.bms.com)** | **[Intern, U.S. Contract Strategy & Analytics (Summer 2026)](https://jobright.ai/jobs/info/69007d7ae04ac838fb5c2586?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Oct 28 |
+| **[Crest Vale](crestvale.us)** | **[Summer Intern Client Management](https://jobright.ai/jobs/info/69007c60e04ac838fb5c24f1?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Oct 28 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern](https://jobright.ai/jobs/info/68f78d9c5dc1be60128159a5?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 28 |
-| **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Regulatory Performance Management](https://jobright.ai/jobs/info/690070f2e04ac838fb5c1ec4?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Oct 28 |
 | **[Lennox](http://www.lennox.com)** | **[Summer 2026 Business Compliance Intern](https://jobright.ai/jobs/info/69004bd9e04ac838fb5c13b3?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Oct 27 |
 | **[Delmarva Power](http://www.delmarva.com)** | **[2026 Summer Internship - Legal & Governance Intern (Chicago, IL)](https://jobright.ai/jobs/info/69003c53e04ac838fb5c0958?utm_campaign=1055&utm_source=git)** | OAKBROOK TERRACE, Illinois | On Site | Oct 27 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Legal Intern](https://jobright.ai/jobs/info/6900334a0ab3b222462b2cdf?utm_campaign=1055&utm_source=git)** | Rochester, MN, United States | Remote | Oct 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - CLS Project Managment](https://jobright.ai/jobs/info/68df27585ab4977c2e951040?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Oct 24 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/68c216274d652f044775cf64?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Oct 24 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Information Technology (DRC) - Summer 2026 (Boston)](https://jobright.ai/jobs/info/68ccc261a77e5d7d744f4f2f?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Oct 24 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/68fb3faae154835f11efaf43?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Oct 24 |
-| **[Travelers](https://www.travelers.com)** | **[Risk Control Property Intern](https://jobright.ai/jobs/info/68fb397f3c99cc1d96029e28?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
