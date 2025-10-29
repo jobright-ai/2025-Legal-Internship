@@ -121,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Legal / Commercial Intern](https://jobright.ai/jobs/info/68e478f91852e62f0080643a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
 | ↳ | **[Summer 2026 Internship - Legal / Media Law and First Amendment](https://jobright.ai/jobs/info/68e47c7db99ec3563b0eacef?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
 | **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Drug Product Supply Risk Management](https://jobright.ai/jobs/info/68fee8b3e0c73b3a11198652?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Oct 28 |
-| **[Penguin Random House](http://www.penguinrandomhouse.com/)** | **[2026 Summer Remote Internship: Legal](https://jobright.ai/jobs/info/6900d856d5259a1b3cfeef43?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Oct 28 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/6900cd7cf8ce7a040fdb9651?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Oct 28 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Paralegal](https://jobright.ai/jobs/info/68df3aa76be63b6ec996d420?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Oct 28 |
 | **[Kimball Electronics](http://www.kimballelectronics.com)** | **[Legal Analyst Intern](https://jobright.ai/jobs/info/68ec9fa7c26b9574506f56d7?utm_campaign=1055&utm_source=git)** | Jasper, IN | On Site | Oct 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Road Commission For Oakland County](http://www.rcocweb.org)** | **[Legal Internship](https://jobright.ai/jobs/info/68ffde79e0c73b3a1119fa24?utm_campaign=1055&utm_source=git)** | Franklin, MI | On Site | Oct 27 |
 | **[Singh Law Firm, P.A.](https://www.singhfirm.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68ffdcd2e0c73b3a1119f789?utm_campaign=1055&utm_source=git)** | Vienna, VA | On Site | Oct 27 |
 | **[Reading Partners](https://readingpartners.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/68ffd7b9e04ac838fb5bc2e7?utm_campaign=1055&utm_source=git)** | Oakland, CA | Remote | Oct 27 |
+| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Investigative Intern, Spring 2026](https://jobright.ai/jobs/info/68ffa36d0ab3b222462acb00?utm_campaign=1055&utm_source=git)** | New York, NY, 10013, United States | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
