@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SageSure](https://www.sagesure.com)** | **[Claims Analyst Intern](https://jobright.ai/jobs/info/69026c2300a1816c41e9de62?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 29 |
+| **[New York Legal Assistance Group](https://www.nylag.org)** | **[Spring 2026 LGBTQ Law Intern](https://jobright.ai/jobs/info/6902650d00a1816c41e9d941?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
 | **[MBTA](http://mbta.com)** | **[Records and Information Management Intern (Spring 26)](https://jobright.ai/jobs/info/69024cd398707b2b0fe6e030?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Oct 29 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e621301852e62f008193d6?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 29 |
-| ↳ | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e6231cae2b894b1d718712?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 29 |
-| **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Summer Intern Client Management](https://jobright.ai/jobs/info/69023387ff462851fefe0bf7?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 29 |
+| **[Woods Lonergan PLLC](https://www.woodslaw.com)** | **[Law Clerk Externship](https://jobright.ai/jobs/info/69025dd498707b2b0fe6eb14?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 29 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e6231cae2b894b1d718712?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 29 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/68cf8933dbd9fb154ede8a66?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 29 |
 | **[Pantex Plant](https://www.pantex.com)** | **[Student Intern - Cyber Policy & Authorizations](https://jobright.ai/jobs/info/68ce6794846f0b04af679873?utm_campaign=1055&utm_source=git)** | Amarillo, TX | On Site | Oct 29 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Global Corporate and Healthcare Compliance](https://jobright.ai/jobs/info/690245ac00a1816c41e9c643?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | Oct 29 |
+| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Claims Intern (Rochester, NY)](https://jobright.ai/jobs/info/68c85c9df9c6ff7aedf0d538?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Oct 29 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Legal Operations Intern (February to May)](https://jobright.ai/jobs/info/68ca52fd46caff4db51fd538?utm_campaign=1055&utm_source=git)** | Needham, MA | On Site | Oct 29 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68cff6ddfb49c96ca6eacdbd?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Oct 29 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68cc616b128dc347fd923dcd?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Oct 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Legal Intern](https://jobright.ai/jobs/info/6900be1b4539ea1f2141957f?utm_campaign=1055&utm_source=git)** | Rochester, MN | On Site | Oct 28 |
 | **[TruStage](https://www.trustage.com/)** | **[Legal Compliance Intern (Hybrid)](https://jobright.ai/jobs/info/68c9d234f9c6ff7aedf1e258?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Oct 28 |
 | **[Oatey Company](https://www.oatey.com//)** | **[International Trade Compliance Intern](https://jobright.ai/jobs/info/68acbb60758f2e4ac30082e7?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Oct 28 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern – Go to Market Legal](https://jobright.ai/jobs/info/68e44a43b99ec3563b0e8c3c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Oct 28 |
-| **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Contract Manager - Summer 2026](https://jobright.ai/jobs/info/690092d8e0c73b3a111a5da1?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 28 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Legal Intern](https://jobright.ai/jobs/info/690081f2e0c73b3a111a56af?utm_campaign=1055&utm_source=git)** | Rochester, MN | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
