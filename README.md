@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e6231cae2b894b1d718712?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 29 |
+| **[MBTA](http://mbta.com)** | **[Records and Information Management Intern (Spring 26)](https://jobright.ai/jobs/info/69024cd398707b2b0fe6e030?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Oct 29 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e621301852e62f008193d6?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 29 |
+| ↳ | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e6231cae2b894b1d718712?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 29 |
 | **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Summer Intern Client Management](https://jobright.ai/jobs/info/69023387ff462851fefe0bf7?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 29 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/68cf8933dbd9fb154ede8a66?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 29 |
 | **[Pantex Plant](https://www.pantex.com)** | **[Student Intern - Cyber Policy & Authorizations](https://jobright.ai/jobs/info/68ce6794846f0b04af679873?utm_campaign=1055&utm_source=git)** | Amarillo, TX | On Site | Oct 29 |
+| **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Global Corporate and Healthcare Compliance](https://jobright.ai/jobs/info/690245ac00a1816c41e9c643?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | Oct 29 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Legal Operations Intern (February to May)](https://jobright.ai/jobs/info/68ca52fd46caff4db51fd538?utm_campaign=1055&utm_source=git)** | Needham, MA | On Site | Oct 29 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68cff6ddfb49c96ca6eacdbd?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Oct 29 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68cc616b128dc347fd923dcd?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Oct 29 |
+| **[AVA Law Group, PLLC](https://avalaw.com/)** | **[Intern (Legal Admin)](https://jobright.ai/jobs/info/69023a1fff462851fefe104d?utm_campaign=1055&utm_source=git)** | Billings, MT | On Site | Oct 29 |
+| **[Fairview LLC](https://fairviewinvest.com)** | **[Risk Assurance Intern](https://jobright.ai/jobs/info/69023ce100a1816c41e9c1e5?utm_campaign=1055&utm_source=git)** | Raleigh, NC | Hybrid | Oct 29 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Spring Legal Intern](https://jobright.ai/jobs/info/68ea535d8369791ef7820de5?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Oct 29 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Safety](https://jobright.ai/jobs/info/68aced9fdaf1431824c991e7?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Oct 29 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Legal Intern (Part Time)](https://jobright.ai/jobs/info/68eb9af98369791ef7827dd2?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Oct 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern – Go to Market Legal](https://jobright.ai/jobs/info/68e44a43b99ec3563b0e8c3c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Oct 28 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Contract Manager - Summer 2026](https://jobright.ai/jobs/info/690092d8e0c73b3a111a5da1?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 28 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Legal Intern](https://jobright.ai/jobs/info/690081f2e0c73b3a111a56af?utm_campaign=1055&utm_source=git)** | Rochester, MN | On Site | Oct 28 |
-| **[FM](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/6900a1602a6d462b1d70da0b?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Oct 28 |
-| **[Bristol Myers Squibb](http://www.bms.com)** | **[Intern, U.S. Contract Strategy & Analytics (Summer 2026)](https://jobright.ai/jobs/info/69007d7ae04ac838fb5c2586?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Oct 28 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern](https://jobright.ai/jobs/info/68f78d9c5dc1be60128159a5?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 28 |
-| **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Regulatory Performance Management](https://jobright.ai/jobs/info/690070f2e04ac838fb5c1ec4?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Oct 28 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern (Spring)](https://jobright.ai/jobs/info/68f7885e5dc1be60128152b9?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 27 |
-| **[NorthWestern Energy](http://northwesternenergy.com)** | **[Intern Hydro License Compliance](https://jobright.ai/jobs/info/6900d8c04539ea1f2141a0cd?utm_campaign=1055&utm_source=git)** | Helena, MT | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
