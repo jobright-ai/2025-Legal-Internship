@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AVA Law Group, PLLC](https://avalaw.com/)** | **[Intern (Legal Admin)](https://jobright.ai/jobs/info/69017435f8ce7a040fdbfcf3?utm_campaign=1055&utm_source=git)** | Billings,MT,US | On Site | Oct 28 |
 | **[Notion](https://www.notion.so)** | **[Privacy and Risk Intern (Summer 2026)](https://jobright.ai/jobs/info/69016e314539ea1f2141ff48?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
 | **[Fairview LLC](https://fairviewinvest.com)** | **[Risk Assurance Intern](https://jobright.ai/jobs/info/69016c354539ea1f2141fe29?utm_campaign=1055&utm_source=git)** | Raleigh,NC,US | Hybrid | Oct 28 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/690160e94539ea1f2141f9bc?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Oct 28 |
@@ -132,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[FM](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/6900a1602a6d462b1d70da0b?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Oct 28 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Intern, U.S. Contract Strategy & Analytics (Summer 2026)](https://jobright.ai/jobs/info/69007d7ae04ac838fb5c2586?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Oct 28 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern](https://jobright.ai/jobs/info/68f78d9c5dc1be60128159a5?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 28 |
-| **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Regulatory Performance Management](https://jobright.ai/jobs/info/690070f2e04ac838fb5c1ec4?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Oct 28 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern (Spring)](https://jobright.ai/jobs/info/68f7885e5dc1be60128152b9?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 27 |
 | **[NorthWestern Energy](http://northwesternenergy.com)** | **[Intern Hydro License Compliance](https://jobright.ai/jobs/info/6900d8c04539ea1f2141a0cd?utm_campaign=1055&utm_source=git)** | Helena, MT | On Site | Oct 27 |
 | **[Lennox](http://www.lennox.com)** | **[Summer 2026 Business Compliance Intern](https://jobright.ai/jobs/info/69004bd9e04ac838fb5c13b3?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Oct 27 |
@@ -142,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Legal & Governance Intern (Chicago, IL)](https://jobright.ai/jobs/info/69002b1f0ab3b222462b27f2?utm_campaign=1055&utm_source=git)** | Villa Park, IL | Hybrid | Oct 27 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Summer 2026 Business Compliance Intern](https://jobright.ai/jobs/info/690023d2e0c73b3a111a283f?utm_campaign=1055&utm_source=git)** | US-TX-Richardson | On Site | Oct 27 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department KYC Intern](https://jobright.ai/jobs/info/68db2dca6df7b8311bb169f6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 27 |
+| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Legal & Governance Intern (Chicago, IL)](https://jobright.ai/jobs/info/690014cbe0c73b3a111a1dea?utm_campaign=1055&utm_source=git)** | OAKBROOK TERRACE, Illinois | On Site | Oct 27 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/690014270ab3b222462b1a32?utm_campaign=1055&utm_source=git)** | Miami-FTL Area | On Site | Oct 27 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Legal & Governance Intern (Chicago, IL)](https://jobright.ai/jobs/info/690013e4e0c73b3a111a1d6c?utm_campaign=1055&utm_source=git)** | OAKBROOK TERRACE, Illinois | On Site | Oct 27 |
 | **[Southeast Toyota Distributors, LLC](https://jmfamily.com/our-businesses/southeast-toyota-distributors/)** | **[Franchise Analyst Intern](https://jobright.ai/jobs/info/69001181e04ac838fb5bec0c?utm_campaign=1055&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 27 |
 | **[Notion](https://www.notion.so)** | **[Privacy and Risk Intern (Summer 2026)](https://jobright.ai/jobs/info/6901376af8ce7a040fdbda6a?utm_campaign=1055&utm_source=git)** | New York, New York | On Site | Oct 27 |
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Ethics & Compliance Intern](https://jobright.ai/jobs/info/68fff313e0c73b3a111a0d8f?utm_campaign=1055&utm_source=git)** | OTCTH: Connecticut Home Offices Remote Location, Remote City, CT, 06032 USA | Remote | Oct 27 |
