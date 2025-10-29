@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Philadelphia, PA CLC](https://jobright.ai/jobs/info/69027b6398707b2b0fe6ff6f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 29 |
 | **[SageSure](https://www.sagesure.com)** | **[Claims Analyst Intern](https://jobright.ai/jobs/info/69026c2300a1816c41e9de62?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 29 |
+| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/6902886198707b2b0fe70bd2?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Oct 29 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Spring 2026 LGBTQ Law Intern](https://jobright.ai/jobs/info/6902650d00a1816c41e9d941?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
 | **[MBTA](http://mbta.com)** | **[Records and Information Management Intern (Spring 26)](https://jobright.ai/jobs/info/69024cd398707b2b0fe6e030?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Oct 29 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e621301852e62f008193d6?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 29 |
@@ -93,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/690160e94539ea1f2141f9bc?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Oct 28 |
 | **[National Life Group](https://www.nationallife.com)** | **[Law & Compliance Intern – Summer 2026](https://jobright.ai/jobs/info/69016080d5259a1b3cff480e?utm_campaign=1055&utm_source=git)** | Addison, TX | Hybrid | Oct 28 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/69016042d5259a1b3cff47f6?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | Hybrid | Oct 28 |
+| **[State of Florida](http://www.myflorida.com)** | **[COMPLIANCE OFFICER - 42003986 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/69028ab3ff462851fefe4694?utm_campaign=1055&utm_source=git)** | Greater Orlando | On Site | Oct 28 |
 | **[AARP](http://www.aarp.org)** | **[Legal Counsel for the Elderly Intern (Spring Start)](https://jobright.ai/jobs/info/69015d83f8ce7a040fdbf27e?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 28 |
 | **[National Life Group](https://www.nationallife.com)** | **[Law & Compliance Intern – Summer 2026](https://jobright.ai/jobs/info/690159594539ea1f2141f709?utm_campaign=1055&utm_source=git)** | Montpelier, VT | Hybrid | Oct 28 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/6901435af8ce7a040fdbe4bb?utm_campaign=1055&utm_source=git)** | Suwanee, GA | On Site | Oct 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/6900cd7cf8ce7a040fdb9651?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Oct 28 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Paralegal](https://jobright.ai/jobs/info/68df3aa76be63b6ec996d420?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Oct 28 |
 | **[Kimball Electronics](http://www.kimballelectronics.com)** | **[Legal Analyst Intern](https://jobright.ai/jobs/info/68ec9fa7c26b9574506f56d7?utm_campaign=1055&utm_source=git)** | Jasper, IN | On Site | Oct 28 |
-| **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Legal Intern](https://jobright.ai/jobs/info/6900be1b4539ea1f2141957f?utm_campaign=1055&utm_source=git)** | Rochester, MN | On Site | Oct 28 |
-| **[TruStage](https://www.trustage.com/)** | **[Legal Compliance Intern (Hybrid)](https://jobright.ai/jobs/info/68c9d234f9c6ff7aedf1e258?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Oct 28 |
-| **[Oatey Company](https://www.oatey.com//)** | **[International Trade Compliance Intern](https://jobright.ai/jobs/info/68acbb60758f2e4ac30082e7?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
