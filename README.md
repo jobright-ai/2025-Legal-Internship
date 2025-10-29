@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Notion](https://www.notion.so)** | **[Privacy and Risk Intern (Summer 2026)](https://jobright.ai/jobs/info/69016e314539ea1f2141ff48?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
+| **[Fairview LLC](https://fairviewinvest.com)** | **[Risk Assurance Intern](https://jobright.ai/jobs/info/69016c354539ea1f2141fe29?utm_campaign=1055&utm_source=git)** | Raleigh,NC,US | Hybrid | Oct 28 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/690160e94539ea1f2141f9bc?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Oct 28 |
+| **[National Life Group](https://www.nationallife.com)** | **[Law & Compliance Intern – Summer 2026](https://jobright.ai/jobs/info/69016080d5259a1b3cff480e?utm_campaign=1055&utm_source=git)** | Addison, TX | Hybrid | Oct 28 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/69016042d5259a1b3cff47f6?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | Hybrid | Oct 28 |
+| **[AARP](http://www.aarp.org)** | **[Legal Counsel for the Elderly Intern (Spring Start)](https://jobright.ai/jobs/info/69015d83f8ce7a040fdbf27e?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 28 |
+| **[National Life Group](https://www.nationallife.com)** | **[Law & Compliance Intern – Summer 2026](https://jobright.ai/jobs/info/690159594539ea1f2141f709?utm_campaign=1055&utm_source=git)** | Montpelier, VT | Hybrid | Oct 28 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/6901435af8ce7a040fdbe4bb?utm_campaign=1055&utm_source=git)** | Suwanee, GA | On Site | Oct 28 |
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/690141f9f8ce7a040fdbe3f1?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 28 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69013e89f8ce7a040fdbe008?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | On Site | Oct 28 |
@@ -68,8 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship, Summer 2026 - Legal](https://jobright.ai/jobs/info/6901395ef8ce7a040fdbdc8d?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Oct 28 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69013520f8ce7a040fdbd79d?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Oct 28 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/690134c1f8ce7a040fdbd749?utm_campaign=1055&utm_source=git)** | East Syracuse, NY | On Site | Oct 28 |
-| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/69013482f8ce7a040fdbd6fe?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Oct 28 |
-| **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/690130e0d5259a1b3cff2ace?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Oct 28 |
+| ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/690130e0d5259a1b3cff2ace?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Oct 28 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/690151e74539ea1f2141f407?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Oct 28 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69012da8d5259a1b3cff2579?utm_campaign=1055&utm_source=git)** | Orange, CA | On Site | Oct 28 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69012c0d4539ea1f2141d5fa?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Oct 28 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Singh Law Firm, P.A.](https://www.singhfirm.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68ffdcd2e0c73b3a1119f789?utm_campaign=1055&utm_source=git)** | Vienna, VA | On Site | Oct 27 |
 | **[Reading Partners](https://readingpartners.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/68ffd7b9e04ac838fb5bc2e7?utm_campaign=1055&utm_source=git)** | Oakland, CA | Remote | Oct 27 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Investigative Intern, Spring 2026](https://jobright.ai/jobs/info/68ffa36d0ab3b222462acb00?utm_campaign=1055&utm_source=git)** | New York, NY, 10013, United States | On Site | Oct 27 |
-| **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - IT GIS & COMPLIANCE (HDQ)](https://jobright.ai/jobs/info/68cba071efdec76df36bfcfa?utm_campaign=1055&utm_source=git)** | Bismarck, ND | On Site | Oct 27 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Salt Lake City, UT CLC](https://jobright.ai/jobs/info/68cd43621ad6b16f028973d7?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 27 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/68e88e05c72beb74cb320078?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Oct 27 |
-| **[Seagate Technology](http://www.seagate.com)** | **[Risk Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f6a63a76a51a4307bdcc5b?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Oct 26 |
-| **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Law Clerk - Internship](https://jobright.ai/jobs/info/68fe5bece04ac838fb5b407c?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | Hybrid | Oct 26 |
-| **[CBIZ](http://www.cbiz.com)** | **[Risk Advisory Intern / Summer 2026 / Cyber](https://jobright.ai/jobs/info/68fe3d11e0c73b3a11196d6d?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
