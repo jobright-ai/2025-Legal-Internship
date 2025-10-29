@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Spring Legal Intern](https://jobright.ai/jobs/info/68e5f0cd1852e62f0081683a?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Oct 29 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/68ccc7fdd99309000e5a3144?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Oct 29 |
+| **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Security GRC - Summer 2026](https://jobright.ai/jobs/info/6901eb5498707b2b0fe6b8d3?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 29 |
+| ↳ | **[Intern - Security GRC - Summer 2026](https://jobright.ai/jobs/info/6901ea2898707b2b0fe6b824?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 29 |
+| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[PIP Paralegal Intern](https://jobright.ai/jobs/info/68e58236ae2b894b1d7104b3?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ | On Site | Oct 29 |
 | **[AVA Law Group, PLLC](https://avalaw.com/)** | **[Intern (Legal Admin)](https://jobright.ai/jobs/info/69017435f8ce7a040fdbfcf3?utm_campaign=1055&utm_source=git)** | Billings,MT,US | On Site | Oct 28 |
 | **[Notion](https://www.notion.so)** | **[Privacy and Risk Intern (Summer 2026)](https://jobright.ai/jobs/info/69016e314539ea1f2141ff48?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
 | **[Fairview LLC](https://fairviewinvest.com)** | **[Risk Assurance Intern](https://jobright.ai/jobs/info/69016c354539ea1f2141fe29?utm_campaign=1055&utm_source=git)** | Raleigh,NC,US | Hybrid | Oct 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Intern, U.S. Contract Strategy & Analytics (Summer 2026)](https://jobright.ai/jobs/info/68ffe84ee0c73b3a111a0401?utm_campaign=1055&utm_source=git)** | Princeton - NJ - US | Hybrid | Oct 27 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Investigative Intern, Spring 2026](https://jobright.ai/jobs/info/68ffe8230ab3b222462afdfd?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[Denver Water](https://www.denverwater.org/)** | **[Spring 2026 Law Clerk / Legal Intern](https://jobright.ai/jobs/info/68ffe6dc0ab3b222462afcb8?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Oct 27 |
-| **[State of Ohio](http://ohio.gov/)** | **[Legal Intern Spring 2026 (Prison Legal Services Section)](https://jobright.ai/jobs/info/68ffdf44e0c73b3a1119fb23?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Lorain County | Hybrid | Oct 27 |
-| **[Road Commission For Oakland County](http://www.rcocweb.org)** | **[Legal Internship](https://jobright.ai/jobs/info/68ffde79e0c73b3a1119fa24?utm_campaign=1055&utm_source=git)** | Franklin, MI | On Site | Oct 27 |
-| **[Singh Law Firm, P.A.](https://www.singhfirm.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68ffdcd2e0c73b3a1119f789?utm_campaign=1055&utm_source=git)** | Vienna, VA | On Site | Oct 27 |
-| **[Reading Partners](https://readingpartners.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/68ffd7b9e04ac838fb5bc2e7?utm_campaign=1055&utm_source=git)** | Oakland, CA | Remote | Oct 27 |
-| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Investigative Intern, Spring 2026](https://jobright.ai/jobs/info/68ffa36d0ab3b222462acb00?utm_campaign=1055&utm_source=git)** | New York, NY, 10013, United States | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
