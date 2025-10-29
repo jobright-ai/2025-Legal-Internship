@@ -57,12 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e6231cae2b894b1d718712?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 29 |
+| **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Summer Intern Client Management](https://jobright.ai/jobs/info/69023387ff462851fefe0bf7?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 29 |
+| **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/68cf8933dbd9fb154ede8a66?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 29 |
+| **[Pantex Plant](https://www.pantex.com)** | **[Student Intern - Cyber Policy & Authorizations](https://jobright.ai/jobs/info/68ce6794846f0b04af679873?utm_campaign=1055&utm_source=git)** | Amarillo, TX | On Site | Oct 29 |
+| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68cff6ddfb49c96ca6eacdbd?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Oct 29 |
+| ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68cc616b128dc347fd923dcd?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Oct 29 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Spring Legal Intern](https://jobright.ai/jobs/info/68ea535d8369791ef7820de5?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Oct 29 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Safety](https://jobright.ai/jobs/info/68aced9fdaf1431824c991e7?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Oct 29 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Legal Intern (Part Time)](https://jobright.ai/jobs/info/68eb9af98369791ef7827dd2?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Oct 29 |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Audit & Inspection Intern](https://jobright.ai/jobs/info/68e5dfeeae2b894b1d714b05?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Oct 29 |
 | **[Frost](https://www.frostbank.com/)** | **[College Intern -  Loan Document Coordinator](https://jobright.ai/jobs/info/68ec99b4d4b0106e703ea2a4?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Oct 29 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Spring Legal Intern](https://jobright.ai/jobs/info/68e5f0cd1852e62f0081683a?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Oct 29 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Atlanta)](https://jobright.ai/jobs/info/68ccc7fdd99309000e5a3144?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Oct 29 |
+| **[Encompass Health](http://encompasshealth.com/)** | **[Compliance Student Intern (Summer 2026)](https://jobright.ai/jobs/info/68e5ea15e8daec61499a63c6?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Oct 29 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Security GRC - Summer 2026](https://jobright.ai/jobs/info/6901eb5498707b2b0fe6b8d3?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 29 |
 | ↳ | **[Intern - Security GRC - Summer 2026](https://jobright.ai/jobs/info/6901ea2898707b2b0fe6b824?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 29 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68cf9afadbd9fb154ede91f5?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Oct 29 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Regulatory Performance Management](https://jobright.ai/jobs/info/690070f2e04ac838fb5c1ec4?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Oct 28 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern (Spring)](https://jobright.ai/jobs/info/68f7885e5dc1be60128152b9?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Oct 27 |
 | **[NorthWestern Energy](http://northwesternenergy.com)** | **[Intern Hydro License Compliance](https://jobright.ai/jobs/info/6900d8c04539ea1f2141a0cd?utm_campaign=1055&utm_source=git)** | Helena, MT | On Site | Oct 27 |
-| **[Lennox](http://www.lennox.com)** | **[Summer 2026 Business Compliance Intern](https://jobright.ai/jobs/info/69004bd9e04ac838fb5c13b3?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Oct 27 |
-| **[Delmarva Power](http://www.delmarva.com)** | **[2026 Summer Internship - Legal & Governance Intern (Chicago, IL)](https://jobright.ai/jobs/info/69003c53e04ac838fb5c0958?utm_campaign=1055&utm_source=git)** | OAKBROOK TERRACE, Illinois | On Site | Oct 27 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Legal Intern](https://jobright.ai/jobs/info/6900334a0ab3b222462b2cdf?utm_campaign=1055&utm_source=git)** | Rochester, MN, United States | Remote | Oct 27 |
-| **[Otis Elevator Co.](http://www.otis.com/)** | **[Ethics & Compliance Intern](https://jobright.ai/jobs/info/69002fe6e0c73b3a111a31a0?utm_campaign=1055&utm_source=git)** | Connecticut, United States | Remote | Oct 27 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Legal & Governance Intern (Chicago, IL)](https://jobright.ai/jobs/info/69002b1f0ab3b222462b27f2?utm_campaign=1055&utm_source=git)** | Villa Park, IL | Hybrid | Oct 27 |
-| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Summer 2026 Business Compliance Intern](https://jobright.ai/jobs/info/690023d2e0c73b3a111a283f?utm_campaign=1055&utm_source=git)** | US-TX-Richardson | On Site | Oct 27 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department KYC Intern](https://jobright.ai/jobs/info/68db2dca6df7b8311bb169f6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 27 |
-| **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/690014270ab3b222462b1a32?utm_campaign=1055&utm_source=git)** | Miami-FTL Area | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
