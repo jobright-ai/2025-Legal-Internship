@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f7f3b4b0edcf159dc8c8eb?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 30 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Investments Legal Summer Intern](https://jobright.ai/jobs/info/68ca34ddd4187c55157a827e?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Oct 30 |
 | **[AVA Law Group, PLLC](https://avalaw.com/)** | **[Law Intern](https://jobright.ai/jobs/info/69037d7fff462851fefeb9b9?utm_campaign=1055&utm_source=git)** | Billings, MT | On Site | Oct 30 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/68c653c9c96a22563eced434?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Oct 30 |
+| **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Global Corporate and Healthcare Compliance](https://jobright.ai/jobs/info/690245ac00a1816c41e9c643?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | Oct 30 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Legal Archives Internship](https://jobright.ai/jobs/info/68cf93d8846f0b04af683089?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 30 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 Compliance Summer Intern](https://jobright.ai/jobs/info/68e6d46f1852e62f0081f1ca?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 30 |
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Intern – Ethics & Compliance](https://jobright.ai/jobs/info/68e6cf06ae2b894b1d71e09d?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Oct 30 |
@@ -90,9 +92,9 @@ For a complete list, click the following sortable link below:
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e621301852e62f008193d6?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 29 |
 | **[Woods Lonergan PLLC](https://www.woodslaw.com)** | **[Law Clerk Externship](https://jobright.ai/jobs/info/69025dd498707b2b0fe6eb14?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 29 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e6231cae2b894b1d718712?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 29 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern - Regulatory Affairs - Plymouth. MN - Summer 2026](https://jobright.ai/jobs/info/69038cb7d64a22104aa904ce?utm_campaign=1055&utm_source=git)** | Plymouth, MA | On Site | Oct 29 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/68cf8933dbd9fb154ede8a66?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Oct 29 |
 | **[Pantex Plant](https://www.pantex.com)** | **[Student Intern - Cyber Policy & Authorizations](https://jobright.ai/jobs/info/68ce6794846f0b04af679873?utm_campaign=1055&utm_source=git)** | Amarillo, TX | On Site | Oct 29 |
-| **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Global Corporate and Healthcare Compliance](https://jobright.ai/jobs/info/690245ac00a1816c41e9c643?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | Oct 29 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Claims Intern (Rochester, NY)](https://jobright.ai/jobs/info/68c85c9df9c6ff7aedf0d538?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Oct 29 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Legal Operations Intern (February to May)](https://jobright.ai/jobs/info/68ca52fd46caff4db51fd538?utm_campaign=1055&utm_source=git)** | Needham, MA | On Site | Oct 29 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68cff6ddfb49c96ca6eacdbd?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Oct 29 |
@@ -116,7 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[PIP Paralegal Intern](https://jobright.ai/jobs/info/68e58236ae2b894b1d7104b3?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ | On Site | Oct 29 |
 | **[University of Utah](http://utah.edu)** | **[Intern, Legal](https://jobright.ai/jobs/info/6902105300a1816c41e9affc?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Oct 29 |
 | **[Penguin Random House](http://www.penguinrandomhouse.com/)** | **[2026 Summer Remote Internship: Legal](https://jobright.ai/jobs/info/6903040d00a1816c41ea330f?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Oct 28 |
-| **[Human Rights First](http://www.humanrightsfirst.org)** | **[Legal Intern, Refugee Representation](https://jobright.ai/jobs/info/6902e83500a1816c41ea28a0?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 28 |
+| **[Human Rights First](http://www.humanrightsfirst.org)** | **[Legal Intern, Refugee Representation](https://jobright.ai/jobs/info/6902e3a898707b2b0fe73b20?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 28 |
 | ↳ | **[Non-Legal Intern, Refugee Representation](https://jobright.ai/jobs/info/6902d94f98707b2b0fe734b5?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 28 |
 | ↳ | **[Legal Intern, Project: Afghan Legal Assistance (Special Projects)](https://jobright.ai/jobs/info/6902db1b98707b2b0fe735cf?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 28 |
 | ↳ | **[Non-Legal Intern, Refugee Representation](https://jobright.ai/jobs/info/6902d54600a1816c41ea1ccb?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Legal Trial Division Internship](https://jobright.ai/jobs/info/69011a68d5259a1b3cff166f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Oct 28 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 - Legal - Graduate Intern](https://jobright.ai/jobs/info/6901177a4539ea1f2141c45c?utm_campaign=1055&utm_source=git)** | Pittsburgh PA, 15222, FAP, 5th Avenue Place | On Site | Oct 28 |
 | **[Koch](https://www.kochinc.com)** | **[Legal and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/690105a1d5259a1b3cff0926?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Oct 28 |
-| **[AARP](http://www.aarp.org)** | **[Legal Counsel for the Elderly Intern (Spring Start)](https://jobright.ai/jobs/info/690124f14539ea1f2141d0ca?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 28 |
-| **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/690101004539ea1f2141b73f?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL | Hybrid | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
