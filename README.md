@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd43591ad6b16f028973c6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 30 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd88b01ad6b16f0289aef1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 30 |
+| ↳ | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/68c7c428369c3763c743b943?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 30 |
+| ↳ | **[Third Party Risk Intern](https://jobright.ai/jobs/info/68cf7ae8846f0b04af6825b6?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 30 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ccf71577add66568abccfe?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 30 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ce940a846f0b04af67b453?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 30 |
+| **[Highmark](https://www.highmark.com)** | **[Summer 2026 Regulatory & Legislative Affairs Undergraduate Intern](https://jobright.ai/jobs/info/68f1fb2ab2a7144bf268a1d7?utm_campaign=1055&utm_source=git)** | Camp Hill, PA | On Site | Oct 30 |
+| **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Legal & Compliance](https://jobright.ai/jobs/info/68c0af705c5d5f14f46e0428?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Oct 30 |
 | **[BlueWave](https://bluewave.energy/)** | **[Legal Intern Summer 2026](https://jobright.ai/jobs/info/69030bb700a1816c41ea35c0?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Oct 29 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Security Internship 2026 Summer (GRC)](https://jobright.ai/jobs/info/6902d27600a1816c41ea1ace?utm_campaign=1055&utm_source=git)** | US-PA-Mechanicsburg | On Site | Oct 29 |
 | ↳ | **[IS Contracts Internship 2026 Summer](https://jobright.ai/jobs/info/6902caebff462851fefe6705?utm_campaign=1055&utm_source=git)** | US-PA-Mechanicsburg | On Site | Oct 29 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Legal Trial Division Internship](https://jobright.ai/jobs/info/6900d937f8ce7a040fdb9c3e?utm_campaign=1055&utm_source=git)** | Pennsylvania - Philadelphia, 1601 Market Street | On Site | Oct 28 |
 | **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Regulatory Performance Management](https://jobright.ai/jobs/info/6900d931d5259a1b3cfef00c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Oct 28 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 International Trade Compliance Analyst Intern - Plymouth MN](https://jobright.ai/jobs/info/6900d8db4539ea1f2141a0e7?utm_campaign=1055&utm_source=git)** | United States-Minnesota-Plymouth | On Site | Oct 28 |
-| **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/68c9550995f5211cd2cefafc?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Oct 28 |
-| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Legal Trial Division Internship](https://jobright.ai/jobs/info/6900d7584539ea1f21419f6c?utm_campaign=1055&utm_source=git)** | California - Newport Beach, 4685 MacArthur Court | On Site | Oct 28 |
-| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Claims Intern (Erie)](https://jobright.ai/jobs/info/68c85c1ef9c6ff7aedf0d4b2?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Oct 28 |
-| **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - SETTLEMENTS (HDQ)](https://jobright.ai/jobs/info/68c7d8e4369c3763c743c614?utm_campaign=1055&utm_source=git)** | Bismarck, ND | On Site | Oct 28 |
-| **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/6900d21bd5259a1b3cfeeb02?utm_campaign=1055&utm_source=git)** | Bellevue, WA | On Site | Oct 28 |
-| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Claims Intern (Brookfield, WI)](https://jobright.ai/jobs/info/68cd2ba11ad6b16f02896009?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | Oct 28 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Process Controls & Corporate Card Intern](https://jobright.ai/jobs/info/6900d18bf8ce7a040fdb977e?utm_campaign=1055&utm_source=git)** | Henderson, CO | On Site | Oct 28 |
-| ↳ | **[Process Controls & Corporate Card Intern](https://jobright.ai/jobs/info/6900d1864539ea1f21419c2d?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
