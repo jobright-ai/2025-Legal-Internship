@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AVA Law Group, PLLC](https://avalaw.com/)** | **[Law Intern](https://jobright.ai/jobs/info/6902bc0400a1816c41ea0fc5?utm_campaign=1055&utm_source=git)** | Billings,MT,US | On Site | Oct 29 |
+| **[SageSure](https://www.sagesure.com)** | **[Claims Analyst Intern](https://jobright.ai/jobs/info/6902ae3800a1816c41ea0aef?utm_campaign=1055&utm_source=git)** | Chicago, IL | Remote | Oct 29 |
 | **[State of Arizona](https://az.gov/)** | **[Law Intern](https://jobright.ai/jobs/info/6902a3e898707b2b0fe71cc4?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 29 |
 | **[General Dynamics Land Systems](http://www.gdls.com)** | **[Summer Intern – Cyber Security Compliance](https://jobright.ai/jobs/info/69028e14ff462851fefe4a65?utm_campaign=1055&utm_source=git)** | Sterling Heights, MI | On Site | Oct 29 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Philadelphia, PA CLC](https://jobright.ai/jobs/info/69027b6398707b2b0fe6ff6f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 29 |
@@ -100,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/69016042d5259a1b3cff47f6?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | Hybrid | Oct 28 |
 | **[State of Florida](http://www.myflorida.com)** | **[COMPLIANCE OFFICER - 42003986 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/69028ab3ff462851fefe4694?utm_campaign=1055&utm_source=git)** | Greater Orlando | On Site | Oct 28 |
 | **[AARP](http://www.aarp.org)** | **[Legal Counsel for the Elderly Intern (Spring Start)](https://jobright.ai/jobs/info/69015d83f8ce7a040fdbf27e?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Oct 28 |
+| **[Teacher Retirement System of Texas](http://www.trs.texas.gov)** | **[Records Management Intern](https://jobright.ai/jobs/info/6902b5b000a1816c41ea0cf7?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 28 |
 | **[National Life Group](https://www.nationallife.com)** | **[Law & Compliance Intern – Summer 2026](https://jobright.ai/jobs/info/690159594539ea1f2141f709?utm_campaign=1055&utm_source=git)** | Montpelier, VT | Hybrid | Oct 28 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/6901435af8ce7a040fdbe4bb?utm_campaign=1055&utm_source=git)** | Suwanee, GA | On Site | Oct 28 |
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/690141f9f8ce7a040fdbe3f1?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Legal Summer Internship Program](https://jobright.ai/jobs/info/68cbbdcaefdec76df36c1d18?utm_campaign=1055&utm_source=git)** | Pontiac, MI | On Site | Oct 28 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ccf58b77add66568abc9bc?utm_campaign=1055&utm_source=git)** | New Brunswick, NJ | On Site | Oct 28 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - IT Internal Audit](https://jobright.ai/jobs/info/68e4c967b99ec3563b0ee2a5?utm_campaign=1055&utm_source=git)** | Wilmington, MA | On Site | Oct 28 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Legal / Commercial Intern](https://jobright.ai/jobs/info/68e478f91852e62f0080643a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
-| ↳ | **[Summer 2026 Internship - Legal / Media Law and First Amendment](https://jobright.ai/jobs/info/68e47c7db99ec3563b0eacef?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
-| **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Drug Product Supply Risk Management](https://jobright.ai/jobs/info/68fee8b3e0c73b3a11198652?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
