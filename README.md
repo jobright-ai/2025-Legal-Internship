@@ -97,10 +97,10 @@ For a complete list, click the following sortable link below:
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Risk & Compliance Management Undergraduate Intern](https://jobright.ai/jobs/info/68e57890b99ec3563b0f4f87?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Oct 29 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[PIP Paralegal Intern](https://jobright.ai/jobs/info/68e58236ae2b894b1d7104b3?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ | On Site | Oct 29 |
 | **[University of Utah](http://utah.edu)** | **[Intern, Legal](https://jobright.ai/jobs/info/6902105300a1816c41e9affc?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Oct 29 |
-| **[Human Rights First](http://www.humanrightsfirst.org)** | **[Non-Legal Intern, Refugee Representation](https://jobright.ai/jobs/info/6902d94f98707b2b0fe734b5?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 28 |
+| **[Human Rights First](http://www.humanrightsfirst.org)** | **[Legal Intern, Refugee Representation](https://jobright.ai/jobs/info/6902e3a898707b2b0fe73b20?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 28 |
+| ↳ | **[Non-Legal Intern, Refugee Representation](https://jobright.ai/jobs/info/6902d94f98707b2b0fe734b5?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 28 |
 | ↳ | **[Legal Intern, Project: Afghan Legal Assistance (Special Projects)](https://jobright.ai/jobs/info/6902db1b98707b2b0fe735cf?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 28 |
 | ↳ | **[Non-Legal Intern, Refugee Representation](https://jobright.ai/jobs/info/6902d54600a1816c41ea1ccb?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 28 |
-| ↳ | **[Legal Intern, Refugee Representation](https://jobright.ai/jobs/info/6902d308ff462851fefe6a7a?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 28 |
 | ↳ | **[Human Rights Accountability Legal Intern](https://jobright.ai/jobs/info/6902d7f398707b2b0fe7340f?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 28 |
 | **[AVA Law Group, PLLC](https://avalaw.com/)** | **[Intern (Legal Admin)](https://jobright.ai/jobs/info/69017435f8ce7a040fdbfcf3?utm_campaign=1055&utm_source=git)** | Billings,MT,US | On Site | Oct 28 |
 | **[Notion](https://www.notion.so)** | **[Privacy and Risk Intern (Summer 2026)](https://jobright.ai/jobs/info/69016e314539ea1f2141ff48?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
