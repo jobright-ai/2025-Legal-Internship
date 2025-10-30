@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BlueWave](https://bluewave.energy/)** | **[Legal Intern Summer 2026](https://jobright.ai/jobs/info/69030bb700a1816c41ea35c0?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Oct 29 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Security Internship 2026 Summer (GRC)](https://jobright.ai/jobs/info/6902d27600a1816c41ea1ace?utm_campaign=1055&utm_source=git)** | US-PA-Mechanicsburg | On Site | Oct 29 |
 | ↳ | **[IS Contracts Internship 2026 Summer](https://jobright.ai/jobs/info/6902caebff462851fefe6705?utm_campaign=1055&utm_source=git)** | US-PA-Mechanicsburg | On Site | Oct 29 |
 | **[AVA Law Group, PLLC](https://avalaw.com/)** | **[Law Intern](https://jobright.ai/jobs/info/6902bc0400a1816c41ea0fc5?utm_campaign=1055&utm_source=git)** | Billings,MT,US | On Site | Oct 29 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Philadelphia, PA CLC](https://jobright.ai/jobs/info/69027b6398707b2b0fe6ff6f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 29 |
 | **[Weaver](http://www.weaver.com)** | **[Forensic and Litigation Services Intern - Summer 2026](https://jobright.ai/jobs/info/69028f61ff462851fefe4bab?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 29 |
 | **[SageSure](https://www.sagesure.com)** | **[Claims Analyst Intern](https://jobright.ai/jobs/info/69026c2300a1816c41e9de62?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 29 |
-| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/6902886198707b2b0fe70bd2?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Oct 29 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Spring 2026 LGBTQ Law Intern](https://jobright.ai/jobs/info/6902650d00a1816c41e9d941?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
 | **[MBTA](http://mbta.com)** | **[Records and Information Management Intern (Spring 26)](https://jobright.ai/jobs/info/69024cd398707b2b0fe6e030?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Oct 29 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance](https://jobright.ai/jobs/info/68e621301852e62f008193d6?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 29 |
@@ -97,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Risk & Compliance Management Undergraduate Intern](https://jobright.ai/jobs/info/68e57890b99ec3563b0f4f87?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Oct 29 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[PIP Paralegal Intern](https://jobright.ai/jobs/info/68e58236ae2b894b1d7104b3?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ | On Site | Oct 29 |
 | **[University of Utah](http://utah.edu)** | **[Intern, Legal](https://jobright.ai/jobs/info/6902105300a1816c41e9affc?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Oct 29 |
+| **[Penguin Random House](http://www.penguinrandomhouse.com/)** | **[2026 Summer Remote Internship: Legal](https://jobright.ai/jobs/info/6903040d00a1816c41ea330f?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Oct 28 |
 | **[Human Rights First](http://www.humanrightsfirst.org)** | **[Legal Intern, Refugee Representation](https://jobright.ai/jobs/info/6902e3a898707b2b0fe73b20?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 28 |
 | ↳ | **[Non-Legal Intern, Refugee Representation](https://jobright.ai/jobs/info/6902d94f98707b2b0fe734b5?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 28 |
 | ↳ | **[Legal Intern, Project: Afghan Legal Assistance (Special Projects)](https://jobright.ai/jobs/info/6902db1b98707b2b0fe735cf?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Claims Intern (Brookfield, WI)](https://jobright.ai/jobs/info/68cd2ba11ad6b16f02896009?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | Oct 28 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Process Controls & Corporate Card Intern](https://jobright.ai/jobs/info/6900d18bf8ce7a040fdb977e?utm_campaign=1055&utm_source=git)** | Henderson, CO | On Site | Oct 28 |
 | ↳ | **[Process Controls & Corporate Card Intern](https://jobright.ai/jobs/info/6900d1864539ea1f21419c2d?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Oct 28 |
-| **[DriveWealth](https://drivewealth.com)** | **[Summer 2026 Intern, Legal](https://jobright.ai/jobs/info/68e47c1ef758fe1f97e68c32?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
