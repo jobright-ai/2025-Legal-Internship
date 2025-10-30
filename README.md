@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Arizona](https://az.gov/)** | **[Law Intern](https://jobright.ai/jobs/info/6902a3e898707b2b0fe71cc4?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 29 |
+| **[General Dynamics Land Systems](http://www.gdls.com)** | **[Summer Intern – Cyber Security Compliance](https://jobright.ai/jobs/info/69028e14ff462851fefe4a65?utm_campaign=1055&utm_source=git)** | Sterling Heights, MI | On Site | Oct 29 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Philadelphia, PA CLC](https://jobright.ai/jobs/info/69027b6398707b2b0fe6ff6f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 29 |
+| **[Weaver](http://www.weaver.com)** | **[Forensic and Litigation Services Intern - Summer 2026](https://jobright.ai/jobs/info/69028f61ff462851fefe4bab?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 29 |
 | **[SageSure](https://www.sagesure.com)** | **[Claims Analyst Intern](https://jobright.ai/jobs/info/69026c2300a1816c41e9de62?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 29 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/6902886198707b2b0fe70bd2?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Oct 29 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Spring 2026 LGBTQ Law Intern](https://jobright.ai/jobs/info/6902650d00a1816c41e9d941?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Legal / Commercial Intern](https://jobright.ai/jobs/info/68e478f91852e62f0080643a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
 | ↳ | **[Summer 2026 Internship - Legal / Media Law and First Amendment](https://jobright.ai/jobs/info/68e47c7db99ec3563b0eacef?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
 | **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Drug Product Supply Risk Management](https://jobright.ai/jobs/info/68fee8b3e0c73b3a11198652?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Oct 28 |
-| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/6900cd7cf8ce7a040fdb9651?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Oct 28 |
-| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Paralegal](https://jobright.ai/jobs/info/68df3aa76be63b6ec996d420?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Oct 28 |
-| **[Kimball Electronics](http://www.kimballelectronics.com)** | **[Legal Analyst Intern](https://jobright.ai/jobs/info/68ec9fa7c26b9574506f56d7?utm_campaign=1055&utm_source=git)** | Jasper, IN | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
