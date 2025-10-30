@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd43591ad6b16f028973c6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 30 |
+| **[BeOne Medicines](https://beonemedicines.com/)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/68cc23d3128dc347fd91fc0a?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 30 |
+| **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad090b758f2e4ac300a717?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 30 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad0cc8d627244576e4ae5c?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Oct 30 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd43591ad6b16f028973c6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd88b01ad6b16f0289aef1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Oct 30 |
 | ↳ | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/68c7c428369c3763c743b943?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 30 |
 | ↳ | **[Third Party Risk Intern](https://jobright.ai/jobs/info/68cf7ae8846f0b04af6825b6?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 30 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ccf71577add66568abccfe?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Oct 30 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ce940a846f0b04af67b453?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Oct 30 |
 | **[Highmark](https://www.highmark.com)** | **[Summer 2026 Regulatory & Legislative Affairs Undergraduate Intern](https://jobright.ai/jobs/info/68f1fb2ab2a7144bf268a1d7?utm_campaign=1055&utm_source=git)** | Camp Hill, PA | On Site | Oct 30 |
+| **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acf031d627244576e49fc9?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Oct 30 |
+| ↳ | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/68acf573daf1431824c99672?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Legal & Compliance](https://jobright.ai/jobs/info/68c0af705c5d5f14f46e0428?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Oct 30 |
 | **[BlueWave](https://bluewave.energy/)** | **[Legal Intern Summer 2026](https://jobright.ai/jobs/info/69030bb700a1816c41ea35c0?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Oct 29 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Security Internship 2026 Summer (GRC)](https://jobright.ai/jobs/info/6902d27600a1816c41ea1ace?utm_campaign=1055&utm_source=git)** | US-PA-Mechanicsburg | On Site | Oct 29 |
@@ -106,7 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[PIP Paralegal Intern](https://jobright.ai/jobs/info/68e58236ae2b894b1d7104b3?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ | On Site | Oct 29 |
 | **[University of Utah](http://utah.edu)** | **[Intern, Legal](https://jobright.ai/jobs/info/6902105300a1816c41e9affc?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Oct 29 |
 | **[Penguin Random House](http://www.penguinrandomhouse.com/)** | **[2026 Summer Remote Internship: Legal](https://jobright.ai/jobs/info/6903040d00a1816c41ea330f?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Oct 28 |
-| **[Human Rights First](http://www.humanrightsfirst.org)** | **[Legal Intern, Refugee Representation](https://jobright.ai/jobs/info/6902e3a898707b2b0fe73b20?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 28 |
+| **[Human Rights First](http://www.humanrightsfirst.org)** | **[Legal Intern, Refugee Representation](https://jobright.ai/jobs/info/6902e83500a1816c41ea28a0?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 28 |
 | ↳ | **[Non-Legal Intern, Refugee Representation](https://jobright.ai/jobs/info/6902d94f98707b2b0fe734b5?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 28 |
 | ↳ | **[Legal Intern, Project: Afghan Legal Assistance (Special Projects)](https://jobright.ai/jobs/info/6902db1b98707b2b0fe735cf?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 28 |
 | ↳ | **[Non-Legal Intern, Refugee Representation](https://jobright.ai/jobs/info/6902d54600a1816c41ea1ccb?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Third Party Risk Intern [2026 Internship Program]](https://jobright.ai/jobs/info/6900f376f8ce7a040fdba976?utm_campaign=1055&utm_source=git)** | 18301 Bermuda Green Dr, Tampa, FL, 33647, US | Hybrid | Oct 28 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Sales Contracts Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68e48891f758fe1f97e69411?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Oct 28 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Legal Trial Division Internship](https://jobright.ai/jobs/info/6900ddecf8ce7a040fdb9e3a?utm_campaign=1055&utm_source=git)** | New York - Elmsford, 565 Taxter Road | On Site | Oct 28 |
-| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Claims Intern (Charlotte)](https://jobright.ai/jobs/info/68c85be4983e6768bc54c148?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Oct 28 |
-| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Legal Trial Division Internship](https://jobright.ai/jobs/info/6900d9954539ea1f2141a181?utm_campaign=1055&utm_source=git)** | Georgia - Atlanta, 2970 Clairmont Road | On Site | Oct 28 |
-| ↳ | **[Summer 2026 Legal Trial Division Internship](https://jobright.ai/jobs/info/6900d937f8ce7a040fdb9c3e?utm_campaign=1055&utm_source=git)** | Pennsylvania - Philadelphia, 1601 Market Street | On Site | Oct 28 |
-| **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Regulatory Performance Management](https://jobright.ai/jobs/info/6900d931d5259a1b3cfef00c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Oct 28 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 International Trade Compliance Analyst Intern - Plymouth MN](https://jobright.ai/jobs/info/6900d8db4539ea1f2141a0e7?utm_campaign=1055&utm_source=git)** | United States-Minnesota-Plymouth | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
