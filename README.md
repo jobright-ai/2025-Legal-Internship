@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 U.S Summer Internship Program: Global Regulatory Affairs CMC Intern](https://jobright.ai/jobs/info/6908c36cd046ab6061ccdd3a?utm_campaign=1055&utm_source=git)** | Lexington, MA | On Site | Nov 03 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern – Enterprise Risk Management](https://jobright.ai/jobs/info/69004b1c0ab3b222462b3b9e?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | Hybrid | Nov 03 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/69086f1e4a1b456627af46ae?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Nov 03 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Risk Management - Fraud](https://jobright.ai/jobs/info/69085fc363502c0aded8cbff?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Nov 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Legal Projects Intern](https://jobright.ai/jobs/info/69053062ff462851feffb7cf?utm_campaign=1055&utm_source=git)** | Arlington, VA | Hybrid | Oct 30 |
 | **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Internship - SPRING 2026 - MDT/Criminal Justice #HIRING](https://jobright.ai/jobs/info/69051a2e63502c0aded7828f?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Oct 30 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Spring 2026 – Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ef5463502c0aded6e787?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 30 |
-| ↳ | **[Summer 2026 – Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
