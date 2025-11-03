@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Risk Management - Fraud](https://jobright.ai/jobs/info/69085fc363502c0aded8cbff?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Nov 02 |
+| ↳ | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/69085cb8122e8474c78ea363?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Nov 02 |
+| ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/690855abff462851fe00e79e?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Nov 02 |
 | **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Summer 2026 Legal Internship - Civil Rights Litigation](https://jobright.ai/jobs/info/6907c51d122e8474c78e6bd2?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Nov 02 |
 | ↳ | **[Spring 2026 Legal Internship - Civil Rights Litigation](https://jobright.ai/jobs/info/6907c46fff462851fe00b49a?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Nov 02 |
 | ↳ | **[Summer 2026 Legal Internship - Housing & Civil Advocacy](https://jobright.ai/jobs/info/6907ba7b63502c0aded88a0d?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Nov 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 – Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 30 |
 | **[Northwest Bank](https://www.northwest.bank)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6903e7a6d64a22104aa94d0c?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Oct 30 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Marine Operations Compliance (Summer 2026)](https://jobright.ai/jobs/info/6903e5c7d64a22104aa94b60?utm_campaign=1055&utm_source=git)** | Catlettsburg, KY | On Site | Oct 30 |
-| **[American Family Insurance](http://amfamventures.com/)** | **[Summer 2026 Intern - Corporate Legal (Primarily Office)](https://jobright.ai/jobs/info/6903e51f63502c0aded6e19f?utm_campaign=1055&utm_source=git)** | WI Madison | On Site | Oct 30 |
-| **[Northwest Bank](https://www.northwest.bank)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6903e2dbd64a22104aa948a5?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 30 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/6903e0a863502c0aded6dd4c?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
