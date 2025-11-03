@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Corporate Procurement Intern](https://jobright.ai/jobs/info/690904584a1b456627afb3d1?utm_campaign=1055&utm_source=git)** | Miami-FTL Area | Hybrid | Nov 03 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Compliance Governance](https://jobright.ai/jobs/info/6908ffbbd046ab6061ccffd5?utm_campaign=1055&utm_source=git)** | Raleigh, North Carolina | Hybrid | Nov 03 |
+| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Legal Affairs Intern](https://jobright.ai/jobs/info/6908f9e0d046ab6061ccfc86?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | Hybrid | Nov 03 |
+| **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6908f5b6d046ab6061ccf95a?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 03 |
+| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Compliance Monitoring Intern](https://jobright.ai/jobs/info/6908eca94a1b456627afa280?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | Hybrid | Nov 03 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Democracy Legal Internship, NY](https://jobright.ai/jobs/info/68e24fd6b99ec3563b0dc242?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 03 |
 | **[AMERISAFE, Inc.](http://www.amerisafe.com/site.php)** | **[Regulatory Intern](https://jobright.ai/jobs/info/6908e359bcccf20de59d46fa?utm_campaign=1055&utm_source=git)** | DeRidder LA, DeRidder, LA, US | On Site | Nov 03 |
 | **[Legal Pathway Society](https://engage.palmbeachstate.edu/organization/legal-pathway-society)** | **[Legal Pathway Society Internship (Florida-Focused)](https://jobright.ai/jobs/info/6908dfa44a1b456627af9b20?utm_campaign=1055&utm_source=git)** | Palm Beach, FL | Hybrid | Nov 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Takeda](http://www.takeda.com)** | **[2026 U.S Summer Internship Program: Global Regulatory Affairs CMC Intern](https://jobright.ai/jobs/info/690444f3ff462851feff4634?utm_campaign=1055&utm_source=git)** | Lexington, MA | Hybrid | Oct 30 |
 | **[Legal Services Corporation](https://www.lsc.gov/)** | **[Compliance & Enforcement Intern (Spring 2026)](https://jobright.ai/jobs/info/6904415a63502c0aded71f9c?utm_campaign=1055&utm_source=git)** | Washington, DC, US | Hybrid | Oct 30 |
 | **[Takeda](http://www.takeda.com)** | **[2026 U.S Summer Internship Program: Global Regulatory Affairs CMC Intern](https://jobright.ai/jobs/info/6904412563502c0aded71f8e?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Oct 30 |
-| **[Modern Law](http://www.mymodernlaw.com)** | **[Law Student Intern](https://jobright.ai/jobs/info/6904299063502c0aded711bc?utm_campaign=1055&utm_source=git)** | United States | Remote | Oct 30 |
-| **[National Women's Law Center](http://www.nwlc.org/)** | **[Spring 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6904279363502c0aded71033?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 30 |
-| ↳ | **[Summer 2026 Reproductive Rights and Health Intern](https://jobright.ai/jobs/info/69042612ff462851feff354b?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 30 |
-| ↳ | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6904376863502c0aded71a44?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 30 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Paralegal Intern](https://jobright.ai/jobs/info/69041310d64a22104aa96a62?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
