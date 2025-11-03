@@ -64,8 +64,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Legal Internship - Criminal & Municipal Defense](https://jobright.ai/jobs/info/6907b72bff462851fe00aa21?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Nov 02 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Procurement Associate Intern](https://jobright.ai/jobs/info/6907a2d6122e8474c78e5dcf?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Nov 02 |
 | ↳ | **[Early Careers - Associate Governance, Risk and Compliance Specialist Intern](https://jobright.ai/jobs/info/69079fab122e8474c78e5d7c?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Nov 02 |
-| **[NorthWestern Energy](http://northwesternenergy.com)** | **[Hydro License Compliance Intern](https://jobright.ai/jobs/info/69078e9363502c0aded87e9d?utm_campaign=1055&utm_source=git)** | Billings, MT | On Site | Nov 02 |
-| ↳ | **[Hydro License Compliance Intern](https://jobright.ai/jobs/info/69078e8d63502c0aded87e9a?utm_campaign=1055&utm_source=git)** | Great Falls, MT | On Site | Nov 02 |
+| **[NorthWestern Energy](http://northwesternenergy.com)** | **[Hydro License Compliance Intern](https://jobright.ai/jobs/info/69078e8d63502c0aded87e9a?utm_campaign=1055&utm_source=git)** | Great Falls, MT | On Site | Nov 02 |
 | ↳ | **[Hydro License Compliance Intern](https://jobright.ai/jobs/info/69078e76122e8474c78e5a9f?utm_campaign=1055&utm_source=git)** | Bozeman, MT | On Site | Nov 02 |
 | ↳ | **[Hydro License Compliance Intern](https://jobright.ai/jobs/info/69078df463502c0aded87e44?utm_campaign=1055&utm_source=git)** | Missoula, MT | On Site | Nov 02 |
 | ↳ | **[Hydro License Compliance Intern](https://jobright.ai/jobs/info/69078dd0122e8474c78e5a7a?utm_campaign=1055&utm_source=git)** | Butte, MT | On Site | Nov 02 |
@@ -156,5 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Northwest Bank](https://www.northwest.bank)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6903e7a6d64a22104aa94d0c?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Oct 30 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Marine Operations Compliance (Summer 2026)](https://jobright.ai/jobs/info/6903e5c7d64a22104aa94b60?utm_campaign=1055&utm_source=git)** | Catlettsburg, KY | On Site | Oct 30 |
 | **[American Family Insurance](http://amfamventures.com/)** | **[Summer 2026 Intern - Corporate Legal (Primarily Office)](https://jobright.ai/jobs/info/6903e51f63502c0aded6e19f?utm_campaign=1055&utm_source=git)** | WI Madison | On Site | Oct 30 |
-| **[Northwest Bank](https://www.northwest.bank)** | **[Compliance Intern](https://jobright.ai/jobs/info/6903df23ff462851fefeffa9?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Oct 30 |
+| **[Northwest Bank](https://www.northwest.bank)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6903e2dbd64a22104aa948a5?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Oct 30 |
+| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/6903e0a863502c0aded6dd4c?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
