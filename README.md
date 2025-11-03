@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/6907c5f963502c0aded8919f?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Nov 02 |
 | **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Summer 2026 Legal Internship - Civil Rights Litigation](https://jobright.ai/jobs/info/6907c51d122e8474c78e6bd2?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Nov 02 |
 | ↳ | **[Spring 2026 Legal Internship - Civil Rights Litigation](https://jobright.ai/jobs/info/6907c46fff462851fe00b49a?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Nov 02 |
 | ↳ | **[Summer 2026 Legal Internship - Housing & Civil Advocacy](https://jobright.ai/jobs/info/6907ba7b63502c0aded88a0d?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Nov 02 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Northwest Bank](https://www.northwest.bank)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6903e7a6d64a22104aa94d0c?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Oct 30 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Marine Operations Compliance (Summer 2026)](https://jobright.ai/jobs/info/6903e5c7d64a22104aa94b60?utm_campaign=1055&utm_source=git)** | Catlettsburg, KY | On Site | Oct 30 |
 | **[American Family Insurance](http://amfamventures.com/)** | **[Summer 2026 Intern - Corporate Legal (Primarily Office)](https://jobright.ai/jobs/info/6903e51f63502c0aded6e19f?utm_campaign=1055&utm_source=git)** | WI Madison | On Site | Oct 30 |
+| **[Northwest Bank](https://www.northwest.bank)** | **[Compliance Intern](https://jobright.ai/jobs/info/6903df23ff462851fefeffa9?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
