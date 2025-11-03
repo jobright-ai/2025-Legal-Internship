@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Democracy Legal Internship, NY](https://jobright.ai/jobs/info/68e24fd6b99ec3563b0dc242?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 03 |
+| **[AMERISAFE, Inc.](http://www.amerisafe.com/site.php)** | **[Regulatory Intern](https://jobright.ai/jobs/info/6908e359bcccf20de59d46fa?utm_campaign=1055&utm_source=git)** | DeRidder LA, DeRidder, LA, US | On Site | Nov 03 |
+| **[Legal Pathway Society](https://engage.palmbeachstate.edu/organization/legal-pathway-society)** | **[Legal Pathway Society Internship (Florida-Focused)](https://jobright.ai/jobs/info/6908dfa44a1b456627af9b20?utm_campaign=1055&utm_source=git)** | Palm Beach, FL | Hybrid | Nov 03 |
+| **[Valero](http://www.valero.com)** | **[Legal Intern - (Summer 2026) - Headquarters in San Antonio](https://jobright.ai/jobs/info/6908dd644a1b456627af99ea?utm_campaign=1055&utm_source=git)** | US-TX-San Antonio | On Site | Nov 03 |
+| **[Centier Bank](https://centier.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/6908dad9bcccf20de59d42a4?utm_campaign=1055&utm_source=git)** | Merrillville, IN | On Site | Nov 03 |
+| **[Campaign Legal Center](http://www.campaignlegal.org/)** | **[Legal Internship (2026)](https://jobright.ai/jobs/info/6908cf084a1b456627af92d0?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 U.S Summer Internship Program: Global Regulatory Affairs CMC Intern](https://jobright.ai/jobs/info/6908c36cd046ab6061ccdd3a?utm_campaign=1055&utm_source=git)** | Lexington, MA | On Site | Nov 03 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern – Enterprise Risk Management](https://jobright.ai/jobs/info/69004b1c0ab3b222462b3b9e?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | Hybrid | Nov 03 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/69086f1e4a1b456627af46ae?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Nov 03 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Reproductive Rights and Health Intern](https://jobright.ai/jobs/info/69042612ff462851feff354b?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 30 |
 | ↳ | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6904376863502c0aded71a44?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Oct 30 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Paralegal Intern](https://jobright.ai/jobs/info/69041310d64a22104aa96a62?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Oct 30 |
-| **[FNBO](https://www.fnbo.com)** | **[Intern - Enterprise Risk Management (Omaha, NE)](https://jobright.ai/jobs/info/690412a5d64a22104aa96a04?utm_campaign=1055&utm_source=git)** | Omaha Metropolitan Area | On Site | Oct 30 |
-| **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Reproductive Rights and Health Intern](https://jobright.ai/jobs/info/69040fee63502c0aded6ff43?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 30 |
-| **[County of San Mateo](https://www.smcgov.org)** | **[Probation Intern (non-paid)](https://jobright.ai/jobs/info/69040b43ff462851feff21a4?utm_campaign=1055&utm_source=git)** | San Mateo County, CA | On Site | Oct 30 |
-| **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Legal Projects Intern](https://jobright.ai/jobs/info/69053062ff462851feffb7cf?utm_campaign=1055&utm_source=git)** | Arlington, VA | Hybrid | Oct 30 |
-| **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Internship - SPRING 2026 - MDT/Criminal Justice #HIRING](https://jobright.ai/jobs/info/69051a2e63502c0aded7828f?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Oct 30 |
-| **[National Women's Law Center](http://www.nwlc.org/)** | **[Spring 2026 – Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ef5463502c0aded6e787?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
