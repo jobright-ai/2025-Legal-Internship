@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern – Enterprise Risk Management](https://jobright.ai/jobs/info/69004b1c0ab3b222462b3b9e?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | Hybrid | Nov 03 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/69086f1e4a1b456627af46ae?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Nov 03 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Risk Management - Fraud](https://jobright.ai/jobs/info/69085fc363502c0aded8cbff?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Nov 02 |
 | ↳ | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/69085cb8122e8474c78ea363?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Nov 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Internship - SPRING 2026 - MDT/Criminal Justice #HIRING](https://jobright.ai/jobs/info/69051a2e63502c0aded7828f?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Oct 30 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Spring 2026 – Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ef5463502c0aded6e787?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 30 |
 | ↳ | **[Summer 2026 – Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 30 |
-| **[Northwest Bank](https://www.northwest.bank)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6903e7a6d64a22104aa94d0c?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
