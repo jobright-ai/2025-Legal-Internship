@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Qlaws.ai](https://www.linkedin.com/company/105927901)** | **[Paralegal Intern – Legal AI Evaluation](https://jobright.ai/jobs/info/690984efbcccf20de59dc0e4?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 03 |
 | **[Robinhood](https://www.robinhood.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69095d07bcccf20de59da686?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Nov 03 |
 | **[Univest](http://www.univest.net/)** | **[Mortgage Intern](https://jobright.ai/jobs/info/69095c2b4a1b456627affb79?utm_campaign=1055&utm_source=git)** | Souderton, PA | On Site | Nov 03 |
 | **[Robinhood](https://www.robinhood.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/690959fe4a1b456627aff999?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The ACLU of Washington](https://www.aclu-wa.org)** | **[Winter-Spring 2026 Legal Internship-Externship](https://jobright.ai/jobs/info/69056d94ff462851feffd4f4?utm_campaign=1055&utm_source=git)** | Seattle, WA | Remote | Oct 31 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department AML Compliance Audit Intern](https://jobright.ai/jobs/info/68ead3628369791ef7823234?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 31 |
 | **[The ACLU of Washington](https://www.aclu-wa.org)** | **[Winter-Spring 2026 Legal Internship-Externship](https://jobright.ai/jobs/info/69055e61ff462851feffcf87?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Oct 31 |
-| **[Bristol Myers Squibb](http://www.bms.com)** | **[2026 Summer Intern Corporate Affairs](https://jobright.ai/jobs/info/69055c3fff462851feffcd95?utm_campaign=1055&utm_source=git)** | Princeton - NJ - US | Hybrid | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
