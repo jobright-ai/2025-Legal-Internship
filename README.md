@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tenet Healthcare](http://tenethealth.com)** | **[Legal Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/690a1b3bbcccf20de59df015?utm_campaign=1055&utm_source=git)** | Dallas, TX, United States | On Site | Nov 04 |
+| **[Copart](http://www.copart.com)** | **[Technology Compliance Intern](https://jobright.ai/jobs/info/68ed411e70b66e2345d3bf06?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 04 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Direct Appeals Internship 2026](https://jobright.ai/jobs/info/6909f18cd046ab6061cd8704?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Nov 04 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Regulatory Management Office Undergraduate Intern](https://jobright.ai/jobs/info/68f4bb0c9a65fd345858c296?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 04 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Risk & Controls Intern](https://jobright.ai/jobs/info/68d192768c62e63bc7fccc5b?utm_campaign=1055&utm_source=git)** | Carlisle, PA | Hybrid | Nov 04 |
@@ -97,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6909218a4a1b456627afceb8?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Nov 03 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Philadelphia](https://jobright.ai/jobs/info/69091bb8d046ab6061cd182e?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 03 |
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69091afc4a1b456627afc7e4?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 03 |
+| **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Washington, DC](https://jobright.ai/jobs/info/690919144a1b456627afc679?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 03 |
 | **[Robinhood](https://www.robinhood.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/690918d64a1b456627afc643?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Nov 03 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - AML Compliance](https://jobright.ai/jobs/info/690918004a1b456627afc575?utm_campaign=1055&utm_source=git)** | US-AL-Birmingham | On Site | Nov 03 |
 | ↳ | **[Intern - Third Party Risk Management](https://jobright.ai/jobs/info/690917ddbcccf20de59d6fd0?utm_campaign=1055&utm_source=git)** | US-MO-Kansas City | On Site | Nov 03 |
@@ -106,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Physical Security Compliance](https://jobright.ai/jobs/info/69091223bcccf20de59d6c56?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Nov 03 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Compliance Monitoring Intern](https://jobright.ai/jobs/info/690910f6bcccf20de59d6b60?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
 | **[Madison Square Garden Entertainment Corp.](https://www.msgentertainment.com/)** | **[Sports Legal Summer 2026 Student Associate Program](https://jobright.ai/jobs/info/69090e9cd046ab6061cd0d0d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 03 |
-| **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2025 1L Summer Associate - Washington, DC](https://jobright.ai/jobs/info/690919144a1b456627afc679?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 03 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Compliance Communications & Policy Intern](https://jobright.ai/jobs/info/69090a6cbcccf20de59d6594?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Third Party Risk Management](https://jobright.ai/jobs/info/69090a62d046ab6061cd0916?utm_campaign=1055&utm_source=git)** | US-IL-Chicago | On Site | Nov 03 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Corporate Procurement Intern](https://jobright.ai/jobs/info/690904584a1b456627afb3d1?utm_campaign=1055&utm_source=git)** | Miami-FTL Area | Hybrid | Nov 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Monetary Fund](http://www.imf.org/)** | **[2026 Fund Internship Program (FIP) - Legal Department](https://jobright.ai/jobs/info/69061f06122e8474c78defd9?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 01 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Regulatory Reporting (Hybrid)](https://jobright.ai/jobs/info/68e980e965768b6412b1ce8a?utm_campaign=1055&utm_source=git)** | Raleigh, NC | Hybrid | Nov 01 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/69061473ff462851fe0030c5?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 01 |
-| **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/68d4ca4bffc1276de3fde265?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Nov 01 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Quality Assurance & Compliance Intern](https://jobright.ai/jobs/info/68e97ff80930fe0bc46267a4?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
