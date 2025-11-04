@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Legal Assistance Group](https://www.nylag.org)** | **[Spring 2026 Legal Intern, Consumer Protection Unit](https://jobright.ai/jobs/info/69095668bcccf20de59da325?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 03 |
+| **[Entergy](https://www.entergy.com)** | **[Student Intern, Security Policy and Compliance, Summer 2026](https://jobright.ai/jobs/info/69094a48bcccf20de59d99ed?utm_campaign=1055&utm_source=git)** | New Orleans, LA | Hybrid | Nov 03 |
+| **[Everest](https://www.everestglobal.com/)** | **[2026 Legal Internship Program](https://jobright.ai/jobs/info/69094514d046ab6061cd3ae3?utm_campaign=1055&utm_source=git)** | Warren, NJ | Hybrid | Nov 03 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Summer 2026 (Minneapolis)](https://jobright.ai/jobs/info/69093b63d046ab6061cd3360?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 03 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Fort Wayne](https://jobright.ai/jobs/info/69093ab94a1b456627afe4c5?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | Hybrid | Nov 03 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Intern - Law Clerk](https://jobright.ai/jobs/info/69093a78bcccf20de59d8f99?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Nov 03 |
@@ -66,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Sun Country Airlines](https://www.suncountry.com/)** | **[Ground Operations Compliance Intern](https://jobright.ai/jobs/info/69092db4d046ab6061cd2760?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 03 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Third Party Risk Management](https://jobright.ai/jobs/info/69092d884a1b456627afd914?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 03 |
 | **[Madison Square Garden Sports Corp.](https://www.msgsports.com/)** | **[Sports Legal Summer 2026 Student Associate Program](https://jobright.ai/jobs/info/69092b434a1b456627afd709?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 03 |
+| **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Indianapolis](https://jobright.ai/jobs/info/690954964a1b456627aff540?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 03 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Summer 2026 (Minneapolis)](https://jobright.ai/jobs/info/6909291a4a1b456627afd558?utm_campaign=1055&utm_source=git)** | 800 Nicollet Mall, Minneapolis, MN, 55402, US | On Site | Nov 03 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - AML Compliance](https://jobright.ai/jobs/info/6909253cbcccf20de59d7e3b?utm_campaign=1055&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Nov 03 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Global Regulatory Affairs Labeling Operations Intern](https://jobright.ai/jobs/info/69090c174a1b456627afbbbd?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
@@ -83,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Compliance Governance](https://jobright.ai/jobs/info/690915d0d046ab6061cd11db?utm_campaign=1055&utm_source=git)** | Raleigh, NC | Hybrid | Nov 03 |
 | **[Univest](http://www.univest.net/)** | **[Mortgage Intern](https://jobright.ai/jobs/info/69091321d046ab6061cd0fd8?utm_campaign=1055&utm_source=git)** | Souderton, Pennsylvania | On Site | Nov 03 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Physical Security Compliance](https://jobright.ai/jobs/info/69091223bcccf20de59d6c56?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Nov 03 |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Summer Intern Client Management](https://jobright.ai/jobs/info/69094e2d4a1b456627aff187?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Nov 03 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Compliance Monitoring Intern](https://jobright.ai/jobs/info/690910f6bcccf20de59d6b60?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
 | **[Madison Square Garden Entertainment Corp.](https://www.msgentertainment.com/)** | **[Sports Legal Summer 2026 Student Associate Program](https://jobright.ai/jobs/info/69090e9cd046ab6061cd0d0d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 03 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Compliance Communications & Policy Intern](https://jobright.ai/jobs/info/69090a6cbcccf20de59d6594?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The ACLU of Washington](https://www.aclu-wa.org)** | **[Winter-Spring 2026 Legal Internship-Externship](https://jobright.ai/jobs/info/69055e61ff462851feffcf87?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Oct 31 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[2026 Summer Intern Corporate Affairs](https://jobright.ai/jobs/info/69055c3fff462851feffcd95?utm_campaign=1055&utm_source=git)** | Princeton - NJ - US | Hybrid | Oct 31 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Commercial Risk](https://jobright.ai/jobs/info/690555bbff462851feffcba7?utm_campaign=1055&utm_source=git)** | Greater Milwaukee | On Site | Oct 31 |
-| **[MacArthur Foundation](http://www.macfound.org)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69054f39122e8474c78d8334?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Oct 31 |
-| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Procurement Associate Intern](https://jobright.ai/jobs/info/69054457ff462851feffc63d?utm_campaign=1055&utm_source=git)** | IL - Chicago | Hybrid | Oct 31 |
-| **[MacArthur Foundation](http://www.macfound.org)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69053b6a122e8474c78d7ad6?utm_campaign=1055&utm_source=git)** | Chicago Office | Hybrid | Oct 31 |
-| **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Law Internship](https://jobright.ai/jobs/info/690537d5122e8474c78d79ad?utm_campaign=1055&utm_source=git)** | Oakland, CA, United States | On Site | Oct 31 |
-| **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Spring 2026 Legal Internship - Criminal & Municipal Defense](https://jobright.ai/jobs/info/69051d8b122e8474c78d6364?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
