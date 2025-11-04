@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medpace](http://www.medpace.com)** | **[Regulatory Research Spring 2026 Intern](https://jobright.ai/jobs/info/6799a5f27b45d044d3fd9e63?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 04 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Risk & Controls Intern](https://jobright.ai/jobs/info/68d193d517554c2d9eedcced?utm_campaign=1055&utm_source=git)** | Salisbury, NC | Hybrid | Nov 04 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/6909cd894a1b456627b031b8?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Nov 04 |
+| ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/6909c2084a1b456627b02dee?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Nov 04 |
+| ↳ | **[Intern - Risk Management - Fraud](https://jobright.ai/jobs/info/6909c0654a1b456627b02d35?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Nov 04 |
+| ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/6909bd0ad046ab6061cd792b?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Nov 04 |
+| ↳ | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/6909bbdad046ab6061cd7896?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Nov 04 |
 | **[Qlaws.ai](https://www.linkedin.com/company/105927901)** | **[Paralegal Intern – Legal AI Evaluation](https://jobright.ai/jobs/info/690984efbcccf20de59dc0e4?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 03 |
 | **[Robinhood](https://www.robinhood.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69095d07bcccf20de59da686?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Nov 03 |
 | **[Univest](http://www.univest.net/)** | **[Mortgage Intern](https://jobright.ai/jobs/info/69095c2b4a1b456627affb79?utm_campaign=1055&utm_source=git)** | Souderton, PA | On Site | Nov 03 |
@@ -82,8 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6909218a4a1b456627afceb8?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Nov 03 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Philadelphia](https://jobright.ai/jobs/info/69091bb8d046ab6061cd182e?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 03 |
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69091afc4a1b456627afc7e4?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 03 |
-| **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Washington, DC](https://jobright.ai/jobs/info/690919144a1b456627afc679?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 03 |
-| **[Univest](http://www.univest.net/)** | **[Mortgage Intern](https://jobright.ai/jobs/info/69091957bcccf20de59d71d1?utm_campaign=1055&utm_source=git)** | Souderton, PA | On Site | Nov 03 |
 | **[Robinhood](https://www.robinhood.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/690918d64a1b456627afc643?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Nov 03 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - AML Compliance](https://jobright.ai/jobs/info/690918004a1b456627afc575?utm_campaign=1055&utm_source=git)** | US-AL-Birmingham | On Site | Nov 03 |
 | ↳ | **[Intern - Third Party Risk Management](https://jobright.ai/jobs/info/690917ddbcccf20de59d6fd0?utm_campaign=1055&utm_source=git)** | US-MO-Kansas City | On Site | Nov 03 |
@@ -93,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Physical Security Compliance](https://jobright.ai/jobs/info/69091223bcccf20de59d6c56?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Nov 03 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Compliance Monitoring Intern](https://jobright.ai/jobs/info/690910f6bcccf20de59d6b60?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
 | **[Madison Square Garden Entertainment Corp.](https://www.msgentertainment.com/)** | **[Sports Legal Summer 2026 Student Associate Program](https://jobright.ai/jobs/info/69090e9cd046ab6061cd0d0d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 03 |
+| **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2025 1L Summer Associate - Washington, DC](https://jobright.ai/jobs/info/690919144a1b456627afc679?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 03 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Compliance Communications & Policy Intern](https://jobright.ai/jobs/info/69090a6cbcccf20de59d6594?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Third Party Risk Management](https://jobright.ai/jobs/info/69090a62d046ab6061cd0916?utm_campaign=1055&utm_source=git)** | US-IL-Chicago | On Site | Nov 03 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Corporate Procurement Intern](https://jobright.ai/jobs/info/690904584a1b456627afb3d1?utm_campaign=1055&utm_source=git)** | Miami-FTL Area | Hybrid | Nov 03 |
@@ -147,14 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Arthrex](https://www.arthrex.com/)** | **[Compliance Assurance Intern](https://jobright.ai/jobs/info/68e9ab5bfeeb0006c1a5653c?utm_campaign=1055&utm_source=git)** | Naples, FL | On Site | Nov 01 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/68e9f7b6cfc08e4908914097?utm_campaign=1055&utm_source=git)** | Garden Grove, CA | On Site | Nov 01 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/68ec986dd4b0106e703e9ee0?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 01 |
-| **[Solano County](https://www.solanocounty.com)** | **[College Intern-Graduate Level (Juris Doctorate - J.D. only) (Law Clerk)](https://jobright.ai/jobs/info/6905e50763502c0aded7efb5?utm_campaign=1055&utm_source=git)** | Fairfield, CA | On Site | Nov 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Regional & Product Policy Project Intern (Business Integrity) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68e995f5f195760c354aaeaf?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Nov 01 |
-| **[HDR](http://www.hdrinc.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/68d38c8b8c62e63bc7fe291d?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Nov 01 |
-| **[TikTok](https://www.tiktok.com)** | **[Regional & Product Policy Project Intern (Business Integrity) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68e9953f0930fe0bc4627864?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Nov 01 |
+| ↳ | **[Regional & Product Policy Project Intern (Business Integrity) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68e9953f0930fe0bc4627864?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Nov 01 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[2026 Summer Intern Corporate Affairs](https://jobright.ai/jobs/info/6905ca5d63502c0aded7e045?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Nov 01 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/6905c80663502c0aded7deef?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Nov 01 |
-| **[The ACLU of Washington](https://www.aclu-wa.org)** | **[Winter-Spring 2026 Legal Internship-Externship](https://jobright.ai/jobs/info/69056d94ff462851feffd4f4?utm_campaign=1055&utm_source=git)** | Seattle, WA | Remote | Oct 31 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department AML Compliance Audit Intern](https://jobright.ai/jobs/info/68ead3628369791ef7823234?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Oct 31 |
-| **[The ACLU of Washington](https://www.aclu-wa.org)** | **[Winter-Spring 2026 Legal Internship-Externship](https://jobright.ai/jobs/info/69055e61ff462851feffcf87?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Oct 31 |
-| **[Bristol Myers Squibb](http://www.bms.com)** | **[2026 Summer Intern Corporate Affairs](https://jobright.ai/jobs/info/69055c3fff462851feffcd95?utm_campaign=1055&utm_source=git)** | Princeton - NJ - US | Hybrid | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
