@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jones Day](http://www.jonesday.com/)** | **[IP Legal Intern - ATLANTA, BOSTON, NEW YORK, PITTSBURGH, SAN DIEGO, SILICON VALLEY](https://jobright.ai/jobs/info/690a7465d046ab6061cdcc1c?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 04 |
+| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Spring 2026](https://jobright.ai/jobs/info/690a72c8bcccf20de59e25b7?utm_campaign=1055&utm_source=git)** | Doral, FL | On Site | Nov 04 |
+| **[ITC Holdings Corp.](http://www.itc-holdings.com/)** | **[Intern - Regulatory](https://jobright.ai/jobs/info/690a70004a1b456627b07b75?utm_campaign=1055&utm_source=git)** | 27175 Energy Way, Novi, MI, 48377, US | On Site | Nov 04 |
+| **[3DA](https://www.3da.org)** | **[Legal Rights Intern](https://jobright.ai/jobs/info/690a6ebbd046ab6061cdc837?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 04 |
+| **[Farm Credit Bank of Texas](https://www.farmcreditbank.com/)** | **[Identity & Compliance Intern](https://jobright.ai/jobs/info/690a6acebcccf20de59e1f72?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Nov 04 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Internship Program - Legal Intern](https://jobright.ai/jobs/info/690a67794a1b456627b071ae?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 04 |
+| **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern- Operational Risk](https://jobright.ai/jobs/info/690a62844a1b456627b06eca?utm_campaign=1055&utm_source=git)** | Green Bay 433 Main | Hybrid | Nov 04 |
+| **[GreenSky®](https://www.greensky.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/690a5f8d4a1b456627b06c1f?utm_campaign=1055&utm_source=git)** | US-GA-Atlanta | Hybrid | Nov 04 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/690a5dabd046ab6061cdb8fb?utm_campaign=1055&utm_source=git)** | Ohio - Columbus, Three Nationwide Plaza | On Site | Nov 04 |
+| **[Alabama Credit Union](https://alabamacu.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/690a5b1a4a1b456627b0690e?utm_campaign=1055&utm_source=git)** | Tuscaloosa,AL,US | On Site | Nov 04 |
+| **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/690a58c5d046ab6061cdb5f9?utm_campaign=1055&utm_source=git)** | USA-OK - Oklahoma Remote | Remote | Nov 04 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern- Operational Risk](https://jobright.ai/jobs/info/690a5895bcccf20de59e11a9?utm_campaign=1055&utm_source=git)** | Milwaukee 111 Kilbourn | Hybrid | Nov 04 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a5876d046ab6061cdb5d8?utm_campaign=1055&utm_source=git)** | USA-MN - Minnesota Remote | Remote | Nov 04 |
 | **[FNBO](https://www.fnbo.com)** | **[Intern - Enterprise Risk Management (Omaha, NE)](https://jobright.ai/jobs/info/690412a5d64a22104aa96a04?utm_campaign=1055&utm_source=git)** | Omaha Metropolitan Area | On Site | Nov 04 |
@@ -84,7 +95,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a5227d046ab6061cdb22c?utm_campaign=1055&utm_source=git)** | USA-ID - Idaho Remote | Remote | Nov 04 |
 | ↳ | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a5225bcccf20de59e0dc5?utm_campaign=1055&utm_source=git)** | USA-GA - Georgia Remote | Remote | Nov 04 |
 | ↳ | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a52004a1b456627b062b3?utm_campaign=1055&utm_source=git)** | USA-CA - California Remote | Remote | Nov 04 |
-| ↳ | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a51bfd046ab6061cdb1c5?utm_campaign=1055&utm_source=git)** | USA-WA - Washington Remote | Remote | Nov 04 |
+| **[Legal Assistance Of Western New York, Inc. (LawNY)](https://www.lawny.org)** | **[Temporary Staff Attorney](https://jobright.ai/jobs/info/690a6e26d046ab6061cdc792?utm_campaign=1055&utm_source=git)** | Geneva, NY | Hybrid | Nov 04 |
+| **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a51bfd046ab6061cdb1c5?utm_campaign=1055&utm_source=git)** | USA-WA - Washington Remote | Remote | Nov 04 |
 | ↳ | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a51a64a1b456627b0625e?utm_campaign=1055&utm_source=git)** | USA-VA - Virginia Remote | Remote | Nov 04 |
 | ↳ | **[Spring 2026 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/690a5177bcccf20de59e0d0f?utm_campaign=1055&utm_source=git)** | USA-VA - Virginia Remote | Remote | Nov 04 |
 | ↳ | **[Spring 2026 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/690a516bd046ab6061cdb165?utm_campaign=1055&utm_source=git)** | USA-IL - Illinois Remote | Remote | Nov 04 |
@@ -103,6 +115,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/690a4eddd046ab6061cdaed9?utm_campaign=1055&utm_source=git)** | USA-GA - Georgia Remote | Remote | Nov 04 |
 | ↳ | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a4e9cd046ab6061cdae9a?utm_campaign=1055&utm_source=git)** | USA-MT - Montana Remote | Remote | Nov 04 |
 | ↳ | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a4e4cd046ab6061cdae58?utm_campaign=1055&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Nov 04 |
+| **[Predict.law](https://www.predict.law)** | **[Law Student Intern](https://jobright.ai/jobs/info/690a69ced046ab6061cdc22b?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Corporate Legal Intern](https://jobright.ai/jobs/info/68fafdd09e8e925ac6c88287?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Nov 04 |
 | **[Comstock Companies](http://comstockcompanies.com/)** | **[Real Estate Law Internship](https://jobright.ai/jobs/info/68d01ca8846f0b04af687972?utm_campaign=1055&utm_source=git)** | Virginia, United States | On Site | Nov 04 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 - (Master's Students) Fraud and Risk Intern](https://jobright.ai/jobs/info/690a3be4d046ab6061cda4da?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Nov 04 |
@@ -138,23 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/690a28194a1b456627b04c39?utm_campaign=1055&utm_source=git)** | Effingham, Illinois | On Site | Nov 04 |
 | ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/690a2260d046ab6061cd973e?utm_campaign=1055&utm_source=git)** | O'Fallon, Missouri | On Site | Nov 04 |
 | ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/690a290b4a1b456627b04ce2?utm_campaign=1055&utm_source=git)** | Effingham, Illinois | On Site | Nov 04 |
-| **[QLaws.ai](https://www.linkedin.com/company/105927901)** | **[Paralegal Intern – Legal AI Evaluation](https://jobright.ai/jobs/info/690984efbcccf20de59dc0e4?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 03 |
 | **[Robinhood](https://www.robinhood.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69095d07bcccf20de59da686?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Nov 03 |
 | **[Univest](http://www.univest.net/)** | **[Mortgage Intern](https://jobright.ai/jobs/info/69095c2b4a1b456627affb79?utm_campaign=1055&utm_source=git)** | Souderton, PA | On Site | Nov 03 |
 | **[Robinhood](https://www.robinhood.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/690959fe4a1b456627aff999?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 03 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Spring 2026 Legal Intern, Consumer Protection Unit](https://jobright.ai/jobs/info/69095668bcccf20de59da325?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 03 |
 | **[Entergy](https://www.entergy.com)** | **[Student Intern, Security Policy and Compliance, Summer 2026](https://jobright.ai/jobs/info/69094a48bcccf20de59d99ed?utm_campaign=1055&utm_source=git)** | New Orleans, LA | Hybrid | Nov 03 |
 | **[Everest](https://www.everestglobal.com/)** | **[2026 Legal Internship Program](https://jobright.ai/jobs/info/69094514d046ab6061cd3ae3?utm_campaign=1055&utm_source=git)** | Warren, NJ | Hybrid | Nov 03 |
-| **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Fort Wayne](https://jobright.ai/jobs/info/69093ab94a1b456627afe4c5?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | Hybrid | Nov 03 |
-| **[Sazerac Company](https://www.sazerac.com/)** | **[Intern - Law Clerk](https://jobright.ai/jobs/info/69093a78bcccf20de59d8f99?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Nov 03 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Cyber Security & Compliance (CCA) - Summer 2026 (Minneapolis)](https://jobright.ai/jobs/info/69093b63d046ab6061cd3360?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 03 |
-| **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern, Risk Advisory Services - Summer 2026 (Minneapolis)](https://jobright.ai/jobs/info/690932134a1b456627afdded?utm_campaign=1055&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 03 |
-| **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Denver](https://jobright.ai/jobs/info/69092f70d046ab6061cd28f8?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 03 |
-| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Third Party Risk Management](https://jobright.ai/jobs/info/69092e14bcccf20de59d8478?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Nov 03 |
-| **[Sun Country Airlines](https://www.suncountry.com/)** | **[Ground Operations Compliance Intern](https://jobright.ai/jobs/info/69092db4d046ab6061cd2760?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 03 |
-| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Third Party Risk Management](https://jobright.ai/jobs/info/69092d884a1b456627afd914?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 03 |
-| **[Madison Square Garden Sports Corp.](https://www.msgsports.com/)** | **[Sports Legal Summer 2026 Student Associate Program](https://jobright.ai/jobs/info/69092b434a1b456627afd709?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 03 |
-| **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Indianapolis](https://jobright.ai/jobs/info/690954964a1b456627aff540?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 03 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Risk Advisory Services - Summer 2026 (Minneapolis)](https://jobright.ai/jobs/info/6909291a4a1b456627afd558?utm_campaign=1055&utm_source=git)** | 800 Nicollet Mall, Minneapolis, MN, 55402, US | On Site | Nov 03 |
-| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - AML Compliance](https://jobright.ai/jobs/info/6909253cbcccf20de59d7e3b?utm_campaign=1055&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
