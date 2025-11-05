@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6d739821486c423c5c60?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 05 |
+| ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6daf9821486c423c5ca1?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Nov 05 |
+| ↳ | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6bcb9821486c423c59d8?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
+| ↳ | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6feade50091dbfa4eb75?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 05 |
+| **[State of Missouri](http://mo.gov)** | **[Summer Right of Way (Real Estate) Intern - Kansas City](https://jobright.ai/jobs/info/690b5c64d046ab6061ce3eb1?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Nov 05 |
+| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6a3478ba1621431dea32?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 05 |
+| ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef70c6de50091dbfa4ebe5?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 05 |
 | **[Robinhood](https://www.robinhood.com)** | **[Financial Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/68ef85abde50091dbfa4f00e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | **[Illinois Legal Aid Online ](https://www.illinoislegalaid.org/)** | **[Ascend Justice- Winter/Spring 2025 Internships - Ascend Justice](https://jobright.ai/jobs/info/690b4211221b890c277f4018?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 05 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 - IT Compliance & Risk Internship/Co-Op](https://jobright.ai/jobs/info/68ee620146e5b153e5a59313?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Nov 05 |
@@ -95,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/690a7881bcccf20de59e2c63?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Nov 04 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Leasing Tenant Representation Intern](https://jobright.ai/jobs/info/690a77edd046ab6061cdd0a1?utm_campaign=1055&utm_source=git)** | Phoenix, Arizona, USA | On Site | Nov 04 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Nov 04 |
-| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/690a759ed046ab6061cdcda3?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Nov 04 |
 | **[Jones Day](http://www.jonesday.com/)** | **[IP Legal Intern - ATLANTA, BOSTON, NEW YORK, PITTSBURGH, SAN DIEGO, SILICON VALLEY](https://jobright.ai/jobs/info/690a7465d046ab6061cdcc1c?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 04 |
 | **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Spring 2026](https://jobright.ai/jobs/info/690a72c8bcccf20de59e25b7?utm_campaign=1055&utm_source=git)** | Doral, FL | On Site | Nov 04 |
 | **[ITC Holdings Corp.](http://www.itc-holdings.com/)** | **[Intern - Regulatory](https://jobright.ai/jobs/info/690a70004a1b456627b07b75?utm_campaign=1055&utm_source=git)** | 27175 Energy Way, Novi, MI, 48377, US | On Site | Nov 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/690a4fd1d046ab6061cdafb4?utm_campaign=1055&utm_source=git)** | USA-IA - Iowa Remote | Remote | Nov 04 |
 | ↳ | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a4fc6d046ab6061cdafa5?utm_campaign=1055&utm_source=git)** | USA-UT - Utah Remote | Remote | Nov 04 |
 | ↳ | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a4fbfd046ab6061cdafa1?utm_campaign=1055&utm_source=git)** | USA-DC - Washington, D.C. Remote | Remote | Nov 04 |
-| ↳ | **[Spring 2026 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/690a4eddd046ab6061cdaed9?utm_campaign=1055&utm_source=git)** | USA-GA - Georgia Remote | Remote | Nov 04 |
-| ↳ | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a4e9cd046ab6061cdae9a?utm_campaign=1055&utm_source=git)** | USA-MT - Montana Remote | Remote | Nov 04 |
-| ↳ | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a4e4cd046ab6061cdae58?utm_campaign=1055&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Nov 04 |
-| **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Corporate Legal Intern](https://jobright.ai/jobs/info/68fafdd09e8e925ac6c88287?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Nov 04 |
-| **[Comstock Companies](http://comstockcompanies.com/)** | **[Real Estate Law Internship](https://jobright.ai/jobs/info/68d01ca8846f0b04af687972?utm_campaign=1055&utm_source=git)** | Virginia, United States | On Site | Nov 04 |
-| **[Intuit](https://www.intuit.com)** | **[Summer 2026 - (Master's Students) Fraud and Risk Intern](https://jobright.ai/jobs/info/690a3be4d046ab6061cda4da?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
