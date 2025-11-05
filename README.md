@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RHF (Retirement Housing Foundation)](http://www.rhf.org)** | **[Law Clerk -Intern](https://jobright.ai/jobs/info/690ac6a9d046ab6061ce02a7?utm_campaign=1055&utm_source=git)** | Long Beach, CA | On Site | Nov 04 |
+| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Patent Legal Intern](https://jobright.ai/jobs/info/690ac4234a1b456627b0b2d3?utm_campaign=1055&utm_source=git)** | Everett, WA | Hybrid | Nov 04 |
+| **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/690ab8d6d046ab6061cdf70f?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 04 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Patent Legal Intern](https://jobright.ai/jobs/info/690aaabb4a1b456627b0a15b?utm_campaign=1055&utm_source=git)** | 6920 Seaway Blvd, Everett, WA, 98203, US | Hybrid | Nov 04 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/690aaa62d046ab6061cdf09b?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Nov 04 |
 | **[Public Counsel](https://publiccounsel.org)** | **[2026 Summer Intern - Homelessness Prevention Law Project](https://jobright.ai/jobs/info/690aa768d046ab6061cdeec5?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 04 |
@@ -64,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Legal Intern](https://jobright.ai/jobs/info/690aa47bd046ab6061cded1b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 04 |
 | **[ITC Holdings Corp.](http://www.itc-holdings.com/)** | **[Intern - Regulatory](https://jobright.ai/jobs/info/690aa3b94a1b456627b09d4b?utm_campaign=1055&utm_source=git)** | Novi, MI | On Site | Nov 04 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Leasing Tenant Representation Intern](https://jobright.ai/jobs/info/690aa354bcccf20de59e4810?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Nov 04 |
+| **[Mitsui E&P USA LLC](https://www.mitsui-ep.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/690ab2c44a1b456627b0a5a6?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 04 |
 | **[State of Arizona](https://az.gov/)** | **[Law Intern](https://jobright.ai/jobs/info/690a8de7d046ab6061cde164?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/690a8d74bcccf20de59e3cd0?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Nov 04 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Data Governance](https://jobright.ai/jobs/info/690a83f0bcccf20de59e3654?utm_campaign=1055&utm_source=git)** | Milwaukee 111 Kilbourn | Hybrid | Nov 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Legal Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/690a1b3bbcccf20de59df015?utm_campaign=1055&utm_source=git)** | Dallas, TX, United States | On Site | Nov 04 |
 | **[State of Michigan](https://michigancountymap.com/)** | **[Student Assistant - Criminal Trials Division](https://jobright.ai/jobs/info/690a37814a1b456627b053f3?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Nov 04 |
 | **[Copart](http://www.copart.com)** | **[Technology Compliance Intern](https://jobright.ai/jobs/info/68ed411e70b66e2345d3bf06?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 04 |
-| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Direct Appeals Internship 2026](https://jobright.ai/jobs/info/6909f18cd046ab6061cd8704?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Nov 04 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Risk & Controls Intern](https://jobright.ai/jobs/info/68d192768c62e63bc7fccc5b?utm_campaign=1055&utm_source=git)** | Carlisle, PA | Hybrid | Nov 04 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Legal Intern Summer 2026](https://jobright.ai/jobs/info/68ed204570b66e2345d3aaef?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Nov 04 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Asset Protection Intern](https://jobright.ai/jobs/info/68d19769cece431f8b585898?utm_campaign=1055&utm_source=git)** | Carlisle, PA | Hybrid | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
