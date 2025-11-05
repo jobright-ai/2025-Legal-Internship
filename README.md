@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - DRIVE Legal](https://jobright.ai/jobs/info/68eed26446e5b153e5a605bb?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 05 |
+| **[Optiver](http://www.optiver.com)** | **[Compliance Intern 2026](https://jobright.ai/jobs/info/6904e79dff462851feff86a4?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 05 |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Technology and Information Compliance Undergraduate Intern](https://jobright.ai/jobs/info/68fae5888d32c164778cc520?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 05 |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Surveillance Compliance Intern](https://jobright.ai/jobs/info/68cf639e846f0b04af681bd4?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 05 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/690b164a54fb8145904e719f?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Nov 05 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Legal Intern](https://jobright.ai/jobs/info/690b10374a1b456627b0d852?utm_campaign=1055&utm_source=git)** | Portland, OR US | Hybrid | Nov 05 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/690b0ccebcccf20de59e8224?utm_campaign=1055&utm_source=git)** | Portland, OR | Hybrid | Nov 05 |
+| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/690b218b221b890c277f387b?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Nov 04 |
 | **[LCRA](https://www.lcra.org/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/690ae8cfd046ab6061ce152c?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Nov 04 |
 | **[Mitsui & Co. Energy Marketing and Services (USA), Inc.](http://mems-usa.com)** | **[Legal Intern](https://jobright.ai/jobs/info/690add36bcccf20de59e6b8b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 04 |
 | **[RHF (Retirement Housing Foundation)](http://www.rhf.org)** | **[Law Clerk -Intern](https://jobright.ai/jobs/info/690ac6a9d046ab6061ce02a7?utm_campaign=1055&utm_source=git)** | Long Beach, CA | On Site | Nov 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Risk Management SME (CI Poly) (SkillBridge Intern) - 17408](https://jobright.ai/jobs/info/682ab9f5d37c869596eabb93?utm_campaign=1055&utm_source=git)** | Fort Meade, MD | On Site | Nov 04 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - Phoenix, AZ](https://jobright.ai/jobs/info/68f3557c9a63986de7571808?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Nov 04 |
 | **[Coinbase](https://www.coinbase.com)** | **[Payments Risk Intern](https://jobright.ai/jobs/info/68ed85e970b66e2345d3ecd1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 04 |
-| **[Houston Housing Authority](http://housingforhouston.com)** | **[Legal Intern](https://jobright.ai/jobs/info/690a56ebd046ab6061cdb54f?utm_campaign=1055&utm_source=git)** | Houston Housing Authority, Houston, TX, US | On Site | Nov 04 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - West Hartford, CT](https://jobright.ai/jobs/info/690b01604a1b456627b0cfe2?utm_campaign=1055&utm_source=git)** | West Hartford, CT | On Site | Nov 04 |
-| **[Defender Association of Philadelphia](https://phillydefenders.org)** | **[Summer Legal Internship Rising 2Ls 2026](https://jobright.ai/jobs/info/690a7ef0bcccf20de59e3139?utm_campaign=1055&utm_source=git)** | Main Office, Philadelphia, PA, US | On Site | Nov 04 |
-| **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68ed78aa81fdd1626d39cd8d?utm_campaign=1055&utm_source=git)** | South Sioux City, NE | On Site | Nov 04 |
-| **[Church Mutual Insurance Company, S.I.](http://www.churchmutual.com)** | **[Intern-Claims Auto](https://jobright.ai/jobs/info/68f4c9969a63986de7577999?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
