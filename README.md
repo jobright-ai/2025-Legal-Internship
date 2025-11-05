@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mitsui & Co. Energy Marketing and Services (USA), Inc.](http://mems-usa.com)** | **[Legal Intern](https://jobright.ai/jobs/info/690add36bcccf20de59e6b8b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 04 |
 | **[RHF (Retirement Housing Foundation)](http://www.rhf.org)** | **[Law Clerk -Intern](https://jobright.ai/jobs/info/690ac6a9d046ab6061ce02a7?utm_campaign=1055&utm_source=git)** | Long Beach, CA | On Site | Nov 04 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Patent Legal Intern](https://jobright.ai/jobs/info/690ac4234a1b456627b0b2d3?utm_campaign=1055&utm_source=git)** | Everett, WA | Hybrid | Nov 04 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/690ab8d6d046ab6061cdf70f?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 04 |
@@ -83,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Jones Day](http://www.jonesday.com/)** | **[IP Legal Intern - ATLANTA, BOSTON, NEW YORK, PITTSBURGH, SAN DIEGO, SILICON VALLEY](https://jobright.ai/jobs/info/690a7465d046ab6061cdcc1c?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 04 |
 | **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Spring 2026](https://jobright.ai/jobs/info/690a72c8bcccf20de59e25b7?utm_campaign=1055&utm_source=git)** | Doral, FL | On Site | Nov 04 |
 | **[ITC Holdings Corp.](http://www.itc-holdings.com/)** | **[Intern - Regulatory](https://jobright.ai/jobs/info/690a70004a1b456627b07b75?utm_campaign=1055&utm_source=git)** | 27175 Energy Way, Novi, MI, 48377, US | On Site | Nov 04 |
-| **[3DA](https://www.3da.org)** | **[Legal Rights Intern](https://jobright.ai/jobs/info/690a6ebbd046ab6061cdc837?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Farm Credit Bank of Texas](https://www.farmcreditbank.com/)** | **[Identity & Compliance Intern](https://jobright.ai/jobs/info/690a6acebcccf20de59e1f72?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Nov 04 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Internship Program - Legal Intern](https://jobright.ai/jobs/info/690a67794a1b456627b071ae?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 04 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern- Operational Risk](https://jobright.ai/jobs/info/690a62844a1b456627b06eca?utm_campaign=1055&utm_source=git)** | Green Bay 433 Main | Hybrid | Nov 04 |
@@ -148,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Calamos Investments](http://www.calamos.com/)** | **[Compliance & Legal Intern](https://jobright.ai/jobs/info/690a3173d046ab6061cd9dfe?utm_campaign=1055&utm_source=git)** | Naperville, IL | On Site | Nov 04 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Risk Management SME (CI Poly) (SkillBridge Intern) - 17408](https://jobright.ai/jobs/info/682ab9f5d37c869596eabb93?utm_campaign=1055&utm_source=git)** | Fort Meade, MD | On Site | Nov 04 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - Phoenix, AZ](https://jobright.ai/jobs/info/68f3557c9a63986de7571808?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Nov 04 |
-| ↳ | **[Risk Advisory Intern - Summer 2026 - West Hartford, CT](https://jobright.ai/jobs/info/6906d1db63502c0aded83335?utm_campaign=1055&utm_source=git)** | West Hartford, CT | On Site | Nov 04 |
 | **[Coinbase](https://www.coinbase.com)** | **[Payments Risk Intern](https://jobright.ai/jobs/info/68ed85e970b66e2345d3ecd1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 04 |
 | **[Houston Housing Authority](http://housingforhouston.com)** | **[Legal Intern](https://jobright.ai/jobs/info/690a56ebd046ab6061cdb54f?utm_campaign=1055&utm_source=git)** | Houston Housing Authority, Houston, TX, US | On Site | Nov 04 |
 | **[Defender Association of Philadelphia](https://phillydefenders.org)** | **[Summer Legal Internship Rising 2Ls 2026](https://jobright.ai/jobs/info/690a7ef0bcccf20de59e3139?utm_campaign=1055&utm_source=git)** | Main Office, Philadelphia, PA, US | On Site | Nov 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Legal Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/690a1b3bbcccf20de59df015?utm_campaign=1055&utm_source=git)** | Dallas, TX, United States | On Site | Nov 04 |
 | **[State of Michigan](https://michigancountymap.com/)** | **[Student Assistant - Criminal Trials Division](https://jobright.ai/jobs/info/690a37814a1b456627b053f3?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Nov 04 |
 | **[Copart](http://www.copart.com)** | **[Technology Compliance Intern](https://jobright.ai/jobs/info/68ed411e70b66e2345d3bf06?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 04 |
+| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Direct Appeals Internship 2026](https://jobright.ai/jobs/info/6909f18cd046ab6061cd8704?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
