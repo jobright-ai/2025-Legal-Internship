@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LCRA](https://www.lcra.org/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/690ae8cfd046ab6061ce152c?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Nov 04 |
 | **[Mitsui & Co. Energy Marketing and Services (USA), Inc.](http://mems-usa.com)** | **[Legal Intern](https://jobright.ai/jobs/info/690add36bcccf20de59e6b8b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 04 |
 | **[RHF (Retirement Housing Foundation)](http://www.rhf.org)** | **[Law Clerk -Intern](https://jobright.ai/jobs/info/690ac6a9d046ab6061ce02a7?utm_campaign=1055&utm_source=git)** | Long Beach, CA | On Site | Nov 04 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Patent Legal Intern](https://jobright.ai/jobs/info/690ac4234a1b456627b0b2d3?utm_campaign=1055&utm_source=git)** | Everett, WA | Hybrid | Nov 04 |
@@ -139,7 +140,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/690a4eddd046ab6061cdaed9?utm_campaign=1055&utm_source=git)** | USA-GA - Georgia Remote | Remote | Nov 04 |
 | ↳ | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a4e9cd046ab6061cdae9a?utm_campaign=1055&utm_source=git)** | USA-MT - Montana Remote | Remote | Nov 04 |
 | ↳ | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a4e4cd046ab6061cdae58?utm_campaign=1055&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Nov 04 |
-| **[Predict.law](https://www.predict.law)** | **[Law Student Intern](https://jobright.ai/jobs/info/690a69ced046ab6061cdc22b?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Corporate Legal Intern](https://jobright.ai/jobs/info/68fafdd09e8e925ac6c88287?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Nov 04 |
 | **[Comstock Companies](http://comstockcompanies.com/)** | **[Real Estate Law Internship](https://jobright.ai/jobs/info/68d01ca8846f0b04af687972?utm_campaign=1055&utm_source=git)** | Virginia, United States | On Site | Nov 04 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 - (Master's Students) Fraud and Risk Intern](https://jobright.ai/jobs/info/690a3be4d046ab6061cda4da?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Nov 04 |
