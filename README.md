@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tenet Healthcare](http://tenethealth.com)** | **[Legal Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/690bc140221b890c277f7c81?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/690bbefdd046ab6061ce727c?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 05 |
+| **[Neighborhood Defender Service](https://neighborhooddefender.org)** | **[Summer 2026 Law Intern - NDS Detroit](https://jobright.ai/jobs/info/690bba78d046ab6061ce6eb9?utm_campaign=1055&utm_source=git)** | US-MI-Detroit | On Site | Nov 05 |
+| **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern- Operations and Technology Risk](https://jobright.ai/jobs/info/690bba574a1b456627b120f3?utm_campaign=1055&utm_source=git)** | Milwaukee 111 Kilbourn | On Site | Nov 05 |
+| **[UPL](http://www.upl-ltd.com/)** | **[Federal Regulatory Intern](https://jobright.ai/jobs/info/690bb840221b890c277f741a?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Nov 05 |
+| **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[2026 Summer Internship / Contracts and Compliance](https://jobright.ai/jobs/info/690bb703d046ab6061ce6b33?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Nov 05 |
+| **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69073d9263502c0aded857da?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Nov 05 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern- Anti Money Laundering](https://jobright.ai/jobs/info/690b9f83221b890c277f64e7?utm_campaign=1055&utm_source=git)** | Milwaukee 111 Kilbourn | Hybrid | Nov 05 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/690b9ec54a1b456627b10f0a?utm_campaign=1055&utm_source=git)** | USA PA Philadelphia | On Site | Nov 05 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern- Anti Money Laundering](https://jobright.ai/jobs/info/690b9bcb221b890c277f6242?utm_campaign=1055&utm_source=git)** | Greater Milwaukee | On Site | Nov 05 |
@@ -66,8 +73,10 @@ For a complete list, click the following sortable link below:
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Justice Legal Internship](https://jobright.ai/jobs/info/690b90f1d046ab6061ce541f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | ↳ | **[Summer 2026 Liberty and National Security Legal Internship](https://jobright.ai/jobs/info/690b8c3b4a1b456627b10373?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/690b84ead046ab6061ce4e22?utm_campaign=1055&utm_source=git)** | Durham, NC | Hybrid | Nov 05 |
+| **[Goodwin](http://www.goodwinprocter.com)** | **[Legal Intern](https://jobright.ai/jobs/info/690bb300d046ab6061ce69c5?utm_campaign=1055&utm_source=git)** | New York | On Site | Nov 05 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6de19821486c423c5cd6?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Nov 05 |
-| ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef71cd78ba1621431dee99?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
+| **[Baker Tilly](https://www.bakertilly.global/)** | **[Risk Advisory Internship - Life Science Compliance - Summer 2026](https://jobright.ai/jobs/info/690badf8221b890c277f6d94?utm_campaign=1055&utm_source=git)** | USA NY New York City 66 Hudson Blvd E | On Site | Nov 05 |
+| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef71cd78ba1621431dee99?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
 | ↳ | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6b929821486c423c5959?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 05 |
 | **[Bollinger Shipyards](http://bollingershipyards.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/68eeb195e0db924225809d35?utm_campaign=1055&utm_source=git)** | Lockport, LA | On Site | Nov 05 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Fellow (Fall 2026)](https://jobright.ai/jobs/info/68c7bc62369c3763c743b0aa?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 05 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a5876d046ab6061cdb5d8?utm_campaign=1055&utm_source=git)** | USA-MN - Minnesota Remote | Remote | Nov 04 |
 | **[FNBO](https://www.fnbo.com)** | **[Intern - Enterprise Risk Management (Omaha, NE)](https://jobright.ai/jobs/info/690412a5d64a22104aa96a04?utm_campaign=1055&utm_source=git)** | Omaha Metropolitan Area | On Site | Nov 04 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/690a582bd046ab6061cdb5c3?utm_campaign=1055&utm_source=git)** | USA-NE - Nebraska Remote | Remote | Nov 04 |
-| ↳ | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a57e1d046ab6061cdb5a3?utm_campaign=1055&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Nov 04 |
-| ↳ | **[Spring 2026 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/690a57a1d046ab6061cdb58c?utm_campaign=1055&utm_source=git)** | USA-AR - Arkansas Remote | Remote | Nov 04 |
-| ↳ | **[Spring 2026 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/690a574ed046ab6061cdb572?utm_campaign=1055&utm_source=git)** | USA-LA - Louisiana Remote | Remote | Nov 04 |
-| ↳ | **[Spring 2026 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/690a5584d046ab6061cdb475?utm_campaign=1055&utm_source=git)** | USA-NC - North Carolina Remote | Remote | Nov 04 |
-| **[Bollinger Shipyards](http://bollingershipyards.com)** | **[Finance and Legal Intern](https://jobright.ai/jobs/info/690a753f4a1b456627b07f25?utm_campaign=1055&utm_source=git)** | Lockport, LA | On Site | Nov 04 |
-| **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a5539d046ab6061cdb434?utm_campaign=1055&utm_source=git)** | USA-MD - Maryland Remote | Remote | Nov 04 |
-| ↳ | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a547c4a1b456627b0654f?utm_campaign=1055&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Nov 04 |
-| ↳ | **[Spring 2026 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/690a54494a1b456627b06517?utm_campaign=1055&utm_source=git)** | USA-MD - Maryland Remote | Remote | Nov 04 |
-| ↳ | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a5442bcccf20de59e0fe5?utm_campaign=1055&utm_source=git)** | USA-MA - Massachusetts Remote | Remote | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
