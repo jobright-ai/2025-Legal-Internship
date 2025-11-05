@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Robinhood](https://www.robinhood.com)** | **[Financial Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/68ef85abde50091dbfa4f00e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 05 |
+| **[Illinois Legal Aid Online ](https://www.illinoislegalaid.org/)** | **[Ascend Justice- Winter/Spring 2025 Internships - Ascend Justice](https://jobright.ai/jobs/info/690b4211221b890c277f4018?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 05 |
+| **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 - IT Compliance & Risk Internship/Co-Op](https://jobright.ai/jobs/info/68ee620146e5b153e5a59313?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Nov 05 |
+| **[Robinhood](https://www.robinhood.com)** | **[Financial Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/68ef7dba9821486c423c601a?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Nov 05 |
+| **[Gentherm](https://gentherm.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68eec74946e5b153e5a5fde9?utm_campaign=1055&utm_source=git)** | Novi, MI | On Site | Nov 05 |
+| **[Segal](https://www.segalco.com)** | **[Summer Intern - Compliance](https://jobright.ai/jobs/info/68fdb4820ab3b222462a4246?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 05 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - DRIVE Legal](https://jobright.ai/jobs/info/68eed26446e5b153e5a605bb?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 05 |
 | **[Optiver](http://www.optiver.com)** | **[Compliance Intern 2026](https://jobright.ai/jobs/info/6904e79dff462851feff86a4?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 05 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Technology and Information Compliance Undergraduate Intern](https://jobright.ai/jobs/info/68fae5888d32c164778cc520?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 05 |
@@ -78,7 +84,7 @@ For a complete list, click the following sortable link below:
 | **[ITC Holdings Corp.](http://www.itc-holdings.com/)** | **[Intern - Regulatory](https://jobright.ai/jobs/info/690aa3b94a1b456627b09d4b?utm_campaign=1055&utm_source=git)** | Novi, MI | On Site | Nov 04 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Leasing Tenant Representation Intern](https://jobright.ai/jobs/info/690aa354bcccf20de59e4810?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Nov 04 |
 | **[Mitsui E&P USA LLC](https://www.mitsui-ep.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/690ab2c44a1b456627b0a5a6?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 04 |
-| **[State of Arizona](https://az.gov/)** | **[Law Intern](https://jobright.ai/jobs/info/690a8de7d046ab6061cde164?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 04 |
+| **[State of Arizona](https://gaming.az.gov)** | **[Law Intern](https://jobright.ai/jobs/info/690a8de7d046ab6061cde164?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/690a8d74bcccf20de59e3cd0?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Nov 04 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Data Governance](https://jobright.ai/jobs/info/690a83f0bcccf20de59e3654?utm_campaign=1055&utm_source=git)** | Milwaukee 111 Kilbourn | Hybrid | Nov 04 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a827dbcccf20de59e3502?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Nov 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Corporate Legal Intern](https://jobright.ai/jobs/info/68fafdd09e8e925ac6c88287?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Nov 04 |
 | **[Comstock Companies](http://comstockcompanies.com/)** | **[Real Estate Law Internship](https://jobright.ai/jobs/info/68d01ca8846f0b04af687972?utm_campaign=1055&utm_source=git)** | Virginia, United States | On Site | Nov 04 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 - (Master's Students) Fraud and Risk Intern](https://jobright.ai/jobs/info/690a3be4d046ab6061cda4da?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Nov 04 |
-| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Spring 2026](https://jobright.ai/jobs/info/690a366dd046ab6061cda148?utm_campaign=1055&utm_source=git)** | Doral, Florida | Hybrid | Nov 04 |
-| **[Farm Credit Bank of Texas](https://www.farmcreditbank.com/)** | **[Identity & Compliance Intern](https://jobright.ai/jobs/info/690a31ec4a1b456627b0508c?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | Hybrid | Nov 04 |
-| **[Calamos Investments](http://www.calamos.com/)** | **[Compliance & Legal Intern](https://jobright.ai/jobs/info/690a3173d046ab6061cd9dfe?utm_campaign=1055&utm_source=git)** | Naperville, IL | On Site | Nov 04 |
-| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Risk Management SME (CI Poly) (SkillBridge Intern) - 17408](https://jobright.ai/jobs/info/682ab9f5d37c869596eabb93?utm_campaign=1055&utm_source=git)** | Fort Meade, MD | On Site | Nov 04 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - Phoenix, AZ](https://jobright.ai/jobs/info/68f3557c9a63986de7571808?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Nov 04 |
-| **[Coinbase](https://www.coinbase.com)** | **[Payments Risk Intern](https://jobright.ai/jobs/info/68ed85e970b66e2345d3ecd1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
