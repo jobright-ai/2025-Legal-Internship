@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/68efff0a78ba1621431e170c?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Nov 06 |
+| **[Janus Henderson Group PLC](http://hendersonglobalinvestors.com)** | **[Legal Intern](https://jobright.ai/jobs/info/690c7927d046ab6061ced912?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 06 |
 | **[Neighborhood Defender Service](https://neighborhooddefender.org)** | **[Summer 2026 Law Intern - NDS Detroit](https://jobright.ai/jobs/info/690c3942221b890c277fc715?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Nov 05 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Law School/Legal](https://jobright.ai/jobs/info/690c2c604a1b456627b16c59?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Nov 05 |
 | ↳ | **[Law School / Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/690c2a204a1b456627b16b8e?utm_campaign=1055&utm_source=git)** | Memphis, TN | Hybrid | Nov 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Data Governance](https://jobright.ai/jobs/info/690a83f0bcccf20de59e3654?utm_campaign=1055&utm_source=git)** | Milwaukee 111 Kilbourn | Hybrid | Nov 04 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a827dbcccf20de59e3502?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Nov 04 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[Contractor Assurance/Program Compliance Summer Intern](https://jobright.ai/jobs/info/690a7a7ad046ab6061cdd37c?utm_campaign=1055&utm_source=git)** | Aiken, SC | On Site | Nov 04 |
-| **[Jones Day](http://www.jonesday.com/)** | **[IP Legal Intern - ATLANTA, BOSTON, NEW YORK, PITTSBURGH, SAN DIEGO, SILICON VALLEY](https://jobright.ai/jobs/info/690a799abcccf20de59e2dce?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 04 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Global Trade Compliance Intern Summer 2026](https://jobright.ai/jobs/info/690a78e04a1b456627b0829e?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
