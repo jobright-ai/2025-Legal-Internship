@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DESRI](https://desri.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd675ee23def7af55b97e0?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Nov 06 |
+| ↳ | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd6643b2a74e1837ed68e5?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 06 |
+| **[Ocean Conservancy](https://oceanconservancy.org/about/)** | **[Dana Wolfe Memorial Legal Intern](https://jobright.ai/jobs/info/68f208de2636ac47599f312a?utm_campaign=1055&utm_source=git)** | Bellingham, WA | Hybrid | Nov 06 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/68efff0a78ba1621431e170c?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Nov 06 |
+| ↳ | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/68f0009578ba1621431e186b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Nov 06 |
+| ↳ | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/68effd6f78ba1621431e15ae?utm_campaign=1055&utm_source=git)** | Bloomington, IL | Hybrid | Nov 06 |
 | **[Janus Henderson Group PLC](http://hendersonglobalinvestors.com)** | **[Legal Intern](https://jobright.ai/jobs/info/690c7927d046ab6061ced912?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 06 |
 | **[Neighborhood Defender Service](https://neighborhooddefender.org)** | **[Summer 2026 Law Intern - NDS Detroit](https://jobright.ai/jobs/info/690c3942221b890c277fc715?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Nov 05 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Law School/Legal](https://jobright.ai/jobs/info/690c2c604a1b456627b16c59?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Nov 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ITC Holdings Corp.](http://www.itc-holdings.com/)** | **[Intern - Regulatory](https://jobright.ai/jobs/info/690aa3b94a1b456627b09d4b?utm_campaign=1055&utm_source=git)** | Novi, MI | On Site | Nov 04 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Leasing Tenant Representation Intern](https://jobright.ai/jobs/info/690aa354bcccf20de59e4810?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Nov 04 |
 | **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Internship - SPRING 2026 - MDT/Criminal Justice #HIRING](https://jobright.ai/jobs/info/690bf24ed046ab6061ce9636?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Nov 04 |
-| **[Mitsui E&P USA LLC](https://www.mitsui-ep.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/690ab2c44a1b456627b0a5a6?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 04 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/690a8d74bcccf20de59e3cd0?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Nov 04 |
-| **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Data Governance](https://jobright.ai/jobs/info/690a83f0bcccf20de59e3654?utm_campaign=1055&utm_source=git)** | Milwaukee 111 Kilbourn | Hybrid | Nov 04 |
-| **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/690a827dbcccf20de59e3502?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Nov 04 |
-| **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[Contractor Assurance/Program Compliance Summer Intern](https://jobright.ai/jobs/info/690a7a7ad046ab6061cdd37c?utm_campaign=1055&utm_source=git)** | Aiken, SC | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
