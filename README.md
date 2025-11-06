@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/690bfc1b4a1b456627b14ed1?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 05 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seeker Legal Services Intern (UNPAID)](https://jobright.ai/jobs/info/690bfa2e221b890c277fa39c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 05 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Real Estate Tran Intern](https://jobright.ai/jobs/info/690bf89c4a1b456627b14c65?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 05 |
+| **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern- Operations and Technology Risk](https://jobright.ai/jobs/info/690bf383d046ab6061ce9700?utm_campaign=1055&utm_source=git)** | Greater Milwaukee | On Site | Nov 05 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seeker Legal Services Intern (UNPAID)](https://jobright.ai/jobs/info/690bd608d046ab6061ce863f?utm_campaign=1055&utm_source=git)** | New York, NY RAI USA | Hybrid | Nov 05 |
 | **[Torres & Zheng at Law, P.C.](www.torresbusinesslaw.com)** | **[NYC Law Firm - Legal Intern](https://jobright.ai/jobs/info/690bd2b2d046ab6061ce834e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Future Opportunities Intern Quality & Regulatory Compliance - Digital Quality (Summer 2026)](https://jobright.ai/jobs/info/690bd00ad046ab6061ce80a7?utm_campaign=1055&utm_source=git)** | Hershey, PA | On Site | Nov 05 |
@@ -141,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Legal Intern](https://jobright.ai/jobs/info/690aa47bd046ab6061cded1b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 04 |
 | **[ITC Holdings Corp.](http://www.itc-holdings.com/)** | **[Intern - Regulatory](https://jobright.ai/jobs/info/690aa3b94a1b456627b09d4b?utm_campaign=1055&utm_source=git)** | Novi, MI | On Site | Nov 04 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Leasing Tenant Representation Intern](https://jobright.ai/jobs/info/690aa354bcccf20de59e4810?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Nov 04 |
+| **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Internship - SPRING 2026 - MDT/Criminal Justice #HIRING](https://jobright.ai/jobs/info/690bf24ed046ab6061ce9636?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Nov 04 |
 | **[Mitsui E&P USA LLC](https://www.mitsui-ep.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/690ab2c44a1b456627b0a5a6?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 04 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/690a8d74bcccf20de59e3cd0?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Nov 04 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Data Governance](https://jobright.ai/jobs/info/690a83f0bcccf20de59e3654?utm_campaign=1055&utm_source=git)** | Milwaukee 111 Kilbourn | Hybrid | Nov 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/690a7881bcccf20de59e2c63?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Nov 04 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Leasing Tenant Representation Intern](https://jobright.ai/jobs/info/690a77edd046ab6061cdd0a1?utm_campaign=1055&utm_source=git)** | Phoenix, Arizona, USA | On Site | Nov 04 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Nov 04 |
-| **[Jones Day](http://www.jonesday.com/)** | **[IP Legal Intern - ATLANTA, BOSTON, NEW YORK, PITTSBURGH, SAN DIEGO, SILICON VALLEY](https://jobright.ai/jobs/info/690a7465d046ab6061cdcc1c?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 04 |
-| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Spring 2026](https://jobright.ai/jobs/info/690a72c8bcccf20de59e25b7?utm_campaign=1055&utm_source=git)** | Doral, FL | On Site | Nov 04 |
-| **[ITC Holdings Corp.](http://www.itc-holdings.com/)** | **[Intern - Regulatory](https://jobright.ai/jobs/info/690a70004a1b456627b07b75?utm_campaign=1055&utm_source=git)** | 27175 Energy Way, Novi, MI, 48377, US | On Site | Nov 04 |
-| **[Farm Credit Bank of Texas](https://www.farmcreditbank.com/)** | **[Identity & Compliance Intern](https://jobright.ai/jobs/info/690a6acebcccf20de59e1f72?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Nov 04 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Internship Program - Legal Intern](https://jobright.ai/jobs/info/690a67794a1b456627b071ae?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
