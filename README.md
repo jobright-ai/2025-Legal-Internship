@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[New York Life Law Internship- Summer 2026](https://jobright.ai/jobs/info/690e68d544146d3b6ec53de1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 07 |
+| **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern - Summer 2026](https://jobright.ai/jobs/info/690e61abd046ab6061cfce62?utm_campaign=1055&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Nov 07 |
+| **[PACCAR Financial Corp.](https://www.paccarfinancial.com)** | **[Financial Rotational Internship - Summer Internship 2026 / Lewisville, TX](https://jobright.ai/jobs/info/690e607cd046ab6061cfcd80?utm_campaign=1055&utm_source=git)** | Lewisville, TX | On Site | Nov 07 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Fraud](https://jobright.ai/jobs/info/690e47d2221b890c2780c5ce?utm_campaign=1055&utm_source=git)** | Green Bay, Wisconsin Metropolitan Area | On Site | Nov 07 |
 | **[Richmond National](https://richmondnational.com)** | **[Risk Management Internship](https://jobright.ai/jobs/info/690e47b444146d3b6ec5287c?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | On Site | Nov 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/690e468dd046ab6061cfbd09?utm_campaign=1055&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Nov 07 |
 | **[National Life Group](https://www.nationallife.com)** | **[Law & Compliance Intern – Summer 2026](https://jobright.ai/jobs/info/690e466cd046ab6061cfbcf3?utm_campaign=1055&utm_source=git)** | Montpelier, VT | On Site | Nov 07 |
+| **[Notion](https://www.notion.so)** | **[Trust and Safety, Fraud and Abuse Analyst Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b8654d046ab6061ce4f0f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Nov 07 |
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Legal & Compliance](https://jobright.ai/jobs/info/68c0af705c5d5f14f46e0428?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Nov 07 |
+| **[TopBuild](http://www.topbuild.com)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/690e616144146d3b6ec5378c?utm_campaign=1055&utm_source=git)** | Daytona Beach, FL - Corp. Headquarters | On Site | Nov 07 |
 | **[NYC Department of Finance](http://www.nyc.gov/html/dof/html/home/home.shtml)** | **[Attorney Intern, Parking Law](https://jobright.ai/jobs/info/690e3b5244146d3b6ec5222f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 07 |
 | **[SpartanNash](https://www.spartannash.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68f15352e6870116b1f56f49?utm_campaign=1055&utm_source=git)** | Byron Center, MI | On Site | Nov 07 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/68f14b72e6870116b1f566c3?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Technology and Information Compliance Undergraduate Intern](https://jobright.ai/jobs/info/690d57e54a1b456627b20980?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 05 |
 | **[Glenmede](http://www.glenmede.com/)** | **[2026 Summer Intern, Fiduciary Practices (Law Student)](https://jobright.ai/jobs/info/690c0435221b890c277fa8d8?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 05 |
 | ↳ | **[2026 Summer Intern, Wealth Advisory (Law Student)](https://jobright.ai/jobs/info/690c03b44a1b456627b152d5?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 05 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/690bfc1b4a1b456627b14ed1?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 05 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seeker Legal Services Intern (UNPAID)](https://jobright.ai/jobs/info/690bfa2e221b890c277fa39c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 05 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Real Estate Tran Intern](https://jobright.ai/jobs/info/690bf89c4a1b456627b14c65?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 05 |
-| **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern- Operations and Technology Risk](https://jobright.ai/jobs/info/690bf383d046ab6061ce9700?utm_campaign=1055&utm_source=git)** | Greater Milwaukee | On Site | Nov 05 |
-| **[City of Seguin](http://www.seguintexas.gov)** | **[Legal Intern- Part Time (Temporary)](https://jobright.ai/jobs/info/690d4920d046ab6061cf5060?utm_campaign=1055&utm_source=git)** | Seguin, TX | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
