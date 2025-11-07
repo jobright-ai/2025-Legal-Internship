@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68edbf3970b66e2345d40744?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Nov 06 |
+| **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2026 Internship - Vendor Compliance / Sourcing Operations](https://jobright.ai/jobs/info/690d2b32d046ab6061cf3b24?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Nov 06 |
+| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e63dc2ae2b894b1d719593?utm_campaign=1055&utm_source=git)** | East Syracuse, NY | Hybrid | Nov 06 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e62371e8daec61499a93a9?utm_campaign=1055&utm_source=git)** | Hunt Valley, MD | Hybrid | Nov 06 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e631e4e8daec61499a9f05?utm_campaign=1055&utm_source=git)** | Richardson, TX | Hybrid | Nov 06 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68edbf3970b66e2345d40744?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Nov 06 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e62a29ae2b894b1d718bc0?utm_campaign=1055&utm_source=git)** | Melville, NY | Hybrid | Nov 06 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e627af1852e62f0081980b?utm_campaign=1055&utm_source=git)** | Franklin, TN | Hybrid | Nov 06 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Operational Risk Management](https://jobright.ai/jobs/info/690d13314a1b456627b1d599?utm_campaign=1055&utm_source=git)** | 200 Renaissance Center, Detroit, MI, 48265, US | On Site | Nov 06 |
@@ -70,7 +74,10 @@ For a complete list, click the following sortable link below:
 | **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern - Omaha, NE - Summer 2026](https://jobright.ai/jobs/info/690d06274a1b456627b1ca65?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Nov 06 |
 | **[Pine Tree Legal Assistance, Inc.](https://www.ptla.org/)** | **[Summer 2026 Internships For Law Students](https://jobright.ai/jobs/info/690d049c4a1b456627b1c982?utm_campaign=1055&utm_source=git)** | Portland, ME | On Site | Nov 06 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69073d9263502c0aded857da?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Nov 06 |
+| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e62b07e8daec61499a9a76?utm_campaign=1055&utm_source=git)** | San Antonio, TX | Hybrid | Nov 06 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e5906db99ec3563b0f6907?utm_campaign=1055&utm_source=git)** | St Louis, MO | Hybrid | Nov 06 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern - Omaha, NE - Summer 2026](https://jobright.ai/jobs/info/690cfd05221b890c27801975?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Nov 06 |
+| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/690d2f25221b890c278046d2?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Nov 06 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f7f3b4b0edcf159dc8c8eb?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 06 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Quality & Compliance Intern- Patient Service (Pharm D)](https://jobright.ai/jobs/info/690d12cf4a1b456627b1d49f?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Nov 06 |
 | **[Clarkson Law Firm](https://clarksonlawfirm.com)** | **[Spring Legal Intern](https://jobright.ai/jobs/info/690cea6d221b890c27800db0?utm_campaign=1055&utm_source=git)** | Malibu, CA | Hybrid | Nov 06 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6daf9821486c423c5ca1?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Nov 05 |
 | ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6b3778ba1621431dec13?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Nov 05 |
 | ↳ | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6bcb9821486c423c59d8?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
-| ↳ | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6feade50091dbfa4eb75?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 05 |
-| ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6b6fde50091dbfa4ea3e?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 05 |
-| ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6d3e9821486c423c5c33?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 05 |
-| ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6cf99821486c423c5be9?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
-| ↳ | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6c2c9821486c423c5b29?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 05 |
-| **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney's Office Brave Justice Summer 2026 Legal Internship](https://jobright.ai/jobs/info/687e9e51db19f31cf0d6bba0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 05 |
-| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6c169821486c423c5b04?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
