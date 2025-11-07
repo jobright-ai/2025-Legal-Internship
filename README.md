@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: SBUs and R&D Legal Intern](https://jobright.ai/jobs/info/690d8811221b890c278076d4?utm_campaign=1055&utm_source=git)** | USA - MA - Cambridge - Kendall Square - 500 | Hybrid | Nov 06 |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/690d902244146d3b6ec4dcaf?utm_campaign=1055&utm_source=git)** | Florida - Virtual | Remote | Nov 06 |
+| ↳ | **[2026 Summer Internship Program: Intern, US Medical Advertising & Promotion (Ad/Promo) Regulatory](https://jobright.ai/jobs/info/690d8cf344146d3b6ec4dbbf?utm_campaign=1055&utm_source=git)** | Lexington, MA | Remote | Nov 06 |
+| ↳ | **[2026 Summer Internship Program: SBUs and R&D Legal Intern](https://jobright.ai/jobs/info/690d8811221b890c278076d4?utm_campaign=1055&utm_source=git)** | USA - MA - Cambridge - Kendall Square - 500 | Hybrid | Nov 06 |
 | ↳ | **[Global Development Compliance Intern](https://jobright.ai/jobs/info/690d8802221b890c278076d1?utm_campaign=1055&utm_source=git)** | Massachusetts - Virtual | Remote | Nov 06 |
 | **[Law Offices of Sabrina Li, P.C.](https://www.sabrinali.law/)** | **[Legal Intern](https://jobright.ai/jobs/info/690d7514221b890c27806e66?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 06 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/690d9866d046ab6061cf74f0?utm_campaign=1055&utm_source=git)** | Santa Ana, CA | On Site | Nov 06 |
 | **[Zoox](https://www.zoox.com/)** | **[Policy and Regulatory Affairs Intern](https://jobright.ai/jobs/info/690d54b64a1b456627b208fb?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Nov 06 |
 | **[Box](http://www.box.com)** | **[Legal Intern - Winter 2026](https://jobright.ai/jobs/info/690d7291d046ab6061cf64f2?utm_campaign=1055&utm_source=git)** | Redwood City, CA | On Site | Nov 06 |
+| **[Zoox](https://www.zoox.com/)** | **[Policy and Regulatory Affairs Intern](https://jobright.ai/jobs/info/690d716d4a1b456627b21609?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Nov 06 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Operational Risk Management](https://jobright.ai/jobs/info/690d6e89d046ab6061cf62f4?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Nov 06 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/690d4c61d046ab6061cf52a5?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 06 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Paralegal-Advanced 0.80 FTE](https://jobright.ai/jobs/info/690d347f221b890c27804aa4?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Nov 06 |
@@ -132,8 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Torres & Zheng at Law, P.C.](www.torresbusinesslaw.com)** | **[NYC Law Firm - Legal Intern](https://jobright.ai/jobs/info/690bd2b2d046ab6061ce834e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Future Opportunities Intern Quality & Regulatory Compliance - Digital Quality (Summer 2026)](https://jobright.ai/jobs/info/690bd00ad046ab6061ce80a7?utm_campaign=1055&utm_source=git)** | Hershey, PA | On Site | Nov 05 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/690bca264a1b456627b12dea?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 05 |
-| **[Tenet Healthcare](http://tenethealth.com)** | **[Legal Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/690bc140221b890c277f7c81?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/690bbefdd046ab6061ce727c?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 05 |
+| ↳ | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/690bbefdd046ab6061ce727c?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 05 |
 | **[Neighborhood Defender Service](https://neighborhooddefender.org)** | **[Summer 2026 Law Intern - NDS Detroit](https://jobright.ai/jobs/info/690bba78d046ab6061ce6eb9?utm_campaign=1055&utm_source=git)** | US-MI-Detroit | On Site | Nov 05 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern- Operations and Technology Risk](https://jobright.ai/jobs/info/690bba574a1b456627b120f3?utm_campaign=1055&utm_source=git)** | Milwaukee 111 Kilbourn | On Site | Nov 05 |
 | **[UPL](http://www.upl-ltd.com/)** | **[Federal Regulatory Intern](https://jobright.ai/jobs/info/690bb840221b890c277f741a?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Nov 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef71cd78ba1621431dee99?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
 | ↳ | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6b929821486c423c5959?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 05 |
 | **[Bollinger Shipyards](http://bollingershipyards.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/68eeb195e0db924225809d35?utm_campaign=1055&utm_source=git)** | Lockport, LA | On Site | Nov 05 |
-| **[AARP](http://www.aarp.org)** | **[Foundation Litigation Fellow (Fall 2026)](https://jobright.ai/jobs/info/68c7bc62369c3763c743b0aa?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 05 |
-| **[County of Berks, PA](http://www.berkspa.gov)** | **[Certified Legal Intern (Public Defender's Department)](https://jobright.ai/jobs/info/690b9ceed046ab6061ce5b0c?utm_campaign=1055&utm_source=git)** | Reading, PA | On Site | Nov 05 |
-| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef71c0de50091dbfa4ec5f?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
