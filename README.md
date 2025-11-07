@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zoox](https://www.zoox.com/)** | **[Policy and Regulatory Affairs Intern](https://jobright.ai/jobs/info/690d54b64a1b456627b208fb?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Nov 06 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/690d4c61d046ab6061cf52a5?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 06 |
 | **[Box](http://www.box.com)** | **[Legal Intern - Winter 2026](https://jobright.ai/jobs/info/690d396c221b890c27804e28?utm_campaign=1055&utm_source=git)** | Redwood City, CA | On Site | Nov 06 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Paralegal-Advanced 0.80 FTE](https://jobright.ai/jobs/info/690d347f221b890c27804aa4?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Nov 06 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e64169ae2b894b1d719604?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 06 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern - Omaha, NE - Summer 2026](https://jobright.ai/jobs/info/690d06274a1b456627b1ca65?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Nov 06 |
 | **[Pine Tree Legal Assistance, Inc.](https://www.ptla.org/)** | **[Summer 2026 Internships For Law Students](https://jobright.ai/jobs/info/690d049c4a1b456627b1c982?utm_campaign=1055&utm_source=git)** | Portland, ME | On Site | Nov 06 |
-| **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69073d9263502c0aded857da?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Nov 06 |
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e62b07e8daec61499a9a76?utm_campaign=1055&utm_source=git)** | San Antonio, TX | Hybrid | Nov 06 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e5906db99ec3563b0f6907?utm_campaign=1055&utm_source=git)** | St Louis, MO | Hybrid | Nov 06 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern - Omaha, NE - Summer 2026](https://jobright.ai/jobs/info/690cfd05221b890c27801975?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Nov 06 |
@@ -116,6 +116,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Law School / Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/690c2a204a1b456627b16b8e?utm_campaign=1055&utm_source=git)** | Memphis, TN | Hybrid | Nov 05 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Real Estate Tran Intern](https://jobright.ai/jobs/info/690c23aa4a1b456627b167be?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | **[UPMC](https://www.upmc.com/)** | **[Corporate Legal Internship- Summer 2026](https://jobright.ai/jobs/info/690c0f14d046ab6061cea875?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 05 |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Technology and Information Compliance Undergraduate Intern](https://jobright.ai/jobs/info/690d57e54a1b456627b20980?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 05 |
 | **[Glenmede](http://www.glenmede.com/)** | **[2026 Summer Intern, Fiduciary Practices (Law Student)](https://jobright.ai/jobs/info/690c0435221b890c277fa8d8?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 05 |
 | ↳ | **[2026 Summer Intern, Wealth Advisory (Law Student)](https://jobright.ai/jobs/info/690c03b44a1b456627b152d5?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 05 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/690bfc1b4a1b456627b14ed1?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 05 |
@@ -133,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern- Operations and Technology Risk](https://jobright.ai/jobs/info/690bba574a1b456627b120f3?utm_campaign=1055&utm_source=git)** | Milwaukee 111 Kilbourn | On Site | Nov 05 |
 | **[UPL](http://www.upl-ltd.com/)** | **[Federal Regulatory Intern](https://jobright.ai/jobs/info/690bb840221b890c277f741a?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Nov 05 |
 | **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[2026 Summer Internship / Contracts and Compliance](https://jobright.ai/jobs/info/690bb703d046ab6061ce6b33?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Nov 05 |
-| **[Care Hospice, Inc.](https://www.carehospice.com//index.php)** | **[Legal Intern](https://jobright.ai/jobs/info/690d49ced046ab6061cf50da?utm_campaign=1055&utm_source=git)** | US-MA-Newton | Hybrid | Nov 05 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Program Integrity - R10690](https://jobright.ai/jobs/info/690bd3add046ab6061ce83f9?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Nov 05 |
 | **[Creative Spirit US](http://www.creativespirit-us.org)** | **[Summer Student - Compliance — Voya Financial](https://jobright.ai/jobs/info/690bd78a221b890c277f8fc7?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Nov 05 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/690bcbb4d046ab6061ce7e59?utm_campaign=1055&utm_source=git)** | Frisco, TX | Hybrid | Nov 05 |
