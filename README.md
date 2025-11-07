@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs - JD / Dallas Summer 2026](https://jobright.ai/jobs/info/68fa8999b2c86843bf20eeec?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 07 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Personal Lines Claims Intern](https://jobright.ai/jobs/info/68f22177cb0abf15612f45c2?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Nov 07 |
+| **[Lockton](https://global.lockton.com)** | **[Transaction Liability Intern](https://jobright.ai/jobs/info/68f1b223f462172a5a7db42c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 07 |
+| ↳ | **[Risk Solutions Intern - June 2026](https://jobright.ai/jobs/info/68b8d6b3ea901c0d269f9f72?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Nov 07 |
+| ↳ | **[National Surety Practice Intern](https://jobright.ai/jobs/info/68f1b0d3e6870116b1f5bfbd?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Nov 07 |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Risk & Compliance Management Undergraduate Intern](https://jobright.ai/jobs/info/68f8763a6de2db04dc3df6a2?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 07 |
+| **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern - June 2026](https://jobright.ai/jobs/info/68cc43307342c7623ae61e7b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 07 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/690d902244146d3b6ec4dcaf?utm_campaign=1055&utm_source=git)** | Florida - Virtual | Remote | Nov 06 |
 | ↳ | **[2026 Summer Internship Program: Intern, US Medical Advertising & Promotion (Ad/Promo) Regulatory](https://jobright.ai/jobs/info/690d8cf344146d3b6ec4dbbf?utm_campaign=1055&utm_source=git)** | Lexington, MA | Remote | Nov 06 |
 | ↳ | **[2026 Summer Internship Program: SBUs and R&D Legal Intern](https://jobright.ai/jobs/info/690d8811221b890c278076d4?utm_campaign=1055&utm_source=git)** | USA - MA - Cambridge - Kendall Square - 500 | Hybrid | Nov 06 |
@@ -99,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - General Bank Business Enhanced Due Diligence](https://jobright.ai/jobs/info/68f0330dde50091dbfa5323e?utm_campaign=1055&utm_source=git)** | Raleigh, NC | Hybrid | Nov 06 |
 | **[Pact](https://pactlegal.com/)** | **[Law Clerk: 2026 Spring Semester Internship / Summer Associate](https://jobright.ai/jobs/info/68e549191852e62f0080dd53?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Nov 06 |
 | **[Levi, Ray & Shoup, Inc. (LRS)](http://www.lrs.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/690ce415d046ab6061cf04ac?utm_campaign=1055&utm_source=git)** | Springfield, Illinois Metropolitan Area | On Site | Nov 06 |
-| **[Varmodel AI](https://www.linkedin.com/company/79943374)** | **[Intellectual Property Attorney](https://jobright.ai/jobs/info/690cf7ced046ab6061cf1032?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 06 |
 | **[Uline](http://www.uline.com)** | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efdce578ba1621431e0d9d?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Nov 06 |
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd1cde50091dbfa50b2e?utm_campaign=1055&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 06 |
 | ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efd819de50091dbfa50999?utm_campaign=1055&utm_source=git)** | Glenview, IL | On Site | Nov 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Advisory Internship - Business Risk Services - Summer 2026](https://jobright.ai/jobs/info/690b9bb5d046ab6061ce5a1e?utm_campaign=1055&utm_source=git)** | USA TX Frisco | On Site | Nov 05 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Liberty and National Security Legal Internship](https://jobright.ai/jobs/info/690b961fd046ab6061ce5809?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 05 |
 | ↳ | **[Summer 2026 Justice Legal Internship](https://jobright.ai/jobs/info/690b90f1d046ab6061ce541f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 05 |
-| ↳ | **[Summer 2026 Liberty and National Security Legal Internship](https://jobright.ai/jobs/info/690b8c3b4a1b456627b10373?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 05 |
-| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6de19821486c423c5cd6?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Nov 05 |
-| **[Baker Tilly](https://www.bakertilly.global/)** | **[Risk Advisory Internship - Life Science Compliance - Summer 2026](https://jobright.ai/jobs/info/690badf8221b890c277f6d94?utm_campaign=1055&utm_source=git)** | USA NY New York City 66 Hudson Blvd E | On Site | Nov 05 |
-| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef71cd78ba1621431dee99?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
-| ↳ | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6b929821486c423c5959?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 05 |
-| **[Bollinger Shipyards](http://bollingershipyards.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/68eeb195e0db924225809d35?utm_campaign=1055&utm_source=git)** | Lockport, LA | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
