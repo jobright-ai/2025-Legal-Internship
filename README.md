@@ -81,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[UMB Bank](https://www.umb.com)** | **[Corporate Trust Intern](https://jobright.ai/jobs/info/68f2c3cb76a51a4307bc81f7?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Nov 08 |
 | **[Fried Frank](http://www.friedfrank.com/)** | **[Paralegal/Financial Services Intern](https://jobright.ai/jobs/info/68f2754e76a51a4307bc3e7c?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | **[WIN Waste Innovations](https://www.win-waste.com)** | **[Summer Safety Internship](https://jobright.ai/jobs/info/690f58f5221b890c278154fb?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Nov 08 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/690f915e183be660d2675c7d?utm_campaign=1055&utm_source=git)** | O'Fallon, Missouri | On Site | Nov 08 |
 | **[Church Mutual Insurance Company, S.I.](http://www.churchmutual.com)** | **[Intern-Claims Auto](https://jobright.ai/jobs/info/690f2f8844146d3b6ec5a979?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Nov 08 |
 | **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/690f2807221b890c278145c4?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
 | ↳ | **[Intellectual Property Intern](https://jobright.ai/jobs/info/690f276f221b890c278144a5?utm_campaign=1055&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 08 |
@@ -116,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[International Justice Mission](http://www.ijm.org)** | **[Legal Operations Intern - Summer 2026](https://jobright.ai/jobs/info/690e6e27221b890c2780df49?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Nov 07 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Model Risk Intern - Program Governance](https://jobright.ai/jobs/info/690e7798d046ab6061cfde7b?utm_campaign=1055&utm_source=git)** | Lone Tree, CO | On Site | Nov 07 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Fraud](https://jobright.ai/jobs/info/690e47d2221b890c2780c5ce?utm_campaign=1055&utm_source=git)** | Green Bay, Wisconsin Metropolitan Area | On Site | Nov 07 |
+| **[Richmond National](https://richmondnational.com)** | **[Risk Management Internship](https://jobright.ai/jobs/info/690e47b444146d3b6ec5287c?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | On Site | Nov 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/690e468dd046ab6061cfbd09?utm_campaign=1055&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Nov 07 |
 | **[National Life Group](https://www.nationallife.com)** | **[Law & Compliance Intern – Summer 2026](https://jobright.ai/jobs/info/690e466cd046ab6061cfbcf3?utm_campaign=1055&utm_source=git)** | Montpelier, VT | On Site | Nov 07 |
 | **[Notion](https://www.notion.so)** | **[Trust and Safety, Fraud and Abuse Analyst Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b8654d046ab6061ce4f0f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Nov 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Box](http://www.box.com)** | **[Legal Intern - Winter 2026](https://jobright.ai/jobs/info/690d7291d046ab6061cf64f2?utm_campaign=1055&utm_source=git)** | Redwood City, CA | On Site | Nov 06 |
 | **[Zoox](https://www.zoox.com/)** | **[Policy and Regulatory Affairs Intern](https://jobright.ai/jobs/info/690d716d4a1b456627b21609?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Nov 06 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Operational Risk Management](https://jobright.ai/jobs/info/690d6e89d046ab6061cf62f4?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Nov 06 |
-| **[RaceTrac](http://www.racetrac.com/)** | **[Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/690d4c61d046ab6061cf52a5?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 06 |
-| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Paralegal-Advanced 0.80 FTE](https://jobright.ai/jobs/info/690d347f221b890c27804aa4?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
