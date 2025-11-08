@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHAGEE USA](https://www.chagee.us/)** | **[Legal Intern](https://jobright.ai/jobs/info/690e826c221b890c2780ecbc?utm_campaign=1055&utm_source=git)** | Orange County, CA | Hybrid | Nov 07 |
+| **[CPower Energy](https://cpowerenergy.com)** | **[Law & Policy Analyst Intern](https://jobright.ai/jobs/info/690e77c844146d3b6ec54940?utm_campaign=1055&utm_source=git)** | Baltimore, MD | Hybrid | Nov 07 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[New York Life Law Internship- Summer 2026](https://jobright.ai/jobs/info/690e68d544146d3b6ec53de1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 07 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern - Summer 2026](https://jobright.ai/jobs/info/690e61abd046ab6061cfce62?utm_campaign=1055&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Nov 07 |
 | **[PACCAR Financial Corp.](https://www.paccarfinancial.com)** | **[Financial Rotational Internship - Summer Internship 2026 / Lewisville, TX](https://jobright.ai/jobs/info/690e607cd046ab6061cfcd80?utm_campaign=1055&utm_source=git)** | Lewisville, TX | On Site | Nov 07 |
+| **[Notion](https://www.notion.so)** | **[Trust and Safety, Fraud and Abuse Analyst Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b761d4a1b456627b0fa5d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 07 |
+| **[International Justice Mission](http://www.ijm.org)** | **[Legal Operations Intern - Summer 2026](https://jobright.ai/jobs/info/690e6e27221b890c2780df49?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Nov 07 |
+| **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Model Risk Intern - Program Governance](https://jobright.ai/jobs/info/690e7798d046ab6061cfde7b?utm_campaign=1055&utm_source=git)** | Lone Tree, CO | On Site | Nov 07 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Fraud](https://jobright.ai/jobs/info/690e47d2221b890c2780c5ce?utm_campaign=1055&utm_source=git)** | Green Bay, Wisconsin Metropolitan Area | On Site | Nov 07 |
 | **[Richmond National](https://richmondnational.com)** | **[Risk Management Internship](https://jobright.ai/jobs/info/690e47b444146d3b6ec5287c?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | On Site | Nov 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/690e468dd046ab6061cfbd09?utm_campaign=1055&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Nov 07 |
@@ -68,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Legal & Compliance](https://jobright.ai/jobs/info/68c0af705c5d5f14f46e0428?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Nov 07 |
 | **[TopBuild](http://www.topbuild.com)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/690e616144146d3b6ec5378c?utm_campaign=1055&utm_source=git)** | Daytona Beach, FL - Corp. Headquarters | On Site | Nov 07 |
 | **[NYC Department of Finance](http://www.nyc.gov/html/dof/html/home/home.shtml)** | **[Attorney Intern, Parking Law](https://jobright.ai/jobs/info/690e3b5244146d3b6ec5222f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 07 |
+| **[State of Missouri](http://mo.gov)** | **[Law Student Legal Intern - Missouri State Public Defender System](https://jobright.ai/jobs/info/690e83b044146d3b6ec5511e?utm_campaign=1055&utm_source=git)** | Missouri, United States | On Site | Nov 07 |
 | **[SpartanNash](https://www.spartannash.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68f15352e6870116b1f56f49?utm_campaign=1055&utm_source=git)** | Byron Center, MI | On Site | Nov 07 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/68f14b72e6870116b1f566c3?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 07 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/68d8cbeaeed6e340d9e1dc9a?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 07 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TKO](https://tkogrp.com)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/68eff09d78ba1621431e1197?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | Hybrid | Nov 06 |
 | **[Janus Henderson Group PLC](http://hendersonglobalinvestors.com)** | **[Legal Intern](https://jobright.ai/jobs/info/690c7927d046ab6061ced912?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 06 |
 | **[Neighborhood Defender Service](https://neighborhooddefender.org)** | **[Summer 2026 Law Intern - NDS Detroit](https://jobright.ai/jobs/info/690c3942221b890c277fc715?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Nov 05 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Law School/Legal](https://jobright.ai/jobs/info/690c2c604a1b456627b16c59?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Nov 05 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Real Estate Tran Intern](https://jobright.ai/jobs/info/690c23aa4a1b456627b167be?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 05 |
-| **[UPMC](https://www.upmc.com/)** | **[Corporate Legal Internship- Summer 2026](https://jobright.ai/jobs/info/690c0f14d046ab6061cea875?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 05 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Technology and Information Compliance Undergraduate Intern](https://jobright.ai/jobs/info/690d57e54a1b456627b20980?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 05 |
-| **[Glenmede](http://www.glenmede.com/)** | **[2026 Summer Intern, Fiduciary Practices (Law Student)](https://jobright.ai/jobs/info/690c0435221b890c277fa8d8?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 05 |
-| ↳ | **[2026 Summer Intern, Wealth Advisory (Law Student)](https://jobright.ai/jobs/info/690c03b44a1b456627b152d5?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
