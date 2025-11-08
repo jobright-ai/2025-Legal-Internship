@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/690eb4bcd046ab6061d005b7?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Nov 07 |
+| **[Iridium](http://www.iridium.com/)** | **[Iridium Legal Internship - Summer 2026](https://jobright.ai/jobs/info/690eb037d046ab6061d00254?utm_campaign=1055&utm_source=git)** | US-VA-McLean | Hybrid | Nov 07 |
+| **[Comcast](https://corporate.comcast.com)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/690ea468d046ab6061cffaa9?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Nov 07 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Legal Operations Intern - Summer 2026](https://jobright.ai/jobs/info/690e9d7d221b890c2780fe1e?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 07 |
 | **[Richmond National](https://richmondnational.com)** | **[Legal Internship](https://jobright.ai/jobs/info/690e9b60d046ab6061cff362?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | On Site | Nov 07 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern - Summer 2026](https://jobright.ai/jobs/info/690e9b56221b890c2780fcf3?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 07 |
 | **[TopBuild](http://www.topbuild.com)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/690e973644146d3b6ec55aef?utm_campaign=1055&utm_source=git)** | Daytona Beach, FL | On Site | Nov 07 |
+| **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Consumer Law Unit (Spring)](https://jobright.ai/jobs/info/690eb83844146d3b6ec572bf?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Nov 07 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Legal and Privacy Intern - Summer 2026](https://jobright.ai/jobs/info/690e8856d046ab6061cfe9a4?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Nov 07 |
 | **[CHAGEE USA](https://www.chagee.us/)** | **[Legal Intern](https://jobright.ai/jobs/info/690e826c221b890c2780ecbc?utm_campaign=1055&utm_source=git)** | Orange County, CA | Hybrid | Nov 07 |
 | **[CPower Energy](https://cpowerenergy.com)** | **[Law & Policy Analyst Intern](https://jobright.ai/jobs/info/690e77c844146d3b6ec54940?utm_campaign=1055&utm_source=git)** | Baltimore, MD | Hybrid | Nov 07 |
@@ -74,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[International Justice Mission](http://www.ijm.org)** | **[Legal Operations Intern - Summer 2026](https://jobright.ai/jobs/info/690e6e27221b890c2780df49?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Nov 07 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Model Risk Intern - Program Governance](https://jobright.ai/jobs/info/690e7798d046ab6061cfde7b?utm_campaign=1055&utm_source=git)** | Lone Tree, CO | On Site | Nov 07 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Fraud](https://jobright.ai/jobs/info/690e47d2221b890c2780c5ce?utm_campaign=1055&utm_source=git)** | Green Bay, Wisconsin Metropolitan Area | On Site | Nov 07 |
+| **[Richmond National](https://richmondnational.com)** | **[Risk Management Internship](https://jobright.ai/jobs/info/690e47b444146d3b6ec5287c?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | On Site | Nov 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/690e468dd046ab6061cfbd09?utm_campaign=1055&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Nov 07 |
 | **[National Life Group](https://www.nationallife.com)** | **[Law & Compliance Intern – Summer 2026](https://jobright.ai/jobs/info/690e466cd046ab6061cfbcf3?utm_campaign=1055&utm_source=git)** | Montpelier, VT | On Site | Nov 07 |
 | **[Notion](https://www.notion.so)** | **[Trust and Safety, Fraud and Abuse Analyst Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b8654d046ab6061ce4f0f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Nov 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Risk Management - Fraud](https://jobright.ai/jobs/info/690cec17d046ab6061cf087f?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Nov 06 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b79c9c2124650c140245e7?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Nov 06 |
 | **[DESRI](https://desri.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd675ee23def7af55b97e0?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Nov 06 |
-| ↳ | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd6643b2a74e1837ed68e5?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 06 |
-| **[Ocean Conservancy](https://oceanconservancy.org/about/)** | **[Dana Wolfe Memorial Legal Intern](https://jobright.ai/jobs/info/68f208de2636ac47599f312a?utm_campaign=1055&utm_source=git)** | Bellingham, WA | Hybrid | Nov 06 |
-| **[J.S. Held LLC](http://jsheld.com/)** | **[Economic Damages & Valuation Internship - Summer 2026](https://jobright.ai/jobs/info/68b8d56c07090163b6ba5495?utm_campaign=1055&utm_source=git)** | Birmingham, AL | Hybrid | Nov 06 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/68efff0a78ba1621431e170c?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Nov 06 |
-| **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Legal and Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/68d3f1f55ae5a90cfd4823ae?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
