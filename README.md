@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/690f2807221b890c278145c4?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
+| ↳ | **[Intellectual Property Intern](https://jobright.ai/jobs/info/690f276f221b890c278144a5?utm_campaign=1055&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 08 |
+| ↳ | **[Intellectual Property Intern](https://jobright.ai/jobs/info/690f2755221b890c27814462?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Nov 08 |
+| **[HellermannTyton North America](https://www.hellermanntyton.us/)** | **[Intern - Import/Export Coordinator](https://jobright.ai/jobs/info/68d72ab445853d0e39ccd592?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 08 |
+| **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Legal Intern](https://jobright.ai/jobs/info/690f121844146d3b6ec59e2c?utm_campaign=1055&utm_source=git)** | South Sioux City, NE | On Site | Nov 08 |
 | **[Iridium](http://www.iridium.com/)** | **[Iridium Legal Internship - Summer 2026](https://jobright.ai/jobs/info/690ec8bb221b890c27811a95?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Nov 07 |
 | **[Takeda](http://www.takeda.com)** | **[Global Development Compliance Intern](https://jobright.ai/jobs/info/690ec739d046ab6061d0120c?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Nov 07 |
 | ↳ | **[2026 Summer Internship Program: SBUs and R&D Legal Intern](https://jobright.ai/jobs/info/690ec647221b890c27811989?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Nov 07 |
@@ -86,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[International Justice Mission](http://www.ijm.org)** | **[Legal Operations Intern - Summer 2026](https://jobright.ai/jobs/info/690e6e27221b890c2780df49?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Nov 07 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Model Risk Intern - Program Governance](https://jobright.ai/jobs/info/690e7798d046ab6061cfde7b?utm_campaign=1055&utm_source=git)** | Lone Tree, CO | On Site | Nov 07 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Fraud](https://jobright.ai/jobs/info/690e47d2221b890c2780c5ce?utm_campaign=1055&utm_source=git)** | Green Bay, Wisconsin Metropolitan Area | On Site | Nov 07 |
+| **[Richmond National](https://richmondnational.com)** | **[Risk Management Internship](https://jobright.ai/jobs/info/690e47b444146d3b6ec5287c?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | On Site | Nov 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/690e468dd046ab6061cfbd09?utm_campaign=1055&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Nov 07 |
 | **[National Life Group](https://www.nationallife.com)** | **[Law & Compliance Intern – Summer 2026](https://jobright.ai/jobs/info/690e466cd046ab6061cfbcf3?utm_campaign=1055&utm_source=git)** | Montpelier, VT | On Site | Nov 07 |
 | **[Notion](https://www.notion.so)** | **[Trust and Safety, Fraud and Abuse Analyst Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b8654d046ab6061ce4f0f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Nov 07 |
@@ -115,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Lockton](https://global.lockton.com)** | **[Risk Solutions Intern - June 2026](https://jobright.ai/jobs/info/68cc43307342c7623ae61e7b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 07 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Legal Intern - Community Legal Services (Austin, TX)](https://jobright.ai/jobs/info/690deed7221b890c2780a5a8?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Nov 07 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68f18881f462172a5a7d9a16?utm_campaign=1055&utm_source=git)** | Greenville, NC | On Site | Nov 07 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/690f277244146d3b6ec5a6fd?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Nov 07 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/690d902244146d3b6ec4dcaf?utm_campaign=1055&utm_source=git)** | Florida - Virtual | Remote | Nov 06 |
 | ↳ | **[2026 Summer Internship Program: Intern, US Medical Advertising & Promotion (Ad/Promo) Regulatory](https://jobright.ai/jobs/info/690d8cf344146d3b6ec4dbbf?utm_campaign=1055&utm_source=git)** | Lexington, MA | Remote | Nov 06 |
 | ↳ | **[2026 Summer Internship Program: SBUs and R&D Legal Intern](https://jobright.ai/jobs/info/690d8811221b890c278076d4?utm_campaign=1055&utm_source=git)** | USA - MA - Cambridge - Kendall Square - 500 | Hybrid | Nov 06 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68f7f3b4b0edcf159dc8c8eb?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 06 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Quality & Compliance Intern- Patient Service (Pharm D)](https://jobright.ai/jobs/info/690d12cf4a1b456627b1d49f?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Nov 06 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Legal Intern- Regulatory & Marketing](https://jobright.ai/jobs/info/68fade668d32c164778cc171?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 06 |
-| **[Uline](http://www.uline.com)** | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd9878ba1621431e0e55?utm_campaign=1055&utm_source=git)** | Kenosha, WI | On Site | Nov 06 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - General Bank Business Enhanced Due Diligence](https://jobright.ai/jobs/info/68f0330dde50091dbfa5323e?utm_campaign=1055&utm_source=git)** | Raleigh, NC | Hybrid | Nov 06 |
-| **[Pact](https://pactlegal.com/)** | **[Law Clerk: 2026 Spring Semester Internship / Summer Associate](https://jobright.ai/jobs/info/68e549191852e62f0080dd53?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Nov 06 |
-| **[Levi, Ray & Shoup, Inc. (LRS)](http://www.lrs.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/690ce415d046ab6061cf04ac?utm_campaign=1055&utm_source=git)** | Springfield, Illinois Metropolitan Area | On Site | Nov 06 |
-| **[Uline](http://www.uline.com)** | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efdce578ba1621431e0d9d?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Nov 06 |
-| ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd1cde50091dbfa50b2e?utm_campaign=1055&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 06 |
-| ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efd819de50091dbfa50999?utm_campaign=1055&utm_source=git)** | Glenview, IL | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
