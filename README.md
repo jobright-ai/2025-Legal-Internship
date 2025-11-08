@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Enterprise Risk Management - Strategy and Reporting)](https://jobright.ai/jobs/info/68bb78725f3832749186f627?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
+| ↳ | **[Summer Associate Internship (Procurement and Vendor Management Risk Office)](https://jobright.ai/jobs/info/68cd7b81e23def7af55baa37?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
+| ↳ | **[Summer Associate Internship (Fraud Analyst)](https://jobright.ai/jobs/info/68cdc29ee23def7af55beef4?utm_campaign=1055&utm_source=git)** | Pensacola, FL | Hybrid | Nov 08 |
+| ↳ | **[Summer Associate Internship (Standards Compliance & Authorizations)](https://jobright.ai/jobs/info/68bb797d5f3832749186f73f?utm_campaign=1055&utm_source=git)** | Vienna, VA | On Site | Nov 08 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Audit & Inspection Intern](https://jobright.ai/jobs/info/690f6bf724f1931da19cd682?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Nov 08 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Client Management Summer Intern](https://jobright.ai/jobs/info/690f6b7024f1931da19cd65e?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Nov 08 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68bb80616105227d118a6727?utm_campaign=1055&utm_source=git)** | Niles, IL | Hybrid | Nov 08 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Paralegal](https://jobright.ai/jobs/info/68d73a7dd3fe025a3015fbd7?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | Hybrid | Nov 08 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Quality Management Internship](https://jobright.ai/jobs/info/6905dcb563502c0aded7eade?utm_campaign=1055&utm_source=git)** | Dublin, OH | On Site | Nov 08 |
@@ -64,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Intern, Drug Product Supply Risk Management](https://jobright.ai/jobs/info/690f59bf221b890c27815541?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Nov 08 |
 | ↳ | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/690f576f221b890c2781544d?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Nov 08 |
 | **[Everllence](www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Nov 08 |
+| **[Ibotta](https://home.ibotta.com)** | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d70a17894705799a2f0310?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 08 |
 | **[Southwire Company](http://southwire.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f2ccf59a65fd3458581216?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Nov 08 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f27e079a65fd345857d0ef?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Nov 08 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/68bb3fee8043103d4f227044?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Nov 08 |
@@ -79,7 +86,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intellectual Property Intern](https://jobright.ai/jobs/info/690f276f221b890c278144a5?utm_campaign=1055&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 08 |
 | ↳ | **[Intellectual Property Intern](https://jobright.ai/jobs/info/690f2755221b890c27814462?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Nov 08 |
 | **[HellermannTyton North America](https://www.hellermanntyton.us/)** | **[Intern - Import/Export Coordinator](https://jobright.ai/jobs/info/68d72ab445853d0e39ccd592?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 08 |
-| **[Philips](https://www.usa.philips.com)** | **[Intern - Regulatory Affairs - San Diego, CA - Summer 2026](https://jobright.ai/jobs/info/690ec2cfd046ab6061d00ea2?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 08 |
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Legal Intern](https://jobright.ai/jobs/info/690f121844146d3b6ec59e2c?utm_campaign=1055&utm_source=git)** | South Sioux City, NE | On Site | Nov 08 |
 | **[Iridium](http://www.iridium.com/)** | **[Iridium Legal Internship - Summer 2026](https://jobright.ai/jobs/info/690ec8bb221b890c27811a95?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Nov 07 |
 | **[Takeda](http://www.takeda.com)** | **[Global Development Compliance Intern](https://jobright.ai/jobs/info/690ec739d046ab6061d0120c?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Nov 07 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Operational Risk Management](https://jobright.ai/jobs/info/690d6e89d046ab6061cf62f4?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Nov 06 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/690d4c61d046ab6061cf52a5?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 06 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Paralegal-Advanced 0.80 FTE](https://jobright.ai/jobs/info/690d347f221b890c27804aa4?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Nov 06 |
-| **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2026 Internship - Vendor Compliance / Sourcing Operations](https://jobright.ai/jobs/info/690d2b32d046ab6061cf3b24?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Nov 06 |
-| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Assistant Attorney General - Employment Law](https://jobright.ai/jobs/info/690d42f2d046ab6061cf4b49?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Nov 06 |
-| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e63dc2ae2b894b1d719593?utm_campaign=1055&utm_source=git)** | East Syracuse, NY | Hybrid | Nov 06 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e62371e8daec61499a93a9?utm_campaign=1055&utm_source=git)** | Hunt Valley, MD | Hybrid | Nov 06 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e631e4e8daec61499a9f05?utm_campaign=1055&utm_source=git)** | Richardson, TX | Hybrid | Nov 06 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68edbf3970b66e2345d40744?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
