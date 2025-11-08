@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Iridium](http://www.iridium.com/)** | **[Iridium Legal Internship - Summer 2026](https://jobright.ai/jobs/info/690ec8bb221b890c27811a95?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Nov 07 |
+| **[Takeda](http://www.takeda.com)** | **[Global Development Compliance Intern](https://jobright.ai/jobs/info/690ec739d046ab6061d0120c?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Nov 07 |
+| ↳ | **[2026 Summer Internship Program: SBUs and R&D Legal Intern](https://jobright.ai/jobs/info/690ec647221b890c27811989?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Nov 07 |
+| ↳ | **[2026 Summer Internship Program: Intern, US Medical Advertising & Promotion (Ad/Promo) Regulatory](https://jobright.ai/jobs/info/690ec64644146d3b6ec57b58?utm_campaign=1055&utm_source=git)** | Lexington, MA | On Site | Nov 07 |
+| ↳ | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/690ec5be44146d3b6ec57afd?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 07 |
+| **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Law Internship](https://jobright.ai/jobs/info/690529deff462851feffb3e1?utm_campaign=1055&utm_source=git)** | California, United States | Hybrid | Nov 07 |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/690ec2a544146d3b6ec57982?utm_campaign=1055&utm_source=git)** | Florida, United States | Remote | Nov 07 |
+| ↳ | **[Global Development Compliance Intern](https://jobright.ai/jobs/info/690ec2a0221b890c278117bc?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/690eb4bcd046ab6061d005b7?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Nov 07 |
 | **[Iridium](http://www.iridium.com/)** | **[Iridium Legal Internship - Summer 2026](https://jobright.ai/jobs/info/690eb037d046ab6061d00254?utm_campaign=1055&utm_source=git)** | US-VA-McLean | Hybrid | Nov 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/690ea468d046ab6061cffaa9?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Nov 07 |
@@ -141,7 +149,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/68e5906db99ec3563b0f6907?utm_campaign=1055&utm_source=git)** | St Louis, MO | Hybrid | Nov 06 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern - Omaha, NE - Summer 2026](https://jobright.ai/jobs/info/690cfd05221b890c27801975?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Nov 06 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/690d2f25221b890c278046d2?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Nov 06 |
-| **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69073d9263502c0aded857da?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Nov 06 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68f7f3b4b0edcf159dc8c8eb?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 06 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Quality & Compliance Intern- Patient Service (Pharm D)](https://jobright.ai/jobs/info/690d12cf4a1b456627b1d49f?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Nov 06 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Legal Intern- Regulatory & Marketing](https://jobright.ai/jobs/info/68fade668d32c164778cc171?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 06 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pact](https://pactlegal.com/)** | **[Law Clerk: 2026 Spring Semester Internship / Summer Associate](https://jobright.ai/jobs/info/68e549191852e62f0080dd53?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Nov 06 |
 | **[Levi, Ray & Shoup, Inc. (LRS)](http://www.lrs.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/690ce415d046ab6061cf04ac?utm_campaign=1055&utm_source=git)** | Springfield, Illinois Metropolitan Area | On Site | Nov 06 |
 | **[Uline](http://www.uline.com)** | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efdce578ba1621431e0d9d?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Nov 06 |
-| ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd1cde50091dbfa50b2e?utm_campaign=1055&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 06 |
-| ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efd819de50091dbfa50999?utm_campaign=1055&utm_source=git)** | Glenview, IL | On Site | Nov 06 |
-| ↳ | **[International Trade Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd9ede50091dbfa50b9a?utm_campaign=1055&utm_source=git)** | Waukegan, IL | On Site | Nov 06 |
-| **[Wellabe](https://www.wellabe.com)** | **[Legal Summer 2026 Internship- Hybrid -Des Moines, Iowa](https://jobright.ai/jobs/info/68d43effffc1276de3fd8988?utm_campaign=1055&utm_source=git)** | Des Moines, IA | Hybrid | Nov 06 |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Risk Management - Fraud](https://jobright.ai/jobs/info/690cec17d046ab6061cf087f?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Nov 06 |
-| **[INTEGRIS Health](https://www.integrisok.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68b79c9c2124650c140245e7?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Nov 06 |
-| **[DESRI](https://desri.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd675ee23def7af55b97e0?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
