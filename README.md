@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crest Vale](crestvale.us)** | **[Summer Intern Client Management](https://jobright.ai/jobs/info/69106098bb519377733ebfd3?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Nov 09 |
+| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/691051ef988c2b7b4ec50ef6?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Nov 09 |
+| **[City of Englewood Colorado](https://www.englewoodco.gov)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/6910519e183be660d26782b7?utm_campaign=1055&utm_source=git)** | Englewood, CO | On Site | Nov 09 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/690fafa5988c2b7b4ec4f165?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Nov 08 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Enterprise Risk Management - Strategy and Reporting)](https://jobright.ai/jobs/info/68bb78725f3832749186f627?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Procurement and Vendor Management Risk Office)](https://jobright.ai/jobs/info/68cd7b81e23def7af55baa37?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
@@ -72,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Everllence](www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Nov 08 |
 | **[Ibotta](https://home.ibotta.com)** | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d70a17894705799a2f0310?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 08 |
 | **[Southwire Company](http://southwire.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f2ccf59a65fd3458581216?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Nov 08 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f2881e76a51a4307bc4839?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Nov 08 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f27e079a65fd345857d0ef?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Nov 08 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/68bb3fee8043103d4f227044?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Nov 08 |
 | **[WIN Waste Innovations](https://www.win-waste.com)** | **[Winter Safety Internship](https://jobright.ai/jobs/info/690f45dc221b890c27814caa?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Nov 08 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Legal Division I](https://jobright.ai/jobs/info/68f27f9e9a65fd345857d289?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Nov 08 |
@@ -107,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Legal and Privacy Intern - Summer 2026](https://jobright.ai/jobs/info/690e8856d046ab6061cfe9a4?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Nov 07 |
 | **[CHAGEE USA](https://www.chagee.us/)** | **[Legal Intern](https://jobright.ai/jobs/info/690e826c221b890c2780ecbc?utm_campaign=1055&utm_source=git)** | Orange County, CA | Hybrid | Nov 07 |
 | **[CPower Energy](https://cpowerenergy.com)** | **[Law & Policy Analyst Intern](https://jobright.ai/jobs/info/690e77c844146d3b6ec54940?utm_campaign=1055&utm_source=git)** | Baltimore, MD | Hybrid | Nov 07 |
-| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[New York Life Law Internship- Summer 2026](https://jobright.ai/jobs/info/690e68d544146d3b6ec53de1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 07 |
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 Law Intern - Law Department](https://jobright.ai/jobs/info/690e9fbbd046ab6061cff71a?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Nov 07 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Operations & Compliance Intern - Dewar (Hybrid)](https://jobright.ai/jobs/info/690e90b544146d3b6ec5584a?utm_campaign=1055&utm_source=git)** | Quincy, MA | Hybrid | Nov 07 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern - Summer 2026](https://jobright.ai/jobs/info/690e61abd046ab6061cfce62?utm_campaign=1055&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Nov 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zoox](https://www.zoox.com/)** | **[Policy and Regulatory Affairs Intern](https://jobright.ai/jobs/info/690d54b64a1b456627b208fb?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Nov 06 |
 | **[Box](http://www.box.com)** | **[Legal Intern - Winter 2026](https://jobright.ai/jobs/info/690d7291d046ab6061cf64f2?utm_campaign=1055&utm_source=git)** | Redwood City, CA | On Site | Nov 06 |
 | **[Zoox](https://www.zoox.com/)** | **[Policy and Regulatory Affairs Intern](https://jobright.ai/jobs/info/690d716d4a1b456627b21609?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Nov 06 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Operational Risk Management](https://jobright.ai/jobs/info/690d6e89d046ab6061cf62f4?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Nov 06 |
-| **[RaceTrac](http://www.racetrac.com/)** | **[Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/690d4c61d046ab6061cf52a5?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
