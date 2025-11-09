@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Audit/Compliance](https://jobright.ai/jobs/info/68bb46bd5f3832749186ded5?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Nov 09 |
 | **[Crest Vale](crestvale.us)** | **[Summer Intern Client Management](https://jobright.ai/jobs/info/69106098bb519377733ebfd3?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Nov 09 |
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/691051ef988c2b7b4ec50ef6?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Nov 09 |
 | **[City of Englewood Colorado](https://www.englewoodco.gov)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/6910519e183be660d26782b7?utm_campaign=1055&utm_source=git)** | Englewood, CO | On Site | Nov 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/690d9866d046ab6061cf74f0?utm_campaign=1055&utm_source=git)** | Santa Ana, CA | On Site | Nov 06 |
 | **[Zoox](https://www.zoox.com/)** | **[Policy and Regulatory Affairs Intern](https://jobright.ai/jobs/info/690d54b64a1b456627b208fb?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Nov 06 |
 | **[Box](http://www.box.com)** | **[Legal Intern - Winter 2026](https://jobright.ai/jobs/info/690d7291d046ab6061cf64f2?utm_campaign=1055&utm_source=git)** | Redwood City, CA | On Site | Nov 06 |
-| **[Zoox](https://www.zoox.com/)** | **[Policy and Regulatory Affairs Intern](https://jobright.ai/jobs/info/690d716d4a1b456627b21609?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
