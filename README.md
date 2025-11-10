@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - IT -  IT Security, Risk, and Compliance](https://jobright.ai/jobs/info/6911a733988c2b7b4ec55a80?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | ↳ | **[Intern - Regulatory Affairs - Regulatory Policy and Intelligence](https://jobright.ai/jobs/info/6911a6ec988c2b7b4ec55a71?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[IT Compliance & Risk Intern](https://jobright.ai/jobs/info/68ee620146e5b153e5a59313?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Nov 10 |
+| **[Amazon](https://amazon.com)** | **[2026 Risk Specialist Intern](https://jobright.ai/jobs/info/68ea77c92f64880ca0b532fb?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern- PDM- CMC Regulatory](https://jobright.ai/jobs/info/6911bd09183be660d267dba6?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | **[Notion](https://www.notion.so)** | **[Trust and Safety, Fraud and Abuse Analyst Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b8654d046ab6061ce4f0f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Nov 09 |
 | **[Faropoint](https://faropoint.com/)** | **[Legal & Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/6910f89a183be660d267a856?utm_campaign=1055&utm_source=git)** | Hoboken, NJ | On Site | Nov 09 |
@@ -115,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/690f2807221b890c278145c4?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
 | ↳ | **[Intellectual Property Intern](https://jobright.ai/jobs/info/690f276f221b890c278144a5?utm_campaign=1055&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 08 |
 | ↳ | **[Intellectual Property Intern](https://jobright.ai/jobs/info/690f2755221b890c27814462?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Nov 08 |
-| **[Philips](https://www.usa.philips.com)** | **[Intern - Regulatory Affairs - San Diego, CA - Summer 2026](https://jobright.ai/jobs/info/6911d0c5df7e2373ba4140c2?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 08 |
 | **[HellermannTyton North America](https://www.hellermanntyton.us/)** | **[Intern - Import/Export Coordinator](https://jobright.ai/jobs/info/68d72ab445853d0e39ccd592?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 08 |
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Legal Intern](https://jobright.ai/jobs/info/690f121844146d3b6ec59e2c?utm_campaign=1055&utm_source=git)** | South Sioux City, NE | On Site | Nov 08 |
 | **[Iridium](http://www.iridium.com/)** | **[Iridium Legal Internship - Summer 2026](https://jobright.ai/jobs/info/690ec8bb221b890c27811a95?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Nov 07 |
