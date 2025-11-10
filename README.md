@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AAR](http://aarcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/691227c1d1047e3565cf9dda?utm_campaign=1055&utm_source=git)** | United States-Illinois-Wood Dale | On Site | Nov 10 |
 | **[Legal Services of the Hudson Valley](https://www.lshv.org/)** | **[2026 SUMMER HOUSING FELLOWSHIPS - LEGAL SERVICES OF THE HUDSON VALLEY](https://jobright.ai/jobs/info/691223a9d1047e3565cf9bb2?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Nov 10 |
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Client Management Summer Intern](https://jobright.ai/jobs/info/691212b9c98948514c478774?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Nov 10 |
+| **[Cboe Global Markets](http://www.cboe.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68c289bd03b99f6b342952d9?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Nov 10 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/6912160eea9ab01b82bef713?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 10 |
 | ↳ | **[2026 Summer Internship Program: Intern, US Medical Advertising & Promotion (Ad/Promo) Regulatory](https://jobright.ai/jobs/info/691212bbd1047e3565cf94ce?utm_campaign=1055&utm_source=git)** | Lexington, MA | On Site | Nov 10 |
 | ↳ | **[2026 Summer Internship Program: SBUs and R&D Legal Intern](https://jobright.ai/jobs/info/691211ead1047e3565cf947e?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Nov 10 |
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Compliance & Privacy Intern/Legal Clerk](https://jobright.ai/jobs/info/691222dcd1047e3565cf9b72?utm_campaign=1055&utm_source=git)** | Ankeny, IA | Hybrid | Nov 10 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/69009c56e04ac838fb5c3077?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 10 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - AI & Legal Compliance (Summer 2026)](https://jobright.ai/jobs/info/68da28a20b832179ca4aba0e?utm_campaign=1055&utm_source=git)** | Garland, TX | On Site | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Regulatory Affairs - Regulatory Policy and Intelligence](https://jobright.ai/jobs/info/6911c264988c2b7b4ec56921?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
 | ↳ | **[Intern - IT - IT Security, Risk, and Compliance](https://jobright.ai/jobs/info/6911be10183be660d267dc02?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
 | ↳ | **[Intern - Regulatory Affairs - Inflammation](https://jobright.ai/jobs/info/6911bddd988c2b7b4ec567ac?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Richmond National](https://richmondnational.com)** | **[Risk Management Internship](https://jobright.ai/jobs/info/690e47b444146d3b6ec5287c?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | On Site | Nov 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/690e468dd046ab6061cfbd09?utm_campaign=1055&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Nov 07 |
 | **[National Life Group](https://www.nationallife.com)** | **[Law & Compliance Intern – Summer 2026](https://jobright.ai/jobs/info/690e466cd046ab6061cfbcf3?utm_campaign=1055&utm_source=git)** | Montpelier, VT | On Site | Nov 07 |
-| **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Legal & Compliance](https://jobright.ai/jobs/info/68c0af705c5d5f14f46e0428?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Nov 07 |
-| **[TopBuild](http://www.topbuild.com)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/690e616144146d3b6ec5378c?utm_campaign=1055&utm_source=git)** | Daytona Beach, FL - Corp. Headquarters | On Site | Nov 07 |
-| **[NYC Department of Finance](http://www.nyc.gov/html/dof/html/home/home.shtml)** | **[Attorney Intern, Parking Law](https://jobright.ai/jobs/info/690e3b5244146d3b6ec5222f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
