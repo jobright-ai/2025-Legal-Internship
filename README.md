@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legal Services of the Hudson Valley](https://www.lshv.org/)** | **[2026 SUMMER HOUSING FELLOWSHIPS - LEGAL SERVICES OF THE HUDSON VALLEY](https://jobright.ai/jobs/info/691223a9d1047e3565cf9bb2?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Nov 10 |
+| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Client Management Summer Intern](https://jobright.ai/jobs/info/691212b9c98948514c478774?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Nov 10 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/6912160eea9ab01b82bef713?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 10 |
+| ↳ | **[2026 Summer Internship Program: Intern, US Medical Advertising & Promotion (Ad/Promo) Regulatory](https://jobright.ai/jobs/info/691212bbd1047e3565cf94ce?utm_campaign=1055&utm_source=git)** | Lexington, MA | On Site | Nov 10 |
+| ↳ | **[2026 Summer Internship Program: SBUs and R&D Legal Intern](https://jobright.ai/jobs/info/691211ead1047e3565cf947e?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Nov 10 |
+| **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Compliance & Privacy Intern/Legal Clerk](https://jobright.ai/jobs/info/691222dcd1047e3565cf9b72?utm_campaign=1055&utm_source=git)** | Ankeny, IA | Hybrid | Nov 10 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/69009c56e04ac838fb5c3077?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Regulatory Affairs - Regulatory Policy and Intelligence](https://jobright.ai/jobs/info/6911c264988c2b7b4ec56921?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
 | ↳ | **[Intern - IT - IT Security, Risk, and Compliance](https://jobright.ai/jobs/info/6911be10183be660d267dc02?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Legal & Compliance](https://jobright.ai/jobs/info/68c0af705c5d5f14f46e0428?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Nov 07 |
 | **[TopBuild](http://www.topbuild.com)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/690e616144146d3b6ec5378c?utm_campaign=1055&utm_source=git)** | Daytona Beach, FL - Corp. Headquarters | On Site | Nov 07 |
 | **[NYC Department of Finance](http://www.nyc.gov/html/dof/html/home/home.shtml)** | **[Attorney Intern, Parking Law](https://jobright.ai/jobs/info/690e3b5244146d3b6ec5222f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 07 |
-| **[State of Missouri](http://mo.gov)** | **[Law Student Legal Intern - Missouri State Public Defender System](https://jobright.ai/jobs/info/690e83b044146d3b6ec5511e?utm_campaign=1055&utm_source=git)** | Missouri, United States | On Site | Nov 07 |
-| **[SpartanNash](https://www.spartannash.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/68f15352e6870116b1f56f49?utm_campaign=1055&utm_source=git)** | Byron Center, MI | On Site | Nov 07 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/68f14b72e6870116b1f566c3?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 07 |
-| **[FM](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68c91186f9c6ff7aedf175b9?utm_campaign=1055&utm_source=git)** | Creve Coeur, MO | On Site | Nov 07 |
-| **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Co-op Paralegal Intern](https://jobright.ai/jobs/info/690e25e4221b890c2780b401?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Nov 07 |
-| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Spring 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/690b15aa4a1b456627b0d9f2?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
