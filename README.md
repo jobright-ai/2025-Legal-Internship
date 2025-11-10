@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/69009c56e04ac838fb5c3077?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Regulatory Affairs - Regulatory Policy and Intelligence](https://jobright.ai/jobs/info/6911c264988c2b7b4ec56921?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
 | ↳ | **[Intern - IT - IT Security, Risk, and Compliance](https://jobright.ai/jobs/info/6911be10183be660d267dc02?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
 | ↳ | **[Intern - Regulatory Affairs - Inflammation](https://jobright.ai/jobs/info/6911bddd988c2b7b4ec567ac?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
 | ↳ | **[Intern- PDM- CMC Regulatory](https://jobright.ai/jobs/info/6911bdc7183be660d267dbe8?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
 | ↳ | **[Intern - Regulatory Affairs - Inflammation](https://jobright.ai/jobs/info/6911b5d7988c2b7b4ec5652a?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
+| ↳ | **[Intern - Corporate Affairs & Legal- Office of Ethics and Compliance](https://jobright.ai/jobs/info/6911de4d6018ad4956aabc75?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
 | ↳ | **[Intern - Corporate Affairs & Legal- Office of Ethics and Compliance](https://jobright.ai/jobs/info/6911aab6988c2b7b4ec55f90?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a5aa295f8e37655dffdb?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - IT -  IT Security, Risk, and Compliance](https://jobright.ai/jobs/info/6911a733988c2b7b4ec55a80?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
@@ -84,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/68cc282416d00d2beeb1aef8?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Nov 09 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Audit/Compliance](https://jobright.ai/jobs/info/68bb46bd5f3832749186ded5?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Nov 09 |
 | **[City of Englewood Colorado](https://www.englewoodco.gov)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/6910519e183be660d26782b7?utm_campaign=1055&utm_source=git)** | Englewood, CO | On Site | Nov 09 |
-| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/690fafa5988c2b7b4ec4f165?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Nov 08 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Enterprise Risk Management - Strategy and Reporting)](https://jobright.ai/jobs/info/68bb78725f3832749186f627?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Procurement and Vendor Management Risk Office)](https://jobright.ai/jobs/info/68cd7b81e23def7af55baa37?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Fraud Analyst)](https://jobright.ai/jobs/info/68cdc29ee23def7af55beef4?utm_campaign=1055&utm_source=git)** | Pensacola, FL | Hybrid | Nov 08 |
@@ -144,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[International Justice Mission](http://www.ijm.org)** | **[Legal Operations Intern - Summer 2026](https://jobright.ai/jobs/info/690e6e27221b890c2780df49?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Nov 07 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Model Risk Intern - Program Governance](https://jobright.ai/jobs/info/690e7798d046ab6061cfde7b?utm_campaign=1055&utm_source=git)** | Lone Tree, CO | On Site | Nov 07 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Fraud](https://jobright.ai/jobs/info/690e47d2221b890c2780c5ce?utm_campaign=1055&utm_source=git)** | Green Bay, Wisconsin Metropolitan Area | On Site | Nov 07 |
+| **[Richmond National](https://richmondnational.com)** | **[Risk Management Internship](https://jobright.ai/jobs/info/690e47b444146d3b6ec5287c?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | On Site | Nov 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/690e468dd046ab6061cfbd09?utm_campaign=1055&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Nov 07 |
 | **[National Life Group](https://www.nationallife.com)** | **[Law & Compliance Intern – Summer 2026](https://jobright.ai/jobs/info/690e466cd046ab6061cfbcf3?utm_campaign=1055&utm_source=git)** | Montpelier, VT | On Site | Nov 07 |
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Legal & Compliance](https://jobright.ai/jobs/info/68c0af705c5d5f14f46e0428?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Nov 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FM](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68c91186f9c6ff7aedf175b9?utm_campaign=1055&utm_source=git)** | Creve Coeur, MO | On Site | Nov 07 |
 | **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Co-op Paralegal Intern](https://jobright.ai/jobs/info/690e25e4221b890c2780b401?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Nov 07 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Spring 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/690b15aa4a1b456627b0d9f2?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 07 |
-| **[Southwire Company](http://southwire.com)** | **[Legal Intern - Ethics & Compliance](https://jobright.ai/jobs/info/68f11bedf462172a5a7d3188?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Nov 07 |
-| **[Bronx County District Attorney Office](https://www.bronxda.nyc.gov/html/home/home.shtml)** | **[Law School Summer (2L) Intern 2026](https://jobright.ai/jobs/info/68c65e9a7d0db411427391ec?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
