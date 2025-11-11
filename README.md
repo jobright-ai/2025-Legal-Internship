@@ -57,16 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Legal Internships – Summer 2026](https://jobright.ai/jobs/info/69125fe1ea9ab01b82bf1fd6?utm_campaign=1055&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
 | **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Spring Legal Intern](https://jobright.ai/jobs/info/69125aaad1047e3565cfbaa8?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Legal Internships – Summer 2026](https://jobright.ai/jobs/info/691258fcea9ab01b82bf1aa8?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 10 |
 | **[AAR](http://aarcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69125869ea9ab01b82bf1a2e?utm_campaign=1055&utm_source=git)** | Wood Dale, IL | On Site | Nov 10 |
+| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/69127788ea9ab01b82bf2e71?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Legal Internships – Summer 2026](https://jobright.ai/jobs/info/691254f4d1047e3565cfb671?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | ↳ | **[Legal Internships – Summer 2026](https://jobright.ai/jobs/info/691253dcc98948514c47a8e3?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Nov 10 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[1L Legal Intern](https://jobright.ai/jobs/info/691252b8d1047e3565cfb4e2?utm_campaign=1055&utm_source=git)** | Remote - US Home | Remote | Nov 10 |
+| ↳ | **[1L Legal Intern](https://jobright.ai/jobs/info/69126b51c98948514c47b9a7?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Appellate Project (Spring)](https://jobright.ai/jobs/info/691246cdd1047e3565cfad82?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Nov 10 |
 | **[BINERGY SCIENTIFIC, INC](https://binergyscientific.com)** | **[Cybersecurity Intern focused on CMMC compliance](https://jobright.ai/jobs/info/69125457c98948514c47a945?utm_campaign=1055&utm_source=git)** | Atlanta, GA 30341 | On Site | Nov 10 |
 | **[WIN Waste Innovations](https://www.win-waste.com)** | **[Winter Safety Internship](https://jobright.ai/jobs/info/690f45dc221b890c27814caa?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Nov 10 |
 | **[The Riverside Company](http://riversidecompany.com)** | **[2026 Summer Internship, Compliance](https://jobright.ai/jobs/info/691255d2d1047e3565cfb6eb?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Nov 10 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Global Supply Chain Contracts Intern](https://jobright.ai/jobs/info/69127515d1047e3565cfcc6d?utm_campaign=1055&utm_source=git)** | Texas | Hybrid | Nov 10 |
 | **[AAR](http://aarcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/691227c1d1047e3565cf9dda?utm_campaign=1055&utm_source=git)** | United States-Illinois-Wood Dale | On Site | Nov 10 |
 | **[Legal Services of the Hudson Valley](https://www.lshv.org/)** | **[2026 SUMMER HOUSING FELLOWSHIPS - LEGAL SERVICES OF THE HUDSON VALLEY](https://jobright.ai/jobs/info/691223a9d1047e3565cf9bb2?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Nov 10 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68c289bd03b99f6b342952d9?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Nov 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Consumer Law Unit (Spring)](https://jobright.ai/jobs/info/690eb83844146d3b6ec572bf?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Nov 07 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Legal and Privacy Intern - Summer 2026](https://jobright.ai/jobs/info/690e8856d046ab6061cfe9a4?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Nov 07 |
 | **[CHAGEE USA](https://www.chagee.us/)** | **[Legal Intern](https://jobright.ai/jobs/info/690e826c221b890c2780ecbc?utm_campaign=1055&utm_source=git)** | Orange County, CA | Hybrid | Nov 07 |
-| **[CPower Energy](https://cpowerenergy.com)** | **[Law & Policy Analyst Intern](https://jobright.ai/jobs/info/690e77c844146d3b6ec54940?utm_campaign=1055&utm_source=git)** | Baltimore, MD | Hybrid | Nov 07 |
-| **[PSEG](https://www.pseg.com)** | **[Summer 2026 Law Intern - Law Department](https://jobright.ai/jobs/info/690e9fbbd046ab6061cff71a?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Nov 07 |
-| **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Operations & Compliance Intern - Dewar (Hybrid)](https://jobright.ai/jobs/info/690e90b544146d3b6ec5584a?utm_campaign=1055&utm_source=git)** | Quincy, MA | Hybrid | Nov 07 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern - Summer 2026](https://jobright.ai/jobs/info/690e61abd046ab6061cfce62?utm_campaign=1055&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
