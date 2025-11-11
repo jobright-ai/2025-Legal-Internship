@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Compliance Analyst - R10664](https://jobright.ai/jobs/info/68f6f72776a51a4307bdfbeb?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Nov 11 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69104536988c2b7b4ec50c5d?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Nov 11 |
 | **[Endress+Hauser Group](https://ro.endress.com)** | **[2026 Summer Legal Internship](https://jobright.ai/jobs/info/68ccf73fd11b445e0bee523d?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Nov 11 |
+| **[Loureiro Engineering Associates, Inc.](http://www.Loureiro.com)** | **[Environmental Compliance Intern](https://jobright.ai/jobs/info/69137181e344172248f713c8?utm_campaign=1055&utm_source=git)** | Plainville, CT | On Site | Nov 11 |
 | **[Zekelman Industries](http://www.zekelman.com)** | **[Risk and Compliance, Intern](https://jobright.ai/jobs/info/68f699779a65fd3458594f81?utm_campaign=1055&utm_source=git)** | Chandler, AZ | On Site | Nov 11 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f83e54a628d10664e80c70?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Nov 11 |
 | **[Roc Nation](http://rocnation.com)** | **[Spring 2026 Intern - Legal (Music)](https://jobright.ai/jobs/info/690a65a44a1b456627b06f8d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | **[TopBuild](http://www.topbuild.com)** | **[Intern- Legal](https://jobright.ai/jobs/info/68f68e339a63986de757f712?utm_campaign=1055&utm_source=git)** | Daytona Beach, FL | On Site | Nov 11 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/68f655fb76a51a4307bd97ad?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | Hybrid | Nov 11 |
+| **[BINERGY SCIENTIFIC, INC](https://binergyscientific.com)** | **[Cybersecurity Intern focused on CMMC compliance](https://jobright.ai/jobs/info/691358f7d1047e3565d029c6?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 11 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk & Broking Construction Part time Internship – Fall 2026](https://jobright.ai/jobs/info/6912bcd3d1047e3565cfe6ec?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 10 |
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Corporate Compliance & Ethics Intern - Summer 2026](https://jobright.ai/jobs/info/6912bb0ad1047e3565cfe62c?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Nov 10 |
 | **[A24](http://a24films.com/)** | **[Business & Legal Affairs Intern 2026](https://jobright.ai/jobs/info/69130a731465e02904e92a04?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Intern, Drug Product Supply Risk Management](https://jobright.ai/jobs/info/690f59bf221b890c27815541?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Nov 08 |
 | ↳ | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/690f576f221b890c2781544d?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Nov 08 |
 | **[Everllence](www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Nov 08 |
-| **[Ibotta](https://home.ibotta.com)** | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d70a17894705799a2f0310?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 08 |
-| **[Southwire Company](http://southwire.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f2ccf59a65fd3458581216?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Nov 08 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f27e079a65fd345857d0ef?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
