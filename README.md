@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Corporate Compliance & Ethics Intern - Summer 2026](https://jobright.ai/jobs/info/691281d9c98948514c47c4ce?utm_campaign=1055&utm_source=git)** | USA - NJ - Camden | On Site | Nov 10 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk & Broking Construction Part time Internship – Fall 2026](https://jobright.ai/jobs/info/69127c41d1047e3565cfd01d?utm_campaign=1055&utm_source=git)** | 8400 Normandale Lake Boulevard, Minneapolis, MN, 55437, US | On Site | Nov 10 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Legal - Litigation & Investigations](https://jobright.ai/jobs/info/69127b65ea9ab01b82bf30a9?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
+| **[Hanwha Shipping](https://www.hanwhashipping.com/)** | **[Intern](https://jobright.ai/jobs/info/69127a64c98948514c47c18a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Legal Internships – Summer 2026](https://jobright.ai/jobs/info/69125fe1ea9ab01b82bf1fd6?utm_campaign=1055&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Real Estate Transactions, Emerging Talent Intern](https://jobright.ai/jobs/info/690c23aa4a1b456627b167be?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 10 |
+| **[Gerald Group](https://www.gerald.com)** | **[2026 Summer Internship - Risk Department](https://jobright.ai/jobs/info/69127e63ea9ab01b82bf3244?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Nov 10 |
 | **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Spring Legal Intern](https://jobright.ai/jobs/info/69125aaad1047e3565cfbaa8?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Legal Internships – Summer 2026](https://jobright.ai/jobs/info/691258fcea9ab01b82bf1aa8?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 10 |
 | **[AAR](http://aarcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69125869ea9ab01b82bf1a2e?utm_campaign=1055&utm_source=git)** | Wood Dale, IL | On Site | Nov 10 |
@@ -66,6 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Internships – Summer 2026](https://jobright.ai/jobs/info/691253dcc98948514c47a8e3?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Nov 10 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[1L Legal Intern](https://jobright.ai/jobs/info/691252b8d1047e3565cfb4e2?utm_campaign=1055&utm_source=git)** | Remote - US Home | Remote | Nov 10 |
 | ↳ | **[1L Legal Intern](https://jobright.ai/jobs/info/69126b51c98948514c47b9a7?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 10 |
+| ↳ | **[1L Legal Intern](https://jobright.ai/jobs/info/69127cc4c98948514c47c27e?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 10 |
 | **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Appellate Project (Spring)](https://jobright.ai/jobs/info/691246cdd1047e3565cfad82?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Nov 10 |
 | **[BINERGY SCIENTIFIC, INC](https://binergyscientific.com)** | **[Cybersecurity Intern focused on CMMC compliance](https://jobright.ai/jobs/info/69125457c98948514c47a945?utm_campaign=1055&utm_source=git)** | Atlanta, GA 30341 | On Site | Nov 10 |
 | **[WIN Waste Innovations](https://www.win-waste.com)** | **[Winter Safety Internship](https://jobright.ai/jobs/info/690f45dc221b890c27814caa?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Nov 10 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Development Compliance Intern](https://jobright.ai/jobs/info/690ec2a0221b890c278117bc?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/690eb4bcd046ab6061d005b7?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Nov 07 |
 | **[Iridium](http://www.iridium.com/)** | **[Iridium Legal Internship - Summer 2026](https://jobright.ai/jobs/info/690eb037d046ab6061d00254?utm_campaign=1055&utm_source=git)** | US-VA-McLean | Hybrid | Nov 07 |
-| **[Comcast](https://corporate.comcast.com)** | **[Legal Intern - Spring 2026](https://jobright.ai/jobs/info/690ea468d046ab6061cffaa9?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Nov 07 |
-| **[Richmond National](https://richmondnational.com)** | **[Legal Internship](https://jobright.ai/jobs/info/690e9b60d046ab6061cff362?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | On Site | Nov 07 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern - Summer 2026](https://jobright.ai/jobs/info/690e9b56221b890c2780fcf3?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 07 |
-| **[TopBuild](http://www.topbuild.com)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/690e973644146d3b6ec55aef?utm_campaign=1055&utm_source=git)** | Daytona Beach, FL | On Site | Nov 07 |
-| **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Consumer Law Unit (Spring)](https://jobright.ai/jobs/info/690eb83844146d3b6ec572bf?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Nov 07 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Legal and Privacy Intern - Summer 2026](https://jobright.ai/jobs/info/690e8856d046ab6061cfe9a4?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Nov 07 |
-| **[CHAGEE USA](https://www.chagee.us/)** | **[Legal Intern](https://jobright.ai/jobs/info/690e826c221b890c2780ecbc?utm_campaign=1055&utm_source=git)** | Orange County, CA | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
