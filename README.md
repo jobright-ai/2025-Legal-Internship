@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HealthPlanOne](https://hpone.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6912983fd1047e3565cfdb15?utm_campaign=1055&utm_source=git)** | CT Remote | Remote | Nov 10 |
+| **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Immigration Law Unit (Spring)](https://jobright.ai/jobs/info/6912ab1bc98948514c47d1d2?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Nov 10 |
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Corporate Compliance & Ethics Intern - Summer 2026](https://jobright.ai/jobs/info/691281d9c98948514c47c4ce?utm_campaign=1055&utm_source=git)** | USA - NJ - Camden | On Site | Nov 10 |
+| **[OVD Insurance](https://ovdinsurance.com)** | **[Safety & Risk Solutions Intern](https://jobright.ai/jobs/info/6912a12aea9ab01b82bf3dee?utm_campaign=1055&utm_source=git)** | Grand Rapids,MI,US | On Site | Nov 10 |
+| **[HealthPlanOne](https://hpone.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69129a06ea9ab01b82bf3ba3?utm_campaign=1055&utm_source=git)** | FL Remote | Remote | Nov 10 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk & Broking Construction Part time Internship – Fall 2026](https://jobright.ai/jobs/info/69127c41d1047e3565cfd01d?utm_campaign=1055&utm_source=git)** | 8400 Normandale Lake Boulevard, Minneapolis, MN, 55437, US | On Site | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Legal - Litigation & Investigations](https://jobright.ai/jobs/info/69127b65ea9ab01b82bf30a9?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | **[Hanwha Shipping](https://www.hanwhashipping.com/)** | **[Intern](https://jobright.ai/jobs/info/69127a64c98948514c47c18a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 10 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Corporate Affairs & Legal - Intellectual Property](https://jobright.ai/jobs/info/6912accbea9ab01b82bf40f5?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
+| **[neuro42](http://neuro42.ai/)** | **[Compliance & Security Intern](https://jobright.ai/jobs/info/6912a49dea9ab01b82bf3ee0?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Legal Internships – Summer 2026](https://jobright.ai/jobs/info/69125fe1ea9ab01b82bf1fd6?utm_campaign=1055&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Real Estate Transactions, Emerging Talent Intern](https://jobright.ai/jobs/info/690c23aa4a1b456627b167be?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | **[Gerald Group](https://www.gerald.com)** | **[2026 Summer Internship - Risk Department](https://jobright.ai/jobs/info/69127e63ea9ab01b82bf3244?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Nov 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Takeda](http://www.takeda.com)** | **[Global Development Compliance Intern](https://jobright.ai/jobs/info/690ec739d046ab6061d0120c?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Nov 07 |
 | ↳ | **[2026 Summer Internship Program: SBUs and R&D Legal Intern](https://jobright.ai/jobs/info/690ec647221b890c27811989?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Nov 07 |
 | ↳ | **[2026 Summer Internship Program: Intern, US Medical Advertising & Promotion (Ad/Promo) Regulatory](https://jobright.ai/jobs/info/690ec64644146d3b6ec57b58?utm_campaign=1055&utm_source=git)** | Lexington, MA | On Site | Nov 07 |
-| ↳ | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/690ec5be44146d3b6ec57afd?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 07 |
-| **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Law Internship](https://jobright.ai/jobs/info/690529deff462851feffb3e1?utm_campaign=1055&utm_source=git)** | California, United States | Hybrid | Nov 07 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/690ec2a544146d3b6ec57982?utm_campaign=1055&utm_source=git)** | Florida, United States | Remote | Nov 07 |
-| ↳ | **[Global Development Compliance Intern](https://jobright.ai/jobs/info/690ec2a0221b890c278117bc?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 07 |
-| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/690eb4bcd046ab6061d005b7?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Nov 07 |
-| **[Iridium](http://www.iridium.com/)** | **[Iridium Legal Internship - Summer 2026](https://jobright.ai/jobs/info/690eb037d046ab6061d00254?utm_campaign=1055&utm_source=git)** | US-VA-McLean | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
