@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Seattle](http://www.seattle.gov/)** | **[Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/68d32740f0d9af73038df6b0?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Nov 11 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern](https://jobright.ai/jobs/info/68f78d9c5dc1be60128159a5?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Nov 11 |
 | **[Horizon Lane](horizonlane.us)** | **[Client Management Summer Intern](https://jobright.ai/jobs/info/69140f1de344172248f767bf?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Nov 11 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Corporate Affairs & Legal - Corporate Legal Group](https://jobright.ai/jobs/info/69140a11e344172248f762d2?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Nov 11 |
 | **[New Jersey Institute for Social Justice](http://www.njisj.org/)** | **[Social Justice–Focused Legal Paid Hybrid Part-Time Internship for Law Students - Spring 2026](https://jobright.ai/jobs/info/6913f6931465e02904e98e4a?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Nov 11 |
@@ -105,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk & Broking Construction Part time Internship – Fall 2026](https://jobright.ai/jobs/info/69127c41d1047e3565cfd01d?utm_campaign=1055&utm_source=git)** | 8400 Normandale Lake Boulevard, Minneapolis, MN, 55437, US | On Site | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Legal - Litigation & Investigations](https://jobright.ai/jobs/info/69127b65ea9ab01b82bf30a9?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | **[Hanwha Shipping](https://www.hanwhashipping.com/)** | **[Intern](https://jobright.ai/jobs/info/69127a64c98948514c47c18a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 10 |
-| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Corporate Affairs & Legal - Office of the General Counsel](https://jobright.ai/jobs/info/6912e26ac98948514c47f299?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
-| ↳ | **[Intern – Corporate Affairs & Legal - Intellectual Property](https://jobright.ai/jobs/info/6912accbea9ab01b82bf40f5?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Corporate Affairs & Legal - Intellectual Property](https://jobright.ai/jobs/info/6912accbea9ab01b82bf40f5?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
+| ↳ | **[Intern - Corporate Affairs & Legal - Office of the General Counsel](https://jobright.ai/jobs/info/6912e26ac98948514c47f299?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | ↳ | **[Intern - Corporate Affairs & Legal - US Legal Business Partner](https://jobright.ai/jobs/info/6912c5d7c98948514c47df54?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Legal Internships – Summer 2026](https://jobright.ai/jobs/info/69125fe1ea9ab01b82bf1fd6?utm_campaign=1055&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Real Estate Transactions, Emerging Talent Intern](https://jobright.ai/jobs/info/690c23aa4a1b456627b167be?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL | On Site | Nov 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[Global Development Compliance Intern](https://jobright.ai/jobs/info/6910ad89183be660d2679a2d?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 09 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | Nov 09 |
-| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a72b7a37c712687d3884?utm_campaign=1055&utm_source=git)** | Union, OH | On Site | Nov 09 |
-| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
