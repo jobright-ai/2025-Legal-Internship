@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Quality Assurance & Compliance Intern (Graduate)](https://jobright.ai/jobs/info/6914abd59c388539cbded0eb?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Nov 12 |
+| ↳ | **[2026 Quality Assurance & Compliance Intern](https://jobright.ai/jobs/info/6914aa426f36db06ef0482af?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Nov 12 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/68dc0031d6470e72cf4d7ebf?utm_campaign=1055&utm_source=git)** | Lincoln, NE | On Site | Nov 12 |
+| **[Scotiabank](https://www.scotiabank.com)** | **[2026 Business Risk Management, Summer Internship](https://jobright.ai/jobs/info/68dce3bda125e75c422a6b2e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/68d0150afb49c96ca6eade34?utm_campaign=1055&utm_source=git)** | Richmond, VA | Remote | Nov 12 |
 | **[Beckman Coulter Diagnostics](http://www.beckmancoulter.com)** | **[IT Compliance & Audit Intern](https://jobright.ai/jobs/info/68dc0f106f6c5c3fadf36340?utm_campaign=1055&utm_source=git)** | Brea, CA | On Site | Nov 12 |
 | **[Waystar](http://www.waystar.com)** | **[Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/68c0ce37702aa35207ab0962?utm_campaign=1055&utm_source=git)** | Duluth, GA | Hybrid | Nov 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Regulatory Affairs - Regulatory Policy and Intelligence](https://jobright.ai/jobs/info/6911a6ec988c2b7b4ec55a71?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[IT Compliance & Risk Intern](https://jobright.ai/jobs/info/68ee620146e5b153e5a59313?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Nov 10 |
 | **[Amazon](https://amazon.com)** | **[2026 Risk Specialist Intern](https://jobright.ai/jobs/info/68ea77c92f64880ca0b532fb?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Nov 10 |
-| **[Gilead Sciences](http://www.gilead.com)** | **[Intern- PDM- CMC Regulatory](https://jobright.ai/jobs/info/6911bd09183be660d267dba6?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
-| **[Notion](https://www.notion.so)** | **[Trust and Safety, Fraud and Abuse Analyst Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b8654d046ab6061ce4f0f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Nov 09 |
-| **[Butler Snow LLP](https://www.butlersnow.com/)** | **[Summer Associate - Denver (1L)](https://jobright.ai/jobs/info/69124895d1047e3565cfae8e?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Nov 09 |
-| **[Legal Assistance Of Western New York, Inc. (LawNY)](https://www.lawny.org)** | **[Temporary Staff Housing Paralegal](https://jobright.ai/jobs/info/6910f559988c2b7b4ec5339a?utm_campaign=1055&utm_source=git)** | Bath, NY | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
