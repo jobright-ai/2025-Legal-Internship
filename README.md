@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/6915174e9c388539cbdf062e?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 12 |
+| **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Spring 2026 Compliance Internship](https://jobright.ai/jobs/info/69151587286ccf0a1512b113?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 12 |
+| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/6915073e286ccf0a1512a7af?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Nov 12 |
 | **[Jabil](https://www.jabil.com)** | **[Legal Operations Summer Intern](https://jobright.ai/jobs/info/6914d4ba6f36db06ef0491ad?utm_campaign=1055&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Nov 12 |
 | **[South Jersey Industries](https://www.sjindustries.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68c85c3f983e6768bc54c1a4?utm_campaign=1055&utm_source=git)** | Folsom, NJ | Hybrid | Nov 12 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/6914eda79c388539cbdeea0e?utm_campaign=1055&utm_source=git)** | Washington D.C., DC | On Site | Nov 12 |
@@ -125,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk & Broking Construction Part time Internship – Fall 2026](https://jobright.ai/jobs/info/69127c41d1047e3565cfd01d?utm_campaign=1055&utm_source=git)** | 8400 Normandale Lake Boulevard, Minneapolis, MN, 55437, US | On Site | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Legal - Litigation & Investigations](https://jobright.ai/jobs/info/69127b65ea9ab01b82bf30a9?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | **[Hanwha Shipping](https://www.hanwhashipping.com/)** | **[Intern](https://jobright.ai/jobs/info/69127a64c98948514c47c18a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 10 |
-| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Corporate Affairs & Legal - Office of the General Counsel](https://jobright.ai/jobs/info/6912e26ac98948514c47f299?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
-| ↳ | **[Intern – Corporate Affairs & Legal - Intellectual Property](https://jobright.ai/jobs/info/6912accbea9ab01b82bf40f5?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Corporate Affairs & Legal - Intellectual Property](https://jobright.ai/jobs/info/6912accbea9ab01b82bf40f5?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
+| ↳ | **[Intern - Corporate Affairs & Legal - Office of the General Counsel](https://jobright.ai/jobs/info/6912e26ac98948514c47f299?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | ↳ | **[Intern - Corporate Affairs & Legal - US Legal Business Partner](https://jobright.ai/jobs/info/6912c5d7c98948514c47df54?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Legal Internships – Summer 2026](https://jobright.ai/jobs/info/69125fe1ea9ab01b82bf1fd6?utm_campaign=1055&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Real Estate Transactions, Emerging Talent Intern](https://jobright.ai/jobs/info/690c23aa4a1b456627b167be?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Compliance & Privacy Intern/Legal Clerk](https://jobright.ai/jobs/info/691222dcd1047e3565cf9b72?utm_campaign=1055&utm_source=git)** | Ankeny, IA | Hybrid | Nov 10 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/69009c56e04ac838fb5c3077?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 10 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - AI & Legal Compliance (Summer 2026)](https://jobright.ai/jobs/info/68da28a20b832179ca4aba0e?utm_campaign=1055&utm_source=git)** | Garland, TX | On Site | Nov 10 |
-| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Regulatory Affairs - Regulatory Policy and Intelligence](https://jobright.ai/jobs/info/6911c264988c2b7b4ec56921?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
-| ↳ | **[Intern - IT - IT Security, Risk, and Compliance](https://jobright.ai/jobs/info/6911be10183be660d267dc02?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
-| ↳ | **[Intern - Regulatory Affairs - Inflammation](https://jobright.ai/jobs/info/6911bddd988c2b7b4ec567ac?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
