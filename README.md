@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/69154862286ccf0a1512ce06?utm_campaign=1055&utm_source=git)** | Florida | On Site | Nov 12 |
-| ↳ | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/69153f256f36db06ef04cf98?utm_campaign=1055&utm_source=git)** | Possible | On Site | Nov 12 |
+| **[Rocket](https://rocket.delivery/null/en)** | **[Compliance Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/69155dcb286ccf0a1512dac4?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Nov 12 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/69153f256f36db06ef04cf98?utm_campaign=1055&utm_source=git)** | Possible | On Site | Nov 12 |
+| ↳ | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/69154862286ccf0a1512ce06?utm_campaign=1055&utm_source=git)** | Florida | On Site | Nov 12 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/6915174e9c388539cbdf062e?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 12 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Spring 2026 Compliance Internship](https://jobright.ai/jobs/info/69151587286ccf0a1512b113?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 12 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Compliance Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/6915521f6f36db06ef04db0b?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Nov 12 |
@@ -80,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/68dc0031d6470e72cf4d7ebf?utm_campaign=1055&utm_source=git)** | Lincoln, NE | On Site | Nov 12 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[2026 Business Risk Management, Summer Internship](https://jobright.ai/jobs/info/68dce3bda125e75c422a6b2e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/68d0150afb49c96ca6eade34?utm_campaign=1055&utm_source=git)** | Richmond, VA | Remote | Nov 12 |
+| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2026 Legal Intern - Norfolk, VA](https://jobright.ai/jobs/info/69157054286ccf0a1512e2cd?utm_campaign=1055&utm_source=git)** | Norfolk, VA | On Site | Nov 12 |
 | **[Waystar](http://www.waystar.com)** | **[Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/68c0ce37702aa35207ab0962?utm_campaign=1055&utm_source=git)** | Duluth, GA | Hybrid | Nov 12 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Law Internship](https://jobright.ai/jobs/info/690529deff462851feffb3e1?utm_campaign=1055&utm_source=git)** | California, United States | Hybrid | Nov 12 |
 | **[Notion](https://www.notion.so)** | **[Trust and Safety, Fraud and Abuse Analyst Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b761d4a1b456627b0fa5d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
@@ -119,6 +121,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Corporate Affairs & Legal - US Legal Business Partner](https://jobright.ai/jobs/info/6912dd9bea9ab01b82bf5d44?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
 | ↳ | **[Intern – Corporate Affairs & Legal - Intellectual Property](https://jobright.ai/jobs/info/6912f62eea9ab01b82bf6a01?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
 | ↳ | **[Intern - Corporate Affairs & Legal - Litigation & Investigations](https://jobright.ai/jobs/info/6912e9abea9ab01b82bf650d?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
+| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/69156d5a9c388539cbdf3655?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Nov 10 |
 | **[HealthPlanOne](https://hpone.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6912983fd1047e3565cfdb15?utm_campaign=1055&utm_source=git)** | CT Remote | Remote | Nov 10 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Fraud Risk Management](https://jobright.ai/jobs/info/68fadd298d32c164778cc0bc?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Nov 10 |
 | **[PacLease - PACCAR Leasing Company](http://paclease.com/)** | **[Contract Administrator - Summer Internship 2026](https://jobright.ai/jobs/info/6912f626ea9ab01b82bf69fa?utm_campaign=1055&utm_source=git)** | Bellevue, WA | On Site | Nov 10 |
@@ -131,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk & Broking Construction Part time Internship – Fall 2026](https://jobright.ai/jobs/info/69127c41d1047e3565cfd01d?utm_campaign=1055&utm_source=git)** | 8400 Normandale Lake Boulevard, Minneapolis, MN, 55437, US | On Site | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Legal - Litigation & Investigations](https://jobright.ai/jobs/info/69127b65ea9ab01b82bf30a9?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | **[Hanwha Shipping](https://www.hanwhashipping.com/)** | **[Intern](https://jobright.ai/jobs/info/69127a64c98948514c47c18a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 10 |
-| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Corporate Affairs & Legal - Office of the General Counsel](https://jobright.ai/jobs/info/6912e26ac98948514c47f299?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
-| ↳ | **[Intern – Corporate Affairs & Legal - Intellectual Property](https://jobright.ai/jobs/info/6912accbea9ab01b82bf40f5?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Corporate Affairs & Legal - Intellectual Property](https://jobright.ai/jobs/info/6912accbea9ab01b82bf40f5?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
+| ↳ | **[Intern - Corporate Affairs & Legal - Office of the General Counsel](https://jobright.ai/jobs/info/6912e26ac98948514c47f299?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | ↳ | **[Intern - Corporate Affairs & Legal - US Legal Business Partner](https://jobright.ai/jobs/info/6912c5d7c98948514c47df54?utm_campaign=1055&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Legal Internships – Summer 2026](https://jobright.ai/jobs/info/69125fe1ea9ab01b82bf1fd6?utm_campaign=1055&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Real Estate Transactions, Emerging Talent Intern](https://jobright.ai/jobs/info/690c23aa4a1b456627b167be?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68c289bd03b99f6b342952d9?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Nov 10 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/6912160eea9ab01b82bef713?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 10 |
 | ↳ | **[2026 Summer Internship Program: Intern, US Medical Advertising & Promotion (Ad/Promo) Regulatory](https://jobright.ai/jobs/info/691212bbd1047e3565cf94ce?utm_campaign=1055&utm_source=git)** | Lexington, MA | On Site | Nov 10 |
-| ↳ | **[2026 Summer Internship Program: SBUs and R&D Legal Intern](https://jobright.ai/jobs/info/691211ead1047e3565cf947e?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Nov 10 |
-| **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Compliance & Privacy Intern/Legal Clerk](https://jobright.ai/jobs/info/691222dcd1047e3565cf9b72?utm_campaign=1055&utm_source=git)** | Ankeny, IA | Hybrid | Nov 10 |
-| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/69009c56e04ac838fb5c3077?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
