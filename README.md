@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/68cdb92e1ad6b16f0289e426?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Nov 14 |
+| **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Spring 2026](https://jobright.ai/jobs/info/68a6239933dd7158bbc9e317?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 14 |
+| **[IDEMIA](https://www.idemia.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/68fa98c7b2c86843bf20fe80?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Nov 14 |
 | **[Type One Energy](https://www.typeoneenergy.com)** | **[Summer Internship- Intellectual Property](https://jobright.ai/jobs/info/6916e5186f36db06ef05a921?utm_campaign=1055&utm_source=git)** | Knoxville, TN | Hybrid | Nov 14 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Risk Management Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6916af8b9c388539cbdfdf87?utm_campaign=1055&utm_source=git)** | North Las Vegas, NV | On Site | Nov 13 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Immigration Specialist (Internship)](https://jobright.ai/jobs/info/69169dca286ccf0a15137f37?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 13 |
@@ -85,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Atlantic Bay Mortgage Group](http://atlanticbay.com/legal)** | **[Corporate Risk Intern](https://jobright.ai/jobs/info/6915fa9b9c388539cbdf6f87?utm_campaign=1055&utm_source=git)** | Charlottesville, VA 22902, USA | Hybrid | Nov 13 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[E&S Property Underwriting Summer Intern](https://jobright.ai/jobs/info/6915ee72286ccf0a1513178c?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | On Site | Nov 13 |
 | **[FM](https://www.fmglobal.com)** | **[Claims intern](https://jobright.ai/jobs/info/68f9546fa628d10664e8c2e3?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Nov 13 |
-| **[Arvento A](arventoa.us)** | **[Client Management Summer Intern](https://jobright.ai/jobs/info/6916a89b6f36db06ef058c46?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Nov 13 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern, Federal Contracts - Campus 2026](https://jobright.ai/jobs/info/69164e5e6f36db06ef054dae?utm_campaign=1055&utm_source=git)** | US - VA, McLean | On Site | Nov 13 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Regulatory Compliance Internship - Summer 2026 - Erie, PA](https://jobright.ai/jobs/info/68de66b3a125e75c422b4247?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Nov 13 |
 | **[MBX Biosciences, Inc.](https://www.mbxbio.com)** | **[Regulatory Affairs Fellow](https://jobright.ai/jobs/info/68dd9ca5ddc10244dd681fe0?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BINERGY SCIENTIFIC, INC](https://binergyscientific.com)** | **[Cybersecurity Intern focused on CMMC compliance](https://jobright.ai/jobs/info/691358f7d1047e3565d029c6?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 11 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk & Broking Construction Part time Internship – Spring 2026](https://jobright.ai/jobs/info/6916fbe7ab115751cca3e12e?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 11 |
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Corporate Compliance & Ethics Intern - Summer 2026](https://jobright.ai/jobs/info/6912bb0ad1047e3565cfe62c?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Nov 10 |
-| **[A24](http://a24films.com/)** | **[Business & Legal Affairs Intern 2026](https://jobright.ai/jobs/info/69130a731465e02904e92a04?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
