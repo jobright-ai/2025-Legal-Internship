@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/68cdb92e1ad6b16f0289e426?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Nov 14 |
 | **[Type One Energy](https://www.typeoneenergy.com)** | **[Summer Internship- Intellectual Property](https://jobright.ai/jobs/info/6916e5186f36db06ef05a921?utm_campaign=1055&utm_source=git)** | Knoxville, TN | Hybrid | Nov 14 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Risk Management Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6916af8b9c388539cbdfdf87?utm_campaign=1055&utm_source=git)** | North Las Vegas, NV | On Site | Nov 13 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Immigration Specialist (Internship)](https://jobright.ai/jobs/info/69169dca286ccf0a15137f37?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 13 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Rising 3L (Intern) - United States](https://jobright.ai/jobs/info/69169a329c388539cbdfd1f8?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Nov 13 |
 | **[Galaxy](https://www.galaxy.com)** | **[2026 Legal Internship - NYC](https://jobright.ai/jobs/info/691696d3286ccf0a15137b48?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Nov 13 |
-| **[Type One Energy](https://www.typeoneenergy.com)** | **[Summer Internship- Intellectual Property](https://jobright.ai/jobs/info/6916ae809c388539cbdfdf15?utm_campaign=1055&utm_source=git)** | Knoxville, TN | On Site | Nov 13 |
 | **[City of Covington, Kentucky](http://www.covingtonky.gov)** | **[Law Clerk Intern (44759)](https://jobright.ai/jobs/info/691684e39c388539cbdfc2e0?utm_campaign=1055&utm_source=git)** | Covington, KY, USA | On Site | Nov 13 |
 | **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/6916798a6f36db06ef056e7f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 13 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68f7f3b4b0edcf159dc8c8eb?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 13 |
@@ -76,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Valeo](http://www.valeo.com/en/)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6916445e6f36db06ef054697?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Nov 13 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Risk and Compliance Intern](https://jobright.ai/jobs/info/691669e36f36db06ef0560f5?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 13 |
 | **[United Community](http://www.ucbi.com)** | **[Summer 2026 - Enterprise Risk Management Intern](https://jobright.ai/jobs/info/691669a76f36db06ef0560b8?utm_campaign=1055&utm_source=git)** | Greenville, SC | On Site | Nov 13 |
+| **[The Port of Virginia](https://www.portofvirginia.com/)** | **[Intern- Risk Management](https://jobright.ai/jobs/info/6916164c6f36db06ef052d87?utm_campaign=1055&utm_source=git)** | Norfolk, VA, US | On Site | Nov 13 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Spring 2026 Litigation Intern](https://jobright.ai/jobs/info/68f948f06de2db04dc3e7c80?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 13 |
-| **[The Port of Virginia](https://www.portofvirginia.com/)** | **[Intern- Risk Management](https://jobright.ai/jobs/info/69162f75286ccf0a1513324d?utm_campaign=1055&utm_source=git)** | Norfolk, VA, US | On Site | Nov 13 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Privacy Compliance Intern](https://jobright.ai/jobs/info/68f97572cadb2e5a06a64fa3?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Nov 13 |
 | **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern -  Legal](https://jobright.ai/jobs/info/691603436f36db06ef05246f?utm_campaign=1055&utm_source=git)** | 399 Park Avenue-New York, NY | On Site | Nov 13 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Third Party Risk Management Intern](https://jobright.ai/jobs/info/68f9759acadb2e5a06a64fb2?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Nov 13 |
@@ -122,6 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Scotiabank](https://www.scotiabank.com)** | **[2026 Business Risk Management, Summer Internship](https://jobright.ai/jobs/info/68dce3bda125e75c422a6b2e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/68d0150afb49c96ca6eade34?utm_campaign=1055&utm_source=git)** | Richmond, VA | Remote | Nov 12 |
 | **[Waystar](http://www.waystar.com)** | **[Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/68c0ce37702aa35207ab0962?utm_campaign=1055&utm_source=git)** | Duluth, GA | Hybrid | Nov 12 |
+| **[Deutsche Bank](https://www.db.com)** | **[Operational Risk Management Intern](https://jobright.ai/jobs/info/6917139c370fde633d07cefe?utm_campaign=1055&utm_source=git)** | Greater São Paulo Area | Hybrid | Nov 12 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Law Internship](https://jobright.ai/jobs/info/690529deff462851feffb3e1?utm_campaign=1055&utm_source=git)** | California, United States | Hybrid | Nov 12 |
 | **[Notion](https://www.notion.so)** | **[Trust and Safety, Fraud and Abuse Analyst Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b761d4a1b456627b0fa5d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/68d32740f0d9af73038df6b0?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Nov 11 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[TopBuild](http://www.topbuild.com)** | **[Intern- Legal](https://jobright.ai/jobs/info/68f68e339a63986de757f712?utm_campaign=1055&utm_source=git)** | Daytona Beach, FL | On Site | Nov 11 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/68f655fb76a51a4307bd97ad?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | Hybrid | Nov 11 |
 | **[BINERGY SCIENTIFIC, INC](https://binergyscientific.com)** | **[Cybersecurity Intern focused on CMMC compliance](https://jobright.ai/jobs/info/691358f7d1047e3565d029c6?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 11 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk & Broking Construction Part time Internship – Spring 2026](https://jobright.ai/jobs/info/6916fbe7ab115751cca3e12e?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 11 |
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Corporate Compliance & Ethics Intern - Summer 2026](https://jobright.ai/jobs/info/6912bb0ad1047e3565cfe62c?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Nov 10 |
 | **[A24](http://a24films.com/)** | **[Business & Legal Affairs Intern 2026](https://jobright.ai/jobs/info/69130a731465e02904e92a04?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 10 |
-| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Corporate Affairs & Legal - Office of the General Counsel](https://jobright.ai/jobs/info/6912dec9d1047e3565cffced?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
-| ↳ | **[Intern - Corporate Affairs & Legal - US Legal Business Partner](https://jobright.ai/jobs/info/6912dd9bea9ab01b82bf5d44?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
