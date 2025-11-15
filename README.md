@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Enterprise Risk Management](https://jobright.ai/jobs/info/691827a2bcdbf3560c9cf0dd?utm_campaign=1055&utm_source=git)** | UNO Center - New Orleans, LA | On Site | Nov 14 |
+| ↳ | **[Summer Intern- Bank Secrecy Act](https://jobright.ai/jobs/info/6918267a45fb6f5ead8a233b?utm_campaign=1055&utm_source=git)** | UNO Center - New Orleans, LA | On Site | Nov 14 |
 | **[Ion Bank](http://ionbank.com)** | **[BSA Intern](https://jobright.ai/jobs/info/69180f5815b415636717e4c0?utm_campaign=1055&utm_source=git)** | Naugatuck, CT | On Site | Nov 14 |
 | **[Teachers Federal Credit Union](http://www.teachersfcu.org)** | **[2026 Legal Intern](https://jobright.ai/jobs/info/6917e5eb45fb6f5ead89fa3b?utm_campaign=1055&utm_source=git)** | Hauppauge, NY | On Site | Nov 14 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Rising 2L (Intern) - United States](https://jobright.ai/jobs/info/6917e47315b415636717c870?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
@@ -115,6 +117,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern- Regulatory & Marketing](https://jobright.ai/jobs/info/68fade668d32c164778cc171?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 13 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern, Federal Contracts - Campus 2026](https://jobright.ai/jobs/info/6916400a6f36db06ef05436a?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Nov 13 |
 | **[Galaxy](https://www.galaxy.com)** | **[2026 Legal Internship - NYC](https://jobright.ai/jobs/info/691660f86f36db06ef055ab1?utm_campaign=1055&utm_source=git)** | New York | On Site | Nov 13 |
+| **[CAPREIT](https://www.capreit.ca)** | **[Legal Student Intern (Summer 2026)](https://jobright.ai/jobs/info/69181fa415b415636717edf3?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 13 |
 | **[Oppenheimer & Co. Inc.](https://oppenheimer.com)** | **[Office of General Counsel (2026 Summer Internship)](https://jobright.ai/jobs/info/691658e9286ccf0a15134c69?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 13 |
 | **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern - Legal](https://jobright.ai/jobs/info/69162e789c388539cbdf86d3?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 13 |
 | **[WIN Waste Innovations](https://www.win-waste.com)** | **[Winter Safety Internship](https://jobright.ai/jobs/info/690f45dc221b890c27814caa?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Nov 13 |
@@ -122,8 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Risk and Compliance Intern](https://jobright.ai/jobs/info/691669e36f36db06ef0560f5?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 13 |
 | **[United Community](http://www.ucbi.com)** | **[Summer 2026 - Enterprise Risk Management Intern](https://jobright.ai/jobs/info/691669a76f36db06ef0560b8?utm_campaign=1055&utm_source=git)** | Greenville, SC | On Site | Nov 13 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Spring 2026 Litigation Intern](https://jobright.ai/jobs/info/68f948f06de2db04dc3e7c80?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 13 |
-| **[The Port of Virginia](https://www.portofvirginia.com/)** | **[Intern- Risk Management](https://jobright.ai/jobs/info/69162f75286ccf0a1513324d?utm_campaign=1055&utm_source=git)** | Norfolk, VA, US | On Site | Nov 13 |
-| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Privacy Compliance Intern](https://jobright.ai/jobs/info/68f97572cadb2e5a06a64fa3?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Nov 13 |
+| **[The Port of Virginia](https://www.portofvirginia.com/)** | **[Intern- Risk Management](https://jobright.ai/jobs/info/691816d815b415636717ea09?utm_campaign=1055&utm_source=git)** | Norfolk, VA, US | On Site | Nov 13 |
 | **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern -  Legal](https://jobright.ai/jobs/info/691603436f36db06ef05246f?utm_campaign=1055&utm_source=git)** | 399 Park Avenue-New York, NY | On Site | Nov 13 |
 | **[Jones Day](http://www.jonesday.com/)** | **[IP Legal Intern Organic Chemistry - ATLANTA, BOSTON, NEW YORK, SAN DIEGO, SILICON VALLEY](https://jobright.ai/jobs/info/68f2b2639a63986de756ae1f?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 13 |
 | **[Atlantic Bay Mortgage Group](http://atlanticbay.com/legal)** | **[Corporate Risk Intern](https://jobright.ai/jobs/info/6915fa9b9c388539cbdf6f87?utm_campaign=1055&utm_source=git)** | Charlottesville, VA 22902, USA | Hybrid | Nov 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/6914ea42286ccf0a151293d4?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[Jabil](https://www.jabil.com)** | **[Legal Operations Summer Intern](https://jobright.ai/jobs/info/6914f3aa9c388539cbdeecd7?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Nov 12 |
 | **[National Life Group](https://www.nationallife.com)** | **[Law & Compliance Intern – Summer 2026](https://jobright.ai/jobs/info/69150009286ccf0a1512a323?utm_campaign=1055&utm_source=git)** | Addison, TX | On Site | Nov 12 |
-| ↳ | **[Law & Compliance Intern – Summer 2026](https://jobright.ai/jobs/info/6914f024286ccf0a151296c7?utm_campaign=1055&utm_source=git)** | Montpelier, VT | On Site | Nov 12 |
-| **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Co-op Paralegal Intern](https://jobright.ai/jobs/info/690e25e4221b890c2780b401?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
