@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Legal Intern / Summer 2026](https://jobright.ai/jobs/info/6919e6d515b41563671879dd?utm_campaign=1055&utm_source=git)** | Brentwood, TN | On Site | Nov 16 |
+| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Safety Compliance & Regulatory (Internship - Summer 2026)](https://jobright.ai/jobs/info/6919d8d9bcdbf3560c9d7595?utm_campaign=1055&utm_source=git)** | Superior, MI | On Site | Nov 16 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Quality & Compliance Intern- Patient Service (Pharm D)](https://jobright.ai/jobs/info/68c7aef9c96a22563ecf41bc?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Nov 16 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Risk Management](https://jobright.ai/jobs/info/6919ca6545fb6f5ead8aa662?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Nov 16 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Salt Lake City, UT CLC](https://jobright.ai/jobs/info/68cf5536dbd9fb154ede6fde?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 16 |
 | **[WoodmenLife](https://www.woodmenlife.org/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6919a74c15b415636718709f?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Nov 16 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/6853de39dee22b2fb32812cb?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Nov 16 |
 | **[The University of New Mexico](http://unm.edu)** | **[Legal Intern](https://jobright.ai/jobs/info/69199c7115b4156367186d9d?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | On Site | Nov 15 |
-| **[Danber Technologies](www.danbertech.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6919534415b415636718512f?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Nov 15 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Birmingham, AL CLC](https://jobright.ai/jobs/info/69192a5ebcdbf3560c9d43b3?utm_campaign=1055&utm_source=git)** | Birmingham, AL | Hybrid | Nov 15 |
 | **[Bechtel Plant Machinery, Inc. (BPMI)](http://bpmionline.com)** | **[Contract Management Specialist (Buyer) Intern (Summer 2026)](https://jobright.ai/jobs/info/6918b32dbcdbf3560c9d34d1?utm_campaign=1055&utm_source=git)** | Monroeville, PA | On Site | Nov 15 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/68e027f11852e62f007e7f2f?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Nov 15 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Risk and Compliance Intern](https://jobright.ai/jobs/info/691669e36f36db06ef0560f5?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 13 |
 | **[United Community](http://www.ucbi.com)** | **[Summer 2026 - Enterprise Risk Management Intern](https://jobright.ai/jobs/info/691669a76f36db06ef0560b8?utm_campaign=1055&utm_source=git)** | Greenville, SC | On Site | Nov 13 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Spring 2026 Litigation Intern](https://jobright.ai/jobs/info/68f948f06de2db04dc3e7c80?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 13 |
-| **[The Port of Virginia](https://www.portofvirginia.com/)** | **[Intern- Risk Management](https://jobright.ai/jobs/info/69181aeebcdbf3560c9ce949?utm_campaign=1055&utm_source=git)** | Norfolk, VA, US | On Site | Nov 13 |
+| **[The Port of Virginia](https://www.portofvirginia.com/)** | **[Intern- Risk Management](https://jobright.ai/jobs/info/691816d815b415636717ea09?utm_campaign=1055&utm_source=git)** | Norfolk, VA, US | On Site | Nov 13 |
 | **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern -  Legal](https://jobright.ai/jobs/info/691603436f36db06ef05246f?utm_campaign=1055&utm_source=git)** | 399 Park Avenue-New York, NY | On Site | Nov 13 |
 | **[Jones Day](http://www.jonesday.com/)** | **[IP Legal Intern Organic Chemistry - ATLANTA, BOSTON, NEW YORK, SAN DIEGO, SILICON VALLEY](https://jobright.ai/jobs/info/68f2b2639a63986de756ae1f?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 13 |
-| **[Atlantic Bay Mortgage Group](http://atlanticbay.com/legal)** | **[Corporate Risk Intern](https://jobright.ai/jobs/info/6915fa9b9c388539cbdf6f87?utm_campaign=1055&utm_source=git)** | Charlottesville, VA 22902, USA | Hybrid | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
