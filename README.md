@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Salt Lake City, UT CLC](https://jobright.ai/jobs/info/68cf5536dbd9fb154ede6fde?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 16 |
+| **[WoodmenLife](https://www.woodmenlife.org/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6919a74c15b415636718709f?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Nov 16 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/6853de39dee22b2fb32812cb?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Nov 16 |
 | **[The University of New Mexico](http://unm.edu)** | **[Legal Intern](https://jobright.ai/jobs/info/69199c7115b4156367186d9d?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | On Site | Nov 15 |
 | **[Danber Technologies](www.danbertech.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6919534415b415636718512f?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Nov 15 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Birmingham, AL CLC](https://jobright.ai/jobs/info/69192a5ebcdbf3560c9d43b3?utm_campaign=1055&utm_source=git)** | Birmingham, AL | Hybrid | Nov 15 |
@@ -96,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship- Compliance and Risk](https://jobright.ai/jobs/info/6917d43315b415636717bee5?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Risk Solutions Claims Intern - Summer 2026](https://jobright.ai/jobs/info/6917c9fd45fb6f5ead89e9fb?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Nov 14 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship - ITS Risk & Compliance](https://jobright.ai/jobs/info/6917c7c7bcdbf3560c9cb4fd?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
-| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Legal Advocate](https://jobright.ai/jobs/info/6917c3f245fb6f5ead89e6c6?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Nov 14 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/691545049c388539cbdf1fce?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[Ranger Power](https://www.rangerpower.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6917befd15b415636717b1a5?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 14 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Internship - ITS Risk & Compliance](https://jobright.ai/jobs/info/6917b77345fb6f5ead89decf?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
@@ -106,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Internship - Legal](https://jobright.ai/jobs/info/6917ca8f45fb6f5ead89ea4e?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
 | **[Viasat](http://www.viasat.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69179b76bcdbf3560c9c94fb?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 14 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[US Policy and Advocacy 2026 Summer Legal Associate (Assisted Reproduction)](https://jobright.ai/jobs/info/69179b4a45fb6f5ead89ca2f?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Nov 14 |
-| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/6917bb4cbcdbf3560c9cabd0?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Nov 14 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/691787d515b4156367178aaf?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Nov 14 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[US Policy and Advocacy 2026 Summer Legal Associate (Assisted Reproduction)](https://jobright.ai/jobs/info/6917a3c2bcdbf3560c9c9b26?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Nov 14 |
 | **[Warner Norcross + Judd](http://wnj.com)** | **[Summer Associate Law Clerk](https://jobright.ai/jobs/info/69177ab8bcdbf3560c9c8082?utm_campaign=1055&utm_source=git)** | Michigan, United States | On Site | Nov 14 |
@@ -126,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[IDEMIA](https://www.idemia.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/68fa98c7b2c86843bf20fe80?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Nov 14 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/68c216274d652f044775cf64?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 14 |
 | **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fae6cf8d32c164778cc61d?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Nov 14 |
+| **[State of Missouri](http://mo.gov)** | **[2026 Summer Intern - Springfield Right of Way](https://jobright.ai/jobs/info/68dd6f1d44d32141e0bf6ad4?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Nov 14 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Risk Management - Fraud](https://jobright.ai/jobs/info/6917325d370fde633d07e3f3?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Nov 14 |
 | ↳ | **[Intern - Risk Management - Fraud](https://jobright.ai/jobs/info/691779353ea85638ae1cae63?utm_campaign=1055&utm_source=git)** | Effingham, Illinois | On Site | Nov 14 |
 | **[Type One Energy](https://www.typeoneenergy.com)** | **[Summer Internship- Intellectual Property](https://jobright.ai/jobs/info/6916e5186f36db06ef05a921?utm_campaign=1055&utm_source=git)** | Knoxville, TN | Hybrid | Nov 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Atlantic Bay Mortgage Group](http://atlanticbay.com/legal)** | **[Corporate Risk Intern](https://jobright.ai/jobs/info/6915fa9b9c388539cbdf6f87?utm_campaign=1055&utm_source=git)** | Charlottesville, VA 22902, USA | Hybrid | Nov 13 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[E&S Property Underwriting Summer Intern](https://jobright.ai/jobs/info/6915ee72286ccf0a1513178c?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | On Site | Nov 13 |
 | **[FM](https://www.fmglobal.com)** | **[Claims intern](https://jobright.ai/jobs/info/68f9546fa628d10664e8c2e3?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Nov 13 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern, Federal Contracts - Campus 2026](https://jobright.ai/jobs/info/69164e5e6f36db06ef054dae?utm_campaign=1055&utm_source=git)** | US - VA, McLean | On Site | Nov 13 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Regulatory Compliance Internship - Summer 2026 - Erie, PA](https://jobright.ai/jobs/info/68de66b3a125e75c422b4247?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
