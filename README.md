@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sony Electronics](http://www.sonyjobs.com)** | **[Information Security Risk and Compliance Intern](https://jobright.ai/jobs/info/691b4a9cbcdbf3560c9dda4a?utm_campaign=1055&utm_source=git)** | NA / NY New York-25 Madison 37.5 | On Site | Nov 17 |
 | **[Santander](https://www.santander.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/691b392922a2cb4b9bd10cdb?utm_campaign=1055&utm_source=git)** | Boston | On Site | Nov 17 |
 | **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Law Clerk - Internship](https://jobright.ai/jobs/info/68fe5bece04ac838fb5b407c?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | Hybrid | Nov 17 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Records & Information Services](https://jobright.ai/jobs/info/691b03d2bcdbf3560c9dc4be?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Nov 17 |
@@ -127,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/691787d515b4156367178aaf?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Nov 14 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[US Policy and Advocacy 2026 Summer Legal Associate (Assisted Reproduction)](https://jobright.ai/jobs/info/6917a3c2bcdbf3560c9c9b26?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Nov 14 |
 | **[Warner Norcross + Judd](http://wnj.com)** | **[Summer Associate Law Clerk](https://jobright.ai/jobs/info/69177ab8bcdbf3560c9c8082?utm_campaign=1055&utm_source=git)** | Michigan, United States | On Site | Nov 14 |
-| **[The Law Offices of Benjamin T. McLawhorn](www.mclawfirmnc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/691771cb3ea85638ae1caa1a?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Nov 14 |
 | **[Sony](https://www.sony.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68fb9a62f55bb021a889ab7e?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Nov 14 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Democracy Legal Internship, NY](https://jobright.ai/jobs/info/68e24fd6b99ec3563b0dc242?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c6e5597d0db4114273b4f9?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 14 |
