@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NinjaHoldings](https://www.ninjaholdings.com/)** | **[In-House Summer Legal Intern](https://jobright.ai/jobs/info/691ace4bbcdbf3560c9dab23?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 16 |
+| ↳ | **[Compliance Summer Intern](https://jobright.ai/jobs/info/691ac8fb15b415636718a8ea?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 16 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Tourism, Arts, & Heritage - Legal](https://jobright.ai/jobs/info/68f913c36de2db04dc3e5173?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Nov 16 |
 | **[The Jeffcoat Firm](https://scinjurylawfirm.com)** | **[Internship - Spring 2026](https://jobright.ai/jobs/info/691a76ff45fb6f5ead8ab83a?utm_campaign=1055&utm_source=git)** | Columbia,SC,US | On Site | Nov 16 |
 | **[CN](http://www.cn.ca)** | **[Intern, Legal - Indigenous- EN](https://jobright.ai/jobs/info/691a4f3215b4156367188440?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 16 |
@@ -96,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/6915174e9c388539cbdf062e?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 14 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/69183648bcdbf3560c9cfb67?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Nov 14 |
 | **[Ion Bank](http://ionbank.com)** | **[BSA Intern](https://jobright.ai/jobs/info/69180f5815b415636717e4c0?utm_campaign=1055&utm_source=git)** | Naugatuck, CT | On Site | Nov 14 |
-| **[San Francisco Compute Company](https://sfcompute.com/)** | **[Legal Intern – Technology & AI](https://jobright.ai/jobs/info/691ab26245fb6f5ead8acf26?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 14 |
 | **[Teachers Federal Credit Union](http://www.teachersfcu.org)** | **[2026 Legal Intern](https://jobright.ai/jobs/info/6917e5eb45fb6f5ead89fa3b?utm_campaign=1055&utm_source=git)** | Hauppauge, NY | On Site | Nov 14 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Rising 2L (Intern) - United States](https://jobright.ai/jobs/info/6917e47315b415636717c870?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs / New York Summer 2026](https://jobright.ai/jobs/info/6918009b15b415636717db76?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 14 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern- Regulatory & Marketing](https://jobright.ai/jobs/info/68fade668d32c164778cc171?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 13 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern, Federal Contracts - Campus 2026](https://jobright.ai/jobs/info/6916400a6f36db06ef05436a?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Nov 13 |
 | **[Galaxy](https://www.galaxy.com)** | **[2026 Legal Internship - NYC](https://jobright.ai/jobs/info/691660f86f36db06ef055ab1?utm_campaign=1055&utm_source=git)** | New York | On Site | Nov 13 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/69163a83286ccf0a151338ee?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Nov 13 |
 | **[CAPREIT](https://www.capreit.ca)** | **[Legal Student Intern (Summer 2026)](https://jobright.ai/jobs/info/69181fa415b415636717edf3?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 13 |
 | **[Oppenheimer & Co. Inc.](https://oppenheimer.com)** | **[Office of General Counsel (2026 Summer Internship)](https://jobright.ai/jobs/info/691658e9286ccf0a15134c69?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 13 |
-| **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern - Legal](https://jobright.ai/jobs/info/69162e789c388539cbdf86d3?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 13 |
-| **[WIN Waste Innovations](https://www.win-waste.com)** | **[Winter Safety Internship](https://jobright.ai/jobs/info/690f45dc221b890c27814caa?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
