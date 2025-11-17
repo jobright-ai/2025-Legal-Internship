@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern- Regulatory & Marketing](https://jobright.ai/jobs/info/68fade668d32c164778cc171?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 13 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern, Federal Contracts - Campus 2026](https://jobright.ai/jobs/info/6916400a6f36db06ef05436a?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Nov 13 |
 | **[Galaxy](https://www.galaxy.com)** | **[2026 Legal Internship - NYC](https://jobright.ai/jobs/info/691660f86f36db06ef055ab1?utm_campaign=1055&utm_source=git)** | New York | On Site | Nov 13 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/69163a83286ccf0a151338ee?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Nov 13 |
 | **[CAPREIT](https://www.capreit.ca)** | **[Legal Student Intern (Summer 2026)](https://jobright.ai/jobs/info/69181fa415b415636717edf3?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 13 |
 | **[Oppenheimer & Co. Inc.](https://oppenheimer.com)** | **[Office of General Counsel (2026 Summer Internship)](https://jobright.ai/jobs/info/691658e9286ccf0a15134c69?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 13 |
+| **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern - Legal](https://jobright.ai/jobs/info/69162e789c388539cbdf86d3?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
