@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Major League Baseball (MLB)](https://www.mlb.com)** | **[2026 Summer Internship - Legal](https://jobright.ai/jobs/info/691b88f315b415636718ff16?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 17 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Complaints Management - Compliance](https://jobright.ai/jobs/info/691b75f915b415636718f355?utm_campaign=1055&utm_source=git)** | Raleigh, North Carolina | Hybrid | Nov 17 |
 | **[Encova Insurance](https://www.encova.com)** | **[Intern, Claims](https://jobright.ai/jobs/info/691b710315b415636718f064?utm_campaign=1055&utm_source=git)** | USA (Limited States) | Remote | Nov 17 |
 | **[EQUES LAW PA](https://equeslaw.us/)** | **[Legal Intern](https://jobright.ai/jobs/info/691b64cc22a2cb4b9bd1204e?utm_campaign=1055&utm_source=git)** | Wellington, FL | On Site | Nov 17 |
@@ -72,6 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Compliance Summer Intern](https://jobright.ai/jobs/info/691ac8fb15b415636718a8ea?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 16 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Tourism, Arts, & Heritage - Legal](https://jobright.ai/jobs/info/68f913c36de2db04dc3e5173?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Nov 16 |
 | **[The Jeffcoat Firm](https://scinjurylawfirm.com)** | **[Internship - Spring 2026](https://jobright.ai/jobs/info/691a76ff45fb6f5ead8ab83a?utm_campaign=1055&utm_source=git)** | Columbia,SC,US | On Site | Nov 16 |
+| **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern - Compliance (Spring)](https://jobright.ai/jobs/info/691b8be322a2cb4b9bd13755?utm_campaign=1055&utm_source=git)** | Abilene, TX | On Site | Nov 16 |
 | **[CN](http://www.cn.ca)** | **[Intern, Legal - Indigenous- EN](https://jobright.ai/jobs/info/691a4f3215b4156367188440?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 16 |
 | **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[Law Clerk Intern, Summer 2026](https://jobright.ai/jobs/info/691a48db45fb6f5ead8ab512?utm_campaign=1055&utm_source=git)** | Arden Hills, MN (USA) | Hybrid | Nov 16 |
 | **[Mission Action](https://www.missionaction.org/)** | **[Legal Internship Opportunities Summer 2026 Law Student Clerk](https://jobright.ai/jobs/info/691a2f4dbcdbf3560c9d7f10?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Risk Management Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6916af8b9c388539cbdfdf87?utm_campaign=1055&utm_source=git)** | North Las Vegas, NV | On Site | Nov 13 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Immigration Specialist (Internship)](https://jobright.ai/jobs/info/69169dca286ccf0a15137f37?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 13 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Third Party Risk Management Intern](https://jobright.ai/jobs/info/691a95ae45fb6f5ead8ac18b?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Nov 13 |
-| **[Cisco](http://www.cisco.com)** | **[Legal Rising 3L (Intern) - United States](https://jobright.ai/jobs/info/69169a329c388539cbdfd1f8?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Nov 13 |
-| **[Galaxy](https://www.galaxy.com)** | **[2026 Legal Internship - NYC](https://jobright.ai/jobs/info/691696d3286ccf0a15137b48?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
