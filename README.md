@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Complaints Management - Compliance](https://jobright.ai/jobs/info/691b75f915b415636718f355?utm_campaign=1055&utm_source=git)** | Raleigh, North Carolina | Hybrid | Nov 17 |
+| **[Encova Insurance](https://www.encova.com)** | **[Intern, Claims](https://jobright.ai/jobs/info/691b710315b415636718f064?utm_campaign=1055&utm_source=git)** | USA (Limited States) | Remote | Nov 17 |
+| **[EQUES LAW PA](https://equeslaw.us/)** | **[Legal Intern](https://jobright.ai/jobs/info/691b64cc22a2cb4b9bd1204e?utm_campaign=1055&utm_source=git)** | Wellington, FL | On Site | Nov 17 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Information Security Risk and Compliance Intern](https://jobright.ai/jobs/info/691b4a9cbcdbf3560c9dda4a?utm_campaign=1055&utm_source=git)** | NA / NY New York-25 Madison 37.5 | On Site | Nov 17 |
+| **[PSEG](https://www.pseg.com)** | **[Summer 2026 Law Intern - Law Department](https://jobright.ai/jobs/info/690e9fbbd046ab6061cff71a?utm_campaign=1055&utm_source=git)** | Newark, NJ | On Site | Nov 17 |
 | **[Santander](https://www.santander.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/691b392922a2cb4b9bd10cdb?utm_campaign=1055&utm_source=git)** | Boston | On Site | Nov 17 |
 | **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Law Clerk - Internship](https://jobright.ai/jobs/info/68fe5bece04ac838fb5b407c?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | Hybrid | Nov 17 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Records & Information Services](https://jobright.ai/jobs/info/691b03d2bcdbf3560c9dc4be?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Nov 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Third Party Risk Management Intern](https://jobright.ai/jobs/info/691a95ae45fb6f5ead8ac18b?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Nov 13 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Rising 3L (Intern) - United States](https://jobright.ai/jobs/info/69169a329c388539cbdfd1f8?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Nov 13 |
 | **[Galaxy](https://www.galaxy.com)** | **[2026 Legal Internship - NYC](https://jobright.ai/jobs/info/691696d3286ccf0a15137b48?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Nov 13 |
-| **[City of Covington, Kentucky](http://www.covingtonky.gov)** | **[Law Clerk Intern (44759)](https://jobright.ai/jobs/info/691684e39c388539cbdfc2e0?utm_campaign=1055&utm_source=git)** | Covington, KY, USA | On Site | Nov 13 |
-| **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/6916798a6f36db06ef056e7f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 13 |
-| **[San Francisco Compute Company](https://sfcompute.com/)** | **[Legal Intern – Technology & AI](https://jobright.ai/jobs/info/6917cd9c15b415636717bacd?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 13 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68f7f3b4b0edcf159dc8c8eb?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
