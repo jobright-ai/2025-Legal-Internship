@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern](https://jobright.ai/jobs/info/68f78d9c5dc1be60128159a5?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Nov 17 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Cash Compliance & Controls (C3) Intern (Charlotte, Summer 26, Hybrid)](https://jobright.ai/jobs/info/691bed1cbcdbf3560c9e4075?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Nov 17 |
 | **[USA Baseball](http://www.usabaseball.com)** | **[Intern, Athlete Safety (Arizona)](https://jobright.ai/jobs/info/691bddf522a2cb4b9bd16e83?utm_campaign=1055&utm_source=git)** | Surprise, AZ | On Site | Nov 17 |
 | **[Santander](https://www.santander.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/691bcef022a2cb4b9bd164ba?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 17 |
@@ -153,7 +154,6 @@ For a complete list, click the following sortable link below:
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[2026 Summer Intern - Corporate Law (Hybrid - Raleigh, NC)](https://jobright.ai/jobs/info/68faef079e8e925ac6c87969?utm_campaign=1055&utm_source=git)** | Raleigh, NC | Hybrid | Nov 14 |
 | **[Textron](http://textron.com)** | **[2026 Internship - Legal (Contracts Associate)](https://jobright.ai/jobs/info/69176e833ea85638ae1ca957?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Nov 14 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68defb1d44d32141e0c04796?utm_campaign=1055&utm_source=git)** | Irvine, CA | Hybrid | Nov 14 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern](https://jobright.ai/jobs/info/68f78d9c5dc1be60128159a5?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Nov 14 |
 | **[Robinhood](https://www.robinhood.com)** | **[Enterprise Risk Management Intern (Summer 2026)](https://jobright.ai/jobs/info/690918d64a1b456627afc643?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Nov 14 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/68cdb92e1ad6b16f0289e426?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Nov 14 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Spring 2026](https://jobright.ai/jobs/info/68a6239933dd7158bbc9e317?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 14 |
