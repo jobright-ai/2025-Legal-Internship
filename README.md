@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Legal Intern](https://jobright.ai/jobs/info/691c73c9ff70244984167eea?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 18 |
+| **[Kimball Electronics](http://www.kimballelectronics.com)** | **[Legal Analyst Intern](https://jobright.ai/jobs/info/68ec9fa7c26b9574506f56d7?utm_campaign=1055&utm_source=git)** | Jasper, IN | On Site | Nov 18 |
+| **[Amrize](http://www.amrize.com)** | **[Risk Management Intern (Summer 2026)](https://jobright.ai/jobs/info/6916130a9c388539cbdf791d?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
+| **[TruStage](https://www.trustage.com/)** | **[Legal Compliance Intern (Hybrid)](https://jobright.ai/jobs/info/68c9d234f9c6ff7aedf1e258?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Nov 18 |
+| **[Oatey Company](https://www.oatey.com//)** | **[International Trade Compliance Intern](https://jobright.ai/jobs/info/68acbb60758f2e4ac30082e7?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Nov 18 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern](https://jobright.ai/jobs/info/68f78d9c5dc1be60128159a5?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Nov 17 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Cash Compliance & Controls (C3) Intern (Charlotte, Summer 26, Hybrid)](https://jobright.ai/jobs/info/691bed1cbcdbf3560c9e4075?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Nov 17 |
 | **[USA Baseball](http://www.usabaseball.com)** | **[Intern, Athlete Safety (Arizona)](https://jobright.ai/jobs/info/691bddf522a2cb4b9bd16e83?utm_campaign=1055&utm_source=git)** | Surprise, AZ | On Site | Nov 17 |
@@ -101,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Quality & Compliance Intern- Patient Service (Pharm D)](https://jobright.ai/jobs/info/68c7aef9c96a22563ecf41bc?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Nov 16 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Risk Management](https://jobright.ai/jobs/info/6919ca6545fb6f5ead8aa662?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Nov 16 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Salt Lake City, UT CLC](https://jobright.ai/jobs/info/68cf5536dbd9fb154ede6fde?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 16 |
-| **[WoodmenLife](https://www.woodmenlife.org/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6919a74c15b415636718709f?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Nov 16 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/6853de39dee22b2fb32812cb?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Nov 16 |
 | **[The University of New Mexico](http://unm.edu)** | **[Legal Intern](https://jobright.ai/jobs/info/69199c7115b4156367186d9d?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | On Site | Nov 15 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Birmingham, AL CLC](https://jobright.ai/jobs/info/69192a5ebcdbf3560c9d43b3?utm_campaign=1055&utm_source=git)** | Birmingham, AL | Hybrid | Nov 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Democracy Legal Internship, NY](https://jobright.ai/jobs/info/68e24fd6b99ec3563b0dc242?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c6e5597d0db4114273b4f9?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 14 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Intern (Summer 2026)](https://jobright.ai/jobs/info/68c9c1baa0c52d598ea3afa2?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 14 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[2026 Summer Intern - Corporate Law (Hybrid - Raleigh, NC)](https://jobright.ai/jobs/info/68faef079e8e925ac6c87969?utm_campaign=1055&utm_source=git)** | Raleigh, NC | Hybrid | Nov 14 |
-| **[Textron](http://textron.com)** | **[2026 Internship - Legal (Contracts Associate)](https://jobright.ai/jobs/info/69176e833ea85638ae1ca957?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Nov 14 |
-| **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68defb1d44d32141e0c04796?utm_campaign=1055&utm_source=git)** | Irvine, CA | Hybrid | Nov 14 |
-| **[Robinhood](https://www.robinhood.com)** | **[Enterprise Risk Management Intern (Summer 2026)](https://jobright.ai/jobs/info/690918d64a1b456627afc643?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
