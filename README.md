@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship - ITS Risk & Compliance](https://jobright.ai/jobs/info/6917c7c7bcdbf3560c9cb4fd?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 17 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Global Regulatory Affairs Intern](https://jobright.ai/jobs/info/691b9fcd15b4156367191049?utm_campaign=1055&utm_source=git)** | Portage, MI | On Site | Nov 17 |
 | **[FirstEnroll](https://www.firstenroll.com/)** | **[Legal Intern (Part-Time)](https://jobright.ai/jobs/info/691b9a5a15b4156367190bf7?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | On Site | Nov 17 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Regulatory Affairs](https://jobright.ai/jobs/info/691bc38815b415636719282d?utm_campaign=1055&utm_source=git)** | Bloomington, MN | On Site | Nov 17 |
+| ↳ | **[2026 Summer Intern – Regulatory Affairs – Michigan](https://jobright.ai/jobs/info/691bc1a522a2cb4b9bd15b44?utm_campaign=1055&utm_source=git)** | Portage, MI | On Site | Nov 17 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[2026 Summer Internship - Legal](https://jobright.ai/jobs/info/691b88f315b415636718ff16?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 17 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Legal Internships – Summer 2026](https://jobright.ai/jobs/info/691b9fc122a2cb4b9bd14603?utm_campaign=1055&utm_source=git)** | Universal City, CA | Hybrid | Nov 17 |
 | **[Encova Insurance](https://www.encova.com)** | **[Intern, Claims](https://jobright.ai/jobs/info/691ba29622a2cb4b9bd147ce?utm_campaign=1055&utm_source=git)** | North Carolina, United States | Remote | Nov 17 |
@@ -68,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Encova Insurance](https://www.encova.com)** | **[Intern, Claims](https://jobright.ai/jobs/info/691b710315b415636718f064?utm_campaign=1055&utm_source=git)** | USA (Limited States) | Remote | Nov 17 |
 | **[EQUES LAW PA](https://equeslaw.us/)** | **[Legal Intern](https://jobright.ai/jobs/info/691b64cc22a2cb4b9bd1204e?utm_campaign=1055&utm_source=git)** | Wellington, FL | On Site | Nov 17 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Information Security Risk and Compliance Intern](https://jobright.ai/jobs/info/691b4a9cbcdbf3560c9dda4a?utm_campaign=1055&utm_source=git)** | NA / NY New York-25 Madison 37.5 | On Site | Nov 17 |
-| **[PSEG](https://www.pseg.com)** | **[Summer 2026 Law Intern - Law Department](https://jobright.ai/jobs/info/690e9fbbd046ab6061cff71a?utm_campaign=1055&utm_source=git)** | Newark, NJ | On Site | Nov 17 |
 | **[Richmond National](https://richmondnational.com)** | **[Legal Internship](https://jobright.ai/jobs/info/68dfef38f758fe1f97e4801b?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | On Site | Nov 17 |
 | **[Santander](https://www.santander.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/691b392922a2cb4b9bd10cdb?utm_campaign=1055&utm_source=git)** | Boston | On Site | Nov 17 |
 | **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Law Clerk - Internship](https://jobright.ai/jobs/info/68fe5bece04ac838fb5b407c?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | Hybrid | Nov 17 |
@@ -82,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[The Jeffcoat Firm](https://scinjurylawfirm.com)** | **[Internship - Spring 2026](https://jobright.ai/jobs/info/691a76ff45fb6f5ead8ab83a?utm_campaign=1055&utm_source=git)** | Columbia,SC,US | On Site | Nov 16 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern - Compliance (Spring)](https://jobright.ai/jobs/info/691b8be322a2cb4b9bd13755?utm_campaign=1055&utm_source=git)** | Abilene, TX | On Site | Nov 16 |
 | **[State of Florida](http://www.myflorida.com)** | **[SENIOR CONSUMER SERVICE ANALYST - 42005195 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/691ba26b22a2cb4b9bd147a6?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Nov 16 |
+| **[Harrison LLP](https://www.harrisonheld.com/)** | **[Summer 2026 Legal Intern - Estate Planning & Estate Administration](https://jobright.ai/jobs/info/691bc6b715b4156367192aca?utm_campaign=1055&utm_source=git)** | Burlingame, CA | On Site | Nov 16 |
 | **[CN](http://www.cn.ca)** | **[Intern, Legal - Indigenous- EN](https://jobright.ai/jobs/info/691a4f3215b4156367188440?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 16 |
 | **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[Law Clerk Intern, Summer 2026](https://jobright.ai/jobs/info/691a48db45fb6f5ead8ab512?utm_campaign=1055&utm_source=git)** | Arden Hills, MN (USA) | Hybrid | Nov 16 |
 | **[Mission Action](https://www.missionaction.org/)** | **[Legal Internship Opportunities Summer 2026 Law Student Clerk](https://jobright.ai/jobs/info/691a2f4dbcdbf3560c9d7f10?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 16 |
@@ -128,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Internship- Compliance and Risk](https://jobright.ai/jobs/info/6917d58abcdbf3560c9cbd69?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship- Compliance and Risk](https://jobright.ai/jobs/info/6917d43315b415636717bee5?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Risk Solutions Claims Intern - Summer 2026](https://jobright.ai/jobs/info/6917c9fd45fb6f5ead89e9fb?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Nov 14 |
-| **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship - ITS Risk & Compliance](https://jobright.ai/jobs/info/6917c7c7bcdbf3560c9cb4fd?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/691545049c388539cbdf1fce?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[Ranger Power](https://www.rangerpower.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6917befd15b415636717b1a5?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 14 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Internship - ITS Risk & Compliance](https://jobright.ai/jobs/info/6917b77345fb6f5ead89decf?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Risk Control Property Intern](https://jobright.ai/jobs/info/68fb397f3c99cc1d96029e28?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Nov 14 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/68fa98c7b2c86843bf20fe80?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Nov 14 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/68c216274d652f044775cf64?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 14 |
-| **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fae6cf8d32c164778cc61d?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Nov 14 |
-| **[State of Missouri](http://mo.gov)** | **[2026 Summer Intern - Springfield Right of Way](https://jobright.ai/jobs/info/68dd6f1d44d32141e0bf6ad4?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
