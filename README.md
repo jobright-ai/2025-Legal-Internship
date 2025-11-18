@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Cash Compliance & Controls (C3) Intern (Charlotte, Summer 26, Hybrid)](https://jobright.ai/jobs/info/691bed1cbcdbf3560c9e4075?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Nov 17 |
 | **[USA Baseball](http://www.usabaseball.com)** | **[Intern, Athlete Safety (Arizona)](https://jobright.ai/jobs/info/691bddf522a2cb4b9bd16e83?utm_campaign=1055&utm_source=git)** | Surprise, AZ | On Site | Nov 17 |
 | **[Santander](https://www.santander.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/691bcef022a2cb4b9bd164ba?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 17 |
+| **[USA Baseball](http://www.usabaseball.com)** | **[Intern, Athlete Safety (North Carolina)](https://jobright.ai/jobs/info/691c2c40bcdbf3560c9e60eb?utm_campaign=1055&utm_source=git)** | Cary, NC | On Site | Nov 17 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship - ITS Risk & Compliance](https://jobright.ai/jobs/info/6917c7c7bcdbf3560c9cb4fd?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 17 |
 | ↳ | **[Summer Internship- Compliance and Risk](https://jobright.ai/jobs/info/6917d43315b415636717bee5?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 17 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Global Regulatory Affairs Intern](https://jobright.ai/jobs/info/691b9fcd15b4156367191049?utm_campaign=1055&utm_source=git)** | Portage, MI | On Site | Nov 17 |
@@ -82,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Law Clerk - Internship](https://jobright.ai/jobs/info/68fe5bece04ac838fb5b407c?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | Hybrid | Nov 17 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Salt Lake City, UT CLC](https://jobright.ai/jobs/info/691acd1a15b415636718ac49?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 17 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/690acd8dbcccf20de59e6408?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Nov 17 |
+| **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[Law Clerk Intern, Summer 2026](https://jobright.ai/jobs/info/691c3704ff70244984166cde?utm_campaign=1055&utm_source=git)** | Arden Hills, MN | Hybrid | Nov 17 |
 | **[The Jeffcoat Firm](https://scinjurylawfirm.com)** | **[Internship - Spring 2026](https://jobright.ai/jobs/info/691b0a9a15b415636718c9b0?utm_campaign=1055&utm_source=git)** | Columbia, SC | On Site | Nov 16 |
 | **[NinjaHoldings](https://www.ninjaholdings.com/)** | **[In-House Summer Legal Intern](https://jobright.ai/jobs/info/691ace4bbcdbf3560c9dab23?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 16 |
 | ↳ | **[Compliance Summer Intern](https://jobright.ai/jobs/info/691ac8fb15b415636718a8ea?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2026 Internship - Legal (Contracts Associate)](https://jobright.ai/jobs/info/69176e833ea85638ae1ca957?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Nov 14 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/68defb1d44d32141e0c04796?utm_campaign=1055&utm_source=git)** | Irvine, CA | Hybrid | Nov 14 |
 | **[Robinhood](https://www.robinhood.com)** | **[Enterprise Risk Management Intern (Summer 2026)](https://jobright.ai/jobs/info/690918d64a1b456627afc643?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Nov 14 |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/68cdb92e1ad6b16f0289e426?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Nov 14 |
-| **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Spring 2026](https://jobright.ai/jobs/info/68a6239933dd7158bbc9e317?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
