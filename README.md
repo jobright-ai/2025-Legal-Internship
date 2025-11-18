@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Global Regulatory Affairs Intern](https://jobright.ai/jobs/info/691b9fcd15b4156367191049?utm_campaign=1055&utm_source=git)** | Portage, MI | On Site | Nov 17 |
+| **[FirstEnroll](https://www.firstenroll.com/)** | **[Legal Intern (Part-Time)](https://jobright.ai/jobs/info/691b9a5a15b4156367190bf7?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | On Site | Nov 17 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[2026 Summer Internship - Legal](https://jobright.ai/jobs/info/691b88f315b415636718ff16?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 17 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Legal Internships – Summer 2026](https://jobright.ai/jobs/info/691b9fc122a2cb4b9bd14603?utm_campaign=1055&utm_source=git)** | Universal City, CA | Hybrid | Nov 17 |
+| **[Encova Insurance](https://www.encova.com)** | **[Intern, Claims](https://jobright.ai/jobs/info/691ba29622a2cb4b9bd147ce?utm_campaign=1055&utm_source=git)** | North Carolina, United States | Remote | Nov 17 |
+| **[Sony](https://www.sony.com)** | **[Information Security Risk and Compliance Intern](https://jobright.ai/jobs/info/691b9e0bbcdbf3560c9e0c88?utm_campaign=1055&utm_source=git)** | Buffalo-Niagara Area | On Site | Nov 17 |
+| **[ADM](http://www.adm.com)** | **[ADMIS Compliance Intern - Chicago IL](https://jobright.ai/jobs/info/691ba21c15b41563671911f4?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 17 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Complaints Management - Compliance](https://jobright.ai/jobs/info/691b75f915b415636718f355?utm_campaign=1055&utm_source=git)** | Raleigh, North Carolina | Hybrid | Nov 17 |
 | **[Encova Insurance](https://www.encova.com)** | **[Intern, Claims](https://jobright.ai/jobs/info/691b710315b415636718f064?utm_campaign=1055&utm_source=git)** | USA (Limited States) | Remote | Nov 17 |
 | **[EQUES LAW PA](https://equeslaw.us/)** | **[Legal Intern](https://jobright.ai/jobs/info/691b64cc22a2cb4b9bd1204e?utm_campaign=1055&utm_source=git)** | Wellington, FL | On Site | Nov 17 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Information Security Risk and Compliance Intern](https://jobright.ai/jobs/info/691b4a9cbcdbf3560c9dda4a?utm_campaign=1055&utm_source=git)** | NA / NY New York-25 Madison 37.5 | On Site | Nov 17 |
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 Law Intern - Law Department](https://jobright.ai/jobs/info/690e9fbbd046ab6061cff71a?utm_campaign=1055&utm_source=git)** | Newark, NJ | On Site | Nov 17 |
+| **[Richmond National](https://richmondnational.com)** | **[Legal Internship](https://jobright.ai/jobs/info/68dfef38f758fe1f97e4801b?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | On Site | Nov 17 |
 | **[Santander](https://www.santander.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/691b392922a2cb4b9bd10cdb?utm_campaign=1055&utm_source=git)** | Boston | On Site | Nov 17 |
 | **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Law Clerk - Internship](https://jobright.ai/jobs/info/68fe5bece04ac838fb5b407c?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | Hybrid | Nov 17 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Records & Information Services](https://jobright.ai/jobs/info/691b03d2bcdbf3560c9dc4be?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Nov 17 |
@@ -74,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Tourism, Arts, & Heritage - Legal](https://jobright.ai/jobs/info/68f913c36de2db04dc3e5173?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Nov 16 |
 | **[The Jeffcoat Firm](https://scinjurylawfirm.com)** | **[Internship - Spring 2026](https://jobright.ai/jobs/info/691a76ff45fb6f5ead8ab83a?utm_campaign=1055&utm_source=git)** | Columbia,SC,US | On Site | Nov 16 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern - Compliance (Spring)](https://jobright.ai/jobs/info/691b8be322a2cb4b9bd13755?utm_campaign=1055&utm_source=git)** | Abilene, TX | On Site | Nov 16 |
+| **[State of Florida](http://www.myflorida.com)** | **[SENIOR CONSUMER SERVICE ANALYST - 42005195 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/691ba26b22a2cb4b9bd147a6?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Nov 16 |
 | **[CN](http://www.cn.ca)** | **[Intern, Legal - Indigenous- EN](https://jobright.ai/jobs/info/691a4f3215b4156367188440?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 16 |
 | **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[Law Clerk Intern, Summer 2026](https://jobright.ai/jobs/info/691a48db45fb6f5ead8ab512?utm_campaign=1055&utm_source=git)** | Arden Hills, MN (USA) | Hybrid | Nov 16 |
 | **[Mission Action](https://www.missionaction.org/)** | **[Legal Internship Opportunities Summer 2026 Law Student Clerk](https://jobright.ai/jobs/info/691a2f4dbcdbf3560c9d7f10?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 16 |
@@ -92,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Ethics and Compliance Intern](https://jobright.ai/jobs/info/68fc17c593c49825ab109a48?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 15 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Regulatory Summer Internship / Mississauga, ON, Canada](https://jobright.ai/jobs/info/6918a703bcdbf3560c9d31d0?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Nov 15 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/68c42ff514bb275ce01915b0?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | Hybrid | Nov 15 |
-| **[Richmond National](https://richmondnational.com)** | **[Legal Internship](https://jobright.ai/jobs/info/68dfef38f758fe1f97e4801b?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | On Site | Nov 15 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Compliance (Year-Round)](https://jobright.ai/jobs/info/68c49d76e471ef3ce16d7bac?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 15 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Compliance, Audit & Risk Management Summer Internship](https://jobright.ai/jobs/info/68ea0185cfc08e49089145d3?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Legal) - 2 Positions](https://jobright.ai/jobs/info/690cdb28221b890c2780074b?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Nov 15 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/68c216274d652f044775cf64?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 14 |
 | **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fae6cf8d32c164778cc61d?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Nov 14 |
 | **[State of Missouri](http://mo.gov)** | **[2026 Summer Intern - Springfield Right of Way](https://jobright.ai/jobs/info/68dd6f1d44d32141e0bf6ad4?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Nov 14 |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Risk Management - Fraud](https://jobright.ai/jobs/info/6917325d370fde633d07e3f3?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Nov 14 |
-| ↳ | **[Intern - Risk Management - Fraud](https://jobright.ai/jobs/info/691779353ea85638ae1cae63?utm_campaign=1055&utm_source=git)** | Effingham, Illinois | On Site | Nov 14 |
-| **[Type One Energy](https://www.typeoneenergy.com)** | **[Summer Internship- Intellectual Property](https://jobright.ai/jobs/info/6916e5186f36db06ef05a921?utm_campaign=1055&utm_source=git)** | Knoxville, TN | Hybrid | Nov 14 |
-| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Privacy Compliance Intern](https://jobright.ai/jobs/info/691ab28b45fb6f5ead8ad02e?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Nov 13 |
-| **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Risk Management Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6916af8b9c388539cbdfdf87?utm_campaign=1055&utm_source=git)** | North Las Vegas, NV | On Site | Nov 13 |
-| **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Immigration Specialist (Internship)](https://jobright.ai/jobs/info/69169dca286ccf0a15137f37?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 13 |
-| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Third Party Risk Management Intern](https://jobright.ai/jobs/info/691a95ae45fb6f5ead8ac18b?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
