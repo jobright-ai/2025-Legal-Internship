@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Divergent](http://www.divergent3d.com)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/691ca3e5bcdbf3560c9e867f?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 18 |
+| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ccf58b77add66568abc9bc?utm_campaign=1055&utm_source=git)** | New Brunswick, NJ | On Site | Nov 18 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/68c9550995f5211cd2cefafc?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Nov 18 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68cf4676846f0b04af6801ca?utm_campaign=1055&utm_source=git)** | Wilson, NC | On Site | Nov 18 |
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68cd82c71ad6b16f0289aae1?utm_campaign=1055&utm_source=git)** | Horsham, PA | On Site | Nov 18 |
+| **[Reading Partners](https://readingpartners.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/68ffd7b9e04ac838fb5bc2e7?utm_campaign=1055&utm_source=git)** | Oakland, CA | Remote | Nov 18 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Legal Intern](https://jobright.ai/jobs/info/691c73c9ff70244984167eea?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 18 |
 | **[Kimball Electronics](http://www.kimballelectronics.com)** | **[Legal Analyst Intern](https://jobright.ai/jobs/info/68ec9fa7c26b9574506f56d7?utm_campaign=1055&utm_source=git)** | Jasper, IN | On Site | Nov 18 |
 | **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Drug Product Supply Risk Management](https://jobright.ai/jobs/info/68fee8b3e0c73b3a11198652?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Nov 18 |
 | **[Amrize](http://www.amrize.com)** | **[Risk Management Intern (Summer 2026)](https://jobright.ai/jobs/info/6916130a9c388539cbdf791d?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
 | **[TruStage](https://www.trustage.com/)** | **[Legal Compliance Intern (Hybrid)](https://jobright.ai/jobs/info/68c9d234f9c6ff7aedf1e258?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Nov 18 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Legal / Media Law and First Amendment](https://jobright.ai/jobs/info/68e47c7db99ec3563b0eacef?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 18 |
 | **[Oatey Company](https://www.oatey.com//)** | **[International Trade Compliance Intern](https://jobright.ai/jobs/info/68acbb60758f2e4ac30082e7?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Nov 18 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern – Go to Market Legal](https://jobright.ai/jobs/info/68e44a43b99ec3563b0e8c3c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 18 |
 | **[Lennox](http://www.lennox.com)** | **[Summer 2026 Business Compliance Intern](https://jobright.ai/jobs/info/69004bd9e04ac838fb5c13b3?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Nov 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Law & Crime](https://lawandcrime.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6917df4f15b415636717c547?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Nov 14 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Internship - Legal](https://jobright.ai/jobs/info/6917ca8f45fb6f5ead89ea4e?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
 | **[Viasat](http://www.viasat.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69179b76bcdbf3560c9c94fb?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 14 |
-| **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[US Policy and Advocacy 2026 Summer Legal Associate (Assisted Reproduction)](https://jobright.ai/jobs/info/69179b4a45fb6f5ead89ca2f?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Nov 14 |
-| **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/691787d515b4156367178aaf?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Nov 14 |
-| **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[US Policy and Advocacy 2026 Summer Legal Associate (Assisted Reproduction)](https://jobright.ai/jobs/info/6917a3c2bcdbf3560c9c9b26?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Nov 14 |
-| **[Warner Norcross + Judd](http://wnj.com)** | **[Summer Associate Law Clerk](https://jobright.ai/jobs/info/69177ab8bcdbf3560c9c8082?utm_campaign=1055&utm_source=git)** | Michigan, United States | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
