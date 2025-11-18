@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/691ce5f222a2cb4b9bd1e68e?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Nov 18 |
+| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/691ce729ff7024498416b976?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Nov 18 |
 | **[Jabil](https://www.jabil.com)** | **[Trade Compliance Legal Intern](https://jobright.ai/jobs/info/691cc681ff7024498416a375?utm_campaign=1055&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Nov 18 |
 | **[Harvard Immigration and Refugee Clinical Program](https://harvardimmigrationclinic.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/691cc34722a2cb4b9bd1cf76?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Nov 18 |
 | **[International Monetary Fund](http://www.imf.org/)** | **[2026 Fund Internship Program (FIP) - Legal Department](https://jobright.ai/jobs/info/691cbdb3bcdbf3560c9e944e?utm_campaign=1055&utm_source=git)** | USA, Washington DC | On Site | Nov 18 |
+| **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Nov 18 |
 | **[Divergent](http://www.divergent3d.com)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/691ca3e5bcdbf3560c9e867f?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 18 |
+| ↳ | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/691cdb90ff7024498416b320?utm_campaign=1055&utm_source=git)** | Torrance, California, United States | On Site | Nov 18 |
 | **[Jones Day](http://www.jonesday.com/)** | **[IP Legal Intern Electrical Engineering & Computer Science - PITTSBURGH, SAN DIEGO](https://jobright.ai/jobs/info/691cbebfbcdbf3560c9e9516?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 18 |
 | ↳ | **[IP Legal Intern - ATLANTA, BOSTON, NEW YORK, PITTSBURGH, SAN DIEGO, SILICON VALLEY](https://jobright.ai/jobs/info/691cba6e22a2cb4b9bd1c8e5?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 18 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ccf58b77add66568abc9bc?utm_campaign=1055&utm_source=git)** | New Brunswick, NJ | On Site | Nov 18 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Enterprise Risk Management](https://jobright.ai/jobs/info/691827a2bcdbf3560c9cf0dd?utm_campaign=1055&utm_source=git)** | UNO Center - New Orleans, LA | On Site | Nov 14 |
 | ↳ | **[Summer Intern- Bank Secrecy Act](https://jobright.ai/jobs/info/6918267a45fb6f5ead8a233b?utm_campaign=1055&utm_source=git)** | UNO Center - New Orleans, LA | On Site | Nov 14 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/6915174e9c388539cbdf062e?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 14 |
-| **[Ion Bank](http://ionbank.com)** | **[BSA Intern](https://jobright.ai/jobs/info/69180f5815b415636717e4c0?utm_campaign=1055&utm_source=git)** | Naugatuck, CT | On Site | Nov 14 |
 | **[Teachers Federal Credit Union](http://www.teachersfcu.org)** | **[2026 Legal Intern](https://jobright.ai/jobs/info/6917e5eb45fb6f5ead89fa3b?utm_campaign=1055&utm_source=git)** | Hauppauge, NY | On Site | Nov 14 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Rising 2L (Intern) - United States](https://jobright.ai/jobs/info/6917e47315b415636717c870?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
 | **[Unilever](http://www.unilever.com)** | **[Unilever US Summer Intern Program - Litigation & Business Integrity Legal Intern](https://jobright.ai/jobs/info/6917e325bcdbf3560c9cc56c?utm_campaign=1055&utm_source=git)** | Hoboken, NJ | Hybrid | Nov 14 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/6917d81845fb6f5ead89f233?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 14 |
 | **[Rapiscan Systems](http://www.rapiscansystems.com/)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/6917d76815b415636717c111?utm_campaign=1055&utm_source=git)** | Billerica, MA | On Site | Nov 14 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship - Legal](https://jobright.ai/jobs/info/6917d651bcdbf3560c9cbe15?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Internship- Compliance and Risk](https://jobright.ai/jobs/info/6917d58abcdbf3560c9cbd69?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
-| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Risk Solutions Claims Intern - Summer 2026](https://jobright.ai/jobs/info/6917c9fd45fb6f5ead89e9fb?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Nov 14 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/691545049c388539cbdf1fce?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
