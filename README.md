@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/68c9550995f5211cd2cefafc?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Nov 18 |
+| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68cf4676846f0b04af6801ca?utm_campaign=1055&utm_source=git)** | Wilson, NC | On Site | Nov 18 |
+| ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68cd82c71ad6b16f0289aae1?utm_campaign=1055&utm_source=git)** | Horsham, PA | On Site | Nov 18 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Legal Intern](https://jobright.ai/jobs/info/691c73c9ff70244984167eea?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 18 |
 | **[Kimball Electronics](http://www.kimballelectronics.com)** | **[Legal Analyst Intern](https://jobright.ai/jobs/info/68ec9fa7c26b9574506f56d7?utm_campaign=1055&utm_source=git)** | Jasper, IN | On Site | Nov 18 |
+| **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Drug Product Supply Risk Management](https://jobright.ai/jobs/info/68fee8b3e0c73b3a11198652?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Nov 18 |
 | **[Amrize](http://www.amrize.com)** | **[Risk Management Intern (Summer 2026)](https://jobright.ai/jobs/info/6916130a9c388539cbdf791d?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
 | **[TruStage](https://www.trustage.com/)** | **[Legal Compliance Intern (Hybrid)](https://jobright.ai/jobs/info/68c9d234f9c6ff7aedf1e258?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Nov 18 |
 | **[Oatey Company](https://www.oatey.com//)** | **[International Trade Compliance Intern](https://jobright.ai/jobs/info/68acbb60758f2e4ac30082e7?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Nov 18 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern – Go to Market Legal](https://jobright.ai/jobs/info/68e44a43b99ec3563b0e8c3c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 18 |
+| **[Lennox](http://www.lennox.com)** | **[Summer 2026 Business Compliance Intern](https://jobright.ai/jobs/info/69004bd9e04ac838fb5c13b3?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Nov 18 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern](https://jobright.ai/jobs/info/68f78d9c5dc1be60128159a5?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Nov 17 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Cash Compliance & Controls (C3) Intern (Charlotte, Summer 26, Hybrid)](https://jobright.ai/jobs/info/691bed1cbcdbf3560c9e4075?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Nov 17 |
 | **[USA Baseball](http://www.usabaseball.com)** | **[Intern, Athlete Safety (Arizona)](https://jobright.ai/jobs/info/691bddf522a2cb4b9bd16e83?utm_campaign=1055&utm_source=git)** | Surprise, AZ | On Site | Nov 17 |
@@ -75,7 +81,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern – Regulatory Affairs – Michigan](https://jobright.ai/jobs/info/691bc1a522a2cb4b9bd15b44?utm_campaign=1055&utm_source=git)** | Portage, MI | On Site | Nov 17 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[2026 Summer Internship - Legal](https://jobright.ai/jobs/info/691b88f315b415636718ff16?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 17 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Complaints Management - Compliance](https://jobright.ai/jobs/info/691bddaf22a2cb4b9bd16e63?utm_campaign=1055&utm_source=git)** | Raleigh, NC | Hybrid | Nov 17 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Legal Internships – Summer 2026](https://jobright.ai/jobs/info/691b9fc122a2cb4b9bd14603?utm_campaign=1055&utm_source=git)** | Universal City, CA | Hybrid | Nov 17 |
 | **[Encova Insurance](https://www.encova.com)** | **[Intern, Claims](https://jobright.ai/jobs/info/691ba29622a2cb4b9bd147ce?utm_campaign=1055&utm_source=git)** | North Carolina, United States | Remote | Nov 17 |
 | **[Sony](https://www.sony.com)** | **[Information Security Risk and Compliance Intern](https://jobright.ai/jobs/info/691b9e0bbcdbf3560c9e0c88?utm_campaign=1055&utm_source=git)** | Buffalo-Niagara Area | On Site | Nov 17 |
 | **[ADM](http://www.adm.com)** | **[ADMIS Compliance Intern - Chicago IL](https://jobright.ai/jobs/info/691ba21c15b41563671911f4?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 17 |
@@ -131,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Enterprise Risk Management](https://jobright.ai/jobs/info/691827a2bcdbf3560c9cf0dd?utm_campaign=1055&utm_source=git)** | UNO Center - New Orleans, LA | On Site | Nov 14 |
 | ↳ | **[Summer Intern- Bank Secrecy Act](https://jobright.ai/jobs/info/6918267a45fb6f5ead8a233b?utm_campaign=1055&utm_source=git)** | UNO Center - New Orleans, LA | On Site | Nov 14 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/6915174e9c388539cbdf062e?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 14 |
-| **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/69183648bcdbf3560c9cfb67?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Nov 14 |
 | **[Ion Bank](http://ionbank.com)** | **[BSA Intern](https://jobright.ai/jobs/info/69180f5815b415636717e4c0?utm_campaign=1055&utm_source=git)** | Naugatuck, CT | On Site | Nov 14 |
 | **[Teachers Federal Credit Union](http://www.teachersfcu.org)** | **[2026 Legal Intern](https://jobright.ai/jobs/info/6917e5eb45fb6f5ead89fa3b?utm_campaign=1055&utm_source=git)** | Hauppauge, NY | On Site | Nov 14 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Rising 2L (Intern) - United States](https://jobright.ai/jobs/info/6917e47315b415636717c870?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/691787d515b4156367178aaf?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Nov 14 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[US Policy and Advocacy 2026 Summer Legal Associate (Assisted Reproduction)](https://jobright.ai/jobs/info/6917a3c2bcdbf3560c9c9b26?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Nov 14 |
 | **[Warner Norcross + Judd](http://wnj.com)** | **[Summer Associate Law Clerk](https://jobright.ai/jobs/info/69177ab8bcdbf3560c9c8082?utm_campaign=1055&utm_source=git)** | Michigan, United States | On Site | Nov 14 |
-| **[Sony](https://www.sony.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68fb9a62f55bb021a889ab7e?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Nov 14 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Democracy Legal Internship, NY](https://jobright.ai/jobs/info/68e24fd6b99ec3563b0dc242?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 14 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c6e5597d0db4114273b4f9?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 14 |
-| **[AARP](http://www.aarp.org)** | **[Foundation Litigation Intern (Summer 2026)](https://jobright.ai/jobs/info/68c9c1baa0c52d598ea3afa2?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
