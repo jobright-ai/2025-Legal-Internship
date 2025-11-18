@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[USA Baseball](http://www.usabaseball.com)** | **[Intern, Athlete Safety (Arizona)](https://jobright.ai/jobs/info/691bddf522a2cb4b9bd16e83?utm_campaign=1055&utm_source=git)** | Surprise, AZ | On Site | Nov 17 |
+| **[Santander](https://www.santander.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/691bcef022a2cb4b9bd164ba?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 17 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship - ITS Risk & Compliance](https://jobright.ai/jobs/info/6917c7c7bcdbf3560c9cb4fd?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 17 |
+| ↳ | **[Summer Internship- Compliance and Risk](https://jobright.ai/jobs/info/6917d43315b415636717bee5?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 17 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Global Regulatory Affairs Intern](https://jobright.ai/jobs/info/691b9fcd15b4156367191049?utm_campaign=1055&utm_source=git)** | Portage, MI | On Site | Nov 17 |
 | **[FirstEnroll](https://www.firstenroll.com/)** | **[Legal Intern (Part-Time)](https://jobright.ai/jobs/info/691b9a5a15b4156367190bf7?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | On Site | Nov 17 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Regulatory Affairs](https://jobright.ai/jobs/info/691bc38815b415636719282d?utm_campaign=1055&utm_source=git)** | Bloomington, MN | On Site | Nov 17 |
 | ↳ | **[2026 Summer Intern – Regulatory Affairs – Michigan](https://jobright.ai/jobs/info/691bc1a522a2cb4b9bd15b44?utm_campaign=1055&utm_source=git)** | Portage, MI | On Site | Nov 17 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[2026 Summer Internship - Legal](https://jobright.ai/jobs/info/691b88f315b415636718ff16?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 17 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Complaints Management - Compliance](https://jobright.ai/jobs/info/691bddaf22a2cb4b9bd16e63?utm_campaign=1055&utm_source=git)** | Raleigh, NC | Hybrid | Nov 17 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Legal Internships – Summer 2026](https://jobright.ai/jobs/info/691b9fc122a2cb4b9bd14603?utm_campaign=1055&utm_source=git)** | Universal City, CA | Hybrid | Nov 17 |
 | **[Encova Insurance](https://www.encova.com)** | **[Intern, Claims](https://jobright.ai/jobs/info/691ba29622a2cb4b9bd147ce?utm_campaign=1055&utm_source=git)** | North Carolina, United States | Remote | Nov 17 |
 | **[Sony](https://www.sony.com)** | **[Information Security Risk and Compliance Intern](https://jobright.ai/jobs/info/691b9e0bbcdbf3560c9e0c88?utm_campaign=1055&utm_source=git)** | Buffalo-Niagara Area | On Site | Nov 17 |
@@ -129,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Rapiscan Systems](http://www.rapiscansystems.com/)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/6917d76815b415636717c111?utm_campaign=1055&utm_source=git)** | Billerica, MA | On Site | Nov 14 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship - Legal](https://jobright.ai/jobs/info/6917d651bcdbf3560c9cbe15?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Internship- Compliance and Risk](https://jobright.ai/jobs/info/6917d58abcdbf3560c9cbd69?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
-| **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship- Compliance and Risk](https://jobright.ai/jobs/info/6917d43315b415636717bee5?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Risk Solutions Claims Intern - Summer 2026](https://jobright.ai/jobs/info/6917c9fd45fb6f5ead89e9fb?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Nov 14 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/691545049c388539cbdf1fce?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[Ranger Power](https://www.rangerpower.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6917befd15b415636717b1a5?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Robinhood](https://www.robinhood.com)** | **[Enterprise Risk Management Intern (Summer 2026)](https://jobright.ai/jobs/info/690918d64a1b456627afc643?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Nov 14 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/68cdb92e1ad6b16f0289e426?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Nov 14 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Spring 2026](https://jobright.ai/jobs/info/68a6239933dd7158bbc9e317?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 14 |
-| **[Travelers](https://www.travelers.com)** | **[Risk Control Property Intern](https://jobright.ai/jobs/info/68fb397f3c99cc1d96029e28?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Nov 14 |
-| **[IDEMIA](https://www.idemia.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/68fa98c7b2c86843bf20fe80?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Nov 14 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/68c216274d652f044775cf64?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
