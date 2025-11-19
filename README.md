@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grammarly](https://www.grammarly.com/jobs/)** | **[Privacy Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/691d05babcdbf3560c9ec75d?utm_campaign=1055&utm_source=git)** | San Francisco | On Site | Nov 18 |
+| ↳ | **[Corporate Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/691d052b22a2cb4b9bd1fe10?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 18 |
+| **[Organon](https://www.organon.com)** | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/691cec1bbcdbf3560c9eb330?utm_campaign=1055&utm_source=git)** | USA - New Jersey - Jersey City | Hybrid | Nov 18 |
+| ↳ | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/691ceb14ff7024498416bcd2?utm_campaign=1055&utm_source=git)** | USA - Pennsylvania - Plymouth Meeting | Hybrid | Nov 18 |
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/691ce5f222a2cb4b9bd1e68e?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Nov 18 |
+| **[Grammarly](https://www.grammarly.com/jobs/)** | **[Corporate Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/691cfd6cbcdbf3560c9ec10e?utm_campaign=1055&utm_source=git)** | San Francisco | On Site | Nov 18 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Senior Claims Analyst](https://jobright.ai/jobs/info/691cef2422a2cb4b9bd1edc4?utm_campaign=1055&utm_source=git)** | Phoenix | On Site | Nov 18 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/691ce729ff7024498416b976?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Nov 18 |
 | **[Jabil](https://www.jabil.com)** | **[Trade Compliance Legal Intern](https://jobright.ai/jobs/info/691cc681ff7024498416a375?utm_campaign=1055&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Nov 18 |
 | **[Harvard Immigration and Refugee Clinical Program](https://harvardimmigrationclinic.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/691cc34722a2cb4b9bd1cf76?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Nov 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Enterprise Risk Management](https://jobright.ai/jobs/info/691827a2bcdbf3560c9cf0dd?utm_campaign=1055&utm_source=git)** | UNO Center - New Orleans, LA | On Site | Nov 14 |
 | ↳ | **[Summer Intern- Bank Secrecy Act](https://jobright.ai/jobs/info/6918267a45fb6f5ead8a233b?utm_campaign=1055&utm_source=git)** | UNO Center - New Orleans, LA | On Site | Nov 14 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/6915174e9c388539cbdf062e?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 14 |
-| **[Teachers Federal Credit Union](http://www.teachersfcu.org)** | **[2026 Legal Intern](https://jobright.ai/jobs/info/6917e5eb45fb6f5ead89fa3b?utm_campaign=1055&utm_source=git)** | Hauppauge, NY | On Site | Nov 14 |
-| **[Cisco](http://www.cisco.com)** | **[Legal Rising 2L (Intern) - United States](https://jobright.ai/jobs/info/6917e47315b415636717c870?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
-| **[Unilever](http://www.unilever.com)** | **[Unilever US Summer Intern Program - Litigation & Business Integrity Legal Intern](https://jobright.ai/jobs/info/6917e325bcdbf3560c9cc56c?utm_campaign=1055&utm_source=git)** | Hoboken, NJ | Hybrid | Nov 14 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/6917d81845fb6f5ead89f233?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 14 |
-| **[Rapiscan Systems](http://www.rapiscansystems.com/)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/6917d76815b415636717c111?utm_campaign=1055&utm_source=git)** | Billerica, MA | On Site | Nov 14 |
-| **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship - Legal](https://jobright.ai/jobs/info/6917d651bcdbf3560c9cbe15?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
