@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69013ddd4539ea1f2141e7cb?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Nov 19 |
+| **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Legal Intern (Part Time)](https://jobright.ai/jobs/info/68eb9af98369791ef7827dd2?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Nov 19 |
+| **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/690147fa4539ea1f2141eeb8?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Nov 19 |
+| ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69013ddd4539ea1f2141e7cb?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Nov 19 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68cf9afadbd9fb154ede91f5?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 19 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/690130e0d5259a1b3cff2ace?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 19 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/690160e94539ea1f2141f9bc?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Nov 19 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/69016042d5259a1b3cff47f6?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Nov 19 |
 | **[Trade Republic](https://traderepublic.com)** | **[Legal Intern](https://jobright.ai/jobs/info/691da8cd61dc50590a648ddf?utm_campaign=1055&utm_source=git)** | Headquarter | On Site | Nov 19 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69013aa2d5259a1b3cff3377?utm_campaign=1055&utm_source=git)** | Warrenville, IL | On Site | Nov 19 |
 | ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69012da8d5259a1b3cff2579?utm_campaign=1055&utm_source=git)** | Orange, CA | On Site | Nov 19 |
@@ -73,6 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Risk & Compliance Management Undergraduate Intern](https://jobright.ai/jobs/info/6906d09c122e8474c78e0f8e?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 19 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Summit, NJ CLC](https://jobright.ai/jobs/info/691a9ee945fb6f5ead8ac67f?utm_campaign=1055&utm_source=git)** | Summit, NJ | Hybrid | Nov 19 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 - Legal - Graduate Intern](https://jobright.ai/jobs/info/6916fb7dbcdbf3560c9c38f2?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 19 |
+| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Legal Advocate](https://jobright.ai/jobs/info/691dba3ead5a517034795cd1?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Nov 19 |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/690141f9f8ce7a040fdbe3f1?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 19 |
 | **[The Door - A Center of Alternatives](https://door.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/691d75ec7481340785ed7e56?utm_campaign=1055&utm_source=git)** | New York, NY, USA | On Site | Nov 18 |
 | **[Inspire](https://inspirebrands.com)** | **[Enterprise Risk & Internal Audit Internship - Summer 2026](https://jobright.ai/jobs/info/691d9bacbcdbf3560c9f1e70?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 18 |
 | **[FirstCash](https://firstcash.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/691d53e27481340785ed6a47?utm_campaign=1055&utm_source=git)** | Coppell, TX | On Site | Nov 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Tourism, Arts, & Heritage - Legal](https://jobright.ai/jobs/info/68f913c36de2db04dc3e5173?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Nov 16 |
 | **[The Jeffcoat Firm](https://scinjurylawfirm.com)** | **[Internship - Spring 2026](https://jobright.ai/jobs/info/691a76ff45fb6f5ead8ab83a?utm_campaign=1055&utm_source=git)** | Columbia,SC,US | On Site | Nov 16 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern - Compliance (Spring)](https://jobright.ai/jobs/info/691b8be322a2cb4b9bd13755?utm_campaign=1055&utm_source=git)** | Abilene, TX | On Site | Nov 16 |
-| **[State of Florida](http://www.myflorida.com)** | **[SENIOR CONSUMER SERVICE ANALYST - 42005195 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/691ba26b22a2cb4b9bd147a6?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Nov 16 |
-| **[Harrison LLP](https://www.harrisonheld.com/)** | **[Summer 2026 Legal Intern - Estate Planning & Estate Administration](https://jobright.ai/jobs/info/691bc6b715b4156367192aca?utm_campaign=1055&utm_source=git)** | Burlingame, CA | On Site | Nov 16 |
-| **[CN](http://www.cn.ca)** | **[Intern, Legal - Indigenous- EN](https://jobright.ai/jobs/info/691a4f3215b4156367188440?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 16 |
-| **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[Law Clerk Intern, Summer 2026](https://jobright.ai/jobs/info/691a48db45fb6f5ead8ab512?utm_campaign=1055&utm_source=git)** | Arden Hills, MN (USA) | Hybrid | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
