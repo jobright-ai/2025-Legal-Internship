@@ -57,15 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American First Finance](https://americanfirstfinance.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/691d2d787481340785ed4886?utm_campaign=1055&utm_source=git)** | Coppell, TX | On Site | Nov 18 |
 | **[Planned Parenthood Federation of America](http://www.plannedparenthood.org/)** | **[Policy Counsel Intern](https://jobright.ai/jobs/info/691d1b480b7dff73414ffcf6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 18 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern (Spring 26- Unpaid)](https://jobright.ai/jobs/info/691d1a437481340785ed3c3c?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Nov 18 |
+| **[Planned Parenthood Federation of America](http://www.plannedparenthood.org/)** | **[Litigation Intern](https://jobright.ai/jobs/info/691d3890bcdbf3560c9ee526?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 18 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Risk Management Intern](https://jobright.ai/jobs/info/691d0d8622a2cb4b9bd203ee?utm_campaign=1055&utm_source=git)** | Triangle Plaza 8750 W. Bryn Mawr Avenue, Chicago, IL, 60631, US | On Site | Nov 18 |
+| **[Planned Parenthood Federation of America](http://www.plannedparenthood.org/)** | **[Litigation Intern](https://jobright.ai/jobs/info/691d30cf0b7dff7341500b10?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 18 |
 | **[Grammarly](https://www.grammarly.com/jobs/)** | **[Privacy Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/691d08e4ff7024498416d2bf?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 18 |
 | ↳ | **[Privacy Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/691d05babcdbf3560c9ec75d?utm_campaign=1055&utm_source=git)** | San Francisco | On Site | Nov 18 |
 | ↳ | **[Corporate Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/691d052b22a2cb4b9bd1fe10?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 18 |
+| **[Chubb](https://www.chubb.com/us-en)** | **[Risk Management Intern](https://jobright.ai/jobs/info/691d20fabcdbf3560c9ed75a?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
+| **[National Women's Law Center](http://www.nwlc.org/)** | **[2026 Spring Internship - Reproductive Rights and Health (law student)](https://jobright.ai/jobs/info/691d210dbcdbf3560c9ed767?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Nov 18 |
 | **[Organon](https://www.organon.com)** | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/691cec1bbcdbf3560c9eb330?utm_campaign=1055&utm_source=git)** | USA - New Jersey - Jersey City | Hybrid | Nov 18 |
 | ↳ | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/691ceb14ff7024498416bcd2?utm_campaign=1055&utm_source=git)** | USA - Pennsylvania - Plymouth Meeting | Hybrid | Nov 18 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[Contractor Assurance/Program Compliance Summer Intern](https://jobright.ai/jobs/info/690a7a7ad046ab6061cdd37c?utm_campaign=1055&utm_source=git)** | Aiken, SC | On Site | Nov 18 |
+| **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Corporate Legal](https://jobright.ai/jobs/info/691d286d7481340785ed453a?utm_campaign=1055&utm_source=git)** | Chesterfield, MO | Hybrid | Nov 18 |
 | **[Grammarly](https://www.grammarly.com/jobs/)** | **[Corporate Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/691cfd6cbcdbf3560c9ec10e?utm_campaign=1055&utm_source=git)** | San Francisco | On Site | Nov 18 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Senior Claims Analyst](https://jobright.ai/jobs/info/691cef2422a2cb4b9bd1edc4?utm_campaign=1055&utm_source=git)** | Phoenix | On Site | Nov 18 |
 | **[Jabil](https://www.jabil.com)** | **[Trade Compliance Legal Intern](https://jobright.ai/jobs/info/691d05f522a2cb4b9bd1fea7?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Nov 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Compliance, Audit & Risk Management Summer Internship](https://jobright.ai/jobs/info/68ea0185cfc08e49089145d3?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Legal) - 2 Positions](https://jobright.ai/jobs/info/690cdb28221b890c2780074b?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Nov 15 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Contracts & Proposals Intern](https://jobright.ai/jobs/info/68fbe160f55bb021a889d7fe?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Nov 15 |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6918926515b4156367182da3?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Nov 15 |
-| **[Group 1001](https://group1001.com/)** | **[Legal Intern (2026)](https://jobright.ai/jobs/info/68fbf6b293c49825ab107f86?utm_campaign=1055&utm_source=git)** | Zionsville, IN | On Site | Nov 15 |
-| **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/690d13244a1b456627b1d58c?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Nov 15 |
-| **[CAS](http://www.cas.org)** | **[CAS 2026 Legal Summer Intern](https://jobright.ai/jobs/info/68cf6388fb49c96ca6ea824f?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Nov 15 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/68c475e0e396b25cb5c6843a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
-| **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Enterprise Risk Management](https://jobright.ai/jobs/info/6918528445fb6f5ead8a4a58?utm_campaign=1055&utm_source=git)** | New Orleans, LA | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
