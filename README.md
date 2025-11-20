@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[S&P Global](https://www.spglobal.com)** | **[Compliance and Risk Summer Intern](https://jobright.ai/jobs/info/691ea609a49a885af9a2a1e1?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
+| **[S&P Global](https://www.spglobal.com)** | **[Compliance and Risk Summer Intern](https://jobright.ai/jobs/info/691ead7209cc522e8773b7f5?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Summer 2026](https://jobright.ai/jobs/info/691e90efa49a885af9a29b98?utm_campaign=1055&utm_source=git)** | Cincinnati, Ohio | Hybrid | Nov 19 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern - Fall/Winter 2025-26](https://jobright.ai/jobs/info/691e7be5a49a885af9a28fc4?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 19 |
 | **[Anew Climate](https://anewclimate.com/)** | **[Ideas IP Intern](https://jobright.ai/jobs/info/691e70e13f782d2f1afb48b3?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 19 |
@@ -66,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Compliance Intern](https://jobright.ai/jobs/info/691e50d809cc522e87738d9f?utm_campaign=1055&utm_source=git)** | 6920 Seaway Blvd, Everett, WA, 98203, US | On Site | Nov 19 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Summer Legal Associate, Federal Policy and Advocacy](https://jobright.ai/jobs/info/691e4a50a49a885af9a27458?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 19 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern - Fall/Winter 2025-26](https://jobright.ai/jobs/info/691e3f8c09cc522e877380ab?utm_campaign=1055&utm_source=git)** | Los Angeles, CA USA | On Site | Nov 19 |
-| **[City of San José](http://www.sanjoseca.gov/)** | **[Attorney's Office Internship Program](https://jobright.ai/jobs/info/691e624d3f782d2f1afb449c?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Nov 19 |
 | **[Jabil](https://www.jabil.com)** | **[Legal Intern - Trade Compliance](https://jobright.ai/jobs/info/691e37ac09cc522e87737b07?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Nov 19 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Legal Internships – Summer 2026](https://jobright.ai/jobs/info/691e365709cc522e8773799f?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 19 |
 | **[Sensient Technologies Corporation](http://sensient.com)** | **[Intern - Regulatory](https://jobright.ai/jobs/info/691e2f873f782d2f1afb202d?utm_campaign=1055&utm_source=git)** | 2800 Higgins Road, Hoffman Estates, IL, 60169, US | On Site | Nov 19 |
@@ -79,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[City of Alvarado](https://cityofalvarado.org)** | **[Records Analyst - Paid Internship](https://jobright.ai/jobs/info/691e13173f782d2f1afb09c4?utm_campaign=1055&utm_source=git)** | Ellis County, TX | On Site | Nov 19 |
 | **[Koch](https://www.kochinc.com)** | **[Legal and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/690105a1d5259a1b3cff0926?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 19 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[1919 Internship - Compliance](https://jobright.ai/jobs/info/691df25f09cc522e87734079?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Nov 19 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Program Intern - UNPAID](https://jobright.ai/jobs/info/691e17973f782d2f1afb0f7a?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Nov 19 |
 | **[AARP](http://www.aarp.org)** | **[Legal Counsel for the Elderly Intern (Spring Start)](https://jobright.ai/jobs/info/69015d83f8ce7a040fdbf27e?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 19 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/68cf8933dbd9fb154ede8a66?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 19 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[1919 Internship - Compliance](https://jobright.ai/jobs/info/691e0d76a49a885af9a242f7?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 19 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68cf4676846f0b04af6801ca?utm_campaign=1055&utm_source=git)** | Wilson, NC | On Site | Nov 18 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Sales Contracts Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68e48891f758fe1f97e69411?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Nov 18 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68cd82c71ad6b16f0289aae1?utm_campaign=1055&utm_source=git)** | Horsham, PA | On Site | Nov 18 |
+| **[Reading Partners](https://readingpartners.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/68ffd7b9e04ac838fb5bc2e7?utm_campaign=1055&utm_source=git)** | Oakland, CA | Remote | Nov 18 |
+| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Legal Intern](https://jobright.ai/jobs/info/691c73c9ff70244984167eea?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
