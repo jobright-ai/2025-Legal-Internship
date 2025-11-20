@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[S&P Global](https://www.spglobal.com)** | **[Compliance and Risk Summer Intern](https://jobright.ai/jobs/info/691ead7209cc522e8773b7f5?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
+| **[S&P Global](https://www.spglobal.com)** | **[Compliance and Risk Summer Intern](https://jobright.ai/jobs/info/691ea609a49a885af9a2a1e1?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Summer 2026](https://jobright.ai/jobs/info/691e90efa49a885af9a29b98?utm_campaign=1055&utm_source=git)** | Cincinnati, Ohio | Hybrid | Nov 19 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern - Fall/Winter 2025-26](https://jobright.ai/jobs/info/691e7be5a49a885af9a28fc4?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 19 |
 | **[Anew Climate](https://anewclimate.com/)** | **[Ideas IP Intern](https://jobright.ai/jobs/info/691e70e13f782d2f1afb48b3?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 19 |
@@ -98,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Safety](https://jobright.ai/jobs/info/68aced9fdaf1431824c991e7?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Nov 19 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69013ddd4539ea1f2141e7cb?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Nov 19 |
 | ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/690130e0d5259a1b3cff2ace?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 19 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/69016042d5259a1b3cff47f6?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Nov 19 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/690160e94539ea1f2141f9bc?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Nov 19 |
 | **[Trade Republic](https://traderepublic.com)** | **[Legal Intern](https://jobright.ai/jobs/info/691da8cd61dc50590a648ddf?utm_campaign=1055&utm_source=git)** | Headquarter | On Site | Nov 19 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69013aa2d5259a1b3cff3377?utm_campaign=1055&utm_source=git)** | Warrenville, IL | On Site | Nov 19 |
 | ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69012da8d5259a1b3cff2579?utm_campaign=1055&utm_source=git)** | Orange, CA | On Site | Nov 19 |
@@ -147,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Nov 18 |
 | **[Divergent](http://www.divergent3d.com)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/691ca3e5bcdbf3560c9e867f?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 18 |
 | ↳ | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/691cdb90ff7024498416b320?utm_campaign=1055&utm_source=git)** | Torrance, California, United States | On Site | Nov 18 |
-| **[Jones Day](http://www.jonesday.com/)** | **[IP Legal Intern - ATLANTA, BOSTON, NEW YORK, PITTSBURGH, SAN DIEGO, SILICON VALLEY](https://jobright.ai/jobs/info/691cba6e22a2cb4b9bd1c8e5?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 18 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ccf58b77add66568abc9bc?utm_campaign=1055&utm_source=git)** | New Brunswick, NJ | On Site | Nov 18 |
 | **[FM](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/6900a1602a6d462b1d70da0b?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Nov 18 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/68c9550995f5211cd2cefafc?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Nov 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68cd82c71ad6b16f0289aae1?utm_campaign=1055&utm_source=git)** | Horsham, PA | On Site | Nov 18 |
 | **[Reading Partners](https://readingpartners.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/68ffd7b9e04ac838fb5bc2e7?utm_campaign=1055&utm_source=git)** | Oakland, CA | Remote | Nov 18 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Legal Intern](https://jobright.ai/jobs/info/691c73c9ff70244984167eea?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 18 |
+| **[Kimball Electronics](http://www.kimballelectronics.com)** | **[Legal Analyst Intern](https://jobright.ai/jobs/info/68ec9fa7c26b9574506f56d7?utm_campaign=1055&utm_source=git)** | Jasper, IN | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
