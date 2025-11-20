@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Howmet Aerospace](https://www.howmet.com/)** | **[Intern – Ethics & Compliance](https://jobright.ai/jobs/info/68e6cf06ae2b894b1d71e09d?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 20 |
+| **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 Compliance Summer Intern](https://jobright.ai/jobs/info/68e6d46f1852e62f0081f1ca?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
 | **[BeOne Medicines](https://beonemedicines.com/)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/68cc23d3128dc347fd91fc0a?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 20 |
 | **[Frost](https://www.frostbank.com/)** | **[College Intern -  Loan Document Coordinator](https://jobright.ai/jobs/info/691f10a309cc522e8773d412?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Nov 20 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acf031d627244576e49fc9?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 20 |
@@ -83,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[BitGo](http://www.bitgo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/691e1d933f782d2f1afb1363?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Nov 19 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Legal Internships – Summer 2026](https://jobright.ai/jobs/info/691e3d373f782d2f1afb2dbe?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Nov 19 |
 | ↳ | **[Legal Internships – Summer 2026](https://jobright.ai/jobs/info/691e3e80a49a885af9a26cbf?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 19 |
+| **[pSemi, A Murata Company](http://www.psemi.com)** | **[Intern, Intellectual Property Licensing - Summer 2026](https://jobright.ai/jobs/info/691e1dec09cc522e8773662a?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 19 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Contracts Internship (Salt Lake City, UT)](https://jobright.ai/jobs/info/691e11513f782d2f1afb077f?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Nov 19 |
-| **[pSemi, A Murata Company](http://www.psemi.com)** | **[Intern, Intellectual Property Licensing - Summer 2025](https://jobright.ai/jobs/info/691e1dec09cc522e8773662a?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 19 |
 | **[City of Alvarado](https://cityofalvarado.org)** | **[Records Analyst - Paid Internship](https://jobright.ai/jobs/info/691e13173f782d2f1afb09c4?utm_campaign=1055&utm_source=git)** | Ellis County, TX | On Site | Nov 19 |
 | **[Koch](https://www.kochinc.com)** | **[Legal and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/690105a1d5259a1b3cff0926?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 19 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[1919 Internship - Compliance](https://jobright.ai/jobs/info/691df25f09cc522e87734079?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Nov 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Harvard Immigration and Refugee Clinical Program](https://harvardimmigrationclinic.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/691cc34722a2cb4b9bd1cf76?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Nov 18 |
 | **[International Monetary Fund](http://www.imf.org/)** | **[2026 Fund Internship Program (FIP) - Legal Department](https://jobright.ai/jobs/info/691cbdb3bcdbf3560c9e944e?utm_campaign=1055&utm_source=git)** | USA, Washington DC | On Site | Nov 18 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Nov 18 |
-| **[Divergent](http://www.divergent3d.com)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/691ca3e5bcdbf3560c9e867f?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 18 |
-| ↳ | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/691cdb90ff7024498416b320?utm_campaign=1055&utm_source=git)** | Torrance, California, United States | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
