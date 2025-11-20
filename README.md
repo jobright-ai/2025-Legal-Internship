@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[S&P Global](https://www.spglobal.com)** | **[Compliance and Risk Summer Intern](https://jobright.ai/jobs/info/691ea609a49a885af9a2a1e1?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
+| **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Summer 2026](https://jobright.ai/jobs/info/691efacb09cc522e8773cea7?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 20 |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/691ef7a63f782d2f1afb7bda?utm_campaign=1055&utm_source=git)** | Jackson, WY | On Site | Nov 20 |
+| **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad0cc8d627244576e4ae5c?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Nov 20 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd88b01ad6b16f0289aef1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 20 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ce940a846f0b04af67b453?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
+| **[S&P Global](https://www.spglobal.com)** | **[Compliance and Risk Summer Intern](https://jobright.ai/jobs/info/691ead7209cc522e8773b7f5?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Summer 2026](https://jobright.ai/jobs/info/691e90efa49a885af9a29b98?utm_campaign=1055&utm_source=git)** | Cincinnati, Ohio | Hybrid | Nov 19 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern - Fall/Winter 2025-26](https://jobright.ai/jobs/info/691e7be5a49a885af9a28fc4?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 19 |
 | **[Anew Climate](https://anewclimate.com/)** | **[Ideas IP Intern](https://jobright.ai/jobs/info/691e70e13f782d2f1afb48b3?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 19 |
@@ -73,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[BitGo](http://www.bitgo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/691e1d933f782d2f1afb1363?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Nov 19 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Legal Internships – Summer 2026](https://jobright.ai/jobs/info/691e3d373f782d2f1afb2dbe?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Nov 19 |
 | ↳ | **[Legal Internships – Summer 2026](https://jobright.ai/jobs/info/691e3e80a49a885af9a26cbf?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 19 |
-| **[pSemi, A Murata Company](http://www.psemi.com)** | **[Intern, Intellectual Property Licensing - Summer 2026](https://jobright.ai/jobs/info/691e1dec09cc522e8773662a?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 19 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Contracts Internship (Salt Lake City, UT)](https://jobright.ai/jobs/info/691e11513f782d2f1afb077f?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Nov 19 |
+| **[pSemi, A Murata Company](http://www.psemi.com)** | **[Intern, Intellectual Property Licensing - Summer 2025](https://jobright.ai/jobs/info/691e1dec09cc522e8773662a?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 19 |
 | **[City of Alvarado](https://cityofalvarado.org)** | **[Records Analyst - Paid Internship](https://jobright.ai/jobs/info/691e13173f782d2f1afb09c4?utm_campaign=1055&utm_source=git)** | Ellis County, TX | On Site | Nov 19 |
 | **[Koch](https://www.kochinc.com)** | **[Legal and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/690105a1d5259a1b3cff0926?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 19 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[1919 Internship - Compliance](https://jobright.ai/jobs/info/691df25f09cc522e87734079?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Nov 19 |
@@ -98,7 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Safety](https://jobright.ai/jobs/info/68aced9fdaf1431824c991e7?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Nov 19 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69013ddd4539ea1f2141e7cb?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Nov 19 |
 | ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/690130e0d5259a1b3cff2ace?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 19 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/690160e94539ea1f2141f9bc?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Nov 19 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/69016042d5259a1b3cff47f6?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Nov 19 |
 | **[Trade Republic](https://traderepublic.com)** | **[Legal Intern](https://jobright.ai/jobs/info/691da8cd61dc50590a648ddf?utm_campaign=1055&utm_source=git)** | Headquarter | On Site | Nov 19 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69013aa2d5259a1b3cff3377?utm_campaign=1055&utm_source=git)** | Warrenville, IL | On Site | Nov 19 |
 | ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69012da8d5259a1b3cff2579?utm_campaign=1055&utm_source=git)** | Orange, CA | On Site | Nov 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/68c9550995f5211cd2cefafc?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Nov 18 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Corporate Legal](https://jobright.ai/jobs/info/691cbbc622a2cb4b9bd1c9d3?utm_campaign=1055&utm_source=git)** | United States, Chesterfield, MO, RGA HQ | Hybrid | Nov 18 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68cf4676846f0b04af6801ca?utm_campaign=1055&utm_source=git)** | Wilson, NC | On Site | Nov 18 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Sales Contracts Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68e48891f758fe1f97e69411?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Nov 18 |
-| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68cd82c71ad6b16f0289aae1?utm_campaign=1055&utm_source=git)** | Horsham, PA | On Site | Nov 18 |
-| **[Reading Partners](https://readingpartners.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/68ffd7b9e04ac838fb5bc2e7?utm_campaign=1055&utm_source=git)** | Oakland, CA | Remote | Nov 18 |
-| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Legal Intern](https://jobright.ai/jobs/info/691c73c9ff70244984167eea?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 18 |
-| **[Kimball Electronics](http://www.kimballelectronics.com)** | **[Legal Analyst Intern](https://jobright.ai/jobs/info/68ec9fa7c26b9574506f56d7?utm_campaign=1055&utm_source=git)** | Jasper, IN | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
