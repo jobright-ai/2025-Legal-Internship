@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6920b32d00c9ee50eaec6f60?utm_campaign=1055&utm_source=git)** | New York, NY RAI USA | Hybrid | Nov 21 |
+| **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Enterprise Services Governance and Reporting Intern [2026 Internship Program]](https://jobright.ai/jobs/info/6920a6df3f782d2f1afc9cc6?utm_campaign=1055&utm_source=git)** | 18301 Bermuda Green Dr, Tampa, FL, 33647, US | Hybrid | Nov 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seeker Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6920a02da49a885af9a3d6e0?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | ↳ | **[Asylum Seeker Legal Intern (Unpaid)](https://jobright.ai/jobs/info/69209f9f00c9ee50eaec6270?utm_campaign=1055&utm_source=git)** | New York, NY RAI USA | Hybrid | Nov 21 |
+| **[National Women's Law Center](http://www.nwlc.org/)** | **[Spring 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6904279363502c0aded71033?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
+| ↳ | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6904376863502c0aded71a44?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
+| **[Amgen](http://www.amgen.com)** | **[Grad Intern - R&D Global Regulatory Writing](https://jobright.ai/jobs/info/6920a4d73f782d2f1afc9b60?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Nov 21 |
+| **[ComForCare](https://comforcare.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6920bbf6a49a885af9a3e8dd?utm_campaign=1055&utm_source=git)** | West Chester, PA | On Site | Nov 21 |
+| **[DIRECTV](https://www.directv.com/)** | **[DIRECTV Legal Internship – Summer 2026](https://jobright.ai/jobs/info/6920a824a49a885af9a3dc96?utm_campaign=1055&utm_source=git)** | El Segundo, CA | Remote | Nov 21 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Legal & Compliance Summer Intern - Mortgage Insurance](https://jobright.ai/jobs/info/68af6266962903596357c470?utm_campaign=1055&utm_source=git)** | Triad Area | Hybrid | Nov 21 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Reproductive Rights and Health Intern](https://jobright.ai/jobs/info/69042612ff462851feff354b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e81d26cc49a84b7e10228b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 21 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Koch](https://www.kochinc.com)** | **[Legal and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/6900fec7f8ce7a040fdbb14a?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Nov 19 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Legal Operations Intern (February to May)](https://jobright.ai/jobs/info/68ca52fd46caff4db51fd538?utm_campaign=1055&utm_source=git)** | Needham, MA | On Site | Nov 19 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Contract Administrator Intern](https://jobright.ai/jobs/info/691dd4ec748c4e1301ec9174?utm_campaign=1055&utm_source=git)** | Dayton Metropolitan Area | On Site | Nov 19 |
-| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68cc616b128dc347fd923dcd?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Nov 19 |
-| ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68cff6ddfb49c96ca6eacdbd?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Nov 19 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship, Summer 2026 - Legal](https://jobright.ai/jobs/info/6901395ef8ce7a040fdbdc8d?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Nov 19 |
-| **[UNC Health](https://www.unchealth.org)** | **[Grad Student Intern - Legal](https://jobright.ai/jobs/info/691dfbc709cc522e8773470a?utm_campaign=1055&utm_source=git)** | Chapel Hill, NC | On Site | Nov 19 |
-| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68cd08c3b2a74e1837ed0d0d?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Nov 19 |
-| ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac8998758f2e4ac30065c4?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 19 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Audit & Inspection Intern](https://jobright.ai/jobs/info/68e5dfeeae2b894b1d714b05?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
