@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colorado Legal Services](http://www.coloradolegalservices.org/)** | **[Spring 2026 Internship/Externship - Farm Worker Rights Division](https://jobright.ai/jobs/info/691fbf5da49a885af9a33b08?utm_campaign=1055&utm_source=git)** | Denver, Colorado, United States | On Site | Nov 20 |
+| **[SPX Technologies](https://www.spx.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/691fbee43f782d2f1afbfc7c?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Nov 20 |
+| **[New York Legal Assistance Group](https://www.nylag.org)** | **[NYLAG Spring Internship Opportunity - Foreclosure Prevention Project](https://jobright.ai/jobs/info/691fba91a49a885af9a33768?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 20 |
+| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Legal Aid Society](https://jobright.ai/jobs/info/691fb7ad3f782d2f1afbf901?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Nov 20 |
 | **[CME Group](http://www.cmegroup.com)** | **[Default Management Intern - Year Round](https://jobright.ai/jobs/info/691fa582a49a885af9a32d95?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | **[KeyBank](https://www.key.com)** | **[2026 KeyBank Business Risk & Compliance Spring Internship (Part-Time)](https://jobright.ai/jobs/info/691fa4d73f782d2f1afbeeb0?utm_campaign=1055&utm_source=git)** | Superior, CO | Remote | Nov 20 |
 | **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[McDonough Customs Compliance Summer 2026 Intern](https://jobright.ai/jobs/info/691f8f4b09cc522e87742f21?utm_campaign=1055&utm_source=git)** | McDonough, GA | On Site | Nov 20 |
@@ -70,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Weaver](http://www.weaver.com)** | **[Energy Compliance Services Intern](https://jobright.ai/jobs/info/691fa2af09cc522e87743f39?utm_campaign=1055&utm_source=git)** | The Woodlands, TX | Hybrid | Nov 20 |
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Abandoned and Unclaimed Property Compliance](https://jobright.ai/jobs/info/691f958c09cc522e87743562?utm_campaign=1055&utm_source=git)** | King of Prussia, PA | On Site | Nov 20 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Legal Intern](https://jobright.ai/jobs/info/690aa47bd046ab6061cded1b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 20 |
-| **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2027 2L Summer Associate - New York](https://jobright.ai/jobs/info/691f7aaf3f782d2f1afbcb5c?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 20 |
 | **[CME Group](http://www.cmegroup.com)** | **[Default Management Intern - Year Round](https://jobright.ai/jobs/info/691f5711a49a885af9a2e5e6?utm_campaign=1055&utm_source=git)** | New York - 300 Vesey Street | On Site | Nov 20 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2027 2L Summer Associate - Dallas (Litigation)](https://jobright.ai/jobs/info/691f7e6709cc522e877420f9?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Nov 20 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Operational Excellence & Compliance](https://jobright.ai/jobs/info/691f4eb109cc522e8773f5b8?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Nov 20 |
@@ -143,7 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Spring Legal Intern](https://jobright.ai/jobs/info/68e5f0cd1852e62f0081683a?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Nov 19 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Safety](https://jobright.ai/jobs/info/68aced9fdaf1431824c991e7?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Nov 19 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69013ddd4539ea1f2141e7cb?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Nov 19 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/69016042d5259a1b3cff47f6?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Nov 19 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/690160e94539ea1f2141f9bc?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Nov 19 |
 | **[Trade Republic](https://traderepublic.com)** | **[Legal Intern](https://jobright.ai/jobs/info/691da8cd61dc50590a648ddf?utm_campaign=1055&utm_source=git)** | Headquarter | On Site | Nov 19 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69013aa2d5259a1b3cff3377?utm_campaign=1055&utm_source=git)** | Warrenville, IL | On Site | Nov 19 |
 | ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69012da8d5259a1b3cff2579?utm_campaign=1055&utm_source=git)** | Orange, CA | On Site | Nov 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69019749d5259a1b3cff68d1?utm_campaign=1055&utm_source=git)** | East Syracuse, NY | On Site | Nov 19 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69013e89f8ce7a040fdbe008?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | On Site | Nov 19 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[PIP Paralegal Intern](https://jobright.ai/jobs/info/691069da183be660d2678f3e?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ | On Site | Nov 19 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Risk & Compliance Management Undergraduate Intern](https://jobright.ai/jobs/info/6906d09c122e8474c78e0f8e?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 19 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Summit, NJ CLC](https://jobright.ai/jobs/info/691a9ee945fb6f5ead8ac67f?utm_campaign=1055&utm_source=git)** | Summit, NJ | Hybrid | Nov 19 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 - Legal - Graduate Intern](https://jobright.ai/jobs/info/6916fb7dbcdbf3560c9c38f2?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
