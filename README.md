@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seeker Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6920a02da49a885af9a3d6e0?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
+| ↳ | **[Asylum Seeker Legal Intern (Unpaid)](https://jobright.ai/jobs/info/69209f9f00c9ee50eaec6270?utm_campaign=1055&utm_source=git)** | New York, NY RAI USA | Hybrid | Nov 21 |
+| **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Legal & Compliance Summer Intern - Mortgage Insurance](https://jobright.ai/jobs/info/68af6266962903596357c470?utm_campaign=1055&utm_source=git)** | Triad Area | Hybrid | Nov 21 |
+| **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Reproductive Rights and Health Intern](https://jobright.ai/jobs/info/69042612ff462851feff354b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e81d26cc49a84b7e10228b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 21 |
 | **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Regulatory Information Management and Technology](https://jobright.ai/jobs/info/6920879700c9ee50eaec5174?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 21 |
 | **[DP World](https://www.dpworld.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68e6f3b6ae2b894b1d71ff49?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Nov 21 |
+| **[Tuff City Records](http://www.tuffcity.com)** | **[Legal Intern (100% on site)](https://jobright.ai/jobs/info/6920896c00c9ee50eaec5358?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 21 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Private Trust Intern / Co-Op (WINTER 2026)](https://jobright.ai/jobs/info/69207c38a49a885af9a3bcb5?utm_campaign=1055&utm_source=git)** | London, Ontario, Canada | Hybrid | Nov 21 |
 | **[DIRECTV](https://www.directv.com/)** | **[DIRECTV Legal Internship – Summer 2026](https://jobright.ai/jobs/info/6920388900c9ee50eaec0685?utm_campaign=1055&utm_source=git)** | El Segundo, CA | Remote | Nov 21 |
 | ↳ | **[DIRECTV Legal Internship – Summer 2026](https://jobright.ai/jobs/info/692035eb3f782d2f1afc3b23?utm_campaign=1055&utm_source=git)** | United States - Virtual | Remote | Nov 21 |
@@ -149,12 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68cff6ddfb49c96ca6eacdbd?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Nov 19 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship, Summer 2026 - Legal](https://jobright.ai/jobs/info/6901395ef8ce7a040fdbdc8d?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Nov 19 |
 | **[UNC Health](https://www.unchealth.org)** | **[Grad Student Intern - Legal](https://jobright.ai/jobs/info/691dfbc709cc522e8773470a?utm_campaign=1055&utm_source=git)** | Chapel Hill, NC | On Site | Nov 19 |
-| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac8998758f2e4ac30065c4?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 19 |
-| ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68cd08c3b2a74e1837ed0d0d?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Nov 19 |
+| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68cd08c3b2a74e1837ed0d0d?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Nov 19 |
+| ↳ | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/68ac8998758f2e4ac30065c4?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 19 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Audit & Inspection Intern](https://jobright.ai/jobs/info/68e5dfeeae2b894b1d714b05?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Nov 19 |
-| **[Encompass Health](http://encompasshealth.com/)** | **[Compliance Student Intern (Summer 2026)](https://jobright.ai/jobs/info/68e5ea15e8daec61499a63c6?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Nov 19 |
-| **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/690147fa4539ea1f2141eeb8?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Nov 19 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Spring Legal Intern](https://jobright.ai/jobs/info/68ea535d8369791ef7820de5?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Nov 19 |
-| **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Spring Legal Intern](https://jobright.ai/jobs/info/68e5f0cd1852e62f0081683a?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Nov 19 |
-| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Safety](https://jobright.ai/jobs/info/68aced9fdaf1431824c991e7?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
