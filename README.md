@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OpenSesame](http://www.OpenSesame.com)** | **[Security and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/69214c43a49a885af9a44c97?utm_campaign=1055&utm_source=git)** | Boulder, CO | On Site | Nov 21 |
+| ↳ | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/69214aed00c9ee50eaecd887?utm_campaign=1055&utm_source=git)** | Reno, NV | Remote | Nov 21 |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Regulatory Intern](https://jobright.ai/jobs/info/692135c43f782d2f1afd054f?utm_campaign=1055&utm_source=git)** | Green Bay, WI | On Site | Nov 21 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/6921298400c9ee50eaecc642?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 21 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Quality Assurance & Compliance Intern](https://jobright.ai/jobs/info/69211e6ba49a885af9a4307a?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Nov 21 |
 | ↳ | **[2026 Quality Assurance & Compliance Intern (Graduate)](https://jobright.ai/jobs/info/69211c1e3f782d2f1afcf3dc?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Nov 21 |
 | **[Ebara Elliott Energy](http://www.elliott-turbo.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6921165da49a885af9a42c76?utm_campaign=1055&utm_source=git)** | Jeannette, PA | On Site | Nov 21 |
+| **[Notion](https://www.notion.so)** | **[Trust and Safety, Fraud and Abuse Analyst Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b761d4a1b456627b0fa5d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | **[Florida Power & Light](https://www.fpl.com/)** | **[Enterprise Risk Analytics-College Intern](https://jobright.ai/jobs/info/69210ccc3f782d2f1afce923?utm_campaign=1055&utm_source=git)** | Juno Beach, FL | On Site | Nov 21 |
 | **[Invesco US](http://www.invesco.com/us)** | **[Summer 2026 Legal, Compliance, Audit & Risk (LCAR) Intern](https://jobright.ai/jobs/info/69210b7a3f782d2f1afce87c?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Nov 21 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Security and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/6921062900c9ee50eaecadcc?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad090b758f2e4ac300a717?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 20 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd43591ad6b16f028973c6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | **[S&P Global](https://www.spglobal.com)** | **[Compliance and Risk Summer Intern](https://jobright.ai/jobs/info/691ead7209cc522e8773b7f5?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
-| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/691ff72da49a885af9a35b4b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 19 |
-| **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Summer 2026](https://jobright.ai/jobs/info/691e90efa49a885af9a29b98?utm_campaign=1055&utm_source=git)** | Cincinnati, Ohio | Hybrid | Nov 19 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern - Fall/Winter 2025-26](https://jobright.ai/jobs/info/691e7be5a49a885af9a28fc4?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 19 |
-| **[Anew Climate](https://anewclimate.com/)** | **[Ideas IP Intern](https://jobright.ai/jobs/info/691e70e13f782d2f1afb48b3?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
