@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Florida Power & Light](https://www.fpl.com/)** | **[Enterprise Risk Analytics-College Intern](https://jobright.ai/jobs/info/69210ccc3f782d2f1afce923?utm_campaign=1055&utm_source=git)** | Juno Beach, FL | On Site | Nov 21 |
+| **[Invesco US](http://www.invesco.com/us)** | **[Summer 2026 Legal, Compliance, Audit & Risk (LCAR) Intern](https://jobright.ai/jobs/info/69210b7a3f782d2f1afce87c?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Nov 21 |
+| **[OpenSesame](http://www.OpenSesame.com)** | **[Security and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/6921062900c9ee50eaecadcc?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 21 |
+| **[Centier Bank](https://centier.com)** | **[Residential Construction + Collateral Services Intern](https://jobright.ai/jobs/info/6920ff3e00c9ee50eaecaa0b?utm_campaign=1055&utm_source=git)** | Merrillville, IN | On Site | Nov 21 |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Regulatory Intern](https://jobright.ai/jobs/info/6920f7c700c9ee50eaeca23e?utm_campaign=1055&utm_source=git)** | Green Bay, WI | Hybrid | Nov 21 |
 | **[Centier Bank](https://centier.com)** | **[Residential Construction + Collateral Services Intern](https://jobright.ai/jobs/info/6920e969a49a885af9a408d4?utm_campaign=1055&utm_source=git)** | Merrillville, IN | On Site | Nov 21 |
 | **[Encova Insurance](https://www.encova.com)** | **[Intern, Claims](https://jobright.ai/jobs/info/691ba29622a2cb4b9bd147ce?utm_campaign=1055&utm_source=git)** | North Carolina, United States | Remote | Nov 21 |
 | **[Truist](https://www.truist.com)** | **[2026 AFCO Direct - Compliance & Legal - Internship](https://jobright.ai/jobs/info/6920dfdba49a885af9a40314?utm_campaign=1055&utm_source=git)** | New York NY - Telecommuter | Remote | Nov 21 |
@@ -139,8 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Summer 2026](https://jobright.ai/jobs/info/691efacb09cc522e8773cea7?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 20 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/691ef7a63f782d2f1afb7bda?utm_campaign=1055&utm_source=git)** | Jackson, WY | On Site | Nov 20 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad0cc8d627244576e4ae5c?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Nov 20 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2026 Legal Intern - Norfolk, VA](https://jobright.ai/jobs/info/692058f2a49a885af9a38feb?utm_campaign=1055&utm_source=git)** | Norfolk, VA | On Site | Nov 20 |
-| **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd88b01ad6b16f0289aef1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 20 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd88b01ad6b16f0289aef1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 20 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ce940a846f0b04af67b453?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad090b758f2e4ac300a717?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 20 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd43591ad6b16f028973c6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BitGo](http://www.bitgo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/691e51fca49a885af9a279c5?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Nov 19 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Compliance Intern](https://jobright.ai/jobs/info/691e50d809cc522e87738d9f?utm_campaign=1055&utm_source=git)** | 6920 Seaway Blvd, Everett, WA, 98203, US | On Site | Nov 19 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Summer Legal Associate, Federal Policy and Advocacy](https://jobright.ai/jobs/info/691e4a50a49a885af9a27458?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 19 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern - Fall/Winter 2025-26](https://jobright.ai/jobs/info/691e3f8c09cc522e877380ab?utm_campaign=1055&utm_source=git)** | Los Angeles, CA USA | On Site | Nov 19 |
-| **[Jabil](https://www.jabil.com)** | **[Legal Intern - Trade Compliance](https://jobright.ai/jobs/info/691e37ac09cc522e87737b07?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Nov 19 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Legal Internships – Summer 2026](https://jobright.ai/jobs/info/691e365709cc522e8773799f?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 19 |
-| **[Sensient Technologies Corporation](http://sensient.com)** | **[Intern - Regulatory](https://jobright.ai/jobs/info/691e2f873f782d2f1afb202d?utm_campaign=1055&utm_source=git)** | 2800 Higgins Road, Hoffman Estates, IL, 60169, US | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
