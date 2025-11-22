@@ -147,8 +147,7 @@ For a complete list, click the following sortable link below:
 | **[BeOne Medicines](https://beonemedicines.com/)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/68cc23d3128dc347fd91fc0a?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 20 |
 | **[Frost](https://www.frostbank.com/)** | **[College Intern -  Loan Document Coordinator](https://jobright.ai/jobs/info/691f10a309cc522e8773d412?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Nov 20 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acf031d627244576e49fc9?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 20 |
-| **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/691e31e6a49a885af9a26046?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 20 |
-| **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ccf71577add66568abccfe?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Nov 20 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ccf71577add66568abccfe?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Nov 20 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Summer 2026](https://jobright.ai/jobs/info/691efacb09cc522e8773cea7?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 20 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/691ef7a63f782d2f1afb7bda?utm_campaign=1055&utm_source=git)** | Jackson, WY | On Site | Nov 20 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad0cc8d627244576e4ae5c?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Nov 20 |
@@ -156,5 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ce940a846f0b04af67b453?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad090b758f2e4ac300a717?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 20 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd43591ad6b16f028973c6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 20 |
+| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2026 Legal Intern - Norfolk, VA](https://jobright.ai/jobs/info/69215fc2a49a885af9a45795?utm_campaign=1055&utm_source=git)** | Norfolk, VA | On Site | Nov 19 |
 | **[S&P Global](https://www.spglobal.com)** | **[Compliance and Risk Summer Intern](https://jobright.ai/jobs/info/691ead7209cc522e8773b7f5?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
