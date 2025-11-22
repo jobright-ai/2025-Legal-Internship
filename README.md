@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fulton County Government](https://www.fultoncountyga.gov)** | **[INTERN - CLERK OF SUPERIOR AND MAGISTRATE COURTS](https://jobright.ai/jobs/info/6921bcb73f782d2f1afd396e?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 22 |
+| **[ComForCare](https://comforcare.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6921b2e1d1ec2c3565c45898?utm_campaign=1055&utm_source=git)** | West Chester, PA | On Site | Nov 22 |
+| **[TikTok](https://www.tiktok.com)** | **[Regional & Product Policy Project Intern (Business Integrity) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68e995f5f195760c354aaeaf?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Nov 22 |
+| ↳ | **[Regional & Product Policy Project Intern (Business Integrity) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68e9953f0930fe0bc4627864?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Nov 22 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/68ec986dd4b0106e703e9ee0?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | **[Truist](https://www.truist.com)** | **[2026 AFCO Direct - Compliance & Legal - Internship](https://jobright.ai/jobs/info/692178dfa49a885af9a460ab?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Remote | Nov 22 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Security and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/69214c43a49a885af9a44c97?utm_campaign=1055&utm_source=git)** | Boulder, CO | On Site | Nov 21 |
@@ -81,12 +85,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 AFCO Direct - Compliance & Legal - Internship](https://jobright.ai/jobs/info/6920dd5300c9ee50eaec8e46?utm_campaign=1055&utm_source=git)** | Fort Lauderdale FL - Telecommuter | Remote | Nov 21 |
 | ↳ | **[2026 AFCO Direct - Compliance & Legal - Internship](https://jobright.ai/jobs/info/6920dd13a49a885af9a400f0?utm_campaign=1055&utm_source=git)** | Atlanta GA - 3333 Peachtree Road - Atlanta Financial Center | Remote | Nov 21 |
 | **[Ebara Elliott Energy](http://www.elliott-turbo.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6920cd8600c9ee50eaec8376?utm_campaign=1055&utm_source=git)** | Jeannette, PA | On Site | Nov 21 |
-| **[Stone Law Offices, Ltd.](https://nvestateplan.com/)** | **[Internship  (Law Clerk)](https://jobright.ai/jobs/info/6920c306a49a885af9a3ef0d?utm_campaign=1055&utm_source=git)** | Las Vegas, Nevada, United States | On Site | Nov 21 |
+| **[Stone Bybee & Associates, PLLC](https://nvestateplan.com/)** | **[Internship  (Law Clerk)](https://jobright.ai/jobs/info/6920c306a49a885af9a3ef0d?utm_campaign=1055&utm_source=git)** | Las Vegas, Nevada, United States | On Site | Nov 21 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Contracts](https://jobright.ai/jobs/info/6920c17c00c9ee50eaec794e?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Nov 21 |
+| **[ComForCare](https://comforcare.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6921a7803f782d2f1afd3436?utm_campaign=1055&utm_source=git)** | West Chester, PA 19380 | On Site | Nov 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6920eeed00c9ee50eaec97ae?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 21 |
 | ↳ | **[Immigration Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6920b32d00c9ee50eaec6f60?utm_campaign=1055&utm_source=git)** | New York, NY RAI USA | Hybrid | Nov 21 |
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Compliance](https://jobright.ai/jobs/info/68c0af705c5d5f14f46e0428?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Nov 21 |
-| **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Enterprise Services Governance and Reporting Intern [2026 Internship Program]](https://jobright.ai/jobs/info/6920a6df3f782d2f1afc9cc6?utm_campaign=1055&utm_source=git)** | 18301 Bermuda Green Dr, Tampa, FL, 33647, US | Hybrid | Nov 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seeker Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6920a02da49a885af9a3d6e0?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | ↳ | **[Asylum Seeker Legal Intern (Unpaid)](https://jobright.ai/jobs/info/69209f9f00c9ee50eaec6270?utm_campaign=1055&utm_source=git)** | New York, NY RAI USA | Hybrid | Nov 21 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Spring 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6904279363502c0aded71033?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/691ef7a63f782d2f1afb7bda?utm_campaign=1055&utm_source=git)** | Jackson, WY | On Site | Nov 20 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad0cc8d627244576e4ae5c?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Nov 20 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd88b01ad6b16f0289aef1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 20 |
-| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ce940a846f0b04af67b453?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
-| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad090b758f2e4ac300a717?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 20 |
-| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd43591ad6b16f028973c6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 20 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2026 Legal Intern - Norfolk, VA](https://jobright.ai/jobs/info/69215fc2a49a885af9a45795?utm_campaign=1055&utm_source=git)** | Norfolk, VA | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
