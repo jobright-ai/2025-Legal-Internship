@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sompo](https://www.sompo-intl.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/68ec986dd4b0106e703e9ee0?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | **[Truist](https://www.truist.com)** | **[2026 AFCO Direct - Compliance & Legal - Internship](https://jobright.ai/jobs/info/692178dfa49a885af9a460ab?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Remote | Nov 22 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Security and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/69214c43a49a885af9a44c97?utm_campaign=1055&utm_source=git)** | Boulder, CO | On Site | Nov 21 |
 | ↳ | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/69214aed00c9ee50eaecd887?utm_campaign=1055&utm_source=git)** | Reno, NV | Remote | Nov 21 |
@@ -91,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Spring 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6904279363502c0aded71033?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
 | ↳ | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6904376863502c0aded71a44?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern - R&D Global Regulatory Writing](https://jobright.ai/jobs/info/6920a4d73f782d2f1afc9b60?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Nov 21 |
-| **[ComForCare](https://comforcare.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6920bbf6a49a885af9a3e8dd?utm_campaign=1055&utm_source=git)** | West Chester, PA | On Site | Nov 21 |
 | **[DIRECTV](https://www.directv.com/)** | **[DIRECTV Legal Internship – Summer 2026](https://jobright.ai/jobs/info/6920a824a49a885af9a3dc96?utm_campaign=1055&utm_source=git)** | El Segundo, CA | Remote | Nov 21 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Legal & Compliance Summer Intern - Mortgage Insurance](https://jobright.ai/jobs/info/68af6266962903596357c470?utm_campaign=1055&utm_source=git)** | Triad Area | Hybrid | Nov 21 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Reproductive Rights and Health Intern](https://jobright.ai/jobs/info/69042612ff462851feff354b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
