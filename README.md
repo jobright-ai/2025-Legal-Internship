@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Truist](https://www.truist.com)** | **[2026 AFCO Direct - Compliance & Legal - Internship](https://jobright.ai/jobs/info/692178dfa49a885af9a460ab?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Remote | Nov 22 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Security and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/69214c43a49a885af9a44c97?utm_campaign=1055&utm_source=git)** | Boulder, CO | On Site | Nov 21 |
 | ↳ | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/69214aed00c9ee50eaecd887?utm_campaign=1055&utm_source=git)** | Reno, NV | Remote | Nov 21 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Regulatory Intern](https://jobright.ai/jobs/info/692135c43f782d2f1afd054f?utm_campaign=1055&utm_source=git)** | Green Bay, WI | On Site | Nov 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad090b758f2e4ac300a717?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 20 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd43591ad6b16f028973c6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2026 Legal Intern - Norfolk, VA](https://jobright.ai/jobs/info/69215fc2a49a885af9a45795?utm_campaign=1055&utm_source=git)** | Norfolk, VA | On Site | Nov 19 |
-| **[S&P Global](https://www.spglobal.com)** | **[Compliance and Risk Summer Intern](https://jobright.ai/jobs/info/691ead7209cc522e8773b7f5?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
