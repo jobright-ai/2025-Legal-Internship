@@ -100,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Ebara Elliott Energy](http://www.elliott-turbo.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6920cd8600c9ee50eaec8376?utm_campaign=1055&utm_source=git)** | Jeannette, PA | On Site | Nov 21 |
 | **[Stone Bybee & Associates, PLLC](https://nvestateplan.com/)** | **[Internship  (Law Clerk)](https://jobright.ai/jobs/info/6920c306a49a885af9a3ef0d?utm_campaign=1055&utm_source=git)** | Las Vegas, Nevada, United States | On Site | Nov 21 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Contracts](https://jobright.ai/jobs/info/6920c17c00c9ee50eaec794e?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Nov 21 |
-| **[ComForCare](https://comforcare.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6921a8e7d1ec2c3565c4569e?utm_campaign=1055&utm_source=git)** | West Chester, PA 19380 | On Site | Nov 21 |
+| **[ComForCare](https://comforcare.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6921a7803f782d2f1afd3436?utm_campaign=1055&utm_source=git)** | West Chester, PA 19380 | On Site | Nov 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6920eeed00c9ee50eaec97ae?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 21 |
 | ↳ | **[Immigration Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6920b32d00c9ee50eaec6f60?utm_campaign=1055&utm_source=git)** | New York, NY RAI USA | Hybrid | Nov 21 |
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Compliance](https://jobright.ai/jobs/info/68c0af705c5d5f14f46e0428?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Nov 21 |
@@ -135,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Compliance](https://jobright.ai/jobs/info/691f8ec909cc522e87742e76?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Nov 20 |
 | **[Weaver](http://www.weaver.com)** | **[Energy Compliance Services Intern](https://jobright.ai/jobs/info/691f8ddea49a885af9a31a47?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 20 |
 | ↳ | **[Energy Compliance Services Intern](https://jobright.ai/jobs/info/691f8c313f782d2f1afbda2f?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Nov 20 |
-| **[City of College Station](http://www.cstx.gov)** | **[Summer Law Clerk Intern](https://jobright.ai/jobs/info/691fa6b909cc522e87744207?utm_campaign=1055&utm_source=git)** | CS-Bryan Area | On Site | Nov 20 |
 | **[Huntsman Corporation](https://www.huntsman.com)** | **[The Woodlands, Texas Summer 2026 Legal Internship Program](https://jobright.ai/jobs/info/691f89553f782d2f1afbd798?utm_campaign=1055&utm_source=git)** | The Woodlands, TX | On Site | Nov 20 |
 | **[TD](https://www.td.com)** | **[Private Trust Intern / Co-Op (WINTER 2026)](https://jobright.ai/jobs/info/691f9f833f782d2f1afbeadd?utm_campaign=1055&utm_source=git)** | London, Ontario, Canada | Hybrid | Nov 20 |
 | **[Sensient Technologies Corporation](http://sensient.com)** | **[Intern - Regulatory](https://jobright.ai/jobs/info/691f96173f782d2f1afbe4b2?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Nov 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Investments Legal Summer Intern](https://jobright.ai/jobs/info/691f23343f782d2f1afb898b?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Nov 20 |
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Intern – Ethics & Compliance](https://jobright.ai/jobs/info/68e6cf06ae2b894b1d71e09d?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 20 |
 | **[Americans United for Life](https://aul.org)** | **[Summer Fellowship for Law Students](https://jobright.ai/jobs/info/691f7c0ba49a885af9a30a7b?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 20 |
+| **[S&P Global](https://www.spglobal.com)** | **[Compliance and Risk Summer Intern](https://jobright.ai/jobs/info/691f40fba49a885af9a2d681?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
