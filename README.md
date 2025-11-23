@@ -73,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Quality Assurance & Compliance Intern](https://jobright.ai/jobs/info/68e97ff80930fe0bc46267a4?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Nov 22 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Surety Intern (Summer 2026)](https://jobright.ai/jobs/info/68cda6fb1ad6b16f0289cf1a?utm_campaign=1055&utm_source=git)** | Westfield Center, OH | Hybrid | Nov 22 |
 | **[ComForCare](https://comforcare.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6921b2e1d1ec2c3565c45898?utm_campaign=1055&utm_source=git)** | West Chester, PA | On Site | Nov 22 |
+| **[Fulton County Government](https://www.fultoncountyga.gov)** | **[INTERN - CLERK OF SUPERIOR AND MAGISTRATE COURTS](https://jobright.ai/jobs/info/6923077d38cd5478a8d55e46?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Regional & Product Policy Project Intern (Business Integrity) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68e995f5f195760c354aaeaf?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Nov 22 |
 | ↳ | **[Regional & Product Policy Project Intern (Business Integrity) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68e9953f0930fe0bc4627864?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Nov 22 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/68ec986dd4b0106e703e9ee0?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Investments Legal Summer Intern](https://jobright.ai/jobs/info/691f23343f782d2f1afb898b?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Nov 20 |
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Intern – Ethics & Compliance](https://jobright.ai/jobs/info/68e6cf06ae2b894b1d71e09d?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 20 |
 | **[Americans United for Life](https://aul.org)** | **[Summer Fellowship for Law Students](https://jobright.ai/jobs/info/691f7c0ba49a885af9a30a7b?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 20 |
-| **[S&P Global](https://www.spglobal.com)** | **[Compliance and Risk Summer Intern](https://jobright.ai/jobs/info/691f40fba49a885af9a2d681?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
