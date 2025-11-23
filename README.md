@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[McDonough Customs Compliance Summer 2026 Intern](https://jobright.ai/jobs/info/691f8f4b09cc522e87742f21?utm_campaign=1055&utm_source=git)** | McDonough, GA | On Site | Nov 22 |
 | **[Prairie State Legal Services Inc.](https://pslegal.org)** | **[Summer 2026 Law Student Internship](https://jobright.ai/jobs/info/69222632d1ec2c3565c46dd0?utm_campaign=1055&utm_source=git)** | Rockford, IL | On Site | Nov 22 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Intern, Information Risk & Compliance](https://jobright.ai/jobs/info/6922164cd1ec2c3565c46ae7?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Nov 22 |
 | **[Molex](http://www.molex.com)** | **[Molex Supply Chain- Trades & Customs Internship- Summer 2026](https://jobright.ai/jobs/info/68b167ac6fab621da7b0d68d?utm_campaign=1055&utm_source=git)** | Lisle, IL | On Site | Nov 22 |
@@ -134,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Public Policy Legal Graduate Intern](https://jobright.ai/jobs/info/68f78d9c5dc1be60128159a5?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Nov 20 |
 | **[CME Group](http://www.cmegroup.com)** | **[Default Management Intern - Year Round](https://jobright.ai/jobs/info/691fa582a49a885af9a32d95?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | **[KeyBank](https://www.key.com)** | **[2026 KeyBank Business Risk & Compliance Spring Internship (Part-Time)](https://jobright.ai/jobs/info/691fa4d73f782d2f1afbeeb0?utm_campaign=1055&utm_source=git)** | Superior, CO | Remote | Nov 20 |
-| **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[McDonough Customs Compliance Summer 2026 Intern](https://jobright.ai/jobs/info/691f8f4b09cc522e87742f21?utm_campaign=1055&utm_source=git)** | McDonough, GA | On Site | Nov 20 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Compliance](https://jobright.ai/jobs/info/691f8ec909cc522e87742e76?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Nov 20 |
 | **[Weaver](http://www.weaver.com)** | **[Energy Compliance Services Intern](https://jobright.ai/jobs/info/691f8ddea49a885af9a31a47?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 20 |
 | ↳ | **[Energy Compliance Services Intern](https://jobright.ai/jobs/info/691f8c313f782d2f1afbda2f?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Nov 20 |
