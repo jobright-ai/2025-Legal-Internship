@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[McDonough Customs Compliance Summer 2026 Intern](https://jobright.ai/jobs/info/691f8f4b09cc522e87742f21?utm_campaign=1055&utm_source=git)** | McDonough, GA | On Site | Nov 22 |
 | **[Prairie State Legal Services Inc.](https://pslegal.org)** | **[Summer 2026 Law Student Internship](https://jobright.ai/jobs/info/69222632d1ec2c3565c46dd0?utm_campaign=1055&utm_source=git)** | Rockford, IL | On Site | Nov 22 |
-| **[Allegiant](https://www.allegiantair.com/)** | **[Intern, Information Risk & Compliance](https://jobright.ai/jobs/info/6922164cd1ec2c3565c46ae7?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Nov 22 |
 | **[Molex](http://www.molex.com)** | **[Molex Supply Chain- Trades & Customs Internship- Summer 2026](https://jobright.ai/jobs/info/68b167ac6fab621da7b0d68d?utm_campaign=1055&utm_source=git)** | Lisle, IL | On Site | Nov 22 |
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Certified Legal Intern (Public Defender's Department)](https://jobright.ai/jobs/info/6921eb133f782d2f1afd42a2?utm_campaign=1055&utm_source=git)** | Reading, PA | On Site | Nov 22 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Professional Liability/Cyber Underwriting Summer Intern](https://jobright.ai/jobs/info/691e02c8a49a885af9a23a06?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 22 |
@@ -87,7 +86,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Quality Assurance & Compliance Intern (Graduate)](https://jobright.ai/jobs/info/69211c1e3f782d2f1afcf3dc?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Nov 21 |
 | **[Ebara Elliott Energy](http://www.elliott-turbo.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6921165da49a885af9a42c76?utm_campaign=1055&utm_source=git)** | Jeannette, PA | On Site | Nov 21 |
 | **[Notion](https://www.notion.so)** | **[Trust and Safety, Fraud and Abuse Analyst Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b761d4a1b456627b0fa5d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
-| **[Florida Power & Light](https://www.fpl.com/)** | **[Enterprise Risk Analytics-College Intern](https://jobright.ai/jobs/info/69210ccc3f782d2f1afce923?utm_campaign=1055&utm_source=git)** | Juno Beach, FL | On Site | Nov 21 |
 | **[Invesco US](http://www.invesco.com/us)** | **[Summer 2026 Legal, Compliance, Audit & Risk (LCAR) Intern](https://jobright.ai/jobs/info/69210b7a3f782d2f1afce87c?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Nov 21 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Security and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/6921062900c9ee50eaecadcc?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 21 |
 | **[Centier Bank](https://centier.com)** | **[Residential Construction + Collateral Services Intern](https://jobright.ai/jobs/info/6920ff3e00c9ee50eaecaa0b?utm_campaign=1055&utm_source=git)** | Merrillville, IN | On Site | Nov 21 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Internships – Summer 2026](https://jobright.ai/jobs/info/691f5de63f782d2f1afbafaf?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 20 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Operational Excellence & Compliance](https://jobright.ai/jobs/info/691f3d4b09cc522e8773e821?utm_campaign=1055&utm_source=git)** | Parsippany, New Jersey, United States | On Site | Nov 20 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Compliance Intern](https://jobright.ai/jobs/info/691f4e283f782d2f1afba330?utm_campaign=1055&utm_source=git)** | Everett, WA | Hybrid | Nov 20 |
+| **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Investments Legal Summer Intern](https://jobright.ai/jobs/info/691f23343f782d2f1afb898b?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Nov 20 |
+| **[Howmet Aerospace](https://www.howmet.com/)** | **[Intern – Ethics & Compliance](https://jobright.ai/jobs/info/68e6cf06ae2b894b1d71e09d?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
