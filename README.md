@@ -57,14 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6924cfc0c0cefa13343e241f?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Nov 24 |
+| **[Emera](http://www.emera.com/)** | **[Manager, IT Internal Control & Compliance](https://jobright.ai/jobs/info/6924ce0038cd5478a8d5e021?utm_campaign=1055&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Nov 24 |
+| **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Construction Management - Contracts Administration - Hybrid](https://jobright.ai/jobs/info/6924c2e038cd5478a8d5d753?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 24 |
+| **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Regulatory and Scientific Affairs Intern](https://jobright.ai/jobs/info/6924c017ec574f4265bb68d4?utm_campaign=1055&utm_source=git)** | St Louis, MO | Hybrid | Nov 24 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2026 Graduate Internship - Consumer Affairs Examiner](https://jobright.ai/jobs/info/6924b9ecc0cefa13343e12dc?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 24 |
+| **[Playfly Sports](https://www.playfly.com/)** | **[Legal Intern (NYC Office)](https://jobright.ai/jobs/info/6924b7a138cd5478a8d5ceff?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
+| **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship - Legal](https://jobright.ai/jobs/info/6917d651bcdbf3560c9cbe15?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 24 |
+| **[Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org)** | **[Summer 2026 Graduate Internship - Consumer Affairs Examiner](https://jobright.ai/jobs/info/6924b4c1ec574f4265bb5fed?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 24 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Legal Intern (Philadelphia Office)](https://jobright.ai/jobs/info/6924b1a0ec574f4265bb5d04?utm_campaign=1055&utm_source=git)** | Berwyn, PA | Hybrid | Nov 24 |
-| **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/690f2807221b890c278145c4?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
 | **[Ezee Fiber](https://ezeefiber.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/6924ad90c0cefa13343e09d6?utm_campaign=1055&utm_source=git)** | Houston,  TX | Hybrid | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/690f2755221b890c27814462?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Nov 24 |
 | **[Ezee Fiber](https://ezeefiber.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/6924ad7538cd5478a8d5c766?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/690f276f221b890c278144a5?utm_campaign=1055&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 24 |
-| ↳ | **[Intellectual Property Intern](https://jobright.ai/jobs/info/690d13244a1b456627b1d58c?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Nov 24 |
 | **[Genmab](https://www.genmab.com)** | **[Trial Master File & Site Management Intern](https://jobright.ai/jobs/info/6924a8b7ec574f4265bb5774?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Nov 24 |
+| **[Savannah River National Laboratory](https://www.srnl.gov)** | **[Post Graduate Intern - Law Clerk](https://jobright.ai/jobs/info/6924c7c7c0cefa13343e1d2f?utm_campaign=1055&utm_source=git)** | Aiken, SC, United States | On Site | Nov 24 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - New York](https://jobright.ai/jobs/info/6904d274122e8474c78d37f3?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | **[CN](http://www.cn.ca)** | **[Intern, Data Governance, Risk, & Compliance (GRC)- EN](https://jobright.ai/jobs/info/69249836ec574f4265bb4c7b?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 24 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Chicago](https://jobright.ai/jobs/info/6903edee63502c0aded6e6de?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Nov 24 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DIRECTV](https://www.directv.com/)** | **[DIRECTV Legal Internship – Summer 2026](https://jobright.ai/jobs/info/6920388900c9ee50eaec0685?utm_campaign=1055&utm_source=git)** | El Segundo, CA | Remote | Nov 21 |
 | ↳ | **[DIRECTV Legal Internship – Summer 2026](https://jobright.ai/jobs/info/692035eb3f782d2f1afc3b23?utm_campaign=1055&utm_source=git)** | United States - Virtual | Remote | Nov 21 |
 | **[Americans United for Separation of Church and State](https://www.au.org/)** | **[Constitutional Litigation Internship (Spring 2026)](https://jobright.ai/jobs/info/691fc7f93f782d2f1afc018f?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 20 |
-| **[New York Legal Assistance Group](https://www.nylag.org)** | **[NYLAG Spring Internship Opportunity - Foreclosure Prevention Project](https://jobright.ai/jobs/info/691fba91a49a885af9a33768?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 20 |
-| **[SRAM](https://www.sram.com/en/quarq)** | **[U.S. Customs & Logistics Internship](https://jobright.ai/jobs/info/691fc999a49a885af9a341b0?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Nov 20 |
-| ↳ | **[U.S. Customs and Logistics Internship - Chicago](https://jobright.ai/jobs/info/691fc3d109cc522e8774538c?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 20 |
-| **[Colorado Legal Services](http://www.coloradolegalservices.org/)** | **[Spring 2026 Internship/Externship - Farm Worker Rights Division](https://jobright.ai/jobs/info/691fbf5da49a885af9a33b08?utm_campaign=1055&utm_source=git)** | Denver, Colorado, United States | On Site | Nov 20 |
-| **[SPX Technologies](https://www.spx.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/691fbee43f782d2f1afbfc7c?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Nov 20 |
-| **[PowerSecure, Inc.](http://www.powersecure.com)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6920f2f2a49a885af9a41008?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Nov 20 |
-| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Legal Aid Society](https://jobright.ai/jobs/info/691fb7ad3f782d2f1afbf901?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
