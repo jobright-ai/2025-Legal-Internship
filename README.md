@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bright Power](https://www.brightpower.com/)** | **[Compliance Benchmarking Intern](https://jobright.ai/jobs/info/692455c0ec574f4265bb32d5?utm_campaign=1055&utm_source=git)** | New York, NY, USA | Hybrid | Nov 24 |
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/692425eb7795cd460c83b50a?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Nov 23 |
 | **[Legal Pathway Society](https://engage.palmbeachstate.edu/organization/legal-pathway-society)** | **[Legal Pathway Society Internship (Florida-Focused)](https://jobright.ai/jobs/info/6923575cc0cefa13343da892?utm_campaign=1055&utm_source=git)** | Palm Beach, FL | Hybrid | Nov 23 |
 | **[Henkel](http://www.henkel.com)** | **[Product Safety & Regulatory Affairs Intern – Summer 2026](https://jobright.ai/jobs/info/68b3db00bc187f64e1be1e99?utm_campaign=1055&utm_source=git)** | Rocky Hill, CT | Hybrid | Nov 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CME Group](http://www.cmegroup.com)** | **[Default Management Intern - Year Round](https://jobright.ai/jobs/info/691f5711a49a885af9a2e5e6?utm_campaign=1055&utm_source=git)** | New York - 300 Vesey Street | On Site | Nov 20 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2027 2L Summer Associate - Dallas (Litigation)](https://jobright.ai/jobs/info/691f7e6709cc522e877420f9?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Nov 20 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Operational Excellence & Compliance](https://jobright.ai/jobs/info/691f4eb109cc522e8773f5b8?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Nov 20 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Legal Intern- Regulatory & Marketing](https://jobright.ai/jobs/info/68fade668d32c164778cc171?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
