@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Legal Regulatory and Enforcement Internship](https://jobright.ai/jobs/info/6924770dec574f4265bb3dcf?utm_campaign=1055&utm_source=git)** | Greenwich, CT | On Site | Nov 24 |
+| **[LeoLabs](http://www.leolabs.space)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/69245ebdc0cefa13343de506?utm_campaign=1055&utm_source=git)** | Chantilly, Virginia | Remote | Nov 24 |
 | **[Bright Power](https://www.brightpower.com/)** | **[Compliance Benchmarking Intern](https://jobright.ai/jobs/info/692455c0ec574f4265bb32d5?utm_campaign=1055&utm_source=git)** | New York, NY, USA | Hybrid | Nov 24 |
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/692425eb7795cd460c83b50a?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Nov 23 |
 | **[Legal Pathway Society](https://engage.palmbeachstate.edu/organization/legal-pathway-society)** | **[Legal Pathway Society Internship (Florida-Focused)](https://jobright.ai/jobs/info/6923575cc0cefa13343da892?utm_campaign=1055&utm_source=git)** | Palm Beach, FL | Hybrid | Nov 23 |
@@ -76,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/Intern Volunteer](https://jobright.ai/jobs/info/68d4c916fcd3367e8df17cdf?utm_campaign=1055&utm_source=git)** | Pueblo, CO | On Site | Nov 22 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/6921f7d13f782d2f1afd43c8?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 22 |
 | **[NetApp](http://netapp.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/6921d6993f782d2f1afd3fe7?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Nov 22 |
-| **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[Legal Intern (unpaid)](https://jobright.ai/jobs/info/692309f87795cd460c837f05?utm_campaign=1055&utm_source=git)** | Michigan, United States | Remote | Nov 22 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Regulatory Information Management and Technology](https://jobright.ai/jobs/info/6921d0363f782d2f1afd3ef6?utm_campaign=1055&utm_source=git)** | Home, KS | Remote | Nov 22 |
+| **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[Legal Intern (unpaid)](https://jobright.ai/jobs/info/692309f87795cd460c837f05?utm_campaign=1055&utm_source=git)** | Michigan, United States | On Site | Nov 22 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern - R&D Global Regulatory Writing](https://jobright.ai/jobs/info/6921ccc5a49a885af9a47b02?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 22 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Quality Assurance & Compliance Intern (Graduate)](https://jobright.ai/jobs/info/68e983b2f195760c354aa21a?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Nov 22 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/68d4ca4bffc1276de3fde265?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Nov 22 |
@@ -113,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Ebara Elliott Energy](http://www.elliott-turbo.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6920cd8600c9ee50eaec8376?utm_campaign=1055&utm_source=git)** | Jeannette, PA | On Site | Nov 21 |
 | **[Stone Bybee & Associates, PLLC](https://nvestateplan.com/)** | **[Internship  (Law Clerk)](https://jobright.ai/jobs/info/6920c306a49a885af9a3ef0d?utm_campaign=1055&utm_source=git)** | Las Vegas, Nevada, United States | On Site | Nov 21 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Contracts](https://jobright.ai/jobs/info/6920c17c00c9ee50eaec794e?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Nov 21 |
-| **[ComForCare](https://comforcare.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6921a8e7d1ec2c3565c4569e?utm_campaign=1055&utm_source=git)** | West Chester, PA 19380 | On Site | Nov 21 |
+| **[ComForCare](https://comforcare.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6921a7803f782d2f1afd3436?utm_campaign=1055&utm_source=git)** | West Chester, PA 19380 | On Site | Nov 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6920eeed00c9ee50eaec97ae?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 21 |
 | ↳ | **[Immigration Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6920b32d00c9ee50eaec6f60?utm_campaign=1055&utm_source=git)** | New York, NY RAI USA | Hybrid | Nov 21 |
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Compliance](https://jobright.ai/jobs/info/68c0af705c5d5f14f46e0428?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Nov 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Abandoned and Unclaimed Property Compliance](https://jobright.ai/jobs/info/691f958c09cc522e87743562?utm_campaign=1055&utm_source=git)** | King of Prussia, PA | On Site | Nov 20 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Legal Intern](https://jobright.ai/jobs/info/690aa47bd046ab6061cded1b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 20 |
 | **[CME Group](http://www.cmegroup.com)** | **[Default Management Intern - Year Round](https://jobright.ai/jobs/info/691f5711a49a885af9a2e5e6?utm_campaign=1055&utm_source=git)** | New York - 300 Vesey Street | On Site | Nov 20 |
-| **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2027 2L Summer Associate - Dallas (Litigation)](https://jobright.ai/jobs/info/691f7e6709cc522e877420f9?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Nov 20 |
-| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Operational Excellence & Compliance](https://jobright.ai/jobs/info/691f4eb109cc522e8773f5b8?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
