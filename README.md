@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legal Services of Eastern Missouri](https://lsem.org/)** | **[Summer 2026 Legal Intern (unpaid)](https://jobright.ai/jobs/info/6926031f27bf2f41a2c42706?utm_campaign=1055&utm_source=git)** | St. Louis,MO,US | On Site | Nov 25 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Compliance Governance](https://jobright.ai/jobs/info/690915d0d046ab6061cd11db?utm_campaign=1055&utm_source=git)** | Raleigh, NC | Hybrid | Nov 25 |
+| **[PHINIA](https://phinia.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6925f3fff0beb07232620997?utm_campaign=1055&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA | On Site | Nov 25 |
+| **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Compliance](https://jobright.ai/jobs/info/6925ef4ef0beb072326207af?utm_campaign=1055&utm_source=git)** | Hancock Whitney Center - New Orleans, LA | On Site | Nov 25 |
+| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2025- Healthcare Legal](https://jobright.ai/jobs/info/6925edd727bf2f41a2c41a97?utm_campaign=1055&utm_source=git)** | Little Rock | On Site | Nov 25 |
+| **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Compliance](https://jobright.ai/jobs/info/6925eb8c27bf2f41a2c41871?utm_campaign=1055&utm_source=git)** | Hancock Whitney Plaza - Gulfport, MS | On Site | Nov 25 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6925df8fd47de4798ecd257e?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Nov 25 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Compliance Communications & Policy Intern](https://jobright.ai/jobs/info/69090a6cbcccf20de59d6594?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Law School/Legal](https://jobright.ai/jobs/info/6925daf3f0beb0723261fcd2?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Nov 25 |
@@ -118,7 +124,7 @@ For a complete list, click the following sortable link below:
 | **[LeoLabs](http://www.leolabs.space)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/69248bdf38cd5478a8d5b3ca?utm_campaign=1055&utm_source=git)** | Chantilly, VA | Remote | Nov 24 |
 | **[Genmab](https://www.genmab.com)** | **[Trial Master File & Site Management Intern](https://jobright.ai/jobs/info/692482b6c0cefa13343df221?utm_campaign=1055&utm_source=git)** | Princeton | Hybrid | Nov 24 |
 | **[CN](http://www.cn.ca)** | **[Intern, Data Governance, Risk, & Compliance (GRC)- EN](https://jobright.ai/jobs/info/6924a2fcc0cefa13343e034f?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 24 |
-| **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Legal Regulatory and Enforcement Internship](https://jobright.ai/jobs/info/6924770dec574f4265bb3dcf?utm_campaign=1055&utm_source=git)** | Greenwich, CT | On Site | Nov 24 |
+| **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Legal Regulatory and Enforcement Internship](https://jobright.ai/jobs/info/6924752ac0cefa13343decbd?utm_campaign=1055&utm_source=git)** | Greenwich, CT | On Site | Nov 24 |
 | **[LeoLabs](http://www.leolabs.space)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/69245ebdc0cefa13343de506?utm_campaign=1055&utm_source=git)** | Chantilly, Virginia | Remote | Nov 24 |
 | **[Bright Power](https://www.brightpower.com/)** | **[Compliance Benchmarking Intern](https://jobright.ai/jobs/info/692455c0ec574f4265bb32d5?utm_campaign=1055&utm_source=git)** | New York, NY, USA | Hybrid | Nov 24 |
 | **[Legal Pathway Society](https://engage.palmbeachstate.edu/organization/legal-pathway-society)** | **[Legal Pathway Society Internship (Florida-Focused)](https://jobright.ai/jobs/info/6923575cc0cefa13343da892?utm_campaign=1055&utm_source=git)** | Palm Beach, FL | Hybrid | Nov 23 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fulton County Government](https://www.fultoncountyga.gov)** | **[INTERN - CLERK OF SUPERIOR AND MAGISTRATE COURTS](https://jobright.ai/jobs/info/6923077d38cd5478a8d55e46?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Regional & Product Policy Project Intern (Business Integrity) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68e995f5f195760c354aaeaf?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Nov 22 |
 | ↳ | **[Regional & Product Policy Project Intern (Business Integrity) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68e9953f0930fe0bc4627864?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Nov 22 |
-| **[Sompo](https://www.sompo-intl.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/68ec986dd4b0106e703e9ee0?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
-| **[OpenSesame](http://www.OpenSesame.com)** | **[Security and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/69214c43a49a885af9a44c97?utm_campaign=1055&utm_source=git)** | Boulder, CO | On Site | Nov 21 |
-| ↳ | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/69214aed00c9ee50eaecd887?utm_campaign=1055&utm_source=git)** | Reno, NV | Remote | Nov 21 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Regulatory Intern](https://jobright.ai/jobs/info/692135c43f782d2f1afd054f?utm_campaign=1055&utm_source=git)** | Green Bay, WI | On Site | Nov 21 |
-| **[OpenSesame](http://www.OpenSesame.com)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/6921298400c9ee50eaecc642?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 21 |
-| **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Quality Assurance & Compliance Intern (Graduate)](https://jobright.ai/jobs/info/69211c1e3f782d2f1afcf3dc?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
