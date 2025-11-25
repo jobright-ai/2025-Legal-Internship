@@ -92,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Legal Regulatory and Enforcement Internship](https://jobright.ai/jobs/info/6924752ac0cefa13343decbd?utm_campaign=1055&utm_source=git)** | Greenwich, CT | On Site | Nov 24 |
 | **[LeoLabs](http://www.leolabs.space)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/69245ebdc0cefa13343de506?utm_campaign=1055&utm_source=git)** | Chantilly, Virginia | Remote | Nov 24 |
 | **[Bright Power](https://www.brightpower.com/)** | **[Compliance Benchmarking Intern](https://jobright.ai/jobs/info/692455c0ec574f4265bb32d5?utm_campaign=1055&utm_source=git)** | New York, NY, USA | Hybrid | Nov 24 |
-| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/692425eb7795cd460c83b50a?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Nov 23 |
 | **[Legal Pathway Society](https://engage.palmbeachstate.edu/organization/legal-pathway-society)** | **[Legal Pathway Society Internship (Florida-Focused)](https://jobright.ai/jobs/info/6923575cc0cefa13343da892?utm_campaign=1055&utm_source=git)** | Palm Beach, FL | Hybrid | Nov 23 |
 | **[Henkel](http://www.henkel.com)** | **[Product Safety & Regulatory Affairs Intern – Summer 2026](https://jobright.ai/jobs/info/68b3db00bc187f64e1be1e99?utm_campaign=1055&utm_source=git)** | Rocky Hill, CT | Hybrid | Nov 23 |
 | ↳ | **[Product Safety and Regulatory Affairs Intern – Summer 2026](https://jobright.ai/jobs/info/68ce7dad846f0b04af67a601?utm_campaign=1055&utm_source=git)** | Rocky Hill, CT | Hybrid | Nov 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6904376863502c0aded71a44?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern - R&D Global Regulatory Writing](https://jobright.ai/jobs/info/6920a4d73f782d2f1afc9b60?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Nov 21 |
 | **[DIRECTV](https://www.directv.com/)** | **[DIRECTV Legal Internship – Summer 2026](https://jobright.ai/jobs/info/6920a824a49a885af9a3dc96?utm_campaign=1055&utm_source=git)** | El Segundo, CA | Remote | Nov 21 |
+| **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Legal & Compliance Summer Intern - Mortgage Insurance](https://jobright.ai/jobs/info/68af6266962903596357c470?utm_campaign=1055&utm_source=git)** | Triad Area | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
