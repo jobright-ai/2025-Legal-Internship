@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Balfour Beatty US](https://www.balfourbeattyus.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6924fed238cd5478a8d61225?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Nov 24 |
+| **[CN](http://www.cn.ca)** | **[Intern, Logistic & Customs Compliance- EN](https://jobright.ai/jobs/info/6924ede8c0cefa13343e43f9?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 24 |
 | **[Savannah River National Laboratory](https://www.srnl.gov)** | **[Post Graduate Intern - Law Clerk](https://jobright.ai/jobs/info/6924e5e5c0cefa13343e39c0?utm_campaign=1055&utm_source=git)** | Aiken, SC | On Site | Nov 24 |
 | **[CN](http://www.cn.ca)** | **[Intern, Enterprise Risk Management & Insurance- EN](https://jobright.ai/jobs/info/6924e4a238cd5478a8d5f587?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 24 |
 | ↳ | **[Intern, Third Party Risk Management- EN](https://jobright.ai/jobs/info/6924df8eec574f4265bb80ea?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 24 |
 | **[Figure](https://www.figure.ai)** | **[Legal Intern [Summer 2026]](https://jobright.ai/jobs/info/6924dda4c0cefa13343e2ea9?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
+| **[Chesapeake Bank](http://chesbank.com)** | **[Internships](https://jobright.ai/jobs/info/6924f895c0cefa13343e4f66?utm_campaign=1055&utm_source=git)** | Kilmarnock, VA | Hybrid | Nov 24 |
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6924da8238cd5478a8d5ea2d?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Nov 24 |
 | **[Innocence Project](http://www.innocenceproject.org)** | **[2026 Post Conviction Litigation Summer Law Student Intern](https://jobright.ai/jobs/info/6924d678c0cefa13343e284e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 24 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Spring 2026 Litigation Intern](https://jobright.ai/jobs/info/692014fb3f782d2f1afc2a6c?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 24 |
@@ -76,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Notion](https://www.notion.so)** | **[Trust and Safety, Fraud and Abuse Analyst Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b8654d046ab6061ce4f0f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Nov 24 |
 | **[Ezee Fiber](https://ezeefiber.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/6924ad90c0cefa13343e09d6?utm_campaign=1055&utm_source=git)** | Houston,  TX | Hybrid | Nov 24 |
 | ↳ | **[Legal Internship](https://jobright.ai/jobs/info/6924ad7538cd5478a8d5c766?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Nov 24 |
-| **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/690f276f221b890c278144a5?utm_campaign=1055&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 24 |
 | **[Genmab](https://www.genmab.com)** | **[Trial Master File & Site Management Intern](https://jobright.ai/jobs/info/6924a8b7ec574f4265bb5774?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Nov 24 |
 | **[Savannah River National Laboratory](https://www.srnl.gov)** | **[Post Graduate Intern - Law Clerk](https://jobright.ai/jobs/info/6924c7c7c0cefa13343e1d2f?utm_campaign=1055&utm_source=git)** | Aiken, SC, United States | On Site | Nov 24 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - New York](https://jobright.ai/jobs/info/6904d274122e8474c78d37f3?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DIRECTV](https://www.directv.com/)** | **[DIRECTV Legal Internship – Summer 2026](https://jobright.ai/jobs/info/6920a824a49a885af9a3dc96?utm_campaign=1055&utm_source=git)** | El Segundo, CA | Remote | Nov 21 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Legal & Compliance Summer Intern - Mortgage Insurance](https://jobright.ai/jobs/info/68af6266962903596357c470?utm_campaign=1055&utm_source=git)** | Triad Area | Hybrid | Nov 21 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Reproductive Rights and Health Intern](https://jobright.ai/jobs/info/69042612ff462851feff354b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
-| **[Americold Logistics, LLC.](http://americold.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e81d26cc49a84b7e10228b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 21 |
-| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Regulatory Information Management and Technology](https://jobright.ai/jobs/info/6920879700c9ee50eaec5174?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
