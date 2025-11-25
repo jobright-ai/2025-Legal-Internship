@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Applications and Enforcement Intern)](https://jobright.ai/jobs/info/692619f3f0beb0723262205a?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 25 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/69261555d47de4798ecd454b?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Nov 25 |
+| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Compliance Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/6926141d27bf2f41a2c432bc?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Nov 25 |
+| **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Denver](https://jobright.ai/jobs/info/69092f70d046ab6061cd28f8?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 25 |
+| **[PHINIA](https://phinia.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69260be927bf2f41a2c42ded?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Nov 25 |
+| **[Legal Services of Eastern Missouri](https://lsem.org/)** | **[Fall / Spring Legal Intern (unpaid)](https://jobright.ai/jobs/info/69260937d47de4798ecd3c58?utm_campaign=1055&utm_source=git)** | St. Louis,MO,US | On Site | Nov 25 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Intern (Unpaid)](https://jobright.ai/jobs/info/692606e527bf2f41a2c428a9?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | On Site | Nov 25 |
 | **[Legal Services of Eastern Missouri](https://lsem.org/)** | **[Summer 2026 Legal Intern (unpaid)](https://jobright.ai/jobs/info/6926031f27bf2f41a2c42706?utm_campaign=1055&utm_source=git)** | St. Louis,MO,US | On Site | Nov 25 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Compliance Governance](https://jobright.ai/jobs/info/690915d0d046ab6061cd11db?utm_campaign=1055&utm_source=git)** | Raleigh, NC | Hybrid | Nov 25 |
 | **[PHINIA](https://phinia.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6925f3fff0beb07232620997?utm_campaign=1055&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA | On Site | Nov 25 |
@@ -70,10 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Enterprise Compliance](https://jobright.ai/jobs/info/6925d96dd47de4798ecd225e?utm_campaign=1055&utm_source=git)** | Morristown, NJ, 07960, United States | On Site | Nov 25 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Global Regulatory Affairs Labeling Operations Intern](https://jobright.ai/jobs/info/690d58614a1b456627b20a42?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
 | **[Sun Country Airlines](https://www.suncountry.com/)** | **[Ground Operations Compliance Intern](https://jobright.ai/jobs/info/69092db4d046ab6061cd2760?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 25 |
-| **[Stratify Edge](stratifyedge.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6925e65e27bf2f41a2c4166f?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Nov 25 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Intern - Law Clerk](https://jobright.ai/jobs/info/69093a78bcccf20de59d8f99?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Nov 25 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6925c3b7d47de4798ecd1771?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ USA | Hybrid | Nov 25 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6925c11b27bf2f41a2c4038c?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Nov 25 |
 | **[Copart](http://www.copart.com)** | **[Technology Compliance Intern](https://jobright.ai/jobs/info/68ed411e70b66e2345d3bf06?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 25 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Legal Affairs Intern](https://jobright.ai/jobs/info/690915fa4a1b456627afc331?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
 | ↳ | **[Compliance Monitoring Intern](https://jobright.ai/jobs/info/690910f6bcccf20de59d6b60?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
@@ -151,10 +156,5 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Quality Assurance & Compliance Intern (Graduate)](https://jobright.ai/jobs/info/68e983b2f195760c354aa21a?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Nov 22 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/68d4ca4bffc1276de3fde265?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Nov 22 |
 | ↳ | **[Deputy Probation Officer/ Intern Volunteer](https://jobright.ai/jobs/info/68e59089ae2b894b1d711356?utm_campaign=1055&utm_source=git)** | Lakewood, CO | On Site | Nov 22 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Quality Assurance & Compliance Intern](https://jobright.ai/jobs/info/68e97ff80930fe0bc46267a4?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Nov 22 |
-| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Surety Intern (Summer 2026)](https://jobright.ai/jobs/info/68cda6fb1ad6b16f0289cf1a?utm_campaign=1055&utm_source=git)** | Westfield Center, OH | Hybrid | Nov 22 |
 | **[ComForCare](https://comforcare.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6921b2e1d1ec2c3565c45898?utm_campaign=1055&utm_source=git)** | West Chester, PA | On Site | Nov 22 |
-| **[Fulton County Government](https://www.fultoncountyga.gov)** | **[INTERN - CLERK OF SUPERIOR AND MAGISTRATE COURTS](https://jobright.ai/jobs/info/6923077d38cd5478a8d55e46?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 22 |
-| **[TikTok](https://www.tiktok.com)** | **[Regional & Product Policy Project Intern (Business Integrity) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68e995f5f195760c354aaeaf?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Nov 22 |
-| ↳ | **[Regional & Product Policy Project Intern (Business Integrity) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68e9953f0930fe0bc4627864?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
