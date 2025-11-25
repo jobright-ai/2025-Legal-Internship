@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Records and Information)](https://jobright.ai/jobs/info/692552b3f0beb0723261ce47?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 24 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[Copyright and Licensing Intern](https://jobright.ai/jobs/info/69250ccfec574f4265bbb009?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | Nov 24 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Records and Information)](https://jobright.ai/jobs/info/692526e8d47de4798eccd7b1?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 24 |
 | **[Balfour Beatty US](https://www.balfourbeattyus.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6924fed238cd5478a8d61225?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Nov 24 |
@@ -81,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Notion](https://www.notion.so)** | **[Trust and Safety, Fraud and Abuse Analyst Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b8654d046ab6061ce4f0f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Nov 24 |
 | **[Ezee Fiber](https://ezeefiber.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/6924ad90c0cefa13343e09d6?utm_campaign=1055&utm_source=git)** | Houston,  TX | Hybrid | Nov 24 |
 | ↳ | **[Legal Internship](https://jobright.ai/jobs/info/6924ad7538cd5478a8d5c766?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Nov 24 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Program Intern - UNPAID](https://jobright.ai/jobs/info/69255c1bf0beb0723261d187?utm_campaign=1055&utm_source=git)** | Richmond, VA USA | Hybrid | Nov 24 |
 | **[Genmab](https://www.genmab.com)** | **[Trial Master File & Site Management Intern](https://jobright.ai/jobs/info/6924a8b7ec574f4265bb5774?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Nov 24 |
 | **[Savannah River National Laboratory](https://www.srnl.gov)** | **[Post Graduate Intern - Law Clerk](https://jobright.ai/jobs/info/6924c7c7c0cefa13343e1d2f?utm_campaign=1055&utm_source=git)** | Aiken, SC, United States | On Site | Nov 24 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - New York](https://jobright.ai/jobs/info/6904d274122e8474c78d37f3?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
@@ -89,7 +91,7 @@ For a complete list, click the following sortable link below:
 | **[LeoLabs](http://www.leolabs.space)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/69248bdf38cd5478a8d5b3ca?utm_campaign=1055&utm_source=git)** | Chantilly, VA | Remote | Nov 24 |
 | **[Genmab](https://www.genmab.com)** | **[Trial Master File & Site Management Intern](https://jobright.ai/jobs/info/692482b6c0cefa13343df221?utm_campaign=1055&utm_source=git)** | Princeton | Hybrid | Nov 24 |
 | **[CN](http://www.cn.ca)** | **[Intern, Data Governance, Risk, & Compliance (GRC)- EN](https://jobright.ai/jobs/info/6924a2fcc0cefa13343e034f?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 24 |
-| **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Legal Regulatory and Enforcement Internship](https://jobright.ai/jobs/info/6924752ac0cefa13343decbd?utm_campaign=1055&utm_source=git)** | Greenwich, CT | On Site | Nov 24 |
+| **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Legal Regulatory and Enforcement Internship](https://jobright.ai/jobs/info/6924770dec574f4265bb3dcf?utm_campaign=1055&utm_source=git)** | Greenwich, CT | On Site | Nov 24 |
 | **[LeoLabs](http://www.leolabs.space)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/69245ebdc0cefa13343de506?utm_campaign=1055&utm_source=git)** | Chantilly, Virginia | Remote | Nov 24 |
 | **[Bright Power](https://www.brightpower.com/)** | **[Compliance Benchmarking Intern](https://jobright.ai/jobs/info/692455c0ec574f4265bb32d5?utm_campaign=1055&utm_source=git)** | New York, NY, USA | Hybrid | Nov 24 |
 | **[Legal Pathway Society](https://engage.palmbeachstate.edu/organization/legal-pathway-society)** | **[Legal Pathway Society Internship (Florida-Focused)](https://jobright.ai/jobs/info/6923575cc0cefa13343da892?utm_campaign=1055&utm_source=git)** | Palm Beach, FL | Hybrid | Nov 23 |
@@ -100,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[MacArthur Justice Center](https://www.macarthurjustice.org/)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69069a6f122e8474c78e04a9?utm_campaign=1055&utm_source=git)** | New Orleans, LA | On Site | Nov 23 |
 | ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/690697cd63502c0aded827c0?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 23 |
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/68787169866a435525ab96d3?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 23 |
+| **[Allegiant](https://www.allegiantair.com/)** | **[Intern, Information Risk & Compliance](https://jobright.ai/jobs/info/692541c227bf2f41a2c3db19?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Nov 22 |
 | **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[McDonough Customs Compliance Summer 2026 Intern](https://jobright.ai/jobs/info/691f8f4b09cc522e87742f21?utm_campaign=1055&utm_source=git)** | McDonough, GA | On Site | Nov 22 |
 | **[Compassion International](http://www.compassion.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/69011bbe4539ea1f2141c978?utm_campaign=1055&utm_source=git)** | Center, IN | On Site | Nov 22 |
 | **[Prairie State Legal Services Inc.](https://pslegal.org)** | **[Summer 2026 Law Student Internship](https://jobright.ai/jobs/info/69222632d1ec2c3565c46dd0?utm_campaign=1055&utm_source=git)** | Rockford, IL | On Site | Nov 22 |
@@ -109,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/Intern Volunteer](https://jobright.ai/jobs/info/68d4c916fcd3367e8df17cdf?utm_campaign=1055&utm_source=git)** | Pueblo, CO | On Site | Nov 22 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/6921f7d13f782d2f1afd43c8?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 22 |
 | **[NetApp](http://netapp.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/6921d6993f782d2f1afd3fe7?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Nov 22 |
+| **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[Legal Intern (unpaid)](https://jobright.ai/jobs/info/692309f87795cd460c837f05?utm_campaign=1055&utm_source=git)** | Michigan, United States | Remote | Nov 22 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Regulatory Information Management and Technology](https://jobright.ai/jobs/info/6921d0363f782d2f1afd3ef6?utm_campaign=1055&utm_source=git)** | Home, KS | Remote | Nov 22 |
-| **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[Legal Intern (unpaid)](https://jobright.ai/jobs/info/692309f87795cd460c837f05?utm_campaign=1055&utm_source=git)** | Michigan, United States | On Site | Nov 22 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern - R&D Global Regulatory Writing](https://jobright.ai/jobs/info/6921ccc5a49a885af9a47b02?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 22 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Quality Assurance & Compliance Intern (Graduate)](https://jobright.ai/jobs/info/68e983b2f195760c354aa21a?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Nov 22 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/68d4ca4bffc1276de3fde265?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Nov 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Enterprise Services Governance and Reporting Intern [2026 Internship Program]](https://jobright.ai/jobs/info/6921cb583f782d2f1afd3e35?utm_campaign=1055&utm_source=git)** | 18301 Bermuda Green Dr, Tampa, FL, 33647, US | Hybrid | Nov 21 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Spring 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6904279363502c0aded71033?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
 | ↳ | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6904376863502c0aded71a44?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
-| **[Amgen](http://www.amgen.com)** | **[Grad Intern - R&D Global Regulatory Writing](https://jobright.ai/jobs/info/6920a4d73f782d2f1afc9b60?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Nov 21 |
-| **[DIRECTV](https://www.directv.com/)** | **[DIRECTV Legal Internship – Summer 2026](https://jobright.ai/jobs/info/6920a824a49a885af9a3dc96?utm_campaign=1055&utm_source=git)** | El Segundo, CA | Remote | Nov 21 |
-| **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Legal & Compliance Summer Intern - Mortgage Insurance](https://jobright.ai/jobs/info/68af6266962903596357c470?utm_campaign=1055&utm_source=git)** | Triad Area | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
