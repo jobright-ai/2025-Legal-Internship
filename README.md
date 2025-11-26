@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legal Services of Eastern Missouri](https://lsem.org/)** | **[Summer 2026 Legal Intern (unpaid)](https://jobright.ai/jobs/info/69266e3af0beb07232624cd0?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Nov 25 |
+| ↳ | **[Fall / Spring Legal Intern (unpaid)](https://jobright.ai/jobs/info/6926761627bf2f41a2c4649b?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Nov 25 |
 | **[CN](http://www.cn.ca)** | **[Intern, Law (Risk Mitigation) US- FR](https://jobright.ai/jobs/info/69265469d47de4798ecd66d9?utm_campaign=1055&utm_source=git)** | Homewood, IL | On Site | Nov 25 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/69264ebd27bf2f41a2c452a9?utm_campaign=1055&utm_source=git)** | Oshkosh, WI | On Site | Nov 25 |
 | **[CN](http://www.cn.ca)** | **[Intern, Law (Regulatory Affairs) US- FR](https://jobright.ai/jobs/info/69264cf727bf2f41a2c451dc?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 25 |
+| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Applications and Enforcement Intern)](https://jobright.ai/jobs/info/6926757ef0beb07232625107?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 25 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Legal Summer Associate Intern](https://jobright.ai/jobs/info/69263f4f27bf2f41a2c44bf6?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 25 |
 | ↳ | **[Risk Intern](https://jobright.ai/jobs/info/69263aabf0beb072326234fb?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Nov 25 |
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2025- Healthcare Legal](https://jobright.ai/jobs/info/6926366bd47de4798ecd5928?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Nov 25 |
@@ -73,7 +76,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6926576b27bf2f41a2c455fc?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Nov 25 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Applications and Enforcement Intern)](https://jobright.ai/jobs/info/692619f3f0beb0723262205a?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 25 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/69261555d47de4798ecd454b?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Nov 25 |
-| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Compliance Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/6926141d27bf2f41a2c432bc?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Nov 25 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Denver](https://jobright.ai/jobs/info/69092f70d046ab6061cd28f8?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 25 |
 | **[PHINIA](https://phinia.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69260be927bf2f41a2c42ded?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Nov 25 |
 | **[Legal Services of Eastern Missouri](https://lsem.org/)** | **[Fall / Spring Legal Intern (unpaid)](https://jobright.ai/jobs/info/69260937d47de4798ecd3c58?utm_campaign=1055&utm_source=git)** | St. Louis,MO,US | On Site | Nov 25 |
@@ -81,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Intern (Unpaid)](https://jobright.ai/jobs/info/692606e527bf2f41a2c428a9?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | On Site | Nov 25 |
 | **[Legal Services of Eastern Missouri](https://lsem.org/)** | **[Summer 2026 Legal Intern (unpaid)](https://jobright.ai/jobs/info/6926031f27bf2f41a2c42706?utm_campaign=1055&utm_source=git)** | St. Louis,MO,US | On Site | Nov 25 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Compliance Governance](https://jobright.ai/jobs/info/690915d0d046ab6061cd11db?utm_campaign=1055&utm_source=git)** | Raleigh, NC | Hybrid | Nov 25 |
+| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Compliance Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/69261e42d47de4798ecd4b54?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Nov 25 |
 | **[PHINIA](https://phinia.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6925f3fff0beb07232620997?utm_campaign=1055&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA | On Site | Nov 25 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Compliance](https://jobright.ai/jobs/info/6925ef4ef0beb072326207af?utm_campaign=1055&utm_source=git)** | Hancock Whitney Center - New Orleans, LA | On Site | Nov 25 |
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2025- Healthcare Legal](https://jobright.ai/jobs/info/6925edd727bf2f41a2c41a97?utm_campaign=1055&utm_source=git)** | Little Rock | On Site | Nov 25 |
@@ -125,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6924cfc0c0cefa13343e241f?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Nov 24 |
 | **[Emera](http://www.emera.com/)** | **[Manager, IT Internal Control & Compliance](https://jobright.ai/jobs/info/6924ce0038cd5478a8d5e021?utm_campaign=1055&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Nov 24 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Construction Management - Contracts Administration - Hybrid](https://jobright.ai/jobs/info/6924c2e038cd5478a8d5d753?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 24 |
-| **[Ezee Fiber](https://ezeefiber.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/6924e792c0cefa13343e3c87?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Nov 24 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Regulatory and Scientific Affairs Intern](https://jobright.ai/jobs/info/6924c017ec574f4265bb68d4?utm_campaign=1055&utm_source=git)** | St Louis, MO | Hybrid | Nov 24 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2026 Graduate Internship - Consumer Affairs Examiner](https://jobright.ai/jobs/info/6924b9ecc0cefa13343e12dc?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 24 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Legal Intern (NYC Office)](https://jobright.ai/jobs/info/6924b7a138cd5478a8d5ceff?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
@@ -134,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Playfly Sports](https://www.playfly.com/)** | **[Legal Intern (Philadelphia Office)](https://jobright.ai/jobs/info/6924b1a0ec574f4265bb5d04?utm_campaign=1055&utm_source=git)** | Berwyn, PA | Hybrid | Nov 24 |
 | **[Notion](https://www.notion.so)** | **[Trust and Safety, Fraud and Abuse Analyst Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b8654d046ab6061ce4f0f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Nov 24 |
 | **[Ezee Fiber](https://ezeefiber.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/6924ad90c0cefa13343e09d6?utm_campaign=1055&utm_source=git)** | Houston,  TX | Hybrid | Nov 24 |
+| ↳ | **[Legal Internship](https://jobright.ai/jobs/info/6924ad7538cd5478a8d5c766?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Nov 24 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Program Intern - UNPAID](https://jobright.ai/jobs/info/69255c1bf0beb0723261d187?utm_campaign=1055&utm_source=git)** | Richmond, VA USA | Hybrid | Nov 24 |
 | **[Genmab](https://www.genmab.com)** | **[Trial Master File & Site Management Intern](https://jobright.ai/jobs/info/6924a8b7ec574f4265bb5774?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Nov 24 |
 | **[Savannah River National Laboratory](https://www.srnl.gov)** | **[Post Graduate Intern - Law Clerk](https://jobright.ai/jobs/info/6924c7c7c0cefa13343e1d2f?utm_campaign=1055&utm_source=git)** | Aiken, SC, United States | On Site | Nov 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MacArthur Justice Center](https://www.macarthurjustice.org/)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69069a6f122e8474c78e04a9?utm_campaign=1055&utm_source=git)** | New Orleans, LA | On Site | Nov 23 |
 | ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/690697cd63502c0aded827c0?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 23 |
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2026 Risk Advisory Summer Intern](https://jobright.ai/jobs/info/68787169866a435525ab96d3?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 23 |
-| **[Allegiant](https://www.allegiantair.com/)** | **[Intern, Information Risk & Compliance](https://jobright.ai/jobs/info/692541c227bf2f41a2c3db19?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Nov 22 |
-| **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[McDonough Customs Compliance Summer 2026 Intern](https://jobright.ai/jobs/info/691f8f4b09cc522e87742f21?utm_campaign=1055&utm_source=git)** | McDonough, GA | On Site | Nov 22 |
-| **[Compassion International](http://www.compassion.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/69011bbe4539ea1f2141c978?utm_campaign=1055&utm_source=git)** | Center, IN | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
