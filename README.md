@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Administrative Division](https://jobright.ai/jobs/info/690a52484a1b456627b062f3?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Nov 26 |
+| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Patent Legal Intern](https://jobright.ai/jobs/info/690ac4234a1b456627b0b2d3?utm_campaign=1055&utm_source=git)** | Everett, WA | Hybrid | Nov 26 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Surveillance Compliance Intern](https://jobright.ai/jobs/info/68cf639e846f0b04af681bd4?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 26 |
 | **[Medpace](http://www.medpace.com)** | **[Regulatory Research Spring 2026 Intern](https://jobright.ai/jobs/info/6799a5f27b45d044d3fd9e63?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 26 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Global Trade Compliance Intern Summer 2026](https://jobright.ai/jobs/info/691acd2a15b415636718acb1?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Nov 26 |
@@ -134,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6924cfc0c0cefa13343e241f?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Nov 24 |
 | **[Emera](http://www.emera.com/)** | **[Manager, IT Internal Control & Compliance](https://jobright.ai/jobs/info/6924ce0038cd5478a8d5e021?utm_campaign=1055&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Nov 24 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Construction Management - Contracts Administration - Hybrid](https://jobright.ai/jobs/info/6924c2e038cd5478a8d5d753?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 24 |
-| **[Ezee Fiber](https://ezeefiber.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/6924e792c0cefa13343e3c87?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Nov 24 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Regulatory and Scientific Affairs Intern](https://jobright.ai/jobs/info/6924c017ec574f4265bb68d4?utm_campaign=1055&utm_source=git)** | St Louis, MO | Hybrid | Nov 24 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2026 Graduate Internship - Consumer Affairs Examiner](https://jobright.ai/jobs/info/6924b9ecc0cefa13343e12dc?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 24 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Legal Intern (NYC Office)](https://jobright.ai/jobs/info/6924b7a138cd5478a8d5ceff?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
@@ -143,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Playfly Sports](https://www.playfly.com/)** | **[Legal Intern (Philadelphia Office)](https://jobright.ai/jobs/info/6924b1a0ec574f4265bb5d04?utm_campaign=1055&utm_source=git)** | Berwyn, PA | Hybrid | Nov 24 |
 | **[Notion](https://www.notion.so)** | **[Trust and Safety, Fraud and Abuse Analyst Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b8654d046ab6061ce4f0f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Nov 24 |
 | **[Ezee Fiber](https://ezeefiber.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/6924ad90c0cefa13343e09d6?utm_campaign=1055&utm_source=git)** | Houston,  TX | Hybrid | Nov 24 |
+| ↳ | **[Legal Internship](https://jobright.ai/jobs/info/6924ad7538cd5478a8d5c766?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Nov 24 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Program Intern - UNPAID](https://jobright.ai/jobs/info/69255c1bf0beb0723261d187?utm_campaign=1055&utm_source=git)** | Richmond, VA USA | Hybrid | Nov 24 |
 | **[Genmab](https://www.genmab.com)** | **[Trial Master File & Site Management Intern](https://jobright.ai/jobs/info/6924a8b7ec574f4265bb5774?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Nov 24 |
 | **[Savannah River National Laboratory](https://www.srnl.gov)** | **[Post Graduate Intern - Law Clerk](https://jobright.ai/jobs/info/6924c7c7c0cefa13343e1d2f?utm_campaign=1055&utm_source=git)** | Aiken, SC, United States | On Site | Nov 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Legal Regulatory and Enforcement Internship](https://jobright.ai/jobs/info/6924770dec574f4265bb3dcf?utm_campaign=1055&utm_source=git)** | Greenwich, CT | On Site | Nov 24 |
 | **[LeoLabs](http://www.leolabs.space)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/69245ebdc0cefa13343de506?utm_campaign=1055&utm_source=git)** | Chantilly, Virginia | Remote | Nov 24 |
 | **[Bright Power](https://www.brightpower.com/)** | **[Compliance Benchmarking Intern](https://jobright.ai/jobs/info/692455c0ec574f4265bb32d5?utm_campaign=1055&utm_source=git)** | New York, NY, USA | Hybrid | Nov 24 |
-| **[Legal Pathway Society](https://engage.palmbeachstate.edu/organization/legal-pathway-society)** | **[Legal Pathway Society Internship (Florida-Focused)](https://jobright.ai/jobs/info/6923575cc0cefa13343da892?utm_campaign=1055&utm_source=git)** | Palm Beach, FL | Hybrid | Nov 23 |
-| **[Henkel](http://www.henkel.com)** | **[Product Safety & Regulatory Affairs Intern – Summer 2026](https://jobright.ai/jobs/info/68b3db00bc187f64e1be1e99?utm_campaign=1055&utm_source=git)** | Rocky Hill, CT | Hybrid | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
