@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6c2c9821486c423c5b29?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 27 |
+| **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Program Integrity - R10690](https://jobright.ai/jobs/info/690bd3add046ab6061ce83f9?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Nov 27 |
+| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6b6fde50091dbfa4ea3e?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 27 |
+| **[Wellabe](https://www.wellabe.com)** | **[Legal Summer 2026 Internship- Hybrid -Des Moines, Iowa](https://jobright.ai/jobs/info/68d43effffc1276de3fd8988?utm_campaign=1055&utm_source=git)** | Des Moines, IA | Hybrid | Nov 27 |
 | **[Microsoft](https://www.microsoft.com)** | **[Legal Counsel Intern - Trusted Technology Group Accessibility Team](https://jobright.ai/jobs/info/692853e791ceeb2e8a54524b?utm_campaign=1055&utm_source=git)** | Redmond, WA | Hybrid | Nov 27 |
 | **[Notion](https://www.notion.so)** | **[Privacy and Risk Intern (Summer 2026)](https://jobright.ai/jobs/info/690b73f3221b890c277f5026?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
 | **[DESRI](https://desri.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd675ee23def7af55b97e0?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Nov 27 |
@@ -70,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6927f018d47de4798ece14ae?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Nov 26 |
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/6927d267d47de4798ece0ccc?utm_campaign=1055&utm_source=git)** | Johnston, IA | On Site | Nov 26 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/6927c147f0beb0723262db97?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 26 |
-| **[Legal Aid of NorthWest Texas](https://internet.lanwt.org/home)** | **[Intern/Clerkship - Community Revitalization Project (CRP)](https://jobright.ai/jobs/info/6927bb6691ceeb2e8a542ae2?utm_campaign=1055&utm_source=git)** | Lubbock, TX | On Site | Nov 26 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/6927b572d47de4798ecdfcb7?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Nov 26 |
 | **[Legal Aid of NorthWest Texas](https://internet.lanwt.org/home)** | **[Intern/Clerkship - Community Revitalization Project (CRP)](https://jobright.ai/jobs/info/6927b4abf0beb0723262d53f?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 26 |
 | **[Nassau County District Attorney](https://nassauda.org)** | **[Intern (Summer 2026)](https://jobright.ai/jobs/info/6927b1e491ceeb2e8a54255e?utm_campaign=1055&utm_source=git)** | Nassau, NY | On Site | Nov 26 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - City Attorney](https://jobright.ai/jobs/info/6927d318d47de4798ece0d5f?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Nov 25 |
 | **[Legal Services of Eastern Missouri](https://lsem.org/)** | **[Fall / Spring Legal Intern (unpaid)](https://jobright.ai/jobs/info/6926761627bf2f41a2c4649b?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Nov 25 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/69264ebd27bf2f41a2c452a9?utm_campaign=1055&utm_source=git)** | Oshkosh, WI | On Site | Nov 25 |
-| **[CN](http://www.cn.ca)** | **[Intern, Law (Regulatory Affairs) US- FR](https://jobright.ai/jobs/info/69264cf727bf2f41a2c451dc?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 25 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Applications and Enforcement Intern)](https://jobright.ai/jobs/info/6926757ef0beb07232625107?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 25 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Legal Summer Associate Intern](https://jobright.ai/jobs/info/69263f4f27bf2f41a2c44bf6?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 25 |
 | ↳ | **[Risk Intern](https://jobright.ai/jobs/info/69263aabf0beb072326234fb?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Nov 25 |
-| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2025- Healthcare Legal](https://jobright.ai/jobs/info/6926366bd47de4798ecd5928?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Nov 25 |
-| **[KeyBank](https://www.key.com)** | **[2026 KeyBank Business Risk & Compliance Spring Internship (Part-Time)](https://jobright.ai/jobs/info/691fa4d73f782d2f1afbeeb0?utm_campaign=1055&utm_source=git)** | Superior, CO | Remote | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
