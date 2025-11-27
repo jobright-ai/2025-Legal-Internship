@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaufman Dolowich LLP](https://www.kaufmandolowich.com/)** | **[2L Law Clerk Opportunity - Summer 2026](https://jobright.ai/jobs/info/69278ecef0beb0723262c178?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Nov 26 |
+| **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Law Intern- Intellectual Property](https://jobright.ai/jobs/info/6927799bd47de4798ecdd092?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 26 |
 | **[Allen Institute](https://alleninstitute.org/)** | **[Legal Internship – Beginning Summer 2026](https://jobright.ai/jobs/info/692775a991ceeb2e8a53f7c4?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Nov 26 |
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Law Intern- Transactions Law Group](https://jobright.ai/jobs/info/69277208d47de4798ecdcccf?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Law Intern- Data Privacy](https://jobright.ai/jobs/info/692770d4f0beb0723262a3e3?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 26 |
@@ -141,13 +143,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6926576b27bf2f41a2c455fc?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Nov 25 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Applications and Enforcement Intern)](https://jobright.ai/jobs/info/692619f3f0beb0723262205a?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 25 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/69261555d47de4798ecd454b?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Nov 25 |
-| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Compliance Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/6926141d27bf2f41a2c432bc?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Nov 25 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Denver](https://jobright.ai/jobs/info/69092f70d046ab6061cd28f8?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 25 |
 | **[PHINIA](https://phinia.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69260be927bf2f41a2c42ded?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Nov 25 |
 | **[Legal Services of Eastern Missouri](https://lsem.org/)** | **[Fall / Spring Legal Intern (unpaid)](https://jobright.ai/jobs/info/69260937d47de4798ecd3c58?utm_campaign=1055&utm_source=git)** | St. Louis,MO,US | On Site | Nov 25 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Intern (Unpaid)](https://jobright.ai/jobs/info/692606e527bf2f41a2c428a9?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | On Site | Nov 25 |
 | **[Legal Services of Eastern Missouri](https://lsem.org/)** | **[Summer 2026 Legal Intern (unpaid)](https://jobright.ai/jobs/info/6926031f27bf2f41a2c42706?utm_campaign=1055&utm_source=git)** | St. Louis,MO,US | On Site | Nov 25 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Compliance Governance](https://jobright.ai/jobs/info/690915d0d046ab6061cd11db?utm_campaign=1055&utm_source=git)** | Raleigh, NC | Hybrid | Nov 25 |
+| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Compliance Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/69261e42d47de4798ecd4b54?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Nov 25 |
 | **[PHINIA](https://phinia.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6925f3fff0beb07232620997?utm_campaign=1055&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA | On Site | Nov 25 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Compliance](https://jobright.ai/jobs/info/6925ef4ef0beb072326207af?utm_campaign=1055&utm_source=git)** | Hancock Whitney Center - New Orleans, LA | On Site | Nov 25 |
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2025- Healthcare Legal](https://jobright.ai/jobs/info/6925edd727bf2f41a2c41a97?utm_campaign=1055&utm_source=git)** | Little Rock | On Site | Nov 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Compliance Communications & Policy Intern](https://jobright.ai/jobs/info/69090a6cbcccf20de59d6594?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Law School/Legal](https://jobright.ai/jobs/info/6925daf3f0beb0723261fcd2?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Nov 25 |
 | **[Univest](http://www.univest.net/)** | **[Mortgage Intern](https://jobright.ai/jobs/info/69095c2b4a1b456627affb79?utm_campaign=1055&utm_source=git)** | Souderton, PA | On Site | Nov 25 |
-| **[Moskowitz Legal Group, LLP](http://moskowitzlegalgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69267d11f0beb07232625432?utm_campaign=1055&utm_source=git)** | Hewlett, NY | On Site | Nov 25 |
-| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Global Regulatory Affairs Labeling Operations Intern](https://jobright.ai/jobs/info/690d58614a1b456627b20a42?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
