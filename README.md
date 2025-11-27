@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/6927d267d47de4798ece0ccc?utm_campaign=1055&utm_source=git)** | Johnston, IA | On Site | Nov 26 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/6927c147f0beb0723262db97?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 26 |
 | **[Legal Aid of NorthWest Texas](https://internet.lanwt.org/home)** | **[Intern/Clerkship - Community Revitalization Project (CRP)](https://jobright.ai/jobs/info/6927bb6691ceeb2e8a542ae2?utm_campaign=1055&utm_source=git)** | Lubbock, TX | On Site | Nov 26 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/6927b572d47de4798ecdfcb7?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Nov 26 |
@@ -139,7 +140,8 @@ For a complete list, click the following sortable link below:
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Grant Compliance Legal Intern](https://jobright.ai/jobs/info/69268a9ef0beb07232625a0d?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Nov 25 |
 | **[CN](http://www.cn.ca)** | **[Intern, Law (Risk Mitigation) US- EN](https://jobright.ai/jobs/info/69268068f0beb072326255f1?utm_campaign=1055&utm_source=git)** | Homewood, IL | On Site | Nov 25 |
 | **[Legal Services of Eastern Missouri](https://lsem.org/)** | **[Summer 2026 Legal Intern (unpaid)](https://jobright.ai/jobs/info/69266e3af0beb07232624cd0?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Nov 25 |
-| ↳ | **[Fall / Spring Legal Intern (unpaid)](https://jobright.ai/jobs/info/6926761627bf2f41a2c4649b?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Nov 25 |
+| **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - City Attorney](https://jobright.ai/jobs/info/6927d318d47de4798ece0d5f?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Nov 25 |
+| **[Legal Services of Eastern Missouri](https://lsem.org/)** | **[Fall / Spring Legal Intern (unpaid)](https://jobright.ai/jobs/info/6926761627bf2f41a2c4649b?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Nov 25 |
 | **[CN](http://www.cn.ca)** | **[Intern, Law (Risk Mitigation) US- FR](https://jobright.ai/jobs/info/69265469d47de4798ecd66d9?utm_campaign=1055&utm_source=git)** | Homewood, IL | On Site | Nov 25 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/69264ebd27bf2f41a2c452a9?utm_campaign=1055&utm_source=git)** | Oshkosh, WI | On Site | Nov 25 |
 | **[CN](http://www.cn.ca)** | **[Intern, Law (Regulatory Affairs) US- FR](https://jobright.ai/jobs/info/69264cf727bf2f41a2c451dc?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6926576b27bf2f41a2c455fc?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Nov 25 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Applications and Enforcement Intern)](https://jobright.ai/jobs/info/692619f3f0beb0723262205a?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 25 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/69261555d47de4798ecd454b?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Nov 25 |
-| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Compliance Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/6926141d27bf2f41a2c432bc?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Nov 25 |
-| **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Denver](https://jobright.ai/jobs/info/69092f70d046ab6061cd28f8?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
