@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Legal Counsel Intern - Trusted Technology Group Accessibility Team](https://jobright.ai/jobs/info/692853e791ceeb2e8a54524b?utm_campaign=1055&utm_source=git)** | Redmond, WA | Hybrid | Nov 27 |
+| **[Notion](https://www.notion.so)** | **[Privacy and Risk Intern (Summer 2026)](https://jobright.ai/jobs/info/690b73f3221b890c277f5026?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
+| **[DESRI](https://desri.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd675ee23def7af55b97e0?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Nov 27 |
+| **[Ocean Conservancy](https://oceanconservancy.org/about/)** | **[Dana Wolfe Memorial Legal Intern](https://jobright.ai/jobs/info/68f208de2636ac47599f312a?utm_campaign=1055&utm_source=git)** | Bellingham, WA | Hybrid | Nov 27 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Technology and Information Compliance Undergraduate Intern](https://jobright.ai/jobs/info/6915c84a286ccf0a151308b3?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 27 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Legal Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/6921590b00c9ee50eaece0f3?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 27 |
 | **[Segal](https://www.segalco.com)** | **[Summer Intern - Compliance](https://jobright.ai/jobs/info/68fdb4820ab3b222462a4246?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 27 |
@@ -74,7 +78,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/6927ad7791ceeb2e8a5422f9?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Nov 26 |
 | ↳ | **[Intern - Risk Management - Fraud](https://jobright.ai/jobs/info/6927ad5e91ceeb2e8a5422e2?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Nov 26 |
 | **[Legal Aid of NorthWest Texas](https://internet.lanwt.org/home)** | **[Intern/Clerkship - Community Revitalization Project (CRP)](https://jobright.ai/jobs/info/6927aa7791ceeb2e8a5421e3?utm_campaign=1055&utm_source=git)** | Amarillo, TX | On Site | Nov 26 |
-| ↳ | **[Intern/Clerkship - Community Revitalization Project (CRP)](https://jobright.ai/jobs/info/6927a97991ceeb2e8a54216b?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Nov 26 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/6927c59791ceeb2e8a542f3e?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Nov 26 |
 | **[Kaufman Dolowich LLP](https://www.kaufmandolowich.com/)** | **[2L Law Clerk Opportunity - Spring 2026](https://jobright.ai/jobs/info/692791de91ceeb2e8a5414a9?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Nov 26 |
 | ↳ | **[2L Law Clerk Opportunity - Summer 2026](https://jobright.ai/jobs/info/69278ecef0beb0723262c178?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Nov 26 |
@@ -96,8 +99,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/6927634991ceeb2e8a53eae9?utm_campaign=1055&utm_source=git)** | TARRYTOWN | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/692762b7d47de4798ecdc02f?utm_campaign=1055&utm_source=git)** | SLEEPY HOLLOW | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Law Intern- Corporate Law](https://jobright.ai/jobs/info/692761d3d47de4798ecdbfd6?utm_campaign=1055&utm_source=git)** | SLEEPY HOLLOW | On Site | Nov 26 |
-| **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - City Attorney](https://jobright.ai/jobs/info/69275d1ef0beb07232629702?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Nov 26 |
-| **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Law Intern- Corporate Law](https://jobright.ai/jobs/info/69275bdc91ceeb2e8a53e61b?utm_campaign=1055&utm_source=git)** | TARRYTOWN | On Site | Nov 26 |
+| ↳ | **[Summer 2026 Law Intern- Corporate Law](https://jobright.ai/jobs/info/69275bdc91ceeb2e8a53e61b?utm_campaign=1055&utm_source=git)** | TARRYTOWN | On Site | Nov 26 |
 | **[Spire](https://www.spireenergy.com/)** | **[Intern, Pipeline Safety Compliance](https://jobright.ai/jobs/info/692757ecd47de4798ecdb9d2?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Nov 26 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Compliance Analyst](https://jobright.ai/jobs/info/69275424d47de4798ecdb820?utm_campaign=1055&utm_source=git)** | Worcester County, MA | On Site | Nov 26 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Data Governance](https://jobright.ai/jobs/info/69238a7638cd5478a8d56bf2?utm_campaign=1055&utm_source=git)** | Greater Milwaukee | On Site | Nov 26 |
@@ -132,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 - (Master's Students) Fraud and Risk Intern](https://jobright.ai/jobs/info/690a3be4d046ab6061cda4da?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Nov 26 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6a3478ba1621431dea32?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 26 |
 | **[BioSpace](http://www.biospace.com/)** | **[Grad Intern - R&D Global Regulatory Writing](https://jobright.ai/jobs/info/6927147d91ceeb2e8a53c70d?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 26 |
-| **[Arvento A](arventoa.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69272e7f91ceeb2e8a53d15f?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Nov 26 |
 | **[Comstock Companies](http://comstockcompanies.com/)** | **[Real Estate Law Internship](https://jobright.ai/jobs/info/68d01ca8846f0b04af687972?utm_campaign=1055&utm_source=git)** | Virginia, United States | On Site | Nov 26 |
 | **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Administrative Division](https://jobright.ai/jobs/info/690a52484a1b456627b062f3?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Nov 26 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Patent Legal Intern](https://jobright.ai/jobs/info/690ac4234a1b456627b0b2d3?utm_campaign=1055&utm_source=git)** | Everett, WA | Hybrid | Nov 26 |
@@ -149,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Legal Services of Eastern Missouri](https://lsem.org/)** | **[Summer 2026 Legal Intern (unpaid)](https://jobright.ai/jobs/info/69266e3af0beb07232624cd0?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Nov 25 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - City Attorney](https://jobright.ai/jobs/info/6927d318d47de4798ece0d5f?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Nov 25 |
 | **[Legal Services of Eastern Missouri](https://lsem.org/)** | **[Fall / Spring Legal Intern (unpaid)](https://jobright.ai/jobs/info/6926761627bf2f41a2c4649b?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Nov 25 |
-| **[CN](http://www.cn.ca)** | **[Intern, Law (Risk Mitigation) US- FR](https://jobright.ai/jobs/info/69265469d47de4798ecd66d9?utm_campaign=1055&utm_source=git)** | Homewood, IL | On Site | Nov 25 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/69264ebd27bf2f41a2c452a9?utm_campaign=1055&utm_source=git)** | Oshkosh, WI | On Site | Nov 25 |
 | **[CN](http://www.cn.ca)** | **[Intern, Law (Regulatory Affairs) US- FR](https://jobright.ai/jobs/info/69264cf727bf2f41a2c451dc?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 25 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Applications and Enforcement Intern)](https://jobright.ai/jobs/info/6926757ef0beb07232625107?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 25 |
