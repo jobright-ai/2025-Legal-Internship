@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[In-Person Law Student Paid Intern](https://jobright.ai/jobs/info/6928b769d47de4798ece3922?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 27 |
 | **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, General Counsel](https://jobright.ai/jobs/info/6928a913d47de4798ece3699?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 27 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69289d6cd47de4798ece3493?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Nov 27 |
 | **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, General Counsel](https://jobright.ai/jobs/info/6928986ed47de4798ece33ea?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 27 |
@@ -88,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - DRIVE Legal](https://jobright.ai/jobs/info/68eed26446e5b153e5a605bb?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 27 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Agribusiness Commercial Claims Intern](https://jobright.ai/jobs/info/6927f7c7f0beb0723262ef81?utm_campaign=1055&utm_source=git)** | Des Moines, IA | On Site | Nov 26 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship  - PDD Malden - Spring 2026](https://jobright.ai/jobs/info/6927f6f791ceeb2e8a544050?utm_campaign=1055&utm_source=git)** | US-MA-Malden | On Site | Nov 26 |
-| **[TechMore](https://www.linkedin.com/company/79056088)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6927f018d47de4798ece14ae?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Nov 26 |
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/6927d267d47de4798ece0ccc?utm_campaign=1055&utm_source=git)** | Johnston, IA | On Site | Nov 26 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/6927c147f0beb0723262db97?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 26 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/6927b572d47de4798ecdfcb7?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Nov 26 |
