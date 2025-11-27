@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Technology and Information Compliance Undergraduate Intern](https://jobright.ai/jobs/info/6915c84a286ccf0a151308b3?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 27 |
+| **[Tenet Healthcare](http://tenethealth.com)** | **[Legal Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/6921590b00c9ee50eaece0f3?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 27 |
+| **[Segal](https://www.segalco.com)** | **[Summer Intern - Compliance](https://jobright.ai/jobs/info/68fdb4820ab3b222462a4246?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 27 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - DRIVE Legal](https://jobright.ai/jobs/info/68eed26446e5b153e5a605bb?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 27 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Agribusiness Commercial Claims Intern](https://jobright.ai/jobs/info/6927f7c7f0beb0723262ef81?utm_campaign=1055&utm_source=git)** | Des Moines, IA | On Site | Nov 26 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship  - PDD Malden - Spring 2026](https://jobright.ai/jobs/info/6927f6f791ceeb2e8a544050?utm_campaign=1055&utm_source=git)** | US-MA-Malden | On Site | Nov 26 |
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6927f018d47de4798ece14ae?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Nov 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Intern](https://jobright.ai/jobs/info/69263aabf0beb072326234fb?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Nov 25 |
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2025- Healthcare Legal](https://jobright.ai/jobs/info/6926366bd47de4798ecd5928?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Nov 25 |
 | **[KeyBank](https://www.key.com)** | **[2026 KeyBank Business Risk & Compliance Spring Internship (Part-Time)](https://jobright.ai/jobs/info/691fa4d73f782d2f1afbeeb0?utm_campaign=1055&utm_source=git)** | Superior, CO | Remote | Nov 25 |
-| **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Settlement Intern](https://jobright.ai/jobs/info/69262c22d47de4798ecd53c5?utm_campaign=1055&utm_source=git)** | Lancaster, PA | On Site | Nov 25 |
-| **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Compliance](https://jobright.ai/jobs/info/6926d916f0beb07232626852?utm_campaign=1055&utm_source=git)** | New Orleans, LA | On Site | Nov 25 |
-| **[CN](http://www.cn.ca)** | **[Intern, Law (Regulatory Affairs) US- EN](https://jobright.ai/jobs/info/69264a06f0beb07232623c1f?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 25 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6926238c27bf2f41a2c43b30?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
