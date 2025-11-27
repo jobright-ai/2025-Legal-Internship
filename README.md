@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kaufman Dolowich LLP](https://www.kaufmandolowich.com/)** | **[2L Law Clerk Opportunity - Summer 2026](https://jobright.ai/jobs/info/69278ecef0beb0723262c178?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Nov 26 |
+| **[Legal Aid of NorthWest Texas](https://internet.lanwt.org/home)** | **[Intern/Clerkship - Community Revitalization Project (CRP)](https://jobright.ai/jobs/info/6927a97991ceeb2e8a54216b?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Nov 26 |
+| **[Kaufman Dolowich LLP](https://www.kaufmandolowich.com/)** | **[2L Law Clerk Opportunity - Spring 2026](https://jobright.ai/jobs/info/692791de91ceeb2e8a5414a9?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Nov 26 |
+| ↳ | **[2L Law Clerk Opportunity - Summer 2026](https://jobright.ai/jobs/info/69278ecef0beb0723262c178?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Nov 26 |
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Law Intern- Intellectual Property](https://jobright.ai/jobs/info/6927799bd47de4798ecdd092?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 26 |
 | **[Allen Institute](https://alleninstitute.org/)** | **[Legal Internship – Beginning Summer 2026](https://jobright.ai/jobs/info/692775a991ceeb2e8a53f7c4?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Nov 26 |
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Law Intern- Transactions Law Group](https://jobright.ai/jobs/info/69277208d47de4798ecdcccf?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2025- Healthcare Legal](https://jobright.ai/jobs/info/6925edd727bf2f41a2c41a97?utm_campaign=1055&utm_source=git)** | Little Rock | On Site | Nov 25 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Compliance](https://jobright.ai/jobs/info/6925eb8c27bf2f41a2c41871?utm_campaign=1055&utm_source=git)** | Hancock Whitney Plaza - Gulfport, MS | On Site | Nov 25 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Compliance Communications & Policy Intern](https://jobright.ai/jobs/info/69090a6cbcccf20de59d6594?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Law School/Legal](https://jobright.ai/jobs/info/6925daf3f0beb0723261fcd2?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Nov 25 |
-| **[Univest](http://www.univest.net/)** | **[Mortgage Intern](https://jobright.ai/jobs/info/69095c2b4a1b456627affb79?utm_campaign=1055&utm_source=git)** | Souderton, PA | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
