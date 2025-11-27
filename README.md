@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Agribusiness Commercial Claims Intern](https://jobright.ai/jobs/info/6927f7c7f0beb0723262ef81?utm_campaign=1055&utm_source=git)** | Des Moines, IA | On Site | Nov 26 |
+| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship  - PDD Malden - Spring 2026](https://jobright.ai/jobs/info/6927f6f791ceeb2e8a544050?utm_campaign=1055&utm_source=git)** | US-MA-Malden | On Site | Nov 26 |
+| **[TechMore](https://www.linkedin.com/company/79056088)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6927f018d47de4798ece14ae?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Nov 26 |
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/6927d267d47de4798ece0ccc?utm_campaign=1055&utm_source=git)** | Johnston, IA | On Site | Nov 26 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/6927c147f0beb0723262db97?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 26 |
 | **[Legal Aid of NorthWest Texas](https://internet.lanwt.org/home)** | **[Intern/Clerkship - Community Revitalization Project (CRP)](https://jobright.ai/jobs/info/6927bb6691ceeb2e8a542ae2?utm_campaign=1055&utm_source=git)** | Lubbock, TX | On Site | Nov 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Compliance](https://jobright.ai/jobs/info/6926d916f0beb07232626852?utm_campaign=1055&utm_source=git)** | New Orleans, LA | On Site | Nov 25 |
 | **[CN](http://www.cn.ca)** | **[Intern, Law (Regulatory Affairs) US- EN](https://jobright.ai/jobs/info/69264a06f0beb07232623c1f?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 25 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6926238c27bf2f41a2c43b30?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Nov 25 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6926576b27bf2f41a2c455fc?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Nov 25 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Applications and Enforcement Intern)](https://jobright.ai/jobs/info/692619f3f0beb0723262205a?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 25 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/69261555d47de4798ecd454b?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
