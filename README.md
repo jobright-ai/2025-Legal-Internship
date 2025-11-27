@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, General Counsel](https://jobright.ai/jobs/info/6928a913d47de4798ece3699?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 27 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69289d6cd47de4798ece3493?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Nov 27 |
+| **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, General Counsel](https://jobright.ai/jobs/info/6928986ed47de4798ece33ea?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 27 |
 | **[UPL](http://www.upl-ltd.com/)** | **[Federal Regulatory Intern](https://jobright.ai/jobs/info/6919978745fb6f5ead8a9cb7?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Nov 27 |
 | **[CN](http://www.cn.ca)** | **[Intern, Legal - Indigenous- EN](https://jobright.ai/jobs/info/6928865cd47de4798ece318b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 27 |
 | ↳ | **[Intern, Legal - Indigenous- EN](https://jobright.ai/jobs/info/6928851891ceeb2e8a545bdb?utm_campaign=1055&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Nov 27 |
@@ -128,6 +131,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef713e78ba1621431dee26?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 26 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Global Technology - Risk & Security](https://jobright.ai/jobs/info/68ee6f5ce0db924225805f10?utm_campaign=1055&utm_source=git)** | Chesterfield, MO | On Site | Nov 26 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6de19821486c423c5cd6?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Nov 26 |
+| **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - City Attorney](https://jobright.ai/jobs/info/692897c1f0beb07232630d0d?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Nov 26 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern- Operational Risk](https://jobright.ai/jobs/info/690aa62fbcccf20de59e4a52?utm_campaign=1055&utm_source=git)** | Green Bay, Wisconsin Metropolitan Area | On Site | Nov 26 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Fellow (Fall 2026)](https://jobright.ai/jobs/info/68c7bc62369c3763c743b0aa?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 26 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6a6c78ba1621431dea5e?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Grad Intern - R&D Global Regulatory Writing](https://jobright.ai/jobs/info/6927147d91ceeb2e8a53c70d?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 26 |
 | **[Comstock Companies](http://comstockcompanies.com/)** | **[Real Estate Law Internship](https://jobright.ai/jobs/info/68d01ca8846f0b04af687972?utm_campaign=1055&utm_source=git)** | Virginia, United States | On Site | Nov 26 |
 | **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Administrative Division](https://jobright.ai/jobs/info/690a52484a1b456627b062f3?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Nov 26 |
-| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Patent Legal Intern](https://jobright.ai/jobs/info/690ac4234a1b456627b0b2d3?utm_campaign=1055&utm_source=git)** | Everett, WA | Hybrid | Nov 26 |
-| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Spring 2026](https://jobright.ai/jobs/info/690a72c8bcccf20de59e25b7?utm_campaign=1055&utm_source=git)** | Doral, FL | On Site | Nov 26 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Surveillance Compliance Intern](https://jobright.ai/jobs/info/68cf639e846f0b04af681bd4?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 26 |
-| **[Medpace](http://www.medpace.com)** | **[Regulatory Research Spring 2026 Intern](https://jobright.ai/jobs/info/6799a5f27b45d044d3fd9e63?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
