@@ -95,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/6927d267d47de4798ece0ccc?utm_campaign=1055&utm_source=git)** | Johnston, IA | On Site | Nov 26 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/6927c147f0beb0723262db97?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 26 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/6927b572d47de4798ecdfcb7?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Nov 26 |
-| **[Legal Aid of NorthWest Texas](https://internet.lanwt.org/home)** | **[Intern/Clerkship - Community Revitalization Project (CRP)](https://jobright.ai/jobs/info/6927b4abf0beb0723262d53f?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 26 |
 | **[Nassau County District Attorney](https://nassauda.org)** | **[Intern (Summer 2026)](https://jobright.ai/jobs/info/6927b1e491ceeb2e8a54255e?utm_campaign=1055&utm_source=git)** | Nassau, NY | On Site | Nov 26 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6927adbed47de4798ecdf89f?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Nov 26 |
 | ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/6927ad7791ceeb2e8a5422f9?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Nov 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef71c0de50091dbfa4ec5f?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Nov 26 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 - (Master's Students) Fraud and Risk Intern](https://jobright.ai/jobs/info/690a3be4d046ab6061cda4da?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Nov 26 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6a3478ba1621431dea32?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 26 |
+| **[BioSpace](http://www.biospace.com/)** | **[Grad Intern - R&D Global Regulatory Writing](https://jobright.ai/jobs/info/6927147d91ceeb2e8a53c70d?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
