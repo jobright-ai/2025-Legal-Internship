@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sarpy County](https://www.sarpy.gov/)** | **[Law Clerk - Sarpy County Public Defenders Office - Current Law School Student](https://jobright.ai/jobs/info/69295b4a4c474121999c92e4?utm_campaign=1055&utm_source=git)** | Papillion, NE | On Site | Nov 28 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law](https://jobright.ai/jobs/info/692919b8d47de4798ece44ba?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Nov 27 |
 | **[Truist](https://www.truist.com)** | **[2026 AFCO Direct - Compliance & Legal - Internship](https://jobright.ai/jobs/info/69274e3ef0beb07232628d16?utm_campaign=1055&utm_source=git)** | Lake Forest, IL | Remote | Nov 27 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law](https://jobright.ai/jobs/info/6928c760f0beb072326314a7?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Nov 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef71c0de50091dbfa4ec5f?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Nov 26 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 - (Master's Students) Fraud and Risk Intern](https://jobright.ai/jobs/info/690a3be4d046ab6061cda4da?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Nov 26 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6a3478ba1621431dea32?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 26 |
-| **[BioSpace](http://www.biospace.com/)** | **[Grad Intern - R&D Global Regulatory Writing](https://jobright.ai/jobs/info/6927147d91ceeb2e8a53c70d?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
