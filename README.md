@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fried Frank](http://www.friedfrank.com/)** | **[Paralegal/Financial Services Intern](https://jobright.ai/jobs/info/68f2754e76a51a4307bc3e7c?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
+| **[State of Missouri](http://mo.gov)** | **[Law Student Legal Intern - Missouri State Public Defender System](https://jobright.ai/jobs/info/690e83b044146d3b6ec5511e?utm_campaign=1055&utm_source=git)** | Missouri, United States | On Site | Nov 29 |
+| **[Brookfield](https://bam.brookfield.com)** | **[Intern, Compliance, Public Securities Group](https://jobright.ai/jobs/info/68d748ebe5293e3538af391e?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 29 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Legal Division I](https://jobright.ai/jobs/info/68f27f9e9a65fd345857d289?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Nov 29 |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[New York Life Law Internship- Summer 2026](https://jobright.ai/jobs/info/6915c9d3286ccf0a151309b6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 29 |
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[Risk Solutions Intern - June 2026](https://jobright.ai/jobs/info/68b8d6b3ea901c0d269f9f72?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Nov 29 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68f18881f462172a5a7d9a16?utm_campaign=1055&utm_source=git)** | Greenville, NC | On Site | Nov 29 |
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[Transaction Liability Intern](https://jobright.ai/jobs/info/68f1b223f462172a5a7db42c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 29 |
@@ -71,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[RaceTrac](http://www.racetrac.com/)** | **[Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/690d4c61d046ab6061cf52a5?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 28 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2026 Internship - Vendor Compliance / Sourcing Operations](https://jobright.ai/jobs/info/690d2b32d046ab6061cf3b24?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Nov 28 |
 | **[Southwire Company](http://southwire.com)** | **[Legal Intern - Ethics & Compliance](https://jobright.ai/jobs/info/691abb8abcdbf3560c9da150?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Nov 28 |
-| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6929d350fa28370be26954e7?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Nov 28 |
 | **[Legal Aid Justice Center](https://www.justice4all.org)** | **[2026 Summer 2L Legal Intern](https://jobright.ai/jobs/info/69299e37fa28370be2694d98?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Nov 28 |
 | **[DESRI](https://desri.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd6643b2a74e1837ed68e5?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[Legal Aid Justice Center](https://www.justice4all.org)** | **[2026 Summer 1L Legal Intern](https://jobright.ai/jobs/info/692995164c474121999c9cfe?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Nov 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef69a6de50091dbfa4e814?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 26 |
 | ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6b3778ba1621431dec13?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Nov 26 |
 | **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney's Office Brave Justice Summer 2026 Legal Internship](https://jobright.ai/jobs/info/687e9e51db19f31cf0d6bba0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 26 |
-| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef71cd78ba1621431dee99?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
-| ↳ | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef713e78ba1621431dee26?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Nov 26 |
-| ↳ | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6de19821486c423c5cd6?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Nov 26 |
-| **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - City Attorney](https://jobright.ai/jobs/info/692897c1f0beb07232630d0d?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
