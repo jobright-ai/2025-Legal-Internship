@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Standards Compliance & Authorizations)](https://jobright.ai/jobs/info/691d5bd6bcdbf3560c9f0294?utm_campaign=1055&utm_source=git)** | Vienna, VA | On Site | Nov 29 |
+| **[Horizon Lane](horizonlane.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/692b34684c474121999cd70f?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Nov 29 |
+| **[Church Mutual Insurance Company, S.I.](http://www.churchmutual.com)** | **[Intern-Claims Auto](https://jobright.ai/jobs/info/690f2f8844146d3b6ec5a979?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Nov 29 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/690ec2a544146d3b6ec57982?utm_campaign=1055&utm_source=git)** | Florida, United States | Remote | Nov 29 |
 | **[PACCAR Financial Corp.](https://www.paccarfinancial.com)** | **[Financial Rotational Internship - Summer Internship 2026 / Lewisville, TX](https://jobright.ai/jobs/info/691a95d0bcdbf3560c9d8eed?utm_campaign=1055&utm_source=git)** | Lewisville, TX | On Site | Nov 29 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Legal and Privacy Intern - Summer 2026](https://jobright.ai/jobs/info/690e8726221b890c2780f0cd?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Law Intern- Corporate Law](https://jobright.ai/jobs/info/692770d1d47de4798ecdcbbf?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 26 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - AML / FCM](https://jobright.ai/jobs/info/69276f8f91ceeb2e8a53f491?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 26 |
 | **[Kelly Benefits](http://www.kellybenefits.com)** | **[Summer '26 Intern to join our Legal/Compliance Team](https://jobright.ai/jobs/info/69276f01d47de4798ecdc9e5?utm_campaign=1055&utm_source=git)** | Sparks Glencoe, MD | On Site | Nov 26 |
-| **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/69276eab91ceeb2e8a53f3a3?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 26 |
-| ↳ | **[Summer 2026 Law Intern- Data Privacy](https://jobright.ai/jobs/info/69276d64f0beb0723262a0ea?utm_campaign=1055&utm_source=git)** | SLEEPY HOLLOW | On Site | Nov 26 |
-| ↳ | **[Summer 2026 Law Intern- Data Privacy](https://jobright.ai/jobs/info/69276aecd47de4798ecdc72a?utm_campaign=1055&utm_source=git)** | TARRYTOWN | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
