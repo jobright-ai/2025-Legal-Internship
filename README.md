@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/690ec2a544146d3b6ec57982?utm_campaign=1055&utm_source=git)** | Florida, United States | Remote | Nov 29 |
+| **[PACCAR Financial Corp.](https://www.paccarfinancial.com)** | **[Financial Rotational Internship - Summer Internship 2026 / Lewisville, TX](https://jobright.ai/jobs/info/691a95d0bcdbf3560c9d8eed?utm_campaign=1055&utm_source=git)** | Lewisville, TX | On Site | Nov 29 |
+| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Legal and Privacy Intern - Summer 2026](https://jobright.ai/jobs/info/690e8726221b890c2780f0cd?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
+| **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Legal Intern](https://jobright.ai/jobs/info/690f121844146d3b6ec59e2c?utm_campaign=1055&utm_source=git)** | South Sioux City, NE | On Site | Nov 29 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/690ec5be44146d3b6ec57afd?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 29 |
 | ↳ | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/690ec2a0221b890c278117bc?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 29 |
 | ↳ | **[2026 Summer Internship Program: SBUs and R&D Legal Intern](https://jobright.ai/jobs/info/690ec647221b890c27811989?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Nov 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/69276eab91ceeb2e8a53f3a3?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Law Intern- Data Privacy](https://jobright.ai/jobs/info/69276d64f0beb0723262a0ea?utm_campaign=1055&utm_source=git)** | SLEEPY HOLLOW | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Law Intern- Data Privacy](https://jobright.ai/jobs/info/69276aecd47de4798ecdc72a?utm_campaign=1055&utm_source=git)** | TARRYTOWN | On Site | Nov 26 |
-| ↳ | **[Summer 2026 Law Intern- Intellectual Property](https://jobright.ai/jobs/info/692769ddd47de4798ecdc6e9?utm_campaign=1055&utm_source=git)** | TARRYTOWN | On Site | Nov 26 |
-| ↳ | **[Summer 2026 Law Intern- Intellectual Property](https://jobright.ai/jobs/info/6927689af0beb07232629eaf?utm_campaign=1055&utm_source=git)** | SLEEPY HOLLOW | On Site | Nov 26 |
-| ↳ | **[Summer 2026 Law Intern- Transactions Law Group](https://jobright.ai/jobs/info/6927658cd47de4798ecdc315?utm_campaign=1055&utm_source=git)** | TARRYTOWN | On Site | Nov 26 |
-| **[Albany International Corp.](http://www.albint.com/)** | **[Contracts & Proposals Intern](https://jobright.ai/jobs/info/692763a5d47de4798ecdc0f7?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
