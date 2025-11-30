@@ -75,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[TopBuild](http://www.topbuild.com)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/690e973644146d3b6ec55aef?utm_campaign=1055&utm_source=git)** | Daytona Beach, FL | On Site | Nov 29 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Ethics and Regulatory Compliance Intern – Summer 2026 (May – August)](https://jobright.ai/jobs/info/6916f43d6f36db06ef05b74b?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 29 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern - Summer 2026](https://jobright.ai/jobs/info/690e9b56221b890c2780fcf3?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 29 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/692af93066796e3028f8fdb5?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Nov 29 |
 | **[Southwire Company](http://southwire.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f2ccf59a65fd3458581216?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Nov 29 |
 | **[Fried Frank](http://www.friedfrank.com/)** | **[Paralegal/Financial Services Intern](https://jobright.ai/jobs/info/68f2754e76a51a4307bc3e7c?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
 | **[State of Missouri](http://mo.gov)** | **[Law Student Legal Intern - Missouri State Public Defender System](https://jobright.ai/jobs/info/690e83b044146d3b6ec5511e?utm_campaign=1055&utm_source=git)** | Missouri, United States | On Site | Nov 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Law Intern- Corporate Law](https://jobright.ai/jobs/info/692770d1d47de4798ecdcbbf?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 26 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - AML / FCM](https://jobright.ai/jobs/info/69276f8f91ceeb2e8a53f491?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 26 |
 | **[Kelly Benefits](http://www.kellybenefits.com)** | **[Summer '26 Intern to join our Legal/Compliance Team](https://jobright.ai/jobs/info/69276f01d47de4798ecdc9e5?utm_campaign=1055&utm_source=git)** | Sparks Glencoe, MD | On Site | Nov 26 |
+| **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/69276eab91ceeb2e8a53f3a3?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
