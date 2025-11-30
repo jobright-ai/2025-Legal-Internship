@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/692bf575fa28370be269a5c3?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Nov 29 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law](https://jobright.ai/jobs/info/692bbf394c474121999ce693?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Nov 29 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Standards Compliance & Authorizations)](https://jobright.ai/jobs/info/691d5bd6bcdbf3560c9f0294?utm_campaign=1055&utm_source=git)** | Vienna, VA | On Site | Nov 29 |
 | **[Horizon Lane](horizonlane.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/692b34684c474121999cd70f?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Nov 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - AML / FCM](https://jobright.ai/jobs/info/69276f8f91ceeb2e8a53f491?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 26 |
 | **[Kelly Benefits](http://www.kellybenefits.com)** | **[Summer '26 Intern to join our Legal/Compliance Team](https://jobright.ai/jobs/info/69276f01d47de4798ecdc9e5?utm_campaign=1055&utm_source=git)** | Sparks Glencoe, MD | On Site | Nov 26 |
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/69276eab91ceeb2e8a53f3a3?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 26 |
-| ↳ | **[Summer 2026 Law Intern- Data Privacy](https://jobright.ai/jobs/info/69276d64f0beb0723262a0ea?utm_campaign=1055&utm_source=git)** | SLEEPY HOLLOW | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
