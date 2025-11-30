@@ -132,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Legal Counsel Intern - Trusted Technology Group Accessibility Team](https://jobright.ai/jobs/info/692853e791ceeb2e8a54524b?utm_campaign=1055&utm_source=git)** | Redmond, WA | Hybrid | Nov 27 |
 | **[Notion](https://www.notion.so)** | **[Privacy and Risk Intern (Summer 2026)](https://jobright.ai/jobs/info/690b73f3221b890c277f5026?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
 | **[DESRI](https://desri.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd675ee23def7af55b97e0?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Nov 27 |
-| **[Ocean Conservancy](https://oceanconservancy.org/about/)** | **[Dana Wolfe Memorial Legal Intern](https://jobright.ai/jobs/info/68f208de2636ac47599f312a?utm_campaign=1055&utm_source=git)** | Bellingham, WA | Hybrid | Nov 27 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Technology and Information Compliance Undergraduate Intern](https://jobright.ai/jobs/info/6915c84a286ccf0a151308b3?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 27 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Legal Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/6921590b00c9ee50eaece0f3?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 27 |
 | **[Segal](https://www.segalco.com)** | **[Summer Intern - Compliance](https://jobright.ai/jobs/info/68fdb4820ab3b222462a4246?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - AML / FCM](https://jobright.ai/jobs/info/69276f8f91ceeb2e8a53f491?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 26 |
 | **[Kelly Benefits](http://www.kellybenefits.com)** | **[Summer '26 Intern to join our Legal/Compliance Team](https://jobright.ai/jobs/info/69276f01d47de4798ecdc9e5?utm_campaign=1055&utm_source=git)** | Sparks Glencoe, MD | On Site | Nov 26 |
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/69276eab91ceeb2e8a53f3a3?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 26 |
+| ↳ | **[Summer 2026 Law Intern- Data Privacy](https://jobright.ai/jobs/info/69276d64f0beb0723262a0ea?utm_campaign=1055&utm_source=git)** | SLEEPY HOLLOW | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
