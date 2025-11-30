@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Enterprise Risk Management - Strategy and Reporting)](https://jobright.ai/jobs/info/6922d9f238cd5478a8d55726?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Quality Management Internship](https://jobright.ai/jobs/info/6905dcb563502c0aded7eade?utm_campaign=1055&utm_source=git)** | Dublin, OH | On Site | Nov 30 |
+| **[Shure Incorporated](http://www.shure.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/68cd4169b2a74e1837ed47cc?utm_campaign=1055&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
 | **[Ibotta](https://home.ibotta.com)** | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d70a17894705799a2f0310?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 30 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/692c4a4c66796e3028f92c09?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Nov 30 |
 | **[Everllence](www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Nov 30 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f27e079a65fd345857d0ef?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Nov 30 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f2881e76a51a4307bc4839?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Nov 30 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Audit/Compliance](https://jobright.ai/jobs/info/68bb46bd5f3832749186ded5?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Nov 30 |
 | **[HellermannTyton North America](https://www.hellermanntyton.us/)** | **[Intern - Import/Export Coordinator](https://jobright.ai/jobs/info/691d47ec0b7dff7341501da8?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 30 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/692bfc114c474121999cf799?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Nov 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Legal Aid of NorthWest Texas](https://internet.lanwt.org/home)** | **[Intern/Clerkship - Community Revitalization Project (CRP)](https://jobright.ai/jobs/info/6927aa7791ceeb2e8a5421e3?utm_campaign=1055&utm_source=git)** | Amarillo, TX | On Site | Nov 26 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/6927c59791ceeb2e8a542f3e?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Nov 26 |
 | **[Kaufman Dolowich LLP](https://www.kaufmandolowich.com/)** | **[2L Law Clerk Opportunity - Spring 2026](https://jobright.ai/jobs/info/692791de91ceeb2e8a5414a9?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Nov 26 |
-| ↳ | **[2L Law Clerk Opportunity - Summer 2026](https://jobright.ai/jobs/info/69278ecef0beb0723262c178?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Nov 26 |
-| **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Law Intern- Intellectual Property](https://jobright.ai/jobs/info/6927799bd47de4798ecdd092?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 26 |
-| **[Allen Institute](https://alleninstitute.org/)** | **[Legal Internship – Beginning Summer 2026](https://jobright.ai/jobs/info/692775a991ceeb2e8a53f7c4?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
