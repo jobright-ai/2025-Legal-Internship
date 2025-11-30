@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law](https://jobright.ai/jobs/info/692bbf394c474121999ce693?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Nov 29 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Standards Compliance & Authorizations)](https://jobright.ai/jobs/info/691d5bd6bcdbf3560c9f0294?utm_campaign=1055&utm_source=git)** | Vienna, VA | On Site | Nov 29 |
 | **[Horizon Lane](horizonlane.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/692b34684c474121999cd70f?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Nov 29 |
 | **[Church Mutual Insurance Company, S.I.](http://www.churchmutual.com)** | **[Intern-Claims Auto](https://jobright.ai/jobs/info/690f2f8844146d3b6ec5a979?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Nov 29 |
@@ -107,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Sarpy County](https://www.sarpy.gov/)** | **[Law Clerk - Sarpy County Public Defenders Office - Current Law School Student](https://jobright.ai/jobs/info/69295b4a4c474121999c92e4?utm_campaign=1055&utm_source=git)** | Papillion, NE | On Site | Nov 28 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law](https://jobright.ai/jobs/info/692919b8d47de4798ece44ba?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Nov 27 |
 | **[Truist](https://www.truist.com)** | **[2026 AFCO Direct - Compliance & Legal - Internship](https://jobright.ai/jobs/info/69274e3ef0beb07232628d16?utm_campaign=1055&utm_source=git)** | Lake Forest, IL | Remote | Nov 27 |
-| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law](https://jobright.ai/jobs/info/6928c760f0beb072326314a7?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Nov 27 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[In-Person Law Student Paid Intern](https://jobright.ai/jobs/info/6928b769d47de4798ece3922?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 27 |
 | **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, General Counsel](https://jobright.ai/jobs/info/6928a913d47de4798ece3699?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 27 |
 | ↳ | **[Legal Intern, General Counsel](https://jobright.ai/jobs/info/6928986ed47de4798ece33ea?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 27 |
