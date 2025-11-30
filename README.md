@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Audit/Compliance](https://jobright.ai/jobs/info/68bb46bd5f3832749186ded5?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Nov 30 |
+| **[HellermannTyton North America](https://www.hellermanntyton.us/)** | **[Intern - Import/Export Coordinator](https://jobright.ai/jobs/info/691d47ec0b7dff7341501da8?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 30 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/692bfc114c474121999cf799?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Nov 30 |
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/692bf575fa28370be269a5c3?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Nov 29 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law](https://jobright.ai/jobs/info/692bbf394c474121999ce693?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Nov 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Law Intern- Transactions Law Group](https://jobright.ai/jobs/info/69277208d47de4798ecdcccf?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Law Intern- Data Privacy](https://jobright.ai/jobs/info/692770d4f0beb0723262a3e3?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Law Intern- Corporate Law](https://jobright.ai/jobs/info/692770d1d47de4798ecdcbbf?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Nov 26 |
-| **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - AML / FCM](https://jobright.ai/jobs/info/69276f8f91ceeb2e8a53f491?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 26 |
-| **[Kelly Benefits](http://www.kellybenefits.com)** | **[Summer '26 Intern to join our Legal/Compliance Team](https://jobright.ai/jobs/info/69276f01d47de4798ecdc9e5?utm_campaign=1055&utm_source=git)** | Sparks Glencoe, MD | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
