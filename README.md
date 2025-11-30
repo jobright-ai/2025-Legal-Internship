@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Enterprise Risk Management - Strategy and Reporting)](https://jobright.ai/jobs/info/6922d9f238cd5478a8d55726?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Fraud Analyst)](https://jobright.ai/jobs/info/68cb8d9e9e3a822f5d2482ad?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
+| ↳ | **[Summer Associate Internship (Procurement and Vendor Management Risk Office)](https://jobright.ai/jobs/info/691cdd3622a2cb4b9bd1dfcd?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
+| ↳ | **[Summer Associate Internship (Fraud Analyst)](https://jobright.ai/jobs/info/69253b0827bf2f41a2c3d741?utm_campaign=1055&utm_source=git)** | Pensacola, FL | Hybrid | Nov 30 |
+| ↳ | **[Summer Associate Internship (Enterprise Risk Management - Strategy and Reporting)](https://jobright.ai/jobs/info/6922d9f238cd5478a8d55726?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Quality Management Internship](https://jobright.ai/jobs/info/6905dcb563502c0aded7eade?utm_campaign=1055&utm_source=git)** | Dublin, OH | On Site | Nov 30 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/68cd4169b2a74e1837ed47cc?utm_campaign=1055&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
 | **[Ibotta](https://home.ibotta.com)** | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d70a17894705799a2f0310?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 30 |
@@ -77,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Legal Intern](https://jobright.ai/jobs/info/690f121844146d3b6ec59e2c?utm_campaign=1055&utm_source=git)** | South Sioux City, NE | On Site | Nov 29 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/690ec5be44146d3b6ec57afd?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 29 |
 | ↳ | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/690ec2a0221b890c278117bc?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 29 |
-| ↳ | **[2026 Summer Internship Program: SBUs and R&D Legal Intern](https://jobright.ai/jobs/info/690ec647221b890c27811989?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Nov 29 |
 | ↳ | **[2026 Summer Internship Program: Intern, US Medical Advertising & Promotion (Ad/Promo) Regulatory](https://jobright.ai/jobs/info/690ec64644146d3b6ec57b58?utm_campaign=1055&utm_source=git)** | Lexington, MA | On Site | Nov 29 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Fraud](https://jobright.ai/jobs/info/690e47d2221b890c2780c5ce?utm_campaign=1055&utm_source=git)** | Green Bay, Wisconsin Metropolitan Area | On Site | Nov 29 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/690ec739d046ab6061d0120c?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Nov 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/6927ad7791ceeb2e8a5422f9?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Nov 26 |
 | ↳ | **[Intern - Risk Management - Fraud](https://jobright.ai/jobs/info/6927ad5e91ceeb2e8a5422e2?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Nov 26 |
 | **[Legal Aid of NorthWest Texas](https://internet.lanwt.org/home)** | **[Intern/Clerkship - Community Revitalization Project (CRP)](https://jobright.ai/jobs/info/6927aa7791ceeb2e8a5421e3?utm_campaign=1055&utm_source=git)** | Amarillo, TX | On Site | Nov 26 |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/6927c59791ceeb2e8a542f3e?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Nov 26 |
-| **[Kaufman Dolowich LLP](https://www.kaufmandolowich.com/)** | **[2L Law Clerk Opportunity - Spring 2026](https://jobright.ai/jobs/info/692791de91ceeb2e8a5414a9?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
