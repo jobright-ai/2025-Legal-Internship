@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[2026 Risk Specialist Intern](https://jobright.ai/jobs/info/68ea77c92f64880ca0b532fb?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Dec 01 |
+| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a64d7796a83635f09901?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Dec 01 |
 | **[Henkel](http://www.henkel.com)** | **[Sustainability & Regulatory Analysis Intern – Summer 2026](https://jobright.ai/jobs/info/68c29be1b535a221b153d668?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 01 |
 | **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Spring Legal Intern](https://jobright.ai/jobs/info/692db6d366796e3028f95c2c?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 01 |
 | **[Campaign Legal Center](http://www.campaignlegal.org/)** | **[Legal Internship (2026)](https://jobright.ai/jobs/info/6908cf084a1b456627af92d0?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Dec 01 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a5aa295f8e37655dffdb?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Dec 01 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7e7217a37c712687d6d3d?utm_campaign=1055&utm_source=git)** | West Deptford, NJ | On Site | Dec 01 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Legal Tech Intern](https://jobright.ai/jobs/info/692dce5efa28370be269e930?utm_campaign=1055&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | Dec 01 |
 | **[Citizens Energy Group](https://www.citizensenergygroup.com/)** | **[Insurance and Risk Management Intern](https://jobright.ai/jobs/info/692d97aa4c474121999d25e7?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 01 |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | Dec 01 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/68cc282416d00d2beeb1aef8?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Dec 01 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Corporate Affairs & Legal - Office of Ethics and Compliance](https://jobright.ai/jobs/info/6911de4d6018ad4956aabc75?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Dec 01 |
 | ↳ | **[Intern- PDM- CMC Regulatory](https://jobright.ai/jobs/info/6911bdc7183be660d267dbe8?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Dec 01 |
@@ -99,7 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Ibotta](https://home.ibotta.com)** | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d70a17894705799a2f0310?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 30 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/692c4a4c66796e3028f92c09?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Nov 30 |
 | **[Everllence](www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Nov 30 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f27e079a65fd345857d0ef?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Nov 30 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f2881e76a51a4307bc4839?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Nov 30 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Audit/Compliance](https://jobright.ai/jobs/info/68bb46bd5f3832749186ded5?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Nov 30 |
 | **[HellermannTyton North America](https://www.hellermanntyton.us/)** | **[Intern - Import/Export Coordinator](https://jobright.ai/jobs/info/691d47ec0b7dff7341501da8?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 30 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/692bfc114c474121999cf799?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Nov 30 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[Risk Solutions Intern - June 2026](https://jobright.ai/jobs/info/68cc43307342c7623ae61e7b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Nov 28 |
 | **[Sarpy County](https://www.sarpy.gov/)** | **[Law Clerk - Sarpy County Public Defenders Office - Current Law School Student](https://jobright.ai/jobs/info/69295b4a4c474121999c92e4?utm_campaign=1055&utm_source=git)** | Papillion, NE | On Site | Nov 28 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law](https://jobright.ai/jobs/info/692919b8d47de4798ece44ba?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Nov 27 |
-| **[Truist](https://www.truist.com)** | **[2026 AFCO Direct - Compliance & Legal - Internship](https://jobright.ai/jobs/info/69274e3ef0beb07232628d16?utm_campaign=1055&utm_source=git)** | Lake Forest, IL | Remote | Nov 27 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[In-Person Law Student Paid Intern](https://jobright.ai/jobs/info/6928b769d47de4798ece3922?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Nov 27 |
-| **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, General Counsel](https://jobright.ai/jobs/info/6928a913d47de4798ece3699?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 27 |
-| ↳ | **[Legal Intern, General Counsel](https://jobright.ai/jobs/info/6928986ed47de4798ece33ea?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 27 |
-| **[UPL](http://www.upl-ltd.com/)** | **[Federal Regulatory Intern](https://jobright.ai/jobs/info/6919978745fb6f5ead8a9cb7?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
