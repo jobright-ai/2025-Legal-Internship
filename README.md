@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/692d600d66796e3028f94765?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Dec 01 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern- PDM- CMC Regulatory](https://jobright.ai/jobs/info/6911bdc7183be660d267dbe8?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Dec 01 |
+| ↳ | **[Intern - Regulatory Affairs - Regulatory Policy and Intelligence](https://jobright.ai/jobs/info/6911c264988c2b7b4ec56921?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Dec 01 |
+| ↳ | **[Intern - Regulatory Affairs - Inflammation](https://jobright.ai/jobs/info/6911bddd988c2b7b4ec567ac?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Dec 01 |
+| ↳ | **[Intern - IT - Security, Risk, and Compliance](https://jobright.ai/jobs/info/6911be10183be660d267dc02?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Dec 01 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Compliance](https://jobright.ai/jobs/info/692d66894c474121999d1b78?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Dec 01 |
+| ↳ | **[Intern - Risk Management - Fraud](https://jobright.ai/jobs/info/692d66544c474121999d1b62?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Dec 01 |
+| ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/692d61c166796e3028f94824?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Dec 01 |
+| ↳ | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/692d61befa28370be269cab8?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Dec 01 |
+| ↳ | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/692d600d66796e3028f94765?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Dec 01 |
 | **[Citizens Energy Group](https://www.citizensenergygroup.com/)** | **[Insurance and Risk Management Intern](https://jobright.ai/jobs/info/692d3e72fa28370be269c30e?utm_campaign=1055&utm_source=git)** | US-IN-Indianapolis | Hybrid | Nov 30 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/692d34f766796e3028f93f58?utm_campaign=1055&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
 | ↳ | **[Regulatory Utilities Intern](https://jobright.ai/jobs/info/692d34ef66796e3028f93f57?utm_campaign=1055&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
@@ -78,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Ibotta](https://home.ibotta.com)** | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d70a17894705799a2f0310?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 30 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/692c4a4c66796e3028f92c09?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Nov 30 |
 | **[Everllence](www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Nov 30 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f2881e76a51a4307bc4839?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Nov 30 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f27e079a65fd345857d0ef?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Nov 30 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Audit/Compliance](https://jobright.ai/jobs/info/68bb46bd5f3832749186ded5?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Nov 30 |
 | **[HellermannTyton North America](https://www.hellermanntyton.us/)** | **[Intern - Import/Export Coordinator](https://jobright.ai/jobs/info/691d47ec0b7dff7341501da8?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 30 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/692bfc114c474121999cf799?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Nov 30 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6b5dde50091dbfa4ea34?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Nov 27 |
 | **[UPL](http://www.upl-ltd.com/)** | **[State Regulatory Intern](https://jobright.ai/jobs/info/690bd58b221b890c277f8d80?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Nov 27 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6c2c9821486c423c5b29?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Nov 27 |
-| **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Program Integrity - R10690](https://jobright.ai/jobs/info/690bd3add046ab6061ce83f9?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Nov 27 |
-| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6b6fde50091dbfa4ea3e?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Nov 27 |
-| **[Wellabe](https://www.wellabe.com)** | **[Legal Summer 2026 Internship- Hybrid -Des Moines, Iowa](https://jobright.ai/jobs/info/68d43effffc1276de3fd8988?utm_campaign=1055&utm_source=git)** | Des Moines, IA | Hybrid | Nov 27 |
-| **[Microsoft](https://www.microsoft.com)** | **[Legal Counsel Intern - Trusted Technology Group Accessibility Team](https://jobright.ai/jobs/info/692853e791ceeb2e8a54524b?utm_campaign=1055&utm_source=git)** | Redmond, WA | Hybrid | Nov 27 |
-| **[Notion](https://www.notion.so)** | **[Privacy and Risk Intern (Summer 2026)](https://jobright.ai/jobs/info/690b73f3221b890c277f5026?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
-| **[DESRI](https://desri.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd675ee23def7af55b97e0?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Nov 27 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Technology and Information Compliance Undergraduate Intern](https://jobright.ai/jobs/info/6915c84a286ccf0a151308b3?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 27 |
-| **[Tenet Healthcare](http://tenethealth.com)** | **[Legal Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/6921590b00c9ee50eaece0f3?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
