@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Compliance](https://jobright.ai/jobs/info/68c0af705c5d5f14f46e0428?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Nov 30 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Fraud Analyst)](https://jobright.ai/jobs/info/68cb8d9e9e3a822f5d2482ad?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
 | ↳ | **[Summer Associate Internship (Procurement and Vendor Management Risk Office)](https://jobright.ai/jobs/info/691cdd3622a2cb4b9bd1dfcd?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
 | ↳ | **[Summer Associate Internship (Fraud Analyst)](https://jobright.ai/jobs/info/69253b0827bf2f41a2c3d741?utm_campaign=1055&utm_source=git)** | Pensacola, FL | Hybrid | Nov 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nassau County District Attorney](https://nassauda.org)** | **[Intern (Summer 2026)](https://jobright.ai/jobs/info/6927b1e491ceeb2e8a54255e?utm_campaign=1055&utm_source=git)** | Nassau, NY | On Site | Nov 26 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6927adbed47de4798ecdf89f?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Nov 26 |
 | ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/6927ad7791ceeb2e8a5422f9?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Nov 26 |
-| ↳ | **[Intern - Risk Management - Fraud](https://jobright.ai/jobs/info/6927ad5e91ceeb2e8a5422e2?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
