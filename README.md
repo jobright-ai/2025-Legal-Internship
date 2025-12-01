@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Governor's General Counsel Legal Intern](https://jobright.ai/jobs/info/692d2b584c474121999d1163?utm_campaign=1055&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
+| ↳ | **[Summer Legal Intern](https://jobright.ai/jobs/info/692d2accfa28370be269c140?utm_campaign=1055&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Corporate Transactions Summer - Intern](https://jobright.ai/jobs/info/692d017766796e3028f93ab2?utm_campaign=1055&utm_source=git)** | Rahway, NJ | Hybrid | Nov 30 |
 | **[Seacoast Bank](https://www.seacoastbank.com)** | **[Trust Intern](https://jobright.ai/jobs/info/692cf94afa28370be269bcc0?utm_campaign=1055&utm_source=git)** | Winter Park, FL | On Site | Nov 30 |
 | **[The Pennsylvania Innocence Project (PaIP)](https://www.painnocence.org)** | **[Legal Internship Summer 2026 Pittsburgh](https://jobright.ai/jobs/info/692cf630fa28370be269bc7a?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Segal](https://www.segalco.com)** | **[Summer Intern - Compliance](https://jobright.ai/jobs/info/68fdb4820ab3b222462a4246?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Nov 27 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - DRIVE Legal](https://jobright.ai/jobs/info/68eed26446e5b153e5a605bb?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Nov 27 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Agribusiness Commercial Claims Intern](https://jobright.ai/jobs/info/6927f7c7f0beb0723262ef81?utm_campaign=1055&utm_source=git)** | Des Moines, IA | On Site | Nov 26 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship  - PDD Malden - Spring 2026](https://jobright.ai/jobs/info/6927f6f791ceeb2e8a544050?utm_campaign=1055&utm_source=git)** | US-MA-Malden | On Site | Nov 26 |
-| **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/6927d267d47de4798ece0ccc?utm_campaign=1055&utm_source=git)** | Johnston, IA | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
