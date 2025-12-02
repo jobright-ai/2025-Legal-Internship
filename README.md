@@ -57,8 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Law Intern- Corporate Law](https://jobright.ai/jobs/info/692eaa894c474121999da6e2?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Dec 02 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Corporate Affairs & Legal - Litigation & Investigations](https://jobright.ai/jobs/info/6912e9abea9ab01b82bf650d?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Dec 02 |
+| ↳ | **[Intern - Corporate Affairs & Legal - US Legal Business Partner](https://jobright.ai/jobs/info/6912dd9bea9ab01b82bf5d44?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Dec 02 |
+| ↳ | **[Intern - Corporate Affairs & Legal - Office of the General Counsel](https://jobright.ai/jobs/info/6912dec9d1047e3565cffced?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Dec 02 |
+| **[Environmental Defense Fund](http://www.edf.org/)** | **[1L Legal Intern](https://jobright.ai/jobs/info/69126b51c98948514c47b9a7?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 02 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk & Broking Construction Part time Internship – Spring 2026](https://jobright.ai/jobs/info/6916fbe7ab115751cca3e12e?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Dec 02 |
+| **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Law Intern- Intellectual Property](https://jobright.ai/jobs/info/692eb6edfa28370be26a5b13?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Dec 02 |
+| ↳ | **[Summer 2026 Law Intern- Corporate Law](https://jobright.ai/jobs/info/692eaa894c474121999da6e2?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Dec 02 |
 | ↳ | **[Summer 2026 Law Intern- Transactions Law Group](https://jobright.ai/jobs/info/692ea9b24c474121999da697?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Dec 02 |
+| **[Cisco](http://www.cisco.com)** | **[Legal Summer Intern Rising 3L JD (Intern) Legal/LP ETR](https://jobright.ai/jobs/info/692ebae9fa28370be26a5c12?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Dec 01 |
+| **[Democratic National Committee](https://democrats.org/)** | **[Summer 2026 DNC Legal Internship](https://jobright.ai/jobs/info/692ec274fa28370be26a5de6?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 01 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Spring 2026/Summer 2026 Intern - Law - Sacramento, CA CLC](https://jobright.ai/jobs/info/692ec3f7ef4b48533d141272?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Dec 01 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[2026 Contracts Intern](https://jobright.ai/jobs/info/692e83b1ef4b48533d1404cc?utm_campaign=1055&utm_source=git)** | Hanover, MD | Hybrid | Dec 01 |
 | **[Strada Education Foundation](https://www.stradaeducation.org)** | **[Strada Education Foundation Internship: Legal Intern](https://jobright.ai/jobs/info/692e65ddfa28370be26a4379?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 01 |
 | **[Austin Community College](http://austincc.edu)** | **[Intern, Office of Equal Opportunity Compliance (Hourly)](https://jobright.ai/jobs/info/692e7507fa28370be26a4bfd?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Dec 01 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shure Incorporated](http://www.shure.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/68cd4169b2a74e1837ed47cc?utm_campaign=1055&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
 | **[Ibotta](https://home.ibotta.com)** | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d70a17894705799a2f0310?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 30 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/692c4a4c66796e3028f92c09?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Nov 30 |
-| **[Everllence](www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Nov 30 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f2881e76a51a4307bc4839?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Nov 30 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Audit/Compliance](https://jobright.ai/jobs/info/68bb46bd5f3832749186ded5?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Nov 30 |
-| **[HellermannTyton North America](https://www.hellermanntyton.us/)** | **[Intern - Import/Export Coordinator](https://jobright.ai/jobs/info/691d47ec0b7dff7341501da8?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 30 |
-| **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/692bfc114c474121999cf799?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Nov 30 |
-| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law](https://jobright.ai/jobs/info/692bbf394c474121999ce693?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Nov 29 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Standards Compliance & Authorizations)](https://jobright.ai/jobs/info/691d5bd6bcdbf3560c9f0294?utm_campaign=1055&utm_source=git)** | Vienna, VA | On Site | Nov 29 |
-| **[Church Mutual Insurance Company, S.I.](http://www.churchmutual.com)** | **[Intern-Claims Auto](https://jobright.ai/jobs/info/690f2f8844146d3b6ec5a979?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Nov 29 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/690ec2a544146d3b6ec57982?utm_campaign=1055&utm_source=git)** | Florida, United States | Remote | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
