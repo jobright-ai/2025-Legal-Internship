@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zekelman Industries](http://www.zekelman.com)** | **[Risk and Compliance, Intern](https://jobright.ai/jobs/info/68f699779a65fd3458594f81?utm_campaign=1055&utm_source=git)** | Chandler, AZ | On Site | Dec 02 |
+| **[RTX](http://www.raytheon.com)** | **[Intern: 2026 - Global Security Services (Onsite)](https://jobright.ai/jobs/info/692f209b4c474121999dc74d?utm_campaign=1055&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Dec 02 |
+| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2025- Healthcare Legal](https://jobright.ai/jobs/info/6926366bd47de4798ecd5928?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Dec 02 |
+| **[BBB National Programs](https://bbbprograms.org/)** | **[Spring 2026 - National Advertising Division Externship](https://jobright.ai/jobs/info/692f1881ef4b48533d142b06?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Dec 02 |
 | **[AAR](http://aarcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69125869ea9ab01b82bf1a2e?utm_campaign=1055&utm_source=git)** | Wood Dale, IL | On Site | Dec 02 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Fort Wayne](https://jobright.ai/jobs/info/69093ab94a1b456627afe4c5?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | Hybrid | Dec 02 |
 | ↳ | **[2027 2L Summer Associate - Indianapolis](https://jobright.ai/jobs/info/692f04ff4c474121999dbd28?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 02 |
@@ -146,7 +150,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Risk Management - Fraud](https://jobright.ai/jobs/info/692d66544c474121999d1b62?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Dec 01 |
 | ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/692d61c166796e3028f94824?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Dec 01 |
 | ↳ | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/692d61befa28370be269cab8?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Dec 01 |
-| ↳ | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/692d600d66796e3028f94765?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Dec 01 |
 | ↳ | **[Intern - Risk Management - Fraud](https://jobright.ai/jobs/info/692db29866796e3028f95aaa?utm_campaign=1055&utm_source=git)** | Effingham, Illinois | On Site | Dec 01 |
 | ↳ | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/692dac7cfa28370be269dbb8?utm_campaign=1055&utm_source=git)** | O'Fallon, Missouri | On Site | Dec 01 |
 | ↳ | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/692db52e66796e3028f95ba5?utm_campaign=1055&utm_source=git)** | Effingham, Illinois | On Site | Dec 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/692db5984c474121999d2e80?utm_campaign=1055&utm_source=git)** | Effingham, Illinois | On Site | Dec 01 |
 | **[Citizens Energy Group](https://www.citizensenergygroup.com/)** | **[Insurance and Risk Management Intern](https://jobright.ai/jobs/info/692d3e72fa28370be269c30e?utm_campaign=1055&utm_source=git)** | US-IN-Indianapolis | Hybrid | Nov 30 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/692d34f766796e3028f93f58?utm_campaign=1055&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
-| ↳ | **[Regulatory Utilities Intern](https://jobright.ai/jobs/info/692d34ef66796e3028f93f57?utm_campaign=1055&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
-| ↳ | **[Governor's General Counsel Legal Intern](https://jobright.ai/jobs/info/692d2b584c474121999d1163?utm_campaign=1055&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
-| ↳ | **[Summer Legal Intern](https://jobright.ai/jobs/info/692d2accfa28370be269c140?utm_campaign=1055&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
