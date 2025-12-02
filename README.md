@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AAR](http://aarcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69125869ea9ab01b82bf1a2e?utm_campaign=1055&utm_source=git)** | Wood Dale, IL | On Site | Dec 02 |
+| **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Fort Wayne](https://jobright.ai/jobs/info/69093ab94a1b456627afe4c5?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | Hybrid | Dec 02 |
+| ↳ | **[2027 2L Summer Associate - Indianapolis](https://jobright.ai/jobs/info/692f04ff4c474121999dbd28?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 02 |
+| ↳ | **[2026 1L Summer Associate - Indianapolis](https://jobright.ai/jobs/info/690954964a1b456627aff540?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 02 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/692eff94fa28370be26a6c59?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Dec 02 |
+| ↳ | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/692efd3a4c474121999dba95?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Dec 02 |
+| **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Corporate Compliance & Ethics Intern - Summer 2026](https://jobright.ai/jobs/info/6912bb0ad1047e3565cfe62c?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Dec 02 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - AI & Legal Compliance (Summer 2026)](https://jobright.ai/jobs/info/692ee23fef4b48533d141838?utm_campaign=1055&utm_source=git)** | Garland, TX | On Site | Dec 02 |
-| **[Roc Nation](http://rocnation.com)** | **[Spring 2026 Intern - Legal (Music)](https://jobright.ai/jobs/info/690a65a44a1b456627b06f8d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/69009c56e04ac838fb5c3077?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Dec 02 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Assistant Escrow Internship](https://jobright.ai/jobs/info/692eda4c4c474121999db0d6?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Dec 02 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Corporate Affairs & Legal - Intellectual Property](https://jobright.ai/jobs/info/6912f62eea9ab01b82bf6a01?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Dec 02 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Regulatory Utilities Intern](https://jobright.ai/jobs/info/692d34ef66796e3028f93f57?utm_campaign=1055&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
 | ↳ | **[Governor's General Counsel Legal Intern](https://jobright.ai/jobs/info/692d2b584c474121999d1163?utm_campaign=1055&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
 | ↳ | **[Summer Legal Intern](https://jobright.ai/jobs/info/692d2accfa28370be269c140?utm_campaign=1055&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Corporate Transactions Summer - Intern](https://jobright.ai/jobs/info/692d017766796e3028f93ab2?utm_campaign=1055&utm_source=git)** | Rahway, NJ | Hybrid | Nov 30 |
-| **[Seacoast Bank](https://www.seacoastbank.com)** | **[Trust Intern](https://jobright.ai/jobs/info/692cf94afa28370be269bcc0?utm_campaign=1055&utm_source=git)** | Winter Park, FL | On Site | Nov 30 |
-| **[The Pennsylvania Innocence Project (PaIP)](https://www.painnocence.org)** | **[Legal Internship Summer 2026 Pittsburgh](https://jobright.ai/jobs/info/692cf630fa28370be269bc7a?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Nov 30 |
-| ↳ | **[Legal Internship Summer 2026 Philadelphia](https://jobright.ai/jobs/info/692cf2a6fa28370be269bc1f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Nov 30 |
-| **[New York City Bar Association](http://www.nycbar.org)** | **[Legal Intern (Summer 2026) / City Bar Justice Center](https://jobright.ai/jobs/info/692de2f44c474121999d415e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 30 |
-| **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Compliance](https://jobright.ai/jobs/info/68c0af705c5d5f14f46e0428?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Nov 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
