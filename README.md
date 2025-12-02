@@ -57,8 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Law Reform Legal Intern, 1L- Summer 2026](https://jobright.ai/jobs/info/692f5d82ef4b48533d1448c9?utm_campaign=1055&utm_source=git)** | New York, NY, 10013, United States | On Site | Dec 02 |
+| **[WM](https://www.wm.com/)** | **[WMRE Sustainability - Operations & Compliance Intern](https://jobright.ai/jobs/info/692f5d50ef4b48533d1448a1?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 02 |
+| **[WM India](https://www.wm.com/us/en/inside-wm/who-we-are/wm-india)** | **[WMRE Sustainability - Operations & Compliance Intern](https://jobright.ai/jobs/info/692f5814fa28370be26a919a?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | On Site | Dec 02 |
+| **[HARTING Technology Group](https://www.harting.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/692f53cfef4b48533d144374?utm_campaign=1055&utm_source=git)** | Elgin, IL | On Site | Dec 02 |
+| **[United Educators](https://www.ue.org/)** | **[Resolutions (Claims) Intern - Comprehensive Group](https://jobright.ai/jobs/info/692e38764c474121999d7580?utm_campaign=1055&utm_source=git)** | Bethesda, MD | Hybrid | Dec 02 |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[Corporate Affairs Intern - Oncology](https://jobright.ai/jobs/info/692f4ed94c474121999ddac1?utm_campaign=1055&utm_source=git)** | Gaithersburg, MD | Hybrid | Dec 02 |
+| **[Larhdel Law](https://www.immigrationattorneyarizona.us)** | **[Legal Intern](https://jobright.ai/jobs/info/692f58484c474121999ddfee?utm_campaign=1055&utm_source=git)** | Woodland, CA | On Site | Dec 02 |
 | **[Bronx County District Attorney Office](https://www.bronxda.nyc.gov/html/home/home.shtml)** | **[Law School Summer 2026 (1L) Intern](https://jobright.ai/jobs/info/692f37fffa28370be26a82b7?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Dec 02 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/692f37024c474121999dd0be?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Dec 02 |
+| **[Southeast Toyota Distributors, LLC](https://jmfamily.com/our-businesses/southeast-toyota-distributors/)** | **[Franchise Analyst Intern](https://jobright.ai/jobs/info/692f59e3ef4b48533d1446db?utm_campaign=1055&utm_source=git)** | Miami-FTL Area | Hybrid | Dec 02 |
+| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Applications and Enforcement Intern)](https://jobright.ai/jobs/info/6926757ef0beb07232625107?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Dec 02 |
 | **[Zekelman Industries](http://www.zekelman.com)** | **[Risk and Compliance, Intern](https://jobright.ai/jobs/info/68f699779a65fd3458594f81?utm_campaign=1055&utm_source=git)** | Chandler, AZ | On Site | Dec 02 |
 | **[RTX](http://www.raytheon.com)** | **[Intern: 2026 - Global Security Services (Onsite)](https://jobright.ai/jobs/info/692f209b4c474121999dc74d?utm_campaign=1055&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Dec 02 |
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2025- Healthcare Legal](https://jobright.ai/jobs/info/6926366bd47de4798ecd5928?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Dec 02 |
@@ -106,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Regulatory Affairs - Surgical](https://jobright.ai/jobs/info/692e45faef4b48533d13e419?utm_campaign=1055&utm_source=git)** | Louisville, CO | On Site | Dec 01 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2027 2L Summer Associate - Los Angeles (Litigation)](https://jobright.ai/jobs/info/692e47174c474121999d7ee6?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 01 |
 | ↳ | **[2027 2L Summer Associate - Florham Park, NJ](https://jobright.ai/jobs/info/692e6b4c4c474121999d95b4?utm_campaign=1055&utm_source=git)** | Florham Park, NJ | Hybrid | Dec 01 |
-| **[United Educators](https://www.ue.org/)** | **[Resolutions (Claims) Intern - Comprehensive Group](https://jobright.ai/jobs/info/692e38764c474121999d7580?utm_campaign=1055&utm_source=git)** | Bethesda, MD | On Site | Dec 01 |
 | **[Bond, Schoeneck & King PLLC](https://www.bsk.com/)** | **[Summer 2026 (1L) Law Clerk](https://jobright.ai/jobs/info/6908d7b74a1b456627af96bf?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | Dec 01 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Summer Intern for Court of Appeals](https://jobright.ai/jobs/info/692e4523fa28370be26a2f5d?utm_campaign=1055&utm_source=git)** | Wake County, NC | On Site | Dec 01 |
 | ↳ | **[State Office Legal Team Intern](https://jobright.ai/jobs/info/692e30a3fa28370be26a230a?utm_campaign=1055&utm_source=git)** | Wake County, NC | On Site | Dec 01 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Risk Management - Fraud](https://jobright.ai/jobs/info/692d66544c474121999d1b62?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Dec 01 |
 | ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/692d61c166796e3028f94824?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Dec 01 |
 | ↳ | **[Intern - Risk Management - Fraud](https://jobright.ai/jobs/info/692db29866796e3028f95aaa?utm_campaign=1055&utm_source=git)** | Effingham, Illinois | On Site | Dec 01 |
-| ↳ | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/692dac7cfa28370be269dbb8?utm_campaign=1055&utm_source=git)** | O'Fallon, Missouri | On Site | Dec 01 |
-| ↳ | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/692db52e66796e3028f95ba5?utm_campaign=1055&utm_source=git)** | Effingham, Illinois | On Site | Dec 01 |
-| ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/692de49866796e3028f9701e?utm_campaign=1055&utm_source=git)** | O'Fallon, Missouri | On Site | Dec 01 |
-| ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/692db5984c474121999d2e80?utm_campaign=1055&utm_source=git)** | Effingham, Illinois | On Site | Dec 01 |
-| **[Citizens Energy Group](https://www.citizensenergygroup.com/)** | **[Insurance and Risk Management Intern](https://jobright.ai/jobs/info/692d3e72fa28370be269c30e?utm_campaign=1055&utm_source=git)** | US-IN-Indianapolis | Hybrid | Nov 30 |
-| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/692d34f766796e3028f93f58?utm_campaign=1055&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
-| ↳ | **[Regulatory Utilities Intern](https://jobright.ai/jobs/info/692d34ef66796e3028f93f57?utm_campaign=1055&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
-| ↳ | **[Governor's General Counsel Legal Intern](https://jobright.ai/jobs/info/692d2b584c474121999d1163?utm_campaign=1055&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
