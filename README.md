@@ -57,20 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[2026 Contracts Intern](https://jobright.ai/jobs/info/692e83b1ef4b48533d1404cc?utm_campaign=1055&utm_source=git)** | Hanover, MD | Hybrid | Dec 01 |
+| **[Strada Education Foundation](https://www.stradaeducation.org)** | **[Strada Education Foundation Internship: Legal Intern](https://jobright.ai/jobs/info/692e65ddfa28370be26a4379?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 01 |
 | **[Austin Community College](http://austincc.edu)** | **[Intern, Office of Equal Opportunity Compliance (Hourly)](https://jobright.ai/jobs/info/692e7507fa28370be26a4bfd?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Dec 01 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law](https://jobright.ai/jobs/info/692e6b5efa28370be26a47cd?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Dec 01 |
-| **[Strada Education Foundation](https://www.stradaeducation.org)** | **[Strada Education Foundation Internship: Legal Intern](https://jobright.ai/jobs/info/692e65ddfa28370be26a4379?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 01 |
 | **[Hyundai Motor Company](https://www.hyundai.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/692e3c884c474121999d782a?utm_campaign=1055&utm_source=git)** | Fountain Valley, CA | On Site | Dec 01 |
 | **[PGP Title](https://www.pgptitle.com)** | **[Escrow Intern - Summer 2026 (PGP Title)](https://jobright.ai/jobs/info/692e54b04c474121999d8773?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Dec 01 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern](https://jobright.ai/jobs/info/692e4f1efa28370be26a36b2?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Dec 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Legal Tech Intern](https://jobright.ai/jobs/info/692e472f4c474121999d7efc?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Dec 01 |
 | **[axogen](http://www.axogeninc.com)** | **[Intern, Regulatory Affairs - International Labeling Support](https://jobright.ai/jobs/info/692e47284c474121999d7ef6?utm_campaign=1055&utm_source=git)** | Alachua, FL | On Site | Dec 01 |
 | **[Nassau County District Attorney](https://nassauda.org)** | **[Intern - Spring 2026](https://jobright.ai/jobs/info/692e45894c474121999d7d8c?utm_campaign=1055&utm_source=git)** | Nassau, NY | On Site | Dec 01 |
-| **[County of Tulare](https://tularecounty.ca.gov/county/)** | **[Extra Help Law Clerk](https://jobright.ai/jobs/info/692e5788fa28370be26a3ac7?utm_campaign=1055&utm_source=git)** | Visalia, CA | On Site | Dec 01 |
 | **[Austin Community College](http://austincc.edu)** | **[Intern, Office of Equal Opportunity Compliance (Hourly)](https://jobright.ai/jobs/info/692e3215fa28370be26a23be?utm_campaign=1055&utm_source=git)** | Highland Campus | On Site | Dec 01 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Contract Operations Intern](https://jobright.ai/jobs/info/692e312eef4b48533d13d658?utm_campaign=1055&utm_source=git)** | US - Wilmington - DE | Hybrid | Dec 01 |
-| **[Gaston County Government](https://gastongov.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/692e59abfa28370be26a3c9f?utm_campaign=1055&utm_source=git)** | Gastonia, NC | On Site | Dec 01 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[Corporate Affairs Intern - Oncology](https://jobright.ai/jobs/info/692e2c494c474121999d6ee8?utm_campaign=1055&utm_source=git)** | US - Gaithersburg - MD | Hybrid | Dec 01 |
+| ↳ | **[Corporate Affairs Intern - Oncology](https://jobright.ai/jobs/info/692e2c494c474121999d6ee8?utm_campaign=1055&utm_source=git)** | US - Gaithersburg - MD | Hybrid | Dec 01 |
 | **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Contract Operations Intern](https://jobright.ai/jobs/info/692e484b4c474121999d7ff2?utm_campaign=1055&utm_source=git)** | Wilmington | On Site | Dec 01 |
 | ↳ | **[Corporate Affairs Intern - Oncology](https://jobright.ai/jobs/info/692e5ce3ef4b48533d13f2d4?utm_campaign=1055&utm_source=git)** | Gaithersburg | Hybrid | Dec 01 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Summer Intern Rising 3L JD (Intern) Legal/LP ETR](https://jobright.ai/jobs/info/692e28ec4c474121999d6c3f?utm_campaign=1055&utm_source=git)** | San Jose, California, US | Remote | Dec 01 |
@@ -108,6 +107,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7e7217a37c712687d6d3d?utm_campaign=1055&utm_source=git)** | West Deptford, NJ | On Site | Dec 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Legal Tech Intern](https://jobright.ai/jobs/info/692dce5efa28370be269e930?utm_campaign=1055&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL | On Site | Dec 01 |
+| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a71c7a37c712687d384c?utm_campaign=1055&utm_source=git)** | Stockton, CA | On Site | Dec 01 |
 | **[Citizens Energy Group](https://www.citizensenergygroup.com/)** | **[Insurance and Risk Management Intern](https://jobright.ai/jobs/info/692d97aa4c474121999d25e7?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | Dec 01 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/68cc282416d00d2beeb1aef8?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Dec 01 |
