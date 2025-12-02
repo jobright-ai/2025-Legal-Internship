@@ -57,13 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Legal Summer Intern Rising 3L JD (Intern) Legal/LP ETR](https://jobright.ai/jobs/info/692e28ec4c474121999d6c3f?utm_campaign=1055&utm_source=git)** | San Jose, California, US | Remote | Dec 01 |
+| **[United Educators](https://www.ue.org/)** | **[Resolutions (Claims) Intern - Specialty Group](https://jobright.ai/jobs/info/692e28744c474121999d6be1?utm_campaign=1055&utm_source=git)** | Bethesda, MD | On Site | Dec 01 |
+| **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern](https://jobright.ai/jobs/info/692e0ff0fa28370be26a0c39?utm_campaign=1055&utm_source=git)** | HQ - San Diego, CA | On Site | Dec 01 |
 | **[Bond, Schoeneck & King PLLC](https://www.bsk.com/)** | **[Summer 2026 (1L) Law Clerk](https://jobright.ai/jobs/info/6908d7b74a1b456627af96bf?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | Dec 01 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Washington, DC](https://jobright.ai/jobs/info/690919144a1b456627afc679?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 01 |
+| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law](https://jobright.ai/jobs/info/692e1d44fa28370be26a16ad?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Dec 01 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Escrow Intern - Summer 2026 (PGP Title)](https://jobright.ai/jobs/info/692e2501fa28370be26a1b76?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Dec 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Legal Tech Intern](https://jobright.ai/jobs/info/692df48fef4b48533d13b098?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Dec 01 |
+| **[TowneBank](https://www.townebank.com/)** | **[Summer Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/692e14bdef4b48533d13c6a2?utm_campaign=1055&utm_source=git)** | Suffolk, VA | On Site | Dec 01 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Philadelphia](https://jobright.ai/jobs/info/69091bb8d046ab6061cd182e?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 01 |
+| **[Vermont Legal Aid, Inc.](https://www.vtlegalaid.org/)** | **[Intern](https://jobright.ai/jobs/info/692e19c14c474121999d62f2?utm_campaign=1055&utm_source=git)** | Springfield, VT | Hybrid | Dec 01 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Regulatory Affairs - Surgical](https://jobright.ai/jobs/info/692df00b4c474121999d4838?utm_campaign=1055&utm_source=git)** | Louisville, CO, United States | On Site | Dec 01 |
+| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Compliance Analyst](https://jobright.ai/jobs/info/69275424d47de4798ecdb820?utm_campaign=1055&utm_source=git)** | Worcester County, MA | Hybrid | Dec 01 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2027 2L Summer Associate - Dallas (Litigation)](https://jobright.ai/jobs/info/692ddff54c474121999d400c?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Dec 01 |
-| ↳ | **[2027 2L Summer Associate - Chicago](https://jobright.ai/jobs/info/692dda304c474121999d3d32?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Dec 01 |
+| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Regulatory Affairs - Surgical](https://jobright.ai/jobs/info/692e288def4b48533d13d28c?utm_campaign=1055&utm_source=git)** | Louisville, CO | On Site | Dec 01 |
+| **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2027 2L Summer Associate - Chicago](https://jobright.ai/jobs/info/692dda304c474121999d3d32?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Dec 01 |
 | ↳ | **[2027 2L Summer Associate - New York](https://jobright.ai/jobs/info/692dd99ffa28370be269ee0a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Management- Intern](https://jobright.ai/jobs/info/692e07914c474121999d5772?utm_campaign=1055&utm_source=git)** | New York | Hybrid | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[2026 Risk Specialist Intern](https://jobright.ai/jobs/info/68ea77c92f64880ca0b532fb?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Dec 01 |
@@ -71,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[LAW STUDENT INTERNSHIP - Summer 2026](https://jobright.ai/jobs/info/692de3ee66796e3028f96fb0?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a64d7796a83635f09901?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Dec 01 |
 | **[Henkel](http://www.henkel.com)** | **[Sustainability & Regulatory Analysis Intern – Summer 2026](https://jobright.ai/jobs/info/68c29be1b535a221b153d668?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 01 |
-| **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Spring Legal Intern](https://jobright.ai/jobs/info/692db6d366796e3028f95c2c?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 01 |
 | **[Campaign Legal Center](http://www.campaignlegal.org/)** | **[Legal Internship (2026)](https://jobright.ai/jobs/info/6908cf084a1b456627af92d0?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Dec 01 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a5aa295f8e37655dffdb?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Dec 01 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68f18881f462172a5a7d9a16?utm_campaign=1055&utm_source=git)** | Greenville, NC | On Site | Nov 29 |
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[Transaction Liability Intern](https://jobright.ai/jobs/info/68f1b223f462172a5a7db42c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Nov 29 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/68f14b72e6870116b1f566c3?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 28 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Immigration Law (Winter 2026)](https://jobright.ai/jobs/info/6929e1a766796e3028f8d764?utm_campaign=1055&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Nov 28 |
-| **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6928c039d47de4798ece3a99?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Nov 28 |
-| **[FM](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68c91186f9c6ff7aedf175b9?utm_campaign=1055&utm_source=git)** | Creve Coeur, MO | On Site | Nov 28 |
-| **[CN](http://www.cn.ca)** | **[Intern, Law (Regulatory Affairs) CA- EN](https://jobright.ai/jobs/info/6929dc67fa28370be26957ea?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
-| **[Defense Counterintelligence and Security Agency (DCSA)](https://www.dss.mil)** | **[STUDENT TRAINEE (LAW)](https://jobright.ai/jobs/info/690de1c744146d3b6ec505f2?utm_campaign=1055&utm_source=git)** | Quantico, VA | On Site | Nov 28 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Operational Risk Management](https://jobright.ai/jobs/info/690d6e89d046ab6061cf62f4?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Nov 28 |
-| **[Box](http://www.box.com)** | **[Legal Intern - Winter 2026](https://jobright.ai/jobs/info/690d7291d046ab6061cf64f2?utm_campaign=1055&utm_source=git)** | Redwood City, CA | On Site | Nov 28 |
-| **[RaceTrac](http://www.racetrac.com/)** | **[Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/690d4c61d046ab6061cf52a5?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
