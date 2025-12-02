@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Austin Community College](http://austincc.edu)** | **[Intern, Office of Equal Opportunity Compliance (Hourly)](https://jobright.ai/jobs/info/692e7507fa28370be26a4bfd?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Dec 01 |
+| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law](https://jobright.ai/jobs/info/692e6b5efa28370be26a47cd?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Dec 01 |
+| **[Strada Education Foundation](https://www.stradaeducation.org)** | **[Strada Education Foundation Internship: Legal Intern](https://jobright.ai/jobs/info/692e65ddfa28370be26a4379?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 01 |
 | **[Hyundai Motor Company](https://www.hyundai.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/692e3c884c474121999d782a?utm_campaign=1055&utm_source=git)** | Fountain Valley, CA | On Site | Dec 01 |
 | **[PGP Title](https://www.pgptitle.com)** | **[Escrow Intern - Summer 2026 (PGP Title)](https://jobright.ai/jobs/info/692e54b04c474121999d8773?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Dec 01 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern](https://jobright.ai/jobs/info/692e4f1efa28370be26a36b2?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Dec 01 |
@@ -73,7 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Legal Summer Intern Rising 3L JD (Intern) Legal/LP ETR](https://jobright.ai/jobs/info/692e28ec4c474121999d6c3f?utm_campaign=1055&utm_source=git)** | San Jose, California, US | Remote | Dec 01 |
 | **[United Educators](https://www.ue.org/)** | **[Resolutions (Claims) Intern - Specialty Group](https://jobright.ai/jobs/info/692e28744c474121999d6be1?utm_campaign=1055&utm_source=git)** | Bethesda, MD | On Site | Dec 01 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2027 2L Summer Associate - Los Angeles (Litigation)](https://jobright.ai/jobs/info/692e47174c474121999d7ee6?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 01 |
-| **[axogen](http://www.axogeninc.com)** | **[Intern, Regulatory Affairs - International Labeling Support](https://jobright.ai/jobs/info/692e3b71fa28370be26a28f2?utm_campaign=1055&utm_source=git)** | Alachua, FL | On Site | Dec 01 |
+| ↳ | **[2027 2L Summer Associate - Florham Park, NJ](https://jobright.ai/jobs/info/692e6b4c4c474121999d95b4?utm_campaign=1055&utm_source=git)** | Florham Park, NJ | Hybrid | Dec 01 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern](https://jobright.ai/jobs/info/692e0ff0fa28370be26a0c39?utm_campaign=1055&utm_source=git)** | HQ - San Diego, CA | On Site | Dec 01 |
 | **[United Educators](https://www.ue.org/)** | **[Resolutions (Claims) Intern - Comprehensive Group](https://jobright.ai/jobs/info/692e38764c474121999d7580?utm_campaign=1055&utm_source=git)** | Bethesda, MD | On Site | Dec 01 |
 | **[Bond, Schoeneck & King PLLC](https://www.bsk.com/)** | **[Summer 2026 (1L) Law Clerk](https://jobright.ai/jobs/info/6908d7b74a1b456627af96bf?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | Dec 01 |
@@ -83,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Washington, DC](https://jobright.ai/jobs/info/690919144a1b456627afc679?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 01 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law](https://jobright.ai/jobs/info/692e1d44fa28370be26a16ad?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Dec 01 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Escrow Intern - Summer 2026 (PGP Title)](https://jobright.ai/jobs/info/692e2501fa28370be26a1b76?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Dec 01 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Legal Tech Intern](https://jobright.ai/jobs/info/692df48fef4b48533d13b098?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Dec 01 |
 | **[TowneBank](https://www.townebank.com/)** | **[Summer Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/692e14bdef4b48533d13c6a2?utm_campaign=1055&utm_source=git)** | Suffolk, VA | On Site | Dec 01 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Philadelphia](https://jobright.ai/jobs/info/69091bb8d046ab6061cd182e?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 01 |
 | **[axogen](http://www.axogeninc.com)** | **[Intern, Regulatory Affairs - International Labeling Support](https://jobright.ai/jobs/info/692e2ceeef4b48533d13d44d?utm_campaign=1055&utm_source=git)** | Alachua, Florida, United States | On Site | Dec 01 |
@@ -145,7 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Ibotta](https://home.ibotta.com)** | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d70a17894705799a2f0310?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 30 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/692c4a4c66796e3028f92c09?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Nov 30 |
 | **[Everllence](www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Nov 30 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f2881e76a51a4307bc4839?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Nov 30 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f27e079a65fd345857d0ef?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Nov 30 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Audit/Compliance](https://jobright.ai/jobs/info/68bb46bd5f3832749186ded5?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Nov 30 |
 | **[HellermannTyton North America](https://www.hellermanntyton.us/)** | **[Intern - Import/Export Coordinator](https://jobright.ai/jobs/info/691d47ec0b7dff7341501da8?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 30 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/692bfc114c474121999cf799?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Nov 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/690ec2a544146d3b6ec57982?utm_campaign=1055&utm_source=git)** | Florida, United States | Remote | Nov 29 |
 | **[PACCAR Financial Corp.](https://www.paccarfinancial.com)** | **[Financial Rotational Internship - Summer Internship 2026 / Lewisville, TX](https://jobright.ai/jobs/info/691a95d0bcdbf3560c9d8eed?utm_campaign=1055&utm_source=git)** | Lewisville, TX | On Site | Nov 29 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Legal and Privacy Intern - Summer 2026](https://jobright.ai/jobs/info/690e8726221b890c2780f0cd?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
-| **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Legal Intern](https://jobright.ai/jobs/info/690f121844146d3b6ec59e2c?utm_campaign=1055&utm_source=git)** | South Sioux City, NE | On Site | Nov 29 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/690ec5be44146d3b6ec57afd?utm_campaign=1055&utm_source=git)** | United States | Remote | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
