@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Law Intern- Corporate Law](https://jobright.ai/jobs/info/692eaa894c474121999da6e2?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Dec 02 |
+| ↳ | **[Summer 2026 Law Intern- Transactions Law Group](https://jobright.ai/jobs/info/692ea9b24c474121999da697?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Dec 02 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[2026 Contracts Intern](https://jobright.ai/jobs/info/692e83b1ef4b48533d1404cc?utm_campaign=1055&utm_source=git)** | Hanover, MD | Hybrid | Dec 01 |
 | **[Strada Education Foundation](https://www.stradaeducation.org)** | **[Strada Education Foundation Internship: Legal Intern](https://jobright.ai/jobs/info/692e65ddfa28370be26a4379?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 01 |
 | **[Austin Community College](http://austincc.edu)** | **[Intern, Office of Equal Opportunity Compliance (Hourly)](https://jobright.ai/jobs/info/692e7507fa28370be26a4bfd?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Dec 01 |
@@ -147,7 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Ibotta](https://home.ibotta.com)** | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d70a17894705799a2f0310?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Nov 30 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/692c4a4c66796e3028f92c09?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Nov 30 |
 | **[Everllence](www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Nov 30 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f27e079a65fd345857d0ef?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Nov 30 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f2881e76a51a4307bc4839?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Nov 30 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Audit/Compliance](https://jobright.ai/jobs/info/68bb46bd5f3832749186ded5?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Nov 30 |
 | **[HellermannTyton North America](https://www.hellermanntyton.us/)** | **[Intern - Import/Export Coordinator](https://jobright.ai/jobs/info/691d47ec0b7dff7341501da8?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 30 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/692bfc114c474121999cf799?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Nov 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Standards Compliance & Authorizations)](https://jobright.ai/jobs/info/691d5bd6bcdbf3560c9f0294?utm_campaign=1055&utm_source=git)** | Vienna, VA | On Site | Nov 29 |
 | **[Church Mutual Insurance Company, S.I.](http://www.churchmutual.com)** | **[Intern-Claims Auto](https://jobright.ai/jobs/info/690f2f8844146d3b6ec5a979?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Nov 29 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/690ec2a544146d3b6ec57982?utm_campaign=1055&utm_source=git)** | Florida, United States | Remote | Nov 29 |
-| **[PACCAR Financial Corp.](https://www.paccarfinancial.com)** | **[Financial Rotational Internship - Summer Internship 2026 / Lewisville, TX](https://jobright.ai/jobs/info/691a95d0bcdbf3560c9d8eed?utm_campaign=1055&utm_source=git)** | Lewisville, TX | On Site | Nov 29 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Legal and Privacy Intern - Summer 2026](https://jobright.ai/jobs/info/690e8726221b890c2780f0cd?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
