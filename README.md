@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Litigation Intern](https://jobright.ai/jobs/info/68f66be39a65fd3458593256?utm_campaign=1055&utm_source=git)** | Cary, NC | Remote | Dec 03 |
+| **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69306b58ef4b48533d14b8e9?utm_campaign=1055&utm_source=git)** | Indianapolis | Hybrid | Dec 03 |
 | **[Arvento A](arventoa.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6930574ffa28370be26afd7d?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Dec 03 |
+| **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Compliance Analyst - R10664](https://jobright.ai/jobs/info/68f6f72776a51a4307bdfbeb?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Dec 03 |
+| **[Koch](https://www.kochinc.com)** | **[Tax Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6913cb37d1047e3565d0624b?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Dec 03 |
 | **[Endress+Hauser Group](https://ro.endress.com)** | **[2026 Summer Legal Internship](https://jobright.ai/jobs/info/691aab6045fb6f5ead8ace53?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Dec 03 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/68dc0031d6470e72cf4d7ebf?utm_campaign=1055&utm_source=git)** | Lincoln, NE | On Site | Dec 03 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f83e54a628d10664e80c70?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Dec 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[axogen](http://www.axogeninc.com)** | **[Intern, Regulatory Affairs - International Labeling Support](https://jobright.ai/jobs/info/692e47284c474121999d7ef6?utm_campaign=1055&utm_source=git)** | Alachua, FL | On Site | Dec 01 |
 | **[Nassau County District Attorney](https://nassauda.org)** | **[Intern - Spring 2026](https://jobright.ai/jobs/info/692e45894c474121999d7d8c?utm_campaign=1055&utm_source=git)** | Nassau, NY | On Site | Dec 01 |
 | **[Austin Community College](http://austincc.edu)** | **[Intern, Office of Equal Opportunity Compliance (Hourly)](https://jobright.ai/jobs/info/692e3215fa28370be26a23be?utm_campaign=1055&utm_source=git)** | Highland Campus | On Site | Dec 01 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[Contract Operations Intern](https://jobright.ai/jobs/info/692e312eef4b48533d13d658?utm_campaign=1055&utm_source=git)** | US - Wilmington - DE | Hybrid | Dec 01 |
-| ↳ | **[Corporate Affairs Intern - Oncology](https://jobright.ai/jobs/info/692e2c494c474121999d6ee8?utm_campaign=1055&utm_source=git)** | US - Gaithersburg - MD | Hybrid | Dec 01 |
-| **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Contract Operations Intern](https://jobright.ai/jobs/info/692e484b4c474121999d7ff2?utm_campaign=1055&utm_source=git)** | Wilmington | On Site | Dec 01 |
-| ↳ | **[Corporate Affairs Intern - Oncology](https://jobright.ai/jobs/info/692e5ce3ef4b48533d13f2d4?utm_campaign=1055&utm_source=git)** | Gaithersburg | Hybrid | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
