@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Corporate Affairs & Legal - Corporate Legal Group](https://jobright.ai/jobs/info/69140a11e344172248f762d2?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Dec 03 |
 | **[Doherty Enterprises](http://dohertyinc.com)** | **[Real Estate & Legal Intern](https://jobright.ai/jobs/info/692fd315fa28370be26adb88?utm_campaign=1055&utm_source=git)** | Allendale, NJ | On Site | Dec 02 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/692fac8eef4b48533d148102?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law](https://jobright.ai/jobs/info/692fbfcdfa28370be26ad42c?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Dec 02 |
@@ -91,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Dec 02 |
 | **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Spring Legal Intern](https://jobright.ai/jobs/info/692f66ddfa28370be26a9adb?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 02 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Contract Operations Intern](https://jobright.ai/jobs/info/692f74994c474121999df424?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Dec 02 |
+| **[Pratt & Whitney](https://prattwhitney.com/)** | **[Intern: 2026 - Global Security Services (Onsite)](https://jobright.ai/jobs/info/69300b884c474121999e3c54?utm_campaign=1055&utm_source=git)** | East Hartford, CT | On Site | Dec 02 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Legal](https://jobright.ai/jobs/info/692f6167ef4b48533d144b9a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[Democratic National Committee](https://democrats.org/)** | **[Spring 2026 DNC Legal Internship](https://jobright.ai/jobs/info/692f75744c474121999df4e7?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 02 |
 | **[Larhdel Law](https://www.immigrationattorneyarizona.us)** | **[Legal Intern](https://jobright.ai/jobs/info/692f58484c474121999ddfee?utm_campaign=1055&utm_source=git)** | Woodland, CA | On Site | Dec 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[State Office Legal Team Intern](https://jobright.ai/jobs/info/692e30a3fa28370be26a230a?utm_campaign=1055&utm_source=git)** | Wake County, NC | On Site | Dec 01 |
 | **[Hedrick Gardner Kincheloe & Garofalo LLP](http://hedrickgardner.com)** | **[2026 Summer Law Clerk](https://jobright.ai/jobs/info/692e2f52ef4b48533d13d579?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Dec 01 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Washington, DC](https://jobright.ai/jobs/info/690919144a1b456627afc679?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 01 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Escrow Intern - Summer 2026 (PGP Title)](https://jobright.ai/jobs/info/692e2501fa28370be26a1b76?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Dec 01 |
-| **[TowneBank](https://www.townebank.com/)** | **[Summer Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/692e14bdef4b48533d13c6a2?utm_campaign=1055&utm_source=git)** | Suffolk, VA | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
