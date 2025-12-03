@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Genmab](https://www.genmab.com)** | **[Digital Risk Management Intern](https://jobright.ai/jobs/info/69309f60fa28370be26b1992?utm_campaign=1055&utm_source=git)** | Princeton | Hybrid | Dec 03 |
+| **[Quicken Loans](http://www.quickenloans.com/)** | **[Legal Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/6930adde4c474121999e76e3?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Dec 03 |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/691545049c388539cbdf1fce?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 03 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Litigation Intern](https://jobright.ai/jobs/info/68f66be39a65fd3458593256?utm_campaign=1055&utm_source=git)** | Cary, NC | Remote | Dec 03 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69306b58ef4b48533d14b8e9?utm_campaign=1055&utm_source=git)** | Indianapolis | Hybrid | Dec 03 |
 | **[Singh Law Firm, P.A.](https://www.singhfirm.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693085054c474121999e5c38?utm_campaign=1055&utm_source=git)** | Vienna, VA | On Site | Dec 03 |
@@ -64,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Illumio](http://www.illumio.com)** | **[Security and Compliance Analyst Intern](https://jobright.ai/jobs/info/68eda5a870b66e2345d3fb0c?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | On Site | Dec 03 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Compliance Analyst - R10664](https://jobright.ai/jobs/info/68f6f72776a51a4307bdfbeb?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Dec 03 |
 | **[Koch](https://www.kochinc.com)** | **[Tax Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6913cb37d1047e3565d0624b?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Dec 03 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk Intern – Technology Expertise (Summer 2026)](https://jobright.ai/jobs/info/6930ac31fa28370be26b238d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Dec 03 |
 | **[Endress+Hauser Group](https://ro.endress.com)** | **[2026 Summer Legal Internship](https://jobright.ai/jobs/info/691aab6045fb6f5ead8ace53?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Dec 03 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/68dc0031d6470e72cf4d7ebf?utm_campaign=1055&utm_source=git)** | Lincoln, NE | On Site | Dec 03 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f83e54a628d10664e80c70?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Dec 03 |
@@ -102,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[AcariaHealth](https://acariahealth.envolvehealth.com)** | **[Contracts & Regulatory Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/692f6a4b4c474121999deb28?utm_campaign=1055&utm_source=git)** | Florida, United States | Remote | Dec 02 |
 | **[TransUnion](http://www.transunion.com)** | **[Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/692f86d8fa28370be26ab249?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Dec 02 |
 | **[Microsoft](https://www.microsoft.com)** | **[Legal Counsel Intern - Trusted Technology Group Accessibility Team](https://jobright.ai/jobs/info/692f88f84c474121999e038e?utm_campaign=1055&utm_source=git)** | Redmond, WA | Hybrid | Dec 02 |
-| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Juvenile Rights Practice Legal Intern, 1L - Summer 2026](https://jobright.ai/jobs/info/692f695cef4b48533d144fc2?utm_campaign=1055&utm_source=git)** | New York, NY, 10013, United States | On Site | Dec 02 |
-| ↳ | **[Criminal Defense Practice Legal Intern, 1L – Summer 2026](https://jobright.ai/jobs/info/692f712fef4b48533d14566f?utm_campaign=1055&utm_source=git)** | New York, NY, 10038, United States | On Site | Dec 02 |
+| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Criminal Defense Practice Legal Intern, 1L – Summer 2026](https://jobright.ai/jobs/info/692f712fef4b48533d14566f?utm_campaign=1055&utm_source=git)** | New York, NY, 10038, United States | On Site | Dec 02 |
+| ↳ | **[Juvenile Rights Practice Legal Intern, 1L - Summer 2026](https://jobright.ai/jobs/info/692f695cef4b48533d144fc2?utm_campaign=1055&utm_source=git)** | New York, NY, 10013, United States | On Site | Dec 02 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Dec 02 |
 | **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Spring Legal Intern](https://jobright.ai/jobs/info/692f66ddfa28370be26a9adb?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 02 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Contract Operations Intern](https://jobright.ai/jobs/info/692f74994c474121999df424?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Dec 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law](https://jobright.ai/jobs/info/692e6b5efa28370be26a47cd?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Dec 01 |
 | **[Hyundai Motor Company](https://www.hyundai.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/692e3c884c474121999d782a?utm_campaign=1055&utm_source=git)** | Fountain Valley, CA | On Site | Dec 01 |
 | **[PGP Title](https://www.pgptitle.com)** | **[Escrow Intern - Summer 2026 (PGP Title)](https://jobright.ai/jobs/info/692e54b04c474121999d8773?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Dec 01 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Legal Tech Intern](https://jobright.ai/jobs/info/692e472f4c474121999d7efc?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Dec 01 |
-| **[axogen](http://www.axogeninc.com)** | **[Intern, Regulatory Affairs - International Labeling Support](https://jobright.ai/jobs/info/692e47284c474121999d7ef6?utm_campaign=1055&utm_source=git)** | Alachua, FL | On Site | Dec 01 |
-| **[Nassau County District Attorney](https://nassauda.org)** | **[Intern - Spring 2026](https://jobright.ai/jobs/info/692e45894c474121999d7d8c?utm_campaign=1055&utm_source=git)** | Nassau, NY | On Site | Dec 01 |
-| **[Austin Community College](http://austincc.edu)** | **[Intern, Office of Equal Opportunity Compliance (Hourly)](https://jobright.ai/jobs/info/692e3215fa28370be26a23be?utm_campaign=1055&utm_source=git)** | Highland Campus | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
