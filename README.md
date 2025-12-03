@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/68dc0031d6470e72cf4d7ebf?utm_campaign=1055&utm_source=git)** | Lincoln, NE | On Site | Dec 03 |
+| **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f83e54a628d10664e80c70?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Dec 03 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Corporate Affairs & Legal - Corporate Legal Group](https://jobright.ai/jobs/info/69140a11e344172248f762d2?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Dec 03 |
+| **[Kite Pharma](http://www.kitepharma.com)** | **[Intern - Corporate Affairs & Legal - Kite Legal](https://jobright.ai/jobs/info/6913eb0f1465e02904e988fc?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Dec 03 |
+| **[Waystar](http://www.waystar.com)** | **[Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/68c0ce37702aa35207ab0962?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Dec 03 |
+| **[Sompo](https://www.sompo-intl.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/68f655fb76a51a4307bd97ad?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | Hybrid | Dec 03 |
 | **[Doherty Enterprises](http://dohertyinc.com)** | **[Real Estate & Legal Intern](https://jobright.ai/jobs/info/692fd315fa28370be26adb88?utm_campaign=1055&utm_source=git)** | Allendale, NJ | On Site | Dec 02 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/692fac8eef4b48533d148102?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law](https://jobright.ai/jobs/info/692fbfcdfa28370be26ad42c?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Dec 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Regulatory Affairs - Surgical](https://jobright.ai/jobs/info/692e45faef4b48533d13e419?utm_campaign=1055&utm_source=git)** | Louisville, CO | On Site | Dec 01 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2027 2L Summer Associate - Los Angeles (Litigation)](https://jobright.ai/jobs/info/692e47174c474121999d7ee6?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 01 |
 | ↳ | **[2027 2L Summer Associate - Florham Park, NJ](https://jobright.ai/jobs/info/692e6b4c4c474121999d95b4?utm_campaign=1055&utm_source=git)** | Florham Park, NJ | Hybrid | Dec 01 |
-| **[Bond, Schoeneck & King PLLC](https://www.bsk.com/)** | **[Summer 2026 (1L) Law Clerk](https://jobright.ai/jobs/info/6908d7b74a1b456627af96bf?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | Dec 01 |
-| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Summer Intern for Court of Appeals](https://jobright.ai/jobs/info/692e4523fa28370be26a2f5d?utm_campaign=1055&utm_source=git)** | Wake County, NC | On Site | Dec 01 |
-| ↳ | **[State Office Legal Team Intern](https://jobright.ai/jobs/info/692e30a3fa28370be26a230a?utm_campaign=1055&utm_source=git)** | Wake County, NC | On Site | Dec 01 |
-| **[Hedrick Gardner Kincheloe & Garofalo LLP](http://hedrickgardner.com)** | **[2026 Summer Law Clerk](https://jobright.ai/jobs/info/692e2f52ef4b48533d13d579?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Dec 01 |
-| **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Washington, DC](https://jobright.ai/jobs/info/690919144a1b456627afc679?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
