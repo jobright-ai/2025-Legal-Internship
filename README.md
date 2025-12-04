@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Life Group](https://www.nationallife.com)** | **[Law & Compliance Intern – Summer 2026](https://jobright.ai/jobs/info/6914f024286ccf0a151296c7?utm_campaign=1055&utm_source=git)** | Montpelier, VT | On Site | Dec 04 |
+| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Privacy Compliance Intern](https://jobright.ai/jobs/info/691ab28b45fb6f5ead8ad02e?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Dec 04 |
+| **[FM](https://www.fmglobal.com)** | **[Claims intern](https://jobright.ai/jobs/info/68f9546fa628d10664e8c2e3?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Dec 04 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Regulatory Compliance Internship - Summer 2026 - Erie, PA](https://jobright.ai/jobs/info/68de66b3a125e75c422b4247?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Dec 04 |
+| **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Law Intern- Data Privacy](https://jobright.ai/jobs/info/692eeb124c474121999db4c0?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Dec 04 |
+| ↳ | **[Summer 2026 Law Intern- Transactions Law Group](https://jobright.ai/jobs/info/692ea9b24c474121999da697?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Dec 04 |
 | **[National Life Group](https://www.nationallife.com)** | **[Law & Compliance Intern – Summer 2026](https://jobright.ai/jobs/info/69150009286ccf0a1512a323?utm_campaign=1055&utm_source=git)** | Addison, TX | On Site | Dec 04 |
 | **[Gallagher](http://www.ajg.com)** | **[U.S Internship - Risk Control](https://jobright.ai/jobs/info/68a3d2641ab5f8579e8a8a7d?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | On Site | Dec 04 |
 | **[OneStream Software](https://www.onestream.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6931b073fa28370be26bd5d3?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 04 |
@@ -139,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[AcariaHealth](https://acariahealth.envolvehealth.com)** | **[Contracts & Regulatory Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/692f6a4b4c474121999deb28?utm_campaign=1055&utm_source=git)** | Florida, United States | Remote | Dec 02 |
 | **[TransUnion](http://www.transunion.com)** | **[Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/692f86d8fa28370be26ab249?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Dec 02 |
 | **[Microsoft](https://www.microsoft.com)** | **[Legal Counsel Intern - Trusted Technology Group Accessibility Team](https://jobright.ai/jobs/info/692f88f84c474121999e038e?utm_campaign=1055&utm_source=git)** | Redmond, WA | Hybrid | Dec 02 |
-| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Criminal Defense Practice Legal Intern, 1L – Summer 2026](https://jobright.ai/jobs/info/692f712fef4b48533d14566f?utm_campaign=1055&utm_source=git)** | New York, NY, 10038, United States | On Site | Dec 02 |
-| ↳ | **[Juvenile Rights Practice Legal Intern, 1L - Summer 2026](https://jobright.ai/jobs/info/692f695cef4b48533d144fc2?utm_campaign=1055&utm_source=git)** | New York, NY, 10013, United States | On Site | Dec 02 |
+| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Juvenile Rights Practice Legal Intern, 1L - Summer 2026](https://jobright.ai/jobs/info/692f695cef4b48533d144fc2?utm_campaign=1055&utm_source=git)** | New York, NY, 10013, United States | On Site | Dec 02 |
+| ↳ | **[Criminal Defense Practice Legal Intern, 1L – Summer 2026](https://jobright.ai/jobs/info/692f712fef4b48533d14566f?utm_campaign=1055&utm_source=git)** | New York, NY, 10038, United States | On Site | Dec 02 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Dec 02 |
 | **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Spring Legal Intern](https://jobright.ai/jobs/info/692f66ddfa28370be26a9adb?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 02 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Contract Operations Intern](https://jobright.ai/jobs/info/692f74994c474121999df424?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Dec 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Repligen Corporation](http://www.repligen.com)** | **[Legal Intern](https://jobright.ai/jobs/info/692f6695ef4b48533d144f34?utm_campaign=1055&utm_source=git)** | Waltham, MA | Hybrid | Dec 02 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Records and Information)](https://jobright.ai/jobs/info/692552b3f0beb0723261ce47?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Dec 02 |
 | **[Southeast Toyota Distributors, LLC](https://jmfamily.com/our-businesses/southeast-toyota-distributors/)** | **[Franchise Analyst Intern](https://jobright.ai/jobs/info/692f59e3ef4b48533d1446db?utm_campaign=1055&utm_source=git)** | Miami-FTL Area | Hybrid | Dec 02 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Contracts)](https://jobright.ai/jobs/info/692f61294c474121999de5ce?utm_campaign=1055&utm_source=git)** | US-FL-St Petersburg | Hybrid | Dec 02 |
-| **[Repligen Corporation](http://www.repligen.com)** | **[Legal Intern](https://jobright.ai/jobs/info/692f6c35ef4b48533d1451eb?utm_campaign=1055&utm_source=git)** | US-MA-Waltham | Hybrid | Dec 02 |
-| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Applications and Enforcement Intern)](https://jobright.ai/jobs/info/6926757ef0beb07232625107?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Dec 02 |
-| **[Centene Corporation](http://www.centene.com)** | **[Contracts & Regulatory Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/692f6b66fa28370be26a9f3a?utm_campaign=1055&utm_source=git)** | Remote-FL | Remote | Dec 02 |
-| **[Zekelman Industries](http://www.zekelman.com)** | **[Risk and Compliance, Intern](https://jobright.ai/jobs/info/68f699779a65fd3458594f81?utm_campaign=1055&utm_source=git)** | Chandler, AZ | On Site | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
