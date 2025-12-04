@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Summer 2026 Juris Doctorate Law Internship](https://jobright.ai/jobs/info/6931479e4c474121999ecf3d?utm_campaign=1055&utm_source=git)** | Downtown Denver | On Site | Dec 04 |
+| **[City and County of Denver](https://www.denvergov.org)** | **[Summer 2026 Juris Doctorate Law Internship](https://jobright.ai/jobs/info/69315f2cfa28370be26b87ad?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Dec 03 |
 | **[Equity Residential](http://equityapartments.com)** | **[Contract Administrator Intern - Augusta, GA](https://jobright.ai/jobs/info/693135474c474121999ec9b5?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Dec 03 |
 | **[Brown Brothers Harriman](http://www.bbh.com)** | **[2026 Enterprise Risk Management Summer Internship](https://jobright.ai/jobs/info/693103deef4b48533d151a68?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Dec 03 |
 | **[Notion](https://www.notion.so)** | **[Trust and Safety, Fraud and Abuse Analyst Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b8654d046ab6061ce4f0f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Dec 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/692eff94fa28370be26a6c59?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Dec 02 |
 | ↳ | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/692efd3a4c474121999dba95?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Dec 02 |
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Corporate Compliance & Ethics Intern - Summer 2026](https://jobright.ai/jobs/info/6912bb0ad1047e3565cfe62c?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Dec 02 |
-| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - AI & Legal Compliance (Summer 2026)](https://jobright.ai/jobs/info/692ee23fef4b48533d141838?utm_campaign=1055&utm_source=git)** | Garland, TX | On Site | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
