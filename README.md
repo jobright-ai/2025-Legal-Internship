@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69325aaaf131d96e4845b788?utm_campaign=1055&utm_source=git)** | Livermore, CA | Hybrid | Dec 04 |
 | **[Wärtsilä](http://www.wartsila.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/693248d0764507023d1ac9f3?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Dec 04 |
+| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law](https://jobright.ai/jobs/info/693266d3a0dde7020e2e6899?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Dec 04 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Legal - Temporary](https://jobright.ai/jobs/info/6932440ba0dde7020e2e4eb4?utm_campaign=1055&utm_source=git)** | Mason, OH | On Site | Dec 04 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69323e2cbc6af7687d9f416e?utm_campaign=1055&utm_source=git)** | Livermore, CA, USA | Hybrid | Dec 04 |
+| **[PACCAR Financial Corp.](https://www.paccarfinancial.com)** | **[PFC Contract Admin - Summer Internship 2026, Denton, TX](https://jobright.ai/jobs/info/69325ae9f131d96e4845b7a7?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Dec 04 |
+| **[South Eastern Sydney Local Health District (SESLHD)](https://www.seslhd.health.nsw.gov.au)** | **[Medico-Legal Officer (Administrative Officer Level 4) - Mental Health Services](https://jobright.ai/jobs/info/69326077764507023d1adf78?utm_campaign=1055&utm_source=git)** | Concord, NC | On Site | Dec 04 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/69325dae764507023d1add6b?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Dec 04 |
+| ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/69325673a0dde7020e2e5e04?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Dec 04 |
+| **[Axos Bank](https://www.axosbank.com/)** | **[Risk & Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/693263baa0dde7020e2e66ea?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Dec 04 |
 | **[Kaufman Dolowich LLP](https://www.kaufmandolowich.com/)** | **[2L Law Clerk Opportunity - Summer 2026](https://jobright.ai/jobs/info/69322e19fa28370be26c2d37?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 04 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Surety Intern - Summer 2026](https://jobright.ai/jobs/info/693216a1fa28370be26c1adf?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Dec 04 |
 | **[Powell](http://www.powellind.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693237d7fa28370be26c32b6?utm_campaign=1055&utm_source=git)** | Greater Houston | On Site | Dec 04 |
@@ -101,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Equity Residential](http://equityapartments.com)** | **[Contract Administrator Intern - Augusta, GA](https://jobright.ai/jobs/info/693135474c474121999ec9b5?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Dec 03 |
 | **[Brown Brothers Harriman](http://www.bbh.com)** | **[2026 Enterprise Risk Management Summer Internship](https://jobright.ai/jobs/info/693103deef4b48533d151a68?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Dec 03 |
 | **[Notion](https://www.notion.com/)** | **[Trust and Safety, Fraud and Abuse Analyst Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b8654d046ab6061ce4f0f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Dec 03 |
+| **[Wayne Farms](http://www.waynefarms.com)** | **[Industrial Hygiene & Safety Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/69325f14764507023d1ade71?utm_campaign=1055&utm_source=git)** | Laurel, MS | Hybrid | Dec 03 |
 | **[UNDP Careers](https://www.undp.org)** | **[Legal Intern - Administrative Law Team](https://jobright.ai/jobs/info/6930ef554c474121999ea7b6?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 03 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[CLE Intern (Year-round) - New York](https://jobright.ai/jobs/info/69313fb5fa28370be26b7bd4?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 03 |
 | **[Brown Brothers Harriman](http://www.bbh.com)** | **[2026 Enterprise Risk Management Summer Internship](https://jobright.ai/jobs/info/6931145afa28370be26b6c09?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Dec 03 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/692f9e8def4b48533d147791?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Dec 02 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/692fa27bef4b48533d1479f0?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | Dec 02 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Law Student Intern, Office of the General Counsel](https://jobright.ai/jobs/info/692f909ffa28370be26ab8af?utm_campaign=1055&utm_source=git)** | Somerville, MA | On Site | Dec 02 |
-| ↳ | **[Law Student Intern, Office of the General Counsel](https://jobright.ai/jobs/info/692f9b414c474121999e0f6c?utm_campaign=1055&utm_source=git)** | Somerville-MA | Hybrid | Dec 02 |
-| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Law Reform Legal Intern, 1L- Summer 2026](https://jobright.ai/jobs/info/692f5d82ef4b48533d1448c9?utm_campaign=1055&utm_source=git)** | New York, NY, 10013, United States | On Site | Dec 02 |
-| **[WM](https://www.wm.com/)** | **[WMRE Sustainability - Operations & Compliance Intern](https://jobright.ai/jobs/info/692f5d50ef4b48533d1448a1?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 02 |
-| **[WM India](https://www.wm.com/us/en/inside-wm/who-we-are/wm-india)** | **[WMRE Sustainability - Operations & Compliance Intern](https://jobright.ai/jobs/info/692f5814fa28370be26a919a?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | On Site | Dec 02 |
-| **[TransUnion](http://www.transunion.com)** | **[Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/692f8327ef4b48533d146437?utm_campaign=1055&utm_source=git)** | Chicago, Illinois | Hybrid | Dec 02 |
-| **[HARTING Technology Group](https://www.harting.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/692f53cfef4b48533d144374?utm_campaign=1055&utm_source=git)** | Elgin, IL | On Site | Dec 02 |
-| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Juvenile Rights Practice Legal Intern, 1L - Summer 2026](https://jobright.ai/jobs/info/692f6fcc4c474121999deffb?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 02 |
-| **[United Educators](https://www.ue.org/)** | **[Resolutions (Claims) Intern - Comprehensive Group](https://jobright.ai/jobs/info/692e38764c474121999d7580?utm_campaign=1055&utm_source=git)** | Bethesda, MD | Hybrid | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
