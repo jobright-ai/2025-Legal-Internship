@@ -57,18 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[First Financial Bank](http://www.bankatfirst.com)** | **[Intern, Fraud](https://jobright.ai/jobs/info/6937077ba0dde7020e2fe7df?utm_campaign=1055&utm_source=git)** | OH - Cincinnati - Pictoria Dr | On Site | Dec 08 |
+| **[First Financial Bank](http://www.bankatfirst.com)** | **[Intern, Corporate Responsibility](https://jobright.ai/jobs/info/6936f853aabec14a727c33ca?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Dec 08 |
+| ↳ | **[Intern, Fraud](https://jobright.ai/jobs/info/6937077ba0dde7020e2fe7df?utm_campaign=1055&utm_source=git)** | OH - Cincinnati - Pictoria Dr | On Site | Dec 08 |
 | **[Lithia & Driveway](https://www.lithiadriveway.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6937075b1c1c2161c13f00f5?utm_campaign=1055&utm_source=git)** | Lithia Motors Home Office, Medford, OR 97501 | On Site | Dec 08 |
 | **[First Financial Bank](http://www.bankatfirst.com)** | **[Intern, Fraud](https://jobright.ai/jobs/info/6937029aa0dde7020e2fe5c3?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Dec 08 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Compliance Intern](https://jobright.ai/jobs/info/6936fc62aabec14a727c3535?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Dec 08 |
+| **[MFA](https://www.managedfunds.org/)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/69371aa4a0dde7020e2fefed?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 08 |
 | **[First Financial Bank](http://www.bankatfirst.com)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6936f880aabec14a727c33d7?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Dec 08 |
-| ↳ | **[Intern, Corporate Responsibility](https://jobright.ai/jobs/info/6936f853aabec14a727c33ca?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Dec 08 |
 | ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/6936f23a1c1c2161c13ef834?utm_campaign=1055&utm_source=git)** | OH - Cincinnati - 5th St | On Site | Dec 08 |
 | **[Richmond National](https://richmondnational.com)** | **[Legal Internship](https://jobright.ai/jobs/info/68dfef38f758fe1f97e4801b?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | On Site | Dec 08 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6936e1551c1c2161c13ef283?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Dec 08 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Quality & Compliance Intern- Patient Service (Pharm D)](https://jobright.ai/jobs/info/68c7aef9c96a22563ecf41bc?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Dec 08 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Salt Lake City, UT CLC](https://jobright.ai/jobs/info/691acd1a15b415636718ac49?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Dec 08 |
-| **[Valorantum](valorantum.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6936a82fa0dde7020e2fcb7e?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Dec 08 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/6936a8041c1c2161c13ee2cd?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Dec 08 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Legal and Business Affairs Intern, Summer 2026](https://jobright.ai/jobs/info/693692971c1c2161c13edc01?utm_campaign=1055&utm_source=git)** | San Francisco, CA, USA | Hybrid | Dec 08 |
 | **[UNDP Careers](https://www.undp.org)** | **[Legal Intern - Administrative Law Team](https://jobright.ai/jobs/info/6930ef554c474121999ea7b6?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 08 |
@@ -110,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Dexcom](http://www.dexcom.com)** | **[Intern II - Environmental Product Compliance and Sustainability](https://jobright.ai/jobs/info/69336f9c764507023d1b59d6?utm_campaign=1055&utm_source=git)** | San Diego, California | Hybrid | Dec 05 |
 | **[Crum & Forster Services India Private Limited](http://www.cfins.com/)** | **[Internship - Surety Division - Morristown, NJ/Hybrid](https://jobright.ai/jobs/info/6933b719764507023d1b895f?utm_campaign=1055&utm_source=git)** | Morristown, NJ | Hybrid | Dec 05 |
 | **[Savannah River National Laboratory](https://www.srnl.gov)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69336705f131d96e48462eb6?utm_campaign=1055&utm_source=git)** | Aiken, SC | On Site | Dec 05 |
-| **[Emera](http://www.emera.com/)** | **[Manager, IT Internal Control & Compliance](https://jobright.ai/jobs/info/6924ce0038cd5478a8d5e021?utm_campaign=1055&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Dec 05 |
 | **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[McDonough Customs Compliance Summer 2026 Intern](https://jobright.ai/jobs/info/69335b1bf131d96e484626db?utm_campaign=1055&utm_source=git)** | McDonough, GA | On Site | Dec 05 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/693373ed764507023d1b5d57?utm_campaign=1055&utm_source=git)** | Marlborough, MA | Hybrid | Dec 05 |
 | **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/6933520d764507023d1b4308?utm_campaign=1055&utm_source=git)** | Yorktown Heights, NY | On Site | Dec 05 |
@@ -131,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c6e5597d0db4114273b4f9?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Dec 05 |
 | **[Welldoc](https://www.welldoc.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/693355a5a0dde7020e2ecc00?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 05 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Internship - Surety Division - Morristown, NJ/Hybrid](https://jobright.ai/jobs/info/6933219c764507023d1b26a7?utm_campaign=1055&utm_source=git)** | Morristown, NJ | Hybrid | Dec 05 |
-| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6933444ea0dde7020e2ebfdc?utm_campaign=1055&utm_source=git)** | BJ's Club Support Center Marlborough, MA #5997 | Hybrid | Dec 05 |
 | **[Vermont Legal Aid, Inc.](https://www.vtlegalaid.org/)** | **[Tenant Representation Intern](https://jobright.ai/jobs/info/69335881a0dde7020e2ece62?utm_campaign=1055&utm_source=git)** | Springfield, VT | On Site | Dec 05 |
 | **[MBX Biosciences, Inc.](https://www.mbxbio.com)** | **[Regulatory Affairs Fellow](https://jobright.ai/jobs/info/6920423e3f782d2f1afc3f7e?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 05 |
 | **[Galaxy](https://www.galaxy.com)** | **[2026 Legal Internship - NYC](https://jobright.ai/jobs/info/691696d3286ccf0a15137b48?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 05 |
@@ -153,8 +151,10 @@ For a complete list, click the following sortable link below:
 | **[PACCAR Financial Corp.](https://www.paccarfinancial.com)** | **[PFC Contract Admin - Summer Internship 2026, Denton, TX](https://jobright.ai/jobs/info/69325ae9f131d96e4845b7a7?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Dec 04 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/69325dae764507023d1add6b?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Dec 04 |
 | **[Kaufman Dolowich LLP](https://www.kaufmandolowich.com/)** | **[2L Law Clerk Opportunity - Summer 2026](https://jobright.ai/jobs/info/69322e19fa28370be26c2d37?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 04 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Surety Intern - Summer 2026](https://jobright.ai/jobs/info/693216a1fa28370be26c1adf?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Dec 04 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Law Intern- Intellectual Property](https://jobright.ai/jobs/info/692eb6edfa28370be26a5b13?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Dec 04 |
 | **[Powell](http://www.powellind.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693237d7fa28370be26c32b6?utm_campaign=1055&utm_source=git)** | Greater Houston | On Site | Dec 04 |
 | **[REV Federal Credit Union](https://www.revfcu.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6931f7f3fa28370be26bfefc?utm_campaign=1055&utm_source=git)** | Summerville, SC | On Site | Dec 04 |
 | **[Waukesha County Health & Human Services](http://www.waukeshacounty.gov/hhs)** | **[Law Clerk Intern (Circuit Court)](https://jobright.ai/jobs/info/693218704c474121999f6d57?utm_campaign=1055&utm_source=git)** | Waukesha, WI | On Site | Dec 04 |
+| **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Legal Regulatory and Enforcement Internship](https://jobright.ai/jobs/info/6924770dec574f4265bb3dcf?utm_campaign=1055&utm_source=git)** | Greenwich, CT | On Site | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
