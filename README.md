@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Administrative Division](https://jobright.ai/jobs/info/690a52484a1b456627b062f3?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Dec 07 |
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Compliance](https://jobright.ai/jobs/info/68c0af705c5d5f14f46e0428?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Dec 07 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Legal Intern / Summer 2026](https://jobright.ai/jobs/info/6919e6d515b41563671879dd?utm_campaign=1055&utm_source=git)** | Brentwood, TN | Hybrid | Dec 07 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6935b824764507023d1c0f41?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Dec 07 |
@@ -103,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Privacy](https://jobright.ai/jobs/info/69334da7a0dde7020e2ec621?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 05 |
 | **[Savannah River National Laboratory](https://www.srnl.gov)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69334bb3f131d96e48461893?utm_campaign=1055&utm_source=git)** | Aiken, SC, United States | On Site | Dec 05 |
 | **[Physics World](https://physicsworld.com/)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69337fa1a0dde7020e2ee9a9?utm_campaign=1055&utm_source=git)** | Livermore, CA | Hybrid | Dec 05 |
-| **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Administrative Division](https://jobright.ai/jobs/info/690a52484a1b456627b062f3?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Dec 05 |
 | **[IBM](http://www.ibm.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/693368b2a0dde7020e2ed9b1?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Dec 05 |
 | ↳ | **[Intellectual Property Intern](https://jobright.ai/jobs/info/693372faf131d96e484637a9?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Dec 05 |
 | ↳ | **[Intellectual Property Intern](https://jobright.ai/jobs/info/69336aa9a0dde7020e2edb5a?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Dec 05 |
@@ -130,8 +130,7 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Intern, Drug Product Supply Risk Management](https://jobright.ai/jobs/info/6932f13f764507023d1b1365?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Dec 05 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/691670fe6f36db06ef0568d3?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Dec 05 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern, Federal Contracts - Campus 2026](https://jobright.ai/jobs/info/6916400a6f36db06ef05436a?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Dec 05 |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/6932fab4f131d96e4845ef63?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Dec 05 |
-| ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/6932e6bba0dde7020e2e9531?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Dec 05 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6932e6bba0dde7020e2e9531?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Dec 05 |
 | **[The Chemours Company](https://www.chemours.com)** | **[APM Product Stewardship and Regulatory Compliance Intern](https://jobright.ai/jobs/info/68c63d967d0db4114273718a?utm_campaign=1055&utm_source=git)** | New Castle County, DE | Hybrid | Dec 05 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6932c0ada0dde7020e2e892a?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Dec 05 |
 | **[DermCare Management](https://www.dermcaremgt.com)** | **[Clinical Research Contracts Intern](https://jobright.ai/jobs/info/6932a1b2764507023d1af8ed?utm_campaign=1055&utm_source=git)** | HOLLYWOOD, FL, USA | Hybrid | Dec 05 |
@@ -141,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Wärtsilä](http://www.wartsila.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/693248d0764507023d1ac9f3?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Dec 04 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69323e2cbc6af7687d9f416e?utm_campaign=1055&utm_source=git)** | Livermore, CA, USA | Hybrid | Dec 04 |
 | **[PACCAR Financial Corp.](https://www.paccarfinancial.com)** | **[PFC Contract Admin - Summer Internship 2026, Denton, TX](https://jobright.ai/jobs/info/69325ae9f131d96e4845b7a7?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Dec 04 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/69325dae764507023d1add6b?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Dec 04 |
 | **[Kaufman Dolowich LLP](https://www.kaufmandolowich.com/)** | **[2L Law Clerk Opportunity - Summer 2026](https://jobright.ai/jobs/info/69322e19fa28370be26c2d37?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 04 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Surety Intern - Summer 2026](https://jobright.ai/jobs/info/693216a1fa28370be26c1adf?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Dec 04 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Law Intern- Intellectual Property](https://jobright.ai/jobs/info/692eb6edfa28370be26a5b13?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Dec 04 |
 | **[Powell](http://www.powellind.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693237d7fa28370be26c32b6?utm_campaign=1055&utm_source=git)** | Greater Houston | On Site | Dec 04 |
 | **[REV Federal Credit Union](https://www.revfcu.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6931f7f3fa28370be26bfefc?utm_campaign=1055&utm_source=git)** | Summerville, SC | On Site | Dec 04 |
@@ -152,6 +151,7 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Risk Control Property Intern](https://jobright.ai/jobs/info/68fb397f3c99cc1d96029e28?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Dec 04 |
 | ↳ | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fae6cf8d32c164778cc61d?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Dec 04 |
 | **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693212444c474121999f697c?utm_campaign=1055&utm_source=git)** | Milwaukee, WI, US | Hybrid | Dec 04 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Surety Intern - Summer 2026](https://jobright.ai/jobs/info/6932174cd0010831497bf628?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Dec 04 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69321a47d0010831497bf914?utm_campaign=1055&utm_source=git)** | Quincy, MA | On Site | Dec 04 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Legal Intern (Summer 2026 Cohort)](https://jobright.ai/jobs/info/693210984c474121999f67b3?utm_campaign=1055&utm_source=git)** | Cape May, NJ | Hybrid | Dec 04 |
 | **[Burr & Forman](http://www.burr.com)** | **[2026 Pre-Law Intern](https://jobright.ai/jobs/info/6931fc63fa28370be26c031d?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
