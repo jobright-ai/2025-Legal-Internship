@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Salt Lake City, UT CLC](https://jobright.ai/jobs/info/68cf5536dbd9fb154ede6fde?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Dec 08 |
+| **[Valorantum](valorantum.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6936a82fa0dde7020e2fcb7e?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Dec 08 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/6936a8041c1c2161c13ee2cd?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Dec 08 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Legal and Business Affairs Intern, Summer 2026](https://jobright.ai/jobs/info/693692971c1c2161c13edc01?utm_campaign=1055&utm_source=git)** | San Francisco, CA, USA | Hybrid | Dec 08 |
 | **[UNDP Careers](https://www.undp.org)** | **[Legal Intern - Administrative Law Team](https://jobright.ai/jobs/info/6930ef554c474121999ea7b6?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 08 |
 | **[Waukesha County, WI](http://www.waukeshacounty.gov)** | **[Law Clerk Intern (Circuit Court)](https://jobright.ai/jobs/info/69369dbb1c1c2161c13ee006?utm_campaign=1055&utm_source=git)** | Waukesha, WI | On Site | Dec 07 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Waukesha County Health & Human Services](http://www.waukeshacounty.gov/hhs)** | **[Law Clerk Intern (Circuit Court)](https://jobright.ai/jobs/info/693218704c474121999f6d57?utm_campaign=1055&utm_source=git)** | Waukesha, WI | On Site | Dec 04 |
 | **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Legal Regulatory and Enforcement Internship](https://jobright.ai/jobs/info/6924770dec574f4265bb3dcf?utm_campaign=1055&utm_source=git)** | Greenwich, CT | On Site | Dec 04 |
 | **[Credit Union West](http://www.cuwest.org/)** | **[Compliance Coordinator Intern](https://jobright.ai/jobs/info/69322074d0010831497bfdc9?utm_campaign=1055&utm_source=git)** | Corporate Center, Glendale, AZ, US | On Site | Dec 04 |
-| **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fae6cf8d32c164778cc61d?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Dec 04 |
-| ↳ | **[Risk Control Property Intern](https://jobright.ai/jobs/info/68fb397f3c99cc1d96029e28?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Dec 04 |
+| **[Travelers](https://www.travelers.com)** | **[Risk Control Property Intern](https://jobright.ai/jobs/info/68fb397f3c99cc1d96029e28?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Dec 04 |
+| ↳ | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fae6cf8d32c164778cc61d?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Dec 04 |
 | **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693212444c474121999f697c?utm_campaign=1055&utm_source=git)** | Milwaukee, WI, US | Hybrid | Dec 04 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69321a47d0010831497bf914?utm_campaign=1055&utm_source=git)** | Quincy, MA | On Site | Dec 04 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Legal Intern (Summer 2026 Cohort)](https://jobright.ai/jobs/info/693210984c474121999f67b3?utm_campaign=1055&utm_source=git)** | Cape May, NJ | Hybrid | Dec 04 |
 | **[Burr & Forman](http://www.burr.com)** | **[2026 Pre-Law Intern](https://jobright.ai/jobs/info/6931fc63fa28370be26c031d?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
-| **[Credit Union West](http://www.cuwest.org/)** | **[Compliance Coordinator Intern](https://jobright.ai/jobs/info/693485de764507023d1bd4dc?utm_campaign=1055&utm_source=git)** | Glendale, AZ | On Site | Dec 04 |
-| **[National Life Group](https://www.nationallife.com)** | **[Law & Compliance Intern – Summer 2026](https://jobright.ai/jobs/info/6914f024286ccf0a151296c7?utm_campaign=1055&utm_source=git)** | Montpelier, VT | On Site | Dec 04 |
-| **[Duquesne Light Company](https://www.duquesnelight.com/)** | **[2026 Summer Internship - Regulatory Legal](https://jobright.ai/jobs/info/6931ffe3d0010831497be0ba?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
