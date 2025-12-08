@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Legal and Business Affairs Intern, Summer 2026](https://jobright.ai/jobs/info/693692971c1c2161c13edc01?utm_campaign=1055&utm_source=git)** | San Francisco, CA, USA | Hybrid | Dec 08 |
+| **[UNDP Careers](https://www.undp.org)** | **[Legal Intern - Administrative Law Team](https://jobright.ai/jobs/info/6930ef554c474121999ea7b6?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 08 |
+| **[Waukesha County, WI](http://www.waukeshacounty.gov)** | **[Law Clerk Intern (Circuit Court)](https://jobright.ai/jobs/info/69369dbb1c1c2161c13ee006?utm_campaign=1055&utm_source=git)** | Waukesha, WI | On Site | Dec 07 |
 | **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Administrative Division](https://jobright.ai/jobs/info/690a52484a1b456627b062f3?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Dec 07 |
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Compliance](https://jobright.ai/jobs/info/68c0af705c5d5f14f46e0428?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Dec 07 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Legal Intern / Summer 2026](https://jobright.ai/jobs/info/6919e6d515b41563671879dd?utm_campaign=1055&utm_source=git)** | Brentwood, TN | Hybrid | Dec 07 |
-| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6935b824764507023d1c0f41?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Dec 07 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/68c42ff514bb275ce01915b0?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | Hybrid | Dec 07 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Birmingham, AL CLC](https://jobright.ai/jobs/info/69192a5ebcdbf3560c9d43b3?utm_campaign=1055&utm_source=git)** | Birmingham, AL | Hybrid | Dec 07 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Regulatory Summer Internship / Mississauga, ON, Canada](https://jobright.ai/jobs/info/6918a703bcdbf3560c9d31d0?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Dec 07 |
@@ -123,10 +125,10 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Regulatory Information Management and Technology](https://jobright.ai/jobs/info/6932ff40764507023d1b1892?utm_campaign=1055&utm_source=git)** | Home, KS | Remote | Dec 05 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Risk Management Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6916af8b9c388539cbdfdf87?utm_campaign=1055&utm_source=git)** | North Las Vegas, NV | On Site | Dec 05 |
 | **[CyberAlliance](https://cyber-alliance.com)** | **[Regulatory and Compliance Operations Fellow](https://jobright.ai/jobs/info/69331824a0dde7020e2ea6d3?utm_campaign=1055&utm_source=git)** | Raleigh, NC | Hybrid | Dec 05 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6916445e6f36db06ef054697?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Dec 05 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Rising 3L (Intern) - United States](https://jobright.ai/jobs/info/69169a329c388539cbdfd1f8?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Dec 05 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Legal Intern - Summer Legal Internship Program](https://jobright.ai/jobs/info/6932f239a0dde7020e2e988a?utm_campaign=1055&utm_source=git)** | Milwaukee-Wisconsin-United States of America | On Site | Dec 05 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Intern, Drug Product Supply Risk Management](https://jobright.ai/jobs/info/6932f13f764507023d1b1365?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Dec 05 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/691670fe6f36db06ef0568d3?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Dec 05 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern, Federal Contracts - Campus 2026](https://jobright.ai/jobs/info/6916400a6f36db06ef05436a?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Dec 05 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/6932fab4f131d96e4845ef63?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Dec 05 |
 | ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/6932e6bba0dde7020e2e9531?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Dec 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Credit Union West](http://www.cuwest.org/)** | **[Compliance Coordinator Intern](https://jobright.ai/jobs/info/693485de764507023d1bd4dc?utm_campaign=1055&utm_source=git)** | Glendale, AZ | On Site | Dec 04 |
 | **[National Life Group](https://www.nationallife.com)** | **[Law & Compliance Intern – Summer 2026](https://jobright.ai/jobs/info/6914f024286ccf0a151296c7?utm_campaign=1055&utm_source=git)** | Montpelier, VT | On Site | Dec 04 |
 | **[Duquesne Light Company](https://www.duquesnelight.com/)** | **[2026 Summer Internship - Regulatory Legal](https://jobright.ai/jobs/info/6931ffe3d0010831497be0ba?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Dec 04 |
-| **[Powell](http://www.powellind.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693201a94c474121999f5949?utm_campaign=1055&utm_source=git)** | 8550 Mosley Road, Houston, TX, 77075, US | On Site | Dec 04 |
-| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Privacy Compliance Intern](https://jobright.ai/jobs/info/691ab28b45fb6f5ead8ad02e?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
