@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Rising 2L Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6939a637ac80bb5492bc21c7?utm_campaign=1055&utm_source=git)** | California - Home Teleworkers | Remote | Dec 10 |
+| **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/692283bbc0cefa13343d80d7?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Dec 10 |
+| **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Corporate Legal](https://jobright.ai/jobs/info/691d286d7481340785ed453a?utm_campaign=1055&utm_source=git)** | Chesterfield, MO | Hybrid | Dec 10 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Audit & Inspection Intern](https://jobright.ai/jobs/info/6939989456b68f3dc4e6f7cf?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Dec 10 |
+| ↳ | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/69399773ac80bb5492bc1c1d?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 10 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Legal Intern - Summer Legal Internship Program](https://jobright.ai/jobs/info/6939949256b68f3dc4e6f65b?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Dec 10 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/693991a648a8ce22990d9aff?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 10 |
 | **[Grammarly](https://www.grammarly.com/jobs/)** | **[Privacy Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/691d08e4ff7024498416d2bf?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Dec 10 |
+| ↳ | **[Corporate Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/691d052b22a2cb4b9bd1fe10?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Dec 10 |
+| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6939a8e256b68f3dc4e6fe7b?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Dec 10 |
 | **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Drug Product Supply Risk Management](https://jobright.ai/jobs/info/68fee8b3e0c73b3a11198652?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Dec 10 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69013e89f8ce7a040fdbe008?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | On Site | Dec 10 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69019749d5259a1b3cff68d1?utm_campaign=1055&utm_source=git)** | East Syracuse, NY | On Site | Dec 10 |
@@ -80,7 +87,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Policy Counsel Intern](https://jobright.ai/jobs/info/691d1b480b7dff73414ffcf6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 10 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern – Go to Market Legal](https://jobright.ai/jobs/info/68e44a43b99ec3563b0e8c3c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Dec 10 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Intern Summer 2026](https://jobright.ai/jobs/info/6939594b48a8ce22990d725a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 09 |
-| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6939220356b68f3dc4e69c80?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 09 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/68d32740f0d9af73038df6b0?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Dec 09 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6938f73da0dde7020e319668?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law / Stagiaire en droit](https://jobright.ai/jobs/info/6938f733a0dde7020e319656?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Dec 09 |
@@ -121,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Contract Administrator/Property Management Intern - R10216509](https://jobright.ai/jobs/info/6937f23db95c305f206d42fb?utm_campaign=1055&utm_source=git)** | Clearfield, UT | On Site | Dec 09 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Legal Operations Intern](https://jobright.ai/jobs/info/6937f7cfb95c305f206d4698?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Dec 09 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Fellow (Fall 2026)](https://jobright.ai/jobs/info/68c7bc62369c3763c743b0aa?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 08 |
-| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law / Stagiaire en droit](https://jobright.ai/jobs/info/6937a5971c1c2161c13f6d64?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Dec 08 |
 | **[Medpace](http://www.medpace.com)** | **[Regulatory Research Intern- Summer 2026](https://jobright.ai/jobs/info/6937c41e1c1c2161c13f967f?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 08 |
 | **[Markel](http://www.markel.com)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/69379b47a0dde7020e304a5e?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Dec 08 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Construction Management - Contracts Administration - Hybrid](https://jobright.ai/jobs/info/6937969f1c1c2161c13f6137?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Yusen Logistics](https://www.yusen-logistics.com)** | **[Loss Prevention Intern](https://jobright.ai/jobs/info/6937401eaabec14a727c586d?utm_campaign=1055&utm_source=git)** | Long Beach, CA | On Site | Dec 08 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/69373deba0dde7020e3005da?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Dec 08 |
 | **[Robinhood](https://www.robinhood.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69373cb9a0dde7020e300521?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Dec 08 |
-| ↳ | **[Corporate and Commercial Legal Intern](https://jobright.ai/jobs/info/69373bbfa0dde7020e300479?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 08 |
-| **[KEEN](http://www.keenfootwear.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69375a141c1c2161c13f32bc?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Dec 08 |
-| **[ABRAMS](http://www.abramsbooks.com)** | **[Subsidiary Rights & Sales Intern](https://jobright.ai/jobs/info/693760e11c1c2161c13f39d9?utm_campaign=1055&utm_source=git)** | New York, NY, US | Remote | Dec 08 |
-| **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Construction Management - Contracts Administration - Hybrid](https://jobright.ai/jobs/info/69375ea8aabec14a727c71d4?utm_campaign=1055&utm_source=git)** | Phoenix, AZ USA 85004-2121 | Hybrid | Dec 08 |
-| **[Arcus Biosciences](http://www.arcusbio.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693730461c1c2161c13f148a?utm_campaign=1055&utm_source=git)** | Hayward, California | On Site | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
