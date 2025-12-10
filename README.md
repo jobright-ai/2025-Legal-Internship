@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6939220356b68f3dc4e69c80?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 09 |
+| **[City of Seattle](http://www.seattle.gov/)** | **[Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/68d32740f0d9af73038df6b0?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Dec 09 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6938f73da0dde7020e319668?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law / Stagiaire en droit](https://jobright.ai/jobs/info/6938f733a0dde7020e319656?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Dec 09 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6938e20aa0dde7020e3180b7?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Dec 09 |
@@ -133,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Subsidiary Rights & Sales Intern](https://jobright.ai/jobs/info/693760e11c1c2161c13f39d9?utm_campaign=1055&utm_source=git)** | New York, NY, US | Remote | Dec 08 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Construction Management - Contracts Administration - Hybrid](https://jobright.ai/jobs/info/69375ea8aabec14a727c71d4?utm_campaign=1055&utm_source=git)** | Phoenix, AZ USA 85004-2121 | Hybrid | Dec 08 |
 | **[Arcus Biosciences](http://www.arcusbio.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693730461c1c2161c13f148a?utm_campaign=1055&utm_source=git)** | Hayward, California | On Site | Dec 08 |
-| **[ABRAMS](http://www.abramsbooks.com)** | **[Subsidiary Rights & Sales Intern](https://jobright.ai/jobs/info/69373c251c1c2161c13f1ccc?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[Robinhood](https://www.robinhood.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69375c3c1c1c2161c13f3529?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 08 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Risk](https://jobright.ai/jobs/info/69374661a0dde7020e300c5b?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 08 |
 | **[EOG Resources](http://www.eogresources.com/)** | **[Land Intern](https://jobright.ai/jobs/info/69374e97aabec14a727c6393?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Dec 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First Financial Bank](http://www.bankatfirst.com)** | **[Intern, Corporate Responsibility](https://jobright.ai/jobs/info/6936f853aabec14a727c33ca?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Dec 08 |
 | ↳ | **[Intern, Fraud](https://jobright.ai/jobs/info/6937077ba0dde7020e2fe7df?utm_campaign=1055&utm_source=git)** | OH - Cincinnati - Pictoria Dr | On Site | Dec 08 |
 | ↳ | **[Intern, Fraud](https://jobright.ai/jobs/info/6937029aa0dde7020e2fe5c3?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Dec 08 |
-| **[MFA](https://www.managedfunds.org/)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/69371aa4a0dde7020e2fefed?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
