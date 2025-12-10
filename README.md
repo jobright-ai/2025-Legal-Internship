@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6938ab64b95c305f206de9d7?utm_campaign=1055&utm_source=git)** | Warren, NJ | On Site | Dec 09 |
 | **[Munich Re](https://www.munichre.com)** | **[Corporate Property Intern](https://jobright.ai/jobs/info/6938a705b95c305f206de660?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Dec 09 |
+| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Legal Advocate](https://jobright.ai/jobs/info/6938cccea0dde7020e315f11?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Dec 09 |
 | **[UMB Bank](https://www.umb.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6938a2d7b95c305f206ddce2?utm_campaign=1055&utm_source=git)** | Kansas City, MO | Hybrid | Dec 09 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 International Trade Compliance Analyst Intern - Linthicum MD - R10216184](https://jobright.ai/jobs/info/69389ca4a0dde7020e313410?utm_campaign=1055&utm_source=git)** | Linthicum Heights, MD | On Site | Dec 09 |
 | **[UMB Bank](https://www.umb.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/693897f6aabec14a727d7aba?utm_campaign=1055&utm_source=git)** | Kansas City MO | On Site | Dec 09 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Wärtsilä](http://www.wartsila.com/)** | **[Agreement Delivery Intern (Summer 2026)](https://jobright.ai/jobs/info/6938a88bb95c305f206de807?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 09 |
 | **[MarshBerry](http://marshberry.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6938a03faabec14a727d883f?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Dec 09 |
 | **[Northwestern Medicine](http://nm.org)** | **[Law Intern Program - Contracts - Summer 2026](https://jobright.ai/jobs/info/69389988b95c305f206dcb7f?utm_campaign=1055&utm_source=git)** | 251 E Huron St, Chicago, IL 60611, USA | On Site | Dec 09 |
-| **[Jake Rosen Entertainment](https://jakerosenentertainment.com)** | **[Influencer/Celebrity Legal Intern](https://jobright.ai/jobs/info/69389bd3a0dde7020e31325f?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Dec 09 |
 | **[Visionary Wealth Advisors](https://visionarywealthadvisors.com)** | **[Internship Program within the Advisor Service Group](https://jobright.ai/jobs/info/69386f8fa0dde7020e3107e3?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Dec 09 |
 | **[ACES](http://www.acespower.com/)** | **[Legal and Compliance Intern](https://jobright.ai/jobs/info/693869d7a0dde7020e30fac4?utm_campaign=1055&utm_source=git)** | East RTC - NC, Raleigh, NC, US | On Site | Dec 09 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/68c9550995f5211cd2cefafc?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Dec 09 |
@@ -97,14 +97,14 @@ For a complete list, click the following sortable link below:
 | **[KBRA](https://www.kbra.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/69378eb2aabec14a727c942d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[Etched](https://www.etched.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6937a87fa0dde7020e305486?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Dec 08 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Micron Legal](https://jobright.ai/jobs/info/6937820fa0dde7020e30396f?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Dec 08 |
-| **[State of Missouri](http://mo.gov)** | **[GCO Summer Internship - 5050500](https://jobright.ai/jobs/info/69377eeaaabec14a727c8a6a?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Dec 08 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[PIP Paralegal Intern](https://jobright.ai/jobs/info/69379b1d1c1c2161c13f63bc?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ | On Site | Dec 08 |
 | **[Morgan Street Holdings](https://morganstreet.com/)** | **[2026 LEGAL SUMMER INTERN](https://jobright.ai/jobs/info/69377c38aabec14a727c88c1?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Dec 08 |
 | **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Business Continuity and Resilience Intern [2026 Internship Program]](https://jobright.ai/jobs/info/69378a93aabec14a727c90ec?utm_campaign=1055&utm_source=git)** | 18301 Bermuda Green Dr, Tampa, FL, 33647, US | Hybrid | Dec 08 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Summer 2026 Legal Intern, Special Litigation Unit](https://jobright.ai/jobs/info/69378ce6aabec14a727c92d5?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 08 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Micron Legal](https://jobright.ai/jobs/info/69378676a0dde7020e303b9d?utm_campaign=1055&utm_source=git)** | Boise, ID - Main Site | On Site | Dec 08 |
 | **[Take-Two Interactive](http://www.take2games.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69375d46a0dde7020e301dfb?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 08 |
-| **[DLA Piper](https://www.dlapiper.com/)** | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/69378191aabec14a727c8c5a?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Dec 08 |
+| **[DLA Piper](https://www.dlapiper.com/)** | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/6937771d1c1c2161c13f4c6d?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 08 |
+| ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/69378191aabec14a727c8c5a?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Dec 08 |
 | ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/693775411c1c2161c13f4ab0?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | Hybrid | Dec 08 |
 | ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/6937830caabec14a727c8d3f?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Dec 08 |
 | **[First Financial Bank](http://www.bankatfirst.com)** | **[Intern, Enterprise Risk Management](https://jobright.ai/jobs/info/693756d6aabec14a727c6a5a?utm_campaign=1055&utm_source=git)** | OH - Cincinnati - 5th St | On Site | Dec 08 |
@@ -139,9 +139,8 @@ For a complete list, click the following sortable link below:
 | **[City of College Station](http://www.cstx.gov)** | **[Summer Law Clerk Intern](https://jobright.ai/jobs/info/69374da11c1c2161c13f299c?utm_campaign=1055&utm_source=git)** | College Station, TX | On Site | Dec 08 |
 | **[SmartBank](https://www.smartbank.com/)** | **[2026 Summer Intern- Financial Crimes](https://jobright.ai/jobs/info/69374d72a0dde7020e3010c0?utm_campaign=1055&utm_source=git)** | Chattanooga, TN | On Site | Dec 08 |
 | ↳ | **[2026 Summer Intern- Enterprise Risk Management](https://jobright.ai/jobs/info/69373811aabec14a727c530c?utm_campaign=1055&utm_source=git)** | Chattanooga, TN | On Site | Dec 08 |
-| **[DLA Piper](https://www.dlapiper.com/)** | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/693740a81c1c2161c13f2052?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 08 |
-| ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/69373bd7aabec14a727c5503?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Dec 08 |
-| ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/6937342fa0dde7020e2ffe7f?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 08 |
+| **[DLA Piper](https://www.dlapiper.com/)** | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/69373bd7aabec14a727c5503?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Dec 08 |
+| ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/693740a81c1c2161c13f2052?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 08 |
 | ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/6937303c1c1c2161c13f147f?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 08 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/693741c9aabec14a727c59df?utm_campaign=1055&utm_source=git)** | Pittsburgh, Pennsylvania - United States | On Site | Dec 08 |
 | **[Yusen Logistics](https://www.yusen-logistics.com)** | **[Loss Prevention Intern](https://jobright.ai/jobs/info/69372ea3aabec14a727c4caa?utm_campaign=1055&utm_source=git)** | US-CA-Long Beach | On Site | Dec 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Salt Lake City, UT CLC](https://jobright.ai/jobs/info/691acd1a15b415636718ac49?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Dec 08 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Legal and Business Affairs Intern, Summer 2026](https://jobright.ai/jobs/info/693692971c1c2161c13edc01?utm_campaign=1055&utm_source=git)** | San Francisco, CA, USA | Hybrid | Dec 08 |
 | **[UNDP Careers](https://www.undp.org)** | **[Legal Intern - Administrative Law Team](https://jobright.ai/jobs/info/6930ef554c474121999ea7b6?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 08 |
+| **[Waukesha County, WI](http://www.waukeshacounty.gov)** | **[Law Clerk Intern (Circuit Court)](https://jobright.ai/jobs/info/69369dbb1c1c2161c13ee006?utm_campaign=1055&utm_source=git)** | Waukesha, WI | On Site | Dec 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
