@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Intern Summer 2026](https://jobright.ai/jobs/info/6939594b48a8ce22990d725a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 09 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6939220356b68f3dc4e69c80?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 09 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/68d32740f0d9af73038df6b0?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Dec 09 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6938f73da0dde7020e319668?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Risk](https://jobright.ai/jobs/info/6937315f1c1c2161c13f1557?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Dec 08 |
 | **[First Financial Bank](http://www.bankatfirst.com)** | **[Intern, Corporate Responsibility](https://jobright.ai/jobs/info/6936f853aabec14a727c33ca?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Dec 08 |
 | ↳ | **[Intern, Fraud](https://jobright.ai/jobs/info/6937077ba0dde7020e2fe7df?utm_campaign=1055&utm_source=git)** | OH - Cincinnati - Pictoria Dr | On Site | Dec 08 |
-| ↳ | **[Intern, Fraud](https://jobright.ai/jobs/info/6937029aa0dde7020e2fe5c3?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
