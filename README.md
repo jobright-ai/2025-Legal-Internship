@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Remitly](http://www.remitly.com)** | **[Compliance & Risk Intern](https://jobright.ai/jobs/info/693a3cb5ac80bb5492bcc09c?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Dec 10 |
+| **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693a3744ac80bb5492bcbd7b?utm_campaign=1055&utm_source=git)** | Timonium, MD | On Site | Dec 10 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a373848a8ce22990e30df?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Dec 10 |
+| ↳ | **[Intern, Legal](https://jobright.ai/jobs/info/693a3e9a48a8ce22990e3d5c?utm_campaign=1055&utm_source=git)** | San Francisco, CA, USA | Hybrid | Dec 10 |
 | **[Take Back The Night Foundation](https://takebackthenight.org/)** | **[Law School & Pre-Law Student Internship for Largest International Org to End Sexual Violence](https://jobright.ai/jobs/info/693a135548a8ce22990e1490?utm_campaign=1055&utm_source=git)** | Wayne County, PA | On Site | Dec 10 |
 | **[Remitly](http://www.remitly.com)** | **[Compliance & Risk Intern](https://jobright.ai/jobs/info/6939eea6ac80bb5492bc6728?utm_campaign=1055&utm_source=git)** | Seattle, Washington United States | On Site | Dec 10 |
 | **[CNA Insurance](http://www.cna.com)** | **[College Intern - Cyber Underwriting](https://jobright.ai/jobs/info/6939ecbcac80bb5492bc666d?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Dec 10 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: SBUs and R&D Legal Intern](https://jobright.ai/jobs/info/693a17c848a8ce22990e16fc?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Dec 10 |
 | **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Student Intern/Externship, OGC (9926)](https://jobright.ai/jobs/info/693a003d48a8ce22990df928?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Dec 10 |
-| **[Valorantum](valorantum.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6939fbd7ac80bb5492bc744b?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Dec 10 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/6939d873ac80bb5492bc55f7?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Dec 10 |
 | **[Northwestern Memorial Hospital](https://www.nm.org/locations/northwestern-memorial-hospital)** | **[Law Intern Program - Contracts - Summer 2026](https://jobright.ai/jobs/info/693a029656b68f3dc4e758c1?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Dec 10 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Compliance](https://jobright.ai/jobs/info/6939cd98ac80bb5492bc4f86?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Dec 10 |
@@ -80,6 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Blue Ventis](blueventis.us)** | **[Assurance Intern](https://jobright.ai/jobs/info/6939b6d248a8ce22990db6a8?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Remote | Dec 10 |
 | **[Grammarly](https://www.grammarly.com/jobs/)** | **[Corporate Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/691d052b22a2cb4b9bd1fe10?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Dec 10 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[2026 Spring Internship - Reproductive Rights and Health (law student)](https://jobright.ai/jobs/info/691d3cbd0b7dff73415013c4?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 10 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Intern, US Medical Advertising & Promotion (Ad/Promo) Regulatory](https://jobright.ai/jobs/info/693a3dd348a8ce22990e3bdb?utm_campaign=1055&utm_source=git)** | Lexington, MA | On Site | Dec 10 |
+| ↳ | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/693a336456b68f3dc4e7847d?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Dec 10 |
 | **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Drug Product Supply Risk Management](https://jobright.ai/jobs/info/68fee8b3e0c73b3a11198652?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Dec 10 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69013e89f8ce7a040fdbe008?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | On Site | Dec 10 |
 | ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69012da8d5259a1b3cff2579?utm_campaign=1055&utm_source=git)** | Orange, CA | On Site | Dec 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Micron Legal](https://jobright.ai/jobs/info/69378676a0dde7020e303b9d?utm_campaign=1055&utm_source=git)** | Boise, ID - Main Site | On Site | Dec 08 |
 | **[Take-Two Interactive](http://www.take2games.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69375d46a0dde7020e301dfb?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 08 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/69378191aabec14a727c8c5a?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Dec 08 |
-| ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/693775411c1c2161c13f4ab0?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | Hybrid | Dec 08 |
-| ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/6937830caabec14a727c8d3f?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Dec 08 |
-| **[First Financial Bank](http://www.bankatfirst.com)** | **[Intern, Enterprise Risk Management](https://jobright.ai/jobs/info/693756d6aabec14a727c6a5a?utm_campaign=1055&utm_source=git)** | OH - Cincinnati - 5th St | On Site | Dec 08 |
-| **[Markel](http://www.markel.com)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/69375659aabec14a727c69f5?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Dec 08 |
-| **[KBRA](https://www.kbra.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/69377c071c1c2161c13f4f94?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
