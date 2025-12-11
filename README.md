@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BitGo](http://www.bitgo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/691e51fca49a885af9a279c5?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 11 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69013aa2d5259a1b3cff3377?utm_campaign=1055&utm_source=git)** | Warrenville, IL | On Site | Dec 11 |
 | ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/690498b963502c0aded74192?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Dec 11 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/691ff72da49a885af9a35b4b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 11 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693ab9195f2c001987ecc3c7?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 11 |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Audit & Inspection Intern](https://jobright.ai/jobs/info/68e5dfeeae2b894b1d714b05?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Dec 11 |
+| **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Summer Legal Associate, Federal Policy and Advocacy](https://jobright.ai/jobs/info/691e4a50a49a885af9a27458?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 11 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/690147fa4539ea1f2141eeb8?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Dec 11 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acf031d627244576e49fc9?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Dec 11 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad090b758f2e4ac300a717?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 11 |
@@ -75,16 +78,16 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Trust Analyst Internship - Emerging Talent Summer Experience](https://jobright.ai/jobs/info/691ef7a63f782d2f1afb7bda?utm_campaign=1055&utm_source=git)** | Jackson, WY | On Site | Dec 11 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Summer 2026](https://jobright.ai/jobs/info/691efacb09cc522e8773cea7?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 11 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Contract Administrator Intern](https://jobright.ai/jobs/info/691dd4ec748c4e1301ec9174?utm_campaign=1055&utm_source=git)** | Dayton Metropolitan Area | On Site | Dec 11 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/690160e94539ea1f2141f9bc?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Dec 11 |
 | **[Travelers](https://www.travelers.com)** | **[Risk Control Property Intern](https://jobright.ai/jobs/info/68fb397f3c99cc1d96029e28?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Dec 11 |
-| **[Orvanta](orvanta.us)** | **[Assurance Intern](https://jobright.ai/jobs/info/693a6668ac80bb5492bcf06f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Remote | Dec 10 |
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Rising 2L Legal Intern - Summer 2026](https://jobright.ai/jobs/info/693a5d0448a8ce22990e695a?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | Remote | Dec 10 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[Contracts Analyst Intern Summer2026](https://jobright.ai/jobs/info/693a793c48a8ce22990e73ac?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Dec 10 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a42c4ac80bb5492bcc47a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Dec 10 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Legal Intern, Equity and Community Partnerships, Nature](https://jobright.ai/jobs/info/693a4146ac80bb5492bcc3bc?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 10 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693a3744ac80bb5492bcbd7b?utm_campaign=1055&utm_source=git)** | Timonium, MD | On Site | Dec 10 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a373848a8ce22990e30df?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Dec 10 |
-| **[New Jersey Institute for Social Justice](http://www.njisj.org/)** | **[Social Justice–Focused Legal Internship for Law Students](https://jobright.ai/jobs/info/693a44dcac80bb5492bcc5aa?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Dec 10 |
-| ↳ | **[Social Justice–Focused Legal Internship - Summer 2026](https://jobright.ai/jobs/info/693a4574ac80bb5492bcc604?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Dec 10 |
+| **[New Jersey Institute for Social Justice](http://www.njisj.org/)** | **[Social Justice–Focused Legal Internship - Summer 2026](https://jobright.ai/jobs/info/693a4574ac80bb5492bcc604?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Dec 10 |
+| ↳ | **[Social Justice–Focused Legal Internship for Law Students](https://jobright.ai/jobs/info/693a44dcac80bb5492bcc5aa?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Dec 10 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a3ab156b68f3dc4e791a0?utm_campaign=1055&utm_source=git)** | San Francisco, CA, USA | Hybrid | Dec 10 |
 | **[Take Back The Night](https://takebackthenight.org/)** | **[Law School & Pre-Law Student Internship for Largest International Org to End Sexual Violence](https://jobright.ai/jobs/info/693a135548a8ce22990e1490?utm_campaign=1055&utm_source=git)** | Wayne County, PA | On Site | Dec 10 |
 | **[Remitly](http://www.remitly.com)** | **[Compliance & Risk Intern](https://jobright.ai/jobs/info/6939eea6ac80bb5492bc6728?utm_campaign=1055&utm_source=git)** | Seattle, Washington United States | On Site | Dec 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Texas Permanent School Fund Corporation](https://texaspsf.org)** | **[Legal & Compliance Graduate Intern](https://jobright.ai/jobs/info/69384a4ba0dde7020e30d4cd?utm_campaign=1055&utm_source=git)** | Innovation Tower | On Site | Dec 09 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 International Trade Compliance Analyst Intern - Linthicum MD](https://jobright.ai/jobs/info/693849f6aabec14a727d265a?utm_campaign=1055&utm_source=git)** | United States-Maryland-Linthicum | On Site | Dec 09 |
 | **[Center for Disability & Elder Law](https://www.cdelaw.org)** | **[Winter Spring 2026 Law Student Intern](https://jobright.ai/jobs/info/69382e74b95c305f206d696c?utm_campaign=1055&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Dec 09 |
-| **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Legal Services Intern](https://jobright.ai/jobs/info/69383bd2aabec14a727d1fed?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Dec 09 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Sales Contracts Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68e48891f758fe1f97e69411?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Dec 09 |
-| **[Major League Baseball (MLB)](https://www.mlb.com)** | **[2026 Summer Internship - Legal](https://jobright.ai/jobs/info/691b88f315b415636718ff16?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
