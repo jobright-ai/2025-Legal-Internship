@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Orvanta](orvanta.us)** | **[Assurance Intern](https://jobright.ai/jobs/info/693a6668ac80bb5492bcf06f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Remote | Dec 10 |
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Rising 2L Legal Intern - Summer 2026](https://jobright.ai/jobs/info/693a5d0448a8ce22990e695a?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | Remote | Dec 10 |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[Contracts Analyst Intern Summer2026](https://jobright.ai/jobs/info/693a793c48a8ce22990e73ac?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Dec 10 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/693a42e0ac80bb5492bcc487?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Dec 10 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a42c4ac80bb5492bcc47a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Dec 10 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Legal Intern, Equity and Community Partnerships, Nature](https://jobright.ai/jobs/info/693a4146ac80bb5492bcc3bc?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 10 |
@@ -66,7 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a373848a8ce22990e30df?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Dec 10 |
 | **[New Jersey Institute for Social Justice](http://www.njisj.org/)** | **[Social Justice–Focused Legal Internship for Law Students](https://jobright.ai/jobs/info/693a44dcac80bb5492bcc5aa?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Dec 10 |
 | ↳ | **[Social Justice–Focused Legal Internship - Summer 2026](https://jobright.ai/jobs/info/693a4574ac80bb5492bcc604?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Dec 10 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a3e9a48a8ce22990e3d5c?utm_campaign=1055&utm_source=git)** | San Francisco, CA, USA | Hybrid | Dec 10 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a3ab156b68f3dc4e791a0?utm_campaign=1055&utm_source=git)** | San Francisco, CA, USA | Hybrid | Dec 10 |
 | **[Take Back The Night Foundation](https://takebackthenight.org/)** | **[Law School & Pre-Law Student Internship for Largest International Org to End Sexual Violence](https://jobright.ai/jobs/info/693a135548a8ce22990e1490?utm_campaign=1055&utm_source=git)** | Wayne County, PA | On Site | Dec 10 |
 | **[Remitly](http://www.remitly.com)** | **[Compliance & Risk Intern](https://jobright.ai/jobs/info/6939eea6ac80bb5492bc6728?utm_campaign=1055&utm_source=git)** | Seattle, Washington United States | On Site | Dec 10 |
 | **[CNA Insurance](http://www.cna.com)** | **[College Intern - Cyber Underwriting](https://jobright.ai/jobs/info/6939ecbcac80bb5492bc666d?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Dec 10 |
@@ -144,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Kimball Electronics](http://www.kimballelectronics.com)** | **[Legal Analyst Intern](https://jobright.ai/jobs/info/68ec9fa7c26b9574506f56d7?utm_campaign=1055&utm_source=git)** | Jasper, IN | On Site | Dec 09 |
 | **[TruStage](https://www.trustage.com/)** | **[Legal Compliance Intern (Hybrid)](https://jobright.ai/jobs/info/68c9d234f9c6ff7aedf1e258?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Dec 09 |
 | **[Santander](https://www.santander.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/691bcef022a2cb4b9bd164ba?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Dec 09 |
-| **[ABRAMS](http://www.abramsbooks.com)** | **[Subsidiary Rights & Sales Intern](https://jobright.ai/jobs/info/69373c251c1c2161c13f1ccc?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Contract Administrator/Property Management Intern - R10216509](https://jobright.ai/jobs/info/6937f23db95c305f206d42fb?utm_campaign=1055&utm_source=git)** | Clearfield, UT | On Site | Dec 09 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Legal Operations Intern](https://jobright.ai/jobs/info/6937f7cfb95c305f206d4698?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Dec 09 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Fellow (Fall 2026)](https://jobright.ai/jobs/info/68c7bc62369c3763c743b0aa?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 08 |
