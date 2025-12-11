@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CNA Insurance](http://www.cna.com)** | **[College Intern - Cyber Underwriting](https://jobright.ai/jobs/info/6939ecbcac80bb5492bc666d?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Dec 10 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/6939d873ac80bb5492bc55f7?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Dec 10 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Compliance](https://jobright.ai/jobs/info/6939cd98ac80bb5492bc4f86?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Dec 10 |
 | **[WillScot](http://www.willscot.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6939cd8748a8ce22990dcfe6?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Dec 10 |
@@ -95,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Intern Summer 2026](https://jobright.ai/jobs/info/6939594b48a8ce22990d725a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 09 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/68d32740f0d9af73038df6b0?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Dec 09 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6938f73da0dde7020e319668?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 09 |
-| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law / Stagiaire en droit](https://jobright.ai/jobs/info/6938f733a0dde7020e319656?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Dec 09 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6938e20aa0dde7020e3180b7?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Dec 09 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[2026 Legal Summer Intern (NY)](https://jobright.ai/jobs/info/6938f150aabec14a727de36f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[Nestlé](https://www.nestle.com)** | **[2026 Nestlé USA and Nestlé Health Science Legal 1L Scholars Internship](https://jobright.ai/jobs/info/6938edb9aabec14a727de0f8?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Dec 09 |
@@ -146,8 +146,7 @@ For a complete list, click the following sortable link below:
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Summer 2026 Legal Intern, Special Litigation Unit](https://jobright.ai/jobs/info/69378ce6aabec14a727c92d5?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 08 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Micron Legal](https://jobright.ai/jobs/info/69378676a0dde7020e303b9d?utm_campaign=1055&utm_source=git)** | Boise, ID - Main Site | On Site | Dec 08 |
 | **[Take-Two Interactive](http://www.take2games.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69375d46a0dde7020e301dfb?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 08 |
-| **[DLA Piper](https://www.dlapiper.com/)** | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/6937771d1c1c2161c13f4c6d?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 08 |
-| ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/693775411c1c2161c13f4ab0?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | Hybrid | Dec 08 |
+| **[DLA Piper](https://www.dlapiper.com/)** | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/693775411c1c2161c13f4ab0?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | Hybrid | Dec 08 |
 | ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/69378191aabec14a727c8c5a?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Dec 08 |
 | ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/6937830caabec14a727c8d3f?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Dec 08 |
 | **[First Financial Bank](http://www.bankatfirst.com)** | **[Intern, Enterprise Risk Management](https://jobright.ai/jobs/info/693756d6aabec14a727c6a5a?utm_campaign=1055&utm_source=git)** | OH - Cincinnati - 5th St | On Site | Dec 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Cross River](http://crossriver.com)** | **[Consumer Compliance Advisory Intern](https://jobright.ai/jobs/info/69374af21c1c2161c13f2794?utm_campaign=1055&utm_source=git)** | Fort Lee, New Jersey, United States | Hybrid | Dec 08 |
 | **[Arcus Biosciences](http://www.arcusbio.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69374a8f1c1c2161c13f2748?utm_campaign=1055&utm_source=git)** | Hayward, CA | On Site | Dec 08 |
 | **[Cross River](http://crossriver.com)** | **[Consumer Compliance Advisory Intern](https://jobright.ai/jobs/info/69374a551c1c2161c13f2736?utm_campaign=1055&utm_source=git)** | Fort Lee, NJ | Hybrid | Dec 08 |
+| **[15th Judicial Circuit](https://www.15thcircuit.com/)** | **[Law Student Summer Internship Program](https://jobright.ai/jobs/info/693769021c1c2161c13f40c3?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL | On Site | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
