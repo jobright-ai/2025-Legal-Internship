@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Price Benowitz LLP](https://pricebenowitz.com/maryland-injury/upper-marlboro-injury-lawyer/)** | **[Criminal Defense Law Clerk](https://jobright.ai/jobs/info/693b2258d4054a2bc025127e?utm_campaign=1055&utm_source=git)** | Fairfax, VA | Hybrid | Dec 11 |
+| **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/693b29245f2c001987ed2795?utm_campaign=1055&utm_source=git)** | Baltimore,MD,US | Hybrid | Dec 11 |
+| **[Uber](http://www.uber.com)** | **[2026 Legal Intern (1L Summer Associate) - United States](https://jobright.ai/jobs/info/693b2c8fd4054a2bc0251b63?utm_campaign=1055&utm_source=git)** | US-CA-San Francisco | On Site | Dec 11 |
+| **[The Bassett Firm](https://www.thebassettfirm.com)** | **[Law Clerk/Legal Intern - Summer 2026 Start](https://jobright.ai/jobs/info/693b2e9fb309e3780086e9b9?utm_campaign=1055&utm_source=git)** | Dallas,TX,US | Hybrid | Dec 11 |
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Rising 2L Legal Intern - Summer 2026](https://jobright.ai/jobs/info/693b12d65f2c001987ed15c4?utm_campaign=1055&utm_source=git)** | Oklahoma, United States | Remote | Dec 11 |
 | **[Nexteer Automotive](http://www.nexteer.com/)** | **[Intellectual Property Counsel Internship 2025](https://jobright.ai/jobs/info/691e49ec09cc522e8773897b?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | Hybrid | Dec 11 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Risk Assurance Intern](https://jobright.ai/jobs/info/693af057d4054a2bc024dcb0?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Dec 11 |
@@ -73,14 +77,12 @@ For a complete list, click the following sortable link below:
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/691ff72da49a885af9a35b4b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 11 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693ab9195f2c001987ecc3c7?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 11 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Audit & Inspection Intern](https://jobright.ai/jobs/info/68e5dfeeae2b894b1d714b05?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Dec 11 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2026 Legal Intern - Norfolk, VA](https://jobright.ai/jobs/info/693af0285f2c001987eced95?utm_campaign=1055&utm_source=git)** | Norfolk, VA | On Site | Dec 11 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Summer Legal Associate, Federal Policy and Advocacy](https://jobright.ai/jobs/info/691e4a50a49a885af9a27458?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Legal and Business Affairs Intern, Summer 2026](https://jobright.ai/jobs/info/693813a1a0dde7020e30ab7f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Dec 11 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/690147fa4539ea1f2141eeb8?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Dec 11 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68acf031d627244576e49fc9?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Dec 11 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad090b758f2e4ac300a717?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 11 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2026 Legal Intern - NY](https://jobright.ai/jobs/info/693ac8abb309e37800868574?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 11 |
-| **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad0cc8d627244576e4ae5c?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Dec 11 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ad0cc8d627244576e4ae5c?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Dec 11 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd43591ad6b16f028973c6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 11 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68cd88b01ad6b16f0289aef1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Dec 11 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/68ccf71577add66568abccfe?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Dec 11 |
@@ -108,8 +110,7 @@ For a complete list, click the following sortable link below:
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/6939d873ac80bb5492bc55f7?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Dec 10 |
 | **[Northwestern Memorial Hospital](https://www.nm.org/locations/northwestern-memorial-hospital)** | **[Law Intern Program - Contracts - Summer 2026](https://jobright.ai/jobs/info/693a029656b68f3dc4e758c1?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Dec 10 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Compliance](https://jobright.ai/jobs/info/6939cd98ac80bb5492bc4f86?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Dec 10 |
-| **[WillScot](http://www.willscot.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6939cd8748a8ce22990dcfe6?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Dec 10 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Compliance](https://jobright.ai/jobs/info/6939fef5ac80bb5492bc7b06?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 10 |
+| ↳ | **[Summer Intern 2026 - Compliance](https://jobright.ai/jobs/info/6939fef5ac80bb5492bc7b06?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 10 |
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Rising 2L Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6939a637ac80bb5492bc21c7?utm_campaign=1055&utm_source=git)** | California - Home Teleworkers | Remote | Dec 10 |
 | **[Dentsply Sirona](https://www.dentsplysirona.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6939ccc456b68f3dc4e7299e?utm_campaign=1055&utm_source=git)** | York, PA | On Site | Dec 10 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/692283bbc0cefa13343d80d7?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Dec 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UMB Bank](https://www.umb.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/693897f6aabec14a727d7aba?utm_campaign=1055&utm_source=git)** | Kansas City MO | On Site | Dec 09 |
 | **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[McDonough Customs Compliance Summer 2026 Intern](https://jobright.ai/jobs/info/69335b1bf131d96e484626db?utm_campaign=1055&utm_source=git)** | McDonough, GA | On Site | Dec 09 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69104536988c2b7b4ec50c5d?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Dec 09 |
-| **[Wärtsilä](http://www.wartsila.com/)** | **[Agreement Delivery Intern (Summer 2026)](https://jobright.ai/jobs/info/6938a88bb95c305f206de807?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
