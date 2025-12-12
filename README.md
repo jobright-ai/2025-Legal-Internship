@@ -59,7 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fae6cf8d32c164778cc61d?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Dec 11 |
 | **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Compliance Intern](https://jobright.ai/jobs/info/693b798bd4054a2bc0255f67?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Dec 11 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Legal Writing Intern - 12 Weeks](https://jobright.ai/jobs/info/693b5daeb309e37800871fad?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Dec 11 |
+| **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/693bc0634911ef04095eed52?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Dec 11 |
+| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Legal Writing Intern - 12 Weeks](https://jobright.ai/jobs/info/693b67bf5f2c001987ed6ba3?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Dec 11 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Asset Management Compliance](https://jobright.ai/jobs/info/693b7f5bb309e37800872e00?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Dec 11 |
 | **[Uber](http://www.uber.com)** | **[2026 Legal Intern (1L Summer Associate) - United States](https://jobright.ai/jobs/info/693b7e00d4054a2bc02560a1?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Dec 11 |
 | **[Global Green](http://www.globalgreen.org)** | **[General Administrative Intern – Compliance Support](https://jobright.ai/jobs/info/693b56a55f2c001987ed60a2?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 11 |
@@ -78,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Legal Operations Intern (February to May)](https://jobright.ai/jobs/info/68ca52fd46caff4db51fd538?utm_campaign=1055&utm_source=git)** | Needham, MA | On Site | Dec 11 |
 | **[Koch](https://www.kochinc.com)** | **[Legal and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/6900fec7f8ce7a040fdbb14a?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Dec 11 |
 | **[Grant Thornton Ireland](https://www.grantthornton.ie)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/693b93985f2c001987ed8746?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Dec 11 |
+| ↳ | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/693bbf9b4911ef04095eecdc?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 11 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Claims Examiner](https://jobright.ai/jobs/info/693b18945f2c001987ed1a57?utm_campaign=1055&utm_source=git)** | New Jersey, United States | Remote | Dec 11 |
 | **[BitGo](http://www.bitgo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/691e51fca49a885af9a279c5?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 11 |
 | **[Koch](https://www.kochinc.com)** | **[Legal and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/690105a1d5259a1b3cff0926?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Dec 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6938f73da0dde7020e319668?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6938e20aa0dde7020e3180b7?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Dec 09 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[2026 Legal Summer Intern (NY)](https://jobright.ai/jobs/info/6938f150aabec14a727de36f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 09 |
-| **[Nestlé](https://www.nestle.com)** | **[2026 Nestlé USA and Nestlé Health Science Legal 1L Scholars Internship](https://jobright.ai/jobs/info/6938edb9aabec14a727de0f8?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Dec 09 |
-| **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Intern Summer 2026](https://jobright.ai/jobs/info/6938dfd0b95c305f206e1bb2?utm_campaign=1055&utm_source=git)** | Houston,TX,US | On Site | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
