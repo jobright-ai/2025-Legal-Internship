@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BeOne Medicines](https://beonemed.com/)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/68cc23d3128dc347fd91fc0a?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 12 |
+| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Compliance Intern](https://jobright.ai/jobs/info/691f4e283f782d2f1afba330?utm_campaign=1055&utm_source=git)** | Everett, WA | Hybrid | Dec 12 |
+| **[Sensient Technologies Corporation](http://sensient.com)** | **[Intern - Regulatory](https://jobright.ai/jobs/info/691f96173f782d2f1afbe4b2?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Dec 12 |
+| **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Bank Secrecy Act](https://jobright.ai/jobs/info/691873cb45fb6f5ead8a56dd?utm_campaign=1055&utm_source=git)** | New Orleans, LA | On Site | Dec 12 |
+| ↳ | **[Summer Intern- Enterprise Risk Management](https://jobright.ai/jobs/info/6918528445fb6f5ead8a4a58?utm_campaign=1055&utm_source=git)** | New Orleans, LA | On Site | Dec 12 |
 | **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fae6cf8d32c164778cc61d?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Dec 11 |
 | **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Compliance Intern](https://jobright.ai/jobs/info/693b798bd4054a2bc0255f67?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Dec 11 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/693bc0634911ef04095eed52?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Dec 11 |
@@ -113,9 +118,9 @@ For a complete list, click the following sortable link below:
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Legal Intern, Equity and Community Partnerships, Nature](https://jobright.ai/jobs/info/693a4146ac80bb5492bcc3bc?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 10 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693a3744ac80bb5492bcbd7b?utm_campaign=1055&utm_source=git)** | Timonium, MD | On Site | Dec 10 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a373848a8ce22990e30df?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Dec 10 |
-| **[New Jersey Institute for Social Justice](http://www.njisj.org/)** | **[Social Justice–Focused Legal Internship - Summer 2026](https://jobright.ai/jobs/info/693a4574ac80bb5492bcc604?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Dec 10 |
-| ↳ | **[Social Justice–Focused Legal Internship for Law Students](https://jobright.ai/jobs/info/693a44dcac80bb5492bcc5aa?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Dec 10 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a3e9a48a8ce22990e3d5c?utm_campaign=1055&utm_source=git)** | San Francisco, CA, USA | Hybrid | Dec 10 |
+| **[New Jersey Institute for Social Justice](http://www.njisj.org/)** | **[Social Justice–Focused Legal Internship for Law Students](https://jobright.ai/jobs/info/693a44dcac80bb5492bcc5aa?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Dec 10 |
+| ↳ | **[Social Justice–Focused Legal Internship - Summer 2026](https://jobright.ai/jobs/info/693a4574ac80bb5492bcc604?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Dec 10 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a3ab156b68f3dc4e791a0?utm_campaign=1055&utm_source=git)** | San Francisco, CA, USA | Hybrid | Dec 10 |
 | **[Take Back The Night](https://takebackthenight.org/)** | **[Law School & Pre-Law Student Internship for Largest International Org to End Sexual Violence](https://jobright.ai/jobs/info/693a135548a8ce22990e1490?utm_campaign=1055&utm_source=git)** | Wayne County, PA | On Site | Dec 10 |
 | **[Remitly](http://www.remitly.com)** | **[Compliance & Risk Intern](https://jobright.ai/jobs/info/6939eea6ac80bb5492bc6728?utm_campaign=1055&utm_source=git)** | Seattle, Washington United States | On Site | Dec 10 |
 | **[CNA Insurance](http://www.cna.com)** | **[College Intern - Cyber Underwriting](https://jobright.ai/jobs/info/6939ecbcac80bb5492bc666d?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Dec 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Policy Counsel Intern](https://jobright.ai/jobs/info/691d1b480b7dff73414ffcf6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 10 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern – Go to Market Legal](https://jobright.ai/jobs/info/68e44a43b99ec3563b0e8c3c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Dec 10 |
 | **[City of Fort Wayne](https://www.cityoffortwayne.org/)** | **[Environmental Compliance Intern](https://jobright.ai/jobs/info/693a1ac948a8ce22990e18eb?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | On Site | Dec 09 |
-| **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Intern Summer 2026](https://jobright.ai/jobs/info/6939594b48a8ce22990d725a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 09 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/68d32740f0d9af73038df6b0?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Dec 09 |
-| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6938f73da0dde7020e319668?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 09 |
-| **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6938e20aa0dde7020e3180b7?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Dec 09 |
-| **[National Football League (NFL)](http://www.nfl.com)** | **[2026 Legal Summer Intern (NY)](https://jobright.ai/jobs/info/6938f150aabec14a727de36f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
