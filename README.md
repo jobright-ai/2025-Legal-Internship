@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Income Security Intern (Law Student)](https://jobright.ai/jobs/info/6940cc4c50bbaf765052d046?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 15 |
+| ↳ | **[Spring 2026 Education & Workplace Justice Intern (Law Student)](https://jobright.ai/jobs/info/6920f0d900c9ee50eaec9a44?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 15 |
 | **[ACLU of Pennsylvania](https://www.aclupa.org/)** | **[Summer 2026 Legal Intern - First Year Law Student](https://jobright.ai/jobs/info/6940b9da50bbaf765052b9f0?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 15 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/6940b4ed49a7695fbd063637?utm_campaign=1055&utm_source=git)** | Possible | On Site | Dec 15 |
 | **[United States Golf Association (USGA)](http://www.usga.org)** | **[Long-Term Licensing Operations Intern](https://jobright.ai/jobs/info/6940b0c850bbaf765052b527?utm_campaign=1055&utm_source=git)** | Liberty Corner, Bernards, NJ, USA | Hybrid | Dec 15 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Income Security Intern (Law Student)](https://jobright.ai/jobs/info/694095a0aa598a08c3f040fa?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Dec 15 |
 | **[LACERA](https://www.lacera.com/home/index.html)** | **[Intern](https://jobright.ai/jobs/info/6940aa20aa598a08c3f04d68?utm_campaign=1055&utm_source=git)** | Pasadena, CA | Hybrid | Dec 15 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/6940c19d50bbaf765052bec2?utm_campaign=1055&utm_source=git)** | Colorado | On Site | Dec 15 |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Intern, Legal](https://jobright.ai/jobs/info/6940bc0f50bbaf765052bb57?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 15 |
+| ↳ | **[Summer 2026 - Law Intern, Sentencing Reform](https://jobright.ai/jobs/info/6940bb88aa598a08c3f056fb?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 15 |
 | **[Coach USA](http://www.coachusa.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6940b76349a7695fbd0637fa?utm_campaign=1055&utm_source=git)** | Paramus, NJ | On Site | Dec 15 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Risk Management Intern (Summer 2026)](https://jobright.ai/jobs/info/6940936d50bbaf765052a294?utm_campaign=1055&utm_source=git)** | Des Moines, IA | On Site | Dec 15 |
 | **[Western National Insurance](https://wnins.com)** | **[Risk/Loss Control Intern](https://jobright.ai/jobs/info/68dc4a2ca125e75c4229f284?utm_campaign=1055&utm_source=git)** | Edina, MN | On Site | Dec 15 |
@@ -116,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Regional & Product Policy Project Intern (Business Integrity) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68e9953f0930fe0bc4627864?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 14 |
 | ↳ | **[Regional & Product Policy Project Intern (Business Integrity) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/693bc6614911ef04095ef301?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Dec 14 |
 | **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fae6cf8d32c164778cc61d?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Dec 13 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern-Regulatory Affairs](https://jobright.ai/jobs/info/693dda66aa598a08c3ee6365?utm_campaign=1055&utm_source=git)** | Center Valley, PA | Hybrid | Dec 13 |
 | **[Legal Assistance Of Western New York, Inc. (LawNY)](https://www.lawny.org)** | **[Temporary Staff Housing Paralegal - Elmira](https://jobright.ai/jobs/info/693dc8acaa598a08c3ee4875?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Dec 13 |
 | ↳ | **[Temporary Staff Housing Paralegal - Ithaca](https://jobright.ai/jobs/info/693dc35850bbaf765050a93f?utm_campaign=1055&utm_source=git)** | Ithaca, NY | On Site | Dec 13 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Regulatory Intern](https://jobright.ai/jobs/info/692135c43f782d2f1afd054f?utm_campaign=1055&utm_source=git)** | Green Bay, WI | On Site | Dec 13 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Contract Specialist](https://jobright.ai/jobs/info/693c8fa350bbaf76504fc533?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Dec 12 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AML-FIU Investigator Intern (4 Months)](https://jobright.ai/jobs/info/693c8dc549a7695fbd0349e1?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 12 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Enterprise Risk Intern - Summer 2026](https://jobright.ai/jobs/info/693c8d8c49a7695fbd0349a5?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Dec 12 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AML Investigator Intern (4 months - Bedford, NS)](https://jobright.ai/jobs/info/693c8b5649a7695fbd0347a7?utm_campaign=1055&utm_source=git)** | Bedford, Nova Scotia, Canada | Hybrid | Dec 12 |
-| ↳ | **[2026 Summer - GRM, FC FIU Investigations Intern (4 Months)](https://jobright.ai/jobs/info/693c9d3750bbaf76504fe5b0?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 12 |
-| **[LWCC](https://www.lwcc.com/)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/69335ee3764507023d1b4e44?utm_campaign=1055&utm_source=git)** | Baton Rouge Metro | On Site | Dec 12 |
-| **[Quicken Loans](http://www.quickenloans.com/)** | **[Enterprise Risk Intern - Summer 2026](https://jobright.ai/jobs/info/693c7ef349a7695fbd033f55?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Dec 12 |
-| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Contract Specialist](https://jobright.ai/jobs/info/693cadb1aa598a08c3ed8d26?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Dec 12 |
-| **[Capital Blue Cross](https://capbluecross.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693c755550bbaf76504fb37e?utm_campaign=1055&utm_source=git)** | US-PA-Harrisburg | Hybrid | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
