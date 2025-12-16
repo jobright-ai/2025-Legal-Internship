@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Office of the General Counsel Intern (OGC Intern) - Year-round](https://jobright.ai/jobs/info/6941093a49a7695fbd069087?utm_campaign=1055&utm_source=git)** | US-NY-New York | Hybrid | Dec 15 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f805aa598a08c3f0a571?utm_campaign=1055&utm_source=git)** | Georgia - Atlanta | Hybrid | Dec 15 |
-| ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f75e50bbaf7650530906?utm_campaign=1055&utm_source=git)** | Washington - Seattle | Hybrid | Dec 15 |
-| ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f6fd49a7695fbd0687ff?utm_campaign=1055&utm_source=git)** | Illinois - Chicago | Hybrid | Dec 15 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f6fd49a7695fbd0687ff?utm_campaign=1055&utm_source=git)** | Illinois - Chicago | Hybrid | Dec 15 |
 | ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f69649a7695fbd0686ec?utm_campaign=1055&utm_source=git)** | California - San Francisco | Hybrid | Dec 15 |
 | ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f68eaa598a08c3f0a530?utm_campaign=1055&utm_source=git)** | Virginia - Mclean | Hybrid | Dec 15 |
+| ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f75e50bbaf7650530906?utm_campaign=1055&utm_source=git)** | Washington - Seattle | Hybrid | Dec 15 |
+| ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f75850bbaf7650530901?utm_campaign=1055&utm_source=git)** | Georgia - Atlanta | Hybrid | Dec 15 |
+| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Office of the General Counsel Intern (OGC Intern) - Year-round](https://jobright.ai/jobs/info/6941093a49a7695fbd069087?utm_campaign=1055&utm_source=git)** | US-NY-New York | Hybrid | Dec 15 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Income Security Intern (Law Student)](https://jobright.ai/jobs/info/6940cc4c50bbaf765052d046?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 15 |
 | **[Sierra Club](http://sierraclub.org)** | **[Spring / Summer 2026 Legal Intern](https://jobright.ai/jobs/info/6940ea25aa598a08c3f0938a?utm_campaign=1055&utm_source=git)** | Oakland, CA | On Site | Dec 15 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Spring 2026 Education & Workplace Justice Intern (Law Student)](https://jobright.ai/jobs/info/6920f0d900c9ee50eaec9a44?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 15 |
@@ -84,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Legal Intern (1L)](https://jobright.ai/jobs/info/69409919aa598a08c3f0437d?utm_campaign=1055&utm_source=git)** | Olathe, KS | On Site | Dec 15 |
 | **[Arkansas Advanced Energy Association](https://arkansasadvancedenergy.com/)** | **[Legal Counsel](https://jobright.ai/jobs/info/694076cc50bbaf765052763d?utm_campaign=1055&utm_source=git)** | Little Rock, AR | Hybrid | Dec 15 |
 | **[The Standard](https://www.standard.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/694075f250bbaf76505275ea?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Dec 15 |
-| **[Chad Jones Law](https://www.chadjoneslaw.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6940a09049a7695fbd062bed?utm_campaign=1055&utm_source=git)** | College Station, TX | On Site | Dec 15 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law / Stagiaire en droit](https://jobright.ai/jobs/info/6940998550bbaf765052a7cb?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Dec 15 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Legal Intern, NYC](https://jobright.ai/jobs/info/6940726caa598a08c3f0101e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 15 |
 | **[Stericycle](http://www.stericycle.com)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6940718549a7695fbd05f26d?utm_campaign=1055&utm_source=git)** | Illinois, United States | On Site | Dec 15 |
@@ -92,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Corsair](http://www.corsair.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69406d5e49a7695fbd05ef2c?utm_campaign=1055&utm_source=git)** | Milpitas, CA | On Site | Dec 15 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Law Intern, Sentencing Reform](https://jobright.ai/jobs/info/69408a2eaa598a08c3f038c6?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 15 |
 | **[Zscaler](https://www.zscaler.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69408a7a49a7695fbd061c5b?utm_campaign=1055&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 15 |
+| **[Chad Jones Law](https://www.chadjoneslaw.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6940876850bbaf7650529479?utm_campaign=1055&utm_source=git)** | College Station, TX | On Site | Dec 15 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern - E&C Project Compliance](https://jobright.ai/jobs/info/6940631450bbaf76505267c3?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 15 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Intern, Legal](https://jobright.ai/jobs/info/694061f049a7695fbd05e663?utm_campaign=1055&utm_source=git)** | Brooklyn, New York | Hybrid | Dec 15 |
 | **[AARP](http://www.aarp.org)** | **[Legal Counsel for the Elderly Intern (Spring Start)](https://jobright.ai/jobs/info/69015d83f8ce7a040fdbf27e?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 15 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate Compliance Legal Intern](https://jobright.ai/jobs/info/693cbe06aa598a08c3ed939f?utm_campaign=1055&utm_source=git)** | US-PA-Harrisburg | Hybrid | Dec 12 |
 | **[Rolls-Royce](http://www.rolls-royce.com)** | **[Product Compliance Intern](https://jobright.ai/jobs/info/693ca1e350bbaf76504fe816?utm_campaign=1055&utm_source=git)** | Aiken | On Site | Dec 12 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AML Financial Intelligence Unit Intern (4 Months)](https://jobright.ai/jobs/info/693c97ff50bbaf76504fe060?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 12 |
-| ↳ | **[2026 Summer - GRM, AML Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c969d50bbaf76504fd946?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 12 |
+| **[Selective Insurance](https://www.selective.com/)** | **[Claims Experience Summer Internship – Charlotte, NC (Hybrid)](https://jobright.ai/jobs/info/693c94f0aa598a08c3ed7051?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
