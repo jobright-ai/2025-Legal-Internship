@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of College Station](http://www.cstx.gov)** | **[Summer Law Clerk Intern](https://jobright.ai/jobs/info/69374da11c1c2161c13f299c?utm_campaign=1055&utm_source=git)** | College Station, TX | On Site | Dec 16 |
+| **[City of New York](http://www1.nyc.gov)** | **[INVESTIGATOR INTERN](https://jobright.ai/jobs/info/6941aa6414ee092a69ffcfe9?utm_campaign=1055&utm_source=git)** | All, MO | On Site | Dec 16 |
+| **[Vistra Corp.](https://www.vistracorp.com/)** | **[Summer 2026 Regulatory Policy Intern](https://jobright.ai/jobs/info/6941a62cbdcf884a5add6480?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia | On Site | Dec 16 |
+| ↳ | **[Summer 2026 Regulatory Policy Intern](https://jobright.ai/jobs/info/69419c8d14ee092a69ffb668?utm_campaign=1055&utm_source=git)** | Harrisburg Office | On Site | Dec 16 |
+| **[Relational Estate & Elder Law](https://relational.law/)** | **[Spring 2026 Estate Planning Paralegal Internship](https://jobright.ai/jobs/info/6941b4e9bdcf884a5add73a5?utm_campaign=1055&utm_source=git)** | Virginia, United States | Remote | Dec 16 |
 | **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Spring 2026](https://jobright.ai/jobs/info/69418e5114ee092a69ffab2d?utm_campaign=1055&utm_source=git)** | San Jose, California | Hybrid | Dec 16 |
+| **[Mission Action](https://www.missionaction.org/)** | **[Legal Internship Opportunities Summer 2026 Law Student Clerk](https://jobright.ai/jobs/info/6941b2a614ee092a69ffd394?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Dec 16 |
+| **[North Carolina Justice Center](https://www.ncjustice.org/)** | **[Legal Intern Summer 2026](https://jobright.ai/jobs/info/6941b35a14ee092a69ffd3f4?utm_campaign=1055&utm_source=git)** | Fuquay-Varina, NC | Hybrid | Dec 16 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Legal Intern](https://jobright.ai/jobs/info/694176d550bbaf7650535737?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 16 |
 | **[CN](http://www.cn.ca)** | **[Intern, Third Party Risk Management- EN](https://jobright.ai/jobs/info/6924df8eec574f4265bb80ea?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 16 |
 | **[Lambda Legal](http://www.lambdalegal.org)** | **[Law Student Intern - Summer 2026](https://jobright.ai/jobs/info/69416cb514ee092a69ff9201?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 16 |
@@ -74,11 +81,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/69414ca014ee092a69ff7ebb?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Dec 16 |
 | **[Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org)** | **[Summer 2026 Graduate Internship - Consumer Affairs Examiner](https://jobright.ai/jobs/info/6924b4c1ec574f4265bb5fed?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Dec 16 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/69415fc8bdcf884a5add2183?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Dec 16 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f6fd49a7695fbd0687ff?utm_campaign=1055&utm_source=git)** | Illinois - Chicago | Hybrid | Dec 15 |
-| ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f64c49a7695fbd06868c?utm_campaign=1055&utm_source=git)** | Washington - Seattle | Hybrid | Dec 15 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f64baa598a08c3f0a510?utm_campaign=1055&utm_source=git)** | Illinois - Chicago | Hybrid | Dec 15 |
 | ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f85eaa598a08c3f0a581?utm_campaign=1055&utm_source=git)** | California - San Francisco | Hybrid | Dec 15 |
 | ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f805aa598a08c3f0a571?utm_campaign=1055&utm_source=git)** | Georgia - Atlanta | Hybrid | Dec 15 |
-| ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f68eaa598a08c3f0a530?utm_campaign=1055&utm_source=git)** | Virginia - Mclean | Hybrid | Dec 15 |
+| ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f75e50bbaf7650530906?utm_campaign=1055&utm_source=git)** | Washington - Seattle | Hybrid | Dec 15 |
+| ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f64a50bbaf765053086c?utm_campaign=1055&utm_source=git)** | Virginia - Mclean | Hybrid | Dec 15 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law / Stagiaire en droit](https://jobright.ai/jobs/info/694151ca14ee092a69ff7f33?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Dec 15 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Office of the General Counsel Intern (OGC Intern) - Year-round](https://jobright.ai/jobs/info/6941093a49a7695fbd069087?utm_campaign=1055&utm_source=git)** | US-NY-New York | Hybrid | Dec 15 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Income Security Intern (Law Student)](https://jobright.ai/jobs/info/6940cc4c50bbaf765052d046?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 15 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Temporary Staff Housing Paralegal - Ithaca](https://jobright.ai/jobs/info/693dc35850bbaf765050a93f?utm_campaign=1055&utm_source=git)** | Ithaca, NY | On Site | Dec 13 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Regulatory Intern](https://jobright.ai/jobs/info/692135c43f782d2f1afd054f?utm_campaign=1055&utm_source=git)** | Green Bay, WI | On Site | Dec 13 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/68d4ca4bffc1276de3fde265?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Dec 13 |
-| **[Invesco US](http://www.invesco.com/us)** | **[Summer 2026 Legal, Compliance, Audit & Risk (LCAR) Intern](https://jobright.ai/jobs/info/69210b7a3f782d2f1afce87c?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Dec 13 |
-| **[Airbus](https://us.airbus.com)** | **[Summer Internship - Customs Operations & Compliance](https://jobright.ai/jobs/info/693d67dd49a7695fbd040934?utm_campaign=1055&utm_source=git)** | Dulles Town Center, VA | On Site | Dec 13 |
-| **[Legal Aid Justice Center](https://www.justice4all.org)** | **[2026 Summer 2L Legal Intern](https://jobright.ai/jobs/info/693d5e1649a7695fbd03f097?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Dec 13 |
-| **[Americold Logistics, LLC.](http://americold.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e81d26cc49a84b7e10228b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
-| **[DP World](https://www.dpworld.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68e6f3b6ae2b894b1d71ff49?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Dec 13 |
-| **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Contracts](https://jobright.ai/jobs/info/6920c17c00c9ee50eaec794e?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Dec 13 |
-| **[Legal Aid Justice Center](https://www.justice4all.org)** | **[2026 Summer 1L Legal Intern](https://jobright.ai/jobs/info/693d806749a7695fbd040e7e?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
