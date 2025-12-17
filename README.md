@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwest Bank](https://www.northwest.bank)** | **[Compliance Intern](https://jobright.ai/jobs/info/6941e18150bbaf765053a896?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Dec 16 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AML-FIU Investigator Intern (4 Months)](https://jobright.ai/jobs/info/6941e0cb50bbaf765053a77b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 16 |
+| **[Katten Muchin Rosenman LLP](https://katten.com)** | **[Practice Innovation Intern](https://jobright.ai/jobs/info/6941da4914ee092a69ffe9ba?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Dec 16 |
+| **[Old Dominion Electric Cooperative (ODEC)](http://odec.com)** | **[Summer Associate (Legal Intern)](https://jobright.ai/jobs/info/6941d51014ee092a69ffe685?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | On Site | Dec 16 |
+| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Spring 2026](https://jobright.ai/jobs/info/6941d4fdbdcf884a5add8923?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Dec 16 |
 | **[Trace3](http://trace3.com/)** | **[Security Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/6941ccae50bbaf765053979b?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 16 |
+| **[Illumio](http://www.illumio.com)** | **[Security and Compliance Analyst Intern](https://jobright.ai/jobs/info/68eda5a870b66e2345d3fb0c?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | On Site | Dec 16 |
+| **[Old Dominion Electric Cooperative (ODEC)](http://odec.com)** | **[Summer Associate (Legal Intern)](https://jobright.ai/jobs/info/6941d674bdcf884a5add89eb?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | Hybrid | Dec 16 |
 | **[City of College Station](http://www.cstx.gov)** | **[Summer Law Clerk Intern](https://jobright.ai/jobs/info/69374da11c1c2161c13f299c?utm_campaign=1055&utm_source=git)** | College Station, TX | On Site | Dec 16 |
+| **[Waystar](http://www.waystar.com)** | **[Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/68c0ce37702aa35207ab0962?utm_campaign=1055&utm_source=git)** | Duluth, GA | Hybrid | Dec 16 |
 | **[City of New York](http://www1.nyc.gov)** | **[INVESTIGATOR INTERN](https://jobright.ai/jobs/info/6941aa6414ee092a69ffcfe9?utm_campaign=1055&utm_source=git)** | All, MO | On Site | Dec 16 |
 | **[Vistra Corp.](https://www.vistracorp.com/)** | **[Summer 2026 Regulatory Policy Intern](https://jobright.ai/jobs/info/6941a62cbdcf884a5add6480?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia | On Site | Dec 16 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Summer 2026 LegalHealth Internship](https://jobright.ai/jobs/info/6941c47714ee092a69ffdcda?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 16 |
@@ -85,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org)** | **[Summer 2026 Graduate Internship - Consumer Affairs Examiner](https://jobright.ai/jobs/info/6924b4c1ec574f4265bb5fed?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Dec 16 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/69415fc8bdcf884a5add2183?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Dec 16 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f64baa598a08c3f0a510?utm_campaign=1055&utm_source=git)** | Illinois - Chicago | Hybrid | Dec 15 |
-| ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f64c49a7695fbd06868c?utm_campaign=1055&utm_source=git)** | Washington - Seattle | Hybrid | Dec 15 |
-| ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f69649a7695fbd0686ec?utm_campaign=1055&utm_source=git)** | California - San Francisco | Hybrid | Dec 15 |
+| ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f85eaa598a08c3f0a581?utm_campaign=1055&utm_source=git)** | California - San Francisco | Hybrid | Dec 15 |
+| ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f75e50bbaf7650530906?utm_campaign=1055&utm_source=git)** | Washington - Seattle | Hybrid | Dec 15 |
 | ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f64a50bbaf765053086c?utm_campaign=1055&utm_source=git)** | Virginia - Mclean | Hybrid | Dec 15 |
 | ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f75850bbaf7650530901?utm_campaign=1055&utm_source=git)** | Georgia - Atlanta | Hybrid | Dec 15 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law / Stagiaire en droit](https://jobright.ai/jobs/info/694151ca14ee092a69ff7f33?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Dec 15 |
@@ -125,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6940552650bbaf76505260b7?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Dec 15 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Governance, Legal, Compliance & Regulatory](https://jobright.ai/jobs/info/694051bb50bbaf7650525e7a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 15 |
 | **[The Standard](https://www.standard.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6940510749a7695fbd05dde0?utm_campaign=1055&utm_source=git)** | Portland, OR | Remote | Dec 15 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 DC Vendor Compliance Intern](https://jobright.ai/jobs/info/69406ff0aa598a08c3f00e43?utm_campaign=1055&utm_source=git)** | Knoxville, TN | On Site | Dec 15 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern -  E&C Project Compliance](https://jobright.ai/jobs/info/69406da049a7695fbd05ef68?utm_campaign=1055&utm_source=git)** | HOUSTON, Texas, United States | On Site | Dec 15 |
 | **[The Standard](https://www.standard.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6940468550bbaf7650524e51?utm_campaign=1055&utm_source=git)** | Portland, OR | Remote | Dec 15 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Governance, Legal, Compliance & Regulatory](https://jobright.ai/jobs/info/694044d4aa598a08c3efe8a5?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Dec 15 |
@@ -133,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Student Intern/Externship, OGC (9926)](https://jobright.ai/jobs/info/693a003d48a8ce22990df928?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Dec 15 |
 | **[Anoka County](http://www.anokacountymn.gov)** | **[Associate Crime Analyst - Intern/Temp](https://jobright.ai/jobs/info/6940575a50bbaf76505261e9?utm_campaign=1055&utm_source=git)** | Anoka, MN | On Site | Dec 15 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Intern, Reshaping Prosecution](https://jobright.ai/jobs/info/694056b750bbaf765052617e?utm_campaign=1055&utm_source=git)** | Washington, D.C. or Brooklyn, NY | Hybrid | Dec 15 |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 DC Vendor Compliance Intern](https://jobright.ai/jobs/info/6940624f49a7695fbd05e6a8?utm_campaign=1055&utm_source=git)** | Knoxville, TN | On Site | Dec 15 |
 | **[SWBC](https://www.swbc.com)** | **[PEO Compliance Intern](https://jobright.ai/jobs/info/69402e6749a7695fbd05b4a7?utm_campaign=1055&utm_source=git)** | Bulverde, TX | On Site | Dec 15 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship, Summer 2026 - Risk Management](https://jobright.ai/jobs/info/68cd9c931ad6b16f0289c49d?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Dec 15 |
 | **[Morrison Foerster](http://www.mofo.com)** | **[Paralegal Intern](https://jobright.ai/jobs/info/6940086baa598a08c3efc707?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 15 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Molex](http://www.molex.com)** | **[Molex Supply Chain- Trades & Customs Internship- Summer 2026](https://jobright.ai/jobs/info/68b167ac6fab621da7b0d68d?utm_campaign=1055&utm_source=git)** | Lisle, IL | On Site | Dec 14 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/ Intern Volunteer](https://jobright.ai/jobs/info/68e59089ae2b894b1d711356?utm_campaign=1055&utm_source=git)** | Lakewood, CO | On Site | Dec 14 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Quality Assurance & Compliance Intern (Graduate)](https://jobright.ai/jobs/info/68e983b2f195760c354aa21a?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Dec 14 |
-| **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/6921f7d13f782d2f1afd43c8?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Dec 14 |
-| **[Waystar](http://www.waystar.com)** | **[Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/68c0ce37702aa35207ab0962?utm_campaign=1055&utm_source=git)** | Duluth, GA | Hybrid | Dec 14 |
-| **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/Intern Volunteer](https://jobright.ai/jobs/info/68d4c916fcd3367e8df17cdf?utm_campaign=1055&utm_source=git)** | Pueblo, CO | On Site | Dec 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Regional & Product Policy Project Intern (Business Integrity) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68e9953f0930fe0bc4627864?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 14 |
-| ↳ | **[Regional & Product Policy Project Intern (Business Integrity) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/693bc6614911ef04095ef301?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Dec 14 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern-Regulatory Affairs](https://jobright.ai/jobs/info/693dda66aa598a08c3ee6365?utm_campaign=1055&utm_source=git)** | Center Valley, PA | Hybrid | Dec 14 |
-| **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fae6cf8d32c164778cc61d?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Dec 13 |
-| **[Legal Assistance Of Western New York, Inc. (LawNY)](https://www.lawny.org)** | **[Temporary Staff Housing Paralegal - Elmira](https://jobright.ai/jobs/info/693dc8acaa598a08c3ee4875?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
