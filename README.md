@@ -57,9 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Payments Inc.](https://www.globalpayments.com/)** | **[Legal / Privacy Intern](https://jobright.ai/jobs/info/6942e41d50bbaf765054b884?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Dec 17 |
+| **[Heartland](https://www.heartland.us)** | **[Legal / Privacy Intern](https://jobright.ai/jobs/info/6942dfa6dd382f5f5668d47b?utm_campaign=1055&utm_source=git)** | Atlanta, Georgia, USA | Hybrid | Dec 17 |
+| **[CN](http://www.cn.ca)** | **[Intern, Law (Risk Mitigation) US- EN](https://jobright.ai/jobs/info/69268068f0beb072326255f1?utm_campaign=1055&utm_source=git)** | Homewood, IL | On Site | Dec 17 |
+| **[PHINIA](https://phinia.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69260be927bf2f41a2c42ded?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Dec 17 |
+| **[NexaCore Consulting](nexacoreconsulting.us)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6942daa4dd382f5f5668d10f?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Dec 17 |
+| **[HARTING Technology Group](https://www.harting.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/692f53cfef4b48533d144374?utm_campaign=1055&utm_source=git)** | Elgin, IL | On Site | Dec 17 |
 | **[CN](http://www.cn.ca)** | **[Intern, Law (Risk Mitigation) US- FR](https://jobright.ai/jobs/info/6929f28266796e3028f8db4c?utm_campaign=1055&utm_source=git)** | Homewood, IL | On Site | Dec 17 |
 | ↳ | **[Intern, Law (Regulatory Affairs) US- EN](https://jobright.ai/jobs/info/6937cc031c1c2161c13f9b02?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 17 |
-| ↳ | **[Intern, Law (Regulatory Affairs) US- FR](https://jobright.ai/jobs/info/69307eee4c474121999e59b1?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 17 |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Risk & Compliance Management Undergraduate Intern](https://jobright.ai/jobs/info/6942d39f50bbaf765054b137?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Dec 17 |
+| ↳ | **[Summer 2026 Technology and Information Compliance Undergraduate Intern](https://jobright.ai/jobs/info/6942dad9dd382f5f5668d124?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Dec 17 |
+| ↳ | **[Summer 2026 - Legal - Graduate Intern](https://jobright.ai/jobs/info/6942d18950bbaf765054afc6?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Dec 17 |
+| **[CN](http://www.cn.ca)** | **[Intern, Law (Regulatory Affairs) US- FR](https://jobright.ai/jobs/info/69307eee4c474121999e59b1?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 17 |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Compliance Intern](https://jobright.ai/jobs/info/6942dba1dd382f5f5668d1a6?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Dec 17 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/6942d4f050bbaf765054b1c5?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Dec 17 |
+| ↳ | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/6942d3b7dd382f5f5668cd0b?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Dec 17 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Risk Management](https://jobright.ai/jobs/info/6942c6a450bbaf765054aa00?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Dec 17 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Risk Intern](https://jobright.ai/jobs/info/69263aabf0beb072326234fb?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Dec 17 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Legal Analyst](https://jobright.ai/jobs/info/690923234a1b456627afd0a3?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Dec 17 |
@@ -133,10 +145,10 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/69420dc4bdcf884a5addc694?utm_campaign=1055&utm_source=git)** | Greater Richmond Region | Hybrid | Dec 16 |
 | ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/694206acbdcf884a5addbf8e?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Dec 16 |
 | **[Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org)** | **[Summer 2026 Graduate Internship - Consumer Affairs Examiner](https://jobright.ai/jobs/info/6924b4c1ec574f4265bb5fed?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Dec 16 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f64baa598a08c3f0a510?utm_campaign=1055&utm_source=git)** | Illinois - Chicago | Hybrid | Dec 15 |
-| ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f85eaa598a08c3f0a581?utm_campaign=1055&utm_source=git)** | California - San Francisco | Hybrid | Dec 15 |
-| ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f68eaa598a08c3f0a530?utm_campaign=1055&utm_source=git)** | Virginia - Mclean | Hybrid | Dec 15 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f6fd49a7695fbd0687ff?utm_campaign=1055&utm_source=git)** | Illinois - Chicago | Hybrid | Dec 15 |
+| ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f69649a7695fbd0686ec?utm_campaign=1055&utm_source=git)** | California - San Francisco | Hybrid | Dec 15 |
 | ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f75e50bbaf7650530906?utm_campaign=1055&utm_source=git)** | Washington - Seattle | Hybrid | Dec 15 |
+| ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f64a50bbaf765053086c?utm_campaign=1055&utm_source=git)** | Virginia - Mclean | Hybrid | Dec 15 |
 | ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/6940f75850bbaf7650530901?utm_campaign=1055&utm_source=git)** | Georgia - Atlanta | Hybrid | Dec 15 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Office of the General Counsel Intern (OGC Intern) - Year-round](https://jobright.ai/jobs/info/6941093a49a7695fbd069087?utm_campaign=1055&utm_source=git)** | US-NY-New York | Hybrid | Dec 15 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Income Security Intern (Law Student)](https://jobright.ai/jobs/info/6940cc4c50bbaf765052d046?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 15 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ACLU of Pennsylvania](https://www.aclupa.org/)** | **[Summer 2026 Legal Intern - First Year Law Student](https://jobright.ai/jobs/info/6940b9da50bbaf765052b9f0?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 15 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/6940b4ed49a7695fbd063637?utm_campaign=1055&utm_source=git)** | Possible | On Site | Dec 15 |
 | **[United States Golf Association (USGA)](http://www.usga.org)** | **[Long-Term Licensing Operations Intern](https://jobright.ai/jobs/info/6940b0c850bbaf765052b527?utm_campaign=1055&utm_source=git)** | Liberty Corner, Bernards, NJ, USA | Hybrid | Dec 15 |
-| **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Income Security Intern (Law Student)](https://jobright.ai/jobs/info/694095a0aa598a08c3f040fa?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Dec 15 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/6940c19d50bbaf765052bec2?utm_campaign=1055&utm_source=git)** | Colorado | On Site | Dec 15 |
-| **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Intern, Legal](https://jobright.ai/jobs/info/6940bc0f50bbaf765052bb57?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 15 |
-| ↳ | **[Summer 2026 - Law Intern, Sentencing Reform](https://jobright.ai/jobs/info/6940bb88aa598a08c3f056fb?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 15 |
-| **[Coach USA](http://www.coachusa.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6940b76349a7695fbd0637fa?utm_campaign=1055&utm_source=git)** | Paramus, NJ | On Site | Dec 15 |
-| **[Principal Financial Group](https://www.principalam.com/)** | **[Risk Management Intern (Summer 2026)](https://jobright.ai/jobs/info/6940936d50bbaf765052a294?utm_campaign=1055&utm_source=git)** | Des Moines, IA | On Site | Dec 15 |
-| **[Western National Insurance](https://wnins.com)** | **[Risk/Loss Control Intern](https://jobright.ai/jobs/info/68dc4a2ca125e75c4229f284?utm_campaign=1055&utm_source=git)** | Edina, MN | On Site | Dec 15 |
-| **[Freddie Mac](http://www.freddiemac.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69409ffa49a7695fbd062b96?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Dec 15 |
-| **[Corsair](http://www.corsair.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69407f47aa598a08c3f020c2?utm_campaign=1055&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 15 |
-| **[The Standard](https://www.standard.com)** | **[Legal Intern](https://jobright.ai/jobs/info/694078e650bbaf76505278e1?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Dec 15 |
-| **[Zscaler](https://www.zscaler.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6940783f49a7695fbd05f7a2?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Dec 15 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Legal Intern (1L)](https://jobright.ai/jobs/info/69409919aa598a08c3f0437d?utm_campaign=1055&utm_source=git)** | Olathe, KS | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
