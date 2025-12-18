@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mohawk Global](http://mohawkglobal.com)** | **[Corporate Trade Compliance Intern](https://jobright.ai/jobs/info/69443a1050bbaf7650562a55?utm_campaign=1055&utm_source=git)** | Cleveland, OH, US | On Site | Dec 18 |
+| **[Furnitureland South, Inc](https://profine.pk/)** | **[Legal Team Intern](https://jobright.ai/jobs/info/694458fb94730b73987781ce?utm_campaign=1055&utm_source=git)** | Jamestown, NC | On Site | Dec 18 |
+| **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Summer Legal Intern - (2026) - $26.00/hr.](https://jobright.ai/jobs/info/694452eadd382f5f566a6de8?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Dec 18 |
+| **[Palantir Technologies](http://www.palantir.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/6944517add382f5f566a6c82?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 18 |
+| ↳ | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/6944431050bbaf7650562efb?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
+| **[Mohawk Global](http://mohawkglobal.com)** | **[Corporate Trade Compliance Intern](https://jobright.ai/jobs/info/69443ac3dd382f5f566a43c2?utm_campaign=1055&utm_source=git)** | Cheektowaga, NY, US | On Site | Dec 18 |
+| ↳ | **[Corporate Trade Compliance Intern](https://jobright.ai/jobs/info/69443a1050bbaf7650562a55?utm_campaign=1055&utm_source=git)** | Cleveland, OH, US | On Site | Dec 18 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Office of the General Counsel Summer Internship](https://jobright.ai/jobs/info/69443976dd382f5f566a436c?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Dec 18 |
 | **[Mohawk Global](http://mohawkglobal.com)** | **[Corporate Trade Compliance Intern](https://jobright.ai/jobs/info/694438cedd382f5f566a4314?utm_campaign=1055&utm_source=git)** | Middleburg Heights, OH, US | On Site | Dec 18 |
 | **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern - Counsel's Office](https://jobright.ai/jobs/info/69443877dd382f5f566a42dd?utm_campaign=1055&utm_source=git)** | Buffalo, Buffalo, NY, US | Hybrid | Dec 18 |
@@ -73,10 +78,12 @@ For a complete list, click the following sortable link below:
 | **[McKesson](http://www.mckesson.com)** | **[Compliance Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6944314194730b739877504a?utm_campaign=1055&utm_source=git)** | USA, GA, Alpharetta | Hybrid | Dec 18 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Counsel's Office](https://jobright.ai/jobs/info/6944306594730b7398774fdb?utm_campaign=1055&utm_source=git)** | Albany , Albany, NY, US | Hybrid | Dec 18 |
 | **[American Medical Association](http://ama-assn.org)** | **[Health Law Summer Intern (Hybrid)](https://jobright.ai/jobs/info/69442a0150bbaf7650562146?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 18 |
+| **[Palantir Technologies](http://www.palantir.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/6944468594730b7398775c07?utm_campaign=1055&utm_source=git)** | Washington, D.C. | Hybrid | Dec 18 |
 | **[MassHousing](https://www.masshousing.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69442481dd382f5f566a3901?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Dec 18 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6cf99821486c423c5be9?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Dec 18 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/694420f894730b73987747ab?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Dec 18 |
 | **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney's Office Brave Justice Summer 2026 Legal Internship](https://jobright.ai/jobs/info/687e9e51db19f31cf0d6bba0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 18 |
+| **[Law Office of Jack M. Shapiro, P.C.](https://jackshapirolaw.com/)** | **[Law Clerk - Winter 2026](https://jobright.ai/jobs/info/69443f11dd382f5f566a4776?utm_campaign=1055&utm_source=git)** | Buffalo Grove, IL | On Site | Dec 18 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Risk Management SME (CI Poly) (SkillBridge Intern) - 17408](https://jobright.ai/jobs/info/682ab9f5d37c869596eabb93?utm_campaign=1055&utm_source=git)** | Fort Meade, MD | On Site | Dec 18 |
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Law Intern- Intellectual Property](https://jobright.ai/jobs/info/6927799bd47de4798ecdd092?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Dec 18 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6c169821486c423c5b04?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 18 |
@@ -138,8 +145,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Law Student Internship – Denver Housing Unit](https://jobright.ai/jobs/info/69430851dd382f5f5668ff92?utm_campaign=1055&utm_source=git)** | Denver, Colorado, United States | On Site | Dec 17 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Insurance Claims Intern – Summer 2026](https://jobright.ai/jobs/info/6943079594730b7398760d89?utm_campaign=1055&utm_source=git)** | West Des Moines, IA, US | On Site | Dec 17 |
 | **[Bridgecross, LLC](https://bridgecrossllc.com)** | **[Federal Contract Administrator Intern (DoD SkillBridge Program)](https://jobright.ai/jobs/info/694324a6dd382f5f566917fd?utm_campaign=1055&utm_source=git)** | Leesburg, VA | On Site | Dec 17 |
+| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, Legal](https://jobright.ai/jobs/info/69432216dd382f5f5669152e?utm_campaign=1055&utm_source=git)** | Greensboro, NC | On Site | Dec 17 |
 | **[Sunbelt Rentals, Inc.](https://www.sunbeltrentals.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6942fe6c94730b739876072f?utm_campaign=1055&utm_source=git)** | Fort Mill SC 29715 | On Site | Dec 17 |
-| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, Legal](https://jobright.ai/jobs/info/6942fafbdd382f5f5668f1ca?utm_campaign=1055&utm_source=git)** | Greensboro, NC | On Site | Dec 17 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, FC High Risk Client Management Intern (4 Months)](https://jobright.ai/jobs/info/6942f54ddd382f5f5668ea77?utm_campaign=1055&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 17 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Summer 2026 Compliance Internship](https://jobright.ai/jobs/info/6943129494730b73987616a0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 17 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Risk Management and Insurance Summer Internship](https://jobright.ai/jobs/info/694309c250bbaf765054e3c0?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | Hybrid | Dec 17 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CN](http://www.cn.ca)** | **[Intern, Law (Risk Mitigation) US- FR](https://jobright.ai/jobs/info/6929f28266796e3028f8db4c?utm_campaign=1055&utm_source=git)** | Homewood, IL | On Site | Dec 17 |
 | ↳ | **[Intern, Law (Regulatory Affairs) US- EN](https://jobright.ai/jobs/info/6937cc031c1c2161c13f9b02?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 17 |
 | ↳ | **[Intern, Law (Regulatory Affairs) US- FR](https://jobright.ai/jobs/info/69307eee4c474121999e59b1?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 17 |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/6942d3b7dd382f5f5668cd0b?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Dec 17 |
-| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Risk Management](https://jobright.ai/jobs/info/6942c6a450bbaf765054aa00?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Dec 17 |
-| **[GoFundMe](http://www.gofundme.com)** | **[Risk Intern](https://jobright.ai/jobs/info/69263aabf0beb072326234fb?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Dec 17 |
-| **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Legal Analyst](https://jobright.ai/jobs/info/690923234a1b456627afd0a3?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Dec 17 |
-| **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Settlement Intern](https://jobright.ai/jobs/info/69262c22d47de4798ecd53c5?utm_campaign=1055&utm_source=git)** | Lancaster, PA | On Site | Dec 17 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Intern (Unpaid)](https://jobright.ai/jobs/info/692606e527bf2f41a2c428a9?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | On Site | Dec 17 |
-| **[Sazerac Company](https://www.sazerac.com/)** | **[Intern - Law Clerk](https://jobright.ai/jobs/info/69093a78bcccf20de59d8f99?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
