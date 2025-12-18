@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sunbelt Rentals, Inc.](https://www.sunbeltrentals.com)** | **[Legal Internship](https://jobright.ai/jobs/info/694366dedd382f5f5669708c?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | On Site | Dec 17 |
+| **[Vantage Data Centers](https://vantage-dc.com)** | **[Legal Intern, NA](https://jobright.ai/jobs/info/6943629550bbaf76505548e3?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Dec 17 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Labor Compliance Intern](https://jobright.ai/jobs/info/69434ef694730b7398765d26?utm_campaign=1055&utm_source=git)** | San Diego CA Renewable Group | On Site | Dec 17 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69434de294730b7398765c41?utm_campaign=1055&utm_source=git)** | Edison, NJ | On Site | Dec 17 |
 | ↳ | **[Labor Compliance Intern](https://jobright.ai/jobs/info/69434a8494730b73987659ad?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Dec 17 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/694347aedd382f5f5669483f?utm_campaign=1055&utm_source=git)** | Edison, NJ | On Site | Dec 17 |
 | **[Notion](https://www.notion.com/)** | **[Trust and Safety, Fraud and Abuse Analyst Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b761d4a1b456627b0fa5d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 17 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Legal)](https://jobright.ai/jobs/info/6943633594730b7398767783?utm_campaign=1055&utm_source=git)** | US-FL-St Petersburg | On Site | Dec 17 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[EHS Administrative Assistant Intern](https://jobright.ai/jobs/info/69433dc994730b73987647f1?utm_campaign=1055&utm_source=git)** | East York, Ontario, Canada | On Site | Dec 17 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Legal Intern, NA](https://jobright.ai/jobs/info/694348fa94730b73987658b6?utm_campaign=1055&utm_source=git)** | Denver, Colorado | On Site | Dec 17 |
 | **[PlayStation](https://www.playstation.com/)** | **[Legal Intern - Juris Doctor](https://jobright.ai/jobs/info/6933bc48764507023d1b8c66?utm_campaign=1055&utm_source=git)** | United States of America | On Site | Dec 17 |
@@ -72,9 +76,9 @@ For a complete list, click the following sortable link below:
 | **[Colorado Legal Services](http://www.coloradolegalservices.org/)** | **[Summer Law Student Internship – Denver Housing Unit](https://jobright.ai/jobs/info/69430851dd382f5f5668ff92?utm_campaign=1055&utm_source=git)** | Denver, Colorado, United States | On Site | Dec 17 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Insurance Claims Intern – Summer 2026](https://jobright.ai/jobs/info/6943079594730b7398760d89?utm_campaign=1055&utm_source=git)** | West Des Moines, IA, US | On Site | Dec 17 |
 | **[Bridgecross, LLC](https://bridgecrossllc.com)** | **[Federal Contract Administrator Intern (DoD SkillBridge Program)](https://jobright.ai/jobs/info/694324a6dd382f5f566917fd?utm_campaign=1055&utm_source=git)** | Leesburg, VA | On Site | Dec 17 |
+| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, Legal](https://jobright.ai/jobs/info/69432216dd382f5f5669152e?utm_campaign=1055&utm_source=git)** | Greensboro, NC | On Site | Dec 17 |
 | **[Sunbelt Rentals, Inc.](https://www.sunbeltrentals.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6942fe6c94730b739876072f?utm_campaign=1055&utm_source=git)** | Fort Mill SC 29715 | On Site | Dec 17 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, FC High Risk Client Management Intern (4 Months)](https://jobright.ai/jobs/info/6942fcdedd382f5f5668f437?utm_campaign=1055&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 17 |
-| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, Legal](https://jobright.ai/jobs/info/6942fafbdd382f5f5668f1ca?utm_campaign=1055&utm_source=git)** | Greensboro, NC | On Site | Dec 17 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, FC High Risk Client Management Intern (4 Months)](https://jobright.ai/jobs/info/6942f54ddd382f5f5668ea77?utm_campaign=1055&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 17 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Summer 2026 Compliance Internship](https://jobright.ai/jobs/info/6943129494730b73987616a0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 17 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Risk Management and Insurance Summer Internship](https://jobright.ai/jobs/info/694309c250bbaf765054e3c0?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | Hybrid | Dec 17 |
 | **[CN](http://www.cn.ca)** | **[Intern, Law (Risk Mitigation) US- EN](https://jobright.ai/jobs/info/69268068f0beb072326255f1?utm_campaign=1055&utm_source=git)** | Homewood, IL | On Site | Dec 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Genmab](https://www.genmab.com)** | **[Trial Master File & Site Management Intern](https://jobright.ai/jobs/info/6924a8b7ec574f4265bb5774?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Dec 16 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Regulatory and Scientific Affairs Intern](https://jobright.ai/jobs/info/6924c017ec574f4265bb68d4?utm_campaign=1055&utm_source=git)** | St Louis, MO | Hybrid | Dec 16 |
 | **[City of New York](http://www1.nyc.gov)** | **[INVESTIGATOR INTERN](https://jobright.ai/jobs/info/694170a950bbaf7650535285?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 16 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/69414ee614ee092a69ff7eee?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Dec 16 |
-| ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/69414dcb50bbaf765053346a?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Dec 16 |
-| ↳ | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/69414ca014ee092a69ff7ebb?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Dec 16 |
-| **[LACERA](https://www.lacera.com/home/index.html)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6940aa20aa598a08c3f04d68?utm_campaign=1055&utm_source=git)** | Pasadena, CA | Hybrid | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
