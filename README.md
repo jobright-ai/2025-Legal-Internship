@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Legal)](https://jobright.ai/jobs/info/6943826850bbaf76505575ff?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Dec 17 |
 | **[Sunbelt Rentals, Inc.](https://www.sunbeltrentals.com)** | **[Legal Internship](https://jobright.ai/jobs/info/694366dedd382f5f5669708c?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | On Site | Dec 17 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Legal Intern, NA](https://jobright.ai/jobs/info/6943629550bbaf76505548e3?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Dec 17 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Labor Compliance Intern](https://jobright.ai/jobs/info/69434ef694730b7398765d26?utm_campaign=1055&utm_source=git)** | San Diego CA Renewable Group | On Site | Dec 17 |
@@ -78,7 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Bridgecross, LLC](https://bridgecrossllc.com)** | **[Federal Contract Administrator Intern (DoD SkillBridge Program)](https://jobright.ai/jobs/info/694324a6dd382f5f566917fd?utm_campaign=1055&utm_source=git)** | Leesburg, VA | On Site | Dec 17 |
 | **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, Legal](https://jobright.ai/jobs/info/69432216dd382f5f5669152e?utm_campaign=1055&utm_source=git)** | Greensboro, NC | On Site | Dec 17 |
 | **[Sunbelt Rentals, Inc.](https://www.sunbeltrentals.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6942fe6c94730b739876072f?utm_campaign=1055&utm_source=git)** | Fort Mill SC 29715 | On Site | Dec 17 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, FC High Risk Client Management Intern (4 Months)](https://jobright.ai/jobs/info/6942f54ddd382f5f5668ea77?utm_campaign=1055&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 17 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, FC High Risk Client Management Intern (4 Months)](https://jobright.ai/jobs/info/6942fcdedd382f5f5668f437?utm_campaign=1055&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 17 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Summer 2026 Compliance Internship](https://jobright.ai/jobs/info/6943129494730b73987616a0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 17 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Risk Management and Insurance Summer Internship](https://jobright.ai/jobs/info/694309c250bbaf765054e3c0?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | Hybrid | Dec 17 |
 | **[CN](http://www.cn.ca)** | **[Intern, Law (Risk Mitigation) US- EN](https://jobright.ai/jobs/info/69268068f0beb072326255f1?utm_campaign=1055&utm_source=git)** | Homewood, IL | On Site | Dec 17 |
@@ -127,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Old Dominion Electric Cooperative (ODEC)](http://odec.com)** | **[Summer Associate (Legal Intern)](https://jobright.ai/jobs/info/6941d51014ee092a69ffe685?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | On Site | Dec 16 |
 | **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Spring 2026](https://jobright.ai/jobs/info/6941d4fdbdcf884a5add8923?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Dec 16 |
 | **[Trace3](http://trace3.com/)** | **[Security Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/6941ccae50bbaf765053979b?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 16 |
-| **[Northwest Bank](https://www.northwest.bank)** | **[Compliance Intern](https://jobright.ai/jobs/info/6941f7a8bdcf884a5addb4ec?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Dec 16 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/6942006b50bbaf765053d365?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Dec 16 |
+| **[Northwest Bank](https://www.northwest.bank)** | **[Compliance Intern](https://jobright.ai/jobs/info/6942006b50bbaf765053d365?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Dec 16 |
+| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/6941f7a8bdcf884a5addb4ec?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Dec 16 |
 | **[Delta Community Credit Union](https://www.deltacommunitycu.com/)** | **[Internship Undergraduate - Enterprise Risk Management](https://jobright.ai/jobs/info/693ccb1baa598a08c3ed9aa2?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Dec 16 |
 | **[Pratt Institute](https://www.pratt.edu)** | **[Office of Legal Affairs Intern (71109)](https://jobright.ai/jobs/info/6941f6af14ee092a69001635?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 16 |
 | **[Illumio](http://www.illumio.com)** | **[Security and Compliance Analyst Intern](https://jobright.ai/jobs/info/68eda5a870b66e2345d3fb0c?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | On Site | Dec 16 |
@@ -151,7 +152,6 @@ For a complete list, click the following sortable link below:
 | **[CN](http://www.cn.ca)** | **[Intern, Enterprise Risk Management & Insurance- EN](https://jobright.ai/jobs/info/6937d8a7a0dde7020e3082fe?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 16 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Safety Compliance & Regulatory (Internship - Summer 2026)](https://jobright.ai/jobs/info/6942012dbdcf884a5addba09?utm_campaign=1055&utm_source=git)** | Superior, MI | On Site | Dec 16 |
 | **[Lambda Legal](http://www.lambdalegal.org)** | **[Law Student Intern - Summer 2026](https://jobright.ai/jobs/info/69416cb514ee092a69ff9201?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 16 |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6941791814ee092a69ffa2a2?utm_campaign=1055&utm_source=git)** | O'Fallon, MO | On Site | Dec 16 |
 | **[CN](http://www.cn.ca)** | **[Intern, Logistic & Customs Compliance- EN](https://jobright.ai/jobs/info/6924ede8c0cefa13343e43f9?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 16 |
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6924da8238cd5478a8d5ea2d?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Dec 16 |
 | **[Genmab](https://www.genmab.com)** | **[Trial Master File & Site Management Intern](https://jobright.ai/jobs/info/6924a8b7ec574f4265bb5774?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Dec 16 |
