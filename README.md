@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Counsel's Office](https://jobright.ai/jobs/info/69447222dd382f5f566a987a?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Dec 18 |
+| **[Harrison LLP](https://www.harrisonheld.com/)** | **[Summer 2026 Legal Intern - Estate Planning & Estate Administration](https://jobright.ai/jobs/info/69446f97dd382f5f566a92d0?utm_campaign=1055&utm_source=git)** | Burlingame, CA | On Site | Dec 18 |
+| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Counsel's Office](https://jobright.ai/jobs/info/69446e2794730b739877962d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 18 |
+| ↳ | **[Intern - Counsel's Office](https://jobright.ai/jobs/info/69446a6c94730b7398779368?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Dec 18 |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Assistant Legal Director](https://jobright.ai/jobs/info/69445d1750bbaf7650565a4b?utm_campaign=1055&utm_source=git)** | Middletown, CT | On Site | Dec 18 |
 | **[Furnitureland South, Inc](https://profine.pk/)** | **[Legal Team Intern](https://jobright.ai/jobs/info/694458fb94730b73987781ce?utm_campaign=1055&utm_source=git)** | Jamestown, NC | On Site | Dec 18 |
 | **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Summer Legal Intern - (2026) - $26.00/hr.](https://jobright.ai/jobs/info/694452eadd382f5f566a6de8?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Dec 18 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/6944517add382f5f566a6c82?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 18 |
 | ↳ | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/6944431050bbaf7650562efb?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
+| **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Summer Contract Administration Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6944695a50bbaf76505666da?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Dec 18 |
 | **[Mohawk Global](http://mohawkglobal.com)** | **[Corporate Trade Compliance Intern](https://jobright.ai/jobs/info/69443ac3dd382f5f566a43c2?utm_campaign=1055&utm_source=git)** | Cheektowaga, NY, US | On Site | Dec 18 |
 | ↳ | **[Corporate Trade Compliance Intern](https://jobright.ai/jobs/info/69443a1050bbaf7650562a55?utm_campaign=1055&utm_source=git)** | Cleveland, OH, US | On Site | Dec 18 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Office of the General Counsel Summer Internship](https://jobright.ai/jobs/info/69443976dd382f5f566a436c?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Dec 18 |
@@ -147,14 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Bridgecross, LLC](https://bridgecrossllc.com)** | **[Federal Contract Administrator Intern (DoD SkillBridge Program)](https://jobright.ai/jobs/info/694324a6dd382f5f566917fd?utm_campaign=1055&utm_source=git)** | Leesburg, VA | On Site | Dec 17 |
 | **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, Legal](https://jobright.ai/jobs/info/69432216dd382f5f5669152e?utm_campaign=1055&utm_source=git)** | Greensboro, NC | On Site | Dec 17 |
 | **[Sunbelt Rentals, Inc.](https://www.sunbeltrentals.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6942fe6c94730b739876072f?utm_campaign=1055&utm_source=git)** | Fort Mill SC 29715 | On Site | Dec 17 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, FC High Risk Client Management Intern (4 Months)](https://jobright.ai/jobs/info/6942f54ddd382f5f5668ea77?utm_campaign=1055&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 17 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, FC High Risk Client Management Intern (4 Months)](https://jobright.ai/jobs/info/6942fcdedd382f5f5668f437?utm_campaign=1055&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 17 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Summer 2026 Compliance Internship](https://jobright.ai/jobs/info/6943129494730b73987616a0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 17 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Risk Management and Insurance Summer Internship](https://jobright.ai/jobs/info/694309c250bbaf765054e3c0?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | Hybrid | Dec 17 |
 | **[CN](http://www.cn.ca)** | **[Intern, Law (Risk Mitigation) US- EN](https://jobright.ai/jobs/info/69268068f0beb072326255f1?utm_campaign=1055&utm_source=git)** | Homewood, IL | On Site | Dec 17 |
-| **[PHINIA](https://phinia.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69260be927bf2f41a2c42ded?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Dec 17 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 - Legal - Graduate Intern](https://jobright.ai/jobs/info/694428bc50bbaf76505620c4?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Dec 17 |
-| **[HARTING Technology Group](https://www.harting.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/692f53cfef4b48533d144374?utm_campaign=1055&utm_source=git)** | Elgin, IL | On Site | Dec 17 |
-| **[CN](http://www.cn.ca)** | **[Intern, Law (Risk Mitigation) US- FR](https://jobright.ai/jobs/info/6929f28266796e3028f8db4c?utm_campaign=1055&utm_source=git)** | Homewood, IL | On Site | Dec 17 |
-| ↳ | **[Intern, Law (Regulatory Affairs) US- EN](https://jobright.ai/jobs/info/6937cc031c1c2161c13f9b02?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 17 |
-| ↳ | **[Intern, Law (Regulatory Affairs) US- FR](https://jobright.ai/jobs/info/69307eee4c474121999e59b1?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
