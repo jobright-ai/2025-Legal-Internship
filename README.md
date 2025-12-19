@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CN](http://www.cn.ca)** | **[Intern, Legal - Indigenous- EN](https://jobright.ai/jobs/info/6928865cd47de4798ece318b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 19 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/690bfc1b4a1b456627b14ed1?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Dec 19 |
+| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6b5dde50091dbfa4ea34?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Dec 19 |
+| **[CN](http://www.cn.ca)** | **[Intern, Legal - Indigenous- EN](https://jobright.ai/jobs/info/6937cce3aabec14a727cd4a9?utm_campaign=1055&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Dec 19 |
+| **[Zoox](https://www.zoox.com/)** | **[Policy and Regulatory Affairs Intern](https://jobright.ai/jobs/info/690d716d4a1b456627b21609?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Dec 19 |
+| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68e631e4e8daec61499a9f05?utm_campaign=1055&utm_source=git)** | Richardson, TX | Hybrid | Dec 19 |
 | **[Segal](https://www.segalco.com)** | **[Summer Intern - Compliance](https://jobright.ai/jobs/info/68fdb4820ab3b222462a4246?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
+| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Compliance Intern](https://jobright.ai/jobs/info/6945500163141d188454d2f9?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Dec 19 |
+| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Litigation Intern for Legal Impact for Chickens](https://jobright.ai/jobs/info/6945475d63141d188454c932?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 19 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[2026 Summer Internship: Law & Leadership Program (Law School Students Only)](https://jobright.ai/jobs/info/694513c063141d18845498e4?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Dec 19 |
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/6945053194730b7398784045?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Dec 18 |
 | **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Policy](https://jobright.ai/jobs/info/6945039150bbaf765057124b?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Dec 18 |
@@ -96,11 +104,11 @@ For a complete list, click the following sortable link below:
 | **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Summer Contract Administration Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/69445c8950bbaf76505659bb?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Dec 18 |
 | **[Furnitureland South, Inc](https://profine.pk/)** | **[Legal Team Intern](https://jobright.ai/jobs/info/694458fb94730b73987781ce?utm_campaign=1055&utm_source=git)** | Jamestown, NC | On Site | Dec 18 |
 | **[Massachusetts Institute of Technology](http://web.mit.edu)** | **[Compliance/Risk/Internal Audit Coordinator](https://jobright.ai/jobs/info/69447b6b94730b739877b6e3?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Dec 18 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/69445762dd382f5f566a7209?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
 | **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Summer Legal Intern - (2026) - $26.00/hr.](https://jobright.ai/jobs/info/694452eadd382f5f566a6de8?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Dec 18 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/6944517add382f5f566a6c82?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 18 |
 | **[Delaware River Port Authority](http://drpa.org)** | **[Summer Legal Intern - (2026) - $26.00/hr.](https://jobright.ai/jobs/info/69447decdd382f5f566aab6c?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Dec 18 |
 | ↳ | **[Summer Contract Administration Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6944860b94730b739877c0cd?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Dec 18 |
+| **[Palantir Technologies](http://www.palantir.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/6944431050bbaf7650562efb?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
 | **[Mohawk Global](http://mohawkglobal.com)** | **[Corporate Trade Compliance Intern](https://jobright.ai/jobs/info/69443ac3dd382f5f566a43c2?utm_campaign=1055&utm_source=git)** | Cheektowaga, NY, US | On Site | Dec 18 |
 | ↳ | **[Corporate Trade Compliance Intern](https://jobright.ai/jobs/info/69443a1050bbaf7650562a55?utm_campaign=1055&utm_source=git)** | Cleveland, OH, US | On Site | Dec 18 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Office of the General Counsel Summer Internship](https://jobright.ai/jobs/info/69443976dd382f5f566a436c?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Dec 18 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef69a6de50091dbfa4e814?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Dec 18 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Risk Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/690ab8d6d046ab6061cdf70f?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Dec 18 |
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Law Intern- Corporate Law](https://jobright.ai/jobs/info/692770d1d47de4798ecdcbbf?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Dec 18 |
-| ↳ | **[Summer 2026 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/69276eab91ceeb2e8a53f3a3?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Dec 18 |
-| **[Intuit](https://www.intuit.com)** | **[Summer 2026 - (Master's Students) Fraud and Risk Intern](https://jobright.ai/jobs/info/690a3be4d046ab6061cda4da?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Dec 18 |
-| **[Notion](https://www.notion.com/)** | **[Governance, Risk, and Compliance Intern (Winter 2026)](https://jobright.ai/jobs/info/690b962d221b890c277f6056?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Dec 18 |
-| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Patent Legal Intern](https://jobright.ai/jobs/info/690ac4234a1b456627b0b2d3?utm_campaign=1055&utm_source=git)** | Everett, WA | Hybrid | Dec 18 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Global Trade Compliance Intern Summer 2026](https://jobright.ai/jobs/info/691acd2a15b415636718acb1?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 18 |
-| **[Albany International Corp.](http://www.albint.com/)** | **[Contracts & Proposals Intern](https://jobright.ai/jobs/info/692763a5d47de4798ecdc0f7?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Dec 18 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Analyst Intern, Disputes & Claims - Summer 2026 - Multiple Locations](https://jobright.ai/jobs/info/6943da2e50bbaf765055dfeb?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 18 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Surveillance Compliance Intern](https://jobright.ai/jobs/info/68cf639e846f0b04af681bd4?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
