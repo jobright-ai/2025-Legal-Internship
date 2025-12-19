@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Airbus](https://us.airbus.com)** | **[Summer Internship - Customs Operations & Compliance](https://jobright.ai/jobs/info/6944f30194730b73987836d4?utm_campaign=1055&utm_source=git)** | Dulles, VA | Hybrid | Dec 18 |
+| **[AARP](http://www.aarp.org)** | **[Fraud Watch Network and Prevention Intern](https://jobright.ai/jobs/info/6944ec9494730b73987834d8?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Dec 18 |
 | **[Paramount](https://www.paramount.com)** | **[Legal Affairs (JD/LLM) Internships Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/6933959f764507023d1b7147?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Dec 18 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Corporate Legal](https://jobright.ai/jobs/info/6944353750bbaf76505626c0?utm_campaign=1055&utm_source=git)** | Lincolnshire, IL | On Site | Dec 18 |
-| **[Camping World](https://investor.campingworld.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6944bc5994730b739877ffec?utm_campaign=1055&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 18 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Corporate Social Responsibility (CSR) Intern](https://jobright.ai/jobs/info/6944bbad50bbaf765056d2e6?utm_campaign=1055&utm_source=git)** | Burlington, NJ | Hybrid | Dec 18 |
 | **[Jabil](https://www.jabil.com)** | **[Commercial Legal Intern](https://jobright.ai/jobs/info/6944b87794730b739877fc31?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Dec 18 |
+| **[Camping World](https://investor.campingworld.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6944aeed94730b739877f31b?utm_campaign=1055&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 18 |
 | **[ACLU of Vermont](https://acluvt.org)** | **[Legal Intern, ACLU-VT Summer 2026](https://jobright.ai/jobs/info/6944abfa50bbaf765056c38b?utm_campaign=1055&utm_source=git)** | Montpelier, VT | Hybrid | Dec 18 |
 | **[Paramount](https://www.paramount.com)** | **[Legal Affairs (JD/LLM) Internships Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/69339a33a0dde7020e2ef923?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 18 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Cyber Governance, Risk and Controls Undergraduate Intern](https://jobright.ai/jobs/info/6944c91294730b7398780968?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Dec 18 |
@@ -90,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/6944a05750bbaf765056a4b5?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Dec 18 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Cyber Governance, Risk and Controls Undergraduate Intern](https://jobright.ai/jobs/info/69447c1050bbaf7650568e80?utm_campaign=1055&utm_source=git)** | Pittsburgh PA, 15222, FAP, 5th Avenue Place | Remote | Dec 18 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Assistant Legal Director](https://jobright.ai/jobs/info/69445d1750bbaf7650565a4b?utm_campaign=1055&utm_source=git)** | Middletown, CT | On Site | Dec 18 |
+| **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Summer Contract Administration Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/69445c8950bbaf76505659bb?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Dec 18 |
 | **[Furnitureland South, Inc](https://profine.pk/)** | **[Legal Team Intern](https://jobright.ai/jobs/info/694458fb94730b73987781ce?utm_campaign=1055&utm_source=git)** | Jamestown, NC | On Site | Dec 18 |
 | **[Massachusetts Institute of Technology](http://web.mit.edu)** | **[Compliance/Risk/Internal Audit Coordinator](https://jobright.ai/jobs/info/69447b6b94730b739877b6e3?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Dec 18 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/6944517add382f5f566a6c82?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 18 |
@@ -97,7 +100,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Contract Administration Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6944860b94730b739877c0cd?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Dec 18 |
 | **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Summer Legal Intern - (2026) - $26.00/hr.](https://jobright.ai/jobs/info/6944644e94730b7398778ccc?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Dec 18 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/6944431050bbaf7650562efb?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
-| **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Summer Contract Administration Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6944695a50bbaf76505666da?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Dec 18 |
 | **[Mohawk Global](http://mohawkglobal.com)** | **[Corporate Trade Compliance Intern](https://jobright.ai/jobs/info/69443ac3dd382f5f566a43c2?utm_campaign=1055&utm_source=git)** | Cheektowaga, NY, US | On Site | Dec 18 |
 | ↳ | **[Corporate Trade Compliance Intern](https://jobright.ai/jobs/info/69443a1050bbaf7650562a55?utm_campaign=1055&utm_source=git)** | Cleveland, OH, US | On Site | Dec 18 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Office of the General Counsel Summer Internship](https://jobright.ai/jobs/info/69443976dd382f5f566a436c?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Dec 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Albany International Corp.](http://www.albint.com/)** | **[Contracts & Proposals Intern](https://jobright.ai/jobs/info/692763a5d47de4798ecdc0f7?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Dec 18 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Analyst Intern, Disputes & Claims - Summer 2026 - Multiple Locations](https://jobright.ai/jobs/info/6943da2e50bbaf765055dfeb?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 18 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Surveillance Compliance Intern](https://jobright.ai/jobs/info/68cf639e846f0b04af681bd4?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Dec 18 |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/6943cd11dd382f5f5669f3ae?utm_campaign=1055&utm_source=git)** | Effingham, Illinois | On Site | Dec 18 |
-| ↳ | **[Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/6943ca6994730b739876f8ce?utm_campaign=1055&utm_source=git)** | O'Fallon, Missouri | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
