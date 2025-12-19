@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Camping World](https://investor.campingworld.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6944aeed94730b739877f31b?utm_campaign=1055&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 18 |
 | **[ACLU of Vermont](https://acluvt.org)** | **[Legal Intern, ACLU-VT Summer 2026](https://jobright.ai/jobs/info/6944abfa50bbaf765056c38b?utm_campaign=1055&utm_source=git)** | Montpelier, VT | Hybrid | Dec 18 |
 | **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Policy](https://jobright.ai/jobs/info/6944a1b594730b739877d137?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 18 |
 | **[Corning Incorporated](https://www.corning.com/)** | **[Law Department Intern - Summer 2026](https://jobright.ai/jobs/info/6944a07a50bbaf765056a4c2?utm_campaign=1055&utm_source=git)** | Corning, NY | On Site | Dec 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Legal)](https://jobright.ai/jobs/info/6943826850bbaf76505575ff?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Dec 17 |
 | **[Sunbelt Rentals, Inc.](https://www.sunbeltrentals.com)** | **[Legal Internship](https://jobright.ai/jobs/info/694366dedd382f5f5669708c?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | On Site | Dec 17 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Legal Intern, NA](https://jobright.ai/jobs/info/6943629550bbaf76505548e3?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Dec 17 |
-| **[SOLV Energy](https://www.solvenergy.com/)** | **[Labor Compliance Intern](https://jobright.ai/jobs/info/69434ef694730b7398765d26?utm_campaign=1055&utm_source=git)** | San Diego CA Renewable Group | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
