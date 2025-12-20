@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Summer 2026 Compliance Intern](https://jobright.ai/jobs/info/6946fedad1953b5d11c01c8f?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Dec 20 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Greater Washington DC)](https://jobright.ai/jobs/info/6946d8157d506e3808f23d29?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Dec 20 |
 | ↳ | **[Assurance Intern, Third Party Attestation - Summer 2026 (Greater Washington DC)](https://jobright.ai/jobs/info/6946d51763141d18845694f1?utm_campaign=1055&utm_source=git)** | Potomac, MD | Hybrid | Dec 20 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law / Stagiaire en droit](https://jobright.ai/jobs/info/6946bb29d1953b5d11bfe542?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Dec 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[2026 Summer Internship: Law & Leadership Program (Law School Students Only)](https://jobright.ai/jobs/info/694513c063141d18845498e4?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Dec 19 |
 | **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Policy](https://jobright.ai/jobs/info/6945039150bbaf765057124b?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Dec 18 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Customs Operations & Compliance](https://jobright.ai/jobs/info/6944f30194730b73987836d4?utm_campaign=1055&utm_source=git)** | Dulles, VA | Hybrid | Dec 18 |
-| **[AARP](http://www.aarp.org)** | **[Fraud Watch Network and Prevention Intern](https://jobright.ai/jobs/info/6944ec9494730b73987834d8?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
