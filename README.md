@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/694662a67d506e3808f1bd71?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Dec 20 |
+| **[KIPP DC](https://www.kippdc.org/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/69461b1863141d188455c918?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
+| ↳ | **[School Health and Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/6946199f63141d188455c7b3?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Compliance Intern (Undergraduate)](https://jobright.ai/jobs/info/69460f76d1953b5d11bf2fc2?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Dec 19 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Compliance Intern (Undergraduate)](https://jobright.ai/jobs/info/69460d0863141d188455bbb2?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Dec 19 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Legal Intern (Summer 2026 Cohort)](https://jobright.ai/jobs/info/693210984c474121999f67b3?utm_campaign=1055&utm_source=git)** | Cape May, NJ | Hybrid | Dec 19 |
+| **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Summer Legal Intern - Transactional](https://jobright.ai/jobs/info/69460b297d506e3808f1617e?utm_campaign=1055&utm_source=git)** | Westport, CT | Hybrid | Dec 19 |
 | **[Lambda Legal](http://www.lambdalegal.org)** | **[Law Student Intern - Summer 2026](https://jobright.ai/jobs/info/69416cb514ee092a69ff9201?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 19 |
-| **[KIPP DC](https://www.kippdc.org/)** | **[School Health and Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/694604d4d1953b5d11bf206d?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 19 |
-| ↳ | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/694603bd63141d188455ad47?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
-| ↳ | **[Enrollment Intern (Summer 2026)](https://jobright.ai/jobs/info/6946003fd1953b5d11bf156e?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 19 |
+| **[KIPP DC](https://www.kippdc.org/)** | **[Enrollment Intern (Summer 2026)](https://jobright.ai/jobs/info/6946003fd1953b5d11bf156e?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Risk Management Internship](https://jobright.ai/jobs/info/6945f9667d506e3808f13b90?utm_campaign=1055&utm_source=git)** | Maryville, TN | Hybrid | Dec 19 |
 | ↳ | **[Bankruptcy Internship](https://jobright.ai/jobs/info/6945f8da7d506e3808f13a13?utm_campaign=1055&utm_source=git)** | Maryville, TN | On Site | Dec 19 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Legal Intern (Remote)](https://jobright.ai/jobs/info/6945f5bd63141d1884558ca4?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 19 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Internship](https://jobright.ai/jobs/info/6945f2e163141d1884558a9f?utm_campaign=1055&utm_source=git)** | Maryville, TN | Hybrid | Dec 19 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Operational Risk](https://jobright.ai/jobs/info/6945f197d1953b5d11befc0d?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Dec 19 |
 | ↳ | **[Intern - Advisory and Compliance Services](https://jobright.ai/jobs/info/6945f169d1953b5d11befbf2?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Dec 19 |
-| **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Summer Legal Intern - Transactional](https://jobright.ai/jobs/info/6945f11d63141d18845589b8?utm_campaign=1055&utm_source=git)** | Westport, CT | Hybrid | Dec 19 |
 | **[Team Liquid](https://teamliquid.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6945f06b7d506e3808f131c2?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Remote | Dec 19 |
 | **[Clayton](http://www.claytonhomes.com/)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6945e92563141d1884558521?utm_campaign=1055&utm_source=git)** | Maryville, TN | Hybrid | Dec 19 |
 | ↳ | **[ERP Compliance Intern](https://jobright.ai/jobs/info/6945e772d1953b5d11bef65e?utm_campaign=1055&utm_source=git)** | Maryville, TN | On Site | Dec 19 |
@@ -116,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Global Partners LP](http://www.globalp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69458f3563141d1884551c68?utm_campaign=1055&utm_source=git)** | Waltham, MA - Corporate Headquarters | On Site | Dec 19 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Real Estate Transactions, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/690c23aa4a1b456627b167be?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 19 |
 | **[McKesson](http://www.mckesson.com)** | **[Compliance Operations Intern - Summer 2026](https://jobright.ai/jobs/info/694582b3d1953b5d11be82ea?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Dec 19 |
-| **[County of Berks, PA](http://www.berkspa.gov)** | **[Paid Intern (Public Defender Department)](https://jobright.ai/jobs/info/694582349516540735379e15?utm_campaign=1055&utm_source=git)** | 633 Court Street, Reading, PA, 19601, US | On Site | Dec 19 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Program Integrity - R10690](https://jobright.ai/jobs/info/690bd3add046ab6061ce83f9?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 19 |
 | **[CN](http://www.cn.ca)** | **[Intern, Legal - Indigenous- EN](https://jobright.ai/jobs/info/692884a091ceeb2e8a545ba4?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Dec 19 |
 | **[UPMC](https://www.upmc.com/)** | **[Corporate Legal Internship- Summer 2026](https://jobright.ai/jobs/info/690c0f14d046ab6061cea875?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Dec 19 |
