@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Law / Stagiaire en droit](https://jobright.ai/jobs/info/6946bb29d1953b5d11bfe542?utm_campaign=1055&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Dec 20 |
+| **[Inspire](https://inspirebrands.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6946b586d1953b5d11bfe300?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
+| **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (Greater Washington DC)](https://jobright.ai/jobs/info/6946a72563141d1884566974?utm_campaign=1055&utm_source=git)** | McLean, VA, United States | On Site | Dec 20 |
 | **[CN](http://www.cn.ca)** | **[Intern, Law (Regulatory Affairs) CA- EN](https://jobright.ai/jobs/info/6929dc67fa28370be26957ea?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 20 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Immigration Law (Winter 2026)](https://jobright.ai/jobs/info/6929e1a766796e3028f8d764?utm_campaign=1055&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Dec 20 |
 | **[FM](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68c91186f9c6ff7aedf175b9?utm_campaign=1055&utm_source=git)** | Creve Coeur, MO | On Site | Dec 20 |
@@ -71,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Compliance Intern (Undergraduate)](https://jobright.ai/jobs/info/69460f76d1953b5d11bf2fc2?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Dec 19 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Compliance Intern (Undergraduate)](https://jobright.ai/jobs/info/69460d0863141d188455bbb2?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Dec 19 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Legal Intern (Summer 2026 Cohort)](https://jobright.ai/jobs/info/693210984c474121999f67b3?utm_campaign=1055&utm_source=git)** | Cape May, NJ | Hybrid | Dec 19 |
+| **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Summer Legal Intern - Transactional](https://jobright.ai/jobs/info/69460b297d506e3808f1617e?utm_campaign=1055&utm_source=git)** | Westport, CT | Hybrid | Dec 19 |
 | **[Lambda Legal](http://www.lambdalegal.org)** | **[Law Student Intern - Summer 2026](https://jobright.ai/jobs/info/69416cb514ee092a69ff9201?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 19 |
 | **[KIPP DC](https://www.kippdc.org/)** | **[School Health and Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/694604d4d1953b5d11bf206d?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 | ↳ | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/694603bd63141d188455ad47?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
@@ -114,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/6915174e9c388539cbdf062e?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 | **[SCO Family of Services](https://sco.org/)** | **[Summer 2026 Law Intern](https://jobright.ai/jobs/info/6945c5e7d1953b5d11bec5c2?utm_campaign=1055&utm_source=git)** | Garden City, NY | On Site | Dec 19 |
 | **[The Sentencing Foundation](thesentencingfoundation.org)** | **[Spring 2026 Judicial Intern](https://jobright.ai/jobs/info/6945a335951654073537bdca?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 19 |
-| **[Ameresco](http://www.apses.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6945c0f0d1953b5d11bec038?utm_campaign=1055&utm_source=git)** | United States - Massachusetts - Framingham | On Site | Dec 19 |
-| ↳ | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6945c6d363141d18845554ed?utm_campaign=1055&utm_source=git)** | United States - Massachusetts - Boston | On Site | Dec 19 |
+| **[Ameresco](http://www.apses.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6945c6d363141d18845554ed?utm_campaign=1055&utm_source=git)** | United States - Massachusetts - Boston | On Site | Dec 19 |
+| ↳ | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6945c0f0d1953b5d11bec038?utm_campaign=1055&utm_source=git)** | United States - Massachusetts - Framingham | On Site | Dec 19 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship: Business & Legal Affairs Opportunities: (Multiple Locations: CA, DC, NY, FL)](https://jobright.ai/jobs/info/69459ca963141d1884552af1?utm_campaign=1055&utm_source=git)** | Santa Monica, California | On Site | Dec 19 |
 | **[The Miller Group](https://www.millergroup.ca)** | **[Law Clerk - Corporate, Student (4 months)](https://jobright.ai/jobs/info/6945b49d63141d188455434b?utm_campaign=1055&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 19 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship: Business & Legal Affairs Opportunities: (Multiple Locations: CA, DC, NY, FL)](https://jobright.ai/jobs/info/694595d363141d188455222a?utm_campaign=1055&utm_source=git)** | New York, New York | On Site | Dec 19 |
@@ -132,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Paid Intern (Public Defender Department)](https://jobright.ai/jobs/info/6946896b7d506e3808f1e95c?utm_campaign=1055&utm_source=git)** | 633 Court Street, Reading, PA, 19601, US | On Site | Dec 19 |
 | **[UPMC](https://www.upmc.com/)** | **[Corporate Legal Internship- Summer 2026](https://jobright.ai/jobs/info/690c0f14d046ab6061cea875?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Dec 19 |
 | **[Global Partners LP](http://www.globalp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69458d6263141d1884551a9b?utm_campaign=1055&utm_source=git)** | Waltham, MA - Corporate Headquarters | On Site | Dec 19 |
+| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern or Extern - Counsel's Office](https://jobright.ai/jobs/info/69446a6c94730b7398779368?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Dec 19 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6c2c9821486c423c5b29?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 | ↳ | **[2026 1L Summer Associate with Emerging Leaders Fellowship (JD Class 2028)](https://jobright.ai/jobs/info/68ef6b6fde50091dbfa4ea3e?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Dec 19 |
 | ↳ | **[2026 1L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/68ef6b929821486c423c5959?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Customs Operations & Compliance](https://jobright.ai/jobs/info/6944f30194730b73987836d4?utm_campaign=1055&utm_source=git)** | Dulles, VA | Hybrid | Dec 18 |
 | **[AARP](http://www.aarp.org)** | **[Fraud Watch Network and Prevention Intern](https://jobright.ai/jobs/info/6944ec9494730b73987834d8?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Dec 18 |
 | **[Paramount](https://www.paramount.com)** | **[Legal Affairs (JD/LLM) Internships Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/6933959f764507023d1b7147?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Dec 18 |
-| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Corporate Legal](https://jobright.ai/jobs/info/6944353750bbaf76505626c0?utm_campaign=1055&utm_source=git)** | Lincolnshire, IL | On Site | Dec 18 |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Corporate Social Responsibility (CSR) Intern](https://jobright.ai/jobs/info/6944bbad50bbaf765056d2e6?utm_campaign=1055&utm_source=git)** | Burlington, NJ | Hybrid | Dec 18 |
-| **[Jabil](https://www.jabil.com)** | **[Commercial Legal Intern](https://jobright.ai/jobs/info/6944b87794730b739877fc31?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Dec 18 |
-| **[King County, WA](http://kingcounty.gov/)** | **[Prosecuting Attorney's Office Undergraduate Internship Program](https://jobright.ai/jobs/info/69460deb7d506e3808f16404?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Dec 18 |
-| **[Camping World](https://investor.campingworld.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6944aeed94730b739877f31b?utm_campaign=1055&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
