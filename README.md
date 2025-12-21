@@ -115,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Dr. Bronner's](https://www.drbronner.com)** | **[Legal Fair Trade Intern](https://jobright.ai/jobs/info/6945b753951654073537d4a1?utm_campaign=1055&utm_source=git)** | Vista, CA | On Site | Dec 19 |
 | ↳ | **[Compliance Fair Trade Intern](https://jobright.ai/jobs/info/6945b245d1953b5d11beaeb2?utm_campaign=1055&utm_source=git)** | Vista, CA | On Site | Dec 19 |
 | **[Old National Bank](http://www.oldnational.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6945b080951654073537caea?utm_campaign=1055&utm_source=git)** | Evansville, IN | On Site | Dec 19 |
+| **[HARTING Technology Group](https://www.harting.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/692f53cfef4b48533d144374?utm_campaign=1055&utm_source=git)** | Elgin, IL | On Site | Dec 19 |
 | **[Clayton Homes of Opelousas](http://claytonhomesopelousas.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6945aeeed1953b5d11beab08?utm_campaign=1055&utm_source=git)** | Maryville, TN | On Site | Dec 19 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship: Business & Legal Affairs Opportunities: (Multiple Locations: CA, DC, NY, FL)](https://jobright.ai/jobs/info/6945ab8263141d1884553914?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Dec 19 |
 | **[Clayton Homes of Opelousas](http://claytonhomesopelousas.com)** | **[ERP Compliance Intern](https://jobright.ai/jobs/info/6945ab7b63141d1884553910?utm_campaign=1055&utm_source=git)** | Maryville, TN | On Site | Dec 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Optiver](http://www.optiver.com)** | **[Compliance Intern 2026](https://jobright.ai/jobs/info/6946717163141d188456394f?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Dec 19 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[2026 Summer Internship: Law & Leadership Program (Law School Students Only)](https://jobright.ai/jobs/info/694513c063141d18845498e4?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Dec 19 |
 | **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Policy](https://jobright.ai/jobs/info/6945039150bbaf765057124b?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Dec 18 |
-| **[Airbus](https://us.airbus.com)** | **[Summer Internship - Customs Operations & Compliance](https://jobright.ai/jobs/info/6944f30194730b73987836d4?utm_campaign=1055&utm_source=git)** | Dulles, VA | Hybrid | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
