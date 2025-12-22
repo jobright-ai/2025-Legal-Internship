@@ -57,17 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Intern, Drug Product Supply Risk Management](https://jobright.ai/jobs/info/694977e17d506e3808f49028?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Dec 22 |
 | **[Seacoast Bank](https://www.seacoastbank.com)** | **[Trust Intern](https://jobright.ai/jobs/info/692cf94afa28370be269bcc0?utm_campaign=1055&utm_source=git)** | Winter Park, FL | On Site | Dec 22 |
 | **[Ibotta](https://home.ibotta.com)** | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d70a17894705799a2f0310?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Dec 22 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Quality Management Internship](https://jobright.ai/jobs/info/6905dcb563502c0aded7eade?utm_campaign=1055&utm_source=git)** | Dublin, OH | On Site | Dec 22 |
 | **[Everllence](https://www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Dec 22 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Compliance, Public Securities Group](https://jobright.ai/jobs/info/68d748ebe5293e3538af391e?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Dec 22 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Corporate Transactions Summer - Intern](https://jobright.ai/jobs/info/692d017766796e3028f93ab2?utm_campaign=1055&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f2881e76a51a4307bc4839?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Dec 22 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f27e079a65fd345857d0ef?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Dec 22 |
+| ↳ | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f2881e76a51a4307bc4839?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Dec 22 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/6940ed5849a7695fbd0682a1?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Dec 22 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Audit/Compliance](https://jobright.ai/jobs/info/68bb46bd5f3832749186ded5?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Dec 22 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Legal Intern (Summer 2026 Cohort)](https://jobright.ai/jobs/info/693210984c474121999f67b3?utm_campaign=1055&utm_source=git)** | Cape May, NJ | Hybrid | Dec 22 |
-| **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/6948c4567d506e3808f3f4ef?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Dec 21 |
 | **[Gusto](https://www.gusto.com)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/6948bbc3d1953b5d11c1c1b7?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Dec 21 |
 | ↳ | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/6948b40a63141d188458572c?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Dec 21 |
 | ↳ | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/6948b2d57d506e3808f3e6da?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 21 |
@@ -104,13 +105,12 @@ For a complete list, click the following sortable link below:
 | **[DESRI](https://desri.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd6643b2a74e1837ed68e5?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68edbf3970b66e2345d40744?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Dec 20 |
 | **[Noble Corporation](http://www.noblecorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68d62f7d894705799a2e87d9?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Dec 20 |
-| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/694662a67d506e3808f1bd71?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Dec 20 |
-| **[KIPP DC](https://www.kippdc.org/)** | **[School Health and Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/6946199f63141d188455c7b3?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Compliance Intern (Undergraduate)](https://jobright.ai/jobs/info/69460f76d1953b5d11bf2fc2?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Dec 19 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Compliance Intern (Undergraduate)](https://jobright.ai/jobs/info/69460d0863141d188455bbb2?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Dec 19 |
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Summer Legal Intern - Transactional](https://jobright.ai/jobs/info/69460b297d506e3808f1617e?utm_campaign=1055&utm_source=git)** | Westport, CT | Hybrid | Dec 19 |
 | **[Lambda Legal](http://www.lambdalegal.org)** | **[Law Student Intern - Summer 2026](https://jobright.ai/jobs/info/69416cb514ee092a69ff9201?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 19 |
-| **[KIPP DC](https://www.kippdc.org/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/694603bd63141d188455ad47?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
+| **[KIPP DC](https://www.kippdc.org/)** | **[School Health and Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/694604d4d1953b5d11bf206d?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 19 |
+| ↳ | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/694603bd63141d188455ad47?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
 | ↳ | **[Enrollment Intern (Summer 2026)](https://jobright.ai/jobs/info/6946003fd1953b5d11bf156e?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Risk Management Internship](https://jobright.ai/jobs/info/6945f9667d506e3808f13b90?utm_campaign=1055&utm_source=git)** | Maryville, TN | Hybrid | Dec 19 |
 | ↳ | **[Bankruptcy Internship](https://jobright.ai/jobs/info/6945f8da7d506e3808f13a13?utm_campaign=1055&utm_source=git)** | Maryville, TN | On Site | Dec 19 |
