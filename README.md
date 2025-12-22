@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gusto](https://www.gusto.com)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/6948bbc3d1953b5d11c1c1b7?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Dec 21 |
+| ↳ | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/6948b40a63141d188458572c?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Dec 21 |
+| ↳ | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/6948b2d57d506e3808f3e6da?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 21 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Litigation Intern for Legal Impact for Chickens](https://jobright.ai/jobs/info/6948792163141d1884582290?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 21 |
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Paid Intern (Public Defender Department)](https://jobright.ai/jobs/info/6948226c7d506e3808f36421?utm_campaign=1055&utm_source=git)** | Reading, PA | On Site | Dec 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Compliance Intern (Undergraduate)](https://jobright.ai/jobs/info/694819ec7d506e3808f35f89?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Dec 21 |
@@ -96,13 +99,13 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68edbf3970b66e2345d40744?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Dec 20 |
 | **[Noble Corporation](http://www.noblecorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68d62f7d894705799a2e87d9?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Dec 20 |
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/694662a67d506e3808f1bd71?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Dec 20 |
-| **[KIPP DC](https://www.kippdc.org/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/69461b1863141d188455c918?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Compliance Intern (Undergraduate)](https://jobright.ai/jobs/info/69460f76d1953b5d11bf2fc2?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Dec 19 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Compliance Intern (Undergraduate)](https://jobright.ai/jobs/info/69460d0863141d188455bbb2?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Dec 19 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Legal Intern (Summer 2026 Cohort)](https://jobright.ai/jobs/info/693210984c474121999f67b3?utm_campaign=1055&utm_source=git)** | Cape May, NJ | Hybrid | Dec 19 |
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Summer Legal Intern - Transactional](https://jobright.ai/jobs/info/69460b297d506e3808f1617e?utm_campaign=1055&utm_source=git)** | Westport, CT | Hybrid | Dec 19 |
 | **[Lambda Legal](http://www.lambdalegal.org)** | **[Law Student Intern - Summer 2026](https://jobright.ai/jobs/info/69416cb514ee092a69ff9201?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 19 |
 | **[KIPP DC](https://www.kippdc.org/)** | **[School Health and Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/694604d4d1953b5d11bf206d?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 19 |
+| ↳ | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/694603bd63141d188455ad47?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
 | ↳ | **[Enrollment Intern (Summer 2026)](https://jobright.ai/jobs/info/6946003fd1953b5d11bf156e?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Risk Management Internship](https://jobright.ai/jobs/info/6945f9667d506e3808f13b90?utm_campaign=1055&utm_source=git)** | Maryville, TN | Hybrid | Dec 19 |
 | ↳ | **[Bankruptcy Internship](https://jobright.ai/jobs/info/6945f8da7d506e3808f13a13?utm_campaign=1055&utm_source=git)** | Maryville, TN | On Site | Dec 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship: Business & Legal Affairs Opportunities: (Multiple Locations: CA, DC, NY, FL)](https://jobright.ai/jobs/info/69459284951654073537abc3?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia | On Site | Dec 19 |
 | ↳ | **[Universal Music Group 2026 Summer Internship: Business & Legal Affairs Opportunities: (Multiple Locations: CA, DC, NY, FL)](https://jobright.ai/jobs/info/69459272d1953b5d11be8f8b?utm_campaign=1055&utm_source=git)** | Miami, Florida | On Site | Dec 19 |
 | **[Global Partners LP](http://www.globalp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69458f3563141d1884551c68?utm_campaign=1055&utm_source=git)** | Waltham, MA - Corporate Headquarters | On Site | Dec 19 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Real Estate Transactions, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/690c23aa4a1b456627b167be?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 19 |
-| **[McKesson](http://www.mckesson.com)** | **[Compliance Operations Intern - Summer 2026](https://jobright.ai/jobs/info/694582b3d1953b5d11be82ea?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Dec 19 |
-| **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Program Integrity - R10690](https://jobright.ai/jobs/info/690bd3add046ab6061ce83f9?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
