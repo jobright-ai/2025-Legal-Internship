@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Litigation Intern for Legal Impact for Chickens](https://jobright.ai/jobs/info/6948792163141d1884582290?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 21 |
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Paid Intern (Public Defender Department)](https://jobright.ai/jobs/info/6948226c7d506e3808f36421?utm_campaign=1055&utm_source=git)** | Reading, PA | On Site | Dec 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Compliance Intern (Undergraduate)](https://jobright.ai/jobs/info/694819ec7d506e3808f35f89?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Dec 21 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Dec 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Real Estate Transactions, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/690c23aa4a1b456627b167be?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 19 |
 | **[McKesson](http://www.mckesson.com)** | **[Compliance Operations Intern - Summer 2026](https://jobright.ai/jobs/info/694582b3d1953b5d11be82ea?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Dec 19 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Program Integrity - R10690](https://jobright.ai/jobs/info/690bd3add046ab6061ce83f9?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 19 |
-| **[CN](http://www.cn.ca)** | **[Intern, Legal - Indigenous- EN](https://jobright.ai/jobs/info/692884a091ceeb2e8a545ba4?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
