@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PlayStation](https://www.playstation.com/)** | **[Legal Intern - Juris Doctor](https://jobright.ai/jobs/info/6933bc48764507023d1b8c66?utm_campaign=1055&utm_source=git)** | United States of America | On Site | Dec 22 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance – Specialist](https://jobright.ai/jobs/info/694a1efe7d506e3808f55a08?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Dec 22 |
 | **[Entegris](http://www.entegris.com)** | **[Governance, Risk and Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/694a1c9363141d188459ccd8?utm_campaign=1055&utm_source=git)** | Aurora, IL | Hybrid | Dec 22 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Financial Crimes Summer Intern - BSA](https://jobright.ai/jobs/info/694a0dca7d506e3808f53c85?utm_campaign=1055&utm_source=git)** | Plymouth, MA | On Site | Dec 22 |
@@ -77,15 +78,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Crimes Summer Intern - BSA](https://jobright.ai/jobs/info/694a00cc63141d1884598de0?utm_campaign=1055&utm_source=git)** | Plymouth, MA, United States | On Site | Dec 22 |
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/6949ad15d1953b5d11c2afcd?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Dec 22 |
 | **[X-energy](https://x-energy.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6949fd607d506e3808f5104b?utm_campaign=1055&utm_source=git)** | Rockville, MD | On Site | Dec 22 |
+| **[New York Power Authority](http://www.nypa.gov)** | **[Legal Affairs & Licensing Unit, Developmental Intern](https://jobright.ai/jobs/info/694a3fb231c12007d3b90228?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Dec 22 |
 | **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Policy](https://jobright.ai/jobs/info/6949a78b7d506e3808f4d42a?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Dec 22 |
 | **[Oliva Gibbs](https://www.kolawllp.com)** | **[Law Clerk (Oklahoma City, OK)](https://jobright.ai/jobs/info/685b0b721fe76f13ca7b5ef1?utm_campaign=1055&utm_source=git)** | Edmond, OK | On Site | Dec 22 |
+| **[Acuity Insurance](http://www.acuity.com)** | **[Claims Intern](https://jobright.ai/jobs/info/694a414c187e565c6bfa4a60?utm_campaign=1055&utm_source=git)** | Sheboygan, WI | On Site | Dec 22 |
 | **[The New York Public Library](http://www.nypl.org)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/694a00a263141d1884598d58?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[X-energy](https://x-energy.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/694a111c7d506e3808f544b7?utm_campaign=1055&utm_source=git)** | Rockville, MD | On Site | Dec 22 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Compliance & AML Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/694a021663141d18845991d0?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 22 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship: Business & Legal Affairs Opportunities: (Multiple Locations: CA, DC, NY, FL)](https://jobright.ai/jobs/info/6945ab8263141d1884553914?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Dec 22 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Legal Department Summer Intern](https://jobright.ai/jobs/info/6949ff527d506e3808f5162d?utm_campaign=1055&utm_source=git)** | Hanover, MA | Hybrid | Dec 22 |
 | **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Graduate Intern Summer 2026 - Legal](https://jobright.ai/jobs/info/6949f71f63141d1884597a0c?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 22 |
-| **[Hays County](http://hayscountytx.com)** | **[District Clerk - Intern](https://jobright.ai/jobs/info/69499ebe63141d1884593cb0?utm_campaign=1055&utm_source=git)** | San Marcos, TX | On Site | Dec 22 |
+| **[Hays County](http://hayscountytx.com)** | **[District Clerk - Intern](https://jobright.ai/jobs/info/694999bd7d506e3808f4c014?utm_campaign=1055&utm_source=git)** | San Marcos, TX | On Site | Dec 22 |
 | **[Wharton-Smith, Inc.](https://www.whartonsmith.com/)** | **[Risk Management - Intern](https://jobright.ai/jobs/info/694a066063141d1884599bea?utm_campaign=1055&utm_source=git)** | Sanford Office, 750 Monroe Road, Sanford, Florida, United States of America | On Site | Dec 22 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/694999ad63141d1884593805?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 22 |
 | **[Sarasota County Government](https://www.scgov.net/)** | **[Public Utilities - Contract Analyst Intern - On-Site Summer 2026 Internship](https://jobright.ai/jobs/info/6949a28363141d188459416c?utm_campaign=1055&utm_source=git)** | Bob Office & Warehouse | On Site | Dec 22 |
@@ -96,6 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Quality Management Internship](https://jobright.ai/jobs/info/6905dcb563502c0aded7eade?utm_campaign=1055&utm_source=git)** | Dublin, OH | On Site | Dec 22 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Procurement and Vendor Management Risk Office)](https://jobright.ai/jobs/info/691cdd3622a2cb4b9bd1dfcd?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Dec 22 |
 | ↳ | **[Summer Associate Internship (Enterprise Risk Management - Strategy and Reporting)](https://jobright.ai/jobs/info/6922d9f238cd5478a8d55726?utm_campaign=1055&utm_source=git)** | Vienna, VA | Hybrid | Dec 22 |
+| ↳ | **[Summer Associate Internship (Fraud Analyst)](https://jobright.ai/jobs/info/69253b0827bf2f41a2c3d741?utm_campaign=1055&utm_source=git)** | Pensacola, FL | Hybrid | Dec 22 |
+| ↳ | **[Summer Associate Internship (Fraud Analyst)](https://jobright.ai/jobs/info/68cb8d9e9e3a822f5d2482ad?utm_campaign=1055&utm_source=git)** | Vienna, VA | On Site | Dec 22 |
 | **[Everllence](https://www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Dec 22 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Corporate Transactions Summer - Intern](https://jobright.ai/jobs/info/692d017766796e3028f93ab2?utm_campaign=1055&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f2881e76a51a4307bc4839?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Dec 22 |
@@ -126,8 +131,6 @@ For a complete list, click the following sortable link below:
 | **[UMB Bank](https://www.umb.com)** | **[Corporate Trust Intern](https://jobright.ai/jobs/info/68f2c3cb76a51a4307bc81f7?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Dec 21 |
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[Transaction Liability Intern](https://jobright.ai/jobs/info/68f1b223f462172a5a7db42c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 21 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68f18881f462172a5a7d9a16?utm_campaign=1055&utm_source=git)** | Greenville, NC | On Site | Dec 21 |
-| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/6947ba857d506e3808f31336?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Dec 21 |
-| **[PlayStation](https://www.playstation.com/)** | **[Legal Intern - Juris Doctor](https://jobright.ai/jobs/info/6933bc48764507023d1b8c66?utm_campaign=1055&utm_source=git)** | United States of America | On Site | Dec 20 |
 | **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Summer 2026 Compliance Intern](https://jobright.ai/jobs/info/6946fedad1953b5d11c01c8f?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Dec 20 |
 | **[Inspire](https://inspirebrands.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6946b5077d506e3808f21805?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
 | **[CN](http://www.cn.ca)** | **[Intern, Law (Regulatory Affairs) CA- EN](https://jobright.ai/jobs/info/6929dc67fa28370be26957ea?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Advisory and Compliance Services](https://jobright.ai/jobs/info/6945f169d1953b5d11befbf2?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Dec 19 |
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Summer Legal Intern - Transactional](https://jobright.ai/jobs/info/6945f11d63141d18845589b8?utm_campaign=1055&utm_source=git)** | Westport, CT | Hybrid | Dec 19 |
 | **[Team Liquid](https://teamliquid.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6945f06b7d506e3808f131c2?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Remote | Dec 19 |
-| **[Clayton](http://www.claytonhomes.com/)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6945e92563141d1884558521?utm_campaign=1055&utm_source=git)** | Maryville, TN | Hybrid | Dec 19 |
-| ↳ | **[ERP Compliance Intern](https://jobright.ai/jobs/info/6945e772d1953b5d11bef65e?utm_campaign=1055&utm_source=git)** | Maryville, TN | On Site | Dec 19 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Compliance Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6945e06663141d1884557f28?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
