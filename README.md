@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Campaign for the Fair Sentencing of Youth](http://cfsy.org/hire-ican)** | **[Legal Intern](https://jobright.ai/jobs/info/694aece61224705e90020783?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 23 |
+| **[PACourts](http://www.pacourts.us)** | **[Legal Intern](https://jobright.ai/jobs/info/694add323019f50a4fe5f32e?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Dec 23 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Ray D’Uva Legal Services Intern, Community Justice Project](https://jobright.ai/jobs/info/694acbd167a69734cac5ea30?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Dec 23 |
 | **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Risk Assurance Intern](https://jobright.ai/jobs/info/694ac3663019f50a4fe5d094?utm_campaign=1055&utm_source=git)** | Pennsylvania, United States | On Site | Dec 23 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a64d7796a83635f09901?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Dec 23 |
@@ -120,7 +122,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Fraud Analyst)](https://jobright.ai/jobs/info/68cb8d9e9e3a822f5d2482ad?utm_campaign=1055&utm_source=git)** | Vienna, VA | On Site | Dec 22 |
 | **[Everllence](https://www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Dec 22 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Corporate Transactions Summer - Intern](https://jobright.ai/jobs/info/692d017766796e3028f93ab2?utm_campaign=1055&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f2881e76a51a4307bc4839?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Dec 22 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Office of Legal Services](https://jobright.ai/jobs/info/68f27e079a65fd345857d0ef?utm_campaign=1055&utm_source=git)** | Frankfort, KY | On Site | Dec 22 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern-Property & Casualty Claims](https://jobright.ai/jobs/info/6940ed5849a7695fbd0682a1?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Dec 22 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Audit/Compliance](https://jobright.ai/jobs/info/68bb46bd5f3832749186ded5?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Dec 22 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Legal Intern (Summer 2026 Cohort)](https://jobright.ai/jobs/info/693210984c474121999f67b3?utm_campaign=1055&utm_source=git)** | Cape May, NJ | Hybrid | Dec 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FM](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68c91186f9c6ff7aedf175b9?utm_campaign=1055&utm_source=git)** | Creve Coeur, MO | On Site | Dec 20 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6928c039d47de4798ece3a99?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Dec 20 |
 | **[Southwire Company](http://southwire.com)** | **[Legal Intern - Ethics & Compliance](https://jobright.ai/jobs/info/691abb8abcdbf3560c9da150?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Dec 20 |
-| **[DESRI](https://desri.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd6643b2a74e1837ed68e5?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 20 |
-| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68edbf3970b66e2345d40744?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
