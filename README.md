@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Friends Service Committee](https://www.afsc.org/)** | **[Ray D’Uva Legal Services Intern, Community Justice Project](https://jobright.ai/jobs/info/694acbd167a69734cac5ea30?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Dec 23 |
+| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Risk Assurance Intern](https://jobright.ai/jobs/info/694ac3663019f50a4fe5d094?utm_campaign=1055&utm_source=git)** | Pennsylvania, United States | On Site | Dec 23 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a64d7796a83635f09901?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Dec 23 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Dec 23 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a5aa295f8e37655dffdb?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Dec 23 |
@@ -103,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship: Business & Legal Affairs Opportunities: (Multiple Locations: CA, DC, NY, FL)](https://jobright.ai/jobs/info/6945ab8263141d1884553914?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Dec 22 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Legal Department Summer Intern](https://jobright.ai/jobs/info/6949ff527d506e3808f5162d?utm_campaign=1055&utm_source=git)** | Hanover, MA | Hybrid | Dec 22 |
 | **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Graduate Intern Summer 2026 - Legal](https://jobright.ai/jobs/info/6949f71f63141d1884597a0c?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 22 |
-| **[Hays County](http://hayscountytx.com)** | **[District Clerk - Intern](https://jobright.ai/jobs/info/69499ebe63141d1884593cb0?utm_campaign=1055&utm_source=git)** | San Marcos, TX | On Site | Dec 22 |
+| **[Hays County](http://hayscountytx.com)** | **[District Clerk - Intern](https://jobright.ai/jobs/info/694999bd7d506e3808f4c014?utm_campaign=1055&utm_source=git)** | San Marcos, TX | On Site | Dec 22 |
 | **[Wharton-Smith, Inc.](https://www.whartonsmith.com/)** | **[Risk Management - Intern](https://jobright.ai/jobs/info/694a066063141d1884599bea?utm_campaign=1055&utm_source=git)** | Sanford Office, 750 Monroe Road, Sanford, Florida, United States of America | On Site | Dec 22 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/694999ad63141d1884593805?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 22 |
 | **[Sarasota County Government](https://www.scgov.net/)** | **[Public Utilities - Contract Analyst Intern - On-Site Summer 2026 Internship](https://jobright.ai/jobs/info/6949a28363141d188459416c?utm_campaign=1055&utm_source=git)** | Bob Office & Warehouse | On Site | Dec 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southwire Company](http://southwire.com)** | **[Legal Intern - Ethics & Compliance](https://jobright.ai/jobs/info/691abb8abcdbf3560c9da150?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Dec 20 |
 | **[DESRI](https://desri.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd6643b2a74e1837ed68e5?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68edbf3970b66e2345d40744?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Dec 20 |
-| **[Noble Corporation](http://www.noblecorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68d62f7d894705799a2e87d9?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Dec 20 |
-| **[KIPP DC](https://www.kippdc.org/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/69461b1863141d188455c918?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
