@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bond, Schoeneck & King PLLC](https://www.bsk.com/)** | **[Summer 2026 (1L) Law Clerk](https://jobright.ai/jobs/info/6908d7b74a1b456627af96bf?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | Dec 23 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[2026 Summer Intern - Corporate Law (Hybrid - Raleigh, NC)](https://jobright.ai/jobs/info/68faef079e8e925ac6c87969?utm_campaign=1055&utm_source=git)** | Raleigh, NC | Hybrid | Dec 23 |
 | **[Campaign for the Fair Sentencing of Youth](http://cfsy.org/hire-ican)** | **[Legal Intern](https://jobright.ai/jobs/info/694aece61224705e90020783?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 23 |
+| **[Seaman Corporation](http://www.seamancorp.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/694b06c867a69734cac616bf?utm_campaign=1055&utm_source=git)** | Wooster, OH 44691, USA | On Site | Dec 23 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/694afeb21224705e900214ff?utm_campaign=1055&utm_source=git)** | Wooster, OH | On Site | Dec 23 |
 | **[PACourts](http://www.pacourts.us)** | **[Legal Intern](https://jobright.ai/jobs/info/694add323019f50a4fe5f32e?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Dec 23 |
+| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/694afa5167a69734cac60dc9?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 23 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Ray D’Uva Legal Services Intern, Community Justice Project](https://jobright.ai/jobs/info/694acbd167a69734cac5ea30?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Dec 23 |
 | **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Risk Assurance Intern](https://jobright.ai/jobs/info/694ac3663019f50a4fe5d094?utm_campaign=1055&utm_source=git)** | Pennsylvania, United States | On Site | Dec 23 |
+| **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Risk Services Internship](https://jobright.ai/jobs/info/694b071467a69734cac6170f?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a64d7796a83635f09901?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Dec 23 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Dec 23 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a5aa295f8e37655dffdb?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Dec 23 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[Transaction Liability Intern](https://jobright.ai/jobs/info/68f1b223f462172a5a7db42c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 21 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68f18881f462172a5a7d9a16?utm_campaign=1055&utm_source=git)** | Greenville, NC | On Site | Dec 21 |
 | **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Summer 2026 Compliance Intern](https://jobright.ai/jobs/info/6946fedad1953b5d11c01c8f?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Dec 20 |
-| **[Inspire](https://inspirebrands.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6946b5077d506e3808f21805?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
-| **[CN](http://www.cn.ca)** | **[Intern, Law (Regulatory Affairs) CA- EN](https://jobright.ai/jobs/info/6929dc67fa28370be26957ea?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 20 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Immigration Law (Winter 2026)](https://jobright.ai/jobs/info/6929e1a766796e3028f8d764?utm_campaign=1055&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Dec 20 |
-| **[FM](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68c91186f9c6ff7aedf175b9?utm_campaign=1055&utm_source=git)** | Creve Coeur, MO | On Site | Dec 20 |
-| **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6928c039d47de4798ece3a99?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Dec 20 |
-| **[Southwire Company](http://southwire.com)** | **[Legal Intern - Ethics & Compliance](https://jobright.ai/jobs/info/691abb8abcdbf3560c9da150?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
