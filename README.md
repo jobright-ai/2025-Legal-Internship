@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Legal - Intern](https://jobright.ai/jobs/info/694c5f935d7312113470d5db?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 24 |
 | **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Legal](https://jobright.ai/jobs/info/694c3df75d7312113470ac26?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Legal](https://jobright.ai/jobs/info/694c3b77d64ebf28d821d537?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Dec 24 |
 | **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Legal](https://jobright.ai/jobs/info/694c293b5d7312113470a5e1?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Dec 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Policy](https://jobright.ai/jobs/info/6949a78b7d506e3808f4d42a?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Dec 22 |
 | **[Oliva Gibbs](https://www.kolawllp.com)** | **[Law Clerk (Oklahoma City, OK)](https://jobright.ai/jobs/info/685b0b721fe76f13ca7b5ef1?utm_campaign=1055&utm_source=git)** | Edmond, OK | On Site | Dec 22 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Claims Intern](https://jobright.ai/jobs/info/694a414c187e565c6bfa4a60?utm_campaign=1055&utm_source=git)** | Sheboygan, WI | On Site | Dec 22 |
-| **[The New York Public Library](http://www.nypl.org)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/694a00a263141d1884598d58?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
