@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Legal](https://jobright.ai/jobs/info/694c26e21a572a617dde6eff?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 24 |
+| **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Legal](https://jobright.ai/jobs/info/694c3df75d7312113470ac26?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 24 |
+| **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Legal](https://jobright.ai/jobs/info/694c3b77d64ebf28d821d537?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Dec 24 |
+| **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Legal](https://jobright.ai/jobs/info/694c293b5d7312113470a5e1?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Dec 24 |
+| ↳ | **[Summer Intern - Legal](https://jobright.ai/jobs/info/694c26e21a572a617dde6eff?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Corporate legal intern](https://jobright.ai/jobs/info/694c26131a572a617dde6ebd?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 24 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Dec 24 |
 | **[BMO](http://www.bmo.com)** | **[Legal and Regulatory Compliance Associate, Summer 2026 (Co-op/Internship) - 4 Months -](https://jobright.ai/jobs/info/694c1c775d731211347097c1?utm_campaign=1055&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 24 |
@@ -111,14 +114,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/694afeb21224705e900214ff?utm_campaign=1055&utm_source=git)** | Wooster, OH | On Site | Dec 23 |
 | **[PACourts](http://www.pacourts.us)** | **[Legal Intern](https://jobright.ai/jobs/info/694add323019f50a4fe5f32e?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Dec 23 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Ray D’Uva Legal Services Intern, Community Justice Project](https://jobright.ai/jobs/info/694acbd167a69734cac5ea30?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Dec 23 |
-| **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Risk Services Internship](https://jobright.ai/jobs/info/694b071467a69734cac6170f?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
-| ↳ | **[PREMIER Dispute Review Internship](https://jobright.ai/jobs/info/694b1db43019f50a4fe635bd?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
+| **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Dispute Review Internship](https://jobright.ai/jobs/info/694b1db43019f50a4fe635bd?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
+| ↳ | **[PREMIER Risk Services Internship](https://jobright.ai/jobs/info/694b071467a69734cac6170f?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a64d7796a83635f09901?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Dec 23 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Dec 23 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a5aa295f8e37655dffdb?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Dec 23 |
 | **[Hyundai Motor Company](https://www.hyundai.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/692e3c884c474121999d782a?utm_campaign=1055&utm_source=git)** | Fountain Valley, CA | On Site | Dec 23 |
-| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | Dec 23 |
-| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL | On Site | Dec 23 |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL | On Site | Dec 23 |
+| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | Dec 23 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7e7217a37c712687d6d3d?utm_campaign=1055&utm_source=git)** | West Deptford, NJ | On Site | Dec 23 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/68cc282416d00d2beeb1aef8?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Dec 23 |
 | **[PGP Title](https://www.pgptitle.com)** | **[Escrow Intern - Summer 2026 (PGP Title)](https://jobright.ai/jobs/info/692e54b04c474121999d8773?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Dec 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oliva Gibbs](https://www.kolawllp.com)** | **[Law Clerk (Oklahoma City, OK)](https://jobright.ai/jobs/info/685b0b721fe76f13ca7b5ef1?utm_campaign=1055&utm_source=git)** | Edmond, OK | On Site | Dec 22 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Claims Intern](https://jobright.ai/jobs/info/694a414c187e565c6bfa4a60?utm_campaign=1055&utm_source=git)** | Sheboygan, WI | On Site | Dec 22 |
 | **[The New York Public Library](http://www.nypl.org)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/694a00a263141d1884598d58?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 22 |
-| **[X-energy](https://x-energy.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/694a111c7d506e3808f544b7?utm_campaign=1055&utm_source=git)** | Rockville, MD | On Site | Dec 22 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Compliance & AML Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/694a021663141d18845991d0?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 22 |
-| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship: Business & Legal Affairs Opportunities: (Multiple Locations: CA, DC, NY, FL)](https://jobright.ai/jobs/info/6945ab8263141d1884553914?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
