@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/ Intern Volunteer](https://jobright.ai/jobs/info/6930de98fa28370be26b4b8d?utm_campaign=1055&utm_source=git)** | Grand Junction, CO | On Site | Dec 25 |
+| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/69009c56e04ac838fb5c3077?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Dec 25 |
+| **[Endress+Hauser Group](https://ro.endress.com)** | **[2026 Summer Legal Internship](https://jobright.ai/jobs/info/691aab6045fb6f5ead8ace53?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Dec 25 |
+| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[CLE Intern (Year-round) - New York](https://jobright.ai/jobs/info/69313fb5fa28370be26b7bd4?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 25 |
+| **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f83e54a628d10664e80c70?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Dec 25 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6933946c764507023d1b702a?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 25 |
+| **[Genmab](https://www.genmab.com)** | **[Digital Risk Management Intern](https://jobright.ai/jobs/info/6930e5014c474121999ea14f?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Dec 25 |
 | **[Glencore](http://glencore.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6930f46efa28370be26b59c7?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 25 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/68d30ef68c62e63bc7fdd58f?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Legal - Intern](https://jobright.ai/jobs/info/694c5f935d7312113470d5db?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 24 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Department Summer Intern](https://jobright.ai/jobs/info/694a04107d506e3808f52200?utm_campaign=1055&utm_source=git)** | Hanover, MA, United States | Hybrid | Dec 22 |
 | ↳ | **[Financial Crimes Summer Intern - BSA](https://jobright.ai/jobs/info/694a00cc63141d1884598de0?utm_campaign=1055&utm_source=git)** | Plymouth, MA, United States | On Site | Dec 22 |
 | **[X-energy](https://x-energy.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6949fd607d506e3808f5104b?utm_campaign=1055&utm_source=git)** | Rockville, MD | On Site | Dec 22 |
-| **[New York Power Authority](http://www.nypa.gov)** | **[Legal Affairs & Licensing Unit, Developmental Intern](https://jobright.ai/jobs/info/694a3fb231c12007d3b90228?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Dec 22 |
-| **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Policy](https://jobright.ai/jobs/info/6949a78b7d506e3808f4d42a?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Dec 22 |
-| **[Oliva Gibbs](https://www.kolawllp.com)** | **[Law Clerk (Oklahoma City, OK)](https://jobright.ai/jobs/info/685b0b721fe76f13ca7b5ef1?utm_campaign=1055&utm_source=git)** | Edmond, OK | On Site | Dec 22 |
-| **[Acuity Insurance](http://www.acuity.com)** | **[Claims Intern](https://jobright.ai/jobs/info/694a414c187e565c6bfa4a60?utm_campaign=1055&utm_source=git)** | Sheboygan, WI | On Site | Dec 22 |
-| **[The New York Public Library](http://www.nypl.org)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/694a00a263141d1884598d58?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 22 |
-| **[X-energy](https://x-energy.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/694a111c7d506e3808f544b7?utm_campaign=1055&utm_source=git)** | Rockville, MD | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
