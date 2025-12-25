@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6933946c764507023d1b702a?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 25 |
+| **[Glencore](http://glencore.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6930f46efa28370be26b59c7?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 25 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/68d30ef68c62e63bc7fdd58f?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Legal - Intern](https://jobright.ai/jobs/info/694c5f935d7312113470d5db?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 24 |
 | **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Legal](https://jobright.ai/jobs/info/694c3df75d7312113470ac26?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 24 |
@@ -89,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Bronx County District Attorney Office](https://www.bronxda.nyc.gov/html/home/home.shtml)** | **[Law School Summer 2026 (1L) Intern](https://jobright.ai/jobs/info/692f37fffa28370be26a82b7?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Dec 24 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/694bb5aed64ebf28d8216449?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 24 |
 | ↳ | **[Compliance & Governance Intern](https://jobright.ai/jobs/info/694bb31f1a572a617dde01fa?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 24 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Legal Intern - Summer 2026 (Calhoun, Georgia, United States)](https://jobright.ai/jobs/info/694d039629655e4dd6571275?utm_campaign=1055&utm_source=git)** | Calhoun, GA | On Site | Dec 24 |
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Legal Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/694bbe41d64ebf28d8217221?utm_campaign=1055&utm_source=git)** | 200 North Walker, Oklahoma City, OK, 73102, US | On Site | Dec 24 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Legal Intern - Student Hourly](https://jobright.ai/jobs/info/694bac1b1a572a617dddff4f?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Dec 23 |
 | **[Symetra](http://www.symetra.com)** | **[2026 Law & Compliance Summer Associate Internship - Remote](https://jobright.ai/jobs/info/694b82151a572a617dddeac2?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Acuity Insurance](http://www.acuity.com)** | **[Claims Intern](https://jobright.ai/jobs/info/694a414c187e565c6bfa4a60?utm_campaign=1055&utm_source=git)** | Sheboygan, WI | On Site | Dec 22 |
 | **[The New York Public Library](http://www.nypl.org)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/694a00a263141d1884598d58?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[X-energy](https://x-energy.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/694a111c7d506e3808f544b7?utm_campaign=1055&utm_source=git)** | Rockville, MD | On Site | Dec 22 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Compliance & AML Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/694a021663141d18845991d0?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
