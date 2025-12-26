@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sunbelt Rentals, Inc.](https://www.sunbeltrentals.com)** | **[Legal Internship](https://jobright.ai/jobs/info/694366dedd382f5f5669708c?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | On Site | Dec 26 |
+| **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Legal Intern](https://jobright.ai/jobs/info/694edf4ece13cd1056571d06?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | Dec 26 |
+| **[National Center for Youth Law](http://youthlaw.org)** | **[2026 Summer Law and Policy Clerkships](https://jobright.ai/jobs/info/694ed418a2668b7f54521e2a?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 26 |
+| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/694ecf75a2668b7f54521da6?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 26 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Compliance/Regulatory](https://jobright.ai/jobs/info/694ec01129655e4dd6586510?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Dec 26 |
 | ↳ | **[Summer Internship, Compliance/Regulatory](https://jobright.ai/jobs/info/694eb99da2668b7f5451fee1?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Policy](https://jobright.ai/jobs/info/694e965b29655e4dd65843ab?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PGP Title](https://www.pgptitle.com)** | **[Escrow Intern - Summer 2026 (PGP Title)](https://jobright.ai/jobs/info/692e54b04c474121999d8773?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Dec 23 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Compliance and Risk Management](https://jobright.ai/jobs/info/693b6046b309e3780087216e?utm_campaign=1055&utm_source=git)** | Waltham, MA | Hybrid | Dec 23 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a71c7a37c712687d384c?utm_campaign=1055&utm_source=git)** | Stockton, CA | On Site | Dec 23 |
-| **[Oceaneering](http://www.oceaneering.com/)** | **[2026 Contracts Intern](https://jobright.ai/jobs/info/692e83b1ef4b48533d1404cc?utm_campaign=1055&utm_source=git)** | Hanover, MD | Hybrid | Dec 23 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Spring 2026/Summer 2026 Intern - Law - Sacramento, CA CLC](https://jobright.ai/jobs/info/692ec3f7ef4b48533d141272?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Dec 23 |
-| **[TowneBank](https://www.townebank.com/)** | **[Summer Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/692e14bdef4b48533d13c6a2?utm_campaign=1055&utm_source=git)** | Suffolk, VA | On Site | Dec 23 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Legal Tech Intern](https://jobright.ai/jobs/info/692e472f4c474121999d7efc?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
