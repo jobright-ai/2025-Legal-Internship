@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HARTING Technology Group](https://www.harting.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/694b86eb5d731211347021b8?utm_campaign=1055&utm_source=git)** | Elgin, IL | On Site | Dec 25 |
 | **[Fervo Energy](https://www.fervoenergy.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6930be964c474121999e8586?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 25 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/ Intern Volunteer](https://jobright.ai/jobs/info/6930de98fa28370be26b4b8d?utm_campaign=1055&utm_source=git)** | Grand Junction, CO | On Site | Dec 25 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/69009c56e04ac838fb5c3077?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Dec 25 |
@@ -134,8 +135,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Dec 23 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a5aa295f8e37655dffdb?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Dec 23 |
 | **[Hyundai Motor Company](https://www.hyundai.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/692e3c884c474121999d782a?utm_campaign=1055&utm_source=git)** | Fountain Valley, CA | On Site | Dec 23 |
-| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | Dec 23 |
-| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL | On Site | Dec 23 |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL | On Site | Dec 23 |
+| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | Dec 23 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7e7217a37c712687d6d3d?utm_campaign=1055&utm_source=git)** | West Deptford, NJ | On Site | Dec 23 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/68cc282416d00d2beeb1aef8?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Dec 23 |
 | **[PGP Title](https://www.pgptitle.com)** | **[Escrow Intern - Summer 2026 (PGP Title)](https://jobright.ai/jobs/info/692e54b04c474121999d8773?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Dec 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Intern - Law - Fort Lauderdale, FL CLC](https://jobright.ai/jobs/info/6949ffbf63141d1884598a2f?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 22 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- Legal Affairs](https://jobright.ai/jobs/info/6949f0a57d506e3808f50016?utm_campaign=1055&utm_source=git)** | Portland, ME | On Site | Dec 22 |
 | **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Graduate Intern Summer 2026 - Legal](https://jobright.ai/jobs/info/6949fe877d506e3808f513e8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 22 |
-| **[Skyward Specialty Insurance](https://www.skywardinsurance.com)** | **[2026 Summer Intern - Professional Liability Claims](https://jobright.ai/jobs/info/6949fb3c63141d1884597e77?utm_campaign=1055&utm_source=git)** | Remote - US | Remote | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
