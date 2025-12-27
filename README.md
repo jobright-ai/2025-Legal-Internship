@@ -88,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Sunbelt Rentals, Inc.](https://www.sunbeltrentals.com)** | **[Legal Internship](https://jobright.ai/jobs/info/694366dedd382f5f5669708c?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | On Site | Dec 26 |
 | **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Legal Intern](https://jobright.ai/jobs/info/694edf4ece13cd1056571d06?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | Dec 26 |
 | **[National Center for Youth Law](http://youthlaw.org)** | **[2026 Summer Law and Policy Clerkships](https://jobright.ai/jobs/info/694ed418a2668b7f54521e2a?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 26 |
-| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/694ecf75a2668b7f54521da6?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 26 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Compliance/Regulatory](https://jobright.ai/jobs/info/694ec01129655e4dd6586510?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Dec 26 |
 | ↳ | **[Summer Internship, Compliance/Regulatory](https://jobright.ai/jobs/info/694eb99da2668b7f5451fee1?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Policy](https://jobright.ai/jobs/info/694e965b29655e4dd65843ab?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[OceanFirst Bank](https://oceanfirst.com/)** | **[Department Intern - Operational Risk](https://jobright.ai/jobs/info/694b1d2e3019f50a4fe63573?utm_campaign=1055&utm_source=git)** | Red Bank, NJ | On Site | Dec 23 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/691545049c388539cbdf1fce?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Death Penalty Information Center](http://www.deathpenaltyinfo.org)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/694b3cc83019f50a4fe65d12?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
+| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Equity & Community Partnerships Legal Intern](https://jobright.ai/jobs/info/693a4146ac80bb5492bcc3bc?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
