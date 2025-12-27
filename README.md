@@ -85,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/68d0150afb49c96ca6eade34?utm_campaign=1055&utm_source=git)** | Richmond, VA | Hybrid | Dec 26 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Canada Compliance Intern – Financial Security (May-August 2026)](https://jobright.ai/jobs/info/69183b3c45fb6f5ead8a341c?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Dec 26 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69321a47d0010831497bf914?utm_campaign=1055&utm_source=git)** | Quincy, MA | On Site | Dec 26 |
-| **[HARTING Technology Group](https://www.harting.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/694b86eb5d731211347021b8?utm_campaign=1055&utm_source=git)** | Elgin, IL | On Site | Dec 25 |
 | **[Fervo Energy](https://www.fervoenergy.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6930be964c474121999e8586?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 25 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/ Intern Volunteer](https://jobright.ai/jobs/info/6930de98fa28370be26b4b8d?utm_campaign=1055&utm_source=git)** | Grand Junction, CO | On Site | Dec 25 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/69009c56e04ac838fb5c3077?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Dec 25 |
@@ -156,5 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/694afeb21224705e900214ff?utm_campaign=1055&utm_source=git)** | Wooster, OH | On Site | Dec 23 |
 | **[PACourts](http://www.pacourts.us)** | **[Legal Intern](https://jobright.ai/jobs/info/694add323019f50a4fe5f32e?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Dec 23 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Ray D’Uva Legal Services Intern, Community Justice Project](https://jobright.ai/jobs/info/694acbd167a69734cac5ea30?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Dec 23 |
-| **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Dispute Review Internship](https://jobright.ai/jobs/info/694b1db43019f50a4fe635bd?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
+| **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Risk Services Internship](https://jobright.ai/jobs/info/694b071467a69734cac6170f?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
+| ↳ | **[PREMIER Dispute Review Internship](https://jobright.ai/jobs/info/694b1db43019f50a4fe635bd?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
