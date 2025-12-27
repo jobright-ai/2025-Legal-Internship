@@ -57,13 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Paramount](https://www.paramount.com)** | **[Legal Affairs (JD/LLM) Internships Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/6933959f764507023d1b7147?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
+| **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Risk Management Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6916af8b9c388539cbdfdf87?utm_campaign=1055&utm_source=git)** | North Las Vegas, NV | On Site | Dec 27 |
+| **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Privacy](https://jobright.ai/jobs/info/69334da7a0dde7020e2ec621?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 27 |
+| **[Enterprise](https://www.enterprise.com)** | **[Vehicle Licensing Internship - Summer 2026](https://jobright.ai/jobs/info/693395e6a0dde7020e2ef689?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Dec 27 |
+| **[MBX Biosciences, Inc.](https://www.mbxbio.com)** | **[Regulatory Affairs Fellow](https://jobright.ai/jobs/info/6920423e3f782d2f1afc3f7e?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 27 |
+| **[Discovery Life Sciences](http://www.conversantbio.com/)** | **[Regulatory Intern - Spring or Summer](https://jobright.ai/jobs/info/6933b1d3f131d96e48466071?utm_campaign=1055&utm_source=git)** | Huntsville, AL | Hybrid | Dec 27 |
+| **[Savannah River National Laboratory](https://www.srnl.gov)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69336705f131d96e48462eb6?utm_campaign=1055&utm_source=git)** | Aiken, SC | On Site | Dec 27 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Office of the General Counsel Intern (OGC Intern) - Year-round](https://jobright.ai/jobs/info/69424b0e50bbaf76505446fe?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 27 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern, Federal Contracts - Campus 2026](https://jobright.ai/jobs/info/6916400a6f36db06ef05436a?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Dec 27 |
 | **[The Chemours Company](https://www.chemours.com)** | **[APM Product Stewardship and Regulatory Compliance Intern](https://jobright.ai/jobs/info/68c63d967d0db4114273718a?utm_campaign=1055&utm_source=git)** | New Castle County, DE | Hybrid | Dec 27 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Internship - Surety Division - Morristown, NJ/Hybrid](https://jobright.ai/jobs/info/6933219c764507023d1b26a7?utm_campaign=1055&utm_source=git)** | Morristown, NJ | Hybrid | Dec 27 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Subcontracts, Legal - Campus 2026](https://jobright.ai/jobs/info/694f42f8ce13cd105657708c?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Dec 26 |
-| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Litigation Intern for Legal Impact for Chickens](https://jobright.ai/jobs/info/694f1662a2668b7f54524d52?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 26 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Subcontracts, Legal - Campus 2026](https://jobright.ai/jobs/info/694f01f0a2668b7f54524a40?utm_campaign=1055&utm_source=git)** | US - VA, McLean | On Site | Dec 26 |
+| ↳ | **[Intern - Subcontracts, Legal - Campus 2026](https://jobright.ai/jobs/info/694f01f0a2668b7f54524a40?utm_campaign=1055&utm_source=git)** | US - VA, McLean | On Site | Dec 26 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efc31a2668b7f545248a6?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 26 |
 | ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efb95a2668b7f5452487b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Dec 26 |
 | ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efad6a2668b7f5452483c?utm_campaign=1055&utm_source=git)** | Montgomery, AL | Hybrid | Dec 26 |
@@ -138,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Legal Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/694bbe41d64ebf28d8217221?utm_campaign=1055&utm_source=git)** | 200 North Walker, Oklahoma City, OK, 73102, US | On Site | Dec 24 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Legal Intern - Student Hourly](https://jobright.ai/jobs/info/694bac1b1a572a617dddff4f?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Dec 23 |
 | **[Symetra](http://www.symetra.com)** | **[2026 Law & Compliance Summer Associate Internship - Remote](https://jobright.ai/jobs/info/694b82151a572a617dddeac2?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 23 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Legal Intern - Summer 2026 (Calhoun, Georgia, United States)](https://jobright.ai/jobs/info/694f4af229655e4dd658c3e2?utm_campaign=1055&utm_source=git)** | Calhoun, GA | On Site | Dec 23 |
 | **[Investment Company Institute](http://www.ici.org)** | **[Summer Law Intern](https://jobright.ai/jobs/info/694b41793019f50a4fe65eb3?utm_campaign=1055&utm_source=git)** | Washington, DC, US | Hybrid | Dec 23 |
 | ↳ | **[Summer Law Intern](https://jobright.ai/jobs/info/694b3caa3019f50a4fe65d05?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
 | **[KCI](http://www.kci.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/694b25603019f50a4fe63932?utm_campaign=1055&utm_source=git)** | Sparks, MD | On Site | Dec 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[2026 Summer Intern - Corporate Law (Hybrid - Raleigh, NC)](https://jobright.ai/jobs/info/68faef079e8e925ac6c87969?utm_campaign=1055&utm_source=git)** | Raleigh, NC | Hybrid | Dec 23 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Legal Intern (1L)](https://jobright.ai/jobs/info/694b16861224705e900232ee?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a72b7a37c712687d3884?utm_campaign=1055&utm_source=git)** | Union, OH | On Site | Dec 23 |
-| **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Governance, Risk, and Compliance (GRC) Intern](https://jobright.ai/jobs/info/694b132d1224705e90022c4d?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
-| **[ARKA Group, LP](https://arka.org)** | **[Contracts Intern - Year-Round {D}](https://jobright.ai/jobs/info/694b170b1224705e900233e7?utm_campaign=1055&utm_source=git)** | Danbury, CT | On Site | Dec 23 |
-| **[Campaign for the Fair Sentencing of Youth](https://cfsy.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/694aece61224705e90020783?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 23 |
-| **[Seaman Corporation](http://www.seamancorp.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/694b06c867a69734cac616bf?utm_campaign=1055&utm_source=git)** | Wooster, OH 44691, USA | On Site | Dec 23 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/694afeb21224705e900214ff?utm_campaign=1055&utm_source=git)** | Wooster, OH | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
