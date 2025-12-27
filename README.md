@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Litigation Intern for Legal Impact for Chickens](https://jobright.ai/jobs/info/694f1662a2668b7f54524d52?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Subcontracts, Legal - Campus 2026](https://jobright.ai/jobs/info/694f01f0a2668b7f54524a40?utm_campaign=1055&utm_source=git)** | US - VA, McLean | On Site | Dec 26 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efc31a2668b7f545248a6?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 26 |
 | ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efb95a2668b7f5452487b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Dec 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Dispute Review Internship](https://jobright.ai/jobs/info/694b1db43019f50a4fe635bd?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
 | ↳ | **[PREMIER Risk Services Internship](https://jobright.ai/jobs/info/694b071467a69734cac6170f?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a64d7796a83635f09901?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Dec 23 |
-| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
