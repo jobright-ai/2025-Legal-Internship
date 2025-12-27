@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/69504843ce13cd10565843be?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Dec 27 |
 | **[The Hoffman Firm](https://www.thehoffmanfirm.net)** | **[Legal Intern](https://jobright.ai/jobs/info/694fffc7a2668b7f545309d7?utm_campaign=1055&utm_source=git)** | North Miami, FL | On Site | Dec 27 |
 | **[Arvento A](arventoa.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/694ff7fcce13cd10565801b1?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Dec 27 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/694ff460ce13cd10565800c6?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Dec 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OceanFirst Bank](https://oceanfirst.com/)** | **[Department Intern - Operational Risk](https://jobright.ai/jobs/info/694b1d2e3019f50a4fe63573?utm_campaign=1055&utm_source=git)** | Red Bank, NJ | On Site | Dec 23 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/691545049c388539cbdf1fce?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Death Penalty Information Center](http://www.deathpenaltyinfo.org)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/694b3cc83019f50a4fe65d12?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
-| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Equity & Community Partnerships Legal Intern](https://jobright.ai/jobs/info/693a4146ac80bb5492bcc3bc?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
