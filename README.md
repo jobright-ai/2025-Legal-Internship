@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69514b28ce13cd105659030d?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Dec 28 |
+| **[Legal Aid Justice Center](https://www.justice4all.org)** | **[2026 Summer 2L Legal Intern](https://jobright.ai/jobs/info/69513580a2668b7f54540962?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Dec 28 |
+| ↳ | **[2026 Summer 1L Legal Intern](https://jobright.ai/jobs/info/69513508a2668b7f5454092c?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Dec 28 |
 | **[Sony](https://www.sony.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68fb9a62f55bb021a889ab7e?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 28 |
 | **[Teachers Federal Credit Union](http://www.teachersfcu.org)** | **[2026 Legal Intern](https://jobright.ai/jobs/info/6917e5eb45fb6f5ead89fa3b?utm_campaign=1055&utm_source=git)** | Hauppauge, NY | On Site | Dec 28 |
 | **[Rapiscan Systems](http://www.rapiscansystems.com/)** | **[Trade Compliance Intern - (Immediate hire)](https://jobright.ai/jobs/info/6917d76815b415636717c111?utm_campaign=1055&utm_source=git)** | Billerica, MA | On Site | Dec 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Legal Counsel Intern - Trusted Technology Group Accessibility Team](https://jobright.ai/jobs/info/692f88f84c474121999e038e?utm_campaign=1055&utm_source=git)** | Redmond, WA | On Site | Dec 24 |
 | **[IG Wealth Management](https://ig.ca)** | **[Summer Intern 2026 - Corporate Delivery (Legal, Compliance, real estate, Procurement, and EPMO)](https://jobright.ai/jobs/info/692f873e4c474121999e01fb?utm_campaign=1055&utm_source=git)** | Manitoba, Canada | Hybrid | Dec 24 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/692fac8eef4b48533d148102?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 24 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Contracts)](https://jobright.ai/jobs/info/692f7850ef4b48533d145c90?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Dec 24 |
-| **[Bronx County District Attorney Office](https://www.bronxda.nyc.gov/html/home/home.shtml)** | **[Law School Summer 2026 (1L) Intern](https://jobright.ai/jobs/info/692f37fffa28370be26a82b7?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Dec 24 |
-| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/694bb5aed64ebf28d8216449?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
