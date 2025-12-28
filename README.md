@@ -57,10 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/69504843ce13cd10565843be?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Dec 27 |
 | **[The Hoffman Firm](https://www.thehoffmanfirm.net)** | **[Legal Intern](https://jobright.ai/jobs/info/694fffc7a2668b7f545309d7?utm_campaign=1055&utm_source=git)** | North Miami, FL | On Site | Dec 27 |
-| **[Arvento A](arventoa.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/694ff7fcce13cd10565801b1?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Dec 27 |
-| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/694ff460ce13cd10565800c6?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Dec 27 |
 | **[Paramount](https://www.paramount.com)** | **[Legal Affairs (JD/LLM) Internships Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/69339a33a0dde7020e2ef923?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern II - Environmental Product Compliance and Sustainability](https://jobright.ai/jobs/info/6933a0ecf131d96e48465023?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Dec 27 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c6e5597d0db4114273b4f9?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Dec 27 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[OceanFirst Bank](https://oceanfirst.com/)** | **[Department Intern - Operational Risk](https://jobright.ai/jobs/info/694b1d2e3019f50a4fe63573?utm_campaign=1055&utm_source=git)** | Red Bank, NJ | On Site | Dec 23 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/691545049c388539cbdf1fce?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Death Penalty Information Center](http://www.deathpenaltyinfo.org)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/694b3cc83019f50a4fe65d12?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
+| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Equity & Community Partnerships Legal Intern](https://jobright.ai/jobs/info/693a4146ac80bb5492bcc3bc?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
+| **[Bond, Schoeneck & King PLLC](https://www.bsk.com/)** | **[Summer 2026 (1L) Law Clerk](https://jobright.ai/jobs/info/6908d7b74a1b456627af96bf?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | Dec 23 |
+| **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Settlement Intern](https://jobright.ai/jobs/info/69262c22d47de4798ecd53c5?utm_campaign=1055&utm_source=git)** | Lancaster, PA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
