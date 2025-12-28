@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Law Offices of Thiru Vignarajah](www.thirulaw.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69517fc029655e4dd65a6e7d?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Dec 28 |
 | **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Policy](https://jobright.ai/jobs/info/6944a1b594730b739877d137?utm_campaign=1055&utm_source=git)** | New York, Washington D.C., San Francisco | On Site | Dec 28 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69514b28ce13cd105659030d?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Dec 28 |
 | **[Legal Aid Justice Center](https://www.justice4all.org)** | **[2026 Summer 2L Legal Intern](https://jobright.ai/jobs/info/69513580a2668b7f54540962?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Dec 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Legal](https://jobright.ai/jobs/info/692f6167ef4b48533d144b9a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 24 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - AI & Legal Compliance (Summer 2026)](https://jobright.ai/jobs/info/692ee23fef4b48533d141838?utm_campaign=1055&utm_source=git)** | Garland, TX | On Site | Dec 24 |
 | **[Microsoft](https://www.microsoft.com)** | **[Legal Counsel Intern - Trusted Technology Group Accessibility Team](https://jobright.ai/jobs/info/692f88f84c474121999e038e?utm_campaign=1055&utm_source=git)** | Redmond, WA | On Site | Dec 24 |
-| **[IG Wealth Management](https://ig.ca)** | **[Summer Intern 2026 - Corporate Delivery (Legal, Compliance, real estate, Procurement, and EPMO)](https://jobright.ai/jobs/info/692f873e4c474121999e01fb?utm_campaign=1055&utm_source=git)** | Manitoba, Canada | Hybrid | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
