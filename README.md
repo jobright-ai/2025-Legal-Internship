@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship: Business & Legal Affairs Opportunities: (Multiple Locations: CA, DC, NY, FL)](https://jobright.ai/jobs/info/6945ab8263141d1884553914?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Dec 28 |
 | **[The Hoffman Firm](https://www.thehoffmanfirm.net)** | **[Legal Intern](https://jobright.ai/jobs/info/694fffc7a2668b7f545309d7?utm_campaign=1055&utm_source=git)** | North Miami, FL | On Site | Dec 27 |
 | **[Paramount](https://www.paramount.com)** | **[Legal Affairs (JD/LLM) Internships Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/69339a33a0dde7020e2ef923?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern II - Environmental Product Compliance and Sustainability](https://jobright.ai/jobs/info/6933a0ecf131d96e48465023?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Dec 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/691545049c388539cbdf1fce?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Death Penalty Information Center](http://www.deathpenaltyinfo.org)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/694b3cc83019f50a4fe65d12?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Equity & Community Partnerships Legal Intern](https://jobright.ai/jobs/info/693a4146ac80bb5492bcc3bc?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
-| **[Bond, Schoeneck & King PLLC](https://www.bsk.com/)** | **[Summer 2026 (1L) Law Clerk](https://jobright.ai/jobs/info/6908d7b74a1b456627af96bf?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
