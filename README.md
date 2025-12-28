@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Law Offices of Thiru Vignarajah](www.thirulaw.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69517fc029655e4dd65a6e7d?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Dec 28 |
 | **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Policy](https://jobright.ai/jobs/info/6944a1b594730b739877d137?utm_campaign=1055&utm_source=git)** | New York, Washington D.C., San Francisco | On Site | Dec 28 |
-| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69514b28ce13cd105659030d?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Dec 28 |
 | **[Legal Aid Justice Center](https://www.justice4all.org)** | **[2026 Summer 2L Legal Intern](https://jobright.ai/jobs/info/69513580a2668b7f54540962?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Dec 28 |
 | ↳ | **[2026 Summer 1L Legal Intern](https://jobright.ai/jobs/info/69513508a2668b7f5454092c?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Dec 28 |
 | **[Sony](https://www.sony.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68fb9a62f55bb021a889ab7e?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 28 |
@@ -90,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern, Federal Contracts - Campus 2026](https://jobright.ai/jobs/info/6916400a6f36db06ef05436a?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Dec 27 |
 | **[The Chemours Company](https://www.chemours.com)** | **[APM Product Stewardship and Regulatory Compliance Intern](https://jobright.ai/jobs/info/68c63d967d0db4114273718a?utm_campaign=1055&utm_source=git)** | New Castle County, DE | Hybrid | Dec 27 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Internship - Surety Division - Morristown, NJ/Hybrid](https://jobright.ai/jobs/info/6933219c764507023d1b26a7?utm_campaign=1055&utm_source=git)** | Morristown, NJ | Hybrid | Dec 27 |
-| **[HARTING Technology Group](https://www.harting.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/6950bc63ce13cd105658a8b8?utm_campaign=1055&utm_source=git)** | Elgin, IL | On Site | Dec 26 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Subcontracts, Legal - Campus 2026](https://jobright.ai/jobs/info/694f42f8ce13cd105657708c?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Dec 26 |
 | ↳ | **[Intern - Subcontracts, Legal - Campus 2026](https://jobright.ai/jobs/info/694f01f0a2668b7f54524a40?utm_campaign=1055&utm_source=git)** | US - VA, McLean | On Site | Dec 26 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efc31a2668b7f545248a6?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 26 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Legal](https://jobright.ai/jobs/info/692f6167ef4b48533d144b9a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 24 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - AI & Legal Compliance (Summer 2026)](https://jobright.ai/jobs/info/692ee23fef4b48533d141838?utm_campaign=1055&utm_source=git)** | Garland, TX | On Site | Dec 24 |
 | **[Microsoft](https://www.microsoft.com)** | **[Legal Counsel Intern - Trusted Technology Group Accessibility Team](https://jobright.ai/jobs/info/692f88f84c474121999e038e?utm_campaign=1055&utm_source=git)** | Redmond, WA | On Site | Dec 24 |
+| **[IG Wealth Management](https://ig.ca)** | **[Summer Intern 2026 - Corporate Delivery (Legal, Compliance, real estate, Procurement, and EPMO)](https://jobright.ai/jobs/info/692f873e4c474121999e01fb?utm_campaign=1055&utm_source=git)** | Manitoba, Canada | Hybrid | Dec 24 |
+| **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/692fac8eef4b48533d148102?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
