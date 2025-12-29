@@ -90,7 +90,8 @@ For a complete list, click the following sortable link below:
 | **[The Chemours Company](https://www.chemours.com)** | **[APM Product Stewardship and Regulatory Compliance Intern](https://jobright.ai/jobs/info/68c63d967d0db4114273718a?utm_campaign=1055&utm_source=git)** | New Castle County, DE | Hybrid | Dec 27 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Internship - Surety Division - Morristown, NJ/Hybrid](https://jobright.ai/jobs/info/6933219c764507023d1b26a7?utm_campaign=1055&utm_source=git)** | Morristown, NJ | Hybrid | Dec 27 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Subcontracts, Legal - Campus 2026](https://jobright.ai/jobs/info/694f42f8ce13cd105657708c?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Dec 26 |
-| ↳ | **[Intern - Subcontracts, Legal - Campus 2026](https://jobright.ai/jobs/info/694f01f0a2668b7f54524a40?utm_campaign=1055&utm_source=git)** | US - VA, McLean | On Site | Dec 26 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance - Core](https://jobright.ai/jobs/info/691753273ea85638ae1c9c09?utm_campaign=1055&utm_source=git)** | Greater São Paulo Area | On Site | Dec 26 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Subcontracts, Legal - Campus 2026](https://jobright.ai/jobs/info/694f01f0a2668b7f54524a40?utm_campaign=1055&utm_source=git)** | US - VA, McLean | On Site | Dec 26 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efc31a2668b7f545248a6?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 26 |
 | ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efb95a2668b7f5452487b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Dec 26 |
 | ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efad6a2668b7f5452483c?utm_campaign=1055&utm_source=git)** | Montgomery, AL | Hybrid | Dec 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - AI & Legal Compliance (Summer 2026)](https://jobright.ai/jobs/info/692ee23fef4b48533d141838?utm_campaign=1055&utm_source=git)** | Garland, TX | On Site | Dec 24 |
 | **[Microsoft](https://www.microsoft.com)** | **[Legal Counsel Intern - Trusted Technology Group Accessibility Team](https://jobright.ai/jobs/info/692f88f84c474121999e038e?utm_campaign=1055&utm_source=git)** | Redmond, WA | On Site | Dec 24 |
 | **[IG Wealth Management](https://ig.ca)** | **[Summer Intern 2026 - Corporate Delivery (Legal, Compliance, real estate, Procurement, and EPMO)](https://jobright.ai/jobs/info/692f873e4c474121999e01fb?utm_campaign=1055&utm_source=git)** | Manitoba, Canada | Hybrid | Dec 24 |
-| **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/692fac8eef4b48533d148102?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
