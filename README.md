@@ -57,15 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[New American Pathways](https://newamericanpathways.org)** | **[Immigration Intern](https://jobright.ai/jobs/info/6952bbe7935649778e208580?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Dec 29 |
+| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/6952ee505bb7de448ef60897?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Dec 29 |
 | **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6952b43e5bb7de448ef5cf2e?utm_campaign=1055&utm_source=git)** | Columbia, SC, United States | On Site | Dec 29 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6952aaddf1f8465b79e9ee1d?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 29 |
 | **[Burr & Forman](http://www.burr.com)** | **[2026 Pre-Law Intern](https://jobright.ai/jobs/info/6952a961935649778e2063ab?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Dec 29 |
-| **[Learntastic](https://learntastic.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69527bdd5bb7de448ef59836?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 29 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Regulatory Summer Internship / Mississauga, ON, Canada](https://jobright.ai/jobs/info/6918a703bcdbf3560c9d31d0?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Dec 29 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Intern Operational Risks - 2026](https://jobright.ai/jobs/info/69525fd7935649778e202d67?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Risk Management - FCRM Canada Reporting and Strategic Insights Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69524f2bf1f8465b79e9b47a?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| ↳ | **[Risk Management - High-Risk Customer Enhanced Due Diligence Team Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952438c5bb7de448ef56c3d?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| **[State Street](https://www.statestreet.com/)** | **[State Street Enterprise Risk Management - Market Risk Internship - Summer 2026](https://jobright.ai/jobs/info/6952e7b9f1f8465b79ea3742?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Dec 29 |
+| **[TD](https://www.td.com)** | **[Risk Management - High-Risk Customer Enhanced Due Diligence Team Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952438c5bb7de448ef56c3d?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Risk Management - Governance, Risk and Control Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952434b935649778e200ef6?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Governance & Control Analyst Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/695242ec5bb7de448ef569b5?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 29 |
 | ↳ | **[Risk Management - Compliance Transformation/Road to Strong Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695242ce5bb7de448ef56971?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
