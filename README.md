@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Learntastic](https://learntastic.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69527bdd5bb7de448ef59836?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 29 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Regulatory Summer Internship / Mississauga, ON, Canada](https://jobright.ai/jobs/info/6918a703bcdbf3560c9d31d0?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Dec 29 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Intern Operational Risks - 2026](https://jobright.ai/jobs/info/69525fd7935649778e202d67?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Risk Management - FCRM Canada Reporting and Strategic Insights Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69524f2bf1f8465b79e9b47a?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Legal Intern](https://jobright.ai/jobs/info/694edf4ece13cd1056571d06?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | Dec 26 |
 | **[National Center for Youth Law](http://youthlaw.org)** | **[2026 Summer Law and Policy Clerkships](https://jobright.ai/jobs/info/694ed418a2668b7f54521e2a?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 26 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Compliance/Regulatory](https://jobright.ai/jobs/info/694ec01129655e4dd6586510?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Dec 26 |
-| **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Policy](https://jobright.ai/jobs/info/694e965b29655e4dd65843ab?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
