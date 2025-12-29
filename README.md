@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TD](https://www.td.com)** | **[Risk Management - High-Risk Customer Enhanced Due Diligence Team Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952438c5bb7de448ef56c3d?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| **[Reckitt](https://www.reckitt.com)** | **[2026 Regulatory Summer Internship / Mississauga, ON, Canada](https://jobright.ai/jobs/info/6918a703bcdbf3560c9d31d0?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Dec 29 |
+| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Intern Operational Risks - 2026](https://jobright.ai/jobs/info/69525fd7935649778e202d67?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 29 |
+| **[TD](https://www.td.com)** | **[Risk Management - FCRM Canada Reporting and Strategic Insights Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69524f2bf1f8465b79e9b47a?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| ↳ | **[Risk Management - High-Risk Customer Enhanced Due Diligence Team Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952438c5bb7de448ef56c3d?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Risk Management - Governance, Risk and Control Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952434b935649778e200ef6?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Governance & Control Analyst Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/695242ec5bb7de448ef569b5?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 29 |
 | ↳ | **[Risk Management - Compliance Transformation/Road to Strong Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695242ce5bb7de448ef56971?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Center for Youth Law](http://youthlaw.org)** | **[2026 Summer Law and Policy Clerkships](https://jobright.ai/jobs/info/694ed418a2668b7f54521e2a?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 26 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Compliance/Regulatory](https://jobright.ai/jobs/info/694ec01129655e4dd6586510?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Dec 26 |
 | **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Policy](https://jobright.ai/jobs/info/694e965b29655e4dd65843ab?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 26 |
-| **[PACCAR Financial Corp.](https://www.paccarfinancial.com)** | **[PFC Contract Admin - Summer Internship 2026, Denton, TX](https://jobright.ai/jobs/info/69325ae9f131d96e4845b7a7?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Dec 26 |
-| **[Wärtsilä](http://www.wartsila.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/693248d0764507023d1ac9f3?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Dec 26 |
-| **[REV Federal Credit Union](https://www.revfcu.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6931f7f3fa28370be26bfefc?utm_campaign=1055&utm_source=git)** | Summerville, SC | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
