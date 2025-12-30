@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Robinhood](https://www.robinhood.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69375c3c1c1c2161c13f3529?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 30 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69374327a0dde7020e300a2f?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 30 |
+| **[Medpace](http://www.medpace.com)** | **[Regulatory Research Intern- Summer 2026](https://jobright.ai/jobs/info/6937c41e1c1c2161c13f967f?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Dec 30 |
+| **[KBRA](https://www.kbra.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/69378eb2aabec14a727c942d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 30 |
+| **[Robinhood](https://www.robinhood.com)** | **[Corporate and Commercial Legal Intern](https://jobright.ai/jobs/info/693743a41c1c2161c13f2280?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Dec 30 |
+| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/69373cb9a0dde7020e300521?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Dec 30 |
+| **[Take-Two Interactive](http://www.take2games.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69378fbca0dde7020e30424b?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 30 |
+| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[PIP Paralegal Intern](https://jobright.ai/jobs/info/69379b1d1c1c2161c13f63bc?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ | On Site | Dec 30 |
+| **[American Friends Service Committee](https://www.afsc.org/)** | **[Ray DUva Legal Services Intern, Community Justice Project](https://jobright.ai/jobs/info/6953a061935649778e2162a7?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Dec 30 |
 | **[Haemonetics](http://www.haemonetics.com)** | **[Contract Administration for Sales support for North America, Internship](https://jobright.ai/jobs/info/69539bea935649778e2161dd?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[IT Cybersecurity Compliance Intern](https://jobright.ai/jobs/info/69536bf2935649778e21358f?utm_campaign=1055&utm_source=git)** | Greater Houston | Hybrid | Dec 29 |
 | **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[Legal Intern (unpaid)](https://jobright.ai/jobs/info/69535d5e5bb7de448ef68330?utm_campaign=1055&utm_source=git)** | Michigan, United States | Remote | Dec 29 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Legal) - 2 Positions](https://jobright.ai/jobs/info/690cdb28221b890c2780074b?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Dec 28 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Compliance, Audit & Risk Management Summer Internship](https://jobright.ai/jobs/info/68ea0185cfc08e49089145d3?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Dec 28 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/68cdb92e1ad6b16f0289e426?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Dec 28 |
-| **[Pierce County](https://www.piercecountywa.gov/)** | **[Rule 9 - Legal Intern - Assigned Counsel](https://jobright.ai/jobs/info/695115fdce13cd105658dc01?utm_campaign=1055&utm_source=git)** | Greater Seattle Area | On Site | Dec 28 |
-| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship: Business & Legal Affairs Opportunities: (Multiple Locations: CA, DC, NY, FL)](https://jobright.ai/jobs/info/6945ab8263141d1884553914?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Dec 28 |
-| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/6950ff8429655e4dd65a28cb?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Dec 27 |
-| **[Paramount](https://www.paramount.com)** | **[Legal Affairs (JD/LLM) Internships Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/69339a33a0dde7020e2ef923?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 27 |
-| **[Dexcom](http://www.dexcom.com)** | **[Intern II - Environmental Product Compliance and Sustainability](https://jobright.ai/jobs/info/6933a0ecf131d96e48465023?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Dec 27 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c6e5597d0db4114273b4f9?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Dec 27 |
-| **[Enterprise](https://www.enterprise.com)** | **[Risk Management Internship - Summer 2026](https://jobright.ai/jobs/info/6933a1e4764507023d1b77b7?utm_campaign=1055&utm_source=git)** | St Louis, MO | Hybrid | Dec 27 |
-| **[Paramount](https://www.paramount.com)** | **[Legal Affairs (JD/LLM) Internships Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/6933959f764507023d1b7147?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
-| **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Risk Management Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6916af8b9c388539cbdfdf87?utm_campaign=1055&utm_source=git)** | North Las Vegas, NV | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
