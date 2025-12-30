@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Litigation Intern for Legal Impact for Chickens](https://jobright.ai/jobs/info/695311395bb7de448ef62253?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 29 |
+| **[Community Bank, N.A.](https://cbna.com/locations/naples)** | **[Intern](https://jobright.ai/jobs/info/695309c1f1f8465b79ea56f9?utm_campaign=1055&utm_source=git)** | DeWitt, NY | On Site | Dec 29 |
+| **[Haemonetics](http://www.haemonetics.com)** | **[Contract Administration for Sales support for North America, Internship](https://jobright.ai/jobs/info/69530645935649778e20cb47?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Dec 29 |
+| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - AML Compliance](https://jobright.ai/jobs/info/6952fd02935649778e20c787?utm_campaign=1055&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Dec 29 |
+| **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Office of General Council Intern](https://jobright.ai/jobs/info/6952fbf4935649778e20c6da?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 29 |
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/6952ee505bb7de448ef60897?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Dec 29 |
 | **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6952b43e5bb7de448ef5cf2e?utm_campaign=1055&utm_source=git)** | Columbia, SC, United States | On Site | Dec 29 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6952aaddf1f8465b79e9ee1d?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Subcontracts, Legal - Campus 2026](https://jobright.ai/jobs/info/694f01f0a2668b7f54524a40?utm_campaign=1055&utm_source=git)** | US - VA, McLean | On Site | Dec 26 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efc31a2668b7f545248a6?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Dec 26 |
 | ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efb95a2668b7f5452487b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Dec 26 |
-| ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efad6a2668b7f5452483c?utm_campaign=1055&utm_source=git)** | Montgomery, AL | Hybrid | Dec 26 |
-| ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efab629655e4dd65891a3?utm_campaign=1055&utm_source=git)** | New Orleans, LA | Hybrid | Dec 26 |
-| ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694ef96129655e4dd658911b?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Dec 26 |
-| ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694ef92fce13cd10565741de?utm_campaign=1055&utm_source=git)** | Jackson, MS | Hybrid | Dec 26 |
-| **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Legal Intern](https://jobright.ai/jobs/info/694ef5ada2668b7f54523f50?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
