@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[IT Cybersecurity Compliance Intern](https://jobright.ai/jobs/info/69536bf2935649778e21358f?utm_campaign=1055&utm_source=git)** | Greater Houston | Hybrid | Dec 29 |
 | **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[Legal Intern (unpaid)](https://jobright.ai/jobs/info/69535d5e5bb7de448ef68330?utm_campaign=1055&utm_source=git)** | Michigan, United States | Remote | Dec 29 |
 | **[LumoraX](lumorax.us)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/69535be35bb7de448ef68265?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 29 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Business Affairs Legal Intern](https://jobright.ai/jobs/info/6953565a935649778e211111?utm_campaign=1055&utm_source=git)** | Remote (United States) | Remote | Dec 29 |
+| **[GoldenGate Lawyers](http://goldengatelawyers.com/)** | **[articling law student](https://jobright.ai/jobs/info/6953774e5bb7de448ef68cf2?utm_campaign=1055&utm_source=git)** | Niagara Falls, Ontario, Canada | On Site | Dec 29 |
 | **[Compeer Financial](https://compeer.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69534f80935649778e210d9f?utm_campaign=1055&utm_source=git)** | Sun Prairie, WI | Hybrid | Dec 29 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69534ca25bb7de448ef65e80?utm_campaign=1055&utm_source=git)** | Lakeville, MN | Hybrid | Dec 29 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/695342e8935649778e2105a6?utm_campaign=1055&utm_source=git)** | Naperville, IL | Hybrid | Dec 29 |
@@ -75,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Office of General Council Intern](https://jobright.ai/jobs/info/6952fbf4935649778e20c6da?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 29 |
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/6952ee505bb7de448ef60897?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Dec 29 |
 | **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Legal Intern, Summer 2026 Legal Intern, Policy and Government Affairs, Immigration - National Political Advocacy Department](https://jobright.ai/jobs/info/69533ad35bb7de448ef65231?utm_campaign=1055&utm_source=git)** | Remote/Hybrid- Washington D.C. | Remote | Dec 29 |
+| **[Validity Inc.](https://www.validity.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6952c30a5bb7de448ef5dbdb?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Dec 29 |
 | **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6952b43e5bb7de448ef5cf2e?utm_campaign=1055&utm_source=git)** | Columbia, SC, United States | On Site | Dec 29 |
 | **[Burr & Forman](http://www.burr.com)** | **[2026 Pre-Law Intern](https://jobright.ai/jobs/info/6952a961935649778e2063ab?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Dec 29 |
 | **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Legal Intern, Program on Freedom of Religion and Belief](https://jobright.ai/jobs/info/695338b35bb7de448ef65027?utm_campaign=1055&utm_source=git)** | Washington D.C. | Hybrid | Dec 29 |
@@ -133,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[State Street](https://www.statestreet.com/)** | **[State Street Enterprise Risk Management - Market Risk Internship - Summer 2026](https://jobright.ai/jobs/info/6951f94829655e4dd65ac596?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts | On Site | Dec 28 |
 | **[Law Offices of Thiru Vignarajah](www.thirulaw.com)** | **[Legal Fellow](https://jobright.ai/jobs/info/6951f1e2ce13cd1056597460?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Dec 28 |
 | **[AppBuddy](http://www.appbuddy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69531619f1f8465b79ea5b04?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Dec 28 |
-| **[Validity Inc.](https://www.validity.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6952b2ccf1f8465b79ea0361?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Dec 28 |
 | **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6952cc085bb7de448ef5e038?utm_campaign=1055&utm_source=git)** | Columbia, SC | On Site | Dec 28 |
 | **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Policy](https://jobright.ai/jobs/info/6944a1b594730b739877d137?utm_campaign=1055&utm_source=git)** | New York, Washington D.C., San Francisco | On Site | Dec 28 |
 | **[Legal Aid Justice Center](https://www.justice4all.org)** | **[2026 Summer 2L Legal Intern](https://jobright.ai/jobs/info/69513580a2668b7f54540962?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Dec 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Risk Management Internship - Summer 2026](https://jobright.ai/jobs/info/6933a1e4764507023d1b77b7?utm_campaign=1055&utm_source=git)** | St Louis, MO | Hybrid | Dec 27 |
 | **[Paramount](https://www.paramount.com)** | **[Legal Affairs (JD/LLM) Internships Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/6933959f764507023d1b7147?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Risk Management Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6916af8b9c388539cbdfdf87?utm_campaign=1055&utm_source=git)** | North Las Vegas, NV | On Site | Dec 27 |
-| **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Privacy](https://jobright.ai/jobs/info/69334da7a0dde7020e2ec621?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 27 |
-| **[Enterprise](https://www.enterprise.com)** | **[Vehicle Licensing Internship - Summer 2026](https://jobright.ai/jobs/info/693395e6a0dde7020e2ef689?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
