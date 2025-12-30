@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Bankruptcy Internship](https://jobright.ai/jobs/info/6945f8da7d506e3808f13a13?utm_campaign=1055&utm_source=git)** | Maryville, TN | On Site | Dec 30 |
 | **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/694481d3dd382f5f566aae5a?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Dec 30 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/6953fcca5bb7de448ef6e9be?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Dec 30 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Legal Assistant](https://jobright.ai/jobs/info/6953f28af1f8465b79eb1e5c?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Dec 30 |
@@ -142,11 +143,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Management - TD Insurance Compliance Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69522231ce13cd105659a6e6?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
 | ↳ | **[Risk Management - High-Risk Customer Enhanced Due Diligence Team Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69522219ce13cd105659a6e0?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
 | ↳ | **[Control Partner Testing Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/69522202ce13cd105659a6db?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
-| ↳ | **[Risk Management - FCRM Enterprise Risk Assessment Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695221dea2668b7f5454b0a3?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
 | **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Legal Intern, Speech, Privacy and Technology Project](https://jobright.ai/jobs/info/69533b6b5bb7de448ef652d4?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Dec 28 |
 | **[TD](https://www.td.com)** | **[Risk Management - TD Insurance Compliance Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69521686a2668b7f5454acd5?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 | ↳ | **[Financial Crime Risk Management Intern / FCRM Enterprise Risk Assessment (Summer 2026)](https://jobright.ai/jobs/info/69521682a2668b7f5454acd4?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
-| ↳ | **[Risk Management - FCRM Enterprise Risk Assessment Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952162da2668b7f5454acb7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 | ↳ | **[Risk Management - FCRM (Global Sanctions & ABAC) Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69521616a2668b7f5454acb1?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 | ↳ | **[Control Partner Testing Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952160729655e4dd65aeee7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
 | ↳ | **[Risk Management - Transformation, Enablement & Customer Experience and Platforms & Technology (TECE-P) Compliance Intern/Co-Op ( Summer 2026)](https://jobright.ai/jobs/info/695215fc29655e4dd65aeee4?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Management - Data Risk Management Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695214fd29655e4dd65aee85?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 | ↳ | **[Risk Management - Compliance Transformation/Road to Strong Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695214cace13cd105659a2ba?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 | ↳ | **[Risk Management - TD Securities Operational Risk Management Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69521490ce13cd105659a2ac?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
+| ↳ | **[Risk Management - Business Intelligence (Enterprise Conduct, Insider and Fraud Risk Management) Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69521487ce13cd105659a2aa?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
