@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[Intern](https://jobright.ai/jobs/info/6954e74c9f1b381eb26e505e?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | Dec 31 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Dec 30 |
 | **[Matanuska-Susitna Borough](https://matsugov.us)** | **[Legal Intern - Summer Assignment](https://jobright.ai/jobs/info/6954766f5bb7de448ef7637c?utm_campaign=1055&utm_source=git)** | Palmer, AK | On Site | Dec 30 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Litigation Intern for Legal Impact for Chickens](https://jobright.ai/jobs/info/695458b5aa05c26e7aaed630?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Management - ORM Process Risk Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952156f29655e4dd65aeeae?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 | ↳ | **[Risk Management - High-Risk Customer Enhanced Due Diligence Team Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952152c29655e4dd65aee97?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 | ↳ | **[Risk Management - Data Risk Management Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695214fd29655e4dd65aee85?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
-| ↳ | **[Risk Management - Compliance Transformation/Road to Strong Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695214cace13cd105659a2ba?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
