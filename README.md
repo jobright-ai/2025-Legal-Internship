@@ -100,7 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Business Affairs Legal Intern](https://jobright.ai/jobs/info/6953565a935649778e211111?utm_campaign=1055&utm_source=git)** | Remote (United States) | Remote | Dec 29 |
 | **[GoldenGate Lawyers](http://goldengatelawyers.com/)** | **[articling law student](https://jobright.ai/jobs/info/6953774e5bb7de448ef68cf2?utm_campaign=1055&utm_source=git)** | Niagara Falls, Ontario, Canada | On Site | Dec 29 |
 | **[Compeer Financial](https://compeer.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69534f80935649778e210d9f?utm_campaign=1055&utm_source=git)** | Sun Prairie, WI | Hybrid | Dec 29 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69534ca25bb7de448ef65e80?utm_campaign=1055&utm_source=git)** | Lakeville, MN | Hybrid | Dec 29 |
+| **[State Street](https://www.statestreet.com/)** | **[State Street Enterprise Risk Management - Market Risk Internship - Summer 2026](https://jobright.ai/jobs/info/6954aa6ff1f8465b79ebd319?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Dec 29 |
+| **[Compeer Financial](https://compeer.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69534ca25bb7de448ef65e80?utm_campaign=1055&utm_source=git)** | Lakeville, MN | Hybrid | Dec 29 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/695342e8935649778e2105a6?utm_campaign=1055&utm_source=git)** | Naperville, IL | Hybrid | Dec 29 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/695341bd935649778e210538?utm_campaign=1055&utm_source=git)** | Johnston, IA | Hybrid | Dec 29 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/692fac8eef4b48533d148102?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Management - ORM Process Risk Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952156f29655e4dd65aeeae?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 | ↳ | **[Risk Management - High-Risk Customer Enhanced Due Diligence Team Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952152c29655e4dd65aee97?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 | ↳ | **[Risk Management - Data Risk Management Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695214fd29655e4dd65aee85?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
-| ↳ | **[Risk Management - Compliance Transformation/Road to Strong Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695214cace13cd105659a2ba?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
