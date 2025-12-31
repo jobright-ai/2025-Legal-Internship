@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentSphere Global](talentsphereglobal.us)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6955451faa05c26e7aafa31a?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 31 |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69553c28aa05c26e7aafa125?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Dec 31 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Risk Management - Fraud](https://jobright.ai/jobs/info/6955332caa05c26e7aaf9e5a?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Dec 31 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/68c9550995f5211cd2cefafc?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Dec 31 |
 | **[Kimball Electronics](http://www.kimballelectronics.com)** | **[Legal Analyst Intern](https://jobright.ai/jobs/info/68ec9fa7c26b9574506f56d7?utm_campaign=1055&utm_source=git)** | Jasper, IN | Hybrid | Dec 31 |
 | **[ADM](http://www.adm.com)** | **[ADMIS Compliance Intern - Chicago IL](https://jobright.ai/jobs/info/694771d67d506e3808f2b60b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Dec 31 |
+| **[International Justice Mission](http://www.ijm.org)** | **[Legal Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6938d930aabec14a727dc47e?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 31 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6938e20aa0dde7020e3180b7?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Dec 31 |
 | **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Law Clerk - Internship](https://jobright.ai/jobs/info/68fe5bece04ac838fb5b407c?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | Hybrid | Dec 31 |
 | **[Nexteer Automotive](http://www.nexteer.com/)** | **[Intellectual Property Counsel Internship 2025](https://jobright.ai/jobs/info/691e49ec09cc522e8773897b?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | Hybrid | Dec 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Legal Intern, Speech, Privacy and Technology Project](https://jobright.ai/jobs/info/69533b6b5bb7de448ef652d4?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Dec 28 |
 | **[TD](https://www.td.com)** | **[Risk Management - TD Insurance Compliance Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69521686a2668b7f5454acd5?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 | ↳ | **[Financial Crime Risk Management Intern / FCRM Enterprise Risk Assessment (Summer 2026)](https://jobright.ai/jobs/info/69521682a2668b7f5454acd4?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
-| ↳ | **[Risk Management - FCRM (Global Sanctions & ABAC) Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69521616a2668b7f5454acb1?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
-| ↳ | **[Control Partner Testing Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952160729655e4dd65aeee7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
-| ↳ | **[Risk Management - Transformation, Enablement & Customer Experience and Platforms & Technology (TECE-P) Compliance Intern/Co-Op ( Summer 2026)](https://jobright.ai/jobs/info/695215fc29655e4dd65aeee4?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
-| ↳ | **[Risk Management - FCRM Canada Reporting and Strategic Insights Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695215cf29655e4dd65aeed2?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
