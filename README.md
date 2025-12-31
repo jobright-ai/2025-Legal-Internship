@@ -57,16 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ADM](http://www.adm.com)** | **[ADMIS Compliance Intern - Chicago IL](https://jobright.ai/jobs/info/694771d67d506e3808f2b60b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Dec 31 |
+| **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6938e20aa0dde7020e3180b7?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Dec 31 |
+| **[Nexteer Automotive](http://www.nexteer.com/)** | **[Intellectual Property Counsel Internship 2025](https://jobright.ai/jobs/info/691e49ec09cc522e8773897b?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | Hybrid | Dec 31 |
 | **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[Intern](https://jobright.ai/jobs/info/6954e74c9f1b381eb26e505e?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | Dec 31 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Dec 30 |
 | **[Matanuska-Susitna Borough](https://matsugov.us)** | **[Legal Intern - Summer Assignment](https://jobright.ai/jobs/info/6954766f5bb7de448ef7637c?utm_campaign=1055&utm_source=git)** | Palmer, AK | On Site | Dec 30 |
-| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Litigation Intern for Legal Impact for Chickens](https://jobright.ai/jobs/info/695458b5aa05c26e7aaed630?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 30 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Legal Affairs Intern](https://jobright.ai/jobs/info/695454ab5bb7de448ef74d90?utm_campaign=1055&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 30 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Legal Assistant](https://jobright.ai/jobs/info/695444dfaa05c26e7aaec69f?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Dec 30 |
 | **[Washington Commanders](http://www.commanders.com/)** | **[Legal & Business Affairs Internship](https://jobright.ai/jobs/info/69543feaf1f8465b79eb605c?utm_campaign=1055&utm_source=git)** | Riverdale, MD | On Site | Dec 30 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Bankruptcy Internship](https://jobright.ai/jobs/info/6945f8da7d506e3808f13a13?utm_campaign=1055&utm_source=git)** | Maryville, TN | On Site | Dec 30 |
 | **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/694481d3dd382f5f566aae5a?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Dec 30 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/6953fcca5bb7de448ef6e9be?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Dec 30 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Legal Assistant](https://jobright.ai/jobs/info/6953f28af1f8465b79eb1e5c?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Dec 30 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/6937830caabec14a727c8d3f?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Dec 30 |
 | ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/6937771d1c1c2161c13f4c6d?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 30 |
 | ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/69378191aabec14a727c8c5a?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Dec 30 |
@@ -93,7 +95,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/69373cb9a0dde7020e300521?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Dec 30 |
 | **[Take-Two Interactive](http://www.take2games.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69378fbca0dde7020e30424b?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 30 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[PIP Paralegal Intern](https://jobright.ai/jobs/info/69379b1d1c1c2161c13f63bc?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ | On Site | Dec 30 |
-| **[American Friends Service Committee](https://www.afsc.org/)** | **[Ray DUva Legal Services Intern, Community Justice Project](https://jobright.ai/jobs/info/6953a061935649778e2162a7?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Dec 30 |
 | **[Haemonetics](http://www.haemonetics.com)** | **[Contract Administration for Sales support for North America, Internship](https://jobright.ai/jobs/info/69539bea935649778e2161dd?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[IT Cybersecurity Compliance Intern](https://jobright.ai/jobs/info/69536bf2935649778e21358f?utm_campaign=1055&utm_source=git)** | Greater Houston | Hybrid | Dec 29 |
 | **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[Legal Intern (unpaid)](https://jobright.ai/jobs/info/69535d5e5bb7de448ef68330?utm_campaign=1055&utm_source=git)** | Michigan, United States | Remote | Dec 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Management - Model Monitoring Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69521595a2668b7f5454ac8b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 | ↳ | **[Risk Management - ORM Process Risk Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952156f29655e4dd65aeeae?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 | ↳ | **[Risk Management - High-Risk Customer Enhanced Due Diligence Team Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952152c29655e4dd65aee97?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
-| ↳ | **[Risk Management - Data Risk Management Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695214fd29655e4dd65aee85?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
