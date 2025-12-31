@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Litigation Intern for Legal Impact for Chickens](https://jobright.ai/jobs/info/695458b5aa05c26e7aaed630?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 30 |
+| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Legal Affairs Intern](https://jobright.ai/jobs/info/695454ab5bb7de448ef74d90?utm_campaign=1055&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 30 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Legal Assistant](https://jobright.ai/jobs/info/695444dfaa05c26e7aaec69f?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Dec 30 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/695443ce5bb7de448ef73de8?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Dec 30 |
 | **[Washington Commanders](http://www.commanders.com/)** | **[Legal & Business Affairs Internship](https://jobright.ai/jobs/info/69543feaf1f8465b79eb605c?utm_campaign=1055&utm_source=git)** | Riverdale, MD | On Site | Dec 30 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Bankruptcy Internship](https://jobright.ai/jobs/info/6945f8da7d506e3808f13a13?utm_campaign=1055&utm_source=git)** | Maryville, TN | On Site | Dec 30 |
 | **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/694481d3dd382f5f566aae5a?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Dec 30 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/6953fcca5bb7de448ef6e9be?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Dec 30 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Legal Assistant](https://jobright.ai/jobs/info/6953f28af1f8465b79eb1e5c?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Dec 30 |
 | **[Faclon Labs](http://faclon.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/6953d811aa05c26e7aae65a2?utm_campaign=1055&utm_source=git)** | United States | Remote | Dec 30 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/6937830caabec14a727c8d3f?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Dec 30 |
 | ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/6937771d1c1c2161c13f4c6d?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Management - High-Risk Customer Enhanced Due Diligence Team Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952152c29655e4dd65aee97?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 | ↳ | **[Risk Management - Data Risk Management Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695214fd29655e4dd65aee85?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 | ↳ | **[Risk Management - Compliance Transformation/Road to Strong Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695214cace13cd105659a2ba?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
-| ↳ | **[Risk Management - TD Securities Operational Risk Management Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69521490ce13cd105659a2ac?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
-| ↳ | **[Risk Management - Business Intelligence (Enterprise Conduct, Insider and Fraud Risk Management) Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69521487ce13cd105659a2aa?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
