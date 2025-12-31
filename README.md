@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DC Water](https://dcwater.com/)** | **[500006-148:Summer Intern, Compliance](https://jobright.ai/jobs/info/69555c409f1b381eb26eae1a?utm_campaign=1055&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | Hybrid | Dec 31 |
 | **[TalentSphere Global](talentsphereglobal.us)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6955451faa05c26e7aafa31a?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 31 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69553c28aa05c26e7aafa125?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Dec 31 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Risk Management - Fraud](https://jobright.ai/jobs/info/6955332caa05c26e7aaf9e5a?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Dec 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Control Partner Testing Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/69522202ce13cd105659a6db?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
 | **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Legal Intern, Speech, Privacy and Technology Project](https://jobright.ai/jobs/info/69533b6b5bb7de448ef652d4?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Dec 28 |
 | **[TD](https://www.td.com)** | **[Risk Management - TD Insurance Compliance Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69521686a2668b7f5454acd5?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
-| ↳ | **[Financial Crime Risk Management Intern / FCRM Enterprise Risk Assessment (Summer 2026)](https://jobright.ai/jobs/info/69521682a2668b7f5454acd4?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
