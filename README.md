@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CableLabs](http://cablelabs.com)** | **[SUMMER INTERNSHIP: Legal Intern](https://jobright.ai/jobs/info/69558d86aa05c26e7aafd41c?utm_campaign=1055&utm_source=git)** | Louisville, CO | Remote | Dec 31 |
+| **[Kennedy Capital Management](http://www.kennedycapital.com)** | **[Compliance Analyst Intern](https://jobright.ai/jobs/info/695597e09f1b381eb26ed4cb?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Dec 31 |
 | **[DC Water](https://dcwater.com/)** | **[303000-015:Summer Intern, Procurement-Contract Compliance](https://jobright.ai/jobs/info/695560ae9f1b381eb26ebdcb?utm_campaign=1055&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | Hybrid | Dec 31 |
 | ↳ | **[500006-148:Summer Intern, Compliance](https://jobright.ai/jobs/info/69555c409f1b381eb26eae1a?utm_campaign=1055&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | Hybrid | Dec 31 |
 | **[TalentSphere Global](talentsphereglobal.us)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6955451faa05c26e7aafa31a?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 31 |
@@ -73,11 +75,11 @@ For a complete list, click the following sortable link below:
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Dec 30 |
 | **[Matanuska-Susitna Borough](https://matsugov.us)** | **[Legal Intern - Summer Assignment](https://jobright.ai/jobs/info/6954766f5bb7de448ef7637c?utm_campaign=1055&utm_source=git)** | Palmer, AK | On Site | Dec 30 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Legal Affairs Intern](https://jobright.ai/jobs/info/695454ab5bb7de448ef74d90?utm_campaign=1055&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 30 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Legal Assistant](https://jobright.ai/jobs/info/695444dfaa05c26e7aaec69f?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Dec 30 |
 | **[Washington Commanders](http://www.commanders.com/)** | **[Legal & Business Affairs Internship](https://jobright.ai/jobs/info/69543feaf1f8465b79eb605c?utm_campaign=1055&utm_source=git)** | Riverdale, MD | On Site | Dec 30 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Bankruptcy Internship](https://jobright.ai/jobs/info/6945f8da7d506e3808f13a13?utm_campaign=1055&utm_source=git)** | Maryville, TN | On Site | Dec 30 |
 | **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/694481d3dd382f5f566aae5a?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Dec 30 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/6953fcca5bb7de448ef6e9be?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Dec 30 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Legal Assistant](https://jobright.ai/jobs/info/6953f28af1f8465b79eb1e5c?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Dec 30 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/6937830caabec14a727c8d3f?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Dec 30 |
 | ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/6937771d1c1c2161c13f4c6d?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 30 |
 | ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/69378191aabec14a727c8c5a?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Dec 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Management - FCRM, Global Sanctions & ABAC (GSA), Centralized Sanctions Group (CSG) Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69522245ce13cd105659a6eb?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
 | ↳ | **[Risk Management - TD Insurance Compliance Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69522231ce13cd105659a6e6?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
 | ↳ | **[Risk Management - High-Risk Customer Enhanced Due Diligence Team Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69522219ce13cd105659a6e0?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
-| ↳ | **[Control Partner Testing Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/69522202ce13cd105659a6db?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
-| **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Legal Intern, Speech, Privacy and Technology Project](https://jobright.ai/jobs/info/69533b6b5bb7de448ef652d4?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
