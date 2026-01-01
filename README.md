@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PacLease - PACCAR Leasing Company](http://paclease.com/)** | **[Contract Administrator - Summer Internship 2026](https://jobright.ai/jobs/info/695681929f1b381eb26fc169?utm_campaign=1055&utm_source=git)** | Bellevue, WA | On Site | Jan 01 |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: SBUs and R&D Legal Intern](https://jobright.ai/jobs/info/693a17c848a8ce22990e16fc?utm_campaign=1055&utm_source=git)** | Cambridge, MA | Hybrid | Jan 01 |
 | **[Grammarly](https://www.grammarly.com/jobs/)** | **[Privacy Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/691d08e4ff7024498416d2bf?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 01 |
 | ↳ | **[Corporate Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/691d052b22a2cb4b9bd1fe10?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 01 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Asset Management Compliance](https://jobright.ai/jobs/info/6939fef5ac80bb5492bc7b06?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 01 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[Contracts Analyst Intern Summer2026](https://jobright.ai/jobs/info/693a793c48a8ce22990e73ac?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Jan 01 |
+| **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/692283bbc0cefa13343d80d7?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jan 01 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693a3744ac80bb5492bcbd7b?utm_campaign=1055&utm_source=git)** | Timonium, MD | On Site | Jan 01 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69013e89f8ce7a040fdbe008?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 01 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/693ced15aa598a08c3edaddb?utm_campaign=1055&utm_source=git)** | East Syracuse, NY | On Site | Jan 01 |
@@ -71,7 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69424a6850bbaf76505444c6?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Jan 01 |
 | **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Drug Product Supply Risk Management](https://jobright.ai/jobs/info/68fee8b3e0c73b3a11198652?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Jan 01 |
 | **[Travelers](https://www.travelers.com)** | **[Risk Control Property Intern](https://jobright.ai/jobs/info/68fb397f3c99cc1d96029e28?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Jan 01 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a373848a8ce22990e30df?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 01 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a42c4ac80bb5492bcc47a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 01 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/694768dd7d506e3808f2b195?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Jan 01 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/6955efa4aa05c26e7ab0281d?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 01 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern – Go to Market Legal](https://jobright.ai/jobs/info/68e44a43b99ec3563b0e8c3c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 01 |
@@ -99,10 +102,10 @@ For a complete list, click the following sortable link below:
 | **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[Intern](https://jobright.ai/jobs/info/6954e74c9f1b381eb26e505e?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | Dec 31 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Dec 30 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Legal Affairs Intern](https://jobright.ai/jobs/info/695454ab5bb7de448ef74d90?utm_campaign=1055&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 30 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Legal Assistant](https://jobright.ai/jobs/info/695444dfaa05c26e7aaec69f?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Dec 30 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Bankruptcy Internship](https://jobright.ai/jobs/info/6945f8da7d506e3808f13a13?utm_campaign=1055&utm_source=git)** | Maryville, TN | On Site | Dec 30 |
 | **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/694481d3dd382f5f566aae5a?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Dec 30 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/6953fcca5bb7de448ef6e9be?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Dec 30 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Legal Assistant](https://jobright.ai/jobs/info/6953f28af1f8465b79eb1e5c?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Dec 30 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/6937830caabec14a727c8d3f?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Dec 30 |
 | ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/6937771d1c1c2161c13f4c6d?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 30 |
 | ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/69378191aabec14a727c8c5a?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Dec 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Legal Intern, Program on Freedom of Religion and Belief](https://jobright.ai/jobs/info/695338b35bb7de448ef65027?utm_campaign=1055&utm_source=git)** | Washington D.C. | Hybrid | Dec 29 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Regulatory Summer Internship / Mississauga, ON, Canada](https://jobright.ai/jobs/info/6918a703bcdbf3560c9d31d0?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Dec 29 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Intern Operational Risks - 2026](https://jobright.ai/jobs/info/69525fd7935649778e202d67?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 29 |
-| **[TD](https://www.td.com)** | **[Risk Management - FCRM Canada Reporting and Strategic Insights Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69524f2bf1f8465b79e9b47a?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| ↳ | **[Risk Management - High-Risk Customer Enhanced Due Diligence Team Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952438c5bb7de448ef56c3d?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| ↳ | **[Governance & Control Analyst Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/695242ec5bb7de448ef569b5?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
