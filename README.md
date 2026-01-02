@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: SBUs and R&D Legal Intern](https://jobright.ai/jobs/info/693a17c848a8ce22990e16fc?utm_campaign=1055&utm_source=git)** | Cambridge, MA | Hybrid | Jan 01 |
 | **[Grammarly](https://www.grammarly.com/jobs/)** | **[Privacy Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/691d08e4ff7024498416d2bf?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 01 |
 | ↳ | **[Corporate Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/691d052b22a2cb4b9bd1fe10?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 01 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Legal Tech Intern](https://jobright.ai/jobs/info/6956979ff1f8465b79ed8560?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Jan 01 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Asset Management Compliance](https://jobright.ai/jobs/info/6939fef5ac80bb5492bc7b06?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 01 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[Contracts Analyst Intern Summer2026](https://jobright.ai/jobs/info/693a793c48a8ce22990e73ac?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Jan 01 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/692283bbc0cefa13343d80d7?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jan 01 |
@@ -76,8 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69424a6850bbaf76505444c6?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Jan 01 |
 | **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Drug Product Supply Risk Management](https://jobright.ai/jobs/info/68fee8b3e0c73b3a11198652?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Jan 01 |
 | **[Travelers](https://www.travelers.com)** | **[Risk Control Property Intern](https://jobright.ai/jobs/info/68fb397f3c99cc1d96029e28?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Jan 01 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a42c4ac80bb5492bcc47a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 01 |
-| ↳ | **[Intern, Legal](https://jobright.ai/jobs/info/693a373848a8ce22990e30df?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 01 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a373848a8ce22990e30df?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 01 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/694768dd7d506e3808f2b195?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Jan 01 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/6955efa4aa05c26e7ab0281d?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 01 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern – Go to Market Legal](https://jobright.ai/jobs/info/68e44a43b99ec3563b0e8c3c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 01 |
@@ -147,7 +145,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/695342e8935649778e2105a6?utm_campaign=1055&utm_source=git)** | Naperville, IL | Hybrid | Dec 29 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/695341bd935649778e210538?utm_campaign=1055&utm_source=git)** | Johnston, IA | Hybrid | Dec 29 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/692fac8eef4b48533d148102?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 29 |
-| **[Hays County](http://hayscountytx.com)** | **[County Court at Law Intern](https://jobright.ai/jobs/info/69532b93935649778e20f36e?utm_campaign=1055&utm_source=git)** | San Marcos, TX | On Site | Dec 29 |
 | **[BronxWorks](https://bronxworks.org/)** | **[Tenant Defense Summer intern](https://jobright.ai/jobs/info/69532957f1f8465b79ea7bdb?utm_campaign=1055&utm_source=git)** | Bronx, NY, US | On Site | Dec 29 |
 | **[Community Bank, N.A.](https://cbna.com/locations/naples)** | **[Intern](https://jobright.ai/jobs/info/695309c1f1f8465b79ea56f9?utm_campaign=1055&utm_source=git)** | DeWitt, NY | On Site | Dec 29 |
 | **[Haemonetics](http://www.haemonetics.com)** | **[Contract Administration for Sales support for North America, Internship](https://jobright.ai/jobs/info/69530645935649778e20cb47?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Dec 29 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Legal Intern, Summer 2026 Legal Intern, Policy and Government Affairs, Immigration - National Political Advocacy Department](https://jobright.ai/jobs/info/69533ad35bb7de448ef65231?utm_campaign=1055&utm_source=git)** | Remote/Hybrid- Washington D.C. | Remote | Dec 29 |
 | **[Validity Inc.](https://www.validity.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6952c30a5bb7de448ef5dbdb?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Dec 29 |
 | **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6952b43e5bb7de448ef5cf2e?utm_campaign=1055&utm_source=git)** | Columbia, SC, United States | On Site | Dec 29 |
+| **[Burr & Forman](http://www.burr.com)** | **[2026 Pre-Law Intern](https://jobright.ai/jobs/info/6952a961935649778e2063ab?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Dec 29 |
+| **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Legal Intern, Program on Freedom of Religion and Belief](https://jobright.ai/jobs/info/695338b35bb7de448ef65027?utm_campaign=1055&utm_source=git)** | Washington D.C. | Hybrid | Dec 29 |
+| **[Reckitt](https://www.reckitt.com)** | **[2026 Regulatory Summer Internship / Mississauga, ON, Canada](https://jobright.ai/jobs/info/6918a703bcdbf3560c9d31d0?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
