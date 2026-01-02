@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Koch](https://www.kochinc.com)** | **[Legal and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/690105a1d5259a1b3cff0926?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 02 |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Audit & Inspection Intern](https://jobright.ai/jobs/info/68e5dfeeae2b894b1d714b05?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Jan 02 |
+| **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69560c07aa05c26e7ab05361?utm_campaign=1055&utm_source=git)** | Warrenville, IL | On Site | Jan 02 |
+| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/691ff72da49a885af9a35b4b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 02 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Contract Administrator Intern](https://jobright.ai/jobs/info/691dd4ec748c4e1301ec9174?utm_campaign=1055&utm_source=git)** | Dayton Metropolitan Area | On Site | Jan 02 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Summer 2026](https://jobright.ai/jobs/info/691efacb09cc522e8773cea7?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 02 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693ab9195f2c001987ecc3c7?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 02 |
@@ -90,7 +94,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69424a6850bbaf76505444c6?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Jan 01 |
 | **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Drug Product Supply Risk Management](https://jobright.ai/jobs/info/68fee8b3e0c73b3a11198652?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Jan 01 |
 | **[Travelers](https://www.travelers.com)** | **[Risk Control Property Intern](https://jobright.ai/jobs/info/68fb397f3c99cc1d96029e28?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Jan 01 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a373848a8ce22990e30df?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 01 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a42c4ac80bb5492bcc47a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 01 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/694768dd7d506e3808f2b195?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Jan 01 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/6955efa4aa05c26e7ab0281d?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 01 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern – Go to Market Legal](https://jobright.ai/jobs/info/68e44a43b99ec3563b0e8c3c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[Legal Intern (unpaid)](https://jobright.ai/jobs/info/69535d5e5bb7de448ef68330?utm_campaign=1055&utm_source=git)** | Michigan, United States | Remote | Dec 29 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Business Affairs Legal Intern](https://jobright.ai/jobs/info/6953565a935649778e211111?utm_campaign=1055&utm_source=git)** | Remote (United States) | Remote | Dec 29 |
 | **[GoldenGate Lawyers](http://goldengatelawyers.com/)** | **[articling law student](https://jobright.ai/jobs/info/6953774e5bb7de448ef68cf2?utm_campaign=1055&utm_source=git)** | Niagara Falls, Ontario, Canada | On Site | Dec 29 |
-| **[Compeer Financial](https://compeer.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69534f80935649778e210d9f?utm_campaign=1055&utm_source=git)** | Sun Prairie, WI | Hybrid | Dec 29 |
-| **[State Street](https://www.statestreet.com/)** | **[State Street Enterprise Risk Management - Market Risk Internship - Summer 2026](https://jobright.ai/jobs/info/6954aa6ff1f8465b79ebd319?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Dec 29 |
-| **[Compeer Financial](https://compeer.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69534ca25bb7de448ef65e80?utm_campaign=1055&utm_source=git)** | Lakeville, MN | Hybrid | Dec 29 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/695342e8935649778e2105a6?utm_campaign=1055&utm_source=git)** | Naperville, IL | Hybrid | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
