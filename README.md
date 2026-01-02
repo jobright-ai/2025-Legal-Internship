@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/695837fcaa05c26e7ab21ceb?utm_campaign=1055&utm_source=git)** | North Bethesda, MD | On Site | Jan 02 |
+| **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69583358f1f8465b79eec9a8?utm_campaign=1055&utm_source=git)** | Bellevue, NE | On Site | Jan 02 |
+| **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Policy](https://jobright.ai/jobs/info/69582259aa05c26e7ab202c3?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | **[EASLEY FAMILY LAW, LLC](http://easleyfamilylaw.com)** | **[Family Law Summer Intern (Law Student)](https://jobright.ai/jobs/info/69581c489f1b381eb270ff6d?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Jan 02 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Spring 2026/Summer 2026 Intern - Law - Sacramento, CA CLC](https://jobright.ai/jobs/info/692ec3f7ef4b48533d141272?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jan 02 |
+| **[Landmark Credit Union](https://landmarkcu.com/)** | **[Intern, Risk & Compliance](https://jobright.ai/jobs/info/69583c589f1b381eb271270c?utm_campaign=1055&utm_source=git)** | 555 S Executive Dr, Brookfield, WI 53005, USA | On Site | Jan 02 |
 | **[FusionSite](https://fusionsiteservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69580c4bf1f8465b79eeaedb?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jan 02 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Operational Risk & Regulatory Compliance Management Intern (4 Months)](https://jobright.ai/jobs/info/6957fc8b9f1b381eb270f415?utm_campaign=1055&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Jan 02 |
+| **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69582f139f1b381eb2710cc5?utm_campaign=1055&utm_source=git)** | US-NE-Bellevue | On Site | Jan 02 |
+| **[Moskowitz Legal Group, LLP](http://moskowitzlegalgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69582511f1f8465b79eebb48?utm_campaign=1055&utm_source=git)** | Hewlett, NY | On Site | Jan 02 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Operational Risk & Regulatory Compliance Management Intern (4 Months)](https://jobright.ai/jobs/info/6957fac9f1f8465b79ee9b6a?utm_campaign=1055&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Jan 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/6953fcca5bb7de448ef6e9be?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Jan 02 |
 | **[Pacira BioSciences, Inc.](http://www.pacira.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6957e86baa05c26e7ab1d333?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jan 02 |
-| **[Dynareon](dynareon.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6957e149f1f8465b79ee881a?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 02 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Legal Operations Intern (February to May)](https://jobright.ai/jobs/info/68ca52fd46caff4db51fd538?utm_campaign=1055&utm_source=git)** | Needham, MA | On Site | Jan 02 |
 | **[Koch](https://www.kochinc.com)** | **[Legal and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/6900fec7f8ce7a040fdbb14a?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Jan 02 |
 | ↳ | **[Legal and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/690105a1d5259a1b3cff0926?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 02 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Robinhood](https://www.robinhood.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6937409e1c1c2161c13f204d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/69375c3c1c1c2161c13f3529?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 30 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69374327a0dde7020e300a2f?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Dec 30 |
-| **[Medpace](http://www.medpace.com)** | **[Regulatory Research Intern- Summer 2026](https://jobright.ai/jobs/info/6937c41e1c1c2161c13f967f?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Dec 30 |
-| **[KBRA](https://www.kbra.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/69378eb2aabec14a727c942d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 30 |
-| **[Robinhood](https://www.robinhood.com)** | **[Corporate and Commercial Legal Intern](https://jobright.ai/jobs/info/693743a41c1c2161c13f2280?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Dec 30 |
-| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/69373cb9a0dde7020e300521?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Dec 30 |
-| **[Take-Two Interactive](http://www.take2games.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69378fbca0dde7020e30424b?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Dec 30 |
-| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[PIP Paralegal Intern](https://jobright.ai/jobs/info/69379b1d1c1c2161c13f63bc?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
