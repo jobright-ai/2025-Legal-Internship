@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Civil Practice Legal Intern, 2L – Summer 2026](https://jobright.ai/jobs/info/69578d209f1b381eb2708b5f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 02 |
+| ↳ | **[Civil Practice Legal Intern, 1L – Summer 2026](https://jobright.ai/jobs/info/69578d19f1f8465b79ee43d1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 02 |
+| ↳ | **[Law Reform Legal Intern, 1L- Summer 2026](https://jobright.ai/jobs/info/69578ce3f1f8465b79ee436a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 02 |
+| ↳ | **[Criminal Defense Practice Legal Intern, 2L – Summer 2026](https://jobright.ai/jobs/info/69578c7af1f8465b79ee427d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 02 |
+| ↳ | **[Law Reform Legal Intern, 2L- Summer 2026](https://jobright.ai/jobs/info/69578c51f1f8465b79ee423f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 02 |
+| ↳ | **[Criminal Defense Practice Legal Intern, 1L – Summer 2026](https://jobright.ai/jobs/info/6957886eaa05c26e7ab1833e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 02 |
+| ↳ | **[Juvenile Rights Practice Legal Intern 2L - Summer 2026](https://jobright.ai/jobs/info/6957865c9f1b381eb2708259?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/69576641aa05c26e7ab17113?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 01 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Litigation Intern for Legal Impact for Chickens](https://jobright.ai/jobs/info/6956fa6cf1f8465b79edd2e4?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 01 |
 | **[PacLease - PACCAR Leasing Company](http://paclease.com/)** | **[Contract Administrator - Summer Internship 2026](https://jobright.ai/jobs/info/695681929f1b381eb26fc169?utm_campaign=1055&utm_source=git)** | Bellevue, WA | On Site | Jan 01 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Legal Intern, Disability Rights Program](https://jobright.ai/jobs/info/69533ae25bb7de448ef65240?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-Washington DC or San Francisco, CA | Remote | Dec 29 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - AML Compliance](https://jobright.ai/jobs/info/6952fd02935649778e20c787?utm_campaign=1055&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Dec 29 |
 | **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Office of General Council Intern](https://jobright.ai/jobs/info/6952fbf4935649778e20c6da?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Dec 29 |
-| **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Legal Intern, Summer 2026 Legal Intern, Policy and Government Affairs, Immigration - National Political Advocacy Department](https://jobright.ai/jobs/info/69533ad35bb7de448ef65231?utm_campaign=1055&utm_source=git)** | Remote/Hybrid- Washington D.C. | Remote | Dec 29 |
-| **[Validity Inc.](https://www.validity.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6952c30a5bb7de448ef5dbdb?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Dec 29 |
-| **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6952b43e5bb7de448ef5cf2e?utm_campaign=1055&utm_source=git)** | Columbia, SC, United States | On Site | Dec 29 |
-| **[Burr & Forman](http://www.burr.com)** | **[2026 Pre-Law Intern](https://jobright.ai/jobs/info/6952a961935649778e2063ab?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Dec 29 |
-| **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Legal Intern, Program on Freedom of Religion and Belief](https://jobright.ai/jobs/info/695338b35bb7de448ef65027?utm_campaign=1055&utm_source=git)** | Washington D.C. | Hybrid | Dec 29 |
-| **[Reckitt](https://www.reckitt.com)** | **[2026 Regulatory Summer Internship / Mississauga, ON, Canada](https://jobright.ai/jobs/info/6918a703bcdbf3560c9d31d0?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Dec 29 |
-| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Intern Operational Risks - 2026](https://jobright.ai/jobs/info/69525fd7935649778e202d67?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
