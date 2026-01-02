@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Koch](https://www.kochinc.com)** | **[Legal and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/690105a1d5259a1b3cff0926?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 02 |
+| **[Pacira BioSciences, Inc.](http://www.pacira.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6957e86baa05c26e7ab1d333?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jan 02 |
+| **[Dynareon](dynareon.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6957e149f1f8465b79ee881a?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 02 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Legal Operations Intern (February to May)](https://jobright.ai/jobs/info/68ca52fd46caff4db51fd538?utm_campaign=1055&utm_source=git)** | Needham, MA | On Site | Jan 02 |
+| **[Koch](https://www.kochinc.com)** | **[Legal and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/6900fec7f8ce7a040fdbb14a?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Jan 02 |
+| ↳ | **[Legal and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/690105a1d5259a1b3cff0926?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 02 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Audit & Inspection Intern](https://jobright.ai/jobs/info/68e5dfeeae2b894b1d714b05?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Jan 02 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69560c07aa05c26e7ab05361?utm_campaign=1055&utm_source=git)** | Warrenville, IL | On Site | Jan 02 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/691ff72da49a885af9a35b4b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 02 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Contract Administrator Intern](https://jobright.ai/jobs/info/691dd4ec748c4e1301ec9174?utm_campaign=1055&utm_source=git)** | Dayton Metropolitan Area | On Site | Jan 02 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Summer 2026](https://jobright.ai/jobs/info/691efacb09cc522e8773cea7?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 02 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693ab9195f2c001987ecc3c7?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 02 |
+| **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Summer Legal Associate, Federal Policy and Advocacy](https://jobright.ai/jobs/info/691e4a50a49a885af9a27458?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 02 |
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/693b12d65f2c001987ed15c4?utm_campaign=1055&utm_source=git)** | Oklahoma, United States | Hybrid | Jan 02 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/690147fa4539ea1f2141eeb8?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Jan 02 |
 | ↳ | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69476db7d1953b5d11c082a6?utm_campaign=1055&utm_source=git)** | Orange, CA | On Site | Jan 02 |
@@ -76,8 +81,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Law Reform Legal Intern, 2L- Summer 2026](https://jobright.ai/jobs/info/69578c51f1f8465b79ee423f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | ↳ | **[Criminal Defense Practice Legal Intern, 1L – Summer 2026](https://jobright.ai/jobs/info/6957886eaa05c26e7ab1833e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | ↳ | **[Juvenile Rights Practice Legal Intern 2L - Summer 2026](https://jobright.ai/jobs/info/6957865c9f1b381eb2708259?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 02 |
-| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/69576641aa05c26e7ab17113?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 01 |
-| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Litigation Intern for Legal Impact for Chickens](https://jobright.ai/jobs/info/6956fa6cf1f8465b79edd2e4?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 01 |
 | **[PacLease - PACCAR Leasing Company](http://paclease.com/)** | **[Contract Administrator - Summer Internship 2026](https://jobright.ai/jobs/info/695681929f1b381eb26fc169?utm_campaign=1055&utm_source=git)** | Bellevue, WA | On Site | Jan 01 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: SBUs and R&D Legal Intern](https://jobright.ai/jobs/info/693a17c848a8ce22990e16fc?utm_campaign=1055&utm_source=git)** | Cambridge, MA | Hybrid | Jan 01 |
 | **[Grammarly](https://www.grammarly.com/jobs/)** | **[Privacy Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/691d08e4ff7024498416d2bf?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[PIP Paralegal Intern](https://jobright.ai/jobs/info/69379b1d1c1c2161c13f63bc?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ | On Site | Dec 30 |
 | **[Haemonetics](http://www.haemonetics.com)** | **[Contract Administration for Sales support for North America, Internship](https://jobright.ai/jobs/info/69539bea935649778e2161dd?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[IT Cybersecurity Compliance Intern](https://jobright.ai/jobs/info/69536bf2935649778e21358f?utm_campaign=1055&utm_source=git)** | Greater Houston | Hybrid | Dec 29 |
-| **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[Legal Intern (unpaid)](https://jobright.ai/jobs/info/69535d5e5bb7de448ef68330?utm_campaign=1055&utm_source=git)** | Michigan, United States | Remote | Dec 29 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Business Affairs Legal Intern](https://jobright.ai/jobs/info/6953565a935649778e211111?utm_campaign=1055&utm_source=git)** | Remote (United States) | Remote | Dec 29 |
-| **[GoldenGate Lawyers](http://goldengatelawyers.com/)** | **[articling law student](https://jobright.ai/jobs/info/6953774e5bb7de448ef68cf2?utm_campaign=1055&utm_source=git)** | Niagara Falls, Ontario, Canada | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
