@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Litigation Intern for Legal Impact for Chickens](https://jobright.ai/jobs/info/6956fa6cf1f8465b79edd2e4?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 01 |
 | **[PacLease - PACCAR Leasing Company](http://paclease.com/)** | **[Contract Administrator - Summer Internship 2026](https://jobright.ai/jobs/info/695681929f1b381eb26fc169?utm_campaign=1055&utm_source=git)** | Bellevue, WA | On Site | Jan 01 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: SBUs and R&D Legal Intern](https://jobright.ai/jobs/info/693a17c848a8ce22990e16fc?utm_campaign=1055&utm_source=git)** | Cambridge, MA | Hybrid | Jan 01 |
 | **[Grammarly](https://www.grammarly.com/jobs/)** | **[Privacy Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/691d08e4ff7024498416d2bf?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 01 |
@@ -105,10 +106,10 @@ For a complete list, click the following sortable link below:
 | **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[Intern](https://jobright.ai/jobs/info/6954e74c9f1b381eb26e505e?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | Dec 31 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Dec 30 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Legal Affairs Intern](https://jobright.ai/jobs/info/695454ab5bb7de448ef74d90?utm_campaign=1055&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 30 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Legal Assistant](https://jobright.ai/jobs/info/695444dfaa05c26e7aaec69f?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Dec 30 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Bankruptcy Internship](https://jobright.ai/jobs/info/6945f8da7d506e3808f13a13?utm_campaign=1055&utm_source=git)** | Maryville, TN | On Site | Dec 30 |
 | **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/694481d3dd382f5f566aae5a?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Dec 30 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/6953fcca5bb7de448ef6e9be?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Dec 30 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Legal Assistant](https://jobright.ai/jobs/info/6953f28af1f8465b79eb1e5c?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Dec 30 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/6937830caabec14a727c8d3f?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Dec 30 |
 | ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/6937771d1c1c2161c13f4c6d?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 30 |
 | ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/69378191aabec14a727c8c5a?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Dec 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Legal Intern, Summer 2026 Legal Intern, Policy and Government Affairs, Immigration - National Political Advocacy Department](https://jobright.ai/jobs/info/69533ad35bb7de448ef65231?utm_campaign=1055&utm_source=git)** | Remote/Hybrid- Washington D.C. | Remote | Dec 29 |
 | **[Validity Inc.](https://www.validity.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6952c30a5bb7de448ef5dbdb?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Dec 29 |
 | **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6952b43e5bb7de448ef5cf2e?utm_campaign=1055&utm_source=git)** | Columbia, SC, United States | On Site | Dec 29 |
-| **[Burr & Forman](http://www.burr.com)** | **[2026 Pre-Law Intern](https://jobright.ai/jobs/info/6952a961935649778e2063ab?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
