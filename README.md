@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/6958db889f1b381eb271ba57?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Jan 03 |
 | **[Colorado Legal Services](http://www.coloradolegalservices.org/)** | **[Summer Law Student Internship – Denver Family & Children Unit](https://jobright.ai/jobs/info/69587b279f1b381eb2716525?utm_campaign=1055&utm_source=git)** | Denver, Colorado, United States | On Site | Jan 02 |
 | ↳ | **[Summer Law School Student Internship – Coordinated Statewide Intake](https://jobright.ai/jobs/info/695876399f1b381eb27161c2?utm_campaign=1055&utm_source=git)** | Denver, Colorado, United States | Hybrid | Jan 02 |
 | ↳ | **[Summer Law Student Internship - Alamosa](https://jobright.ai/jobs/info/69587461f1f8465b79ef164e?utm_campaign=1055&utm_source=git)** | Alamosa, Colorado, United States | On Site | Jan 02 |
@@ -89,9 +90,9 @@ For a complete list, click the following sortable link below:
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69560c07aa05c26e7ab05361?utm_campaign=1055&utm_source=git)** | Warrenville, IL | On Site | Jan 02 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/691ff72da49a885af9a35b4b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 02 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Contract Administrator Intern](https://jobright.ai/jobs/info/691dd4ec748c4e1301ec9174?utm_campaign=1055&utm_source=git)** | Dayton Metropolitan Area | On Site | Jan 02 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2026 Legal Intern - Norfolk, VA](https://jobright.ai/jobs/info/6958b06ff1f8465b79ef3ea8?utm_campaign=1055&utm_source=git)** | Norfolk, VA | On Site | Jan 02 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Summer 2026](https://jobright.ai/jobs/info/691efacb09cc522e8773cea7?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 02 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693ab9195f2c001987ecc3c7?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 02 |
+| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2026 Legal Intern - NY](https://jobright.ai/jobs/info/6958cb49aa05c26e7ab2ace2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Summer Legal Associate, Federal Policy and Advocacy](https://jobright.ai/jobs/info/691e4a50a49a885af9a27458?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 02 |
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/693b12d65f2c001987ed15c4?utm_campaign=1055&utm_source=git)** | Oklahoma, United States | Hybrid | Jan 02 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/690147fa4539ea1f2141eeb8?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Jan 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/69378191aabec14a727c8c5a?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Dec 30 |
 | ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/693775411c1c2161c13f4ab0?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | Hybrid | Dec 30 |
 | **[KEEN](http://www.keenfootwear.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69375a141c1c2161c13f32bc?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Dec 30 |
-| **[Etched](https://www.etched.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6937a87fa0dde7020e305486?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
