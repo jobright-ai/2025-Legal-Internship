@@ -57,12 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Legal Operations Intern](https://jobright.ai/jobs/info/695b93059f1b381eb273fae8?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Corporate Affairs & Legal - Corporate Legal Group](https://jobright.ai/jobs/info/695b91fa9f1b381eb273fa92?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
+| ↳ | **[Intern - Corporate Affairs & Legal - Litigation & Investigations](https://jobright.ai/jobs/info/695b91f49f1b381eb273fa8e?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
+| ↳ | **[Intern – Corporate Affairs & Legal - Intellectual Property](https://jobright.ai/jobs/info/695b91ef9f1b381eb273fa8c?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
+| ↳ | **[Intern - Corporate Affairs & Legal - US Legal Business Partner](https://jobright.ai/jobs/info/695b8d879f1b381eb273f5ca?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
+| ↳ | **[Intern - Corporate Affairs & Legal - Office of Ethics and Compliance](https://jobright.ai/jobs/info/695b8d849f1b381eb273f5c7?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
+| ↳ | **[Intern - PDM - CMC Regulatory](https://jobright.ai/jobs/info/695b8d7ef1f8465b79f1a127?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
+| ↳ | **[Intern - IT - Security, Risk, and Compliance](https://jobright.ai/jobs/info/695b8d66f1f8465b79f1a114?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
+| ↳ | **[Intern - Regulatory Affairs - Inflammation](https://jobright.ai/jobs/info/695b8d50aa05c26e7ab4e90c?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
+| ↳ | **[Intern - Regulatory Affairs - Policy and Intelligence](https://jobright.ai/jobs/info/695b8d3aaa05c26e7ab4e8c4?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
+| ↳ | **[Intern - Corporate Affairs & Legal - Office of the General Counsel](https://jobright.ai/jobs/info/695b8d28aa05c26e7ab4e89d?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/695b8847aa05c26e7ab4dfc8?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Jan 05 |
-| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Legal Operations Intern](https://jobright.ai/jobs/info/695b8339aa05c26e7ab4d5d0?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
 | **[Textron](http://textron.com)** | **[2026 Legal Operations Intern](https://jobright.ai/jobs/info/695b800caa05c26e7ab4d019?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Legal Operations Intern](https://jobright.ai/jobs/info/695b78bfaa05c26e7ab4c974?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
 | **[Moody's Corporation](http://www.moodys.com)** | **[Legal Intern](https://jobright.ai/jobs/info/695b77ef9f1b381eb273d377?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 05 |
 | **[Skyward Specialty Insurance](https://www.skywardinsurance.com)** | **[2026 Summer Intern - Professional Liability Claims](https://jobright.ai/jobs/info/695b225d9f1b381eb2738d0b?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 04 |
+| **[Center for Digital Governmtent](http://www.govtech.com/cdg/)** | **[Central Services Risk Management Internship](https://jobright.ai/jobs/info/695b894c9f1b381eb273ee95?utm_campaign=1055&utm_source=git)** | Annapolis, MD | On Site | Jan 04 |
 | **[Convergent](https://www.convergent.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/695ac9829f1b381eb2734706?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 04 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Regulatory Information Management and Technology](https://jobright.ai/jobs/info/695a8f87aa05c26e7ab4190b?utm_campaign=1055&utm_source=git)** | Home, KS | On Site | Jan 04 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Summer 2026 Juris Doctorate Law Internship](https://jobright.ai/jobs/info/695a815caa05c26e7ab41731?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jan 04 |
@@ -89,9 +100,9 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AML Investigator Intern (4 months - Bedford, NS)](https://jobright.ai/jobs/info/693c8b5649a7695fbd0347a7?utm_campaign=1055&utm_source=git)** | Bedford, Nova Scotia, Canada | On Site | Jan 03 |
 | ↳ | **[2026 Summer - GRM, FC FIU Investigations Intern (4 Months)](https://jobright.ai/jobs/info/693c9d3750bbaf76504fe5b0?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
 | ↳ | **[2026 Summer - GRM, AML-FIU Investigator Intern (4 Months)](https://jobright.ai/jobs/info/693c8dc549a7695fbd0349e1?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
-| ↳ | **[2026 Summer - GRM, AML Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c969d50bbaf76504fd946?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
-| ↳ | **[2026 Summer - GRM, Global Economic Sanctions Intern (4 Months)](https://jobright.ai/jobs/info/693c4d8050bbaf76504f88bb?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
 | ↳ | **[2026 Summer - GRM, AML Financial Intelligence Unit Intern (4 Months)](https://jobright.ai/jobs/info/693c97ff50bbaf76504fe060?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
+| ↳ | **[2026 Summer - GRM, Global Economic Sanctions Intern (4 Months)](https://jobright.ai/jobs/info/693c4d8050bbaf76504f88bb?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
+| ↳ | **[2026 Summer - GRM, AML Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c8df0aa598a08c3ed613b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
 | ↳ | **[2026 Summer -- GRM, AML High Risk Client Management Intern (4 Months - Bedford, NS / Toronto, ON)](https://jobright.ai/jobs/info/693c92db49a7695fbd034e1d?utm_campaign=1055&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | Jan 03 |
 | **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fae6cf8d32c164778cc61d?utm_campaign=1055&utm_source=git)** | St Paul, MN | On Site | Jan 03 |
 | **[Sensient Technologies Corporation](http://sensient.com)** | **[Intern - Regulatory](https://jobright.ai/jobs/info/691f96173f782d2f1afbe4b2?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Jan 03 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/695b3054f1f8465b79f14122?utm_campaign=1055&utm_source=git)** | East Syracuse, NY | On Site | Jan 01 |
 | **[PacLease - PACCAR Leasing Company](http://paclease.com/)** | **[Contract Administrator - Summer Internship 2026](https://jobright.ai/jobs/info/695681929f1b381eb26fc169?utm_campaign=1055&utm_source=git)** | Bellevue, WA | On Site | Jan 01 |
 | **[Grammarly](https://www.grammarly.com/jobs/)** | **[Privacy Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/691d08e4ff7024498416d2bf?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 01 |
-| ↳ | **[Corporate Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/691d052b22a2cb4b9bd1fe10?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 01 |
-| **[Oceaneering](http://www.oceaneering.com/)** | **[Contracts Analyst Intern Summer2026](https://jobright.ai/jobs/info/693a793c48a8ce22990e73ac?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Jan 01 |
-| **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/692283bbc0cefa13343d80d7?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jan 01 |
-| **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693a3744ac80bb5492bcbd7b?utm_campaign=1055&utm_source=git)** | Timonium, MD | On Site | Jan 01 |
-| **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69013e89f8ce7a040fdbe008?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 01 |
-| **[Wärtsilä](http://www.wartsila.com/)** | **[Agreement Delivery Intern (Summer 2026)](https://jobright.ai/jobs/info/69565eacaa05c26e7ab099b6?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 01 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/6950a3fd29655e4dd659d29b?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 01 |
-| ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69424a6850bbaf76505444c6?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Jan 01 |
-| **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Drug Product Supply Risk Management](https://jobright.ai/jobs/info/68fee8b3e0c73b3a11198652?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Jan 01 |
-| **[Travelers](https://www.travelers.com)** | **[Risk Control Property Intern](https://jobright.ai/jobs/info/68fb397f3c99cc1d96029e28?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Jan 01 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a42c4ac80bb5492bcc47a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
