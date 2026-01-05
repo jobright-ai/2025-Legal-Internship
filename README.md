@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fyntrix One](fyntrixone.us)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/695b2d31aa05c26e7ab4897b?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 04 |
+| **[Skyward Specialty Insurance](https://www.skywardinsurance.com)** | **[2026 Summer Intern - Professional Liability Claims](https://jobright.ai/jobs/info/695b225d9f1b381eb2738d0b?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 04 |
 | **[Convergent](https://www.convergent.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/695ac9829f1b381eb2734706?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 04 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Regulatory Information Management and Technology](https://jobright.ai/jobs/info/695a8f87aa05c26e7ab4190b?utm_campaign=1055&utm_source=git)** | Home, KS | On Site | Jan 04 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Summer 2026 Juris Doctorate Law Internship](https://jobright.ai/jobs/info/695a815caa05c26e7ab41731?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jan 04 |
@@ -84,8 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer - GRM, AML-FIU Investigator Intern (4 Months)](https://jobright.ai/jobs/info/693c8dc549a7695fbd0349e1?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
 | ↳ | **[2026 Summer - GRM, FC FIU Investigations Intern (4 Months)](https://jobright.ai/jobs/info/693c9d3750bbaf76504fe5b0?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
 | ↳ | **[2026 Summer - GRM, AML Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c969d50bbaf76504fd946?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
-| ↳ | **[2026 Summer - GRM, Global Economic Sanctions Intern (4 Months)](https://jobright.ai/jobs/info/693c4d8050bbaf76504f88bb?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
 | ↳ | **[2026 Summer - GRM, AML Financial Intelligence Unit Intern (4 Months)](https://jobright.ai/jobs/info/693c97ff50bbaf76504fe060?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
+| ↳ | **[2026 Summer - GRM, Global Economic Sanctions Intern (4 Months)](https://jobright.ai/jobs/info/693c4d8050bbaf76504f88bb?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
 | ↳ | **[2026 Summer -- GRM, AML High Risk Client Management Intern (4 Months - Bedford, NS / Toronto, ON)](https://jobright.ai/jobs/info/693c92db49a7695fbd034e1d?utm_campaign=1055&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | Jan 03 |
 | **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fae6cf8d32c164778cc61d?utm_campaign=1055&utm_source=git)** | St Paul, MN | On Site | Jan 03 |
 | **[Sensient Technologies Corporation](http://sensient.com)** | **[Intern - Regulatory](https://jobright.ai/jobs/info/691f96173f782d2f1afbe4b2?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Jan 03 |
@@ -111,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Landmark Credit Union](https://landmarkcu.com/)** | **[Intern, Risk & Compliance](https://jobright.ai/jobs/info/69583c589f1b381eb271270c?utm_campaign=1055&utm_source=git)** | 555 S Executive Dr, Brookfield, WI 53005, USA | On Site | Jan 02 |
 | **[FusionSite](https://fusionsiteservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69580c4bf1f8465b79eeaedb?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jan 02 |
 | **[Moskowitz Legal Group, LLP](http://moskowitzlegalgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69582511f1f8465b79eebb48?utm_campaign=1055&utm_source=git)** | Hewlett, NY | On Site | Jan 02 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Operational Risk & Regulatory Compliance Management Intern (4 Months)](https://jobright.ai/jobs/info/6957fc8b9f1b381eb270f415?utm_campaign=1055&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Jan 02 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Operational Risk & Regulatory Compliance Management Intern (4 Months)](https://jobright.ai/jobs/info/6957fac9f1f8465b79ee9b6a?utm_campaign=1055&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Jan 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Law Intern- R&D, Regulatory, and Commercialization Law Group](https://jobright.ai/jobs/info/6953fcca5bb7de448ef6e9be?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Jan 02 |
 | **[Pacira BioSciences, Inc.](http://www.pacira.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6957e86baa05c26e7ab1d333?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jan 02 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Legal Operations Intern (February to May)](https://jobright.ai/jobs/info/68ca52fd46caff4db51fd538?utm_campaign=1055&utm_source=git)** | Needham, MA | On Site | Jan 02 |
@@ -135,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Asset Management Compliance](https://jobright.ai/jobs/info/695a1f7a9f1b381eb272bfd8?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 01 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/695a165bf1f8465b79f06a31?utm_campaign=1055&utm_source=git)** | Suwanee, GA | On Site | Jan 01 |
 | **[Lennox](http://www.lennox.com)** | **[Summer 2026 Business Compliance Intern](https://jobright.ai/jobs/info/6959e7aeaa05c26e7ab3867b?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Jan 01 |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/695b3054f1f8465b79f14122?utm_campaign=1055&utm_source=git)** | East Syracuse, NY | On Site | Jan 01 |
 | **[PacLease - PACCAR Leasing Company](http://paclease.com/)** | **[Contract Administrator - Summer Internship 2026](https://jobright.ai/jobs/info/695681929f1b381eb26fc169?utm_campaign=1055&utm_source=git)** | Bellevue, WA | On Site | Jan 01 |
 | **[Grammarly](https://www.grammarly.com/jobs/)** | **[Privacy Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/691d08e4ff7024498416d2bf?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 01 |
 | ↳ | **[Corporate Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/691d052b22a2cb4b9bd1fe10?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 01 |
@@ -142,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/692283bbc0cefa13343d80d7?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jan 01 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693a3744ac80bb5492bcbd7b?utm_campaign=1055&utm_source=git)** | Timonium, MD | On Site | Jan 01 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69013e89f8ce7a040fdbe008?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 01 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/693ced15aa598a08c3edaddb?utm_campaign=1055&utm_source=git)** | East Syracuse, NY | On Site | Jan 01 |
 | **[Wärtsilä](http://www.wartsila.com/)** | **[Agreement Delivery Intern (Summer 2026)](https://jobright.ai/jobs/info/69565eacaa05c26e7ab099b6?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 01 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/6950a3fd29655e4dd659d29b?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 01 |
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69424a6850bbaf76505444c6?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Jan 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/693a5d0448a8ce22990e695a?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | Hybrid | Jan 01 |
 | **[Planned Parenthood Federation of America](http://www.plannedparenthood.org/)** | **[Litigation Intern](https://jobright.ai/jobs/info/691d3890bcdbf3560c9ee526?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 01 |
 | ↳ | **[Policy Counsel Intern](https://jobright.ai/jobs/info/691d1b480b7dff73414ffcf6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 01 |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Risk Management - Fraud](https://jobright.ai/jobs/info/695633c3f1f8465b79ed1fa2?utm_campaign=1055&utm_source=git)** | Effingham, IL | On Site | Jan 01 |
-| ↳ | **[Intern - Risk Management - Fraud](https://jobright.ai/jobs/info/695697f39f1b381eb26fcdca?utm_campaign=1055&utm_source=git)** | Effingham, Illinois | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
