@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Campaign Legal Center](https://campaignlegal.org)** | **[Legal Internship (2026)](https://jobright.ai/jobs/info/695bbe0af396ad6ddab16ca6?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 05 |
+| **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/Intern Volunteer](https://jobright.ai/jobs/info/68d4c916fcd3367e8df17cdf?utm_campaign=1055&utm_source=git)** | Pueblo, CO | On Site | Jan 05 |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Quality Assurance & Compliance Intern (Graduate)](https://jobright.ai/jobs/info/68e983b2f195760c354aa21a?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Jan 05 |
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Legal Operations Intern](https://jobright.ai/jobs/info/695b93059f1b381eb273fae8?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Corporate Affairs & Legal - Corporate Legal Group](https://jobright.ai/jobs/info/695b91fa9f1b381eb273fa92?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
 | ↳ | **[Intern - Corporate Affairs & Legal - Litigation & Investigations](https://jobright.ai/jobs/info/695b91f49f1b381eb273fa8e?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
@@ -79,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[City and County of Denver](https://www.denvergov.org)** | **[Summer 2026 Juris Doctorate Law Internship](https://jobright.ai/jobs/info/695a815caa05c26e7ab41731?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jan 04 |
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Compliance](https://jobright.ai/jobs/info/68c0af705c5d5f14f46e0428?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Jan 04 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Regulatory Intern](https://jobright.ai/jobs/info/692135c43f782d2f1afd054f?utm_campaign=1055&utm_source=git)** | Green Bay, WI | Hybrid | Jan 04 |
+| **[Hays County](http://hayscountytx.com)** | **[Law Library/Records Management Intern](https://jobright.ai/jobs/info/695bbb3df396ad6ddab165c9?utm_campaign=1055&utm_source=git)** | San Marcos, TX | On Site | Jan 04 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/68d4ca4bffc1276de3fde265?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Jan 04 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern-Regulatory Affairs](https://jobright.ai/jobs/info/6958cebc9f1b381eb271b2d1?utm_campaign=1055&utm_source=git)** | Center Valley, PA | On Site | Jan 04 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Contracts](https://jobright.ai/jobs/info/6920c17c00c9ee50eaec794e?utm_campaign=1055&utm_source=git)** | Plano, TX | Hybrid | Jan 04 |
@@ -136,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Legal Operations Intern (February to May)](https://jobright.ai/jobs/info/68ca52fd46caff4db51fd538?utm_campaign=1055&utm_source=git)** | Needham, MA | On Site | Jan 02 |
 | **[Koch](https://www.kochinc.com)** | **[Legal and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/690105a1d5259a1b3cff0926?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 02 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Audit & Inspection Intern](https://jobright.ai/jobs/info/68e5dfeeae2b894b1d714b05?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Jan 02 |
+| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2026 Legal Intern - Norfolk, VA](https://jobright.ai/jobs/info/695bba45f1f8465b79f1ccef?utm_campaign=1055&utm_source=git)** | Norfolk, VA | On Site | Jan 02 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Contract Administrator Intern](https://jobright.ai/jobs/info/691dd4ec748c4e1301ec9174?utm_campaign=1055&utm_source=git)** | Dayton Metropolitan Area | On Site | Jan 02 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Summer 2026](https://jobright.ai/jobs/info/691efacb09cc522e8773cea7?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 02 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693ab9195f2c001987ecc3c7?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Criminal Defense Practice Legal Intern, 1L – Summer 2026](https://jobright.ai/jobs/info/6957886eaa05c26e7ab1833e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | ↳ | **[Juvenile Rights Practice Legal Intern 2L - Summer 2026](https://jobright.ai/jobs/info/6957865c9f1b381eb2708259?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Asset Management Compliance](https://jobright.ai/jobs/info/695a1f7a9f1b381eb272bfd8?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 01 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/695a165bf1f8465b79f06a31?utm_campaign=1055&utm_source=git)** | Suwanee, GA | On Site | Jan 01 |
-| **[Lennox](http://www.lennox.com)** | **[Summer 2026 Business Compliance Intern](https://jobright.ai/jobs/info/6959e7aeaa05c26e7ab3867b?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Jan 01 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/695b3054f1f8465b79f14122?utm_campaign=1055&utm_source=git)** | East Syracuse, NY | On Site | Jan 01 |
-| **[PacLease - PACCAR Leasing Company](http://paclease.com/)** | **[Contract Administrator - Summer Internship 2026](https://jobright.ai/jobs/info/695681929f1b381eb26fc169?utm_campaign=1055&utm_source=git)** | Bellevue, WA | On Site | Jan 01 |
-| **[Grammarly](https://www.grammarly.com/jobs/)** | **[Privacy Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/691d08e4ff7024498416d2bf?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
