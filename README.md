@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/695c324922c9dc0d3d5410fe?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 05 |
+| **[Rawlings Sporting Goods](https://www.rawlings.com/)** | **[2026 Summer Internship- Legal](https://jobright.ai/jobs/info/695c2f6b22c9dc0d3d540dfe?utm_campaign=1055&utm_source=git)** | St. Louis, MO, US | On Site | Jan 05 |
 | **[AMH](https://www.americanhomes4rent.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/695c1147aa05c26e7ab5620d?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Jan 05 |
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/695c1129aa05c26e7ab561e4?utm_campaign=1055&utm_source=git)** | US-TN-Franklin | On Site | Jan 05 |
 | **[EQ Bank | Equitable Bank](http://www.eqbank.ca)** | **[Operational Risk Intern - Summer 2026](https://jobright.ai/jobs/info/695c0a3faa05c26e7ab55ca0?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 05 |
@@ -66,7 +68,10 @@ For a complete list, click the following sortable link below:
 | **[SEPHORA](https://www.sephora.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/695c0497f1f8465b79f2111d?utm_campaign=1055&utm_source=git)** | California, United States | Hybrid | Jan 05 |
 | **[MassHousing](https://www.masshousing.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/695c0495aa05c26e7ab55860?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jan 05 |
 | **[BMO](http://www.bmo.com)** | **[Anti-Money Laundering Analyst - Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/695c01f722c9dc0d3d53e428?utm_campaign=1055&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 05 |
+| **[Stephens](https://www.stephens.com)** | **[Internship - Law Clerk (Summer 2026)](https://jobright.ai/jobs/info/695c24b9f1f8465b79f231ae?utm_campaign=1055&utm_source=git)** | Little Rock, Arkansas, United States | On Site | Jan 05 |
+| **[Syncfusion](https://www.syncfusion.com/)** | **[Temporary Paralegal Intern](https://jobright.ai/jobs/info/695c23c822c9dc0d3d5403cf?utm_campaign=1055&utm_source=git)** | RDU Office | Hybrid | Jan 05 |
 | **[SFMOMA San Francisco Museum of Modern Art](https://www.sfmoma.org)** | **[General Counsel Intern](https://jobright.ai/jobs/info/695c1b43aa05c26e7ab56c29?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jan 05 |
+| **[Metropolitan Airports Commission](https://metroairports.org)** | **[Law Clerk](https://jobright.ai/jobs/info/695c26d922c9dc0d3d54075f?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jan 05 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Compliance & Sustainability Internship – Carlsbad, CA (Onsite)](https://jobright.ai/jobs/info/695c1b7baa05c26e7ab56c6c?utm_campaign=1055&utm_source=git)** | US-CA-Carlsbad | On Site | Jan 05 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern – Summer Law Clerk (OIG)](https://jobright.ai/jobs/info/695bfb4422c9dc0d3d53e077?utm_campaign=1055&utm_source=git)** | DC-Washington | On Site | Jan 05 |
 | **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Risk Advisory Services Intern - Summer 2026](https://jobright.ai/jobs/info/695bfb15f1f8465b79f20965?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Jan 05 |
@@ -99,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/695b8847aa05c26e7ab4dfc8?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Jan 05 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Legal Operations Intern](https://jobright.ai/jobs/info/695b78bfaa05c26e7ab4c974?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
 | **[Moody's Corporation](http://www.moodys.com)** | **[Legal Intern](https://jobright.ai/jobs/info/695b77ef9f1b381eb273d377?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 05 |
+| **[Moody's Analytics](https://www.moodys.com)** | **[Legal Intern](https://jobright.ai/jobs/info/695c33dc22c9dc0d3d541269?utm_campaign=1055&utm_source=git)** | New York - 7 World Trade Center | Hybrid | Jan 04 |
 | **[AMERICAN Cast Iron Pipe Company](https://www.american-usa.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/695c0a8122c9dc0d3d53eb68?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Jan 04 |
 | **[Skyward Specialty Insurance](https://www.skywardinsurance.com)** | **[2026 Summer Intern - Professional Liability Claims](https://jobright.ai/jobs/info/695b225d9f1b381eb2738d0b?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 04 |
 | **[Center for Digital Governmtent](http://www.govtech.com/cdg/)** | **[Central Services Risk Management Internship](https://jobright.ai/jobs/info/695b894c9f1b381eb273ee95?utm_campaign=1055&utm_source=git)** | Annapolis, MD | On Site | Jan 04 |
@@ -127,12 +133,12 @@ For a complete list, click the following sortable link below:
 | **[SPX Technologies](https://www.spx.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/691fbee43f782d2f1afbfc7c?utm_campaign=1055&utm_source=git)** | Overland Park, KS | Hybrid | Jan 03 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Compliance Intern](https://jobright.ai/jobs/info/691f4e283f782d2f1afba330?utm_campaign=1055&utm_source=git)** | Everett, WA | On Site | Jan 03 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AML Investigator Intern (4 months - Bedford, NS)](https://jobright.ai/jobs/info/693c8b5649a7695fbd0347a7?utm_campaign=1055&utm_source=git)** | Bedford, Nova Scotia, Canada | On Site | Jan 03 |
-| ↳ | **[2026 Summer - GRM, AML-FIU Investigator Intern (4 Months)](https://jobright.ai/jobs/info/693c8dc549a7695fbd0349e1?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
 | ↳ | **[2026 Summer - GRM, FC FIU Investigations Intern (4 Months)](https://jobright.ai/jobs/info/693c9d3750bbaf76504fe5b0?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
-| ↳ | **[2026 Summer - GRM, AML Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c969d50bbaf76504fd946?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
+| ↳ | **[2026 Summer - GRM, AML-FIU Investigator Intern (4 Months)](https://jobright.ai/jobs/info/693c8dc549a7695fbd0349e1?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
 | ↳ | **[2026 Summer - GRM, Global Economic Sanctions Intern (4 Months)](https://jobright.ai/jobs/info/693c4d8050bbaf76504f88bb?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
 | ↳ | **[2026 Summer - GRM, AML Financial Intelligence Unit Intern (4 Months)](https://jobright.ai/jobs/info/693c97ff50bbaf76504fe060?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
 | ↳ | **[2026 Summer -- GRM, AML High Risk Client Management Intern (4 Months - Bedford, NS / Toronto, ON)](https://jobright.ai/jobs/info/693c92db49a7695fbd034e1d?utm_campaign=1055&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | Jan 03 |
+| ↳ | **[2026 Summer - GRM, AML Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c8df0aa598a08c3ed613b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
 | **[Travelers](https://www.travelers.com)** | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fae6cf8d32c164778cc61d?utm_campaign=1055&utm_source=git)** | St Paul, MN | On Site | Jan 03 |
 | **[Sensient Technologies Corporation](http://sensient.com)** | **[Intern - Regulatory](https://jobright.ai/jobs/info/691f96173f782d2f1afbe4b2?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Jan 03 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Legal Intern](https://jobright.ai/jobs/info/693c67b9aa598a08c3ed4a47?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Jan 03 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Landmark Credit Union](https://landmarkcu.com/)** | **[Intern, Risk & Compliance](https://jobright.ai/jobs/info/695849b09f1b381eb2713617?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | Jan 02 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Operational Risk & Regulatory Compliance Management Intern (4 Months)](https://jobright.ai/jobs/info/695847709f1b381eb27134a6?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Law Intern- Corporate Law](https://jobright.ai/jobs/info/695842ab9f1b381eb27131a4?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Jan 02 |
-| **[Xometry](https://www.xometry.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/695837fcaa05c26e7ab21ceb?utm_campaign=1055&utm_source=git)** | North Bethesda, MD | On Site | Jan 02 |
-| **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69583358f1f8465b79eec9a8?utm_campaign=1055&utm_source=git)** | Bellevue, NE | On Site | Jan 02 |
-| **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Policy](https://jobright.ai/jobs/info/69582259aa05c26e7ab202c3?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 02 |
-| **[EASLEY FAMILY LAW, LLC](http://easleyfamilylaw.com)** | **[Family Law Summer Intern (Law Student)](https://jobright.ai/jobs/info/69581c489f1b381eb270ff6d?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Jan 02 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Spring 2026/Summer 2026 Intern - Law - Sacramento, CA CLC](https://jobright.ai/jobs/info/692ec3f7ef4b48533d141272?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jan 02 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/695c14f0f1f8465b79f21ffe?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
