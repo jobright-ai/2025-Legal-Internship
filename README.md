@@ -57,10 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kemin Industries](http://www.kemin.com)** | **[Law Clerk - Intern](https://jobright.ai/jobs/info/695c811ef1f8465b79f2a57c?utm_campaign=1055&utm_source=git)** | Des Moines, IA | On Site | Jan 05 |
+| **[Vantage Data Centers](https://vantage-dc.com)** | **[Legal Intern, NA](https://jobright.ai/jobs/info/695c7b799a87b95a9397cbf3?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jan 05 |
+| **[Intact](http://www.intactfc.com)** | **[IT Finance Compliance Analyst – 4 months Internship/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695c6a525e4962051b598619?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 05 |
+| **[DEKA Research & Development](http://www.dekaresearch.com)** | **[IP Law Internship- Summer 2026](https://jobright.ai/jobs/info/695c685eaa05c26e7ab5d200?utm_campaign=1055&utm_source=git)** | Manchester, NH | On Site | Jan 05 |
+| **[Intrado](https://www.intrado.com/)** | **[Intern - Legal/Regulatory](https://jobright.ai/jobs/info/695c67ddaa05c26e7ab5d175?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 05 |
+| **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Internship Program - Compliance (St. Petersburg, FL)](https://jobright.ai/jobs/info/695c67c05e4962051b5983a1?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | Hybrid | Jan 05 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[2026 Summer College Intern - Legal (Hybrid/Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/695c634bf1f8465b79f286f6?utm_campaign=1055&utm_source=git)** | Troy, Michigan | Hybrid | Jan 05 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Records and Information)](https://jobright.ai/jobs/info/695c608ff1f8465b79f28517?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 05 |
 | **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2026 Internship Program: Regulatory Affairs Intern - Shelton, CT, US](https://jobright.ai/jobs/info/695c5b71f1f8465b79f2807e?utm_campaign=1055&utm_source=git)** | Shelton, CT | On Site | Jan 05 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[IT Finance Compliance Analyst – 4 months Internship/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695c501baa05c26e7ab5b21f?utm_campaign=1055&utm_source=git)** | Montréal, Quebec, CAN | On Site | Jan 05 |
+| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Air Compliance](https://jobright.ai/jobs/info/695c6b92aa05c26e7ab5d530?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Jan 05 |
 | **[Robins Kaplan LLP](http://robinskaplan.com)** | **[Spring Paralegal Internship](https://jobright.ai/jobs/info/695c46bd22c9dc0d3d54282d?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jan 05 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Internship Program - Compliance (St. Petersburg, FL)](https://jobright.ai/jobs/info/695c448ff1f8465b79f2512a?utm_campaign=1055&utm_source=git)** | Saint Petersburg, Florida - United States | Hybrid | Jan 05 |
 | **[Troon](http://www.troon.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/695c42f4f1f8465b79f24cee?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Jan 05 |
@@ -133,7 +140,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - PDM - CMC Regulatory](https://jobright.ai/jobs/info/695b8d7ef1f8465b79f1a127?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
 | ↳ | **[Intern - IT - Security, Risk, and Compliance](https://jobright.ai/jobs/info/695b8d66f1f8465b79f1a114?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
 | ↳ | **[Intern - Corporate Affairs & Legal - Office of the General Counsel](https://jobright.ai/jobs/info/695b8d28aa05c26e7ab4e89d?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
-| **[County of Lake](http://www.lakecountyca.gov)** | **[Extra Help Legal Intern](https://jobright.ai/jobs/info/695b8847aa05c26e7ab4dfc8?utm_campaign=1055&utm_source=git)** | Lakeport, CA | On Site | Jan 05 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Legal Operations Intern](https://jobright.ai/jobs/info/695b78bfaa05c26e7ab4c974?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
 | **[Moody's Corporation](http://www.moodys.com)** | **[Legal Intern](https://jobright.ai/jobs/info/695b77ef9f1b381eb273d377?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 05 |
 | **[AMERICAN Cast Iron Pipe Company](https://www.american-usa.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/695c0a8122c9dc0d3d53eb68?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Jan 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DP World](https://www.dpworld.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/68e6f3b6ae2b894b1d71ff49?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Jan 04 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6920eeed00c9ee50eaec97ae?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 04 |
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Summer Legal Intern - Transactional](https://jobright.ai/jobs/info/6945f11d63141d18845589b8?utm_campaign=1055&utm_source=git)** | Westport, CT | Hybrid | Jan 03 |
-| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Legal Aid Society](https://jobright.ai/jobs/info/691fb7ad3f782d2f1afbf901?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
-| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Operational Excellence & Compliance](https://jobright.ai/jobs/info/691f4eb109cc522e8773f5b8?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Jan 03 |
-| **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Legal](https://jobright.ai/jobs/info/693ce89750bbaf7650500c42?utm_campaign=1055&utm_source=git)** | Charleston, WV | On Site | Jan 03 |
-| **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Investments Legal Summer Intern](https://jobright.ai/jobs/info/691f23343f782d2f1afb898b?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Jan 03 |
-| **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Legal Intern - Administrative Law Team](https://jobright.ai/jobs/info/69592cc2aa05c26e7ab30990?utm_campaign=1055&utm_source=git)** | Utica-Rome Area | On Site | Jan 03 |
-| **[Huntsman Corporation](https://www.huntsman.com)** | **[The Woodlands, Texas Summer 2026 Legal Internship Program](https://jobright.ai/jobs/info/691f89553f782d2f1afbd798?utm_campaign=1055&utm_source=git)** | The Woodlands, TX | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
