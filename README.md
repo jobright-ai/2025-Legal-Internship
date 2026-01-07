@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Waystar](http://www.waystar.com)** | **[Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/68c0ce37702aa35207ab0962?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Jan 07 |
+| **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Legal Analyst](https://jobright.ai/jobs/info/690923234a1b456627afd0a3?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jan 07 |
+| **[GoFundMe](http://www.gofundme.com)** | **[Risk Intern](https://jobright.ai/jobs/info/69263aabf0beb072326234fb?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Jan 07 |
+| **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Summer Claims Administration Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/695e107632718e2b8ddc04c2?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Jan 06 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - AML Compliance](https://jobright.ai/jobs/info/695e002532718e2b8ddbf765?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Jan 06 |
+| **[PropyLaw](www.propylaw.com)** | **[Legal Intern](https://jobright.ai/jobs/info/695e1d1326f1314697acfab0?utm_campaign=1055&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Jan 06 |
 | **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Legal Entity Management](https://jobright.ai/jobs/info/695dfd7232718e2b8ddbf63e?utm_campaign=1055&utm_source=git)** | Toronto - 16 York St | Hybrid | Jan 06 |
 | ↳ | **[Intern, Compliance](https://jobright.ai/jobs/info/695dfd5e32718e2b8ddbf62c?utm_campaign=1055&utm_source=git)** | Toronto - 16 York St | Hybrid | Jan 06 |
 | **[ASICS America Corporation](https://www.asicsamerica.com)** | **[Summer Internship - Legal Assistant Intern](https://jobright.ai/jobs/info/695dfcfe61d5475ac1a0c214?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jan 06 |
@@ -75,10 +80,9 @@ For a complete list, click the following sortable link below:
 | **[Haag, a Salas O'Brien Company](https://haagglobal.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/695dda92e4cdbb1454cfd311?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 06 |
 | **[New York Mets](https://www.mlb.com/mets)** | **[2026 Summer Intern, Legal](https://jobright.ai/jobs/info/695da2a2fbd62a0a6566558b?utm_campaign=1055&utm_source=git)** | Citi Field – Queens, New York | On Site | Jan 06 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[2026 Summer College Intern - Compliance & Legal Affairs (Hybrid/Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/695dc356fbd62a0a6566774b?utm_campaign=1055&utm_source=git)** | Troy, Michigan | Hybrid | Jan 06 |
-| **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Summer Claims Administration Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/695dc2d8f1f8465b79f40bfa?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Jan 06 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Litigation Intern for Legal Impact for Chickens](https://jobright.ai/jobs/info/695da229f1f8465b79f3e8da?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 06 |
-| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Regulatory Affairs - Inflammation](https://jobright.ai/jobs/info/695d8ed5f5f3c43f38e26f0f?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 06 |
-| ↳ | **[Intern - Regulatory Affairs - Policy and Intelligence](https://jobright.ai/jobs/info/695d8ed5f5f3c43f38e26f0d?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 06 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Regulatory Affairs - Policy and Intelligence](https://jobright.ai/jobs/info/695d8ed5f5f3c43f38e26f0d?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 06 |
+| ↳ | **[Intern - Regulatory Affairs - Inflammation](https://jobright.ai/jobs/info/695d8ed5f5f3c43f38e26f0f?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 06 |
 | **[Oak Ridge National Laboratory](http://www.ornl.gov/)** | **[Summer Internship - Office of General Counsel](https://jobright.ai/jobs/info/695d8a67f5f3c43f38e2654f?utm_campaign=1055&utm_source=git)** | Knoxville, TN | On Site | Jan 06 |
 | **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Legal Intern](https://jobright.ai/jobs/info/695da985f1f8465b79f3f2e7?utm_campaign=1055&utm_source=git)** | Orrville, OH | Hybrid | Jan 06 |
 | **[Health Alliance Plan](https://www.hap.org)** | **[2026 Summer College Intern - Compliance & Legal Affairs (Hybrid/Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/695d821afbd62a0a65661e06?utm_campaign=1055&utm_source=git)** | Troy, MI | Hybrid | Jan 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Air Compliance](https://jobright.ai/jobs/info/695c6b92aa05c26e7ab5d530?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Jan 05 |
 | **[Robins Kaplan LLP](http://robinskaplan.com)** | **[Spring Paralegal Internship](https://jobright.ai/jobs/info/695c46bd22c9dc0d3d54282d?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jan 05 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Internship Program - Compliance (St. Petersburg, FL)](https://jobright.ai/jobs/info/695c448ff1f8465b79f2512a?utm_campaign=1055&utm_source=git)** | Saint Petersburg, Florida - United States | Hybrid | Jan 05 |
-| **[Troon](http://www.troon.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/695c42f4f1f8465b79f24cee?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Jan 05 |
-| **[Health Alliance Plan](https://www.hap.org)** | **[2026 Summer College Intern - Legal (Hybrid/Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/695c40d2aa05c26e7ab59322?utm_campaign=1055&utm_source=git)** | Troy, MI | Hybrid | Jan 05 |
-| **[Safe Passage Project](https://www.safepassageproject.org)** | **[2026 Summer Internship Program – Law Student Intern](https://jobright.ai/jobs/info/695c6084f1f8465b79f28511?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 05 |
-| **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/695c3d80aa05c26e7ab58f08?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
