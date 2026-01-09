@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate Supervisor](https://jobright.ai/jobs/info/69602931a1bbea1d9a7afb96?utm_campaign=1055&utm_source=git)** | San Antonio, TX | Hybrid | Jan 08 |
+| **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/696026607ebc25398eb6174d?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Jan 08 |
 | **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/696023407ebc25398eb612b8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 08 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Enterprise Risk Management Winter Intern](https://jobright.ai/jobs/info/696021d1a1bbea1d9a7af1c0?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | **[Nucor Rebar Fabrication](https://www.harrisrebar.com/index.php)** | **[Legal Intern 2026](https://jobright.ai/jobs/info/69602024a112b402660ed766?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | On Site | Jan 08 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[United Educators](https://www.ue.org/)** | **[Resolutions (Claims) Intern - Specialty Group](https://jobright.ai/jobs/info/6960137da112b402660ec811?utm_campaign=1055&utm_source=git)** | Bethesda, MD | Hybrid | Jan 08 |
 | **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69600dd3a112b402660ec071?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Jan 08 |
 | **[United Educators](https://www.ue.org/)** | **[Resolutions (Claims) Intern - Comprehensive Group](https://jobright.ai/jobs/info/69600b28a112b402660ebd8a?utm_campaign=1055&utm_source=git)** | Bethesda, MD | Hybrid | Jan 08 |
+| **[The Cigna Group](https://www.cigna.com/)** | **[Legal Intern - Cigna - Hybrid (Bloomfield, CT OR St. Louis, MO)](https://jobright.ai/jobs/info/696027eba1bbea1d9a7af9de?utm_campaign=1055&utm_source=git)** | Bloomfield, CT | Hybrid | Jan 08 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Compliance Summer Intern Program](https://jobright.ai/jobs/info/69600a91a112b402660ebcd7?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 08 |
 | **[KCH Transportation](https://www.kchtrans.com)** | **[Carrier Compliance Intern](https://jobright.ai/jobs/info/69600965a112b402660ebb77?utm_campaign=1055&utm_source=git)** | Chattanooga, Tennessee, United States | On Site | Jan 08 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Fort Lauderdale, FL CLC](https://jobright.ai/jobs/info/6949ffbf63141d1884598a2f?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 08 |
@@ -142,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Jabil](https://www.jabil.com)** | **[Ethics & Compliance Business Analyst - Intern](https://jobright.ai/jobs/info/695ee96b0badca5763af675b?utm_campaign=1055&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Jan 07 |
 | **[PetroChina Canada](https://www.petrochinacanada.com)** | **[Summer Student, Legal](https://jobright.ai/jobs/info/695eacfc08ab990f2829e632?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 07 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Denver](https://jobright.ai/jobs/info/695eabe908ab990f2829e5b3?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jan 07 |
-| **[Meijer](https://www.meijer.com/)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/695ea97ca112b402660d5186?utm_campaign=1055&utm_source=git)** | Grand Rapids, MI | Hybrid | Jan 07 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Corporate Affairs & Legal - US Legal Business Partner](https://jobright.ai/jobs/info/695b8d879f1b381eb273f5ca?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 07 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2027 2L Summer Associate - Los Angeles (Litigation)](https://jobright.ai/jobs/info/695ea71208ab990f2829e30f?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
 | **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern - Legal](https://jobright.ai/jobs/info/695ecca6a112b402660d83b8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Risk Control Property Intern](https://jobright.ai/jobs/info/68fb397f3c99cc1d96029e28?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Jan 07 |
 | ↳ | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fae6cf8d32c164778cc61d?utm_campaign=1055&utm_source=git)** | St Paul, MN | On Site | Jan 07 |
 | **[QBE Insurance](http://www.qbe.com)** | **[Claims Intern](https://jobright.ai/jobs/info/695e868c08ab990f2829cc44?utm_campaign=1055&utm_source=git)** | USA - NY - New York | Hybrid | Jan 07 |
-| **[PhRMA](http://phrma.org/)** | **[Summer Internship – Law](https://jobright.ai/jobs/info/695fe557a1bbea1d9a7a9ebb?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 07 |
-| **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Internship Program - Compliance (St. Petersburg, FL)](https://jobright.ai/jobs/info/695e7ec208ab990f2829c870?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | Hybrid | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
