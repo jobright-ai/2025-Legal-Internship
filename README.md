@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Ethics & Compliance Intern](https://jobright.ai/jobs/info/69612074a112b402660faaca?utm_campaign=1055&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Jan 09 |
 | **[ASML](https://www.asml.com)** | **[Internship - US Legal & Compliance](https://jobright.ai/jobs/info/69449aa2a7227b3ece663509?utm_campaign=1055&utm_source=git)** | Chandler, AZ | Hybrid | Jan 09 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/69445762dd382f5f566a7209?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 09 |
 | ↳ | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/6944517add382f5f566a6c82?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 09 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Regulatory Affairs, Global Rare Diseases - Summer 2026](https://jobright.ai/jobs/info/69449a0294730b739877ceb0?utm_campaign=1055&utm_source=git)** | Cary, NC | Hybrid | Jan 09 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Corporate Legal](https://jobright.ai/jobs/info/6960fee4a112b402660f8711?utm_campaign=1055&utm_source=git)** | Chesterfield, MO | Hybrid | Jan 09 |
+| **[American Medical Association](http://ama-assn.org)** | **[Health Law Summer Intern (Hybrid)](https://jobright.ai/jobs/info/695b34f4aa05c26e7ab48c1e?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 09 |
+| **[AARP](http://www.aarp.org)** | **[Fraud Watch Network and Prevention Intern](https://jobright.ai/jobs/info/6944ec9494730b73987834d8?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jan 09 |
+| **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney's Office Brave Justice Summer 2026 Legal Internship](https://jobright.ai/jobs/info/687e9e51db19f31cf0d6bba0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 09 |
+| **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, General Counsel](https://jobright.ai/jobs/info/6928a913d47de4798ece3699?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 09 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Shared Delivery -Governance & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/6944958494730b739877caeb?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Jan 09 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Compliance - Summer 2026](https://jobright.ai/jobs/info/694497b650bbaf765056a0d4?utm_campaign=1055&utm_source=git)** | Cary, NC | Hybrid | Jan 09 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Risk Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69603fa6a112b402660f0e80?utm_campaign=1055&utm_source=git)** | Des Moines, IA | Hybrid | Jan 09 |
@@ -73,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[DESRI](https://desri.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd675ee23def7af55b97e0?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Jan 09 |
 | **[TC Energy](https://www.tcenergy.com/)** | **[Regulatory Economics Intern](https://jobright.ai/jobs/info/696109b2a112b402660f8be4?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jan 09 |
 | **[Camping World](https://investor.campingworld.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/694b6b1b1a572a617dddba03?utm_campaign=1055&utm_source=git)** | Lincolnshire, IL | Hybrid | Jan 09 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/696123c8e7ed9a5731b9ec4b?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 09 |
 | **[Cinemark](http://www.cinemark.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6960b3477ebc25398eb6932b?utm_campaign=1055&utm_source=git)** | Plano, TX | Hybrid | Jan 08 |
 | **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Intern](https://jobright.ai/jobs/info/69608940a112b402660f3cc4?utm_campaign=1055&utm_source=git)** | West Orange, NJ | On Site | Jan 08 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/696088637ebc25398eb67447?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Jan 08 |
@@ -138,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Contract Administrator/Property Management Intern - R10216509](https://jobright.ai/jobs/info/695f8e4ca112b402660e37b0?utm_campaign=1055&utm_source=git)** | Clearfield, UT | On Site | Jan 08 |
 | **[CN](http://www.cn.ca)** | **[Intern, Law (Regulatory Affairs) US- EN](https://jobright.ai/jobs/info/6960e44da112b402660f7d6a?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 08 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Surveillance Compliance Intern](https://jobright.ai/jobs/info/68cf639e846f0b04af681bd4?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Jan 08 |
-| **[Spencer's](http://www.spencersonline.com/)** | **[Loss Prevention and Legal Summer Internship 2026](https://jobright.ai/jobs/info/695f6f3ea1bbea1d9a7a2c6e?utm_campaign=1055&utm_source=git)** | Egg Harbor, NJ | On Site | Jan 08 |
 | **[CN](http://www.cn.ca)** | **[Intern, Third Party Risk Management- EN](https://jobright.ai/jobs/info/6960b0837ebc25398eb68f9b?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 07 |
 | **[Dr. Bronner's](https://www.drbronner.com)** | **[Legal Fair Trade Intern](https://jobright.ai/jobs/info/695f4dd8a112b402660e051a?utm_campaign=1055&utm_source=git)** | Vista, CA | On Site | Jan 07 |
 | **[Jubilee Immigration Advocates](http://www.jubileelegal.org)** | **[Undergraduate Immigration Internship Summer 2026](https://jobright.ai/jobs/info/695f2e3da112b402660df629?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of College Station](http://www.cstx.gov)** | **[Criminal Investigations Intern](https://jobright.ai/jobs/info/695f2c08a112b402660df4ba?utm_campaign=1055&utm_source=git)** | College Station, TX | On Site | Jan 07 |
 | **[ETS](http://www.ets.org)** | **[Sheree Johnson-Gregory Legal Internship Program](https://jobright.ai/jobs/info/695f057fa1bbea1d9a79d0d5?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Jan 07 |
 | **[SageSure](https://www.sagesure.com)** | **[Claims Analyst Intern](https://jobright.ai/jobs/info/695f03e1a1bbea1d9a79cfef?utm_campaign=1055&utm_source=git)** | Chicago, IL | Remote | Jan 07 |
-| **[MDK](https://www.manleydeas.com/)** | **[Intern](https://jobright.ai/jobs/info/695f22290badca5763afaea6?utm_campaign=1055&utm_source=git)** | MDK Columbus - COLUMBUS, OH 43204 | On Site | Jan 07 |
-| **[Family & Children's Services](https://www.fcsok.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69606a8da112b402660f2af0?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Jan 07 |
-| **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Wintrust 2026 Summer Internship - Legal](https://jobright.ai/jobs/info/695efe93a1bbea1d9a79cbfe?utm_campaign=1055&utm_source=git)** | Rosemont, IL | On Site | Jan 07 |
-| **[QBE Insurance](http://www.qbe.com)** | **[Construction Claims Intern](https://jobright.ai/jobs/info/695f19f6a1bbea1d9a79f67a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 07 |
-| **[Longevity Holdings, Inc.](https://longevity.inc/)** | **[Summer Law Clerk Intern](https://jobright.ai/jobs/info/695ef5d90badca5763af7111?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
