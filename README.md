@@ -145,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Jabil](https://www.jabil.com)** | **[Ethics & Compliance Business Analyst - Intern](https://jobright.ai/jobs/info/695ee96b0badca5763af675b?utm_campaign=1055&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Jan 07 |
 | **[PetroChina Canada](https://www.petrochinacanada.com)** | **[Summer Student, Legal](https://jobright.ai/jobs/info/695eacfc08ab990f2829e632?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 07 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Denver](https://jobright.ai/jobs/info/695eabe908ab990f2829e5b3?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jan 07 |
+| **[Meijer](https://www.meijer.com/)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/695ea97ca112b402660d5186?utm_campaign=1055&utm_source=git)** | Grand Rapids, MI | Hybrid | Jan 07 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Corporate Affairs & Legal - US Legal Business Partner](https://jobright.ai/jobs/info/695b8d879f1b381eb273f5ca?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 07 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2027 2L Summer Associate - Los Angeles (Litigation)](https://jobright.ai/jobs/info/695ea71208ab990f2829e30f?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
 | **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern - Legal](https://jobright.ai/jobs/info/695ecca6a112b402660d83b8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Froedtert Health](http://www.froedtert.com)** | **[LEGAL INTERN](https://jobright.ai/jobs/info/695eb85308ab990f282a02ca?utm_campaign=1055&utm_source=git)** | Menomonee Falls, WI | Hybrid | Jan 07 |
 | **[Travelers](https://www.travelers.com)** | **[Risk Control Property Intern](https://jobright.ai/jobs/info/68fb397f3c99cc1d96029e28?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Jan 07 |
 | ↳ | **[Risk Control Commercial Intern](https://jobright.ai/jobs/info/68fae6cf8d32c164778cc61d?utm_campaign=1055&utm_source=git)** | St Paul, MN | On Site | Jan 07 |
-| **[QBE Insurance](http://www.qbe.com)** | **[Claims Intern](https://jobright.ai/jobs/info/695e868c08ab990f2829cc44?utm_campaign=1055&utm_source=git)** | USA - NY - New York | Hybrid | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
