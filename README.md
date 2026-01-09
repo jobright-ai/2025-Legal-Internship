@@ -65,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[Cinemark](http://www.cinemark.com)** | **[Legal Intern](https://jobright.ai/jobs/info/696073bda112b402660f30f0?utm_campaign=1055&utm_source=git)** | CORP - Cinemark Service Center, Plano, TX | Hybrid | Jan 08 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Enterprise Compliance](https://jobright.ai/jobs/info/69605157a112b402660f1829?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Jan 08 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69606a4a7ebc25398eb663b8?utm_campaign=1055&utm_source=git)** | Buffalo, NY, US | On Site | Jan 08 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/6960626a7ebc25398eb65c43?utm_campaign=1055&utm_source=git)** | Colorado | On Site | Jan 08 |
-| ↳ | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/696062a4a112b402660f2558?utm_campaign=1055&utm_source=git)** | Possible | On Site | Jan 08 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/696062a4a112b402660f2558?utm_campaign=1055&utm_source=git)** | Possible | On Site | Jan 08 |
+| ↳ | **[Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/6960626a7ebc25398eb65c43?utm_campaign=1055&utm_source=git)** | Colorado | On Site | Jan 08 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Litigation Intern for Legal Impact for Chickens](https://jobright.ai/jobs/info/696044d17ebc25398eb64a7e?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 08 |
 | **[Gunvor Group](https://gunvorgroup.com/en/)** | **[EPA Compliance Intern](https://jobright.ai/jobs/info/696044847ebc25398eb64a3d?utm_campaign=1055&utm_source=git)** | Houston | On Site | Jan 08 |
 | **[Motrex LLC](https://motrexllc.com/)** | **[2026 Summer Intern – Risk Management](https://jobright.ai/jobs/info/696037e37ebc25398eb6361f?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | On Site | Jan 08 |
