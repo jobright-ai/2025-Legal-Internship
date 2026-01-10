@@ -57,13 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UPMC](https://www.upmc.com/)** | **[Corporate Legal Internship- Summer 2026](https://jobright.ai/jobs/info/690c0f14d046ab6061cea875?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Jan 10 |
+| **[City of New York](http://www1.nyc.gov)** | **[Counsel Summer Graduate Intern](https://jobright.ai/jobs/info/69625cc925e18715077f4302?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 10 |
+| **[Valley Bank](https://www.valley.com/)** | **[Intern - Operational Risk](https://jobright.ai/jobs/info/6945f197d1953b5d11befc0d?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Jan 10 |
+| **[KIPP DC](https://www.kippdc.org/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/69461b1863141d188455c918?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
+| **[CN](http://www.cn.ca)** | **[Intern, Legal - Indigenous- EN](https://jobright.ai/jobs/info/692884a091ceeb2e8a545ba4?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 10 |
+| ↳ | **[Intern, Law (Regulatory Affairs) CA- EN](https://jobright.ai/jobs/info/695f5c94a112b402660e0bc0?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 10 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Program Integrity - R10690](https://jobright.ai/jobs/info/690bd3add046ab6061ce83f9?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Dr. Bronner's](https://www.drbronner.com)** | **[Compliance Fair Trade Intern](https://jobright.ai/jobs/info/6945b245d1953b5d11beaeb2?utm_campaign=1055&utm_source=git)** | Vista, CA | On Site | Jan 10 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Real Estate Transactions, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/690c23aa4a1b456627b167be?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 10 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Compliance Intern (Undergraduate)](https://jobright.ai/jobs/info/69460d0863141d188455bbb2?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Jan 10 |
+| **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Summer Legal Intern - Transactional](https://jobright.ai/jobs/info/69460b297d506e3808f1617e?utm_campaign=1055&utm_source=git)** | Westport, CT | Hybrid | Jan 10 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Advisory and Compliance Services](https://jobright.ai/jobs/info/695200aba2668b7f54548604?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Jan 10 |
 | **[Old National Bank](http://www.oldnational.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6945b080951654073537caea?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 10 |
 | **[Zoox](https://www.zoox.com/)** | **[Policy and Regulatory Affairs Intern](https://jobright.ai/jobs/info/690d716d4a1b456627b21609?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Jan 10 |
+| **[DESRI](https://desri.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd6643b2a74e1837ed68e5?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 10 |
+| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Litigation Intern for Legal Impact for Chickens](https://jobright.ai/jobs/info/69626fc92cbf4e44756c63f8?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 10 |
+| **[Rocket](https://www.rocketcompanies.com/)** | **[Compliance Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6945e06663141d1884557f28?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Jan 10 |
 | **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Ambler, Regulatory Compliance](https://jobright.ai/jobs/info/6945b7c0d1953b5d11beb746?utm_campaign=1055&utm_source=git)** | Ambler, PA | On Site | Jan 10 |
 | **[Noble Corporation](http://www.noblecorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68d62f7d894705799a2e87d9?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Jan 10 |
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/6962557525e18715077f3b8d?utm_campaign=1055&utm_source=git)** | Franklin, TN | On Site | Jan 10 |
@@ -140,21 +150,11 @@ For a complete list, click the following sortable link below:
 | **[ASML](https://www.asml.com)** | **[Internship - US Legal & Compliance](https://jobright.ai/jobs/info/69449aa2a7227b3ece663509?utm_campaign=1055&utm_source=git)** | Chandler, AZ | Hybrid | Jan 09 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Regulatory Affairs, Global Rare Diseases - Summer 2026](https://jobright.ai/jobs/info/69449a0294730b739877ceb0?utm_campaign=1055&utm_source=git)** | Cary, NC | Hybrid | Jan 09 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Corporate Legal](https://jobright.ai/jobs/info/6960fee4a112b402660f8711?utm_campaign=1055&utm_source=git)** | Chesterfield, MO | Hybrid | Jan 09 |
-| **[CN](http://www.cn.ca)** | **[Intern, Legal - Indigenous- EN](https://jobright.ai/jobs/info/6928865cd47de4798ece318b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 09 |
-| ↳ | **[Intern, Legal - Indigenous- EN](https://jobright.ai/jobs/info/695b71d69f1b381eb273d141?utm_campaign=1055&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 09 |
+| **[CN](http://www.cn.ca)** | **[Intern, Legal - Indigenous- EN](https://jobright.ai/jobs/info/695b71d69f1b381eb273d141?utm_campaign=1055&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 09 |
+| ↳ | **[Intern, Legal - Indigenous- EN](https://jobright.ai/jobs/info/6928865cd47de4798ece318b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 09 |
 | **[American Medical Association](http://ama-assn.org)** | **[Health Law Summer Intern (Hybrid)](https://jobright.ai/jobs/info/695b34f4aa05c26e7ab48c1e?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 09 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Corporate Social Responsibility (CSR) Intern](https://jobright.ai/jobs/info/695e24953c6a895ac5eef8b1?utm_campaign=1055&utm_source=git)** | Burlington, NJ | Hybrid | Jan 09 |
 | **[AARP](http://www.aarp.org)** | **[Fraud Watch Network and Prevention Intern](https://jobright.ai/jobs/info/6944ec9494730b73987834d8?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jan 09 |
 | **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney's Office Brave Justice Summer 2026 Legal Internship](https://jobright.ai/jobs/info/687e9e51db19f31cf0d6bba0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 09 |
 | **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, General Counsel](https://jobright.ai/jobs/info/6928a913d47de4798ece3699?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 09 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Shared Delivery -Governance & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/6944958494730b739877caeb?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Jan 09 |
-| **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Compliance - Summer 2026](https://jobright.ai/jobs/info/694497b650bbaf765056a0d4?utm_campaign=1055&utm_source=git)** | Cary, NC | Hybrid | Jan 09 |
-| **[Principal Financial Group](https://www.principalam.com/)** | **[Risk Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69603fa6a112b402660f0e80?utm_campaign=1055&utm_source=git)** | Des Moines, IA | Hybrid | Jan 09 |
-| **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Law Intern- Transactions Law Group](https://jobright.ai/jobs/info/69277208d47de4798ecdcccf?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Jan 09 |
-| ↳ | **[Summer 2026 Law Intern- Intellectual Property](https://jobright.ai/jobs/info/6927799bd47de4798ecdd092?utm_campaign=1055&utm_source=git)** | Tarrytown, NY | On Site | Jan 09 |
-| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, Legal](https://jobright.ai/jobs/info/69432216dd382f5f5669152e?utm_campaign=1055&utm_source=git)** | Greensboro, NC | On Site | Jan 09 |
-| **[Segal](https://www.segalco.com)** | **[Summer Intern - Compliance](https://jobright.ai/jobs/info/68fdb4820ab3b222462a4246?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 09 |
-| **[Optiver](http://www.optiver.com)** | **[Compliance Intern 2026](https://jobright.ai/jobs/info/69600511a1bbea1d9a7acc2a?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 09 |
-| **[DESRI](https://desri.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd675ee23def7af55b97e0?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Jan 09 |
-| **[TC Energy](https://www.tcenergy.com/)** | **[Regulatory Economics Intern](https://jobright.ai/jobs/info/696109b2a112b402660f8be4?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
