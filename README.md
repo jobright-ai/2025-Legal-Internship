@@ -90,8 +90,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/6944517add382f5f566a6c82?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 09 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Regulatory Affairs, Global Rare Diseases - Summer 2026](https://jobright.ai/jobs/info/69449a0294730b739877ceb0?utm_campaign=1055&utm_source=git)** | Cary, NC | Hybrid | Jan 09 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Corporate Legal](https://jobright.ai/jobs/info/6960fee4a112b402660f8711?utm_campaign=1055&utm_source=git)** | Chesterfield, MO | Hybrid | Jan 09 |
-| **[CN](http://www.cn.ca)** | **[Intern, Legal - Indigenous- EN](https://jobright.ai/jobs/info/6928865cd47de4798ece318b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 09 |
-| ↳ | **[Intern, Legal - Indigenous- EN](https://jobright.ai/jobs/info/695b71d69f1b381eb273d141?utm_campaign=1055&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 09 |
+| **[CN](http://www.cn.ca)** | **[Intern, Legal - Indigenous- EN](https://jobright.ai/jobs/info/695b71d69f1b381eb273d141?utm_campaign=1055&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 09 |
+| ↳ | **[Intern, Legal - Indigenous- EN](https://jobright.ai/jobs/info/6928865cd47de4798ece318b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 09 |
 | **[American Medical Association](http://ama-assn.org)** | **[Health Law Summer Intern (Hybrid)](https://jobright.ai/jobs/info/695b34f4aa05c26e7ab48c1e?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 09 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Corporate Social Responsibility (CSR) Intern](https://jobright.ai/jobs/info/695e24953c6a895ac5eef8b1?utm_campaign=1055&utm_source=git)** | Burlington, NJ | Hybrid | Jan 09 |
 | **[AARP](http://www.aarp.org)** | **[Fraud Watch Network and Prevention Intern](https://jobright.ai/jobs/info/6944ec9494730b73987834d8?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jan 09 |
