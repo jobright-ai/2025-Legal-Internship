@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conair LLC](http://www.conair.com/)** | **[2026 Legal Intern](https://jobright.ai/jobs/info/6963fe1da112b402661203cd?utm_campaign=1055&utm_source=git)** | Stamford, CT | Hybrid | Jan 11 |
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Summer Legal Intern - Transactional](https://jobright.ai/jobs/info/6945f11d63141d18845589b8?utm_campaign=1055&utm_source=git)** | Westport, CT | Hybrid | Jan 11 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Compliance Intern](https://jobright.ai/jobs/info/6963c42e2cbf4e44756d69e3?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Jan 11 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Risk Assurance Intern](https://jobright.ai/jobs/info/6963afb62cbf4e44756d6204?utm_campaign=1055&utm_source=git)** | Pennsylvania, United States | On Site | Jan 11 |
@@ -99,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6961ff67a112b402661070cf?utm_campaign=1055&utm_source=git)** | Sparks, NV | On Site | Jan 09 |
 | ↳ | **[Cybersecurity Compliance Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6961fc48a112b40266106fd9?utm_campaign=1055&utm_source=git)** | Sparks, NV | On Site | Jan 09 |
 | **[QBE North America](https://www.qbe.com/us)** | **[Claims Intern](https://jobright.ai/jobs/info/6961fb59a112b40266106ee7?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Jan 09 |
+| **[CAMBA](https://camba.org/)** | **[Summer Legal Intern, CAMBA Legal Services](https://jobright.ai/jobs/info/6961daadf3f4cd132506d638?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 09 |
 | **[Computershare Canada](http://www.computershare.com/ca/en)** | **[Internship-Associate Trust Officer](https://jobright.ai/jobs/info/6961cbaef3f4cd132506cd56?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 09 |
 | **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern - Legal & Regulatory Affairs](https://jobright.ai/jobs/info/6961c476e7ed9a5731ba9720?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 09 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69104536988c2b7b4ec50c5d?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Jan 09 |
@@ -118,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/69619c65f3f4cd132506a91c?utm_campaign=1055&utm_source=git)** | Manhattan, KS | On Site | Jan 09 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Intern - Management Liability](https://jobright.ai/jobs/info/69619bf8e7ed9a5731ba760c?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 09 |
 | **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern - Legal & Regulatory Affairs](https://jobright.ai/jobs/info/6961b6eca112b40266104769?utm_campaign=1055&utm_source=git)** | New York, NY, US | Hybrid | Jan 09 |
-| **[CAMBA](https://camba.org/)** | **[Summer Legal Intern, CAMBA Legal Services](https://jobright.ai/jobs/info/6961b608f3f4cd132506bc55?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 09 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Claims Intern – Summer 2026](https://jobright.ai/jobs/info/6961b9e6e7ed9a5731ba8dfa?utm_campaign=1055&utm_source=git)** | Manhattan, KS, US | On Site | Jan 09 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Legal & Regulatory Affairs](https://jobright.ai/jobs/info/6961b9e3a112b40266104a86?utm_campaign=1055&utm_source=git)** | New York, NY, US | Hybrid | Jan 09 |
 | **[Everwise Credit Union](https://www.everwisecu.com)** | **[Fraud Investigations Intern](https://jobright.ai/jobs/info/6961cc97e7ed9a5731ba9bc3?utm_campaign=1055&utm_source=git)** | South Bend, IN | On Site | Jan 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Munich Re](https://www.munichre.com)** | **[Intergrated Risk Management Intern](https://jobright.ai/jobs/info/6961405aa112b402660fc77f?utm_campaign=1055&utm_source=git)** | Princeton, NJ | On Site | Jan 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/69613dd9a112b402660fc4c2?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 09 |
 | ↳ | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/69613d72a112b402660fc460?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Jan 09 |
-| **[Minitab](http://www.minitab.com/en-us/)** | **[Legal Intern](https://jobright.ai/jobs/info/69613ac3f3f4cd13250635db?utm_campaign=1055&utm_source=git)** | State College, Pennsylvania, United States | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
