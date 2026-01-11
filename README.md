@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Compliance Intern](https://jobright.ai/jobs/info/6963c42e2cbf4e44756d69e3?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Jan 11 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Risk Assurance Intern](https://jobright.ai/jobs/info/6963afb62cbf4e44756d6204?utm_campaign=1055&utm_source=git)** | Pennsylvania, United States | On Site | Jan 11 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Immigration Law (Winter 2026)](https://jobright.ai/jobs/info/6929e1a766796e3028f8d764?utm_campaign=1055&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 11 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6928c039d47de4798ece3a99?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jan 11 |
 | **[Southwire Company](http://southwire.com)** | **[Legal Intern - Ethics & Compliance](https://jobright.ai/jobs/info/691abb8abcdbf3560c9da150?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 11 |
-| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[New York Life Law Internship- Summer 2026](https://jobright.ai/jobs/info/6915c9d3286ccf0a151309b6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 11 |
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[Transaction Liability Intern](https://jobright.ai/jobs/info/68f1b223f462172a5a7db42c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 11 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68f18881f462172a5a7d9a16?utm_campaign=1055&utm_source=git)** | Greenville, NC | On Site | Jan 11 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Spring 2026/Summer 2026 Intern - Law - Sacramento, CA CLC](https://jobright.ai/jobs/info/692ec3f7ef4b48533d141272?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jan 11 |
@@ -126,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[K2 Integrity](https://www.K2Integrity.com)** | **[Financial Crimes Risk Management Intern](https://jobright.ai/jobs/info/69618face7ed9a5731ba69f9?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 09 |
 | **[Teleflex](http://www.teleflex.com)** | **[Compliance Intern, Global Business Practices](https://jobright.ai/jobs/info/69618af3e7ed9a5731ba67ba?utm_campaign=1055&utm_source=git)** | Wayne, PA | On Site | Jan 09 |
 | **[Travelers](https://www.travelers.com)** | **[Bond & Specialty Insurance Legal Intern](https://jobright.ai/jobs/info/696183ecf3f4cd132506842d?utm_campaign=1055&utm_source=git)** | CT - Hartford | Hybrid | Jan 09 |
+| **[Auctane](https://auctane.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69617b69f3f4cd13250675ae?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Jan 09 |
 | **[Legal Aid Services Of Oregon](https://lasoregon.org)** | **[Summer Clerkships - Farmworker Program](https://jobright.ai/jobs/info/6961a71ee7ed9a5731ba7c47?utm_campaign=1055&utm_source=git)** | Hillsboro, OR | Hybrid | Jan 09 |
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6924da8238cd5478a8d5ea2d?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 09 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Risk and Compliance Services Summer Intern - Cyber Risk](https://jobright.ai/jobs/info/69617513a112b402660ff90b?utm_campaign=1055&utm_source=git)** | New York | Hybrid | Jan 09 |
@@ -140,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Armada Hoffler](http://armadahoffler.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6961895af3f4cd132506980b?utm_campaign=1055&utm_source=git)** | Virginia Beach, VA | On Site | Jan 09 |
 | **[Summit Therapeutics, Inc.](https://www.smmttx.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69616371e7ed9a5731ba29f3?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | On Site | Jan 09 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Legal Intern - Programmes & Projects Team](https://jobright.ai/jobs/info/69615e1bf3f4cd132506560e?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 09 |
-| **[Auctane](https://auctane.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6961782ce7ed9a5731ba401c?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Jan 09 |
 | **[The Children's Law Center](https://clcny.org)** | **[Paralegal Internship (Summer 2026)](https://jobright.ai/jobs/info/696159f3e7ed9a5731ba2013?utm_campaign=1055&utm_source=git)** | NY | Hybrid | Jan 09 |
 | **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - Logistics - Trade Compliance](https://jobright.ai/jobs/info/69615645e7ed9a5731ba1c37?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Jan 09 |
 | **[UNDP](http://www.undp.org)** | **[Legal Intern - Programmes & Projects Team](https://jobright.ai/jobs/info/696154dbf3f4cd1325064cc3?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/69613d72a112b402660fc460?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Jan 09 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Legal Intern](https://jobright.ai/jobs/info/69613ac3f3f4cd13250635db?utm_campaign=1055&utm_source=git)** | State College, Pennsylvania, United States | On Site | Jan 09 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Ethics & Compliance Intern](https://jobright.ai/jobs/info/69612074a112b402660faaca?utm_campaign=1055&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Jan 09 |
-| **[TD](https://www.td.com)** | **[Financial Crime Risk Management Intern / FCRM Enterprise Risk Assessment (Summer 2026)](https://jobright.ai/jobs/info/69614f33f3f4cd13250648f7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
