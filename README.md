@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Licensing Intern](https://jobright.ai/jobs/info/69643153a112b402661226a8?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 11 |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69642ddca112b4026612262c?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 11 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Corporate Compliance Summer Intern](https://jobright.ai/jobs/info/69640ce025e1871507809bb2?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 11 |
 | **[Parold Entertainment Inc.](http://parold.com)** | **[Law Student Intern](https://jobright.ai/jobs/info/69640c552cbf4e44756db92a?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 11 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Legal Intern](https://jobright.ai/jobs/info/6963fe1da112b402661203cd?utm_campaign=1055&utm_source=git)** | Stamford, CT | Hybrid | Jan 11 |
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Summer Legal Intern - Transactional](https://jobright.ai/jobs/info/6945f11d63141d18845589b8?utm_campaign=1055&utm_source=git)** | Westport, CT | Hybrid | Jan 11 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Risk Assurance Intern](https://jobright.ai/jobs/info/6963afb62cbf4e44756d6204?utm_campaign=1055&utm_source=git)** | Pennsylvania, United States | On Site | Jan 11 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Immigration Law (Winter 2026)](https://jobright.ai/jobs/info/6929e1a766796e3028f8d764?utm_campaign=1055&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 11 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6928c039d47de4798ece3a99?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jan 11 |
 | **[Southwire Company](http://southwire.com)** | **[Legal Intern - Ethics & Compliance](https://jobright.ai/jobs/info/691abb8abcdbf3560c9da150?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Munich Re](https://www.munichre.com)** | **[Intergrated Risk Management Intern](https://jobright.ai/jobs/info/6961405aa112b402660fc77f?utm_campaign=1055&utm_source=git)** | Princeton, NJ | On Site | Jan 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Global Development Compliance Intern](https://jobright.ai/jobs/info/69613dd9a112b402660fc4c2?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 09 |
 | ↳ | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/69613d72a112b402660fc460?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Jan 09 |
-| **[Minitab](http://www.minitab.com/en-us/)** | **[Legal Intern](https://jobright.ai/jobs/info/69613ac3f3f4cd13250635db?utm_campaign=1055&utm_source=git)** | State College, Pennsylvania, United States | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
