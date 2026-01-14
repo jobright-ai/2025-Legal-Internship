@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PHINIA](https://phinia.com)** | **[Supplier Compliance and Sustainability Intern - Year Round](https://jobright.ai/jobs/info/6967e464639b452fb57d78fb?utm_campaign=1055&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA | On Site | Jan 14 |
+| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Law School Intern](https://jobright.ai/jobs/info/6967d8de1703f05405a97c70?utm_campaign=1055&utm_source=git)** | Wake County, NC | On Site | Jan 14 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Legal Intern - Summer 2026](https://jobright.ai/jobs/info/695ec0c8a112b402660d75ad?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Jan 14 |
+| **[FINRA](http://www.finra.org)** | **[Law School Intern, Office of General Counsel Litigation—Labor, Employment, and Benefits](https://jobright.ai/jobs/info/6967f13c1703f05405a98fe4?utm_campaign=1055&utm_source=git)** | Rockville, MD (Job Posting) | Hybrid | Jan 14 |
+| **[Copper.co](https://copper.co)** | **[Legal - Summer Internship - New York 2026](https://jobright.ai/jobs/info/6967df75639b452fb57d764c?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 14 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Legal Intern (1L)](https://jobright.ai/jobs/info/694b16861224705e900232ee?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 14 |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7e7217a37c712687d6d3d?utm_campaign=1055&utm_source=git)** | West Deptford, NJ | On Site | Jan 14 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Governance, Risk, and Compliance (GRC) Intern](https://jobright.ai/jobs/info/694b132d1224705e90022c4d?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jan 14 |
 | **[TransUnion](http://www.transunion.com)** | **[Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/692f86d8fa28370be26ab249?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 14 |
 | **[IG Wealth Management](https://ig.ca)** | **[Summer Intern 2026 - Corporate Delivery (Legal, Compliance, real estate, Procurement, and EPMO)](https://jobright.ai/jobs/info/692f873e4c474121999e01fb?utm_campaign=1055&utm_source=git)** | Manitoba, Canada | Hybrid | Jan 14 |
@@ -104,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Rochester Regional Health](https://www.rochesterregional.org)** | **[Legal Intern](https://jobright.ai/jobs/info/6966aa087a34f5392055278b?utm_campaign=1055&utm_source=git)** | RRH - 1360 Portland | On Site | Jan 13 |
 | **[CAMBA](https://camba.org/)** | **[Consumer Summer Intern, CAMBA Legal Services](https://jobright.ai/jobs/info/6966ad067a34f53920552ae6?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 13 |
 | **[Tricentis](https://tricentis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/696682907a34f5392054fa78?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Jan 13 |
-| **[Rucker Investments](https://ruckerinvestments.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6966a7335ad3a93f8231f6a5?utm_campaign=1055&utm_source=git)** | Beverly, MA | Hybrid | Jan 13 |
 | **[Upper Midwest Law Center](https://www.umlc.org/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/6966bc89a112b4026614b5b3?utm_campaign=1055&utm_source=git)** | Minnetonka, MN | Hybrid | Jan 13 |
 | **[Tricentis](https://tricentis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6966a02aa112b40266149431?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Jan 13 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69666a6f5ad3a93f8231bcd0?utm_campaign=1055&utm_source=git)** | US - Atlanta | Hybrid | Jan 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://ohio.gov/)** | **[Law Student Intern - Summer 2026](https://jobright.ai/jobs/info/696568c66d52670c5c3e396a?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jan 12 |
 | **[ACCIONA Energía](https://www.acciona-energia.com/es/)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/696567dda112b40266134693?utm_campaign=1055&utm_source=git)** | Illinois, United States | On Site | Jan 12 |
 | **[State of Ohio](http://ohio.gov/)** | **[Law Student Intern - Summer 2026](https://jobright.ai/jobs/info/696567b36d52670c5c3e3590?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jan 12 |
-| **[Gray West Construction](graywestconstruction.com)** | **[Intern](https://jobright.ai/jobs/info/696566d76d52670c5c3e32ec?utm_campaign=1055&utm_source=git)** | Santa Ana, CA, US | On Site | Jan 12 |
-| **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/696565b22cbf4e44756ede66?utm_campaign=1055&utm_source=git)** | Colorado Springs, CO | On Site | Jan 12 |
-| **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Regulatory Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/696564bc2cbf4e44756edc0f?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 12 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[North America Scientific and Regulatory Affairs Intern](https://jobright.ai/jobs/info/696559fb6d52670c5c3e20bc?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
