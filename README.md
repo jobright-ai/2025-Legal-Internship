@@ -57,9 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nassau County District Attorney](https://nassauda.org)** | **[Intern (Summer 2026)](https://jobright.ai/jobs/info/696809431703f05405a9a6ef?utm_campaign=1055&utm_source=git)** | Hempstead, NY | On Site | Jan 14 |
+| **[Louisiana Center for Children's Rights](http://www.lakidsrights.org)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/696805a7639b452fb57d93b6?utm_campaign=1055&utm_source=git)** | New Orleans, LA | On Site | Jan 14 |
 | **[PHINIA](https://phinia.com)** | **[Supplier Compliance and Sustainability Intern - Year Round](https://jobright.ai/jobs/info/6967e464639b452fb57d78fb?utm_campaign=1055&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA | On Site | Jan 14 |
+| **[Sammons Financial Group Companies](https://www.sammonsfinancialgroup.com)** | **[Intern, Enterprise Risk Management](https://jobright.ai/jobs/info/6968010ff25a3800669655f5?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Jan 14 |
+| **[Public Knowledge](http://publicknowledge.org)** | **[Summer 2026 NCCU Legal Advocacy Internship with PKTrains](https://jobright.ai/jobs/info/6967fbfff25a380066965111?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 14 |
+| **[SageSure](https://www.sagesure.com)** | **[Claims Analyst Intern](https://jobright.ai/jobs/info/696809561703f05405a9a708?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 14 |
+| ↳ | **[Claims Analyst Intern](https://jobright.ai/jobs/info/6967fcde1703f05405a99b46?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 14 |
+| ↳ | **[Claims Analyst Intern](https://jobright.ai/jobs/info/6967ff9ff25a380066965474?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Jan 14 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Law School Intern](https://jobright.ai/jobs/info/6967d8de1703f05405a97c70?utm_campaign=1055&utm_source=git)** | Wake County, NC | On Site | Jan 14 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Legal Intern - Summer 2026](https://jobright.ai/jobs/info/695ec0c8a112b402660d75ad?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Jan 14 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Compliance Intern](https://jobright.ai/jobs/info/696807a4639b452fb57d95a3?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Jan 14 |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 DC Vendor Compliance Intern](https://jobright.ai/jobs/info/6967f94d1703f05405a99753?utm_campaign=1055&utm_source=git)** | Knoxville, TN | On Site | Jan 14 |
+| **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/6967fc2cf25a380066965137?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Jan 14 |
 | **[FINRA](http://www.finra.org)** | **[Law School Intern, Office of General Counsel Litigation—Labor, Employment, and Benefits](https://jobright.ai/jobs/info/6967f13c1703f05405a98fe4?utm_campaign=1055&utm_source=git)** | Rockville, MD (Job Posting) | Hybrid | Jan 14 |
 | **[Copper.co](https://copper.co)** | **[Legal - Summer Internship - New York 2026](https://jobright.ai/jobs/info/6967df75639b452fb57d764c?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 14 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Legal Intern (1L)](https://jobright.ai/jobs/info/694b16861224705e900232ee?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 14 |
@@ -70,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Regulatory Research Intern- Summer 2026](https://jobright.ai/jobs/info/69678084639b452fb57d1799?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 14 |
 | **[Copper.co](https://copper.co)** | **[Legal Summer Internship 2026](https://jobright.ai/jobs/info/69677df5639b452fb57d1774?utm_campaign=1055&utm_source=git)** | New York | On Site | Jan 14 |
 | **[Hyundai Motor Company](https://www.hyundai.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/692e3c884c474121999d782a?utm_campaign=1055&utm_source=git)** | Fountain Valley, CA | On Site | Jan 14 |
+| **[Bronx County District Attorney Office](https://www.bronxda.nyc.gov/html/home/home.shtml)** | **[Law School Summer 2026 (1L) Intern](https://jobright.ai/jobs/info/692f37fffa28370be26a82b7?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Jan 14 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Legal](https://jobright.ai/jobs/info/692f6167ef4b48533d144b9a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 14 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Summer 2026](https://jobright.ai/jobs/info/69678d791703f05405a92bf0?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 14 |
 | **[Washington Lawyers'​ Committee for Civil Rights and Urban Affairs](https://www.washlaw.org/)** | **[DC Area Civil Rights Legal Internships](https://jobright.ai/jobs/info/69676b8cf25a38006695d2c6?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 13 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Consumers Credit Union](http://myconsumers.org)** | **[Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/6965abdca112b4026613b8d5?utm_campaign=1055&utm_source=git)** | Lake Forest, Illinois, United States | On Site | Jan 12 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Law Student Intern - CIBC Bank USA Legal Department](https://jobright.ai/jobs/info/696583e32cbf4e44756f1686?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 12 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Third Party Risk Management](https://jobright.ai/jobs/info/6965831c5ad3a93f8230cbe7?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Jan 12 |
-| **[Travelers](https://www.travelers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/695ee0380badca5763af5aca?utm_campaign=1055&utm_source=git)** | Orange, CA | On Site | Jan 12 |
-| **[Commvault](https://www.commvault.com)** | **[Commercial Legal Intern (Remote - USA)](https://jobright.ai/jobs/info/69657fada112b402661372fd?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 12 |
-| **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Fraud](https://jobright.ai/jobs/info/69657ec5a112b402661371d9?utm_campaign=1055&utm_source=git)** | Milwaukee 111 Kilbourn | Hybrid | Jan 12 |
-| **[Cosette Pharmaceuticals, Inc.](https://cosettepharma.com)** | **[Legal Intern](https://jobright.ai/jobs/info/696579de5ad3a93f8230bfa1?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 12 |
-| **[The Third Cartel](http://www.thethirdcartel.com)** | **[Legal Internship](https://jobright.ai/jobs/info/696597ce2cbf4e44756f3f21?utm_campaign=1055&utm_source=git)** | Westland, MI | On Site | Jan 12 |
-| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Law Student Intern - 2026](https://jobright.ai/jobs/info/696593712cbf4e44756f3c9a?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jan 12 |
-| **[State of Ohio](http://ohio.gov/)** | **[Law Student Intern - Summer 2026](https://jobright.ai/jobs/info/69656c396d52670c5c3e44d4?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jan 12 |
-| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Third Party Risk Management](https://jobright.ai/jobs/info/6965903aa112b40266138dbd?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 12 |
-| **[State of Ohio](http://ohio.gov/)** | **[Law Student Intern - Summer 2026](https://jobright.ai/jobs/info/696568c66d52670c5c3e396a?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jan 12 |
-| **[ACCIONA Energía](https://www.acciona-energia.com/es/)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/696567dda112b40266134693?utm_campaign=1055&utm_source=git)** | Illinois, United States | On Site | Jan 12 |
-| **[State of Ohio](http://ohio.gov/)** | **[Law Student Intern - Summer 2026](https://jobright.ai/jobs/info/696567b36d52670c5c3e3590?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jan 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
