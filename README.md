@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LWCC](https://www.lwcc.com/)** | **[Policyholder Services Intern](https://jobright.ai/jobs/info/6969acd81703f05405abaa6b?utm_campaign=1055&utm_source=git)** | Baton Rouge Metro | On Site | Jan 15 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/69698fe5639b452fb57f8074?utm_campaign=1055&utm_source=git)** | Canada - Mississauga | Hybrid | Jan 15 |
 | ↳ | **[Regulatory Affairs Associate Intern - Summer 2026](https://jobright.ai/jobs/info/69698b59639b452fb57f6b3f?utm_campaign=1055&utm_source=git)** | Canada - Mississauga | Hybrid | Jan 15 |
+| **[Mountcastle Insurance](https://www.mountcastleinsurance.com)** | **[Risk Management Intern (Summer)](https://jobright.ai/jobs/info/6969abc31703f05405aba969?utm_campaign=1055&utm_source=git)** | Lexington, NC, 27292, US | On Site | Jan 15 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Legal Aid Society](https://jobright.ai/jobs/info/691fb7ad3f782d2f1afbf901?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 15 |
+| **[BronxWorks](https://bronxworks.org/)** | **[Tenant Defense Summer intern](https://jobright.ai/jobs/info/6969b159639b452fb57fa141?utm_campaign=1055&utm_source=git)** | Bronx, NY, US | On Site | Jan 15 |
+| **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Regulatory Affairs Associate Intern - Summer 2026](https://jobright.ai/jobs/info/6969a6b31703f05405aba534?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 15 |
+| ↳ | **[Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/6969a7871703f05405aba601?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 15 |
+| **[PetroChina Canada](https://www.petrochinacanada.com)** | **[Summer Student, Legal](https://jobright.ai/jobs/info/695eacfc08ab990f2829e632?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 15 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Legal Operations Intern - Summer 2026](https://jobright.ai/jobs/info/696968f01703f05405ab4748?utm_campaign=1055&utm_source=git)** | Atlanta GA | Hybrid | Jan 15 |
 | **[Verano](https://verano.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/696986861703f05405ab71b5?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 15 |
 | **[Southwire Company](http://southwire.com)** | **[Legal Intern](https://jobright.ai/jobs/info/696989f5639b452fb57f65f9?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
@@ -69,10 +75,10 @@ For a complete list, click the following sortable link below:
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Enterprise Risk Management Winter Intern](https://jobright.ai/jobs/info/696021d1a1bbea1d9a7af1c0?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 15 |
 | **[Legal Aid Services Of Oregon](https://lasoregon.org)** | **[Summer Clerkships – Native American Program](https://jobright.ai/jobs/info/69697030f25a3800669810bf?utm_campaign=1055&utm_source=git)** | Portland, OR | Hybrid | Jan 15 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Legal Intern](https://jobright.ai/jobs/info/69696a411703f05405ab4a00?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 15 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Intern Summer - Law School Legal](https://jobright.ai/jobs/info/69696914f25a38006698023e?utm_campaign=1055&utm_source=git)** | Ridgefield, CT | Hybrid | Jan 15 |
-| ↳ | **[Intern Summer - Law School Legal](https://jobright.ai/jobs/info/6969752c1703f05405ab5f9f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 15 |
+| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Intern  Summer - Legal Compliance & Integrity](https://jobright.ai/jobs/info/69696b40f25a380066980634?utm_campaign=1055&utm_source=git)** | Ridgefield, CT | Hybrid | Jan 15 |
+| ↳ | **[Intern Summer - Law School Legal](https://jobright.ai/jobs/info/69696914f25a38006698023e?utm_campaign=1055&utm_source=git)** | Ridgefield, CT | Hybrid | Jan 15 |
 | ↳ | **[Intern  Summer - Legal Compliance & Integrity](https://jobright.ai/jobs/info/696967f41703f05405ab4580?utm_campaign=1055&utm_source=git)** | United States | Hybrid | Jan 15 |
-| ↳ | **[Intern  Summer - Legal Compliance & Integrity](https://jobright.ai/jobs/info/69696b40f25a380066980634?utm_campaign=1055&utm_source=git)** | Ridgefield, CT | Hybrid | Jan 15 |
+| ↳ | **[Intern Summer - Law School Legal](https://jobright.ai/jobs/info/6969752c1703f05405ab5f9f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 15 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2027 2L Summer Associate - Indianapolis](https://jobright.ai/jobs/info/69694826639b452fb57f12f4?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Jan 15 |
 | **[Charlotte Area Transit System](http://ridetransit.org)** | **[City Attorney Internship Program.](https://jobright.ai/jobs/info/69696d53f25a380066980a5a?utm_campaign=1055&utm_source=git)** | Charlotte-Mecklenburg Government Center | On Site | Jan 15 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - City Attorney](https://jobright.ai/jobs/info/696966be639b452fb57f381b?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Jan 15 |
@@ -99,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/68d30ef68c62e63bc7fdd58f?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Jan 15 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Helena)](https://jobright.ai/jobs/info/696902b9f25a3800669795e8?utm_campaign=1055&utm_source=git)** | Helena, MT | On Site | Jan 15 |
 | ↳ | **[Summer Law Clerk – Commercial Litigation, Holland & Hart (Boise)](https://jobright.ai/jobs/info/6968faac1703f05405aad912?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Jan 15 |
-| ↳ | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart  (Denver)](https://jobright.ai/jobs/info/69691843639b452fb57ed9cc?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Jan 15 |
 | ↳ | **[Summer Law Clerk – Commercial Litigation, Holland & Hart (Las Vegas)](https://jobright.ai/jobs/info/696912d2639b452fb57ed70f?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Jan 15 |
+| ↳ | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart  (Denver)](https://jobright.ai/jobs/info/69691843639b452fb57ed9cc?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Jan 15 |
 | ↳ | **[Summer Law Clerk – Commercial Litigation, Holland & Hart (Denver)](https://jobright.ai/jobs/info/69690709639b452fb57ed130?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jan 15 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Compliance Analyst - R10664](https://jobright.ai/jobs/info/68f6f72776a51a4307bdfbeb?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 15 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Contracts)](https://jobright.ai/jobs/info/695a2e80f1f8465b79f07a5d?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Jan 15 |
@@ -110,14 +116,14 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk Intern – Technology Expertise (Summer 2026)](https://jobright.ai/jobs/info/6930ac31fa28370be26b238d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 15 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6933946c764507023d1b702a?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 15 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Santa Fe)](https://jobright.ai/jobs/info/6968f2ee639b452fb57ec4ef?utm_campaign=1055&utm_source=git)** | Santa Fe, NM | On Site | Jan 15 |
+| ↳ | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Phoenix)](https://jobright.ai/jobs/info/69690e711703f05405aae44d?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 15 |
 | ↳ | **[Summer Law Clerk – Tax, Holland & Hart (Denver)](https://jobright.ai/jobs/info/696904721703f05405aadf36?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jan 15 |
 | ↳ | **[Summer Law Clerk – Patent Systems, Holland & Hart (Boulder)](https://jobright.ai/jobs/info/69690f671703f05405aae4b8?utm_campaign=1055&utm_source=git)** | Boulder, CO | On Site | Jan 15 |
-| ↳ | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Phoenix)](https://jobright.ai/jobs/info/69690e711703f05405aae44d?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 15 |
 | ↳ | **[Summer Law Clerk – Corporate, Holland & Hart (Boise)](https://jobright.ai/jobs/info/6968f18e639b452fb57ec4c5?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Jan 15 |
 | **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Legal](https://jobright.ai/jobs/info/694c3b77d64ebf28d821d537?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jan 15 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart  (Salt Lake City)](https://jobright.ai/jobs/info/69690141f25a3800669794f0?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Jan 15 |
-| ↳ | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Cheyenne)](https://jobright.ai/jobs/info/6968fa87f25a3800669790da?utm_campaign=1055&utm_source=git)** | Cheyenne, WY | On Site | Jan 15 |
 | ↳ | **[Summer Law Clerk – Intellectual Property, Holland & Hart (Denver)](https://jobright.ai/jobs/info/69690bfcf25a380066979a9f?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Jan 15 |
+| ↳ | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Cheyenne)](https://jobright.ai/jobs/info/6968fa87f25a3800669790da?utm_campaign=1055&utm_source=git)** | Cheyenne, WY | On Site | Jan 15 |
 | ↳ | **[Summer Law Clerk – Commercial Litigation, Holland & Hart (Salt Lake City)](https://jobright.ai/jobs/info/6968fab31703f05405aad91b?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Jan 15 |
 | ↳ | **[Summer Law Clerk – Commercial Litigation, Holland & Hart (Helena)](https://jobright.ai/jobs/info/6968f1b3639b452fb57ec4cb?utm_campaign=1055&utm_source=git)** | Helena, MT | On Site | Jan 15 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f83e54a628d10664e80c70?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Jan 15 |
@@ -138,7 +144,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/696880c2f25a38006696f521?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 14 |
 | ↳ | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/69688dc5639b452fb57e4630?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 14 |
 | ↳ | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/69686c42f25a38006696d97e?utm_campaign=1055&utm_source=git)** | Raleigh, NC | Hybrid | Jan 14 |
-| ↳ | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/696880a4f25a38006696f4ea?utm_campaign=1055&utm_source=git)** | Boulder, CO | Hybrid | Jan 14 |
+| **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6969a70f639b452fb57f982f?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jan 14 |
+| **[Environmental Defense Fund](https://www.edf.org/)** | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/696880a4f25a38006696f4ea?utm_campaign=1055&utm_source=git)** | Boulder, CO | Hybrid | Jan 14 |
 | **[Expeditors](http://www.expeditors.com)** | **[Internship - Customs Post Entry Team](https://jobright.ai/jobs/info/69689613639b452fb57e5461?utm_campaign=1055&utm_source=git)** | 1355 N Scottsdale Rd, Scottsdale, AZ 85257, USA | On Site | Jan 14 |
 | **[FM](https://www.fmglobal.com)** | **[Legal Department Intern](https://jobright.ai/jobs/info/696845c11703f05405a9f8a1?utm_campaign=1055&utm_source=git)** | US-RI-Johnston | On Site | Jan 14 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Intern - Supervision & Regulation - BSA / AML](https://jobright.ai/jobs/info/69688f27639b452fb57e4868?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Jan 14 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Environmental Defense Fund](https://www.edf.org/)** | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/69682371639b452fb57db112?utm_campaign=1055&utm_source=git)** | Raleigh | Hybrid | Jan 14 |
 | ↳ | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/6968225cf25a380066967902?utm_campaign=1055&utm_source=git)** | Remote - US Home | Remote | Jan 14 |
 | **[NYS Division of Human Rights](https://dhr.ny.gov)** | **[Legal Intern (Legal Aide)](https://jobright.ai/jobs/info/696815daf25a380066966c55?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Jan 14 |
-| **[Environmental Defense Fund](https://www.edf.org/)** | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/696833bf1703f05405a9de33?utm_campaign=1055&utm_source=git)** | New York | Hybrid | Jan 14 |
-| ↳ | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/69683949639b452fb57dd960?utm_campaign=1055&utm_source=git)** | San Francisco | Hybrid | Jan 14 |
-| ↳ | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/69683a46f25a380066969fdd?utm_campaign=1055&utm_source=git)** | Austin | Hybrid | Jan 14 |
-| ↳ | **[Jim Tripp Emerging Issues Legal Intern](https://jobright.ai/jobs/info/696831f2639b452fb57dcc16?utm_campaign=1055&utm_source=git)** | Boulder | Hybrid | Jan 14 |
-| **[Organic Valley](https://www.organicvalley.coop)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/696858daf25a38006696c009?utm_campaign=1055&utm_source=git)** | Cashton, WI | Hybrid | Jan 14 |
-| **[NYS Division of Human Rights](https://dhr.ny.gov)** | **[Legal Intern (Legal Aide)](https://jobright.ai/jobs/info/6968395b639b452fb57dd96d?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Jan 14 |
-| **[Nassau County District Attorney](https://nassauda.org)** | **[Intern (Summer 2026)](https://jobright.ai/jobs/info/696809431703f05405a9a6ef?utm_campaign=1055&utm_source=git)** | Hempstead, NY | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
