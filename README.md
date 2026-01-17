@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harris County Attorney's Office](https://cao.harriscountytx.gov/)** | **[Local Law Student-Paid Intern](https://jobright.ai/jobs/info/696b4d4c5fc86241853aa6ca?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 17 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[Legal Intern - Summer](https://jobright.ai/jobs/info/696b323b350cf438031282d9?utm_campaign=1055&utm_source=git)** | Waltham, MA | Hybrid | Jan 16 |
 | **[Pierce County](https://www.piercecountywa.gov/)** | **[Legal Intern - Rule 9](https://jobright.ai/jobs/info/696b0da9350cf438031250be?utm_campaign=1055&utm_source=git)** | Greater Seattle Area | On Site | Jan 16 |
 | **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Intern-Cybersecurity JSOX Compliance Analyst](https://jobright.ai/jobs/info/696b0b495fc86241853a5989?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Jan 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spencer's](http://www.spencersonline.com/)** | **[Contract Management and Litigation Summer Internship 2026](https://jobright.ai/jobs/info/69696171f25a38006697f4c0?utm_campaign=1055&utm_source=git)** | Egg Harbor, NJ | On Site | Jan 15 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Intern Summer - Law School Legal](https://jobright.ai/jobs/info/696984681703f05405ab6fa1?utm_campaign=1055&utm_source=git)** | Ridgefield, CT | On Site | Jan 15 |
 | ↳ | **[Intern Summer - Legal Compliance & Integrity](https://jobright.ai/jobs/info/696983911703f05405ab6edd?utm_campaign=1055&utm_source=git)** | Ridgefield, CT | Hybrid | Jan 15 |
-| **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Enterprise Risk Management Winter Intern](https://jobright.ai/jobs/info/696021d1a1bbea1d9a7af1c0?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
