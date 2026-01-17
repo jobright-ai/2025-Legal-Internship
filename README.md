@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arapahoe County](https://www.arapahoegov.com)** | **[2026 3L Student Practice Act Internship](https://jobright.ai/jobs/info/696beaf65fc86241853b2be3?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Jan 17 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Compliance Intern](https://jobright.ai/jobs/info/696bc8435fc86241853b1e22?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Jan 17 |
 | **[City of New York](http://www1.nyc.gov)** | **[Law School Summer (1L) Intern](https://jobright.ai/jobs/info/696bc4f55fc86241853b1dd2?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Jan 17 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/696bafeddb26b618950f2c52?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Philip Morris International](https://www.pmi.com)** | **[Inkompass Head Office - Counsel Intern](https://jobright.ai/jobs/info/69421abf14ee092a69004291?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 15 |
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Risk, Compliance, and Internal Audit, Summer 2026 - Vancouver (Co-op/Internship) - 8 Months](https://jobright.ai/jobs/info/6969c8231703f05405abc884?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 15 |
 | ↳ | **[Risk, Compliance, and Internal Audit, Summer 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6969c3ca1703f05405abc0ce?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 15 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/69698fe5639b452fb57f8074?utm_campaign=1055&utm_source=git)** | Canada - Mississauga | Hybrid | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
