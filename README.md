@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Compliance Intern](https://jobright.ai/jobs/info/696bc8435fc86241853b1e22?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Jan 17 |
+| **[City of New York](http://www1.nyc.gov)** | **[Law School Summer (1L) Intern](https://jobright.ai/jobs/info/696bc4f55fc86241853b1dd2?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Jan 17 |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/696bafeddb26b618950f2c52?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 17 |
 | **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Legal Internship- Detained Adult Program, Direct Representation](https://jobright.ai/jobs/info/696bae81350cf4380312f859?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jan 17 |
 | ↳ | **[Undergraduate Internship- Detained Adult Program, Direct Representation](https://jobright.ai/jobs/info/696ba8145fc86241853affbb?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jan 17 |
 | ↳ | **[Legal Internship- Immigration Impact Lab](https://jobright.ai/jobs/info/696ba0e9350cf4380312f4a9?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jan 17 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Compliance Intern](https://jobright.ai/jobs/info/696b9858db26b618950f22d8?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Jan 17 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Corporate Compliance Summer Intern](https://jobright.ai/jobs/info/696bb8aa350cf4380312fa32?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Jan 17 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c6e5597d0db4114273b4f9?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Jan 17 |
 | **[Enterprise](https://www.enterprise.com)** | **[Vehicle Licensing Internship - Summer 2026](https://jobright.ai/jobs/info/693395e6a0dde7020e2ef689?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Jan 17 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Subcontracts, Legal - Campus 2026](https://jobright.ai/jobs/info/694f42f8ce13cd105657708c?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Jan 17 |
@@ -122,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/696a89b9db26b618950db1c3?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 16 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/696a880e5fc8624185397fe6?utm_campaign=1055&utm_source=git)** | Huron, SD | On Site | Jan 16 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Law Intern, Sentencing Reform](https://jobright.ai/jobs/info/696a8284350cf4380311737b?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 16 |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Corporate Legal and Compliance Intern](https://jobright.ai/jobs/info/696aa730db26b618950dcedd?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Jan 16 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Compliance Intern](https://jobright.ai/jobs/info/696ab48adb26b618950df288?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 16 |
 | **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696a7d3b5fc8624185397b08?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
 | ↳ | **[Compliance and Economic Development Intern- Summer 2026](https://jobright.ai/jobs/info/696a7ca45fc8624185397a95?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Philip Morris International](https://www.pmi.com)** | **[Inkompass Head Office - Counsel Intern](https://jobright.ai/jobs/info/69421abf14ee092a69004291?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 15 |
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Risk, Compliance, and Internal Audit, Summer 2026 - Vancouver (Co-op/Internship) - 8 Months](https://jobright.ai/jobs/info/6969c8231703f05405abc884?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 15 |
 | ↳ | **[Risk, Compliance, and Internal Audit, Summer 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6969c3ca1703f05405abc0ce?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 15 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/69698fe5639b452fb57f8074?utm_campaign=1055&utm_source=git)** | Canada - Mississauga | Hybrid | Jan 15 |
-| ↳ | **[Regulatory Affairs Associate Intern - Summer 2026](https://jobright.ai/jobs/info/69698b59639b452fb57f6b3f?utm_campaign=1055&utm_source=git)** | Canada - Mississauga | Hybrid | Jan 15 |
-| **[Mountcastle Insurance](https://www.mountcastleinsurance.com)** | **[Risk Management Intern (Summer)](https://jobright.ai/jobs/info/6969abc31703f05405aba969?utm_campaign=1055&utm_source=git)** | Lexington, NC, 27292, US | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
