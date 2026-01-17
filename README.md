@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Repligen Corporation](http://www.repligen.com)** | **[Legal Intern - Summer](https://jobright.ai/jobs/info/696b323b350cf438031282d9?utm_campaign=1055&utm_source=git)** | Waltham, MA | Hybrid | Jan 16 |
 | **[Pierce County](https://www.piercecountywa.gov/)** | **[Legal Intern - Rule 9](https://jobright.ai/jobs/info/696b0da9350cf438031250be?utm_campaign=1055&utm_source=git)** | Greater Seattle Area | On Site | Jan 16 |
 | **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Intern-Cybersecurity JSOX Compliance Analyst](https://jobright.ai/jobs/info/696b0b495fc86241853a5989?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Jan 16 |
+| **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Regulatory Compliance Student](https://jobright.ai/jobs/info/696b326ddb26b618950eb8e5?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jan 16 |
 | **[The Sikh Coalition](http://www.sikhcoalition.org)** | **[Legal Internship Summer 2026](https://jobright.ai/jobs/info/696afe3adb26b618950e736c?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Jan 16 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Digital Security Group Compliance Analyst - 3 month internship](https://jobright.ai/jobs/info/696afbb4db26b618950e6fe4?utm_campaign=1055&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Jan 16 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/696afa7c350cf43803123780?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Jan 16 |
@@ -85,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Risk Control Intern (Summer 2026)](https://jobright.ai/jobs/info/696ae8d6350cf438031219eb?utm_campaign=1055&utm_source=git)** | Westfield Center, OH, United States | Hybrid | Jan 16 |
 | **[Yakima County Government](https://www.yakimacounty.us/)** | **[Program Representative I (Public Defender Legal Intern)](https://jobright.ai/jobs/info/696aafa3db26b618950de264?utm_campaign=1055&utm_source=git)** | Yakima County General Administration Building | On Site | Jan 16 |
 | **[The Bancorp](http://www.thebancorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/696ac93edb26b618950e134e?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Jan 16 |
-| **[Arlington County Government](https://www.arlingtonva.us)** | **[Summer Camp Coordination Intern](https://jobright.ai/jobs/info/696aac65350cf4380311a009?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Jan 16 |
 | **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Legal Student](https://jobright.ai/jobs/info/696ad7c35fc862418539ffbf?utm_campaign=1055&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Jan 16 |
 | **[Razer Inc.](https://www.razer.com)** | **[Legal Intern (Hourly)](https://jobright.ai/jobs/info/696aab61350cf43803119c72?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Jan 16 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/696aa9ad5fc862418539a128?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 16 |
@@ -95,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[UL Standards & Engagement](https://ulse.org)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/696ac4d55fc862418539dec9?utm_campaign=1055&utm_source=git)** | Evanston, IL | On Site | Jan 16 |
 | **[Cosette Pharmaceuticals, Inc.](https://cosettepharma.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/696ac096350cf4380311ce53?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 16 |
 | **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Undergraduate Internship- Detained Adult Program, Direct Representation](https://jobright.ai/jobs/info/696a9b685fc8624185399615?utm_campaign=1055&utm_source=git)** | Fully Remote | Remote | Jan 16 |
-| **[Ember Shore Solutions](https://www.linkedin.com/company/69294145)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/696a9a075fc8624185399463?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 16 |
 | **[UL Research Institutes](https://ul.org)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/696a96aa5fc862418539901a?utm_campaign=1055&utm_source=git)** | Evanston, IL | On Site | Jan 16 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69104536988c2b7b4ec50c5d?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Jan 16 |
 | **[Cinemark](http://www.cinemark.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6960b3477ebc25398eb6932b?utm_campaign=1055&utm_source=git)** | Plano, TX | Hybrid | Jan 16 |
@@ -114,6 +114,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intellecutual Property Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696a7c3a5fc8624185397a31?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
 | **[Roche](http://www.roche.com)** | **[2026 - Regulatory Affairs Intern](https://jobright.ai/jobs/info/696a7233db26b618950da3f1?utm_campaign=1055&utm_source=git)** | Mississauga | Hybrid | Jan 16 |
 | **[BioSpace](http://www.biospace.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/696a6bb45fc8624185396d79?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | Jan 16 |
+| **[KTI Logistics, LLC](http://www.ktilog.com/)** | **[Compliance Internship](https://jobright.ai/jobs/info/696a8431db26b618950dae15?utm_campaign=1055&utm_source=git)** | Rydal, GA | On Site | Jan 16 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/696a765a350cf43803116cb7?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 16 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Compliance/Regulatory](https://jobright.ai/jobs/info/694eb99da2668b7f5451fee1?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 16 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jan 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Intern Summer - Law School Legal](https://jobright.ai/jobs/info/696984681703f05405ab6fa1?utm_campaign=1055&utm_source=git)** | Ridgefield, CT | On Site | Jan 15 |
 | ↳ | **[Intern Summer - Legal Compliance & Integrity](https://jobright.ai/jobs/info/696983911703f05405ab6edd?utm_campaign=1055&utm_source=git)** | Ridgefield, CT | Hybrid | Jan 15 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Enterprise Risk Management Winter Intern](https://jobright.ai/jobs/info/696021d1a1bbea1d9a7af1c0?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 15 |
-| **[Legal Aid Services Of Oregon](https://lasoregon.org)** | **[Summer Clerkships – Native American Program](https://jobright.ai/jobs/info/69697030f25a3800669810bf?utm_campaign=1055&utm_source=git)** | Portland, OR | Hybrid | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
