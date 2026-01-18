@@ -63,7 +63,6 @@ For a complete list, click the following sortable link below:
 | **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Legal Internship- Detained Adult Program, Direct Representation](https://jobright.ai/jobs/info/696bae81350cf4380312f859?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jan 17 |
 | ↳ | **[Undergraduate Internship- Detained Adult Program, Direct Representation](https://jobright.ai/jobs/info/696ba8145fc86241853affbb?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jan 17 |
 | ↳ | **[Legal Internship- Immigration Impact Lab](https://jobright.ai/jobs/info/696ba0e9350cf4380312f4a9?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jan 17 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Corporate Compliance Summer Intern](https://jobright.ai/jobs/info/696bb8aa350cf4380312fa32?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Jan 17 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c6e5597d0db4114273b4f9?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Jan 17 |
 | **[Enterprise](https://www.enterprise.com)** | **[Vehicle Licensing Internship - Summer 2026](https://jobright.ai/jobs/info/693395e6a0dde7020e2ef689?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Jan 17 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Subcontracts, Legal - Campus 2026](https://jobright.ai/jobs/info/694f42f8ce13cd105657708c?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Jan 17 |
@@ -129,7 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696a7d3b5fc8624185397b08?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
 | ↳ | **[Compliance and Economic Development Intern- Summer 2026](https://jobright.ai/jobs/info/696a7ca45fc8624185397a95?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
 | ↳ | **[Intellecutual Property Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696a7c3a5fc8624185397a31?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
-| **[UL Standards & Engagement](https://ulse.org)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/696a7ab1db26b618950da907?utm_campaign=1055&utm_source=git)** | Evanston, IL | On Site | Jan 16 |
+| **[UL Standards & Engagement](https://ulse.org)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/696a7822350cf43803116db7?utm_campaign=1055&utm_source=git)** | Evanston, IL | On Site | Jan 16 |
 | **[Roche](http://www.roche.com)** | **[2026 - Regulatory Affairs Intern](https://jobright.ai/jobs/info/696a7233db26b618950da3f1?utm_campaign=1055&utm_source=git)** | Mississauga | Hybrid | Jan 16 |
 | **[BioSpace](http://www.biospace.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/696a6bb45fc8624185396d79?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | Jan 16 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Compliance/Regulatory](https://jobright.ai/jobs/info/694eb99da2668b7f5451fee1?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 16 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Risk, Compliance, and Internal Audit, Summer 2026 - Vancouver (Co-op/Internship) - 8 Months](https://jobright.ai/jobs/info/6969c8231703f05405abc884?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 15 |
 | ↳ | **[Risk, Compliance, and Internal Audit, Summer 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6969c3ca1703f05405abc0ce?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 15 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/69698fe5639b452fb57f8074?utm_campaign=1055&utm_source=git)** | Canada - Mississauga | Hybrid | Jan 15 |
+| ↳ | **[Regulatory Affairs Associate Intern - Summer 2026](https://jobright.ai/jobs/info/69698b59639b452fb57f6b3f?utm_campaign=1055&utm_source=git)** | Canada - Mississauga | Hybrid | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
