@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Charlotte](https://charlottenc.gov/)** | **[City Attorney Internship Program.](https://jobright.ai/jobs/info/696d48ce5fc86241853c427c?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Jan 18 |
+| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[Local Law Student-Paid Intern](https://jobright.ai/jobs/info/696d4693db26b61895105f63?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 18 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Spring 2026/Summer 2026 Intern - Law - Sacramento, CA CLC](https://jobright.ai/jobs/info/692ec3f7ef4b48533d141272?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jan 18 |
+| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[Academic Paralegal Intern](https://jobright.ai/jobs/info/696d3ab3350cf4380314230d?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 18 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Rising 2L (Intern) - United States](https://jobright.ai/jobs/info/6917e47315b415636717c870?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 | **[Rapiscan Systems](http://www.rapiscansystems.com/)** | **[Trade Compliance Intern - (Immediate hire)](https://jobright.ai/jobs/info/6917d76815b415636717c111?utm_campaign=1055&utm_source=git)** | Billerica, MA | On Site | Jan 18 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Legal) - 2 Positions](https://jobright.ai/jobs/info/690cdb28221b890c2780074b?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Jan 18 |
@@ -95,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Faurecia](https://www.forvia.com)** | **[Legal Internship](https://jobright.ai/jobs/info/696aea375fc86241853a253f?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Jan 16 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Risk Control Intern (Summer 2026)](https://jobright.ai/jobs/info/696ae6b35fc86241853a1cb4?utm_campaign=1055&utm_source=git)** | Westfield Center, OH | Hybrid | Jan 16 |
 | **[OneTeam Partners](https://oneteam.com/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/696b07b25fc86241853a533c?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 16 |
-| **[State of Missouri](http://mo.gov)** | **[Risk Management Intern](https://jobright.ai/jobs/info/696ade8d350cf43803120527?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Jan 16 |
 | **[Mellon Foundation](https://mellon.org)** | **[Intern](https://jobright.ai/jobs/info/696affe65fc86241853a4855?utm_campaign=1055&utm_source=git)** | New York, NY, US | Hybrid | Jan 16 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[Legal Intern - Summer](https://jobright.ai/jobs/info/696b03ca350cf438031243ef?utm_campaign=1055&utm_source=git)** | US-MA-Waltham | Hybrid | Jan 16 |
 | **[PenAir Credit Union](http://penair.org)** | **[Fraud Assistant Intern](https://jobright.ai/jobs/info/696b096c5fc86241853a54de?utm_campaign=1055&utm_source=git)** | Pensacola, FL, US | On Site | Jan 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mountcastle Insurance](https://www.mountcastleinsurance.com)** | **[Risk Management Intern (Summer)](https://jobright.ai/jobs/info/696a12e0db26b618950d4a7e?utm_campaign=1055&utm_source=git)** | Lexington, NC | On Site | Jan 16 |
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Summer Legal Intern - Transactional](https://jobright.ai/jobs/info/6945f11d63141d18845589b8?utm_campaign=1055&utm_source=git)** | Westport, CT | Hybrid | Jan 15 |
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Legal Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/696ae353db26b618950e41d8?utm_campaign=1055&utm_source=git)** | 200 North Walker, Oklahoma City, OK, 73102, US | On Site | Jan 15 |
-| **[LWCC](https://www.lwcc.com/)** | **[Policyholder Services Intern](https://jobright.ai/jobs/info/6969acd81703f05405abaa6b?utm_campaign=1055&utm_source=git)** | Baton Rouge Metro | On Site | Jan 15 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Spring 2026/Summer 2026 Intern - Law - Sacramento, CA CLC](https://jobright.ai/jobs/info/692ec3f7ef4b48533d141272?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jan 15 |
-| **[Philip Morris International](https://www.pmi.com)** | **[Inkompass Head Office - Counsel Intern](https://jobright.ai/jobs/info/69421abf14ee092a69004291?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
