@@ -129,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/696a89b9db26b618950db1c3?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 16 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/696a880e5fc8624185397fe6?utm_campaign=1055&utm_source=git)** | Huron, SD | On Site | Jan 16 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Law Intern, Sentencing Reform](https://jobright.ai/jobs/info/696a8284350cf4380311737b?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 16 |
-| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Compliance Intern](https://jobright.ai/jobs/info/696ab48adb26b618950df288?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 16 |
 | **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696a7d3b5fc8624185397b08?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
 | ↳ | **[Compliance and Economic Development Intern- Summer 2026](https://jobright.ai/jobs/info/696a7ca45fc8624185397a95?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
 | ↳ | **[Intellecutual Property Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696a7c3a5fc8624185397a31?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Legal Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/696ae353db26b618950e41d8?utm_campaign=1055&utm_source=git)** | 200 North Walker, Oklahoma City, OK, 73102, US | On Site | Jan 15 |
 | **[LWCC](https://www.lwcc.com/)** | **[Policyholder Services Intern](https://jobright.ai/jobs/info/6969acd81703f05405abaa6b?utm_campaign=1055&utm_source=git)** | Baton Rouge Metro | On Site | Jan 15 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Spring 2026/Summer 2026 Intern - Law - Sacramento, CA CLC](https://jobright.ai/jobs/info/692ec3f7ef4b48533d141272?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jan 15 |
+| **[Philip Morris International](https://www.pmi.com)** | **[Inkompass Head Office - Counsel Intern](https://jobright.ai/jobs/info/69421abf14ee092a69004291?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
