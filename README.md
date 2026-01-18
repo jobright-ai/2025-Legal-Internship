@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/68cdb92e1ad6b16f0289e426?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Jan 18 |
 | **[Arapahoe County](https://www.arapahoegov.com)** | **[2026 3L Student Practice Act Internship](https://jobright.ai/jobs/info/696beaf65fc86241853b2be3?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Jan 17 |
 | **[City of New York](http://www1.nyc.gov)** | **[Law School Summer (1L) Intern](https://jobright.ai/jobs/info/696bc4f55fc86241853b1dd2?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Jan 17 |
 | **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Legal Internship- Detained Adult Program, Direct Representation](https://jobright.ai/jobs/info/696bae81350cf4380312f859?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jan 17 |
@@ -129,7 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696a7d3b5fc8624185397b08?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
 | ↳ | **[Compliance and Economic Development Intern- Summer 2026](https://jobright.ai/jobs/info/696a7ca45fc8624185397a95?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
 | ↳ | **[Intellecutual Property Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696a7c3a5fc8624185397a31?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
-| **[UL Standards & Engagement](https://ulse.org)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/696a7822350cf43803116db7?utm_campaign=1055&utm_source=git)** | Evanston, IL | On Site | Jan 16 |
+| **[UL Standards & Engagement](https://ulse.org)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/696a7ab1db26b618950da907?utm_campaign=1055&utm_source=git)** | Evanston, IL | On Site | Jan 16 |
 | **[Roche](http://www.roche.com)** | **[2026 - Regulatory Affairs Intern](https://jobright.ai/jobs/info/696a7233db26b618950da3f1?utm_campaign=1055&utm_source=git)** | Mississauga | Hybrid | Jan 16 |
 | **[BioSpace](http://www.biospace.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/696a6bb45fc8624185396d79?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | Jan 16 |
 | **[KTI Logistics, LLC](http://www.ktilog.com/)** | **[Compliance Internship](https://jobright.ai/jobs/info/696a8431db26b618950dae15?utm_campaign=1055&utm_source=git)** | Rydal, GA | On Site | Jan 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://www.statefarm.com/careers)** | **[Spring 2026/Summer 2026 Intern - Law - Sacramento, CA CLC](https://jobright.ai/jobs/info/692ec3f7ef4b48533d141272?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jan 15 |
 | **[Philip Morris International](https://www.pmi.com)** | **[Inkompass Head Office - Counsel Intern](https://jobright.ai/jobs/info/69421abf14ee092a69004291?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 15 |
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Risk, Compliance, and Internal Audit, Summer 2026 - Vancouver (Co-op/Internship) - 8 Months](https://jobright.ai/jobs/info/6969c8231703f05405abc884?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 15 |
-| ↳ | **[Risk, Compliance, and Internal Audit, Summer 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6969c3ca1703f05405abc0ce?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
