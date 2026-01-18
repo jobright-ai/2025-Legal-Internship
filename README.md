@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Arapahoe County](https://www.arapahoegov.com)** | **[2026 3L Student Practice Act Internship](https://jobright.ai/jobs/info/696beaf65fc86241853b2be3?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Jan 17 |
 | **[City of New York](http://www1.nyc.gov)** | **[Law School Summer (1L) Intern](https://jobright.ai/jobs/info/696bc4f55fc86241853b1dd2?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Jan 17 |
-| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/696bafeddb26b618950f2c52?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 17 |
 | **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Legal Internship- Detained Adult Program, Direct Representation](https://jobright.ai/jobs/info/696bae81350cf4380312f859?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jan 17 |
 | ↳ | **[Undergraduate Internship- Detained Adult Program, Direct Representation](https://jobright.ai/jobs/info/696ba8145fc86241853affbb?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jan 17 |
 | ↳ | **[Legal Internship- Immigration Impact Lab](https://jobright.ai/jobs/info/696ba0e9350cf4380312f4a9?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jan 17 |
@@ -86,6 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Columbia Insurance](https://www.colinsgrp.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/696af395350cf43803122ff7?utm_campaign=1055&utm_source=git)** | Columbia, MO | On Site | Jan 16 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[SkillBridge Intern DOD: Quality Compliance (Onsite)](https://jobright.ai/jobs/info/696af385db26b618950e6602?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Jan 16 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Internship - Regulatory Affairs, Labeling](https://jobright.ai/jobs/info/696af373db26b618950e65e3?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jan 16 |
+| **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Summer 2026 Intern - Vendor Oversight](https://jobright.ai/jobs/info/696c457fdb26b618950f9b73?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Jan 16 |
+| **[Arlington County Government](https://www.arlingtonva.us)** | **[Summer Camp Coordination Intern](https://jobright.ai/jobs/info/696c449c350cf43803136946?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Jan 16 |
 | **[Faurecia](https://www.forvia.com)** | **[Legal Internship](https://jobright.ai/jobs/info/696aea375fc86241853a253f?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Jan 16 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Risk Control Intern (Summer 2026)](https://jobright.ai/jobs/info/696ae6b35fc86241853a1cb4?utm_campaign=1055&utm_source=git)** | Westfield Center, OH | Hybrid | Jan 16 |
 | **[OneTeam Partners](https://oneteam.com/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/696b07b25fc86241853a533c?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 16 |
@@ -128,7 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696a7d3b5fc8624185397b08?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
 | ↳ | **[Compliance and Economic Development Intern- Summer 2026](https://jobright.ai/jobs/info/696a7ca45fc8624185397a95?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
 | ↳ | **[Intellecutual Property Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696a7c3a5fc8624185397a31?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
-| **[UL Standards & Engagement](https://ulse.org)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/696a7822350cf43803116db7?utm_campaign=1055&utm_source=git)** | Evanston, IL | On Site | Jan 16 |
+| **[UL Standards & Engagement](https://ulse.org)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/696a7ab1db26b618950da907?utm_campaign=1055&utm_source=git)** | Evanston, IL | On Site | Jan 16 |
 | **[Roche](http://www.roche.com)** | **[2026 - Regulatory Affairs Intern](https://jobright.ai/jobs/info/696a7233db26b618950da3f1?utm_campaign=1055&utm_source=git)** | Mississauga | Hybrid | Jan 16 |
 | **[BioSpace](http://www.biospace.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/696a6bb45fc8624185396d79?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | Jan 16 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Compliance/Regulatory](https://jobright.ai/jobs/info/694eb99da2668b7f5451fee1?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Risk, Compliance, and Internal Audit, Summer 2026 - Vancouver (Co-op/Internship) - 8 Months](https://jobright.ai/jobs/info/6969c8231703f05405abc884?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 15 |
 | ↳ | **[Risk, Compliance, and Internal Audit, Summer 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6969c3ca1703f05405abc0ce?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 15 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/69698fe5639b452fb57f8074?utm_campaign=1055&utm_source=git)** | Canada - Mississauga | Hybrid | Jan 15 |
-| ↳ | **[Regulatory Affairs Associate Intern - Summer 2026](https://jobright.ai/jobs/info/69698b59639b452fb57f6b3f?utm_campaign=1055&utm_source=git)** | Canada - Mississauga | Hybrid | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
