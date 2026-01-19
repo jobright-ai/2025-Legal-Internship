@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Records & Information Governance](https://jobright.ai/jobs/info/696e172c350cf4380314dac0?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Jan 19 |
+| ↳ | **[College Intern - Records & Information Governance](https://jobright.ai/jobs/info/696e0011db26b6189510fbcc?utm_campaign=1055&utm_source=git)** | Tempe, AZ, US | Hybrid | Jan 19 |
+| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[SRA- Intern](https://jobright.ai/jobs/info/696dfe43db26b6189510f9f1?utm_campaign=1055&utm_source=git)** | Canada - ON - Ontario | On Site | Jan 19 |
 | **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Commonwealth's Attorney](https://jobright.ai/jobs/info/696dcf11350cf4380314a10f?utm_campaign=1055&utm_source=git)** | Chesterfield, VA | On Site | Jan 18 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[City Attorney Internship Program.](https://jobright.ai/jobs/info/696d48ce5fc86241853c427c?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Jan 18 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[Local Law Student-Paid Intern](https://jobright.ai/jobs/info/696d4693db26b61895105f63?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 18 |
@@ -135,7 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696a7d3b5fc8624185397b08?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
 | ↳ | **[Compliance and Economic Development Intern- Summer 2026](https://jobright.ai/jobs/info/696a7ca45fc8624185397a95?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
 | ↳ | **[Intellecutual Property Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696a7c3a5fc8624185397a31?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
-| **[UL Standards & Engagement](https://ulse.org)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/696a7ab1db26b618950da907?utm_campaign=1055&utm_source=git)** | Evanston, IL | On Site | Jan 16 |
+| **[UL Standards & Engagement](https://ulse.org)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/696a7822350cf43803116db7?utm_campaign=1055&utm_source=git)** | Evanston, IL | On Site | Jan 16 |
 | **[Roche](http://www.roche.com)** | **[2026 - Regulatory Affairs Intern](https://jobright.ai/jobs/info/696a7233db26b618950da3f1?utm_campaign=1055&utm_source=git)** | Mississauga | Hybrid | Jan 16 |
 | **[BioSpace](http://www.biospace.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/696a6bb45fc8624185396d79?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | Jan 16 |
 | **[KTI Logistics, LLC](http://www.ktilog.com/)** | **[Compliance Internship](https://jobright.ai/jobs/info/696a8431db26b618950dae15?utm_campaign=1055&utm_source=git)** | Rydal, GA | On Site | Jan 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Chemical Regulatory Compliance Internship - Summer 2026 - Erie, PA](https://jobright.ai/jobs/info/69560b7e9f1b381eb26f4e7f?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Jan 16 |
 | **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/68d0150afb49c96ca6eade34?utm_campaign=1055&utm_source=git)** | Richmond, VA | Remote | Jan 16 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Marvel Studios Business & Legal Affairs JD Intern, Summer 2026](https://jobright.ai/jobs/info/696644b3a112b40266145243?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Jan 16 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Canada Compliance Intern – Financial Security (May-August 2026)](https://jobright.ai/jobs/info/69183b3c45fb6f5ead8a341c?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 16 |
-| **[Mountcastle Insurance](https://www.mountcastleinsurance.com)** | **[Risk Management Intern (Summer)](https://jobright.ai/jobs/info/696a12e0db26b618950d4a7e?utm_campaign=1055&utm_source=git)** | Lexington, NC | On Site | Jan 16 |
-| **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Summer Legal Intern - Transactional](https://jobright.ai/jobs/info/6945f11d63141d18845589b8?utm_campaign=1055&utm_source=git)** | Westport, CT | Hybrid | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
