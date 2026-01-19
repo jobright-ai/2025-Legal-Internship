@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Visa](https://www.visa.com)** | **[Summer Legal Associate (1L) - Summer 2026](https://jobright.ai/jobs/info/69667592a112b402661468b5?utm_campaign=1055&utm_source=git)** | Foster City, CA | Hybrid | Jan 19 |
+| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[SRA- Intern](https://jobright.ai/jobs/info/696e91815fc86241853d4812?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
+| **[RTX](http://www.raytheon.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/696e8fe2350cf438031545b4?utm_campaign=1055&utm_source=git)** | Farmington, CT | On Site | Jan 19 |
+| **[State Bar of California](http://calbar.ca.gov)** | **[Legal Internship in State Bar Court](https://jobright.ai/jobs/info/696e8e54350cf438031544a5?utm_campaign=1055&utm_source=git)** | 845 S. Figueroa Street, Los Angeles, CA, 90017, US | Hybrid | Jan 19 |
+| ↳ | **[Legal Intern for the Office of General Counsel](https://jobright.ai/jobs/info/696e8bce350cf438031541e1?utm_campaign=1055&utm_source=git)** | 845 S. Figueroa Street, Los Angeles, CA, 90017, US | Hybrid | Jan 19 |
+| **[LWCC](https://www.lwcc.com/)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/696e8b40db26b61895116859?utm_campaign=1055&utm_source=git)** | Baton Rouge Metro | On Site | Jan 19 |
 | **[State Bar of California](http://calbar.ca.gov)** | **[Summer Internship with Professional Competence](https://jobright.ai/jobs/info/696e8a38db26b61895116736?utm_campaign=1055&utm_source=git)** | 180 Howard Street, San Francisco, CA, 94105, US | Hybrid | Jan 19 |
 | ↳ | **[Legal Intern for the Office of Chief Trial Counsel](https://jobright.ai/jobs/info/696e891bdb26b61895116633?utm_campaign=1055&utm_source=git)** | 180 Howard Street, San Francisco, CA, 94105, US | Hybrid | Jan 19 |
 | ↳ | **[Summer Internship with License, Regulation & Compliance](https://jobright.ai/jobs/info/696e852e350cf43803153bd4?utm_campaign=1055&utm_source=git)** | 180 Howard Street, San Francisco, CA, 94105, US | Hybrid | Jan 19 |
 | ↳ | **[Summer Internship with the Client Trust Account Protection Program](https://jobright.ai/jobs/info/696e82d45fc86241853d3bb0?utm_campaign=1055&utm_source=git)** | 845 S. Figueroa Street, Los Angeles, CA, 90017, US | Hybrid | Jan 19 |
 | **[Arc'teryx Equipment](http://arcteryx.com)** | **[Legal Co-op Student](https://jobright.ai/jobs/info/696e7b785fc86241853d366e?utm_campaign=1055&utm_source=git)** | North Vancouver, British Columbia, Canada | Hybrid | Jan 19 |
-| **[EQ Bank | Equitable Bank](http://www.eqbank.ca)** | **[Operational Risk Intern - Summer 2026](https://jobright.ai/jobs/info/696e66cc350cf43803152ef6?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 19 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Corporate Intern - Legal Affairs](https://jobright.ai/jobs/info/696e6447db26b6189511548c?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 19 |
 | **[RTX](http://www.raytheon.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/696e5c1f5fc86241853d1334?utm_campaign=1055&utm_source=git)** | US-CT-FARMINGTON-0010 ~ 10 Farm Springs Rd ~ 10 FARM SPRINGS | On Site | Jan 19 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Legal Intern - Summer 2026](https://jobright.ai/jobs/info/695ec0c8a112b402660d75ad?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Jan 19 |
@@ -84,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[Local Law Student-Paid Intern](https://jobright.ai/jobs/info/696d4693db26b61895105f63?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 18 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Spring 2026/Summer 2026 Intern - Law - Sacramento, CA CLC](https://jobright.ai/jobs/info/692ec3f7ef4b48533d141272?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jan 18 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[Academic Paralegal Intern](https://jobright.ai/jobs/info/696d3ab3350cf4380314230d?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 18 |
-| **[Frédéric Bérard Société d’avocats](https://www.linkedin.com/company/109317253)** | **[Stagiaire du Barreau (avocat.e en devenir)](https://jobright.ai/jobs/info/696e322e350cf4380315007c?utm_campaign=1055&utm_source=git)** | Canada | Remote | Jan 18 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Rising 2L (Intern) - United States](https://jobright.ai/jobs/info/6917e47315b415636717c870?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 | **[Rapiscan Systems](http://www.rapiscansystems.com/)** | **[Trade Compliance Intern - (Immediate hire)](https://jobright.ai/jobs/info/6917d76815b415636717c111?utm_campaign=1055&utm_source=git)** | Billerica, MA | On Site | Jan 18 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/68cdb92e1ad6b16f0289e426?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Jan 18 |
@@ -140,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 - Regulatory Affairs Intern](https://jobright.ai/jobs/info/696ad272350cf4380311eb29?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 16 |
 | **[Magna International](http://www.magna.com/)** | **[Intellecutual Property Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ac7ba5fc862418539e3fa?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Jan 16 |
 | **[AUMOVIO](https://www.aumovio.com)** | **[Customs Trade - Internship](https://jobright.ai/jobs/info/696aa3e3db26b618950dcbe1?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Jan 16 |
-| **[UL Standards & Engagement](https://ulse.org)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/696ac4d55fc862418539dec9?utm_campaign=1055&utm_source=git)** | Evanston, IL | On Site | Jan 16 |
 | **[Cosette Pharmaceuticals, Inc.](https://cosettepharma.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/696ac096350cf4380311ce53?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 16 |
 | **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Undergraduate Internship- Detained Adult Program, Direct Representation](https://jobright.ai/jobs/info/696a9b685fc8624185399615?utm_campaign=1055&utm_source=git)** | Fully Remote | Remote | Jan 16 |
 | **[UL Research Institutes](https://ul.org)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/696a96aa5fc862418539901a?utm_campaign=1055&utm_source=git)** | Evanston, IL | On Site | Jan 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/696a89b9db26b618950db1c3?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 16 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/696a880e5fc8624185397fe6?utm_campaign=1055&utm_source=git)** | Huron, SD | On Site | Jan 16 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Law Intern, Sentencing Reform](https://jobright.ai/jobs/info/696a8284350cf4380311737b?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 16 |
-| **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696a7d3b5fc8624185397b08?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
-| ↳ | **[Compliance and Economic Development Intern- Summer 2026](https://jobright.ai/jobs/info/696a7ca45fc8624185397a95?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
-| ↳ | **[Intellecutual Property Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696a7c3a5fc8624185397a31?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
