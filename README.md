@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NexaCore Consulting](nexacoreconsulting.us)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/696d9e625fc86241853c6ebd?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 18 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[City Attorney Internship Program.](https://jobright.ai/jobs/info/696d48ce5fc86241853c427c?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Jan 18 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[Local Law Student-Paid Intern](https://jobright.ai/jobs/info/696d4693db26b61895105f63?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 18 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Spring 2026/Summer 2026 Intern - Law - Sacramento, CA CLC](https://jobright.ai/jobs/info/692ec3f7ef4b48533d141272?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jan 18 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[Academic Paralegal Intern](https://jobright.ai/jobs/info/696d3ab3350cf4380314230d?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 18 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Rising 2L (Intern) - United States](https://jobright.ai/jobs/info/6917e47315b415636717c870?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 | **[Rapiscan Systems](http://www.rapiscansystems.com/)** | **[Trade Compliance Intern - (Immediate hire)](https://jobright.ai/jobs/info/6917d76815b415636717c111?utm_campaign=1055&utm_source=git)** | Billerica, MA | On Site | Jan 18 |
-| **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Legal) - 2 Positions](https://jobright.ai/jobs/info/690cdb28221b890c2780074b?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Jan 18 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/68cdb92e1ad6b16f0289e426?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Jan 18 |
 | **[Arapahoe County](https://www.arapahoegov.com)** | **[2026 3L Student Practice Act Internship](https://jobright.ai/jobs/info/696beaf65fc86241853b2be3?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Jan 17 |
 | **[City of New York](http://www1.nyc.gov)** | **[Law School Summer (1L) Intern](https://jobright.ai/jobs/info/696bc4f55fc86241853b1dd2?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Jan 17 |
@@ -135,7 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696a7d3b5fc8624185397b08?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
 | ↳ | **[Compliance and Economic Development Intern- Summer 2026](https://jobright.ai/jobs/info/696a7ca45fc8624185397a95?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
 | ↳ | **[Intellecutual Property Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696a7c3a5fc8624185397a31?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
-| **[UL Standards & Engagement](https://ulse.org)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/696a7ab1db26b618950da907?utm_campaign=1055&utm_source=git)** | Evanston, IL | On Site | Jan 16 |
+| **[UL Standards & Engagement](https://ulse.org)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/696a7822350cf43803116db7?utm_campaign=1055&utm_source=git)** | Evanston, IL | On Site | Jan 16 |
 | **[Roche](http://www.roche.com)** | **[2026 - Regulatory Affairs Intern](https://jobright.ai/jobs/info/696a7233db26b618950da3f1?utm_campaign=1055&utm_source=git)** | Mississauga | Hybrid | Jan 16 |
 | **[BioSpace](http://www.biospace.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/696a6bb45fc8624185396d79?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | Jan 16 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Compliance/Regulatory](https://jobright.ai/jobs/info/694eb99da2668b7f5451fee1?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 16 |
