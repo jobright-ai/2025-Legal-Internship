@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Corporate Compliance Summer Intern](https://jobright.ai/jobs/info/696e358e5fc86241853d0497?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 19 |
+| **[TD](https://www.td.com)** | **[Risk Management - Data Risk Management Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/696e20d7db26b618951105df?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
+| **[State Street](https://www.statestreet.com/)** | **[State Street Enterprise Risk Management - Market Risk Internship - Summer 2026](https://jobright.ai/jobs/info/696b18605fc86241853a7c85?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 19 |
+| **[Reckitt](https://www.reckitt.com)** | **[2026 Regulatory Summer Internship / Mississauga, ON, Canada](https://jobright.ai/jobs/info/6918a703bcdbf3560c9d31d0?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 19 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Records & Information Governance](https://jobright.ai/jobs/info/696e172c350cf4380314dac0?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Jan 19 |
 | ↳ | **[College Intern - Records & Information Governance](https://jobright.ai/jobs/info/696e0011db26b6189510fbcc?utm_campaign=1055&utm_source=git)** | Tempe, AZ, US | Hybrid | Jan 19 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[SRA- Intern](https://jobright.ai/jobs/info/696dfe43db26b6189510f9f1?utm_campaign=1055&utm_source=git)** | Canada - ON - Ontario | On Site | Jan 19 |
@@ -122,6 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 - Regulatory Affairs Intern](https://jobright.ai/jobs/info/696ad272350cf4380311eb29?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 16 |
 | **[Magna International](http://www.magna.com/)** | **[Intellecutual Property Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ac7ba5fc862418539e3fa?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Jan 16 |
 | **[AUMOVIO](https://www.aumovio.com)** | **[Customs Trade - Internship](https://jobright.ai/jobs/info/696aa3e3db26b618950dcbe1?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Jan 16 |
+| **[UL Standards & Engagement](https://ulse.org)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/696ac4d55fc862418539dec9?utm_campaign=1055&utm_source=git)** | Evanston, IL | On Site | Jan 16 |
 | **[Cosette Pharmaceuticals, Inc.](https://cosettepharma.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/696ac096350cf4380311ce53?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 16 |
 | **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Undergraduate Internship- Detained Adult Program, Direct Representation](https://jobright.ai/jobs/info/696a9b685fc8624185399615?utm_campaign=1055&utm_source=git)** | Fully Remote | Remote | Jan 16 |
 | **[UL Research Institutes](https://ul.org)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/696a96aa5fc862418539901a?utm_campaign=1055&utm_source=git)** | Evanston, IL | On Site | Jan 16 |
@@ -138,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696a7d3b5fc8624185397b08?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
 | ↳ | **[Compliance and Economic Development Intern- Summer 2026](https://jobright.ai/jobs/info/696a7ca45fc8624185397a95?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
 | ↳ | **[Intellecutual Property Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696a7c3a5fc8624185397a31?utm_campaign=1055&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
-| **[UL Standards & Engagement](https://ulse.org)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/696a7822350cf43803116db7?utm_campaign=1055&utm_source=git)** | Evanston, IL | On Site | Jan 16 |
 | **[Roche](http://www.roche.com)** | **[2026 - Regulatory Affairs Intern](https://jobright.ai/jobs/info/696a7233db26b618950da3f1?utm_campaign=1055&utm_source=git)** | Mississauga | Hybrid | Jan 16 |
 | **[BioSpace](http://www.biospace.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/696a6bb45fc8624185396d79?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | Jan 16 |
 | **[KTI Logistics, LLC](http://www.ktilog.com/)** | **[Compliance Internship](https://jobright.ai/jobs/info/696a8431db26b618950dae15?utm_campaign=1055&utm_source=git)** | Rydal, GA | On Site | Jan 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wärtsilä](http://www.wartsila.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/693248d0764507023d1ac9f3?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 16 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Surety Intern - Summer 2026](https://jobright.ai/jobs/info/6932174cd0010831497bf628?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Jan 16 |
 | **[OneStream Software](https://www.onestream.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6931b073fa28370be26bd5d3?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 16 |
-| **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Regulatory Affairs Intern - Miami, Florida](https://jobright.ai/jobs/info/693a33a9ac80bb5492bcbba6?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Jan 16 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Chemical Regulatory Compliance Internship - Summer 2026 - Erie, PA](https://jobright.ai/jobs/info/69560b7e9f1b381eb26f4e7f?utm_campaign=1055&utm_source=git)** | Erie, PA | On Site | Jan 16 |
-| **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/68d0150afb49c96ca6eade34?utm_campaign=1055&utm_source=git)** | Richmond, VA | Remote | Jan 16 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Marvel Studios Business & Legal Affairs JD Intern, Summer 2026](https://jobright.ai/jobs/info/696644b3a112b40266145243?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
