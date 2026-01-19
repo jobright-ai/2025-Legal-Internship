@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Commonwealth's Attorney](https://jobright.ai/jobs/info/696dcf11350cf4380314a10f?utm_campaign=1055&utm_source=git)** | Chesterfield, VA | On Site | Jan 18 |
-| **[NexaCore Consulting](nexacoreconsulting.us)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/696d9e625fc86241853c6ebd?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 18 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[City Attorney Internship Program.](https://jobright.ai/jobs/info/696d48ce5fc86241853c427c?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Jan 18 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[Local Law Student-Paid Intern](https://jobright.ai/jobs/info/696d4693db26b61895105f63?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 18 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Spring 2026/Summer 2026 Intern - Law - Sacramento, CA CLC](https://jobright.ai/jobs/info/692ec3f7ef4b48533d141272?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Jan 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Marvel Studios Business & Legal Affairs JD Intern, Summer 2026](https://jobright.ai/jobs/info/696644b3a112b40266145243?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Jan 16 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Canada Compliance Intern – Financial Security (May-August 2026)](https://jobright.ai/jobs/info/69183b3c45fb6f5ead8a341c?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 16 |
 | **[Mountcastle Insurance](https://www.mountcastleinsurance.com)** | **[Risk Management Intern (Summer)](https://jobright.ai/jobs/info/696a12e0db26b618950d4a7e?utm_campaign=1055&utm_source=git)** | Lexington, NC | On Site | Jan 16 |
+| **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Summer Legal Intern - Transactional](https://jobright.ai/jobs/info/6945f11d63141d18845589b8?utm_campaign=1055&utm_source=git)** | Westport, CT | Hybrid | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
