@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Etched](https://www.etched.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6937a87fa0dde7020e305486?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Jan 20 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Risk](https://jobright.ai/jobs/info/69374661a0dde7020e300c5b?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 20 |
+| **[DLA Piper](https://www.dlapiper.com/)** | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/693775411c1c2161c13f4ab0?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | Hybrid | Jan 20 |
+| ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/6937771d1c1c2161c13f4c6d?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | Hybrid | Jan 20 |
+| **[Arcus Biosciences](http://www.arcusbio.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69374a8f1c1c2161c13f2748?utm_campaign=1055&utm_source=git)** | Hayward, CA | On Site | Jan 20 |
+| **[State of Missouri](http://mo.gov)** | **[GCO Summer Internship - 5050500](https://jobright.ai/jobs/info/693bdb404911ef04095f146b?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Jan 20 |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[IT Cybersecurity Compliance Intern](https://jobright.ai/jobs/info/69536bf2935649778e21358f?utm_campaign=1055&utm_source=git)** | Greater Houston | Hybrid | Jan 20 |
 | **[Burr & Forman](http://www.burr.com)** | **[2026 Pre-Law Intern](https://jobright.ai/jobs/info/6952a961935649778e2063ab?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Jan 20 |
 | **[Cross River](http://crossriver.com)** | **[Consumer Compliance Advisory Intern](https://jobright.ai/jobs/info/69374a551c1c2161c13f2736?utm_campaign=1055&utm_source=git)** | Fort Lee, NJ | Hybrid | Jan 20 |
+| **[Razer Inc.](https://www.razer.com)** | **[Legal Intern (Hourly)](https://jobright.ai/jobs/info/696abd0d350cf4380311c806?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Jan 20 |
 | **[Take-Two Interactive](http://www.take2games.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69378fbca0dde7020e30424b?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 20 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/696f4f9d9c3c526334560890?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 20 |
 | **[Relativity](http://www.relativity.com)** | **[Legal Intern](https://jobright.ai/jobs/info/696f31ef0f4e0f657ea38d1c?utm_campaign=1055&utm_source=git)** | Illinois | Hybrid | Jan 19 |
@@ -140,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[K2 Integrity](https://www.K2Integrity.com)** | **[Financial Crimes Risk Management Intern](https://jobright.ai/jobs/info/696ad0135fc862418539f154?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[Commvault](https://www.commvault.com)** | **[Legal Intern (Remote - USA)](https://jobright.ai/jobs/info/696aca98db26b618950e15a4?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 16 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Risk Control Intern (Summer 2026)](https://jobright.ai/jobs/info/696ae7c9db26b618950e4d2f?utm_campaign=1055&utm_source=git)** | One Park Circle, Westfield Center, OH, 44251-5001, US | Hybrid | Jan 16 |
-| **[Razer Inc.](https://www.razer.com)** | **[Legal Intern (Hourly)](https://jobright.ai/jobs/info/696abd0d350cf4380311c806?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Jan 16 |
 | **[Magna International](http://www.magna.com/)** | **[Compliance and Economic Development Intern- Summer 2026](https://jobright.ai/jobs/info/696aba13db26b618950df933?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Jan 16 |
 | **[Travelers](https://www.travelers.com)** | **[Bond & Specialty Insurance Legal Intern](https://jobright.ai/jobs/info/69621a9225e18715077ef87e?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Jan 16 |
 | **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ab6d45fc862418539c63a?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Jan 16 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Razer Inc.](https://www.razer.com)** | **[Legal Intern (Hourly)](https://jobright.ai/jobs/info/696aab61350cf43803119c72?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Jan 16 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/696aa9ad5fc862418539a128?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 16 |
 | **[Roche](http://www.roche.com)** | **[2026 - Regulatory Affairs Intern](https://jobright.ai/jobs/info/696ad272350cf4380311eb29?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 16 |
-| **[Magna International](http://www.magna.com/)** | **[Intellecutual Property Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ac7ba5fc862418539e3fa?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Jan 16 |
-| **[AUMOVIO](https://www.aumovio.com)** | **[Customs Trade - Internship](https://jobright.ai/jobs/info/696aa3e3db26b618950dcbe1?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Jan 16 |
-| **[UL Standards & Engagement](https://ulse.org)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/696ac4d55fc862418539dec9?utm_campaign=1055&utm_source=git)** | Evanston, IL | On Site | Jan 16 |
-| **[Cosette Pharmaceuticals, Inc.](https://cosettepharma.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/696ac096350cf4380311ce53?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 16 |
-| **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Undergraduate Internship- Detained Adult Program, Direct Representation](https://jobright.ai/jobs/info/696a9b685fc8624185399615?utm_campaign=1055&utm_source=git)** | Fully Remote | Remote | Jan 16 |
-| **[UL Research Institutes](https://ul.org)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/696a96aa5fc862418539901a?utm_campaign=1055&utm_source=git)** | Evanston, IL | On Site | Jan 16 |
-| **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69104536988c2b7b4ec50c5d?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
