@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Relativity](http://www.relativity.com)** | **[Legal Intern](https://jobright.ai/jobs/info/696f31ef0f4e0f657ea38d1c?utm_campaign=1055&utm_source=git)** | Illinois | Hybrid | Jan 19 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/696f21e50f4e0f657ea385b7?utm_campaign=1055&utm_source=git)** | Illinois, United States | Remote | Jan 19 |
 | **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Legal Student](https://jobright.ai/jobs/info/696ad7c35fc862418539ffbf?utm_campaign=1055&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Jan 19 |
 | ↳ | **[ATB 101 - Regulatory Compliance Student](https://jobright.ai/jobs/info/696b326ddb26b618950eb8e5?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jan 19 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[J&J Quality & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/696ec6b65fc86241853db167?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Jan 19 |
@@ -87,8 +89,6 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://www.raytheon.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/696e5c1f5fc86241853d1334?utm_campaign=1055&utm_source=git)** | US-CT-FARMINGTON-0010 ~ 10 Farm Springs Rd ~ 10 FARM SPRINGS | On Site | Jan 19 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Legal Intern - Summer 2026](https://jobright.ai/jobs/info/695ec0c8a112b402660d75ad?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Jan 19 |
 | **[Faurecia](https://www.forvia.com)** | **[Legal Internship](https://jobright.ai/jobs/info/696aea375fc86241853a253f?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Jan 19 |
-| **[TD](https://www.td.com)** | **[Risk Management - Business Intelligence (Enterprise Conduct, Insider and Fraud Risk Management) Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/696cb4065fc86241853bdb1f?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
-| ↳ | **[Risk Management - Compliance Transformation/Road to Strong Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/696cb396350cf4380313d64b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street Enterprise Risk Management - Market Risk Internship - Summer 2026](https://jobright.ai/jobs/info/696b18605fc86241853a7c85?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 19 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Regulatory Summer Internship / Mississauga, ON, Canada](https://jobright.ai/jobs/info/6918a703bcdbf3560c9d31d0?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 19 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Records & Information Governance](https://jobright.ai/jobs/info/696e172c350cf4380314dac0?utm_campaign=1055&utm_source=git)** | Tempe, AZ | Hybrid | Jan 19 |
