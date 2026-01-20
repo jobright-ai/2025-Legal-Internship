@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FM](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/696fbdbb3ed06875134ab119?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Jan 20 |
+| **[NYCM Insurance](https://www.nycm.com)** | **[2026 Summer Internship (Law Office)](https://jobright.ai/jobs/info/696fa76882817106e976abd2?utm_campaign=1055&utm_source=git)** | Orchard Park, NY | Hybrid | Jan 20 |
 | **[Haemonetics](http://www.haemonetics.com)** | **[Contract Administration for Sales support for North America, Internship](https://jobright.ai/jobs/info/69539bea935649778e2161dd?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jan 20 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/6937830caabec14a727c8d3f?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Jan 20 |
 | ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/69378191aabec14a727c8c5a?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Jan 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Risk Control Intern (Summer 2026)](https://jobright.ai/jobs/info/696ae8d6350cf438031219eb?utm_campaign=1055&utm_source=git)** | Westfield Center, OH, United States | Hybrid | Jan 16 |
 | **[Yakima County Government](https://www.yakimacounty.us/)** | **[Program Representative I (Public Defender Legal Intern)](https://jobright.ai/jobs/info/696aafa3db26b618950de264?utm_campaign=1055&utm_source=git)** | Yakima County General Administration Building | On Site | Jan 16 |
 | **[The Bancorp](http://www.thebancorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/696ac93edb26b618950e134e?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Jan 16 |
-| **[Razer Inc.](https://www.razer.com)** | **[Legal Intern (Hourly)](https://jobright.ai/jobs/info/696aab61350cf43803119c72?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Jan 16 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/696aa9ad5fc862418539a128?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
