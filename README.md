@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Burr & Forman](http://www.burr.com)** | **[2026 Pre-Law Intern](https://jobright.ai/jobs/info/6952a961935649778e2063ab?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Jan 20 |
+| **[Cross River](http://crossriver.com)** | **[Consumer Compliance Advisory Intern](https://jobright.ai/jobs/info/69374a551c1c2161c13f2736?utm_campaign=1055&utm_source=git)** | Fort Lee, NJ | Hybrid | Jan 20 |
+| **[Take-Two Interactive](http://www.take2games.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69378fbca0dde7020e30424b?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 20 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/696f4f9d9c3c526334560890?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 20 |
 | **[Relativity](http://www.relativity.com)** | **[Legal Intern](https://jobright.ai/jobs/info/696f31ef0f4e0f657ea38d1c?utm_campaign=1055&utm_source=git)** | Illinois | Hybrid | Jan 19 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/696f21e50f4e0f657ea385b7?utm_campaign=1055&utm_source=git)** | Illinois, United States | Remote | Jan 19 |
 | **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Legal Student](https://jobright.ai/jobs/info/696ad7c35fc862418539ffbf?utm_campaign=1055&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Jan 19 |
@@ -85,7 +89,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship with License, Regulation & Compliance](https://jobright.ai/jobs/info/696e852e350cf43803153bd4?utm_campaign=1055&utm_source=git)** | 180 Howard Street, San Francisco, CA, 94105, US | Hybrid | Jan 19 |
 | ↳ | **[Summer Internship with the Client Trust Account Protection Program](https://jobright.ai/jobs/info/696e82d45fc86241853d3bb0?utm_campaign=1055&utm_source=git)** | 845 S. Figueroa Street, Los Angeles, CA, 90017, US | Hybrid | Jan 19 |
 | **[Arc'teryx Equipment](http://arcteryx.com)** | **[Legal Co-op Student](https://jobright.ai/jobs/info/696e7b785fc86241853d366e?utm_campaign=1055&utm_source=git)** | North Vancouver, British Columbia, Canada | Hybrid | Jan 19 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Corporate Intern - Legal Affairs](https://jobright.ai/jobs/info/696e6447db26b6189511548c?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 19 |
 | **[RTX](http://www.raytheon.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/696e5c1f5fc86241853d1334?utm_campaign=1055&utm_source=git)** | US-CT-FARMINGTON-0010 ~ 10 Farm Springs Rd ~ 10 FARM SPRINGS | On Site | Jan 19 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Legal Intern - Summer 2026](https://jobright.ai/jobs/info/695ec0c8a112b402660d75ad?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Jan 19 |
 | **[Faurecia](https://www.forvia.com)** | **[Legal Internship](https://jobright.ai/jobs/info/696aea375fc86241853a253f?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Jan 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Undergraduate Internship- Detained Adult Program, Direct Representation](https://jobright.ai/jobs/info/696a9b685fc8624185399615?utm_campaign=1055&utm_source=git)** | Fully Remote | Remote | Jan 16 |
 | **[UL Research Institutes](https://ul.org)** | **[Governance, Risk, and Compliance Intern](https://jobright.ai/jobs/info/696a96aa5fc862418539901a?utm_campaign=1055&utm_source=git)** | Evanston, IL | On Site | Jan 16 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69104536988c2b7b4ec50c5d?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Jan 16 |
-| **[Cinemark](http://www.cinemark.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6960b3477ebc25398eb6932b?utm_campaign=1055&utm_source=git)** | Plano, TX | Hybrid | Jan 16 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[Regulatory Affairs Associate Intern - Summer 2026](https://jobright.ai/jobs/info/696ab27f350cf4380311b40d?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 16 |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Corporate Social Responsibility (CSR) Intern](https://jobright.ai/jobs/info/696aace3350cf4380311a1b7?utm_campaign=1055&utm_source=git)** | Burlington, NJ | Hybrid | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
