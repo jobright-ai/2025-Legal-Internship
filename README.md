@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shan Potts Law Offices](https://shanpottslaw.com)** | **[Legal Ambassador Internship (January–April 2026)](https://jobright.ai/jobs/info/696ec19b350cf4380315ad80?utm_campaign=1055&utm_source=git)** | Glendale, CA | Hybrid | Jan 19 |
+| **[Prysmian](https://www.prysmian.com)** | **[NA Compliance Intern](https://jobright.ai/jobs/info/696ebe385fc86241853dad60?utm_campaign=1055&utm_source=git)** | Highland Heights, KY | On Site | Jan 19 |
+| **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/696eb414db26b6189511b3f6?utm_campaign=1055&utm_source=git)** | Englewood, CO | On Site | Jan 19 |
+| **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/696ea962db26b61895119ff4?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Jan 19 |
 | **[Visa](https://www.visa.com)** | **[Summer Legal Associate (1L) - Summer 2026](https://jobright.ai/jobs/info/69667592a112b402661468b5?utm_campaign=1055&utm_source=git)** | Foster City, CA | Hybrid | Jan 19 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/696ebf0edb26b6189511d2df?utm_campaign=1055&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Jan 19 |
+| **[HPC Industrial powered by Clean Harbors](www.hpc-industrial.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/696ebd8c5fc86241853dab50?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jan 19 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[SRA- Intern](https://jobright.ai/jobs/info/696e91815fc86241853d4812?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
 | **[RTX](http://www.raytheon.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/696e8fe2350cf438031545b4?utm_campaign=1055&utm_source=git)** | Farmington, CT | On Site | Jan 19 |
 | **[State Bar of California](http://calbar.ca.gov)** | **[Legal Internship in State Bar Court](https://jobright.ai/jobs/info/696e8e54350cf438031544a5?utm_campaign=1055&utm_source=git)** | 845 S. Figueroa Street, Los Angeles, CA, 90017, US | Hybrid | Jan 19 |
@@ -71,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Corporate Intern - Legal Affairs](https://jobright.ai/jobs/info/696e6447db26b6189511548c?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 19 |
 | **[RTX](http://www.raytheon.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/696e5c1f5fc86241853d1334?utm_campaign=1055&utm_source=git)** | US-CT-FARMINGTON-0010 ~ 10 Farm Springs Rd ~ 10 FARM SPRINGS | On Site | Jan 19 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Legal Intern - Summer 2026](https://jobright.ai/jobs/info/695ec0c8a112b402660d75ad?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Jan 19 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Compliance Intern](https://jobright.ai/jobs/info/696e4e5c5fc86241853d0ec5?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Jan 19 |
 | **[Faurecia](https://www.forvia.com)** | **[Legal Internship](https://jobright.ai/jobs/info/696aea375fc86241853a253f?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Jan 19 |
 | **[TD](https://www.td.com)** | **[Risk Management - FCRM, Global Sanctions & ABAC (GSA), Centralized Sanctions Group (CSG) Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69524293f1f8465b79e9973e?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
 | ↳ | **[Control Partner Testing Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695242b3f1f8465b79e99751?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Regulatory Affairs Associate Intern - Summer 2026](https://jobright.ai/jobs/info/696ab27f350cf4380311b40d?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 16 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Corporate Social Responsibility (CSR) Intern](https://jobright.ai/jobs/info/696aace3350cf4380311a1b7?utm_campaign=1055&utm_source=git)** | Burlington, NJ | Hybrid | Jan 16 |
 | **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Legal Internship- Detained Adult Program, Direct Representation](https://jobright.ai/jobs/info/696a8d62db26b618950db583?utm_campaign=1055&utm_source=git)** | Fully Remote | Remote | Jan 16 |
-| **[United Educators](https://www.ue.org/)** | **[Resolutions (Claims) Intern - Comprehensive Group](https://jobright.ai/jobs/info/69600b28a112b402660ebd8a?utm_campaign=1055&utm_source=git)** | Bethesda, MD | Hybrid | Jan 16 |
-| **[AUMOVIO](https://www.aumovio.com)** | **[Customs Trade - Internship](https://jobright.ai/jobs/info/696a8b89350cf438031179bf?utm_campaign=1055&utm_source=git)** | 1 Continental Dr, Auburn Hills, MI 48326, USA | On Site | Jan 16 |
-| **[Total Quality Logistics](http://www.tql.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/696a89b9db26b618950db1c3?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 16 |
-| **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/696a880e5fc8624185397fe6?utm_campaign=1055&utm_source=git)** | Huron, SD | On Site | Jan 16 |
-| **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Law Intern, Sentencing Reform](https://jobright.ai/jobs/info/696a8284350cf4380311737b?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
