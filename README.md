@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Law Intern, Sentencing Reform](https://jobright.ai/jobs/info/697091b651f726477182d2d3?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 20 |
+| ↳ | **[Summer 2026 - Intern, Legal](https://jobright.ai/jobs/info/697090a851f726477182d245?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Jan 20 |
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Authority Compliance](https://jobright.ai/jobs/info/69705bcd587dfa0bb55e026b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | ↳ | **[College Intern - Procurement](https://jobright.ai/jobs/info/69705b3351f726477182a520?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Intellectual Property (IP) Management & Marketing, Hybrid](https://jobright.ai/jobs/info/69705a7751f7264771829e1c?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efb95a2668b7f5452487b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Jan 17 |
 | ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efad6a2668b7f5452483c?utm_campaign=1055&utm_source=git)** | Montgomery, AL | Hybrid | Jan 17 |
 | **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Legal Intern](https://jobright.ai/jobs/info/694ef5ada2668b7f54523f50?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 17 |
-| **[The Chemours Company](https://www.chemours.com)** | **[APM Product Stewardship and Regulatory Compliance Intern](https://jobright.ai/jobs/info/69549851f1f8465b79ebc7f1?utm_campaign=1055&utm_source=git)** | New Castle County, DE | Hybrid | Jan 17 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694ef92fce13cd10565741de?utm_campaign=1055&utm_source=git)** | Jackson, MS | Hybrid | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
