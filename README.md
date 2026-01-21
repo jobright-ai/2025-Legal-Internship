@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Authority Compliance](https://jobright.ai/jobs/info/697048d5587dfa0bb55dd1de?utm_campaign=1055&utm_source=git)** | Houston, TX, US | On Site | Jan 20 |
+| ↳ | **[College Intern - Procurement](https://jobright.ai/jobs/info/697044a4333b6343a14caae6?utm_campaign=1055&utm_source=git)** | Houston, TX, US | On Site | Jan 20 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Fort Lauderdale, FL CLC](https://jobright.ai/jobs/info/6949ffbf63141d1884598a2f?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 20 |
+| **[City of Seattle](http://www.seattle.gov/)** | **[Environmental Compliance Intern](https://jobright.ai/jobs/info/69703813333b6343a14ca0f8?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Jan 20 |
+| **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Supervision and Regulation Intern- Bank Examiner](https://jobright.ai/jobs/info/69703092587dfa0bb55db34a?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Jan 20 |
 | **[City of Mississauga](http://www.mississauga.ca/portal/home)** | **[Summer Law Student (2026)](https://jobright.ai/jobs/info/69702eb4333b6343a14c9775?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 20 |
 | **[Mansfield Energy Corp](http://mansfield.energy/)** | **[Intern, Regulatory Affairs (Nat Gas)](https://jobright.ai/jobs/info/69701d883ed06875134b18d1?utm_campaign=1055&utm_source=git)** | Doraville, GA | On Site | Jan 20 |
 | **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Law Clerk - Intern](https://jobright.ai/jobs/info/69701c770f4e0f657ea4757e?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Jan 20 |
 | **[Freddie Mac](https://www.freddiemac.com/)** | **[Regulatory Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/6970143b0f4e0f657ea46fd4?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Jan 20 |
 | **[T5 Data Centers](http://www.t5datacenters.com)** | **[2026 Legal Intern](https://jobright.ai/jobs/info/697009c40f4e0f657ea46548?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
+| **[Verano](https://verano.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/696986861703f05405ab71b5?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
 | **[Hillel International](http://hillel.org/)** | **[Summer Law Clerk 2026](https://jobright.ai/jobs/info/697023e90f4e0f657ea49232?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 20 |
 | **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Indigenous Peoples (First Nations, Inuit, and Métis) Student Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/696ffe2082817106e9771a2c?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 20 |
 | **[Groupe BMR](https://www.bmr.ca)** | **[Commis, ventes internes - Stage](https://jobright.ai/jobs/info/696ffcd882817106e97716ef?utm_campaign=1055&utm_source=git)** | Boucherville, Quebec, Canada | On Site | Jan 20 |
@@ -120,7 +126,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship with the Client Trust Account Protection Program](https://jobright.ai/jobs/info/696e82d45fc86241853d3bb0?utm_campaign=1055&utm_source=git)** | 845 S. Figueroa Street, Los Angeles, CA, 90017, US | Hybrid | Jan 19 |
 | **[Arc'teryx Equipment](http://arcteryx.com)** | **[Legal Co-op Student](https://jobright.ai/jobs/info/696e7b785fc86241853d366e?utm_campaign=1055&utm_source=git)** | North Vancouver, British Columbia, Canada | Hybrid | Jan 19 |
 | **[RTX](http://www.raytheon.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/696e5c1f5fc86241853d1334?utm_campaign=1055&utm_source=git)** | US-CT-FARMINGTON-0010 ~ 10 Farm Springs Rd ~ 10 FARM SPRINGS | On Site | Jan 19 |
-| **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Legal Intern - Summer 2026](https://jobright.ai/jobs/info/695ec0c8a112b402660d75ad?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Jan 19 |
 | **[Faurecia](https://www.forvia.com)** | **[Legal Internship](https://jobright.ai/jobs/info/696aea375fc86241853a253f?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Jan 19 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street Enterprise Risk Management - Market Risk Internship - Summer 2026](https://jobright.ai/jobs/info/696b18605fc86241853a7c85?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 19 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Regulatory Summer Internship / Mississauga, ON, Canada](https://jobright.ai/jobs/info/6918a703bcdbf3560c9d31d0?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Repligen Corporation](http://www.repligen.com)** | **[Legal Intern - Summer](https://jobright.ai/jobs/info/696b323b350cf438031282d9?utm_campaign=1055&utm_source=git)** | Waltham, MA | Hybrid | Jan 16 |
 | **[Pierce County](https://www.piercecountywa.gov/)** | **[Legal Intern - Rule 9](https://jobright.ai/jobs/info/696b0da9350cf438031250be?utm_campaign=1055&utm_source=git)** | Greater Seattle Area | On Site | Jan 16 |
 | **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Intern-Cybersecurity JSOX Compliance Analyst](https://jobright.ai/jobs/info/696b0b495fc86241853a5989?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Jan 16 |
-| **[The Sikh Coalition](http://www.sikhcoalition.org)** | **[Legal Internship Summer 2026](https://jobright.ai/jobs/info/696afe3adb26b618950e736c?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Jan 16 |
-| **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/696afa7c350cf43803123780?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Jan 16 |
-| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[Local Law Student-Paid Intern](https://jobright.ai/jobs/info/696af980db26b618950e6cc9?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 16 |
-| **[Columbia Insurance](https://www.colinsgrp.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/696af395350cf43803122ff7?utm_campaign=1055&utm_source=git)** | Columbia, MO | On Site | Jan 16 |
-| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[SkillBridge Intern DOD: Quality Compliance (Onsite)](https://jobright.ai/jobs/info/696af385db26b618950e6602?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
