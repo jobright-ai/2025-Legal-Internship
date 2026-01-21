@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Educators](https://www.ue.org/)** | **[Resolutions (Claims) Intern - Comprehensive Group](https://jobright.ai/jobs/info/69600b28a112b402660ebd8a?utm_campaign=1055&utm_source=git)** | Bethesda, MD | On Site | Jan 21 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970e12a587dfa0bb55e7036?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 21 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970ded251f7264771831bbc?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970d711333b6343a14d533d?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jan 21 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/696996d21703f05405ab96bf?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jan 21 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970d55851f726477183157e?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Jan 21 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970d26e51f7264771831387?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Jan 21 |
+| ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970eb0e333b6343a14d5e5d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
+| ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970e7bf587dfa0bb55e7354?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 21 |
+| ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/696b0c4ddb26b618950e86d5?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 21 |
+| ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970ed4c51f726477183248c?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jan 21 |
+| ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970ea76587dfa0bb55e750f?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 21 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Legal Assistant](https://jobright.ai/jobs/info/695444dfaa05c26e7aaec69f?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Jan 21 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/68c9550995f5211cd2cefafc?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Jan 21 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6938e20aa0dde7020e3180b7?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Jan 21 |
 | **[ADM](http://www.adm.com)** | **[ADMIS Compliance Intern - Chicago IL](https://jobright.ai/jobs/info/694771d67d506e3808f2b60b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[SRA- Intern](https://jobright.ai/jobs/info/696dfe43db26b6189510f9f1?utm_campaign=1055&utm_source=git)** | Canada - ON - Ontario | On Site | Jan 19 |
 | **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Commonwealth's Attorney](https://jobright.ai/jobs/info/696dcf11350cf4380314a10f?utm_campaign=1055&utm_source=git)** | Chesterfield, VA | On Site | Jan 18 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Legal) - 2 Positions](https://jobright.ai/jobs/info/69705772333b6343a14cc495?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Jan 18 |
-| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[Local Law Student-Paid Intern](https://jobright.ai/jobs/info/696d4693db26b61895105f63?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 18 |
-| ↳ | **[Academic Paralegal Intern](https://jobright.ai/jobs/info/696d3ab3350cf4380314230d?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 18 |
-| **[Cisco](http://www.cisco.com)** | **[Legal Rising 2L (Intern) - United States](https://jobright.ai/jobs/info/6917e47315b415636717c870?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
-| **[Rapiscan Systems](http://www.rapiscansystems.com/)** | **[Trade Compliance Intern - (Immediate hire)](https://jobright.ai/jobs/info/6917d76815b415636717c111?utm_campaign=1055&utm_source=git)** | Billerica, MA | On Site | Jan 18 |
-| **[State of Missouri](http://mo.gov)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6970194c3ed06875134b15d2?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Jan 17 |
-| **[Arapahoe County](https://www.arapahoegov.com)** | **[2026 3L Student Practice Act Internship](https://jobright.ai/jobs/info/696beaf65fc86241853b2be3?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Jan 17 |
-| **[City of New York](http://www1.nyc.gov)** | **[Law School Summer (1L) Intern](https://jobright.ai/jobs/info/696bc4f55fc86241853b1dd2?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
