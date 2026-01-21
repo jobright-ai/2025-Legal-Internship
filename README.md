@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Mississauga](http://www.mississauga.ca/portal/home)** | **[Summer Law Student (2026)](https://jobright.ai/jobs/info/69702eb4333b6343a14c9775?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 20 |
+| **[Mansfield Energy Corp](http://mansfield.energy/)** | **[Intern, Regulatory Affairs (Nat Gas)](https://jobright.ai/jobs/info/69701d883ed06875134b18d1?utm_campaign=1055&utm_source=git)** | Doraville, GA | On Site | Jan 20 |
+| **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Law Clerk - Intern](https://jobright.ai/jobs/info/69701c770f4e0f657ea4757e?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Jan 20 |
 | **[Freddie Mac](https://www.freddiemac.com/)** | **[Regulatory Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/6970143b0f4e0f657ea46fd4?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Jan 20 |
 | **[T5 Data Centers](http://www.t5datacenters.com)** | **[2026 Legal Intern](https://jobright.ai/jobs/info/697009c40f4e0f657ea46548?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
+| **[Hillel International](http://hillel.org/)** | **[Summer Law Clerk 2026](https://jobright.ai/jobs/info/697023e90f4e0f657ea49232?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 20 |
 | **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Indigenous Peoples (First Nations, Inuit, and Métis) Student Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/696ffe2082817106e9771a2c?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 20 |
 | **[Groupe BMR](https://www.bmr.ca)** | **[Commis, ventes internes - Stage](https://jobright.ai/jobs/info/696ffcd882817106e97716ef?utm_campaign=1055&utm_source=git)** | Boucherville, Quebec, Canada | On Site | Jan 20 |
 | **[Jabil](https://www.jabil.com)** | **[Global Litigation Intern](https://jobright.ai/jobs/info/696ffb820f4e0f657ea455c1?utm_campaign=1055&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Jan 20 |
@@ -127,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[Academic Paralegal Intern](https://jobright.ai/jobs/info/696d3ab3350cf4380314230d?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 18 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Rising 2L (Intern) - United States](https://jobright.ai/jobs/info/6917e47315b415636717c870?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 | **[Rapiscan Systems](http://www.rapiscansystems.com/)** | **[Trade Compliance Intern - (Immediate hire)](https://jobright.ai/jobs/info/6917d76815b415636717c111?utm_campaign=1055&utm_source=git)** | Billerica, MA | On Site | Jan 18 |
+| **[State of Missouri](http://mo.gov)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6970194c3ed06875134b15d2?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Jan 17 |
 | **[Arapahoe County](https://www.arapahoegov.com)** | **[2026 3L Student Practice Act Internship](https://jobright.ai/jobs/info/696beaf65fc86241853b2be3?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Jan 17 |
 | **[City of New York](http://www1.nyc.gov)** | **[Law School Summer (1L) Intern](https://jobright.ai/jobs/info/696bc4f55fc86241853b1dd2?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Jan 17 |
 | **[Glencore](http://glencore.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6930f46efa28370be26b59c7?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 17 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[Local Law Student-Paid Intern](https://jobright.ai/jobs/info/696af980db26b618950e6cc9?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 16 |
 | **[Columbia Insurance](https://www.colinsgrp.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/696af395350cf43803122ff7?utm_campaign=1055&utm_source=git)** | Columbia, MO | On Site | Jan 16 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[SkillBridge Intern DOD: Quality Compliance (Onsite)](https://jobright.ai/jobs/info/696af385db26b618950e6602?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Jan 16 |
-| **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Internship - Regulatory Affairs, Labeling](https://jobright.ai/jobs/info/696af373db26b618950e65e3?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jan 16 |
-| **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Summer 2026 Intern - Vendor Oversight](https://jobright.ai/jobs/info/696c457fdb26b618950f9b73?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Jan 16 |
-| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Risk Control Intern (Summer 2026)](https://jobright.ai/jobs/info/696ae6b35fc86241853a1cb4?utm_campaign=1055&utm_source=git)** | Westfield Center, OH | Hybrid | Jan 16 |
-| **[OneTeam Partners](https://oneteam.com/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/696b07b25fc86241853a533c?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 16 |
-| **[Mellon Foundation](https://mellon.org)** | **[Intern](https://jobright.ai/jobs/info/696affe65fc86241853a4855?utm_campaign=1055&utm_source=git)** | New York, NY, US | Hybrid | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
