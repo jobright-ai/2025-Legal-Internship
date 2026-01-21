@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schroders](https://www.schroders.com/)** | **[2026 Legal Internship - NYC](https://jobright.ai/jobs/info/69712965333b6343a14d9a0b?utm_campaign=1055&utm_source=git)** | 7 Bryant Park, New York, NY, 10018, US | On Site | Jan 21 |
+| **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Legal Internship Summer 2026](https://jobright.ai/jobs/info/697109ca51f726477183476d?utm_campaign=1055&utm_source=git)** | Manhattan Legal Services | On Site | Jan 21 |
 | **[Old Republic Title](http://www.oldrepublictitle.com/)** | **[Title Rotational Internship](https://jobright.ai/jobs/info/6971109451f7264771834ed0?utm_campaign=1055&utm_source=git)** | NJ, Hoboken (2 Hudson Pl, FL 5) | On Site | Jan 21 |
 | **[Alfa Laval](http://www.alfalaval.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/6971101951f7264771834e77?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Jan 21 |
 | **[Triumph](https://www.tfin.com/)** | **[Financial Crimes Investigator Intern – Summer 2026](https://jobright.ai/jobs/info/697109d251f7264771834798?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
-| **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Legal Internship Summer 2026](https://jobright.ai/jobs/info/697109ca51f726477183476d?utm_campaign=1055&utm_source=git)** | Manhattan Legal Services | On Site | Jan 21 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Risk Intern](https://jobright.ai/jobs/info/6970fe8b51f7264771832cea?utm_campaign=1055&utm_source=git)** | St. Louis County, MO | Remote | Jan 21 |
 | **[M&T Bank](http://www.mtb.com)** | **[2026 Corporate Summer Internship Program - Legal](https://jobright.ai/jobs/info/6970fc9c333b6343a14d67ab?utm_campaign=1055&utm_source=git)** | Buffalo, NY | Hybrid | Jan 21 |
 | **[United Educators](https://www.ue.org/)** | **[Resolutions (Claims) Intern - Comprehensive Group](https://jobright.ai/jobs/info/69600b28a112b402660ebd8a?utm_campaign=1055&utm_source=git)** | Bethesda, MD | On Site | Jan 21 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970e12a587dfa0bb55e7036?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 21 |
@@ -71,8 +71,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970d55851f726477183157e?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Jan 21 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970d26e51f7264771831387?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Jan 21 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970eb0e333b6343a14d5e5d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
-| ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970e7bf587dfa0bb55e7354?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/696b0c4ddb26b618950e86d5?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 21 |
+| ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970e7bf587dfa0bb55e7354?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970ed4c51f726477183248c?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jan 21 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970ea76587dfa0bb55e750f?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 21 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Legal Assistant](https://jobright.ai/jobs/info/695444dfaa05c26e7aaec69f?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Jan 21 |
