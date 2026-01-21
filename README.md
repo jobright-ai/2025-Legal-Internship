@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KBRA](https://www.kbra.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/69378eb2aabec14a727c942d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efb95a2668b7f5452487b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Jan 21 |
 | ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efc31a2668b7f545248a6?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 21 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Law Intern, Sentencing Reform](https://jobright.ai/jobs/info/697091b651f726477182d2d3?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Vehicle Licensing Internship - Summer 2026](https://jobright.ai/jobs/info/693395e6a0dde7020e2ef689?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Jan 17 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efad6a2668b7f5452483c?utm_campaign=1055&utm_source=git)** | Montgomery, AL | Hybrid | Jan 17 |
 | **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Legal Intern](https://jobright.ai/jobs/info/694ef5ada2668b7f54523f50?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 17 |
-| **[The Chemours Company](https://www.chemours.com)** | **[APM Product Stewardship and Regulatory Compliance Intern](https://jobright.ai/jobs/info/69549851f1f8465b79ebc7f1?utm_campaign=1055&utm_source=git)** | New Castle County, DE | Hybrid | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
