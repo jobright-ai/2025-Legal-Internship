@@ -57,13 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Freddie Mac](https://www.freddiemac.com/)** | **[Regulatory Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/6970143b0f4e0f657ea46fd4?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Jan 20 |
+| **[T5 Data Centers](http://www.t5datacenters.com)** | **[2026 Legal Intern](https://jobright.ai/jobs/info/697009c40f4e0f657ea46548?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
+| **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Indigenous Peoples (First Nations, Inuit, and Métis) Student Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/696ffe2082817106e9771a2c?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 20 |
+| **[Groupe BMR](https://www.bmr.ca)** | **[Commis, ventes internes - Stage](https://jobright.ai/jobs/info/696ffcd882817106e97716ef?utm_campaign=1055&utm_source=git)** | Boucherville, Quebec, Canada | On Site | Jan 20 |
+| **[Jabil](https://www.jabil.com)** | **[Global Litigation Intern](https://jobright.ai/jobs/info/696ffb820f4e0f657ea455c1?utm_campaign=1055&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Jan 20 |
+| **[Mansfield Energy Corp](http://mansfield.energy/)** | **[Intern, Regulatory Affairs (Nat Gas)](https://jobright.ai/jobs/info/696ffb300f4e0f657ea454da?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
+| **[Engineers and Geoscientists BC](https://www.egbc.ca/)** | **[Summer Law Student](https://jobright.ai/jobs/info/696ff8a782817106e9770b5e?utm_campaign=1055&utm_source=git)** | Burnaby, British Columbia, Canada | Hybrid | Jan 20 |
 | **[Jabil](https://www.jabil.com)** | **[Global Litigation Intern](https://jobright.ai/jobs/info/696ff7f63ed06875134af265?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Jan 20 |
 | **[Philips](https://www.usa.philips.com)** | **[Regulatory Affairs Intern-Summer 2026](https://jobright.ai/jobs/info/696ff3070f4e0f657ea4405e?utm_campaign=1055&utm_source=git)** | Cambridge (US), Massachusetts, United States | On Site | Jan 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern Spring 2026](https://jobright.ai/jobs/info/6969629ff25a38006697f6f2?utm_campaign=1055&utm_source=git)** | Baltimore, MD | Hybrid | Jan 20 |
 | **[Databricks](https://www.databricks.com)** | **[Legal Intern](https://jobright.ai/jobs/info/696fdee90f4e0f657ea42565?utm_campaign=1055&utm_source=git)** | Mountain View, CA | Hybrid | Jan 20 |
 | **[Nassau County District Attorney](https://nassauda.org)** | **[Intern (Summer 2026)](https://jobright.ai/jobs/info/696ff83b0f4e0f657ea44d16?utm_campaign=1055&utm_source=git)** | Hempstead, NY | On Site | Jan 20 |
+| ↳ | **[Intern (Summer 2026)](https://jobright.ai/jobs/info/696ffbb982817106e977138d?utm_campaign=1055&utm_source=git)** | Mineola, NY | On Site | Jan 20 |
 | **[Carmeuse](http://www.carmeuse.com)** | **[Legal Intern](https://jobright.ai/jobs/info/696fd5d482817106e976da0d?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Jan 20 |
 | **[Frédéric Bérard Société d’avocats](https://www.linkedin.com/company/109317253)** | **[Stagiaire du Barreau (avocat.e en devenir)](https://jobright.ai/jobs/info/696ff1f382817106e976fb33?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Remote | Jan 20 |
+| **[Freddie Mac](https://www.freddiemac.com/)** | **[Regulatory Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/696ffe6982817106e9771abd?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Jan 20 |
 | **[Flexera](https://www.flexera.com)** | **[Legal Intern](https://jobright.ai/jobs/info/696fcea882817106e976d836?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 20 |
 | **[Carmeuse](http://www.carmeuse.com)** | **[Legal Intern](https://jobright.ai/jobs/info/696fc44b82817106e976d2b8?utm_campaign=1055&utm_source=git)** | 11 Stanwix street, Pittsburgh, PA, 15222, US | On Site | Jan 20 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Summer Camp Coordination Intern](https://jobright.ai/jobs/info/696c449c350cf43803136946?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Jan 20 |
@@ -89,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Legal Student](https://jobright.ai/jobs/info/696ad7c35fc862418539ffbf?utm_campaign=1055&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Jan 19 |
 | ↳ | **[ATB 101 - Regulatory Compliance Student](https://jobright.ai/jobs/info/696b326ddb26b618950eb8e5?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jan 19 |
 | **[Prysmian](https://www.prysmian.com)** | **[NA Compliance Intern](https://jobright.ai/jobs/info/696ed61f5fc86241853dd0ea?utm_campaign=1055&utm_source=git)** | Highland Heights, KY | On Site | Jan 19 |
+| **[State of Florida](http://www.myflorida.com)** | **[SENIOR CONSUMER SERVICE ANALYST - 42005271 (FOR INTERNAL EMPLOYEES ONLY)](https://jobright.ai/jobs/info/696fff653ed06875134affa7?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Jan 19 |
 | **[Shan Potts Law Offices](https://shanpottslaw.com)** | **[Legal Ambassador Internship (January–April 2026)](https://jobright.ai/jobs/info/696ec19b350cf4380315ad80?utm_campaign=1055&utm_source=git)** | Glendale, CA | Hybrid | Jan 19 |
 | **[Prysmian](https://www.prysmian.com)** | **[NA Compliance Intern](https://jobright.ai/jobs/info/696ebe385fc86241853dad60?utm_campaign=1055&utm_source=git)** | Highland Heights, KY | On Site | Jan 19 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/696eb414db26b6189511b3f6?utm_campaign=1055&utm_source=git)** | Englewood, CO | On Site | Jan 19 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Risk Control Intern (Summer 2026)](https://jobright.ai/jobs/info/696ae6b35fc86241853a1cb4?utm_campaign=1055&utm_source=git)** | Westfield Center, OH | Hybrid | Jan 16 |
 | **[OneTeam Partners](https://oneteam.com/)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/696b07b25fc86241853a533c?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 16 |
 | **[Mellon Foundation](https://mellon.org)** | **[Intern](https://jobright.ai/jobs/info/696affe65fc86241853a4855?utm_campaign=1055&utm_source=git)** | New York, NY, US | Hybrid | Jan 16 |
-| **[Repligen Corporation](http://www.repligen.com)** | **[Legal Intern - Summer](https://jobright.ai/jobs/info/696b03ca350cf438031243ef?utm_campaign=1055&utm_source=git)** | US-MA-Waltham | Hybrid | Jan 16 |
-| **[PenAir Credit Union](http://penair.org)** | **[Fraud Assistant Intern](https://jobright.ai/jobs/info/696b096c5fc86241853a54de?utm_campaign=1055&utm_source=git)** | Pensacola, FL, US | On Site | Jan 16 |
-| **[K2 Integrity](https://www.K2Integrity.com)** | **[Financial Crimes Risk Management Intern](https://jobright.ai/jobs/info/696ad0135fc862418539f154?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 16 |
-| **[Commvault](https://www.commvault.com)** | **[Legal Intern (Remote - USA)](https://jobright.ai/jobs/info/696aca98db26b618950e15a4?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 16 |
-| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Risk Control Intern (Summer 2026)](https://jobright.ai/jobs/info/696ae7c9db26b618950e4d2f?utm_campaign=1055&utm_source=git)** | One Park Circle, Westfield Center, OH, 44251-5001, US | Hybrid | Jan 16 |
-| **[Magna International](http://www.magna.com/)** | **[Compliance and Economic Development Intern- Summer 2026](https://jobright.ai/jobs/info/696aba13db26b618950df933?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Jan 16 |
-| **[Travelers](https://www.travelers.com)** | **[Bond & Specialty Insurance Legal Intern](https://jobright.ai/jobs/info/69621a9225e18715077ef87e?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Jan 16 |
-| **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ab6d45fc862418539c63a?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Jan 16 |
-| **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Risk Control Intern (Summer 2026)](https://jobright.ai/jobs/info/696ae8d6350cf438031219eb?utm_campaign=1055&utm_source=git)** | Westfield Center, OH, United States | Hybrid | Jan 16 |
-| **[Yakima County Government](https://www.yakimacounty.us/)** | **[Program Representative I (Public Defender Legal Intern)](https://jobright.ai/jobs/info/696aafa3db26b618950de264?utm_campaign=1055&utm_source=git)** | Yakima County General Administration Building | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
