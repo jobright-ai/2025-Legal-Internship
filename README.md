@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970d711333b6343a14d533d?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jan 21 |
+| ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/696996d21703f05405ab96bf?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jan 21 |
+| ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970d55851f726477183157e?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Jan 21 |
+| ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970d26e51f7264771831387?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Jan 21 |
+| **[Kimball Electronics](http://www.kimballelectronics.com)** | **[Legal Analyst Intern](https://jobright.ai/jobs/info/68ec9fa7c26b9574506f56d7?utm_campaign=1055&utm_source=git)** | Jasper, IN | On Site | Jan 21 |
+| **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6938e20aa0dde7020e3180b7?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Jan 21 |
+| **[ADM](http://www.adm.com)** | **[ADMIS Compliance Intern - Chicago IL](https://jobright.ai/jobs/info/694771d67d506e3808f2b60b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
 | **[KBRA](https://www.kbra.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/69378eb2aabec14a727c942d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efb95a2668b7f5452487b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Jan 21 |
 | ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efc31a2668b7f545248a6?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 21 |
@@ -105,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Etched](https://www.etched.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6937a87fa0dde7020e305486?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Jan 20 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Risk](https://jobright.ai/jobs/info/69374661a0dde7020e300c5b?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 20 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/693775411c1c2161c13f4ab0?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | Hybrid | Jan 20 |
-| ↳ | **[Summer Intern - Raja Gaddipati Fellowship](https://jobright.ai/jobs/info/6937771d1c1c2161c13f4c6d?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | Hybrid | Jan 20 |
 | **[Arcus Biosciences](http://www.arcusbio.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69374a8f1c1c2161c13f2748?utm_campaign=1055&utm_source=git)** | Hayward, CA | On Site | Jan 20 |
 | **[State of Missouri](http://mo.gov)** | **[GCO Summer Internship - 5050500](https://jobright.ai/jobs/info/693bdb404911ef04095f146b?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Jan 20 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[IT Cybersecurity Compliance Intern](https://jobright.ai/jobs/info/69536bf2935649778e21358f?utm_campaign=1055&utm_source=git)** | Greater Houston | Hybrid | Jan 20 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of New York](http://www1.nyc.gov)** | **[Law School Summer (1L) Intern](https://jobright.ai/jobs/info/696bc4f55fc86241853b1dd2?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Jan 17 |
 | **[Glencore](http://glencore.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6930f46efa28370be26b59c7?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 17 |
 | **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Legal Internship- Detained Adult Program, Direct Representation](https://jobright.ai/jobs/info/696bae81350cf4380312f859?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jan 17 |
-| ↳ | **[Undergraduate Internship- Detained Adult Program, Direct Representation](https://jobright.ai/jobs/info/696ba8145fc86241853affbb?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jan 17 |
-| ↳ | **[Legal Internship- Immigration Impact Lab](https://jobright.ai/jobs/info/696ba0e9350cf4380312f4a9?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jan 17 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/68c6e5597d0db4114273b4f9?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Jan 17 |
-| **[Enterprise](https://www.enterprise.com)** | **[Vehicle Licensing Internship - Summer 2026](https://jobright.ai/jobs/info/693395e6a0dde7020e2ef689?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Jan 17 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efad6a2668b7f5452483c?utm_campaign=1055&utm_source=git)** | Montgomery, AL | Hybrid | Jan 17 |
-| **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Legal Intern](https://jobright.ai/jobs/info/694ef5ada2668b7f54523f50?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
