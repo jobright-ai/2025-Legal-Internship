@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Corporate Compliance](https://jobright.ai/jobs/info/6972394c9b83b424830e2a96?utm_campaign=1055&utm_source=git)** | San Rafael, CA | On Site | Jan 22 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/692283bbc0cefa13343d80d7?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jan 22 |
 | **[The Center for Health Information and Analysis](https://www.chiamass.gov/)** | **[Summer 2026 CHIA Legal Internship](https://jobright.ai/jobs/info/697222eccda18b743864849b?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jan 22 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Compliance Intern](https://jobright.ai/jobs/info/6972441b9b83b424830e30a2?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Jan 22 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a42c4ac80bb5492bcc47a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 22 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/6971946851f726477183eecf?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Jan 22 |
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/6971a5bb51f726477183ff74?utm_campaign=1055&utm_source=git)** | Suwanee, GA | On Site | Jan 22 |
@@ -113,7 +115,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Comptroller - Hearings and Tax Litigation Summer Intern (Law Clerk)](https://jobright.ai/jobs/info/69714685333b6343a14dc20e?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jan 21 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[Comptroller - Hearings and Tax Litigation Summer Intern (Law Clerk)](https://jobright.ai/jobs/info/6971459551f7264771838341?utm_campaign=1055&utm_source=git)** | George Herbert Walker Bush Bld1801 N. Congress Avenue | On Site | Jan 21 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Operations & Support Legal Summer Intern (Law Clerk)](https://jobright.ai/jobs/info/69714541587dfa0bb55ed61e?utm_campaign=1055&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | On Site | Jan 21 |
-| **[Alfa Laval](http://www.alfalaval.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/697143a6587dfa0bb55ed25e?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Jan 21 |
 | **[Old Republic Title](http://www.oldrepublictitle.com/)** | **[Title Rotational Internship](https://jobright.ai/jobs/info/6971410b51f7264771837965?utm_campaign=1055&utm_source=git)** | Hoboken, NJ | On Site | Jan 21 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[Comptroller - Operations & Support Legal Summer Intern (Law Clerk)](https://jobright.ai/jobs/info/6971410a587dfa0bb55eccf7?utm_campaign=1055&utm_source=git)** | Texas-AustinWork Locations | On Site | Jan 21 |
 | **[T5 Data Centers](http://www.t5datacenters.com)** | **[2026 Legal Intern](https://jobright.ai/jobs/info/69713edd51f72647718374d1?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
@@ -128,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Schroders](https://www.schroders.com/)** | **[2026 Legal Internship - NYC](https://jobright.ai/jobs/info/69712965333b6343a14d9a0b?utm_campaign=1055&utm_source=git)** | 7 Bryant Park, New York, NY, 10018, US | On Site | Jan 21 |
 | **[Gellert Global Group](https://www.gellertglobalgroup.com)** | **[Regulatory Labeling Intern](https://jobright.ai/jobs/info/69714591587dfa0bb55ed6d6?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | On Site | Jan 21 |
 | **[City of Bothell](https://www.bothellwa.gov/)** | **[Rule 9 Legal Intern](https://jobright.ai/jobs/info/697144f9587dfa0bb55ed58a?utm_campaign=1055&utm_source=git)** | Bothell, WA | On Site | Jan 21 |
-| **[Auto Warehousing Company, Inc.](http://autowc.com)** | **[Contract Management Intern](https://jobright.ai/jobs/info/697140de51f7264771837900?utm_campaign=1055&utm_source=git)** | Tacoma,WA,US | Hybrid | Jan 21 |
 | **[Old Republic Title](http://www.oldrepublictitle.com/)** | **[Title Rotational Internship](https://jobright.ai/jobs/info/6971109451f7264771834ed0?utm_campaign=1055&utm_source=git)** | NJ, Hoboken (2 Hudson Pl, FL 5) | On Site | Jan 21 |
+| **[Alfa Laval](http://www.alfalaval.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/6971101951f7264771834e77?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Jan 21 |
 | **[Triumph](https://www.tfin.com/)** | **[Financial Crimes Investigator Intern – Summer 2026](https://jobright.ai/jobs/info/697109d251f7264771834798?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 | **[M&T Bank](http://www.mtb.com)** | **[2026 Corporate Summer Internship Program - Legal](https://jobright.ai/jobs/info/6970fc9c333b6343a14d67ab?utm_campaign=1055&utm_source=git)** | Buffalo, NY | Hybrid | Jan 21 |
 | **[United Educators](https://www.ue.org/)** | **[Resolutions (Claims) Intern - Comprehensive Group](https://jobright.ai/jobs/info/69600b28a112b402660ebd8a?utm_campaign=1055&utm_source=git)** | Bethesda, MD | On Site | Jan 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 - Intern, Legal](https://jobright.ai/jobs/info/697090a851f726477182d245?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Jan 20 |
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Authority Compliance](https://jobright.ai/jobs/info/69705bcd587dfa0bb55e026b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | ↳ | **[College Intern - Procurement](https://jobright.ai/jobs/info/69705b3351f726477182a520?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 20 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Intellectual Property (IP) Management & Marketing, Hybrid](https://jobright.ai/jobs/info/69705a7751f7264771829e1c?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
