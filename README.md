@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a42c4ac80bb5492bcc47a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 22 |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/6971946851f726477183eecf?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Jan 22 |
+| ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/6971a5bb51f726477183ff74?utm_campaign=1055&utm_source=git)** | Suwanee, GA | On Site | Jan 22 |
+| ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69424a6850bbaf76505444c6?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Jan 22 |
+| **[Robinhood](https://www.robinhood.com)** | **[Corporate and Commercial Legal Intern](https://jobright.ai/jobs/info/69720840cda18b7438645dc6?utm_campaign=1055&utm_source=git)** | Menlo Park, CA | On Site | Jan 22 |
+| **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/695de56d4b7a590c5b954756?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/697059dc587dfa0bb55dec13?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 22 |
+| **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/6961fe28f3f4cd132506e5bb?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 22 |
+| **[Robinhood](https://www.robinhood.com)** | **[Corporate and Commercial Legal Intern](https://jobright.ai/jobs/info/6972076bcda45e6953583ca1?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 22 |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/695f99ada1bbea1d9a7a54d2?utm_campaign=1055&utm_source=git)** | Lake Oswego, OR | On Site | Jan 22 |
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/693a5d0448a8ce22990e695a?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | Remote | Jan 22 |
 | **[Lennox](http://www.lennox.com)** | **[Summer 2026 Business Compliance Intern](https://jobright.ai/jobs/info/6959e7aeaa05c26e7ab3867b?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Jan 22 |
 | **[CBIZ](http://www.cbiz.com)** | **[Corporate Compliance & Licensing Intern / Summer 2026](https://jobright.ai/jobs/info/6971b26e587dfa0bb55f7b43?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Jan 21 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern - Procurement](https://jobright.ai/jobs/info/69705b3351f726477182a520?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Intellectual Property (IP) Management & Marketing, Hybrid](https://jobright.ai/jobs/info/69705a7751f7264771829e1c?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 20 |
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Authority Compliance](https://jobright.ai/jobs/info/697048d5587dfa0bb55dd1de?utm_campaign=1055&utm_source=git)** | Houston, TX, US | On Site | Jan 20 |
-| ↳ | **[College Intern - Procurement](https://jobright.ai/jobs/info/697044a4333b6343a14caae6?utm_campaign=1055&utm_source=git)** | Houston, TX, US | On Site | Jan 20 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Law - Fort Lauderdale, FL CLC](https://jobright.ai/jobs/info/6949ffbf63141d1884598a2f?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 20 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Environmental Compliance Intern](https://jobright.ai/jobs/info/69703813333b6343a14ca0f8?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Jan 20 |
-| **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Supervision and Regulation Intern- Bank Examiner](https://jobright.ai/jobs/info/69703092587dfa0bb55db34a?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Jan 20 |
-| **[City of Mississauga](http://www.mississauga.ca/portal/home)** | **[Summer Law Student (2026)](https://jobright.ai/jobs/info/69702eb4333b6343a14c9775?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 20 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Spring 2026/Summer 2026 Intern - Law - Sacramento, CA CLC](https://jobright.ai/jobs/info/692ec3f7ef4b48533d141272?utm_campaign=1055&utm_source=git)** | Sacramento, CA | On Site | Jan 20 |
-| **[Mansfield Energy Corp](http://mansfield.energy/)** | **[Intern, Regulatory Affairs (Nat Gas)](https://jobright.ai/jobs/info/69701d883ed06875134b18d1?utm_campaign=1055&utm_source=git)** | Doraville, GA | On Site | Jan 20 |
-| **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Law Clerk - Intern](https://jobright.ai/jobs/info/69701c770f4e0f657ea4757e?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Jan 20 |
-| **[State of Washington](http://access.wa.gov/)** | **[Law Intern](https://jobright.ai/jobs/info/697155e8333b6343a14ddf90?utm_campaign=1055&utm_source=git)** | Walla Walla, WA | On Site | Jan 20 |
-| **[Maxwell Locke & Ritter LLP](https://www.mlrpc.com)** | **[Summer 2027 IT Audit (Risk Assurance and Advisory) Internship](https://jobright.ai/jobs/info/6970fef9587dfa0bb55e80aa?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
