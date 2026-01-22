@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Legal & Business Development Intern- EN](https://jobright.ai/jobs/info/69718f90587dfa0bb55f4014?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 21 |
+| **[MannKind Corporation](http://mannkindcorp.com)** | **[Regulatory Affairs Internship](https://jobright.ai/jobs/info/697188ce587dfa0bb55f3a30?utm_campaign=1055&utm_source=git)** | Bedford, MA | Hybrid | Jan 21 |
+| **[Wellstar Health System](https://www.wellstar.org)** | **[Ethics Intern](https://jobright.ai/jobs/info/697184e051f726477183e0cf?utm_campaign=1055&utm_source=git)** | Marietta, GA | On Site | Jan 21 |
 | **[Florida Power & Light](https://www.fpl.com/)** | **[Enterprise Risk Analytics-College Intern](https://jobright.ai/jobs/info/69718192587dfa0bb55f3477?utm_campaign=1055&utm_source=git)** | Juno Beach, FL | On Site | Jan 21 |
 | **[Massachusetts Water Resources Authority](https://www.linkedin.com/company/mwra)** | **[Intern, Law Division](https://jobright.ai/jobs/info/69717e5e587dfa0bb55f30ef?utm_campaign=1055&utm_source=git)** | Winthrop,MA,US | Hybrid | Jan 21 |
 | **[Whitley Penn](http://www.whitleypenn.com/)** | **[Litigation - Family Law Internship - Spring 2027](https://jobright.ai/jobs/info/69717dc751f726477183da2d?utm_campaign=1055&utm_source=git)** | Ft Worth, Texas, United States | On Site | Jan 21 |
@@ -71,8 +74,10 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Corporate Safety (Fall 2026)](https://jobright.ai/jobs/info/69717693587dfa0bb55f2968?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Legal Intern - Corporate and Institutional Law Team](https://jobright.ai/jobs/info/6971743e51f726477183d208?utm_campaign=1055&utm_source=git)** | Utica-Rome Area | On Site | Jan 21 |
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, IT Compliance](https://jobright.ai/jobs/info/69716d80333b6343a14df523?utm_campaign=1055&utm_source=git)** | Tucson, AZ | On Site | Jan 21 |
+| **[CBIZ](http://www.cbiz.com)** | **[Corporate Compliance & Licensing Intern / Summer 2026](https://jobright.ai/jobs/info/69718b8a333b6343a14e267e?utm_campaign=1055&utm_source=git)** | 700 W 47th St Ste 1100, Kansas City, MO, 64112, US | On Site | Jan 21 |
 | **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Legal Internship Summer 2026](https://jobright.ai/jobs/info/697169c9587dfa0bb55f0a0d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[Permian Resources](https://permianres.com)** | **[Summer 2025 Legal Internship](https://jobright.ai/jobs/info/697168ed333b6343a14df1a9?utm_campaign=1055&utm_source=git)** | Midland, Texas | On Site | Jan 21 |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Paralegal Intern (Part-Time) - The Toro Company](https://jobright.ai/jobs/info/69718fef333b6343a14e2ad4?utm_campaign=1055&utm_source=git)** | Bloomington, MN | On Site | Jan 21 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Ethics Intern](https://jobright.ai/jobs/info/6971626f587dfa0bb55f04a3?utm_campaign=1055&utm_source=git)** | 1800 Parkway Place | On Site | Jan 21 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[FSU Legal Advocate/Intake Coordinator](https://jobright.ai/jobs/info/69717c2b333b6343a14e17ba?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Jan 21 |
 | **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/697179ec587dfa0bb55f2bcb?utm_campaign=1055&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hillel International](http://hillel.org/)** | **[Summer Law Clerk 2026](https://jobright.ai/jobs/info/697023e90f4e0f657ea49232?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 20 |
 | **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Indigenous Peoples (First Nations, Inuit, and Métis) Student Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/696ffe2082817106e9771a2c?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 20 |
 | **[Jabil](https://www.jabil.com)** | **[Global Litigation Intern](https://jobright.ai/jobs/info/696ffb820f4e0f657ea455c1?utm_campaign=1055&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Jan 20 |
-| **[Mansfield Energy Corp](http://mansfield.energy/)** | **[Intern, Regulatory Affairs (Nat Gas)](https://jobright.ai/jobs/info/696ffb300f4e0f657ea454da?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
-| **[Engineers and Geoscientists BC](https://www.egbc.ca/)** | **[Summer Law Student](https://jobright.ai/jobs/info/696ff8a782817106e9770b5e?utm_campaign=1055&utm_source=git)** | Burnaby, British Columbia, Canada | Hybrid | Jan 20 |
-| **[Jabil](https://www.jabil.com)** | **[Global Litigation Intern](https://jobright.ai/jobs/info/696ff7f63ed06875134af265?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Jan 20 |
-| **[Philips](https://www.usa.philips.com)** | **[Regulatory Affairs Intern-Summer 2026](https://jobright.ai/jobs/info/696ff3070f4e0f657ea4405e?utm_campaign=1055&utm_source=git)** | Cambridge (US), Massachusetts, United States | On Site | Jan 20 |
-| **[Groupe BMR](https://www.bmr.ca)** | **[Commis, ventes internes - Stage](https://jobright.ai/jobs/info/696ffe2f0f4e0f657ea45c99?utm_campaign=1055&utm_source=git)** | Boucherville, Quebec, Canada | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
