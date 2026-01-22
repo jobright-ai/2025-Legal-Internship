@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[2026 Summer Internship- Legal](https://jobright.ai/jobs/info/69719c4451f726477183f61b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Jan 21 |
+| **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6971977a51f726477183f23f?utm_campaign=1055&utm_source=git)** | Torrance, CA | On Site | Jan 21 |
+| **[Permian Resources](https://permianres.com)** | **[Summer 2025 Legal Internship](https://jobright.ai/jobs/info/697195ee51f726477183f105?utm_campaign=1055&utm_source=git)** | Midland, TX | On Site | Jan 21 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Legal & Business Development Intern- EN](https://jobright.ai/jobs/info/69718f90587dfa0bb55f4014?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 21 |
 | **[MannKind Corporation](http://mannkindcorp.com)** | **[Regulatory Affairs Internship](https://jobright.ai/jobs/info/697188ce587dfa0bb55f3a30?utm_campaign=1055&utm_source=git)** | Bedford, MA | Hybrid | Jan 21 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Ethics Intern](https://jobright.ai/jobs/info/697184e051f726477183e0cf?utm_campaign=1055&utm_source=git)** | Marietta, GA | On Site | Jan 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[1st Source Bank](https://www.1stsource.com/)** | **[Intern, Electronic Banking, South Bend, IN (Summer 2026)](https://jobright.ai/jobs/info/69706d14587dfa0bb55e1437?utm_campaign=1055&utm_source=git)** | South Bend, IN | Hybrid | Jan 20 |
 | **[T5 Data Centers](http://www.t5datacenters.com)** | **[2026 Legal Intern](https://jobright.ai/jobs/info/697009c40f4e0f657ea46548?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
 | **[Verano](https://verano.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/696986861703f05405ab71b5?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
-| **[Hillel International](http://hillel.org/)** | **[Summer Law Clerk 2026](https://jobright.ai/jobs/info/697023e90f4e0f657ea49232?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 20 |
-| **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Indigenous Peoples (First Nations, Inuit, and Métis) Student Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/696ffe2082817106e9771a2c?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 20 |
-| **[Jabil](https://www.jabil.com)** | **[Global Litigation Intern](https://jobright.ai/jobs/info/696ffb820f4e0f657ea455c1?utm_campaign=1055&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
