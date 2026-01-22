@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/692283bbc0cefa13343d80d7?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jan 22 |
 | **[The Center for Health Information and Analysis](https://www.chiamass.gov/)** | **[Summer 2026 CHIA Legal Internship](https://jobright.ai/jobs/info/697222eccda18b743864849b?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jan 22 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a42c4ac80bb5492bcc47a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 22 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/6971946851f726477183eecf?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Jan 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Authority Compliance](https://jobright.ai/jobs/info/69705bcd587dfa0bb55e026b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | ↳ | **[College Intern - Procurement](https://jobright.ai/jobs/info/69705b3351f726477182a520?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Intellectual Property (IP) Management & Marketing, Hybrid](https://jobright.ai/jobs/info/69705a7751f7264771829e1c?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 20 |
-| **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Authority Compliance](https://jobright.ai/jobs/info/697048d5587dfa0bb55dd1de?utm_campaign=1055&utm_source=git)** | Houston, TX, US | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
