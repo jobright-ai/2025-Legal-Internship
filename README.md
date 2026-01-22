@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wellstar Health System](https://www.wellstar.org)** | **[Ethics Intern](https://jobright.ai/jobs/info/6971626f587dfa0bb55f04a3?utm_campaign=1055&utm_source=git)** | 1800 Parkway Place | On Site | Jan 21 |
 | **[Triumph](https://www.tfin.com/)** | **[Financial Crimes Investigator Intern – Summer 2026](https://jobright.ai/jobs/info/6971541b333b6343a14ddd9d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Operations & Support Legal Summer Intern (Law Clerk)](https://jobright.ai/jobs/info/69714e8e333b6343a14dd45b?utm_campaign=1055&utm_source=git)** | Texas-AustinWork Locations | On Site | Jan 21 |
 | ↳ | **[Comptroller - Hearings and Tax Litigation Summer Intern (Law Clerk)](https://jobright.ai/jobs/info/69714b9e333b6343a14dce5f?utm_campaign=1055&utm_source=git)** | George Herbert Walker Bush Bld1801 N. Congress Avenue | On Site | Jan 21 |
@@ -78,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Legal Internship Summer 2026](https://jobright.ai/jobs/info/697109ca51f726477183476d?utm_campaign=1055&utm_source=git)** | Manhattan Legal Services | On Site | Jan 21 |
 | **[Schroders](https://www.schroders.com/)** | **[2026 Legal Internship - NYC](https://jobright.ai/jobs/info/69715445587dfa0bb55ef47f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69713347333b6343a14da4cc?utm_campaign=1055&utm_source=git)** | Chandler, AZ | On Site | Jan 21 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Model Risk Governance & Validation Intern – Summer 2026](https://jobright.ai/jobs/info/6971580351f726477183a3dd?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 21 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Summer Intern - Law Clerk](https://jobright.ai/jobs/info/69712f60333b6343a14da08f?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Jan 21 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69714e4d587dfa0bb55eec4d?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 21 |
 | **[Schroders](https://www.schroders.com/)** | **[2026 Legal Internship - NYC](https://jobright.ai/jobs/info/69712965333b6343a14d9a0b?utm_campaign=1055&utm_source=git)** | 7 Bryant Park, New York, NY, 10018, US | On Site | Jan 21 |
@@ -96,8 +98,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970d55851f726477183157e?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Jan 21 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970d26e51f7264771831387?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Jan 21 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970eb0e333b6343a14d5e5d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
-| ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/696b0c4ddb26b618950e86d5?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 21 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970e7bf587dfa0bb55e7354?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 21 |
+| ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/696b0c4ddb26b618950e86d5?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 21 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970ed4c51f726477183248c?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jan 21 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970ea76587dfa0bb55e750f?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 21 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Legal Assistant](https://jobright.ai/jobs/info/695444dfaa05c26e7aaec69f?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Jan 21 |
@@ -122,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://www.statefarm.com/careers)** | **[Spring 2026/Summer 2026 Intern - Law - Sacramento, CA CLC](https://jobright.ai/jobs/info/692ec3f7ef4b48533d141272?utm_campaign=1055&utm_source=git)** | Sacramento, CA | On Site | Jan 20 |
 | **[Mansfield Energy Corp](http://mansfield.energy/)** | **[Intern, Regulatory Affairs (Nat Gas)](https://jobright.ai/jobs/info/69701d883ed06875134b18d1?utm_campaign=1055&utm_source=git)** | Doraville, GA | On Site | Jan 20 |
 | **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Law Clerk - Intern](https://jobright.ai/jobs/info/69701c770f4e0f657ea4757e?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Jan 20 |
+| **[State of Washington](http://access.wa.gov/)** | **[Law Intern](https://jobright.ai/jobs/info/697155e8333b6343a14ddf90?utm_campaign=1055&utm_source=git)** | Walla Walla, WA | On Site | Jan 20 |
 | **[Maxwell Locke & Ritter LLP](https://www.mlrpc.com)** | **[Summer 2027 IT Audit (Risk Assurance and Advisory) Internship](https://jobright.ai/jobs/info/6970fef9587dfa0bb55e80aa?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jan 20 |
 | **[Freddie Mac](https://www.freddiemac.com/)** | **[Regulatory Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/6970143b0f4e0f657ea46fd4?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Jan 20 |
 | **[1st Source Bank](https://www.1stsource.com/)** | **[Intern, Electronic Banking, South Bend, IN (Summer 2026)](https://jobright.ai/jobs/info/69706d14587dfa0bb55e1437?utm_campaign=1055&utm_source=git)** | South Bend, IN | Hybrid | Jan 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Burr & Forman](http://www.burr.com)** | **[2026 Pre-Law Intern](https://jobright.ai/jobs/info/6952a961935649778e2063ab?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Jan 20 |
 | **[Cross River](http://crossriver.com)** | **[Consumer Compliance Advisory Intern](https://jobright.ai/jobs/info/69374a551c1c2161c13f2736?utm_campaign=1055&utm_source=git)** | Fort Lee, NJ | Hybrid | Jan 20 |
 | **[Razer Inc.](https://www.razer.com)** | **[Legal Intern (Hourly)](https://jobright.ai/jobs/info/696abd0d350cf4380311c806?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Jan 20 |
-| **[Take-Two Interactive](http://www.take2games.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69378fbca0dde7020e30424b?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 20 |
-| **[Relativity](http://www.relativity.com)** | **[Legal Intern](https://jobright.ai/jobs/info/696f31ef0f4e0f657ea38d1c?utm_campaign=1055&utm_source=git)** | Illinois | Hybrid | Jan 19 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/696f21e50f4e0f657ea385b7?utm_campaign=1055&utm_source=git)** | Illinois, United States | Remote | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
