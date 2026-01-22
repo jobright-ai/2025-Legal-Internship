@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Legal & Business Development Intern- EN](https://jobright.ai/jobs/info/69718f90587dfa0bb55f4014?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 21 |
 | **[MannKind Corporation](http://mannkindcorp.com)** | **[Regulatory Affairs Internship](https://jobright.ai/jobs/info/697188ce587dfa0bb55f3a30?utm_campaign=1055&utm_source=git)** | Bedford, MA | Hybrid | Jan 21 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Ethics Intern](https://jobright.ai/jobs/info/697184e051f726477183e0cf?utm_campaign=1055&utm_source=git)** | Marietta, GA | On Site | Jan 21 |
+| **[Scripps Research](http://www.scripps.edu/)** | **[INTERN - Office of Technology & Development](https://jobright.ai/jobs/info/6971a13b587dfa0bb55f4ec5?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jan 21 |
 | **[Florida Power & Light](https://www.fpl.com/)** | **[Enterprise Risk Analytics-College Intern](https://jobright.ai/jobs/info/69718192587dfa0bb55f3477?utm_campaign=1055&utm_source=git)** | Juno Beach, FL | On Site | Jan 21 |
 | **[Massachusetts Water Resources Authority](https://www.linkedin.com/company/mwra)** | **[Intern, Law Division](https://jobright.ai/jobs/info/69717e5e587dfa0bb55f30ef?utm_campaign=1055&utm_source=git)** | Winthrop,MA,US | Hybrid | Jan 21 |
 | **[Whitley Penn](http://www.whitleypenn.com/)** | **[Litigation - Family Law Internship - Spring 2027](https://jobright.ai/jobs/info/69717dc751f726477183da2d?utm_campaign=1055&utm_source=git)** | Ft Worth, Texas, United States | On Site | Jan 21 |
@@ -125,8 +126,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970d55851f726477183157e?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Jan 21 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970d26e51f7264771831387?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Jan 21 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970eb0e333b6343a14d5e5d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
-| ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970e7bf587dfa0bb55e7354?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/696b0c4ddb26b618950e86d5?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 21 |
+| ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970e7bf587dfa0bb55e7354?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970ed4c51f726477183248c?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jan 21 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970ea76587dfa0bb55e750f?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 21 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Legal Assistant](https://jobright.ai/jobs/info/695444dfaa05c26e7aaec69f?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Jan 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Freddie Mac](https://www.freddiemac.com/)** | **[Regulatory Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/6970143b0f4e0f657ea46fd4?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Jan 20 |
 | **[1st Source Bank](https://www.1stsource.com/)** | **[Intern, Electronic Banking, South Bend, IN (Summer 2026)](https://jobright.ai/jobs/info/69706d14587dfa0bb55e1437?utm_campaign=1055&utm_source=git)** | South Bend, IN | Hybrid | Jan 20 |
 | **[T5 Data Centers](http://www.t5datacenters.com)** | **[2026 Legal Intern](https://jobright.ai/jobs/info/697009c40f4e0f657ea46548?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
-| **[Verano](https://verano.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/696986861703f05405ab71b5?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
