@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Internal Compliance](https://jobright.ai/jobs/info/697298ea9b83b424830e9419?utm_campaign=1055&utm_source=git)** | Northland 1st Floor4485 Northland Ridge Boulevard | On Site | Jan 22 |
+| **[Chesapeake Bay Foundation](http://www.cbf.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69729fb2584a1c1ef6fdab77?utm_campaign=1055&utm_source=git)** | Annapolis, MD | On Site | Jan 22 |
+| **[Wesco](http://www.wesco.com/)** | **[Intern - Summer Internship (Legal Department)](https://jobright.ai/jobs/info/69729e864ccbf64f8df2a2be?utm_campaign=1055&utm_source=git)** | Glenview, IL | Hybrid | Jan 22 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Internal Compliance](https://jobright.ai/jobs/info/69729e1e4ccbf64f8df2a1ca?utm_campaign=1055&utm_source=git)** | Northland 1st Floor4485 Northland Ridge Boulevard | On Site | Jan 22 |
+| ↳ | **[College Intern - Internal Compliance](https://jobright.ai/jobs/info/69729b4a9b83b424830e9986?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jan 22 |
+| **[Kearny Bank](http://kearnybank.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697299f04ccbf64f8df2983a?utm_campaign=1055&utm_source=git)** | Fairfield, NJ | On Site | Jan 22 |
 | **[TTX Company](http://www.ttx.com)** | **[Controls and Governance Intern](https://jobright.ai/jobs/info/697297569b83b424830e9066?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Jan 22 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/6972969f4ccbf64f8df290a8?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 22 |
 | **[Wesco](http://www.wesco.com/)** | **[Intern - Summer Internship (Legal Department)](https://jobright.ai/jobs/info/697294c09b83b424830e8a86?utm_campaign=1055&utm_source=git)** | 2301 Patriot Boulevard, Glenview, IL, 60026, US | Hybrid | Jan 22 |
@@ -75,6 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Safety](https://jobright.ai/jobs/info/69727e0d9b83b424830e6e1b?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Jan 22 |
 | **[Kearny Bank](http://kearnybank.com)** | **[AML CFT Analyst Intern](https://jobright.ai/jobs/info/69727dea9b83b424830e6df4?utm_campaign=1055&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/69727c96584a1c1ef6fd7755?utm_campaign=1055&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 22 |
+| **[State of Vermont](http://vermont.gov/portal/)** | **[Paid Intern, Financial Regulation-Temporary](https://jobright.ai/jobs/info/69729e759b83b424830ea09a?utm_campaign=1055&utm_source=git)** | Montpelier, VT | On Site | Jan 22 |
+| **[TTX Company](http://www.ttx.com)** | **[Controls and Governance Intern](https://jobright.ai/jobs/info/6972a0e89b83b424830ea5f9?utm_campaign=1055&utm_source=git)** | 2151 Hawkins St, Charlotte, NC, 28203, US | Hybrid | Jan 22 |
 | **[Molex](http://www.molex.com)** | **[Molex Supply Chain- Trades & Customs Internship- Summer 2026](https://jobright.ai/jobs/info/69726c729b83b424830e5fff?utm_campaign=1055&utm_source=git)** | Lisle, IL | On Site | Jan 22 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Legal Archives Internship](https://jobright.ai/jobs/info/68cf93d8846f0b04af683089?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 22 |
 | **[Kearny Bank](http://kearnybank.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/697289ce584a1c1ef6fd8550?utm_campaign=1055&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schroders](https://www.schroders.com/)** | **[2026 Legal Internship - NYC](https://jobright.ai/jobs/info/69715445587dfa0bb55ef47f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69713347333b6343a14da4cc?utm_campaign=1055&utm_source=git)** | Chandler, AZ | On Site | Jan 21 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Model Risk Governance & Validation Intern – Summer 2026](https://jobright.ai/jobs/info/6971580351f726477183a3dd?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 21 |
-| **[Union Pacific Railroad](http://www.up.com/)** | **[Summer Intern - Law Clerk](https://jobright.ai/jobs/info/69712f60333b6343a14da08f?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Jan 21 |
-| **[Schroders](https://www.schroders.com/)** | **[2026 Legal Internship - NYC](https://jobright.ai/jobs/info/69712965333b6343a14d9a0b?utm_campaign=1055&utm_source=git)** | 7 Bryant Park, New York, NY, 10018, US | On Site | Jan 21 |
-| **[Gellert Global Group](https://www.gellertglobalgroup.com)** | **[Regulatory Labeling Intern](https://jobright.ai/jobs/info/69714591587dfa0bb55ed6d6?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | On Site | Jan 21 |
-| **[City of Bothell](https://www.bothellwa.gov/)** | **[Rule 9 Legal Intern](https://jobright.ai/jobs/info/697144f9587dfa0bb55ed58a?utm_campaign=1055&utm_source=git)** | Bothell, WA | On Site | Jan 21 |
-| **[Old Republic Title](http://www.oldrepublictitle.com/)** | **[Title Rotational Internship](https://jobright.ai/jobs/info/6971109451f7264771834ed0?utm_campaign=1055&utm_source=git)** | NJ, Hoboken (2 Hudson Pl, FL 5) | On Site | Jan 21 |
-| **[Alfa Laval](http://www.alfalaval.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/6971101951f7264771834e77?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
