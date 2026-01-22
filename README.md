@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Internal Compliance](https://jobright.ai/jobs/info/697298ea9b83b424830e9419?utm_campaign=1055&utm_source=git)** | Northland 1st Floor4485 Northland Ridge Boulevard | On Site | Jan 22 |
+| **[TTX Company](http://www.ttx.com)** | **[Controls and Governance Intern](https://jobright.ai/jobs/info/697297569b83b424830e9066?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Jan 22 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/6972969f4ccbf64f8df290a8?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 22 |
+| **[Wesco](http://www.wesco.com/)** | **[Intern - Summer Internship (Legal Department)](https://jobright.ai/jobs/info/697294c09b83b424830e8a86?utm_campaign=1055&utm_source=git)** | 2301 Patriot Boulevard, Glenview, IL, 60026, US | Hybrid | Jan 22 |
+| **[Equinix](http://www.equinix.com)** | **[Risk Management and Insurance Intern](https://jobright.ai/jobs/info/69729355584a1c1ef6fd9221?utm_campaign=1055&utm_source=git)** | Tampa | Hybrid | Jan 22 |
+| ↳ | **[Risk Management and Insurance Intern](https://jobright.ai/jobs/info/697292684ccbf64f8df288a5?utm_campaign=1055&utm_source=git)** | Redwood City | Hybrid | Jan 22 |
+| **[State Street](https://www.statestreet.com/)** | **[State Street Enterprise Risk Management - Market Risk Internship - Summer 2026](https://jobright.ai/jobs/info/697291de584a1c1ef6fd8f3d?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 22 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Internal Compliance](https://jobright.ai/jobs/info/697291d7584a1c1ef6fd8f2b?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jan 22 |
+| **[Kearny Bank](http://kearnybank.com)** | **[Compliance Analyst Intern](https://jobright.ai/jobs/info/697290b8584a1c1ef6fd8ceb?utm_campaign=1055&utm_source=git)** | Fairfield, NJ | On Site | Jan 22 |
+| **[Alfa Laval](http://www.alfalaval.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/69728f9b584a1c1ef6fd8abd?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Jan 22 |
 | **[Glencore](http://glencore.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6930f46efa28370be26b59c7?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jan 22 |
 | **[NRG Energy](http://www.nrg.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/697289f64ccbf64f8df27d38?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 22 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department - BSA/AML Compliance Intern](https://jobright.ai/jobs/info/697285fb9b83b424830e76a0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 22 |
@@ -67,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/69727c96584a1c1ef6fd7755?utm_campaign=1055&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 22 |
 | **[Molex](http://www.molex.com)** | **[Molex Supply Chain- Trades & Customs Internship- Summer 2026](https://jobright.ai/jobs/info/69726c729b83b424830e5fff?utm_campaign=1055&utm_source=git)** | Lisle, IL | On Site | Jan 22 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Legal Archives Internship](https://jobright.ai/jobs/info/68cf93d8846f0b04af683089?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 22 |
-| **[Kearny Bank](http://kearnybank.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69728afc4ccbf64f8df27e54?utm_campaign=1055&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
-| ↳ | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/697289ce584a1c1ef6fd8550?utm_campaign=1055&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
+| **[Kearny Bank](http://kearnybank.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/697289ce584a1c1ef6fd8550?utm_campaign=1055&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69728afc4ccbf64f8df27e54?utm_campaign=1055&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/697267bf9b83b424830e5d57?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 22 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Compliance Intern (Remote)](https://jobright.ai/jobs/info/697265b39b83b424830e5bb6?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 22 |
 | **[VertoTech](vertotech.us)** | **[Corporate Compliance Summer Intern](https://jobright.ai/jobs/info/697286cb584a1c1ef6fd81db?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 22 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Bothell](https://www.bothellwa.gov/)** | **[Rule 9 Legal Intern](https://jobright.ai/jobs/info/697144f9587dfa0bb55ed58a?utm_campaign=1055&utm_source=git)** | Bothell, WA | On Site | Jan 21 |
 | **[Old Republic Title](http://www.oldrepublictitle.com/)** | **[Title Rotational Internship](https://jobright.ai/jobs/info/6971109451f7264771834ed0?utm_campaign=1055&utm_source=git)** | NJ, Hoboken (2 Hudson Pl, FL 5) | On Site | Jan 21 |
 | **[Alfa Laval](http://www.alfalaval.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/6971101951f7264771834e77?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Jan 21 |
-| **[Triumph](https://www.tfin.com/)** | **[Financial Crimes Investigator Intern – Summer 2026](https://jobright.ai/jobs/info/697109d251f7264771834798?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
-| **[M&T Bank](http://www.mtb.com)** | **[2026 Corporate Summer Internship Program - Legal](https://jobright.ai/jobs/info/6970fc9c333b6343a14d67ab?utm_campaign=1055&utm_source=git)** | Buffalo, NY | Hybrid | Jan 21 |
-| **[United Educators](https://www.ue.org/)** | **[Resolutions (Claims) Intern - Comprehensive Group](https://jobright.ai/jobs/info/69600b28a112b402660ebd8a?utm_campaign=1055&utm_source=git)** | Bethesda, MD | On Site | Jan 21 |
-| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970e12a587dfa0bb55e7036?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 21 |
-| ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970ded251f7264771831bbc?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
-| ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970d711333b6343a14d533d?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jan 21 |
-| ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/696996d21703f05405ab96bf?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jan 21 |
-| ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970d55851f726477183157e?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Jan 21 |
-| ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970d26e51f7264771831387?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Jan 21 |
-| ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970eb0e333b6343a14d5e5d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
