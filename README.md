@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Center for Health Information and Analysis](https://www.chiamass.gov/)** | **[Summer 2026 CHIA Legal Internship](https://jobright.ai/jobs/info/697222eccda18b743864849b?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jan 22 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a42c4ac80bb5492bcc47a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jan 22 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/6971946851f726477183eecf?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Jan 22 |
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/6971a5bb51f726477183ff74?utm_campaign=1055&utm_source=git)** | Suwanee, GA | On Site | Jan 22 |
@@ -101,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/697179ec587dfa0bb55f2bcb?utm_campaign=1055&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
 | **[CLEAR](http://www.clearme.com)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/697171e0587dfa0bb55f1031?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[Triumph](https://www.tfin.com/)** | **[Financial Crimes Investigator Intern – Summer 2026](https://jobright.ai/jobs/info/6971541b333b6343a14ddd9d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
-| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Corporate Compliance](https://jobright.ai/jobs/info/6971795b333b6343a14e1476?utm_campaign=1055&utm_source=git)** | San Rafael, CA | On Site | Jan 21 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Operations & Support Legal Summer Intern (Law Clerk)](https://jobright.ai/jobs/info/69714e8e333b6343a14dd45b?utm_campaign=1055&utm_source=git)** | Texas-AustinWork Locations | On Site | Jan 21 |
 | ↳ | **[Comptroller - Hearings and Tax Litigation Summer Intern (Law Clerk)](https://jobright.ai/jobs/info/69714b9e333b6343a14dce5f?utm_campaign=1055&utm_source=git)** | George Herbert Walker Bush Bld1801 N. Congress Avenue | On Site | Jan 21 |
 | ↳ | **[Comptroller - Hearings and Tax Litigation Summer Intern (Law Clerk)](https://jobright.ai/jobs/info/69714b7451f72647718390f8?utm_campaign=1055&utm_source=git)** | Texas-AustinWork Locations | On Site | Jan 21 |
@@ -128,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Gellert Global Group](https://www.gellertglobalgroup.com)** | **[Regulatory Labeling Intern](https://jobright.ai/jobs/info/69714591587dfa0bb55ed6d6?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | On Site | Jan 21 |
 | **[City of Bothell](https://www.bothellwa.gov/)** | **[Rule 9 Legal Intern](https://jobright.ai/jobs/info/697144f9587dfa0bb55ed58a?utm_campaign=1055&utm_source=git)** | Bothell, WA | On Site | Jan 21 |
 | **[Auto Warehousing Company, Inc.](http://autowc.com)** | **[Contract Management Intern](https://jobright.ai/jobs/info/697140de51f7264771837900?utm_campaign=1055&utm_source=git)** | Tacoma,WA,US | Hybrid | Jan 21 |
-| **[Hays County](http://hayscountytx.com)** | **[Justice of the Peace - Intern](https://jobright.ai/jobs/info/6971442651f7264771837fe8?utm_campaign=1055&utm_source=git)** | San Marcos, TX | On Site | Jan 21 |
 | **[Old Republic Title](http://www.oldrepublictitle.com/)** | **[Title Rotational Internship](https://jobright.ai/jobs/info/6971109451f7264771834ed0?utm_campaign=1055&utm_source=git)** | NJ, Hoboken (2 Hudson Pl, FL 5) | On Site | Jan 21 |
 | **[Triumph](https://www.tfin.com/)** | **[Financial Crimes Investigator Intern – Summer 2026](https://jobright.ai/jobs/info/697109d251f7264771834798?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 | **[M&T Bank](http://www.mtb.com)** | **[2026 Corporate Summer Internship Program - Legal](https://jobright.ai/jobs/info/6970fc9c333b6343a14d67ab?utm_campaign=1055&utm_source=git)** | Buffalo, NY | Hybrid | Jan 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Authority Compliance](https://jobright.ai/jobs/info/69705bcd587dfa0bb55e026b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | ↳ | **[College Intern - Procurement](https://jobright.ai/jobs/info/69705b3351f726477182a520?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Intellectual Property (IP) Management & Marketing, Hybrid](https://jobright.ai/jobs/info/69705a7751f7264771829e1c?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 20 |
+| **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Authority Compliance](https://jobright.ai/jobs/info/697048d5587dfa0bb55dd1de?utm_campaign=1055&utm_source=git)** | Houston, TX, US | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
