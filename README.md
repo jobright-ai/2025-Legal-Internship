@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, IT Compliance](https://jobright.ai/jobs/info/69716d80333b6343a14df523?utm_campaign=1055&utm_source=git)** | Tucson, AZ | On Site | Jan 21 |
+| **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Legal Internship Summer 2026](https://jobright.ai/jobs/info/697169c9587dfa0bb55f0a0d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 21 |
+| **[Permian Resources](https://permianres.com)** | **[Summer 2025 Legal Internship](https://jobright.ai/jobs/info/697168ed333b6343a14df1a9?utm_campaign=1055&utm_source=git)** | Midland, Texas | On Site | Jan 21 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Ethics Intern](https://jobright.ai/jobs/info/6971626f587dfa0bb55f04a3?utm_campaign=1055&utm_source=git)** | 1800 Parkway Place | On Site | Jan 21 |
+| **[CLEAR](http://www.clearme.com)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/697171e0587dfa0bb55f1031?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[Triumph](https://www.tfin.com/)** | **[Financial Crimes Investigator Intern – Summer 2026](https://jobright.ai/jobs/info/6971541b333b6343a14ddd9d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Operations & Support Legal Summer Intern (Law Clerk)](https://jobright.ai/jobs/info/69714e8e333b6343a14dd45b?utm_campaign=1055&utm_source=git)** | Texas-AustinWork Locations | On Site | Jan 21 |
 | ↳ | **[Comptroller - Hearings and Tax Litigation Summer Intern (Law Clerk)](https://jobright.ai/jobs/info/69714b9e333b6343a14dce5f?utm_campaign=1055&utm_source=git)** | George Herbert Walker Bush Bld1801 N. Congress Avenue | On Site | Jan 21 |
@@ -81,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Savvas Learning Company](https://www.savvas.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69713347333b6343a14da4cc?utm_campaign=1055&utm_source=git)** | Chandler, AZ | On Site | Jan 21 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Model Risk Governance & Validation Intern – Summer 2026](https://jobright.ai/jobs/info/6971580351f726477183a3dd?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 21 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Summer Intern - Law Clerk](https://jobright.ai/jobs/info/69712f60333b6343a14da08f?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Jan 21 |
-| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69714e4d587dfa0bb55eec4d?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 21 |
 | **[Schroders](https://www.schroders.com/)** | **[2026 Legal Internship - NYC](https://jobright.ai/jobs/info/69712965333b6343a14d9a0b?utm_campaign=1055&utm_source=git)** | 7 Bryant Park, New York, NY, 10018, US | On Site | Jan 21 |
 | **[Gellert Global Group](https://www.gellertglobalgroup.com)** | **[Regulatory Labeling Intern](https://jobright.ai/jobs/info/69714591587dfa0bb55ed6d6?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | On Site | Jan 21 |
 | **[City of Bothell](https://www.bothellwa.gov/)** | **[Rule 9 Legal Intern](https://jobright.ai/jobs/info/697144f9587dfa0bb55ed58a?utm_campaign=1055&utm_source=git)** | Bothell, WA | On Site | Jan 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arcus Biosciences](http://www.arcusbio.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69374a8f1c1c2161c13f2748?utm_campaign=1055&utm_source=git)** | Hayward, CA | On Site | Jan 20 |
 | **[State of Missouri](http://mo.gov)** | **[GCO Summer Internship - 5050500](https://jobright.ai/jobs/info/693bdb404911ef04095f146b?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Jan 20 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[IT Cybersecurity Compliance Intern](https://jobright.ai/jobs/info/69536bf2935649778e21358f?utm_campaign=1055&utm_source=git)** | Greater Houston | Hybrid | Jan 20 |
-| **[Burr & Forman](http://www.burr.com)** | **[2026 Pre-Law Intern](https://jobright.ai/jobs/info/6952a961935649778e2063ab?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Jan 20 |
-| **[Cross River](http://crossriver.com)** | **[Consumer Compliance Advisory Intern](https://jobright.ai/jobs/info/69374a551c1c2161c13f2736?utm_campaign=1055&utm_source=git)** | Fort Lee, NJ | Hybrid | Jan 20 |
-| **[Razer Inc.](https://www.razer.com)** | **[Legal Intern (Hourly)](https://jobright.ai/jobs/info/696abd0d350cf4380311c806?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
