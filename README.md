@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Cybersecurity - Summer 2026](https://jobright.ai/jobs/info/6972e0b798522904c697b442?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Jan 22 |
+| **[Primerica](https://www.primerica.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6972d55b1d55d64a205335c2?utm_campaign=1055&utm_source=git)** | Duluth, GA | On Site | Jan 22 |
+| **[Hays County](http://hayscountytx.com)** | **[Justice Clerk Intern](https://jobright.ai/jobs/info/6972d4d50488fd59f7d5cdb2?utm_campaign=1055&utm_source=git)** | San Marcos, TX | On Site | Jan 22 |
 | **[Blue Ant Media](http://www.glassbox.tv)** | **[Summer Intern, Legal Department, Production, Global Channels & Media & Media](https://jobright.ai/jobs/info/6972d2ff0488fd59f7d5cb20?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jan 22 |
 | **[Capella Space](http://www.capellaspace.com)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/693c6b7649a7695fbd0335ac?utm_campaign=1055&utm_source=git)** | Louisville, CO | On Site | Jan 22 |
 | **[The Douglaston Companies](https://www.douglastondevelopment.com/)** | **[Construction Compliance Intern](https://jobright.ai/jobs/info/6972c8d24ccbf64f8df2d37c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 22 |
@@ -64,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Corning Incorporated](https://www.corning.com/)** | **[Law Department Intern - Summer 2026](https://jobright.ai/jobs/info/6972c6c19b83b424830ecda8?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
 | **[Spotify](http://www.spotify.com)** | **[2026 Summer Internship, Trust & Safety (New York City)](https://jobright.ai/jobs/info/6972c3fb4ccbf64f8df2cf7c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[2026 Summer Student Internship](https://jobright.ai/jobs/info/6972c2a2584a1c1ef6fdd49f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 22 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Legal Master's Intern](https://jobright.ai/jobs/info/6972ddb01d55d64a20533f70?utm_campaign=1055&utm_source=git)** | California-Oakland-Ordway | Hybrid | Jan 22 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/6972b58d584a1c1ef6fdc7ac?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Jan 22 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Contract Administration Intern - Roy UT](https://jobright.ai/jobs/info/6972af494ccbf64f8df2ba72?utm_campaign=1055&utm_source=git)** | United States-Utah-Roy | On Site | Jan 22 |
 | **[Spotify](http://www.spotify.com)** | **[2026 Summer Internship, Trust & Safety (New York City)](https://jobright.ai/jobs/info/6972aca3584a1c1ef6fdbf0d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 22 |
@@ -100,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[TTX Company](http://www.ttx.com)** | **[Controls and Governance Intern](https://jobright.ai/jobs/info/6972a0e89b83b424830ea5f9?utm_campaign=1055&utm_source=git)** | 2151 Hawkins St, Charlotte, NC, 28203, US | Hybrid | Jan 22 |
 | **[Molex](http://www.molex.com)** | **[Molex Supply Chain- Trades & Customs Internship- Summer 2026](https://jobright.ai/jobs/info/69726c729b83b424830e5fff?utm_campaign=1055&utm_source=git)** | Lisle, IL | On Site | Jan 22 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Legal Archives Internship](https://jobright.ai/jobs/info/68cf93d8846f0b04af683089?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 22 |
-| **[Kearny Bank](http://kearnybank.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/697289ce584a1c1ef6fd8550?utm_campaign=1055&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69728afc4ccbf64f8df27e54?utm_campaign=1055&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
+| **[Kearny Bank](http://kearnybank.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69728afc4ccbf64f8df27e54?utm_campaign=1055&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
+| ↳ | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/697289ce584a1c1ef6fd8550?utm_campaign=1055&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/697267bf9b83b424830e5d57?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 22 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Compliance Intern (Remote)](https://jobright.ai/jobs/info/697265b39b83b424830e5bb6?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 22 |
 | **[VertoTech](vertotech.us)** | **[Corporate Compliance Summer Intern](https://jobright.ai/jobs/info/697286cb584a1c1ef6fd81db?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CLEAR](http://www.clearme.com)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/697171e0587dfa0bb55f1031?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[Triumph](https://www.tfin.com/)** | **[Financial Crimes Investigator Intern – Summer 2026](https://jobright.ai/jobs/info/6971541b333b6343a14ddd9d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Operations & Support Legal Summer Intern (Law Clerk)](https://jobright.ai/jobs/info/69714e8e333b6343a14dd45b?utm_campaign=1055&utm_source=git)** | Texas-AustinWork Locations | On Site | Jan 21 |
-| ↳ | **[Comptroller - Hearings and Tax Litigation Summer Intern (Law Clerk)](https://jobright.ai/jobs/info/69714b9e333b6343a14dce5f?utm_campaign=1055&utm_source=git)** | George Herbert Walker Bush Bld1801 N. Congress Avenue | On Site | Jan 21 |
-| ↳ | **[Comptroller - Hearings and Tax Litigation Summer Intern (Law Clerk)](https://jobright.ai/jobs/info/69714b7451f72647718390f8?utm_campaign=1055&utm_source=git)** | Texas-AustinWork Locations | On Site | Jan 21 |
-| **[MKS Inc.](https://www.mks.com)** | **[2026 Summer IT Risk & Compliance Graduate Intern (R14994)](https://jobright.ai/jobs/info/69714984587dfa0bb55ee084?utm_campaign=1055&utm_source=git)** | Andover, MA | On Site | Jan 21 |
-| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[Comptroller - Operations & Support Legal Summer Intern (Law Clerk)](https://jobright.ai/jobs/info/697148b151f7264771838a43?utm_campaign=1055&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
