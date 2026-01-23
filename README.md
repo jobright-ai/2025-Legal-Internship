@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Contract Administrator Intern](https://jobright.ai/jobs/info/691dd4ec748c4e1301ec9174?utm_campaign=1055&utm_source=git)** | Dayton Metropolitan Area | On Site | Jan 23 |
+| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6959e3b7aa05c26e7ab384f5?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 23 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69735113bc8e722e7b182f87?utm_campaign=1055&utm_source=git)** | Warrenville, IL | On Site | Jan 23 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/696dcb7b5fc86241853ca018?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Jan 23 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/697067a3333b6343a14cf04a?utm_campaign=1055&utm_source=git)** | Orange, CA | On Site | Jan 23 |
@@ -113,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[TTX Company](http://www.ttx.com)** | **[Controls and Governance Intern](https://jobright.ai/jobs/info/6972a0e89b83b424830ea5f9?utm_campaign=1055&utm_source=git)** | 2151 Hawkins St, Charlotte, NC, 28203, US | Hybrid | Jan 22 |
 | **[Molex](http://www.molex.com)** | **[Molex Supply Chain- Trades & Customs Internship- Summer 2026](https://jobright.ai/jobs/info/69726c729b83b424830e5fff?utm_campaign=1055&utm_source=git)** | Lisle, IL | On Site | Jan 22 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Legal Archives Internship](https://jobright.ai/jobs/info/68cf93d8846f0b04af683089?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 22 |
-| **[Kearny Bank](http://kearnybank.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69728afc4ccbf64f8df27e54?utm_campaign=1055&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
-| ↳ | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/697289ce584a1c1ef6fd8550?utm_campaign=1055&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
+| **[Kearny Bank](http://kearnybank.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/697289ce584a1c1ef6fd8550?utm_campaign=1055&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69728afc4ccbf64f8df27e54?utm_campaign=1055&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/697267bf9b83b424830e5d57?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 22 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Compliance Intern (Remote)](https://jobright.ai/jobs/info/697265b39b83b424830e5bb6?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 22 |
 | **[VertoTech](vertotech.us)** | **[Corporate Compliance Summer Intern](https://jobright.ai/jobs/info/697286cb584a1c1ef6fd81db?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Legal Intern - Programmes & Projects Team](https://jobright.ai/jobs/info/69717885587dfa0bb55f2a4a?utm_campaign=1055&utm_source=git)** | Utica-Rome Area | On Site | Jan 21 |
 | **[CLEAR](http://www.clearme.com)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/697177a1587dfa0bb55f29e1?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Jan 21 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Corporate Safety (Fall 2026)](https://jobright.ai/jobs/info/69717693587dfa0bb55f2968?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
-| **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Legal Intern - Corporate and Institutional Law Team](https://jobright.ai/jobs/info/6971743e51f726477183d208?utm_campaign=1055&utm_source=git)** | Utica-Rome Area | On Site | Jan 21 |
-| **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, IT Compliance](https://jobright.ai/jobs/info/69716d80333b6343a14df523?utm_campaign=1055&utm_source=git)** | Tucson, AZ | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
