@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Planned Systems International](http://www.plan-sys.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697309171790715e866bfc02?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Wurth Elektronik](https://www.we-ics.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6972e32a98522904c697b6dd?utm_campaign=1055&utm_source=git)** | Watertown, SD | On Site | Jan 22 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Cybersecurity - Summer 2026](https://jobright.ai/jobs/info/6972e0b798522904c697b442?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Jan 22 |
 | **[Primerica](https://www.primerica.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6972d55b1d55d64a205335c2?utm_campaign=1055&utm_source=git)** | Duluth, GA | On Site | Jan 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CBIZ](http://www.cbiz.com)** | **[Corporate Compliance & Licensing Intern / Summer 2026](https://jobright.ai/jobs/info/69718b8a333b6343a14e267e?utm_campaign=1055&utm_source=git)** | 700 W 47th St Ste 1100, Kansas City, MO, 64112, US | On Site | Jan 21 |
 | **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Legal Internship Summer 2026](https://jobright.ai/jobs/info/697169c9587dfa0bb55f0a0d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[Permian Resources](https://permianres.com)** | **[Summer 2025 Legal Internship](https://jobright.ai/jobs/info/697168ed333b6343a14df1a9?utm_campaign=1055&utm_source=git)** | Midland, Texas | On Site | Jan 21 |
-| **[The Toro Company](https://www.thetorocompany.com)** | **[Paralegal Intern (Part-Time) - The Toro Company](https://jobright.ai/jobs/info/69718fef333b6343a14e2ad4?utm_campaign=1055&utm_source=git)** | Bloomington, MN | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
