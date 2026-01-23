@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Paralegal Intern (Part-Time) - The Toro Company](https://jobright.ai/jobs/info/69736986206da320f49d5eb3?utm_campaign=1055&utm_source=git)** | Hennepin County, MN | On Site | Jan 23 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Contract Administrator Intern](https://jobright.ai/jobs/info/691dd4ec748c4e1301ec9174?utm_campaign=1055&utm_source=git)** | Dayton Metropolitan Area | On Site | Jan 23 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6959e3b7aa05c26e7ab384f5?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 23 |
-| **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69735113bc8e722e7b182f87?utm_campaign=1055&utm_source=git)** | Warrenville, IL | On Site | Jan 23 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/696dcb7b5fc86241853ca018?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Jan 23 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/697067a3333b6343a14cf04a?utm_campaign=1055&utm_source=git)** | Orange, CA | On Site | Jan 23 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[NCDOT Customer Compliance Services Unit Intern-DMV](https://jobright.ai/jobs/info/6973102d1790715e866c1232?utm_campaign=1055&utm_source=git)** | Wake County, NC | On Site | Jan 22 |
@@ -86,7 +86,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Internship, Legal- J.D. (New York City)](https://jobright.ai/jobs/info/6972c5004ccbf64f8df2d07e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Chesapeake Bay Foundation](http://www.cbf.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69729fb2584a1c1ef6fdab77?utm_campaign=1055&utm_source=git)** | Annapolis, MD | On Site | Jan 22 |
 | **[Wesco](http://www.wesco.com/)** | **[Intern - Summer Internship (Legal Department)](https://jobright.ai/jobs/info/69729e864ccbf64f8df2a2be?utm_campaign=1055&utm_source=git)** | Glenview, IL | Hybrid | Jan 22 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Internal Compliance](https://jobright.ai/jobs/info/69729e1e4ccbf64f8df2a1ca?utm_campaign=1055&utm_source=git)** | Northland 1st Floor4485 Northland Ridge Boulevard | On Site | Jan 22 |
+| **[State of Ohio](http://www.ong.ohio.gov)** | **[College Intern - Internal Compliance](https://jobright.ai/jobs/info/69729e1e4ccbf64f8df2a1ca?utm_campaign=1055&utm_source=git)** | Northland 1st Floor4485 Northland Ridge Boulevard | On Site | Jan 22 |
 | ↳ | **[College Intern - Internal Compliance](https://jobright.ai/jobs/info/69729b4a9b83b424830e9986?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jan 22 |
 | **[Kearny Bank](http://kearnybank.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697299f04ccbf64f8df2983a?utm_campaign=1055&utm_source=git)** | Fairfield, NJ | On Site | Jan 22 |
 | **[TTX Company](http://www.ttx.com)** | **[Controls and Governance Intern](https://jobright.ai/jobs/info/697297569b83b424830e9066?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Jan 22 |
@@ -96,10 +96,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Management and Insurance Intern](https://jobright.ai/jobs/info/697292684ccbf64f8df288a5?utm_campaign=1055&utm_source=git)** | Redwood City | Hybrid | Jan 22 |
 | **[Primerica](https://www.primerica.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6972aed99b83b424830eb742?utm_campaign=1055&utm_source=git)** | Duluth, GA | On Site | Jan 22 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street Enterprise Risk Management - Market Risk Internship - Summer 2026](https://jobright.ai/jobs/info/697291de584a1c1ef6fd8f3d?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 22 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Internal Compliance](https://jobright.ai/jobs/info/697291d7584a1c1ef6fd8f2b?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jan 22 |
+| **[State of Ohio](http://www.ong.ohio.gov)** | **[College Intern - Internal Compliance](https://jobright.ai/jobs/info/697291d7584a1c1ef6fd8f2b?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jan 22 |
 | **[Kearny Bank](http://kearnybank.com)** | **[Compliance Analyst Intern](https://jobright.ai/jobs/info/697290b8584a1c1ef6fd8ceb?utm_campaign=1055&utm_source=git)** | Fairfield, NJ | On Site | Jan 22 |
 | **[Alfa Laval](http://www.alfalaval.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/69728f9b584a1c1ef6fd8abd?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Jan 22 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6972adfc584a1c1ef6fdc088?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jan 22 |
+| **[State of Ohio](http://www.ong.ohio.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6972adfc584a1c1ef6fdc088?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jan 22 |
 | ↳ | **[College Intern - Internal Compliance](https://jobright.ai/jobs/info/6972b2e94ccbf64f8df2be68?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jan 22 |
 | **[Glencore](http://glencore.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6930f46efa28370be26b59c7?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jan 22 |
 | **[NRG Energy](http://www.nrg.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/697289f64ccbf64f8df27d38?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 22 |
@@ -115,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[TTX Company](http://www.ttx.com)** | **[Controls and Governance Intern](https://jobright.ai/jobs/info/6972a0e89b83b424830ea5f9?utm_campaign=1055&utm_source=git)** | 2151 Hawkins St, Charlotte, NC, 28203, US | Hybrid | Jan 22 |
 | **[Molex](http://www.molex.com)** | **[Molex Supply Chain- Trades & Customs Internship- Summer 2026](https://jobright.ai/jobs/info/69726c729b83b424830e5fff?utm_campaign=1055&utm_source=git)** | Lisle, IL | On Site | Jan 22 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Legal Archives Internship](https://jobright.ai/jobs/info/68cf93d8846f0b04af683089?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 22 |
-| **[Kearny Bank](http://kearnybank.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/697289ce584a1c1ef6fd8550?utm_campaign=1055&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69728afc4ccbf64f8df27e54?utm_campaign=1055&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
+| **[Kearny Bank](http://kearnybank.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69728afc4ccbf64f8df27e54?utm_campaign=1055&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
+| ↳ | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/697289ce584a1c1ef6fd8550?utm_campaign=1055&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/697267bf9b83b424830e5d57?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 22 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Compliance Intern (Remote)](https://jobright.ai/jobs/info/697265b39b83b424830e5bb6?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 22 |
 | **[VertoTech](vertotech.us)** | **[Corporate Compliance Summer Intern](https://jobright.ai/jobs/info/697286cb584a1c1ef6fd81db?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 22 |
