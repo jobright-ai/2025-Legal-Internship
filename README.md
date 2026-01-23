@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[NCDOT Customer Compliance Services Unit Intern-DMV](https://jobright.ai/jobs/info/6973102d1790715e866c1232?utm_campaign=1055&utm_source=git)** | Wake County, NC | On Site | Jan 22 |
 | **[Planned Systems International](http://www.plan-sys.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697309171790715e866bfc02?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Wurth Elektronik](https://www.we-ics.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6972e32a98522904c697b6dd?utm_campaign=1055&utm_source=git)** | Watertown, SD | On Site | Jan 22 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Cybersecurity - Summer 2026](https://jobright.ai/jobs/info/6972e0b798522904c697b442?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Jan 22 |
@@ -96,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6972adfc584a1c1ef6fdc088?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jan 22 |
 | ↳ | **[College Intern - Internal Compliance](https://jobright.ai/jobs/info/6972b2e94ccbf64f8df2be68?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jan 22 |
 | **[Glencore](http://glencore.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6930f46efa28370be26b59c7?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jan 22 |
-| **[State Street](https://www.statestreet.com/)** | **[State Street - Operational Risk - Summer Internship -2026](https://jobright.ai/jobs/info/6972b5174ccbf64f8df2bffc?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jan 22 |
 | **[NRG Energy](http://www.nrg.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/697289f64ccbf64f8df27d38?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 22 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department - BSA/AML Compliance Intern](https://jobright.ai/jobs/info/697285fb9b83b424830e76a0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | ↳ | **[Legal & Compliance Department - BSA/AML Compliance Intern](https://jobright.ai/jobs/info/697280e49b83b424830e713e?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jan 22 |
@@ -133,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693a3744ac80bb5492bcbd7b?utm_campaign=1055&utm_source=git)** | Timonium, MD | On Site | Jan 22 |
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/693a5d0448a8ce22990e695a?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | Remote | Jan 22 |
 | **[Lennox](http://www.lennox.com)** | **[Summer 2026 Business Compliance Intern](https://jobright.ai/jobs/info/6959e7aeaa05c26e7ab3867b?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Jan 22 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Summer Internship with the Client Trust Account Protection Program](https://jobright.ai/jobs/info/697312f8694e99351d146f30?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 22 |
 | **[CBIZ](http://www.cbiz.com)** | **[Corporate Compliance & Licensing Intern / Summer 2026](https://jobright.ai/jobs/info/6971b26e587dfa0bb55f7b43?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Jan 21 |
 | **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[2026 Summer Internship- Legal](https://jobright.ai/jobs/info/69719c4451f726477183f61b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Jan 21 |
 | **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6971977a51f726477183f23f?utm_campaign=1055&utm_source=git)** | Torrance, CA | On Site | Jan 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, IT Compliance](https://jobright.ai/jobs/info/69716d80333b6343a14df523?utm_campaign=1055&utm_source=git)** | Tucson, AZ | On Site | Jan 21 |
 | **[CBIZ](http://www.cbiz.com)** | **[Corporate Compliance & Licensing Intern / Summer 2026](https://jobright.ai/jobs/info/69718b8a333b6343a14e267e?utm_campaign=1055&utm_source=git)** | 700 W 47th St Ste 1100, Kansas City, MO, 64112, US | On Site | Jan 21 |
 | **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Legal Internship Summer 2026](https://jobright.ai/jobs/info/697169c9587dfa0bb55f0a0d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 21 |
-| **[Permian Resources](https://permianres.com)** | **[Summer 2025 Legal Internship](https://jobright.ai/jobs/info/697168ed333b6343a14df1a9?utm_campaign=1055&utm_source=git)** | Midland, Texas | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
