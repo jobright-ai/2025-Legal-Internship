@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69738777206da320f49d853c?utm_campaign=1055&utm_source=git)** | Worcester, PA | On Site | Jan 23 |
+| **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69104536988c2b7b4ec50c5d?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Jan 23 |
 | **[Koch](https://www.kochinc.com)** | **[Legal and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/690105a1d5259a1b3cff0926?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
 | ↳ | **[Legal and Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/695df491821f2713684b2649?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Jan 23 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Paralegal Intern (Part-Time) - The Toro Company](https://jobright.ai/jobs/info/69736986206da320f49d5eb3?utm_campaign=1055&utm_source=git)** | Hennepin County, MN | On Site | Jan 23 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Contract Administrator Intern](https://jobright.ai/jobs/info/691dd4ec748c4e1301ec9174?utm_campaign=1055&utm_source=git)** | Dayton Metropolitan Area | On Site | Jan 23 |
+| **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Summer Legal Associate, Federal Policy and Advocacy](https://jobright.ai/jobs/info/691e4a50a49a885af9a27458?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6959e3b7aa05c26e7ab384f5?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 23 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/696dcb7b5fc86241853ca018?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Jan 23 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/697067a3333b6343a14cf04a?utm_campaign=1055&utm_source=git)** | Orange, CA | On Site | Jan 23 |
@@ -122,7 +125,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/697289ce584a1c1ef6fd8550?utm_campaign=1055&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/697267bf9b83b424830e5d57?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 22 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Compliance Intern (Remote)](https://jobright.ai/jobs/info/697265b39b83b424830e5bb6?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 22 |
-| **[VertoTech](vertotech.us)** | **[Corporate Compliance Summer Intern](https://jobright.ai/jobs/info/697286cb584a1c1ef6fd81db?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 22 |
 | **[Moskowitz Legal Group, LLP](http://moskowitzlegalgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697284ed9b83b424830e755c?utm_campaign=1055&utm_source=git)** | Hewlett, NY | On Site | Jan 22 |
 | **[Global Health Advocacy Incubator](https://www.advocacyincubator.org)** | **[Intern, Legal](https://jobright.ai/jobs/info/697256bc584a1c1ef6fd4b3e?utm_campaign=1055&utm_source=git)** | Washington, DC, US | Hybrid | Jan 22 |
 | **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Corporate Compliance](https://jobright.ai/jobs/info/6972394c9b83b424830e2a96?utm_campaign=1055&utm_source=git)** | San Rafael, CA | On Site | Jan 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Legal & Business Development Intern](https://jobright.ai/jobs/info/69717be9587dfa0bb55f2e33?utm_campaign=1055&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Jan 21 |
 | ↳ | **[Legal & Business Development Intern](https://jobright.ai/jobs/info/69717aaa333b6343a14e1604?utm_campaign=1055&utm_source=git)** | Canada | Remote | Jan 21 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/692fa27bef4b48533d1479f0?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | Jan 21 |
-| **[Scripps Research](http://www.scripps.edu/)** | **[INTERN - Office of Technology & Development](https://jobright.ai/jobs/info/697179f7333b6343a14e152d?utm_campaign=1055&utm_source=git)** | San Diego, California, United States | On Site | Jan 21 |
-| **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[2026 Summer Internship- Legal](https://jobright.ai/jobs/info/697178c151f726477183d473?utm_campaign=1055&utm_source=git)** | Atlanta, GA, US | Hybrid | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
