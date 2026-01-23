@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Legal Master's Intern](https://jobright.ai/jobs/info/6973ca28bc8e722e7b18984b?utm_campaign=1055&utm_source=git)** | Oakland, CA | Hybrid | Jan 23 |
+| **[ProAmpac](http://www.proampac.com)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/6973c874bc8e722e7b189632?utm_campaign=1055&utm_source=git)** | Cincinnati, OH 45246, USA | On Site | Jan 23 |
+| **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Procurement](https://jobright.ai/jobs/info/69705b3351f726477182a520?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 23 |
 | **[Center for U.S. Immigration Services](http://cfuis.com/)** | **[PARALEGAL TRAINEE (IMMIGRATION)](https://jobright.ai/jobs/info/6973bfe037785856350d9313?utm_campaign=1055&utm_source=git)** | Dearborn, MI | On Site | Jan 23 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Regulatory Affairs](https://jobright.ai/jobs/info/6973b6d7bc8e722e7b188b55?utm_campaign=1055&utm_source=git)** | Radnor, Pennsylvania | On Site | Jan 23 |
 | **[Pacira BioSciences, Inc.](http://www.pacira.com)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/6973b534bc8e722e7b188a20?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Jan 23 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Corporate Compliance](https://jobright.ai/jobs/info/6973b26e37785856350d8b4d?utm_campaign=1055&utm_source=git)** | San Rafael, CA | On Site | Jan 23 |
+| **[Hillel International](http://hillel.org/)** | **[Summer Law Clerk 2026](https://jobright.ai/jobs/info/697023e90f4e0f657ea49232?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Legal Intern](https://jobright.ai/jobs/info/6973a66f206da320f49daba4?utm_campaign=1055&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 23 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/6973a50d206da320f49dab10?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 23 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2027 2L Summer Associate - Dallas (Litigation)](https://jobright.ai/jobs/info/692ddff54c474121999d400c?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/695de56d4b7a590c5b954756?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/697059dc587dfa0bb55dec13?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 22 |
 | **[Robinhood](https://www.robinhood.com)** | **[Corporate and Commercial Legal Intern](https://jobright.ai/jobs/info/6972076bcda45e6953583ca1?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 22 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/695f99ada1bbea1d9a7a54d2?utm_campaign=1055&utm_source=git)** | Lake Oswego, OR | On Site | Jan 22 |
-| **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693a3744ac80bb5492bcbd7b?utm_campaign=1055&utm_source=git)** | Timonium, MD | On Site | Jan 22 |
-| **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/693a5d0448a8ce22990e695a?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | Remote | Jan 22 |
-| **[Lennox](http://www.lennox.com)** | **[Summer 2026 Business Compliance Intern](https://jobright.ai/jobs/info/6959e7aeaa05c26e7ab3867b?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
