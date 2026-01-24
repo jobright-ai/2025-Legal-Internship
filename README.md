@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[On-Deck Summer Internship - Legal](https://jobright.ai/jobs/info/69743ff1206da320f49e64de?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
+| **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[Legal Student Professional](https://jobright.ai/jobs/info/69743391206da320f49e5424?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | **[State of Ohio](http://www.ong.ohio.gov)** | **[Legal Intern (Multiple) - Summer 2026](https://jobright.ai/jobs/info/69742810bc8e722e7b191d89?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County | Hybrid | Jan 23 |
 | ↳ | **[Legal Intern (Multiple) - Summer 2026](https://jobright.ai/jobs/info/6974255fbc8e722e7b191abd?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | Hybrid | Jan 23 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern - Corporate Affairs](https://jobright.ai/jobs/info/69741f7d37785856350e18a9?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://www.ong.ohio.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6972adfc584a1c1ef6fdc088?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jan 22 |
 | ↳ | **[College Intern - Internal Compliance](https://jobright.ai/jobs/info/6972b2e94ccbf64f8df2be68?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jan 22 |
 | **[Glencore](http://glencore.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6930f46efa28370be26b59c7?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jan 22 |
-| **[NRG Energy](http://www.nrg.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/697289f64ccbf64f8df27d38?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 22 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department - BSA/AML Compliance Intern](https://jobright.ai/jobs/info/697285fb9b83b424830e76a0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
