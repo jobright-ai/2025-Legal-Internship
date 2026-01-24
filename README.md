@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SPX Technologies](https://www.spx.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/691fbee43f782d2f1afbfc7c?utm_campaign=1055&utm_source=git)** | Overland Park, KS | Hybrid | Jan 24 |
+| **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Commonwealth's Attorney](https://jobright.ai/jobs/info/6974aee7206da320f49ee2f1?utm_campaign=1055&utm_source=git)** | Chesterfield, VA | On Site | Jan 24 |
+| **[Xometry](https://www.xometry.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/695837fcaa05c26e7ab21ceb?utm_campaign=1055&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 24 |
+| **[Corcept Therapeutics](http://www.corcept.com)** | **[Legal & IP Intern](https://jobright.ai/jobs/info/693c6f6e49a7695fbd033798?utm_campaign=1055&utm_source=git)** | Redwood City, CA | On Site | Jan 24 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/697494d7bc8e722e7b19ae2d?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 24 |
 | **[S&P Global](https://www.spglobal.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69748ad2206da320f49ec6b8?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Compliance Intern](https://jobright.ai/jobs/info/697478f1bc8e722e7b198a58?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Jan 23 |
@@ -88,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong ADA Compliance Intern](https://jobright.ai/jobs/info/6973e3f5206da320f49ddcb1?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 23 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6973e226bc8e722e7b18b574?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 23 |
 | **[ProAmpac](http://www.proampac.com)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/6973e1efbc8e722e7b18b502?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 23 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efab629655e4dd65891a3?utm_campaign=1055&utm_source=git)** | New Orleans, LA | Hybrid | Jan 23 |
-| ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efad6a2668b7f5452483c?utm_campaign=1055&utm_source=git)** | Montgomery, AL | Hybrid | Jan 23 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efad6a2668b7f5452483c?utm_campaign=1055&utm_source=git)** | Montgomery, AL | Hybrid | Jan 23 |
+| ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efab629655e4dd65891a3?utm_campaign=1055&utm_source=git)** | New Orleans, LA | Hybrid | Jan 23 |
 | **[Nassau County District Attorney](https://nassauda.org)** | **[Intern (Summer 2026)](https://jobright.ai/jobs/info/6973dc10bc8e722e7b18ab0d?utm_campaign=1055&utm_source=git)** | Hempstead, NY | On Site | Jan 23 |
 | **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/697402de37785856350deb16?utm_campaign=1055&utm_source=git)** | Syracuse-Auburn Area | On Site | Jan 23 |
 | **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Compliance & Risk Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6973d706206da320f49dd144?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Jan 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Chesapeake Bay Foundation](http://www.cbf.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69729fb2584a1c1ef6fdab77?utm_campaign=1055&utm_source=git)** | Annapolis, MD | On Site | Jan 22 |
 | **[Wesco](http://www.wesco.com/)** | **[Intern - Summer Internship (Legal Department)](https://jobright.ai/jobs/info/69729e864ccbf64f8df2a2be?utm_campaign=1055&utm_source=git)** | Glenview, IL | Hybrid | Jan 22 |
 | **[State of Ohio](http://www.ong.ohio.gov)** | **[College Intern - Internal Compliance](https://jobright.ai/jobs/info/69729e1e4ccbf64f8df2a1ca?utm_campaign=1055&utm_source=git)** | Northland 1st Floor4485 Northland Ridge Boulevard | On Site | Jan 22 |
-| ↳ | **[College Intern - Internal Compliance](https://jobright.ai/jobs/info/69729b4a9b83b424830e9986?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jan 22 |
-| **[Kearny Bank](http://kearnybank.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697299f04ccbf64f8df2983a?utm_campaign=1055&utm_source=git)** | Fairfield, NJ | On Site | Jan 22 |
-| **[TTX Company](http://www.ttx.com)** | **[Controls and Governance Intern](https://jobright.ai/jobs/info/697297569b83b424830e9066?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Jan 22 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/6972969f4ccbf64f8df290a8?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
