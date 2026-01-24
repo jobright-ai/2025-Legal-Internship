@@ -73,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/695837fcaa05c26e7ab21ceb?utm_campaign=1055&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 24 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Legal & IP Intern](https://jobright.ai/jobs/info/693c6f6e49a7695fbd033798?utm_campaign=1055&utm_source=git)** | Redwood City, CA | On Site | Jan 24 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Legal Intern](https://jobright.ai/jobs/info/693c67b9aa598a08c3ed4a47?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Jan 24 |
-| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/697494d7bc8e722e7b19ae2d?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 24 |
 | **[S&P Global](https://www.spglobal.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69748ad2206da320f49ec6b8?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Compliance Intern](https://jobright.ai/jobs/info/697478f1bc8e722e7b198a58?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Jan 23 |
 | **[Komen Graduate Training Program UT MDACC](http://www.mdanderson.org/komentrainingprogram)** | **[Legal Intern - Legal Services](https://jobright.ai/jobs/info/6974752e206da320f49eb3f5?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 23 |
@@ -104,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong ADA Compliance Intern](https://jobright.ai/jobs/info/6973e3f5206da320f49ddcb1?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 23 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6973e226bc8e722e7b18b574?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 23 |
 | **[ProAmpac](http://www.proampac.com)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/6973e1efbc8e722e7b18b502?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 23 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efad6a2668b7f5452483c?utm_campaign=1055&utm_source=git)** | Montgomery, AL | Hybrid | Jan 23 |
-| ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efab629655e4dd65891a3?utm_campaign=1055&utm_source=git)** | New Orleans, LA | Hybrid | Jan 23 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efab629655e4dd65891a3?utm_campaign=1055&utm_source=git)** | New Orleans, LA | Hybrid | Jan 23 |
+| ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efad6a2668b7f5452483c?utm_campaign=1055&utm_source=git)** | Montgomery, AL | Hybrid | Jan 23 |
 | **[Nassau County District Attorney](https://nassauda.org)** | **[Intern (Summer 2026)](https://jobright.ai/jobs/info/6973dc10bc8e722e7b18ab0d?utm_campaign=1055&utm_source=git)** | Hempstead, NY | On Site | Jan 23 |
 | **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Compliance & Risk Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6973d706206da320f49dd144?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Jan 23 |
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Summer Legal Intern - Transactional](https://jobright.ai/jobs/info/6945f11d63141d18845589b8?utm_campaign=1055&utm_source=git)** | Westport, CT | Hybrid | Jan 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[Legal Intern - Graduate](https://jobright.ai/jobs/info/6972e83f0488fd59f7d5e586?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 22 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Legal Master's Intern](https://jobright.ai/jobs/info/6972ddb01d55d64a20533f70?utm_campaign=1055&utm_source=git)** | California-Oakland-Ordway | Hybrid | Jan 22 |
 | **[Planned Systems International](http://www.plan-sys.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6972e59898522904c697b960?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | Jan 22 |
+| **[Wurth Elektronik](https://www.we-ics.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6972e19298522904c697b52e?utm_campaign=1055&utm_source=git)** | Watertown, South Dakota, United States | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
