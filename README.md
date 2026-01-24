@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cytokinetics](http://cytokinetics.com)** | **[Intern - Corporate Affairs](https://jobright.ai/jobs/info/69741f7d37785856350e18a9?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 23 |
+| **[State of Ohio](http://www.ong.ohio.gov)** | **[Legal Intern (Multiple) - Summer 2026](https://jobright.ai/jobs/info/69741baf206da320f49e3ca2?utm_campaign=1055&utm_source=git)** | Lazarus 550 West Town Street | Hybrid | Jan 23 |
+| **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[Contract Administration Intern- Summer 2026 Internship](https://jobright.ai/jobs/info/697416eebc8e722e7b18f5fa?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern - Corporate Affairs](https://jobright.ai/jobs/info/69740006206da320f49e0fe9?utm_campaign=1055&utm_source=git)** | South San Francisco, California | On Site | Jan 23 |
 | **[Imperial PFS](https://www.ipfs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6973fd0437785856350de5c1?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Jan 23 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Contract Administration Intern - Roy UT - R10220363](https://jobright.ai/jobs/info/6973f311206da320f49df217?utm_campaign=1055&utm_source=git)** | Roy, UT | On Site | Jan 23 |
@@ -81,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Procurement](https://jobright.ai/jobs/info/69705b3351f726477182a520?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 23 |
 | **[Center for U.S. Immigration Services](http://cfuis.com/)** | **[PARALEGAL TRAINEE (IMMIGRATION)](https://jobright.ai/jobs/info/6973bfe037785856350d9313?utm_campaign=1055&utm_source=git)** | Dearborn, MI | On Site | Jan 23 |
 | **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/6973da3c37785856350dac9c?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 23 |
+| **[PGT Trucking, Inc.](https://www.pgttrucking.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6974209137785856350e19de?utm_campaign=1055&utm_source=git)** | Aliquippa, PA, United States | On Site | Jan 23 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Intern - Wellington Management Company, LLP](https://jobright.ai/jobs/info/6973dc4737785856350dad9c?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jan 23 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Regulatory Affairs](https://jobright.ai/jobs/info/6973b6d7bc8e722e7b188b55?utm_campaign=1055&utm_source=git)** | Radnor, Pennsylvania | On Site | Jan 23 |
 | **[Pacira BioSciences, Inc.](http://www.pacira.com)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/6973b534bc8e722e7b188a20?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Jan 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department - BSA/AML Compliance Intern](https://jobright.ai/jobs/info/697285fb9b83b424830e76a0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | ↳ | **[Legal & Compliance Department - BSA/AML Compliance Intern](https://jobright.ai/jobs/info/697280e49b83b424830e713e?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jan 22 |
 | **[Kearny Bank](http://kearnybank.com)** | **[AML CFT Analyst Intern](https://jobright.ai/jobs/info/6972b699584a1c1ef6fdc8c4?utm_campaign=1055&utm_source=git)** | Fairfield, NJ | Hybrid | Jan 22 |
-| ↳ | **[Compliance Analyst Intern](https://jobright.ai/jobs/info/69727e1c584a1c1ef6fd7919?utm_campaign=1055&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
-| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Safety](https://jobright.ai/jobs/info/69727e0d9b83b424830e6e1b?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Jan 22 |
-| **[Kearny Bank](http://kearnybank.com)** | **[AML CFT Analyst Intern](https://jobright.ai/jobs/info/69727dea9b83b424830e6df4?utm_campaign=1055&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
-| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/69727c96584a1c1ef6fd7755?utm_campaign=1055&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
