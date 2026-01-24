@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong EEO and Compliance Programs Intern](https://jobright.ai/jobs/info/69744dffbc8e722e7b194d35?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 23 |
+| **[S&P Global](https://www.spglobal.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69744a15206da320f49e6e09?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 23 |
+| **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Legal Intern (Multiple) - Summer 2026](https://jobright.ai/jobs/info/6973efdb206da320f49de82e?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jan 23 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[On-Deck Summer Internship - Legal](https://jobright.ai/jobs/info/69743ff1206da320f49e64de?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[Legal Student Professional](https://jobright.ai/jobs/info/69743391206da320f49e5424?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | **[State of Ohio](http://www.ong.ohio.gov)** | **[Legal Intern (Multiple) - Summer 2026](https://jobright.ai/jobs/info/69742810bc8e722e7b191d89?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County | Hybrid | Jan 23 |
 | ↳ | **[Legal Intern (Multiple) - Summer 2026](https://jobright.ai/jobs/info/6974255fbc8e722e7b191abd?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | Hybrid | Jan 23 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern - Corporate Affairs](https://jobright.ai/jobs/info/69741f7d37785856350e18a9?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 23 |
 | **[State of Ohio](http://www.ong.ohio.gov)** | **[Legal Intern (Multiple) - Summer 2026](https://jobright.ai/jobs/info/69741baf206da320f49e3ca2?utm_campaign=1055&utm_source=git)** | Lazarus 550 West Town Street | Hybrid | Jan 23 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Legal Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/697445db206da320f49e68d6?utm_campaign=1055&utm_source=git)** | Oakland, CA | Hybrid | Jan 23 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[Contract Administration Intern- Summer 2026 Internship](https://jobright.ai/jobs/info/697416eebc8e722e7b18f5fa?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6974311937785856350e2bc5?utm_campaign=1055&utm_source=git)** | Atlanta,GA,US | Hybrid | Jan 23 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern - Corporate Affairs](https://jobright.ai/jobs/info/69740006206da320f49e0fe9?utm_campaign=1055&utm_source=git)** | South San Francisco, California | On Site | Jan 23 |
@@ -70,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Contract Administration Intern - Roy UT - R10220363](https://jobright.ai/jobs/info/6973f311206da320f49df217?utm_campaign=1055&utm_source=git)** | Roy, UT | On Site | Jan 23 |
 | **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney's Office Brave Justice Summer 2026 College Internship](https://jobright.ai/jobs/info/6973d5dbbc8e722e7b18a4e6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jan 23 |
-| **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Legal Intern (Multiple) - Summer 2026](https://jobright.ai/jobs/info/6973efdb206da320f49de82e?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jan 23 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2026 Summer Intern - Law - Fairfax, VA CLC](https://jobright.ai/jobs/info/696558e06d52670c5c3e1fcb?utm_campaign=1055&utm_source=git)** | Fairfax, VA | Hybrid | Jan 23 |
 | **[Scanlan International, Inc.](https://www.scanlaninternational.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6973e67d206da320f49dde55?utm_campaign=1055&utm_source=git)** | Scanlan International, Inc., St. Paul, MN, US | On Site | Jan 23 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong ADA Compliance Intern](https://jobright.ai/jobs/info/6973e3f5206da320f49ddcb1?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://www.ong.ohio.gov)** | **[College Intern - Internal Compliance](https://jobright.ai/jobs/info/697291d7584a1c1ef6fd8f2b?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jan 22 |
 | **[Kearny Bank](http://kearnybank.com)** | **[Compliance Analyst Intern](https://jobright.ai/jobs/info/697290b8584a1c1ef6fd8ceb?utm_campaign=1055&utm_source=git)** | Fairfield, NJ | On Site | Jan 22 |
 | **[Alfa Laval](http://www.alfalaval.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/69728f9b584a1c1ef6fd8abd?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Jan 22 |
-| **[State of Ohio](http://www.ong.ohio.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6972adfc584a1c1ef6fdc088?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jan 22 |
-| ↳ | **[College Intern - Internal Compliance](https://jobright.ai/jobs/info/6972b2e94ccbf64f8df2be68?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jan 22 |
-| **[Glencore](http://glencore.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6930f46efa28370be26b59c7?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
