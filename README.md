@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Ohio](http://www.ong.ohio.gov)** | **[Legal Intern (Multiple) - Summer 2026](https://jobright.ai/jobs/info/69742810bc8e722e7b191d89?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County | Hybrid | Jan 23 |
+| ↳ | **[Legal Intern (Multiple) - Summer 2026](https://jobright.ai/jobs/info/6974255fbc8e722e7b191abd?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | Hybrid | Jan 23 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern - Corporate Affairs](https://jobright.ai/jobs/info/69741f7d37785856350e18a9?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 23 |
 | **[State of Ohio](http://www.ong.ohio.gov)** | **[Legal Intern (Multiple) - Summer 2026](https://jobright.ai/jobs/info/69741baf206da320f49e3ca2?utm_campaign=1055&utm_source=git)** | Lazarus 550 West Town Street | Hybrid | Jan 23 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[Contract Administration Intern- Summer 2026 Internship](https://jobright.ai/jobs/info/697416eebc8e722e7b18f5fa?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
+| **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6974311937785856350e2bc5?utm_campaign=1055&utm_source=git)** | Atlanta,GA,US | Hybrid | Jan 23 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern - Corporate Affairs](https://jobright.ai/jobs/info/69740006206da320f49e0fe9?utm_campaign=1055&utm_source=git)** | South San Francisco, California | On Site | Jan 23 |
 | **[Imperial PFS](https://www.ipfs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6973fd0437785856350de5c1?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Jan 23 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Contract Administration Intern - Roy UT - R10220363](https://jobright.ai/jobs/info/6973f311206da320f49df217?utm_campaign=1055&utm_source=git)** | Roy, UT | On Site | Jan 23 |
@@ -67,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jan 23 |
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Legal Intern (Multiple) - Summer 2026](https://jobright.ai/jobs/info/6973efdb206da320f49de82e?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jan 23 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2026 Summer Intern - Law - Fairfax, VA CLC](https://jobright.ai/jobs/info/696558e06d52670c5c3e1fcb?utm_campaign=1055&utm_source=git)** | Fairfax, VA | Hybrid | Jan 23 |
-| **[SetPoint Medical](http://www.setpointmedical.com)** | **[Legal Internship/Co-Op](https://jobright.ai/jobs/info/69740d2f37785856350df349?utm_campaign=1055&utm_source=git)** | Santa Clarita, CA | On Site | Jan 23 |
 | **[Scanlan International, Inc.](https://www.scanlaninternational.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6973e67d206da320f49dde55?utm_campaign=1055&utm_source=git)** | Scanlan International, Inc., St. Paul, MN, US | On Site | Jan 23 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong ADA Compliance Intern](https://jobright.ai/jobs/info/6973e3f5206da320f49ddcb1?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 23 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6973e226bc8e722e7b18b574?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Glencore](http://glencore.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6930f46efa28370be26b59c7?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jan 22 |
 | **[NRG Energy](http://www.nrg.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/697289f64ccbf64f8df27d38?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 22 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department - BSA/AML Compliance Intern](https://jobright.ai/jobs/info/697285fb9b83b424830e76a0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 22 |
-| ↳ | **[Legal & Compliance Department - BSA/AML Compliance Intern](https://jobright.ai/jobs/info/697280e49b83b424830e713e?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jan 22 |
-| **[Kearny Bank](http://kearnybank.com)** | **[AML CFT Analyst Intern](https://jobright.ai/jobs/info/6972b699584a1c1ef6fdc8c4?utm_campaign=1055&utm_source=git)** | Fairfield, NJ | Hybrid | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
