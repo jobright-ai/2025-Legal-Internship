@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lillup](https://www.lillup.com/)** | **[Legal Intern (Terms & Conditions, Privacy Policy, Global Data Compliance — On-Device AI Product) - (Remote, Unpaid)](https://jobright.ai/jobs/info/6974d33137785856350ee030?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Policy](https://jobright.ai/jobs/info/69582259aa05c26e7ab202c3?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Jan 24 |
 | ↳ | **[Legal Intern, Tax](https://jobright.ai/jobs/info/6974581b206da320f49e920c?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Investments Legal Summer Intern](https://jobright.ai/jobs/info/691f23343f782d2f1afb898b?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Jan 24 |
 | **[Huntsman Corporation](https://www.huntsman.com)** | **[The Woodlands, Texas Summer 2026 Legal Internship Program](https://jobright.ai/jobs/info/691f89553f782d2f1afbd798?utm_campaign=1055&utm_source=git)** | The Woodlands, TX | On Site | Jan 24 |
 | **[Gelpac](https://www.gelpac.com/)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/6974b52a206da320f49ee3c4?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 24 |
+| **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Legal](https://jobright.ai/jobs/info/693ce89750bbaf7650500c42?utm_campaign=1055&utm_source=git)** | Charleston, WV | On Site | Jan 24 |
 | **[SPX Technologies](https://www.spx.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/691fbee43f782d2f1afbfc7c?utm_campaign=1055&utm_source=git)** | Overland Park, KS | Hybrid | Jan 24 |
 | **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Commonwealth's Attorney](https://jobright.ai/jobs/info/6974aee7206da320f49ee2f1?utm_campaign=1055&utm_source=git)** | Chesterfield, VA | On Site | Jan 24 |
 | **[Xometry](https://www.xometry.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/695837fcaa05c26e7ab21ceb?utm_campaign=1055&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 24 |
@@ -120,7 +122,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 2L Summer Associate - Chicago](https://jobright.ai/jobs/info/692dda304c474121999d3d32?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | ↳ | **[2026 1L Summer Associate - Chicago](https://jobright.ai/jobs/info/6903edee63502c0aded6e6de?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Compliance Intern (Remote)](https://jobright.ai/jobs/info/6973a00a37785856350d6946?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 23 |
-| **[Arvento A](arventoa.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6973c0e337785856350d93c5?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 23 |
+| **[Pagano & Marks](http://paganomarks.com)** | **[Part-Time Legal Intern](https://jobright.ai/jobs/info/6974d44937785856350ee05b?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Jan 23 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2027 2L Summer Associate - New York](https://jobright.ai/jobs/info/696f034182817106e97620e7?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69739026bc8e722e7b18605f?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Jan 23 |
 | **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69738777206da320f49d853c?utm_campaign=1055&utm_source=git)** | Worcester, PA | On Site | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Planned Systems International](http://www.plan-sys.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6972e59898522904c697b960?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | Jan 22 |
 | **[Wurth Elektronik](https://www.we-ics.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6972e19298522904c697b52e?utm_campaign=1055&utm_source=git)** | Watertown, South Dakota, United States | On Site | Jan 22 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/6972b58d584a1c1ef6fdc7ac?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Jan 22 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Contract Administration Intern - Roy UT](https://jobright.ai/jobs/info/6972af494ccbf64f8df2ba72?utm_campaign=1055&utm_source=git)** | United States-Utah-Roy | On Site | Jan 22 |
-| **[Spotify](http://www.spotify.com)** | **[2026 Summer Internship, Trust & Safety (New York City)](https://jobright.ai/jobs/info/6972aca3584a1c1ef6fdbf0d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
