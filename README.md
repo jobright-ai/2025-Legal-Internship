@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Risk Management Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/696c6562350cf43803139537?utm_campaign=1055&utm_source=git)** | North Las Vegas, NV | On Site | Jan 24 |
 | **[Dynareon](dynareon.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69750fd0bc8e722e7b1a00c2?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 24 |
 | **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[Legal Intern - Legal Services](https://jobright.ai/jobs/info/6974dc01bc8e722e7b19dcce?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Jan 24 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Compliance Intern](https://jobright.ai/jobs/info/6974dae537785856350ee357?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[Legal Intern - Graduate](https://jobright.ai/jobs/info/6972e83f0488fd59f7d5e586?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 22 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Legal Master's Intern](https://jobright.ai/jobs/info/6972ddb01d55d64a20533f70?utm_campaign=1055&utm_source=git)** | California-Oakland-Ordway | Hybrid | Jan 22 |
 | **[Planned Systems International](http://www.plan-sys.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6972e59898522904c697b960?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | Jan 22 |
-| **[Wurth Elektronik](https://www.we-ics.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6972e19298522904c697b52e?utm_campaign=1055&utm_source=git)** | Watertown, South Dakota, United States | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
