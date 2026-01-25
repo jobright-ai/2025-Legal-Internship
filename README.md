@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6975d08637785856350fa678?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 25 |
+| ↳ | **[Compliance & Governance Intern](https://jobright.ai/jobs/info/6975d06137785856350fa669?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 25 |
 | **[Center for Disability & Elder Law](https://www.cdelaw.org)** | **[2026 Winter Spring Paralegal Intern](https://jobright.ai/jobs/info/69757a2637785856350f57a5?utm_campaign=1055&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jan 24 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Risk Management Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/696c6562350cf43803139537?utm_campaign=1055&utm_source=git)** | North Las Vegas, NV | On Site | Jan 24 |
 | **[Dynareon](dynareon.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69750fd0bc8e722e7b1a00c2?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 24 |
@@ -103,9 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong ADA Compliance Intern](https://jobright.ai/jobs/info/6973e3f5206da320f49ddcb1?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 23 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6973e226bc8e722e7b18b574?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 23 |
 | **[ProAmpac](http://www.proampac.com)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/6973e1efbc8e722e7b18b502?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 23 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efab629655e4dd65891a3?utm_campaign=1055&utm_source=git)** | New Orleans, LA | Hybrid | Jan 23 |
-| ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efad6a2668b7f5452483c?utm_campaign=1055&utm_source=git)** | Montgomery, AL | Hybrid | Jan 23 |
-| **[Nassau County District Attorney](https://nassauda.org)** | **[Intern (Summer 2026)](https://jobright.ai/jobs/info/6973dc10bc8e722e7b18ab0d?utm_campaign=1055&utm_source=git)** | Hempstead, NY | On Site | Jan 23 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efad6a2668b7f5452483c?utm_campaign=1055&utm_source=git)** | Montgomery, AL | Hybrid | Jan 23 |
+| ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efab629655e4dd65891a3?utm_campaign=1055&utm_source=git)** | New Orleans, LA | Hybrid | Jan 23 |
 | **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Compliance & Risk Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6973d706206da320f49dd144?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Jan 23 |
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Summer Legal Intern - Transactional](https://jobright.ai/jobs/info/6945f11d63141d18845589b8?utm_campaign=1055&utm_source=git)** | Westport, CT | Hybrid | Jan 23 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Regulatory Affairs](https://jobright.ai/jobs/info/6973d169206da320f49dcbcd?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | On Site | Jan 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Michigan Advocacy Program](https://miadvocacy.org/)** | **[Summer Intern (Undergrad) - Immigration Legal Services](https://jobright.ai/jobs/info/6972e5500488fd59f7d5e2de?utm_campaign=1055&utm_source=git)** | Detroit, Grand Rapids, Kalamazoo, Lansing or Ypsilanti, Michigan, United States | Hybrid | Jan 22 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[2026 Summer Student Internship](https://jobright.ai/jobs/info/6972c2a2584a1c1ef6fdd49f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[Legal Intern - Graduate](https://jobright.ai/jobs/info/6972e83f0488fd59f7d5e586?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 22 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Legal Master's Intern](https://jobright.ai/jobs/info/6972ddb01d55d64a20533f70?utm_campaign=1055&utm_source=git)** | California-Oakland-Ordway | Hybrid | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
