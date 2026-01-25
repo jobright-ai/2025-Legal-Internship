@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Legal Intern (Multiple) - Summer 2026](https://jobright.ai/jobs/info/6973efdb206da320f49de82e?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jan 25 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6975d08637785856350fa678?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 25 |
 | ↳ | **[Compliance & Governance Intern](https://jobright.ai/jobs/info/6975d06137785856350fa669?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 25 |
 | **[Center for Disability & Elder Law](https://www.cdelaw.org)** | **[2026 Winter Spring Paralegal Intern](https://jobright.ai/jobs/info/69757a2637785856350f57a5?utm_campaign=1055&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jan 24 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Dynareon](dynareon.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69750fd0bc8e722e7b1a00c2?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 24 |
 | **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[Legal Intern - Legal Services](https://jobright.ai/jobs/info/6974dc01bc8e722e7b19dcce?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Jan 24 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Compliance Intern](https://jobright.ai/jobs/info/6974dae537785856350ee357?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Jan 24 |
-| **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6975a0a8bc8e722e7b1a7ed8?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Jan 24 |
 | **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Policy](https://jobright.ai/jobs/info/69582259aa05c26e7ab202c3?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Jan 24 |
 | ↳ | **[Legal Intern, Tax](https://jobright.ai/jobs/info/6974581b206da320f49e920c?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Investments Legal Summer Intern](https://jobright.ai/jobs/info/691f23343f782d2f1afb898b?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Jan 24 |
@@ -83,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[SRS Acquiom](http://www.srsacquiom.com)** | **[M&A Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6974540d37785856350e6725?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Jan 23 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong EEO and Compliance Programs Intern](https://jobright.ai/jobs/info/69744dffbc8e722e7b194d35?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 23 |
 | **[S&P Global](https://www.spglobal.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69744a15206da320f49e6e09?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 23 |
-| **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Legal Intern (Multiple) - Summer 2026](https://jobright.ai/jobs/info/6973efdb206da320f49de82e?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jan 23 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[On-Deck Summer Internship - Legal](https://jobright.ai/jobs/info/69743ff1206da320f49e64de?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69759892bc8e722e7b1a5f33?utm_campaign=1055&utm_source=git)** | Warrenville, IL | On Site | Jan 23 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694ef92fce13cd10565741de?utm_campaign=1055&utm_source=git)** | Jackson, MS | Hybrid | Jan 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Michigan Advocacy Program](https://miadvocacy.org/)** | **[Summer Intern (Undergrad) - Immigration Legal Services](https://jobright.ai/jobs/info/6972e5500488fd59f7d5e2de?utm_campaign=1055&utm_source=git)** | Detroit, Grand Rapids, Kalamazoo, Lansing or Ypsilanti, Michigan, United States | Hybrid | Jan 22 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[2026 Summer Student Internship](https://jobright.ai/jobs/info/6972c2a2584a1c1ef6fdd49f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[Legal Intern - Graduate](https://jobright.ai/jobs/info/6972e83f0488fd59f7d5e586?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 22 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Legal Master's Intern](https://jobright.ai/jobs/info/6972ddb01d55d64a20533f70?utm_campaign=1055&utm_source=git)** | California-Oakland-Ordway | Hybrid | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
