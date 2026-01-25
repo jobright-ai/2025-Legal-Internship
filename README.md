@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/69764f5c206da320f4a02b22?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Jan 25 |
 | **[Tetra Pak](http://www.tetrapak.com)** | **[Legal Affairs Intern](https://jobright.ai/jobs/info/69763b1b206da320f4a01026?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Jan 25 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern-Regulatory Affairs](https://jobright.ai/jobs/info/696620927a34f5392054b3a4?utm_campaign=1055&utm_source=git)** | Center Valley, PA | On Site | Jan 25 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Contracts](https://jobright.ai/jobs/info/6920c17c00c9ee50eaec794e?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Jan 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spotify](http://www.spotify.com)** | **[2026 Summer Internship, Trust & Safety (New York City)](https://jobright.ai/jobs/info/6972c3fb4ccbf64f8df2cf7c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Michigan Advocacy Program](https://miadvocacy.org/)** | **[Summer Intern (Undergrad) - Immigration Legal Services](https://jobright.ai/jobs/info/6972e5500488fd59f7d5e2de?utm_campaign=1055&utm_source=git)** | Detroit, Grand Rapids, Kalamazoo, Lansing or Ypsilanti, Michigan, United States | Hybrid | Jan 22 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[2026 Summer Student Internship](https://jobright.ai/jobs/info/6972c2a2584a1c1ef6fdd49f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 22 |
-| **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[Legal Intern - Graduate](https://jobright.ai/jobs/info/6972e83f0488fd59f7d5e586?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
