@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/697679de206da320f4a0389d?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 25 |
 | **[Community Bridges](https://www.communitybridgesnh.org)** | **[[Summer 2026] Legal Advocacy Internship](https://jobright.ai/jobs/info/6976751c3778585635101410?utm_campaign=1055&utm_source=git)** | Concord, NH | Hybrid | Jan 25 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/69764f5c206da320f4a02b22?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Jan 25 |
 | **[Tetra Pak](http://www.tetrapak.com)** | **[Legal Affairs Intern](https://jobright.ai/jobs/info/69763b1b206da320f4a01026?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Jan 25 |
@@ -108,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong ADA Compliance Intern](https://jobright.ai/jobs/info/6973e3f5206da320f49ddcb1?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 23 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6973e226bc8e722e7b18b574?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 23 |
 | **[ProAmpac](http://www.proampac.com)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/6973e1efbc8e722e7b18b502?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 23 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efab629655e4dd65891a3?utm_campaign=1055&utm_source=git)** | New Orleans, LA | Hybrid | Jan 23 |
-| ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efad6a2668b7f5452483c?utm_campaign=1055&utm_source=git)** | Montgomery, AL | Hybrid | Jan 23 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efad6a2668b7f5452483c?utm_campaign=1055&utm_source=git)** | Montgomery, AL | Hybrid | Jan 23 |
+| ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efab629655e4dd65891a3?utm_campaign=1055&utm_source=git)** | New Orleans, LA | Hybrid | Jan 23 |
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Summer Legal Intern - Transactional](https://jobright.ai/jobs/info/6945f11d63141d18845589b8?utm_campaign=1055&utm_source=git)** | Westport, CT | Hybrid | Jan 23 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Regulatory Affairs](https://jobright.ai/jobs/info/6973d169206da320f49dcbcd?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | On Site | Jan 23 |
 | **[Moskowitz Legal Group, LLP](http://moskowitzlegalgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6973f1f337785856350dc6f0?utm_campaign=1055&utm_source=git)** | Hewlett, NY | On Site | Jan 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spotify](http://www.spotify.com)** | **[2026 Summer Internship, Legal- J.D. (New York City)](https://jobright.ai/jobs/info/6972b23f9b83b424830ebad6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Corning Incorporated](https://www.corning.com/)** | **[Law Department Intern - Summer 2026](https://jobright.ai/jobs/info/6972c6c19b83b424830ecda8?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
 | **[Spotify](http://www.spotify.com)** | **[2026 Summer Internship, Trust & Safety (New York City)](https://jobright.ai/jobs/info/6972c3fb4ccbf64f8df2cf7c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 22 |
-| **[Michigan Advocacy Program](https://miadvocacy.org/)** | **[Summer Intern (Undergrad) - Immigration Legal Services](https://jobright.ai/jobs/info/6972e5500488fd59f7d5e2de?utm_campaign=1055&utm_source=git)** | Detroit, Grand Rapids, Kalamazoo, Lansing or Ypsilanti, Michigan, United States | Hybrid | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
