@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for Disability & Elder Law](https://www.cdelaw.org)** | **[2026 Winter Spring Paralegal Intern](https://jobright.ai/jobs/info/69757a2637785856350f57a5?utm_campaign=1055&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jan 24 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Risk Management Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/696c6562350cf43803139537?utm_campaign=1055&utm_source=git)** | North Las Vegas, NV | On Site | Jan 24 |
 | **[Dynareon](dynareon.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69750fd0bc8e722e7b1a00c2?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 24 |
 | **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[Legal Intern - Legal Services](https://jobright.ai/jobs/info/6974dc01bc8e722e7b19dcce?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Jan 24 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Legal & IP Intern](https://jobright.ai/jobs/info/693c6f6e49a7695fbd033798?utm_campaign=1055&utm_source=git)** | Redwood City, CA | On Site | Jan 24 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Legal Intern](https://jobright.ai/jobs/info/693c67b9aa598a08c3ed4a47?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Jan 24 |
 | **[S&P Global](https://www.spglobal.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69748ad2206da320f49ec6b8?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
-| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Compliance Intern](https://jobright.ai/jobs/info/697478f1bc8e722e7b198a58?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Jan 23 |
 | **[Komen Graduate Training Program UT MDACC](http://www.mdanderson.org/komentrainingprogram)** | **[Legal Intern - Legal Services](https://jobright.ai/jobs/info/6974752e206da320f49eb3f5?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 23 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong EEO and Compliance Programs Intern](https://jobright.ai/jobs/info/6974747237785856350e8c29?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/69745a7337785856350e743a?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Jan 23 |
@@ -90,7 +90,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern (Multiple) - Summer 2026](https://jobright.ai/jobs/info/6974255fbc8e722e7b191abd?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | Hybrid | Jan 23 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern - Corporate Affairs](https://jobright.ai/jobs/info/69741f7d37785856350e18a9?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Jan 23 |
 | **[State of Ohio](https://development.ohio.gov/)** | **[Legal Intern (Multiple) - Summer 2026](https://jobright.ai/jobs/info/69741baf206da320f49e3ca2?utm_campaign=1055&utm_source=git)** | Lazarus 550 West Town Street | Hybrid | Jan 23 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Legal Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/697445db206da320f49e68d6?utm_campaign=1055&utm_source=git)** | Oakland, CA | Hybrid | Jan 23 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[Contract Administration Intern- Summer 2026 Internship](https://jobright.ai/jobs/info/697416eebc8e722e7b18f5fa?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6974311937785856350e2bc5?utm_campaign=1055&utm_source=git)** | Atlanta,GA,US | Hybrid | Jan 23 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern - Corporate Affairs](https://jobright.ai/jobs/info/69740006206da320f49e0fe9?utm_campaign=1055&utm_source=git)** | South San Francisco, California | On Site | Jan 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Legal Master's Intern](https://jobright.ai/jobs/info/6972ddb01d55d64a20533f70?utm_campaign=1055&utm_source=git)** | California-Oakland-Ordway | Hybrid | Jan 22 |
 | **[Planned Systems International](http://www.plan-sys.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6972e59898522904c697b960?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | Jan 22 |
 | **[Wurth Elektronik](https://www.we-ics.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6972e19298522904c697b52e?utm_campaign=1055&utm_source=git)** | Watertown, South Dakota, United States | On Site | Jan 22 |
+| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/6972b58d584a1c1ef6fdc7ac?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
