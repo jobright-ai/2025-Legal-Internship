@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/Intern Volunteer](https://jobright.ai/jobs/info/68d4c916fcd3367e8df17cdf?utm_campaign=1055&utm_source=git)** | Pueblo, CO | On Site | Jan 26 |
+| **[South Jersey Industries](https://www.sjindustries.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693f37b3aa598a08c3ef3039?utm_campaign=1055&utm_source=git)** | Folsom, NJ | Hybrid | Jan 26 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Compliance Intern](https://jobright.ai/jobs/info/6976f39888e2b47213bac08c?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Jan 25 |
 | **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6976bd02377858563510511f?utm_campaign=1055&utm_source=git)** | CAN Mississauga - Derry Road West | On Site | Jan 25 |
 | **[Community Bridges](https://www.communitybridgesnh.org)** | **[[Summer 2026] Legal Advocacy Internship](https://jobright.ai/jobs/info/6976751c3778585635101410?utm_campaign=1055&utm_source=git)** | Concord, NH | Hybrid | Jan 25 |
@@ -84,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/695837fcaa05c26e7ab21ceb?utm_campaign=1055&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 24 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Legal & IP Intern](https://jobright.ai/jobs/info/693c6f6e49a7695fbd033798?utm_campaign=1055&utm_source=git)** | Redwood City, CA | On Site | Jan 24 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Legal Intern](https://jobright.ai/jobs/info/693c67b9aa598a08c3ed4a47?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Jan 24 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2026 Legal Intern - Norfolk, VA](https://jobright.ai/jobs/info/697734b288e2b47213bb0347?utm_campaign=1055&utm_source=git)** | Norfolk, VA | On Site | Jan 24 |
 | **[S&P Global](https://www.spglobal.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69748ad2206da320f49ec6b8?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
 | **[Komen Graduate Training Program UT MDACC](http://www.mdanderson.org/komentrainingprogram)** | **[Legal Intern - Legal Services](https://jobright.ai/jobs/info/6974752e206da320f49eb3f5?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 23 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong EEO and Compliance Programs Intern](https://jobright.ai/jobs/info/6974747237785856350e8c29?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
@@ -94,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong EEO and Compliance Programs Intern](https://jobright.ai/jobs/info/69744dffbc8e722e7b194d35?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 23 |
 | **[S&P Global](https://www.spglobal.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69744a15206da320f49e6e09?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 23 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[On-Deck Summer Internship - Legal](https://jobright.ai/jobs/info/69743ff1206da320f49e64de?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
-| **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Compliance & Risk Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6976ea4088e2b47213babb18?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Jan 23 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694ef92fce13cd10565741de?utm_campaign=1055&utm_source=git)** | Jackson, MS | Hybrid | Jan 23 |
 | ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694ef96129655e4dd658911b?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Jan 23 |
 | **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[Legal Student Professional](https://jobright.ai/jobs/info/69743391206da320f49e5424?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
