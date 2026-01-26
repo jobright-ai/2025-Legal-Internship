@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Compliance Intern](https://jobright.ai/jobs/info/6976f39888e2b47213bac08c?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Jan 25 |
 | **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6976bd02377858563510511f?utm_campaign=1055&utm_source=git)** | CAN Mississauga - Derry Road West | On Site | Jan 25 |
 | **[Community Bridges](https://www.communitybridgesnh.org)** | **[[Summer 2026] Legal Advocacy Internship](https://jobright.ai/jobs/info/6976751c3778585635101410?utm_campaign=1055&utm_source=git)** | Concord, NH | Hybrid | Jan 25 |
 | **[Hillel International](http://hillel.org/)** | **[Summer Law Clerk 2026](https://jobright.ai/jobs/info/697023e90f4e0f657ea49232?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 25 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Legal Intern (Multiple) - Summer 2026](https://jobright.ai/jobs/info/6973efdb206da320f49de82e?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jan 25 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6975d08637785856350fa678?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 25 |
 | ↳ | **[Compliance & Governance Intern](https://jobright.ai/jobs/info/6975d06137785856350fa669?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 25 |
-| **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6976ee6dfdeb8243a279b3e7?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Jan 24 |
 | **[Center for Disability & Elder Law](https://www.cdelaw.org)** | **[2026 Winter Spring Paralegal Intern](https://jobright.ai/jobs/info/69757a2637785856350f57a5?utm_campaign=1055&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jan 24 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Risk Management Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/696c6562350cf43803139537?utm_campaign=1055&utm_source=git)** | North Las Vegas, NV | On Site | Jan 24 |
 | **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[Legal Intern - Legal Services](https://jobright.ai/jobs/info/6974dc01bc8e722e7b19dcce?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Jan 24 |
@@ -89,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[SRS Acquiom](http://www.srsacquiom.com)** | **[M&A Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6974540d37785856350e6725?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Jan 23 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong EEO and Compliance Programs Intern](https://jobright.ai/jobs/info/69744dffbc8e722e7b194d35?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 23 |
 | **[S&P Global](https://www.spglobal.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69744a15206da320f49e6e09?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 23 |
-| **[SetPoint Medical](http://www.setpointmedical.com)** | **[Legal Internship/Co-Op](https://jobright.ai/jobs/info/6976ee6552f3c27ec642e17b?utm_campaign=1055&utm_source=git)** | Santa Clarita, CA | On Site | Jan 23 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[On-Deck Summer Internship - Legal](https://jobright.ai/jobs/info/69743ff1206da320f49e64de?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Compliance & Risk Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6976ea4088e2b47213babb18?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Jan 23 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694ef92fce13cd10565741de?utm_campaign=1055&utm_source=git)** | Jackson, MS | Hybrid | Jan 23 |
@@ -113,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong ADA Compliance Intern](https://jobright.ai/jobs/info/6973e3f5206da320f49ddcb1?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 23 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6973e226bc8e722e7b18b574?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 23 |
 | **[ProAmpac](http://www.proampac.com)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/6973e1efbc8e722e7b18b502?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 23 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efad6a2668b7f5452483c?utm_campaign=1055&utm_source=git)** | Montgomery, AL | Hybrid | Jan 23 |
-| ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efab629655e4dd65891a3?utm_campaign=1055&utm_source=git)** | New Orleans, LA | Hybrid | Jan 23 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efab629655e4dd65891a3?utm_campaign=1055&utm_source=git)** | New Orleans, LA | Hybrid | Jan 23 |
+| ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efad6a2668b7f5452483c?utm_campaign=1055&utm_source=git)** | Montgomery, AL | Hybrid | Jan 23 |
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Summer Legal Intern - Transactional](https://jobright.ai/jobs/info/6945f11d63141d18845589b8?utm_campaign=1055&utm_source=git)** | Westport, CT | Hybrid | Jan 23 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Regulatory Affairs](https://jobright.ai/jobs/info/6973d169206da320f49dcbcd?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | On Site | Jan 23 |
 | **[Moskowitz Legal Group, LLP](http://moskowitzlegalgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6973f1f337785856350dc6f0?utm_campaign=1055&utm_source=git)** | Hewlett, NY | On Site | Jan 23 |
@@ -148,7 +147,8 @@ For a complete list, click the following sortable link below:
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[NCDOT Customer Compliance Services Unit Intern-DMV](https://jobright.ai/jobs/info/6973102d1790715e866c1232?utm_campaign=1055&utm_source=git)** | Wake County, NC | On Site | Jan 22 |
 | **[Liberty Mutual Surety™](https://business.libertymutual.com/)** | **[Surety Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/6975b29c206da320f49fbd84?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 22 |
 | **[Planned Systems International](http://www.plan-sys.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697309171790715e866bfc02?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 22 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/6976e9fbfdeb8243a279b16b?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Jan 22 |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/6976fbf8fdeb8243a279da5c?utm_campaign=1055&utm_source=git)** | Suwanee, GA | On Site | Jan 22 |
+| ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/6976e9fbfdeb8243a279b16b?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Jan 22 |
 | **[Wurth Elektronik](https://www.we-ics.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6972e32a98522904c697b6dd?utm_campaign=1055&utm_source=git)** | Watertown, SD | On Site | Jan 22 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Cybersecurity - Summer 2026](https://jobright.ai/jobs/info/6972e0b798522904c697b442?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Jan 22 |
 | **[Primerica](https://www.primerica.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6972d55b1d55d64a205335c2?utm_campaign=1055&utm_source=git)** | Duluth, GA | On Site | Jan 22 |
