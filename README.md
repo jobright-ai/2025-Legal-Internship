@@ -79,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Huntsman Corporation](https://www.huntsman.com)** | **[The Woodlands, Texas Summer 2026 Legal Internship Program](https://jobright.ai/jobs/info/691f89553f782d2f1afbd798?utm_campaign=1055&utm_source=git)** | The Woodlands, TX | On Site | Jan 24 |
 | **[Gelpac](https://www.gelpac.com/)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/6974b52a206da320f49ee3c4?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 24 |
 | **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Legal](https://jobright.ai/jobs/info/693ce89750bbaf7650500c42?utm_campaign=1055&utm_source=git)** | Charleston, WV | On Site | Jan 24 |
+| **[SetPoint Medical](http://www.setpointmedical.com)** | **[Legal Internship/Co-Op](https://jobright.ai/jobs/info/69775e0d52f3c27ec6434e05?utm_campaign=1055&utm_source=git)** | Santa Clarita, CA | On Site | Jan 24 |
 | **[SPX Technologies](https://www.spx.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/691fbee43f782d2f1afbfc7c?utm_campaign=1055&utm_source=git)** | Overland Park, KS | Hybrid | Jan 24 |
 | **[Xometry](https://www.xometry.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/695837fcaa05c26e7ab21ceb?utm_campaign=1055&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 24 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Legal & IP Intern](https://jobright.ai/jobs/info/693c6f6e49a7695fbd033798?utm_campaign=1055&utm_source=git)** | Redwood City, CA | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wurth Elektronik](https://www.we-ics.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6972e32a98522904c697b6dd?utm_campaign=1055&utm_source=git)** | Watertown, SD | On Site | Jan 22 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Cybersecurity - Summer 2026](https://jobright.ai/jobs/info/6972e0b798522904c697b442?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Jan 22 |
 | **[Primerica](https://www.primerica.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6972d55b1d55d64a205335c2?utm_campaign=1055&utm_source=git)** | Duluth, GA | On Site | Jan 22 |
-| **[Blue Ant Media](http://www.glassbox.tv)** | **[Summer Intern, Legal Department, Production, Global Channels & Media & Media](https://jobright.ai/jobs/info/6972d2ff0488fd59f7d5cb20?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
