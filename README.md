@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Farm](https://www.statefarm.com/careers)** | **[2026 Summer Intern - Law - Fairfax, VA CLC](https://jobright.ai/jobs/info/696558e06d52670c5c3e1fcb?utm_campaign=1055&utm_source=git)** | Fairfax, VA | Hybrid | Jan 26 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/Intern Volunteer](https://jobright.ai/jobs/info/68d4c916fcd3367e8df17cdf?utm_campaign=1055&utm_source=git)** | Pueblo, CO | On Site | Jan 26 |
 | **[South Jersey Industries](https://www.sjindustries.com)** | **[Legal Intern](https://jobright.ai/jobs/info/693f37b3aa598a08c3ef3039?utm_campaign=1055&utm_source=git)** | Folsom, NJ | Hybrid | Jan 26 |
+| **[Reviora](reviora.us)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/6977879c88e2b47213bb6b53?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 26 |
 | **[VertoTech](vertotech.us)** | **[Corporate Compliance Job Intern](https://jobright.ai/jobs/info/69777b0352f3c27ec6438218?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 26 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Compliance Intern](https://jobright.ai/jobs/info/6976f39888e2b47213bac08c?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Jan 25 |
 | **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6976bd02377858563510511f?utm_campaign=1055&utm_source=git)** | CAN Mississauga - Derry Road West | On Site | Jan 25 |
 | **[Community Bridges](https://www.communitybridgesnh.org)** | **[[Summer 2026] Legal Advocacy Internship](https://jobright.ai/jobs/info/6976751c3778585635101410?utm_campaign=1055&utm_source=git)** | Concord, NH | Hybrid | Jan 25 |
 | **[Hillel International](http://hillel.org/)** | **[Summer Law Clerk 2026](https://jobright.ai/jobs/info/697023e90f4e0f657ea49232?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 25 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Huntsman Corporation](https://www.huntsman.com)** | **[The Woodlands, Texas Summer 2026 Legal Internship Program](https://jobright.ai/jobs/info/691f89553f782d2f1afbd798?utm_campaign=1055&utm_source=git)** | The Woodlands, TX | On Site | Jan 24 |
 | **[Gelpac](https://www.gelpac.com/)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/6974b52a206da320f49ee3c4?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 24 |
 | **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Legal](https://jobright.ai/jobs/info/693ce89750bbaf7650500c42?utm_campaign=1055&utm_source=git)** | Charleston, WV | On Site | Jan 24 |
-| **[SetPoint Medical](http://www.setpointmedical.com)** | **[Legal Internship/Co-Op](https://jobright.ai/jobs/info/69775e0d52f3c27ec6434e05?utm_campaign=1055&utm_source=git)** | Santa Clarita, CA | On Site | Jan 24 |
 | **[SPX Technologies](https://www.spx.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/691fbee43f782d2f1afbfc7c?utm_campaign=1055&utm_source=git)** | Overland Park, KS | Hybrid | Jan 24 |
 | **[Xometry](https://www.xometry.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/695837fcaa05c26e7ab21ceb?utm_campaign=1055&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 24 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Legal & IP Intern](https://jobright.ai/jobs/info/693c6f6e49a7695fbd033798?utm_campaign=1055&utm_source=git)** | Redwood City, CA | On Site | Jan 24 |
@@ -112,13 +112,12 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Contract Administration Intern - Roy UT - R10220363](https://jobright.ai/jobs/info/6973f311206da320f49df217?utm_campaign=1055&utm_source=git)** | Roy, UT | On Site | Jan 23 |
 | **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney's Office Brave Justice Summer 2026 College Internship](https://jobright.ai/jobs/info/6973d5dbbc8e722e7b18a4e6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jan 23 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[2026 Summer Intern - Law - Fairfax, VA CLC](https://jobright.ai/jobs/info/696558e06d52670c5c3e1fcb?utm_campaign=1055&utm_source=git)** | Fairfax, VA | Hybrid | Jan 23 |
 | **[Scanlan International, Inc.](https://www.scanlaninternational.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6973e67d206da320f49dde55?utm_campaign=1055&utm_source=git)** | Scanlan International, Inc., St. Paul, MN, US | On Site | Jan 23 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong ADA Compliance Intern](https://jobright.ai/jobs/info/6973e3f5206da320f49ddcb1?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 23 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6973e226bc8e722e7b18b574?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 23 |
 | **[ProAmpac](http://www.proampac.com)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/6973e1efbc8e722e7b18b502?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jan 23 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efad6a2668b7f5452483c?utm_campaign=1055&utm_source=git)** | Montgomery, AL | Hybrid | Jan 23 |
-| ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efab629655e4dd65891a3?utm_campaign=1055&utm_source=git)** | New Orleans, LA | Hybrid | Jan 23 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efab629655e4dd65891a3?utm_campaign=1055&utm_source=git)** | New Orleans, LA | Hybrid | Jan 23 |
+| ↳ | **[Intern, 2026 Summer Legal (1L)](https://jobright.ai/jobs/info/694efad6a2668b7f5452483c?utm_campaign=1055&utm_source=git)** | Montgomery, AL | Hybrid | Jan 23 |
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Summer Legal Intern - Transactional](https://jobright.ai/jobs/info/6945f11d63141d18845589b8?utm_campaign=1055&utm_source=git)** | Westport, CT | Hybrid | Jan 23 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Regulatory Affairs](https://jobright.ai/jobs/info/6973d169206da320f49dcbcd?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | On Site | Jan 23 |
 | **[Moskowitz Legal Group, LLP](http://moskowitzlegalgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6973f1f337785856350dc6f0?utm_campaign=1055&utm_source=git)** | Hewlett, NY | On Site | Jan 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/6976fbf8fdeb8243a279da5c?utm_campaign=1055&utm_source=git)** | Suwanee, GA | On Site | Jan 22 |
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/6976e9fbfdeb8243a279b16b?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Jan 22 |
 | **[Wurth Elektronik](https://www.we-ics.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6972e32a98522904c697b6dd?utm_campaign=1055&utm_source=git)** | Watertown, SD | On Site | Jan 22 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Risk Advisory Internship - Cybersecurity - Summer 2026](https://jobright.ai/jobs/info/6972e0b798522904c697b442?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
