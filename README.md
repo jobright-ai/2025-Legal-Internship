@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CN](http://www.cn.ca)** | **[Intern, Law (Risk Mitigation) US- FR](https://jobright.ai/jobs/info/6929f28266796e3028f8db4c?utm_campaign=1055&utm_source=git)** | Homewood, IL | On Site | Jan 28 |
+| **[Vistra Corp.](https://vistracorp.com)** | **[Summer 2026 Regulatory Policy Intern](https://jobright.ai/jobs/info/6942091f50bbaf765053da34?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Jan 28 |
+| **[CN](http://www.cn.ca)** | **[Intern, Third Party Risk Management- EN](https://jobright.ai/jobs/info/696548e12cbf4e44756ebb6d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 28 |
+| ↳ | **[Intern, Law (Risk Mitigation) US- FR](https://jobright.ai/jobs/info/6929f28266796e3028f8db4c?utm_campaign=1055&utm_source=git)** | Homewood, IL | On Site | Jan 28 |
 | ↳ | **[Intern, Law (Regulatory Affairs) US- EN](https://jobright.ai/jobs/info/69723049cda18b74386493b9?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 28 |
 | ↳ | **[Intern, Law (Regulatory Affairs) US- FR](https://jobright.ai/jobs/info/6975b69937785856350f9ad2?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 28 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - AML Compliance](https://jobright.ai/jobs/info/695e002532718e2b8ddbf765?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Jan 28 |
+| **[CN](http://www.cn.ca)** | **[Intern, Logistic & Customs Compliance- EN](https://jobright.ai/jobs/info/6924ede8c0cefa13343e43f9?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 28 |
 | **[Katten Muchin Rosenman LLP](https://katten.com)** | **[Practice Innovation Intern](https://jobright.ai/jobs/info/6942062914ee092a690022d9?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jan 28 |
+| **[Genmab](https://www.genmab.com)** | **[Trial Master File & Site Management Intern](https://jobright.ai/jobs/info/6924a8b7ec574f4265bb5774?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Jan 28 |
 | **[Waystar](http://www.waystar.com)** | **[Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/68c0ce37702aa35207ab0962?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[Bread](https://www.breadpayments.com/)** | **[Intern - Legal Consumer Regulatory, Operations, and Product Support](https://jobright.ai/jobs/info/6979c8150791bc1d72308bf2?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jan 28 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Summer Legal Intern](https://jobright.ai/jobs/info/6979a9720791bc1d72307a08?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Jan 27 |
@@ -92,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Mission Critical Partners](http://missioncriticalpartners.com)** | **[Governance, Risk, and Compliance (Internship)](https://jobright.ai/jobs/info/69795a0039f7f96cc6d1cf8f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Risk Management](https://jobright.ai/jobs/info/697958ee39f7f96cc6d1ce88?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Jan 27 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/695d1190f1f8465b79f341f4?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
+| **[MGM Resorts International](http://mgmresorts.com)** | **[Law Clerk (Internship)](https://jobright.ai/jobs/info/6978316439f7f96cc6d079b7?utm_campaign=1055&utm_source=git)** | LV Metro Area | On Site | Jan 27 |
 | **[Kloeckner Metals - Americas](http://www.kloecknermetals.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/697981eb9c90a224ecc34101?utm_campaign=1055&utm_source=git)** | Roswell, Georgia, United States | On Site | Jan 27 |
 | **[Docusign](http://www.docusign.com)** | **[In-House Legal Intern](https://jobright.ai/jobs/info/6979769f0791bc1d72301e7e?utm_campaign=1055&utm_source=git)** | San Francisco, CA, US | Hybrid | Jan 27 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[Contract Administration Intern- Summer 2026 Internship](https://jobright.ai/jobs/info/697416eebc8e722e7b18f5fa?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 27 |
@@ -131,14 +136,14 @@ For a complete list, click the following sortable link below:
 | **[World Justice Project](http://worldjusticeproject.org/)** | **[Rule of Law Index Internship](https://jobright.ai/jobs/info/697904d839f7f96cc6d159d4?utm_campaign=1055&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | Jan 27 |
 | **[Freddie Mac](https://www.freddiemac.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69409ffa49a7695fbd062b96?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Jan 27 |
 | **[Jabil](https://www.jabil.com)** | **[Commercial Legal Intern (Post-Bar)](https://jobright.ai/jobs/info/6978db5052f3c27ec6451e5a?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Jan 27 |
-| **[Publix Super Markets](https://www.publix.com/)** | **[Intern - Pharmacy Compliance](https://jobright.ai/jobs/info/6978d9b552f3c27ec6451d64?utm_campaign=1055&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
-| ↳ | **[Intern – General Liability](https://jobright.ai/jobs/info/6978d8ce52f3c27ec6451d1d?utm_campaign=1055&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
+| **[Publix Super Markets](https://www.publix.com/)** | **[Intern – General Liability](https://jobright.ai/jobs/info/6978d8ce52f3c27ec6451d1d?utm_campaign=1055&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
 | ↳ | **[Intern - Corporate Counsel](https://jobright.ai/jobs/info/6978d72239f7f96cc6d133bd?utm_campaign=1055&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
 | **[MEMIC](https://www.memic.com/)** | **[Claims Internship](https://jobright.ai/jobs/info/6978d42588e2b47213bcf127?utm_campaign=1055&utm_source=git)** | Portland, Maine | On Site | Jan 27 |
 | **[RTX](http://www.raytheon.com)** | **[Contracts Intern (Summer 2026)(Remote)](https://jobright.ai/jobs/info/6978f71352f3c27ec6453d37?utm_campaign=1055&utm_source=git)** | US-MD-REMOTE | Remote | Jan 27 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Legal Intern, NYC](https://jobright.ai/jobs/info/6940726caa598a08c3f0101e?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
 | **[Stericycle](http://www.stericycle.com)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6940718549a7695fbd05f26d?utm_campaign=1055&utm_source=git)** | Illinois, United States | On Site | Jan 27 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Governance, Legal, Compliance & Regulatory](https://jobright.ai/jobs/info/694051bb50bbaf7650525e7a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 27 |
+| **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Legal Intern (Multiple) - Summer 2026](https://jobright.ai/jobs/info/6973efdb206da320f49de82e?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jan 27 |
 | **[Jabil](https://www.jabil.com)** | **[Commercial Legal Intern (Post-Bar)](https://jobright.ai/jobs/info/6978df0e39f7f96cc6d137be?utm_campaign=1055&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Jan 27 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern – Summer Law Clerk (OIG)](https://jobright.ai/jobs/info/695c1e6caa05c26e7ab56fc1?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 | **[WorkSafeBC](https://www.worksafebc.com/en)** | **[Review Officer Intern](https://jobright.ai/jobs/info/695c5d40aa05c26e7ab5c831?utm_campaign=1055&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Jan 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2026 Internship Program: Regulatory Affairs Intern - Shelton, CT, US](https://jobright.ai/jobs/info/695c5b71f1f8465b79f2807e?utm_campaign=1055&utm_source=git)** | Shelton, CT | On Site | Jan 27 |
 | **[RESICAP](http://www.resicap.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69786eef52f3c27ec644be94?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 26 |
 | **[Troon](http://www.troon.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/695c42f4f1f8465b79f24cee?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Jan 26 |
-| **[ResiHome](https://resihome.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69784d2488e2b47213bc6b64?utm_campaign=1055&utm_source=git)** | Atlanta, GA, US | On Site | Jan 26 |
-| **[RESICAP](http://www.resicap.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/697849f739f7f96cc6d0a889?utm_campaign=1055&utm_source=git)** | Atlanta, GA, US | On Site | Jan 26 |
-| **[Ramp](https://ramp.com)** | **[Legal Internship](https://jobright.ai/jobs/info/695c40d3aa05c26e7ab59325?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 26 |
-| **[Vantage Data Centers](https://vantage-dc.com)** | **[Legal Intern, NA](https://jobright.ai/jobs/info/695c7b799a87b95a9397cbf3?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jan 26 |
-| **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Intellectual Property - Summer Intern](https://jobright.ai/jobs/info/6978356088e2b47213bc3bb3?utm_campaign=1055&utm_source=git)** | Malvern, PA | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
