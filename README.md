@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/695cee52f5f3c43f38e1b670?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 27 |
+| **[Reser's Fine Foods](http://www.resers.com)** | **[Intern - Food Safety, Quality Assurance & Regulatory](https://jobright.ai/jobs/info/69795c4f39f7f96cc6d1d103?utm_campaign=1055&utm_source=git)** | Beaverton, OR | On Site | Jan 27 |
+| **[State of South Carolina](https://sc.gov/)** | **[Summer Law Clerk Intern - Columbia](https://jobright.ai/jobs/info/69795b6739f7f96cc6d1d07a?utm_campaign=1055&utm_source=git)** | Columbia, SC | On Site | Jan 27 |
 | **[Mission Critical Partners](http://missioncriticalpartners.com)** | **[Governance, Risk, and Compliance (Internship)](https://jobright.ai/jobs/info/69795a0039f7f96cc6d1cf8f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Risk Management](https://jobright.ai/jobs/info/697958ee39f7f96cc6d1ce88?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Jan 27 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/695d1190f1f8465b79f341f4?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
@@ -91,8 +94,7 @@ For a complete list, click the following sortable link below:
 | **[MEMIC](https://www.memic.com/)** | **[Claims Internship](https://jobright.ai/jobs/info/6978ec7d88e2b47213bcfd83?utm_campaign=1055&utm_source=git)** | Portland, ME | On Site | Jan 27 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6978eb5152f3c27ec6452692?utm_campaign=1055&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Jan 27 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern, Trade and Customs - JD / Dallas Summer 2026](https://jobright.ai/jobs/info/6978e9f388e2b47213bcfbfc?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 27 |
-| **[Arvento A](arventoa.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6978e99952f3c27ec64525e2?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 27 |
-| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Risk Services / New York Summer 2026](https://jobright.ai/jobs/info/6978e7c188e2b47213bcfb37?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 27 |
+| ↳ | **[Advisory Intern, Risk Services / New York Summer 2026](https://jobright.ai/jobs/info/6978e7c188e2b47213bcfb37?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[World Justice Project](http://worldjusticeproject.org/)** | **[Rule of Law Index Internship](https://jobright.ai/jobs/info/697904d839f7f96cc6d159d4?utm_campaign=1055&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | Jan 27 |
 | **[Freddie Mac](https://www.freddiemac.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69409ffa49a7695fbd062b96?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Jan 27 |
 | **[Jabil](https://www.jabil.com)** | **[Commercial Legal Intern (Post-Bar)](https://jobright.ai/jobs/info/6978db5052f3c27ec6451e5a?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Jan 27 |
@@ -143,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Proof](https://www.proof.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6977d748fdeb8243a27ac6cc?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 26 |
 | **[Spire](https://www.spireenergy.com/)** | **[Intern, Pipeline Safety Compliance](https://jobright.ai/jobs/info/692757ecd47de4798ecdb9d2?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Jan 26 |
 | **[LogicalisUS](https://www.us.logicalis.com)** | **[IT Intern](https://jobright.ai/jobs/info/6977d06752f3c27ec643f3be?utm_campaign=1055&utm_source=git)** | Golden, MO | On Site | Jan 26 |
-| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Asset Integrity Intern](https://jobright.ai/jobs/info/6977f5fc52f3c27ec6442c1a?utm_campaign=1055&utm_source=git)** | Houston | On Site | Jan 26 |
-| ↳ | **[Asset Integrity Intern](https://jobright.ai/jobs/info/6977f75f88e2b47213bc04d7?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 26 |
+| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Asset Integrity Intern](https://jobright.ai/jobs/info/6977f75f88e2b47213bc04d7?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 26 |
+| ↳ | **[Asset Integrity Intern](https://jobright.ai/jobs/info/6977f5fc52f3c27ec6442c1a?utm_campaign=1055&utm_source=git)** | Houston | On Site | Jan 26 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – DSPV Compliance](https://jobright.ai/jobs/info/6977ea8a52f3c27ec6441734?utm_campaign=1055&utm_source=git)** | Headquarters, NJ | Hybrid | Jan 26 |
 | **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Policy](https://jobright.ai/jobs/info/6977c9ac52f3c27ec643eb05?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Jan 26 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Law](https://jobright.ai/jobs/info/6977ef0c52f3c27ec6441fdd?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6977c51e88e2b47213bbba89?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
 | **[Legal Aid of NorthWest Texas](https://internet.lanwt.org/home)** | **[Intern/Clerkship - Community Revitalization Project (CRP)](https://jobright.ai/jobs/info/6977efce88e2b47213bbf53f?utm_campaign=1055&utm_source=git)** | Lubbock, TX | On Site | Jan 26 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Law](https://jobright.ai/jobs/info/6977c38b52f3c27ec643e583?utm_campaign=1055&utm_source=git)** | New York | Hybrid | Jan 26 |
-| **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern - Pharmacy Compliance](https://jobright.ai/jobs/info/6977c316fdeb8243a27aaf52?utm_campaign=1055&utm_source=git)** | Lakeland, FL | On Site | Jan 26 |
-| **[Horace Mann](http://www.horacemann.com)** | **[Legal Internship - Summer 2026 Law Clerk](https://jobright.ai/jobs/info/6977c31052f3c27ec643e4ef?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
