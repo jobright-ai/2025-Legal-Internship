@@ -139,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Corsair](http://www.corsair.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69406d5e49a7695fbd05ef2c?utm_campaign=1055&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Income Security Intern (Law Student)](https://jobright.ai/jobs/info/6940cc4c50bbaf765052d046?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 27 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Legal Intern (1L)](https://jobright.ai/jobs/info/69409919aa598a08c3f0437d?utm_campaign=1055&utm_source=git)** | Olathe, KS | On Site | Jan 27 |
-| **[Greenberg Traurig, LLP](https://www.gtlaw.com/)** | **[Government Law & Policy Law Clerk Intern (Albany)](https://jobright.ai/jobs/info/6979a19a0791bc1d72306ba9?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Jan 27 |
 | **[Stephens](https://www.stephens.com)** | **[Internship - Law Clerk (Summer 2026)](https://jobright.ai/jobs/info/695c0a2cf1f8465b79f21608?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Jan 27 |
 | **[Brother USA](https://brother-usa.com)** | **[Legal Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695c0337aa05c26e7ab5575f?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
 | **[McCain Foods](https://www.mccain.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/6978803952f3c27ec644d1ff?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Compliance & Risk Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/697850a988e2b47213bc79e5?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Jan 26 |
 | **[Federal Reserve Bank of Philadelphia](http://www.philadelphiafed.org)** | **[Summer Intern, Supervision Regulation & Credit, Consumer Compliance Outreach](https://jobright.ai/jobs/info/69781ab6fdeb8243a27b0e44?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 26 |
 | **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/6975a754bc8e722e7b1a8214?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 26 |
+| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Banking Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/69782a8d52f3c27ec6445845?utm_campaign=1055&utm_source=git)** | Mankato, MN | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
