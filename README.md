@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CN](http://www.cn.ca)** | **[Intern, Law (Risk Mitigation) US- FR](https://jobright.ai/jobs/info/6929f28266796e3028f8db4c?utm_campaign=1055&utm_source=git)** | Homewood, IL | On Site | Jan 28 |
+| ↳ | **[Intern, Law (Regulatory Affairs) US- EN](https://jobright.ai/jobs/info/69723049cda18b74386493b9?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 28 |
+| ↳ | **[Intern, Law (Regulatory Affairs) US- FR](https://jobright.ai/jobs/info/6975b69937785856350f9ad2?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 28 |
+| **[Valley Bank](https://www.valley.com/)** | **[Intern - AML Compliance](https://jobright.ai/jobs/info/695e002532718e2b8ddbf765?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Jan 28 |
 | **[Katten Muchin Rosenman LLP](https://katten.com)** | **[Practice Innovation Intern](https://jobright.ai/jobs/info/6942062914ee092a690022d9?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jan 28 |
 | **[Waystar](http://www.waystar.com)** | **[Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/68c0ce37702aa35207ab0962?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[Bread](https://www.breadpayments.com/)** | **[Intern - Legal Consumer Regulatory, Operations, and Product Support](https://jobright.ai/jobs/info/6979c8150791bc1d72308bf2?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jan 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ramp](https://ramp.com)** | **[Legal Internship](https://jobright.ai/jobs/info/695c40d3aa05c26e7ab59325?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jan 26 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Legal Intern, NA](https://jobright.ai/jobs/info/695c7b799a87b95a9397cbf3?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Jan 26 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Intellectual Property - Summer Intern](https://jobright.ai/jobs/info/6978356088e2b47213bc3bb3?utm_campaign=1055&utm_source=git)** | Malvern, PA | Hybrid | Jan 26 |
-| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Asset Integrity Intern](https://jobright.ai/jobs/info/6978297f52f3c27ec6445716?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 26 |
-| **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/695c324922c9dc0d3d5410fe?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
-| **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Compliance & Risk Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/697850a988e2b47213bc79e5?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Jan 26 |
-| **[Federal Reserve Bank of Philadelphia](http://www.philadelphiafed.org)** | **[Summer Intern, Supervision Regulation & Credit, Consumer Compliance Outreach](https://jobright.ai/jobs/info/69781ab6fdeb8243a27b0e44?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
