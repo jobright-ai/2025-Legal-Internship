@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bread](https://www.breadpayments.com/)** | **[Intern - Legal Consumer Regulatory, Operations, and Product Support](https://jobright.ai/jobs/info/6979c8150791bc1d72308bf2?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jan 28 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Summer Legal Intern](https://jobright.ai/jobs/info/6979a9720791bc1d72307a08?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Jan 27 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Summer Legal Intern](https://jobright.ai/jobs/info/6979a8d4ca92cf0d6a82f586?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Jan 27 |
 | ↳ | **[Insomniac - Paid Summer Legal Intern](https://jobright.ai/jobs/info/6979a119ca92cf0d6a82f0d5?utm_campaign=1055&utm_source=git)** | Calabasas, CA, USA | On Site | Jan 27 |
@@ -141,7 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Legal Intern (1L)](https://jobright.ai/jobs/info/69409919aa598a08c3f0437d?utm_campaign=1055&utm_source=git)** | Olathe, KS | On Site | Jan 27 |
 | **[Stephens](https://www.stephens.com)** | **[Internship - Law Clerk (Summer 2026)](https://jobright.ai/jobs/info/695c0a2cf1f8465b79f21608?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Jan 27 |
 | **[Brother USA](https://brother-usa.com)** | **[Legal Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695c0337aa05c26e7ab5575f?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
-| **[McCain Foods](https://www.mccain.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/6978803952f3c27ec644d1ff?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 27 |
+| **[McCain Foods](http://www.mccain.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6978803952f3c27ec644d1ff?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 27 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Digital Security Group Compliance Analyst - 6 month internship](https://jobright.ai/jobs/info/69787f7152f3c27ec644d06e?utm_campaign=1055&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Jan 27 |
 | **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2026 Internship Program: Regulatory Affairs Intern - Shelton, CT, US](https://jobright.ai/jobs/info/695c5b71f1f8465b79f2807e?utm_campaign=1055&utm_source=git)** | Shelton, CT | On Site | Jan 27 |
 | **[RESICAP](http://www.resicap.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69786eef52f3c27ec644be94?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Compliance & Risk Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/697850a988e2b47213bc79e5?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Jan 26 |
 | **[Federal Reserve Bank of Philadelphia](http://www.philadelphiafed.org)** | **[Summer Intern, Supervision Regulation & Credit, Consumer Compliance Outreach](https://jobright.ai/jobs/info/69781ab6fdeb8243a27b0e44?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 26 |
 | **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/6975a754bc8e722e7b1a8214?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 26 |
-| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Banking Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/69782a8d52f3c27ec6445845?utm_campaign=1055&utm_source=git)** | Mankato, MN | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
