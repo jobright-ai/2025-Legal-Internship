@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Legal Intern](https://jobright.ai/jobs/info/6979909fca92cf0d6a82baf7?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 27 |
+| **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/695cee70fbd62a0a65658589?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jan 27 |
+| **[Warner Norcross + Judd](http://wnj.com)** | **[Summer Associate Law Clerk](https://jobright.ai/jobs/info/69798c12d7df290257fbe4a1?utm_campaign=1055&utm_source=git)** | Michigan, United States | On Site | Jan 27 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Paralegal Intern](https://jobright.ai/jobs/info/697986f9ca92cf0d6a82af70?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 27 |
+| **[Kloeckner Metals - Americas](http://www.kloecknermetals.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/6979858f9c90a224ecc34414?utm_campaign=1055&utm_source=git)** | Roswell, GA | On Site | Jan 27 |
 | **[Taiho Oncology, Inc.](https://www.taihooncology.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/6979850b0791bc1d72303601?utm_campaign=1055&utm_source=git)** | Pleasanton, CA | Hybrid | Jan 27 |
 | **[New Jersey Institute for Social Justice](http://www.njisj.org/)** | **[Litigation Intern (Law Student, Paid, Part-Time, Hybrid) - Spring 2026](https://jobright.ai/jobs/info/697984cdca92cf0d6a82ae1d?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Jan 27 |
 | ↳ | **[Litigation Intern (Law Student, Paid, Full-Time, Hybrid)   Summer 2026](https://jobright.ai/jobs/info/697983819c90a224ecc342bb?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Jan 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CME Group](http://www.cmegroup.com)** | **[Default Management Intern - Year Round](https://jobright.ai/jobs/info/6978014152f3c27ec644398c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 26 |
 | **[Froedtert Health](http://www.froedtert.com)** | **[LEGAL INTERN](https://jobright.ai/jobs/info/6977f895fdeb8243a27afce2?utm_campaign=1055&utm_source=git)** | Menomonee Falls, WI | Hybrid | Jan 26 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Shared Delivery -Governance & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/6978104b88e2b47213bc12e0?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Jan 26 |
-| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Asset Integrity Intern](https://jobright.ai/jobs/info/6977e387fdeb8243a27ad6b7?utm_campaign=1055&utm_source=git)** | Texas | On Site | Jan 26 |
-| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/6977db1bfdeb8243a27acc9e?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 26 |
-| **[Legal Aid of NorthWest Texas](https://internet.lanwt.org/home)** | **[Intern/Clerkship - Community Revitalization Project (CRP)](https://jobright.ai/jobs/info/6977d9c4fdeb8243a27aca6a?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Jan 26 |
-| **[Proof](https://www.proof.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6977d748fdeb8243a27ac6cc?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 26 |
-| **[Spire](https://www.spireenergy.com/)** | **[Intern, Pipeline Safety Compliance](https://jobright.ai/jobs/info/692757ecd47de4798ecdb9d2?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
