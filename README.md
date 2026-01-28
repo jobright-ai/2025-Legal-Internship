@@ -146,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Digital Security Group Compliance Analyst - 6 month internship](https://jobright.ai/jobs/info/69787f7152f3c27ec644d06e?utm_campaign=1055&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Jan 27 |
 | **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2026 Internship Program: Regulatory Affairs Intern - Shelton, CT, US](https://jobright.ai/jobs/info/695c5b71f1f8465b79f2807e?utm_campaign=1055&utm_source=git)** | Shelton, CT | On Site | Jan 27 |
 | **[RESICAP](http://www.resicap.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69786eef52f3c27ec644be94?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 26 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6978830352f3c27ec644d41a?utm_campaign=1055&utm_source=git)** | Midvale, UT | On Site | Jan 26 |
 | **[Troon](http://www.troon.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/695c42f4f1f8465b79f24cee?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Jan 26 |
 | **[ResiHome](https://resihome.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69784d2488e2b47213bc6b64?utm_campaign=1055&utm_source=git)** | Atlanta, GA, US | On Site | Jan 26 |
 | **[RESICAP](http://www.resicap.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/697849f739f7f96cc6d0a889?utm_campaign=1055&utm_source=git)** | Atlanta, GA, US | On Site | Jan 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/695c324922c9dc0d3d5410fe?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
 | **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Compliance & Risk Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/697850a988e2b47213bc79e5?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Jan 26 |
 | **[Federal Reserve Bank of Philadelphia](http://www.philadelphiafed.org)** | **[Summer Intern, Supervision Regulation & Credit, Consumer Compliance Outreach](https://jobright.ai/jobs/info/69781ab6fdeb8243a27b0e44?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 26 |
+| **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/6975a754bc8e722e7b1a8214?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
