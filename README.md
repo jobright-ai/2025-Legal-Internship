@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Waystar](http://www.waystar.com)** | **[Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/68c0ce37702aa35207ab0962?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[Bread](https://www.breadpayments.com/)** | **[Intern - Legal Consumer Regulatory, Operations, and Product Support](https://jobright.ai/jobs/info/6979c8150791bc1d72308bf2?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jan 28 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Summer Legal Intern](https://jobright.ai/jobs/info/6979a9720791bc1d72307a08?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Jan 27 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Summer Legal Intern](https://jobright.ai/jobs/info/6979a8d4ca92cf0d6a82f586?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Jan 27 |
@@ -131,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[MEMIC](https://www.memic.com/)** | **[Claims Internship](https://jobright.ai/jobs/info/6978d42588e2b47213bcf127?utm_campaign=1055&utm_source=git)** | Portland, Maine | On Site | Jan 27 |
 | **[RTX](http://www.raytheon.com)** | **[Contracts Intern (Summer 2026)(Remote)](https://jobright.ai/jobs/info/6978f71352f3c27ec6453d37?utm_campaign=1055&utm_source=git)** | US-MD-REMOTE | Remote | Jan 27 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Legal Intern, NYC](https://jobright.ai/jobs/info/6940726caa598a08c3f0101e?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Compliance Operations Intern](https://jobright.ai/jobs/info/6978edc352f3c27ec6452b61?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Jan 27 |
 | **[Stericycle](http://www.stericycle.com)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6940718549a7695fbd05f26d?utm_campaign=1055&utm_source=git)** | Illinois, United States | On Site | Jan 27 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Governance, Legal, Compliance & Regulatory](https://jobright.ai/jobs/info/694051bb50bbaf7650525e7a?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[Jabil](https://www.jabil.com)** | **[Commercial Legal Intern (Post-Bar)](https://jobright.ai/jobs/info/6978df0e39f7f96cc6d137be?utm_campaign=1055&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Jan 27 |
