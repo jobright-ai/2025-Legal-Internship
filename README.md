@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Internship - Quality Assurance/Regulatory Compliance - 10368](https://jobright.ai/jobs/info/697a8aee8dbbf73badc7b8a3?utm_campaign=1055&utm_source=git)** | Columbus 1809 | On Site | Jan 28 |
+| **[Equinix](http://www.equinix.com)** | **[Risk Management and Insurance Intern](https://jobright.ai/jobs/info/697a88f19d60e431a16c1125?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Jan 28 |
+| ↳ | **[Risk Management and Insurance Intern](https://jobright.ai/jobs/info/697a85059d60e431a16c097b?utm_campaign=1055&utm_source=git)** | Redwood City, CA | Hybrid | Jan 28 |
+| **[Berkley Accident and Health (a Berkley Company)](http://berkleyah.com)** | **[Intern- Underwriting Specialty Accident](https://jobright.ai/jobs/info/697a84e7f6fc293b0a2c5a49?utm_campaign=1055&utm_source=git)** | Hamilton Square, NJ | On Site | Jan 28 |
 | **[Kobre & Kim](https://kobrekim.com/)** | **[Litigation Internship - June 2026](https://jobright.ai/jobs/info/697a80948dbbf73badc7a608?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 28 |
 | **[Oliva Gibbs](https://www.kolawllp.com)** | **[Law Clerk (Oklahoma City, OK)](https://jobright.ai/jobs/info/685b0b721fe76f13ca7b5ef1?utm_campaign=1055&utm_source=git)** | Edmond, OK | On Site | Jan 28 |
 | **[HNTB](http://www.hntb.com/)** | **[Intern Procurement and Contracts - Winter/Spring  2026](https://jobright.ai/jobs/info/697a7b0b9d60e431a16bfb86?utm_campaign=1055&utm_source=git)** | White Salmon, WA | On Site | Jan 28 |
 | **[Kobre & Kim](https://kobrekim.com/)** | **[Litigation Internship - June 2026](https://jobright.ai/jobs/info/697a7ad2f6fc293b0a2c4d11?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
 | **[Kaplan Law Firm](http://www.kaplanlawatx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697a746e9d60e431a16bf2ac?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Jan 28 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/697a69b48dbbf73badc78cd4?utm_campaign=1055&utm_source=git)** | Richardson, TX, US | On Site | Jan 28 |
+| **[AUMOVIO](https://www.aumovio.com)** | **[Customs Trade - Internship](https://jobright.ai/jobs/info/696aa3e3db26b618950dcbe1?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Jan 28 |
 | **[Tarsus Pharmaceuticals, Inc.](https://www.tarsusrx.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/697a7f66f6fc293b0a2c51c8?utm_campaign=1055&utm_source=git)** | Orange County, CA | Hybrid | Jan 28 |
 | **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Summer Legal Intern](https://jobright.ai/jobs/info/697a5c0ea8de441ca73583ac?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 28 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/697a5903a5b9804527e029ec?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Hybrid | Jan 28 |
@@ -73,8 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Symetra](http://www.symetra.com)** | **[2026 Stop Loss Claims Internship - Remote](https://jobright.ai/jobs/info/697a4afbb4589b4ee87c98a7?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 28 |
 | **[Tarsus Pharmaceuticals, Inc.](https://www.tarsusrx.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/697a4a94a5b9804527e020b3?utm_campaign=1055&utm_source=git)** | Irvine, California, United States | Hybrid | Jan 28 |
 | **[CBIZ](http://www.cbiz.com)** | **[National Attest Operations Intern / Summer 2026](https://jobright.ai/jobs/info/697a48e0b4589b4ee87c96d3?utm_campaign=1055&utm_source=git)** | 730 3rd Ave, 11th Floor, New York, NY, 10017, US | On Site | Jan 28 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/697a65ab8dbbf73badc7885d?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jan 28 |
-| **[CBIZ](http://www.cbiz.com)** | **[National Attest Operations Intern / Summer 2026](https://jobright.ai/jobs/info/697a3b8bb4589b4ee87c7718?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 28 |
+| ↳ | **[National Attest Operations Intern / Summer 2026](https://jobright.ai/jobs/info/697a3b8bb4589b4ee87c7718?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 28 |
 | **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern - Pharmacy Compliance](https://jobright.ai/jobs/info/697a399fb4589b4ee87c75fb?utm_campaign=1055&utm_source=git)** | Lakeland, FL | On Site | Jan 28 |
 | **[New Jersey Institute for Social Justice](http://www.njisj.org/)** | **[Litigation Intern (Law Student, Paid, Full-Time, Hybrid) Summer 2026](https://jobright.ai/jobs/info/697a469db4589b4ee87c8ffe?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Jan 28 |
 | **[Kobre & Kim](https://kobrekim.com/)** | **[Litigation Internship - June 2026](https://jobright.ai/jobs/info/697a4914b4589b4ee87c9772?utm_campaign=1055&utm_source=git)** | Washington D.C., United States of America | Hybrid | Jan 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Liebherr Group](http://www.liebherr.com)** | **[Procurement Intern, On-Site (1 Year Full-Time Temporary Contract)](https://jobright.ai/jobs/info/69790dad52f3c27ec645559f?utm_campaign=1055&utm_source=git)** | Burlington, Ontario, Canada | On Site | Jan 27 |
 | **[MEMIC](https://www.memic.com/)** | **[Claims Internship](https://jobright.ai/jobs/info/6978ec7d88e2b47213bcfd83?utm_campaign=1055&utm_source=git)** | Portland, ME | On Site | Jan 27 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6978eb5152f3c27ec6452692?utm_campaign=1055&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Jan 27 |
-| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern, Trade and Customs - JD / Dallas Summer 2026](https://jobright.ai/jobs/info/6978e9f388e2b47213bcfbfc?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 27 |
-| ↳ | **[Advisory Intern, Risk Services / New York Summer 2026](https://jobright.ai/jobs/info/6978e7c188e2b47213bcfb37?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 27 |
-| **[World Justice Project](http://worldjusticeproject.org/)** | **[Rule of Law Index Internship](https://jobright.ai/jobs/info/697904d839f7f96cc6d159d4?utm_campaign=1055&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | Jan 27 |
-| **[Freddie Mac](https://www.freddiemac.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69409ffa49a7695fbd062b96?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
