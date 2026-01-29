@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMO](http://www.bmo.com)** | **[Anti Money Laundering Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/697bacce1423772304ebd8e2?utm_campaign=1055&utm_source=git)** | Chicago, IL, USA | On Site | Jan 29 |
+| **[Align Technology](http://www.aligntech.com)** | **[AI & Corporate Governance Legal Intern](https://jobright.ai/jobs/info/697ba7540b88cc7d6422761a?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Jan 29 |
 | **[Realty Operations Group](https://www.realtyoperations.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/697ba2201423772304ebcc38?utm_campaign=1055&utm_source=git)** | Jersey City, NJ, US | On Site | Jan 29 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Real Estate Governance Intern](https://jobright.ai/jobs/info/697ba09e1423772304ebc6a5?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Jan 29 |
 | **[Oracle](https://www.oracle.com/)** | **[Real Estate Governance Intern](https://jobright.ai/jobs/info/697b9e040b88cc7d64226008?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Jan 29 |
@@ -92,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Commercial P&C Intern](https://jobright.ai/jobs/info/695ed5090badca5763af4af9?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Jan 28 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Internship - Quality Assurance/Regulatory Compliance - 10368](https://jobright.ai/jobs/info/697adad81423772304eabeb5?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jan 28 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Third Party Risk Management Analyst Intern](https://jobright.ai/jobs/info/697af36117b11b1c2e41d59e?utm_campaign=1055&utm_source=git)** | Wilmington, Delaware, United States | Hybrid | Jan 28 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/697add271423772304eac139?utm_campaign=1055&utm_source=git)** | US-MN-Maple Grove | Hybrid | Jan 28 |
-| ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/697adf4ec532c4768fe09616?utm_campaign=1055&utm_source=git)** | Minnetonka, MN - AMS | Hybrid | Jan 28 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/697adf4ec532c4768fe09616?utm_campaign=1055&utm_source=git)** | Minnetonka, MN - AMS | Hybrid | Jan 28 |
+| ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/697add271423772304eac139?utm_campaign=1055&utm_source=git)** | US-MN-Maple Grove | Hybrid | Jan 28 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Summer 2026 Legal Intern, Special Education Unit](https://jobright.ai/jobs/info/697acef0f6fc293b0a2cc72d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
 | **[AFL](http://www.AFLglobal.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/697ac5fe9d60e431a16c6e46?utm_campaign=1055&utm_source=git)** | Duncan, South Carolina, United States | On Site | Jan 28 |
 | **[ePayPolicy](https://epaypolicy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697b91611136d179eeef09f9?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Jan 28 |
@@ -117,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Kaplan Law Firm](http://www.kaplanlawatx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697a746e9d60e431a16bf2ac?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Jan 28 |
 | **[AUMOVIO](https://www.aumovio.com)** | **[Customs Trade - Internship](https://jobright.ai/jobs/info/696aa3e3db26b618950dcbe1?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Jan 28 |
 | **[Tarsus Pharmaceuticals, Inc.](https://www.tarsusrx.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/697a7f66f6fc293b0a2c51c8?utm_campaign=1055&utm_source=git)** | Orange County, CA | Hybrid | Jan 28 |
-| **[Law Offices of Sabrina Li, P.C.](https://www.sabrinali.law/)** | **[Bilingual Legal Intern (Mandarin/Spanish)](https://jobright.ai/jobs/info/697b88921136d179eeef0626?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 28 |
-| ↳ | **[Bilingual Legal Intern (Mandarin/Spanish)](https://jobright.ai/jobs/info/697b8c711136d179eeef0805?utm_campaign=1055&utm_source=git)** | Santa Ana, CA | On Site | Jan 28 |
+| **[Law Offices of Sabrina Li, P.C.](https://www.sabrinali.law/)** | **[Bilingual Legal Intern (Mandarin/Spanish)](https://jobright.ai/jobs/info/697b8c711136d179eeef0805?utm_campaign=1055&utm_source=git)** | Santa Ana, CA | On Site | Jan 28 |
+| ↳ | **[Bilingual Legal Intern (Mandarin/Spanish)](https://jobright.ai/jobs/info/697b88921136d179eeef0626?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 28 |
 | ↳ | **[Bilingual Legal Intern (Mandarin/Spanish)](https://jobright.ai/jobs/info/697b891f1136d179eeef067e?utm_campaign=1055&utm_source=git)** | Pasadena, CA | On Site | Jan 28 |
 | **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Summer Legal Intern](https://jobright.ai/jobs/info/697a5c0ea8de441ca73583ac?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 28 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/697a5903a5b9804527e029ec?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Hybrid | Jan 28 |
@@ -131,8 +133,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[National Attest Operations Intern / Summer 2026](https://jobright.ai/jobs/info/697a3b8bb4589b4ee87c7718?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 28 |
 | **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern - Pharmacy Compliance](https://jobright.ai/jobs/info/697a399fb4589b4ee87c75fb?utm_campaign=1055&utm_source=git)** | Lakeland, FL | On Site | Jan 28 |
 | **[New Jersey Institute for Social Justice](http://www.njisj.org/)** | **[Litigation Intern (Law Student, Paid, Full-Time, Hybrid) Summer 2026](https://jobright.ai/jobs/info/697a469db4589b4ee87c8ffe?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Jan 28 |
-| **[Kobre & Kim](https://kobrekim.com/)** | **[Litigation Internship - June 2026](https://jobright.ai/jobs/info/697a494da5b9804527e01dd0?utm_campaign=1055&utm_source=git)** | New York City, NY, United States of America | Hybrid | Jan 28 |
-| ↳ | **[Litigation Internship - June 2026](https://jobright.ai/jobs/info/697a4914b4589b4ee87c9772?utm_campaign=1055&utm_source=git)** | Washington D.C., United States of America | Hybrid | Jan 28 |
+| **[Kobre & Kim](https://kobrekim.com/)** | **[Litigation Internship - June 2026](https://jobright.ai/jobs/info/697a4914b4589b4ee87c9772?utm_campaign=1055&utm_source=git)** | Washington D.C., United States of America | Hybrid | Jan 28 |
+| ↳ | **[Litigation Internship - June 2026](https://jobright.ai/jobs/info/697a494da5b9804527e01dd0?utm_campaign=1055&utm_source=git)** | New York City, NY, United States of America | Hybrid | Jan 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Third Party Risk Management- EN](https://jobright.ai/jobs/info/696548e12cbf4e44756ebb6d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 28 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer 2026 Regulatory Policy Intern](https://jobright.ai/jobs/info/697aa068f6fc293b0a2c87a7?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Jan 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Law (Risk Mitigation) US- FR](https://jobright.ai/jobs/info/6929f28266796e3028f8db4c?utm_campaign=1055&utm_source=git)** | Homewood, IL | On Site | Jan 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Taiho Oncology, Inc.](https://www.taihooncology.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/6979850b0791bc1d72303601?utm_campaign=1055&utm_source=git)** | Pleasanton, CA | Hybrid | Jan 27 |
 | **[New Jersey Institute for Social Justice](http://www.njisj.org/)** | **[Litigation Intern (Law Student, Paid, Part-Time, Hybrid) - Spring 2026](https://jobright.ai/jobs/info/697984cdca92cf0d6a82ae1d?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Jan 27 |
 | ↳ | **[Litigation Intern (Law Student, Paid, Full-Time, Hybrid)   Summer 2026](https://jobright.ai/jobs/info/697983819c90a224ecc342bb?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Jan 27 |
-| **[Tradeweb](http://www.tradeweb.com/)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/695d671af1f8465b79f3910c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 27 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Paralegal Summer 2026](https://jobright.ai/jobs/info/695d710dfbd62a0a65660827?utm_campaign=1055&utm_source=git)** | Moon, PA | Hybrid | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
