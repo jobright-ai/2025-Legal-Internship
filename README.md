@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Legal)](https://jobright.ai/jobs/info/6943826850bbaf76505575ff?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Jan 29 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Legal Torts Intern](https://jobright.ai/jobs/info/697b130c17b11b1c2e420d05?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 28 |
 | ↳ | **[2026-2027 Yearlong Legal Intern-General Counsel](https://jobright.ai/jobs/info/697b327b1136d179eeeeaf70?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 28 |
 | **[ETS](http://www.ets.org)** | **[Sheree Johnson-Gregory Legal Internship Program](https://jobright.ai/jobs/info/695f057fa1bbea1d9a79d0d5?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Jan 28 |
@@ -111,8 +112,7 @@ For a complete list, click the following sortable link below:
 | **[CN](http://www.cn.ca)** | **[Intern, Third Party Risk Management- EN](https://jobright.ai/jobs/info/696548e12cbf4e44756ebb6d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 28 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer 2026 Regulatory Policy Intern](https://jobright.ai/jobs/info/697aa068f6fc293b0a2c87a7?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Jan 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Law (Risk Mitigation) US- FR](https://jobright.ai/jobs/info/6929f28266796e3028f8db4c?utm_campaign=1055&utm_source=git)** | Homewood, IL | On Site | Jan 28 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/697a3cc7a5b9804527dfff54?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 28 |
-| **[CN](http://www.cn.ca)** | **[Intern, Law (Regulatory Affairs) US- EN](https://jobright.ai/jobs/info/69723049cda18b74386493b9?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 28 |
+| ↳ | **[Intern, Law (Regulatory Affairs) US- EN](https://jobright.ai/jobs/info/69723049cda18b74386493b9?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 28 |
 | ↳ | **[Intern, Law (Regulatory Affairs) US- FR](https://jobright.ai/jobs/info/6975b69937785856350f9ad2?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 28 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - AML Compliance](https://jobright.ai/jobs/info/695e002532718e2b8ddbf765?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Jan 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Logistic & Customs Compliance- EN](https://jobright.ai/jobs/info/6924ede8c0cefa13343e43f9?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 28 |
