@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Legal Torts Intern](https://jobright.ai/jobs/info/697ac0e3f6fc293b0a2cbbc3?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 28 |
+| ↳ | **[2026-2027 Yearlong Legal Intern-General Counsel](https://jobright.ai/jobs/info/697abdec8dbbf73badc80dd0?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 28 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/697a986d9d60e431a16c2f94?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jan 28 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Internship - Quality Assurance/Regulatory Compliance - 10368](https://jobright.ai/jobs/info/697a8aee8dbbf73badc7b8a3?utm_campaign=1055&utm_source=git)** | Columbus 1809 | On Site | Jan 28 |
 | **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern - Legal](https://jobright.ai/jobs/info/695ecca6a112b402660d83b8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 28 |
@@ -89,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[National Attest Operations Intern / Summer 2026](https://jobright.ai/jobs/info/697a3b8bb4589b4ee87c7718?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 28 |
 | **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern - Pharmacy Compliance](https://jobright.ai/jobs/info/697a399fb4589b4ee87c75fb?utm_campaign=1055&utm_source=git)** | Lakeland, FL | On Site | Jan 28 |
 | **[New Jersey Institute for Social Justice](http://www.njisj.org/)** | **[Litigation Intern (Law Student, Paid, Full-Time, Hybrid) Summer 2026](https://jobright.ai/jobs/info/697a469db4589b4ee87c8ffe?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Jan 28 |
-| **[Kobre & Kim](https://kobrekim.com/)** | **[Litigation Internship - June 2026](https://jobright.ai/jobs/info/697a494da5b9804527e01dd0?utm_campaign=1055&utm_source=git)** | New York City, NY, United States of America | Hybrid | Jan 28 |
-| ↳ | **[Litigation Internship - June 2026](https://jobright.ai/jobs/info/697a4914b4589b4ee87c9772?utm_campaign=1055&utm_source=git)** | Washington D.C., United States of America | Hybrid | Jan 28 |
+| **[Kobre & Kim](https://kobrekim.com/)** | **[Litigation Internship - June 2026](https://jobright.ai/jobs/info/697a4914b4589b4ee87c9772?utm_campaign=1055&utm_source=git)** | Washington D.C., United States of America | Hybrid | Jan 28 |
+| ↳ | **[Litigation Internship - June 2026](https://jobright.ai/jobs/info/697a494da5b9804527e01dd0?utm_campaign=1055&utm_source=git)** | New York City, NY, United States of America | Hybrid | Jan 28 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/697a4c1ca8de441ca735799c?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Third Party Risk Management- EN](https://jobright.ai/jobs/info/696548e12cbf4e44756ebb6d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 28 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer 2026 Regulatory Policy Intern](https://jobright.ai/jobs/info/697aa068f6fc293b0a2c87a7?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Jan 28 |
@@ -126,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/695cee52f5f3c43f38e1b670?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[Primaris REIT](http://primarisreit.com)** | **[Summer Internship - Legal](https://jobright.ai/jobs/info/697984b9ca92cf0d6a82ae0f?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 27 |
 | **[Reser's Fine Foods](http://www.resers.com)** | **[Intern - Food Safety, Quality Assurance & Regulatory](https://jobright.ai/jobs/info/69795c4f39f7f96cc6d1d103?utm_campaign=1055&utm_source=git)** | Beaverton, OR | On Site | Jan 27 |
+| **[New York Legal Assistance Group](https://www.nylag.org)** | **[Summer 2026 Legal Intern, Special Education Unit](https://jobright.ai/jobs/info/697ab9029d60e431a16c631d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
 | **[Hastings Insurance Company](https://www.hastingsmutual.com)** | **[Summer 2026 Property Claim Internship](https://jobright.ai/jobs/info/697ab5688dbbf73badc80003?utm_campaign=1055&utm_source=git)** | Hastings, MI | Hybrid | Jan 27 |
 | **[State of South Carolina](https://sc.gov/)** | **[Summer Law Clerk Intern - Columbia](https://jobright.ai/jobs/info/69795b6739f7f96cc6d1d07a?utm_campaign=1055&utm_source=git)** | Columbia, SC | On Site | Jan 27 |
 | **[Mission Critical Partners](http://missioncriticalpartners.com)** | **[Governance, Risk, and Compliance (Internship)](https://jobright.ai/jobs/info/69795a0039f7f96cc6d1cf8f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Contracts Intern (Summer 2026)(Remote)](https://jobright.ai/jobs/info/69791dab88e2b47213bd391a?utm_campaign=1055&utm_source=git)** | Annapolis, MD | Remote | Jan 27 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Legal Counsel (Summer 2026)](https://jobright.ai/jobs/info/697943b588e2b47213bd7a7e?utm_campaign=1055&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Jan 27 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Legal Internship Summer 2026](https://jobright.ai/jobs/info/697938fc88e2b47213bd6033?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jan 27 |
-| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Spring 2026](https://jobright.ai/jobs/info/6979123c39f7f96cc6d16ebb?utm_campaign=1055&utm_source=git)** | Glendale, California | Hybrid | Jan 27 |
-| **[Lendistry](http://www.Lendistry.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69797284ca92cf0d6a829590?utm_campaign=1055&utm_source=git)** | LA Metro Area | On Site | Jan 27 |
-| **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Legal Consumer Regulatory, Operations, and Product Support](https://jobright.ai/jobs/info/69793cbc52f3c27ec6459098?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
