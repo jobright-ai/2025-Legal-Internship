@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Longevity Holdings, Inc.](https://longevity.inc/)** | **[Summer Law Clerk Intern](https://jobright.ai/jobs/info/695ef5d90badca5763af7111?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 28 |
 | **[AFL](http://www.AFLglobal.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/697aeb7017b11b1c2e41c9a6?utm_campaign=1055&utm_source=git)** | Duncan, SC | On Site | Jan 28 |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern IT Risk & Compliance - Cyber Summer 2026 / Charlotte, NC](https://jobright.ai/jobs/info/697b006d17b11b1c2e41f1bc?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Jan 28 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Third Party Risk Management Analyst Intern](https://jobright.ai/jobs/info/697ade52c532c4768fe094f4?utm_campaign=1055&utm_source=git)** | Wilmington, DE | Hybrid | Jan 28 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Legal Torts Intern](https://jobright.ai/jobs/info/697ac0e3f6fc293b0a2cbbc3?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 28 |
 | ↳ | **[2026-2027 Yearlong Legal Intern-General Counsel](https://jobright.ai/jobs/info/697abdec8dbbf73badc80dd0?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 28 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Internship - Quality Assurance/Regulatory Compliance - 10368](https://jobright.ai/jobs/info/697adad81423772304eabeb5?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jan 28 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Third Party Risk Management Analyst Intern](https://jobright.ai/jobs/info/697af36117b11b1c2e41d59e?utm_campaign=1055&utm_source=git)** | Wilmington, Delaware, United States | Hybrid | Jan 28 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[North America Scientific and Regulatory Affairs Intern](https://jobright.ai/jobs/info/697ae5cbc532c4768fe0a0b1?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/697adf4ec532c4768fe09616?utm_campaign=1055&utm_source=git)** | Minnetonka, MN - AMS | Hybrid | Jan 28 |
-| ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/697add271423772304eac139?utm_campaign=1055&utm_source=git)** | US-MN-Maple Grove | Hybrid | Jan 28 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/697add271423772304eac139?utm_campaign=1055&utm_source=git)** | US-MN-Maple Grove | Hybrid | Jan 28 |
+| ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/697adf4ec532c4768fe09616?utm_campaign=1055&utm_source=git)** | Minnetonka, MN - AMS | Hybrid | Jan 28 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Summer 2026 Legal Intern, Special Education Unit](https://jobright.ai/jobs/info/697acef0f6fc293b0a2cc72d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
 | **[AFL](http://www.AFLglobal.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/697ac5fe9d60e431a16c6e46?utm_campaign=1055&utm_source=git)** | Duncan, South Carolina, United States | On Site | Jan 28 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/692fa27bef4b48533d1479f0?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | Jan 28 |
@@ -104,8 +105,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[National Attest Operations Intern / Summer 2026](https://jobright.ai/jobs/info/697a3b8bb4589b4ee87c7718?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 28 |
 | **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern - Pharmacy Compliance](https://jobright.ai/jobs/info/697a399fb4589b4ee87c75fb?utm_campaign=1055&utm_source=git)** | Lakeland, FL | On Site | Jan 28 |
 | **[New Jersey Institute for Social Justice](http://www.njisj.org/)** | **[Litigation Intern (Law Student, Paid, Full-Time, Hybrid) Summer 2026](https://jobright.ai/jobs/info/697a469db4589b4ee87c8ffe?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Jan 28 |
-| **[Kobre & Kim](https://kobrekim.com/)** | **[Litigation Internship - June 2026](https://jobright.ai/jobs/info/697a4914b4589b4ee87c9772?utm_campaign=1055&utm_source=git)** | Washington D.C., United States of America | Hybrid | Jan 28 |
-| ↳ | **[Litigation Internship - June 2026](https://jobright.ai/jobs/info/697a494da5b9804527e01dd0?utm_campaign=1055&utm_source=git)** | New York City, NY, United States of America | Hybrid | Jan 28 |
+| **[Kobre & Kim](https://kobrekim.com/)** | **[Litigation Internship - June 2026](https://jobright.ai/jobs/info/697a494da5b9804527e01dd0?utm_campaign=1055&utm_source=git)** | New York City, NY, United States of America | Hybrid | Jan 28 |
+| ↳ | **[Litigation Internship - June 2026](https://jobright.ai/jobs/info/697a4914b4589b4ee87c9772?utm_campaign=1055&utm_source=git)** | Washington D.C., United States of America | Hybrid | Jan 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Third Party Risk Management- EN](https://jobright.ai/jobs/info/696548e12cbf4e44756ebb6d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 28 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer 2026 Regulatory Policy Intern](https://jobright.ai/jobs/info/697aa068f6fc293b0a2c87a7?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Jan 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Law (Risk Mitigation) US- FR](https://jobright.ai/jobs/info/6929f28266796e3028f8db4c?utm_campaign=1055&utm_source=git)** | Homewood, IL | On Site | Jan 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[South Carolina Department of Employment and Workforce](http://dew.sc.gov)** | **[Summer Law Clerk Intern - Columbia](https://jobright.ai/jobs/info/697946ce39f7f96cc6d1be06?utm_campaign=1055&utm_source=git)** | Richland County, SC | On Site | Jan 27 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Fraud Risk Management](https://jobright.ai/jobs/info/695d5ed0f5f3c43f38e226a0?utm_campaign=1055&utm_source=git)** | Jericho, NY | On Site | Jan 27 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/695d11d7f5f3c43f38e1de9d?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jan 27 |
-| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/695cee69f1f8465b79f31ac3?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
