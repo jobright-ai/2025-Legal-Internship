@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Legal Torts Intern](https://jobright.ai/jobs/info/697ac0e3f6fc293b0a2cbbc3?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 28 |
 | ↳ | **[2026-2027 Yearlong Legal Intern-General Counsel](https://jobright.ai/jobs/info/697abdec8dbbf73badc80dd0?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 28 |
+| **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Internship - Quality Assurance/Regulatory Compliance - 10368](https://jobright.ai/jobs/info/697adad81423772304eabeb5?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jan 28 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Summer 2026 Legal Intern, Special Education Unit](https://jobright.ai/jobs/info/697acef0f6fc293b0a2cc72d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
 | **[AFL](http://www.AFLglobal.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/697ac5fe9d60e431a16c6e46?utm_campaign=1055&utm_source=git)** | Duncan, South Carolina, United States | On Site | Jan 28 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/692fa27bef4b48533d1479f0?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | Jan 28 |
@@ -94,8 +95,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[National Attest Operations Intern / Summer 2026](https://jobright.ai/jobs/info/697a3b8bb4589b4ee87c7718?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 28 |
 | **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern - Pharmacy Compliance](https://jobright.ai/jobs/info/697a399fb4589b4ee87c75fb?utm_campaign=1055&utm_source=git)** | Lakeland, FL | On Site | Jan 28 |
 | **[New Jersey Institute for Social Justice](http://www.njisj.org/)** | **[Litigation Intern (Law Student, Paid, Full-Time, Hybrid) Summer 2026](https://jobright.ai/jobs/info/697a469db4589b4ee87c8ffe?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Jan 28 |
-| **[Kobre & Kim](https://kobrekim.com/)** | **[Litigation Internship - June 2026](https://jobright.ai/jobs/info/697a4914b4589b4ee87c9772?utm_campaign=1055&utm_source=git)** | Washington D.C., United States of America | Hybrid | Jan 28 |
-| ↳ | **[Litigation Internship - June 2026](https://jobright.ai/jobs/info/697a494da5b9804527e01dd0?utm_campaign=1055&utm_source=git)** | New York City, NY, United States of America | Hybrid | Jan 28 |
+| **[Kobre & Kim](https://kobrekim.com/)** | **[Litigation Internship - June 2026](https://jobright.ai/jobs/info/697a494da5b9804527e01dd0?utm_campaign=1055&utm_source=git)** | New York City, NY, United States of America | Hybrid | Jan 28 |
+| ↳ | **[Litigation Internship - June 2026](https://jobright.ai/jobs/info/697a4914b4589b4ee87c9772?utm_campaign=1055&utm_source=git)** | Washington D.C., United States of America | Hybrid | Jan 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Third Party Risk Management- EN](https://jobright.ai/jobs/info/696548e12cbf4e44756ebb6d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 28 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer 2026 Regulatory Policy Intern](https://jobright.ai/jobs/info/697aa068f6fc293b0a2c87a7?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Jan 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Law (Risk Mitigation) US- FR](https://jobright.ai/jobs/info/6929f28266796e3028f8db4c?utm_campaign=1055&utm_source=git)** | Homewood, IL | On Site | Jan 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs - JD / Dallas Summer 2026](https://jobright.ai/jobs/info/69794a6d39f7f96cc6d1c1f7?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 27 |
 | ↳ | **[Intern, Trade and Customs / Dallas Summer 2026](https://jobright.ai/jobs/info/69794bdc52f3c27ec645ad8f?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 27 |
 | **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[GCO Privacy Office Intern [2026 Internship Program]](https://jobright.ai/jobs/info/69793ed339f7f96cc6d1b2db?utm_campaign=1055&utm_source=git)** | 570 Washington Blvd, Jersey City, NJ, 07310, US | Hybrid | Jan 27 |
-| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Contracts Intern (Summer 2026)(Remote)](https://jobright.ai/jobs/info/69791dab88e2b47213bd391a?utm_campaign=1055&utm_source=git)** | Annapolis, MD | Remote | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
