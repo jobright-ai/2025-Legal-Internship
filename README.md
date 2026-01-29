@@ -57,15 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Longevity Holdings, Inc.](https://longevity.inc/)** | **[Summer Law Clerk Intern](https://jobright.ai/jobs/info/695ef5d90badca5763af7111?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 28 |
 | **[AFL](http://www.AFLglobal.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/697aeb7017b11b1c2e41c9a6?utm_campaign=1055&utm_source=git)** | Duncan, SC | On Site | Jan 28 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Third Party Risk Management Analyst Intern](https://jobright.ai/jobs/info/697ade52c532c4768fe094f4?utm_campaign=1055&utm_source=git)** | Wilmington, DE | Hybrid | Jan 28 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Legal Torts Intern](https://jobright.ai/jobs/info/697ac0e3f6fc293b0a2cbbc3?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 28 |
 | ↳ | **[2026-2027 Yearlong Legal Intern-General Counsel](https://jobright.ai/jobs/info/697abdec8dbbf73badc80dd0?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 28 |
 | **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Commercial P&C Intern](https://jobright.ai/jobs/info/695ed5090badca5763af4af9?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Jan 28 |
+| **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Anti-Money Laundering Intern](https://jobright.ai/jobs/info/697af5491423772304eaee69?utm_campaign=1055&utm_source=git)** | Hermitage, PA | On Site | Jan 28 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Internship - Quality Assurance/Regulatory Compliance - 10368](https://jobright.ai/jobs/info/697adad81423772304eabeb5?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jan 28 |
+| **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Third Party Risk Management Analyst Intern](https://jobright.ai/jobs/info/697af36117b11b1c2e41d59e?utm_campaign=1055&utm_source=git)** | Wilmington, Delaware, United States | Hybrid | Jan 28 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[North America Scientific and Regulatory Affairs Intern](https://jobright.ai/jobs/info/697ae5cbc532c4768fe0a0b1?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/697add271423772304eac139?utm_campaign=1055&utm_source=git)** | US-MN-Maple Grove | Hybrid | Jan 28 |
-| ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/697adf4ec532c4768fe09616?utm_campaign=1055&utm_source=git)** | Minnetonka, MN - AMS | Hybrid | Jan 28 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/697adf4ec532c4768fe09616?utm_campaign=1055&utm_source=git)** | Minnetonka, MN - AMS | Hybrid | Jan 28 |
+| ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/697add271423772304eac139?utm_campaign=1055&utm_source=git)** | US-MN-Maple Grove | Hybrid | Jan 28 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Summer 2026 Legal Intern, Special Education Unit](https://jobright.ai/jobs/info/697acef0f6fc293b0a2cc72d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
 | **[AFL](http://www.AFLglobal.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/697ac5fe9d60e431a16c6e46?utm_campaign=1055&utm_source=git)** | Duncan, South Carolina, United States | On Site | Jan 28 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/692fa27bef4b48533d1479f0?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | Jan 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Fraud Risk Management](https://jobright.ai/jobs/info/695d5ed0f5f3c43f38e226a0?utm_campaign=1055&utm_source=git)** | Jericho, NY | On Site | Jan 27 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/695d11d7f5f3c43f38e1de9d?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jan 27 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/695cee69f1f8465b79f31ac3?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 27 |
-| **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Legal Internship Summer 2026](https://jobright.ai/jobs/info/697939ca88e2b47213bd6228?utm_campaign=1055&utm_source=git)** | 3250 Van Ness Ave, San Francisco, CA, 94109, US | On Site | Jan 27 |
-| **[Group 1001](https://group1001.com/)** | **[Fraud Operations & Special Investigations Intern](https://jobright.ai/jobs/info/6979346539f7f96cc6d19b70?utm_campaign=1055&utm_source=git)** | Zionsville, Indiana | Hybrid | Jan 27 |
-| **[AltaMed Health Services](http://www.altamed.org/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6979324b52f3c27ec6457baa?utm_campaign=1055&utm_source=git)** | Commerce, CA | Hybrid | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
