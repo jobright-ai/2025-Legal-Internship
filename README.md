@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Razer Inc.](https://www.razer.com)** | **[Legal Intern (Hourly)](https://jobright.ai/jobs/info/696abd0d350cf4380311c806?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Jan 29 |
+| **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Security Risk & Compliance Intern](https://jobright.ai/jobs/info/697c45170b88cc7d64235c8c?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Jan 29 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/696026607ebc25398eb6174d?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Jan 29 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Federal Cyber Security Services / McLean Summer 2026](https://jobright.ai/jobs/info/697c41d01423772304ecb770?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Jan 29 |
 | **[WesBanco](http://wesbanco.com)** | **[Intern - Securities Administration](https://jobright.ai/jobs/info/697c3eb81423772304ecb56e?utm_campaign=1055&utm_source=git)** | Wheeling, WV | On Site | Jan 29 |
@@ -128,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Commercial P&C Intern](https://jobright.ai/jobs/info/695ed5090badca5763af4af9?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Jan 28 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Internship - Quality Assurance/Regulatory Compliance - 10368](https://jobright.ai/jobs/info/697adad81423772304eabeb5?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jan 28 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Third Party Risk Management Analyst Intern](https://jobright.ai/jobs/info/697af36117b11b1c2e41d59e?utm_campaign=1055&utm_source=git)** | Wilmington, Delaware, United States | Hybrid | Jan 28 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/697adf4ec532c4768fe09616?utm_campaign=1055&utm_source=git)** | Minnetonka, MN - AMS | Hybrid | Jan 28 |
-| ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/697add271423772304eac139?utm_campaign=1055&utm_source=git)** | US-MN-Maple Grove | Hybrid | Jan 28 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/697add271423772304eac139?utm_campaign=1055&utm_source=git)** | US-MN-Maple Grove | Hybrid | Jan 28 |
+| ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/697adf4ec532c4768fe09616?utm_campaign=1055&utm_source=git)** | Minnetonka, MN - AMS | Hybrid | Jan 28 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Summer 2026 Legal Intern, Special Education Unit](https://jobright.ai/jobs/info/697acef0f6fc293b0a2cc72d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
 | **[AFL](http://www.AFLglobal.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/697ac5fe9d60e431a16c6e46?utm_campaign=1055&utm_source=git)** | Duncan, South Carolina, United States | On Site | Jan 28 |
 | **[ePayPolicy](https://epaypolicy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697b91611136d179eeef09f9?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Jan 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tarsus Pharmaceuticals, Inc.](https://www.tarsusrx.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/697a7f66f6fc293b0a2c51c8?utm_campaign=1055&utm_source=git)** | Orange County, CA | Hybrid | Jan 28 |
 | **[Law Offices of Sabrina Li, P.C.](https://www.sabrinali.law/)** | **[Bilingual Legal Intern (Mandarin/Spanish)](https://jobright.ai/jobs/info/697b8c711136d179eeef0805?utm_campaign=1055&utm_source=git)** | Santa Ana, CA | On Site | Jan 28 |
 | ↳ | **[Bilingual Legal Intern (Mandarin/Spanish)](https://jobright.ai/jobs/info/697b88921136d179eeef0626?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 28 |
-| ↳ | **[Bilingual Legal Intern (Mandarin/Spanish)](https://jobright.ai/jobs/info/697b891f1136d179eeef067e?utm_campaign=1055&utm_source=git)** | Pasadena, CA | On Site | Jan 28 |
-| **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Summer Legal Intern](https://jobright.ai/jobs/info/697a5c0ea8de441ca73583ac?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
