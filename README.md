@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney's Office Brave Justice Summer 2026 Legal Internship](https://jobright.ai/jobs/info/687e9e51db19f31cf0d6bba0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 30 |
+| **[AARP](http://www.aarp.org)** | **[Fraud Watch Network and Prevention Intern](https://jobright.ai/jobs/info/6944ec9494730b73987834d8?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jan 30 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Corporate Compliance Summer Intern](https://jobright.ai/jobs/info/697cbcd8137a05102565b788?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 30 |
+| **[New Era Cap](https://www.neweracap.com/)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/696088637ebc25398eb67447?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Jan 30 |
 | **[ASML](https://www.asml.com)** | **[Internship - US Legal & Compliance](https://jobright.ai/jobs/info/69449aa2a7227b3ece663509?utm_campaign=1055&utm_source=git)** | Chandler, AZ | Hybrid | Jan 30 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Corporate Legal](https://jobright.ai/jobs/info/6960fee4a112b402660f8711?utm_campaign=1055&utm_source=git)** | Chesterfield, MO | Hybrid | Jan 30 |
+| **[CN](http://www.cn.ca)** | **[Intern, Legal - Indigenous- EN](https://jobright.ai/jobs/info/695b71d69f1b381eb273d141?utm_campaign=1055&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 30 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Regulatory Affairs, Global Rare Diseases - Summer 2026](https://jobright.ai/jobs/info/69449a0294730b739877ceb0?utm_campaign=1055&utm_source=git)** | Cary, NC | Hybrid | Jan 30 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Branded Television Business Affairs JD Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697ca2bf137a0510256591f1?utm_campaign=1055&utm_source=git)** | Glendale, CA | On Site | Jan 30 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Legal Intern](https://jobright.ai/jobs/info/697c9279727747250d574ed5?utm_campaign=1055&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lennox](http://www.lennox.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/697aa5fb8dbbf73badc7e334?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Jan 28 |
 | **[Equinix](http://www.equinix.com)** | **[Risk Management and Insurance Intern](https://jobright.ai/jobs/info/697a85059d60e431a16c097b?utm_campaign=1055&utm_source=git)** | Redwood City, CA | Hybrid | Jan 28 |
 | **[Berkley Accident and Health (a Berkley Company)](http://berkleyah.com)** | **[Intern- Underwriting Specialty Accident](https://jobright.ai/jobs/info/697a84e7f6fc293b0a2c5a49?utm_campaign=1055&utm_source=git)** | Hamilton Square, NJ | On Site | Jan 28 |
-| **[The Greater Springfield Chamber of Commerce](http://www.gscc.org)** | **[INTERNAL INVESTIGATIONS MANAGER/STAFF ATTORNEY](https://jobright.ai/jobs/info/697aa762f6fc293b0a2c90a9?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Jan 28 |
-| **[Kobre & Kim](https://kobrekim.com/)** | **[Litigation Internship - June 2026](https://jobright.ai/jobs/info/697a80948dbbf73badc7a608?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 28 |
-| **[Oliva Gibbs](https://www.kolawllp.com)** | **[Law Clerk (Oklahoma City, OK)](https://jobright.ai/jobs/info/685b0b721fe76f13ca7b5ef1?utm_campaign=1055&utm_source=git)** | Edmond, OK | On Site | Jan 28 |
-| **[Kobre & Kim](https://kobrekim.com/)** | **[Litigation Internship - June 2026](https://jobright.ai/jobs/info/697a7ad2f6fc293b0a2c4d11?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
-| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Governance, Risk, and Compliance](https://jobright.ai/jobs/info/697a9ae48dbbf73badc7d746?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
