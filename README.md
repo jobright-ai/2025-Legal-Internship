@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[SRA- Intern](https://jobright.ai/jobs/info/697c7bc5137a051025657f6e?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 30 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/697c56203f57a33569660732?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 29 |
 | **[Razer Inc.](https://www.razer.com)** | **[Legal Intern (Hourly)](https://jobright.ai/jobs/info/696abd0d350cf4380311c806?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Jan 29 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Security Risk & Compliance Intern](https://jobright.ai/jobs/info/697c45170b88cc7d64235c8c?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Jan 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kaplan Law Firm](http://www.kaplanlawatx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697a746e9d60e431a16bf2ac?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Jan 28 |
 | **[AUMOVIO](https://www.aumovio.com)** | **[Customs Trade - Internship](https://jobright.ai/jobs/info/696aa3e3db26b618950dcbe1?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Jan 28 |
 | **[Tarsus Pharmaceuticals, Inc.](https://www.tarsusrx.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/697a7f66f6fc293b0a2c51c8?utm_campaign=1055&utm_source=git)** | Orange County, CA | Hybrid | Jan 28 |
-| **[Law Offices of Sabrina Li, P.C.](https://www.sabrinali.law/)** | **[Bilingual Legal Intern (Mandarin/Spanish)](https://jobright.ai/jobs/info/697b8c711136d179eeef0805?utm_campaign=1055&utm_source=git)** | Santa Ana, CA | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
