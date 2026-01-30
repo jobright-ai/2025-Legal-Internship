@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | **[Accertify, Inc.](http://www.accertify.com)** | **[Strategic Risk Services Intern](https://jobright.ai/jobs/info/697bd06d1136d179eeef55ff?utm_campaign=1055&utm_source=git)** | Accertify Inc, Itasca, IL, US | On Site | Jan 29 |
 | **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/697bcf880b88cc7d64229c5e?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Jan 29 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Surveillance Compliance Intern](https://jobright.ai/jobs/info/68cf639e846f0b04af681bd4?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Jan 29 |
+| **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Legal Intern - Employment](https://jobright.ai/jobs/info/697beb580b88cc7d6422d22c?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Jan 29 |
 | **[ST Engineering iDirect](http://www.idirect.net)** | **[Intern Legal](https://jobright.ai/jobs/info/697904ae52f3c27ec6454e28?utm_campaign=1055&utm_source=git)** | Herndon, VA | Hybrid | Jan 29 |
 | **[BMO](http://www.bmo.com)** | **[Anti-Money Laundering Analyst - Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/697bc3311136d179eeef47ec?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 29 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697bc0c81423772304ebed27?utm_campaign=1055&utm_source=git)** | Hershey, PA 17033, USA | On Site | Jan 29 |
@@ -137,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Kaplan Law Firm](http://www.kaplanlawatx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697a746e9d60e431a16bf2ac?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Jan 28 |
 | **[AUMOVIO](https://www.aumovio.com)** | **[Customs Trade - Internship](https://jobright.ai/jobs/info/696aa3e3db26b618950dcbe1?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Jan 28 |
 | **[Tarsus Pharmaceuticals, Inc.](https://www.tarsusrx.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/697a7f66f6fc293b0a2c51c8?utm_campaign=1055&utm_source=git)** | Orange County, CA | Hybrid | Jan 28 |
-| **[Law Offices of Sabrina Li, P.C.](https://www.sabrinali.law/)** | **[Bilingual Legal Intern (Mandarin/Spanish)](https://jobright.ai/jobs/info/697b88921136d179eeef0626?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 28 |
-| ↳ | **[Bilingual Legal Intern (Mandarin/Spanish)](https://jobright.ai/jobs/info/697b8c711136d179eeef0805?utm_campaign=1055&utm_source=git)** | Santa Ana, CA | On Site | Jan 28 |
+| **[Law Offices of Sabrina Li, P.C.](https://www.sabrinali.law/)** | **[Bilingual Legal Intern (Mandarin/Spanish)](https://jobright.ai/jobs/info/697b8c711136d179eeef0805?utm_campaign=1055&utm_source=git)** | Santa Ana, CA | On Site | Jan 28 |
+| ↳ | **[Bilingual Legal Intern (Mandarin/Spanish)](https://jobright.ai/jobs/info/697b88921136d179eeef0626?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 28 |
 | ↳ | **[Bilingual Legal Intern (Mandarin/Spanish)](https://jobright.ai/jobs/info/697b891f1136d179eeef067e?utm_campaign=1055&utm_source=git)** | Pasadena, CA | On Site | Jan 28 |
 | **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Summer Legal Intern](https://jobright.ai/jobs/info/697a5c0ea8de441ca73583ac?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 28 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/697a5903a5b9804527e029ec?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Hybrid | Jan 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CN](http://www.cn.ca)** | **[Intern, Third Party Risk Management- EN](https://jobright.ai/jobs/info/696548e12cbf4e44756ebb6d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 28 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer 2026 Regulatory Policy Intern](https://jobright.ai/jobs/info/697aa068f6fc293b0a2c87a7?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Jan 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Law (Risk Mitigation) US- FR](https://jobright.ai/jobs/info/6929f28266796e3028f8db4c?utm_campaign=1055&utm_source=git)** | Homewood, IL | On Site | Jan 28 |
-| ↳ | **[Intern, Law (Regulatory Affairs) US- EN](https://jobright.ai/jobs/info/69723049cda18b74386493b9?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
