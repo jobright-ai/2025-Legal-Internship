@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2026 Summer Legal Intern](https://jobright.ai/jobs/info/697c19a21423772304ec71e7?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 29 |
+| **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Intern - IT Risk & Compliance Analyst (Summer 2026)](https://jobright.ai/jobs/info/697c197d0b88cc7d64230fe0?utm_campaign=1055&utm_source=git)** | Québec, Quebec, Canada | Hybrid | Jan 29 |
+| **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Legal Intern - Employment](https://jobright.ai/jobs/info/697c19511136d179eeefc6ef?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Jan 29 |
+| **[KCH Transportation](https://www.kchtrans.com)** | **[Carrier Compliance Intern](https://jobright.ai/jobs/info/69602feea1bbea1d9a7b03e3?utm_campaign=1055&utm_source=git)** | Chattanooga, TN | On Site | Jan 29 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Enterprise Compliance](https://jobright.ai/jobs/info/69605157a112b402660f1829?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Jan 29 |
 | **[ASICS America Corporation](https://www.asicsamerica.com)** | **[Summer Internship - Legal Assistant Intern](https://jobright.ai/jobs/info/6975a000206da320f49fabde?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jan 29 |
 | **[Nucor Rebar Fabrication](https://www.harrisrebar.com/index.php)** | **[Legal Intern 2026](https://jobright.ai/jobs/info/69602024a112b402660ed766?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | On Site | Jan 29 |
+| **[Shift Markets](https://www.shiftmarkets.com/)** | **[Legal & Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/697c1d040b88cc7d642317bf?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Baird Trust Legal Intern (Year-Round)](https://jobright.ai/jobs/info/697bd60d1136d179eeef62dc?utm_campaign=1055&utm_source=git)** | KY-Louisville | On Site | Jan 29 |
 | **[Accertify, Inc.](http://www.accertify.com)** | **[Strategic Risk Services Intern](https://jobright.ai/jobs/info/697bd3471136d179eeef5c6f?utm_campaign=1055&utm_source=git)** | Itasca, IL | Hybrid | Jan 29 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/697bf1191136d179eeef9307?utm_campaign=1055&utm_source=git)** | Winter Park, FL | On Site | Jan 29 |
@@ -118,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Commercial P&C Intern](https://jobright.ai/jobs/info/695ed5090badca5763af4af9?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Jan 28 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Internship - Quality Assurance/Regulatory Compliance - 10368](https://jobright.ai/jobs/info/697adad81423772304eabeb5?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jan 28 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Third Party Risk Management Analyst Intern](https://jobright.ai/jobs/info/697af36117b11b1c2e41d59e?utm_campaign=1055&utm_source=git)** | Wilmington, Delaware, United States | Hybrid | Jan 28 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/697adf4ec532c4768fe09616?utm_campaign=1055&utm_source=git)** | Minnetonka, MN - AMS | Hybrid | Jan 28 |
-| ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/697add271423772304eac139?utm_campaign=1055&utm_source=git)** | US-MN-Maple Grove | Hybrid | Jan 28 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/697add271423772304eac139?utm_campaign=1055&utm_source=git)** | US-MN-Maple Grove | Hybrid | Jan 28 |
+| ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/697adf4ec532c4768fe09616?utm_campaign=1055&utm_source=git)** | Minnetonka, MN - AMS | Hybrid | Jan 28 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Summer 2026 Legal Intern, Special Education Unit](https://jobright.ai/jobs/info/697acef0f6fc293b0a2cc72d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
 | **[AFL](http://www.AFLglobal.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/697ac5fe9d60e431a16c6e46?utm_campaign=1055&utm_source=git)** | Duncan, South Carolina, United States | On Site | Jan 28 |
 | **[ePayPolicy](https://epaypolicy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697b91611136d179eeef09f9?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Jan 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[Legal Intern - Graduate](https://jobright.ai/jobs/info/6972e83f0488fd59f7d5e586?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jan 28 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/697a76c0f6fc293b0a2c47d6?utm_campaign=1055&utm_source=git)** | US-TX-Richardson | On Site | Jan 28 |
 | **[Symetra](http://www.symetra.com)** | **[2026 Stop Loss Claims Internship - Remote](https://jobright.ai/jobs/info/697a4afbb4589b4ee87c98a7?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 28 |
-| **[Tarsus Pharmaceuticals, Inc.](https://www.tarsusrx.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/697a4a94a5b9804527e020b3?utm_campaign=1055&utm_source=git)** | Irvine, California, United States | Hybrid | Jan 28 |
-| **[CBIZ](http://www.cbiz.com)** | **[National Attest Operations Intern / Summer 2026](https://jobright.ai/jobs/info/697a48e0b4589b4ee87c96d3?utm_campaign=1055&utm_source=git)** | 730 3rd Ave, 11th Floor, New York, NY, 10017, US | On Site | Jan 28 |
-| ↳ | **[National Attest Operations Intern / Summer 2026](https://jobright.ai/jobs/info/697a3b8bb4589b4ee87c7718?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 28 |
-| **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern - Pharmacy Compliance](https://jobright.ai/jobs/info/697a399fb4589b4ee87c75fb?utm_campaign=1055&utm_source=git)** | Lakeland, FL | On Site | Jan 28 |
-| **[New Jersey Institute for Social Justice](http://www.njisj.org/)** | **[Litigation Intern (Law Student, Paid, Full-Time, Hybrid) Summer 2026](https://jobright.ai/jobs/info/697a469db4589b4ee87c8ffe?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
