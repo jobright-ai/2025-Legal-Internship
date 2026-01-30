@@ -57,15 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/697cf91e137a05102565f355?utm_campaign=1055&utm_source=git)** | Newark, NJ | On Site | Jan 30 |
+| **[Rossen Law Firm](http://www.criminal-defense-dui.lawyer)** | **[Criminal Law Intern](https://jobright.ai/jobs/info/697cf9043f57a3356966b31a?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 30 |
+| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/697cf4713f57a3356966b041?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jan 30 |
+| ↳ | **[Summer Legal Intern](https://jobright.ai/jobs/info/697cf25c727747250d57ac96?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Jan 30 |
+| ↳ | **[Summer Legal Intern](https://jobright.ai/jobs/info/697cf0133f57a3356966a200?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 30 |
+| **[Artisan Partners](https://www.apam.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/697cef1b727747250d579fbf?utm_campaign=1055&utm_source=git)** | Milwaukee | On Site | Jan 30 |
 | **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Legal Intern - Employment](https://jobright.ai/jobs/info/697ce5f63f57a33569668eb1?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Jan 30 |
 | **[Nexteer Automotive](http://www.nexteer.com/)** | **[Intellectual Property Counsel Internship 2026](https://jobright.ai/jobs/info/697cde6f727747250d578c76?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | Hybrid | Jan 30 |
 | ↳ | **[Intellectual Property Counsel Internship 2026](https://jobright.ai/jobs/info/697cd82c727747250d5789fe?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI, US | Hybrid | Jan 30 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Year-Round Tax Legal Intern](https://jobright.ai/jobs/info/697cd432137a05102565c62d?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | On Site | Jan 30 |
 | **[Virtua Health](https://www.virtua.org/)** | **[Legal Internship](https://jobright.ai/jobs/info/697cd3c1137a05102565c5e8?utm_campaign=1055&utm_source=git)** | Marlton, NJ | Hybrid | Jan 30 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Year-Round Tax Legal Intern](https://jobright.ai/jobs/info/697cd247137a05102565c54b?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Jan 30 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/697cf3803f57a3356966af1e?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 30 |
 | **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney's Office Brave Justice Summer 2026 Legal Internship](https://jobright.ai/jobs/info/687e9e51db19f31cf0d6bba0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 30 |
 | **[AARP](http://www.aarp.org)** | **[Fraud Watch Network and Prevention Intern](https://jobright.ai/jobs/info/6944ec9494730b73987834d8?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jan 30 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Corporate Compliance Summer Intern](https://jobright.ai/jobs/info/697cbcd8137a05102565b788?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 30 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/696088637ebc25398eb67447?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Jan 30 |
 | **[ASML](https://www.asml.com)** | **[Internship - US Legal & Compliance](https://jobright.ai/jobs/info/69449aa2a7227b3ece663509?utm_campaign=1055&utm_source=git)** | Chandler, AZ | Hybrid | Jan 30 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Corporate Legal](https://jobright.ai/jobs/info/6960fee4a112b402660f8711?utm_campaign=1055&utm_source=git)** | Chesterfield, MO | Hybrid | Jan 30 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Commercial P&C Intern](https://jobright.ai/jobs/info/695ed5090badca5763af4af9?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Jan 28 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Internship - Quality Assurance/Regulatory Compliance - 10368](https://jobright.ai/jobs/info/697adad81423772304eabeb5?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jan 28 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Third Party Risk Management Analyst Intern](https://jobright.ai/jobs/info/697af36117b11b1c2e41d59e?utm_campaign=1055&utm_source=git)** | Wilmington, Delaware, United States | Hybrid | Jan 28 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/697adf4ec532c4768fe09616?utm_campaign=1055&utm_source=git)** | Minnetonka, MN - AMS | Hybrid | Jan 28 |
-| ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/697add271423772304eac139?utm_campaign=1055&utm_source=git)** | US-MN-Maple Grove | Hybrid | Jan 28 |
-| **[New York Legal Assistance Group](https://www.nylag.org)** | **[Summer 2026 Legal Intern, Special Education Unit](https://jobright.ai/jobs/info/697acef0f6fc293b0a2cc72d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
-| **[AFL](http://www.AFLglobal.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/697ac5fe9d60e431a16c6e46?utm_campaign=1055&utm_source=git)** | Duncan, South Carolina, United States | On Site | Jan 28 |
-| **[ePayPolicy](https://epaypolicy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697b91611136d179eeef09f9?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Jan 28 |
-| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/692fa27bef4b48533d1479f0?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
