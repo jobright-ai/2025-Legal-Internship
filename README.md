@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Howmet Aerospace](https://www.howmet.com)** | **[Trade Compliance Summer Intern](https://jobright.ai/jobs/info/697d65e93f57a335696748ad?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Jan 30 |
+| **[Teleflex](http://www.teleflex.com)** | **[Compliance Intern, Global Business Practices](https://jobright.ai/jobs/info/69618af3e7ed9a5731ba67ba?utm_campaign=1055&utm_source=git)** | Wayne, PA | Hybrid | Jan 30 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - Phoenix, AZ](https://jobright.ai/jobs/info/697d64ef727747250d5848ee?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Jan 30 |
+| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Litigation Specialist Intern](https://jobright.ai/jobs/info/697d5e47137a051025667e9c?utm_campaign=1055&utm_source=git)** | Riverside, CA | Hybrid | Jan 30 |
 | **[AM General LLC](http://www.amgeneral.com)** | **[Internship: Legal - Compliance & Security](https://jobright.ai/jobs/info/697d5c80727747250d583f66?utm_campaign=1055&utm_source=git)** | South Bend, Indiana, United States | On Site | Jan 30 |
 | **[Construction Specialties](https://www.c-sgroup.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/697d5c43137a051025667bec?utm_campaign=1055&utm_source=git)** | Lebanon, NJ | Hybrid | Jan 30 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Safety Data Sheet Product Formulation & Compliance Specialist Intern](https://jobright.ai/jobs/info/697d4f043f57a33569671b76?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jan 30 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong FOIA Paralegal Intern](https://jobright.ai/jobs/info/697d66ee3f57a33569674a25?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
+| **[Construction Specialties](https://www.c-sgroup.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/697d663c137a051025668782?utm_campaign=1055&utm_source=git)** | US-NJ-Lebanon | Hybrid | Jan 30 |
+| **[National Fair Housing Alliance](https://nationalfairhousing.org)** | **[Summer Law Clerk (Unpaid Internship)](https://jobright.ai/jobs/info/697d63ac3f57a335696745bc?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | **[MGM Resorts International](http://mgmresorts.com)** | **[Law Clerk (Internship)](https://jobright.ai/jobs/info/6978316439f7f96cc6d079b7?utm_campaign=1055&utm_source=git)** | LV Metro Area | On Site | Jan 30 |
 | **[Grifols](http://www.grifols.com)** | **[Contract Operations Intern - Summer](https://jobright.ai/jobs/info/697d3c86137a051025664bea?utm_campaign=1055&utm_source=git)** | North Carolina, United States | On Site | Jan 30 |
 | **[Rivian](http://www.rivian.com)** | **[JD Intern - Intellectual Property](https://jobright.ai/jobs/info/697d376e3f57a33569670585?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Jan 30 |
@@ -89,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Rivian](http://www.rivian.com)** | **[JD Intern - Intellectual Property](https://jobright.ai/jobs/info/697d10b5727747250d57c6ea?utm_campaign=1055&utm_source=git)** | US-CA-Irvine | On Site | Jan 30 |
 | ↳ | **[JD Intern - Intellectual Property](https://jobright.ai/jobs/info/697d12e9137a05102566086d?utm_campaign=1055&utm_source=git)** | Irvine, CA, US | On Site | Jan 30 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[Legal, Regulatory, & Enforcement Intern - LREP-2026-10i](https://jobright.ai/jobs/info/697d1b6a137a051025661321?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Jan 30 |
-| ↳ | **[Administrative Hearings & Dispute Resolution Intern - OAHDR-2026-11i](https://jobright.ai/jobs/info/697d0e5f727747250d57c502?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Jan 30 |
 | ↳ | **[Legal Intern - LEGAL-2026-8i](https://jobright.ai/jobs/info/697d174b137a051025660dab?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Jan 30 |
+| ↳ | **[Administrative Hearings & Dispute Resolution Intern - OAHDR-2026-11i](https://jobright.ai/jobs/info/697d0e5f727747250d57c502?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Jan 30 |
 | **[Artisan Partners](https://www.apam.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/697cef1b727747250d579fbf?utm_campaign=1055&utm_source=git)** | Milwaukee | On Site | Jan 30 |
 | **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Legal Intern - Employment](https://jobright.ai/jobs/info/697ce5f63f57a33569668eb1?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Jan 30 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/697d04e2137a05102565f9ec?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Jan 30 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Patent Legal Intern](https://jobright.ai/jobs/info/690ac4234a1b456627b0b2d3?utm_campaign=1055&utm_source=git)** | Everett, WA | Hybrid | Jan 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Branded Television Business Affairs JD Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697bd5241136d179eeef60e0?utm_campaign=1055&utm_source=git)** | Glendale, CA, USA | Hybrid | Jan 29 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Anti Money Laundering Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/697bd6260b88cc7d6422ab19?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 29 |
-| **[BMO](http://www.bmo.com)** | **[Anti Money Laundering Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/697bacce1423772304ebd8e2?utm_campaign=1055&utm_source=git)** | Chicago, IL, USA | On Site | Jan 29 |
-| **[Align Technology](http://www.aligntech.com)** | **[AI & Corporate Governance Legal Intern](https://jobright.ai/jobs/info/697ba7540b88cc7d6422761a?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Jan 29 |
-| **[Realty Operations Group](https://www.realtyoperations.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/697ba2201423772304ebcc38?utm_campaign=1055&utm_source=git)** | Jersey City, NJ, US | On Site | Jan 29 |
-| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Real Estate Governance Intern](https://jobright.ai/jobs/info/697ba09e1423772304ebc6a5?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Jan 29 |
-| **[Oracle](https://www.oracle.com/)** | **[Real Estate Governance Intern](https://jobright.ai/jobs/info/697b9e040b88cc7d64226008?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | On Site | Jan 29 |
-| **[Markel](http://www.markel.com)** | **[Legal and Compliance Intern](https://jobright.ai/jobs/info/697b9d6b1136d179eeef291f?utm_campaign=1055&utm_source=git)** | Rosemont IL | On Site | Jan 29 |
-| **[United States Senate Sergeant at Arms](https://www.senate.gov/about/officers-staff/sergeant-at-arms.htm)** | **[Summer Extern](https://jobright.ai/jobs/info/697bba041423772304ebe531?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
