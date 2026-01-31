@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/697e30557f40342e15d6fe0d?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 31 |
+| **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Legal Internship - Spring 2026 (Dallas)](https://jobright.ai/jobs/info/697e30187f40342e15d6fdf8?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
+| ↳ | **[Legal Internship - Summer 2026 (Dallas)](https://jobright.ai/jobs/info/697e2f56ce48107c05426442?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Future Opportunities Intern Quality & Regulatory Compliance - Digital Quality (Summer 2026)](https://jobright.ai/jobs/info/697e1669ce48107c05425bf7?utm_campaign=1055&utm_source=git)** | Hershey, PA | Remote | Jan 31 |
 | **[AARP](http://www.aarp.org)** | **[Legal Counsel for the Elderly Intern (Summer)](https://jobright.ai/jobs/info/6961adc3f3f4cd132506b515?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 31 |
 | **[Wikimedia Foundation](http://wikimediafoundation.org)** | **[Legal Fellow (Summer 2026)](https://jobright.ai/jobs/info/695dcd4816906f25775f8c0a?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Regulatory Legal Intern](https://jobright.ai/jobs/info/697c30261136d179eeefeaee?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 29 |
 | **[ASICS America Corporation](https://www.asicsamerica.com)** | **[Summer Internship - Legal Assistant Intern](https://jobright.ai/jobs/info/6975a000206da320f49fabde?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jan 29 |
 | **[Nucor Rebar Fabrication](https://www.harrisrebar.com/index.php)** | **[Legal Intern 2026](https://jobright.ai/jobs/info/69602024a112b402660ed766?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | On Site | Jan 29 |
-| **[California ISO](http://www.caiso.com/)** | **[Legal Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/697c2e181136d179eeefe7ed?utm_campaign=1055&utm_source=git)** | 250 Outcropping Way, Folsom, CA 95630, USA | Remote | Jan 29 |
-| **[Shift Markets](https://www.shiftmarkets.com/)** | **[Legal & Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/697c1d040b88cc7d642317bf?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
-| **[Harvey](https://harvey.ai)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/697d0790137a05102565fc05?utm_campaign=1055&utm_source=git)** | New York | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
