@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Old National Bank](http://www.oldnational.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6945b080951654073537caea?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
+| **[Computershare Canada](http://www.computershare.com/ca/en)** | **[Internship-Associate Trust Officer](https://jobright.ai/jobs/info/6961cbaef3f4cd132506cd56?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 31 |
 | **[DESRI](https://desri.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd6643b2a74e1837ed68e5?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 31 |
 | **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Ambler, Regulatory Compliance](https://jobright.ai/jobs/info/6945b7c0d1953b5d11beb746?utm_campaign=1055&utm_source=git)** | Ambler, PA | Hybrid | Jan 31 |
 | **[Investors Title Company and Affiliates](http://www.invtitle.com/)** | **[Title Navigator Internship / Early Career](https://jobright.ai/jobs/info/697c6a43137a051025655651?utm_campaign=1055&utm_source=git)** | North Carolina, United States | On Site | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/697bcf880b88cc7d64229c5e?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Jan 29 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Surveillance Compliance Intern](https://jobright.ai/jobs/info/68cf639e846f0b04af681bd4?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Jan 29 |
 | **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Legal Intern - Employment](https://jobright.ai/jobs/info/697beb580b88cc7d6422d22c?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Jan 29 |
-| **[ST Engineering iDirect](http://www.idirect.net)** | **[Intern Legal](https://jobright.ai/jobs/info/697904ae52f3c27ec6454e28?utm_campaign=1055&utm_source=git)** | Herndon, VA | Hybrid | Jan 29 |
-| **[BMO](http://www.bmo.com)** | **[Anti-Money Laundering Analyst - Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/697bc3311136d179eeef47ec?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
