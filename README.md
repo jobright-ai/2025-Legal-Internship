@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TruStage](https://www.trustage.com/)** | **[Legal Research Internship (Hybrid)](https://jobright.ai/jobs/info/697d70dd137a0510256693cc?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Jan 30 |
+| **[Pace Suburban Bus](https://pacebus.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/697d83f8ce48107c0541b5cb?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | On Site | Jan 30 |
+| **[TruStage](https://www.trustage.com/)** | **[Legal Research Internship (Hybrid)](https://jobright.ai/jobs/info/697d830f7f40342e15d64d0c?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Jan 30 |
+| ↳ | **[Legal Research Internship (Hybrid)](https://jobright.ai/jobs/info/697d70dd137a0510256693cc?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Jan 30 |
 | **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2026 Summer Legal Intern](https://jobright.ai/jobs/info/697d6e80137a051025669183?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Imperial PFS](https://www.ipfs.com)** | **[Paralegal /Legal Intern](https://jobright.ai/jobs/info/697d6e303f57a335696752e9?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Jan 30 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Trade Compliance Summer Intern](https://jobright.ai/jobs/info/697d65e93f57a335696748ad?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Jan 30 |
@@ -75,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Rivian](http://www.rivian.com)** | **[JD Intern - Intellectual Property](https://jobright.ai/jobs/info/697d376e3f57a33569670585?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Jan 30 |
 | **[Vialto Partners](https://vialtopartners.com/)** | **[Global Mobility/Immigration Legal - Intern](https://jobright.ai/jobs/info/697d2edf137a051025663786?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 30 |
 | **[STERIS](http://steris.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/697d2ca2137a051025663191?utm_campaign=1055&utm_source=git)** | Mentor, OH, US, 44060 | Hybrid | Jan 30 |
-| **[Imperial PFS](https://www.ipfs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697d2631137a0510256621a4?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Jan 30 |
+| **[Imperial PFS](https://www.ipfs.com)** | **[Paralegal /Legal Intern](https://jobright.ai/jobs/info/697d2631137a0510256621a4?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Jan 30 |
 | **[Beazley](http://www.beazley.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/697d25c0727747250d57e168?utm_campaign=1055&utm_source=git)** | West Hartford, CT | On Site | Jan 30 |
 | **[Fuyao Group](http://www.fuyaogroup.com)** | **[Legal Intern - Campus Recruiting - Legal Dept](https://jobright.ai/jobs/info/697d24e0727747250d57df8e?utm_campaign=1055&utm_source=git)** | Moraine, OH, US | On Site | Jan 30 |
 | **[Artisan Partners](https://www.apam.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/697d244e727747250d57de65?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Jan 30 |
@@ -124,6 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Razer Inc.](https://www.razer.com)** | **[Legal Intern (Hourly)](https://jobright.ai/jobs/info/696abd0d350cf4380311c806?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Jan 29 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Security Risk & Compliance Intern](https://jobright.ai/jobs/info/697c45170b88cc7d64235c8c?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Jan 29 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/696026607ebc25398eb6174d?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Jan 29 |
+| **[AM General LLC](http://www.amgeneral.com)** | **[Internship: Legal - Compliance & Security](https://jobright.ai/jobs/info/697d8db47f40342e15d6709f?utm_campaign=1055&utm_source=git)** | South Bend, IN | On Site | Jan 29 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Federal Cyber Security Services / McLean Summer 2026](https://jobright.ai/jobs/info/697c41d01423772304ecb770?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Jan 29 |
 | **[WesBanco](http://wesbanco.com)** | **[Intern - Securities Administration](https://jobright.ai/jobs/info/697c3eb81423772304ecb56e?utm_campaign=1055&utm_source=git)** | Wheeling, WV | On Site | Jan 29 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Procurement - Internship](https://jobright.ai/jobs/info/697c38460b88cc7d64233e4b?utm_campaign=1055&utm_source=git)** | Salinas, CA | On Site | Jan 29 |
@@ -131,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2026 Summer Legal Intern](https://jobright.ai/jobs/info/697c19a21423772304ec71e7?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 29 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Intern - IT Risk & Compliance Analyst (Summer 2026)](https://jobright.ai/jobs/info/697c197d0b88cc7d64230fe0?utm_campaign=1055&utm_source=git)** | Québec, Quebec, Canada | Hybrid | Jan 29 |
 | **[KCH Transportation](https://www.kchtrans.com)** | **[Carrier Compliance Intern](https://jobright.ai/jobs/info/69602feea1bbea1d9a7b03e3?utm_campaign=1055&utm_source=git)** | Chattanooga, TN | On Site | Jan 29 |
-| **[Valley Bank](https://www.valley.com/)** | **[Intern - Enterprise Compliance](https://jobright.ai/jobs/info/69605157a112b402660f1829?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Jan 29 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Regulatory Legal Intern](https://jobright.ai/jobs/info/697c30261136d179eeefeaee?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 29 |
 | **[ASICS America Corporation](https://www.asicsamerica.com)** | **[Summer Internship - Legal Assistant Intern](https://jobright.ai/jobs/info/6975a000206da320f49fabde?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jan 29 |
 | **[Nucor Rebar Fabrication](https://www.harrisrebar.com/index.php)** | **[Legal Intern 2026](https://jobright.ai/jobs/info/69602024a112b402660ed766?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | On Site | Jan 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Security Strategy and Program Management](https://jobright.ai/jobs/info/697bbad80b88cc7d64228666?utm_campaign=1055&utm_source=git)** | Plainsboro, NJ | On Site | Jan 29 |
 | **[Pacira BioSciences, Inc.](http://www.pacira.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6957e86baa05c26e7ab1d333?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jan 29 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69104536988c2b7b4ec50c5d?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Jan 29 |
-| **[Spire](https://www.spireenergy.com/)** | **[Intern, Pipeline Safety Compliance](https://jobright.ai/jobs/info/692757ecd47de4798ecdb9d2?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Jan 29 |
-| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Patent Legal Intern](https://jobright.ai/jobs/info/690ac4234a1b456627b0b2d3?utm_campaign=1055&utm_source=git)** | Everett, WA | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
