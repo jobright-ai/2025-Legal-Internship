@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Ambler, Regulatory Compliance](https://jobright.ai/jobs/info/6945b7c0d1953b5d11beb746?utm_campaign=1055&utm_source=git)** | Ambler, PA | Hybrid | Jan 31 |
+| **[Investors Title Company and Affiliates](http://www.invtitle.com/)** | **[Title Navigator Internship / Early Career](https://jobright.ai/jobs/info/697c6a43137a051025655651?utm_campaign=1055&utm_source=git)** | North Carolina, United States | On Site | Jan 31 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Intern - Management Liability](https://jobright.ai/jobs/info/69619bf8e7ed9a5731ba760c?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
 | **[Camping World](https://investor.campingworld.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/697c694a3f57a33569661996?utm_campaign=1055&utm_source=git)** | Lincolnshire, IL | Hybrid | Jan 31 |
 | **[VertoTech](vertotech.us)** | **[Corporate Compliance Summer Intern](https://jobright.ai/jobs/info/697dbddf7f40342e15d6a157?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 31 |
@@ -85,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Fuyao Group](http://www.fuyaogroup.com)** | **[Legal Intern - Campus Recruiting - Legal Dept](https://jobright.ai/jobs/info/697d24e0727747250d57df8e?utm_campaign=1055&utm_source=git)** | Moraine, OH, US | On Site | Jan 30 |
 | **[Artisan Partners](https://www.apam.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/697d244e727747250d57de65?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Jan 30 |
 | **[STERIS](http://steris.com)** | **[Privacy Compliance Intern](https://jobright.ai/jobs/info/697d22ac137a0510256619d0?utm_campaign=1055&utm_source=git)** | Mentor, OH, US, 44060 | Hybrid | Jan 30 |
-| **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[Administrative Hearings & Dispute Resolution Intern - OAHDR-2026-11i](https://jobright.ai/jobs/info/697dbf53ce48107c05420a0e?utm_campaign=1055&utm_source=git)** | Trenton, NJ, US | On Site | Jan 30 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Safety Data Sheet Product Formulation & Compliance Specialist Intern](https://jobright.ai/jobs/info/697d3b72727747250d580bae?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jan 30 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Privacy and Data Ethics](https://jobright.ai/jobs/info/697d1afc727747250d57d3cf?utm_campaign=1055&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
 | **[Imperial PFS](https://www.ipfs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697d2631137a0510256621a4?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Jan 30 |
@@ -101,15 +102,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Legal Intern](https://jobright.ai/jobs/info/697d05b43f57a3356966ba97?utm_campaign=1055&utm_source=git)** | Newark, NJ | On Site | Jan 30 |
 | ↳ | **[Summer Legal Intern](https://jobright.ai/jobs/info/697d04b33f57a3356966ba1f?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 30 |
 | **[Rossen Law Firm](http://www.criminal-defense-dui.lawyer)** | **[Criminal Law Intern](https://jobright.ai/jobs/info/697cf9043f57a3356966b31a?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 30 |
-| **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[Legal Intern - LEGAL-2026-8i](https://jobright.ai/jobs/info/697dc047abff4c399a9c908e?utm_campaign=1055&utm_source=git)** | Trenton, NJ, US | On Site | Jan 30 |
-| ↳ | **[Legal, Regulatory, & Enforcement Intern - LREP-2026-10i](https://jobright.ai/jobs/info/697dbe27ce48107c0542099b?utm_campaign=1055&utm_source=git)** | Trenton, NJ, US | On Site | Jan 30 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Litigation Specialist Intern](https://jobright.ai/jobs/info/697d13e43f57a3356966c926?utm_campaign=1055&utm_source=git)** | Riverside, CA | Hybrid | Jan 30 |
 | **[Samsung Ads](http://www.samsungads.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697d1de7727747250d57d775?utm_campaign=1055&utm_source=git)** | 700 Sylvan Ave Englewood Cliffs, NJ, USA | On Site | Jan 30 |
 | **[Rivian](http://www.rivian.com)** | **[JD Intern - Intellectual Property](https://jobright.ai/jobs/info/697d12e9137a05102566086d?utm_campaign=1055&utm_source=git)** | Irvine, CA, US | On Site | Jan 30 |
 | ↳ | **[JD Intern - Intellectual Property](https://jobright.ai/jobs/info/697d10b5727747250d57c6ea?utm_campaign=1055&utm_source=git)** | US-CA-Irvine | On Site | Jan 30 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[Legal, Regulatory, & Enforcement Intern - LREP-2026-10i](https://jobright.ai/jobs/info/697d1b6a137a051025661321?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Jan 30 |
-| ↳ | **[Administrative Hearings & Dispute Resolution Intern - OAHDR-2026-11i](https://jobright.ai/jobs/info/697d0e5f727747250d57c502?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Jan 30 |
 | ↳ | **[Legal Intern - LEGAL-2026-8i](https://jobright.ai/jobs/info/697d174b137a051025660dab?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Jan 30 |
+| ↳ | **[Administrative Hearings & Dispute Resolution Intern - OAHDR-2026-11i](https://jobright.ai/jobs/info/697d0e5f727747250d57c502?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Jan 30 |
 | **[Artisan Partners](https://www.apam.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/697cef1b727747250d579fbf?utm_campaign=1055&utm_source=git)** | Milwaukee | On Site | Jan 30 |
 | **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Legal Intern - Employment](https://jobright.ai/jobs/info/697ce5f63f57a33569668eb1?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Jan 30 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/697d04e2137a05102565f9ec?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Jan 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Surveillance Compliance Intern](https://jobright.ai/jobs/info/68cf639e846f0b04af681bd4?utm_campaign=1055&utm_source=git)** | Topeka Metropolitan Area | On Site | Jan 29 |
 | **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Legal Intern - Employment](https://jobright.ai/jobs/info/697beb580b88cc7d6422d22c?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Jan 29 |
 | **[ST Engineering iDirect](http://www.idirect.net)** | **[Intern Legal](https://jobright.ai/jobs/info/697904ae52f3c27ec6454e28?utm_campaign=1055&utm_source=git)** | Herndon, VA | Hybrid | Jan 29 |
+| **[BMO](http://www.bmo.com)** | **[Anti-Money Laundering Analyst - Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/697bc3311136d179eeef47ec?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
