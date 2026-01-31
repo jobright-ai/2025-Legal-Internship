@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TruStage](https://www.trustage.com/)** | **[Legal Research Internship (Hybrid)](https://jobright.ai/jobs/info/697d70dd137a0510256693cc?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Jan 30 |
+| **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2026 Summer Legal Intern](https://jobright.ai/jobs/info/697d6e80137a051025669183?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 30 |
+| **[Imperial PFS](https://www.ipfs.com)** | **[Paralegal /Legal Intern](https://jobright.ai/jobs/info/697d6e303f57a335696752e9?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Jan 30 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Trade Compliance Summer Intern](https://jobright.ai/jobs/info/697d65e93f57a335696748ad?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Jan 30 |
 | **[Teleflex](http://www.teleflex.com)** | **[Compliance Intern, Global Business Practices](https://jobright.ai/jobs/info/69618af3e7ed9a5731ba67ba?utm_campaign=1055&utm_source=git)** | Wayne, PA | Hybrid | Jan 30 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - Phoenix, AZ](https://jobright.ai/jobs/info/697d64ef727747250d5848ee?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Jan 30 |
@@ -112,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Fraud Watch Network and Prevention Intern](https://jobright.ai/jobs/info/6944ec9494730b73987834d8?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jan 30 |
 | **[ASML](https://www.asml.com)** | **[Internship - US Legal & Compliance](https://jobright.ai/jobs/info/69449aa2a7227b3ece663509?utm_campaign=1055&utm_source=git)** | Chandler, AZ | Hybrid | Jan 30 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Corporate Legal](https://jobright.ai/jobs/info/6960fee4a112b402660f8711?utm_campaign=1055&utm_source=git)** | Chesterfield, MO | Hybrid | Jan 30 |
-| **[CN](http://www.cn.ca)** | **[Intern, Legal - Indigenous- EN](https://jobright.ai/jobs/info/6928865cd47de4798ece318b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 30 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Regulatory Affairs, Global Rare Diseases - Summer 2026](https://jobright.ai/jobs/info/69449a0294730b739877ceb0?utm_campaign=1055&utm_source=git)** | Cary, NC | Hybrid | Jan 30 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Branded Television Business Affairs JD Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697ca2bf137a0510256591f1?utm_campaign=1055&utm_source=git)** | Glendale, CA | On Site | Jan 30 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Legal Intern](https://jobright.ai/jobs/info/697c9279727747250d574ed5?utm_campaign=1055&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69104536988c2b7b4ec50c5d?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Jan 29 |
 | **[Spire](https://www.spireenergy.com/)** | **[Intern, Pipeline Safety Compliance](https://jobright.ai/jobs/info/692757ecd47de4798ecdb9d2?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Jan 29 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Patent Legal Intern](https://jobright.ai/jobs/info/690ac4234a1b456627b0b2d3?utm_campaign=1055&utm_source=git)** | Everett, WA | Hybrid | Jan 29 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Branded Television Business Affairs JD Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697bd5241136d179eeef60e0?utm_campaign=1055&utm_source=git)** | Glendale, CA, USA | Hybrid | Jan 29 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Anti Money Laundering Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/697bd6260b88cc7d6422ab19?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
