@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DESRI](https://desri.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd6643b2a74e1837ed68e5?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 31 |
 | **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Ambler, Regulatory Compliance](https://jobright.ai/jobs/info/6945b7c0d1953b5d11beb746?utm_campaign=1055&utm_source=git)** | Ambler, PA | Hybrid | Jan 31 |
 | **[Investors Title Company and Affiliates](http://www.invtitle.com/)** | **[Title Navigator Internship / Early Career](https://jobright.ai/jobs/info/697c6a43137a051025655651?utm_campaign=1055&utm_source=git)** | North Carolina, United States | On Site | Jan 31 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Intern - Management Liability](https://jobright.ai/jobs/info/69619bf8e7ed9a5731ba760c?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
@@ -118,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Year-Round Tax Legal Intern](https://jobright.ai/jobs/info/697cd432137a05102565c62d?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | On Site | Jan 30 |
 | **[Virtua Health](https://www.virtua.org/)** | **[Legal Internship](https://jobright.ai/jobs/info/697cd3c1137a05102565c5e8?utm_campaign=1055&utm_source=git)** | Marlton, NJ | Hybrid | Jan 30 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Year-Round Tax Legal Intern](https://jobright.ai/jobs/info/697cd247137a05102565c54b?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Jan 30 |
-| **[Tech World Networking](techworldnetworking.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/697cf3803f57a3356966af1e?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Jan 30 |
 | **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney's Office Brave Justice Summer 2026 Legal Internship](https://jobright.ai/jobs/info/687e9e51db19f31cf0d6bba0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jan 30 |
 | **[AARP](http://www.aarp.org)** | **[Fraud Watch Network and Prevention Intern](https://jobright.ai/jobs/info/6944ec9494730b73987834d8?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Jan 30 |
 | **[ASML](https://www.asml.com)** | **[Internship - US Legal & Compliance](https://jobright.ai/jobs/info/69449aa2a7227b3ece663509?utm_campaign=1055&utm_source=git)** | Chandler, AZ | Hybrid | Jan 30 |
