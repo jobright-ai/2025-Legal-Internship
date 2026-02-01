@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lockton](https://www.lockton.com/offices/uk)** | **[Transaction Liability Intern](https://jobright.ai/jobs/info/68f1b223f462172a5a7db42c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 01 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Immigration Law (Summer 2026)](https://jobright.ai/jobs/info/697f5f897f40342e15d81f67?utm_campaign=1055&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 01 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Compliance Associate](https://jobright.ai/jobs/info/697f557cce48107c05437b8f?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Feb 01 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/697ee2097f40342e15d7a528?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Feb 01 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68f18881f462172a5a7d9a16?utm_campaign=1055&utm_source=git)** | Greenville, NC | On Site | Feb 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WesBanco](http://wesbanco.com)** | **[Intern - Securities Administration](https://jobright.ai/jobs/info/697c3eb81423772304ecb56e?utm_campaign=1055&utm_source=git)** | Wheeling, WV | On Site | Jan 29 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Procurement - Internship](https://jobright.ai/jobs/info/697c38460b88cc7d64233e4b?utm_campaign=1055&utm_source=git)** | Salinas, CA | On Site | Jan 29 |
 | ↳ | **[Regulatory Food Safety - Internship](https://jobright.ai/jobs/info/697c407e1423772304ecb649?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jan 29 |
-| **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2026 Summer Legal Intern](https://jobright.ai/jobs/info/697c19a21423772304ec71e7?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 29 |
-| **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Intern - IT Risk & Compliance Analyst (Summer 2026)](https://jobright.ai/jobs/info/697c197d0b88cc7d64230fe0?utm_campaign=1055&utm_source=git)** | Québec, Quebec, Canada | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
