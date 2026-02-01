@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Denton](https://www.cityofdenton.com)** | **[Legal Intern II](https://jobright.ai/jobs/info/697f025f7f40342e15d7be64?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Jan 31 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/697eb8bfabff4c399a9d5f80?utm_campaign=1055&utm_source=git)** | Idaho - Meridian - Home Office | Hybrid | Jan 31 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/697eb0b2ce48107c0542d28d?utm_campaign=1055&utm_source=git)** | Meridian, ID | Hybrid | Jan 31 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern-Regulatory Affairs](https://jobright.ai/jobs/info/697e4a517f40342e15d71b1c?utm_campaign=1055&utm_source=git)** | Center Valley, PA | On Site | Jan 31 |
@@ -119,11 +120,11 @@ For a complete list, click the following sortable link below:
 | **[Rossen Law Firm](http://www.criminal-defense-dui.lawyer)** | **[Criminal Law Intern](https://jobright.ai/jobs/info/697cf9043f57a3356966b31a?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 30 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Litigation Specialist Intern](https://jobright.ai/jobs/info/697d13e43f57a3356966c926?utm_campaign=1055&utm_source=git)** | Riverside, CA | Hybrid | Jan 30 |
 | **[Samsung Ads](http://www.samsungads.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697d1de7727747250d57d775?utm_campaign=1055&utm_source=git)** | 700 Sylvan Ave Englewood Cliffs, NJ, USA | On Site | Jan 30 |
-| **[Rivian](http://www.rivian.com)** | **[JD Intern - Intellectual Property](https://jobright.ai/jobs/info/697d10b5727747250d57c6ea?utm_campaign=1055&utm_source=git)** | US-CA-Irvine | On Site | Jan 30 |
-| ↳ | **[JD Intern - Intellectual Property](https://jobright.ai/jobs/info/697d12e9137a05102566086d?utm_campaign=1055&utm_source=git)** | Irvine, CA, US | On Site | Jan 30 |
+| **[Rivian](http://www.rivian.com)** | **[JD Intern - Intellectual Property](https://jobright.ai/jobs/info/697d12e9137a05102566086d?utm_campaign=1055&utm_source=git)** | Irvine, CA, US | On Site | Jan 30 |
+| ↳ | **[JD Intern - Intellectual Property](https://jobright.ai/jobs/info/697d10b5727747250d57c6ea?utm_campaign=1055&utm_source=git)** | US-CA-Irvine | On Site | Jan 30 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[Legal, Regulatory, & Enforcement Intern - LREP-2026-10i](https://jobright.ai/jobs/info/697d1b6a137a051025661321?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Jan 30 |
-| ↳ | **[Legal Intern - LEGAL-2026-8i](https://jobright.ai/jobs/info/697d174b137a051025660dab?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Jan 30 |
 | ↳ | **[Administrative Hearings & Dispute Resolution Intern - OAHDR-2026-11i](https://jobright.ai/jobs/info/697d0e5f727747250d57c502?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Jan 30 |
+| ↳ | **[Legal Intern - LEGAL-2026-8i](https://jobright.ai/jobs/info/697d174b137a051025660dab?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Jan 30 |
 | **[Artisan Partners](https://www.apam.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/697cef1b727747250d579fbf?utm_campaign=1055&utm_source=git)** | Milwaukee | On Site | Jan 30 |
 | **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Legal Intern - Employment](https://jobright.ai/jobs/info/697ce5f63f57a33569668eb1?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Jan 30 |
 | **[Searby PLLC](https://www.searby.law/)** | **[Legal Intern](https://jobright.ai/jobs/info/697d01393f57a3356966b806?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ASICS America Corporation](https://www.asicsamerica.com)** | **[Summer Internship - Legal Assistant Intern](https://jobright.ai/jobs/info/6975a000206da320f49fabde?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jan 29 |
 | **[Nucor Rebar Fabrication](https://www.harrisrebar.com/index.php)** | **[Legal Intern 2026](https://jobright.ai/jobs/info/69602024a112b402660ed766?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | On Site | Jan 29 |
 | **[California ISO](http://www.caiso.com/)** | **[Legal Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/697c2e181136d179eeefe7ed?utm_campaign=1055&utm_source=git)** | 250 Outcropping Way, Folsom, CA 95630, USA | Remote | Jan 29 |
-| **[Shift Markets](https://www.shiftmarkets.com/)** | **[Legal & Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/697c1d040b88cc7d642317bf?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
