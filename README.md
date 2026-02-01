@@ -126,7 +126,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern - LEGAL-2026-8i](https://jobright.ai/jobs/info/697d174b137a051025660dab?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Jan 30 |
 | **[Artisan Partners](https://www.apam.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/697cef1b727747250d579fbf?utm_campaign=1055&utm_source=git)** | Milwaukee | On Site | Jan 30 |
 | **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Legal Intern - Employment](https://jobright.ai/jobs/info/697ce5f63f57a33569668eb1?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Jan 30 |
-| **[Tech World Networking](techworldnetworking.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/697d04e2137a05102565f9ec?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Jan 30 |
 | **[Searby PLLC](https://www.searby.law/)** | **[Legal Intern](https://jobright.ai/jobs/info/697d01393f57a3356966b806?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | **[Nexteer Automotive](http://www.nexteer.com/)** | **[Intellectual Property Counsel Internship 2026](https://jobright.ai/jobs/info/697cde6f727747250d578c76?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | Hybrid | Jan 30 |
 | ↳ | **[Intellectual Property Counsel Internship 2026](https://jobright.ai/jobs/info/697cd82c727747250d5789fe?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI, US | Hybrid | Jan 30 |
@@ -145,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Razer Inc.](https://www.razer.com)** | **[Legal Intern (Hourly)](https://jobright.ai/jobs/info/696abd0d350cf4380311c806?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Jan 29 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Security Risk & Compliance Intern](https://jobright.ai/jobs/info/697c45170b88cc7d64235c8c?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Jan 29 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/696026607ebc25398eb6174d?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Jan 29 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern-Regulatory Affairs-Orlando, FL-Summer 2026](https://jobright.ai/jobs/info/697ee6c4ce48107c05430cdc?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Jan 29 |
 | **[AM General LLC](http://www.amgeneral.com)** | **[Internship: Legal - Compliance & Security](https://jobright.ai/jobs/info/697d8db47f40342e15d6709f?utm_campaign=1055&utm_source=git)** | South Bend, IN | On Site | Jan 29 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Federal Cyber Security Services / McLean Summer 2026](https://jobright.ai/jobs/info/697c41d01423772304ecb770?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Jan 29 |
 | **[WesBanco](http://wesbanco.com)** | **[Intern - Securities Administration](https://jobright.ai/jobs/info/697c3eb81423772304ecb56e?utm_campaign=1055&utm_source=git)** | Wheeling, WV | On Site | Jan 29 |
