@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seattle Seahawks](http://www.seahawks.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69815eef7f40342e15da61bf?utm_campaign=1055&utm_source=git)** | Renton, WA | On Site | Feb 02 |
+| **[The ACLU of Washington](https://www.aclu-wa.org)** | **[Summer 2026 Legal Internship - Externship](https://jobright.ai/jobs/info/69815ea57f40342e15da617b?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Feb 02 |
+| **[Airbnb](https://www.airbnb.com)** | **[Legal Intern, Policy](https://jobright.ai/jobs/info/69815d98abff4c399aa05483?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Feb 02 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Legal Services Department](https://jobright.ai/jobs/info/69815a9949964d25b5e44ed9?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Feb 02 |
 | **[Construction Specialties](https://www.c-sgroup.com/)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/698154b4abff4c399aa04cb7?utm_campaign=1055&utm_source=git)** | Muncy, PA | On Site | Feb 02 |
 | **[AtriCure, Inc.](http://atricure.com)** | **[Regulatory Co-op](https://jobright.ai/jobs/info/698150547f40342e15da5376?utm_campaign=1055&utm_source=git)** | Mason, OH | On Site | Feb 02 |
 | **[KRAFTON Inc.](https://www.krafton.com)** | **[Internship : Legal](https://jobright.ai/jobs/info/69814dcfabff4c399aa04782?utm_campaign=1055&utm_source=git)** | El Segundo, CA | On Site | Feb 02 |
@@ -65,6 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Contracts Administrator Intern - Kiewit Industrial & Water Engineering (Summer 2026)](https://jobright.ai/jobs/info/698143d57f40342e15da3535?utm_campaign=1055&utm_source=git)** | Lone Tree, CO | On Site | Feb 02 |
 | **[Cogeco Media](http://www.cogecomedia.com)** | **[Intern, Legal, Regulatory, Government Relations & Privacy](https://jobright.ai/jobs/info/698141b449964d25b5e42556?utm_campaign=1055&utm_source=git)** | Montréal, QC | On Site | Feb 02 |
 | **[Avnet](https://www.avnet.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69813f747f40342e15da313c?utm_campaign=1055&utm_source=git)** | Phoenix, Arizona, United States Of America | Hybrid | Feb 02 |
+| **[The ACLU of Washington](https://www.aclu-wa.org)** | **[Summer 2026 Legal Internship - Externship](https://jobright.ai/jobs/info/6981635e7f40342e15da667a?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Feb 02 |
+| **[Nexus](https://nexus.xyz/)** | **[Legal Intern](https://jobright.ai/jobs/info/698158d249964d25b5e44cc9?utm_campaign=1055&utm_source=git)** | San Francisco | Hybrid | Feb 02 |
 | **[CME Group](http://www.cmegroup.com)** | **[Clearing House Internship - Summer 2026](https://jobright.ai/jobs/info/6981396e7f40342e15da2bdc?utm_campaign=1055&utm_source=git)** | Chicago - 20 S. Wacker | On Site | Feb 02 |
 | ↳ | **[Clearing House Internship - Summer 2026](https://jobright.ai/jobs/info/69813744abff4c399aa01f32?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Attorney Development](https://jobright.ai/jobs/info/698131be49964d25b5e4141b?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Feb 02 |
@@ -103,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[Ethics and Regulatory Compliance Intern – Summer 2026 (May – August)](https://jobright.ai/jobs/info/6916f43d6f36db06ef05b74b?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 02 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Legal and Privacy Intern - Summer 2026](https://jobright.ai/jobs/info/690e8726221b890c2780f0cd?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Feb 02 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Compliance Operations Intern](https://jobright.ai/jobs/info/6980957649964d25b5e35147?utm_campaign=1055&utm_source=git)** | White Plains, NY | On Site | Feb 02 |
-| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/698094a449964d25b5e35123?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Feb 02 |
 | **[TopBuild](http://www.topbuild.com)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/690e973644146d3b6ec55aef?utm_campaign=1055&utm_source=git)** | Daytona Beach, FL | On Site | Feb 02 |
 | **[Rossen Law Firm](http://www.criminal-defense-dui.lawyer)** | **[Criminal Law Intern](https://jobright.ai/jobs/info/697cf9043f57a3356966b31a?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 02 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Legal Intern](https://jobright.ai/jobs/info/6963fe1da112b402661203cd?utm_campaign=1055&utm_source=git)** | Stamford, CT | Hybrid | Feb 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Teleflex](http://www.teleflex.com)** | **[Compliance Intern, Global Business Practices](https://jobright.ai/jobs/info/69618af3e7ed9a5731ba67ba?utm_campaign=1055&utm_source=git)** | Wayne, PA | Hybrid | Jan 30 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - Phoenix, AZ](https://jobright.ai/jobs/info/697d64ef727747250d5848ee?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Jan 30 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Asset Integrity Intern](https://jobright.ai/jobs/info/6978297f52f3c27ec6445716?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jan 30 |
-| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Litigation Specialist Intern](https://jobright.ai/jobs/info/697d5e47137a051025667e9c?utm_campaign=1055&utm_source=git)** | Riverside, CA | Hybrid | Jan 30 |
-| **[AM General LLC](http://www.amgeneral.com)** | **[Internship: Legal - Compliance & Security](https://jobright.ai/jobs/info/697d5c80727747250d583f66?utm_campaign=1055&utm_source=git)** | South Bend, Indiana, United States | On Site | Jan 30 |
-| **[Construction Specialties](https://www.c-sgroup.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/697d5c43137a051025667bec?utm_campaign=1055&utm_source=git)** | Lebanon, NJ | Hybrid | Jan 30 |
-| **[Bio-Techne](https://www.bio-techne.com)** | **[Safety Data Sheet Product Formulation & Compliance Specialist Intern](https://jobright.ai/jobs/info/697d4f043f57a33569671b76?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jan 30 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong FOIA Paralegal Intern](https://jobright.ai/jobs/info/697d66ee3f57a33569674a25?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
