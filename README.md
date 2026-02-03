@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RapidRatings](http://www.rapidratings.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6981d19ba314e763690537b2?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 03 |
 | **[Terumo Neuro](http://terumoneuro.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/6981a70cabff4c399aa0be97?utm_campaign=1055&utm_source=git)** | Aliso Viejo, CA | On Site | Feb 02 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/6981a1677f40342e15dac389?utm_campaign=1055&utm_source=git)** | Aliso Viejo, California, USA | On Site | Feb 02 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Paralegal Extern-Torts](https://jobright.ai/jobs/info/6981c7ec49964d25b5e4e169?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 02 |
+| ↳ | **[2026-2027 Yearlong Paralegal Extern-Compliance, Policy, & Risk](https://jobright.ai/jobs/info/6981c94349964d25b5e4e1c8?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 02 |
+| ↳ | **[Summer 2026-2027 Technical Writing Intern-Safety Compliance](https://jobright.ai/jobs/info/6981c9b049964d25b5e4e1f5?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 02 |
+| ↳ | **[2026-2027 Yearlong Paralegal Extern-Labor & Employment](https://jobright.ai/jobs/info/6981c7ab49964d25b5e4e157?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 02 |
 | **[RapidRatings](http://www.rapidratings.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6981b46f7f40342e15dad0c9?utm_campaign=1055&utm_source=git)** | New York, New York, United States | Hybrid | Feb 02 |
 | **[Cogeco Inc.](http://corpo.cogeco.com/cgo/en/)** | **[Intern, Legal, Regulatory, Government Relations & Privacy](https://jobright.ai/jobs/info/69818f3449964d25b5e4a933?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 02 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698186f249964d25b5e4867c?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 02 |
@@ -114,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Needham Bank](http://needhambank.com)** | **[Intern - Enterprise Risk Management (Summer 2026)](https://jobright.ai/jobs/info/6980ea587f40342e15d9c1d0?utm_campaign=1055&utm_source=git)** | Needham, MA | On Site | Feb 02 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - WEX Bank Compliance](https://jobright.ai/jobs/info/69810b1dabff4c399a9fdaef?utm_campaign=1055&utm_source=git)** | Portland, ME | On Site | Feb 02 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6981061349964d25b5e3d3ca?utm_campaign=1055&utm_source=git)** | Renton, WA | On Site | Feb 02 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern- Compliance](https://jobright.ai/jobs/info/698105ac49964d25b5e3d387?utm_campaign=1055&utm_source=git)** | Marlborough, MA, US | On Site | Feb 02 |
-| ↳ | **[Intern- Compliance](https://jobright.ai/jobs/info/698105027f40342e15d9debb?utm_campaign=1055&utm_source=git)** | MA, Marlborough - 290 Donald J Lynch Boulevard | On Site | Feb 02 |
+| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern- Compliance](https://jobright.ai/jobs/info/698105027f40342e15d9debb?utm_campaign=1055&utm_source=git)** | MA, Marlborough - 290 Donald J Lynch Boulevard | On Site | Feb 02 |
+| ↳ | **[Intern- Compliance](https://jobright.ai/jobs/info/698105ac49964d25b5e3d387?utm_campaign=1055&utm_source=git)** | Marlborough, MA, US | On Site | Feb 02 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 DC Vendor Compliance Intern](https://jobright.ai/jobs/info/6980fd5a49964d25b5e3c8e7?utm_campaign=1055&utm_source=git)** | Knoxville, TN | On Site | Feb 02 |
 | **[Montgomery County Police Department](https://www.linkedin.com/company/59521635)** | **[Law Enforcement Internships](https://jobright.ai/jobs/info/6980df007f40342e15d9a481?utm_campaign=1055&utm_source=git)** | Montgomery County, MD | On Site | Feb 02 |
 | **[RTX](http://www.raytheon.com)** | **[Contracts Intern (Summer 2026)(Remote)](https://jobright.ai/jobs/info/6980d801abff4c399a9f9408?utm_campaign=1055&utm_source=git)** | US-IL-REMOTE | Remote | Feb 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Future Opportunities Intern Quality & Regulatory Compliance - Digital Quality (Summer 2026)](https://jobright.ai/jobs/info/697e1669ce48107c05425bf7?utm_campaign=1055&utm_source=git)** | Hershey, PA | Remote | Jan 31 |
 | **[AARP](http://www.aarp.org)** | **[Legal Counsel for the Elderly Intern (Summer)](https://jobright.ai/jobs/info/6961adc3f3f4cd132506b515?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 31 |
 | **[Wikimedia Foundation](http://wikimediafoundation.org)** | **[Legal Fellow (Summer 2026)](https://jobright.ai/jobs/info/695dcd4816906f25775f8c0a?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 31 |
-| **[Labcorp](https://www.labcorp.com)** | **[Intern - CLS Project Managment](https://jobright.ai/jobs/info/697e0dc2abff4c399a9cdeaf?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 31 |
-| **[STERIS](http://steris.com)** | **[Privacy Compliance Intern](https://jobright.ai/jobs/info/697e07e7ce48107c05424fd6?utm_campaign=1055&utm_source=git)** | Mentor, OH | Hybrid | Jan 31 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/697e0761abff4c399a9cd5bb?utm_campaign=1055&utm_source=git)** | Mentor, OH | Hybrid | Jan 31 |
-| **[Minitab](http://www.minitab.com/en-us/)** | **[Legal Intern](https://jobright.ai/jobs/info/69616cc9a112b402660fef30?utm_campaign=1055&utm_source=git)** | State College, PA | On Site | Jan 31 |
-| **[Old National Bank](http://www.oldnational.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6945b080951654073537caea?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
