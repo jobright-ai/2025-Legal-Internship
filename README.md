@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Regulatory Affairs U.S. Advertising and Promotion Intern (PharmD)](https://jobright.ai/jobs/info/68cc282416d00d2beeb1aef8?utm_campaign=1055&utm_source=git)** | Mettawa, IL | On Site | Feb 03 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - AI & Legal Compliance (Summer 2026)](https://jobright.ai/jobs/info/6981df8f0f6f7e7a2cdb036d?utm_campaign=1055&utm_source=git)** | Garland, TX | On Site | Feb 03 |
 | **[RapidRatings](http://www.rapidratings.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6981d19ba314e763690537b2?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 03 |
 | **[Terumo Neuro](http://terumoneuro.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/6981a70cabff4c399aa0be97?utm_campaign=1055&utm_source=git)** | Aliso Viejo, CA | On Site | Feb 02 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/6981a1677f40342e15dac389?utm_campaign=1055&utm_source=git)** | Aliso Viejo, California, USA | On Site | Feb 02 |
@@ -119,10 +121,10 @@ For a complete list, click the following sortable link below:
 | **[Needham Bank](http://needhambank.com)** | **[Intern - Enterprise Risk Management (Summer 2026)](https://jobright.ai/jobs/info/6980ea587f40342e15d9c1d0?utm_campaign=1055&utm_source=git)** | Needham, MA | On Site | Feb 02 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - WEX Bank Compliance](https://jobright.ai/jobs/info/69810b1dabff4c399a9fdaef?utm_campaign=1055&utm_source=git)** | Portland, ME | On Site | Feb 02 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6981061349964d25b5e3d3ca?utm_campaign=1055&utm_source=git)** | Renton, WA | On Site | Feb 02 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern- Compliance](https://jobright.ai/jobs/info/698105027f40342e15d9debb?utm_campaign=1055&utm_source=git)** | MA, Marlborough - 290 Donald J Lynch Boulevard | On Site | Feb 02 |
-| ↳ | **[Intern- Compliance](https://jobright.ai/jobs/info/698105ac49964d25b5e3d387?utm_campaign=1055&utm_source=git)** | Marlborough, MA, US | On Site | Feb 02 |
+| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern- Compliance](https://jobright.ai/jobs/info/698105ac49964d25b5e3d387?utm_campaign=1055&utm_source=git)** | Marlborough, MA, US | On Site | Feb 02 |
+| ↳ | **[Intern- Compliance](https://jobright.ai/jobs/info/698105027f40342e15d9debb?utm_campaign=1055&utm_source=git)** | MA, Marlborough - 290 Donald J Lynch Boulevard | On Site | Feb 02 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 DC Vendor Compliance Intern](https://jobright.ai/jobs/info/6980fd5a49964d25b5e3c8e7?utm_campaign=1055&utm_source=git)** | Knoxville, TN | On Site | Feb 02 |
-| **[Montgomery County Police Department](https://www.linkedin.com/company/59521635)** | **[Law Enforcement Internships](https://jobright.ai/jobs/info/6980df007f40342e15d9a481?utm_campaign=1055&utm_source=git)** | Montgomery County, MD | On Site | Feb 02 |
+| **[Montgomery County Department of Police](https://www.montgomerycountymd.gov/pol/)** | **[Law Enforcement Internships](https://jobright.ai/jobs/info/6980df007f40342e15d9a481?utm_campaign=1055&utm_source=git)** | Montgomery County, MD | On Site | Feb 02 |
 | **[RTX](http://www.raytheon.com)** | **[Contracts Intern (Summer 2026)(Remote)](https://jobright.ai/jobs/info/6980d801abff4c399a9f9408?utm_campaign=1055&utm_source=git)** | US-IL-REMOTE | Remote | Feb 02 |
 | **[Agiliti](https://www.agilitihealth.com/)** | **[Legal & Compliance Internship](https://jobright.ai/jobs/info/6980d6b749964d25b5e39233?utm_campaign=1055&utm_source=git)** | Minneapolis - Corporate | Hybrid | Feb 02 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Corporate Compliance Summer Intern](https://jobright.ai/jobs/info/6980c7077f40342e15d991e7?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Feb 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Legal Internship - Spring 2026 (Dallas)](https://jobright.ai/jobs/info/697e30187f40342e15d6fdf8?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
 | ↳ | **[Legal Internship - Summer 2026 (Dallas)](https://jobright.ai/jobs/info/697e2f56ce48107c05426442?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Future Opportunities Intern Quality & Regulatory Compliance - Digital Quality (Summer 2026)](https://jobright.ai/jobs/info/697e1669ce48107c05425bf7?utm_campaign=1055&utm_source=git)** | Hershey, PA | Remote | Jan 31 |
-| **[AARP](http://www.aarp.org)** | **[Legal Counsel for the Elderly Intern (Summer)](https://jobright.ai/jobs/info/6961adc3f3f4cd132506b515?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jan 31 |
-| **[Wikimedia Foundation](http://wikimediafoundation.org)** | **[Legal Fellow (Summer 2026)](https://jobright.ai/jobs/info/695dcd4816906f25775f8c0a?utm_campaign=1055&utm_source=git)** | United States | Remote | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
