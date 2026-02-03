@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AtriCure, Inc.](http://atricure.com)** | **[Regulatory Co-op](https://jobright.ai/jobs/info/698150547f40342e15da5376?utm_campaign=1055&utm_source=git)** | Mason, OH | On Site | Feb 02 |
+| **[KRAFTON Inc.](https://www.krafton.com)** | **[Internship : Legal](https://jobright.ai/jobs/info/69814dcfabff4c399aa04782?utm_campaign=1055&utm_source=git)** | El Segundo, CA | On Site | Feb 02 |
+| **[TKO](https://tkogrp.com)** | **[Intern – Anti-Doping Compliance Intern, UFC](https://jobright.ai/jobs/info/69814be7abff4c399aa043f3?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
+| **[Dime Community Bank](https://www.dime.com)** | **[Intern - (Banking) Legal Processing (Summer 2026)](https://jobright.ai/jobs/info/69814b907f40342e15da4f3f?utm_campaign=1055&utm_source=git)** | Hauppauge, NY | On Site | Feb 02 |
+| **[Kiewit](http://www.kiewit.com)** | **[Contracts Administrator Intern - Kiewit Industrial & Water Engineering (Summer 2026)](https://jobright.ai/jobs/info/698143d57f40342e15da3535?utm_campaign=1055&utm_source=git)** | Lone Tree, CO | On Site | Feb 02 |
+| **[Cogeco Media](http://www.cogecomedia.com)** | **[Intern, Legal, Regulatory, Government Relations & Privacy](https://jobright.ai/jobs/info/698141b449964d25b5e42556?utm_campaign=1055&utm_source=git)** | Montréal, QC | On Site | Feb 02 |
+| **[Avnet](https://www.avnet.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69813f747f40342e15da313c?utm_campaign=1055&utm_source=git)** | Phoenix, Arizona, United States Of America | Hybrid | Feb 02 |
+| **[CME Group](http://www.cmegroup.com)** | **[Clearing House Internship - Summer 2026](https://jobright.ai/jobs/info/6981396e7f40342e15da2bdc?utm_campaign=1055&utm_source=git)** | Chicago - 20 S. Wacker | On Site | Feb 02 |
+| ↳ | **[Clearing House Internship - Summer 2026](https://jobright.ai/jobs/info/69813744abff4c399aa01f32?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Attorney Development](https://jobright.ai/jobs/info/698131be49964d25b5e4141b?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Feb 02 |
 | ↳ | **[Business Professional Intern – Attorney Development](https://jobright.ai/jobs/info/698130f7abff4c399aa017f2?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 02 |
 | **[University of Nebraska Foundation](https://nufoundation.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/698130ee7f40342e15da2166?utm_campaign=1055&utm_source=git)** | Lincoln, NE | On Site | Feb 02 |
@@ -65,7 +74,9 @@ For a complete list, click the following sortable link below:
 | **[Berkley Accident and Health (a Berkley Company)](http://berkleyah.com)** | **[Intern- Compliance](https://jobright.ai/jobs/info/6981256249964d25b5e3f4a9?utm_campaign=1055&utm_source=git)** | Marlborough, MA | On Site | Feb 02 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Pre-Law Intern](https://jobright.ai/jobs/info/69811ebf49964d25b5e3ecf1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 02 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - WEX Bank Compliance](https://jobright.ai/jobs/info/69811b04abff4c399a9feb57?utm_campaign=1055&utm_source=git)** | Maine, United States | Remote | Feb 02 |
+| **[Latham & Watkins](http://www.lw.com)** | **[Pre-Law Intern](https://jobright.ai/jobs/info/698135597f40342e15da25dc?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
 | **[Planned Parenthood of Metropolitan Washington, DC, Inc.](http://www.ppmw.org)** | **[Legal Intern](https://jobright.ai/jobs/info/698115217f40342e15d9ef8e?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 02 |
+| **[Primaris REIT](http://primarisreit.com)** | **[Summer Internship - Legal](https://jobright.ai/jobs/info/697984b9ca92cf0d6a82ae0f?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 02 |
 | **[Foley](http://foleyservices.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698109377f40342e15d9e2e3?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 02 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Contracts Intern (Summer 2026)(Remote)](https://jobright.ai/jobs/info/698107a2abff4c399a9fd6b5?utm_campaign=1055&utm_source=git)** | Springfield, IL | Remote | Feb 02 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - WEX Bank Compliance](https://jobright.ai/jobs/info/6981049e7f40342e15d9de71?utm_campaign=1055&utm_source=git)** | US - Remote | Remote | Feb 02 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Safety Data Sheet Product Formulation & Compliance Specialist Intern](https://jobright.ai/jobs/info/697d4f043f57a33569671b76?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jan 30 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong FOIA Paralegal Intern](https://jobright.ai/jobs/info/697d66ee3f57a33569674a25?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
 | **[Construction Specialties](https://www.c-sgroup.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/697d663c137a051025668782?utm_campaign=1055&utm_source=git)** | US-NJ-Lebanon | Hybrid | Jan 30 |
-| **[National Fair Housing Alliance](https://nationalfairhousing.org)** | **[Summer Law Clerk (Unpaid Internship)](https://jobright.ai/jobs/info/697d63ac3f57a335696745bc?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jan 30 |
-| **[MGM Resorts International](http://mgmresorts.com)** | **[Law Clerk (Internship)](https://jobright.ai/jobs/info/6978316439f7f96cc6d079b7?utm_campaign=1055&utm_source=git)** | LV Metro Area | On Site | Jan 30 |
-| **[Grifols](http://www.grifols.com)** | **[Contract Operations Intern - Summer](https://jobright.ai/jobs/info/697d3c86137a051025664bea?utm_campaign=1055&utm_source=git)** | North Carolina, United States | On Site | Jan 30 |
-| **[Vialto Partners](https://vialtopartners.com/)** | **[Global Mobility/Immigration Legal - Intern](https://jobright.ai/jobs/info/697d2edf137a051025663786?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jan 30 |
-| **[STERIS](http://steris.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/697d2ca2137a051025663191?utm_campaign=1055&utm_source=git)** | Mentor, OH, US, 44060 | Hybrid | Jan 30 |
-| **[Beazley](http://www.beazley.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/697d25c0727747250d57e168?utm_campaign=1055&utm_source=git)** | West Hartford, CT | On Site | Jan 30 |
-| **[Fuyao Group](http://www.fuyaogroup.com)** | **[Legal Intern - Campus Recruiting - Legal Dept](https://jobright.ai/jobs/info/697d24e0727747250d57df8e?utm_campaign=1055&utm_source=git)** | Moraine, OH, US | On Site | Jan 30 |
-| **[Artisan Partners](https://www.apam.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/697d244e727747250d57de65?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Jan 30 |
-| **[STERIS](http://steris.com)** | **[Privacy Compliance Intern](https://jobright.ai/jobs/info/697d22ac137a0510256619d0?utm_campaign=1055&utm_source=git)** | Mentor, OH, US, 44060 | Hybrid | Jan 30 |
-| **[Bio-Techne](https://www.bio-techne.com)** | **[Safety Data Sheet Product Formulation & Compliance Specialist Intern](https://jobright.ai/jobs/info/697d3b72727747250d580bae?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jan 30 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Privacy and Data Ethics](https://jobright.ai/jobs/info/697d1afc727747250d57d3cf?utm_campaign=1055&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
