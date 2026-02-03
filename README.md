@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Construction Specialties](https://www.c-sgroup.com/)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/698154b4abff4c399aa04cb7?utm_campaign=1055&utm_source=git)** | Muncy, PA | On Site | Feb 02 |
 | **[AtriCure, Inc.](http://atricure.com)** | **[Regulatory Co-op](https://jobright.ai/jobs/info/698150547f40342e15da5376?utm_campaign=1055&utm_source=git)** | Mason, OH | On Site | Feb 02 |
 | **[KRAFTON Inc.](https://www.krafton.com)** | **[Internship : Legal](https://jobright.ai/jobs/info/69814dcfabff4c399aa04782?utm_campaign=1055&utm_source=git)** | El Segundo, CA | On Site | Feb 02 |
 | **[TKO](https://tkogrp.com)** | **[Intern – Anti-Doping Compliance Intern, UFC](https://jobright.ai/jobs/info/69814be7abff4c399aa043f3?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Feb 02 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Needham Bank](http://needhambank.com)** | **[Intern - Enterprise Risk Management (Summer 2026)](https://jobright.ai/jobs/info/6980ea587f40342e15d9c1d0?utm_campaign=1055&utm_source=git)** | Needham, MA | On Site | Feb 02 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - WEX Bank Compliance](https://jobright.ai/jobs/info/69810b1dabff4c399a9fdaef?utm_campaign=1055&utm_source=git)** | Portland, ME | On Site | Feb 02 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6981061349964d25b5e3d3ca?utm_campaign=1055&utm_source=git)** | Renton, WA | On Site | Feb 02 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern- Compliance](https://jobright.ai/jobs/info/698105ac49964d25b5e3d387?utm_campaign=1055&utm_source=git)** | Marlborough, MA, US | On Site | Feb 02 |
-| ↳ | **[Intern- Compliance](https://jobright.ai/jobs/info/698105027f40342e15d9debb?utm_campaign=1055&utm_source=git)** | MA, Marlborough - 290 Donald J Lynch Boulevard | On Site | Feb 02 |
+| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern- Compliance](https://jobright.ai/jobs/info/698105027f40342e15d9debb?utm_campaign=1055&utm_source=git)** | MA, Marlborough - 290 Donald J Lynch Boulevard | On Site | Feb 02 |
+| ↳ | **[Intern- Compliance](https://jobright.ai/jobs/info/698105ac49964d25b5e3d387?utm_campaign=1055&utm_source=git)** | Marlborough, MA, US | On Site | Feb 02 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 DC Vendor Compliance Intern](https://jobright.ai/jobs/info/6980fd5a49964d25b5e3c8e7?utm_campaign=1055&utm_source=git)** | Knoxville, TN | On Site | Feb 02 |
 | **[Montgomery County Police Department](https://www.linkedin.com/company/59521635)** | **[Law Enforcement Internships](https://jobright.ai/jobs/info/6980df007f40342e15d9a481?utm_campaign=1055&utm_source=git)** | Montgomery County, MD | On Site | Feb 02 |
 | **[RTX](http://www.raytheon.com)** | **[Contracts Intern (Summer 2026)(Remote)](https://jobright.ai/jobs/info/6980d801abff4c399a9f9408?utm_campaign=1055&utm_source=git)** | US-IL-REMOTE | Remote | Feb 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Construction Specialties](https://www.c-sgroup.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/697d5c43137a051025667bec?utm_campaign=1055&utm_source=git)** | Lebanon, NJ | Hybrid | Jan 30 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Safety Data Sheet Product Formulation & Compliance Specialist Intern](https://jobright.ai/jobs/info/697d4f043f57a33569671b76?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Jan 30 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong FOIA Paralegal Intern](https://jobright.ai/jobs/info/697d66ee3f57a33569674a25?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
-| **[Construction Specialties](https://www.c-sgroup.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/697d663c137a051025668782?utm_campaign=1055&utm_source=git)** | US-NJ-Lebanon | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
