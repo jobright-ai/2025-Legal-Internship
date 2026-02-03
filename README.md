@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Health-E Commerce](https://www.health-ecommerce.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/698230c3c3101f1400c3db7c?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 03 |
+| **[Proof](https://www.proof.com)** | **[Legal Intern, Privacy](https://jobright.ai/jobs/info/69822e98c3101f1400c3d572?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 03 |
+| **[Gildan](https://gildancorp.com)** | **[Intern, SOX Compliance](https://jobright.ai/jobs/info/6982224c0f6f7e7a2cdb3d99?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 03 |
 | **[ICDR International](https://www.icdrintl.org)** | **[Legal Intern / Becoming a Pro Bono Attorney](https://jobright.ai/jobs/info/69821fbd0f6f7e7a2cdb3bea?utm_campaign=1055&utm_source=git)** | Fairfax, VA | On Site | Feb 03 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Branded Television Business Affairs JD Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697ca2bf137a0510256591f1?utm_campaign=1055&utm_source=git)** | Glendale, CA | On Site | Feb 03 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Privacy and Data Ethics](https://jobright.ai/jobs/info/6981f802c3101f1400c396b0?utm_campaign=1055&utm_source=git)** | Plainsboro, NJ | On Site | Feb 03 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a5aa295f8e37655dffdb?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Feb 03 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/696565b22cbf4e44756ede66?utm_campaign=1055&utm_source=git)** | Colorado Springs, CO | On Site | Feb 03 |
@@ -130,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Needham Bank](http://needhambank.com)** | **[Intern - Enterprise Risk Management (Summer 2026)](https://jobright.ai/jobs/info/6980ea587f40342e15d9c1d0?utm_campaign=1055&utm_source=git)** | Needham, MA | On Site | Feb 02 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - WEX Bank Compliance](https://jobright.ai/jobs/info/69810b1dabff4c399a9fdaef?utm_campaign=1055&utm_source=git)** | Portland, ME | On Site | Feb 02 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6981061349964d25b5e3d3ca?utm_campaign=1055&utm_source=git)** | Renton, WA | On Site | Feb 02 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern- Compliance](https://jobright.ai/jobs/info/698105027f40342e15d9debb?utm_campaign=1055&utm_source=git)** | MA, Marlborough - 290 Donald J Lynch Boulevard | On Site | Feb 02 |
-| ↳ | **[Intern- Compliance](https://jobright.ai/jobs/info/698105ac49964d25b5e3d387?utm_campaign=1055&utm_source=git)** | Marlborough, MA, US | On Site | Feb 02 |
+| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern- Compliance](https://jobright.ai/jobs/info/698105ac49964d25b5e3d387?utm_campaign=1055&utm_source=git)** | Marlborough, MA, US | On Site | Feb 02 |
+| ↳ | **[Intern- Compliance](https://jobright.ai/jobs/info/698105027f40342e15d9debb?utm_campaign=1055&utm_source=git)** | MA, Marlborough - 290 Donald J Lynch Boulevard | On Site | Feb 02 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 DC Vendor Compliance Intern](https://jobright.ai/jobs/info/6980fd5a49964d25b5e3c8e7?utm_campaign=1055&utm_source=git)** | Knoxville, TN | On Site | Feb 02 |
 | **[Montgomery County Department of Police](https://www.montgomerycountymd.gov/pol/)** | **[Law Enforcement Internships](https://jobright.ai/jobs/info/6980df007f40342e15d9a481?utm_campaign=1055&utm_source=git)** | Montgomery County, MD | On Site | Feb 02 |
 | **[RTX](http://www.raytheon.com)** | **[Contracts Intern (Summer 2026)(Remote)](https://jobright.ai/jobs/info/6980d801abff4c399a9f9408?utm_campaign=1055&utm_source=git)** | US-IL-REMOTE | Remote | Feb 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Supplier Programs](https://jobright.ai/jobs/info/697f7b40ce48107c05438a01?utm_campaign=1055&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
 | **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney's Office Brave Justice Summer 2026 Legal Internship](https://jobright.ai/jobs/info/687e9e51db19f31cf0d6bba0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 01 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Housing Program Compliance Intern](https://jobright.ai/jobs/info/697f7198abff4c399a9e16e1?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | Hybrid | Feb 01 |
-| **[Lockton](https://www.lockton.com/offices/uk)** | **[Transaction Liability Intern](https://jobright.ai/jobs/info/68f1b223f462172a5a7db42c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 01 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Immigration Law (Summer 2026)](https://jobright.ai/jobs/info/697f5f897f40342e15d81f67?utm_campaign=1055&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 01 |
-| **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/697ee2097f40342e15d7a528?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Feb 01 |
-| **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/68f18881f462172a5a7d9a16?utm_campaign=1055&utm_source=git)** | Greenville, NC | On Site | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
