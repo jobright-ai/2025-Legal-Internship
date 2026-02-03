@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dermalogica](http://www.dermalogica.com/)** | **[Intern - Regulatory](https://jobright.ai/jobs/info/69824ba8348f733a5c351810?utm_campaign=1055&utm_source=git)** | Carson, CA | Hybrid | Feb 03 |
+| **[Proof](https://www.proof.com)** | **[Legal Intern, Privacy](https://jobright.ai/jobs/info/6982451e0f6f7e7a2cdb6e54?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 03 |
+| **[Textron](http://textron.com)** | **[2026 Intern - Contracts - Hunt Valley, MD](https://jobright.ai/jobs/info/698243370f6f7e7a2cdb6c6a?utm_campaign=1055&utm_source=git)** | Hunt Valley, MD | On Site | Feb 03 |
+| **[Granite Construction](https://www.graniteconstruction.com)** | **[SHEQ Intern](https://jobright.ai/jobs/info/69823b140f6f7e7a2cdb6480?utm_campaign=1055&utm_source=git)** | Des Plaines, IL | On Site | Feb 03 |
+| **[TD](https://www.td.com)** | **[Legal Intern/Co-op](https://jobright.ai/jobs/info/69823954a314e76369059f01?utm_campaign=1055&utm_source=git)** | TD Centre - TD Tower - 66 Wellington Street West Insurance, Toronto, Ontario | Hybrid | Feb 03 |
+| **[Sony Electronics](http://www.sonyjobs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698237a2c3101f1400c3e8c2?utm_campaign=1055&utm_source=git)** | New York | Hybrid | Feb 03 |
+| **[Granite Construction](https://www.graniteconstruction.com)** | **[SHEQ Intern](https://jobright.ai/jobs/info/698232950f6f7e7a2cdb5b3b?utm_campaign=1055&utm_source=git)** | Des Plaines, Illinois | On Site | Feb 03 |
+| **[Dr. Reddy's Laboratories](http://www.drreddys.com/)** | **[Regulatory Summer Intern](https://jobright.ai/jobs/info/698231f6a314e7636905945a?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Feb 03 |
 | **[Health-E Commerce](https://www.health-ecommerce.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/698230c3c3101f1400c3db7c?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 03 |
-| **[Proof](https://www.proof.com)** | **[Legal Intern, Privacy](https://jobright.ai/jobs/info/69822e98c3101f1400c3d572?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 03 |
 | **[Gildan](https://gildancorp.com)** | **[Intern, SOX Compliance](https://jobright.ai/jobs/info/6982224c0f6f7e7a2cdb3d99?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 03 |
 | **[ICDR International](https://www.icdrintl.org)** | **[Legal Intern / Becoming a Pro Bono Attorney](https://jobright.ai/jobs/info/69821fbd0f6f7e7a2cdb3bea?utm_campaign=1055&utm_source=git)** | Fairfax, VA | On Site | Feb 03 |
+| **[Take Back The Night](https://takebackthenight.org/)** | **[Law School & Pre-Law Student Internship for Largest International Org to End Sexual Violence](https://jobright.ai/jobs/info/6982366ac3101f1400c3e7e2?utm_campaign=1055&utm_source=git)** | Wayne County, PA | Remote | Feb 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Branded Television Business Affairs JD Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697ca2bf137a0510256591f1?utm_campaign=1055&utm_source=git)** | Glendale, CA | On Site | Feb 03 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Privacy and Data Ethics](https://jobright.ai/jobs/info/6981f802c3101f1400c396b0?utm_campaign=1055&utm_source=git)** | Plainsboro, NJ | On Site | Feb 03 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a5aa295f8e37655dffdb?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Feb 03 |
@@ -134,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Needham Bank](http://needhambank.com)** | **[Intern - Enterprise Risk Management (Summer 2026)](https://jobright.ai/jobs/info/6980ea587f40342e15d9c1d0?utm_campaign=1055&utm_source=git)** | Needham, MA | On Site | Feb 02 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - WEX Bank Compliance](https://jobright.ai/jobs/info/69810b1dabff4c399a9fdaef?utm_campaign=1055&utm_source=git)** | Portland, ME | On Site | Feb 02 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6981061349964d25b5e3d3ca?utm_campaign=1055&utm_source=git)** | Renton, WA | On Site | Feb 02 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern- Compliance](https://jobright.ai/jobs/info/698105ac49964d25b5e3d387?utm_campaign=1055&utm_source=git)** | Marlborough, MA, US | On Site | Feb 02 |
-| ↳ | **[Intern- Compliance](https://jobright.ai/jobs/info/698105027f40342e15d9debb?utm_campaign=1055&utm_source=git)** | MA, Marlborough - 290 Donald J Lynch Boulevard | On Site | Feb 02 |
+| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern- Compliance](https://jobright.ai/jobs/info/698105027f40342e15d9debb?utm_campaign=1055&utm_source=git)** | MA, Marlborough - 290 Donald J Lynch Boulevard | On Site | Feb 02 |
+| ↳ | **[Intern- Compliance](https://jobright.ai/jobs/info/698105ac49964d25b5e3d387?utm_campaign=1055&utm_source=git)** | Marlborough, MA, US | On Site | Feb 02 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 DC Vendor Compliance Intern](https://jobright.ai/jobs/info/6980fd5a49964d25b5e3c8e7?utm_campaign=1055&utm_source=git)** | Knoxville, TN | On Site | Feb 02 |
 | **[Montgomery County Department of Police](https://www.montgomerycountymd.gov/pol/)** | **[Law Enforcement Internships](https://jobright.ai/jobs/info/6980df007f40342e15d9a481?utm_campaign=1055&utm_source=git)** | Montgomery County, MD | On Site | Feb 02 |
 | **[RTX](http://www.raytheon.com)** | **[Contracts Intern (Summer 2026)(Remote)](https://jobright.ai/jobs/info/6980d801abff4c399a9f9408?utm_campaign=1055&utm_source=git)** | US-IL-REMOTE | Remote | Feb 02 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rossen Law Firm](http://www.criminal-defense-dui.lawyer)** | **[Criminal Law Intern](https://jobright.ai/jobs/info/697cf9043f57a3356966b31a?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 02 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Legal Intern for the Office of General Counsel](https://jobright.ai/jobs/info/6981ac0aabff4c399aa0c36a?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 02 |
 | **[City of Denton](https://www.cityofdenton.com)** | **[Legal Intern II](https://jobright.ai/jobs/info/698198327f40342e15dabc7c?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Feb 01 |
-| **[Conair LLC](http://www.conair.com/)** | **[2026 Legal Intern](https://jobright.ai/jobs/info/6963fe1da112b402661203cd?utm_campaign=1055&utm_source=git)** | Stamford, CT | Hybrid | Feb 01 |
-| **[Foley](http://foleyservices.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69811ab27f40342e15d9f4de?utm_campaign=1055&utm_source=git)** | Remote US | Remote | Feb 01 |
-| **[Comstock Companies](http://comstockcompanies.com/)** | **[Real Estate Law Internship](https://jobright.ai/jobs/info/697fb6a7abff4c399a9e3ed9?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Feb 01 |
-| **[LeFrak](http://lefrak.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697fadebabff4c399a9e3c97?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | On Site | Feb 01 |
-| **[Swed Fintech AB](swedfintech.com)** | **[Securities Litigation Internship](https://jobright.ai/jobs/info/697f9e27abff4c399a9e341a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Feb 01 |
-| **[BioSpace](http://www.biospace.com/)** | **[Internship - Supplier Programs](https://jobright.ai/jobs/info/697f7b40ce48107c05438a01?utm_campaign=1055&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
-| **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney's Office Brave Justice Summer 2026 Legal Internship](https://jobright.ai/jobs/info/687e9e51db19f31cf0d6bba0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 01 |
-| **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Housing Program Compliance Intern](https://jobright.ai/jobs/info/697f7198abff4c399a9e16e1?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | Hybrid | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
