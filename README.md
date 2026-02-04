@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medpace](http://www.medpace.com)** | **[Regulatory Research Intern- Summer 2026](https://jobright.ai/jobs/info/69678084639b452fb57d1799?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Feb 04 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Legal Intern - Summer 2026 (Calhoun, Georgia, United States)](https://jobright.ai/jobs/info/6982b76e348f733a5c35b276?utm_campaign=1055&utm_source=git)** | Calhoun, GA | On Site | Feb 04 |
 | **[New York Power Authority](http://www.nypa.gov)** | **[Legal Affairs & Licensing Unit, Developmental Intern](https://jobright.ai/jobs/info/694a3fb231c12007d3b90228?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Feb 04 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Audit/Compliance](https://jobright.ai/jobs/info/69573548f1f8465b79edfdb4?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Feb 04 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/698293780a9e07331f8daca6?utm_campaign=1055&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Feb 03 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/6966e83b5ad3a93f8232542a?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | Feb 03 |
 | **[Marex](http://marexspectron.com)** | **[Corporate Affairs Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982b658348f733a5c35aea6?utm_campaign=1055&utm_source=git)** | New York City, NY | On Site | Feb 03 |
-| **[Werfen](http://www.werfen.com/)** | **[Regulatory Affairs Post Market Intern](https://jobright.ai/jobs/info/6982bb208232105a2d0b0e59?utm_campaign=1055&utm_source=git)** | Bedford, MA, US | On Site | Feb 03 |
-| ↳ | **[Regulatory Affairs Post Market Intern](https://jobright.ai/jobs/info/6982b397348f733a5c35aca1?utm_campaign=1055&utm_source=git)** | US-MA-Bedford | On Site | Feb 03 |
+| **[Werfen](http://www.werfen.com/)** | **[Regulatory Affairs Post Market Intern](https://jobright.ai/jobs/info/6982b397348f733a5c35aca1?utm_campaign=1055&utm_source=git)** | US-MA-Bedford | On Site | Feb 03 |
+| ↳ | **[Regulatory Affairs Post Market Intern](https://jobright.ai/jobs/info/6982bb208232105a2d0b0e59?utm_campaign=1055&utm_source=git)** | Bedford, MA, US | On Site | Feb 03 |
 | **[Semtech](http://www.semtech.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69828e19348f733a5c357625?utm_campaign=1055&utm_source=git)** | USA - San Jose, CA | On Site | Feb 03 |
 | **[CME Group](http://www.cmegroup.com)** | **[Governance Risk and Compliance (GRC) Internship - Summer 2026](https://jobright.ai/jobs/info/698287c4348f733a5c35701d?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 03 |
 | **[EquiTrust Life Insurance Company](https://www.equitrust.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/698280eb0f6f7e7a2cdbc086?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Feb 03 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[RapidRatings](http://www.rapidratings.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6981d19ba314e763690537b2?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 03 |
 | **[Terumo Neuro](http://terumoneuro.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/6981a70cabff4c399aa0be97?utm_campaign=1055&utm_source=git)** | Aliso Viejo, CA | On Site | Feb 02 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/6981a1677f40342e15dac389?utm_campaign=1055&utm_source=git)** | Aliso Viejo, California, USA | On Site | Feb 02 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Paralegal Extern-Compliance, Policy, & Risk](https://jobright.ai/jobs/info/6981c94349964d25b5e4e1c8?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 02 |
-| ↳ | **[2026-2027 Yearlong Paralegal Extern-Torts](https://jobright.ai/jobs/info/6981c7ec49964d25b5e4e169?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 02 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Paralegal Extern-Torts](https://jobright.ai/jobs/info/6981c7ec49964d25b5e4e169?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 02 |
+| ↳ | **[2026-2027 Yearlong Paralegal Extern-Compliance, Policy, & Risk](https://jobright.ai/jobs/info/6981c94349964d25b5e4e1c8?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 02 |
 | ↳ | **[Summer 2026-2027 Technical Writing Intern-Safety Compliance](https://jobright.ai/jobs/info/6981c9b049964d25b5e4e1f5?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 02 |
 | ↳ | **[2026-2027 Yearlong Paralegal Extern-Labor & Employment](https://jobright.ai/jobs/info/6981c7ab49964d25b5e4e157?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 02 |
 | **[RapidRatings](http://www.rapidratings.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6981b46f7f40342e15dad0c9?utm_campaign=1055&utm_source=git)** | New York, New York, United States | Hybrid | Feb 02 |
 | **[Cogeco Inc.](http://corpo.cogeco.com/cgo/en/)** | **[Intern, Legal, Regulatory, Government Relations & Privacy](https://jobright.ai/jobs/info/69818f3449964d25b5e4a933?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 02 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698186f249964d25b5e4867c?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 02 |
-| ↳ | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/6981838749964d25b5e48040?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
