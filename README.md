@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marex](http://marexspectron.com)** | **[Compliance Surveillance Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982a8190f6f7e7a2cdbf9c2?utm_campaign=1055&utm_source=git)** | New York City, NY | On Site | Feb 03 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Internship - Legal](https://jobright.ai/jobs/info/6982a2fa0a9e07331f8dce6b?utm_campaign=1055&utm_source=git)** | CT Stamford HQ | Hybrid | Feb 03 |
 | **[Marex](http://marexspectron.com)** | **[Corporate Affairs Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982a1130a9e07331f8dcc3e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | ↳ | **[Financial Crimes Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/69829f6a0f6f7e7a2cdbf11e?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 03 |
@@ -85,8 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Litigation Internship - June 2026](https://jobright.ai/jobs/info/698288b50a9e07331f8da334?utm_campaign=1055&utm_source=git)** | Washington D.C., United States of America | Hybrid | Feb 03 |
 | **[Imperial PFS](https://www.ipfs.com)** | **[Paralegal /Legal Intern](https://jobright.ai/jobs/info/697d2631137a0510256621a4?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Feb 03 |
 | **[Entegris](http://www.entegris.com)** | **[Governance, Risk and Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/694a4ed23019f50a4fe5746f?utm_campaign=1055&utm_source=git)** | Aurora, IL | On Site | Feb 03 |
-| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Legal Intern (1L)](https://jobright.ai/jobs/info/698286220f6f7e7a2cdbc7ee?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 03 |
-| ↳ | **[Summer 2026 Legal Intern (1L)](https://jobright.ai/jobs/info/69827aec348f733a5c356194?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Feb 03 |
+| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Legal Intern (1L)](https://jobright.ai/jobs/info/69827aec348f733a5c356194?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Feb 03 |
+| ↳ | **[Summer 2026 Legal Intern (1L)](https://jobright.ai/jobs/info/698286220f6f7e7a2cdbc7ee?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 03 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Litigation Specialist Intern](https://jobright.ai/jobs/info/697d5e47137a051025667e9c?utm_campaign=1055&utm_source=git)** | Riverside, CA | Hybrid | Feb 03 |
 | **[Sony](https://www.sony.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698275900a9e07331f8d8586?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Feb 03 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Cyber Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/698253e50a9e07331f8d520d?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 03 |
@@ -109,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Health-E Commerce](https://www.health-ecommerce.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/698230c3c3101f1400c3db7c?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 03 |
 | **[Expeditors](http://www.expeditors.com)** | **[Internship - Customs Post Entry Team](https://jobright.ai/jobs/info/698253120f6f7e7a2cdb79e5?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Feb 03 |
 | **[TD](https://www.td.com)** | **[Legal Intern/Co-op](https://jobright.ai/jobs/info/69825fb00a9e07331f8d61c4?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 03 |
+| **[Health-E Commerce](https://www.health-ecommerce.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69825073348f733a5c351db5?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 03 |
 | **[Gildan](https://gildancorp.com)** | **[Intern, SOX Compliance](https://jobright.ai/jobs/info/6982224c0f6f7e7a2cdb3d99?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 03 |
 | **[ICDR International](https://www.icdrintl.org)** | **[Legal Intern / Becoming a Pro Bono Attorney](https://jobright.ai/jobs/info/69821fbd0f6f7e7a2cdb3bea?utm_campaign=1055&utm_source=git)** | Fairfax, VA | On Site | Feb 03 |
 | **[Take Back The Night](https://takebackthenight.org/)** | **[Law School & Pre-Law Student Internship for Largest International Org to End Sexual Violence](https://jobright.ai/jobs/info/6982366ac3101f1400c3e7e2?utm_campaign=1055&utm_source=git)** | Wayne County, PA | Remote | Feb 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern (On-site)](https://jobright.ai/jobs/info/69817317abff4c399aa07055?utm_campaign=1055&utm_source=git)** | 400 Broadacres Drive, Bloomfield, NJ, United States | On Site | Feb 02 |
 | **[Kiewit](http://www.kiewit.com)** | **[Contracts Administrator Intern - Kiewit Industrial & Water Engineering (Summer 2026)](https://jobright.ai/jobs/info/698143d57f40342e15da3535?utm_campaign=1055&utm_source=git)** | Lone Tree, CO | On Site | Feb 02 |
 | **[KENT WORLDWIDE](https://kentww.com)** | **[CORPORATE LEGAL INTERN](https://jobright.ai/jobs/info/69828cbb0f6f7e7a2cdbcd72?utm_campaign=1055&utm_source=git)** | Muscatine, IA | On Site | Feb 02 |
-| **[Cogeco Media](http://www.cogecomedia.com)** | **[Intern, Legal, Regulatory, Government Relations & Privacy](https://jobright.ai/jobs/info/698141b449964d25b5e42556?utm_campaign=1055&utm_source=git)** | Montréal, QC | On Site | Feb 02 |
-| **[Avnet](https://www.avnet.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69813f747f40342e15da313c?utm_campaign=1055&utm_source=git)** | Phoenix, Arizona, United States Of America | Hybrid | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
