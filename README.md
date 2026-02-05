@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canadian Strategic Missions Corporation (CSMC)](https://csmc-scms.ca)** | **[Legal Intern](https://jobright.ai/jobs/info/6984058d0f6f7e7a2cde1627?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 04 |
+| **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[Law Clerk](https://jobright.ai/jobs/info/698400da01214b4cdacc5426?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Feb 04 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Risk & Compliance Services Summer Intern – Cyber Risk](https://jobright.ai/jobs/info/6983fc610f6f7e7a2cde0065?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA | Hybrid | Feb 04 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/6983f9780f6f7e7a2cddfa5b?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Feb 04 |
 | **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[Law Clerk](https://jobright.ai/jobs/info/6983f0f901214b4cdacc3128?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Feb 04 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Contract Administration (Summer 2026)](https://jobright.ai/jobs/info/6983ee3701214b4cdacc2fbf?utm_campaign=1055&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 04 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Environmental Compliance Intern](https://jobright.ai/jobs/info/69703813333b6343a14ca0f8?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Feb 04 |
 | **[Liberty Bank - CT](http://www.liberty-bank.com/)** | **[Fraud Intelligence Internship](https://jobright.ai/jobs/info/696811e01703f05405a9af4d?utm_campaign=1055&utm_source=git)** | Middletown, CT | On Site | Feb 04 |
-| ↳ | **[Legal Internship](https://jobright.ai/jobs/info/69681028639b452fb57d9e56?utm_campaign=1055&utm_source=git)** | Middletown, CT | On Site | Feb 04 |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Risk and Compliance Services Summer Intern](https://jobright.ai/jobs/info/6984046a348f733a5c37b7b3?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA | Hybrid | Feb 04 |
+| **[5Star Life Insurance Company](https://5starlifeinsurance.com/)** | **[Legal and Compliance Intern - Summer Position](https://jobright.ai/jobs/info/69840081348f733a5c37aebf?utm_campaign=1055&utm_source=git)** | VA - Alexandria, Alexandria, VA, US | Hybrid | Feb 04 |
+| **[Liberty Bank - CT](http://www.liberty-bank.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/69681028639b452fb57d9e56?utm_campaign=1055&utm_source=git)** | Middletown, CT | On Site | Feb 04 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/6983ca19348f733a5c372a44?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 04 |
 | **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Legal Affairs, Canada Growth Fund Investment Management (May - August 2026)](https://jobright.ai/jobs/info/6983e67d01214b4cdacc1a5c?utm_campaign=1055&utm_source=git)** | Montreal | On Site | Feb 04 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6983c1120f6f7e7a2cdd6a01?utm_campaign=1055&utm_source=git)** | Fresno, CA | On Site | Feb 04 |
@@ -84,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[LA28 Olympic & Paralympic Games](https://la28.org/)** | **[LA28 Summer Internship - 2026 (Legal)](https://jobright.ai/jobs/info/6983a7ee0f6f7e7a2cdd2634?utm_campaign=1055&utm_source=git)** | Los Angeles, California, United States | On Site | Feb 04 |
 | **[Tarion](http://www.tarion.com)** | **[Law, Summer Student Internship/Coop](https://jobright.ai/jobs/info/6983a77101214b4cdacb6d57?utm_campaign=1055&utm_source=git)** | Toronto, ON | Hybrid | Feb 04 |
 | **[Jabil](https://www.jabil.com)** | **[L&E Compliance Data Analyst Intern](https://jobright.ai/jobs/info/6983c4bc01214b4cdacbbba5?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Feb 04 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 SOC Compliance Internship - MA Conversion](https://jobright.ai/jobs/info/6983dfd401214b4cdacc06fc?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Feb 04 |
-| ↳ | **[Summer 2026 SOC Compliance Internship - MA Conversion](https://jobright.ai/jobs/info/6983d5d3348f733a5c3746f3?utm_campaign=1055&utm_source=git)** | Lehi, UT | On Site | Feb 04 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 SOC Compliance Internship - MA Conversion](https://jobright.ai/jobs/info/6983d5d3348f733a5c3746f3?utm_campaign=1055&utm_source=git)** | Lehi, UT | On Site | Feb 04 |
+| ↳ | **[Summer 2026 SOC Compliance Internship - MA Conversion](https://jobright.ai/jobs/info/6983dfd401214b4cdacc06fc?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Feb 04 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Internship - Legal](https://jobright.ai/jobs/info/6983a6a701214b4cdacb6b77?utm_campaign=1055&utm_source=git)** | Stamford, CT | Hybrid | Feb 04 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 SOC Compliance Internship - MA Conversion](https://jobright.ai/jobs/info/6983cc1e0f6f7e7a2cdd862f?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Feb 04 |
 | ↳ | **[Summer 2026 Compliance Internal Audit Internship - MA Conversion](https://jobright.ai/jobs/info/6983c79c01214b4cdacbc48f?utm_campaign=1055&utm_source=git)** | San Francisco County, CA | On Site | Feb 04 |
@@ -99,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/6983d76701214b4cdacbed11?utm_campaign=1055&utm_source=git)** | Indianapolis, Indiana, USA | On Site | Feb 04 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2026 Compliance Internal Audit Internship - MA Conversion](https://jobright.ai/jobs/info/6983db5d0f6f7e7a2cddb0c3?utm_campaign=1055&utm_source=git)** | USA CA San Francisco 333 Bush St | On Site | Feb 04 |
 | ↳ | **[Summer 2026 SOC Compliance Internship - MA Conversion](https://jobright.ai/jobs/info/6983d1720f6f7e7a2cdd91d8?utm_campaign=1055&utm_source=git)** | USA UT Lehi | On Site | Feb 04 |
-| ↳ | **[Summer 2026 SOC Compliance Internship - MA Conversion](https://jobright.ai/jobs/info/6983df480f6f7e7a2cddbb2c?utm_campaign=1055&utm_source=git)** | USA WA Seattle 999 Third Ave | On Site | Feb 04 |
 | ↳ | **[Summer 2026 SOC Compliance Internship - MA Conversion](https://jobright.ai/jobs/info/6983ed0101214b4cdacc2d13?utm_campaign=1055&utm_source=git)** | USA CA Irvine 2050 Main St | On Site | Feb 04 |
+| ↳ | **[Summer 2026 SOC Compliance Internship - MA Conversion](https://jobright.ai/jobs/info/6983df480f6f7e7a2cddbb2c?utm_campaign=1055&utm_source=git)** | USA WA Seattle 999 Third Ave | On Site | Feb 04 |
 | ↳ | **[Summer 2026 SOC Compliance Internship - MA Conversion](https://jobright.ai/jobs/info/6983d90c348f733a5c3750f5?utm_campaign=1055&utm_source=git)** | USA TX Dallas 14555 Dallas Parkway | On Site | Feb 04 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Compliance (Milwaukee, WI Year-Round)](https://jobright.ai/jobs/info/69838ddd348f733a5c36a52d?utm_campaign=1055&utm_source=git)** | WI-Milwaukee | Hybrid | Feb 04 |
 | **[Denali Ingredients](https://www.denaliingredients.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/6983f5500f6f7e7a2cddf09a?utm_campaign=1055&utm_source=git)** | New Berlin,WI,US | On Site | Feb 04 |
@@ -113,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Safety National](https://www.safetynational.com)** | **[Liability Claims Intern](https://jobright.ai/jobs/info/698390f60f6f7e7a2cdd0267?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Feb 04 |
 | **[Docusign](http://www.docusign.com)** | **[In-House Legal Intern](https://jobright.ai/jobs/info/697b290a1423772304eb492b?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Feb 04 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL | On Site | Feb 04 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/6983697e0f6f7e7a2cdcce61?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 04 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/698367f201214b4cdacb12d3?utm_campaign=1055&utm_source=git)** | Berkeley Heights | On Site | Feb 04 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | Feb 04 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7e7217a37c712687d6d3d?utm_campaign=1055&utm_source=git)** | West Deptford, NJ | On Site | Feb 04 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/698293780a9e07331f8daca6?utm_campaign=1055&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Feb 03 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/6966e83b5ad3a93f8232542a?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | Feb 03 |
 | **[Marex](http://marexspectron.com)** | **[Corporate Affairs Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982b658348f733a5c35aea6?utm_campaign=1055&utm_source=git)** | New York City, NY | On Site | Feb 03 |
-| **[Werfen](http://www.werfen.com/)** | **[Regulatory Affairs Post Market Intern](https://jobright.ai/jobs/info/6982b397348f733a5c35aca1?utm_campaign=1055&utm_source=git)** | US-MA-Bedford | On Site | Feb 03 |
-| ↳ | **[Regulatory Affairs Post Market Intern](https://jobright.ai/jobs/info/6982bb208232105a2d0b0e59?utm_campaign=1055&utm_source=git)** | Bedford, MA, US | On Site | Feb 03 |
-| **[Semtech](http://www.semtech.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69828e19348f733a5c357625?utm_campaign=1055&utm_source=git)** | USA - San Jose, CA | On Site | Feb 03 |
-| **[CME Group](http://www.cmegroup.com)** | **[Governance Risk and Compliance (GRC) Internship - Summer 2026](https://jobright.ai/jobs/info/698287c4348f733a5c35701d?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 03 |
+| **[Werfen](http://www.werfen.com/)** | **[Regulatory Affairs Post Market Intern](https://jobright.ai/jobs/info/6982bb208232105a2d0b0e59?utm_campaign=1055&utm_source=git)** | Bedford, MA, US | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
