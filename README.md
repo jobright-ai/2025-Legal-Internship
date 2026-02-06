@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Docusign](http://www.docusign.com)** | **[In-House Legal Intern](https://jobright.ai/jobs/info/697b7d571136d179eeeefe27?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Feb 05 |
+| **[T. Rowe Price Singapore](https://www.troweprice.com/sg)** | **[2026 Legal Internship](https://jobright.ai/jobs/info/69858dc1348f733a5c3a0a9b?utm_campaign=1055&utm_source=git)** | Owings Mills, MD | Hybrid | Feb 05 |
+| ↳ | **[2026 Compliance Internship](https://jobright.ai/jobs/info/69858bfa0f6f7e7a2ce0665d?utm_campaign=1055&utm_source=git)** | Owings Mills, MD | Hybrid | Feb 05 |
+| **[Koch](https://www.kochinc.com)** | **[Tax Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6913cb37d1047e3565d0624b?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Feb 05 |
 | **[Pernod Ricard](https://www.pernod-ricard.com)** | **[Legal Intern, Marketing & Innovation](https://jobright.ai/jobs/info/698582a5348f733a5c39f624?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | **[LWCC](https://www.lwcc.com/)** | **[Policyholder Services Intern](https://jobright.ai/jobs/info/6969acd81703f05405abaa6b?utm_campaign=1055&utm_source=git)** | Baton Rouge Metro | On Site | Feb 05 |
 | **[Pernod Ricard](https://www.pernod-ricard.com)** | **[Legal Intern, Corporate & Transactions](https://jobright.ai/jobs/info/698581c7348f733a5c39f4d6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
-| ↳ | **[Legal Intern, Marketing & Innovation](https://jobright.ai/jobs/info/698580aa348f733a5c39f341?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
+| **[NexaCore Consulting](nexacoreconsulting.us)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/69859d42348f733a5c3a1f6c?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Feb 05 |
+| **[Pernod Ricard](https://www.pernod-ricard.com)** | **[Legal Intern, Marketing & Innovation](https://jobright.ai/jobs/info/698580aa348f733a5c39f341?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | ↳ | **[Legal Intern, Employment, Immigration & Compliance](https://jobright.ai/jobs/info/69857aa48da7a612046018d6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | **[MSIG USA](https://www.msigusa.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/6969b5aaf25a380066986b08?utm_campaign=1055&utm_source=git)** | Warren, NJ | Hybrid | Feb 05 |
+| **[Maryland Auto Insurance](https://www.mymarylandauto.com)** | **[PT House Counsel/Legal Intern](https://jobright.ai/jobs/info/69858ad7348f733a5c3a0648?utm_campaign=1055&utm_source=git)** | Headquarters - Baltimore, MD 21230 | Hybrid | Feb 05 |
+| **[Pernod Ricard](https://www.pernod-ricard.com)** | **[Legal Intern, Corporate & Transactions](https://jobright.ai/jobs/info/69859e09348f733a5c3a200a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Legal Intern](https://jobright.ai/jobs/info/698566040f6f7e7a2ce022bb?utm_campaign=1055&utm_source=git)** | Herndon, VA | Hybrid | Feb 05 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/698560060f6f7e7a2ce018ba?utm_campaign=1055&utm_source=git)** | Buffalo, NY | Hybrid | Feb 05 |
 | **[Pernod Ricard](https://www.pernod-ricard.com)** | **[Legal Intern, Employment, Immigration & Compliance](https://jobright.ai/jobs/info/69857d7f8da7a612046019ac?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
@@ -117,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Parsons Corporation](http://www.parsons.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/6984e25c348f733a5c39022d?utm_campaign=1055&utm_source=git)** | Virginia, United States | Remote | Feb 05 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Fraud Intern](https://jobright.ai/jobs/info/6984e0b00f6f7e7a2cdf5ceb?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Feb 05 |
 | **[City of New York](http://www1.nyc.gov)** | **[Intern - Contract Review and Research](https://jobright.ai/jobs/info/6984de06348f733a5c38fc25?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Feb 05 |
-| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Project Compliance Intern](https://jobright.ai/jobs/info/6984fcb2348f733a5c391828?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, US | On Site | Feb 05 |
-| ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/698516c4348f733a5c393e41?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | Feb 05 |
+| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Project Compliance Intern](https://jobright.ai/jobs/info/698516c4348f733a5c393e41?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | Feb 05 |
+| ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6984fcb2348f733a5c391828?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, US | On Site | Feb 05 |
 | ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6984fcbb0f6f7e7a2cdf74c6?utm_campaign=1055&utm_source=git)** | Houston, TX, US | On Site | Feb 05 |
 | **[Moskowitz Legal Group, LLP](http://moskowitzlegalgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6984d8920f6f7e7a2cdf5338?utm_campaign=1055&utm_source=git)** | Hewlett, NY | On Site | Feb 05 |
 | **[City of New York](http://www1.nyc.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6984d8200f6f7e7a2cdf52fe?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Feb 05 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Cheyenne)](https://jobright.ai/jobs/info/6968fa87f25a3800669790da?utm_campaign=1055&utm_source=git)** | Cheyenne, WY | On Site | Feb 05 |
 | ↳ | **[Summer Law Clerk – Commercial Litigation, Holland & Hart (Las Vegas)](https://jobright.ai/jobs/info/696912d2639b452fb57ed70f?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
 | ↳ | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart  (Salt Lake City)](https://jobright.ai/jobs/info/69690141f25a3800669794f0?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Feb 05 |
-| ↳ | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Helena)](https://jobright.ai/jobs/info/696902b9f25a3800669795e8?utm_campaign=1055&utm_source=git)** | Helena, MT | On Site | Feb 05 |
-| ↳ | **[Summer Law Clerk – Commercial Litigation, Holland & Hart (Salt Lake City)](https://jobright.ai/jobs/info/6968fab31703f05405aad91b?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Feb 05 |
-| ↳ | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Santa Fe)](https://jobright.ai/jobs/info/6968f2ee639b452fb57ec4ef?utm_campaign=1055&utm_source=git)** | Santa Fe, NM | On Site | Feb 05 |
-| **[Campaign for Working Families, Inc.](https://cwfphilly.org/)** | **[LITC Law Student Intern](https://jobright.ai/jobs/info/6984a789348f733a5c38c257?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 05 |
-| **[State of Missouri](http://mo.gov)** | **[Law Student Legal Intern - Missouri State Public Defender System](https://jobright.ai/jobs/info/6984318c348f733a5c381f1f?utm_campaign=1055&utm_source=git)** | Missouri, United States | On Site | Feb 05 |
-| **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6933946c764507023d1b702a?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 05 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Global Compliance Intern Summer 2026](https://jobright.ai/jobs/info/69843194348f733a5c381f70?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
