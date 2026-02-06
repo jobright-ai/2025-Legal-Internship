@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pernod Ricard](https://www.pernod-ricard.com)** | **[Legal Intern, Corporate & Transactions](https://jobright.ai/jobs/info/6985d0af8da7a61204608380?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | **[LumoraX](lumorax.us)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/6985ada10f6f7e7a2ce08e4f?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Feb 06 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk Intern – Technology Expertise (Summer 2026)](https://jobright.ai/jobs/info/6930ac31fa28370be26b238d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 06 |
 | **[Lendistry](http://www.Lendistry.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69797284ca92cf0d6a829590?utm_campaign=1055&utm_source=git)** | LA Metro Area | On Site | Feb 06 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Koch](https://www.kochinc.com)** | **[Tax Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6913cb37d1047e3565d0624b?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Feb 05 |
 | **[Pernod Ricard](https://www.pernod-ricard.com)** | **[Legal Intern, Marketing & Innovation](https://jobright.ai/jobs/info/698582a5348f733a5c39f624?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | **[LWCC](https://www.lwcc.com/)** | **[Policyholder Services Intern](https://jobright.ai/jobs/info/6969acd81703f05405abaa6b?utm_campaign=1055&utm_source=git)** | Baton Rouge Metro | On Site | Feb 05 |
-| **[Pernod Ricard](https://www.pernod-ricard.com)** | **[Legal Intern, Corporate & Transactions](https://jobright.ai/jobs/info/698581c7348f733a5c39f4d6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | **[NexaCore Consulting](nexacoreconsulting.us)** | **[Compliance Summer Intern](https://jobright.ai/jobs/info/69859d42348f733a5c3a1f6c?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Feb 05 |
 | **[Pernod Ricard](https://www.pernod-ricard.com)** | **[Legal Intern, Marketing & Innovation](https://jobright.ai/jobs/info/698580aa348f733a5c39f341?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | ↳ | **[Legal Intern, Employment, Immigration & Compliance](https://jobright.ai/jobs/info/69857aa48da7a612046018d6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
@@ -78,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/698560060f6f7e7a2ce018ba?utm_campaign=1055&utm_source=git)** | Buffalo, NY | Hybrid | Feb 05 |
 | **[Pernod Ricard](https://www.pernod-ricard.com)** | **[Legal Intern, Employment, Immigration & Compliance](https://jobright.ai/jobs/info/69857d7f8da7a612046019ac?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Legal Intern](https://jobright.ai/jobs/info/69696a411703f05405ab4a00?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
-| **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6985b3440f6f7e7a2ce092dc?utm_campaign=1055&utm_source=git)** | San Bruno, CA | Hybrid | Feb 05 |
 | **[Jabil](https://www.jabil.com)** | **[Ethics & Compliance Business Analyst - Intern](https://jobright.ai/jobs/info/6985502c8da7a612045fc931?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Feb 05 |
 | **[Zayo Group](https://www.zayo.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69854edf0f6f7e7a2cdff643?utm_campaign=1055&utm_source=git)** | Colorado, United States | Hybrid | Feb 05 |
 | **[Gogo](https://business.gogoair.com/)** | **[Regulatory Intern](https://jobright.ai/jobs/info/69854e37348f733a5c39974a?utm_campaign=1055&utm_source=git)** | Denver Metropolitan Area | On Site | Feb 05 |
@@ -129,9 +128,9 @@ For a complete list, click the following sortable link below:
 | **[Parsons Corporation](http://www.parsons.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/6984e25c348f733a5c39022d?utm_campaign=1055&utm_source=git)** | Virginia, United States | Remote | Feb 05 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Fraud Intern](https://jobright.ai/jobs/info/6984e0b00f6f7e7a2cdf5ceb?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Feb 05 |
 | **[City of New York](http://www1.nyc.gov)** | **[Intern - Contract Review and Research](https://jobright.ai/jobs/info/6984de06348f733a5c38fc25?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Feb 05 |
-| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Project Compliance Intern](https://jobright.ai/jobs/info/6984fcbb0f6f7e7a2cdf74c6?utm_campaign=1055&utm_source=git)** | Houston, TX, US | On Site | Feb 05 |
-| ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6984fcb2348f733a5c391828?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, US | On Site | Feb 05 |
+| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Project Compliance Intern](https://jobright.ai/jobs/info/6984fcb2348f733a5c391828?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, US | On Site | Feb 05 |
 | ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/698516c4348f733a5c393e41?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | Feb 05 |
+| ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6984fcbb0f6f7e7a2cdf74c6?utm_campaign=1055&utm_source=git)** | Houston, TX, US | On Site | Feb 05 |
 | **[Moskowitz Legal Group, LLP](http://moskowitzlegalgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6984d8920f6f7e7a2cdf5338?utm_campaign=1055&utm_source=git)** | Hewlett, NY | On Site | Feb 05 |
 | **[City of New York](http://www1.nyc.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6984d8200f6f7e7a2cdf52fe?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Feb 05 |
 | **[Jabil](https://www.jabil.com)** | **[Global Immigration Intern](https://jobright.ai/jobs/info/6984d6068da7a612045f1e0a?utm_campaign=1055&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Feb 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Lake Shore Cryotronics](http://lakeshore.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69851091348f733a5c3931ca?utm_campaign=1055&utm_source=git)** | Westerville, OH | On Site | Feb 05 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Corporate, Holland & Hart (Boise)](https://jobright.ai/jobs/info/6968f18e639b452fb57ec4c5?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Feb 05 |
 | ↳ | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart  (Denver)](https://jobright.ai/jobs/info/69691843639b452fb57ed9cc?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 05 |
+| ↳ | **[Summer Law Clerk – Commercial Litigation, Holland & Hart (Denver)](https://jobright.ai/jobs/info/69690709639b452fb57ed130?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
