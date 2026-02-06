@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Regulatory Affairs Intern - Miami, Florida](https://jobright.ai/jobs/info/693a33a9ac80bb5492bcbba6?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Feb 06 |
+| **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/68d0150afb49c96ca6eade34?utm_campaign=1055&utm_source=git)** | Richmond, VA | Remote | Feb 06 |
 | **[Pernod Ricard](https://www.pernod-ricard.com)** | **[Legal Intern, Marketing & Innovation](https://jobright.ai/jobs/info/6985d41a8ca8121a3a6806b1?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Canada Compliance Intern – Financial Security (May-August 2026)](https://jobright.ai/jobs/info/69183b3c45fb6f5ead8a341c?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 06 |
 | **[Pernod Ricard](https://www.pernod-ricard.com)** | **[Legal Intern, Employment, Immigration & Compliance](https://jobright.ai/jobs/info/6985d2d28ca8121a3a68048a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Law Clerk – Patent Systems, Holland & Hart (Boulder)](https://jobright.ai/jobs/info/69690f671703f05405aae4b8?utm_campaign=1055&utm_source=git)** | Boulder, CO | On Site | Feb 05 |
 | ↳ | **[Summer Law Clerk – Corporate, Holland & Hart (Denver)](https://jobright.ai/jobs/info/696f39ad0f4e0f657ea391bb?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 05 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/68d30ef68c62e63bc7fdd58f?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Feb 05 |
-| **[SRC](https://www.srcinc.com/)** | **[Contracts (Intern - Summer 2026)](https://jobright.ai/jobs/info/6984d81a8da7a612045f2378?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | Feb 05 |
-| **[Lake Shore Cryotronics](http://lakeshore.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69851091348f733a5c3931ca?utm_campaign=1055&utm_source=git)** | Westerville, OH | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
