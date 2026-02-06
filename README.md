@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Intern Summer - Law School Legal](https://jobright.ai/jobs/info/696984681703f05405ab6fa1?utm_campaign=1055&utm_source=git)** | Ridgefield, CT | On Site | Feb 05 |
+| **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/68f83e54a628d10664e80c70?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Feb 05 |
+| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Project Compliance Intern](https://jobright.ai/jobs/info/698520808da7a612045f7ad5?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA | On Site | Feb 05 |
+| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6985201c0f6f7e7a2cdfa9f8?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Feb 05 |
+| ↳ | **[Summer Legal Intern](https://jobright.ai/jobs/info/69851e690f6f7e7a2cdfa786?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Feb 05 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Law Student Intern, Office for Interactions with Industry](https://jobright.ai/jobs/info/69851dc58da7a612045f774c?utm_campaign=1055&utm_source=git)** | Somerville-MA | Hybrid | Feb 05 |
 | **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Legal Affairs (Access to Information, Privacy and Commercial) (May – August 2026)](https://jobright.ai/jobs/info/698517180f6f7e7a2cdf9a4f?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 05 |
 | **[Ozinga](https://www.ozinga.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6985153a348f733a5c393b1d?utm_campaign=1055&utm_source=git)** | Mokena, IL | On Site | Feb 05 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Global Regulatory Affairs Summer Intern](https://jobright.ai/jobs/info/698514218da7a612045f693f?utm_campaign=1055&utm_source=git)** | Titusville, New Jersey, United States of America | Hybrid | Feb 05 |
@@ -67,7 +73,10 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Global Regulatory Affairs Summer Intern](https://jobright.ai/jobs/info/69850ac2348f733a5c392767?utm_campaign=1055&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 05 |
 | **[Xerox](https://www.xerox.com/)** | **[Cybersecurity Governance, Risk & Compliance Intern](https://jobright.ai/jobs/info/698505a50f6f7e7a2cdf7f0e?utm_campaign=1055&utm_source=git)** | Lexington, KY | Hybrid | Feb 05 |
 | **[Oil-Dri Corporation of America](http://oildri.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698501a08da7a612045f4aee?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 05 |
-| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/698516af348f733a5c393e0b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Feb 05 |
+| **[South Jersey Industries](https://www.sjindustries.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69852378348f733a5c3950d2?utm_campaign=1055&utm_source=git)** | Folsom, NJ | Hybrid | Feb 05 |
+| **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/69851927348f733a5c3943ec?utm_campaign=1055&utm_source=git)** | Colorado Springs, CO | On Site | Feb 05 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Global Regulatory Affairs Summer Intern](https://jobright.ai/jobs/info/698519ec0f6f7e7a2cdfa0e2?utm_campaign=1055&utm_source=git)** | Spring House, Pennsylvania, United States of America | Hybrid | Feb 05 |
+| **[Jabil](https://www.jabil.com)** | **[Global Immigration Intern](https://jobright.ai/jobs/info/69851c69348f733a5c394957?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Feb 05 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IHCDA - Legal Intern](https://jobright.ai/jobs/info/6984f0350f6f7e7a2cdf6965?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Feb 05 |
 | **[Times Microwave Systems](http://www.timesmicrowave.com/)** | **[Document Control Intern](https://jobright.ai/jobs/info/698516788da7a612045f6e5d?utm_campaign=1055&utm_source=git)** | Wallingford, CT | On Site | Feb 05 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern – Anti-Doping Compliance Intern, UFC](https://jobright.ai/jobs/info/698509788da7a612045f5226?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
@@ -76,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Parsons Corporation](http://www.parsons.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/6984e25c348f733a5c39022d?utm_campaign=1055&utm_source=git)** | Virginia, United States | Remote | Feb 05 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Fraud Intern](https://jobright.ai/jobs/info/6984e0b00f6f7e7a2cdf5ceb?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Feb 05 |
 | **[City of New York](http://www1.nyc.gov)** | **[Intern - Contract Review and Research](https://jobright.ai/jobs/info/6984de06348f733a5c38fc25?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Feb 05 |
-| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Project Compliance Intern](https://jobright.ai/jobs/info/698516c4348f733a5c393e41?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | Feb 05 |
-| ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6984fcbb0f6f7e7a2cdf74c6?utm_campaign=1055&utm_source=git)** | Houston, TX, US | On Site | Feb 05 |
+| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Project Compliance Intern](https://jobright.ai/jobs/info/6984fcbb0f6f7e7a2cdf74c6?utm_campaign=1055&utm_source=git)** | Houston, TX, US | On Site | Feb 05 |
+| ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/698516c4348f733a5c393e41?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | Feb 05 |
 | ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6984fcb2348f733a5c391828?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, US | On Site | Feb 05 |
 | **[Moskowitz Legal Group, LLP](http://moskowitzlegalgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6984d8920f6f7e7a2cdf5338?utm_campaign=1055&utm_source=git)** | Hewlett, NY | On Site | Feb 05 |
 | **[City of New York](http://www1.nyc.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6984d8200f6f7e7a2cdf52fe?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Feb 05 |
@@ -143,18 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Risk and Compliance Services Summer Intern](https://jobright.ai/jobs/info/6983dbd1348f733a5c3757b2?utm_campaign=1055&utm_source=git)** | Baton Rouge | Hybrid | Feb 04 |
 | **[University of Denver](http://www.du.edu/)** | **[IAALS Law Student Intern](https://jobright.ai/jobs/info/6983b2f20f6f7e7a2cdd424c?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Feb 04 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6983b1e001214b4cdacb88d5?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Feb 04 |
-| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Contracts - Intern](https://jobright.ai/jobs/info/698429de348f733a5c380b26?utm_campaign=1055&utm_source=git)** | Alberta | On Site | Feb 04 |
-| ↳ | **[Contracts - Intern](https://jobright.ai/jobs/info/69840b8e0f6f7e7a2cde23d8?utm_campaign=1055&utm_source=git)** | CANADA | Remote | Feb 04 |
+| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Contracts - Intern](https://jobright.ai/jobs/info/69840b8e0f6f7e7a2cde23d8?utm_campaign=1055&utm_source=git)** | CANADA | Remote | Feb 04 |
+| ↳ | **[Contracts - Intern](https://jobright.ai/jobs/info/698429de348f733a5c380b26?utm_campaign=1055&utm_source=git)** | Alberta | On Site | Feb 04 |
 | ↳ | **[Contracts - Intern](https://jobright.ai/jobs/info/698421508da7a612045e1977?utm_campaign=1055&utm_source=git)** | Calgary | On Site | Feb 04 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69104536988c2b7b4ec50c5d?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Feb 04 |
 | **[The Law Offices of Benjamin T. McLawhorn](www.mclawfirmnc.com)** | **[Paralegal](https://jobright.ai/jobs/info/6983cf070f6f7e7a2cdd8ae3?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Feb 04 |
-| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Contracts Intern (Summer 2026)(Remote)](https://jobright.ai/jobs/info/6983acdd01214b4cdacb7aab?utm_campaign=1055&utm_source=git)** | Hartford, CT | Remote | Feb 04 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Contract Administration (Summer 2026)](https://jobright.ai/jobs/info/6983e5b7348f733a5c3773c3?utm_campaign=1055&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Feb 04 |
-| **[LA28 Olympic & Paralympic Games](https://la28.org/)** | **[LA28 Summer Internship - 2026 (Legal)](https://jobright.ai/jobs/info/6983d9b80f6f7e7a2cddab4f?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Feb 04 |
-| **[Legend Biotech](https://www.legendbiotech.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6983d213348f733a5c373b77?utm_campaign=1055&utm_source=git)** | Somerset, New Jersey, United States | On Site | Feb 04 |
-| **[LA28 Olympic & Paralympic Games](https://la28.org/)** | **[LA28 Summer Internship - 2026 (Legal)](https://jobright.ai/jobs/info/6983a7ee0f6f7e7a2cdd2634?utm_campaign=1055&utm_source=git)** | Los Angeles, California, United States | On Site | Feb 04 |
-| **[Tarion](http://www.tarion.com)** | **[Law, Summer Student Internship/Coop](https://jobright.ai/jobs/info/6983a77101214b4cdacb6d57?utm_campaign=1055&utm_source=git)** | Toronto, ON | Hybrid | Feb 04 |
-| **[Jabil](https://www.jabil.com)** | **[L&E Compliance Data Analyst Intern](https://jobright.ai/jobs/info/6983c4bc01214b4cdacbbba5?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Feb 04 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 SOC Compliance Internship - MA Conversion](https://jobright.ai/jobs/info/6983dfd401214b4cdacc06fc?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Feb 04 |
-| ↳ | **[Summer 2026 SOC Compliance Internship - MA Conversion](https://jobright.ai/jobs/info/6983d5d3348f733a5c3746f3?utm_campaign=1055&utm_source=git)** | Lehi, UT | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
