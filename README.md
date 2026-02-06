@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Graduate Year-Round - Regulatory and Contract Law, Hybrid](https://jobright.ai/jobs/info/69861e1b8da7a6120460c64a?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 06 |
+| **[MFA](https://www.managedfunds.org/)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/698612c98da7a6120460bede?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Feb 06 |
+| **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Legal Internship](https://jobright.ai/jobs/info/698608f58da7a6120460b896?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Feb 06 |
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Regulatory Affairs Intern - Miami, Florida](https://jobright.ai/jobs/info/693a33a9ac80bb5492bcbba6?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Feb 06 |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69861e1f8da7a6120460c64d?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 06 |
 | **[Exiger](http://www.exiger.com)** | **[Analyst, Department of Defense SkillBridge (Intern)](https://jobright.ai/jobs/info/68d0150afb49c96ca6eade34?utm_campaign=1055&utm_source=git)** | Richmond, VA | Remote | Feb 06 |
 | **[Pernod Ricard](https://www.pernod-ricard.com)** | **[Legal Intern, Marketing & Innovation](https://jobright.ai/jobs/info/6985d41a8ca8121a3a6806b1?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Canada Compliance Intern – Financial Security (May-August 2026)](https://jobright.ai/jobs/info/69183b3c45fb6f5ead8a341c?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 06 |
@@ -112,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Ozinga](https://www.ozinga.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6985153a348f733a5c393b1d?utm_campaign=1055&utm_source=git)** | Mokena, IL | On Site | Feb 05 |
 | **[Zayo Group](https://www.zayo.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69855c7f0f6f7e7a2ce011b0?utm_campaign=1055&utm_source=git)** | Remote - CO | Remote | Feb 05 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Global Regulatory Affairs Summer Intern](https://jobright.ai/jobs/info/698514218da7a612045f693f?utm_campaign=1055&utm_source=git)** | Titusville, New Jersey, United States of America | Hybrid | Feb 05 |
-| **[Fiserv](http://www.fiserv.com)** | **[Summer Intern - Legal (Milwaukee, WI)](https://jobright.ai/jobs/info/6985125a348f733a5c393575?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Feb 05 |
 | **[Jabil](https://www.jabil.com)** | **[Ethics & Compliance Business Analyst - Intern](https://jobright.ai/jobs/info/69850f2d0f6f7e7a2cdf8957?utm_campaign=1055&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Feb 05 |
 | **[JTI](http://www.jti.com)** | **[CORPORATE AFFAIRS & COMMUNICATION INTERN](https://jobright.ai/jobs/info/69850efb348f733a5c392e49?utm_campaign=1055&utm_source=git)** | CASABLANCA, MA, 20250 | On Site | Feb 05 |
 | **[AssetMark](http://www.assetmark.com)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/69850ba78da7a612045f565f?utm_campaign=1055&utm_source=git)** | Concord, CA | Hybrid | Feb 05 |
@@ -134,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[City of New York](http://www1.nyc.gov)** | **[Intern - Contract Review and Research](https://jobright.ai/jobs/info/6984de06348f733a5c38fc25?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Feb 05 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/692fa27bef4b48533d1479f0?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | Feb 05 |
 | **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Project Compliance Intern](https://jobright.ai/jobs/info/6984fcb2348f733a5c391828?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, US | On Site | Feb 05 |
-| ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/698516c4348f733a5c393e41?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | Feb 05 |
 | ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6984fcbb0f6f7e7a2cdf74c6?utm_campaign=1055&utm_source=git)** | Houston, TX, US | On Site | Feb 05 |
+| ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/698516c4348f733a5c393e41?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | Feb 05 |
 | **[Moskowitz Legal Group, LLP](http://moskowitzlegalgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6984d8920f6f7e7a2cdf5338?utm_campaign=1055&utm_source=git)** | Hewlett, NY | On Site | Feb 05 |
 | **[City of New York](http://www1.nyc.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6984d8200f6f7e7a2cdf52fe?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Feb 05 |
 | **[Jabil](https://www.jabil.com)** | **[Global Immigration Intern](https://jobright.ai/jobs/info/6984d6068da7a612045f1e0a?utm_campaign=1055&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Feb 05 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2027 2L Summer Associate - Indianapolis](https://jobright.ai/jobs/info/69694826639b452fb57f12f4?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Feb 05 |
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Intern - Legal (Milwaukee, WI)](https://jobright.ai/jobs/info/6984c6a90f6f7e7a2cdf3850?utm_campaign=1055&utm_source=git)** | Milwaukee, Wisconsin | On Site | Feb 05 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Tax, Holland & Hart (Denver)](https://jobright.ai/jobs/info/696904721703f05405aadf36?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 05 |
-| **[Valorantum](valorantum.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6984f18a0f6f7e7a2cdf6a1c?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 05 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/6984c4f2348f733a5c38db86?utm_campaign=1055&utm_source=git)** | US - Remote (Any Location) | Remote | Feb 05 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 1L Summer Associate - Indianapolis](https://jobright.ai/jobs/info/696eedb4db26b61895120643?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Feb 05 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Commercial Litigation, Holland & Hart (Boise)](https://jobright.ai/jobs/info/6968faac1703f05405aad912?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Feb 05 |
 | ↳ | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Reno)](https://jobright.ai/jobs/info/6968e0bb639b452fb57eadcb?utm_campaign=1055&utm_source=git)** | Reno, NV | On Site | Feb 05 |
 | ↳ | **[Summer Law Clerk – Corporate, Holland & Hart (Salt Lake City)](https://jobright.ai/jobs/info/6970976951f726477182df4c?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Feb 05 |
 | ↳ | **[Summer Law Clerk – Patent Systems, Holland & Hart (Boulder)](https://jobright.ai/jobs/info/69690f671703f05405aae4b8?utm_campaign=1055&utm_source=git)** | Boulder, CO | On Site | Feb 05 |
-| ↳ | **[Summer Law Clerk – Corporate, Holland & Hart (Denver)](https://jobright.ai/jobs/info/696f39ad0f4e0f657ea391bb?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 05 |
-| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/68d30ef68c62e63bc7fdd58f?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
