@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pernod Ricard](https://www.pernod-ricard.com)** | **[Legal Intern, Employment, Immigration & Compliance](https://jobright.ai/jobs/info/69857aa48da7a612046018d6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
+| **[MSIG USA](https://www.msigusa.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/6969b5aaf25a380066986b08?utm_campaign=1055&utm_source=git)** | Warren, NJ | Hybrid | Feb 05 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Legal Intern](https://jobright.ai/jobs/info/698566040f6f7e7a2ce022bb?utm_campaign=1055&utm_source=git)** | Herndon, VA | Hybrid | Feb 05 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/698560060f6f7e7a2ce018ba?utm_campaign=1055&utm_source=git)** | Buffalo, NY | Hybrid | Feb 05 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Legal Intern](https://jobright.ai/jobs/info/69696a411703f05405ab4a00?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
@@ -65,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Gogo](https://business.gogoair.com/)** | **[Regulatory Intern](https://jobright.ai/jobs/info/69854e37348f733a5c39974a?utm_campaign=1055&utm_source=git)** | Denver Metropolitan Area | On Site | Feb 05 |
 | **[Waséyabek](https://waseyabek.com/)** | **[Summer Legal Internship](https://jobright.ai/jobs/info/69854d1d348f733a5c399525?utm_campaign=1055&utm_source=git)** | 16 Monroe Center St NE, Suite 200, Grand Rapids MI, Grand Rapids, MI, US | On Site | Feb 05 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/69854b3a0f6f7e7a2cdff005?utm_campaign=1055&utm_source=git)** | Buffalo, NY, US | Hybrid | Feb 05 |
+| **[SAP](https://www.sap.com)** | **[SAP NS2 Legal Intern](https://jobright.ai/jobs/info/698576fa348f733a5c39e1af?utm_campaign=1055&utm_source=git)** | Herndon, VA, US, 20171 | Hybrid | Feb 05 |
 | **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Intellectual Property (Summer 2026)](https://jobright.ai/jobs/info/698546bf348f733a5c398e41?utm_campaign=1055&utm_source=git)** | Peoria, IL | On Site | Feb 05 |
-| **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/698565f00f6f7e7a2ce022ae?utm_campaign=1055&utm_source=git)** | San Bruno, CA | Hybrid | Feb 05 |
 | **[Yusen Logistics](https://www.yusen-logistics.com)** | **[Loss Prevention Intern](https://jobright.ai/jobs/info/6937401eaabec14a727c586d?utm_campaign=1055&utm_source=git)** | Long Beach, CA | On Site | Feb 05 |
 | **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Intellectual Property (Summer 2026)](https://jobright.ai/jobs/info/698540c58da7a612045fb287?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 05 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Compliance Analyst - R10664](https://jobright.ai/jobs/info/68f6f72776a51a4307bdfbeb?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 05 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Law Student Legal Intern - Missouri State Public Defender System](https://jobright.ai/jobs/info/6984318c348f733a5c381f1f?utm_campaign=1055&utm_source=git)** | Missouri, United States | On Site | Feb 05 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6933946c764507023d1b702a?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 05 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Global Compliance Intern Summer 2026](https://jobright.ai/jobs/info/69843194348f733a5c381f70?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Feb 05 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Legal Intern - Summer 2026 (Calhoun, Georgia, United States)](https://jobright.ai/jobs/info/69857a2b348f733a5c39ebfe?utm_campaign=1055&utm_source=git)** | Calhoun, GA | On Site | Feb 04 |
 | **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Legal Affairs, Canada Growth Fund Investment Management (May - August 2026)](https://jobright.ai/jobs/info/69842ccc8da7a612045e32a3?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 04 |
 | **[Canadian Strategic Missions Corporation (CSMC)](https://csmc-scms.ca)** | **[Legal Intern](https://jobright.ai/jobs/info/6984058d0f6f7e7a2cde1627?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 04 |
 | **[Law Office of Giselle Ayala](https://www.linkedin.com/company/106520647)** | **[Unpaid Internship](https://jobright.ai/jobs/info/6984208c348f733a5c37f49a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 04 |
 | **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[Law Clerk](https://jobright.ai/jobs/info/698400da01214b4cdacc5426?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Feb 04 |
-| **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Risk & Compliance Services Summer Intern – Cyber Risk](https://jobright.ai/jobs/info/6983fc610f6f7e7a2cde0065?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA | Hybrid | Feb 04 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/6983f9780f6f7e7a2cddfa5b?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Feb 04 |
-| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Contracts - Intern](https://jobright.ai/jobs/info/698419f10f6f7e7a2cde43eb?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
