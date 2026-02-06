@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Galderma](http://www.galderma.com)** | **[Galderma Summer 2026 Intern: Legal and Compliance](https://jobright.ai/jobs/info/69862eda8da7a6120460dfb0?utm_campaign=1055&utm_source=git)** | Boston | On Site | Feb 06 |
+| **[Galderma](http://www.galderma.com)** | **[Galderma Summer 2026 Intern: Legal and Compliance](https://jobright.ai/jobs/info/698638c38da7a6120460e9e4?utm_campaign=1055&utm_source=git)** | Boston | On Site | Feb 06 |
+| **[Everwise Credit Union](https://www.everwisecu.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698638928da7a6120460e9a2?utm_campaign=1055&utm_source=git)** | South Bend, IN | On Site | Feb 06 |
+| **[Yum! Brands](http://www.yum.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/698636580f6f7e7a2ce1187a?utm_campaign=1055&utm_source=git)** | Louisville, KY | Hybrid | Feb 06 |
 | **[Toyota Financial Services Corporation](https://www.tfsc.jp/corporate-en/index.html)** | **[Regulatory Affairs and Environmental Sustainability Internship](https://jobright.ai/jobs/info/69862ed38ca8121a3a685bc7?utm_campaign=1055&utm_source=git)** | TMNA R&D - Gardena | On Site | Feb 06 |
 | **[Chicago Park District](https://www.chicagoparkdistrict.com/)** | **[Intern (Legal) Seasonal](https://jobright.ai/jobs/info/69862a7c8ca8121a3a6856c2?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Feb 06 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Corporate Compliance Summer Internship](https://jobright.ai/jobs/info/6986262c8da7a6120460d430?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 06 |
 | **[PACCAR Financial Corp.](https://www.paccarfinancial.com)** | **[PFC Contract Admin - Summer Internship 2026, Denton, TX](https://jobright.ai/jobs/info/69325ae9f131d96e4845b7a7?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Feb 06 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Graduate Year-Round - Regulatory and Contract Law, Hybrid](https://jobright.ai/jobs/info/69861e1b8da7a6120460c64a?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 06 |
+| **[Galderma](http://www.galderma.com)** | **[Galderma Summer 2026 Intern: Legal and Compliance](https://jobright.ai/jobs/info/698640168ca8121a3a687004?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 06 |
 | **[MFA](https://www.managedfunds.org/)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/698612c98da7a6120460bede?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Feb 06 |
 | **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Legal Internship](https://jobright.ai/jobs/info/698608f58da7a6120460b896?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Feb 06 |
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Regulatory Affairs Intern - Miami, Florida](https://jobright.ai/jobs/info/693a33a9ac80bb5492bcbba6?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Feb 06 |
@@ -141,9 +144,9 @@ For a complete list, click the following sortable link below:
 | **[Central Bank](https://www.centralbank.net/)** | **[Fraud Intern](https://jobright.ai/jobs/info/6984e0b00f6f7e7a2cdf5ceb?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Feb 05 |
 | **[City of New York](http://www1.nyc.gov)** | **[Intern - Contract Review and Research](https://jobright.ai/jobs/info/6984de06348f733a5c38fc25?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Feb 05 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/692fa27bef4b48533d1479f0?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | Feb 05 |
-| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Project Compliance Intern](https://jobright.ai/jobs/info/6984fcb2348f733a5c391828?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, US | On Site | Feb 05 |
-| ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/698516c4348f733a5c393e41?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | Feb 05 |
+| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Project Compliance Intern](https://jobright.ai/jobs/info/698516c4348f733a5c393e41?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | Feb 05 |
 | ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6984fcbb0f6f7e7a2cdf74c6?utm_campaign=1055&utm_source=git)** | Houston, TX, US | On Site | Feb 05 |
+| ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6984fcb2348f733a5c391828?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, US | On Site | Feb 05 |
 | **[Moskowitz Legal Group, LLP](http://moskowitzlegalgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6984d8920f6f7e7a2cdf5338?utm_campaign=1055&utm_source=git)** | Hewlett, NY | On Site | Feb 05 |
 | **[City of New York](http://www1.nyc.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6984d8200f6f7e7a2cdf52fe?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Feb 05 |
 | **[Jabil](https://www.jabil.com)** | **[Global Immigration Intern](https://jobright.ai/jobs/info/6984d6068da7a612045f1e0a?utm_campaign=1055&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Feb 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Commercial Litigation, Holland & Hart (Helena)](https://jobright.ai/jobs/info/6968f1b3639b452fb57ec4cb?utm_campaign=1055&utm_source=git)** | Helena, MT | On Site | Feb 05 |
 | ↳ | **[Summer Law Clerk – Labor & Employment, Holland & Hart (Salt Lake City)](https://jobright.ai/jobs/info/696b2baf350cf43803127f7a?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Feb 05 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2027 2L Summer Associate - Indianapolis](https://jobright.ai/jobs/info/69694826639b452fb57f12f4?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Feb 05 |
-| **[Fiserv](http://www.fiserv.com)** | **[Summer Intern - Legal (Milwaukee, WI)](https://jobright.ai/jobs/info/6984c6a90f6f7e7a2cdf3850?utm_campaign=1055&utm_source=git)** | Milwaukee, Wisconsin | On Site | Feb 05 |
-| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Tax, Holland & Hart (Denver)](https://jobright.ai/jobs/info/696904721703f05405aadf36?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 05 |
-| **[Parsons Corporation](http://www.parsons.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/6984c4f2348f733a5c38db86?utm_campaign=1055&utm_source=git)** | US - Remote (Any Location) | Remote | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
