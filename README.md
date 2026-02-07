@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Laveer Engineering](https://laveer.ca/)** | **[Ethics and Compliance Intern Summer 2026](https://jobright.ai/jobs/info/69866a828da7a61204612c19?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Feb 06 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Ethics and Compliance Intern Summer 2026](https://jobright.ai/jobs/info/698666ef8ca8121a3a68a794?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Feb 06 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Legal Intern - NYC](https://jobright.ai/jobs/info/69865e120f6f7e7a2ce145da?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[CELSIUS](http://celsius.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69865bba0f6f7e7a2ce14143?utm_campaign=1055&utm_source=git)** | Boca Raton, FL | Hybrid | Feb 06 |
-| **[American Rheinmetall](https://www.rheinmetall.com/en/company/subsidiaries/american-rheinmetall-defense)** | **[Contract Management Intern](https://jobright.ai/jobs/info/69865a3e0f6f7e7a2ce13e8f?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Feb 06 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/698656f10f6f7e7a2ce13c61?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Feb 06 |
 | **[Toyota North America](https://www.toyota.com/usa/operations/map/tcal)** | **[Regulatory Affairs and Environmental Sustainability Internship](https://jobright.ai/jobs/info/698652af8ca8121a3a68868b?utm_campaign=1055&utm_source=git)** | Gardena, CA | On Site | Feb 06 |
+| **[City of Auburn (Washington)](http://www.auburnwa.gov)** | **[Rule 9 Intern](https://jobright.ai/jobs/info/69866b308da7a61204612d72?utm_campaign=1055&utm_source=git)** | Greater Seattle Area | On Site | Feb 06 |
 | **[Anchor QEA](https://www.anchorqea.com/)** | **[Internship - Legal Services](https://jobright.ai/jobs/info/69865e168da7a6120461150e?utm_campaign=1055&utm_source=git)** | Houston, Texas, United States | Hybrid | Feb 06 |
 | **[Galderma](http://www.galderma.com)** | **[Galderma Summer 2026 Intern: Legal and Compliance](https://jobright.ai/jobs/info/698638c38da7a6120460e9e4?utm_campaign=1055&utm_source=git)** | Boston | On Site | Feb 06 |
 | **[Everwise Credit Union](https://www.everwisecu.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698638928da7a6120460e9a2?utm_campaign=1055&utm_source=git)** | South Bend, IN | On Site | Feb 06 |
@@ -111,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Yusen Logistics](https://www.yusen-logistics.com)** | **[Loss Prevention Intern](https://jobright.ai/jobs/info/6937401eaabec14a727c586d?utm_campaign=1055&utm_source=git)** | Long Beach, CA | On Site | Feb 05 |
 | **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Intellectual Property (Summer 2026)](https://jobright.ai/jobs/info/698540c58da7a612045fb287?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 05 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Compliance Analyst - R10664](https://jobright.ai/jobs/info/68f6f72776a51a4307bdfbeb?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 05 |
+| **[State of Florida](http://www.myflorida.com)** | **[COMPLIANCE OFFICER - 42003610 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/6986610f8da7a61204611955?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 05 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Law Student Intern, Office for Interactions with Industry](https://jobright.ai/jobs/info/6985367c8da7a612045f9e6a?utm_campaign=1055&utm_source=git)** | Somerville, MA | Hybrid | Feb 05 |
 | **[Sammons Financial Group Companies](https://www.sammonsfinancialgroup.com)** | **[Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/698553ab0f6f7e7a2cdfff2e?utm_campaign=1055&utm_source=git)** | West Des Moines, IA | On Site | Feb 05 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Global Regulatory Affairs Summer Intern](https://jobright.ai/jobs/info/698535b68da7a612045f9cbb?utm_campaign=1055&utm_source=git)** | Raritan, NJ | On Site | Feb 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Project Compliance Intern](https://jobright.ai/jobs/info/6984fcb2348f733a5c391828?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, US | On Site | Feb 05 |
 | ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/698516c4348f733a5c393e41?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | Feb 05 |
 | ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6984fcbb0f6f7e7a2cdf74c6?utm_campaign=1055&utm_source=git)** | Houston, TX, US | On Site | Feb 05 |
-| **[Moskowitz Legal Group, LLP](http://moskowitzlegalgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6984d8920f6f7e7a2cdf5338?utm_campaign=1055&utm_source=git)** | Hewlett, NY | On Site | Feb 05 |
-| **[City of New York](http://www1.nyc.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6984d8200f6f7e7a2cdf52fe?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Feb 05 |
-| **[Jabil](https://www.jabil.com)** | **[Global Immigration Intern](https://jobright.ai/jobs/info/6984d6068da7a612045f1e0a?utm_campaign=1055&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
