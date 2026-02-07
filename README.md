@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kitay Law Offices](https://kitaylegal.com)** | **[Undergraduate Student Summer Law Internship](https://jobright.ai/jobs/info/69879e168da7a6120462ac71?utm_campaign=1055&utm_source=git)** | Reading, PA | On Site | Feb 07 |
 | **[City of New York](http://www1.nyc.gov)** | **[Intern - Tort Claims and Engineering Audit Support](https://jobright.ai/jobs/info/698777e28ca8121a3a6a0852?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Feb 07 |
 | **[Texell Credit Union](http://texell.org)** | **[Legal Intern](https://jobright.ai/jobs/info/698772ce8ca8121a3a69ff70?utm_campaign=1055&utm_source=git)** | Temple Headquarters - Temple, TX 76502 | On Site | Feb 07 |
 | **[BioSpace](http://www.biospace.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/698767078da7a61204627a5f?utm_campaign=1055&utm_source=git)** | Somerset, NJ | On Site | Feb 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pernod Ricard](https://www.pernod-ricard.com)** | **[Legal Intern, Employment, Immigration & Compliance](https://jobright.ai/jobs/info/69857d7f8da7a612046019ac?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Legal Intern](https://jobright.ai/jobs/info/69696a411703f05405ab4a00?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | **[Jabil](https://www.jabil.com)** | **[Ethics & Compliance Business Analyst - Intern](https://jobright.ai/jobs/info/6985502c8da7a612045fc931?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Feb 05 |
-| **[Gogo](https://business.gogoair.com/)** | **[Regulatory Intern](https://jobright.ai/jobs/info/69854e37348f733a5c39974a?utm_campaign=1055&utm_source=git)** | Denver Metropolitan Area | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
