@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colorado Housing and Finance Authority](https://www.chfainfo.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6987a4878ca8121a3a6a26bb?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Feb 07 |
 | **[Kitay Law Offices](https://kitaylegal.com)** | **[Undergraduate Student Summer Law Internship](https://jobright.ai/jobs/info/69879e168da7a6120462ac71?utm_campaign=1055&utm_source=git)** | Reading, PA | On Site | Feb 07 |
 | **[City of New York](http://www1.nyc.gov)** | **[Intern - Tort Claims and Engineering Audit Support](https://jobright.ai/jobs/info/698777e28ca8121a3a6a0852?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Feb 07 |
 | **[Texell Credit Union](http://texell.org)** | **[Legal Intern](https://jobright.ai/jobs/info/698772ce8ca8121a3a69ff70?utm_campaign=1055&utm_source=git)** | Temple Headquarters - Temple, TX 76502 | On Site | Feb 07 |
@@ -90,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[IT Intern- Sourcing Contracts Third-Party Risk](https://jobright.ai/jobs/info/698698b18da7a6120461718d?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Alerus](https://www.alerus.com/)** | **[Audit, Compliance & Risk Intern](https://jobright.ai/jobs/info/6986b04c8da7a6120461959e?utm_campaign=1055&utm_source=git)** | Grand Forks, ND | On Site | Feb 06 |
 | **[Democracy Defenders Action](https://statedemocracydefenders.org/)** | **[Legal Policy Intern (JD candidate)](https://jobright.ai/jobs/info/698688f10f6f7e7a2ce18a84?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 06 |
+| **[Metropolitan District Commission](https://themdc.org)** | **[College Intern -Procurement](https://jobright.ai/jobs/info/6987a32b8ca8121a3a6a2587?utm_campaign=1055&utm_source=git)** | 555 Main Street, Hartford, CT, USA | On Site | Feb 06 |
 | **[Fresh Del Monte](http://freshdelmonte.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6986aa388ca8121a3a6903e2?utm_campaign=1055&utm_source=git)** | Coral Gables-HQ, Coral Gables, FL, US | On Site | Feb 06 |
 | **[MetroNational](https://memorialcity.com)** | **[Summer Internship - Legal  (L2 & L3 Students)](https://jobright.ai/jobs/info/6986a7d10f6f7e7a2ce1b446?utm_campaign=1055&utm_source=git)** | Houston,TX,US | On Site | Feb 06 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong ADA Compliance Intern](https://jobright.ai/jobs/info/6986bf818da7a6120461aba7?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Legal Intern](https://jobright.ai/jobs/info/698566040f6f7e7a2ce022bb?utm_campaign=1055&utm_source=git)** | Herndon, VA | Hybrid | Feb 05 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/698560060f6f7e7a2ce018ba?utm_campaign=1055&utm_source=git)** | Buffalo, NY | Hybrid | Feb 05 |
 | **[Pernod Ricard](https://www.pernod-ricard.com)** | **[Legal Intern, Employment, Immigration & Compliance](https://jobright.ai/jobs/info/69857d7f8da7a612046019ac?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
-| **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Legal Intern](https://jobright.ai/jobs/info/69696a411703f05405ab4a00?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
-| **[Jabil](https://www.jabil.com)** | **[Ethics & Compliance Business Analyst - Intern](https://jobright.ai/jobs/info/6985502c8da7a612045fc931?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
