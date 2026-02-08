@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Corporate Compliance Operations Intern](https://jobright.ai/jobs/info/6988975e8da7a6120463b43c?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Feb 08 |
+| **[Cisco](http://www.cisco.com)** | **[Legal Rising 2L (Intern) - United States](https://jobright.ai/jobs/info/6917e47315b415636717c870?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
 | **[MDK](https://www.manleydeas.com/)** | **[Intern](https://jobright.ai/jobs/info/6987cfd80f6f7e7a2ce302f5?utm_campaign=1055&utm_source=git)** | MDK Columbus - COLUMBUS, OH 43204 | On Site | Feb 07 |
 | **[Colorado Housing and Finance Authority](https://www.chfainfo.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6987b41a8da7a6120462ce62?utm_campaign=1055&utm_source=git)** | Denver - Denver, CO 80202 | Hybrid | Feb 07 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6987a4878ca8121a3a6a26bb?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Feb 07 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - City Attorney's Office](https://jobright.ai/jobs/info/698743aa0f6f7e7a2ce28c1b?utm_campaign=1055&utm_source=git)** | Coral Springs, FL | On Site | Feb 07 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[FSU Legal Advocate/Intake Coordinator](https://jobright.ai/jobs/info/698735848ca8121a3a69c1a3?utm_campaign=1055&utm_source=git)** | Worcester, MA | Hybrid | Feb 07 |
 | **[State of Missouri](http://mo.gov)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69801881abff4c399a9eca5a?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Feb 07 |
+| **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Legal Intern - Albany](https://jobright.ai/jobs/info/698656f10f6f7e7a2ce13c61?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Feb 07 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Contracts - Intern](https://jobright.ai/jobs/info/698419f10f6f7e7a2cde43eb?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 07 |
 | **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Legal Intern](https://jobright.ai/jobs/info/694ef5ada2668b7f54523f50?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 07 |
 | **[Bronx County District Attorney Office](https://www.bronxda.nyc.gov/html/home/home.shtml)** | **[Law School Summer 2026 (1L) Intern](https://jobright.ai/jobs/info/69873b608ca8121a3a69cec5?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Feb 07 |
@@ -102,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Alerus](https://www.alerus.com/)** | **[Audit, Compliance & Risk Intern](https://jobright.ai/jobs/info/6986b7498ca8121a3a69160a?utm_campaign=1055&utm_source=git)** | Grand Forks, North Dakota, United States | On Site | Feb 06 |
 | **[UNIVERSAL INSURANCE MANAGERS, INC](https://www.linkedin.com/company/55241372)** | **[INTERN - LEGAL](https://jobright.ai/jobs/info/6986b2270f6f7e7a2ce1c25e?utm_campaign=1055&utm_source=git)** | Sarasota, FL, US | On Site | Feb 06 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Trade Desk Surveillance Analyst](https://jobright.ai/jobs/info/6986a83d0f6f7e7a2ce1b4e2?utm_campaign=1055&utm_source=git)** | Winter Park, FL, US | Hybrid | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern- Sourcing Contracts Third-Party Risk](https://jobright.ai/jobs/info/6986a0250f6f7e7a2ce1aa67?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | Feb 06 |
-| ↳ | **[IT Intern- Sourcing Contracts Third-Party Risk](https://jobright.ai/jobs/info/6986ad5c8ca8121a3a690993?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern- Sourcing Contracts Third-Party Risk](https://jobright.ai/jobs/info/6986ad5c8ca8121a3a690993?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| ↳ | **[IT Intern- Sourcing Contracts Third-Party Risk](https://jobright.ai/jobs/info/6986a0250f6f7e7a2ce1aa67?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | Feb 06 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Feb 06 |
 | **[Magna International](http://www.magna.com/)** | **[Intellecutual Property Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ac7ba5fc862418539e3fa?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Feb 06 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Intellectual Property (IP) Management & Marketing, Hybrid](https://jobright.ai/jobs/info/69705a7751f7264771829e1c?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 06 |
@@ -122,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Endo](https://www.linkedin.com/company/11485)** | **[Intern, Legal](https://jobright.ai/jobs/info/69867a8c8ca8121a3a68c538?utm_campaign=1055&utm_source=git)** | Hazelwood, MO (675) - USA037 - Hybrid | Hybrid | Feb 06 |
 | **[Kitay Law Offices](https://kitaylegal.com)** | **[Law Student Summer Internship](https://jobright.ai/jobs/info/698674050f6f7e7a2ce16d2e?utm_campaign=1055&utm_source=git)** | Allentown, PA | On Site | Feb 06 |
 | **[Anchor QEA](https://www.anchorqea.com/)** | **[Internship - Legal Services](https://jobright.ai/jobs/info/69865e168da7a6120461150e?utm_campaign=1055&utm_source=git)** | Houston, Texas, United States | Hybrid | Feb 06 |
-| **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/698656f10f6f7e7a2ce13c61?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Feb 06 |
 | **[Galderma](http://www.galderma.com)** | **[Galderma Summer 2026 Intern: Legal and Compliance](https://jobright.ai/jobs/info/698638c38da7a6120460e9e4?utm_campaign=1055&utm_source=git)** | Boston | On Site | Feb 06 |
 | **[Everwise Credit Union](https://www.everwisecu.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698638928da7a6120460e9a2?utm_campaign=1055&utm_source=git)** | South Bend, IN | On Site | Feb 06 |
 | **[Yum! Brands](http://www.yum.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/698636580f6f7e7a2ce1187a?utm_campaign=1055&utm_source=git)** | Louisville, KY | Hybrid | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LWCC](https://www.lwcc.com/)** | **[Policyholder Services Intern](https://jobright.ai/jobs/info/6969acd81703f05405abaa6b?utm_campaign=1055&utm_source=git)** | Baton Rouge Metro | On Site | Feb 05 |
 | **[T. Rowe Price Singapore](https://www.troweprice.com/sg)** | **[2026 Risk Management Internship](https://jobright.ai/jobs/info/69859f848da7a6120460506a?utm_campaign=1055&utm_source=git)** | Owings Mills, MD | Hybrid | Feb 05 |
 | **[MSIG USA](https://www.msigusa.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/6969b5aaf25a380066986b08?utm_campaign=1055&utm_source=git)** | Warren, NJ | Hybrid | Feb 05 |
-| **[Maryland Auto Insurance](https://www.mymarylandauto.com)** | **[PT House Counsel/Legal Intern](https://jobright.ai/jobs/info/69858ad7348f733a5c3a0648?utm_campaign=1055&utm_source=git)** | Headquarters - Baltimore, MD 21230 | Hybrid | Feb 05 |
-| **[Pernod Ricard](https://www.pernod-ricard.com)** | **[Legal Intern, Corporate & Transactions](https://jobright.ai/jobs/info/69859e09348f733a5c3a200a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
