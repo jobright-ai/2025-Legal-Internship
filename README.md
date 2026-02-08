@@ -71,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - City Attorney's Office](https://jobright.ai/jobs/info/698743aa0f6f7e7a2ce28c1b?utm_campaign=1055&utm_source=git)** | Coral Springs, FL | On Site | Feb 07 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[FSU Legal Advocate/Intake Coordinator](https://jobright.ai/jobs/info/698735848ca8121a3a69c1a3?utm_campaign=1055&utm_source=git)** | Worcester, MA | Hybrid | Feb 07 |
 | **[State of Missouri](http://mo.gov)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69801881abff4c399a9eca5a?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Feb 07 |
+| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Contracts - Intern](https://jobright.ai/jobs/info/698419f10f6f7e7a2cde43eb?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 07 |
 | **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Legal Intern](https://jobright.ai/jobs/info/694ef5ada2668b7f54523f50?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 07 |
 | **[Bronx County District Attorney Office](https://www.bronxda.nyc.gov/html/home/home.shtml)** | **[Law School Summer 2026 (1L) Intern](https://jobright.ai/jobs/info/69873b608ca8121a3a69cec5?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Feb 07 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6986f1158ca8121a3a6978c5?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MSIG USA](https://www.msigusa.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/6969b5aaf25a380066986b08?utm_campaign=1055&utm_source=git)** | Warren, NJ | Hybrid | Feb 05 |
 | **[Maryland Auto Insurance](https://www.mymarylandauto.com)** | **[PT House Counsel/Legal Intern](https://jobright.ai/jobs/info/69858ad7348f733a5c3a0648?utm_campaign=1055&utm_source=git)** | Headquarters - Baltimore, MD 21230 | Hybrid | Feb 05 |
 | **[Pernod Ricard](https://www.pernod-ricard.com)** | **[Legal Intern, Corporate & Transactions](https://jobright.ai/jobs/info/69859e09348f733a5c3a200a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
-| **[SAP](https://www.sap.com)** | **[SAP NS2 Legal Intern](https://jobright.ai/jobs/info/698566040f6f7e7a2ce022bb?utm_campaign=1055&utm_source=git)** | Herndon, VA | Hybrid | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
