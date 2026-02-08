@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dynareon](dynareon.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6988a2078da7a6120463b69f?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Feb 08 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Corporate Compliance Operations Intern](https://jobright.ai/jobs/info/6988975e8da7a6120463b43c?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Feb 08 |
 | **[Cisco](http://www.cisco.com)** | **[Legal Rising 2L (Intern) - United States](https://jobright.ai/jobs/info/6917e47315b415636717c870?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
 | **[MDK](https://www.manleydeas.com/)** | **[Intern](https://jobright.ai/jobs/info/6987cfd80f6f7e7a2ce302f5?utm_campaign=1055&utm_source=git)** | MDK Columbus - COLUMBUS, OH 43204 | On Site | Feb 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pernod Ricard](https://www.pernod-ricard.com)** | **[Legal Intern, Marketing & Innovation](https://jobright.ai/jobs/info/698582a5348f733a5c39f624?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | **[LWCC](https://www.lwcc.com/)** | **[Policyholder Services Intern](https://jobright.ai/jobs/info/6969acd81703f05405abaa6b?utm_campaign=1055&utm_source=git)** | Baton Rouge Metro | On Site | Feb 05 |
 | **[T. Rowe Price Singapore](https://www.troweprice.com/sg)** | **[2026 Risk Management Internship](https://jobright.ai/jobs/info/69859f848da7a6120460506a?utm_campaign=1055&utm_source=git)** | Owings Mills, MD | Hybrid | Feb 05 |
-| **[MSIG USA](https://www.msigusa.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/6969b5aaf25a380066986b08?utm_campaign=1055&utm_source=git)** | Warren, NJ | Hybrid | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
