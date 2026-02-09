@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69104536988c2b7b4ec50c5d?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Feb 08 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Security Risk & Compliance Intern](https://jobright.ai/jobs/info/698930d70f6f7e7a2ce43d93?utm_campaign=1055&utm_source=git)** | Tysons Corner, VA | On Site | Feb 08 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Underwriting Graduate Intern – Commercial Title](https://jobright.ai/jobs/info/6988ee548da7a6120463e0db?utm_campaign=1055&utm_source=git)** | City of Washington County, DC | On Site | Feb 08 |
 | **[Metropolitan District Commission](https://themdc.org)** | **[College Intern -Procurement](https://jobright.ai/jobs/info/6988ed918ca8121a3a6b4e68?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Feb 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Docusign](http://www.docusign.com)** | **[In-House Legal Intern](https://jobright.ai/jobs/info/697b7d571136d179eeeefe27?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Feb 05 |
 | **[T. Rowe Price Singapore](https://www.troweprice.com/sg)** | **[2026 Legal Internship](https://jobright.ai/jobs/info/69858dc1348f733a5c3a0a9b?utm_campaign=1055&utm_source=git)** | Owings Mills, MD | Hybrid | Feb 05 |
 | ↳ | **[2026 Compliance Internship](https://jobright.ai/jobs/info/69858bfa0f6f7e7a2ce0665d?utm_campaign=1055&utm_source=git)** | Owings Mills, MD | Hybrid | Feb 05 |
-| **[Koch](https://www.kochinc.com)** | **[Tax Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6913cb37d1047e3565d0624b?utm_campaign=1055&utm_source=git)** | Wichita, KS | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
