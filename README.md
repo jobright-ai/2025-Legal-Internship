@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part-Time, Spring 2026)](https://jobright.ai/jobs/info/698a2f540f6f7e7a2ce54415?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | Feb 09 |
+| **[Everwise Credit Union](https://www.everwisecu.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698638928da7a6120460e9a2?utm_campaign=1055&utm_source=git)** | South Bend, IN | On Site | Feb 09 |
+| **[Trinity Logistics](https://trinitylogistics.com)** | **[Contract Administration Intern](https://jobright.ai/jobs/info/698a21f947434001cc685de1?utm_campaign=1055&utm_source=git)** | Seaford, DE | Hybrid | Feb 09 |
 | **[Federal Home Loan Bank of New York](http://fhlbny.com)** | **[Intern – Legal](https://jobright.ai/jobs/info/698a07664db8972cecff4444?utm_campaign=1055&utm_source=git)** | New York | On Site | Feb 09 |
-| **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part-Time, Spring 2026)](https://jobright.ai/jobs/info/698a034c4db8972cecff4224?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | Feb 09 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Corporate Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/698a0fcf4db8972cecff49c0?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Feb 09 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern Spring 2026](https://jobright.ai/jobs/info/6969629ff25a38006697f6f2?utm_campaign=1055&utm_source=git)** | Baltimore, MD | Hybrid | Feb 09 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Legal and Compliance Intern](https://jobright.ai/jobs/info/6989df1c4db8972cecff194f?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Feb 09 |
@@ -134,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Kitay Law Offices](https://kitaylegal.com)** | **[Law Student Summer Internship](https://jobright.ai/jobs/info/698674050f6f7e7a2ce16d2e?utm_campaign=1055&utm_source=git)** | Allentown, PA | On Site | Feb 06 |
 | **[Anchor QEA](https://www.anchorqea.com/)** | **[Internship - Legal Services](https://jobright.ai/jobs/info/69865e168da7a6120461150e?utm_campaign=1055&utm_source=git)** | Houston, Texas, United States | Hybrid | Feb 06 |
 | **[Galderma](http://www.galderma.com)** | **[Galderma Summer 2026 Intern: Legal and Compliance](https://jobright.ai/jobs/info/698638c38da7a6120460e9e4?utm_campaign=1055&utm_source=git)** | Boston | On Site | Feb 06 |
-| **[Everwise Credit Union](https://www.everwisecu.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698638928da7a6120460e9a2?utm_campaign=1055&utm_source=git)** | South Bend, IN | On Site | Feb 06 |
 | **[Yum! Brands](http://www.yum.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/698636580f6f7e7a2ce1187a?utm_campaign=1055&utm_source=git)** | Louisville, KY | Hybrid | Feb 06 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[Legal Intern, Corporate & Transactions](https://jobright.ai/jobs/info/69867bad8da7a6120461484f?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | ↳ | **[Legal Intern, Employment, Immigration & Compliance](https://jobright.ai/jobs/info/6986878d8ca8121a3a68d637?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[Canada Compliance Intern – Financial Security (May-August 2026)](https://jobright.ai/jobs/info/69183b3c45fb6f5ead8a341c?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 06 |
 | **[Pernod Ricard](https://www.pernod-ricard.com)** | **[Legal Intern, Employment, Immigration & Compliance](https://jobright.ai/jobs/info/6985d2d28ca8121a3a68048a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | ↳ | **[Legal Intern, Corporate & Transactions](https://jobright.ai/jobs/info/6985d0af8da7a61204608380?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
-| **[Port of Portland](https://www.portofportland.com)** | **[Intern, Risk Management](https://jobright.ai/jobs/info/6985daf18da7a61204608e66?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Feb 06 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk Intern – Technology Expertise (Summer 2026)](https://jobright.ai/jobs/info/6930ac31fa28370be26b238d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 06 |
 | **[Lendistry](http://www.Lendistry.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69797284ca92cf0d6a829590?utm_campaign=1055&utm_source=git)** | LA Metro Area | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
