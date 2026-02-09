@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Retail Audit & Investigations Intern](https://jobright.ai/jobs/info/698a3c100f6f7e7a2ce54d14?utm_campaign=1055&utm_source=git)** | Richardson, TX, US | On Site | Feb 09 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Contract Analyst Intern](https://jobright.ai/jobs/info/698a3a810f6f7e7a2ce54b57?utm_campaign=1055&utm_source=git)** | Davidson NC  800B Beaty St, Davidson, North Carolina, United States | Hybrid | Feb 09 |
+| **[Wharton-Smith, Inc.](https://www.whartonsmith.com/)** | **[Risk Management - Intern](https://jobright.ai/jobs/info/698a39e30f6f7e7a2ce54aaa?utm_campaign=1055&utm_source=git)** | Sanford, FL | On Site | Feb 09 |
 | **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part-Time, Spring 2026)](https://jobright.ai/jobs/info/698a2f540f6f7e7a2ce54415?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | Feb 09 |
 | **[Everwise Credit Union](https://www.everwisecu.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698638928da7a6120460e9a2?utm_campaign=1055&utm_source=git)** | South Bend, IN | On Site | Feb 09 |
 | **[Trinity Logistics](https://trinitylogistics.com)** | **[Contract Administration Intern](https://jobright.ai/jobs/info/698a21f947434001cc685de1?utm_campaign=1055&utm_source=git)** | Seaford, DE | Hybrid | Feb 09 |
@@ -115,13 +118,12 @@ For a complete list, click the following sortable link below:
 | **[Alerus](https://www.alerus.com/)** | **[Audit, Compliance & Risk Intern](https://jobright.ai/jobs/info/6986b7498ca8121a3a69160a?utm_campaign=1055&utm_source=git)** | Grand Forks, North Dakota, United States | On Site | Feb 06 |
 | **[UNIVERSAL INSURANCE MANAGERS, INC](https://www.linkedin.com/company/55241372)** | **[INTERN - LEGAL](https://jobright.ai/jobs/info/6986b2270f6f7e7a2ce1c25e?utm_campaign=1055&utm_source=git)** | Sarasota, FL, US | On Site | Feb 06 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Trade Desk Surveillance Analyst](https://jobright.ai/jobs/info/6986a83d0f6f7e7a2ce1b4e2?utm_campaign=1055&utm_source=git)** | Winter Park, FL, US | Hybrid | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern- Sourcing Contracts Third-Party Risk](https://jobright.ai/jobs/info/6986ad5c8ca8121a3a690993?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
-| ↳ | **[IT Intern- Sourcing Contracts Third-Party Risk](https://jobright.ai/jobs/info/6986a0250f6f7e7a2ce1aa67?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | Feb 06 |
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern- Sourcing Contracts Third-Party Risk](https://jobright.ai/jobs/info/6986a0250f6f7e7a2ce1aa67?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | Feb 06 |
+| ↳ | **[IT Intern- Sourcing Contracts Third-Party Risk](https://jobright.ai/jobs/info/6986ad5c8ca8121a3a690993?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Feb 06 |
 | **[Magna International](http://www.magna.com/)** | **[Intellecutual Property Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ac7ba5fc862418539e3fa?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Feb 06 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Intellectual Property (IP) Management & Marketing, Hybrid](https://jobright.ai/jobs/info/69705a7751f7264771829e1c?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 06 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Legal Intern - NYC](https://jobright.ai/jobs/info/69865e120f6f7e7a2ce145da?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 06 |
-| **[CVR Energy, Inc.](http://www.cvrenergy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6986916e0f6f7e7a2ce19566?utm_campaign=1055&utm_source=git)** | Sugar Land, TX | On Site | Feb 06 |
 | **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ab6d45fc862418539c63a?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Feb 06 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[Ethics and Compliance Intern Summer 2026](https://jobright.ai/jobs/info/69866a828da7a61204612c19?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Feb 06 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Law Intern- Help Clinic](https://jobright.ai/jobs/info/698684c58ca8121a3a68d401?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Feb 06 |
@@ -138,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Galderma](http://www.galderma.com)** | **[Galderma Summer 2026 Intern: Legal and Compliance](https://jobright.ai/jobs/info/698638c38da7a6120460e9e4?utm_campaign=1055&utm_source=git)** | Boston | On Site | Feb 06 |
 | **[Yum! Brands](http://www.yum.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/698636580f6f7e7a2ce1187a?utm_campaign=1055&utm_source=git)** | Louisville, KY | Hybrid | Feb 06 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[Legal Intern, Corporate & Transactions](https://jobright.ai/jobs/info/69867bad8da7a6120461484f?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
-| ↳ | **[Legal Intern, Employment, Immigration & Compliance](https://jobright.ai/jobs/info/6986878d8ca8121a3a68d637?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | ↳ | **[Legal Intern, Marketing & Innovation](https://jobright.ai/jobs/info/69867e5b8da7a61204614c9d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
+| ↳ | **[Legal Intern, Employment, Immigration & Compliance](https://jobright.ai/jobs/info/6986878d8ca8121a3a68d637?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | **[Habit Burger & Grill](http://habitburger.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/6986721a8da7a61204613c8d?utm_campaign=1055&utm_source=git)** | Louisville, KY, United States | Hybrid | Feb 06 |
 | **[Toyota Financial Services Corporation](https://www.tfsc.jp/corporate-en/index.html)** | **[Regulatory Affairs and Environmental Sustainability Internship](https://jobright.ai/jobs/info/69862ed38ca8121a3a685bc7?utm_campaign=1055&utm_source=git)** | TMNA R&D - Gardena | On Site | Feb 06 |
 | **[Ascension](https://healthcare.ascension.org)** | **[IT Intern Sourcing Contracts Third-Party Risk](https://jobright.ai/jobs/info/69865f3c8ca8121a3a689b13?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[Canada Compliance Intern – Financial Security (May-August 2026)](https://jobright.ai/jobs/info/69183b3c45fb6f5ead8a341c?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 06 |
 | **[Pernod Ricard](https://www.pernod-ricard.com)** | **[Legal Intern, Employment, Immigration & Compliance](https://jobright.ai/jobs/info/6985d2d28ca8121a3a68048a?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | ↳ | **[Legal Intern, Corporate & Transactions](https://jobright.ai/jobs/info/6985d0af8da7a61204608380?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk Intern – Technology Expertise (Summer 2026)](https://jobright.ai/jobs/info/6930ac31fa28370be26b238d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 06 |
-| **[Lendistry](http://www.Lendistry.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69797284ca92cf0d6a829590?utm_campaign=1055&utm_source=git)** | LA Metro Area | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
