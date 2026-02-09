@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Home Loan Bank of New York](http://fhlbny.com)** | **[Intern – Legal](https://jobright.ai/jobs/info/698a07664db8972cecff4444?utm_campaign=1055&utm_source=git)** | New York | On Site | Feb 09 |
+| **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part-Time, Spring 2026)](https://jobright.ai/jobs/info/698a034c4db8972cecff4224?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | Feb 09 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6989e94847434001cc6822c8?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Feb 09 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern Spring 2026](https://jobright.ai/jobs/info/6969629ff25a38006697f6f2?utm_campaign=1055&utm_source=git)** | Baltimore, MD | Hybrid | Feb 09 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Legal and Compliance Intern](https://jobright.ai/jobs/info/6989df1c4db8972cecff194f?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Feb 09 |
 | **[BINERGY SCIENTIFIC, INC](https://binergyscientific.com)** | **[Cybersecurity Intern focused on CMMC compliance](https://jobright.ai/jobs/info/6989c75e4db8972cecff03da?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Feb 09 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69104536988c2b7b4ec50c5d?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Feb 08 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Security Risk & Compliance Intern](https://jobright.ai/jobs/info/698930d70f6f7e7a2ce43d93?utm_campaign=1055&utm_source=git)** | Tysons Corner, VA | On Site | Feb 08 |
+| **[State of Washington](http://access.wa.gov/)** | **[Paralegal Intern, Positions in Multiple Locations, Attorney General's Office](https://jobright.ai/jobs/info/698a00490f6f7e7a2ce5125c?utm_campaign=1055&utm_source=git)** | Bay View, WA | On Site | Feb 08 |
 | **[Arrow Financial Corporation](http://www.arrowfinancial.com/)** | **[Fraud Intern](https://jobright.ai/jobs/info/698986c78ca8121a3a6bdc7d?utm_campaign=1055&utm_source=git)** | Glens Falls, NY | On Site | Feb 08 |
 | **[eMed](https://www.emed.com)** | **[2026 eMed Summer Internship - Legal Department](https://jobright.ai/jobs/info/6989ea0d0f6f7e7a2ce50213?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Feb 08 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Underwriting Graduate Intern – Commercial Title](https://jobright.ai/jobs/info/6988ee548da7a6120463e0db?utm_campaign=1055&utm_source=git)** | City of Washington County, DC | On Site | Feb 08 |
@@ -84,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69801881abff4c399a9eca5a?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Feb 07 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Contracts - Intern](https://jobright.ai/jobs/info/698419f10f6f7e7a2cde43eb?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 07 |
 | **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Legal Intern](https://jobright.ai/jobs/info/694ef5ada2668b7f54523f50?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 07 |
-| **[Bronx County District Attorney Office](https://www.bronxda.nyc.gov/html/home/home.shtml)** | **[Law School Summer 2026 (1L) Intern](https://jobright.ai/jobs/info/69873b608ca8121a3a69cec5?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Feb 07 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Legal Intern - Albany](https://jobright.ai/jobs/info/698656f10f6f7e7a2ce13c61?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Feb 07 |
 | **[City of Everett, WA](everettwa.gov)** | **[Rule 9 Intern](https://jobright.ai/jobs/info/6986e2f40f6f7e7a2ce21c20?utm_campaign=1055&utm_source=git)** | Everett, WA | On Site | Feb 06 |
 | **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Intern-Cybersecurity JSOX Compliance Analyst](https://jobright.ai/jobs/info/696b0b495fc86241853a5989?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Feb 06 |
@@ -136,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Everwise Credit Union](https://www.everwisecu.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698638928da7a6120460e9a2?utm_campaign=1055&utm_source=git)** | South Bend, IN | On Site | Feb 06 |
 | **[Yum! Brands](http://www.yum.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/698636580f6f7e7a2ce1187a?utm_campaign=1055&utm_source=git)** | Louisville, KY | Hybrid | Feb 06 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[Legal Intern, Corporate & Transactions](https://jobright.ai/jobs/info/69867bad8da7a6120461484f?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
-| ↳ | **[Legal Intern, Marketing & Innovation](https://jobright.ai/jobs/info/69867e5b8da7a61204614c9d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | ↳ | **[Legal Intern, Employment, Immigration & Compliance](https://jobright.ai/jobs/info/6986878d8ca8121a3a68d637?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
+| ↳ | **[Legal Intern, Marketing & Innovation](https://jobright.ai/jobs/info/69867e5b8da7a61204614c9d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | **[Habit Burger & Grill](http://habitburger.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/6986721a8da7a61204613c8d?utm_campaign=1055&utm_source=git)** | Louisville, KY, United States | Hybrid | Feb 06 |
 | **[Toyota Financial Services Corporation](https://www.tfsc.jp/corporate-en/index.html)** | **[Regulatory Affairs and Environmental Sustainability Internship](https://jobright.ai/jobs/info/69862ed38ca8121a3a685bc7?utm_campaign=1055&utm_source=git)** | TMNA R&D - Gardena | On Site | Feb 06 |
 | **[Ascension](https://healthcare.ascension.org)** | **[IT Intern Sourcing Contracts Third-Party Risk](https://jobright.ai/jobs/info/69865f3c8ca8121a3a689b13?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern, Corporate & Transactions](https://jobright.ai/jobs/info/6985d0af8da7a61204608380?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | **[Port of Portland](https://www.portofportland.com)** | **[Intern, Risk Management](https://jobright.ai/jobs/info/6985daf18da7a61204608e66?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Feb 06 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk Intern – Technology Expertise (Summer 2026)](https://jobright.ai/jobs/info/6930ac31fa28370be26b238d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 06 |
-| **[Lendistry](http://www.Lendistry.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69797284ca92cf0d6a829590?utm_campaign=1055&utm_source=git)** | LA Metro Area | On Site | Feb 06 |
-| **[Docusign](http://www.docusign.com)** | **[In-House Legal Intern](https://jobright.ai/jobs/info/697b7d571136d179eeeefe27?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
