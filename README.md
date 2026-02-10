@@ -79,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Ad Council](http://adcouncil.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/698a7e194db8972cecffd0fa?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 09 |
 | **[MBTA](http://mbta.com)** | **[Legal Intern (Labor Relations)](https://jobright.ai/jobs/info/698a7a0cc5761b521a99b45d?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 09 |
 | **[Pattern Bioscience](https://pattern.bio)** | **[Legal Internship](https://jobright.ai/jobs/info/698a77dfc5761b521a99b2b3?utm_campaign=1055&utm_source=git)** | Lehi, UT, US | On Site | Feb 09 |
+| **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[Vertex Summer Intern 2026, Regulatory Advertising and Promotion](https://jobright.ai/jobs/info/698afa68c5761b521a9a59b5?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Feb 09 |
 | **[Vertex](tryvertex.co)** | **[Vertex Summer Intern 2026, Regulatory Advertising and Promotion](https://jobright.ai/jobs/info/698a713a0f6f7e7a2ce598a2?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Feb 09 |
 | **[Lennox](http://www.lennox.com)** | **[Retail Audit & Investigations Intern](https://jobright.ai/jobs/info/698a66df0f6f7e7a2ce58a85?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Feb 09 |
 | **[KCH Transportation](https://www.kchtrans.com)** | **[Carrier Compliance Intern](https://jobright.ai/jobs/info/69602feea1bbea1d9a7b03e3?utm_campaign=1055&utm_source=git)** | Chattanooga, TN | On Site | Feb 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MetroNational](https://memorialcity.com)** | **[Summer Internship - Legal  (L2 & L3 Students)](https://jobright.ai/jobs/info/6986a7d10f6f7e7a2ce1b446?utm_campaign=1055&utm_source=git)** | Houston,TX,US | On Site | Feb 06 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong ADA Compliance Intern](https://jobright.ai/jobs/info/6986bf818da7a6120461aba7?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Feb 06 |
 | **[National Retail Federation](http://www.nrf.com)** | **[Legal & Policy Research Intern](https://jobright.ai/jobs/info/6986a7a38ca8121a3a68fb67?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | Feb 06 |
-| **[Alerus](https://www.alerus.com/)** | **[Audit, Compliance & Risk Intern](https://jobright.ai/jobs/info/6986b7498ca8121a3a69160a?utm_campaign=1055&utm_source=git)** | Grand Forks, North Dakota, United States | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
