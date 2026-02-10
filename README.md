@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Haemonetics](http://www.haemonetics.com)** | **[Contract Administration for Sales support for North America, Internship](https://jobright.ai/jobs/info/69539bea935649778e2161dd?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Feb 10 |
 | **[State of Missouri](http://mo.gov)** | **[GCO Summer Internship - 5050500](https://jobright.ai/jobs/info/693bdb404911ef04095f146b?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Feb 10 |
 | **[Cross River](http://crossriver.com)** | **[Consumer Compliance Advisory Intern](https://jobright.ai/jobs/info/69374a551c1c2161c13f2736?utm_campaign=1055&utm_source=git)** | Fort Lee, NJ | Hybrid | Feb 10 |
 | **[Burr & Forman](http://www.burr.com)** | **[2026 Pre-Law Intern](https://jobright.ai/jobs/info/6952a961935649778e2063ab?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Feb 10 |
@@ -110,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Wharton-Smith, Inc.](https://www.whartonsmith.com/)** | **[Risk Management - Intern](https://jobright.ai/jobs/info/698a39e30f6f7e7a2ce54aaa?utm_campaign=1055&utm_source=git)** | Sanford, FL | On Site | Feb 09 |
 | **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part-Time, Spring 2026)](https://jobright.ai/jobs/info/698a2f540f6f7e7a2ce54415?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | Feb 09 |
 | **[Everwise Credit Union](https://www.everwisecu.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698638928da7a6120460e9a2?utm_campaign=1055&utm_source=git)** | South Bend, IN | On Site | Feb 09 |
-| **[Vydia](http://www.vydia.com)** | **[Rights Management Coordinator (Internship)](https://jobright.ai/jobs/info/698a63d2c5761b521a9992d0?utm_campaign=1055&utm_source=git)** | Hybrid Remote - NJ, NY, PA | Hybrid | Feb 09 |
-| ↳ | **[Rights Management Coordinator (Internship)](https://jobright.ai/jobs/info/698a56ce4db8972cecff9656?utm_campaign=1055&utm_source=git)** | Hybrid Remote | Hybrid | Feb 09 |
+| **[Vydia](http://www.vydia.com)** | **[Rights Management Coordinator (Internship)](https://jobright.ai/jobs/info/698a56ce4db8972cecff9656?utm_campaign=1055&utm_source=git)** | Hybrid Remote | Hybrid | Feb 09 |
+| ↳ | **[Rights Management Coordinator (Internship)](https://jobright.ai/jobs/info/698a63d2c5761b521a9992d0?utm_campaign=1055&utm_source=git)** | Hybrid Remote - NJ, NY, PA | Hybrid | Feb 09 |
 | **[Trinity Logistics](https://trinitylogistics.com)** | **[Contract Administration Intern](https://jobright.ai/jobs/info/698abf090f6f7e7a2ce609b8?utm_campaign=1055&utm_source=git)** | Seaford, DE | Hybrid | Feb 09 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Retail Audit & Investigations Intern](https://jobright.ai/jobs/info/698a417547434001cc6876b2?utm_campaign=1055&utm_source=git)** | US-TX-Richardson | On Site | Feb 09 |
 | **[Trinity Logistics](https://trinitylogistics.com)** | **[Contracts Administration Intern](https://jobright.ai/jobs/info/698a21f947434001cc685de1?utm_campaign=1055&utm_source=git)** | Seaford, DE | Hybrid | Feb 09 |
@@ -135,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[City of New York](http://www1.nyc.gov)** | **[Intern - Tort Claims and Engineering Audit Support](https://jobright.ai/jobs/info/698777e28ca8121a3a6a0852?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Feb 07 |
 | **[Texell Credit Union](http://texell.org)** | **[Legal Intern](https://jobright.ai/jobs/info/698772ce8ca8121a3a69ff70?utm_campaign=1055&utm_source=git)** | Temple Headquarters - Temple, TX 76502 | On Site | Feb 07 |
 | **[BioSpace](http://www.biospace.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/698767078da7a61204627a5f?utm_campaign=1055&utm_source=git)** | Somerset, NJ | On Site | Feb 07 |
-| **[Intuit](https://www.intuit.com)** | **[Fraud and Risk Intern](https://jobright.ai/jobs/info/6987663e0f6f7e7a2ce2a525?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Feb 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Vehicle Licensing Internship - Summer 2026](https://jobright.ai/jobs/info/693395e6a0dde7020e2ef689?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Feb 07 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[Legal Intern - Summer](https://jobright.ai/jobs/info/696b323b350cf438031282d9?utm_campaign=1055&utm_source=git)** | Waltham, MA | Hybrid | Feb 07 |
 | **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - City Attorney's Office](https://jobright.ai/jobs/info/698743aa0f6f7e7a2ce28c1b?utm_campaign=1055&utm_source=git)** | Coral Springs, FL | On Site | Feb 07 |
