@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/698baaf6c5761b521a9b3d28?utm_campaign=1055&utm_source=git)** | Davidson, NC | On Site | Feb 10 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - King of Prussia, PA](https://jobright.ai/jobs/info/698b8f73c5761b521a9b1dff?utm_campaign=1055&utm_source=git)** | King of Prussia, PA | On Site | Feb 10 |
 | **[NYC Department of Environmental Protection (NYC DEP)](http://nyc.gov/dep)** | **[2026-BLA-001-Legal Affairs College Intern](https://jobright.ai/jobs/info/698b75fe06d9b06224959138?utm_campaign=1055&utm_source=git)** | Queens, NY | On Site | Feb 10 |
 | **[Nakupuna Companies](https://www.nakupuna.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698b7323c5761b521a9af414?utm_campaign=1055&utm_source=git)** | Honolulu, HI | Hybrid | Feb 10 |
@@ -120,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Wharton-Smith, Inc.](https://www.whartonsmith.com/)** | **[Risk Management - Intern](https://jobright.ai/jobs/info/698a39e30f6f7e7a2ce54aaa?utm_campaign=1055&utm_source=git)** | Sanford, FL | On Site | Feb 09 |
 | **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part-Time, Spring 2026)](https://jobright.ai/jobs/info/698a2f540f6f7e7a2ce54415?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | Feb 09 |
 | **[Everwise Credit Union](https://www.everwisecu.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698638928da7a6120460e9a2?utm_campaign=1055&utm_source=git)** | South Bend, IN | On Site | Feb 09 |
-| **[Vydia](http://www.vydia.com)** | **[Rights Management Coordinator (Internship)](https://jobright.ai/jobs/info/698a63d2c5761b521a9992d0?utm_campaign=1055&utm_source=git)** | Hybrid Remote - NJ, NY, PA | Hybrid | Feb 09 |
-| ↳ | **[Rights Management Coordinator (Internship)](https://jobright.ai/jobs/info/698a56ce4db8972cecff9656?utm_campaign=1055&utm_source=git)** | Hybrid Remote | Hybrid | Feb 09 |
+| **[Vydia](http://www.vydia.com)** | **[Rights Management Coordinator (Internship)](https://jobright.ai/jobs/info/698a56ce4db8972cecff9656?utm_campaign=1055&utm_source=git)** | Hybrid Remote | Hybrid | Feb 09 |
+| ↳ | **[Rights Management Coordinator (Internship)](https://jobright.ai/jobs/info/698a63d2c5761b521a9992d0?utm_campaign=1055&utm_source=git)** | Hybrid Remote - NJ, NY, PA | Hybrid | Feb 09 |
 | **[Trinity Logistics](https://trinitylogistics.com)** | **[Contract Administration Intern](https://jobright.ai/jobs/info/698abf090f6f7e7a2ce609b8?utm_campaign=1055&utm_source=git)** | Seaford, DE | Hybrid | Feb 09 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Retail Audit & Investigations Intern](https://jobright.ai/jobs/info/698a417547434001cc6876b2?utm_campaign=1055&utm_source=git)** | US-TX-Richardson | On Site | Feb 09 |
 | **[Trinity Logistics](https://trinitylogistics.com)** | **[Contracts Administration Intern](https://jobright.ai/jobs/info/698a21f947434001cc685de1?utm_campaign=1055&utm_source=git)** | Seaford, DE | Hybrid | Feb 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/697fc466abff4c399a9e59e1?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Feb 06 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Trade Desk Surveillance Analyst](https://jobright.ai/jobs/info/6986c14b8ca8121a3a692fab?utm_campaign=1055&utm_source=git)** | Winter Park, FL | On Site | Feb 06 |
 | **[United Way](http://www.unitedway.org)** | **[Process Improvement Intern - Contracts/Grants Team](https://jobright.ai/jobs/info/6986be258ca8121a3a692b1f?utm_campaign=1055&utm_source=git)** | Alexandria, VA | On Site | Feb 06 |
-| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Legal Intern (1L)](https://jobright.ai/jobs/info/6986bcc00f6f7e7a2ce1d767?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
