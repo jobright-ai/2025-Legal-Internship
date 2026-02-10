@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Missouri](http://mo.gov)** | **[GCO Summer Internship - 5050500](https://jobright.ai/jobs/info/693bdb404911ef04095f146b?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Feb 10 |
 | **[Cross River](http://crossriver.com)** | **[Consumer Compliance Advisory Intern](https://jobright.ai/jobs/info/69374a551c1c2161c13f2736?utm_campaign=1055&utm_source=git)** | Fort Lee, NJ | Hybrid | Feb 10 |
 | **[Burr & Forman](http://www.burr.com)** | **[2026 Pre-Law Intern](https://jobright.ai/jobs/info/6952a961935649778e2063ab?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Feb 10 |
 | **[Take-Two Interactive](http://www.take2games.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69378fbca0dde7020e30424b?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 10 |
@@ -113,8 +114,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Rights Management Coordinator (Internship)](https://jobright.ai/jobs/info/698a56ce4db8972cecff9656?utm_campaign=1055&utm_source=git)** | Hybrid Remote | Hybrid | Feb 09 |
 | **[Trinity Logistics](https://trinitylogistics.com)** | **[Contract Administration Intern](https://jobright.ai/jobs/info/698abf090f6f7e7a2ce609b8?utm_campaign=1055&utm_source=git)** | Seaford, DE | Hybrid | Feb 09 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Retail Audit & Investigations Intern](https://jobright.ai/jobs/info/698a417547434001cc6876b2?utm_campaign=1055&utm_source=git)** | US-TX-Richardson | On Site | Feb 09 |
+| **[Trinity Logistics](https://trinitylogistics.com)** | **[Contracts Administration Intern](https://jobright.ai/jobs/info/698a21f947434001cc685de1?utm_campaign=1055&utm_source=git)** | Seaford, DE | Hybrid | Feb 09 |
 | **[Federal Home Loan Bank of New York](http://fhlbny.com)** | **[Intern – Legal](https://jobright.ai/jobs/info/698a07664db8972cecff4444?utm_campaign=1055&utm_source=git)** | New York | On Site | Feb 09 |
-| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Corporate Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/698a0fcf4db8972cecff49c0?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Feb 09 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern Spring 2026](https://jobright.ai/jobs/info/6969629ff25a38006697f6f2?utm_campaign=1055&utm_source=git)** | Baltimore, MD | Hybrid | Feb 09 |
 | **[BINERGY SCIENTIFIC, INC](https://binergyscientific.com)** | **[Cybersecurity Intern focused on CMMC compliance](https://jobright.ai/jobs/info/6989c75e4db8972cecff03da?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Feb 09 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Legal Internship in State Bar Court](https://jobright.ai/jobs/info/698b00ce4db8972cec007afd?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 08 |
@@ -138,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Vehicle Licensing Internship - Summer 2026](https://jobright.ai/jobs/info/693395e6a0dde7020e2ef689?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Feb 07 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[Legal Intern - Summer](https://jobright.ai/jobs/info/696b323b350cf438031282d9?utm_campaign=1055&utm_source=git)** | Waltham, MA | Hybrid | Feb 07 |
 | **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - City Attorney's Office](https://jobright.ai/jobs/info/698743aa0f6f7e7a2ce28c1b?utm_campaign=1055&utm_source=git)** | Coral Springs, FL | On Site | Feb 07 |
+| **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Legal Intern - Albany](https://jobright.ai/jobs/info/698656f10f6f7e7a2ce13c61?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Feb 07 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Contracts - Intern](https://jobright.ai/jobs/info/698419f10f6f7e7a2cde43eb?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 07 |
 | **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Legal Intern](https://jobright.ai/jobs/info/694ef5ada2668b7f54523f50?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 07 |
 | **[City of Everett, WA](everettwa.gov)** | **[Rule 9 Intern](https://jobright.ai/jobs/info/6986e2f40f6f7e7a2ce21c20?utm_campaign=1055&utm_source=git)** | Everett, WA | On Site | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Trade Desk Surveillance Analyst](https://jobright.ai/jobs/info/69869cf18ca8121a3a68ea6f?utm_campaign=1055&utm_source=git)** | US-FL-Winter Park | Hybrid | Feb 06 |
 | **[Magna International](http://www.magna.com/)** | **[Compliance and Economic Development Intern- Summer 2026](https://jobright.ai/jobs/info/696aba13db26b618950df933?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Feb 06 |
 | **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney's Office Brave Justice Summer 2026 Legal Internship](https://jobright.ai/jobs/info/687e9e51db19f31cf0d6bba0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern- Sourcing Contracts Third-Party Risk](https://jobright.ai/jobs/info/698698b18da7a6120461718d?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 06 |
-| **[Alerus](https://www.alerus.com/)** | **[Audit, Compliance & Risk Intern](https://jobright.ai/jobs/info/6986b04c8da7a6120461959e?utm_campaign=1055&utm_source=git)** | Grand Forks, ND | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
