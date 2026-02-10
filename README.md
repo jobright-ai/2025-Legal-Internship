@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Model Risk Management/Model Governance](https://jobright.ai/jobs/info/698aa970c5761b521a99f06f?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Feb 09 |
+| **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698aa8b80f6f7e7a2ce5de63?utm_campaign=1055&utm_source=git)** | Kirkland, WA | On Site | Feb 09 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[2026 Spring Internship - Reproductive Rights and Health (law student)](https://jobright.ai/jobs/info/691d3cbd0b7dff73415013c4?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Feb 09 |
 | **[Pattern®](https://pattern.com)** | **[Legal Internship](https://jobright.ai/jobs/info/698a96fe4db8972cecfff1ba?utm_campaign=1055&utm_source=git)** | Lehi, UT | On Site | Feb 09 |
 | **[TopBuild](http://www.topbuild.com)** | **[Intern - Contracts](https://jobright.ai/jobs/info/698a955bc5761b521a99da16?utm_campaign=1055&utm_source=git)** | Daytona Beach, FL | On Site | Feb 09 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Alerus](https://www.alerus.com/)** | **[Audit, Compliance & Risk Intern](https://jobright.ai/jobs/info/6986b7498ca8121a3a69160a?utm_campaign=1055&utm_source=git)** | Grand Forks, North Dakota, United States | On Site | Feb 06 |
 | **[UNIVERSAL INSURANCE MANAGERS, INC](https://www.linkedin.com/company/55241372)** | **[INTERN - LEGAL](https://jobright.ai/jobs/info/6986b2270f6f7e7a2ce1c25e?utm_campaign=1055&utm_source=git)** | Sarasota, FL, US | On Site | Feb 06 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Trade Desk Surveillance Analyst](https://jobright.ai/jobs/info/6986a83d0f6f7e7a2ce1b4e2?utm_campaign=1055&utm_source=git)** | Winter Park, FL, US | Hybrid | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern- Sourcing Contracts Third-Party Risk](https://jobright.ai/jobs/info/6986a0250f6f7e7a2ce1aa67?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | Feb 06 |
-| ↳ | **[IT Intern- Sourcing Contracts Third-Party Risk](https://jobright.ai/jobs/info/6986ad5c8ca8121a3a690993?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
-| **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Legal Intern for Nominations & Democracy](https://jobright.ai/jobs/info/6903ee4ad64a22104aa94fb9?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Feb 06 |
-| **[Magna International](http://www.magna.com/)** | **[Intellecutual Property Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ac7ba5fc862418539e3fa?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Feb 06 |
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern- Sourcing Contracts Third-Party Risk](https://jobright.ai/jobs/info/6986ad5c8ca8121a3a690993?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| ↳ | **[IT Intern- Sourcing Contracts Third-Party Risk](https://jobright.ai/jobs/info/6986a0250f6f7e7a2ce1aa67?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
