@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cross River](http://crossriver.com)** | **[Consumer Compliance Advisory Intern](https://jobright.ai/jobs/info/69374a551c1c2161c13f2736?utm_campaign=1055&utm_source=git)** | Fort Lee, NJ | Hybrid | Feb 10 |
+| **[Burr & Forman](http://www.burr.com)** | **[2026 Pre-Law Intern](https://jobright.ai/jobs/info/6952a961935649778e2063ab?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Feb 10 |
 | **[Take-Two Interactive](http://www.take2games.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69378fbca0dde7020e30424b?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 10 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Regulatory Summer Internship / Mississauga, ON, Canada](https://jobright.ai/jobs/info/6918a703bcdbf3560c9d31d0?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 10 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69739026bc8e722e7b18605f?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Feb 10 |
@@ -107,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Wharton-Smith, Inc.](https://www.whartonsmith.com/)** | **[Risk Management - Intern](https://jobright.ai/jobs/info/698a39e30f6f7e7a2ce54aaa?utm_campaign=1055&utm_source=git)** | Sanford, FL | On Site | Feb 09 |
 | **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part-Time, Spring 2026)](https://jobright.ai/jobs/info/698a2f540f6f7e7a2ce54415?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | Feb 09 |
 | **[Everwise Credit Union](https://www.everwisecu.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698638928da7a6120460e9a2?utm_campaign=1055&utm_source=git)** | South Bend, IN | On Site | Feb 09 |
-| **[Vydia](http://www.vydia.com)** | **[Rights Management Coordinator (Internship)](https://jobright.ai/jobs/info/698a56ce4db8972cecff9656?utm_campaign=1055&utm_source=git)** | Hybrid Remote | Hybrid | Feb 09 |
-| ↳ | **[Rights Management Coordinator (Internship)](https://jobright.ai/jobs/info/698a63d2c5761b521a9992d0?utm_campaign=1055&utm_source=git)** | Hybrid Remote - NJ, NY, PA | Hybrid | Feb 09 |
+| **[Vydia](http://www.vydia.com)** | **[Rights Management Coordinator (Internship)](https://jobright.ai/jobs/info/698a63d2c5761b521a9992d0?utm_campaign=1055&utm_source=git)** | Hybrid Remote - NJ, NY, PA | Hybrid | Feb 09 |
+| ↳ | **[Rights Management Coordinator (Internship)](https://jobright.ai/jobs/info/698a56ce4db8972cecff9656?utm_campaign=1055&utm_source=git)** | Hybrid Remote | Hybrid | Feb 09 |
 | **[Trinity Logistics](https://trinitylogistics.com)** | **[Contract Administration Intern](https://jobright.ai/jobs/info/698abf090f6f7e7a2ce609b8?utm_campaign=1055&utm_source=git)** | Seaford, DE | Hybrid | Feb 09 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Retail Audit & Investigations Intern](https://jobright.ai/jobs/info/698a417547434001cc6876b2?utm_campaign=1055&utm_source=git)** | US-TX-Richardson | On Site | Feb 09 |
 | **[Federal Home Loan Bank of New York](http://fhlbny.com)** | **[Intern – Legal](https://jobright.ai/jobs/info/698a07664db8972cecff4444?utm_campaign=1055&utm_source=git)** | New York | On Site | Feb 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney's Office Brave Justice Summer 2026 Legal Internship](https://jobright.ai/jobs/info/687e9e51db19f31cf0d6bba0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Ascension](https://healthcare.ascension.org)** | **[IT Intern- Sourcing Contracts Third-Party Risk](https://jobright.ai/jobs/info/698698b18da7a6120461718d?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Alerus](https://www.alerus.com/)** | **[Audit, Compliance & Risk Intern](https://jobright.ai/jobs/info/6986b04c8da7a6120461959e?utm_campaign=1055&utm_source=git)** | Grand Forks, ND | On Site | Feb 06 |
-| **[Democracy Defenders Action](https://statedemocracydefenders.org/)** | **[Legal Policy Intern (JD candidate)](https://jobright.ai/jobs/info/698688f10f6f7e7a2ce18a84?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 06 |
-| **[Fresh Del Monte](http://freshdelmonte.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6986aa388ca8121a3a6903e2?utm_campaign=1055&utm_source=git)** | Coral Gables-HQ, Coral Gables, FL, US | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
