@@ -107,7 +107,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Rights Management Coordinator (Internship)](https://jobright.ai/jobs/info/698a63d2c5761b521a9992d0?utm_campaign=1055&utm_source=git)** | Hybrid Remote - NJ, NY, PA | Hybrid | Feb 09 |
 | **[Trinity Logistics](https://trinitylogistics.com)** | **[Contract Administration Intern](https://jobright.ai/jobs/info/698abf090f6f7e7a2ce609b8?utm_campaign=1055&utm_source=git)** | Seaford, DE | Hybrid | Feb 09 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Retail Audit & Investigations Intern](https://jobright.ai/jobs/info/698a417547434001cc6876b2?utm_campaign=1055&utm_source=git)** | US-TX-Richardson | On Site | Feb 09 |
-| **[Trinity Logistics](https://trinitylogistics.com)** | **[Contracts Administration Intern](https://jobright.ai/jobs/info/698a21f947434001cc685de1?utm_campaign=1055&utm_source=git)** | Seaford, DE | Hybrid | Feb 09 |
 | **[Federal Home Loan Bank of New York](http://fhlbny.com)** | **[Intern – Legal](https://jobright.ai/jobs/info/698a07664db8972cecff4444?utm_campaign=1055&utm_source=git)** | New York | On Site | Feb 09 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Corporate Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/698a0fcf4db8972cecff49c0?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Feb 09 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern Spring 2026](https://jobright.ai/jobs/info/6969629ff25a38006697f6f2?utm_campaign=1055&utm_source=git)** | Baltimore, MD | Hybrid | Feb 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[MetroNational](https://memorialcity.com)** | **[Summer Internship - Legal  (L2 & L3 Students)](https://jobright.ai/jobs/info/6986a7d10f6f7e7a2ce1b446?utm_campaign=1055&utm_source=git)** | Houston,TX,US | On Site | Feb 06 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong ADA Compliance Intern](https://jobright.ai/jobs/info/6986bf818da7a6120461aba7?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Feb 06 |
 | **[National Retail Federation](http://www.nrf.com)** | **[Legal & Policy Research Intern](https://jobright.ai/jobs/info/6986a7a38ca8121a3a68fb67?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | Feb 06 |
+| **[Alerus](https://www.alerus.com/)** | **[Audit, Compliance & Risk Intern](https://jobright.ai/jobs/info/6986b7498ca8121a3a69160a?utm_campaign=1055&utm_source=git)** | Grand Forks, North Dakota, United States | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
