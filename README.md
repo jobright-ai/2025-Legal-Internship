@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Take-Two Interactive](http://www.take2games.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69378fbca0dde7020e30424b?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 10 |
+| **[Reckitt](https://www.reckitt.com)** | **[2026 Regulatory Summer Internship / Mississauga, ON, Canada](https://jobright.ai/jobs/info/6918a703bcdbf3560c9d31d0?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 10 |
+| **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69739026bc8e722e7b18605f?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Feb 10 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Occupational Risk Operations Intern](https://jobright.ai/jobs/info/698aceea0f6f7e7a2ce6284d?utm_campaign=1055&utm_source=git)** | Glastonbury, CT | On Site | Feb 09 |
 | **[API Legal Outreach](https://www.apilegaloutreach.org)** | **[Summer Law Clerk Internship](https://jobright.ai/jobs/info/698ac1744db8972cec0042ae?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Feb 09 |
 | **[Zeeco, Inc.](http://www.zeeco.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/698ab3944db8972cec00198f?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Feb 09 |
@@ -112,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Corporate Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/698a0fcf4db8972cecff49c0?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Feb 09 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern Spring 2026](https://jobright.ai/jobs/info/6969629ff25a38006697f6f2?utm_campaign=1055&utm_source=git)** | Baltimore, MD | Hybrid | Feb 09 |
 | **[BINERGY SCIENTIFIC, INC](https://binergyscientific.com)** | **[Cybersecurity Intern focused on CMMC compliance](https://jobright.ai/jobs/info/6989c75e4db8972cecff03da?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Feb 09 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Legal Internship in State Bar Court](https://jobright.ai/jobs/info/698b00ce4db8972cec007afd?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 08 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69104536988c2b7b4ec50c5d?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Feb 08 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Security Risk & Compliance Intern](https://jobright.ai/jobs/info/698930d70f6f7e7a2ce43d93?utm_campaign=1055&utm_source=git)** | Tysons Corner, VA | On Site | Feb 08 |
 | **[State of Washington](http://access.wa.gov/)** | **[Paralegal Intern, Positions in Multiple Locations, Attorney General's Office](https://jobright.ai/jobs/info/698a00490f6f7e7a2ce5125c?utm_campaign=1055&utm_source=git)** | Bay View, WA | On Site | Feb 08 |
@@ -132,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Vehicle Licensing Internship - Summer 2026](https://jobright.ai/jobs/info/693395e6a0dde7020e2ef689?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Feb 07 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[Legal Intern - Summer](https://jobright.ai/jobs/info/696b323b350cf438031282d9?utm_campaign=1055&utm_source=git)** | Waltham, MA | Hybrid | Feb 07 |
 | **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - City Attorney's Office](https://jobright.ai/jobs/info/698743aa0f6f7e7a2ce28c1b?utm_campaign=1055&utm_source=git)** | Coral Springs, FL | On Site | Feb 07 |
-| **[State of Missouri](http://mo.gov)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69801881abff4c399a9eca5a?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Feb 07 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Contracts - Intern](https://jobright.ai/jobs/info/698419f10f6f7e7a2cde43eb?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 07 |
 | **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Legal Intern](https://jobright.ai/jobs/info/694ef5ada2668b7f54523f50?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 07 |
 | **[City of Everett, WA](everettwa.gov)** | **[Rule 9 Intern](https://jobright.ai/jobs/info/6986e2f40f6f7e7a2ce21c20?utm_campaign=1055&utm_source=git)** | Everett, WA | On Site | Feb 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alerus](https://www.alerus.com/)** | **[Audit, Compliance & Risk Intern](https://jobright.ai/jobs/info/6986b04c8da7a6120461959e?utm_campaign=1055&utm_source=git)** | Grand Forks, ND | On Site | Feb 06 |
 | **[Democracy Defenders Action](https://statedemocracydefenders.org/)** | **[Legal Policy Intern (JD candidate)](https://jobright.ai/jobs/info/698688f10f6f7e7a2ce18a84?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Fresh Del Monte](http://freshdelmonte.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6986aa388ca8121a3a6903e2?utm_campaign=1055&utm_source=git)** | Coral Gables-HQ, Coral Gables, FL, US | On Site | Feb 06 |
-| **[MetroNational](https://memorialcity.com)** | **[Summer Internship - Legal  (L2 & L3 Students)](https://jobright.ai/jobs/info/6986a7d10f6f7e7a2ce1b446?utm_campaign=1055&utm_source=git)** | Houston,TX,US | On Site | Feb 06 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong ADA Compliance Intern](https://jobright.ai/jobs/info/6986bf818da7a6120461aba7?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Feb 06 |
-| **[National Retail Federation](http://www.nrf.com)** | **[Legal & Policy Research Intern](https://jobright.ai/jobs/info/6986a7a38ca8121a3a68fb67?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
