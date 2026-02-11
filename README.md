@@ -59,7 +59,9 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Intern the Otsuka Way 2026 - GRA/Global Regulatory Operations and Clinical Transparency](https://jobright.ai/jobs/info/698bbd27c5761b521a9b4d1a?utm_campaign=1055&utm_source=git)** | Rockville, MD | Hybrid | Feb 10 |
 | **[X, The Moonshot Factory](https://x.company)** | **[2026 Summer Intern - Law Student - Legal Technology, Early Stage Project](https://jobright.ai/jobs/info/698bb64406d9b0622495df3f?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Feb 10 |
+| **[RouteOne](https://www.routeone.com/)** | **[Legal/Governance, Risk, and Compliance (GRC) Intern- Summer 2026](https://jobright.ai/jobs/info/698bc1000f6f7e7a2ce73904?utm_campaign=1055&utm_source=git)** | Farmington Hills, MI, US | On Site | Feb 10 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - King of Prussia, PA](https://jobright.ai/jobs/info/698b8f73c5761b521a9b1dff?utm_campaign=1055&utm_source=git)** | King of Prussia, PA | On Site | Feb 10 |
+| **[PlanetArt](http://www.planetart.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/698bc07f06d9b0622495e7fc?utm_campaign=1055&utm_source=git)** | Calabasas, CA | Hybrid | Feb 10 |
 | **[ANDROS, FLOYD & MILLER, P.C](https://www.linkedin.com/company/61141784)** | **[Legal Intern](https://jobright.ai/jobs/info/698bbbbcc5761b521a9b4bf1?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Feb 10 |
 | **[NYC Department of Environmental Protection (NYC DEP)](http://nyc.gov/dep)** | **[2026-BLA-001-Legal Affairs College Intern](https://jobright.ai/jobs/info/698b75fe06d9b06224959138?utm_campaign=1055&utm_source=git)** | Queens, NY | On Site | Feb 10 |
 | **[Nachawati Law Group](http://fnlawfirm.com)** | **[Summer Associate Internship](https://jobright.ai/jobs/info/698bbd48c5761b521a9b4d31?utm_campaign=1055&utm_source=git)** | Dallas,TX,US | On Site | Feb 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Legal Intern - Albany](https://jobright.ai/jobs/info/698656f10f6f7e7a2ce13c61?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Feb 07 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Contracts - Intern](https://jobright.ai/jobs/info/698419f10f6f7e7a2cde43eb?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 07 |
 | **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Legal Intern](https://jobright.ai/jobs/info/694ef5ada2668b7f54523f50?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 07 |
-| **[City of Everett, WA](everettwa.gov)** | **[Rule 9 Intern](https://jobright.ai/jobs/info/6986e2f40f6f7e7a2ce21c20?utm_campaign=1055&utm_source=git)** | Everett, WA | On Site | Feb 06 |
-| **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Intern-Cybersecurity JSOX Compliance Analyst](https://jobright.ai/jobs/info/696b0b495fc86241853a5989?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
