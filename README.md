@@ -91,11 +91,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698c20cee4f6572f0e441e8a?utm_campaign=1055&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Feb 10 |
 | **[QBE Insurance](http://www.qbe.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698c21ee0f6f7e7a2ce7b6d3?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 10 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Indirect Tax Counsel (Summer 2026)](https://jobright.ai/jobs/info/698bfb8de4f6572f0e43f3f5?utm_campaign=1055&utm_source=git)** | Hayward, California | On Site | Feb 10 |
-| **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698c1bfe0f6f7e7a2ce7af62?utm_campaign=1055&utm_source=git)** | US-PA-Wilkes Barre | Hybrid | Feb 10 |
+| **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698c1ff391fdda424d58e236?utm_campaign=1055&utm_source=git)** | US-PA-Conshohocken | Hybrid | Feb 10 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698c16810f6f7e7a2ce7a8c5?utm_campaign=1055&utm_source=git)** | Wilkes Barre, PA, US | Hybrid | Feb 10 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698c2bcd91fdda424d590f86?utm_campaign=1055&utm_source=git)** | Conshohocken, PA, US | Hybrid | Feb 10 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698c1ff391fdda424d58e236?utm_campaign=1055&utm_source=git)** | US-PA-Conshohocken | Hybrid | Feb 10 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698c098ae4f6572f0e4402e1?utm_campaign=1055&utm_source=git)** | US-PA-Philadelphia | Hybrid | Feb 10 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698c2bcd91fdda424d590f86?utm_campaign=1055&utm_source=git)** | Conshohocken, PA, US | Hybrid | Feb 10 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698c1bfe0f6f7e7a2ce7af62?utm_campaign=1055&utm_source=git)** | US-PA-Wilkes Barre | Hybrid | Feb 10 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Paralegal Summer Intern](https://jobright.ai/jobs/info/698c1335e4f6572f0e440dcc?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 10 |
 | ↳ | **[Fraud Team Summer Intern](https://jobright.ai/jobs/info/698c26030f6f7e7a2ce7bc95?utm_campaign=1055&utm_source=git)** | Tampa, FL, US | Hybrid | Feb 10 |
 | ↳ | **[Fraud Team Summer Intern](https://jobright.ai/jobs/info/698bf87fe4f6572f0e43f006?utm_campaign=1055&utm_source=git)** | US-FL-Tampa | Hybrid | Feb 10 |
@@ -107,9 +107,9 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Indirect Tax Counsel (Summer 2026)](https://jobright.ai/jobs/info/698be59d0f6f7e7a2ce76786?utm_campaign=1055&utm_source=git)** | Hayward, CA | On Site | Feb 10 |
 | **[The Magnum Ice Cream Company](https://corporate.magnumicecream.com/en/home.html)** | **[2026 Regulatory Affairs Internship](https://jobright.ai/jobs/info/698c505991fdda424d593d1c?utm_campaign=1055&utm_source=git)** | Hoboken US HQ | On Site | Feb 10 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Employment Law Intern](https://jobright.ai/jobs/info/698c199791fdda424d58da98?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 10 |
+| **[Generac](https://www.generac.com/)** | **[Supplier Compliance Intern](https://jobright.ai/jobs/info/698c714678b4502f12a2f986?utm_campaign=1055&utm_source=git)** | Waukesha, WI - USA | On Site | Feb 10 |
 | **[Carmeuse](http://www.carmeuse.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6972f494694e99351d143c64?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Feb 10 |
 | **[The Ritedose Corporation](http://ritedose.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/698be31e0f6f7e7a2ce7616e?utm_campaign=1055&utm_source=git)** | Columbia, SC | On Site | Feb 10 |
-| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Corporate Affairs](https://jobright.ai/jobs/info/698bee7f06d9b062249621cb?utm_campaign=1055&utm_source=git)** | San Rafael, CA | Hybrid | Feb 10 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/698bd66306d9b0622495fca9?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
 | **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Intern the Otsuka Way 2026 - GRA/Global Regulatory Operations and Clinical Transparency](https://jobright.ai/jobs/info/698bbd27c5761b521a9b4d1a?utm_campaign=1055&utm_source=git)** | Rockville, MD | Hybrid | Feb 10 |
 | **[Ohio Lottery Commission](https://www.ohiolottery.com)** | **[Legal College Intern-Summer 2026](https://jobright.ai/jobs/info/698be971c5761b521a9b83fe?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Feb 10 |
