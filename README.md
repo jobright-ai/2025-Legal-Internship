@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Philips](https://www.usa.philips.com)** | **[Intern - Regulatory Affairs - Cambridge, MA - Summer 2026](https://jobright.ai/jobs/info/698c2aeb0f6f7e7a2ce7da8a?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Feb 10 |
+| **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Regulatory Intern, Shockwave](https://jobright.ai/jobs/info/698c2e2a91fdda424d5911d9?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Feb 10 |
 | **[Oracle](https://www.oracle.com/)** | **[Global Procurement Contracts Intern](https://jobright.ai/jobs/info/698c2bb791fdda424d590f58?utm_campaign=1055&utm_source=git)** | Rocklin, CA | Remote | Feb 10 |
+| **[Louisiana Blue](https://www.bcbsla.com/)** | **[CW Compliance and Ethics Intern - Summer](https://jobright.ai/jobs/info/698c332491fdda424d5916f0?utm_campaign=1055&utm_source=git)** | Corporate - Baton Rouge, LA | On Site | Feb 10 |
+| **[Oracle](https://www.oracle.com/)** | **[Global Procurement Contracts Intern](https://jobright.ai/jobs/info/698c3ae291fdda424d592165?utm_campaign=1055&utm_source=git)** | Rocklin, CA, United States | On Site | Feb 10 |
 | **[Canada Life](https://www.canadalife.co.uk/)** | **[Operational Risk & Resilience Intern (Student Position)](https://jobright.ai/jobs/info/698c00650f6f7e7a2ce79004?utm_campaign=1055&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | Feb 10 |
+| **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Supervision and Regulation Intern- Bank Examiner](https://jobright.ai/jobs/info/69703092587dfa0bb55db34a?utm_campaign=1055&utm_source=git)** | Kansas City, MO | Hybrid | Feb 10 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Fraud Team Summer Intern](https://jobright.ai/jobs/info/698bfce50f6f7e7a2ce78c4e?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Feb 10 |
 | **[Checkbook](https://www.checkbook.io)** | **[Checkbook Intern: Legal, Operations & People Ops](https://jobright.ai/jobs/info/698bfa68e4f6572f0e43f2a5?utm_campaign=1055&utm_source=git)** | San Mateo, CA | Hybrid | Feb 10 |
+| **[Databricks](https://www.databricks.com)** | **[Legal Intern](https://jobright.ai/jobs/info/696fdee90f4e0f657ea42565?utm_campaign=1055&utm_source=git)** | Mountain View, CA | Hybrid | Feb 10 |
 | **[Freddie Mac](https://www.freddiemac.com/)** | **[Regulatory Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/6970143b0f4e0f657ea46fd4?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Feb 10 |
-| **[Canada Life](https://www.canadalife.co.uk/)** | **[Operational Risk & Resilience Intern (Student Position)](https://jobright.ai/jobs/info/698c12630f6f7e7a2ce7a3da?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 10 |
+| **[Canada Life](https://www.canadalife.co.uk/)** | **[Operational Risk & Resilience Intern (Student Position)](https://jobright.ai/jobs/info/698c2e7fe4f6572f0e444a79?utm_campaign=1055&utm_source=git)** | London, Ontario, Canada | Hybrid | Feb 10 |
+| ↳ | **[Operational Risk & Resilience Intern (Student Position)](https://jobright.ai/jobs/info/698c12630f6f7e7a2ce7a3da?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 10 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Paralegal Summer Intern](https://jobright.ai/jobs/info/698c2032e4f6572f0e441dcb?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 10 |
 | **[Flexera](https://www.flexera.com)** | **[Legal Intern](https://jobright.ai/jobs/info/696fcea882817106e976d836?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 10 |
 | **[Nissha Medical Technologies](https://hs.nisshamedical.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69706a2e51f726477182c0c7?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 10 |
@@ -78,14 +83,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698c20cee4f6572f0e441e8a?utm_campaign=1055&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Feb 10 |
 | **[QBE Insurance](http://www.qbe.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698c21ee0f6f7e7a2ce7b6d3?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 10 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Indirect Tax Counsel (Summer 2026)](https://jobright.ai/jobs/info/698bfb8de4f6572f0e43f3f5?utm_campaign=1055&utm_source=git)** | Hayward, California | On Site | Feb 10 |
-| **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698c2bcd91fdda424d590f86?utm_campaign=1055&utm_source=git)** | Conshohocken, PA, US | Hybrid | Feb 10 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698c16810f6f7e7a2ce7a8c5?utm_campaign=1055&utm_source=git)** | Wilkes Barre, PA, US | Hybrid | Feb 10 |
+| **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698c16810f6f7e7a2ce7a8c5?utm_campaign=1055&utm_source=git)** | Wilkes Barre, PA, US | Hybrid | Feb 10 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698c1bfe0f6f7e7a2ce7af62?utm_campaign=1055&utm_source=git)** | US-PA-Wilkes Barre | Hybrid | Feb 10 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698c1ff391fdda424d58e236?utm_campaign=1055&utm_source=git)** | US-PA-Conshohocken | Hybrid | Feb 10 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698c098ae4f6572f0e4402e1?utm_campaign=1055&utm_source=git)** | US-PA-Philadelphia | Hybrid | Feb 10 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698c2bcd91fdda424d590f86?utm_campaign=1055&utm_source=git)** | Conshohocken, PA, US | Hybrid | Feb 10 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Paralegal Summer Intern](https://jobright.ai/jobs/info/698c1335e4f6572f0e440dcc?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 10 |
-| ↳ | **[Fraud Team Summer Intern](https://jobright.ai/jobs/info/698bf87fe4f6572f0e43f006?utm_campaign=1055&utm_source=git)** | US-FL-Tampa | Hybrid | Feb 10 |
 | ↳ | **[Fraud Team Summer Intern](https://jobright.ai/jobs/info/698c26030f6f7e7a2ce7bc95?utm_campaign=1055&utm_source=git)** | Tampa, FL, US | Hybrid | Feb 10 |
+| ↳ | **[Fraud Team Summer Intern](https://jobright.ai/jobs/info/698bf87fe4f6572f0e43f006?utm_campaign=1055&utm_source=git)** | US-FL-Tampa | Hybrid | Feb 10 |
 | **[Dime Community Bank](https://www.dime.com)** | **[Intern - (Banking) Legal Processing (Summer 2026)](https://jobright.ai/jobs/info/69814b907f40342e15da4f3f?utm_campaign=1055&utm_source=git)** | Hauppauge, NY | On Site | Feb 10 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Inventory Management and Compliance Internship](https://jobright.ai/jobs/info/698be9a5c5761b521a9b843e?utm_campaign=1055&utm_source=git)** | Shakopee, MN | On Site | Feb 10 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Enterprise Risk Management Intern - Summer, 2026](https://jobright.ai/jobs/info/698c1634e4f6572f0e44115a?utm_campaign=1055&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 10 |
@@ -132,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[API Legal Outreach](https://www.apilegaloutreach.org)** | **[Summer Law Clerk Internship](https://jobright.ai/jobs/info/698ac1744db8972cec0042ae?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Feb 09 |
 | **[Zeeco, Inc.](http://www.zeeco.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/698ab3944db8972cec00198f?utm_campaign=1055&utm_source=git)** | Tulsa, OK | On Site | Feb 09 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Legal Intern](https://jobright.ai/jobs/info/698ab26d4db8972cec001850?utm_campaign=1055&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Feb 09 |
-| **[American Rheinmetall](https://www.rheinmetall.com/en/company/subsidiaries/american-rheinmetall-defense)** | **[Contract Management Intern](https://jobright.ai/jobs/info/698c27220f6f7e7a2ce7c129?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Feb 09 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Model Risk Management/Model Governance](https://jobright.ai/jobs/info/698aa970c5761b521a99f06f?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Feb 09 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698aa8b80f6f7e7a2ce5de63?utm_campaign=1055&utm_source=git)** | Kirkland, WA | On Site | Feb 09 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[2026 Spring Internship - Reproductive Rights and Health (law student)](https://jobright.ai/jobs/info/691d3cbd0b7dff73415013c4?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Feb 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pattern Bioscience](https://pattern.bio)** | **[Legal Internship](https://jobright.ai/jobs/info/698a77dfc5761b521a99b2b3?utm_campaign=1055&utm_source=git)** | Lehi, UT, US | On Site | Feb 09 |
 | **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[Vertex Summer Intern 2026, Regulatory Advertising and Promotion](https://jobright.ai/jobs/info/698afa68c5761b521a9a59b5?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Feb 09 |
 | **[Vertex](tryvertex.co)** | **[Vertex Summer Intern 2026, Regulatory Advertising and Promotion](https://jobright.ai/jobs/info/698a713a0f6f7e7a2ce598a2?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Feb 09 |
-| **[Lennox](http://www.lennox.com)** | **[Retail Audit & Investigations Intern](https://jobright.ai/jobs/info/698a66df0f6f7e7a2ce58a85?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Feb 09 |
-| **[KCH Transportation](https://www.kchtrans.com)** | **[Carrier Compliance Intern](https://jobright.ai/jobs/info/69602feea1bbea1d9a7b03e3?utm_campaign=1055&utm_source=git)** | Chattanooga, TN | On Site | Feb 09 |
-| **[Democracy Defenders Action](https://statedemocracydefenders.org/)** | **[Legal Intern (JD Candidate)](https://jobright.ai/jobs/info/698a64180f6f7e7a2ce58600?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 09 |
-| **[First American](http://www.firstam.com)** | **[Escrow Internship - Undergraduate](https://jobright.ai/jobs/info/698a61190f6f7e7a2ce58164?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
