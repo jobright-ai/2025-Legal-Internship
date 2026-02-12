@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aypa Power](https://www.aypa.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698d9132f64d441a164fb5d8?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 12 |
 | **[CBIZ](http://www.cbiz.com)** | **[Corporate Compliance & Licensing Intern / Summer 2026](https://jobright.ai/jobs/info/6971b26e587dfa0bb55f7b43?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Feb 11 |
+| **[LWCC](https://www.lwcc.com/)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/696e8b40db26b61895116859?utm_campaign=1055&utm_source=git)** | Baton Rouge Metro | On Site | Feb 11 |
 | **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[2026 Summer Internship- Legal](https://jobright.ai/jobs/info/69719c4451f726477183f61b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Feb 11 |
 | **[MannKind Corporation](http://mannkindcorp.com)** | **[Regulatory Affairs Internship](https://jobright.ai/jobs/info/697188ce587dfa0bb55f3a30?utm_campaign=1055&utm_source=git)** | Bedford, MA | Hybrid | Feb 11 |
+| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/698d82d60f6f7e7a2ce96eb6?utm_campaign=1055&utm_source=git)** | San Rafael, CA | On Site | Feb 11 |
 | **[CoreSite](http://www.coresite.com)** | **[Compliance & Internal Controls Analyst (1835)](https://jobright.ai/jobs/info/6971480b51f72647718388aa?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Feb 11 |
 | **[Illumio](http://www.illumio.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698d500b78b4502f12a3f663?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | On Site | Feb 11 |
 | **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Licensing Intern](https://jobright.ai/jobs/info/698d4fdf78b4502f12a3f620?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 11 |
@@ -70,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/698d41c3f64d441a164f45e4?utm_campaign=1055&utm_source=git)** | Kalamazoo, MI | On Site | Feb 11 |
 | **[Triumph](https://www.tfin.com/)** | **[Financial Crimes Investigator Intern – Summer 2026](https://jobright.ai/jobs/info/6971541b333b6343a14ddd9d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Feb 11 |
 | **[Texas General Land Office](http://www.glo.texas.gov/)** | **[GLO - Mineral Audit Summer Intern (Clerk II)](https://jobright.ai/jobs/info/698d399278b4502f12a3d21e?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 11 |
-| **[Aypa Power](https://www.aypa.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698d5362f64d441a164f661a?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 11 |
 | **[Kiewit](http://www.kiewit.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/698d325d0f6f7e7a2ce8fa9b?utm_campaign=1055&utm_source=git)** | Lenexa, KS | On Site | Feb 11 |
 | **[State of Missouri](http://mo.gov)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/698d2c5f78b4502f12a3bbb2?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Feb 11 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Summer Intern - Law Clerk](https://jobright.ai/jobs/info/69712f60333b6343a14da08f?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Feb 11 |
@@ -125,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[HomeTrust Bank](https://www.hometrustbanking.com)** | **[Intern](https://jobright.ai/jobs/info/698c9e27f64d441a164e8808?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Feb 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Hulu Business Affairs and Legal Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698cc3320f6f7e7a2ce87a26?utm_campaign=1055&utm_source=git)** | Burbank, CA, USA | Hybrid | Feb 11 |
 | **[The Law Offices of Benjamin T. McLawhorn](www.mclawfirmnc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698cc70b0f6f7e7a2ce87f6a?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Feb 11 |
-| **[First State Bank and Trust](http://fsbt.com)** | **[Trust Departmental Intern](https://jobright.ai/jobs/info/698d7b110f6f7e7a2ce96209?utm_campaign=1055&utm_source=git)** | Bayport, MN | On Site | Feb 11 |
 | **[Wurth Elektronik](https://www.we-ics.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/698c8f530f6f7e7a2ce84670?utm_campaign=1055&utm_source=git)** | Watertown, SD | On Site | Feb 11 |
 | **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Corporate Affairs](https://jobright.ai/jobs/info/698c8b2278b4502f12a30bcd?utm_campaign=1055&utm_source=git)** | San Rafael, CA | Hybrid | Feb 11 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970e12a587dfa0bb55e7036?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Flexera](https://www.flexera.com)** | **[Legal Intern](https://jobright.ai/jobs/info/696fcea882817106e976d836?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 10 |
 | **[Nissha Medical Technologies](https://hs.nisshamedical.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69706a2e51f726477182c0c7?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 10 |
 | **[AST SpaceMobile](https://ast-science.com)** | **[Intern (Legal) – Regulatory Affairs](https://jobright.ai/jobs/info/698c095591fdda424d58c832?utm_campaign=1055&utm_source=git)** | US - Remote | Remote | Feb 10 |
-| **[Sound Transit](https://www.soundtransit.org)** | **[Enterprise Risk Management Intern - Summer, 2026](https://jobright.ai/jobs/info/698be2a3c5761b521a9b77f5?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
