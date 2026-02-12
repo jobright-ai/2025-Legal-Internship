@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/698dd967f64d441a16500981?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 12 |
+| **[Superior Court, County of Santa Clara](http://www.scscourt.org)** | **[Judicial Intern](https://jobright.ai/jobs/info/698dd88778b4502f12a4998c?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | Hybrid | Feb 12 |
+| **[Morrison Foerster](http://www.mofo.com)** | **[Paralegal Intern](https://jobright.ai/jobs/info/698dd7d2f64d441a165007a2?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Feb 12 |
+| **[Lennox](http://www.lennox.com)** | **[Summer 2026 Business Compliance Intern](https://jobright.ai/jobs/info/6959e7aeaa05c26e7ab3867b?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Feb 12 |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69841267348f733a5c37d941?utm_campaign=1055&utm_source=git)** | Suwanee, GA | On Site | Feb 12 |
 | **[Morrison Foerster](http://www.mofo.com)** | **[Paralegal Intern](https://jobright.ai/jobs/info/698dcebef64d441a1650006a?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 12 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/698c255791fdda424d58ea9b?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Feb 12 |
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/698412e40f6f7e7a2cde3992?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Hulu Business Affairs and Legal JD Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698dc415f64d441a164ff338?utm_campaign=1055&utm_source=git)** | Burbank, CA | On Site | Feb 12 |
+| **[Morrison Foerster](http://www.mofo.com)** | **[Paralegal Intern](https://jobright.ai/jobs/info/698de42d0f6f7e7a2ce9ee17?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 12 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a42c4ac80bb5492bcc47a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Feb 12 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Intellectual Property (IP) Management & Marketing, Hybrid](https://jobright.ai/jobs/info/69705a7751f7264771829e1c?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 12 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a373848a8ce22990e30df?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Feb 12 |
 | **[Compeer Financial](https://compeer.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/698da836f64d441a164fd005?utm_campaign=1055&utm_source=git)** | Johnston, IA | Hybrid | Feb 12 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698da64df64d441a164fcdbb?utm_campaign=1055&utm_source=git)** | Naperville, IL | Hybrid | Feb 12 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698da3cff64d441a164fca6d?utm_campaign=1055&utm_source=git)** | Sun Prairie, WI | Hybrid | Feb 12 |
@@ -149,12 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970e12a587dfa0bb55e7036?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 11 |
 | **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Indigenous Peoples (First Nations, Inuit, and Métis) Student Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/696ffe2082817106e9771a2c?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 11 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970ed4c51f726477183248c?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Feb 11 |
-| **[Philips](https://www.usa.philips.com)** | **[Intern - Regulatory Affairs - Cambridge, MA - Summer 2026](https://jobright.ai/jobs/info/698dd1fb0f6f7e7a2ce9d387?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Feb 11 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Privacy Law Intern - Summer 2026](https://jobright.ai/jobs/info/698c6bc678b4502f12a2f367?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | Hybrid | Feb 11 |
-| **[Wealthspire](https://www.wealthspire.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698c5a4df64d441a164e4b69?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 11 |
-| ↳ | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698c589f78b4502f12a2dd9f?utm_campaign=1055&utm_source=git)** | Windsor, CT | Hybrid | Feb 11 |
-| ↳ | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698c53e978b4502f12a2da79?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Feb 11 |
-| ↳ | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698c669b0f6f7e7a2ce822cb?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Feb 11 |
-| **[Saputo Inc.](http://www.saputo.com/)** | **[Employment Law Intern](https://jobright.ai/jobs/info/698c61d00f6f7e7a2ce81d43?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 11 |
-| **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Regulatory Intern, Shockwave](https://jobright.ai/jobs/info/698c2e2a91fdda424d5911d9?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
