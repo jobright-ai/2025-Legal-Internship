@@ -79,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Eastern Bank](https://www.easternbank.com)** | **[Contract Administrator Intern](https://jobright.ai/jobs/info/698e35a278b4502f12a501a6?utm_campaign=1055&utm_source=git)** | 601 Edgewater Drive, Wakefield, MA, 01880, US | On Site | Feb 12 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69739026bc8e722e7b18605f?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Feb 12 |
 | **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/698e24440f6f7e7a2cea3211?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Feb 12 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e2500f64d441a16505f9e?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Feb 12 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e22b40f6f7e7a2cea3025?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Feb 12 |
+| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e2500f64d441a16505f9e?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Feb 12 |
 | **[Cogeco Media](http://www.cogecomedia.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698e214d0f6f7e7a2cea2eb4?utm_campaign=1055&utm_source=git)** | Quincy, MA | Hybrid | Feb 12 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/698e1de80f6f7e7a2cea2b5d?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Feb 12 |
 | **[Town of Cary](https://www.carync.gov/)** | **[Legal Intern](https://jobright.ai/jobs/info/698e15950f6f7e7a2cea23e7?utm_campaign=1055&utm_source=git)** | Cary, NC | On Site | Feb 12 |
@@ -123,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, IT Compliance](https://jobright.ai/jobs/info/69716d80333b6343a14df523?utm_campaign=1055&utm_source=git)** | Tucson, AZ | On Site | Feb 11 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Legal & Business Development- EN](https://jobright.ai/jobs/info/697b7cda1136d179eeeefc18?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 11 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/698d41c3f64d441a164f45e4?utm_campaign=1055&utm_source=git)** | Kalamazoo, MI | On Site | Feb 11 |
-| **[Triumph](https://www.tfin.com/)** | **[Financial Crimes Investigator Intern – Summer 2026](https://jobright.ai/jobs/info/6971541b333b6343a14ddd9d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Feb 11 |
 | **[Texas General Land Office](http://www.glo.texas.gov/)** | **[GLO - Mineral Audit Summer Intern (Clerk II)](https://jobright.ai/jobs/info/698d399278b4502f12a3d21e?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 11 |
 | **[Kiewit](http://www.kiewit.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/698d325d0f6f7e7a2ce8fa9b?utm_campaign=1055&utm_source=git)** | Lenexa, KS | On Site | Feb 11 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Summer Intern - Law Clerk](https://jobright.ai/jobs/info/69712f60333b6343a14da08f?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Feb 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[News/Media Alliance](http://www.newsmediaalliance.org)** | **[Law Clerk - Summer 2026 Internship](https://jobright.ai/jobs/info/698cfa8b78b4502f12a36daa?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Feb 11 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/6970e03951f7264771831ca6?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Feb 11 |
 | **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Law Clerk - Internship](https://jobright.ai/jobs/info/68fe5bece04ac838fb5b407c?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | On Site | Feb 11 |
+| **[Celonis](https://www.celonis.com)** | **[Summernaut Program - Legal Summer Intern](https://jobright.ai/jobs/info/698cec210f6f7e7a2ce89bc3?utm_campaign=1055&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
