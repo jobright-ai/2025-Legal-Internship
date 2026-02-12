@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/698dec700f6f7e7a2ce9f7f3?utm_campaign=1055&utm_source=git)** | San Rafael, CA | On Site | Feb 12 |
+| **[Unilever](http://www.unilever.com)** | **[2026 Summer Regulatory Affairs Internship](https://jobright.ai/jobs/info/698dea82f64d441a1650235e?utm_campaign=1055&utm_source=git)** | Hoboken, NJ | On Site | Feb 12 |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/6982d8e4348f733a5c35f902?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Feb 12 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/698dd967f64d441a16500981?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 12 |
 | **[Superior Court, County of Santa Clara](http://www.scscourt.org)** | **[Judicial Intern](https://jobright.ai/jobs/info/698dd88778b4502f12a4998c?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | Hybrid | Feb 12 |
 | **[Morrison Foerster](http://www.mofo.com)** | **[Paralegal Intern](https://jobright.ai/jobs/info/698dd7d2f64d441a165007a2?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Feb 12 |
@@ -66,7 +69,10 @@ For a complete list, click the following sortable link below:
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/698c255791fdda424d58ea9b?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Feb 12 |
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/698412e40f6f7e7a2cde3992?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Hulu Business Affairs and Legal JD Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698dc415f64d441a164ff338?utm_campaign=1055&utm_source=git)** | Burbank, CA | On Site | Feb 12 |
-| **[Morrison Foerster](http://www.mofo.com)** | **[Paralegal Intern](https://jobright.ai/jobs/info/698de42d0f6f7e7a2ce9ee17?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 12 |
+| **[Morrison Foerster](http://www.mofo.com)** | **[Paralegal Intern](https://jobright.ai/jobs/info/698de6a778b4502f12a4ac75?utm_campaign=1055&utm_source=git)** | Coral Gables, FL | On Site | Feb 12 |
+| ↳ | **[Paralegal Intern](https://jobright.ai/jobs/info/698de42d0f6f7e7a2ce9ee17?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 12 |
+| ↳ | **[Paralegal Intern](https://jobright.ai/jobs/info/698de72e78b4502f12a4ad07?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 12 |
+| ↳ | **[Paralegal Intern](https://jobright.ai/jobs/info/698de91a78b4502f12a4af53?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a42c4ac80bb5492bcc47a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Feb 12 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Intellectual Property (IP) Management & Marketing, Hybrid](https://jobright.ai/jobs/info/69705a7751f7264771829e1c?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 12 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/693a373848a8ce22990e30df?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Feb 12 |
@@ -87,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[2026 Summer Internship- Legal](https://jobright.ai/jobs/info/69719c4451f726477183f61b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Feb 11 |
 | **[MannKind Corporation](http://mannkindcorp.com)** | **[Regulatory Affairs Internship](https://jobright.ai/jobs/info/697188ce587dfa0bb55f3a30?utm_campaign=1055&utm_source=git)** | Bedford, MA | Hybrid | Feb 11 |
 | **[Groma](https://groma.com/)** | **[Legal Extern (Fall '26/Spring '27)](https://jobright.ai/jobs/info/698da3920f6f7e7a2ce99523?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 11 |
-| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/698d82d60f6f7e7a2ce96eb6?utm_campaign=1055&utm_source=git)** | San Rafael, CA | On Site | Feb 11 |
 | **[CoreSite](http://www.coresite.com)** | **[Compliance & Internal Controls Analyst (1835)](https://jobright.ai/jobs/info/6971480b51f72647718388aa?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Feb 11 |
 | **[Illumio](http://www.illumio.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698d500b78b4502f12a3f663?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | On Site | Feb 11 |
 | **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Licensing Intern](https://jobright.ai/jobs/info/698d4fdf78b4502f12a3f620?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 11 |
@@ -132,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Law Clerk - Internship](https://jobright.ai/jobs/info/68fe5bece04ac838fb5b407c?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | On Site | Feb 11 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - Legal Summer Intern](https://jobright.ai/jobs/info/698cec210f6f7e7a2ce89bc3?utm_campaign=1055&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 11 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Healthcare Analytics - Investigations Associate](https://jobright.ai/jobs/info/698cfe7df64d441a164eda4e?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | Hybrid | Feb 11 |
-| **[Ocean State Job Lot](http://oceanstatejoblot.com)** | **[Legal Graduate Assistant - Intern](https://jobright.ai/jobs/info/698ce3970f6f7e7a2ce8953c?utm_campaign=1055&utm_source=git)** | North Kingstown, Rhode Island, United States | Hybrid | Feb 11 |
-| ↳ | **[Property Development Intern](https://jobright.ai/jobs/info/698d66b678b4502f12a40ee9?utm_campaign=1055&utm_source=git)** | North Kingstown, Rhode Island, United States | Hybrid | Feb 11 |
+| **[Ocean State Job Lot](http://oceanstatejoblot.com)** | **[Property Development Intern](https://jobright.ai/jobs/info/698d66b678b4502f12a40ee9?utm_campaign=1055&utm_source=git)** | North Kingstown, Rhode Island, United States | Hybrid | Feb 11 |
+| ↳ | **[Legal Graduate Assistant - Intern](https://jobright.ai/jobs/info/698ce3970f6f7e7a2ce8953c?utm_campaign=1055&utm_source=git)** | North Kingstown, Rhode Island, United States | Hybrid | Feb 11 |
 | **[Sixth Street](https://sixthstreet.com)** | **[2026 Summer Internship - Compliance](https://jobright.ai/jobs/info/698ce83278b4502f12a35ed5?utm_campaign=1055&utm_source=git)** | New York City | On Site | Feb 11 |
 | **[ms consultants, inc.](https://www.msconsultants.com/)** | **[Right of Way Internship - Summer 2026](https://jobright.ai/jobs/info/698cf79e78b4502f12a36b5e?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Feb 11 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970ea76587dfa0bb55e750f?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Feb 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Hulu Business Affairs and Legal Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698cc3320f6f7e7a2ce87a26?utm_campaign=1055&utm_source=git)** | Burbank, CA, USA | Hybrid | Feb 11 |
 | **[The Law Offices of Benjamin T. McLawhorn](www.mclawfirmnc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698cc70b0f6f7e7a2ce87f6a?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Feb 11 |
 | **[Wurth Elektronik](https://www.we-ics.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/698c8f530f6f7e7a2ce84670?utm_campaign=1055&utm_source=git)** | Watertown, SD | On Site | Feb 11 |
-| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Corporate Affairs](https://jobright.ai/jobs/info/698c8b2278b4502f12a30bcd?utm_campaign=1055&utm_source=git)** | San Rafael, CA | Hybrid | Feb 11 |
-| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970e12a587dfa0bb55e7036?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 11 |
-| **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Indigenous Peoples (First Nations, Inuit, and Métis) Student Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/696ffe2082817106e9771a2c?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 11 |
-| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970ed4c51f726477183248c?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Feb 11 |
-| **[CrowdStrike](http://www.crowdstrike.com)** | **[Privacy Law Intern - Summer 2026](https://jobright.ai/jobs/info/698c6bc678b4502f12a2f367?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | Hybrid | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
