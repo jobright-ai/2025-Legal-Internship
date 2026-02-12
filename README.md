@@ -57,15 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Licensing Intern](https://jobright.ai/jobs/info/698d45660f6f7e7a2ce9180e?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 11 |
+| **[Illumio](http://www.illumio.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698d500b78b4502f12a3f663?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | On Site | Feb 11 |
+| **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Licensing Intern](https://jobright.ai/jobs/info/698d4fdf78b4502f12a3f620?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 11 |
+| ↳ | **[Licensing Intern](https://jobright.ai/jobs/info/698d45660f6f7e7a2ce9180e?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 11 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Model Risk Governance & Validation Intern – Summer 2026](https://jobright.ai/jobs/info/6971580351f726477183a3dd?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 11 |
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, IT Compliance](https://jobright.ai/jobs/info/69716d80333b6343a14df523?utm_campaign=1055&utm_source=git)** | Tucson, AZ | On Site | Feb 11 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Legal & Business Development- EN](https://jobright.ai/jobs/info/697b7cda1136d179eeeefc18?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 11 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/698d41c3f64d441a164f45e4?utm_campaign=1055&utm_source=git)** | Kalamazoo, MI | On Site | Feb 11 |
 | **[Triumph](https://www.tfin.com/)** | **[Financial Crimes Investigator Intern – Summer 2026](https://jobright.ai/jobs/info/6971541b333b6343a14ddd9d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Feb 11 |
 | **[Texas General Land Office](http://www.glo.texas.gov/)** | **[GLO - Mineral Audit Summer Intern (Clerk II)](https://jobright.ai/jobs/info/698d399278b4502f12a3d21e?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 11 |
+| **[Aypa Power](https://www.aypa.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698d5362f64d441a164f661a?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 11 |
 | **[Kiewit](http://www.kiewit.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/698d325d0f6f7e7a2ce8fa9b?utm_campaign=1055&utm_source=git)** | Lenexa, KS | On Site | Feb 11 |
 | **[State of Missouri](http://mo.gov)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/698d2c5f78b4502f12a3bbb2?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Feb 11 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Summer Intern - Law Clerk](https://jobright.ai/jobs/info/69712f60333b6343a14da08f?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Feb 11 |
+| **[New York City Anti-Violence Project](https://avp.org/)** | **[Summer Legal Internship](https://jobright.ai/jobs/info/698d527bf64d441a164f64da?utm_campaign=1055&utm_source=git)** | New York, New York, United States | Hybrid | Feb 11 |
 | **[AFL](http://www.AFLglobal.com)** | **[AFL International Trade Intern- Summer 2026](https://jobright.ai/jobs/info/698d495ef64d441a164f508c?utm_campaign=1055&utm_source=git)** | Duncan, South Carolina, United States | On Site | Feb 11 |
 | **[Illumio](http://www.illumio.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698d4bc078b4502f12a3f04b?utm_campaign=1055&utm_source=git)** | HQ - Sunnyvale (Office) | On Site | Feb 11 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970d26e51f7264771831387?utm_campaign=1055&utm_source=git)** | Silicon Valley, CA | On Site | Feb 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698c20cee4f6572f0e441e8a?utm_campaign=1055&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Feb 10 |
 | **[QBE Insurance](http://www.qbe.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698c21ee0f6f7e7a2ce7b6d3?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 10 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Indirect Tax Counsel (Summer 2026)](https://jobright.ai/jobs/info/698bfb8de4f6572f0e43f3f5?utm_campaign=1055&utm_source=git)** | Hayward, California | On Site | Feb 10 |
-| **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698c1ff391fdda424d58e236?utm_campaign=1055&utm_source=git)** | US-PA-Conshohocken | Hybrid | Feb 10 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698c1bfe0f6f7e7a2ce7af62?utm_campaign=1055&utm_source=git)** | US-PA-Wilkes Barre | Hybrid | Feb 10 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698c098ae4f6572f0e4402e1?utm_campaign=1055&utm_source=git)** | US-PA-Philadelphia | Hybrid | Feb 10 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698c16810f6f7e7a2ce7a8c5?utm_campaign=1055&utm_source=git)** | Wilkes Barre, PA, US | Hybrid | Feb 10 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698c2bcd91fdda424d590f86?utm_campaign=1055&utm_source=git)** | Conshohocken, PA, US | Hybrid | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
