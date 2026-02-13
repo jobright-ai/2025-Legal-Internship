@@ -136,8 +136,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern - Springfield Right of Way](https://jobright.ai/jobs/info/698d9af478b4502f12a452f1?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Feb 12 |
 | **[Aypa Power](https://www.aypa.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698d9132f64d441a164fb5d8?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 12 |
 | **[Compeer Financial](https://compeer.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/698db41d78b4502f12a47317?utm_campaign=1055&utm_source=git)** | Lakeville, MN | Hybrid | Feb 12 |
-| **[State of Missouri](http://mo.gov)** | **[Risk Management Intern](https://jobright.ai/jobs/info/698dace2f64d441a164fd59d?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Feb 12 |
-| ↳ | **[GCO Summer Internship - 5050500](https://jobright.ai/jobs/info/698daa0ff64d441a164fd242?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Feb 12 |
+| **[State of Missouri](http://mo.gov)** | **[GCO Summer Internship - 5050500](https://jobright.ai/jobs/info/698daa0ff64d441a164fd242?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Feb 12 |
 | **[CBIZ](http://www.cbiz.com)** | **[Corporate Compliance & Licensing Intern / Summer 2026](https://jobright.ai/jobs/info/6971b26e587dfa0bb55f7b43?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Feb 11 |
 | **[LWCC](https://www.lwcc.com/)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/696e8b40db26b61895116859?utm_campaign=1055&utm_source=git)** | Baton Rouge Metro | On Site | Feb 11 |
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Summer IT Risk & Compliance Graduate Intern (R14994)](https://jobright.ai/jobs/info/69714984587dfa0bb55ee084?utm_campaign=1055&utm_source=git)** | Andover, MA | On Site | Feb 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/698d325d0f6f7e7a2ce8fa9b?utm_campaign=1055&utm_source=git)** | Lenexa, KS | On Site | Feb 11 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Summer Intern - Law Clerk](https://jobright.ai/jobs/info/69712f60333b6343a14da08f?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Feb 11 |
 | **[New York City Anti-Violence Project](https://avp.org/)** | **[Summer Legal Internship](https://jobright.ai/jobs/info/698d527bf64d441a164f64da?utm_campaign=1055&utm_source=git)** | New York, New York, United States | Hybrid | Feb 11 |
+| **[TruStone Financial Credit Union](http://www.trustonefinancial.org)** | **[Risk Management Intern](https://jobright.ai/jobs/info/698d6ddc0f6f7e7a2ce94669?utm_campaign=1055&utm_source=git)** | Plymouth, MN, US | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
