@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Munich Re](https://www.munichre.com)** | **[Loss Control Coordinator Intern](https://jobright.ai/jobs/info/698e5ffc0f6f7e7a2cea6684?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 12 |
+| **[Align Technology](http://www.aligntech.com)** | **[Legal Innovation and Operations Intern](https://jobright.ai/jobs/info/6966c6b17a34f53920554d82?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Feb 12 |
+| **[Cogeco Inc.](http://corpo.cogeco.com/cgo/en/)** | **[Legal Intern](https://jobright.ai/jobs/info/698e59c578b4502f12a5217b?utm_campaign=1055&utm_source=git)** | Quincy, MA | Hybrid | Feb 12 |
+| **[PlanetArt](http://www.planetart.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/698bc07f06d9b0622495e7fc?utm_campaign=1055&utm_source=git)** | Calabasas, CA | Hybrid | Feb 12 |
 | **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698e335df64d441a16506cf6?utm_campaign=1055&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Feb 12 |
 | ↳ | **[Claims Intern](https://jobright.ai/jobs/info/698e31aaf64d441a16506b82?utm_campaign=1055&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Feb 12 |
+| **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Escrow Internship - Undergraduate](https://jobright.ai/jobs/info/698e60ba0f6f7e7a2cea6750?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Feb 12 |
+| **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69104536988c2b7b4ec50c5d?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Feb 12 |
 | **[Planned Parenthood of Metropolitan Washington, DC, Inc.](http://www.ppmw.org)** | **[Legal Intern](https://jobright.ai/jobs/info/698115217f40342e15d9ef8e?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 12 |
+| **[Leviton](https://www.leviton.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/698e4e8af64d441a16508479?utm_campaign=1055&utm_source=git)** | Melville, NY | On Site | Feb 12 |
 | **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Claims Intern](https://jobright.ai/jobs/info/698e3565f64d441a16506eba?utm_campaign=1055&utm_source=git)** | Wilkes Barre, PA, US | Hybrid | Feb 12 |
 | **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/698e18b378b4502f12a4e5a8?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Feb 12 |
 | **[Heidrick & Struggles](http://www.heidrick.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/698e3c1378b4502f12a507fe?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 12 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta Community Credit Union](https://www.deltacommunitycu.com/)** | **[Internship Undergraduate - Enterprise Risk Management](https://jobright.ai/jobs/info/698d1245f64d441a164ef59c?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Feb 11 |
 | **[Weyerhaeuser](https://www.weyerhaeuser.com/)** | **[Sustainability and Corporate Affairs Intern](https://jobright.ai/jobs/info/698d08990f6f7e7a2ce8b90a?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Feb 11 |
 | **[GSA](https://www.gsa.gov)** | **[PATHWAYS INTERN STUDENT TRAINEE (LEGAL) - Office of Inspector General](https://jobright.ai/jobs/info/698d10e10f6f7e7a2ce8c3b1?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Feb 11 |
-| **[Savvas Learning Company](https://www.savvas.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69713347333b6343a14da4cc?utm_campaign=1055&utm_source=git)** | Chandler, AZ | Hybrid | Feb 11 |
-| **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/68c9550995f5211cd2cefafc?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Feb 11 |
-| **[Structural-Builders and Restorations (S-BR)](https://structuralbr.com/)** | **[Administration and Compliance Assistant Intern](https://jobright.ai/jobs/info/698d0b4a0f6f7e7a2ce8bc9c?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Feb 11 |
-| **[News/Media Alliance](http://www.newsmediaalliance.org)** | **[Law Clerk - Summer 2026 Internship](https://jobright.ai/jobs/info/698cfa8b78b4502f12a36daa?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Feb 11 |
-| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/6970e03951f7264771831ca6?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Feb 11 |
-| **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Law Clerk - Internship](https://jobright.ai/jobs/info/68fe5bece04ac838fb5b407c?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | On Site | Feb 11 |
-| **[Celonis](https://www.celonis.com)** | **[Summernaut Program - Legal Summer Intern](https://jobright.ai/jobs/info/698cec210f6f7e7a2ce89bc3?utm_campaign=1055&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
