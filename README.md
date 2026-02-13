@@ -67,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Legal](https://jobright.ai/jobs/info/698e738378b4502f12a54315?utm_campaign=1055&utm_source=git)** | 95 Morton St, New York, NY, 10014, US | On Site | Feb 12 |
 | **[Spirit of America](https://spiritofamerica.org)** | **[Intern- Legal](https://jobright.ai/jobs/info/698ebe69f64d441a16510e65?utm_campaign=1055&utm_source=git)** | Arlington, VA, US | On Site | Feb 12 |
 | **[South Platte Renew](https://southplatterenewco.gov/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/698eafe578b4502f12a58632?utm_campaign=1055&utm_source=git)** | Englewood, Colorado, United States | On Site | Feb 12 |
+| **[We Insure](https://weinsuregroup.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698ed46d78b4502f12a5ac2d?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Feb 12 |
 | **[Modesto Irrigation District](https://mid.org)** | **[Student Intern (Regulatory)](https://jobright.ai/jobs/info/698e8a7278b4502f12a56209?utm_campaign=1055&utm_source=git)** | Modesto, CA | On Site | Feb 12 |
 | **[Legal Aid of Western Missouri](https://www.lawmo.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/698ed05c0f6f7e7a2ceaeed3?utm_campaign=1055&utm_source=git)** | Kansas City, Missouri | On Site | Feb 12 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Summer Intern](https://jobright.ai/jobs/info/698ec5c3f64d441a165116c7?utm_campaign=1055&utm_source=git)** | Possible | Remote | Feb 12 |
@@ -111,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Eastern Bank](https://www.easternbank.com)** | **[Contract Administrator Intern](https://jobright.ai/jobs/info/698e35a278b4502f12a501a6?utm_campaign=1055&utm_source=git)** | 601 Edgewater Drive, Wakefield, MA, 01880, US | On Site | Feb 12 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69739026bc8e722e7b18605f?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Feb 12 |
 | **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/698e24440f6f7e7a2cea3211?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Feb 12 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e2500f64d441a16505f9e?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Feb 12 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e22b40f6f7e7a2cea3025?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Feb 12 |
+| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e2500f64d441a16505f9e?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Feb 12 |
 | **[Cogeco Media](http://www.cogecomedia.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698e214d0f6f7e7a2cea2eb4?utm_campaign=1055&utm_source=git)** | Quincy, MA | Hybrid | Feb 12 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/698e1de80f6f7e7a2cea2b5d?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Feb 12 |
 | **[Town of Cary](https://www.carync.gov/)** | **[Legal Intern](https://jobright.ai/jobs/info/698e15950f6f7e7a2cea23e7?utm_campaign=1055&utm_source=git)** | Cary, NC | On Site | Feb 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/698d325d0f6f7e7a2ce8fa9b?utm_campaign=1055&utm_source=git)** | Lenexa, KS | On Site | Feb 11 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Summer Intern - Law Clerk](https://jobright.ai/jobs/info/69712f60333b6343a14da08f?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Feb 11 |
 | **[New York City Anti-Violence Project](https://avp.org/)** | **[Summer Legal Internship](https://jobright.ai/jobs/info/698d527bf64d441a164f64da?utm_campaign=1055&utm_source=git)** | New York, New York, United States | Hybrid | Feb 11 |
-| **[TruStone Financial Credit Union](http://www.trustonefinancial.org)** | **[Risk Management Intern](https://jobright.ai/jobs/info/698d6ddc0f6f7e7a2ce94669?utm_campaign=1055&utm_source=git)** | Plymouth, MN, US | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
