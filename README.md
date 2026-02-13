@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | Feb 13 |
 | **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69738777206da320f49d853c?utm_campaign=1055&utm_source=git)** | Worcester, PA | On Site | Feb 13 |
+| **[GeoComply](https://www.geocomply.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/698f71260f6f7e7a2ceba947?utm_campaign=1055&utm_source=git)** | Vancouver, BC | On Site | Feb 13 |
+| **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Intern  Office of General Counsel](https://jobright.ai/jobs/info/698f78600cc8ea15f1da0482?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
 | **[KPMG Law Belgium](http://www.kpmglaw.be/)** | **[Summer internship KPMG Law 2026](https://jobright.ai/jobs/info/698f4a0e0cc8ea15f1d9c587?utm_campaign=1055&utm_source=git)** | All, MO | On Site | Feb 13 |
+| **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Summer Legal Associate, Federal Policy and Advocacy](https://jobright.ai/jobs/info/691e4a50a49a885af9a27458?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 13 |
 | **[KPMG Belgium](https://www.kpmg.com/be)** | **[Summer internship KPMG Law 2026](https://jobright.ai/jobs/info/698f44ae6ea51a7610f18b75?utm_campaign=1055&utm_source=git)** | All, MO | On Site | Feb 13 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6959e3b7aa05c26e7ab384f5?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 13 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Paralegal Intern (Part-Time) - The Toro Company](https://jobright.ai/jobs/info/69736986206da320f49d5eb3?utm_campaign=1055&utm_source=git)** | Hennepin County, MN | On Site | Feb 13 |
-| **[Legal Aid of Western Missouri](https://www.lawmo.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/698f5a380f6f7e7a2ceb8a87?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Feb 13 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/698ed8660f6f7e7a2ceb0085?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Feb 13 |
 | **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[High School Intern/General Sessions Court Div V-Judicial Assistant/Intern](https://jobright.ai/jobs/info/698f55236ea51a7610f1a517?utm_campaign=1055&utm_source=git)** | Nashville, TN, United States | On Site | Feb 13 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Privacy Legal Intern](https://jobright.ai/jobs/info/698f53866ea51a7610f1a248?utm_campaign=1055&utm_source=git)** | US-IL-Chicago | On Site | Feb 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Groma](https://groma.com/)** | **[Legal Extern (Fall '26/Spring '27)](https://jobright.ai/jobs/info/698da3920f6f7e7a2ce99523?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 11 |
 | **[Hays County](http://hayscountytx.com)** | **[Justice Clerk Intern](https://jobright.ai/jobs/info/698ec55f78b4502f12a59f9a?utm_campaign=1055&utm_source=git)** | San Marcos, TX | On Site | Feb 11 |
 | **[CoreSite](http://www.coresite.com)** | **[Compliance & Internal Controls Analyst (1835)](https://jobright.ai/jobs/info/6971480b51f72647718388aa?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Feb 11 |
-| **[Illumio](http://www.illumio.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698d500b78b4502f12a3f663?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | On Site | Feb 11 |
-| **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Licensing Intern](https://jobright.ai/jobs/info/698d4fdf78b4502f12a3f620?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 11 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Corporate Safety (Fall 2026)](https://jobright.ai/jobs/info/69717693587dfa0bb55f2968?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
