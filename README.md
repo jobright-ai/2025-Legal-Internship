@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Planned Systems International](http://www.plan-sys.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697309171790715e866bfc02?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 12 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Safety](https://jobright.ai/jobs/info/69727e0d9b83b424830e6e1b?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Feb 12 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Legal Intern - Kansas City](https://jobright.ai/jobs/info/698ebcfff64d441a16510c72?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Feb 12 |
 | **[AST SpaceMobile](https://ast-science.com)** | **[Intern (Regulatory Engineering) – Regulatory Affairs](https://jobright.ai/jobs/info/698e808cf64d441a1650ca47?utm_campaign=1055&utm_source=git)** | US - Remote | Remote | Feb 12 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[We Insure](https://weinsuregroup.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698ed46d78b4502f12a5ac2d?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Feb 12 |
 | **[Modesto Irrigation District](https://mid.org)** | **[Student Intern (Regulatory)](https://jobright.ai/jobs/info/698e8a7278b4502f12a56209?utm_campaign=1055&utm_source=git)** | Modesto, CA | On Site | Feb 12 |
 | **[Legal Aid of Western Missouri](https://www.lawmo.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/698ed05c0f6f7e7a2ceaeed3?utm_campaign=1055&utm_source=git)** | Kansas City, Missouri | On Site | Feb 12 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Summer Intern](https://jobright.ai/jobs/info/698ec5c3f64d441a165116c7?utm_campaign=1055&utm_source=git)** | Possible | Remote | Feb 12 |
-| ↳ | **[Contracts Summer Intern](https://jobright.ai/jobs/info/698ec34278b4502f12a59e6d?utm_campaign=1055&utm_source=git)** | Maryland | Remote | Feb 12 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Summer Intern](https://jobright.ai/jobs/info/698ec34278b4502f12a59e6d?utm_campaign=1055&utm_source=git)** | Maryland | Remote | Feb 12 |
+| ↳ | **[Contracts Summer Intern](https://jobright.ai/jobs/info/698ec5c3f64d441a165116c7?utm_campaign=1055&utm_source=git)** | Possible | Remote | Feb 12 |
 | **[Munich Re](https://www.munichre.com)** | **[Loss Control Coordinator Intern](https://jobright.ai/jobs/info/698e5ffc0f6f7e7a2cea6684?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 12 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart  (Denver)](https://jobright.ai/jobs/info/69691843639b452fb57ed9cc?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 12 |
 | **[Align Technology](http://www.aligntech.com)** | **[Legal Innovation and Operations Intern](https://jobright.ai/jobs/info/6966c6b17a34f53920554d82?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Feb 12 |
@@ -122,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Legal and Regulatory Compliance Intern (Co-op/Intern), Summer 2026 - 4 months](https://jobright.ai/jobs/info/698e72c40f6f7e7a2cea8665?utm_campaign=1055&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 12 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/6982d8e4348f733a5c35f902?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Feb 12 |
 | **[Shumaker, Loop & Kendrick, LLP](https://www.shumaker.com)** | **[Records Intern](https://jobright.ai/jobs/info/698e19df0f6f7e7a2cea271e?utm_campaign=1055&utm_source=git)** | Sarasota, FL | On Site | Feb 12 |
-| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Claims Intern - QBE Insurance](https://jobright.ai/jobs/info/698e12970f6f7e7a2cea21ca?utm_campaign=1055&utm_source=git)** | Peachtree City, GA | Hybrid | Feb 12 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/698dd967f64d441a16500981?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 12 |
 | **[Lennox](http://www.lennox.com)** | **[Summer 2026 Business Compliance Intern](https://jobright.ai/jobs/info/6959e7aeaa05c26e7ab3867b?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Feb 12 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/698412e40f6f7e7a2cde3992?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 12 |
@@ -138,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Compeer Financial](https://compeer.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/698db41d78b4502f12a47317?utm_campaign=1055&utm_source=git)** | Lakeville, MN | Hybrid | Feb 12 |
 | **[State of Missouri](http://mo.gov)** | **[GCO Summer Internship - 5050500](https://jobright.ai/jobs/info/698daa0ff64d441a164fd242?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Feb 12 |
 | **[CBIZ](http://www.cbiz.com)** | **[Corporate Compliance & Licensing Intern / Summer 2026](https://jobright.ai/jobs/info/6971b26e587dfa0bb55f7b43?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Feb 11 |
+| **[Superior Court of Los Angeles County](https://lacourt.org/)** | **[Judicial Internship - Summer 2026](https://jobright.ai/jobs/info/698f18a70f6f7e7a2ceb22ff?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 11 |
 | **[LWCC](https://www.lwcc.com/)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/696e8b40db26b61895116859?utm_campaign=1055&utm_source=git)** | Baton Rouge Metro | On Site | Feb 11 |
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Summer IT Risk & Compliance Graduate Intern (R14994)](https://jobright.ai/jobs/info/69714984587dfa0bb55ee084?utm_campaign=1055&utm_source=git)** | Andover, MA | On Site | Feb 11 |
 | **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[2026 Summer Internship- Legal](https://jobright.ai/jobs/info/69719c4451f726477183f61b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Feb 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/698d325d0f6f7e7a2ce8fa9b?utm_campaign=1055&utm_source=git)** | Lenexa, KS | On Site | Feb 11 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Summer Intern - Law Clerk](https://jobright.ai/jobs/info/69712f60333b6343a14da08f?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Feb 11 |
 | **[New York City Anti-Violence Project](https://avp.org/)** | **[Summer Legal Internship](https://jobright.ai/jobs/info/698d527bf64d441a164f64da?utm_campaign=1055&utm_source=git)** | New York, New York, United States | Hybrid | Feb 11 |
-| **[TruStone Financial Credit Union](http://www.trustonefinancial.org)** | **[Risk Management Intern](https://jobright.ai/jobs/info/698d6ddc0f6f7e7a2ce94669?utm_campaign=1055&utm_source=git)** | Plymouth, MN, US | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
