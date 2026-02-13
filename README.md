@@ -87,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Legal Aid of Western Missouri](https://www.lawmo.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/698ed05c0f6f7e7a2ceaeed3?utm_campaign=1055&utm_source=git)** | Kansas City, Missouri | On Site | Feb 12 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Summer Intern](https://jobright.ai/jobs/info/698ec34278b4502f12a59e6d?utm_campaign=1055&utm_source=git)** | Maryland | Remote | Feb 12 |
 | ↳ | **[Contracts Summer Intern](https://jobright.ai/jobs/info/698ec5c3f64d441a165116c7?utm_campaign=1055&utm_source=git)** | Possible | Remote | Feb 12 |
+| **[Northwood](https://www.northwoodspace.io)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/698f7f7d0f6f7e7a2cebbb63?utm_campaign=1055&utm_source=git)** | Torrance, CA | On Site | Feb 12 |
 | **[Munich Re](https://www.munichre.com)** | **[Loss Control Coordinator Intern](https://jobright.ai/jobs/info/698e5ffc0f6f7e7a2cea6684?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 12 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart  (Denver)](https://jobright.ai/jobs/info/69691843639b452fb57ed9cc?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 12 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/692fa27bef4b48533d1479f0?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | Feb 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MannKind Corporation](http://mannkindcorp.com)** | **[Regulatory Affairs Internship](https://jobright.ai/jobs/info/697188ce587dfa0bb55f3a30?utm_campaign=1055&utm_source=git)** | Bedford, MA | Hybrid | Feb 11 |
 | **[Groma](https://groma.com/)** | **[Legal Extern (Fall '26/Spring '27)](https://jobright.ai/jobs/info/698da3920f6f7e7a2ce99523?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 11 |
 | **[Hays County](http://hayscountytx.com)** | **[Justice Clerk Intern](https://jobright.ai/jobs/info/698ec55f78b4502f12a59f9a?utm_campaign=1055&utm_source=git)** | San Marcos, TX | On Site | Feb 11 |
-| **[CoreSite](http://www.coresite.com)** | **[Compliance & Internal Controls Analyst (1835)](https://jobright.ai/jobs/info/6971480b51f72647718388aa?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
