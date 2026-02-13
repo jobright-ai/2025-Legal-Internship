@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Paralegal Intern (Part-Time) - The Toro Company](https://jobright.ai/jobs/info/69736986206da320f49d5eb3?utm_campaign=1055&utm_source=git)** | Hennepin County, MN | On Site | Feb 13 |
+| **[Growvix](https://www.linkedin.com/company/104166605)** | **[Compliance Operations Intern](https://jobright.ai/jobs/info/698f30936ea51a7610f17064?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Feb 13 |
 | **[Terumo Neuro](http://terumoneuro.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/698f1b7a0f6f7e7a2ceb28c4?utm_campaign=1055&utm_source=git)** | Aliso Viejo, CA | On Site | Feb 13 |
 | **[Planned Systems International](http://www.plan-sys.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697309171790715e866bfc02?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 12 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/6972969f4ccbf64f8df290a8?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 12 |
@@ -73,10 +74,9 @@ For a complete list, click the following sortable link below:
 | **[Spirit of America](https://spiritofamerica.org)** | **[Intern- Legal](https://jobright.ai/jobs/info/698ebe69f64d441a16510e65?utm_campaign=1055&utm_source=git)** | Arlington, VA, US | On Site | Feb 12 |
 | **[South Platte Renew](https://southplatterenewco.gov/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/698eafe578b4502f12a58632?utm_campaign=1055&utm_source=git)** | Englewood, Colorado, United States | On Site | Feb 12 |
 | **[We Insure](https://weinsuregroup.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698ed46d78b4502f12a5ac2d?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Feb 12 |
-| **[Modesto Irrigation District](https://mid.org)** | **[Student Intern (Regulatory)](https://jobright.ai/jobs/info/698e8a7278b4502f12a56209?utm_campaign=1055&utm_source=git)** | Modesto, CA | On Site | Feb 12 |
 | **[Legal Aid of Western Missouri](https://www.lawmo.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/698ed05c0f6f7e7a2ceaeed3?utm_campaign=1055&utm_source=git)** | Kansas City, Missouri | On Site | Feb 12 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Summer Intern](https://jobright.ai/jobs/info/698ec34278b4502f12a59e6d?utm_campaign=1055&utm_source=git)** | Maryland | Remote | Feb 12 |
-| ↳ | **[Contracts Summer Intern](https://jobright.ai/jobs/info/698ec5c3f64d441a165116c7?utm_campaign=1055&utm_source=git)** | Possible | Remote | Feb 12 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Summer Intern](https://jobright.ai/jobs/info/698ec5c3f64d441a165116c7?utm_campaign=1055&utm_source=git)** | Possible | Remote | Feb 12 |
+| ↳ | **[Contracts Summer Intern](https://jobright.ai/jobs/info/698ec34278b4502f12a59e6d?utm_campaign=1055&utm_source=git)** | Maryland | Remote | Feb 12 |
 | **[Munich Re](https://www.munichre.com)** | **[Loss Control Coordinator Intern](https://jobright.ai/jobs/info/698e5ffc0f6f7e7a2cea6684?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 12 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart  (Denver)](https://jobright.ai/jobs/info/69691843639b452fb57ed9cc?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 12 |
 | **[Align Technology](http://www.aligntech.com)** | **[Legal Innovation and Operations Intern](https://jobright.ai/jobs/info/6966c6b17a34f53920554d82?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Feb 12 |
@@ -86,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Quality Assurance Compliance Intern (Onsite - Hopewell, NJ)](https://jobright.ai/jobs/info/698e6dac0f6f7e7a2cea7d72?utm_campaign=1055&utm_source=git)** | Hopewell | On Site | Feb 12 |
 | **[Eastern Bank](https://www.easternbank.com)** | **[Contract Administrator Intern](https://jobright.ai/jobs/info/698e6dbd0f6f7e7a2cea7d95?utm_campaign=1055&utm_source=git)** | Wakefield, MA | On Site | Feb 12 |
 | **[Alfa Laval](http://www.alfalaval.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/69728f9b584a1c1ef6fd8abd?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Feb 12 |
-| **[Parsons Corporation](http://www.parsons.com)** | **[Student Intern - Contracts (PA)](https://jobright.ai/jobs/info/698e9c8e0f6f7e7a2ceaba3d?utm_campaign=1055&utm_source=git)** | CA - AB, Edmonton | On Site | Feb 12 |
 | **[PlanetArt](http://www.planetart.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/698bc07f06d9b0622495e7fc?utm_campaign=1055&utm_source=git)** | Calabasas, CA | Hybrid | Feb 12 |
 | **[Groundswell](https://gswell.com)** | **[HR / Employment Law Intern](https://jobright.ai/jobs/info/698e753578b4502f12a545df?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Feb 12 |
 | **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698e335df64d441a16506cf6?utm_campaign=1055&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Feb 12 |
@@ -117,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Eastern Bank](https://www.easternbank.com)** | **[Contract Administrator Intern](https://jobright.ai/jobs/info/698e35a278b4502f12a501a6?utm_campaign=1055&utm_source=git)** | 601 Edgewater Drive, Wakefield, MA, 01880, US | On Site | Feb 12 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69739026bc8e722e7b18605f?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Feb 12 |
 | **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/698e24440f6f7e7a2cea3211?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Feb 12 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e2500f64d441a16505f9e?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Feb 12 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e22b40f6f7e7a2cea3025?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Feb 12 |
+| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e2500f64d441a16505f9e?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Feb 12 |
 | **[Cogeco Media](http://www.cogecomedia.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698e214d0f6f7e7a2cea2eb4?utm_campaign=1055&utm_source=git)** | Quincy, MA | Hybrid | Feb 12 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/698e1de80f6f7e7a2cea2b5d?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Feb 12 |
 | **[Town of Cary](https://www.carync.gov/)** | **[Legal Intern](https://jobright.ai/jobs/info/698e15950f6f7e7a2cea23e7?utm_campaign=1055&utm_source=git)** | Cary, NC | On Site | Feb 12 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Legal & Business Development- EN](https://jobright.ai/jobs/info/697b7cda1136d179eeeefc18?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 11 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/698d41c3f64d441a164f45e4?utm_campaign=1055&utm_source=git)** | Kalamazoo, MI | On Site | Feb 11 |
 | **[Texas General Land Office](http://www.glo.texas.gov/)** | **[GLO - Mineral Audit Summer Intern (Clerk II)](https://jobright.ai/jobs/info/698d399278b4502f12a3d21e?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 11 |
+| **[Kiewit](http://www.kiewit.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/698d325d0f6f7e7a2ce8fa9b?utm_campaign=1055&utm_source=git)** | Lenexa, KS | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
