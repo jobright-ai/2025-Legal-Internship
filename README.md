@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Bar Association](http://www.americanbar.org/aba.html)** | **[CILA Spring 2026 Legal Intern (Paid Internship)](https://jobright.ai/jobs/info/698fd9816ea51a7610f24063?utm_campaign=1055&utm_source=git)** | TX CILA, 3605 Katy Freeway, Houston, Texas, United States of America | Hybrid | Feb 13 |
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Collectibles Summer 2026 Intern - Legal](https://jobright.ai/jobs/info/698fc5420cc8ea15f1da637b?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 13 |
 | **[Lincoln Avenue Communities](https://www.lincolnavenue.com/)** | **[Law Intern (Summer 2026)](https://jobright.ai/jobs/info/698fc3dc6ea51a7610f230b1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 13 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern- Risk - Temporary](https://jobright.ai/jobs/info/698fd0d30f6f7e7a2cec1bc4?utm_campaign=1055&utm_source=git)** | Rochester, MN, United States | Hybrid | Feb 13 |
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Intern - Legal (Omaha, NE)](https://jobright.ai/jobs/info/698fc05a0cc8ea15f1da5df6?utm_campaign=1055&utm_source=git)** | Omaha, Nebraska | On Site | Feb 13 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern- Risk - Temporary](https://jobright.ai/jobs/info/698fc6b70cc8ea15f1da6561?utm_campaign=1055&utm_source=git)** | Rochester, MN, United States | Hybrid | Feb 13 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern- Risk - Temporary](https://jobright.ai/jobs/info/698fd0250f6f7e7a2cec1b52?utm_campaign=1055&utm_source=git)** | Rochester, MN, United States | Hybrid | Feb 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shumaker, Loop & Kendrick, LLP](https://www.shumaker.com)** | **[Records Intern](https://jobright.ai/jobs/info/698e19df0f6f7e7a2cea271e?utm_campaign=1055&utm_source=git)** | Sarasota, FL | On Site | Feb 12 |
 | **[Lennox](http://www.lennox.com)** | **[Summer 2026 Business Compliance Intern](https://jobright.ai/jobs/info/6959e7aeaa05c26e7ab3867b?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Feb 12 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/698412e40f6f7e7a2cde3992?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 12 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Hulu Business Affairs and Legal JD Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698dc415f64d441a164ff338?utm_campaign=1055&utm_source=git)** | Burbank, CA | On Site | Feb 12 |
-| **[Beam Living](https://www.beamliving.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/698f26a70f6f7e7a2ceb368b?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
