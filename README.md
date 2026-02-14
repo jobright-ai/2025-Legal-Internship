@@ -65,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Legal](https://jobright.ai/jobs/info/693ce89750bbaf7650500c42?utm_campaign=1055&utm_source=git)** | Charleston, WV | On Site | Feb 14 |
 | **[MSIG USA](https://www.msigusa.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/699088536ea51a7610f3109f?utm_campaign=1055&utm_source=git)** | NY-NYC (Ave of Americas) | Hybrid | Feb 14 |
 | **[ProAmpac](http://www.proampac.com)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/6973e1efbc8e722e7b18b502?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Feb 14 |
-| **[S&P Global](https://www.spglobal.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698d41f90f6f7e7a2ce91498?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 14 |
 | **[Ryman Hospitality Properties](http://rymanhp.com)** | **[Legal Intern - Summer 2026 - Ryman Hospitality Properties](https://jobright.ai/jobs/info/6990755e0cc8ea15f1db342e?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
 | **[Xometry](https://www.xometry.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/695837fcaa05c26e7ab21ceb?utm_campaign=1055&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 14 |
 | **[Mona Shah & Associates Global](http://www.mshahlaw.com)** | **[Legal Internship](https://jobright.ai/jobs/info/699061f60cc8ea15f1db24f3?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Eastern Bank](https://www.easternbank.com)** | **[Contract Administrator Intern](https://jobright.ai/jobs/info/698e6dbd0f6f7e7a2cea7d95?utm_campaign=1055&utm_source=git)** | Wakefield, MA | On Site | Feb 12 |
 | **[Alfa Laval](http://www.alfalaval.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/69728f9b584a1c1ef6fd8abd?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Feb 12 |
 | **[PlanetArt](http://www.planetart.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/698bc07f06d9b0622495e7fc?utm_campaign=1055&utm_source=git)** | Calabasas, CA | Hybrid | Feb 12 |
+| **[Groundswell](https://gswell.com)** | **[HR / Employment Law Intern](https://jobright.ai/jobs/info/698e753578b4502f12a545df?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
