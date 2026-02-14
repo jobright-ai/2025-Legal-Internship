@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mona Shah & Associates Global](http://www.mshahlaw.com)** | **[Legal Internship](https://jobright.ai/jobs/info/699061f60cc8ea15f1db24f3?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 14 |
+| **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Regulatory Affairs](https://jobright.ai/jobs/info/6973d169206da320f49dcbcd?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | On Site | Feb 14 |
+| **[SPX Technologies](https://www.spx.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/691fbee43f782d2f1afbfc7c?utm_campaign=1055&utm_source=git)** | Overland Park, KS | Hybrid | Feb 14 |
+| **[Corcept Therapeutics](http://www.corcept.com)** | **[Legal & IP Intern](https://jobright.ai/jobs/info/693c6f6e49a7695fbd033798?utm_campaign=1055&utm_source=git)** | Redwood City, CA | On Site | Feb 14 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6973e226bc8e722e7b18b574?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Feb 14 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern - Corporate Affairs](https://jobright.ai/jobs/info/69741f7d37785856350e18a9?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Feb 14 |
 | **[Wonderful Orchards](http://wonderfulorchards.com)** | **[Property & Compliance Intern](https://jobright.ai/jobs/info/69902d780cc8ea15f1daeaf8?utm_campaign=1055&utm_source=git)** | Shafter, CA | On Site | Feb 14 |
@@ -131,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Spirit of America](https://spiritofamerica.org)** | **[Intern- Legal](https://jobright.ai/jobs/info/698ebe69f64d441a16510e65?utm_campaign=1055&utm_source=git)** | Arlington, VA, US | On Site | Feb 12 |
 | **[We Insure](https://weinsuregroup.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698ed46d78b4502f12a5ac2d?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Feb 12 |
 | **[Legal Aid of Western Missouri](https://www.lawmo.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/698ed05c0f6f7e7a2ceaeed3?utm_campaign=1055&utm_source=git)** | Kansas City, Missouri | On Site | Feb 12 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Summer Intern](https://jobright.ai/jobs/info/698ec5c3f64d441a165116c7?utm_campaign=1055&utm_source=git)** | Possible | Remote | Feb 12 |
-| ↳ | **[Contracts Summer Intern](https://jobright.ai/jobs/info/698ec34278b4502f12a59e6d?utm_campaign=1055&utm_source=git)** | Maryland | Remote | Feb 12 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Summer Intern](https://jobright.ai/jobs/info/698ec34278b4502f12a59e6d?utm_campaign=1055&utm_source=git)** | Maryland | Remote | Feb 12 |
+| ↳ | **[Contracts Summer Intern](https://jobright.ai/jobs/info/698ec5c3f64d441a165116c7?utm_campaign=1055&utm_source=git)** | Possible | Remote | Feb 12 |
 | **[Munich Re](https://www.munichre.com)** | **[Loss Control Coordinator Intern](https://jobright.ai/jobs/info/698e5ffc0f6f7e7a2cea6684?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 12 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart  (Denver)](https://jobright.ai/jobs/info/69691843639b452fb57ed9cc?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 12 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/692fa27bef4b48533d1479f0?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | Feb 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leviton](https://www.leviton.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/698e4e8af64d441a16508479?utm_campaign=1055&utm_source=git)** | Melville, NY | On Site | Feb 12 |
 | **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Claims Intern](https://jobright.ai/jobs/info/698e3565f64d441a16506eba?utm_campaign=1055&utm_source=git)** | Wilkes Barre, PA, US | Hybrid | Feb 12 |
 | **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/698e18b378b4502f12a4e5a8?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Feb 12 |
-| **[Heidrick & Struggles](http://www.heidrick.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/698e3c1378b4502f12a507fe?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 12 |
-| **[WillScot](http://www.willscot.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/698e391ef64d441a165071be?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Feb 12 |
-| **[Aprecia Pharmaceuticals](http://www.aprecia.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/698e7ff3f64d441a1650c945?utm_campaign=1055&utm_source=git)** | Mason, Ohio | On Site | Feb 12 |
-| **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/698e158178b4502f12a4e2e5?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
