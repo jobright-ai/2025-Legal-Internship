@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S&P Global](https://www.spglobal.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698d41f90f6f7e7a2ce91498?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 14 |
+| **[Ryman Hospitality Properties](http://rymanhp.com)** | **[Legal Intern - Summer 2026 - Ryman Hospitality Properties](https://jobright.ai/jobs/info/6990755e0cc8ea15f1db342e?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
+| **[Xometry](https://www.xometry.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/695837fcaa05c26e7ab21ceb?utm_campaign=1055&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 14 |
 | **[Mona Shah & Associates Global](http://www.mshahlaw.com)** | **[Legal Internship](https://jobright.ai/jobs/info/699061f60cc8ea15f1db24f3?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 14 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Regulatory Affairs](https://jobright.ai/jobs/info/6973d169206da320f49dcbcd?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | On Site | Feb 14 |
 | **[SPX Technologies](https://www.spx.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/691fbee43f782d2f1afbfc7c?utm_campaign=1055&utm_source=git)** | Overland Park, KS | Hybrid | Feb 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aprecia Pharmaceuticals](http://www.aprecia.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/698e7349f64d441a1650b74e?utm_campaign=1055&utm_source=git)** | Mason, OH | On Site | Feb 12 |
 | **[Groundswell](https://gswell.com)** | **[HR / Employment Law Intern](https://jobright.ai/jobs/info/698e6cab0f6f7e7a2cea7b93?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Feb 12 |
 | **[Planned Parenthood of Metropolitan Washington, DC, Inc.](http://www.ppmw.org)** | **[Legal Intern](https://jobright.ai/jobs/info/698115217f40342e15d9ef8e?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 12 |
-| **[Leviton](https://www.leviton.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/698e4e8af64d441a16508479?utm_campaign=1055&utm_source=git)** | Melville, NY | On Site | Feb 12 |
-| **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Claims Intern](https://jobright.ai/jobs/info/698e3565f64d441a16506eba?utm_campaign=1055&utm_source=git)** | Wilkes Barre, PA, US | Hybrid | Feb 12 |
-| **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/698e18b378b4502f12a4e5a8?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
