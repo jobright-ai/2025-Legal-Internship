@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Beck Group](http://www.beckgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6973e226bc8e722e7b18b574?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Feb 14 |
+| **[Cytokinetics](http://cytokinetics.com)** | **[Intern - Corporate Affairs](https://jobright.ai/jobs/info/69741f7d37785856350e18a9?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Feb 14 |
 | **[Wonderful Orchards](http://wonderfulorchards.com)** | **[Property & Compliance Intern](https://jobright.ai/jobs/info/69902d780cc8ea15f1daeaf8?utm_campaign=1055&utm_source=git)** | Shafter, CA | On Site | Feb 14 |
 | **[Hays County](http://hayscountytx.com)** | **[Justice Clerk Intern (Undergrad or Graduate Seniors)](https://jobright.ai/jobs/info/69902f1e0f6f7e7a2cec9ad8?utm_campaign=1055&utm_source=git)** | San Marcos, TX | On Site | Feb 13 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Strategic Accounts, Compliance Intern](https://jobright.ai/jobs/info/699019080f6f7e7a2cec6a49?utm_campaign=1055&utm_source=git)** | San Mateo, CA | Hybrid | Feb 13 |
@@ -91,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Northwood](https://www.northwoodspace.io)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/698f88670cc8ea15f1da17d4?utm_campaign=1055&utm_source=git)** | Torrance, CA | On Site | Feb 13 |
 | **[Weyerhaeuser](https://www.weyerhaeuser.com/)** | **[Income Tax Compliance Internship](https://jobright.ai/jobs/info/698fab530f6f7e7a2cebf7c4?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 | **[Federal Home Loan Bank of Boston](http://fhlbboston.com)** | **[2026 Summer Internship - Law Clerk](https://jobright.ai/jobs/info/698fabc36ea51a7610f21489?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 13 |
+| **[Kardigan](https://www.kardigan.bio)** | **[2026 Summer Intern - GxP Compliance (Undergraduate Student)](https://jobright.ai/jobs/info/698a85684db8972cecffdfe2?utm_campaign=1055&utm_source=git)** | South San Francisco, California, United States | On Site | Feb 13 |
 | **[Checkbook](https://www.checkbook.io)** | **[Checkbook Intern: Legal, Operations & People Ops](https://jobright.ai/jobs/info/698fb9016ea51a7610f223b9?utm_campaign=1055&utm_source=git)** | San Mateo, CA | Hybrid | Feb 13 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Legal Intern – Estate Administration](https://jobright.ai/jobs/info/698fcd196ea51a7610f2386d?utm_campaign=1055&utm_source=git)** | New York City, New York, United States of America | On Site | Feb 13 |
 | **[BlueWave](https://bluewave.energy/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/698fadb60f6f7e7a2cebf9bf?utm_campaign=1055&utm_source=git)** | Hybrid (Boston, Massachusetts, US) | Hybrid | Feb 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WillScot](http://www.willscot.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/698e391ef64d441a165071be?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Feb 12 |
 | **[Aprecia Pharmaceuticals](http://www.aprecia.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/698e7ff3f64d441a1650c945?utm_campaign=1055&utm_source=git)** | Mason, Ohio | On Site | Feb 12 |
 | **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/698e158178b4502f12a4e2e5?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Feb 12 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e156c0f6f7e7a2cea23d3?utm_campaign=1055&utm_source=git)** | Charleston, SC | On Site | Feb 12 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e124b0f6f7e7a2cea2185?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Feb 12 |
-| **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/697ef612ce48107c05431394?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
