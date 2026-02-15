@@ -64,7 +64,6 @@ For a complete list, click the following sortable link below:
 | **[MSIG USA](https://www.msigusa.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6990b8386ea51a7610f338c5?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 14 |
 | **[Align Technology](http://www.aligntech.com)** | **[SCA Legal Internship](https://jobright.ai/jobs/info/69696397f25a38006697f8ec?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Feb 14 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/6990a4d76ea51a7610f31d23?utm_campaign=1055&utm_source=git)** | San Rafael, CA | On Site | Feb 14 |
-| **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Legal](https://jobright.ai/jobs/info/693ce89750bbaf7650500c42?utm_campaign=1055&utm_source=git)** | Charleston, WV | On Site | Feb 14 |
 | **[MSIG USA](https://www.msigusa.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/699088536ea51a7610f3109f?utm_campaign=1055&utm_source=git)** | NY-NYC (Ave of Americas) | Hybrid | Feb 14 |
 | **[ProAmpac](http://www.proampac.com)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/6973e1efbc8e722e7b18b502?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Feb 14 |
 | **[S&P Global](https://www.spglobal.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698d41f90f6f7e7a2ce91498?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 14 |
@@ -148,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Spirit of America](https://spiritofamerica.org)** | **[Intern- Legal](https://jobright.ai/jobs/info/698ebe69f64d441a16510e65?utm_campaign=1055&utm_source=git)** | Arlington, VA, US | On Site | Feb 12 |
 | **[We Insure](https://weinsuregroup.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698ed46d78b4502f12a5ac2d?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Feb 12 |
 | **[Legal Aid of Western Missouri](https://www.lawmo.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/698ed05c0f6f7e7a2ceaeed3?utm_campaign=1055&utm_source=git)** | Kansas City, Missouri | On Site | Feb 12 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Summer Intern](https://jobright.ai/jobs/info/698ec34278b4502f12a59e6d?utm_campaign=1055&utm_source=git)** | Maryland | Remote | Feb 12 |
-| ↳ | **[Contracts Summer Intern](https://jobright.ai/jobs/info/698ec5c3f64d441a165116c7?utm_campaign=1055&utm_source=git)** | Possible | Remote | Feb 12 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Summer Intern](https://jobright.ai/jobs/info/698ec5c3f64d441a165116c7?utm_campaign=1055&utm_source=git)** | Possible | Remote | Feb 12 |
+| ↳ | **[Contracts Summer Intern](https://jobright.ai/jobs/info/698ec34278b4502f12a59e6d?utm_campaign=1055&utm_source=git)** | Maryland | Remote | Feb 12 |
 | **[Munich Re](https://www.munichre.com)** | **[Loss Control Coordinator Intern](https://jobright.ai/jobs/info/698e5ffc0f6f7e7a2cea6684?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 12 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart  (Denver)](https://jobright.ai/jobs/info/69691843639b452fb57ed9cc?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 12 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/692fa27bef4b48533d1479f0?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | Feb 12 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Cogeco Inc.](http://corpo.cogeco.com/cgo/en/)** | **[Legal Intern](https://jobright.ai/jobs/info/698e59c578b4502f12a5217b?utm_campaign=1055&utm_source=git)** | Quincy, MA | Hybrid | Feb 12 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Quality Assurance Compliance Intern (Onsite - Hopewell, NJ)](https://jobright.ai/jobs/info/698e6dac0f6f7e7a2cea7d72?utm_campaign=1055&utm_source=git)** | Hopewell | On Site | Feb 12 |
 | **[Eastern Bank](https://www.easternbank.com)** | **[Contract Administrator Intern](https://jobright.ai/jobs/info/698e6dbd0f6f7e7a2cea7d95?utm_campaign=1055&utm_source=git)** | Wakefield, MA | On Site | Feb 12 |
+| **[Alfa Laval](http://www.alfalaval.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/69728f9b584a1c1ef6fd8abd?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
