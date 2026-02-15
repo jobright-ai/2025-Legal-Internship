@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/6990a4d76ea51a7610f31d23?utm_campaign=1055&utm_source=git)** | San Rafael, CA | On Site | Feb 14 |
 | **[MSIG USA](https://www.msigusa.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/699088536ea51a7610f3109f?utm_campaign=1055&utm_source=git)** | NY-NYC (Ave of Americas) | Hybrid | Feb 14 |
 | **[ProAmpac](http://www.proampac.com)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/6973e1efbc8e722e7b18b502?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Feb 14 |
+| **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Legal Internship- Children's Program](https://jobright.ai/jobs/info/699142450cc8ea15f1dbd586?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Feb 14 |
 | **[S&P Global](https://www.spglobal.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698d41f90f6f7e7a2ce91498?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 14 |
 | **[Ryman Hospitality Properties](http://rymanhp.com)** | **[Legal Intern - Summer 2026 - Ryman Hospitality Properties](https://jobright.ai/jobs/info/6990755e0cc8ea15f1db342e?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
 | **[Xometry](https://www.xometry.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/695837fcaa05c26e7ab21ceb?utm_campaign=1055&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 14 |
@@ -137,6 +138,8 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/6972969f4ccbf64f8df290a8?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 12 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Management - Intern](https://jobright.ai/jobs/info/698f1fa10f6f7e7a2ceb2e8a?utm_campaign=1055&utm_source=git)** | New York | Hybrid | Feb 12 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Safety](https://jobright.ai/jobs/info/69727e0d9b83b424830e6e1b?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Feb 12 |
+| **[Superior Court, County of Santa Clara](http://www.scscourt.org)** | **[Judicial Intern](https://jobright.ai/jobs/info/699142a40cc8ea15f1dbd647?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | Hybrid | Feb 12 |
+| **[State of Missouri](http://mo.gov)** | **[Law Student Legal Intern - Missouri State Public Defender System](https://jobright.ai/jobs/info/699142d80f6f7e7a2ced8644?utm_campaign=1055&utm_source=git)** | Missouri, United States | On Site | Feb 12 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Legal Intern - Kansas City](https://jobright.ai/jobs/info/698ebcfff64d441a16510c72?utm_campaign=1055&utm_source=git)** | Overland Park, KS | On Site | Feb 12 |
 | **[AST SpaceMobile](https://ast-science.com)** | **[Intern (Regulatory Engineering) – Regulatory Affairs](https://jobright.ai/jobs/info/698e808cf64d441a1650ca47?utm_campaign=1055&utm_source=git)** | US - Remote | Remote | Feb 12 |
 | ↳ | **[Intern (Regulatory Engineering) – Regulatory Affairs](https://jobright.ai/jobs/info/698e7aeef64d441a1650c0b5?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/692fa27bef4b48533d1479f0?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | Feb 12 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Commercial Litigation, Holland & Hart (Las Vegas)](https://jobright.ai/jobs/info/696912d2639b452fb57ed70f?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Feb 12 |
 | **[Cogeco Inc.](http://corpo.cogeco.com/cgo/en/)** | **[Legal Intern](https://jobright.ai/jobs/info/698e59c578b4502f12a5217b?utm_campaign=1055&utm_source=git)** | Quincy, MA | Hybrid | Feb 12 |
-| **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Quality Assurance Compliance Intern (Onsite - Hopewell, NJ)](https://jobright.ai/jobs/info/698e6dac0f6f7e7a2cea7d72?utm_campaign=1055&utm_source=git)** | Hopewell | On Site | Feb 12 |
-| **[Eastern Bank](https://www.easternbank.com)** | **[Contract Administrator Intern](https://jobright.ai/jobs/info/698e6dbd0f6f7e7a2cea7d95?utm_campaign=1055&utm_source=git)** | Wakefield, MA | On Site | Feb 12 |
-| **[Alfa Laval](http://www.alfalaval.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/69728f9b584a1c1ef6fd8abd?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
