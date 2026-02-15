@@ -66,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/6990a4d76ea51a7610f31d23?utm_campaign=1055&utm_source=git)** | San Rafael, CA | On Site | Feb 14 |
 | **[MSIG USA](https://www.msigusa.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/699088536ea51a7610f3109f?utm_campaign=1055&utm_source=git)** | NY-NYC (Ave of Americas) | Hybrid | Feb 14 |
 | **[ProAmpac](http://www.proampac.com)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/6973e1efbc8e722e7b18b502?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Feb 14 |
-| **[S&P Global](https://www.spglobal.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698d41f90f6f7e7a2ce91498?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 14 |
 | **[Ryman Hospitality Properties](http://rymanhp.com)** | **[Legal Intern - Summer 2026 - Ryman Hospitality Properties](https://jobright.ai/jobs/info/6990755e0cc8ea15f1db342e?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
 | **[Xometry](https://www.xometry.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/695837fcaa05c26e7ab21ceb?utm_campaign=1055&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 14 |
 | **[Mona Shah & Associates Global](http://www.mshahlaw.com)** | **[Legal Internship](https://jobright.ai/jobs/info/699061f60cc8ea15f1db24f3?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 14 |
@@ -136,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Planned Systems International](http://www.plan-sys.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697309171790715e866bfc02?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 12 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/6972969f4ccbf64f8df290a8?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 12 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Contracts Management - Intern](https://jobright.ai/jobs/info/698f1fa10f6f7e7a2ceb2e8a?utm_campaign=1055&utm_source=git)** | New York | Hybrid | Feb 12 |
+| **[State of Missouri](http://mo.gov)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69915f656ea51a7610f3bf29?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Feb 12 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/699154446ea51a7610f3a42d?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Feb 12 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Safety](https://jobright.ai/jobs/info/69727e0d9b83b424830e6e1b?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Feb 12 |
 | **[Superior Court, County of Santa Clara](http://www.scscourt.org)** | **[Judicial Intern](https://jobright.ai/jobs/info/699142a40cc8ea15f1dbd647?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | Hybrid | Feb 12 |
