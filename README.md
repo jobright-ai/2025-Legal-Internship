@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Corporate Compliance Operations Intern](https://jobright.ai/jobs/info/6993092dce78e77b4fd6dbcf?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Feb 16 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Compliance Intern](https://jobright.ai/jobs/info/691f4e283f782d2f1afba330?utm_campaign=1055&utm_source=git)** | Everett, WA | On Site | Feb 16 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69104536988c2b7b4ec50c5d?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Feb 15 |
 | **[Planned Parenthood of Metropolitan Washington, DC, Inc.](http://www.ppmw.org)** | **[Legal Intern](https://jobright.ai/jobs/info/698115217f40342e15d9ef8e?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Legal](https://jobright.ai/jobs/info/698e738378b4502f12a54315?utm_campaign=1055&utm_source=git)** | 95 Morton St, New York, NY, 10014, US | On Site | Feb 12 |
 | **[Spirit of America](https://spiritofamerica.org)** | **[Intern- Legal](https://jobright.ai/jobs/info/698ebe69f64d441a16510e65?utm_campaign=1055&utm_source=git)** | Arlington, VA, US | On Site | Feb 12 |
 | **[We Insure](https://weinsuregroup.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698ed46d78b4502f12a5ac2d?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Feb 12 |
-| **[Legal Aid of Western Missouri](https://www.lawmo.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/698ed05c0f6f7e7a2ceaeed3?utm_campaign=1055&utm_source=git)** | Kansas City, Missouri | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
