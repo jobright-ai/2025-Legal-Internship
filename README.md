@@ -57,11 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TechnipFMC](https://www.technipfmc.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6993837ee0bddb6acac1c8aa?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 16 |
+| **[Fresenius Kabi](https://www.fresenius-kabi.se)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6993965ae0bddb6acac1dd5d?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern Contract Adm](https://jobright.ai/jobs/info/699373e781476f6176ab0e9a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 16 |
+| **[American Oversight](https://www.americanoversight.org/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69939664ce78e77b4fd76859?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Feb 16 |
 | **[Town of Cary](https://www.carync.gov/)** | **[LEGAL INTERN](https://jobright.ai/jobs/info/69936a9f81476f6176ab07e6?utm_campaign=1055&utm_source=git)** | Cary, NC | On Site | Feb 16 |
+| **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Student Intern (Quality & Regulatory Affairs)](https://jobright.ai/jobs/info/6993887881476f6176ab1eaa?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 16 |
+| **[Stikeman Elliott LLP](http://www.stikeman.com/)** | **[Stagiaire, Adjoint(e) juridique / Intern, Legal Administrative Assistant](https://jobright.ai/jobs/info/699391a4e0bddb6acac1d9b0?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 16 |
+| **[NextEra Energy Resources](https://www.nexteraenergyresources.com)** | **[Trade Risk- College Intern](https://jobright.ai/jobs/info/699380da81476f6176ab1845?utm_campaign=1055&utm_source=git)** | Juno Beach, FL | On Site | Feb 16 |
+| **[EXL](http://www.exlservice.com)** | **[INTERN - Contract Review](https://jobright.ai/jobs/info/6993993081476f6176ab2c77?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 16 |
 | **[GRUNDFOS](https://grundfos.to/socialmedia)** | **[Logistics/International Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/69935a9ee0bddb6acac19c01?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Feb 16 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Legal and Compliance Operations Intern](https://jobright.ai/jobs/info/6993544ece78e77b4fd720c0?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Feb 16 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/699353aece78e77b4fd72034?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Feb 16 |
+| **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Business and Technology Governance (May – August 2026)](https://jobright.ai/jobs/info/699388d1e0bddb6acac1cf44?utm_campaign=1055&utm_source=git)** | Montreal | On Site | Feb 16 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Student Intern (Quality & Regulatory Affairs)](https://jobright.ai/jobs/info/69936616e0bddb6acac1add3?utm_campaign=1055&utm_source=git)** | 111 N Wabash Ave, Chicago, IL, 60602, US | On Site | Feb 16 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/Intern Volunteer](https://jobright.ai/jobs/info/68d4c916fcd3367e8df17cdf?utm_campaign=1055&utm_source=git)** | Pueblo, CO | On Site | Feb 16 |
 | **[Suburban Propane](http://www.suburbanpropane.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69935adace78e77b4fd728eb?utm_campaign=1055&utm_source=git)** | Whippany, NJ | On Site | Feb 16 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Summer Intern - Springfield Right of Way](https://jobright.ai/jobs/info/6992b6d7ce78e77b4fd6733f?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Feb 12 |
 | ↳ | **[Risk Management Intern](https://jobright.ai/jobs/info/69915f656ea51a7610f3bf29?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Feb 12 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/699154446ea51a7610f3a42d?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Feb 12 |
-| **[Bci Miami](https://www.bcimiami.com)** | **[Compliance and Non-Financial Risk Data Intern](https://jobright.ai/jobs/info/69929deace78e77b4fd64b7c?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Feb 12 |
-| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Safety](https://jobright.ai/jobs/info/69727e0d9b83b424830e6e1b?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Feb 12 |
-| **[State of Missouri](http://mo.gov)** | **[Law Student Legal Intern - Missouri State Public Defender System](https://jobright.ai/jobs/info/699142d80f6f7e7a2ced8644?utm_campaign=1055&utm_source=git)** | Missouri, United States | On Site | Feb 12 |
-| **[AST SpaceMobile](https://ast-science.com)** | **[Intern (Regulatory Engineering) – Regulatory Affairs](https://jobright.ai/jobs/info/698e808cf64d441a1650ca47?utm_campaign=1055&utm_source=git)** | US - Remote | Remote | Feb 12 |
-| ↳ | **[Intern (Regulatory Engineering) – Regulatory Affairs](https://jobright.ai/jobs/info/698e7aeef64d441a1650c0b5?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 12 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Legal](https://jobright.ai/jobs/info/698e99950f6f7e7a2ceab892?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 12 |
-| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Quality Assurance Compliance Intern (Onsite - Hopewell, NJ)](https://jobright.ai/jobs/info/698eaa0078b4502f12a581ec?utm_campaign=1055&utm_source=git)** | Hopewell, NJ | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
