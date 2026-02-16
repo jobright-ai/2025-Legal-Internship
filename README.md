@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Legal and Compliance Operations Intern](https://jobright.ai/jobs/info/6993544ece78e77b4fd720c0?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Feb 16 |
+| **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/699353aece78e77b4fd72034?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Feb 16 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/Intern Volunteer](https://jobright.ai/jobs/info/68d4c916fcd3367e8df17cdf?utm_campaign=1055&utm_source=git)** | Pueblo, CO | On Site | Feb 16 |
 | **[UNDP Careers](https://www.undp.org)** | **[Internship - Procurement Support (New York)](https://jobright.ai/jobs/info/699328c7ce78e77b4fd707cf?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 16 |
-| **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Corporate Compliance Operations Intern](https://jobright.ai/jobs/info/6993092dce78e77b4fd6dbcf?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Feb 16 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Compliance Intern](https://jobright.ai/jobs/info/691f4e283f782d2f1afba330?utm_campaign=1055&utm_source=git)** | Everett, WA | On Site | Feb 16 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69104536988c2b7b4ec50c5d?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Feb 15 |
 | **[Planned Parenthood of Metropolitan Washington, DC, Inc.](http://www.ppmw.org)** | **[Legal Intern](https://jobright.ai/jobs/info/698115217f40342e15d9ef8e?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 15 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[SUS Governance Specialist - 2026 Intern](https://jobright.ai/jobs/info/699011b46ea51a7610f27cfb?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 13 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69901c646ea51a7610f28549?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Feb 13 |
 | ↳ | **[Intern, Legal](https://jobright.ai/jobs/info/69900e7a0cc8ea15f1dab68c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Feb 13 |
-| **[Fiserv](http://www.fiserv.com)** | **[Summer Intern - Legal (Omaha, NE)](https://jobright.ai/jobs/info/699004e20f6f7e7a2cec575e?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Feb 13 |
 | **[ISACA](http://www.isaca.org)** | **[Enterprise Risk Management Jr. Analyst Intern](https://jobright.ai/jobs/info/699018b60cc8ea15f1dac02c?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 13 |
 | **[American Bar Association](http://www.americanbar.org/aba.html)** | **[CILA Spring 2026 Legal Intern (Paid Internship)](https://jobright.ai/jobs/info/698fd9816ea51a7610f24063?utm_campaign=1055&utm_source=git)** | TX CILA, 3605 Katy Freeway, Houston, Texas, United States of America | Hybrid | Feb 13 |
 | **[Leidos](https://www.leidos.com)** | **[Cyber Risk Intern - Supply Chain Risk Management](https://jobright.ai/jobs/info/6990358a6ea51a7610f2bba7?utm_campaign=1055&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Feb 13 |
