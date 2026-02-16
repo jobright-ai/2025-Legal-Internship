@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Town of Cary](https://www.carync.gov/)** | **[LEGAL INTERN](https://jobright.ai/jobs/info/69936a9f81476f6176ab07e6?utm_campaign=1055&utm_source=git)** | Cary, NC | On Site | Feb 16 |
+| **[GRUNDFOS](https://grundfos.to/socialmedia)** | **[Logistics/International Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/69935a9ee0bddb6acac19c01?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Feb 16 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Legal and Compliance Operations Intern](https://jobright.ai/jobs/info/6993544ece78e77b4fd720c0?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Feb 16 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/699353aece78e77b4fd72034?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Feb 16 |
+| **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Student Intern (Quality & Regulatory Affairs)](https://jobright.ai/jobs/info/69936616e0bddb6acac1add3?utm_campaign=1055&utm_source=git)** | 111 N Wabash Ave, Chicago, IL, 60602, US | On Site | Feb 16 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/Intern Volunteer](https://jobright.ai/jobs/info/68d4c916fcd3367e8df17cdf?utm_campaign=1055&utm_source=git)** | Pueblo, CO | On Site | Feb 16 |
+| **[Suburban Propane](http://www.suburbanpropane.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69935adace78e77b4fd728eb?utm_campaign=1055&utm_source=git)** | Whippany, NJ | On Site | Feb 16 |
 | **[UNDP Careers](https://www.undp.org)** | **[Internship - Procurement Support (New York)](https://jobright.ai/jobs/info/699328c7ce78e77b4fd707cf?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 16 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Compliance Intern](https://jobright.ai/jobs/info/691f4e283f782d2f1afba330?utm_campaign=1055&utm_source=git)** | Everett, WA | On Site | Feb 16 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69104536988c2b7b4ec50c5d?utm_campaign=1055&utm_source=git)** | Akron, OH | On Site | Feb 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern (Regulatory Engineering) – Regulatory Affairs](https://jobright.ai/jobs/info/698e7aeef64d441a1650c0b5?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 12 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Legal](https://jobright.ai/jobs/info/698e99950f6f7e7a2ceab892?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Quality Assurance Compliance Intern (Onsite - Hopewell, NJ)](https://jobright.ai/jobs/info/698eaa0078b4502f12a581ec?utm_campaign=1055&utm_source=git)** | Hopewell, NJ | On Site | Feb 12 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department - BSA/AML Compliance Intern](https://jobright.ai/jobs/info/697285fb9b83b424830e76a0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 12 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Legal](https://jobright.ai/jobs/info/698e738378b4502f12a54315?utm_campaign=1055&utm_source=git)** | 95 Morton St, New York, NY, 10014, US | On Site | Feb 12 |
-| **[Spirit of America](https://spiritofamerica.org)** | **[Intern- Legal](https://jobright.ai/jobs/info/698ebe69f64d441a16510e65?utm_campaign=1055&utm_source=git)** | Arlington, VA, US | On Site | Feb 12 |
-| **[We Insure](https://weinsuregroup.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698ed46d78b4502f12a5ac2d?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
