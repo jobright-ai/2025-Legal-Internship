@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Energy Transfer](http://www.energytransfer.com)** | **[Intern Contract Adm](https://jobright.ai/jobs/info/699373e781476f6176ab0e9a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 16 |
 | **[Town of Cary](https://www.carync.gov/)** | **[LEGAL INTERN](https://jobright.ai/jobs/info/69936a9f81476f6176ab07e6?utm_campaign=1055&utm_source=git)** | Cary, NC | On Site | Feb 16 |
 | **[GRUNDFOS](https://grundfos.to/socialmedia)** | **[Logistics/International Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/69935a9ee0bddb6acac19c01?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Feb 16 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Legal and Compliance Operations Intern](https://jobright.ai/jobs/info/6993544ece78e77b4fd720c0?utm_campaign=1055&utm_source=git)** | White Plains, NY | Remote | Feb 16 |
@@ -138,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[KPMG Belgium](https://www.kpmg.com/be)** | **[Summer internship KPMG Law 2026](https://jobright.ai/jobs/info/698f44ae6ea51a7610f18b75?utm_campaign=1055&utm_source=git)** | All, MO | On Site | Feb 13 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6959e3b7aa05c26e7ab384f5?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 13 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/699016f46ea51a7610f280df?utm_campaign=1055&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Feb 13 |
-| **[The Toro Company](https://www.thetorocompany.com)** | **[Paralegal Intern (Part-Time) - The Toro Company](https://jobright.ai/jobs/info/69736986206da320f49d5eb3?utm_campaign=1055&utm_source=git)** | Hennepin County, MN | On Site | Feb 13 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/698ed8660f6f7e7a2ceb0085?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Feb 13 |
 | **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[High School Intern/General Sessions Court Div V-Judicial Assistant/Intern](https://jobright.ai/jobs/info/698f55236ea51a7610f1a517?utm_campaign=1055&utm_source=git)** | Nashville, TN, United States | On Site | Feb 13 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Privacy Legal Intern](https://jobright.ai/jobs/info/698f53866ea51a7610f1a248?utm_campaign=1055&utm_source=git)** | US-IL-Chicago | On Site | Feb 13 |
