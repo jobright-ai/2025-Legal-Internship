@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern – Commercial Title](https://jobright.ai/jobs/info/69949c7de0bddb6acac30dc7?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Feb 17 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Law](https://jobright.ai/jobs/info/6977ef0c52f3c27ec6441fdd?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 17 |
 | **[Sobi - Swedish Orphan Biovitrum AB (publ)](http://www.sobi.com/en)** | **[Legal Internship (Hybrid)](https://jobright.ai/jobs/info/697824b7fdeb8243a27b193e?utm_campaign=1055&utm_source=git)** | Waltham, MA | Hybrid | Feb 17 |
 | **[Benco Dental](https://www.benco.com/)** | **[Legal and Compliance Assistant Intern (Summer 2026)](https://jobright.ai/jobs/info/699488d281476f6176ac4f80?utm_campaign=1055&utm_source=git)** | Pittston, PA | On Site | Feb 17 |
@@ -86,7 +87,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6993e476e0bddb6acac22c02?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
 | **[Aflac](http://www.aflac.com)** | **[2026 Summer Legal Intern](https://jobright.ai/jobs/info/6993e01cce78e77b4fd7b432?utm_campaign=1055&utm_source=git)** | Columbus, GA | Hybrid | Feb 16 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993d4fd81476f6176ab6fe1?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 16 |
-| ↳ | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993e74081476f6176ab84fe?utm_campaign=1055&utm_source=git)** | US-TX-Austin | On Site | Feb 16 |
+| **[Echelon Risk + Cyber](https://echeloncyber.com)** | **[Risk Advisory Intern - Remote (USA)](https://jobright.ai/jobs/info/69949b5ce0bddb6acac30cb2?utm_campaign=1055&utm_source=git)** | US | Remote | Feb 16 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993e74081476f6176ab84fe?utm_campaign=1055&utm_source=git)** | US-TX-Austin | On Site | Feb 16 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern  Contract Adm](https://jobright.ai/jobs/info/6993e28281476f6176ab7ec0?utm_campaign=1055&utm_source=git)** | HOUSTON, Texas, United States | On Site | Feb 16 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Brand Protection Intern](https://jobright.ai/jobs/info/6993da3481476f6176ab747b?utm_campaign=1055&utm_source=git)** | Buffalo, NY, US | On Site | Feb 16 |
 | ↳ | **[Vendor Compliance Intern](https://jobright.ai/jobs/info/6993a48ce0bddb6acac1eb79?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Feb 16 |
@@ -110,8 +112,6 @@ For a complete list, click the following sortable link below:
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com)** | **[Trade Risk- College Intern](https://jobright.ai/jobs/info/699380da81476f6176ab1845?utm_campaign=1055&utm_source=git)** | Juno Beach, FL | On Site | Feb 16 |
 | **[Darley](http://darley.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6993ac4ace78e77b4fd78000?utm_campaign=1055&utm_source=git)** | Itasca,IL,US | On Site | Feb 16 |
 | **[EXL](http://www.exlservice.com)** | **[INTERN - Contract Review](https://jobright.ai/jobs/info/6993993081476f6176ab2c77?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 16 |
-| **[Suburban Propane](http://www.suburbanpropane.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6994952fce78e77b4fd8962b?utm_campaign=1055&utm_source=git)** | US-NJ-Whippany | On Site | Feb 16 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6994927d81476f6176ac5871?utm_campaign=1055&utm_source=git)** | Whippany, NJ, US | On Site | Feb 16 |
 | **[American Oversight](https://www.americanoversight.org/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6993a65c81476f6176ab3e94?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 16 |
 | **[GRUNDFOS](https://grundfos.to/socialmedia)** | **[Logistics/International Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/69935a9ee0bddb6acac19c01?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Feb 16 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/699353aece78e77b4fd72034?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Feb 16 |
