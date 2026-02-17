@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Shared Delivery -Governance & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/6978104b88e2b47213bc12e0?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Feb 17 |
 | **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/6975a754bc8e722e7b1a8214?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 17 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – DSPV Compliance](https://jobright.ai/jobs/info/6986cde38da7a6120461c5fd?utm_campaign=1055&utm_source=git)** | Headquarters, NJ | Hybrid | Feb 17 |
 | **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/695c324922c9dc0d3d5410fe?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 17 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Epicor](https://www.epicor.com)** | **[Intern / Legal](https://jobright.ai/jobs/info/6993a2bbce78e77b4fd77666?utm_campaign=1055&utm_source=git)** | US, Austin Las Cimas | On Site | Feb 16 |
 | **[TechnipFMC](https://www.technipfmc.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6993837ee0bddb6acac1c8aa?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 16 |
 | **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Business and Technology Governance (May – August 2026)](https://jobright.ai/jobs/info/6993a27ce0bddb6acac1e976?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 16 |
-| **[Fresenius Kabi](https://www.fresenius-kabi.se)** | **[Intern - Regulatory Affairs (Human Factors & CMC)](https://jobright.ai/jobs/info/6993b71cce78e77b4fd78cb8?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
-| ↳ | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6993965ae0bddb6acac1dd5d?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
+| **[Fresenius Kabi](https://www.fresenius-kabi.se)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6993965ae0bddb6acac1dd5d?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
+| ↳ | **[Intern - Regulatory Affairs (Human Factors & CMC)](https://jobright.ai/jobs/info/6993b71cce78e77b4fd78cb8?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern Contract Adm](https://jobright.ai/jobs/info/699373e781476f6176ab0e9a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 16 |
 | **[American Oversight](https://www.americanoversight.org/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69939664ce78e77b4fd76859?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Feb 16 |
 | **[Town of Cary](https://www.carync.gov/)** | **[LEGAL INTERN](https://jobright.ai/jobs/info/69936a9f81476f6176ab07e6?utm_campaign=1055&utm_source=git)** | Cary, NC | On Site | Feb 16 |
@@ -134,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern - Corporate Affairs](https://jobright.ai/jobs/info/69741f7d37785856350e18a9?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Feb 14 |
 | **[Wonderful Orchards](http://wonderfulorchards.com)** | **[Property & Compliance Intern](https://jobright.ai/jobs/info/69902d780cc8ea15f1daeaf8?utm_campaign=1055&utm_source=git)** | Shafter, CA | On Site | Feb 14 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Strategic Accounts, Compliance Intern](https://jobright.ai/jobs/info/699019080f6f7e7a2cec6a49?utm_campaign=1055&utm_source=git)** | San Mateo, CA | Hybrid | Feb 13 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2026 Legal Intern - NY](https://jobright.ai/jobs/info/6994063ae0bddb6acac25da5?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 13 |
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Legal Intern (Temporary Role) - FT - Days - Legal Services @ MV](https://jobright.ai/jobs/info/69901aec0f6f7e7a2cec6bcb?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Feb 13 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern- Risk - Temporary](https://jobright.ai/jobs/info/69901c596ea51a7610f28537?utm_campaign=1055&utm_source=git)** | Rochester, MN | Hybrid | Feb 13 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[SUS Governance Specialist - 2026 Intern](https://jobright.ai/jobs/info/699011b46ea51a7610f27cfb?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 13 |
