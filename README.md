@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6977c51e88e2b47213bbba89?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Feb 17 |
+| ↳ | **[Intern - Compliance-New Business and Capabilities](https://jobright.ai/jobs/info/6977c04e52f3c27ec643e28c?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Feb 17 |
+| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Digital Security Group Compliance Analyst - 6 month internship](https://jobright.ai/jobs/info/69787f7152f3c27ec644d06e?utm_campaign=1055&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Feb 17 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Shared Delivery -Governance & Compliance Internship – Summer 2026](https://jobright.ai/jobs/info/6978104b88e2b47213bc12e0?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Feb 17 |
 | **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/6975a754bc8e722e7b1a8214?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 17 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – DSPV Compliance](https://jobright.ai/jobs/info/6986cde38da7a6120461c5fd?utm_campaign=1055&utm_source=git)** | Headquarters, NJ | Hybrid | Feb 17 |
@@ -70,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/69940754e0bddb6acac25f95?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Feb 16 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Sustainibility Intern-Corporate](https://jobright.ai/jobs/info/6993e083e0bddb6acac227d9?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Feb 16 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993ca69e0bddb6acac211fe?utm_campaign=1055&utm_source=git)** | Austin, TX, US | On Site | Feb 16 |
-| **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Corporate Compliance Operations Intern](https://jobright.ai/jobs/info/6993e82ace78e77b4fd7bd5f?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Feb 16 |
 | **[Fresenius Kabi USA](http://www.fresenius-kabi.us)** | **[Intern - Regulatory Affairs (Human Factors & CMC)](https://jobright.ai/jobs/info/6993dd07e0bddb6acac223bf?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
 | ↳ | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6993e476e0bddb6acac22c02?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
 | **[Aflac](http://www.aflac.com)** | **[2026 Summer Legal Intern](https://jobright.ai/jobs/info/6993e01cce78e77b4fd7b432?utm_campaign=1055&utm_source=git)** | Columbus, GA | Hybrid | Feb 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern- Risk - Temporary](https://jobright.ai/jobs/info/698fd0d30f6f7e7a2cec1bc4?utm_campaign=1055&utm_source=git)** | Rochester, MN, United States | Hybrid | Feb 13 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern- Risk - Temporary](https://jobright.ai/jobs/info/698fc6b70cc8ea15f1da6561?utm_campaign=1055&utm_source=git)** | Rochester, MN, United States | Hybrid | Feb 13 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern- Risk - Temporary](https://jobright.ai/jobs/info/698fd0250f6f7e7a2cec1b52?utm_campaign=1055&utm_source=git)** | Rochester, MN, United States | Hybrid | Feb 13 |
-| **[KCH Transportation](https://www.kchtrans.com)** | **[Carrier Compliance Intern](https://jobright.ai/jobs/info/69602feea1bbea1d9a7b03e3?utm_campaign=1055&utm_source=git)** | Chattanooga, TN | On Site | Feb 13 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Sales Contracts Intern - Bachelor's Degree](https://jobright.ai/jobs/info/698f9a010cc8ea15f1da3059?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
