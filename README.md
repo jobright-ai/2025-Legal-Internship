@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/69940754e0bddb6acac25f95?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Feb 16 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Sustainibility Intern-Corporate](https://jobright.ai/jobs/info/6993e083e0bddb6acac227d9?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Feb 16 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993ca69e0bddb6acac211fe?utm_campaign=1055&utm_source=git)** | Austin, TX, US | On Site | Feb 16 |
 | **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Corporate Compliance Operations Intern](https://jobright.ai/jobs/info/6993e82ace78e77b4fd7bd5f?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Feb 16 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6993e476e0bddb6acac22c02?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
 | **[Aflac](http://www.aflac.com)** | **[2026 Summer Legal Intern](https://jobright.ai/jobs/info/6993e01cce78e77b4fd7b432?utm_campaign=1055&utm_source=git)** | Columbus, GA | Hybrid | Feb 16 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993d4fd81476f6176ab6fe1?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 16 |
-| **[Echelon Risk + Cyber](https://echeloncyber.com)** | **[Risk Advisory Intern - Remote (USA)](https://jobright.ai/jobs/info/6993f036e0bddb6acac23b66?utm_campaign=1055&utm_source=git)** | US | Remote | Feb 16 |
 | **[Langley Federal Credit Union](https://www.langleyfcu.org)** | **[Summer Intern- Legal and Compliance](https://jobright.ai/jobs/info/6993ec6dce78e77b4fd7c1ca?utm_campaign=1055&utm_source=git)** | Newport News, Virginia, United States | On Site | Feb 16 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993e74081476f6176ab84fe?utm_campaign=1055&utm_source=git)** | US-TX-Austin | On Site | Feb 16 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern  Contract Adm](https://jobright.ai/jobs/info/6993e28281476f6176ab7ec0?utm_campaign=1055&utm_source=git)** | HOUSTON, Texas, United States | On Site | Feb 16 |
@@ -125,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Wonderful Orchards](http://wonderfulorchards.com)** | **[Property & Compliance Intern](https://jobright.ai/jobs/info/69902d780cc8ea15f1daeaf8?utm_campaign=1055&utm_source=git)** | Shafter, CA | On Site | Feb 14 |
 | **[Hays County](http://hayscountytx.com)** | **[Justice Clerk Intern (Undergrad or Graduate Seniors)](https://jobright.ai/jobs/info/69902f1e0f6f7e7a2cec9ad8?utm_campaign=1055&utm_source=git)** | San Marcos, TX | On Site | Feb 13 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Strategic Accounts, Compliance Intern](https://jobright.ai/jobs/info/699019080f6f7e7a2cec6a49?utm_campaign=1055&utm_source=git)** | San Mateo, CA | Hybrid | Feb 13 |
+| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2026 Legal Intern - NY](https://jobright.ai/jobs/info/6994063ae0bddb6acac25da5?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 13 |
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Legal Intern (Temporary Role) - FT - Days - Legal Services @ MV](https://jobright.ai/jobs/info/69901aec0f6f7e7a2cec6bcb?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Feb 13 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern- Risk - Temporary](https://jobright.ai/jobs/info/69901c596ea51a7610f28537?utm_campaign=1055&utm_source=git)** | Rochester, MN | Hybrid | Feb 13 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[SUS Governance Specialist - 2026 Intern](https://jobright.ai/jobs/info/699011b46ea51a7610f27cfb?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Home Loan Bank of Boston](http://fhlbboston.com)** | **[2026 Summer Internship - Law Clerk](https://jobright.ai/jobs/info/698fabc36ea51a7610f21489?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 13 |
 | **[Kardigan](https://www.kardigan.bio)** | **[2026 Summer Intern - GxP Compliance (Undergraduate Student)](https://jobright.ai/jobs/info/698a85684db8972cecffdfe2?utm_campaign=1055&utm_source=git)** | South San Francisco, California, United States | On Site | Feb 13 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Legal Intern – Estate Administration](https://jobright.ai/jobs/info/698fcd196ea51a7610f2386d?utm_campaign=1055&utm_source=git)** | New York City, New York, United States of America | On Site | Feb 13 |
-| **[BlueWave](https://bluewave.energy/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/698fadb60f6f7e7a2cebf9bf?utm_campaign=1055&utm_source=git)** | Hybrid (Boston, Massachusetts, US) | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
