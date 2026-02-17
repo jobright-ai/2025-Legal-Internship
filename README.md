@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Glencore](http://glencore.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6991532c6ea51a7610f39fb1?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 17 |
+| **[Vantage Data Centers](https://vantage-dc.com)** | **[Legal Intern, NA](https://jobright.ai/jobs/info/695c7b799a87b95a9397cbf3?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 17 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Legal Intern (1L)](https://jobright.ai/jobs/info/69409919aa598a08c3f0437d?utm_campaign=1055&utm_source=git)** | Olathe, KS | On Site | Feb 17 |
+| **[Corsair](http://www.corsair.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69406d5e49a7695fbd05ef2c?utm_campaign=1055&utm_source=git)** | Milpitas, CA | On Site | Feb 17 |
 | **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6977c51e88e2b47213bbba89?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Feb 17 |
 | ↳ | **[Intern - Compliance-New Business and Capabilities](https://jobright.ai/jobs/info/6977c04e52f3c27ec643e28c?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Feb 17 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Digital Security Group Compliance Analyst - 6 month internship](https://jobright.ai/jobs/info/69787f7152f3c27ec644d06e?utm_campaign=1055&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Feb 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Legal Intern (Temporary Role) - FT - Days - Legal Services @ MV](https://jobright.ai/jobs/info/698fed346ea51a7610f25059?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Feb 13 |
 | **[Mona Shah & Associates Global](http://www.mshahlaw.com)** | **[Legal Internship](https://jobright.ai/jobs/info/698fe5976ea51a7610f24a4a?utm_campaign=1055&utm_source=git)** | New York, NY, NY 10016 | On Site | Feb 13 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Strategic Accounts, Compliance Intern](https://jobright.ai/jobs/info/698fee740f6f7e7a2cec3365?utm_campaign=1055&utm_source=git)** | San Mateo, CA, United States | Hybrid | Feb 13 |
-| **[Costco IT](https://www.costco.com/sustainability-introduction.html)** | **[CDS Intern - Security Governance and Policy](https://jobright.ai/jobs/info/698fe52a0f6f7e7a2cec2abb?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern- Risk - Temporary](https://jobright.ai/jobs/info/698fd0d30f6f7e7a2cec1bc4?utm_campaign=1055&utm_source=git)** | Rochester, MN, United States | Hybrid | Feb 13 |
-| **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern- Risk - Temporary](https://jobright.ai/jobs/info/698fc6b70cc8ea15f1da6561?utm_campaign=1055&utm_source=git)** | Rochester, MN, United States | Hybrid | Feb 13 |
-| **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern- Risk - Temporary](https://jobright.ai/jobs/info/698fd0250f6f7e7a2cec1b52?utm_campaign=1055&utm_source=git)** | Rochester, MN, United States | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
