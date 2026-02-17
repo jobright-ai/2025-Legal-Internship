@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RESICAP](http://www.resicap.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69948528ce78e77b4fd8859d?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Feb 17 |
 | **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2026 Internship Program: Regulatory Affairs Intern - Shelton, CT, US](https://jobright.ai/jobs/info/695c5b71f1f8465b79f2807e?utm_campaign=1055&utm_source=git)** | Shelton, CT | On Site | Feb 17 |
 | **[Glencore](http://glencore.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6991532c6ea51a7610f39fb1?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 17 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Legal Intern, NA](https://jobright.ai/jobs/info/695c7b799a87b95a9397cbf3?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 17 |
@@ -82,8 +83,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6993e476e0bddb6acac22c02?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
 | **[Aflac](http://www.aflac.com)** | **[2026 Summer Legal Intern](https://jobright.ai/jobs/info/6993e01cce78e77b4fd7b432?utm_campaign=1055&utm_source=git)** | Columbus, GA | Hybrid | Feb 16 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993d4fd81476f6176ab6fe1?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 16 |
-| **[Langley Federal Credit Union](https://www.langleyfcu.org)** | **[Summer Intern- Legal and Compliance](https://jobright.ai/jobs/info/6993ec6dce78e77b4fd7c1ca?utm_campaign=1055&utm_source=git)** | Newport News, Virginia, United States | On Site | Feb 16 |
-| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993e74081476f6176ab84fe?utm_campaign=1055&utm_source=git)** | US-TX-Austin | On Site | Feb 16 |
+| ↳ | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993e74081476f6176ab84fe?utm_campaign=1055&utm_source=git)** | US-TX-Austin | On Site | Feb 16 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern  Contract Adm](https://jobright.ai/jobs/info/6993e28281476f6176ab7ec0?utm_campaign=1055&utm_source=git)** | HOUSTON, Texas, United States | On Site | Feb 16 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Brand Protection Intern](https://jobright.ai/jobs/info/6993da3481476f6176ab747b?utm_campaign=1055&utm_source=git)** | Buffalo, NY, US | On Site | Feb 16 |
 | ↳ | **[Vendor Compliance Intern](https://jobright.ai/jobs/info/6993a48ce0bddb6acac1eb79?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Feb 16 |
@@ -113,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Business and Technology Governance (May – August 2026)](https://jobright.ai/jobs/info/699388d1e0bddb6acac1cf44?utm_campaign=1055&utm_source=git)** | Montreal | On Site | Feb 16 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Student Intern (Quality & Regulatory Affairs)](https://jobright.ai/jobs/info/69936616e0bddb6acac1add3?utm_campaign=1055&utm_source=git)** | 111 N Wabash Ave, Chicago, IL, 60602, US | On Site | Feb 16 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/Intern Volunteer](https://jobright.ai/jobs/info/68d4c916fcd3367e8df17cdf?utm_campaign=1055&utm_source=git)** | Pueblo, CO | On Site | Feb 16 |
-| **[Suburban Propane](http://www.suburbanpropane.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69935adace78e77b4fd728eb?utm_campaign=1055&utm_source=git)** | Whippany, NJ | On Site | Feb 16 |
 | **[UNDP Careers](https://www.undp.org)** | **[Internship - Procurement Support (New York)](https://jobright.ai/jobs/info/699328c7ce78e77b4fd707cf?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 16 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Compliance Intern](https://jobright.ai/jobs/info/691f4e283f782d2f1afba330?utm_campaign=1055&utm_source=git)** | Everett, WA | On Site | Feb 16 |
 | **[Langley Federal Credit Union](https://www.langleyfcu.org)** | **[Summer Intern- Legal and Compliance](https://jobright.ai/jobs/info/69941ff681476f6176abdc20?utm_campaign=1055&utm_source=git)** | Newport News, VA | On Site | Feb 15 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[BlueWave](https://bluewave.energy/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/698fe9e70f6f7e7a2cec2ea9?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 13 |
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Legal Intern (Temporary Role) - FT - Days - Legal Services @ MV](https://jobright.ai/jobs/info/698fed346ea51a7610f25059?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Feb 13 |
 | **[Mona Shah & Associates Global](http://www.mshahlaw.com)** | **[Legal Internship](https://jobright.ai/jobs/info/698fe5976ea51a7610f24a4a?utm_campaign=1055&utm_source=git)** | New York, NY, NY 10016 | On Site | Feb 13 |
+| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Strategic Accounts, Compliance Intern](https://jobright.ai/jobs/info/698fee740f6f7e7a2cec3365?utm_campaign=1055&utm_source=git)** | San Mateo, CA, United States | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
