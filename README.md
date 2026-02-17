@@ -57,13 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Albany International Corp.](http://www.albint.com/)** | **[Sustainibility Intern-Corporate](https://jobright.ai/jobs/info/6993e083e0bddb6acac227d9?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Feb 16 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993ca69e0bddb6acac211fe?utm_campaign=1055&utm_source=git)** | Austin, TX, US | On Site | Feb 16 |
+| **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Corporate Compliance Operations Intern](https://jobright.ai/jobs/info/6993e82ace78e77b4fd7bd5f?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Feb 16 |
 | **[Fresenius Kabi USA](http://www.fresenius-kabi.us)** | **[Intern - Regulatory Affairs (Human Factors & CMC)](https://jobright.ai/jobs/info/6993dd07e0bddb6acac223bf?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
+| ↳ | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6993e476e0bddb6acac22c02?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
+| **[Aflac](http://www.aflac.com)** | **[2026 Summer Legal Intern](https://jobright.ai/jobs/info/6993e01cce78e77b4fd7b432?utm_campaign=1055&utm_source=git)** | Columbus, GA | Hybrid | Feb 16 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993d4fd81476f6176ab6fe1?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 16 |
+| **[Echelon Risk + Cyber](https://echeloncyber.com)** | **[Risk Advisory Intern - Remote (USA)](https://jobright.ai/jobs/info/6993f036e0bddb6acac23b66?utm_campaign=1055&utm_source=git)** | US | Remote | Feb 16 |
+| **[Langley Federal Credit Union](https://www.langleyfcu.org)** | **[Summer Intern- Legal and Compliance](https://jobright.ai/jobs/info/6993ec6dce78e77b4fd7c1ca?utm_campaign=1055&utm_source=git)** | Newport News, Virginia, United States | On Site | Feb 16 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993e74081476f6176ab84fe?utm_campaign=1055&utm_source=git)** | US-TX-Austin | On Site | Feb 16 |
+| **[Energy Transfer](http://www.energytransfer.com)** | **[Intern  Contract Adm](https://jobright.ai/jobs/info/6993e28281476f6176ab7ec0?utm_campaign=1055&utm_source=git)** | HOUSTON, Texas, United States | On Site | Feb 16 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Brand Protection Intern](https://jobright.ai/jobs/info/6993da3481476f6176ab747b?utm_campaign=1055&utm_source=git)** | Buffalo, NY, US | On Site | Feb 16 |
 | ↳ | **[Vendor Compliance Intern](https://jobright.ai/jobs/info/6993a48ce0bddb6acac1eb79?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Feb 16 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Contracts/Subcontracts Intern](https://jobright.ai/jobs/info/6993c399e0bddb6acac20d2a?utm_campaign=1055&utm_source=git)** | Alexandria, VA | On Site | Feb 16 |
 | **[Epicor](https://www.epicor.com)** | **[Intern / Legal](https://jobright.ai/jobs/info/6993a257e0bddb6acac1e94b?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 16 |
+| **[Aqua Finance, Inc.](https://www.aquafinance.com)** | **[Compliance Internship](https://jobright.ai/jobs/info/6993eecece78e77b4fd7c6e3?utm_campaign=1055&utm_source=git)** | Corporate_Cove | On Site | Feb 16 |
+| ↳ | **[Legal Internship](https://jobright.ai/jobs/info/6993eb9781476f6176ab8b98?utm_campaign=1055&utm_source=git)** | Corporate_Cove | On Site | Feb 16 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Brand Protection Intern](https://jobright.ai/jobs/info/6993be1b81476f6176ab5c24?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Feb 16 |
 | ↳ | **[Trade Compliance Intern](https://jobright.ai/jobs/info/6993b00881476f6176ab4ae3?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Feb 16 |
 | **[Aflac](http://www.aflac.com)** | **[2026 Summer Legal Intern](https://jobright.ai/jobs/info/6993bffcce78e77b4fd7969d?utm_campaign=1055&utm_source=git)** | GA, US, 31999 | Hybrid | Feb 16 |
@@ -121,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69901c646ea51a7610f28549?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Feb 13 |
 | ↳ | **[Intern, Legal](https://jobright.ai/jobs/info/69900e7a0cc8ea15f1dab68c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Feb 13 |
 | **[ISACA](http://www.isaca.org)** | **[Enterprise Risk Management Jr. Analyst Intern](https://jobright.ai/jobs/info/699018b60cc8ea15f1dac02c?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 13 |
-| **[Legal Aid of Western Missouri](https://www.lawmo.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6993de8681476f6176ab7927?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Feb 13 |
 | **[American Bar Association](http://www.americanbar.org/aba.html)** | **[CILA Spring 2026 Legal Intern (Paid Internship)](https://jobright.ai/jobs/info/698fd9816ea51a7610f24063?utm_campaign=1055&utm_source=git)** | TX CILA, 3605 Katy Freeway, Houston, Texas, United States of America | Hybrid | Feb 13 |
 | **[Leidos](https://www.leidos.com)** | **[Cyber Risk Intern - Supply Chain Risk Management](https://jobright.ai/jobs/info/6990358a6ea51a7610f2bba7?utm_campaign=1055&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Feb 13 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - Security Governance and Policy](https://jobright.ai/jobs/info/698ffe380cc8ea15f1da96cf?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kardigan](https://www.kardigan.bio)** | **[2026 Summer Intern - GxP Compliance (Undergraduate Student)](https://jobright.ai/jobs/info/698a85684db8972cecffdfe2?utm_campaign=1055&utm_source=git)** | South San Francisco, California, United States | On Site | Feb 13 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Legal Intern – Estate Administration](https://jobright.ai/jobs/info/698fcd196ea51a7610f2386d?utm_campaign=1055&utm_source=git)** | New York City, New York, United States of America | On Site | Feb 13 |
 | **[BlueWave](https://bluewave.energy/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/698fadb60f6f7e7a2cebf9bf?utm_campaign=1055&utm_source=git)** | Hybrid (Boston, Massachusetts, US) | Hybrid | Feb 13 |
-| **[Glatfelter Insurance Group](https://www.glatfelters.com/)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/699014446ea51a7610f27ea5?utm_campaign=1055&utm_source=git)** | York, PA, US | On Site | Feb 13 |
-| **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698ff6e10f6f7e7a2cec3c70?utm_campaign=1055&utm_source=git)** | Middle River, MD, USA | Hybrid | Feb 13 |
-| **[Michigan Advocacy Program](https://miadvocacy.org/)** | **[Summer Intern - Data Coordinator for Immigration Legal Services](https://jobright.ai/jobs/info/698fa3ae0f6f7e7a2cebf0d5?utm_campaign=1055&utm_source=git)** | Detroit, Grand Rapids, Kalamazoo, Lansing or Ypsilanti, Michigan, United States | Hybrid | Feb 13 |
-| **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Legal Internship- Children's Program](https://jobright.ai/jobs/info/698f95780cc8ea15f1da2af0?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Remote | Feb 13 |
-| **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | Feb 13 |
-| **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69738777206da320f49d853c?utm_campaign=1055&utm_source=git)** | Worcester, PA | On Site | Feb 13 |
-| **[HPC Industrial powered by Clean Harbors](www.hpc-industrial.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/698fc32e0cc8ea15f1da60e3?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Feb 13 |
-| **[GeoComply](https://www.geocomply.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/698f71260f6f7e7a2ceba947?utm_campaign=1055&utm_source=git)** | Vancouver, BC | On Site | Feb 13 |
-| **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Intern  Office of General Counsel](https://jobright.ai/jobs/info/698f78600cc8ea15f1da0482?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
