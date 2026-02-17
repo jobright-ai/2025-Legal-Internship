@@ -58,7 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993ca69e0bddb6acac211fe?utm_campaign=1055&utm_source=git)** | Austin, TX, US | On Site | Feb 16 |
-| **[New Era Cap](https://www.neweracap.com/)** | **[Vendor Compliance Intern](https://jobright.ai/jobs/info/6993a48ce0bddb6acac1eb79?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Feb 16 |
+| **[Fresenius Kabi USA](http://www.fresenius-kabi.us)** | **[Intern - Regulatory Affairs (Human Factors & CMC)](https://jobright.ai/jobs/info/6993dd07e0bddb6acac223bf?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993d4fd81476f6176ab6fe1?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 16 |
+| **[New Era Cap](https://www.neweracap.com/)** | **[Brand Protection Intern](https://jobright.ai/jobs/info/6993da3481476f6176ab747b?utm_campaign=1055&utm_source=git)** | Buffalo, NY, US | On Site | Feb 16 |
+| ↳ | **[Vendor Compliance Intern](https://jobright.ai/jobs/info/6993a48ce0bddb6acac1eb79?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Feb 16 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Contracts/Subcontracts Intern](https://jobright.ai/jobs/info/6993c399e0bddb6acac20d2a?utm_campaign=1055&utm_source=git)** | Alexandria, VA | On Site | Feb 16 |
 | **[Epicor](https://www.epicor.com)** | **[Intern / Legal](https://jobright.ai/jobs/info/6993a257e0bddb6acac1e94b?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 16 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Brand Protection Intern](https://jobright.ai/jobs/info/6993be1b81476f6176ab5c24?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Feb 16 |
@@ -67,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Epicor](https://www.epicor.com)** | **[Intern / Legal](https://jobright.ai/jobs/info/6993a2bbce78e77b4fd77666?utm_campaign=1055&utm_source=git)** | US, Austin Las Cimas | On Site | Feb 16 |
 | **[TechnipFMC](https://www.technipfmc.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6993837ee0bddb6acac1c8aa?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 16 |
 | **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Business and Technology Governance (May – August 2026)](https://jobright.ai/jobs/info/6993a27ce0bddb6acac1e976?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 16 |
-| **[Fresenius Kabi](https://www.fresenius-kabi.se)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6993965ae0bddb6acac1dd5d?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
-| ↳ | **[Intern - Regulatory Affairs (Human Factors & CMC)](https://jobright.ai/jobs/info/6993b71cce78e77b4fd78cb8?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
+| **[Fresenius Kabi](https://www.fresenius-kabi.se)** | **[Intern - Regulatory Affairs (Human Factors & CMC)](https://jobright.ai/jobs/info/6993b71cce78e77b4fd78cb8?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
+| ↳ | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6993965ae0bddb6acac1dd5d?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern Contract Adm](https://jobright.ai/jobs/info/699373e781476f6176ab0e9a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 16 |
 | **[American Oversight](https://www.americanoversight.org/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69939664ce78e77b4fd76859?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Feb 16 |
 | **[Town of Cary](https://www.carync.gov/)** | **[LEGAL INTERN](https://jobright.ai/jobs/info/69936a9f81476f6176ab07e6?utm_campaign=1055&utm_source=git)** | Cary, NC | On Site | Feb 16 |
@@ -118,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69901c646ea51a7610f28549?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Feb 13 |
 | ↳ | **[Intern, Legal](https://jobright.ai/jobs/info/69900e7a0cc8ea15f1dab68c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Feb 13 |
 | **[ISACA](http://www.isaca.org)** | **[Enterprise Risk Management Jr. Analyst Intern](https://jobright.ai/jobs/info/699018b60cc8ea15f1dac02c?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 13 |
+| **[Legal Aid of Western Missouri](https://www.lawmo.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6993de8681476f6176ab7927?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Feb 13 |
 | **[American Bar Association](http://www.americanbar.org/aba.html)** | **[CILA Spring 2026 Legal Intern (Paid Internship)](https://jobright.ai/jobs/info/698fd9816ea51a7610f24063?utm_campaign=1055&utm_source=git)** | TX CILA, 3605 Katy Freeway, Houston, Texas, United States of America | Hybrid | Feb 13 |
 | **[Leidos](https://www.leidos.com)** | **[Cyber Risk Intern - Supply Chain Risk Management](https://jobright.ai/jobs/info/6990358a6ea51a7610f2bba7?utm_campaign=1055&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Feb 13 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - Security Governance and Policy](https://jobright.ai/jobs/info/698ffe380cc8ea15f1da96cf?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HPC Industrial powered by Clean Harbors](www.hpc-industrial.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/698fc32e0cc8ea15f1da60e3?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Feb 13 |
 | **[GeoComply](https://www.geocomply.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/698f71260f6f7e7a2ceba947?utm_campaign=1055&utm_source=git)** | Vancouver, BC | On Site | Feb 13 |
 | **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Intern  Office of General Counsel](https://jobright.ai/jobs/info/698f78600cc8ea15f1da0482?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
-| **[KPMG Law Belgium](http://www.kpmglaw.be/)** | **[Summer internship KPMG Law 2026](https://jobright.ai/jobs/info/698f4a0e0cc8ea15f1d9c587?utm_campaign=1055&utm_source=git)** | All, MO | On Site | Feb 13 |
-| **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Summer Legal Associate, Federal Policy and Advocacy](https://jobright.ai/jobs/info/691e4a50a49a885af9a27458?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 13 |
-| **[KPMG Belgium](https://www.kpmg.com/be)** | **[Summer internship KPMG Law 2026](https://jobright.ai/jobs/info/698f44ae6ea51a7610f18b75?utm_campaign=1055&utm_source=git)** | All, MO | On Site | Feb 13 |
-| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6959e3b7aa05c26e7ab384f5?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
