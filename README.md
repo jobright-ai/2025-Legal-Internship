@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2026 Internship Program: Regulatory Affairs Intern - Shelton, CT, US](https://jobright.ai/jobs/info/695c5b71f1f8465b79f2807e?utm_campaign=1055&utm_source=git)** | Shelton, CT | On Site | Feb 17 |
 | **[Glencore](http://glencore.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6991532c6ea51a7610f39fb1?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 17 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Legal Intern, NA](https://jobright.ai/jobs/info/695c7b799a87b95a9397cbf3?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 17 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Legal Intern (1L)](https://jobright.ai/jobs/info/69409919aa598a08c3f0437d?utm_campaign=1055&utm_source=git)** | Olathe, KS | On Site | Feb 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BlueWave](https://bluewave.energy/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/698fe9e70f6f7e7a2cec2ea9?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 13 |
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Legal Intern (Temporary Role) - FT - Days - Legal Services @ MV](https://jobright.ai/jobs/info/698fed346ea51a7610f25059?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Feb 13 |
 | **[Mona Shah & Associates Global](http://www.mshahlaw.com)** | **[Legal Internship](https://jobright.ai/jobs/info/698fe5976ea51a7610f24a4a?utm_campaign=1055&utm_source=git)** | New York, NY, NY 10016 | On Site | Feb 13 |
-| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Strategic Accounts, Compliance Intern](https://jobright.ai/jobs/info/698fee740f6f7e7a2cec3365?utm_campaign=1055&utm_source=git)** | San Mateo, CA, United States | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
