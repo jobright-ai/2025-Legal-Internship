@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/695c324922c9dc0d3d5410fe?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 17 |
+| **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Sovereign Guarantee Operations Legal Intern](https://jobright.ai/jobs/info/69942e02e0bddb6acac29407?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Feb 17 |
+| ↳ | **[IDB. Corporate Legal Affairs Support Intern](https://jobright.ai/jobs/info/69942b8be0bddb6acac291af?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Feb 17 |
+| ↳ | **[IDB Invest. Legal Department's Compliance Unit Intern](https://jobright.ai/jobs/info/69942a35ce78e77b4fd81ef8?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Office of Ethics Investigations Intern](https://jobright.ai/jobs/info/69941e2f81476f6176abda83?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Feb 16 |
 | ↳ | **[IDB. Transparency Support Intern](https://jobright.ai/jobs/info/6994196781476f6176abd5c2?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Feb 16 |
+| ↳ | **[IDB. Ethics Prevention Intern](https://jobright.ai/jobs/info/6994311ae0bddb6acac2975b?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Feb 16 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/69940754e0bddb6acac25f95?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Feb 16 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Sustainibility Intern-Corporate](https://jobright.ai/jobs/info/6993e083e0bddb6acac227d9?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Feb 16 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993ca69e0bddb6acac211fe?utm_campaign=1055&utm_source=git)** | Austin, TX, US | On Site | Feb 16 |
@@ -126,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[The Beck Group](http://www.beckgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6973e226bc8e722e7b18b574?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Feb 14 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern - Corporate Affairs](https://jobright.ai/jobs/info/69741f7d37785856350e18a9?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Feb 14 |
 | **[Wonderful Orchards](http://wonderfulorchards.com)** | **[Property & Compliance Intern](https://jobright.ai/jobs/info/69902d780cc8ea15f1daeaf8?utm_campaign=1055&utm_source=git)** | Shafter, CA | On Site | Feb 14 |
-| **[Hays County](http://hayscountytx.com)** | **[Justice Clerk Intern (Undergrad or Graduate Seniors)](https://jobright.ai/jobs/info/69902f1e0f6f7e7a2cec9ad8?utm_campaign=1055&utm_source=git)** | San Marcos, TX | On Site | Feb 13 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Strategic Accounts, Compliance Intern](https://jobright.ai/jobs/info/699019080f6f7e7a2cec6a49?utm_campaign=1055&utm_source=git)** | San Mateo, CA | Hybrid | Feb 13 |
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2026 Legal Intern - NY](https://jobright.ai/jobs/info/6994063ae0bddb6acac25da5?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 13 |
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Legal Intern (Temporary Role) - FT - Days - Legal Services @ MV](https://jobright.ai/jobs/info/69901aec0f6f7e7a2cec6bcb?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Feb 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marvell Technology](https://www.marvell.com/)** | **[Sales Contracts Intern - Bachelor's Degree](https://jobright.ai/jobs/info/698f9a010cc8ea15f1da3059?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Feb 13 |
 | **[Vocon](http://vocon.com)** | **[Vocon Internships (CLE)](https://jobright.ai/jobs/info/698f99be0cc8ea15f1da3036?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Feb 13 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Legal Intern – Fiduciary Trust International of Delaware](https://jobright.ai/jobs/info/698f96df0f6f7e7a2cebdbc4?utm_campaign=1055&utm_source=git)** | Wilmington, Delaware, United States of America | On Site | Feb 13 |
-| **[GeoComply](https://www.geocomply.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/698f91eb0f6f7e7a2cebd5d4?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 13 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[SUS Governance Specialist - 2026 Intern](https://jobright.ai/jobs/info/698fba4d0f6f7e7a2cec0680?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 13 |
-| **[Northwood](https://www.northwoodspace.io)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/698f88670cc8ea15f1da17d4?utm_campaign=1055&utm_source=git)** | Torrance, CA | On Site | Feb 13 |
-| **[Weyerhaeuser](https://www.weyerhaeuser.com/)** | **[Income Tax Compliance Internship](https://jobright.ai/jobs/info/698fab530f6f7e7a2cebf7c4?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
