@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993ca69e0bddb6acac211fe?utm_campaign=1055&utm_source=git)** | Austin, TX, US | On Site | Feb 16 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Vendor Compliance Intern](https://jobright.ai/jobs/info/6993a48ce0bddb6acac1eb79?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Feb 16 |
+| **[Systems Planning & Analysis](http://www.spa.com)** | **[Contracts/Subcontracts Intern](https://jobright.ai/jobs/info/6993c399e0bddb6acac20d2a?utm_campaign=1055&utm_source=git)** | Alexandria, VA | On Site | Feb 16 |
 | **[Epicor](https://www.epicor.com)** | **[Intern / Legal](https://jobright.ai/jobs/info/6993a257e0bddb6acac1e94b?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 16 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Brand Protection Intern](https://jobright.ai/jobs/info/6993be1b81476f6176ab5c24?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Feb 16 |
 | ↳ | **[Trade Compliance Intern](https://jobright.ai/jobs/info/6993b00881476f6176ab4ae3?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Feb 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Summer Legal Associate, Federal Policy and Advocacy](https://jobright.ai/jobs/info/691e4a50a49a885af9a27458?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 13 |
 | **[KPMG Belgium](https://www.kpmg.com/be)** | **[Summer internship KPMG Law 2026](https://jobright.ai/jobs/info/698f44ae6ea51a7610f18b75?utm_campaign=1055&utm_source=git)** | All, MO | On Site | Feb 13 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6959e3b7aa05c26e7ab384f5?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 13 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/699016f46ea51a7610f280df?utm_campaign=1055&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Feb 13 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/698ed8660f6f7e7a2ceb0085?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
