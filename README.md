@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/6975a754bc8e722e7b1a8214?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 17 |
+| **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – DSPV Compliance](https://jobright.ai/jobs/info/6986cde38da7a6120461c5fd?utm_campaign=1055&utm_source=git)** | Headquarters, NJ | Hybrid | Feb 17 |
 | **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/695c324922c9dc0d3d5410fe?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 17 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Sovereign Guarantee Operations Legal Intern](https://jobright.ai/jobs/info/69942e02e0bddb6acac29407?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | ↳ | **[IDB. Corporate Legal Affairs Support Intern](https://jobright.ai/jobs/info/69942b8be0bddb6acac291af?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Feb 17 |
@@ -87,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Epicor](https://www.epicor.com)** | **[Intern / Legal](https://jobright.ai/jobs/info/6993a2bbce78e77b4fd77666?utm_campaign=1055&utm_source=git)** | US, Austin Las Cimas | On Site | Feb 16 |
 | **[TechnipFMC](https://www.technipfmc.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6993837ee0bddb6acac1c8aa?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 16 |
 | **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Business and Technology Governance (May – August 2026)](https://jobright.ai/jobs/info/6993a27ce0bddb6acac1e976?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 16 |
-| **[Fresenius Kabi](https://www.fresenius-kabi.se)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6993965ae0bddb6acac1dd5d?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
-| ↳ | **[Intern - Regulatory Affairs (Human Factors & CMC)](https://jobright.ai/jobs/info/6993b71cce78e77b4fd78cb8?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
+| **[Fresenius Kabi](https://www.fresenius-kabi.se)** | **[Intern - Regulatory Affairs (Human Factors & CMC)](https://jobright.ai/jobs/info/6993b71cce78e77b4fd78cb8?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
+| ↳ | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6993965ae0bddb6acac1dd5d?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern Contract Adm](https://jobright.ai/jobs/info/699373e781476f6176ab0e9a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 16 |
 | **[American Oversight](https://www.americanoversight.org/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69939664ce78e77b4fd76859?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Feb 16 |
 | **[Town of Cary](https://www.carync.gov/)** | **[LEGAL INTERN](https://jobright.ai/jobs/info/69936a9f81476f6176ab07e6?utm_campaign=1055&utm_source=git)** | Cary, NC | On Site | Feb 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern- Risk - Temporary](https://jobright.ai/jobs/info/698fd0250f6f7e7a2cec1b52?utm_campaign=1055&utm_source=git)** | Rochester, MN, United States | Hybrid | Feb 13 |
 | **[KCH Transportation](https://www.kchtrans.com)** | **[Carrier Compliance Intern](https://jobright.ai/jobs/info/69602feea1bbea1d9a7b03e3?utm_campaign=1055&utm_source=git)** | Chattanooga, TN | On Site | Feb 13 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Sales Contracts Intern - Bachelor's Degree](https://jobright.ai/jobs/info/698f9a010cc8ea15f1da3059?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Feb 13 |
-| **[Vocon](http://vocon.com)** | **[Vocon Internships (CLE)](https://jobright.ai/jobs/info/698f99be0cc8ea15f1da3036?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Feb 13 |
-| **[Franklin Templeton](http://www.franklintempleton.com)** | **[Legal Intern – Fiduciary Trust International of Delaware](https://jobright.ai/jobs/info/698f96df0f6f7e7a2cebdbc4?utm_campaign=1055&utm_source=git)** | Wilmington, Delaware, United States of America | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
