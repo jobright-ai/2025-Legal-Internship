@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Paralegal Intern](https://jobright.ai/jobs/info/697986f9ca92cf0d6a82af70?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 18 |
+| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Risk Management](https://jobright.ai/jobs/info/697958ee39f7f96cc6d1ce88?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Feb 18 |
+| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6978eb5152f3c27ec6452692?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Feb 18 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Trust Services Internship Program - Early Careers](https://jobright.ai/jobs/info/69959773ce78e77b4fd9ba89?utm_campaign=1055&utm_source=git)** | Winston-Salem, NC | On Site | Feb 18 |
 | ↳ | **[2026 Trust Services Internship Program - Early Careers](https://jobright.ai/jobs/info/6995a2e6e0bddb6acac42d42?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 18 |
+| ↳ | **[2026 Trust Services Internship Program - Early Careers](https://jobright.ai/jobs/info/6995b3d4ce78e77b4fd9c90a?utm_campaign=1055&utm_source=git)** | Long Beach, CA | On Site | Feb 18 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/6995398ce0bddb6acac3c220?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Feb 17 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Summer Intern - NJ Lawyers' Fund](https://jobright.ai/jobs/info/69952dd8e0bddb6acac3b5a0?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Feb 17 |
 | **[Super.com](https://www.super.com)** | **[In-House Legal Intern](https://jobright.ai/jobs/info/69956237ce78e77b4fd98acf?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 17 |
@@ -80,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[SAS](http://www.sas.com)** | **[Cybersecurity Risk & Compliance Intern (Year-Round)](https://jobright.ai/jobs/info/69953dbce0bddb6acac3c857?utm_campaign=1055&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 17 |
 | ↳ | **[Cybersecurity Risk & Compliance Intern (Year-Round)](https://jobright.ai/jobs/info/69952b4181476f6176ad0908?utm_campaign=1055&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 17 |
 | ↳ | **[Cybersecurity Risk & Compliance Intern (Year-Round)](https://jobright.ai/jobs/info/69953592ce78e77b4fd95111?utm_campaign=1055&utm_source=git)** | North Carolina | Hybrid | Feb 17 |
-| **[CarePartners](https://www.carepartners.ca/)** | **[Summer Law Student 2026 / Summer Research Law Student 2026 / Summer Legal Research Intern 2026](https://jobright.ai/jobs/info/69953f38ce78e77b4fd95c09?utm_campaign=1055&utm_source=git)** | CA-ON-Waterloo | On Site | Feb 17 |
-| ↳ | **[Summer Law Student 2026 / Summer Research Law Student 2026 / Summer Legal Research Intern 2026](https://jobright.ai/jobs/info/6995360c81476f6176ad1660?utm_campaign=1055&utm_source=git)** | Waterloo, ON, CA | On Site | Feb 17 |
+| **[CarePartners](https://www.carepartners.ca/)** | **[Summer Law Student 2026 / Summer Research Law Student 2026 / Summer Legal Research Intern 2026](https://jobright.ai/jobs/info/6995360c81476f6176ad1660?utm_campaign=1055&utm_source=git)** | Waterloo, ON, CA | On Site | Feb 17 |
+| ↳ | **[Summer Law Student 2026 / Summer Research Law Student 2026 / Summer Legal Research Intern 2026](https://jobright.ai/jobs/info/69953f38ce78e77b4fd95c09?utm_campaign=1055&utm_source=git)** | CA-ON-Waterloo | On Site | Feb 17 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[AML Compliance Intern](https://jobright.ai/jobs/info/6994fdc4ce78e77b4fd912a6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 17 |
 | **[Teacher Retirement System of Texas](http://www.trs.texas.gov)** | **[Safety & Security Intern (Summer 2026)](https://jobright.ai/jobs/info/69951c5581476f6176acf9d6?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 17 |
 | **[ALO](https://www.aloyoga.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6994fa7ce0bddb6acac37f62?utm_campaign=1055&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 17 |
@@ -107,16 +111,16 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Year-Round Intern, Workforce & Workplace Management Conflicts of Interest Intern – Division of Supervision & Regulation](https://jobright.ai/jobs/info/6994b85681476f6176ac7a65?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Legal Intern, NYC](https://jobright.ai/jobs/info/6940726caa598a08c3f0101e?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 17 |
 | **[Enviri](https://www.enviri.com)** | **[Environmental Compliance Intern](https://jobright.ai/jobs/info/6994d97881476f6176acacd4?utm_campaign=1055&utm_source=git)** | 933 1st Ave, King of Prussia, PA 19406, USA | Hybrid | Feb 17 |
-| **[CoBank](http://www.cobank.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6994e6afe0bddb6acac367f3?utm_campaign=1055&utm_source=git)** | US-CO-Greenwood Village | Hybrid | Feb 17 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6994ee67ce78e77b4fd9022f?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO, US | Hybrid | Feb 17 |
+| **[CoBank](http://www.cobank.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6994ee67ce78e77b4fd9022f?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO, US | Hybrid | Feb 17 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6994e6afe0bddb6acac367f3?utm_campaign=1055&utm_source=git)** | US-CO-Greenwood Village | Hybrid | Feb 17 |
 | **[McCain Foods](http://www.mccain.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6978803952f3c27ec644d1ff?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 17 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Santa Fe)](https://jobright.ai/jobs/info/6968f2ee639b452fb57ec4ef?utm_campaign=1055&utm_source=git)** | Santa Fe, NM | On Site | Feb 17 |
 | **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Legal - Commercial Transactions Intern](https://jobright.ai/jobs/info/6994dd73ce78e77b4fd8ed04?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Feb 17 |
-| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Intellectual Property, Holland & Hart (Denver)](https://jobright.ai/jobs/info/69690bfcf25a380066979a9f?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 17 |
-| ↳ | **[Summer Law Clerk – Corporate, Holland & Hart (Denver)](https://jobright.ai/jobs/info/696f39ad0f4e0f657ea391bb?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 17 |
+| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Corporate, Holland & Hart (Denver)](https://jobright.ai/jobs/info/696f39ad0f4e0f657ea391bb?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 17 |
+| ↳ | **[Summer Law Clerk – Intellectual Property, Holland & Hart (Denver)](https://jobright.ai/jobs/info/69690bfcf25a380066979a9f?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 17 |
 | ↳ | **[Summer Law Clerk – Patent Systems, Holland & Hart (Boulder)](https://jobright.ai/jobs/info/69690f671703f05405aae4b8?utm_campaign=1055&utm_source=git)** | Boulder, CO | On Site | Feb 17 |
-| ↳ | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Helena)](https://jobright.ai/jobs/info/696902b9f25a3800669795e8?utm_campaign=1055&utm_source=git)** | Helena, MT | On Site | Feb 17 |
 | ↳ | **[Summer Law Clerk – Labor & Employment, Holland & Hart (Salt Lake City)](https://jobright.ai/jobs/info/696b2baf350cf43803127f7a?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Feb 17 |
+| ↳ | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Helena)](https://jobright.ai/jobs/info/696902b9f25a3800669795e8?utm_campaign=1055&utm_source=git)** | Helena, MT | On Site | Feb 17 |
 | ↳ | **[Summer Law Clerk – Commercial Litigation, Holland & Hart (Helena)](https://jobright.ai/jobs/info/6968f1b3639b452fb57ec4cb?utm_campaign=1055&utm_source=git)** | Helena, MT | On Site | Feb 17 |
 | **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/698a715d4db8972cecffc137?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 17 |
 | **[Clean Earth](http://www.phoenixsoilllc.com/)** | **[Environmental Compliance Intern](https://jobright.ai/jobs/info/6994c6d881476f6176ac957a?utm_campaign=1055&utm_source=git)** | King of Prussia, PA | Hybrid | Feb 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aflac](http://www.aflac.com)** | **[2026 Summer Legal Intern](https://jobright.ai/jobs/info/6993e01cce78e77b4fd7b432?utm_campaign=1055&utm_source=git)** | Columbus, GA | Hybrid | Feb 16 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993d4fd81476f6176ab6fe1?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 16 |
 | **[Echelon Risk + Cyber](https://echeloncyber.com)** | **[Risk Advisory Intern - Remote (USA)](https://jobright.ai/jobs/info/69957c4ee0bddb6acac413bc?utm_campaign=1055&utm_source=git)** | US | Remote | Feb 16 |
-| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993e74081476f6176ab84fe?utm_campaign=1055&utm_source=git)** | US-TX-Austin | On Site | Feb 16 |
-| **[Energy Transfer](http://www.energytransfer.com)** | **[Intern  Contract Adm](https://jobright.ai/jobs/info/6993e28281476f6176ab7ec0?utm_campaign=1055&utm_source=git)** | HOUSTON, Texas, United States | On Site | Feb 16 |
-| **[New Era Cap](https://www.neweracap.com/)** | **[Brand Protection Intern](https://jobright.ai/jobs/info/6993da3481476f6176ab747b?utm_campaign=1055&utm_source=git)** | Buffalo, NY, US | On Site | Feb 16 |
-| **[Super.com](https://www.super.com)** | **[In-House Legal Intern](https://jobright.ai/jobs/info/6994ff59ce78e77b4fd914df?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
