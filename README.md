@@ -59,6 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Paralegal Intern](https://jobright.ai/jobs/info/697986f9ca92cf0d6a82af70?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 18 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Risk Management](https://jobright.ai/jobs/info/697958ee39f7f96cc6d1ce88?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Feb 18 |
+| **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Legal Consumer Regulatory, Operations, and Product Support](https://jobright.ai/jobs/info/698e0cc878b4502f12a4d63c?utm_campaign=1055&utm_source=git)** | Columbus, OH | Hybrid | Feb 18 |
+| **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Summer Legal Intern](https://jobright.ai/jobs/info/6979a9720791bc1d72307a08?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Feb 18 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Summer Legal Intern](https://jobright.ai/jobs/info/6979a8d4ca92cf0d6a82f586?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Feb 18 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6978eb5152f3c27ec6452692?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Feb 18 |
 | **[United States Court of Appeals for the Sixth Circuit](https://www.ca6.uscourts.gov/)** | **[Appellate Mediation Intern](https://jobright.ai/jobs/info/6995c31c81476f6176ad94ae?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 18 |
@@ -113,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Year-Round Intern, Workforce & Workplace Management Conflicts of Interest Intern – Division of Supervision & Regulation](https://jobright.ai/jobs/info/6994b85681476f6176ac7a65?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Legal Intern, NYC](https://jobright.ai/jobs/info/6940726caa598a08c3f0101e?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 17 |
 | **[Enviri](https://www.enviri.com)** | **[Environmental Compliance Intern](https://jobright.ai/jobs/info/6994d97881476f6176acacd4?utm_campaign=1055&utm_source=git)** | 933 1st Ave, King of Prussia, PA 19406, USA | Hybrid | Feb 17 |
-| **[CoBank](http://www.cobank.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6994e6afe0bddb6acac367f3?utm_campaign=1055&utm_source=git)** | US-CO-Greenwood Village | Hybrid | Feb 17 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6994ee67ce78e77b4fd9022f?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO, US | Hybrid | Feb 17 |
+| **[CoBank](http://www.cobank.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6994ee67ce78e77b4fd9022f?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO, US | Hybrid | Feb 17 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6994e6afe0bddb6acac367f3?utm_campaign=1055&utm_source=git)** | US-CO-Greenwood Village | Hybrid | Feb 17 |
 | **[McCain Foods](http://www.mccain.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6978803952f3c27ec644d1ff?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 17 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Santa Fe)](https://jobright.ai/jobs/info/6968f2ee639b452fb57ec4ef?utm_campaign=1055&utm_source=git)** | Santa Fe, NM | On Site | Feb 17 |
 | **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Legal - Commercial Transactions Intern](https://jobright.ai/jobs/info/6994dd73ce78e77b4fd8ed04?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Feb 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Albany International Corp.](http://www.albint.com/)** | **[Sustainibility Intern-Corporate](https://jobright.ai/jobs/info/6993e083e0bddb6acac227d9?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Feb 16 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993ca69e0bddb6acac211fe?utm_campaign=1055&utm_source=git)** | Austin, TX, US | On Site | Feb 16 |
 | **[Fresenius Kabi USA](http://www.fresenius-kabi.us)** | **[Intern - Regulatory Affairs (Human Factors & CMC)](https://jobright.ai/jobs/info/6993dd07e0bddb6acac223bf?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
-| ↳ | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6993e476e0bddb6acac22c02?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
-| **[Aflac](http://www.aflac.com)** | **[2026 Summer Legal Intern](https://jobright.ai/jobs/info/6993e01cce78e77b4fd7b432?utm_campaign=1055&utm_source=git)** | Columbus, GA | Hybrid | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
