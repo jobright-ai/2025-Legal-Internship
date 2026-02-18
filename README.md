@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Summer Intern - NJ Lawyers' Fund](https://jobright.ai/jobs/info/69952dd8e0bddb6acac3b5a0?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Feb 17 |
 | **[Werfen](http://www.werfen.com/)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/69951b43ce78e77b4fd93297?utm_campaign=1055&utm_source=git)** | US-CA-San Diego | On Site | Feb 17 |
 | **[DEKA Research & Development](http://www.dekaresearch.com)** | **[Regulatory Affairs- Internship- Summer 2026](https://jobright.ai/jobs/info/69951b18ce78e77b4fd93268?utm_campaign=1055&utm_source=git)** | Manchester, NH | On Site | Feb 17 |
 | **[Yakima County Government](https://www.yakimacounty.us/)** | **[Legal Intern (L1)](https://jobright.ai/jobs/info/69951a9d81476f6176acf7fe?utm_campaign=1055&utm_source=git)** | Yakima County Courthouse | On Site | Feb 17 |
@@ -64,11 +65,17 @@ For a complete list, click the following sortable link below:
 | **[SAS](http://www.sas.com)** | **[Cybersecurity Risk & Compliance Intern (Year-Round)](https://jobright.ai/jobs/info/6995174d81476f6176acf4b5?utm_campaign=1055&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 17 |
 | **[Suffolk Construction](https://www.suffolk.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6995169b81476f6176acf417?utm_campaign=1055&utm_source=git)** | US-MA-Boston | On Site | Feb 17 |
 | **[ALO](https://www.aloyoga.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6995121e81476f6176acf11d?utm_campaign=1055&utm_source=git)** | Beverly Hills, CA | On Site | Feb 17 |
+| **[First Onsite Property Restoration](https://firstonsite.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/699529cb81476f6176ad0768?utm_campaign=1055&utm_source=git)** | 6200 South Syracuse Way, Greenwood Village, CO, USA | On Site | Feb 17 |
+| **[SAS](http://www.sas.com)** | **[Cybersecurity Risk & Compliance Intern (Year-Round)](https://jobright.ai/jobs/info/6995226ce0bddb6acac3aa02?utm_campaign=1055&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 17 |
+| **[Werfen](http://www.werfen.com/)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/699524c081476f6176ad0267?utm_campaign=1055&utm_source=git)** | San Diego, CA, US | On Site | Feb 17 |
 | **[Constellation Brands](http://cbrands.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/699502bbce78e77b4fd918ab?utm_campaign=1055&utm_source=git)** | Rochester, NY | Hybrid | Feb 17 |
+| **[United States Court of Appeals for the Sixth Circuit](https://www.ca6.uscourts.gov/)** | **[Appellate Mediation Intern](https://jobright.ai/jobs/info/6995276e81476f6176ad04fd?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 17 |
+| **[SAS](http://www.sas.com)** | **[Cybersecurity Risk & Compliance Intern (Year-Round)](https://jobright.ai/jobs/info/69952b4181476f6176ad0908?utm_campaign=1055&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 17 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[AML Compliance Intern](https://jobright.ai/jobs/info/6994fdc4ce78e77b4fd912a6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 17 |
 | **[Teacher Retirement System of Texas](http://www.trs.texas.gov)** | **[Safety & Security Intern (Summer 2026)](https://jobright.ai/jobs/info/69951c5581476f6176acf9d6?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 17 |
 | **[ALO](https://www.aloyoga.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6994fa7ce0bddb6acac37f62?utm_campaign=1055&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 17 |
 | **[QBS Consulting Group LLC](https://qbsus.com/)** | **[Office & Compliance Intern](https://jobright.ai/jobs/info/69951579ce78e77b4fd92e24?utm_campaign=1055&utm_source=git)** | Greater Houston | On Site | Feb 17 |
+| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Commercial Litigation, Holland & Hart (Denver)](https://jobright.ai/jobs/info/69690709639b452fb57ed130?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 17 |
 | **[Spirit of America](https://spiritofamerica.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69951aa2e0bddb6acac3a3ac?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Feb 17 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Compliance AI Intern](https://jobright.ai/jobs/info/6994ddf5e0bddb6acac35cbc?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 17 |
 | **[CoBank](http://www.cobank.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6994dd42e0bddb6acac35bd4?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | Hybrid | Feb 17 |
@@ -94,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[McCain Foods](https://www.mccain.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/6978803952f3c27ec644d1ff?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 17 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Santa Fe)](https://jobright.ai/jobs/info/6968f2ee639b452fb57ec4ef?utm_campaign=1055&utm_source=git)** | Santa Fe, NM | On Site | Feb 17 |
 | **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Legal - Commercial Transactions Intern](https://jobright.ai/jobs/info/6994dd73ce78e77b4fd8ed04?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Feb 17 |
-| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Corporate, Holland & Hart (Denver)](https://jobright.ai/jobs/info/696f39ad0f4e0f657ea391bb?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 17 |
-| ↳ | **[Summer Law Clerk – Intellectual Property, Holland & Hart (Denver)](https://jobright.ai/jobs/info/69690bfcf25a380066979a9f?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 17 |
+| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Intellectual Property, Holland & Hart (Denver)](https://jobright.ai/jobs/info/69690bfcf25a380066979a9f?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 17 |
+| ↳ | **[Summer Law Clerk – Corporate, Holland & Hart (Denver)](https://jobright.ai/jobs/info/696f39ad0f4e0f657ea391bb?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 17 |
 | ↳ | **[Summer Law Clerk – Patent Systems, Holland & Hart (Boulder)](https://jobright.ai/jobs/info/69690f671703f05405aae4b8?utm_campaign=1055&utm_source=git)** | Boulder, CO | On Site | Feb 17 |
 | ↳ | **[Summer Law Clerk – Labor & Employment, Holland & Hart (Salt Lake City)](https://jobright.ai/jobs/info/696b2baf350cf43803127f7a?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Feb 17 |
 | ↳ | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Helena)](https://jobright.ai/jobs/info/696902b9f25a3800669795e8?utm_campaign=1055&utm_source=git)** | Helena, MT | On Site | Feb 17 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Business and Technology Governance (May – August 2026)](https://jobright.ai/jobs/info/6993a27ce0bddb6acac1e976?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 16 |
 | **[Fresenius Kabi](https://www.fresenius-kabi.se)** | **[Intern - Regulatory Affairs (Human Factors & CMC)](https://jobright.ai/jobs/info/6993b71cce78e77b4fd78cb8?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
 | ↳ | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6993965ae0bddb6acac1dd5d?utm_campaign=1055&utm_source=git)** | Lake Zurich, IL | On Site | Feb 16 |
-| **[Energy Transfer](http://www.energytransfer.com)** | **[Intern Contract Adm](https://jobright.ai/jobs/info/699373e781476f6176ab0e9a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Feb 16 |
-| **[American Oversight](https://www.americanoversight.org/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69939664ce78e77b4fd76859?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Feb 16 |
-| **[Town of Cary](https://www.carync.gov/)** | **[LEGAL INTERN](https://jobright.ai/jobs/info/69936a9f81476f6176ab07e6?utm_campaign=1055&utm_source=git)** | Cary, NC | On Site | Feb 16 |
-| **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Student Intern (Quality & Regulatory Affairs)](https://jobright.ai/jobs/info/6993887881476f6176ab1eaa?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 16 |
-| **[Stikeman Elliott LLP](http://www.stikeman.com/)** | **[Stagiaire, Adjoint(e) juridique / Intern, Legal Administrative Assistant](https://jobright.ai/jobs/info/699391a4e0bddb6acac1d9b0?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 16 |
-| **[Darley](http://darley.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6993ac4ace78e77b4fd78000?utm_campaign=1055&utm_source=git)** | Itasca,IL,US | On Site | Feb 16 |
-| **[EXL](http://www.exlservice.com)** | **[INTERN - Contract Review](https://jobright.ai/jobs/info/6993993081476f6176ab2c77?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
