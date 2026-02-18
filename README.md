@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Trust Services Internship Program - Early Careers](https://jobright.ai/jobs/info/69959773ce78e77b4fd9ba89?utm_campaign=1055&utm_source=git)** | Winston-Salem, NC | On Site | Feb 18 |
+| ↳ | **[2026 Trust Services Internship Program - Early Careers](https://jobright.ai/jobs/info/6995a2e6e0bddb6acac42d42?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/6995398ce0bddb6acac3c220?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Feb 17 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Summer Intern - NJ Lawyers' Fund](https://jobright.ai/jobs/info/69952dd8e0bddb6acac3b5a0?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Feb 17 |
 | **[Super.com](https://www.super.com)** | **[In-House Legal Intern](https://jobright.ai/jobs/info/69956237ce78e77b4fd98acf?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 17 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Suffolk Construction](https://www.suffolk.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6995169b81476f6176acf417?utm_campaign=1055&utm_source=git)** | US-MA-Boston | On Site | Feb 17 |
 | ↳ | **[Risk Management Intern](https://jobright.ai/jobs/info/69954346ce78e77b4fd9603d?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 17 |
 | **[ALO](https://www.aloyoga.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6995121e81476f6176acf11d?utm_campaign=1055&utm_source=git)** | Beverly Hills, CA | On Site | Feb 17 |
-| **[First Onsite Property Restoration](https://firstonsite.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/699529cb81476f6176ad0768?utm_campaign=1055&utm_source=git)** | 6200 South Syracuse Way, Greenwood Village, CO, USA | On Site | Feb 17 |
 | **[Suffolk Construction](https://www.suffolk.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69952e73e0bddb6acac3b65b?utm_campaign=1055&utm_source=git)** | Boston, MA, US | On Site | Feb 17 |
 | **[SAS](http://www.sas.com)** | **[Cybersecurity Risk & Compliance Intern (Year-Round)](https://jobright.ai/jobs/info/6995226ce0bddb6acac3aa02?utm_campaign=1055&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 17 |
 | **[Werfen](http://www.werfen.com/)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/699524c081476f6176ad0267?utm_campaign=1055&utm_source=git)** | San Diego, CA, US | On Site | Feb 17 |
@@ -111,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[McCain Foods](https://www.mccain.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/6978803952f3c27ec644d1ff?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 17 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Santa Fe)](https://jobright.ai/jobs/info/6968f2ee639b452fb57ec4ef?utm_campaign=1055&utm_source=git)** | Santa Fe, NM | On Site | Feb 17 |
 | **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Legal - Commercial Transactions Intern](https://jobright.ai/jobs/info/6994dd73ce78e77b4fd8ed04?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Feb 17 |
-| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Corporate, Holland & Hart (Denver)](https://jobright.ai/jobs/info/696f39ad0f4e0f657ea391bb?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 17 |
-| ↳ | **[Summer Law Clerk – Intellectual Property, Holland & Hart (Denver)](https://jobright.ai/jobs/info/69690bfcf25a380066979a9f?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 17 |
+| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Intellectual Property, Holland & Hart (Denver)](https://jobright.ai/jobs/info/69690bfcf25a380066979a9f?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 17 |
+| ↳ | **[Summer Law Clerk – Corporate, Holland & Hart (Denver)](https://jobright.ai/jobs/info/696f39ad0f4e0f657ea391bb?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 17 |
 | ↳ | **[Summer Law Clerk – Patent Systems, Holland & Hart (Boulder)](https://jobright.ai/jobs/info/69690f671703f05405aae4b8?utm_campaign=1055&utm_source=git)** | Boulder, CO | On Site | Feb 17 |
 | ↳ | **[Summer Law Clerk – Labor & Employment, Holland & Hart (Salt Lake City)](https://jobright.ai/jobs/info/696b2baf350cf43803127f7a?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Feb 17 |
 | ↳ | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Helena)](https://jobright.ai/jobs/info/696902b9f25a3800669795e8?utm_campaign=1055&utm_source=git)** | Helena, MT | On Site | Feb 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New Era Cap](https://www.neweracap.com/)** | **[Brand Protection Intern](https://jobright.ai/jobs/info/6993da3481476f6176ab747b?utm_campaign=1055&utm_source=git)** | Buffalo, NY, US | On Site | Feb 16 |
 | **[Super.com](https://www.super.com)** | **[In-House Legal Intern](https://jobright.ai/jobs/info/6994ff59ce78e77b4fd914df?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 16 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Vendor Compliance Intern](https://jobright.ai/jobs/info/6993a48ce0bddb6acac1eb79?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Feb 16 |
-| **[Systems Planning & Analysis](http://www.spa.com)** | **[Contracts/Subcontracts Intern](https://jobright.ai/jobs/info/6993c399e0bddb6acac20d2a?utm_campaign=1055&utm_source=git)** | Alexandria, VA | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
