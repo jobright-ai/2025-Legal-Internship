@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PHINIA](https://phinia.com)** | **[Supplier Compliance and Sustainability Intern - Year Round](https://jobright.ai/jobs/info/6997685de0bddb6acac62138?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Feb 19 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/699766e5e0bddb6acac61fbe?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Feb 19 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6997643d81476f6176af834f?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Feb 19 |
+| **[Sixth Street](https://sixthstreet.com)** | **[2026 Summer Internship - Compliance](https://jobright.ai/jobs/info/698ce6ca78b4502f12a35db8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 19 |
+| **[Stewart Title](https://www.stewart.com/)** | **[Commercial Escrow Intern](https://jobright.ai/jobs/info/69975f4ace78e77b4fdbb9a6?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Feb 19 |
+| ↳ | **[Escrow Operations Intern](https://jobright.ai/jobs/info/69975effe0bddb6acac61c4a?utm_campaign=1055&utm_source=git)** | Rochester, New York Metropolitan Area | On Site | Feb 19 |
+| ↳ | **[Escrow Operations Intern](https://jobright.ai/jobs/info/69975c9be0bddb6acac61ae7?utm_campaign=1055&utm_source=git)** | McKinney, TX | On Site | Feb 19 |
 | **[Nakupuna Companies](https://www.nakupuna.com)** | **[Compliance Program Intern](https://jobright.ai/jobs/info/6997586be0bddb6acac617b5?utm_campaign=1055&utm_source=git)** | Honolulu, HI | Hybrid | Feb 19 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Corporate Legal Intern - 2026 Four Seasons Corporate Summer Internship](https://jobright.ai/jobs/info/6997580981476f6176af7d0f?utm_campaign=1055&utm_source=git)** | Four Seasons Corporate Office Toronto | Hybrid | Feb 19 |
 | **[First American](http://www.firstam.com)** | **[Graduate Underwriting Intern (Hybrid Opportunity)](https://jobright.ai/jobs/info/6997578381476f6176af7cc6?utm_campaign=1055&utm_source=git)** | 101 Huntington Ave, Ste 410, Boston, MA 02199 | Hybrid | Feb 19 |
@@ -69,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Stewart Title](https://www.stewart.com/)** | **[Escrow Operations Intern](https://jobright.ai/jobs/info/69974eb2e0bddb6acac61288?utm_campaign=1055&utm_source=git)** | USA OK Oklahoma City - 1101 N Broadway | On Site | Feb 19 |
 | ↳ | **[Escrow Operations Intern](https://jobright.ai/jobs/info/69974d40ce78e77b4fdbaee2?utm_campaign=1055&utm_source=git)** | USA TX McKinney - 7901 Eldorado Parkway | On Site | Feb 19 |
 | **[Neighborhood Defender Service](https://neighborhooddefender.org)** | **[Summer 2026 Internship, Criminal Defense Practice](https://jobright.ai/jobs/info/69974bb5ce78e77b4fdbadf9?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 19 |
+| **[Stewart Title](https://www.stewart.com/)** | **[Commercial Escrow Intern](https://jobright.ai/jobs/info/69976356ce78e77b4fdbbbe0?utm_campaign=1055&utm_source=git)** | SD Metro Area | On Site | Feb 19 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Corporate Social Responsibility & Sustainability Intern](https://jobright.ai/jobs/info/699742ddce78e77b4fdb9578?utm_campaign=1055&utm_source=git)** | Waltham, MA | On Site | Feb 19 |
 | ↳ | **[Corporate Social Responsibility & Sustainability Intern](https://jobright.ai/jobs/info/6997395bce78e77b4fdb8a64?utm_campaign=1055&utm_source=git)** | Carlsbad, CA | On Site | Feb 19 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Intern - Compliance and Operational Risk Analyst (Summer 2026)](https://jobright.ai/jobs/info/699731fee0bddb6acac5e698?utm_campaign=1055&utm_source=git)** | Québec, Québec | Hybrid | Feb 19 |
@@ -129,9 +137,9 @@ For a complete list, click the following sortable link below:
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Strategic Sourcing and Procurement Intern](https://jobright.ai/jobs/info/69964b57e0bddb6acac4b50e?utm_campaign=1055&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 18 |
 | ↳ | **[Summer 2026 - Strategic Sourcing and Procurement Intern](https://jobright.ai/jobs/info/699633cd81476f6176adef55?utm_campaign=1055&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 18 |
 | **[CME Group](http://www.cmegroup.com)** | **[Clearing Risk Management Intern - Summer 2026](https://jobright.ai/jobs/info/69964440ce78e77b4fda3f02?utm_campaign=1055&utm_source=git)** | Chicago - 20 S. Wacker | On Site | Feb 18 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Strategic Sourcing and Procurement Intern](https://jobright.ai/jobs/info/6996343781476f6176adefe3?utm_campaign=1055&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 18 |
-| ↳ | **[Summer 2026 - Strategic Sourcing and Procurement Intern](https://jobright.ai/jobs/info/6996430ece78e77b4fda3d4c?utm_campaign=1055&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 18 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Strategic Sourcing and Procurement Intern](https://jobright.ai/jobs/info/6996430ece78e77b4fda3d4c?utm_campaign=1055&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 18 |
 | ↳ | **[Summer 2026 - Strategic Sourcing and Procurement Intern](https://jobright.ai/jobs/info/69964defe0bddb6acac4b973?utm_campaign=1055&utm_source=git)** | North Carolina | Hybrid | Feb 18 |
+| ↳ | **[Summer 2026 - Strategic Sourcing and Procurement Intern](https://jobright.ai/jobs/info/6996343781476f6176adefe3?utm_campaign=1055&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 18 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Corporate Social Responsibility & Sustainability Intern](https://jobright.ai/jobs/info/69964bdee0bddb6acac4b5d7?utm_campaign=1055&utm_source=git)** | Carlsbad, California, USA | On Site | Feb 18 |
 | ↳ | **[Corporate Social Responsibility & Sustainability Intern](https://jobright.ai/jobs/info/69965e57ce78e77b4fda67e9?utm_campaign=1055&utm_source=git)** | Waltham, Massachusetts, USA | On Site | Feb 18 |
 | **[Kloeckner Metals - Americas](http://www.kloecknermetals.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/6979858f9c90a224ecc34414?utm_campaign=1055&utm_source=git)** | Roswell, GA | On Site | Feb 18 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Registration Compliance Intern](https://jobright.ai/jobs/info/69962ab1ce78e77b4fda20e5?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 18 |
 | **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Legal - Commercial Transactions Intern](https://jobright.ai/jobs/info/6996289981476f6176ade4c0?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Feb 18 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer 2026 Regulatory Policy Intern](https://jobright.ai/jobs/info/697aa068f6fc293b0a2c87a7?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Feb 18 |
-| **[State Street](https://www.statestreet.com/)** | **[Conduct Risk Compliance Associate, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69961fdde0bddb6acac47ef3?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts | On Site | Feb 18 |
-| **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6979517339f7f96cc6d1c945?utm_campaign=1055&utm_source=git)** | Southfield, MI | On Site | Feb 18 |
-| **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Product Compliance Regulatory Intern](https://jobright.ai/jobs/info/6983d03f01214b4cdacbd8ee?utm_campaign=1055&utm_source=git)** | Albertville, AL | On Site | Feb 18 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Corporate Compliance Summer Intern](https://jobright.ai/jobs/info/6995f641e0bddb6acac45da7?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 18 |
-| **[Novastone Capital Advisors](https://www.novastone-ca.com)** | **[Internship: Legal/Paralegal](https://jobright.ai/jobs/info/6995e52ace78e77b4fd9e620?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 18 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Paralegal Intern](https://jobright.ai/jobs/info/697986f9ca92cf0d6a82af70?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 18 |
-| **[Rocket Lab](https://rocketlabcorp.com)** | **[Export Compliance Intern Summer 2026](https://jobright.ai/jobs/info/69790c9d52f3c27ec64554be?utm_campaign=1055&utm_source=git)** | Long Beach, CA | On Site | Feb 18 |
-| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Risk Management](https://jobright.ai/jobs/info/697958ee39f7f96cc6d1ce88?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
