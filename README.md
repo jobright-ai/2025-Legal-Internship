@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hyland](https://www.hyland.com/)** | **[Intern, License Management](https://jobright.ai/jobs/info/6996d4dd81476f6176aed052?utm_campaign=1055&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Hybrid | Feb 18 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College-Legal Services](https://jobright.ai/jobs/info/6996902c81476f6176ae7111?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Feb 18 |
 | **[Cirrus](http://cirrusaircraft.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6996998581476f6176ae8085?utm_campaign=1055&utm_source=git)** | Alcoa, TN | On Site | Feb 18 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance (Core)](https://jobright.ai/jobs/info/699674bae0bddb6acac4ed39?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Feb 18 |
@@ -95,11 +96,11 @@ For a complete list, click the following sortable link below:
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Strategic Sourcing and Procurement Intern](https://jobright.ai/jobs/info/699633cd81476f6176adef55?utm_campaign=1055&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 18 |
 | ↳ | **[Summer 2026 - Strategic Sourcing and Procurement Intern](https://jobright.ai/jobs/info/69964b57e0bddb6acac4b50e?utm_campaign=1055&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 18 |
 | **[CME Group](http://www.cmegroup.com)** | **[Clearing Risk Management Intern - Summer 2026](https://jobright.ai/jobs/info/69964440ce78e77b4fda3f02?utm_campaign=1055&utm_source=git)** | Chicago - 20 S. Wacker | On Site | Feb 18 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Strategic Sourcing and Procurement Intern](https://jobright.ai/jobs/info/6996430ece78e77b4fda3d4c?utm_campaign=1055&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 18 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Strategic Sourcing and Procurement Intern](https://jobright.ai/jobs/info/6996343781476f6176adefe3?utm_campaign=1055&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 18 |
 | ↳ | **[Summer 2026 - Strategic Sourcing and Procurement Intern](https://jobright.ai/jobs/info/69964defe0bddb6acac4b973?utm_campaign=1055&utm_source=git)** | North Carolina | Hybrid | Feb 18 |
-| ↳ | **[Summer 2026 - Strategic Sourcing and Procurement Intern](https://jobright.ai/jobs/info/6996343781476f6176adefe3?utm_campaign=1055&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 18 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Corporate Social Responsibility & Sustainability Intern](https://jobright.ai/jobs/info/69965e57ce78e77b4fda67e9?utm_campaign=1055&utm_source=git)** | Waltham, Massachusetts, USA | On Site | Feb 18 |
-| ↳ | **[Corporate Social Responsibility & Sustainability Intern](https://jobright.ai/jobs/info/69964bdee0bddb6acac4b5d7?utm_campaign=1055&utm_source=git)** | Carlsbad, California, USA | On Site | Feb 18 |
+| ↳ | **[Summer 2026 - Strategic Sourcing and Procurement Intern](https://jobright.ai/jobs/info/6996430ece78e77b4fda3d4c?utm_campaign=1055&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 18 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Corporate Social Responsibility & Sustainability Intern](https://jobright.ai/jobs/info/69964bdee0bddb6acac4b5d7?utm_campaign=1055&utm_source=git)** | Carlsbad, California, USA | On Site | Feb 18 |
+| ↳ | **[Corporate Social Responsibility & Sustainability Intern](https://jobright.ai/jobs/info/69965e57ce78e77b4fda67e9?utm_campaign=1055&utm_source=git)** | Waltham, Massachusetts, USA | On Site | Feb 18 |
 | **[Kloeckner Metals - Americas](http://www.kloecknermetals.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/6979858f9c90a224ecc34414?utm_campaign=1055&utm_source=git)** | Roswell, GA | On Site | Feb 18 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Legal Counsel (Summer 2026)](https://jobright.ai/jobs/info/69796f500791bc1d72301810?utm_campaign=1055&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 18 |
 | **[Louisiana Blue](https://www.bcbsla.com/)** | **[CW Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69964062e0bddb6acac4a558?utm_campaign=1055&utm_source=git)** | Corporate - Baton Rouge, LA | On Site | Feb 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAS](http://www.sas.com)** | **[Cybersecurity Risk & Compliance Intern (Year-Round)](https://jobright.ai/jobs/info/6995226ce0bddb6acac3aa02?utm_campaign=1055&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 17 |
 | **[Werfen](http://www.werfen.com/)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/699524c081476f6176ad0267?utm_campaign=1055&utm_source=git)** | San Diego, CA, US | On Site | Feb 17 |
 | **[Constellation Brands](http://cbrands.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/699502bbce78e77b4fd918ab?utm_campaign=1055&utm_source=git)** | Rochester, NY | Hybrid | Feb 17 |
-| **[United States Court of Appeals for the Sixth Circuit](https://www.ca6.uscourts.gov/)** | **[Appellate Mediation Intern](https://jobright.ai/jobs/info/6995276e81476f6176ad04fd?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
