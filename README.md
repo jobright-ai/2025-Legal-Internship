@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Commercial P&C Intern](https://jobright.ai/jobs/info/695ed5090badca5763af4af9?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Feb 19 |
+| **[AFL](http://www.AFLglobal.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/697aeb7017b11b1c2e41c9a6?utm_campaign=1055&utm_source=git)** | Duncan, SC | On Site | Feb 19 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/698f181c0f6f7e7a2ceb20db?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Feb 19 |
 | **[Equinix](http://www.equinix.com)** | **[Risk Management and Insurance Intern](https://jobright.ai/jobs/info/697a85059d60e431a16c097b?utm_campaign=1055&utm_source=git)** | Redwood City, CA | Hybrid | Feb 19 |
 | **[Waystar](http://www.waystar.com)** | **[Legal Internship (Summer 2026)](https://jobright.ai/jobs/info/68c0ce37702aa35207ab0962?utm_campaign=1055&utm_source=git)** | Duluth, GA | On Site | Feb 19 |
 | **[Lennox](http://www.lennox.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/697aa5fb8dbbf73badc7e334?utm_campaign=1055&utm_source=git)** | Richardson, TX | On Site | Feb 19 |
 | **[ETS](http://www.ets.org)** | **[Sheree Johnson-Gregory Legal Internship Program](https://jobright.ai/jobs/info/6991d1590f6f7e7a2cee14da?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Feb 19 |
 | **[Equinix](http://www.equinix.com)** | **[Risk Management and Insurance Intern](https://jobright.ai/jobs/info/697a88f19d60e431a16c1125?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Feb 19 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance (Core)](https://jobright.ai/jobs/info/6996fafe81476f6176af06d8?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 19 |
+| ↳ | **[Intern, Investigations Diligence & Compliance (Core)](https://jobright.ai/jobs/info/6996f966e0bddb6acac59f56?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 19 |
 | **[Hyland](https://www.hyland.com/)** | **[Intern, License Management](https://jobright.ai/jobs/info/6996d4dd81476f6176aed052?utm_campaign=1055&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Hybrid | Feb 18 |
 | ↳ | **[Intern, License Management](https://jobright.ai/jobs/info/6996dda8ce78e77b4fdb105b?utm_campaign=1055&utm_source=git)** | Remote - U.S. | Remote | Feb 18 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College-Legal Services](https://jobright.ai/jobs/info/6996902c81476f6176ae7111?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Feb 18 |
@@ -76,9 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Legal Intern](https://jobright.ai/jobs/info/699664b1ce78e77b4fda6f91?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Feb 18 |
 | **[Stewart Title](https://www.stewart.com/)** | **[Commercial Escrow Intern](https://jobright.ai/jobs/info/69966065e0bddb6acac4d2ec?utm_campaign=1055&utm_source=git)** | Greater Houston | On Site | Feb 18 |
 | **[Kenvue](https://www.kenvue.com)** | **[Regulatory Affairs Intern (12-month term)](https://jobright.ai/jobs/info/69968715ce78e77b4fda9bb5?utm_campaign=1055&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Feb 18 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance (Core)](https://jobright.ai/jobs/info/6996980681476f6176ae7e54?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 18 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern (Summer 2026- UNPAID)](https://jobright.ai/jobs/info/69968c73e0bddb6acac50b88?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Feb 18 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance (Core)](https://jobright.ai/jobs/info/69968391ce78e77b4fda95e4?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 18 |
 | **[Cirrus](http://cirrusaircraft.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6996883be0bddb6acac505ee?utm_campaign=1055&utm_source=git)** | Alcoa, Tennessee, United States | On Site | Feb 18 |
 | **[Kenvue](https://www.kenvue.com)** | **[Regulatory Affairs Intern (12-month term)](https://jobright.ai/jobs/info/69969fe4e0bddb6acac52f06?utm_campaign=1055&utm_source=git)** | North America, Canada, Ontario, Markham | Hybrid | Feb 18 |
 | **[South Florida Water Management District](https://www.sfwmd.gov)** | **[INTERN - LEGAL](https://jobright.ai/jobs/info/69968d9e81476f6176ae6c99?utm_campaign=1055&utm_source=git)** | West Palm Beach Administrative Headquarters (B1) | On Site | Feb 18 |
@@ -101,14 +103,14 @@ For a complete list, click the following sortable link below:
 | **[Four Inc.](https://www.fourinc.com/)** | **[Contract Operations Intern](https://jobright.ai/jobs/info/69964bd6e0bddb6acac4b5c2?utm_campaign=1055&utm_source=git)** | Herndon, Virginia, United States | Hybrid | Feb 18 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Legal Intern](https://jobright.ai/jobs/info/6996390ae0bddb6acac49b02?utm_campaign=1055&utm_source=git)** | 475 South St, Morristown, NJ, 07960, US | On Site | Feb 18 |
 | **[CN](http://www.cn.ca)** | **[Intern, Law (Risk Mitigation) US- FR](https://jobright.ai/jobs/info/698aa0f50f6f7e7a2ce5d5d7?utm_campaign=1055&utm_source=git)** | Homewood, IL | On Site | Feb 18 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Strategic Sourcing and Procurement Intern](https://jobright.ai/jobs/info/699633cd81476f6176adef55?utm_campaign=1055&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 18 |
-| ↳ | **[Summer 2026 - Strategic Sourcing and Procurement Intern](https://jobright.ai/jobs/info/69964b57e0bddb6acac4b50e?utm_campaign=1055&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 18 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Strategic Sourcing and Procurement Intern](https://jobright.ai/jobs/info/69964b57e0bddb6acac4b50e?utm_campaign=1055&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 18 |
+| ↳ | **[Summer 2026 - Strategic Sourcing and Procurement Intern](https://jobright.ai/jobs/info/699633cd81476f6176adef55?utm_campaign=1055&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 18 |
 | **[CME Group](http://www.cmegroup.com)** | **[Clearing Risk Management Intern - Summer 2026](https://jobright.ai/jobs/info/69964440ce78e77b4fda3f02?utm_campaign=1055&utm_source=git)** | Chicago - 20 S. Wacker | On Site | Feb 18 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Strategic Sourcing and Procurement Intern](https://jobright.ai/jobs/info/6996343781476f6176adefe3?utm_campaign=1055&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 18 |
-| ↳ | **[Summer 2026 - Strategic Sourcing and Procurement Intern](https://jobright.ai/jobs/info/69964defe0bddb6acac4b973?utm_campaign=1055&utm_source=git)** | North Carolina | Hybrid | Feb 18 |
 | ↳ | **[Summer 2026 - Strategic Sourcing and Procurement Intern](https://jobright.ai/jobs/info/6996430ece78e77b4fda3d4c?utm_campaign=1055&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 18 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Corporate Social Responsibility & Sustainability Intern](https://jobright.ai/jobs/info/69965e57ce78e77b4fda67e9?utm_campaign=1055&utm_source=git)** | Waltham, Massachusetts, USA | On Site | Feb 18 |
-| ↳ | **[Corporate Social Responsibility & Sustainability Intern](https://jobright.ai/jobs/info/69964bdee0bddb6acac4b5d7?utm_campaign=1055&utm_source=git)** | Carlsbad, California, USA | On Site | Feb 18 |
+| ↳ | **[Summer 2026 - Strategic Sourcing and Procurement Intern](https://jobright.ai/jobs/info/69964defe0bddb6acac4b973?utm_campaign=1055&utm_source=git)** | North Carolina | Hybrid | Feb 18 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Corporate Social Responsibility & Sustainability Intern](https://jobright.ai/jobs/info/69964bdee0bddb6acac4b5d7?utm_campaign=1055&utm_source=git)** | Carlsbad, California, USA | On Site | Feb 18 |
+| ↳ | **[Corporate Social Responsibility & Sustainability Intern](https://jobright.ai/jobs/info/69965e57ce78e77b4fda67e9?utm_campaign=1055&utm_source=git)** | Waltham, Massachusetts, USA | On Site | Feb 18 |
 | **[Kloeckner Metals - Americas](http://www.kloecknermetals.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/6979858f9c90a224ecc34414?utm_campaign=1055&utm_source=git)** | Roswell, GA | On Site | Feb 18 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Legal Counsel (Summer 2026)](https://jobright.ai/jobs/info/69796f500791bc1d72301810?utm_campaign=1055&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 18 |
 | **[Louisiana Blue](https://www.bcbsla.com/)** | **[CW Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69964062e0bddb6acac4a558?utm_campaign=1055&utm_source=git)** | Corporate - Baton Rouge, LA | On Site | Feb 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Suffolk Construction](https://www.suffolk.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6995169b81476f6176acf417?utm_campaign=1055&utm_source=git)** | US-MA-Boston | On Site | Feb 17 |
 | ↳ | **[Risk Management Intern](https://jobright.ai/jobs/info/69954346ce78e77b4fd9603d?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 17 |
 | **[ALO](https://www.aloyoga.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6995121e81476f6176acf11d?utm_campaign=1055&utm_source=git)** | Beverly Hills, CA | On Site | Feb 17 |
-| **[First Onsite Property Restoration](https://firstonsite.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/6996123281476f6176adccc5?utm_campaign=1055&utm_source=git)** | 6200 South Syracuse Way, Greenwood Village, CO, USA | On Site | Feb 17 |
-| **[Human Rights First](http://www.humanrightsfirst.org)** | **[Non-Legal Intern, Refugee Representation - Summer 2026](https://jobright.ai/jobs/info/699651e781476f6176ae190d?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
