@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Accertify, Inc.](http://www.accertify.com)** | **[Strategic Risk Services Intern](https://jobright.ai/jobs/info/697bd3471136d179eeef5c6f?utm_campaign=1055&utm_source=git)** | Itasca, IL | On Site | Feb 20 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Patent Legal Intern](https://jobright.ai/jobs/info/690ac4234a1b456627b0b2d3?utm_campaign=1055&utm_source=git)** | Everett, WA | Hybrid | Feb 20 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Contracts & Proposals Intern](https://jobright.ai/jobs/info/692763a5d47de4798ecdc0f7?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Feb 20 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Legal Summer Associate Intern](https://jobright.ai/jobs/info/69263f4f27bf2f41a2c44bf6?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 20 |
@@ -80,14 +81,14 @@ For a complete list, click the following sortable link below:
 | **[NinjaTrader](http://www.ninjatrader.com)** | **[Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/6997be34e0bddb6acac67f55?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Legal Intern](https://jobright.ai/jobs/info/6997c57981476f6176aff1a7?utm_campaign=1055&utm_source=git)** | Tulsa, OK | Hybrid | Feb 19 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69978d9381476f6176afa3b3?utm_campaign=1055&utm_source=git)** | Tulsa County | Hybrid | Feb 19 |
-| **[Apex Clean Energy](http://apexcleanenergy.com)** | **[Land Management Summer Associate (Intern)](https://jobright.ai/jobs/info/6997bf3e81476f6176afe7f9?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Feb 19 |
-| ↳ | **[Corporate Legal Summer Associate (Intern)](https://jobright.ai/jobs/info/6997c02b81476f6176afe9ee?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Feb 19 |
+| **[Apex Clean Energy](http://apexcleanenergy.com)** | **[Corporate Legal Summer Associate (Intern)](https://jobright.ai/jobs/info/6997c02b81476f6176afe9ee?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Feb 19 |
+| ↳ | **[Land Management Summer Associate (Intern)](https://jobright.ai/jobs/info/6997bf3e81476f6176afe7f9?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Feb 19 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Intellectual Property (IP) Management & Marketing, Hybrid](https://jobright.ai/jobs/info/69705a7751f7264771829e1c?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 19 |
 | **[NSF](http://www.nsf.org)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6997b404e0bddb6acac66f18?utm_campaign=1055&utm_source=git)** | Guelph, Ontario, Canada | Hybrid | Feb 19 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance (Core)](https://jobright.ai/jobs/info/6997b46ace78e77b4fdc0e76?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 19 |
 | **[First American](http://www.firstam.com)** | **[Graduate Underwriting Intern (Hybrid Opportunity)](https://jobright.ai/jobs/info/69979ebce0bddb6acac6511a?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Feb 19 |
-| **[TD](https://www.td.com)** | **[Legal Articling Program Intern/Co-op](https://jobright.ai/jobs/info/6997abaf81476f6176afcd84?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Feb 19 |
-| ↳ | **[Compliance Articling Student Intern/Co-op](https://jobright.ai/jobs/info/6997aa93e0bddb6acac66330?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Feb 19 |
+| **[TD](https://www.td.com)** | **[Compliance Articling Student Intern/Co-op](https://jobright.ai/jobs/info/6997aa93e0bddb6acac66330?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Feb 19 |
+| ↳ | **[Legal Articling Program Intern/Co-op](https://jobright.ai/jobs/info/6997abaf81476f6176afcd84?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Feb 19 |
 | **[Tolmar](http://tolmar.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/6997ab7ece78e77b4fdc0695?utm_campaign=1055&utm_source=git)** | Buffalo Grove, IL | On Site | Feb 19 |
 | **[NSF](http://www.nsf.org)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6997a8d981476f6176afc8f1?utm_campaign=1055&utm_source=git)** | 125 Chancellors Way, Ontario, CA | Hybrid | Feb 19 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[2026 DOE Scholars - Internships - Savannah River Site](https://jobright.ai/jobs/info/69979fd4e0bddb6acac65288?utm_campaign=1055&utm_source=git)** | Aiken, SC | On Site | Feb 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kenvue](https://www.kenvue.com)** | **[Regulatory Affairs Intern (12-month term)](https://jobright.ai/jobs/info/69969fe4e0bddb6acac52f06?utm_campaign=1055&utm_source=git)** | North America, Canada, Ontario, Markham | Hybrid | Feb 18 |
 | **[South Florida Water Management District](https://www.sfwmd.gov)** | **[INTERN - LEGAL](https://jobright.ai/jobs/info/69968d9e81476f6176ae6c99?utm_campaign=1055&utm_source=git)** | West Palm Beach Administrative Headquarters (B1) | On Site | Feb 18 |
 | **[Ad Council](http://adcouncil.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/698a7e194db8972cecffd0fa?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 18 |
-| **[Vantage Data Centers](https://vantage-dc.com)** | **[Government Risk and Compliance Intern, Cybersecurity, NA](https://jobright.ai/jobs/info/69967a5381476f6176ae516a?utm_campaign=1055&utm_source=git)** | Denver, Colorado | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
