@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SOLV Energy](https://www.solvenergy.com/)** | **[Labor Compliance Intern](https://jobright.ai/jobs/info/69434a8494730b73987659ad?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Feb 20 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/695e185a2847344df4739df6?utm_campaign=1055&utm_source=git)** | Edison, NJ | On Site | Feb 20 |
+| **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/699870f581476f6176b0e2ad?utm_campaign=1055&utm_source=git)** | Schenectady, NY | On Site | Feb 20 |
+| **[AARP](http://www.aarp.org)** | **[Fraud Watch Network and Prevention Intern](https://jobright.ai/jobs/info/6944ec9494730b73987834d8?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Feb 20 |
 | **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69986fed81476f6176b0e195?utm_campaign=1055&utm_source=git)** | Niskayuna, NY | On Site | Feb 20 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Regulatory Affairs, Global Rare Diseases - Summer 2026](https://jobright.ai/jobs/info/69449a0294730b739877ceb0?utm_campaign=1055&utm_source=git)** | Cary, NC | Hybrid | Feb 20 |
 | **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6993308cce78e77b4fd70c36?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
@@ -72,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[Customs Compliance Intern (8-Month Term)](https://jobright.ai/jobs/info/6997d0db81476f6176b00213?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 19 |
 | **[TD](https://www.td.com)** | **[Legal Articling Program Intern/Co-op](https://jobright.ai/jobs/info/6997ffacce78e77b4fdca4ed?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 19 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Corporate Legal Affairs Support Intern](https://jobright.ai/jobs/info/6997b1d581476f6176afd2a7?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Feb 19 |
-| **[Apex Clean Energy](http://apexcleanenergy.com)** | **[Corporate Legal Summer Associate (Intern)](https://jobright.ai/jobs/info/6997df5bce78e77b4fdc55c7?utm_campaign=1055&utm_source=git)** | Charlottesville, VA, USA | On Site | Feb 19 |
-| ↳ | **[Land Management Summer Associate (Intern)](https://jobright.ai/jobs/info/6997d683e0bddb6acac6a41e?utm_campaign=1055&utm_source=git)** | Charlottesville, VA, USA | On Site | Feb 19 |
+| **[Apex Clean Energy](http://apexcleanenergy.com)** | **[Land Management Summer Associate (Intern)](https://jobright.ai/jobs/info/6997d683e0bddb6acac6a41e?utm_campaign=1055&utm_source=git)** | Charlottesville, VA, USA | On Site | Feb 19 |
+| ↳ | **[Corporate Legal Summer Associate (Intern)](https://jobright.ai/jobs/info/6997df5bce78e77b4fdc55c7?utm_campaign=1055&utm_source=git)** | Charlottesville, VA, USA | On Site | Feb 19 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Intern - Compliance and Operational Risk Analyst (Summer 2026)](https://jobright.ai/jobs/info/6997cbcee0bddb6acac69280?utm_campaign=1055&utm_source=git)** | Québec, Quebec, Canada | Hybrid | Feb 19 |
 | **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Legal Intern (Coverage)](https://jobright.ai/jobs/info/6997efa6e0bddb6acac6d7ce?utm_campaign=1055&utm_source=git)** | US-PA-Wilkes Barre | Hybrid | Feb 19 |
 | ↳ | **[Legal Intern (Coverage)](https://jobright.ai/jobs/info/6997d4dece78e77b4fdc42bb?utm_campaign=1055&utm_source=git)** | Wilkes Barre, PA, US | Hybrid | Feb 19 |
@@ -85,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[NinjaTrader](http://www.ninjatrader.com)** | **[Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/6997be34e0bddb6acac67f55?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Legal Intern](https://jobright.ai/jobs/info/6997c57981476f6176aff1a7?utm_campaign=1055&utm_source=git)** | Tulsa, OK | Hybrid | Feb 19 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69978d9381476f6176afa3b3?utm_campaign=1055&utm_source=git)** | Tulsa County | Hybrid | Feb 19 |
-| **[Apex Clean Energy](http://apexcleanenergy.com)** | **[Corporate Legal Summer Associate (Intern)](https://jobright.ai/jobs/info/6997c02b81476f6176afe9ee?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Feb 19 |
-| ↳ | **[Land Management Summer Associate (Intern)](https://jobright.ai/jobs/info/6997bf3e81476f6176afe7f9?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Feb 19 |
+| **[Apex Clean Energy](http://apexcleanenergy.com)** | **[Land Management Summer Associate (Intern)](https://jobright.ai/jobs/info/6997bf3e81476f6176afe7f9?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Feb 19 |
+| ↳ | **[Corporate Legal Summer Associate (Intern)](https://jobright.ai/jobs/info/6997c02b81476f6176afe9ee?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Feb 19 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Intellectual Property (IP) Management & Marketing, Hybrid](https://jobright.ai/jobs/info/69705a7751f7264771829e1c?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 19 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance (Core)](https://jobright.ai/jobs/info/6997b46ace78e77b4fdc0e76?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 19 |
 | **[First American](http://www.firstam.com)** | **[Graduate Underwriting Intern (Hybrid Opportunity)](https://jobright.ai/jobs/info/69979ebce0bddb6acac6511a?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Feb 19 |
@@ -137,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Equinix](http://www.equinix.com)** | **[Risk Management and Insurance Intern](https://jobright.ai/jobs/info/697a88f19d60e431a16c1125?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Feb 19 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance (Core)](https://jobright.ai/jobs/info/6996fafe81476f6176af06d8?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 19 |
 | **[First Onsite Property Restoration](https://firstonsite.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/69974cc1e0bddb6acac611a0?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Feb 19 |
-| **[Hyland](https://www.hyland.com/)** | **[Intern, License Management](https://jobright.ai/jobs/info/6996d4dd81476f6176aed052?utm_campaign=1055&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Hybrid | Feb 18 |
-| ↳ | **[Intern, License Management](https://jobright.ai/jobs/info/6996dda8ce78e77b4fdb105b?utm_campaign=1055&utm_source=git)** | Remote - U.S. | Remote | Feb 18 |
+| **[Hyland](https://www.hyland.com/)** | **[Intern, License Management](https://jobright.ai/jobs/info/6996dda8ce78e77b4fdb105b?utm_campaign=1055&utm_source=git)** | Remote - U.S. | Remote | Feb 18 |
+| ↳ | **[Intern, License Management](https://jobright.ai/jobs/info/6996d4dd81476f6176aed052?utm_campaign=1055&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Hybrid | Feb 18 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College-Legal Services](https://jobright.ai/jobs/info/6996902c81476f6176ae7111?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Feb 18 |
 | **[Cirrus](http://cirrusaircraft.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6996998581476f6176ae8085?utm_campaign=1055&utm_source=git)** | Alcoa, TN | On Site | Feb 18 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance (Core)](https://jobright.ai/jobs/info/699674bae0bddb6acac4ed39?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Feb 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kenvue](https://www.kenvue.com)** | **[Regulatory Affairs Intern (12-month term)](https://jobright.ai/jobs/info/69968715ce78e77b4fda9bb5?utm_campaign=1055&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Feb 18 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern (Summer 2026- UNPAID)](https://jobright.ai/jobs/info/69968c73e0bddb6acac50b88?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Feb 18 |
 | **[State of Florida](http://www.myflorida.com)** | **[CONSUMER SERVICE ANALYST - 42003451 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/6997c257ce78e77b4fdc2715?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Feb 18 |
-| **[Cirrus](http://cirrusaircraft.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6996883be0bddb6acac505ee?utm_campaign=1055&utm_source=git)** | Alcoa, Tennessee, United States | On Site | Feb 18 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6997c5f7e0bddb6acac68920?utm_campaign=1055&utm_source=git)** | Alcoa, TN, US | On Site | Feb 18 |
-| **[Kenvue](https://www.kenvue.com)** | **[Regulatory Affairs Intern (12-month term)](https://jobright.ai/jobs/info/69969fe4e0bddb6acac52f06?utm_campaign=1055&utm_source=git)** | North America, Canada, Ontario, Markham | Hybrid | Feb 18 |
-| **[South Florida Water Management District](https://www.sfwmd.gov)** | **[INTERN - LEGAL](https://jobright.ai/jobs/info/69968d9e81476f6176ae6c99?utm_campaign=1055&utm_source=git)** | West Palm Beach Administrative Headquarters (B1) | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
