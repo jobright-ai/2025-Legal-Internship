@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney's Office Brave Justice Summer 2026 Legal Internship](https://jobright.ai/jobs/info/687e9e51db19f31cf0d6bba0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 20 |
+| ↳ | **[Queens District Attorney's Office Brave Justice Summer 2026 College Internship](https://jobright.ai/jobs/info/6973d5dbbc8e722e7b18a4e6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance (Core)](https://jobright.ai/jobs/info/6996f966e0bddb6acac59f56?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 19 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[Customs Compliance Intern (8-Month Term)](https://jobright.ai/jobs/info/6997d0db81476f6176b00213?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 19 |
 | **[TD](https://www.td.com)** | **[Legal Articling Program Intern/Co-op](https://jobright.ai/jobs/info/6997ffacce78e77b4fdca4ed?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 19 |
@@ -130,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Equinix](http://www.equinix.com)** | **[Risk Management and Insurance Intern](https://jobright.ai/jobs/info/697a88f19d60e431a16c1125?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Feb 19 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance (Core)](https://jobright.ai/jobs/info/6996fafe81476f6176af06d8?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 19 |
 | **[First Onsite Property Restoration](https://firstonsite.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/69974cc1e0bddb6acac611a0?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Feb 19 |
-| **[Hyland](https://www.hyland.com/)** | **[Intern, License Management](https://jobright.ai/jobs/info/6996dda8ce78e77b4fdb105b?utm_campaign=1055&utm_source=git)** | Remote - U.S. | Remote | Feb 18 |
-| ↳ | **[Intern, License Management](https://jobright.ai/jobs/info/6996d4dd81476f6176aed052?utm_campaign=1055&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Hybrid | Feb 18 |
+| **[Hyland](https://www.hyland.com/)** | **[Intern, License Management](https://jobright.ai/jobs/info/6996d4dd81476f6176aed052?utm_campaign=1055&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Hybrid | Feb 18 |
+| ↳ | **[Intern, License Management](https://jobright.ai/jobs/info/6996dda8ce78e77b4fdb105b?utm_campaign=1055&utm_source=git)** | Remote - U.S. | Remote | Feb 18 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College-Legal Services](https://jobright.ai/jobs/info/6996902c81476f6176ae7111?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Feb 18 |
 | **[Cirrus](http://cirrusaircraft.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6996998581476f6176ae8085?utm_campaign=1055&utm_source=git)** | Alcoa, TN | On Site | Feb 18 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance (Core)](https://jobright.ai/jobs/info/699674bae0bddb6acac4ed39?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Feb 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Litigation Intern](https://jobright.ai/jobs/info/6996431fce78e77b4fda3d61?utm_campaign=1055&utm_source=git)** | Cary, NC | Hybrid | Feb 18 |
 | **[CME Group](http://www.cmegroup.com)** | **[Clearing Risk Management Intern - Summer 2026](https://jobright.ai/jobs/info/699663fdce78e77b4fda6ea6?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 18 |
 | **[Entertainment Software Association](http://theesa.com)** | **[Legal, Regulatory & Policy Clerk](https://jobright.ai/jobs/info/699638acce78e77b4fda2e36?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 18 |
-| **[Voith Group](https://voith.com/corp-en/index.html)** | **[Contract Administrator Intern](https://jobright.ai/jobs/info/69967298e0bddb6acac4ea72?utm_campaign=1055&utm_source=git)** | York, PA | On Site | Feb 18 |
-| **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Law Clerk Intern- HRL](https://jobright.ai/jobs/info/6996772681476f6176ae4caa?utm_campaign=1055&utm_source=git)** | Pontiac, Michigan, United States | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
