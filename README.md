@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pinal County](https://www.pinalcountyaz.gov)** | **[Law Student Intern - Registry (At-Will)](https://jobright.ai/jobs/info/699ba451ce78e77b4fe01840?utm_campaign=1055&utm_source=git)** | Florence, AZ | On Site | Feb 22 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Corporate Compliance Operations Intern](https://jobright.ai/jobs/info/699b6a8dce78e77b4fdff8d0?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Feb 22 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/699b6334e0bddb6acaca4a17?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Feb 22 |
 | **[Blue Earth Diagnostics, Inc. (U.S.)](https://www.blueearthdiagnostics.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/699b5dbdce78e77b4fdff32a?utm_campaign=1055&utm_source=git)** | Needham, MA | Hybrid | Feb 22 |
@@ -129,9 +130,9 @@ For a complete list, click the following sortable link below:
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998f7ca81476f6176b1651d?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Feb 20 |
 | ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998f7d5e0bddb6acac7e7fc?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Feb 20 |
 | ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998f248ce78e77b4fdd8546?utm_campaign=1055&utm_source=git)** | Dayton, OH | On Site | Feb 20 |
-| ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998e46a81476f6176b14a5b?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Feb 20 |
-| ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/699906c6e0bddb6acac7fd4f?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Feb 20 |
 | ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998fc6181476f6176b16d43?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Feb 20 |
+| ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/699906c6e0bddb6acac7fd4f?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Feb 20 |
+| ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998e46a81476f6176b14a5b?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Feb 20 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Litigation Specialist Intern](https://jobright.ai/jobs/info/697d5e47137a051025667e9c?utm_campaign=1055&utm_source=git)** | Riverside, CA | Hybrid | Feb 20 |
 | ↳ | **[Litigation Specialist Intern](https://jobright.ai/jobs/info/69854bbb8da7a612045fc1f7?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 20 |
 | **[American Clean Power Association (ACP)](https://cleanpower.org/)** | **[Corporate Legal Affairs Intern](https://jobright.ai/jobs/info/6998dfa8e0bddb6acac7ca5c?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Feb 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/699870f581476f6176b0e2ad?utm_campaign=1055&utm_source=git)** | Schenectady, NY | On Site | Feb 20 |
 | **[AARP](http://www.aarp.org)** | **[Fraud Watch Network and Prevention Intern](https://jobright.ai/jobs/info/6944ec9494730b73987834d8?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Feb 20 |
 | **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69986fed81476f6176b0e195?utm_campaign=1055&utm_source=git)** | Niskayuna, NY | On Site | Feb 20 |
-| **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Regulatory Affairs, Global Rare Diseases - Summer 2026](https://jobright.ai/jobs/info/69449a0294730b739877ceb0?utm_campaign=1055&utm_source=git)** | Cary, NC | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
