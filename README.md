@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[DEKA Research & Development](http://www.dekaresearch.com)** | **[IP Law Internship- Summer 2026](https://jobright.ai/jobs/info/699ca40be0bddb6acacbb731?utm_campaign=1055&utm_source=git)** | Manchester, NH | On Site | Feb 23 |
+| **[Airlines Reporting Corporation (ARC)](https://www.arccorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/699cc263e0bddb6acacbd199?utm_campaign=1055&utm_source=git)** | Arlington, VA | Hybrid | Feb 23 |
+| **[DEKA Research & Development](http://www.dekaresearch.com)** | **[Regulatory Affairs- Internship- Summer 2026](https://jobright.ai/jobs/info/699caeb181476f6176b54141?utm_campaign=1055&utm_source=git)** | Manchester, NH | On Site | Feb 23 |
+| ↳ | **[IP Law Internship- Summer 2026](https://jobright.ai/jobs/info/699ca40be0bddb6acacbb731?utm_campaign=1055&utm_source=git)** | Manchester, NH | On Site | Feb 23 |
 | **[Ice Miller LLP](http://www.icemiller.com/)** | **[Government Affairs and Regulatory Law Intern](https://jobright.ai/jobs/info/699c9d44ce78e77b4fe16378?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, US | On Site | Feb 23 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Corporate Compliance](https://jobright.ai/jobs/info/699c8a21ce78e77b4fe149a0?utm_campaign=1055&utm_source=git)** | San Rafael, CA | On Site | Feb 23 |
 | **[Freedom Technologies, Inc.](https://freedomtechnologiesinc.com)** | **[Legal/Policy Intern (Part-time)](https://jobright.ai/jobs/info/699c89dae0bddb6acacb9bf2?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Feb 23 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Blockchain.com](http://blockchain.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/699c6494e0bddb6acacb6f83?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Feb 23 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69739026bc8e722e7b18605f?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | On Site | Feb 23 |
 | **[UnitedMasters](https://unitedmasters.com/)** | **[Legal Intern - The Come Up 2026](https://jobright.ai/jobs/info/699c560e81476f6176b4dd0e?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Feb 23 |
-| **[Professional Case Management](https://procasemanagement.com/)** | **[Legal and Compliance - Summer Intern](https://jobright.ai/jobs/info/699c768f81476f6176b50383?utm_campaign=1055&utm_source=git)** | CO - Denver | On Site | Feb 23 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Compliance Intern (Remote)](https://jobright.ai/jobs/info/6973a00a37785856350d6946?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 23 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Housing Program Compliance Intern](https://jobright.ai/jobs/info/697f7198abff4c399a9e16e1?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | Hybrid | Feb 23 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Corporate Social Responsibility & Sustainability Intern](https://jobright.ai/jobs/info/699c1debce78e77b4fe0ad38?utm_campaign=1055&utm_source=git)** | Carlsbad, CA | On Site | Feb 23 |
@@ -140,11 +141,11 @@ For a complete list, click the following sortable link below:
 | **[Jabil](https://www.jabil.com)** | **[Legal Intern - Supply Chain Services](https://jobright.ai/jobs/info/6998fdb281476f6176b16f7f?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Feb 20 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Legal Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/6998fbda81476f6176b16c69?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Feb 20 |
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998f7ca81476f6176b1651d?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Feb 20 |
-| ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998f7d5e0bddb6acac7e7fc?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Feb 20 |
 | ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998f248ce78e77b4fdd8546?utm_campaign=1055&utm_source=git)** | Dayton, OH | On Site | Feb 20 |
+| ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998f7d5e0bddb6acac7e7fc?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Feb 20 |
 | ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/699906c6e0bddb6acac7fd4f?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Feb 20 |
-| ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998e46a81476f6176b14a5b?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Feb 20 |
 | ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998fc6181476f6176b16d43?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Feb 20 |
+| ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998e46a81476f6176b14a5b?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Feb 20 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Litigation Specialist Intern](https://jobright.ai/jobs/info/69854bbb8da7a612045fc1f7?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 20 |
 | **[American Clean Power Association (ACP)](https://cleanpower.org/)** | **[Corporate Legal Affairs Intern](https://jobright.ai/jobs/info/6998dfa8e0bddb6acac7ca5c?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Feb 20 |
 | **[Grifols](http://www.grifols.com)** | **[Intern - Corporate Affairs](https://jobright.ai/jobs/info/6998f56681476f6176b1612f?utm_campaign=1055&utm_source=git)** | DC-Washington | Hybrid | Feb 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Vermont](http://vermont.gov/portal/)** | **[Paid Intern, Financial Regulation-Temporary](https://jobright.ai/jobs/info/6998cb6681476f6176b135ad?utm_campaign=1055&utm_source=git)** | Montpelier, VT | On Site | Feb 20 |
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998e38be0bddb6acac7cdeb?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Feb 20 |
 | ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998ea7be0bddb6acac7d51b?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
-| **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/6998c023ce78e77b4fdd531c?utm_campaign=1055&utm_source=git)** | USA, Colorado, Denver | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
