@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Intern, Corporate Compliance](https://jobright.ai/jobs/info/699c8a21ce78e77b4fe149a0?utm_campaign=1055&utm_source=git)** | San Rafael, CA | On Site | Feb 23 |
+| **[Freedom Technologies, Inc.](https://freedomtechnologiesinc.com)** | **[Legal/Policy Intern (Part-time)](https://jobright.ai/jobs/info/699c89dae0bddb6acacb9bf2?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Feb 23 |
+| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Legal and Compliance Operations Intern](https://jobright.ai/jobs/info/699c8492ce78e77b4fe13b00?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Feb 23 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2027 2L Summer Associate - Chicago](https://jobright.ai/jobs/info/692dda304c474121999d3d32?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 23 |
 | ↳ | **[2027 2L Summer Associate - New York](https://jobright.ai/jobs/info/696f034182817106e97620e7?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 23 |
 | **[Blockchain.com](http://blockchain.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/699c6b9fe0bddb6acacb772b?utm_campaign=1055&utm_source=git)** | Dallas | On Site | Feb 23 |
@@ -83,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Blue Earth Diagnostics, Inc. (U.S.)](https://www.blueearthdiagnostics.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/699b5dbdce78e77b4fdff32a?utm_campaign=1055&utm_source=git)** | Needham, MA | Hybrid | Feb 22 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Intellectual Property (IP) Management & Marketing, Hybrid](https://jobright.ai/jobs/info/69705a7751f7264771829e1c?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 22 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Immigration Law (Summer 2026)](https://jobright.ai/jobs/info/697f5f897f40342e15d81f67?utm_campaign=1055&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 22 |
-| **[Ryder System, Inc.](http://ryder.com/en)** | **[Legal Intern](https://jobright.ai/jobs/info/699b1243ce78e77b4fdfd114?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Feb 22 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/697ee2097f40342e15d7a528?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Feb 22 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Legal Internship - Summer 2026 (Dallas)](https://jobright.ai/jobs/info/697e2f56ce48107c05426442?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Feb 22 |
 | ↳ | **[Legal Internship - Spring 2026 (Dallas)](https://jobright.ai/jobs/info/697e30187f40342e15d6fdf8?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Feb 22 |
@@ -96,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[GLO - Mineral Audit Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a5ebd81476f6176b2e7a2?utm_campaign=1055&utm_source=git)** | Austin GLO Main FL81700 N Congress Ave | On Site | Feb 21 |
 | ↳ | **[GLO - Mineral Audit Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a5dc6ce78e77b4fdf1293?utm_campaign=1055&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Graduate Underwriting Intern (Hybrid Opportunity)](https://jobright.ai/jobs/info/699a154de0bddb6acac93544?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Feb 21 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - Phoenix, AZ](https://jobright.ai/jobs/info/699169b00f6f7e7a2cedbd17?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Feb 21 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Legal Intern](https://jobright.ai/jobs/info/6999d805ce78e77b4fdeb2eb?utm_campaign=1055&utm_source=git)** | Olathe, KS | On Site | Feb 21 |
 | **[STERIS](http://steris.com)** | **[Privacy Compliance Intern](https://jobright.ai/jobs/info/697e07e7ce48107c05424fd6?utm_campaign=1055&utm_source=git)** | Mentor, OH | Hybrid | Feb 21 |
 | **[City of Auburn (Washington)](http://www.auburnwa.gov)** | **[Rule 9 Intern](https://jobright.ai/jobs/info/6999c187ce78e77b4fdeacd7?utm_campaign=1055&utm_source=git)** | Auburn, WA | On Site | Feb 21 |
@@ -143,11 +144,11 @@ For a complete list, click the following sortable link below:
 | **[Jabil](https://www.jabil.com)** | **[Legal Intern - Supply Chain Services](https://jobright.ai/jobs/info/6998fdb281476f6176b16f7f?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Feb 20 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Legal Contracts Intern - Summer 2026](https://jobright.ai/jobs/info/6998fbda81476f6176b16c69?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Feb 20 |
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998f7ca81476f6176b1651d?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Feb 20 |
-| ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998f248ce78e77b4fdd8546?utm_campaign=1055&utm_source=git)** | Dayton, OH | On Site | Feb 20 |
 | ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998f7d5e0bddb6acac7e7fc?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Feb 20 |
+| ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998f248ce78e77b4fdd8546?utm_campaign=1055&utm_source=git)** | Dayton, OH | On Site | Feb 20 |
+| ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998e46a81476f6176b14a5b?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Feb 20 |
 | ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998fc6181476f6176b16d43?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Feb 20 |
 | ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/699906c6e0bddb6acac7fd4f?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Feb 20 |
-| ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998e46a81476f6176b14a5b?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Feb 20 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Litigation Specialist Intern](https://jobright.ai/jobs/info/697d5e47137a051025667e9c?utm_campaign=1055&utm_source=git)** | Riverside, CA | Hybrid | Feb 20 |
 | ↳ | **[Litigation Specialist Intern](https://jobright.ai/jobs/info/69854bbb8da7a612045fc1f7?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 20 |
 | **[American Clean Power Association (ACP)](https://cleanpower.org/)** | **[Corporate Legal Affairs Intern](https://jobright.ai/jobs/info/6998dfa8e0bddb6acac7ca5c?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Feb 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998dd72ce78e77b4fdd6d60?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Feb 20 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Enterprise Risk Management) Hybrid Schedule](https://jobright.ai/jobs/info/6998d3df81476f6176b13d16?utm_campaign=1055&utm_source=git)** | Glen Allen, VA | Hybrid | Feb 20 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Contracts Administration (Reston, VA)](https://jobright.ai/jobs/info/6998f489e0bddb6acac7e2ba?utm_campaign=1055&utm_source=git)** | Reston, VA (VA30) | Hybrid | Feb 20 |
-| **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Underwriting Graduate Intern – Commercial Title](https://jobright.ai/jobs/info/6998d74381476f6176b14022?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
