@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Street](https://www.statestreet.com/)** | **[Operational Risk Analytics Intern](https://jobright.ai/jobs/info/699f6e1481476f6176b903d8?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 25 |
 | **[Hexagon Asset Lifecycle Intelligence](https://hexagonppm.com/)** | **[IT Policy & Process Intern](https://jobright.ai/jobs/info/699f5543ce78e77b4fe52158?utm_campaign=1055&utm_source=git)** | Norcross, GA | Remote | Feb 25 |
 | **[Sony](https://www.sony.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698275900a9e07331f8d8586?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Feb 25 |
 | **[Hexagon Asset Lifecycle Intelligence](https://hexagonppm.com/)** | **[IT Policy & Process Intern](https://jobright.ai/jobs/info/699f4d91ce78e77b4fe51b4d?utm_campaign=1055&utm_source=git)** | Madison, AL | Remote | Feb 25 |
@@ -136,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[NEON](https://neonrated.com)** | **[Legal and Business Affairs Intern, Summer 2026](https://jobright.ai/jobs/info/699e46dace78e77b4fe364cb?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 24 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Intellectual Property (IP) Management & Marketing, Hybrid](https://jobright.ai/jobs/info/69705a7751f7264771829e1c?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 24 |
 | **[EQ Bank](http://www.eqbank.ca)** | **[Operational Risk Intern - Summer 2026](https://jobright.ai/jobs/info/699ddbfbce78e77b4fe2ede9?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 24 |
-| **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Intern the Otsuka Way 2026 - Legal Intern](https://jobright.ai/jobs/info/699dfcfcce78e77b4fe31fe3?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Feb 24 |
-| ↳ | **[Intern the Otsuka Way 2026 - Legal Intern](https://jobright.ai/jobs/info/699df9df81476f6176b6ecd5?utm_campaign=1055&utm_source=git)** | Rockville, MD | Hybrid | Feb 24 |
+| **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Intern the Otsuka Way 2026 - Legal Intern](https://jobright.ai/jobs/info/699df9df81476f6176b6ecd5?utm_campaign=1055&utm_source=git)** | Rockville, MD | Hybrid | Feb 24 |
+| ↳ | **[Intern the Otsuka Way 2026 - Legal Intern](https://jobright.ai/jobs/info/699dfcfcce78e77b4fe31fe3?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Feb 24 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Legal Intern](https://jobright.ai/jobs/info/6999d805ce78e77b4fdeb2eb?utm_campaign=1055&utm_source=git)** | Olathe, KS | On Site | Feb 24 |
 | **[FS Vector](https://www.fsvector.com/)** | **[Summer Associate, Advisory](https://jobright.ai/jobs/info/699dd744e0bddb6acacd34e6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 24 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Legal Intern Coordinator I](https://jobright.ai/jobs/info/699dfe29e0bddb6acacd684f?utm_campaign=1055&utm_source=git)** | Westerville, OH, United States | On Site | Feb 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Latham & Watkins](http://www.lw.com)** | **[Pre-Law Intern](https://jobright.ai/jobs/info/698127b97f40342e15da089e?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Feb 24 |
 | ↳ | **[Pre-Law Intern](https://jobright.ai/jobs/info/69811ebf49964d25b5e3ecf1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 24 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - AI & Legal Compliance (Summer 2026)](https://jobright.ai/jobs/info/6981df8f0f6f7e7a2cdb036d?utm_campaign=1055&utm_source=git)** | Garland, TX | On Site | Feb 24 |
-| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a5aa295f8e37655dffdb?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
