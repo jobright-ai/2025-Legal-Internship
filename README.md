@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Intuit](https://www.intuit.com)** | **[Fraud and Risk Intern](https://jobright.ai/jobs/info/699e35f1e0bddb6acacd9098?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Feb 24 |
+| **[Natural Grocers by Vitamin Cottage](http://www.naturalgrocers.com/)** | **[Legal Intern (Summer)](https://jobright.ai/jobs/info/699e502ece78e77b4fe376db?utm_campaign=1055&utm_source=git)** | Lakewood, CO | Hybrid | Feb 24 |
 | **[MBTA](http://mbta.com)** | **[Senior Legal Intern (Office of General Counsel)](https://jobright.ai/jobs/info/699e4abf81476f6176b73bb2?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 24 |
+| **[NEON](https://neonrated.com)** | **[Legal and Business Affairs Intern, Summer 2026](https://jobright.ai/jobs/info/699e4e89e0bddb6acacdbd1f?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Feb 24 |
+| **[FHLBanks Office of Finance](https://www.fhlb-of.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/699e523781476f6176b74aac?utm_campaign=1055&utm_source=git)** | Reston, VA, US | On Site | Feb 24 |
 | **[Knights of Columbus](http://www.kofc.org)** | **[Summer Law Intern](https://jobright.ai/jobs/info/699e2f7f81476f6176b70edd?utm_campaign=1055&utm_source=git)** | New Haven, CT | Hybrid | Feb 24 |
 | **[Nelnet](https://nelnetinc.com)** | **[Intern - Legal Fellow](https://jobright.ai/jobs/info/699e0339ce78e77b4fe32232?utm_campaign=1055&utm_source=git)** | Lincoln, NE | On Site | Feb 24 |
 | **[Crown Castle](https://www.crowncastle.com/)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/699e02d3ce78e77b4fe321eb?utm_campaign=1055&utm_source=git)** | Canonsburg, Pennsylvania, United States | Hybrid | Feb 24 |
@@ -72,12 +74,12 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Contracts Administrator Intern - Kiewit Industrial & Water Engineering (Summer 2026)](https://jobright.ai/jobs/info/698143d57f40342e15da3535?utm_campaign=1055&utm_source=git)** | Lone Tree, CO | On Site | Feb 24 |
 | **[One Community Bank](https://www.onecommunity.bank)** | **[Risk Management Intern](https://jobright.ai/jobs/info/699e0c18e0bddb6acacd701e?utm_campaign=1055&utm_source=git)** | 5990 Hwy 51, McFarland, WI, USA | On Site | Feb 24 |
 | **[Bracco](https://www.bracco.com)** | **[Legal Intern - Blue Earth Diagnostics](https://jobright.ai/jobs/info/699e30a3e0bddb6acacd8954?utm_campaign=1055&utm_source=git)** | USA, Needham, Massachusetts, 02494 | Hybrid | Feb 24 |
-| **[Natural Grocers by Vitamin Cottage](http://www.naturalgrocers.com/)** | **[Legal Intern (Summer)](https://jobright.ai/jobs/info/699e0dfa81476f6176b6f852?utm_campaign=1055&utm_source=git)** | Lakewood, CO, US | Hybrid | Feb 24 |
-| ↳ | **[Legal Intern (Summer)](https://jobright.ai/jobs/info/699e1ccece78e77b4fe3325d?utm_campaign=1055&utm_source=git)** | US-CO-Lakewood | Hybrid | Feb 24 |
+| **[Natural Grocers by Vitamin Cottage](http://www.naturalgrocers.com/)** | **[Legal Intern (Summer)](https://jobright.ai/jobs/info/699e1ccece78e77b4fe3325d?utm_campaign=1055&utm_source=git)** | US-CO-Lakewood | Hybrid | Feb 24 |
+| ↳ | **[Legal Intern (Summer)](https://jobright.ai/jobs/info/699e0dfa81476f6176b6f852?utm_campaign=1055&utm_source=git)** | Lakewood, CO, US | Hybrid | Feb 24 |
 | **[NEON](https://neonrated.com)** | **[Legal and Business Affairs Intern, Summer 2026](https://jobright.ai/jobs/info/699e46dace78e77b4fe364cb?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 24 |
 | **[EQ Bank](http://www.eqbank.ca)** | **[Operational Risk Intern - Summer 2026](https://jobright.ai/jobs/info/699ddbfbce78e77b4fe2ede9?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 24 |
-| **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Intern the Otsuka Way 2026 - Legal Intern](https://jobright.ai/jobs/info/699dfcfcce78e77b4fe31fe3?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Feb 24 |
-| ↳ | **[Intern the Otsuka Way 2026 - Legal Intern](https://jobright.ai/jobs/info/699df9df81476f6176b6ecd5?utm_campaign=1055&utm_source=git)** | Rockville, MD | Hybrid | Feb 24 |
+| **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Intern the Otsuka Way 2026 - Legal Intern](https://jobright.ai/jobs/info/699df9df81476f6176b6ecd5?utm_campaign=1055&utm_source=git)** | Rockville, MD | Hybrid | Feb 24 |
+| ↳ | **[Intern the Otsuka Way 2026 - Legal Intern](https://jobright.ai/jobs/info/699dfcfcce78e77b4fe31fe3?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Feb 24 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Legal Intern](https://jobright.ai/jobs/info/6999d805ce78e77b4fdeb2eb?utm_campaign=1055&utm_source=git)** | Olathe, KS | On Site | Feb 24 |
 | **[FS Vector](https://www.fsvector.com/)** | **[Summer Associate, Advisory](https://jobright.ai/jobs/info/699dd744e0bddb6acacd34e6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Feb 24 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Legal Intern Coordinator I](https://jobright.ai/jobs/info/699dfe29e0bddb6acacd684f?utm_campaign=1055&utm_source=git)** | Westerville, OH, United States | On Site | Feb 24 |
@@ -134,8 +136,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship - Intern, Legal, Team Sports Talent](https://jobright.ai/jobs/info/699d115581476f6176b5b190?utm_campaign=1055&utm_source=git)** | USA-DE - Delaware Remote | Remote | Feb 23 |
 | ↳ | **[Summer 2026 Internship - Intern, Legal, Creators Talent](https://jobright.ai/jobs/info/699d1121ce78e77b4fe1e0a5?utm_campaign=1055&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Feb 23 |
 | ↳ | **[Summer 2026 Internship - Intern, Legal, Creators Talent](https://jobright.ai/jobs/info/699d1120e0bddb6acacc2da5?utm_campaign=1055&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Feb 23 |
-| ↳ | **[Summer 2026 Internship - Intern, Legal, Team Sports Talent](https://jobright.ai/jobs/info/699d10ede0bddb6acacc2d57?utm_campaign=1055&utm_source=git)** | USA-TX - Texas Remote | Remote | Feb 23 |
 | ↳ | **[Summer 2026 Internship - Intern, Legal, Team Sports Talent](https://jobright.ai/jobs/info/699d10ede0bddb6acacc2d56?utm_campaign=1055&utm_source=git)** | USA-OR - Oregon Remote | Remote | Feb 23 |
+| ↳ | **[Summer 2026 Internship - Intern, Legal, Team Sports Talent](https://jobright.ai/jobs/info/699d10ede0bddb6acacc2d57?utm_campaign=1055&utm_source=git)** | USA-TX - Texas Remote | Remote | Feb 23 |
 | ↳ | **[Summer 2026 Internship - Intern, Legal, Creators Talent](https://jobright.ai/jobs/info/699d10d681476f6176b5b132?utm_campaign=1055&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Feb 23 |
 | ↳ | **[Summer 2026 Internship - Intern, Legal, Creators Talent](https://jobright.ai/jobs/info/699d109881476f6176b5b10f?utm_campaign=1055&utm_source=git)** | USA-OK - Oklahoma Remote | Remote | Feb 23 |
 | ↳ | **[Summer 2026 Internship - Intern, Legal, Team Sports Talent](https://jobright.ai/jobs/info/699d1093ce78e77b4fe1dfe6?utm_campaign=1055&utm_source=git)** | USA-NY - New York City Office (One Liberty Plaza) | On Site | Feb 23 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship - Intern, Legal, Creators Talent](https://jobright.ai/jobs/info/699d0c36e0bddb6acacc2798?utm_campaign=1055&utm_source=git)** | USA-MD - Maryland Remote | Remote | Feb 23 |
 | **[PDS Health](http://www.pacificdentalservices.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/699d006081476f6176b59565?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Feb 23 |
 | **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[Graduate Intern - Attorney (Legal) Services](https://jobright.ai/jobs/info/699cfc99ce78e77b4fe1bebf?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Feb 23 |
-| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Legal, Creators Talent](https://jobright.ai/jobs/info/699d329181476f6176b5ef63?utm_campaign=1055&utm_source=git)** | USA-AZ - Arizona Remote | Remote | Feb 23 |
-| ↳ | **[Summer 2026 Internship - Intern, Legal, Creators Talent](https://jobright.ai/jobs/info/699d2d5d81476f6176b5e17d?utm_campaign=1055&utm_source=git)** | USA-CO - Colorado Remote | Remote | Feb 23 |
-| ↳ | **[Summer 2026 Internship - Intern, Legal, Creators Talent](https://jobright.ai/jobs/info/699d2827e0bddb6acacc5073?utm_campaign=1055&utm_source=git)** | USA-NY - New York Remote | Remote | Feb 23 |
-| ↳ | **[Summer 2026 Internship - Intern, Legal, Creators Talent](https://jobright.ai/jobs/info/699d216481476f6176b5c798?utm_campaign=1055&utm_source=git)** | USA-DC - Washington, D.C. Remote | Remote | Feb 23 |
-| ↳ | **[Summer 2026 Internship - Intern, Legal, Creators Talent](https://jobright.ai/jobs/info/699d2b9d81476f6176b5dcc9?utm_campaign=1055&utm_source=git)** | USA-VT - Vermont Remote | Remote | Feb 23 |
-| ↳ | **[Summer 2026 Internship - Intern, Legal, Creators Talent](https://jobright.ai/jobs/info/699d2254e0bddb6acacc45ac?utm_campaign=1055&utm_source=git)** | USA-AK - Alaska Remote | Remote | Feb 23 |
+| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Legal, Creators Talent](https://jobright.ai/jobs/info/699d2b9d81476f6176b5dcc9?utm_campaign=1055&utm_source=git)** | USA-VT - Vermont Remote | Remote | Feb 23 |
+| ↳ | **[Summer 2026 Internship - Intern, Legal, Creators Talent](https://jobright.ai/jobs/info/699d1f0ece78e77b4fe1f2cb?utm_campaign=1055&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Feb 23 |
+| ↳ | **[Summer 2026 Internship - Intern, Legal, Creators Talent](https://jobright.ai/jobs/info/699d329181476f6176b5ef63?utm_campaign=1055&utm_source=git)** | USA-AZ - Arizona Remote | Remote | Feb 23 |
+| ↳ | **[Summer 2026 Internship - Intern, Legal, Creators Talent](https://jobright.ai/jobs/info/699d1ffde0bddb6acacc417d?utm_campaign=1055&utm_source=git)** | USA-WY - Wyoming Remote | Remote | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
