@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Entegris](http://www.entegris.com)** | **[Governance, Risk and Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/694a4ed23019f50a4fe5746f?utm_campaign=1055&utm_source=git)** | Aurora, IL | On Site | Feb 25 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Audit/Compliance](https://jobright.ai/jobs/info/69573548f1f8465b79edfdb4?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Feb 25 |
 | **[Syneos Health Commercial Solutions](https://commercialcareers.syneoshealth.com/)** | **[Intern - Corporate Compliance & Ethics](https://jobright.ai/jobs/info/699eb288ce78e77b4fe4514f?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | Feb 25 |
 | **[The Dermot Company, LP](http://dermotcompany.com)** | **[Leasing Administration & Compliance Intern](https://jobright.ai/jobs/info/699eb0e5ce78e77b4fe44a60?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 25 |
@@ -80,8 +81,10 @@ For a complete list, click the following sortable link below:
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Quality Assurance and Compliance Intern](https://jobright.ai/jobs/info/699e813ee0bddb6acace2807?utm_campaign=1055&utm_source=git)** | Georgia - Fulton - Atlanta | On Site | Feb 24 |
 | **[BMO](http://www.bmo.com)** | **[Anti-Money Laundering Investigator (Co-op/Intern), Summer 2026 - 4 months](https://jobright.ai/jobs/info/699e6e0c81476f6176b7806b?utm_campaign=1055&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 24 |
 | **[Natural Grocers by Vitamin Cottage](http://www.naturalgrocers.com/)** | **[Legal Intern (Summer)](https://jobright.ai/jobs/info/699e502ece78e77b4fe376db?utm_campaign=1055&utm_source=git)** | Lakewood, CO | Hybrid | Feb 24 |
+| **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Corporate Compliance & Ethics Intern - Summer 2026](https://jobright.ai/jobs/info/699ee1e081476f6176b85c6f?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Feb 24 |
 | **[MBTA](http://mbta.com)** | **[Senior Legal Intern (Office of General Counsel)](https://jobright.ai/jobs/info/699e4abf81476f6176b73bb2?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Feb 24 |
 | **[NEON](https://neonrated.com)** | **[Legal and Business Affairs Intern, Summer 2026](https://jobright.ai/jobs/info/699e4e89e0bddb6acacdbd1f?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Feb 24 |
+| **[The Veterans Consortium Pro Bono Program](https://www.vetsprobono.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/699ee058ce78e77b4fe486a2?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | On Site | Feb 24 |
 | **[FHLBanks Office of Finance](https://www.fhlb-of.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/699e523781476f6176b74aac?utm_campaign=1055&utm_source=git)** | Reston, VA, US | On Site | Feb 24 |
 | **[Crown Castle](https://www.crowncastle.com/)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/699ed781ce78e77b4fe47a6b?utm_campaign=1055&utm_source=git)** | Canonsburg, PA | Hybrid | Feb 24 |
 | **[Knights of Columbus](http://www.kofc.org)** | **[Summer Law Intern](https://jobright.ai/jobs/info/699e2f7f81476f6176b70edd?utm_campaign=1055&utm_source=git)** | New Haven, CT | Hybrid | Feb 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship - Intern, Legal, Team Sports Talent](https://jobright.ai/jobs/info/699d152ace78e77b4fe1e627?utm_campaign=1055&utm_source=git)** | USA-WV - West Virginia Remote | Remote | Feb 23 |
 | ↳ | **[Summer 2026 Internship - Intern, Legal, Creators Talent](https://jobright.ai/jobs/info/699d150fce78e77b4fe1e5f6?utm_campaign=1055&utm_source=git)** | USA-VA - Virginia Remote | Remote | Feb 23 |
 | ↳ | **[Summer 2026 Internship - Intern, Legal, Team Sports Talent](https://jobright.ai/jobs/info/699d13ad81476f6176b5b462?utm_campaign=1055&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Feb 23 |
-| ↳ | **[Summer 2026 Internship - Intern, Legal, Creators Talent](https://jobright.ai/jobs/info/699d12f6ce78e77b4fe1e2ee?utm_campaign=1055&utm_source=git)** | USA-NV - Nevada Remote | Remote | Feb 23 |
-| ↳ | **[Summer 2026 Internship - Intern, Legal, Team Sports Talent](https://jobright.ai/jobs/info/699d1269e0bddb6acacc2f59?utm_campaign=1055&utm_source=git)** | USA-SC - South Carolina Remote | Remote | Feb 23 |
-| ↳ | **[Summer 2026 Internship - Intern, Legal, Creators Talent](https://jobright.ai/jobs/info/699d125381476f6176b5b2a1?utm_campaign=1055&utm_source=git)** | USA-NE - Nebraska Remote | Remote | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
