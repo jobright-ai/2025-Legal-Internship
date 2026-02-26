@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tennessee Secretary of State](https://sos.tn.gov/hr/pages/employment-opportunities)** | **[Legal Intern](https://jobright.ai/jobs/info/69a07ef30836fe79d8617abf?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Feb 26 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Graduate Year-Round - Regulatory and Contract Law, Hybrid](https://jobright.ai/jobs/info/69861e1b8da7a6120460c64a?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 26 |
+| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6983b1e001214b4cdacb88d5?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Feb 26 |
+| **[Ibotta](https://home.ibotta.com)** | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d70a17894705799a2f0310?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Feb 26 |
 | **[Digital Realty](http://www.digitalrealty.com)** | **[Summer Intern - Legal & Compliance](https://jobright.ai/jobs/info/69837f7501214b4cdacb2341?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Feb 26 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Team Intern (Unpaid)](https://jobright.ai/jobs/info/69a05af65218a81676716c59?utm_campaign=1055&utm_source=git)** | New York, NY RAI USA | Hybrid | Feb 26 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6983c1120f6f7e7a2cdd6a01?utm_campaign=1055&utm_source=git)** | Fresno, CA | On Site | Feb 26 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seeker Legal Team Intern (Unpaid)](https://jobright.ai/jobs/info/69a07b1a0836fe79d86175b8?utm_campaign=1055&utm_source=git)** | New York, NY RAI USA | Hybrid | Feb 26 |
 | **[Unity Legal and Notary Services](www.unitylegal.ca)** | **[Paralegal Co-op Student](https://jobright.ai/jobs/info/69a06edb5218a816767190f5?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Feb 26 |
 | **[Safety National](https://www.safetynational.com)** | **[Liability Claims Intern](https://jobright.ai/jobs/info/698390f60f6f7e7a2cdd0267?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Feb 26 |
 | **[Guidewire Software](http://www.guidewire.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/698b5be6c5761b521a9acf2c?utm_campaign=1055&utm_source=git)** | San Mateo, CA | On Site | Feb 26 |
+| ↳ | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6983764101214b4cdacb1cf5?utm_campaign=1055&utm_source=git)** | San Mateo, CA | On Site | Feb 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Legal JD Intern, Summer 2026](https://jobright.ai/jobs/info/69a03df281476f6176ba64be?utm_campaign=1055&utm_source=git)** | Bristol, CT | On Site | Feb 26 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Summer 2026](https://jobright.ai/jobs/info/69678d791703f05405a92bf0?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Feb 26 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6983a3d5348f733a5c36c4b4?utm_campaign=1055&utm_source=git)** | Somerset, NJ | On Site | Feb 26 |
@@ -70,9 +76,9 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a0158953d97f23ee65d499?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Feb 26 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Legal Department Intern](https://jobright.ai/jobs/info/6983a4d301214b4cdacb665c?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | Hybrid | Feb 26 |
 | **[General Dynamics](https://www.gd.com)** | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a0144cce78e77b4fe64250?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ, US | On Site | Feb 25 |
+| ↳ | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a00d7653d97f23ee65bd85?utm_campaign=1055&utm_source=git)** | US-VA-Chantilly | On Site | Feb 25 |
 | ↳ | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a00f3c81476f6176ba0f2a?utm_campaign=1055&utm_source=git)** | Chantilly, VA, US | On Site | Feb 25 |
 | ↳ | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a0121281476f6176ba14d4?utm_campaign=1055&utm_source=git)** | US-AZ-Scottsdale | On Site | Feb 25 |
-| ↳ | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a00d7653d97f23ee65bd85?utm_campaign=1055&utm_source=git)** | US-VA-Chantilly | On Site | Feb 25 |
 | **[Eikon Therapeutics](http://www.eikontx.com)** | **[Intern, Clinical Regulatory Affairs](https://jobright.ai/jobs/info/699febccce78e77b4fe5e70e?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | On Site | Feb 25 |
 | **[Bright Power](https://www.brightpower.com/)** | **[Benchmarking and Compliance Intern](https://jobright.ai/jobs/info/699fbf65d643757b0e45451b?utm_campaign=1055&utm_source=git)** | New York, NY 10004 | Hybrid | Feb 25 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Legal Intern](https://jobright.ai/jobs/info/699fbf0881476f6176b9782b?utm_campaign=1055&utm_source=git)** | Herndon, VA | Hybrid | Feb 25 |
@@ -96,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[The Seagate Hotel, Golf & Beach Club, Autograph Collection](http://www.seagatedelray.com)** | **[Litigation Intern](https://jobright.ai/jobs/info/699fb28781476f6176b96bad?utm_campaign=1055&utm_source=git)** | Aventura, FL, US | On Site | Feb 25 |
 | **[Turnberry](https://www.turnberry.com)** | **[Real Estate & Corporate Transactions Intern](https://jobright.ai/jobs/info/699fdbdb53d97f23ee6560f4?utm_campaign=1055&utm_source=git)** | Aventura, FL, US | On Site | Feb 25 |
 | **[arrivia](https://www.arrivia.com/)** | **[Corporate Law Intern](https://jobright.ai/jobs/info/699ffb5153d97f23ee6597e0?utm_campaign=1055&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Feb 25 |
-| **[Werfen](http://www.werfen.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fac0481476f6176b96524?utm_campaign=1055&utm_source=git)** | Bedford, MA, US | On Site | Feb 25 |
-| ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fdb54ce78e77b4fe5c57b?utm_campaign=1055&utm_source=git)** | US-MA-Bedford | On Site | Feb 25 |
+| **[Werfen](http://www.werfen.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fdb54ce78e77b4fe5c57b?utm_campaign=1055&utm_source=git)** | US-MA-Bedford | On Site | Feb 25 |
+| ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fac0481476f6176b96524?utm_campaign=1055&utm_source=git)** | Bedford, MA, US | On Site | Feb 25 |
 | **[Toshiba Business](http://business.toshiba.com)** | **[Bids & Contracts Intern - Summer Internship Program (June 15, 2026 - August 7, 2026)](https://jobright.ai/jobs/info/699fc9c9ce78e77b4fe5b32b?utm_campaign=1055&utm_source=git)** | Lake Forest, California, United States | On Site | Feb 25 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2027 (Greater Philadelphia)](https://jobright.ai/jobs/info/699f8bb523374b3b6e6b5848?utm_campaign=1055&utm_source=git)** | Cherry Hill, NJ | Hybrid | Feb 25 |
 | **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Law Clerk - Summer Internship (2026)](https://jobright.ai/jobs/info/699f8aa681476f6176b9302c?utm_campaign=1055&utm_source=git)** | Metropolitan Fresno | On Site | Feb 25 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Audit/Compliance](https://jobright.ai/jobs/info/69573548f1f8465b79edfdb4?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Feb 25 |
 | **[Syneos Health Commercial Solutions](https://commercialcareers.syneoshealth.com/)** | **[Intern - Corporate Compliance & Ethics](https://jobright.ai/jobs/info/699eb288ce78e77b4fe4514f?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | Feb 25 |
 | **[The Dermot Company, LP](http://dermotcompany.com)** | **[Leasing Administration & Compliance Intern](https://jobright.ai/jobs/info/699eb0e5ce78e77b4fe44a60?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 25 |
-| **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/699ecebace78e77b4fe473f5?utm_campaign=1055&utm_source=git)** | Niskayuna, NY | On Site | Feb 25 |
-| **[Washington Lawyers'​ Committee for Civil Rights and Urban Affairs](https://www.washlaw.org/)** | **[Workers' Rights Clinic Internship (Summer 2026, Non-legal)](https://jobright.ai/jobs/info/699fddfc81476f6176b99854?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 24 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Paralegal Extern-Labor & Employment](https://jobright.ai/jobs/info/699ebf84ce78e77b4fe464f1?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 24 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/699e9970ce78e77b4fe41016?utm_campaign=1055&utm_source=git)** | Cary, NC | On Site | Feb 24 |
-| **[Minnesota Judicial Branch](https://mncourts.gov)** | **[Self-Help Center Intern, Self-Represented Litigant Program, Hennepin County](https://jobright.ai/jobs/info/699ec148ce78e77b4fe466bc?utm_campaign=1055&utm_source=git)** | Minneapolis, MN, United States | On Site | Feb 24 |
-| ↳ | **[Self-Help Center Intern, Self-Represented Litigant Program, Hennepin County](https://jobright.ai/jobs/info/699ebb74ce78e77b4fe460af?utm_campaign=1055&utm_source=git)** | 300 South 6th Street, Minneapolis, MN, 55487, US | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
