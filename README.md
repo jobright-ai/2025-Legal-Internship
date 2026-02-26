@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/69a0a5c281476f6176baf498?utm_campaign=1055&utm_source=git)** | Davidson NC  800E Beaty St, Davidson, North Carolina, United States | On Site | Feb 26 |
 | **[Marshall Law Group - TradeMarks The Spot](http://TMTheSpot.com)** | **[Trademarks-Law Student Intern](https://jobright.ai/jobs/info/69a09e7b0836fe79d861a26b?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Remote | Feb 26 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Team Intern (Unpaid)](https://jobright.ai/jobs/info/69a09c8581476f6176baeda0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 26 |
 | **[Renaissance Lakewood, LLC](https://www.renpharm.com)** | **[Occupational Health Intern](https://jobright.ai/jobs/info/69a09b7381476f6176baec75?utm_campaign=1055&utm_source=git)** | Lakewood, NJ | Hybrid | Feb 26 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[FX Legal and Business Affairs JD Intern, Summer 2026](https://jobright.ai/jobs/info/699d961ace78e77b4fe2a3a6?utm_campaign=1055&utm_source=git)** | Burbank, CA | On Site | Feb 26 |
 | **[Tennessee Secretary of State](https://sos.tn.gov/hr/pages/employment-opportunities)** | **[Legal Intern](https://jobright.ai/jobs/info/69a07ef30836fe79d8617abf?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Feb 26 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Graduate Year-Round - Regulatory and Contract Law, Hybrid](https://jobright.ai/jobs/info/69861e1b8da7a6120460c64a?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 26 |
+| **[Horizon Lane](horizonlane.net)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69a0a6795218a8167671d32f?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Feb 26 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6983b1e001214b4cdacb88d5?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Feb 26 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Law Intern – Bar of Quebec – Internship Summer 2026](https://jobright.ai/jobs/info/69a091f381476f6176bae350?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 26 |
 | **[Ibotta](https://home.ibotta.com)** | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d70a17894705799a2f0310?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Feb 26 |
@@ -88,9 +90,9 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a0158953d97f23ee65d499?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Feb 26 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Legal Department Intern](https://jobright.ai/jobs/info/6983a4d301214b4cdacb665c?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | Hybrid | Feb 26 |
 | **[General Dynamics](https://www.gd.com)** | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a0121281476f6176ba14d4?utm_campaign=1055&utm_source=git)** | US-AZ-Scottsdale | On Site | Feb 25 |
+| ↳ | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a00f3c81476f6176ba0f2a?utm_campaign=1055&utm_source=git)** | Chantilly, VA, US | On Site | Feb 25 |
 | ↳ | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a0144cce78e77b4fe64250?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ, US | On Site | Feb 25 |
 | ↳ | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a00d7653d97f23ee65bd85?utm_campaign=1055&utm_source=git)** | US-VA-Chantilly | On Site | Feb 25 |
-| ↳ | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a00f3c81476f6176ba0f2a?utm_campaign=1055&utm_source=git)** | Chantilly, VA, US | On Site | Feb 25 |
 | **[Eikon Therapeutics](http://www.eikontx.com)** | **[Intern, Clinical Regulatory Affairs](https://jobright.ai/jobs/info/699febccce78e77b4fe5e70e?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | On Site | Feb 25 |
 | **[Bright Power](https://www.brightpower.com/)** | **[Benchmarking and Compliance Intern](https://jobright.ai/jobs/info/699fbf65d643757b0e45451b?utm_campaign=1055&utm_source=git)** | New York, NY 10004 | Hybrid | Feb 25 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Legal Intern](https://jobright.ai/jobs/info/699fbf0881476f6176b9782b?utm_campaign=1055&utm_source=git)** | Herndon, VA | Hybrid | Feb 25 |
@@ -115,7 +117,7 @@ For a complete list, click the following sortable link below:
 | **[arrivia](https://www.arrivia.com/)** | **[Corporate Law Intern](https://jobright.ai/jobs/info/699ffb5153d97f23ee6597e0?utm_campaign=1055&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Feb 25 |
 | **[Werfen](http://www.werfen.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fdb54ce78e77b4fe5c57b?utm_campaign=1055&utm_source=git)** | US-MA-Bedford | On Site | Feb 25 |
 | ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fac0481476f6176b96524?utm_campaign=1055&utm_source=git)** | Bedford, MA, US | On Site | Feb 25 |
-| **[Toshiba Business](http://business.toshiba.com)** | **[Bids & Contracts Intern - Summer Internship Program (June 15, 2026 - August 7, 2026)](https://jobright.ai/jobs/info/699fc9c9ce78e77b4fe5b32b?utm_campaign=1055&utm_source=git)** | Lake Forest, California, United States | On Site | Feb 25 |
+| **[Toshiba Business](http://business.toshiba.com)** | **[Bids & Contracts Intern - Summer Internship Program (June 15, 2026 - August 7, 2026)](https://jobright.ai/jobs/info/699fc91ece78e77b4fe5b13a?utm_campaign=1055&utm_source=git)** | Lake Forest, California, United States | On Site | Feb 25 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2027 (Greater Philadelphia)](https://jobright.ai/jobs/info/699f8bb523374b3b6e6b5848?utm_campaign=1055&utm_source=git)** | Cherry Hill, NJ | Hybrid | Feb 25 |
 | **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Law Clerk - Summer Internship (2026)](https://jobright.ai/jobs/info/699f8aa681476f6176b9302c?utm_campaign=1055&utm_source=git)** | Metropolitan Fresno | On Site | Feb 25 |
 | **[First American](http://www.firstam.com)** | **[Commercial Underwriting Graduate Intern](https://jobright.ai/jobs/info/699f89bfce78e77b4fe5579f?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | On Site | Feb 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dermalogica](http://www.dermalogica.com/)** | **[Intern - Regulatory](https://jobright.ai/jobs/info/69824ba8348f733a5c351810?utm_campaign=1055&utm_source=git)** | Carson, CA | Hybrid | Feb 25 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Risk and Compliance Intern](https://jobright.ai/jobs/info/699f110e94ef206f184e28b4?utm_campaign=1055&utm_source=git)** | Remote, United States | Remote | Feb 25 |
 | **[Gildan](https://gildancorp.com)** | **[Intern, SOX Compliance](https://jobright.ai/jobs/info/6982224c0f6f7e7a2cdb3d99?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 25 |
-| **[Jabil](https://www.jabil.com)** | **[Global Litigation Intern](https://jobright.ai/jobs/info/69a027ff5218a81676711ca7?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Feb 25 |
-| **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[Indirect Lending Intern](https://jobright.ai/jobs/info/6982c79a8232105a2d0b2517?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
