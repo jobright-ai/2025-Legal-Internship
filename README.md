@@ -65,7 +65,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0b8d80836fe79d861b914?utm_campaign=1055&utm_source=git)** | Nashville Metro | Hybrid | Feb 26 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0b7ed81476f6176bb045c?utm_campaign=1055&utm_source=git)** | SD Metro Area | Hybrid | Feb 26 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0b6f35218a8167671e1a3?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | Hybrid | Feb 26 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0b6505218a8167671e0f5?utm_campaign=1055&utm_source=git)** | SLC Metro Area | Hybrid | Feb 26 |
+| **[Synaptics Incorporated](https://www.synaptics.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69a0e5e25218a81676721d1a?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Feb 26 |
+| **[Circle](https://www.circle.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a0b6505218a8167671e0f5?utm_campaign=1055&utm_source=git)** | SLC Metro Area | Hybrid | Feb 26 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Law Clerk Intern - Public Defender's Office](https://jobright.ai/jobs/info/69a0b5b00836fe79d861b5a8?utm_campaign=1055&utm_source=git)** | Pontiac, MI | On Site | Feb 26 |
 | **[Circle](https://www.circle.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a0b4eb0836fe79d861b4bf?utm_campaign=1055&utm_source=git)** | LA Metro Area | Hybrid | Feb 26 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0b49f5218a8167671defc?utm_campaign=1055&utm_source=git)** | Greater Phoenix Area | Hybrid | Feb 26 |
@@ -132,9 +133,9 @@ For a complete list, click the following sortable link below:
 | **[ESPN](http://espncareers.com)** | **[ESPN Legal JD Intern, Summer 2026](https://jobright.ai/jobs/info/69a048a95218a816767156bf?utm_campaign=1055&utm_source=git)** | Bristol, CT | On Site | Feb 26 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a0158953d97f23ee65d499?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Feb 26 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Legal Department Intern](https://jobright.ai/jobs/info/6983a4d301214b4cdacb665c?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | Hybrid | Feb 26 |
-| **[General Dynamics](https://www.gd.com)** | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a0144cce78e77b4fe64250?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ, US | On Site | Feb 25 |
+| **[General Dynamics](https://www.gd.com)** | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a0121281476f6176ba14d4?utm_campaign=1055&utm_source=git)** | US-AZ-Scottsdale | On Site | Feb 25 |
 | ↳ | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a00f3c81476f6176ba0f2a?utm_campaign=1055&utm_source=git)** | Chantilly, VA, US | On Site | Feb 25 |
-| ↳ | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a0121281476f6176ba14d4?utm_campaign=1055&utm_source=git)** | US-AZ-Scottsdale | On Site | Feb 25 |
+| ↳ | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a0144cce78e77b4fe64250?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ, US | On Site | Feb 25 |
 | ↳ | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a00d7653d97f23ee65bd85?utm_campaign=1055&utm_source=git)** | US-VA-Chantilly | On Site | Feb 25 |
 | **[Bright Power](https://www.brightpower.com/)** | **[Benchmarking and Compliance Intern](https://jobright.ai/jobs/info/699fbf65d643757b0e45451b?utm_campaign=1055&utm_source=git)** | New York, NY 10004 | Hybrid | Feb 25 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Legal Intern](https://jobright.ai/jobs/info/699fbf0881476f6176b9782b?utm_campaign=1055&utm_source=git)** | Herndon, VA | Hybrid | Feb 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Seagate Hotel, Golf & Beach Club, Autograph Collection](http://www.seagatedelray.com)** | **[Litigation Intern](https://jobright.ai/jobs/info/699fb28781476f6176b96bad?utm_campaign=1055&utm_source=git)** | Aventura, FL, US | On Site | Feb 25 |
 | **[Turnberry](https://www.turnberry.com)** | **[Real Estate & Corporate Transactions Intern](https://jobright.ai/jobs/info/699fdbdb53d97f23ee6560f4?utm_campaign=1055&utm_source=git)** | Aventura, FL, US | On Site | Feb 25 |
 | **[arrivia](https://www.arrivia.com/)** | **[Corporate Law Intern](https://jobright.ai/jobs/info/699ffb5153d97f23ee6597e0?utm_campaign=1055&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Feb 25 |
-| **[Werfen](http://www.werfen.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fac0481476f6176b96524?utm_campaign=1055&utm_source=git)** | Bedford, MA, US | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
