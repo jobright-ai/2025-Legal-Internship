@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MSIG USA](https://www.msigusa.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/6992ab2cce78e77b4fd65a08?utm_campaign=1055&utm_source=git)** | Warren, NJ | Hybrid | Feb 27 |
+| **[ComForCare](https://comforcare.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69a18556b600907a9627f702?utm_campaign=1055&utm_source=git)** | West Chester, PA | On Site | Feb 27 |
+| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Reno)](https://jobright.ai/jobs/info/6968e0bb639b452fb57eadcb?utm_campaign=1055&utm_source=git)** | Reno, NV | On Site | Feb 27 |
+| ↳ | **[Summer Law Clerk – Corporate, Holland & Hart (Salt Lake City)](https://jobright.ai/jobs/info/6970976951f726477182df4c?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Feb 27 |
+| ↳ | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart  (Salt Lake City)](https://jobright.ai/jobs/info/69690141f25a3800669794f0?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Feb 27 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/69a17e700da45516f16aea55?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 27 |
 | **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Intellectual Property (Summer 2026)](https://jobright.ai/jobs/info/698546bf348f733a5c398e41?utm_campaign=1055&utm_source=git)** | Peoria, IL | On Site | Feb 27 |
 | ↳ | **[Intern, Intellectual Property (Summer 2026)](https://jobright.ai/jobs/info/698540c58da7a612045fb287?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
@@ -108,8 +113,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0c3f25218a8167671ef5c?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | Hybrid | Feb 26 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0cda65218a8167671f7f0?utm_campaign=1055&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Feb 26 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0bfe481476f6176bb0c41?utm_campaign=1055&utm_source=git)** | Greater Houston | Hybrid | Feb 26 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0c3d981476f6176bb1046?utm_campaign=1055&utm_source=git)** | KC Metro Area | Hybrid | Feb 26 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0cbb25218a8167671f62f?utm_campaign=1055&utm_source=git)** | DFW Metroplex | Hybrid | Feb 26 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0c3d981476f6176bb1046?utm_campaign=1055&utm_source=git)** | KC Metro Area | Hybrid | Feb 26 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0c0a95218a8167671ebf0?utm_campaign=1055&utm_source=git)** | Greater Tampa Bay Area | Hybrid | Feb 26 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0c0560836fe79d861c0e8?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Feb 26 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0be1a0836fe79d861be80?utm_campaign=1055&utm_source=git)** | Atlanta Metro | Hybrid | Feb 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Summer 2026](https://jobright.ai/jobs/info/69678d791703f05405a92bf0?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Feb 26 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6983a3d5348f733a5c36c4b4?utm_campaign=1055&utm_source=git)** | Somerset, NJ | On Site | Feb 26 |
 | **[ESPN](http://espncareers.com)** | **[ESPN Legal JD Intern, Summer 2026](https://jobright.ai/jobs/info/69a048a95218a816767156bf?utm_campaign=1055&utm_source=git)** | Bristol, CT | On Site | Feb 26 |
-| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a0158953d97f23ee65d499?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Feb 26 |
-| **[State Street](https://www.statestreet.com/)** | **[Operational Risk Analytics Intern](https://jobright.ai/jobs/info/69a16e780da45516f16ad499?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Feb 26 |
-| **[Intuitive](https://www.intuitive.com/)** | **[Legal Department Intern](https://jobright.ai/jobs/info/6983a4d301214b4cdacb665c?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | Hybrid | Feb 26 |
-| **[General Dynamics](https://www.gd.com)** | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a0121281476f6176ba14d4?utm_campaign=1055&utm_source=git)** | US-AZ-Scottsdale | On Site | Feb 25 |
-| ↳ | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a0144cce78e77b4fe64250?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ, US | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
