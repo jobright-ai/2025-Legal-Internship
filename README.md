@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Foundation Litigation Fellow (Fall 2026 Start - 12 months)](https://jobright.ai/jobs/info/69a13da781476f6176bb9f34?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 26 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Real Estate Transcations , Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/69a142bd0da45516f16a6e1d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 26 |
+| **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Legal](https://jobright.ai/jobs/info/69a139ee5218a81676727964?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Feb 26 |
+| **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/69a12b0a6b458d060735e4c4?utm_campaign=1055&utm_source=git)** | Castle Rock, CO | On Site | Feb 26 |
 | **[NSA Storage](http://www.nationalstorageaffiliates.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69a11c2a6b458d060735d3ee?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Feb 26 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Real Estate Transcations , Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/69a0f6b75218a816767231b9?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 26 |
 | **[Syneos Health Commercial Solutions](https://commercialcareers.syneoshealth.com/)** | **[Intern - Global Risk Management & REMS](https://jobright.ai/jobs/info/69a115e481476f6176bb6ba8?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Remote | Feb 26 |
@@ -88,16 +92,16 @@ For a complete list, click the following sortable link below:
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/69a0a5c281476f6176baf498?utm_campaign=1055&utm_source=git)** | Davidson NC  800E Beaty St, Davidson, North Carolina, United States | On Site | Feb 26 |
 | **[Circle](https://www.circle.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a0c2d50836fe79d861c396?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 26 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0c5990836fe79d861c629?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Feb 26 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0cd3b0836fe79d861cc87?utm_campaign=1055&utm_source=git)** | Greater Seattle Area | Hybrid | Feb 26 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0c8bc5218a8167671f411?utm_campaign=1055&utm_source=git)** | Miami-FTL Area | Hybrid | Feb 26 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0cd3b0836fe79d861cc87?utm_campaign=1055&utm_source=git)** | Greater Seattle Area | Hybrid | Feb 26 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0bfb581476f6176bb0c1a?utm_campaign=1055&utm_source=git)** | Twin Cities Area | Hybrid | Feb 26 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0cbb25218a8167671f630?utm_campaign=1055&utm_source=git)** | Charlotte Metro | Hybrid | Feb 26 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0c0e781476f6176bb0d68?utm_campaign=1055&utm_source=git)** | Triangle Area | Hybrid | Feb 26 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0c3f25218a8167671ef5c?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | Hybrid | Feb 26 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0cda65218a8167671f7f0?utm_campaign=1055&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Feb 26 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0bfe481476f6176bb0c41?utm_campaign=1055&utm_source=git)** | Greater Houston | Hybrid | Feb 26 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0c3d981476f6176bb1046?utm_campaign=1055&utm_source=git)** | KC Metro Area | Hybrid | Feb 26 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0cbb25218a8167671f62f?utm_campaign=1055&utm_source=git)** | DFW Metroplex | Hybrid | Feb 26 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0c3d981476f6176bb1046?utm_campaign=1055&utm_source=git)** | KC Metro Area | Hybrid | Feb 26 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0c0a95218a8167671ebf0?utm_campaign=1055&utm_source=git)** | Greater Tampa Bay Area | Hybrid | Feb 26 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0c0560836fe79d861c0e8?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Feb 26 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a0be1a0836fe79d861be80?utm_campaign=1055&utm_source=git)** | Atlanta Metro | Hybrid | Feb 26 |
@@ -141,10 +145,11 @@ For a complete list, click the following sortable link below:
 | **[ESPN](http://espncareers.com)** | **[ESPN Legal JD Intern, Summer 2026](https://jobright.ai/jobs/info/69a048a95218a816767156bf?utm_campaign=1055&utm_source=git)** | Bristol, CT | On Site | Feb 26 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a0158953d97f23ee65d499?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Feb 26 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Legal Department Intern](https://jobright.ai/jobs/info/6983a4d301214b4cdacb665c?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | Hybrid | Feb 26 |
-| **[General Dynamics](https://www.gd.com)** | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a00d7653d97f23ee65bd85?utm_campaign=1055&utm_source=git)** | US-VA-Chantilly | On Site | Feb 25 |
-| ↳ | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a0121281476f6176ba14d4?utm_campaign=1055&utm_source=git)** | US-AZ-Scottsdale | On Site | Feb 25 |
+| **[General Dynamics](https://www.gd.com)** | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a0121281476f6176ba14d4?utm_campaign=1055&utm_source=git)** | US-AZ-Scottsdale | On Site | Feb 25 |
 | ↳ | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a0144cce78e77b4fe64250?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ, US | On Site | Feb 25 |
+| ↳ | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a00d7653d97f23ee65bd85?utm_campaign=1055&utm_source=git)** | US-VA-Chantilly | On Site | Feb 25 |
 | ↳ | **[Legal Intern (Law Department)](https://jobright.ai/jobs/info/69a00f3c81476f6176ba0f2a?utm_campaign=1055&utm_source=git)** | Chantilly, VA, US | On Site | Feb 25 |
+| **[State Street](https://www.statestreet.com/)** | **[Operational Risk Analytics Intern](https://jobright.ai/jobs/info/69a13c215218a81676727dc8?utm_campaign=1055&utm_source=git)** | Alameda, CA | On Site | Feb 25 |
 | **[Bright Power](https://www.brightpower.com/)** | **[Benchmarking and Compliance Intern](https://jobright.ai/jobs/info/699fbf65d643757b0e45451b?utm_campaign=1055&utm_source=git)** | New York, NY 10004 | Hybrid | Feb 25 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Legal Intern](https://jobright.ai/jobs/info/699fbf0881476f6176b9782b?utm_campaign=1055&utm_source=git)** | Herndon, VA | Hybrid | Feb 25 |
 | **[VB Spine](https://vbspineco.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/699fbec881476f6176b977da?utm_campaign=1055&utm_source=git)** | Allendale, NJ | On Site | Feb 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fortinet](http://www.fortinet.com)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/699fee83ce78e77b4fe5ec44?utm_campaign=1055&utm_source=git)** | Sunnyvale, CA | On Site | Feb 25 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fd5ea53d97f23ee655946?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Feb 25 |
 | **[Toshiba Business](http://business.toshiba.com)** | **[Bids & Contracts Intern - Summer Internship Program (June 15, 2026 - August 7, 2026)](https://jobright.ai/jobs/info/69a005c281476f6176b9fda2?utm_campaign=1055&utm_source=git)** | Lake Forest, CA | On Site | Feb 25 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Paralegal Extern-Torts](https://jobright.ai/jobs/info/69a1169781476f6176bb6ccb?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Feb 25 |
-| **[Centerfield](http://www.centerfield.com)** | **[Marketing Compliance Intern](https://jobright.ai/jobs/info/69a02bb581476f6176ba433e?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Feb 25 |
-| **[The Seagate Hotel, Golf & Beach Club, Autograph Collection](http://www.seagatedelray.com)** | **[Real Estate & Corporate Transactions Intern](https://jobright.ai/jobs/info/699fa770ce78e77b4fe58c4f?utm_campaign=1055&utm_source=git)** | Aventura, FL, US | On Site | Feb 25 |
-| **[Turnberry](https://www.turnberry.com)** | **[Litigation Intern](https://jobright.ai/jobs/info/699fa75bce78e77b4fe58c35?utm_campaign=1055&utm_source=git)** | Aventura, FL, US | On Site | Feb 25 |
-| ↳ | **[Real Estate & Corporate Transactions Intern](https://jobright.ai/jobs/info/699fe28ace78e77b4fe5cfe5?utm_campaign=1055&utm_source=git)** | Miami-FTL Area | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
