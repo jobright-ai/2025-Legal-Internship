@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xerox](https://www.xerox.com/)** | **[Cybersecurity Governance, Risk & Compliance Intern](https://jobright.ai/jobs/info/698505a50f6f7e7a2cdf7f0e?utm_campaign=1055&utm_source=git)** | Lexington, KY | Hybrid | Feb 27 |
+| **[Leidos](https://www.leidos.com)** | **[Cyber Risk Intern - Supply Chain Risk Management](https://jobright.ai/jobs/info/69a1c67b359fe034b1cd178c?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 27 |
+| **[Times Microwave Systems](http://www.timesmicrowave.com/)** | **[Document Control Intern](https://jobright.ai/jobs/info/698516788da7a612045f6e5d?utm_campaign=1055&utm_source=git)** | Wallingford, CT | On Site | Feb 27 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Legal Intern](https://jobright.ai/jobs/info/69696a411703f05405ab4a00?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 27 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6985201c0f6f7e7a2cdfa9f8?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Feb 27 |
 | **[SuiteFit LLC](https://getsuitefit.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69a1ac190da45516f16b0de7?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 27 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk Intern – Technology Expertise (Summer 2026)](https://jobright.ai/jobs/info/6930ac31fa28370be26b238d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 27 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/68d30ef68c62e63bc7fdd58f?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Feb 27 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69851e690f6f7e7a2cdfa786?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/699aae36e0bddb6acac9cecc?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Feb 27 |
@@ -87,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Syneos Health Commercial Solutions](https://commercialcareers.syneoshealth.com/)** | **[Intern - Global Risk Management & REMS](https://jobright.ai/jobs/info/69a115e481476f6176bb6ba8?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | Remote | Feb 26 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Legal and Regulatory Compliance Data Science Intern (Co-op/Internship, Summer 2026, Chicago - 4 months](https://jobright.ai/jobs/info/69a1177481476f6176bb6eae?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 26 |
 | **[Goodhue County](http://goodhuecountymn.gov)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69a145a80da45516f16a7614?utm_campaign=1055&utm_source=git)** | Justice Center, Red Wing, MN, US | On Site | Feb 26 |
-| **[Capital Blue Cross](https://capbluecross.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a1a1ba0da45516f16b04a0?utm_campaign=1055&utm_source=git)** | Harrisburg, PA, US | Hybrid | Feb 26 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a1ab38359fe034b1cd02d0?utm_campaign=1055&utm_source=git)** | US-PA-Harrisburg | Hybrid | Feb 26 |
+| **[Capital Blue Cross](https://capbluecross.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a1ab38359fe034b1cd02d0?utm_campaign=1055&utm_source=git)** | US-PA-Harrisburg | Hybrid | Feb 26 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69a1a1ba0da45516f16b04a0?utm_campaign=1055&utm_source=git)** | Harrisburg, PA, US | Hybrid | Feb 26 |
 | **[Richemont](https://www.richemont.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69a0f8745218a81676723353?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Feb 26 |
 | **[Crombie REIT](http://crombiereit.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69a0fe815218a81676723813?utm_campaign=1055&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Feb 26 |
 | **[SOCAN](http://www.socan.ca)** | **[Licensing & Royalty Collections Intern](https://jobright.ai/jobs/info/69a0f9856b458d060735b2b4?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VTA](https://www.vta.org/)** | **[Student Intern-Legal](https://jobright.ai/jobs/info/69a091c081476f6176bae2f3?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Feb 26 |
 | **[eClinicalWorks](http://www.eclinicalworks.com)** | **[Intern - Compliance](https://jobright.ai/jobs/info/699cfbc581476f6176b58c2f?utm_campaign=1055&utm_source=git)** | Westborough, MA | Remote | Feb 26 |
 | **[Kardigan](https://www.kardigan.bio)** | **[2026 Summer Intern - GxP Compliance](https://jobright.ai/jobs/info/698a85684db8972cecffdfe2?utm_campaign=1055&utm_source=git)** | South San Francisco, California, United States | On Site | Feb 26 |
-| **[Indiana Biosciences Research Institute (IBRI)](https://www.indianabiosciences.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69a0932e81476f6176bae64a?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Feb 26 |
-| **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Law Clerk Intern - Public Defender's Office](https://jobright.ai/jobs/info/69a08bed0836fe79d8618a5f?utm_campaign=1055&utm_source=git)** | Pontiac, Michigan, United States | On Site | Feb 26 |
-| **[Digital Realty](http://www.digitalrealty.com)** | **[Summer Intern - Legal & Compliance](https://jobright.ai/jobs/info/69837f7501214b4cdacb2341?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Feb 26 |
-| **[Proper Brands](https://www.properbrands.com)** | **[Cannabis Compliance & Safety Internship 2026](https://jobright.ai/jobs/info/69a169fcb600907a9627ce4d?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
