@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Immigration Legal Services Intern](https://jobright.ai/jobs/info/69a314f70da45516f16c67b3?utm_campaign=1055&utm_source=git)** | Bridgeport, CT | On Site | Feb 28 |
 | **[Magna International](http://www.magna.com/)** | **[Compliance and Economic Development Intern- Summer 2026](https://jobright.ai/jobs/info/696aba13db26b618950df933?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 | ↳ | **[Intellecutual Property Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ac7ba5fc862418539e3fa?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 | ↳ | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ab6d45fc862418539c63a?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Feb 28 |
@@ -103,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern, Operational Risk Management](https://jobright.ai/jobs/info/69a233b90da45516f16b7c33?utm_campaign=1055&utm_source=git)** | NY WP Hamilton | On Site | Feb 27 |
 | **[Leidos](https://www.leidos.com)** | **[Cybersecurity Compliance & Governance Intern](https://jobright.ai/jobs/info/69a224580da45516f16b6d23?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Feb 27 |
 | **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern – Commercial Title](https://jobright.ai/jobs/info/698525a7348f733a5c395403?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Feb 27 |
-| **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22bfeb600907a9628789b?utm_campaign=1055&utm_source=git)** | Charlotte Metro | Remote | Feb 27 |
-| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a2271cb600907a962873df?utm_campaign=1055&utm_source=git)** | Greater Seattle Area | Remote | Feb 27 |
+| **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a2271cb600907a962873df?utm_campaign=1055&utm_source=git)** | Greater Seattle Area | Remote | Feb 27 |
+| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22bfeb600907a9628789b?utm_campaign=1055&utm_source=git)** | Charlotte Metro | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a219740da45516f16b625d?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a2178c359fe034b1cd5588?utm_campaign=1055&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22d76b600907a962879df?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | Remote | Feb 27 |
@@ -112,15 +113,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a222bdb600907a96286f3c?utm_campaign=1055&utm_source=git)** | Triangle Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22065359fe034b1cd5dc1?utm_campaign=1055&utm_source=git)** | DFW Metroplex | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a220d0b600907a96286d1d?utm_campaign=1055&utm_source=git)** | Portland, Oregon Metropolitan Area | Remote | Feb 27 |
-| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a230cc359fe034b1cd6e7f?utm_campaign=1055&utm_source=git)** | Twin Cities Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22442359fe034b1cd61a6?utm_campaign=1055&utm_source=git)** | Boise Metropolitan Area | Remote | Feb 27 |
+| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a230cc359fe034b1cd6e7f?utm_campaign=1055&utm_source=git)** | Twin Cities Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a21b7db600907a962867ff?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a2147eb600907a96286228?utm_campaign=1055&utm_source=git)** | Greater Houston | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a221f1359fe034b1cd5f5e?utm_campaign=1055&utm_source=git)** | Greater Tampa Bay Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a2187a0da45516f16b6170?utm_campaign=1055&utm_source=git)** | Miami-FTL Area | Remote | Feb 27 |
-| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a221570da45516f16b6a2e?utm_campaign=1055&utm_source=git)** | KC Metro Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22b7f0da45516f16b7423?utm_campaign=1055&utm_source=git)** | Greater Phoenix Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a215aa0da45516f16b5ef9?utm_campaign=1055&utm_source=git)** | Nashville Metro | Remote | Feb 27 |
+| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a221570da45516f16b6a2e?utm_campaign=1055&utm_source=git)** | KC Metro Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22d0b359fe034b1cd6a8c?utm_campaign=1055&utm_source=git)** | SD Metro Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a210f40da45516f16b5a7f?utm_campaign=1055&utm_source=git)** | Columbus, Ohio Metropolitan Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a2319c359fe034b1cd6f4d?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Remote | Feb 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Reno)](https://jobright.ai/jobs/info/6968e0bb639b452fb57eadcb?utm_campaign=1055&utm_source=git)** | Reno, NV | On Site | Feb 27 |
 | ↳ | **[Summer Law Clerk – Corporate, Holland & Hart (Salt Lake City)](https://jobright.ai/jobs/info/6970976951f726477182df4c?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Feb 27 |
 | **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Intellectual Property (Summer 2026)](https://jobright.ai/jobs/info/698546bf348f733a5c398e41?utm_campaign=1055&utm_source=git)** | Peoria, IL | On Site | Feb 27 |
-| ↳ | **[Intern, Intellectual Property (Summer 2026)](https://jobright.ai/jobs/info/698540c58da7a612045fb287?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
