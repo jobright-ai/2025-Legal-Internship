@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Legal Intern](https://jobright.ai/jobs/info/694ef5ada2668b7f54523f50?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Legal JD Intern, Summer 2026](https://jobright.ai/jobs/info/69a03df281476f6176ba64be?utm_campaign=1055&utm_source=git)** | Bristol, CT | On Site | Mar 01 |
 | **[Montgomery County, PA](https://www.montcopa.org)** | **[Public Defender Summer Legal INTERN](https://jobright.ai/jobs/info/69a3dd05359fe034b1cec558?utm_campaign=1055&utm_source=git)** | Norristown, PA | On Site | Feb 28 |
 | **[Align Technology](http://www.aligntech.com)** | **[AI & Corporate Governance Legal Intern](https://jobright.ai/jobs/info/69a3a807359fe034b1cea4f8?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Feb 28 |
@@ -69,7 +70,8 @@ For a complete list, click the following sortable link below:
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Government Compliance Intern (Cincinnati, OH)](https://jobright.ai/jobs/info/69a33052b600907a96297b49?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Feb 28 |
 | **[Advanced Space](https://advancedspace.com/)** | **[2026 Legal and Contracts Internship](https://jobright.ai/jobs/info/6986370d0f6f7e7a2ce118e7?utm_campaign=1055&utm_source=git)** | Westminster, CO | On Site | Feb 28 |
 | **[Magna International](http://www.magna.com/)** | **[Compliance and Economic Development Intern- Summer 2026](https://jobright.ai/jobs/info/696aba13db26b618950df933?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Feb 28 |
-| ↳ | **[Intellecutual Property Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ac7ba5fc862418539e3fa?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Feb 28 |
+| **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Immigration Legal Services Intern](https://jobright.ai/jobs/info/69a422e90da45516f16d227b?utm_campaign=1055&utm_source=git)** | Bridgeport, CT | On Site | Feb 28 |
+| **[Magna International](http://www.magna.com/)** | **[Intellecutual Property Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ac7ba5fc862418539e3fa?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 | ↳ | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ab6d45fc862418539c63a?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 | **[Reviora](reviora.co)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/69a2feb5b600907a96296462?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 28 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Commercial Litigation, Holland & Hart (Salt Lake City)](https://jobright.ai/jobs/info/6968fab31703f05405aad91b?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Feb 28 |
@@ -115,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern, Operational Risk Management](https://jobright.ai/jobs/info/69a233b90da45516f16b7c33?utm_campaign=1055&utm_source=git)** | NY WP Hamilton | On Site | Feb 27 |
 | **[Leidos](https://www.leidos.com)** | **[Cybersecurity Compliance & Governance Intern](https://jobright.ai/jobs/info/69a224580da45516f16b6d23?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Feb 27 |
 | **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern – Commercial Title](https://jobright.ai/jobs/info/698525a7348f733a5c395403?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | On Site | Feb 27 |
-| **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22bfeb600907a9628789b?utm_campaign=1055&utm_source=git)** | Charlotte Metro | Remote | Feb 27 |
-| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a2271cb600907a962873df?utm_campaign=1055&utm_source=git)** | Greater Seattle Area | Remote | Feb 27 |
+| **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a2271cb600907a962873df?utm_campaign=1055&utm_source=git)** | Greater Seattle Area | Remote | Feb 27 |
+| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22bfeb600907a9628789b?utm_campaign=1055&utm_source=git)** | Charlotte Metro | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a219740da45516f16b625d?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a2178c359fe034b1cd5588?utm_campaign=1055&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22d76b600907a962879df?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | Remote | Feb 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[Cyber Risk Intern - Supply Chain Risk Management](https://jobright.ai/jobs/info/69a1c67b359fe034b1cd178c?utm_campaign=1055&utm_source=git)** | United States | Remote | Feb 27 |
 | **[Times Microwave Systems](http://www.timesmicrowave.com/)** | **[Document Control Intern](https://jobright.ai/jobs/info/698516788da7a612045f6e5d?utm_campaign=1055&utm_source=git)** | Wallingford, CT | On Site | Feb 27 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Legal Intern](https://jobright.ai/jobs/info/69696a411703f05405ab4a00?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Feb 27 |
-| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6985201c0f6f7e7a2cdfa9f8?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Feb 27 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk Intern – Technology Expertise (Summer 2026)](https://jobright.ai/jobs/info/6930ac31fa28370be26b238d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
