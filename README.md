@@ -68,7 +68,8 @@ For a complete list, click the following sortable link below:
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Government Compliance Intern (Cincinnati, OH)](https://jobright.ai/jobs/info/69a33052b600907a96297b49?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Feb 28 |
 | **[Advanced Space](https://advancedspace.com/)** | **[2026 Legal and Contracts Internship](https://jobright.ai/jobs/info/6986370d0f6f7e7a2ce118e7?utm_campaign=1055&utm_source=git)** | Westminster, CO | On Site | Feb 28 |
 | **[Magna International](http://www.magna.com/)** | **[Compliance and Economic Development Intern- Summer 2026](https://jobright.ai/jobs/info/696aba13db26b618950df933?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Feb 28 |
-| ↳ | **[Intellecutual Property Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ac7ba5fc862418539e3fa?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Feb 28 |
+| **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Immigration Legal Services Intern](https://jobright.ai/jobs/info/69a3f1da0da45516f16cea0a?utm_campaign=1055&utm_source=git)** | Bridgeport, CT | On Site | Feb 28 |
+| **[Magna International](http://www.magna.com/)** | **[Intellecutual Property Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ac7ba5fc862418539e3fa?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 | ↳ | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ab6d45fc862418539c63a?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 | **[Reviora](reviora.co)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/69a2feb5b600907a96296462?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Feb 28 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Commercial Litigation, Holland & Hart (Salt Lake City)](https://jobright.ai/jobs/info/6968fab31703f05405aad91b?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Feb 28 |
@@ -120,17 +121,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22d76b600907a962879df?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22d410da45516f16b75e2?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a222bdb600907a96286f3c?utm_campaign=1055&utm_source=git)** | Triangle Area | Remote | Feb 27 |
-| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22065359fe034b1cd5dc1?utm_campaign=1055&utm_source=git)** | DFW Metroplex | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a220d0b600907a96286d1d?utm_campaign=1055&utm_source=git)** | Portland, Oregon Metropolitan Area | Remote | Feb 27 |
+| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22065359fe034b1cd5dc1?utm_campaign=1055&utm_source=git)** | DFW Metroplex | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a230cc359fe034b1cd6e7f?utm_campaign=1055&utm_source=git)** | Twin Cities Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22442359fe034b1cd61a6?utm_campaign=1055&utm_source=git)** | Boise Metropolitan Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a21b7db600907a962867ff?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a2147eb600907a96286228?utm_campaign=1055&utm_source=git)** | Greater Houston | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a221f1359fe034b1cd5f5e?utm_campaign=1055&utm_source=git)** | Greater Tampa Bay Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a2187a0da45516f16b6170?utm_campaign=1055&utm_source=git)** | Miami-FTL Area | Remote | Feb 27 |
+| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22b7f0da45516f16b7423?utm_campaign=1055&utm_source=git)** | Greater Phoenix Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a215aa0da45516f16b5ef9?utm_campaign=1055&utm_source=git)** | Nashville Metro | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a221570da45516f16b6a2e?utm_campaign=1055&utm_source=git)** | KC Metro Area | Remote | Feb 27 |
-| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22b7f0da45516f16b7423?utm_campaign=1055&utm_source=git)** | Greater Phoenix Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22d0b359fe034b1cd6a8c?utm_campaign=1055&utm_source=git)** | SD Metro Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a210f40da45516f16b5a7f?utm_campaign=1055&utm_source=git)** | Columbus, Ohio Metropolitan Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a2319c359fe034b1cd6f4d?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Remote | Feb 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6985201c0f6f7e7a2cdfa9f8?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Feb 27 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk Intern – Technology Expertise (Summer 2026)](https://jobright.ai/jobs/info/6930ac31fa28370be26b238d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 27 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/68d30ef68c62e63bc7fdd58f?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Feb 27 |
-| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69851e690f6f7e7a2cdfa786?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
