@@ -129,8 +129,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a222bdb600907a96286f3c?utm_campaign=1055&utm_source=git)** | Triangle Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a220d0b600907a96286d1d?utm_campaign=1055&utm_source=git)** | Portland, Oregon Metropolitan Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22065359fe034b1cd5dc1?utm_campaign=1055&utm_source=git)** | DFW Metroplex | Remote | Feb 27 |
-| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22442359fe034b1cd61a6?utm_campaign=1055&utm_source=git)** | Boise Metropolitan Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a230cc359fe034b1cd6e7f?utm_campaign=1055&utm_source=git)** | Twin Cities Area | Remote | Feb 27 |
+| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22442359fe034b1cd61a6?utm_campaign=1055&utm_source=git)** | Boise Metropolitan Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a21b7db600907a962867ff?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a2147eb600907a96286228?utm_campaign=1055&utm_source=git)** | Greater Houston | Remote | Feb 27 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a221f1359fe034b1cd5f5e?utm_campaign=1055&utm_source=git)** | Greater Tampa Bay Area | Remote | Feb 27 |
