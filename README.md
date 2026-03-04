@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carmeuse](http://www.carmeuse.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6972f494694e99351d143c64?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Mar 04 |
+| **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/698bd66306d9b0622495fca9?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
+| **[Wealthspire](https://www.wealthspire.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698c53e978b4502f12a2da79?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Mar 04 |
+| ↳ | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698c5a4df64d441a164e4b69?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 04 |
+| ↳ | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698c589f78b4502f12a2dd9f?utm_campaign=1055&utm_source=git)** | Windsor, CT | Hybrid | Mar 04 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Intellectual Property, Holland & Hart (Denver)](https://jobright.ai/jobs/info/69690bfcf25a380066979a9f?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Mar 04 |
 | **[SRS Acquiom](http://www.srsacquiom.com)** | **[M&A Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69a816177ac93962b707e4ff?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Mar 04 |
 | **[Databricks](https://www.databricks.com)** | **[Legal Intern](https://jobright.ai/jobs/info/696fdee90f4e0f657ea42565?utm_campaign=1055&utm_source=git)** | Mountain View, CA | Hybrid | Mar 04 |
@@ -104,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Upgrade, Inc.](http://www.upgrade.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a820661dfc787e9aa34abc?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Mar 03 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Graduate Year-Round - Regulatory and Contract Law, Hybrid](https://jobright.ai/jobs/info/69861e1b8da7a6120460c64a?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Mar 03 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Compliance Operations Intern](https://jobright.ai/jobs/info/69a7118876bbe83d3afa68da?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Mar 03 |
+| **[Kardigan](https://www.kardigan.bio)** | **[2026 Summer Intern - GxP Compliance](https://jobright.ai/jobs/info/698a8501c5761b521a99c1d9?utm_campaign=1055&utm_source=git)** | South San Francisco, CA | On Site | Mar 03 |
 | **[Greene Tweed](https://www.gtweed.com/)** | **[Summer Internship – Global Trade Compliance](https://jobright.ai/jobs/info/69a6fde176bbe83d3afa4e89?utm_campaign=1055&utm_source=git)** | Lansdale, PA, United States of America | On Site | Mar 03 |
 | **[Pretium Enterprise Services, India](www.pretium.com)** | **[Government Relations Legal Intern](https://jobright.ai/jobs/info/69a75fe21fc3d83b78093e67?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Mar 03 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Compliance Operations Intern](https://jobright.ai/jobs/info/69a6f28176bbe83d3afa46c0?utm_campaign=1055&utm_source=git)** | Wisconsin, United States | Remote | Mar 03 |
@@ -135,12 +141,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pro Bono - ABA UNPAID Intern](https://jobright.ai/jobs/info/69a65fb52c0d8b0f5cd080b7?utm_campaign=1055&utm_source=git)** | Chicago, IL, USA | Hybrid | Mar 02 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65914e567421f42575bba?utm_campaign=1055&utm_source=git)** | OH-MASON, 4241 IRWIN SIMPSON RD | Hybrid | Mar 02 |
 | ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65f76d706a731db384a77?utm_campaign=1055&utm_source=git)** | GA-ATLANTA, 740 W PEACHTREE ST NW | Hybrid | Mar 02 |
+| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65c76e567421f425762c8?utm_campaign=1055&utm_source=git)** | IL-CHICAGO, 233 S WACKER DR, STE 3700 | Hybrid | Mar 02 |
 | ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65c8c2c0d8b0f5cd07b64?utm_campaign=1055&utm_source=git)** | CA-COSTA MESA, 3080 BRISTOL ST, STE 200 | Hybrid | Mar 02 |
 | ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65ef22c0d8b0f5cd07f0d?utm_campaign=1055&utm_source=git)** | IN-INDIANAPOLIS, 220 VIRGINIA AVE | Hybrid | Mar 02 |
-| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65c76e567421f425762c8?utm_campaign=1055&utm_source=git)** | IL-CHICAGO, 233 S WACKER DR, STE 3700 | Hybrid | Mar 02 |
 | **[Federal Home Loan Bank of Pittsburgh](http://www.fhlb-pgh.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698d29530f6f7e7a2ce8eefa?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 02 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Enterprise Risk Management Department - Model Risk Management Team Intern](https://jobright.ai/jobs/info/69a64a812c0d8b0f5cd05a5d?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Mar 02 |
-| ↳ | **[Enterprise Risk Management Department - Model Risk Management Team Intern](https://jobright.ai/jobs/info/69a654ade567421f4257543c?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Mar 02 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Enterprise Risk Management Department - Model Risk Management Team Intern](https://jobright.ai/jobs/info/69a654ade567421f4257543c?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Mar 02 |
+| ↳ | **[Enterprise Risk Management Department - Model Risk Management Team Intern](https://jobright.ai/jobs/info/69a64a812c0d8b0f5cd05a5d?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Mar 02 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Intern-Chief of Staff - DPW-Financial Services](https://jobright.ai/jobs/info/69a7711376bbe83d3afad538?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Mar 02 |
 | ↳ | **[Intern Part Time - DPW-Financial Services](https://jobright.ai/jobs/info/69a76cee76bbe83d3afad06b?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Mar 02 |
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Public Defender's Certified Legal Intern](https://jobright.ai/jobs/info/69a61fb5b600907a962c02e6?utm_campaign=1055&utm_source=git)** | 633 Court Street, Reading, PA, 19601, US | On Site | Mar 02 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern, Corporate Governance and Transactions](https://jobright.ai/jobs/info/69a60919b600907a962be893?utm_campaign=1055&utm_source=git)** | Portland, Oregon Metropolitan Area | Hybrid | Mar 02 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Undergraduate Intern- Commercial Title & Escrow (In Office)](https://jobright.ai/jobs/info/69a608e30da45516f16ee249?utm_campaign=1055&utm_source=git)** | Pasadena, CA | On Site | Mar 02 |
 | **[Leidos](https://www.leidos.com)** | **[IT Assurance & Compliance Intern](https://jobright.ai/jobs/info/69a607e9359fe034b1d0d1de?utm_campaign=1055&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Mar 02 |
-| **[Circle](https://www.circle.com)** | **[Legal Intern, Corporate Governance and Transactions](https://jobright.ai/jobs/info/69a607320da45516f16edf6b?utm_campaign=1055&utm_source=git)** | Greater Houston | Hybrid | Mar 02 |
-| ↳ | **[Legal Intern, Corporate Governance and Transactions](https://jobright.ai/jobs/info/69a606bb359fe034b1d0d041?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 02 |
-| ↳ | **[Legal Intern, Corporate Governance and Transactions](https://jobright.ai/jobs/info/69a6066bb600907a962be34b?utm_campaign=1055&utm_source=git)** | DFW Metroplex | Hybrid | Mar 02 |
-| ↳ | **[Legal Intern, Corporate Governance and Transactions](https://jobright.ai/jobs/info/69a6063b0da45516f16edd91?utm_campaign=1055&utm_source=git)** | Columbus, Ohio Metropolitan Area | Hybrid | Mar 02 |
-| ↳ | **[Legal Intern, Corporate Governance and Transactions](https://jobright.ai/jobs/info/69a605c7b600907a962be1dc?utm_campaign=1055&utm_source=git)** | SD Metro Area | Hybrid | Mar 02 |
-| **[OrthoPediatrics](http://www.orthopediatrics.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/69a605040da45516f16edbd1?utm_campaign=1055&utm_source=git)** | Warsaw, IN | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
