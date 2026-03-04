@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - King of Prussia, PA](https://jobright.ai/jobs/info/69a3bdcbb600907a9629be4a?utm_campaign=1055&utm_source=git)** | King of Prussia, PA | On Site | Mar 04 |
+| **[Nissha Medical Technologies](https://hs.nisshamedical.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69706a2e51f726477182c0c7?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Mar 04 |
 | **[Carmeuse](http://www.carmeuse.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6972f494694e99351d143c64?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Mar 04 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/698bd66306d9b0622495fca9?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698c53e978b4502f12a2da79?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Mar 04 |
@@ -137,16 +139,16 @@ For a complete list, click the following sortable link below:
 | **[LWCC](https://www.lwcc.com/)** | **[Policyholder Services Intern](https://jobright.ai/jobs/info/69a644b5d706a731db38219c?utm_campaign=1055&utm_source=git)** | Baton Rouge Metro | On Site | Mar 02 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Compliance Intern (Remote)](https://jobright.ai/jobs/info/6973a00a37785856350d6946?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 02 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Enterprise Risk Management Department - Model Risk Management Team Intern](https://jobright.ai/jobs/info/69a6419ce567421f425733e1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 02 |
-| **[American Bar Association](http://www.americanbar.org/aba.html)** | **[Pro Bono - ABA UNPAID Intern](https://jobright.ai/jobs/info/69a65cc5e567421f42576377?utm_campaign=1055&utm_source=git)** | ABA Chicago, 321 North Clark, Chicago, Illinois, United States of America | Hybrid | Mar 02 |
-| ↳ | **[Pro Bono - ABA UNPAID Intern](https://jobright.ai/jobs/info/69a65fb52c0d8b0f5cd080b7?utm_campaign=1055&utm_source=git)** | Chicago, IL, USA | Hybrid | Mar 02 |
-| **[Elevance Health](https://www.elevancehealth.com)** | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65914e567421f42575bba?utm_campaign=1055&utm_source=git)** | OH-MASON, 4241 IRWIN SIMPSON RD | Hybrid | Mar 02 |
-| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65f76d706a731db384a77?utm_campaign=1055&utm_source=git)** | GA-ATLANTA, 740 W PEACHTREE ST NW | Hybrid | Mar 02 |
-| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65c76e567421f425762c8?utm_campaign=1055&utm_source=git)** | IL-CHICAGO, 233 S WACKER DR, STE 3700 | Hybrid | Mar 02 |
+| **[American Bar Association](http://www.americanbar.org/aba.html)** | **[Pro Bono - ABA UNPAID Intern](https://jobright.ai/jobs/info/69a65fb52c0d8b0f5cd080b7?utm_campaign=1055&utm_source=git)** | Chicago, IL, USA | Hybrid | Mar 02 |
+| ↳ | **[Pro Bono - ABA UNPAID Intern](https://jobright.ai/jobs/info/69a65cc5e567421f42576377?utm_campaign=1055&utm_source=git)** | ABA Chicago, 321 North Clark, Chicago, Illinois, United States of America | Hybrid | Mar 02 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65ef22c0d8b0f5cd07f0d?utm_campaign=1055&utm_source=git)** | IN-INDIANAPOLIS, 220 VIRGINIA AVE | Hybrid | Mar 02 |
 | ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65c8c2c0d8b0f5cd07b64?utm_campaign=1055&utm_source=git)** | CA-COSTA MESA, 3080 BRISTOL ST, STE 200 | Hybrid | Mar 02 |
-| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65ef22c0d8b0f5cd07f0d?utm_campaign=1055&utm_source=git)** | IN-INDIANAPOLIS, 220 VIRGINIA AVE | Hybrid | Mar 02 |
+| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65f76d706a731db384a77?utm_campaign=1055&utm_source=git)** | GA-ATLANTA, 740 W PEACHTREE ST NW | Hybrid | Mar 02 |
+| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65914e567421f42575bba?utm_campaign=1055&utm_source=git)** | OH-MASON, 4241 IRWIN SIMPSON RD | Hybrid | Mar 02 |
+| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65c76e567421f425762c8?utm_campaign=1055&utm_source=git)** | IL-CHICAGO, 233 S WACKER DR, STE 3700 | Hybrid | Mar 02 |
 | **[Federal Home Loan Bank of Pittsburgh](http://www.fhlb-pgh.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698d29530f6f7e7a2ce8eefa?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 02 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Enterprise Risk Management Department - Model Risk Management Team Intern](https://jobright.ai/jobs/info/69a654ade567421f4257543c?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Mar 02 |
-| ↳ | **[Enterprise Risk Management Department - Model Risk Management Team Intern](https://jobright.ai/jobs/info/69a64a812c0d8b0f5cd05a5d?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Mar 02 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Enterprise Risk Management Department - Model Risk Management Team Intern](https://jobright.ai/jobs/info/69a64a812c0d8b0f5cd05a5d?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Mar 02 |
+| ↳ | **[Enterprise Risk Management Department - Model Risk Management Team Intern](https://jobright.ai/jobs/info/69a654ade567421f4257543c?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Mar 02 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Intern-Chief of Staff - DPW-Financial Services](https://jobright.ai/jobs/info/69a7711376bbe83d3afad538?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Mar 02 |
 | ↳ | **[Intern Part Time - DPW-Financial Services](https://jobright.ai/jobs/info/69a76cee76bbe83d3afad06b?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Mar 02 |
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Public Defender's Certified Legal Intern](https://jobright.ai/jobs/info/69a61fb5b600907a962c02e6?utm_campaign=1055&utm_source=git)** | 633 Court Street, Reading, PA, 19601, US | On Site | Mar 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern, Corporate Governance and Transactions](https://jobright.ai/jobs/info/69a609a6359fe034b1d0d4f2?utm_campaign=1055&utm_source=git)** | Greater Tampa Bay Area | Hybrid | Mar 02 |
 | ↳ | **[Legal Intern, Corporate Governance and Transactions](https://jobright.ai/jobs/info/69a609540da45516f16ee33d?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Mar 02 |
 | ↳ | **[Legal Intern, Corporate Governance and Transactions](https://jobright.ai/jobs/info/69a60919b600907a962be893?utm_campaign=1055&utm_source=git)** | Portland, Oregon Metropolitan Area | Hybrid | Mar 02 |
-| **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Undergraduate Intern- Commercial Title & Escrow (In Office)](https://jobright.ai/jobs/info/69a608e30da45516f16ee249?utm_campaign=1055&utm_source=git)** | Pasadena, CA | On Site | Mar 02 |
-| **[Leidos](https://www.leidos.com)** | **[IT Assurance & Compliance Intern](https://jobright.ai/jobs/info/69a607e9359fe034b1d0d1de?utm_campaign=1055&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
