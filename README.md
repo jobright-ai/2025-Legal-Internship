@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zurich Insurance](http://www.zurich.com)** | **[Associate Degree Apprenticeship Program - Paralegal - Overland Park, KS (Summer 2026)](https://jobright.ai/jobs/info/69a7aa2376bbe83d3afb0daf?utm_campaign=1055&utm_source=git)** | Olathe, KS | Hybrid | Mar 03 |
+| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/69a7a54176bbe83d3afb07fc?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Mar 03 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Regulatory Affairs Intern (Remote)](https://jobright.ai/jobs/info/69a79620637232443f64d830?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 03 |
 | **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Operational Risk Intern [2026 Internship Program]](https://jobright.ai/jobs/info/69a792d52672cb0acb4c07c6?utm_campaign=1055&utm_source=git)** | 570 Washington Blvd, Jersey City, NJ, 07310, US | Hybrid | Mar 03 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Intern - Winter 2026](https://jobright.ai/jobs/info/69a7901d76bbe83d3afaf19f?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 03 |
@@ -117,11 +119,11 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Enterprise Risk Management Department - Model Risk Management Team Intern](https://jobright.ai/jobs/info/69a6419ce567421f425733e1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 02 |
 | **[American Bar Association](http://www.americanbar.org/aba.html)** | **[Pro Bono - ABA UNPAID Intern](https://jobright.ai/jobs/info/69a65cc5e567421f42576377?utm_campaign=1055&utm_source=git)** | ABA Chicago, 321 North Clark, Chicago, Illinois, United States of America | Hybrid | Mar 02 |
 | ↳ | **[Pro Bono - ABA UNPAID Intern](https://jobright.ai/jobs/info/69a65fb52c0d8b0f5cd080b7?utm_campaign=1055&utm_source=git)** | Chicago, IL, USA | Hybrid | Mar 02 |
-| **[Elevance Health](https://www.elevancehealth.com)** | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65c8c2c0d8b0f5cd07b64?utm_campaign=1055&utm_source=git)** | CA-COSTA MESA, 3080 BRISTOL ST, STE 200 | Hybrid | Mar 02 |
-| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65f76d706a731db384a77?utm_campaign=1055&utm_source=git)** | GA-ATLANTA, 740 W PEACHTREE ST NW | Hybrid | Mar 02 |
-| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65914e567421f42575bba?utm_campaign=1055&utm_source=git)** | OH-MASON, 4241 IRWIN SIMPSON RD | Hybrid | Mar 02 |
-| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65ef22c0d8b0f5cd07f0d?utm_campaign=1055&utm_source=git)** | IN-INDIANAPOLIS, 220 VIRGINIA AVE | Hybrid | Mar 02 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65ef22c0d8b0f5cd07f0d?utm_campaign=1055&utm_source=git)** | IN-INDIANAPOLIS, 220 VIRGINIA AVE | Hybrid | Mar 02 |
 | ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65c76e567421f425762c8?utm_campaign=1055&utm_source=git)** | IL-CHICAGO, 233 S WACKER DR, STE 3700 | Hybrid | Mar 02 |
+| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65f76d706a731db384a77?utm_campaign=1055&utm_source=git)** | GA-ATLANTA, 740 W PEACHTREE ST NW | Hybrid | Mar 02 |
+| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65c8c2c0d8b0f5cd07b64?utm_campaign=1055&utm_source=git)** | CA-COSTA MESA, 3080 BRISTOL ST, STE 200 | Hybrid | Mar 02 |
+| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69a65914e567421f42575bba?utm_campaign=1055&utm_source=git)** | OH-MASON, 4241 IRWIN SIMPSON RD | Hybrid | Mar 02 |
 | **[Federal Home Loan Bank of Pittsburgh](http://www.fhlb-pgh.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698d29530f6f7e7a2ce8eefa?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 02 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Enterprise Risk Management Department - Model Risk Management Team Intern](https://jobright.ai/jobs/info/69a64a812c0d8b0f5cd05a5d?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Mar 02 |
 | ↳ | **[Enterprise Risk Management Department - Model Risk Management Team Intern](https://jobright.ai/jobs/info/69a654ade567421f4257543c?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Mar 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SolarWinds](http://www.solarwinds.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a5fbb20da45516f16ecd4e?utm_campaign=1055&utm_source=git)** | Austin, Texas | On Site | Mar 02 |
 | **[RTX](http://www.raytheon.com)** | **[Summer 2026 - Strategic Regulatory Services Intern (Remote)](https://jobright.ai/jobs/info/69a61c070da45516f16effee?utm_campaign=1055&utm_source=git)** | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Remote | Mar 02 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Ontario & Atlantic Offices – Opportunities in Information Technology Risk Services – Risk Analytics – Co-op/Intern – Summer 2027, Fall 2027 Start](https://jobright.ai/jobs/info/69a5fa99359fe034b1d0befd?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 02 |
-| **[Circle](https://www.circle.com)** | **[Legal Intern, Corporate Governance and Transactions](https://jobright.ai/jobs/info/69a5f9720da45516f16ec8cd?utm_campaign=1055&utm_source=git)** | Boise Metropolitan Area | Hybrid | Mar 02 |
-| ↳ | **[Legal Intern, Corporate Governance and Transactions](https://jobright.ai/jobs/info/69a5f919b600907a962bcb37?utm_campaign=1055&utm_source=git)** | Atlanta Metro | Hybrid | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
