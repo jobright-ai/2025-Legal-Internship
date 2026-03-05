@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Corporate Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/68c9550995f5211cd2cefafc?utm_campaign=1055&utm_source=git)** | White Plains, NY | Hybrid | Mar 05 |
+| **[Ultragenyx](http://www.ultragenyx.com)** | **[Intern, Clinical Regulatory Writing](https://jobright.ai/jobs/info/69a9b6ef9ca4e908ec64ef0a?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Mar 05 |
+| **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/696b0c4ddb26b618950e86d5?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Mar 05 |
+| **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[2026 Summer Internship- Legal](https://jobright.ai/jobs/info/69719c4451f726477183f61b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Mar 05 |
+| **[LWCC](https://www.lwcc.com/)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/696e8b40db26b61895116859?utm_campaign=1055&utm_source=git)** | Baton Rouge Metro | On Site | Mar 05 |
+| **[PBS](http://www.pbs.org)** | **[Intern (Legal)](https://jobright.ai/jobs/info/69a9ab592ebd316bece13ce8?utm_campaign=1055&utm_source=git)** | Arlington, VA | Hybrid | Mar 05 |
 | **[Wurth Elektronik](https://www.we-ics.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/698c8f530f6f7e7a2ce84670?utm_campaign=1055&utm_source=git)** | Watertown, SD | On Site | Mar 05 |
 | **[Ultragenyx](http://www.ultragenyx.com)** | **[Intern, Clinical Regulatory Writing](https://jobright.ai/jobs/info/69a99af0f2055e05d171de4e?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 05 |
 | **[Open Society Foundations](https://www.opensocietyfoundations.org/)** | **[Internship (Graduate or Masters Associate)](https://jobright.ai/jobs/info/69a99a53f6c22f2e3686a0fa?utm_campaign=1055&utm_source=git)** | New York | Hybrid | Mar 05 |
@@ -64,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[GCO Summer Internship - 5050500](https://jobright.ai/jobs/info/698daa0ff64d441a164fd242?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Mar 05 |
 | **[Open Society Foundations](https://www.opensocietyfoundations.org/)** | **[Internship (Graduate or Masters Associate) X2](https://jobright.ai/jobs/info/69a98cd27f9271426f886d1f?utm_campaign=1055&utm_source=git)** | New York | Hybrid | Mar 05 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Model Risk Governance & Validation Intern – Summer 2026](https://jobright.ai/jobs/info/6971580351f726477183a3dd?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 05 |
-| **[Clyvra](clyvra.net)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69a98c867f9271426f886ca5?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Mar 05 |
 | **[State of Missouri](http://mo.gov)** | **[Law Student Legal Intern - Missouri State Public Defender System](https://jobright.ai/jobs/info/699142d80f6f7e7a2ced8644?utm_campaign=1055&utm_source=git)** | Missouri, United States | On Site | Mar 05 |
 | **[Methode Electronics](http://methode.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a1f1cc359fe034b1cd317c?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | On Site | Mar 05 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Risk Management & Insurance Intern](https://jobright.ai/jobs/info/69a984057f9271426f8864b8?utm_campaign=1055&utm_source=git)** | Shreveport, LA | On Site | Mar 05 |
@@ -125,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[The Wright Center for Graduate Medical Education](http://www.thewrightcenter.org)** | **[Intern, Legal](https://jobright.ai/jobs/info/69a8d5f579f3f4037f435f26?utm_campaign=1055&utm_source=git)** | Scranton,PA,US | On Site | Mar 04 |
 | **[Bright Power](https://www.brightpower.com/)** | **[Benchmarking and Compliance Intern](https://jobright.ai/jobs/info/69a8b74f2580d3183f00c235?utm_campaign=1055&utm_source=git)** | New York, NY 10004 | Hybrid | Mar 04 |
 | **[S&P Global](https://www.spglobal.com)** | **[Corporate Actions Intern](https://jobright.ai/jobs/info/69a8933d2580d3183f009702?utm_campaign=1055&utm_source=git)** | Virtual, NY | Remote | Mar 04 |
-| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Building Security Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/69a946e40bc35444388b34ce?utm_campaign=1055&utm_source=git)** | US-MI-Pontiac | On Site | Mar 04 |
-| ↳ | **[2026 Building Security Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/69a92e9579f3f4037f43f078?utm_campaign=1055&utm_source=git)** | Pontiac, MI, US | On Site | Mar 04 |
+| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Building Security Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/69a92e9579f3f4037f43f078?utm_campaign=1055&utm_source=git)** | Pontiac, MI, US | On Site | Mar 04 |
+| ↳ | **[2026 Building Security Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/69a946e40bc35444388b34ce?utm_campaign=1055&utm_source=git)** | US-MI-Pontiac | On Site | Mar 04 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970eb0e333b6343a14d5e5d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Mar 04 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970e12a587dfa0bb55e7036?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 04 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970ea76587dfa0bb55e750f?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Deckers Brands](http://deckers.com)** | **[Summer Intern, Corporate Legal (Undergraduate)](https://jobright.ai/jobs/info/69a9419779f3f4037f442276?utm_campaign=1055&utm_source=git)** | Santa Barbara, CA | Hybrid | Mar 03 |
 | **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69a7ef71637232443f6546bd?utm_campaign=1055&utm_source=git)** | Doral, FL | On Site | Mar 03 |
 | **[Wiland](https://wiland.com/)** | **[Summer Internship 2026](https://jobright.ai/jobs/info/69a7b62d76bbe83d3afb2891?utm_campaign=1055&utm_source=git)** | Corporate Office - Niwot, CO 80503 | Hybrid | Mar 03 |
-| **[Zurich Insurance](http://www.zurich.com)** | **[Associate Degree Apprenticeship Program - Paralegal - Overland Park, KS (Summer 2026)](https://jobright.ai/jobs/info/69a7aa2376bbe83d3afb0daf?utm_campaign=1055&utm_source=git)** | Olathe, KS | Hybrid | Mar 03 |
-| **[First American](http://www.firstam.com)** | **[Legal Intern- 1031 Exchange Company (Remote)](https://jobright.ai/jobs/info/69a8902e79f3f4037f427621?utm_campaign=1055&utm_source=git)** | Santa Ana, CA | Remote | Mar 03 |
-| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/69a7a54176bbe83d3afb07fc?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Mar 03 |
-| **[UNFI](http://unfi.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/69a8a7e679f3f4037f42e97e?utm_campaign=1055&utm_source=git)** | Providence, RI | Hybrid | Mar 03 |
-| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Regulatory Affairs Intern (Remote)](https://jobright.ai/jobs/info/69a79620637232443f64d830?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
