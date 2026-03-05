@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TRIUMPH](https://www.triumphgroup.com/)** | **[Contracts Intern](https://jobright.ai/jobs/info/69a8ec3279f3f4037f438116?utm_campaign=1055&utm_source=git)** | West Hartford, CT | On Site | Mar 04 |
+| **[Utz Brands, Inc.](http://www.utzsnacks.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69a8ebb97ac93962b708cfdd?utm_campaign=1055&utm_source=git)** | Hanover, PA | On Site | Mar 04 |
+| **[SK Life Science, Inc.](https://www.sklifescienceinc.com/)** | **[Intern- Regulatory Affairs](https://jobright.ai/jobs/info/69a8eb2f7ac93962b708ceea?utm_campaign=1055&utm_source=git)** | Paramus, NJ | On Site | Mar 04 |
+| **[Moody's Corporation](http://www.moodys.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a8ea6979f3f4037f437de6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 04 |
+| **[American Regent, Inc.](http://www.americanregent.com/)** | **[Commercial Contracts and Operations Intern](https://jobright.ai/jobs/info/69a8e7167ac93962b708ca06?utm_campaign=1055&utm_source=git)** | Melville, NY | Hybrid | Mar 04 |
+| **[Bollinger Shipyards](http://bollingershipyards.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69a8e1bf7ac93962b708c3b7?utm_campaign=1055&utm_source=git)** | Raceland, LA | On Site | Mar 04 |
+| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship: Business & Legal Affairs Opportunities: (Multiple Locations: CA, NY, FL)](https://jobright.ai/jobs/info/69a8daca79f3f4037f4366f5?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Mar 04 |
+| **[FMNE Insurance](https://fmne.com)** | **[Claims Adjuster Intern - Kearney, NE](https://jobright.ai/jobs/info/69a8ec002580d3183f011489?utm_campaign=1055&utm_source=git)** | Kearney, NE, US | On Site | Mar 04 |
 | **[The New York Racing Association](https://www.nyrainc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a8ca962580d3183f00e184?utm_campaign=1055&utm_source=git)** | Jamaica, NY | On Site | Mar 04 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69a8c7317ac93962b7089600?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 04 |
 | **[Law Office of Bryan Fagan](http://www.bryanfagan.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a8c6432580d3183f00d9ee?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Mar 04 |
@@ -113,7 +121,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Grant Compliance & Data Intern](https://jobright.ai/jobs/info/699d151bce78e77b4fe1e609?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Mar 03 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/69a78d1876bbe83d3afaee92?utm_campaign=1055&utm_source=git)** | Redwood City, California, United States | Hybrid | Mar 03 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Data and Technology - Legal Privacy Intern (Summer 2026)](https://jobright.ai/jobs/info/69a78bbd2672cb0acb4c0160?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 03 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Cyber Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/69a88c3679f3f4037f4262c5?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Mar 03 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Labor & Employment, Holland & Hart (Salt Lake City)](https://jobright.ai/jobs/info/696b2baf350cf43803127f7a?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Mar 03 |
 | **[Keenova](https://www.keenova.com)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/699f399894ef206f184e5552?utm_campaign=1055&utm_source=git)** | Malvern, PA | Hybrid | Mar 03 |
 | **[Edwards Estate & Elder Law](https://edwardsestatelaw.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69a8a26579f3f4037f42cc67?utm_campaign=1055&utm_source=git)** | Watchung,NJ,US | On Site | Mar 03 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ThinkOn](https://www.thinkon.com)** | **[Intern - Governance, Risk & Compliance](https://jobright.ai/jobs/info/69a88ed379f3f4037f426d57?utm_campaign=1055&utm_source=git)** | Etobicoke, ON, CA | On Site | Mar 03 |
 | **[Greene Tweed](https://www.gtweed.com/)** | **[Summer Internship – Global Trade Compliance](https://jobright.ai/jobs/info/69a6fde176bbe83d3afa4e89?utm_campaign=1055&utm_source=git)** | Lansdale, PA, United States of America | On Site | Mar 03 |
 | **[Pretium Enterprise Services, India](www.pretium.com)** | **[Government Relations Legal Intern](https://jobright.ai/jobs/info/69a75fe21fc3d83b78093e67?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Mar 03 |
-| **[Par Health](https://parsterileproducts.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69a76bee1fc3d83b78094174?utm_campaign=1055&utm_source=git)** | Hazelwood, MO | Hybrid | Mar 03 |
-| **[TopBuild](http://www.topbuild.com)** | **[Intern - Contracts](https://jobright.ai/jobs/info/698a955bc5761b521a99da16?utm_campaign=1055&utm_source=git)** | Daytona Beach, FL | On Site | Mar 03 |
-| **[OrthoPediatrics](http://www.orthopediatrics.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a7b8201fc3d83b780952fa?utm_campaign=1055&utm_source=git)** | Warsaw, IN | On Site | Mar 03 |
-| **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698aa8b80f6f7e7a2ce5de63?utm_campaign=1055&utm_source=git)** | Kirkland, WA | On Site | Mar 03 |
-| **[Cornerstone Research](https://www.cornerstone.com)** | **[LEGAL INTERN](https://jobright.ai/jobs/info/69a6bc8376bbe83d3afa1dd8?utm_campaign=1055&utm_source=git)** | LA Metro Area | Hybrid | Mar 03 |
-| **[Inspire](https://inspirebrands.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69a6b9281b924d33c2d13385?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Mar 03 |
-| **[Community Bank, N.A.](https://cbna.com/locations/naples)** | **[FIU Intern](https://jobright.ai/jobs/info/69a60cc60da45516f16ee8ba?utm_campaign=1055&utm_source=git)** | Rochester, NY | Hybrid | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
