@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The New York Racing Association](https://www.nyrainc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a8ca962580d3183f00e184?utm_campaign=1055&utm_source=git)** | Jamaica, NY | On Site | Mar 04 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69a8c7317ac93962b7089600?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 04 |
+| **[Law Office of Bryan Fagan](http://www.bryanfagan.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a8c6432580d3183f00d9ee?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Mar 04 |
+| **[Amerant Bank](https://www.amerantbank.com/)** | **[Undergraduate Internship - Fraud Prevention](https://jobright.ai/jobs/info/69a8bdb07ac93962b70886a7?utm_campaign=1055&utm_source=git)** | Miramar, FL | On Site | Mar 04 |
+| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Legal Operations Intern](https://jobright.ai/jobs/info/69a8ba847ac93962b7088156?utm_campaign=1055&utm_source=git)** | Augusta, GA | On Site | Mar 04 |
 | **[Amerant Mortgage](https://www.amerantmortgage.com)** | **[Immersive Internship - Fraud Prevention](https://jobright.ai/jobs/info/69a8ac207ac93962b7086b5c?utm_campaign=1055&utm_source=git)** | Miramar, FL, US | On Site | Mar 04 |
 | **[PetIQ](https://petiq.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a8aad62580d3183f00aed5?utm_campaign=1055&utm_source=git)** | Eagle, ID | On Site | Mar 04 |
 | **[Ensono](https://www.ensono.com)** | **[Security Compliance Analyst-Intern](https://jobright.ai/jobs/info/69a8999c79f3f4037f42a18b?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 04 |
@@ -66,10 +71,13 @@ For a complete list, click the following sortable link below:
 | **[Law Office of Bryan Fagan](http://www.bryanfagan.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a88cc67ac93962b7084c29?utm_campaign=1055&utm_source=git)** | Houston | On Site | Mar 04 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970ed4c51f726477183248c?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Mar 04 |
 | **[Law Office of Bryan Fagan](http://www.bryanfagan.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a886a42580d3183f008d14?utm_campaign=1055&utm_source=git)** | Dallas | Hybrid | Mar 04 |
+| **[Rolls-Royce Power Systems](https://www.mtu-solutions.com/eu/en/about-us/about-rolls-royce-power-systems.html)** | **[Product Compliance Intern](https://jobright.ai/jobs/info/69a8b98a79f3f4037f432323?utm_campaign=1055&utm_source=git)** | Aiken, SC | On Site | Mar 04 |
 | **[Ensono](https://www.ensono.com)** | **[Security Compliance Analyst-Intern](https://jobright.ai/jobs/info/69a883be2580d3183f008b88?utm_campaign=1055&utm_source=git)** | Remote - United States | Remote | Mar 04 |
 | **[Circular Materials](https://circularmaterials.ca/)** | **[Intern: Risk & Compliance / Remote Canada](https://jobright.ai/jobs/info/69a89cb52580d3183f009f57?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 04 |
 | **[asmodee](https://corporate.asmodee.com/)** | **[Legal Department Intern](https://jobright.ai/jobs/info/69a87baa7ac93962b7084383?utm_campaign=1055&utm_source=git)** | Roseville, MN | Hybrid | Mar 04 |
+| **[Bright Power](https://www.brightpower.com/)** | **[Benchmarking and Compliance Intern](https://jobright.ai/jobs/info/69a8b74f2580d3183f00c235?utm_campaign=1055&utm_source=git)** | New York, NY 10004 | Hybrid | Mar 04 |
 | **[S&P Global](https://www.spglobal.com)** | **[Corporate Actions Intern](https://jobright.ai/jobs/info/69a8933d2580d3183f009702?utm_campaign=1055&utm_source=git)** | Virtual, NY | Remote | Mar 04 |
+| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Building Security Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/69a8b7fd79f3f4037f431e21?utm_campaign=1055&utm_source=git)** | Pontiac, MI, US | On Site | Mar 04 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970eb0e333b6343a14d5e5d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Mar 04 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970e12a587dfa0bb55e7036?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 04 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970ea76587dfa0bb55e750f?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 04 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Community Bank, N.A.](https://cbna.com/locations/naples)** | **[FIU Intern](https://jobright.ai/jobs/info/69a60cc60da45516f16ee8ba?utm_campaign=1055&utm_source=git)** | Rochester, NY | Hybrid | Mar 03 |
 | **[ABA Commission on Racial and Ethnic Diversity in the Profession](https://www.americanbar.org/groups/diversity/DiversityCommission/)** | **[Pro Bono - ABA UNPAID Intern](https://jobright.ai/jobs/info/69a80dee76bbe83d3afb8148?utm_campaign=1055&utm_source=git)** | North Chicago, IL | Hybrid | Mar 03 |
 | **[OrthoPediatrics](http://www.orthopediatrics.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/69a69d78f11be161e274edae?utm_campaign=1055&utm_source=git)** | Warsaw, IN | On Site | Mar 03 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ESPN Legal JD Intern, Summer 2026](https://jobright.ai/jobs/info/69a03df281476f6176ba64be?utm_campaign=1055&utm_source=git)** | Bristol, CT | On Site | Mar 03 |
-| **[Methode Electronics](http://methode.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a1f1cc359fe034b1cd317c?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | On Site | Mar 02 |
-| **[CRH](http://crh.com)** | **[Legal Intern - Atlanta, GA](https://jobright.ai/jobs/info/69a68c02708b430a607aef6c?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Mar 02 |
-| **[Peraton](https://www.peraton.com/)** | **[Contracts Administration Pipeline (Intern and Entry-level)](https://jobright.ai/jobs/info/69a67e5dd706a731db386cf3?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Mar 02 |
-| **[Oceaneering](http://www.oceaneering.com/)** | **[IT Cybersecurity Compliance Intern](https://jobright.ai/jobs/info/69a67b1de567421f42577ce7?utm_campaign=1055&utm_source=git)** | Greater Houston | Hybrid | Mar 02 |
-| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Ontario & Atlantic Offices – Opportunities in Governance, Risk and Compliance Services (GRCS) – Co-op/Intern – Winter 2027 or Summer 2027 Start](https://jobright.ai/jobs/info/69a67ae82c0d8b0f5cd09811?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 02 |
-| **[First American](http://www.firstam.com)** | **[Commercial Underwriting Graduate Intern (Hybrid)](https://jobright.ai/jobs/info/69a673c2e567421f4257768a?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Mar 02 |
-| **[Leidos](https://www.leidos.com)** | **[IT Assurance & Compliance Intern](https://jobright.ai/jobs/info/69a655f5e567421f42575747?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
