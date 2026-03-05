@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Generac](https://www.generac.com)** | **[Supplier Compliance Intern](https://jobright.ai/jobs/info/698ca21478b4502f12a32173?utm_campaign=1055&utm_source=git)** | Waukesha, WI | On Site | Mar 05 |
+| **[Wellfleet](https://wellfleetinsurance.com)** | **[Intern - Healthcare Analytics - Investigations Associate](https://jobright.ai/jobs/info/69a55ddb359fe034b1cfff69?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | Hybrid | Mar 05 |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Risk Management Internship (Summer 2026)](https://jobright.ai/jobs/info/698cc3020f6f7e7a2ce879e9?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Mar 05 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Deckers Brands Summer Intern, Corporate Legal (Undergraduate)](https://jobright.ai/jobs/info/69a9510cf2055e05d171757e?utm_campaign=1055&utm_source=git)** | Goleta, CA | Hybrid | Mar 05 |
 | ↳ | **[Deckers Brands Summer Intern, Corporate Legal (Law Student)](https://jobright.ai/jobs/info/69a95101f2055e05d171755d?utm_campaign=1055&utm_source=git)** | Goleta, CA | Hybrid | Mar 05 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Healthcare Analytics - Investigations Associate](https://jobright.ai/jobs/info/69a655bdd706a731db383891?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | Hybrid | Mar 05 |
@@ -123,6 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[Global Procurement Contracts Intern](https://jobright.ai/jobs/info/698c2bb791fdda424d590f58?utm_campaign=1055&utm_source=git)** | Rocklin, CA | On Site | Mar 04 |
 | **[Xerox](https://www.xerox.com/)** | **[Cybersecurity Governance, Risk & Compliance Intern](https://jobright.ai/jobs/info/698505a50f6f7e7a2cdf7f0e?utm_campaign=1055&utm_source=git)** | Lexington, KY | Hybrid | Mar 04 |
 | **[Flexera](https://www.flexera.com)** | **[Legal Intern](https://jobright.ai/jobs/info/696fcea882817106e976d836?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 04 |
+| **[First Command Financial Services, Inc.](http://www.firstcommand.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69a95bc2f2055e05d1717e71?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Mar 04 |
 | **[Deckers Brands](http://deckers.com)** | **[Summer Intern, Corporate Legal (Undergraduate)](https://jobright.ai/jobs/info/69a9419779f3f4037f442276?utm_campaign=1055&utm_source=git)** | Santa Barbara, CA | Hybrid | Mar 03 |
 | **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69a7ef71637232443f6546bd?utm_campaign=1055&utm_source=git)** | Doral, FL | On Site | Mar 03 |
 | **[Wiland](https://wiland.com/)** | **[Summer Internship 2026](https://jobright.ai/jobs/info/69a7b62d76bbe83d3afb2891?utm_campaign=1055&utm_source=git)** | Corporate Office - Niwot, CO 80503 | Hybrid | Mar 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Jeffcoat Firm](https://scinjurylawfirm.com)** | **[Internship- Summer 2026](https://jobright.ai/jobs/info/69a747d076bbe83d3afaa4ba?utm_campaign=1055&utm_source=git)** | Columbia, SC | On Site | Mar 03 |
 | **[MDK](https://www.manleydeas.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69a7699e76bbe83d3afaccb5?utm_campaign=1055&utm_source=git)** | MDK Columbus - COLUMBUS, OH 43204 | On Site | Mar 03 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Regulatory Affairs Intern (Remote)](https://jobright.ai/jobs/info/69a75ddb2672cb0acb4bd12b?utm_campaign=1055&utm_source=git)** | Remote (US) | Remote | Mar 03 |
-| **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Procurement - Internship](https://jobright.ai/jobs/info/69a73ce276bbe83d3afa97de?utm_campaign=1055&utm_source=git)** | Salinas, CA | On Site | Mar 03 |
-| **[Impres](http://www.imprespharma.ca)** | **[Law Department Intern](https://jobright.ai/jobs/info/69a73cb076bbe83d3afa979d?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Mar 03 |
-| **[Greene Tweed](https://www.gtweed.com/)** | **[Summer Internship – Global Trade Compliance](https://jobright.ai/jobs/info/69a9212679f3f4037f43d5f9?utm_campaign=1055&utm_source=git)** | Lansdale, PA | On Site | Mar 03 |
-| **[Digital Federal Credit Union](https://www.dcu.org)** | **[Fraud Prevention Intern, Full-Time, Hybrid Marlborough MA](https://jobright.ai/jobs/info/69a759512672cb0acb4bcbbd?utm_campaign=1055&utm_source=git)** | Marlborough, MA | Hybrid | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
