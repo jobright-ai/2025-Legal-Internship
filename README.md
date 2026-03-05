@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wurth Elektronik](https://www.we-ics.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/698c8f530f6f7e7a2ce84670?utm_campaign=1055&utm_source=git)** | Watertown, SD | On Site | Mar 05 |
 | **[Ultragenyx](http://www.ultragenyx.com)** | **[Intern, Clinical Regulatory Writing](https://jobright.ai/jobs/info/69a99af0f2055e05d171de4e?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 05 |
 | **[Open Society Foundations](https://www.opensocietyfoundations.org/)** | **[Internship (Graduate or Masters Associate)](https://jobright.ai/jobs/info/69a99a53f6c22f2e3686a0fa?utm_campaign=1055&utm_source=git)** | New York | Hybrid | Mar 05 |
 | **[State Street](https://www.statestreet.com/)** | **[Conduct Risk Compliance Associate, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69a21936359fe034b1cd56c0?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Mar 05 |
@@ -100,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Larimer County](https://www.larimer.gov)** | **[District Attorney Unpaid Legal Intern Spring, Summer, or Fall 2026](https://jobright.ai/jobs/info/69a971067f9271426f884f06?utm_campaign=1055&utm_source=git)** | Fort Collins, CO | On Site | Mar 04 |
 | **[The New York Racing Association](https://www.nyrainc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a8ca962580d3183f00e184?utm_campaign=1055&utm_source=git)** | Jamaica, NY | On Site | Mar 04 |
 | **[First American](http://www.firstam.com)** | **[Legal & Compliance Undergraduate Internship (Hybrid Opportunity)](https://jobright.ai/jobs/info/69a8f66b7ac93962b708ddf9?utm_campaign=1055&utm_source=git)** | USA, Idaho, Idaho Falls | Hybrid | Mar 04 |
-| **[Tech World Networking](techworldnetworking.us)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69a8c7317ac93962b7089600?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 04 |
 | **[Law Office of Bryan Fagan](http://www.bryanfagan.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a8c6432580d3183f00d9ee?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Mar 04 |
 | **[Amerant Bank](https://www.amerantbank.com/)** | **[Undergraduate Internship - Fraud Prevention](https://jobright.ai/jobs/info/69a8bdb07ac93962b70886a7?utm_campaign=1055&utm_source=git)** | Miramar, FL | On Site | Mar 04 |
 | **[Larimer County Department of Health and Environment](http://www.larimer.gov/health)** | **[District Attorney Unpaid Legal Intern Spring, Summer, or Fall 2026](https://jobright.ai/jobs/info/69a9738bf6c22f2e368658f7?utm_campaign=1055&utm_source=git)** | Laporte, CO | On Site | Mar 04 |
@@ -125,14 +125,13 @@ For a complete list, click the following sortable link below:
 | **[The Wright Center for Graduate Medical Education](http://www.thewrightcenter.org)** | **[Intern, Legal](https://jobright.ai/jobs/info/69a8d5f579f3f4037f435f26?utm_campaign=1055&utm_source=git)** | Scranton,PA,US | On Site | Mar 04 |
 | **[Bright Power](https://www.brightpower.com/)** | **[Benchmarking and Compliance Intern](https://jobright.ai/jobs/info/69a8b74f2580d3183f00c235?utm_campaign=1055&utm_source=git)** | New York, NY 10004 | Hybrid | Mar 04 |
 | **[S&P Global](https://www.spglobal.com)** | **[Corporate Actions Intern](https://jobright.ai/jobs/info/69a8933d2580d3183f009702?utm_campaign=1055&utm_source=git)** | Virtual, NY | Remote | Mar 04 |
-| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Building Security Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/69a92e9579f3f4037f43f078?utm_campaign=1055&utm_source=git)** | Pontiac, MI, US | On Site | Mar 04 |
-| ↳ | **[2026 Building Security Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/69a946e40bc35444388b34ce?utm_campaign=1055&utm_source=git)** | US-MI-Pontiac | On Site | Mar 04 |
+| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Building Security Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/69a946e40bc35444388b34ce?utm_campaign=1055&utm_source=git)** | US-MI-Pontiac | On Site | Mar 04 |
+| ↳ | **[2026 Building Security Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/69a92e9579f3f4037f43f078?utm_campaign=1055&utm_source=git)** | Pontiac, MI, US | On Site | Mar 04 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970eb0e333b6343a14d5e5d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Mar 04 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970e12a587dfa0bb55e7036?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 04 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970ea76587dfa0bb55e750f?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 04 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Immigration Specialist (Internship)](https://jobright.ai/jobs/info/69a86f3e7ac93962b7083d80?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 04 |
 | **[Hexagon Asset Lifecycle Intelligence](https://hexagonppm.com/)** | **[IT Policy & Process Intern](https://jobright.ai/jobs/info/69a916a02580d3183f0150ec?utm_campaign=1055&utm_source=git)** | Greater Houston | Remote | Mar 04 |
-| **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Compliance Operations Intern](https://jobright.ai/jobs/info/69a8a87e79f3f4037f42ebfc?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Mar 04 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - King of Prussia, PA](https://jobright.ai/jobs/info/69a3bdcbb600907a9629be4a?utm_campaign=1055&utm_source=git)** | King of Prussia, PA | On Site | Mar 04 |
 | **[Carmeuse](http://www.carmeuse.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6972f494694e99351d143c64?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Mar 04 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/698bd66306d9b0622495fca9?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[First American](http://www.firstam.com)** | **[Legal Intern- 1031 Exchange Company (Remote)](https://jobright.ai/jobs/info/69a8902e79f3f4037f427621?utm_campaign=1055&utm_source=git)** | Santa Ana, CA | Remote | Mar 03 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/69a7a54176bbe83d3afb07fc?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Mar 03 |
 | **[UNFI](http://unfi.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/69a8a7e679f3f4037f42e97e?utm_campaign=1055&utm_source=git)** | Providence, RI | Hybrid | Mar 03 |
+| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Regulatory Affairs Intern (Remote)](https://jobright.ai/jobs/info/69a79620637232443f64d830?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
