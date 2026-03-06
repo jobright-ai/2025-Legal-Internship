@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TKO](https://tkogrp.com)** | **[Intern, Rights](https://jobright.ai/jobs/info/69aa26392ebd316bece1dda4?utm_campaign=1055&utm_source=git)** | Utica-Rome Area | On Site | Mar 05 |
+| **[Ipsen](http://www.ipsen.com)** | **[GP & Commercial Contracts Intern](https://jobright.ai/jobs/info/69aa1a641f59c56275e2ea52?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Mar 05 |
+| **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[Summer Intern](https://jobright.ai/jobs/info/69aa160a9ca4e908ec6561e1?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | Hybrid | Mar 05 |
+| **[Fulcrum GT](https://fulcrumgt.com)** | **[In-House Legal Summer Associate](https://jobright.ai/jobs/info/69aa12b61f59c56275e2e32a?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | On Site | Mar 05 |
+| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern - Information Risk and Governance Analyst - Spring/Summer 2026](https://jobright.ai/jobs/info/69aa0fe91f59c56275e2e045?utm_campaign=1055&utm_source=git)** | Utica, NY | On Site | Mar 05 |
+| ↳ | **[College Intern - Information Risk and Governance Analyst - Spring/Summer 2026](https://jobright.ai/jobs/info/69aa0fc71f59c56275e2dffd?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Mar 05 |
+| **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Regulatory Affairs Intern 2026](https://jobright.ai/jobs/info/69aa0f869ca4e908ec655c48?utm_campaign=1055&utm_source=git)** | Irvine, CA | Hybrid | Mar 05 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern - Information Risk and Governance Analyst - Spring/Summer 2026](https://jobright.ai/jobs/info/69aa0bb62ebd316bece1c8cc?utm_campaign=1055&utm_source=git)** | Elmira, NY | On Site | Mar 05 |
 | ↳ | **[College Intern - Information Risk and Governance Analyst - Spring/Summer 2026](https://jobright.ai/jobs/info/69aa083a1f59c56275e2da91?utm_campaign=1055&utm_source=git)** | Latham, NY | On Site | Mar 05 |
 | ↳ | **[College Intern - Information Risk and Governance Analyst - Spring/Summer 2026](https://jobright.ai/jobs/info/69aa07932ebd316bece1c5d5?utm_campaign=1055&utm_source=git)** | DeWitt, NY | On Site | Mar 05 |
@@ -71,6 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Lincoln Savings Bank](https://mylsb.com)** | **[Intern - Risk](https://jobright.ai/jobs/info/69a9f4701f59c56275e2c2a0?utm_campaign=1055&utm_source=git)** | Waterloo, IA, US | On Site | Mar 05 |
 | **[PBS](http://www.pbs.org)** | **[Intern (Legal)](https://jobright.ai/jobs/info/69a9f23c1f59c56275e2bef6?utm_campaign=1055&utm_source=git)** | Arlington, VA | Hybrid | Mar 05 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Vendor Risk Management Summer Intern](https://jobright.ai/jobs/info/69a9ee0b9ca4e908ec6533fc?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 05 |
+| **[TransMedics, Inc.](http://www.transmedics.com/wt/home/index)** | **[Governance, Risk & Compliance (GRC) Intern](https://jobright.ai/jobs/info/69aa0f639ca4e908ec655bd5?utm_campaign=1055&utm_source=git)** | Andover, MA | On Site | Mar 05 |
+| **[Iron Mountain](http://www.ironmountain.com)** | **[2026 Summer Sales DOC Contracts Support Intern (Undergraduate)](https://jobright.ai/jobs/info/69aa0f121f59c56275e2de58?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Mar 05 |
 | **[Strada Education Foundation](https://www.strada.org)** | **[Strada Education Foundation Internship: Legal Intern](https://jobright.ai/jobs/info/69aa0ad82ebd316bece1c7ed?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 05 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Commercial Underwriting Graduate Intern (Hybrid)](https://jobright.ai/jobs/info/69a9e74a1f59c56275e2afb0?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Mar 05 |
 | **[United Talent Agency](http://www.unitedtalent.com)** | **[UTA Advisory Summer 2026 Internship](https://jobright.ai/jobs/info/69a9e5bc9ca4e908ec6529cc?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 05 |
@@ -97,12 +106,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern - Municipal Finance Law Bureau](https://jobright.ai/jobs/info/69a9c0fe9ca4e908ec64f64f?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Mar 05 |
 | **[FMNE Insurance](https://fmne.com)** | **[Internship - Claims Adjuster Intern- Gering, NE](https://jobright.ai/jobs/info/69a9c08b2ebd316bece14dcc?utm_campaign=1055&utm_source=git)** | Gering, NE, US | On Site | Mar 05 |
 | ↳ | **[Claims Adjuster Intern - Grand Island, NE](https://jobright.ai/jobs/info/69a9c0781f59c56275e27897?utm_campaign=1055&utm_source=git)** | Lincoln, NE, US | On Site | Mar 05 |
-| ↳ | **[Internship- Claims Adjuster Intern- Aberdeen, SD](https://jobright.ai/jobs/info/69a9c0761f59c56275e27890?utm_campaign=1055&utm_source=git)** | Aberdeen, SD, US | On Site | Mar 05 |
 | ↳ | **[Internship- Claims Adjuster Intern- Sioux Falls, SD](https://jobright.ai/jobs/info/69a9c0761f59c56275e2788c?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD, US | On Site | Mar 05 |
+| ↳ | **[Internship- Claims Adjuster Intern- Aberdeen, SD](https://jobright.ai/jobs/info/69a9c0761f59c56275e27890?utm_campaign=1055&utm_source=git)** | Aberdeen, SD, US | On Site | Mar 05 |
 | ↳ | **[Intern- Claims Adjuster Intern- Omaha, NE](https://jobright.ai/jobs/info/69a9c0751f59c56275e2788b?utm_campaign=1055&utm_source=git)** | Omaha, NE, US | On Site | Mar 05 |
 | ↳ | **[Internship-Claims Adjuster Intern- North Platte, NE](https://jobright.ai/jobs/info/69a9c0239ca4e908ec64f51c?utm_campaign=1055&utm_source=git)** | North Platte, NE, US | On Site | Mar 05 |
-| ↳ | **[Internship - Claims Adjuster Intern- Norfolk NE](https://jobright.ai/jobs/info/69a9c0239ca4e908ec64f51a?utm_campaign=1055&utm_source=git)** | Norfolk, NE, US | On Site | Mar 05 |
 | ↳ | **[Internship-Claims Adjuster Intern- Columbus, NE](https://jobright.ai/jobs/info/69a9c0239ca4e908ec64f518?utm_campaign=1055&utm_source=git)** | Columbus, NE, US | On Site | Mar 05 |
+| ↳ | **[Internship - Claims Adjuster Intern- Norfolk NE](https://jobright.ai/jobs/info/69a9c0239ca4e908ec64f51a?utm_campaign=1055&utm_source=git)** | Norfolk, NE, US | On Site | Mar 05 |
 | **[Fish & Richardson P.C.](http://www.fr.com/)** | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970e7bf587dfa0bb55e7354?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 05 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970ded251f7264771831bbc?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Mar 05 |
 | ↳ | **[2027 2L Summer Associate IP Litigation / Patent Prosecution (JD Class 2028)](https://jobright.ai/jobs/info/6970d55851f726477183157e?utm_campaign=1055&utm_source=git)** | Wilmington, DE | On Site | Mar 05 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Regent, Inc.](http://www.americanregent.com/)** | **[Commercial Contracts and Operations Intern](https://jobright.ai/jobs/info/69a8e7167ac93962b708ca06?utm_campaign=1055&utm_source=git)** | Melville, NY | Hybrid | Mar 04 |
 | **[Astrion](https://astrion.us)** | **[Contracts Intern](https://jobright.ai/jobs/info/69a9715e7f9271426f8850b5?utm_campaign=1055&utm_source=git)** | Huntsville, AL | Hybrid | Mar 04 |
 | **[Bollinger Shipyards](http://bollingershipyards.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69a8e1bf7ac93962b708c3b7?utm_campaign=1055&utm_source=git)** | Raceland, LA | On Site | Mar 04 |
-| **[TRIUMPH](https://www.triumphgroup.com/)** | **[Contracts Intern](https://jobright.ai/jobs/info/69a8fe7b7ac93962b708e86d?utm_campaign=1055&utm_source=git)** | West Hartford, CT, US, 06110-1328 | On Site | Mar 04 |
-| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship: Business & Legal Affairs Opportunities: (Multiple Locations: CA, NY, FL)](https://jobright.ai/jobs/info/69a8daca79f3f4037f4366f5?utm_campaign=1055&utm_source=git)** | Santa Monica, CA | On Site | Mar 04 |
-| **[CapCenter](https://www.capcenter.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a905a979f3f4037f43b255?utm_campaign=1055&utm_source=git)** | Glen Allen, VA, US | On Site | Mar 04 |
-| **[FMNE Insurance](https://fmne.com)** | **[Internship- Claims Adjuster Intern- Aberdeen, SD](https://jobright.ai/jobs/info/69a9df881f59c56275e29bbd?utm_campaign=1055&utm_source=git)** | Aberdeen, SD | On Site | Mar 04 |
-| ↳ | **[Internship- Claims Adjuster Intern- Sioux Falls, SD](https://jobright.ai/jobs/info/69a9df282ebd316bece1702f?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Mar 04 |
-| ↳ | **[Internship-Claims Adjuster Intern- North Platte, NE](https://jobright.ai/jobs/info/69a9de759ca4e908ec65175b?utm_campaign=1055&utm_source=git)** | North Platte, NE | On Site | Mar 04 |
-| ↳ | **[Internship-Claims Adjuster Intern- Columbus, NE](https://jobright.ai/jobs/info/69a9de969ca4e908ec6517af?utm_campaign=1055&utm_source=git)** | Columbus, NE | On Site | Mar 04 |
-| ↳ | **[Intern- Claims Adjuster Intern- Omaha, NE](https://jobright.ai/jobs/info/69a9df551f59c56275e29b6a?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Mar 04 |
-| **[Cargo Aircraft Management, Inc.](https://www.cargoleasing.com)** | **[CAM - CONTRACTS INTERN](https://jobright.ai/jobs/info/69a9fac49ca4e908ec6546cf?utm_campaign=1055&utm_source=git)** | Wilmington, OH | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
