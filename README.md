@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69738777206da320f49d853c?utm_campaign=1055&utm_source=git)** | Worcester, PA | On Site | Mar 07 |
+| **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Summer Legal Associate, Federal Policy and Advocacy](https://jobright.ai/jobs/info/691e4a50a49a885af9a27458?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Mar 07 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69a5f4940da45516f16ec0ef?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 07 |
 | **[Disability Law Group](https://disabilitylawgroup.com/)** | **[Legal Writing Intern](https://jobright.ai/jobs/info/69abe0742747003c3d51c388?utm_campaign=1055&utm_source=git)** | Troy, MI | Hybrid | Mar 07 |
 | **[Delta Dental of New Jersey and Connecticut](https://www.deltadentalnj.com)** | **[Legal Internship](https://jobright.ai/jobs/info/69ab98577e1fab39d3830c49?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | Hybrid | Mar 06 |
@@ -89,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Precisely](https://www.precisely.com)** | **[Corporate/Compliance Legal Intern](https://jobright.ai/jobs/info/69ab00912747003c3d50a9b6?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 06 |
 | **[Scooter your way](https://www.linkedin.com/company/108105796)** | **[Intern law students](https://jobright.ai/jobs/info/69aaf50a142d5b4265fc3a2e?utm_campaign=1055&utm_source=git)** | Michigan, United States | Hybrid | Mar 06 |
 | **[Alfa Laval](http://www.alfalaval.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/69728f9b584a1c1ef6fd8abd?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Mar 06 |
+| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Intellectual Property, Holland & Hart (Denver)](https://jobright.ai/jobs/info/69690bfcf25a380066979a9f?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Mar 06 |
 | **[Athletes First](http://www.athletesfirst.net/)** | **[2026 Summer Legal Intern](https://jobright.ai/jobs/info/69aad3f37e1fab39d38277a8?utm_campaign=1055&utm_source=git)** | Laguna Hills, CA | On Site | Mar 06 |
 | **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/698e18b378b4502f12a4e5a8?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Mar 06 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e22b40f6f7e7a2cea3025?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Mar 06 |
@@ -98,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department - BSA/AML Compliance Intern](https://jobright.ai/jobs/info/697285fb9b83b424830e76a0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 06 |
 | **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/698e158178b4502f12a4e2e5?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Mar 06 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e156c0f6f7e7a2cea23d3?utm_campaign=1055&utm_source=git)** | Charleston, SC | On Site | Mar 06 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e24440f6f7e7a2cea3211?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 06 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e0d550f6f7e7a2cea1d14?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 06 |
+| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e24440f6f7e7a2cea3211?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 06 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Safety](https://jobright.ai/jobs/info/69727e0d9b83b424830e6e1b?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Mar 06 |
 | **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/698e0f6b78b4502f12a4dd92?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Mar 06 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/698e1de80f6f7e7a2cea2b5d?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Mar 06 |
@@ -115,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa5f972ebd316bece22081?utm_campaign=1055&utm_source=git)** | West Milton, NY | On Site | Mar 05 |
 | ↳ | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa5f962ebd316bece22080?utm_campaign=1055&utm_source=git)** | Energy, IL | On Site | Mar 05 |
 | **[IDEXX](http://www.idexx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69aa56e42ebd316bece21a81?utm_campaign=1055&utm_source=git)** | Westbrook, ME | On Site | Mar 05 |
-| **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa53d52ebd316bece214c4?utm_campaign=1055&utm_source=git)** | Niskayuna, NY | On Site | Mar 05 |
-| ↳ | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa53d52ebd316bece214c3?utm_campaign=1055&utm_source=git)** | Schenectady, NY | On Site | Mar 05 |
+| **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa53d52ebd316bece214c3?utm_campaign=1055&utm_source=git)** | Schenectady, NY | On Site | Mar 05 |
+| ↳ | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa53d52ebd316bece214c4?utm_campaign=1055&utm_source=git)** | Niskayuna, NY | On Site | Mar 05 |
 | ↳ | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa53a51f59c56275e32da3?utm_campaign=1055&utm_source=git)** | West Mifflin, PA | On Site | Mar 05 |
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[Law Clerk](https://jobright.ai/jobs/info/69aa51149ca4e908ec65a892?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Mar 05 |
 | **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[Legal Internship](https://jobright.ai/jobs/info/69aa40011f59c56275e31a80?utm_campaign=1055&utm_source=git)** | Charleston, SC | On Site | Mar 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Commercial Underwriting Graduate Intern (Hybrid)](https://jobright.ai/jobs/info/69a9e74a1f59c56275e2afb0?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Mar 05 |
 | **[United Talent Agency](http://www.unitedtalent.com)** | **[UTA Advisory Summer 2026 Internship](https://jobright.ai/jobs/info/69a9e5bc9ca4e908ec6529cc?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 05 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Team Intern (Unpaid)](https://jobright.ai/jobs/info/69a09c8581476f6176baeda0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 05 |
-| **[Cargo Aircraft Management, Inc.](https://www.cargoleasing.com)** | **[CAM - CONTRACTS INTERN](https://jobright.ai/jobs/info/69a9dfe19ca4e908ec651945?utm_campaign=1055&utm_source=git)** | Wilmington, Ohio, United States | On Site | Mar 05 |
-| **[Air Transport Services Group, Inc.](http://www.atsginc.com)** | **[CAM - CONTRACTS INTERN](https://jobright.ai/jobs/info/69a9dfd02ebd316bece1712f?utm_campaign=1055&utm_source=git)** | Wilmington, Ohio, United States | On Site | Mar 05 |
-| **[National Association of Insurance Commissioners (NAIC)](http://www.naic.org)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69a9dfb11f59c56275e29c4d?utm_campaign=1055&utm_source=git)** | Kansas City | Hybrid | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
