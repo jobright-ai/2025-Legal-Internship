@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ProAmpac](http://www.proampac.com)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/6973e1efbc8e722e7b18b502?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Mar 07 |
+| **[El Camino Health](https://www.elcaminohealth.org )** | **[Legal Intern (Temporary Role) - FT - Days - Legal Services @ MV](https://jobright.ai/jobs/info/69901aec0f6f7e7a2cec6bcb?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Mar 07 |
 | **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | Mar 07 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Strategic Accounts, Compliance Intern](https://jobright.ai/jobs/info/699019080f6f7e7a2cec6a49?utm_campaign=1055&utm_source=git)** | San Mateo, CA | Hybrid | Mar 07 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Compliance and Risk Summer Intern - S&P Global](https://jobright.ai/jobs/info/69ac388f2747003c3d5202b8?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 07 |
@@ -121,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa5f972ebd316bece22081?utm_campaign=1055&utm_source=git)** | West Milton, NY | On Site | Mar 05 |
 | ↳ | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa5f962ebd316bece22080?utm_campaign=1055&utm_source=git)** | Energy, IL | On Site | Mar 05 |
 | **[IDEXX](http://www.idexx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69aa56e42ebd316bece21a81?utm_campaign=1055&utm_source=git)** | Westbrook, ME | On Site | Mar 05 |
-| **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa53d52ebd316bece214c4?utm_campaign=1055&utm_source=git)** | Niskayuna, NY | On Site | Mar 05 |
-| ↳ | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa53d52ebd316bece214c3?utm_campaign=1055&utm_source=git)** | Schenectady, NY | On Site | Mar 05 |
+| **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa53d52ebd316bece214c3?utm_campaign=1055&utm_source=git)** | Schenectady, NY | On Site | Mar 05 |
+| ↳ | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa53d52ebd316bece214c4?utm_campaign=1055&utm_source=git)** | Niskayuna, NY | On Site | Mar 05 |
 | ↳ | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa53a51f59c56275e32da3?utm_campaign=1055&utm_source=git)** | West Mifflin, PA | On Site | Mar 05 |
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[Law Clerk](https://jobright.ai/jobs/info/69aa51149ca4e908ec65a892?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Mar 05 |
 | **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[Legal Internship](https://jobright.ai/jobs/info/69aa40011f59c56275e31a80?utm_campaign=1055&utm_source=git)** | Charleston, SC | On Site | Mar 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lincoln Savings Bank](https://mylsb.com)** | **[Intern - Risk](https://jobright.ai/jobs/info/69a9f4701f59c56275e2c2a0?utm_campaign=1055&utm_source=git)** | Waterloo, IA, US | On Site | Mar 05 |
 | **[PBS](http://www.pbs.org)** | **[Intern (Legal)](https://jobright.ai/jobs/info/69a9f23c1f59c56275e2bef6?utm_campaign=1055&utm_source=git)** | Arlington, VA | Hybrid | Mar 05 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Vendor Risk Management Summer Intern](https://jobright.ai/jobs/info/69a9ee0b9ca4e908ec6533fc?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 05 |
-| **[TransMedics, Inc.](http://www.transmedics.com/wt/home/index)** | **[Governance, Risk & Compliance (GRC) Intern](https://jobright.ai/jobs/info/69aa0f639ca4e908ec655bd5?utm_campaign=1055&utm_source=git)** | Andover, MA | On Site | Mar 05 |
-| **[Strada Education Foundation](https://www.strada.org)** | **[Strada Education Foundation Internship: Legal Intern](https://jobright.ai/jobs/info/69aa0ad82ebd316bece1c7ed?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
