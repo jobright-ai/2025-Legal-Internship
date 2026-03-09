@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nassau County District Attorney](https://nassauda.org)** | **[Intern (Summer 2026)](https://jobright.ai/jobs/info/69af23f4dfaeda6ff5973483?utm_campaign=1055&utm_source=git)** | Mineola, NY | On Site | Mar 09 |
+| ↳ | **[Intern (Summer 2026)](https://jobright.ai/jobs/info/69af21f27495006450939243?utm_campaign=1055&utm_source=git)** | Hempstead, NY | On Site | Mar 09 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69af20576b21de023e603754?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Mar 09 |
 | **[Frost](https://www.frostbank.com/)** | **[Summer College Intern - Compliance](https://jobright.ai/jobs/info/69af1d8adfaeda6ff5971e1f?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Mar 09 |
 | **[Olin](http://www.olin.com/)** | **[Security and Risk Management Intern - 2026](https://jobright.ai/jobs/info/69af1ac7dfaeda6ff5971ce9?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 09 |
 | **[State of Missouri](http://mo.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/69af0f40dfaeda6ff59713d5?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Mar 09 |
@@ -92,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Legal Intern (Temporary Role) - FT - Days - Legal Services @ MV](https://jobright.ai/jobs/info/69901aec0f6f7e7a2cec6bcb?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Mar 07 |
 | **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | Mar 07 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Strategic Accounts, Compliance Intern](https://jobright.ai/jobs/info/699019080f6f7e7a2cec6a49?utm_campaign=1055&utm_source=git)** | San Mateo, CA | Hybrid | Mar 07 |
-| **[Acadia Pharmaceuticals Inc.](https://www.acadia-pharm.com/)** | **[CSV and Data Compliance Intern](https://jobright.ai/jobs/info/69af18917495006450938534?utm_campaign=1055&utm_source=git)** | Princeton, New Jersey, United States | Hybrid | Mar 07 |
 | **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69738777206da320f49d853c?utm_campaign=1055&utm_source=git)** | Worcester, PA | On Site | Mar 07 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Summer Legal Associate, Federal Policy and Advocacy](https://jobright.ai/jobs/info/691e4a50a49a885af9a27458?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Mar 07 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69a5f4940da45516f16ec0ef?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 07 |
@@ -146,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/698e0ea70f6f7e7a2cea1e57?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Mar 06 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Quality Assurance Compliance Intern (Onsite - Hopewell, NJ)](https://jobright.ai/jobs/info/698eaa0078b4502f12a581ec?utm_campaign=1055&utm_source=git)** | Hopewell, NJ | On Site | Mar 06 |
 | **[GoldenGate Lawyers](http://goldengatelawyers.com/)** | **[articling law student](https://jobright.ai/jobs/info/69aab0742747003c3d506011?utm_campaign=1055&utm_source=git)** | Niagara Falls, Ontario, Canada | On Site | Mar 06 |
-| **[Planned Systems International](http://www.plan-sys.com)** | **[Legal Intern](https://jobright.ai/jobs/info/697309171790715e866bfc02?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 06 |
 | **[International Academies of Emergency Dispatch](https://www.emergencydispatch.org/)** | **[Legal Internship](https://jobright.ai/jobs/info/69aa85241f59c56275e36f54?utm_campaign=1055&utm_source=git)** | 110 S. REGENT STREET SUITE 500 - SALT LAKE CITY, UT 84111 | Hybrid | Mar 05 |
 | **[Athletes First](http://www.athletesfirst.net/)** | **[2026 Summer Legal Intern](https://jobright.ai/jobs/info/69aa7d5b9ca4e908ec65cb11?utm_campaign=1055&utm_source=git)** | Laguna Hills, CA | Remote | Mar 05 |
 | **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[2026 Summer Internship- Legal](https://jobright.ai/jobs/info/69abdf017e1fab39d383a335?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Mar 05 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa5f972ebd316bece22081?utm_campaign=1055&utm_source=git)** | West Milton, NY | On Site | Mar 05 |
 | ↳ | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa5f962ebd316bece22080?utm_campaign=1055&utm_source=git)** | Energy, IL | On Site | Mar 05 |
 | **[IDEXX](http://www.idexx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69aa56e42ebd316bece21a81?utm_campaign=1055&utm_source=git)** | Westbrook, ME | On Site | Mar 05 |
-| **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa53d52ebd316bece214c3?utm_campaign=1055&utm_source=git)** | Schenectady, NY | On Site | Mar 05 |
-| ↳ | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa53d52ebd316bece214c4?utm_campaign=1055&utm_source=git)** | Niskayuna, NY | On Site | Mar 05 |
-| ↳ | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa53a51f59c56275e32da3?utm_campaign=1055&utm_source=git)** | West Mifflin, PA | On Site | Mar 05 |
+| **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa53d52ebd316bece214c4?utm_campaign=1055&utm_source=git)** | Niskayuna, NY | On Site | Mar 05 |
+| ↳ | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa53d52ebd316bece214c3?utm_campaign=1055&utm_source=git)** | Schenectady, NY | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
