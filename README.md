@@ -111,9 +111,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e124b0f6f7e7a2cea2185?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Mar 06 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department - BSA/AML Compliance Intern](https://jobright.ai/jobs/info/697285fb9b83b424830e76a0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 06 |
 | **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/698e158178b4502f12a4e2e5?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Mar 06 |
+| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e0d550f6f7e7a2cea1d14?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 06 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e24440f6f7e7a2cea3211?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 06 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e156c0f6f7e7a2cea23d3?utm_campaign=1055&utm_source=git)** | Charleston, SC | On Site | Mar 06 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e0d550f6f7e7a2cea1d14?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 06 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Safety](https://jobright.ai/jobs/info/69727e0d9b83b424830e6e1b?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Mar 06 |
 | **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/698e0f6b78b4502f12a4dd92?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Mar 06 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Third Party Attestation - Summer 2026 (San Jose)](https://jobright.ai/jobs/info/698e1de80f6f7e7a2cea2b5d?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Mar 06 |
@@ -129,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa5f972ebd316bece22081?utm_campaign=1055&utm_source=git)** | West Milton, NY | On Site | Mar 05 |
 | ↳ | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa5f962ebd316bece22080?utm_campaign=1055&utm_source=git)** | Energy, IL | On Site | Mar 05 |
 | **[IDEXX](http://www.idexx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69aa56e42ebd316bece21a81?utm_campaign=1055&utm_source=git)** | Westbrook, ME | On Site | Mar 05 |
-| **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa53d52ebd316bece214c4?utm_campaign=1055&utm_source=git)** | Niskayuna, NY | On Site | Mar 05 |
-| ↳ | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa53d52ebd316bece214c3?utm_campaign=1055&utm_source=git)** | Schenectady, NY | On Site | Mar 05 |
+| **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa53d52ebd316bece214c3?utm_campaign=1055&utm_source=git)** | Schenectady, NY | On Site | Mar 05 |
+| ↳ | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa53d52ebd316bece214c4?utm_campaign=1055&utm_source=git)** | Niskayuna, NY | On Site | Mar 05 |
 | ↳ | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69aa53a51f59c56275e32da3?utm_campaign=1055&utm_source=git)** | West Mifflin, PA | On Site | Mar 05 |
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[Law Clerk](https://jobright.ai/jobs/info/69aa51149ca4e908ec65a892?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Mar 05 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[2026 Summer Sales DOC Contracts Support Intern (Undergraduate)](https://jobright.ai/jobs/info/69ae3f0e4f6bcc18280944c3?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Mar 05 |
