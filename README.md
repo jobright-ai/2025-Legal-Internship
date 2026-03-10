@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Edwards Lifesciences](http://www.edwards.com)** | **[Enterprise Risk Management Intern, Summer 2026](https://jobright.ai/jobs/info/69afac097495006450947eb2?utm_campaign=1055&utm_source=git)** | Alton, TX | On Site | Mar 09 |
 | **[Astrion](https://astrion.us)** | **[Contracts Intern](https://jobright.ai/jobs/info/69af99947495006450943367?utm_campaign=1055&utm_source=git)** | Huntsville, AL | Hybrid | Mar 09 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Graduate Year-Round - Regulatory and Contract Law, Hybrid](https://jobright.ai/jobs/info/69af95dd7495006450941d4b?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Mar 09 |
 | **[LWCC](https://www.lwcc.com/)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/696e8b40db26b61895116859?utm_campaign=1055&utm_source=git)** | Baton Rouge Metro | On Site | Mar 09 |
@@ -96,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/69af0f40dfaeda6ff59713d5?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Mar 09 |
 | **[American Tower](https://www.americantower.com/)** | **[Safety & Compliance Intern](https://jobright.ai/jobs/info/69af0e266b21de023e6025ad?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 09 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/69af0e176b21de023e602571?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Mar 09 |
-| **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2026 - Investment Counsel Support](https://jobright.ai/jobs/info/69af0c8c6b21de023e6023a7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Mar 09 |
 | **[GSK](http://www.gsk.com)** | **[Regulatory Affairs Associate - Summer internship (4 Months)](https://jobright.ai/jobs/info/69af0c8c6b21de023e6023b2?utm_campaign=1055&utm_source=git)** | Mississauga Milverton Drive | On Site | Mar 09 |
 | **[Leidos](https://www.leidos.com)** | **[Cyber & Privacy Intern](https://jobright.ai/jobs/info/69af0c507495006450937a04?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Mar 09 |
 | **[Sierra Club](http://sierraclub.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/69af0433dfaeda6ff597096c?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 09 |
