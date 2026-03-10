@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern - Contract Management](https://jobright.ai/jobs/info/69b06ad07495006450969bbc?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 10 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Paralegal Intern](https://jobright.ai/jobs/info/69b06950dfaeda6ff59a331d?utm_campaign=1055&utm_source=git)** | Denver Metropolitan Area | Hybrid | Mar 10 |
+| **[Dunmore](http://www.dunmore.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69b068e10b2db6275c044fdd?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
+| **[NYC Department of Finance](http://www.nyc.gov/html/dof/html/home/home.shtml)** | **[Records & Info Law Grad Intern](https://jobright.ai/jobs/info/69b067150b2db6275c044727?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 10 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/69b0670a7495006450969392?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 10 |
+| **[Precisely](https://www.precisely.com)** | **[Legal Intern - Privacy](https://jobright.ai/jobs/info/69b063b60b2db6275c043cd6?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
+| ↳ | **[Legal Intern - Privacy](https://jobright.ai/jobs/info/69b061647495006450968715?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
 | **[GRUNDFOS](https://grundfos.to/socialmedia)** | **[Logistics/International Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/69a921e92580d3183f01586d?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Mar 10 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Ethics Prevention Intern](https://jobright.ai/jobs/info/6994311ae0bddb6acac2975b?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | **[Mitsubishi Motor Sales of Canada, Inc.](https://www.mitsubishi-motors.ca)** | **[Intern, Legal (Mid April - Mid August)](https://jobright.ai/jobs/info/69b04a7edfaeda6ff599e5fb?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Mar 10 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Commercial Litigation, Holland & Hart (Las Vegas)](https://jobright.ai/jobs/info/69a67fa62c0d8b0f5cd09dad?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Mar 06 |
 | **[Great American Custom](https://www.gamcustom.com/Pages/index.aspx)** | **[Intern](https://jobright.ai/jobs/info/69ab96892747003c3d511ea9?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Mar 06 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Underwriting Intern - Surety (Hybrid)](https://jobright.ai/jobs/info/69abb13b142d5b4265fce8e0?utm_campaign=1055&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Mar 06 |
-| **[The University of Georgia](http://www.ai.uga.edu)** | **[Law Intern- CEASE Clinic](https://jobright.ai/jobs/info/69ab68bc142d5b4265fca1ce?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Mar 06 |
-| **[Talcott Financial Group](https://talcott.com)** | **[Law and Compliance Intern](https://jobright.ai/jobs/info/69ab66df7e1fab39d382f08b?utm_campaign=1055&utm_source=git)** | Greater Hartford | Hybrid | Mar 06 |
-| **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/69ab662b2747003c3d510500?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 06 |
-| **[CVR Energy, Inc.](http://www.cvrenergy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ab655e7e1fab39d382eb5c?utm_campaign=1055&utm_source=git)** | Sugar Land, TX | On Site | Mar 06 |
-| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart  (Denver)](https://jobright.ai/jobs/info/69691843639b452fb57ed9cc?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Mar 06 |
-| ↳ | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Cheyenne)](https://jobright.ai/jobs/info/6968fa87f25a3800669790da?utm_campaign=1055&utm_source=git)** | Cheyenne, WY | On Site | Mar 06 |
-| **[PetIQ](https://petiq.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a8aad62580d3183f00aed5?utm_campaign=1055&utm_source=git)** | Eagle, ID | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
