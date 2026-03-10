@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TechnipFMC](https://www.technipfmc.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6993837ee0bddb6acac1c8aa?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 10 |
+| **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/695c324922c9dc0d3d5410fe?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
+| ↳ | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/6975a754bc8e722e7b1a8214?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 10 |
 | **[Edwards Lifesciences](http://www.edwards.com)** | **[Enterprise Risk Management Intern, Summer 2026](https://jobright.ai/jobs/info/69afac097495006450947eb2?utm_campaign=1055&utm_source=git)** | Alton, TX | On Site | Mar 09 |
 | **[Astrion](https://astrion.us)** | **[Contracts Intern](https://jobright.ai/jobs/info/69af99947495006450943367?utm_campaign=1055&utm_source=git)** | Huntsville, AL | Hybrid | Mar 09 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Graduate Year-Round - Regulatory and Contract Law, Hybrid](https://jobright.ai/jobs/info/69af95dd7495006450941d4b?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Mar 09 |
@@ -89,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[Cyber & Privacy Intern](https://jobright.ai/jobs/info/69af31bddfaeda6ff5974894?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Mar 09 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[PX Compliance Intern](https://jobright.ai/jobs/info/69af307c749500645093ab78?utm_campaign=1055&utm_source=git)** | Dayton, OH | On Site | Mar 09 |
 | ↳ | **[PX Compliance Intern](https://jobright.ai/jobs/info/69af306f749500645093ab50?utm_campaign=1055&utm_source=git)** | Westminster, CO | On Site | Mar 09 |
+| **[Durham County Government](http://www.dconc.gov)** | **[LEGAL INTERN](https://jobright.ai/jobs/info/69afe724dfaeda6ff598ed0c?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Mar 09 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Legal Summer Internship 2026](https://jobright.ai/jobs/info/69af2ad1dfaeda6ff59740c1?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Mar 09 |
 | **[Langley Federal Credit Union](https://www.langleyfcu.org)** | **[Legal and Compliance Intern](https://jobright.ai/jobs/info/69af28af6b21de023e605058?utm_campaign=1055&utm_source=git)** | Newport News, VA | On Site | Mar 09 |
 | **[Cornerstone Research](https://www.cornerstone.com)** | **[LEGAL INTERN](https://jobright.ai/jobs/info/69a6bc8376bbe83d3afa1dd8?utm_campaign=1055&utm_source=git)** | LA Metro Area | Hybrid | Mar 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Waukesha County Health & Human Services](http://www.waukeshacounty.gov/hhs)** | **[Law Clerk Intern (Circuit Court)](https://jobright.ai/jobs/info/69ab28092747003c3d50c70b?utm_campaign=1055&utm_source=git)** | Waukesha, WI | On Site | Mar 06 |
 | **[Avnet](https://www.avnet.com)** | **[Transportation Operations and Trade Compliance Intern](https://jobright.ai/jobs/info/69ab27af7e1fab39d382aec7?utm_campaign=1055&utm_source=git)** | Chandler, Arizona, United States Of America | Hybrid | Mar 06 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Intern](https://jobright.ai/jobs/info/69ab1b267e1fab39d382a39e?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Mar 06 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69ab17f3142d5b4265fc5128?utm_campaign=1055&utm_source=git)** | Cincinnati, OH (USA) | On Site | Mar 06 |
-| **[Gallagher](https://www.ajg.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69a4140d359fe034b1cf0fe9?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | On Site | Mar 06 |
-| **[Leviton](https://www.leviton.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/698e4e8af64d441a16508479?utm_campaign=1055&utm_source=git)** | Melville, NY | On Site | Mar 06 |
-| **[Franklin Templeton](http://www.franklintempleton.com)** | **[Global Compliance - Undergrad Intern](https://jobright.ai/jobs/info/69ab07367e1fab39d382955e?utm_campaign=1055&utm_source=git)** | New York, New York, United States of America | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
