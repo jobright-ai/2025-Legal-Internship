@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smiths Group plc](http://www.smiths.com/)** | **[Law Department Intern](https://jobright.ai/jobs/info/69af81116b21de023e60b846?utm_campaign=1055&utm_source=git)** | Edgewood, MD, USA | On Site | Mar 09 |
+| **[RLI Insurance Company](http://www.rlicorp.com/)** | **[Claim/Legal Intern-Summer 2026, Downtown Chicago/Hybrid](https://jobright.ai/jobs/info/69af807d6b21de023e60b738?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 09 |
+| **[Washington State Office of the Attorney General](https://www.atg.wa.gov/)** | **[Research Fellowship](https://jobright.ai/jobs/info/69af801cdfaeda6ff597a6e3?utm_campaign=1055&utm_source=git)** | Olympia, WA | On Site | Mar 09 |
+| **[Midrex Technologies, Inc.](https://www.midrex.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6980b5a249964d25b5e37e2e?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 09 |
+| **[GSK](http://www.gsk.com)** | **[Regulatory Affairs Associate - Summer internship (4 Months)](https://jobright.ai/jobs/info/69af6fc86b21de023e608ed2?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Mar 09 |
 | **[AspinRock](https://aspinrock.com)** | **[Regulatory Compliance Analyst Intern](https://jobright.ai/jobs/info/69af6b38dfaeda6ff5977cde?utm_campaign=1055&utm_source=git)** | Triangle Area | On Site | Mar 09 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Law Intern- First Amendment Clinic](https://jobright.ai/jobs/info/69af6375dfaeda6ff59778cf?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Mar 09 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Law Department](https://jobright.ai/jobs/info/69af63656b21de023e608986?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 09 |
@@ -80,7 +85,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PX Compliance Intern](https://jobright.ai/jobs/info/69af306f749500645093ab50?utm_campaign=1055&utm_source=git)** | Westminster, CO | On Site | Mar 09 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Legal Summer Internship 2026](https://jobright.ai/jobs/info/69af2ad1dfaeda6ff59740c1?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Mar 09 |
 | **[Langley Federal Credit Union](https://www.langleyfcu.org)** | **[Legal and Compliance Intern](https://jobright.ai/jobs/info/69af28af6b21de023e605058?utm_campaign=1055&utm_source=git)** | Newport News, VA | On Site | Mar 09 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69af20576b21de023e603754?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Mar 09 |
 | **[Cornerstone Research](https://www.cornerstone.com)** | **[LEGAL INTERN](https://jobright.ai/jobs/info/69a6bc8376bbe83d3afa1dd8?utm_campaign=1055&utm_source=git)** | LA Metro Area | Hybrid | Mar 09 |
 | **[Frost](https://www.frostbank.com/)** | **[Summer College Intern - Compliance](https://jobright.ai/jobs/info/69af1d8adfaeda6ff5971e1f?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Mar 09 |
 | **[Olin](http://www.olin.com/)** | **[Security and Risk Management Intern - 2026](https://jobright.ai/jobs/info/69af1ac7dfaeda6ff5971ce9?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alfa Laval](http://www.alfalaval.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/69728f9b584a1c1ef6fd8abd?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Mar 06 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Intellectual Property, Holland & Hart (Denver)](https://jobright.ai/jobs/info/69690bfcf25a380066979a9f?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Mar 06 |
 | **[Athletes First](http://www.athletesfirst.net/)** | **[2026 Summer Legal Intern](https://jobright.ai/jobs/info/69aad3f37e1fab39d38277a8?utm_campaign=1055&utm_source=git)** | Laguna Hills, CA | On Site | Mar 06 |
-| **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/698e18b378b4502f12a4e5a8?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Mar 06 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e22b40f6f7e7a2cea3025?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Mar 06 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e0ea678b4502f12a4dcf4?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Mar 06 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e2500f64d441a16505f9e?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
