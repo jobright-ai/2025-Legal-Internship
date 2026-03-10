@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Calix](http://www.calix.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b07131dfaeda6ff59a4859?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/69b07128dfaeda6ff59a4846?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 10 |
+| **[Crash Champions](https://crashchampions.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69b06daadfaeda6ff59a3d2b?utm_campaign=1055&utm_source=git)** | Westmont, IL | On Site | Mar 10 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern - Contract Management](https://jobright.ai/jobs/info/69b06ad07495006450969bbc?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 10 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Paralegal Intern](https://jobright.ai/jobs/info/69b06950dfaeda6ff59a331d?utm_campaign=1055&utm_source=git)** | Denver Metropolitan Area | Hybrid | Mar 10 |
 | **[Dunmore](http://www.dunmore.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69b068e10b2db6275c044fdd?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
@@ -70,11 +73,13 @@ For a complete list, click the following sortable link below:
 | **[New Era Cap](https://www.neweracap.com/)** | **[Brand Protection Intern](https://jobright.ai/jobs/info/6993be1b81476f6176ab5c24?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Mar 10 |
 | **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/69b041f40b2db6275c03d737?utm_campaign=1055&utm_source=git)** | Wisconsin, United States | On Site | Mar 10 |
 | ↳ | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/69b041c50b2db6275c03d668?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Mar 10 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Paralegal Intern](https://jobright.ai/jobs/info/69b070180b2db6275c045b40?utm_campaign=1055&utm_source=git)** | Denver, CO, 80205 | Hybrid | Mar 10 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/6993b00881476f6176ab4ae3?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Mar 10 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Office of Ethics Investigations Intern](https://jobright.ai/jobs/info/69941e2f81476f6176abda83?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Contracts/Subcontracts Intern](https://jobright.ai/jobs/info/6993c399e0bddb6acac20d2a?utm_campaign=1055&utm_source=git)** | Alexandria, VA | On Site | Mar 10 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Sovereign Guarantee Operations Legal Intern](https://jobright.ai/jobs/info/69942e02e0bddb6acac29407?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | ↳ | **[IDB Invest. Legal Department's Compliance Unit Intern](https://jobright.ai/jobs/info/69942a35ce78e77b4fd81ef8?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 10 |
+| **[BMO](http://www.bmo.com)** | **[Anti-Money Laundering Investigator (Co-op/Intern), Summer 2026 - 4 months](https://jobright.ai/jobs/info/69b06f960b2db6275c0459c0?utm_campaign=1055&utm_source=git)** | Toronto, ON, CAN | On Site | Mar 10 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Vendor Compliance Intern](https://jobright.ai/jobs/info/6993a48ce0bddb6acac1eb79?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Mar 10 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993d4fd81476f6176ab6fe1?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Mar 10 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Digital Security Group Compliance Analyst - 6 month internship](https://jobright.ai/jobs/info/69787f7152f3c27ec644d06e?utm_campaign=1055&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Mar 10 |
@@ -129,6 +134,7 @@ For a complete list, click the following sortable link below:
 | **[Jovia Financial Credit Union](https://www.joviafinancial.com)** | **[Part-Time Legal Assistant Intern](https://jobright.ai/jobs/info/69aeeab37495006450935c1e?utm_campaign=1055&utm_source=git)** | Westbury, NY | Hybrid | Mar 09 |
 | ↳ | **[Compliance Risk Intern](https://jobright.ai/jobs/info/69aeeaa06b21de023e600469?utm_campaign=1055&utm_source=git)** | Westbury, NY | Hybrid | Mar 09 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Intern - Contract Management](https://jobright.ai/jobs/info/69aee62bdfaeda6ff596eddb?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 09 |
+| **[Frost](https://www.frostbank.com/)** | **[Summer College Intern - Compliance](https://jobright.ai/jobs/info/69b075f1dfaeda6ff59a50e4?utm_campaign=1055&utm_source=git)** | San Antonio, TX - One Frost | On Site | Mar 09 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Vendor Risk Management Summer Intern](https://jobright.ai/jobs/info/69a9ee0b9ca4e908ec6533fc?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 09 |
 | **[Grabowski & Lipack Law Firm, PLLC](http://www.grabowskilawfirm.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69aeda366b21de023e5fe522?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 09 |
 | **[Methode Electronics](http://methode.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a1f1cc359fe034b1cd317c?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | On Site | Mar 09 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69a5f4940da45516f16ec0ef?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 07 |
 | **[Disability Law Group](https://disabilitylawgroup.com/)** | **[Legal Writing Intern](https://jobright.ai/jobs/info/69abe0742747003c3d51c388?utm_campaign=1055&utm_source=git)** | Troy, MI | Hybrid | Mar 07 |
 | **[County of Riverside](https://rivco.org)** | **[2L District Attorney - Paid Student Internship](https://jobright.ai/jobs/info/69ad15c0142d5b4265fe396a?utm_campaign=1055&utm_source=git)** | Riverside County, CA | On Site | Mar 06 |
-| **[Delta Dental of New Jersey and Connecticut](https://www.deltadentalnj.com)** | **[Legal Internship](https://jobright.ai/jobs/info/69ab98577e1fab39d3830c49?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | Hybrid | Mar 06 |
-| **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ab95082747003c3d511878?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Mar 06 |
-| **[Security Benefit](https://securitybenefit.com)** | **[Internship - Summer 2026 Legal Intern](https://jobright.ai/jobs/info/69ab937b7e1fab39d3830154?utm_campaign=1055&utm_source=git)** | Topeka, KS | Hybrid | Mar 06 |
-| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Commercial Litigation, Holland & Hart (Las Vegas)](https://jobright.ai/jobs/info/69a67fa62c0d8b0f5cd09dad?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Mar 06 |
-| **[Great American Custom](https://www.gamcustom.com/Pages/index.aspx)** | **[Intern](https://jobright.ai/jobs/info/69ab96892747003c3d511ea9?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Mar 06 |
-| **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Underwriting Intern - Surety (Hybrid)](https://jobright.ai/jobs/info/69abb13b142d5b4265fce8e0?utm_campaign=1055&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
