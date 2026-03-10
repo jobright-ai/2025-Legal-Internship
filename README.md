@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Astrion](https://astrion.us)** | **[Contracts Intern](https://jobright.ai/jobs/info/69af99947495006450943367?utm_campaign=1055&utm_source=git)** | Huntsville, AL | Hybrid | Mar 09 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Graduate Year-Round - Regulatory and Contract Law, Hybrid](https://jobright.ai/jobs/info/69af95dd7495006450941d4b?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Mar 09 |
+| **[LWCC](https://www.lwcc.com/)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/696e8b40db26b61895116859?utm_campaign=1055&utm_source=git)** | Baton Rouge Metro | On Site | Mar 09 |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program – [OIG, Law Student]](https://jobright.ai/jobs/info/69af907e74950064509410c7?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Mar 09 |
 | **[Smiths Group plc](http://www.smiths.com/)** | **[Law Department Intern](https://jobright.ai/jobs/info/69af81116b21de023e60b846?utm_campaign=1055&utm_source=git)** | Edgewood, MD, USA | On Site | Mar 09 |
 | **[RLI Insurance Company](http://www.rlicorp.com/)** | **[Claim/Legal Intern-Summer 2026, Downtown Chicago/Hybrid](https://jobright.ai/jobs/info/69af807d6b21de023e60b738?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 09 |
 | **[Washington State Office of the Attorney General](https://www.atg.wa.gov/)** | **[Research Fellowship](https://jobright.ai/jobs/info/69af801cdfaeda6ff597a6e3?utm_campaign=1055&utm_source=git)** | Olympia, WA | On Site | Mar 09 |
@@ -116,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69ad48147e1fab39d384c3f2?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 08 |
 | **[Unified Patents](http://unifiedpatents.com/)** | **[Intern](https://jobright.ai/jobs/info/69ac87e77e1fab39d38417eb?utm_campaign=1055&utm_source=git)** | San Jose, CA | Remote | Mar 07 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Legal & Compliance Undergraduate Internship (Hybrid Opportunity)](https://jobright.ai/jobs/info/69ac8235142d5b4265fdc81d?utm_campaign=1055&utm_source=git)** | Idaho Falls, ID | Hybrid | Mar 07 |
-| **[Corpus Juris Group of Advocates and Solicitors](https://share.google/FS5dOQXvL0TJL3OVS)** | **[Law Intern](https://jobright.ai/jobs/info/69aed9416b21de023e5fe297?utm_campaign=1055&utm_source=git)** | Delhi, OH | On Site | Mar 07 |
 | **[ProAmpac](http://www.proampac.com)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/6973e1efbc8e722e7b18b502?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Mar 07 |
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Legal Intern (Temporary Role) - FT - Days - Legal Services @ MV](https://jobright.ai/jobs/info/69901aec0f6f7e7a2cec6bcb?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Mar 07 |
 | **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | Mar 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Global Compliance - Undergrad Intern](https://jobright.ai/jobs/info/69ab07367e1fab39d382955e?utm_campaign=1055&utm_source=git)** | New York, New York, United States of America | On Site | Mar 06 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Student Legal Services Attorney](https://jobright.ai/jobs/info/69ab278c7e1fab39d382ae2b?utm_campaign=1055&utm_source=git)** | Manhattan, KS | Hybrid | Mar 06 |
 | **[Precisely](https://www.precisely.com)** | **[Corporate/Compliance Legal Intern](https://jobright.ai/jobs/info/69ab00912747003c3d50a9b6?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 06 |
-| **[Alfa Laval](http://www.alfalaval.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/69728f9b584a1c1ef6fd8abd?utm_campaign=1055&utm_source=git)** | Greenwood, IN | On Site | Mar 06 |
-| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Intellectual Property, Holland & Hart (Denver)](https://jobright.ai/jobs/info/69690bfcf25a380066979a9f?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Mar 06 |
-| **[Athletes First](http://www.athletesfirst.net/)** | **[2026 Summer Legal Intern](https://jobright.ai/jobs/info/69aad3f37e1fab39d38277a8?utm_campaign=1055&utm_source=git)** | Laguna Hills, CA | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
