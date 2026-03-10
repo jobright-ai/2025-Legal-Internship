@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Office of Ethics Investigations Intern](https://jobright.ai/jobs/info/69941e2f81476f6176abda83?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 10 |
+| **[Systems Planning & Analysis](http://www.spa.com)** | **[Contracts/Subcontracts Intern](https://jobright.ai/jobs/info/6993c399e0bddb6acac20d2a?utm_campaign=1055&utm_source=git)** | Alexandria, VA | On Site | Mar 10 |
+| **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Sovereign Guarantee Operations Legal Intern](https://jobright.ai/jobs/info/69942e02e0bddb6acac29407?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 10 |
+| ↳ | **[IDB Invest. Legal Department's Compliance Unit Intern](https://jobright.ai/jobs/info/69942a35ce78e77b4fd81ef8?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 10 |
+| **[New Era Cap](https://www.neweracap.com/)** | **[Vendor Compliance Intern](https://jobright.ai/jobs/info/6993a48ce0bddb6acac1eb79?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Mar 10 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993d4fd81476f6176ab6fe1?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Mar 10 |
+| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Digital Security Group Compliance Analyst - 6 month internship](https://jobright.ai/jobs/info/69787f7152f3c27ec644d06e?utm_campaign=1055&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Mar 10 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69aff3f0dfaeda6ff5990fa3?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
 | **[TechnipFMC](https://www.technipfmc.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6993837ee0bddb6acac1c8aa?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 10 |
 | **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/695c324922c9dc0d3d5410fe?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
@@ -136,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69a5f4940da45516f16ec0ef?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 07 |
 | **[Disability Law Group](https://disabilitylawgroup.com/)** | **[Legal Writing Intern](https://jobright.ai/jobs/info/69abe0742747003c3d51c388?utm_campaign=1055&utm_source=git)** | Troy, MI | Hybrid | Mar 07 |
 | **[County of Riverside](https://rivco.org)** | **[2L District Attorney - Paid Student Internship](https://jobright.ai/jobs/info/69ad15c0142d5b4265fe396a?utm_campaign=1055&utm_source=git)** | Riverside County, CA | On Site | Mar 06 |
-| **[Karma Automotive](https://www.karmaautomotive.com/)** | **[Summer Intern Associate - Irvine Location](https://jobright.ai/jobs/info/69afb3dadfaeda6ff5984f9e?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Mar 06 |
 | **[Delta Dental of New Jersey and Connecticut](https://www.deltadentalnj.com)** | **[Legal Internship](https://jobright.ai/jobs/info/69ab98577e1fab39d3830c49?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | Hybrid | Mar 06 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ab95082747003c3d511878?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Mar 06 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Summer 2026 Legal Intern](https://jobright.ai/jobs/info/69ab937b7e1fab39d3830154?utm_campaign=1055&utm_source=git)** | Topeka, KS | Hybrid | Mar 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PetIQ](https://petiq.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a8aad62580d3183f00aed5?utm_campaign=1055&utm_source=git)** | Eagle, ID | On Site | Mar 06 |
 | **[Pinnacle Propane, LLC](https://pinnaclepropane.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ab44f97e1fab39d382decd?utm_campaign=1055&utm_source=git)** | Irving, TX, US | On Site | Mar 06 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Legal Intern- 1031 Exchange Company (Remote)](https://jobright.ai/jobs/info/69ab40ef7e1fab39d382da59?utm_campaign=1055&utm_source=git)** | Santa Ana, CA | Remote | Mar 06 |
-| **[S&P Global](https://www.spglobal.com)** | **[Compliance and Risk Summer Intern](https://jobright.ai/jobs/info/69ab3819142d5b4265fc81a7?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
-| **[Avnet](https://www.avnet.com)** | **[Transportation Operations and Trade Compliance Intern](https://jobright.ai/jobs/info/69ab325a7e1fab39d382c959?utm_campaign=1055&utm_source=git)** | Chandler, AZ | Hybrid | Mar 06 |
-| **[PROENERGY](http://www.proenergyservices.com)** | **[V - Compliance Intern](https://jobright.ai/jobs/info/69ab2be57e1fab39d382bc82?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 06 |
-| **[Dermalogica](http://www.dermalogica.com/)** | **[Intern - Regulatory](https://jobright.ai/jobs/info/69ab2b2a142d5b4265fc6b96?utm_campaign=1055&utm_source=git)** | Carson, CA | Hybrid | Mar 06 |
-| **[Waukesha County Health & Human Services](http://www.waukeshacounty.gov/hhs)** | **[Law Clerk Intern (Circuit Court)](https://jobright.ai/jobs/info/69ab28092747003c3d50c70b?utm_campaign=1055&utm_source=git)** | Waukesha, WI | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
