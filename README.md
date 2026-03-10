@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parkland Corporation](https://www.parkland.ca/)** | **[Property Administration Intern](https://jobright.ai/jobs/info/69b08574dfaeda6ff59a8836?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 10 |
 | **[Calix](http://www.calix.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b07131dfaeda6ff59a4859?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/69b07128dfaeda6ff59a4846?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 10 |
 | **[Crash Champions](https://crashchampions.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69b06daadfaeda6ff59a3d2b?utm_campaign=1055&utm_source=git)** | Westmont, IL | On Site | Mar 10 |
@@ -67,9 +68,12 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/69b0670a7495006450969392?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 10 |
 | **[Precisely](https://www.precisely.com)** | **[Legal Intern - Privacy](https://jobright.ai/jobs/info/69b063b60b2db6275c043cd6?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
 | ↳ | **[Legal Intern - Privacy](https://jobright.ai/jobs/info/69b061647495006450968715?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
+| **[Concentra](http://www.concentra.com)** | **[Concentra Corporate Summer Intern -  Internal Audit & SOX Compliance](https://jobright.ai/jobs/info/69b084cf0b2db6275c049ba6?utm_campaign=1055&utm_source=git)** | Addison, TX, US | On Site | Mar 10 |
 | **[GRUNDFOS](https://grundfos.to/socialmedia)** | **[Logistics/International Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/69a921e92580d3183f01586d?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Mar 10 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Ethics Prevention Intern](https://jobright.ai/jobs/info/6994311ae0bddb6acac2975b?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | **[Mitsubishi Motor Sales of Canada, Inc.](https://www.mitsubishi-motors.ca)** | **[Intern, Legal (Mid April - Mid August)](https://jobright.ai/jobs/info/69b04a7edfaeda6ff599e5fb?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Mar 10 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Child Support - Southern Region - Litigation Assessment - Taunton location](https://jobright.ai/jobs/info/69b084eadfaeda6ff59a867e?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Taunton-540 Myles Standish Blv | On Site | Mar 10 |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Child Support - Southern Region - Litigation Assessment - Taunton location](https://jobright.ai/jobs/info/69b07f730b2db6275c0492b6?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Taunton-540 Myles Standish Blv | On Site | Mar 10 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Brand Protection Intern](https://jobright.ai/jobs/info/6993be1b81476f6176ab5c24?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Mar 10 |
 | **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/69b041f40b2db6275c03d737?utm_campaign=1055&utm_source=git)** | Wisconsin, United States | On Site | Mar 10 |
 | ↳ | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/69b041c50b2db6275c03d668?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Mar 10 |
@@ -98,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Midrex Technologies, Inc.](https://www.midrex.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6980b5a249964d25b5e37e2e?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 09 |
 | **[GSK](http://www.gsk.com)** | **[Regulatory Affairs Associate - Summer internship (4 Months)](https://jobright.ai/jobs/info/69af6fc86b21de023e608ed2?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Mar 09 |
 | **[AspinRock](https://aspinrock.com)** | **[Regulatory Compliance Analyst Intern](https://jobright.ai/jobs/info/69af6b38dfaeda6ff5977cde?utm_campaign=1055&utm_source=git)** | Triangle Area | On Site | Mar 09 |
+| **[Human Rights First](http://www.humanrightsfirst.org)** | **[Legal Intern – Summer 2026](https://jobright.ai/jobs/info/69b07c400b2db6275c04878c?utm_campaign=1055&utm_source=git)** | LA Metro Area | Hybrid | Mar 09 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Law Intern- First Amendment Clinic](https://jobright.ai/jobs/info/69af6375dfaeda6ff59778cf?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Mar 09 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Law Department](https://jobright.ai/jobs/info/69af63656b21de023e608986?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 09 |
 | **[RLI Insurance Company](http://www.rlicorp.com/)** | **[Claim/Legal Intern-Summer 2026, Downtown Chicago/Hybrid](https://jobright.ai/jobs/info/69af5ec66b21de023e6086c7?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ProAmpac](http://www.proampac.com)** | **[Regulatory Compliance Intern](https://jobright.ai/jobs/info/6973e1efbc8e722e7b18b502?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Mar 07 |
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Legal Intern (Temporary Role) - FT - Days - Legal Services @ MV](https://jobright.ai/jobs/info/69901aec0f6f7e7a2cec6bcb?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Mar 07 |
 | **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | Mar 07 |
-| **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69738777206da320f49d853c?utm_campaign=1055&utm_source=git)** | Worcester, PA | On Site | Mar 07 |
-| **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Summer Legal Associate, Federal Policy and Advocacy](https://jobright.ai/jobs/info/691e4a50a49a885af9a27458?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Mar 07 |
-| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69a5f4940da45516f16ec0ef?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 07 |
-| **[Disability Law Group](https://disabilitylawgroup.com/)** | **[Legal Writing Intern](https://jobright.ai/jobs/info/69abe0742747003c3d51c388?utm_campaign=1055&utm_source=git)** | Troy, MI | Hybrid | Mar 07 |
-| **[County of Riverside](https://rivco.org)** | **[2L District Attorney - Paid Student Internship](https://jobright.ai/jobs/info/69ad15c0142d5b4265fe396a?utm_campaign=1055&utm_source=git)** | Riverside County, CA | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
