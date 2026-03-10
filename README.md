@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AspinRock](https://aspinrock.com)** | **[Regulatory Compliance Analyst Intern](https://jobright.ai/jobs/info/69af6b38dfaeda6ff5977cde?utm_campaign=1055&utm_source=git)** | Triangle Area | On Site | Mar 09 |
+| **[The University of Georgia](http://www.ai.uga.edu)** | **[Law Intern- First Amendment Clinic](https://jobright.ai/jobs/info/69af6375dfaeda6ff59778cf?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Mar 09 |
+| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Law Department](https://jobright.ai/jobs/info/69af63656b21de023e608986?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 09 |
+| **[RLI Insurance Company](http://www.rlicorp.com/)** | **[Claim/Legal Intern-Summer 2026, Downtown Chicago/Hybrid](https://jobright.ai/jobs/info/69af5ec66b21de023e6086c7?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 09 |
+| **[Edwards Lifesciences](http://www.edwards.com)** | **[Enterprise Risk Management Intern, Summer 2026](https://jobright.ai/jobs/info/69af5ea3dfaeda6ff59775bc?utm_campaign=1055&utm_source=git)** | USA IRV-1472 Alton/DBC6-7 | On Site | Mar 09 |
 | **[Rubrik](http://rubrik.com)** | **[Legal Intern, Summer 2026](https://jobright.ai/jobs/info/69af5882749500645093d63b?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | On Site | Mar 09 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program – [OIG, Law Student]](https://jobright.ai/jobs/info/69af54cbdfaeda6ff59770ca?utm_campaign=1055&utm_source=git)** | 68 Mitchell Street SW, Atlanta, GA, 30303, US | On Site | Mar 09 |
 | **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[2026 Summer College Internship Program – [OIG, Law Student]](https://jobright.ai/jobs/info/69af54bd749500645093d320?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Mar 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e22b40f6f7e7a2cea3025?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Mar 06 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e0ea678b4502f12a4dcf4?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | Mar 06 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e2500f64d441a16505f9e?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Mar 06 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e124b0f6f7e7a2cea2185?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Mar 06 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department - BSA/AML Compliance Intern](https://jobright.ai/jobs/info/697285fb9b83b424830e76a0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 06 |
-| **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/698e158178b4502f12a4e2e5?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Mar 06 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e0d550f6f7e7a2cea1d14?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 06 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/698e156c0f6f7e7a2cea23d3?utm_campaign=1055&utm_source=git)** | Charleston, SC | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
