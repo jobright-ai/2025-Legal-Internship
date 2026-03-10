@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993d4fd81476f6176ab6fe1?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Mar 10 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69aff3f0dfaeda6ff5990fa3?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
 | **[TechnipFMC](https://www.technipfmc.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6993837ee0bddb6acac1c8aa?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 10 |
 | **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/695c324922c9dc0d3d5410fe?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
@@ -113,7 +114,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Compliance Risk Intern](https://jobright.ai/jobs/info/69aeeaa06b21de023e600469?utm_campaign=1055&utm_source=git)** | Westbury, NY | Hybrid | Mar 09 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Intern - Contract Management](https://jobright.ai/jobs/info/69aee62bdfaeda6ff596eddb?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 09 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Vendor Risk Management Summer Intern](https://jobright.ai/jobs/info/69a9ee0b9ca4e908ec6533fc?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 09 |
-| **[Grabowski Law Firm, PLLC](http://www.grabowskilawfirm.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69aeda366b21de023e5fe522?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 09 |
+| **[Grabowski & Lipack Law Firm, PLLC](http://www.grabowskilawfirm.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69aeda366b21de023e5fe522?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 09 |
 | **[Methode Electronics](http://methode.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a1f1cc359fe034b1cd317c?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | On Site | Mar 09 |
 | **[Rossen Law Firm](http://www.criminal-defense-dui.lawyer)** | **[Criminal Law Intern](https://jobright.ai/jobs/info/69aed552bd1a716b431059e7?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 09 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Contracts](https://jobright.ai/jobs/info/6920c17c00c9ee50eaec794e?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Mar 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PROENERGY](http://www.proenergyservices.com)** | **[V - Compliance Intern](https://jobright.ai/jobs/info/69ab2be57e1fab39d382bc82?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 06 |
 | **[Dermalogica](http://www.dermalogica.com/)** | **[Intern - Regulatory](https://jobright.ai/jobs/info/69ab2b2a142d5b4265fc6b96?utm_campaign=1055&utm_source=git)** | Carson, CA | Hybrid | Mar 06 |
 | **[Waukesha County Health & Human Services](http://www.waukeshacounty.gov/hhs)** | **[Law Clerk Intern (Circuit Court)](https://jobright.ai/jobs/info/69ab28092747003c3d50c70b?utm_campaign=1055&utm_source=git)** | Waukesha, WI | On Site | Mar 06 |
-| **[Avnet](https://www.avnet.com)** | **[Transportation Operations and Trade Compliance Intern](https://jobright.ai/jobs/info/69ab27af7e1fab39d382aec7?utm_campaign=1055&utm_source=git)** | Chandler, Arizona, United States Of America | Hybrid | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
