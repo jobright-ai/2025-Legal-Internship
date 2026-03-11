@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Box](http://www.box.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69b0cae50b2db6275c056321?utm_campaign=1055&utm_source=git)** | Redwood City, CA | Hybrid | Mar 10 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - SOX Compliance](https://jobright.ai/jobs/info/69b0b923dfaeda6ff59b1309?utm_campaign=1055&utm_source=git)** | Waterbury, CT | On Site | Mar 10 |
 | **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Law Clerk (Intern)](https://jobright.ai/jobs/info/69b0b5647495006450978070?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
 | ↳ | **[Filings & Post Production Intern](https://jobright.ai/jobs/info/69b0b523dfaeda6ff59b0e1f?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
@@ -87,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-Asset Forfeiture](https://jobright.ai/jobs/info/69b09e1274950064509747c4?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 10 |
 | **[Precisely](https://www.precisely.com)** | **[Legal Intern - Privacy](https://jobright.ai/jobs/info/69b061647495006450968715?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
 | **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69b0a3b474950064509752c7?utm_campaign=1055&utm_source=git)** | USA AZ - Tempe Headquarters | On Site | Mar 10 |
-| **[Concentra](http://www.concentra.com)** | **[Concentra Corporate Summer Intern -  Internal Audit & SOX Compliance](https://jobright.ai/jobs/info/69b084cf0b2db6275c049ba6?utm_campaign=1055&utm_source=git)** | Addison, TX, US | On Site | Mar 10 |
-| ↳ | **[Concentra Corporate Summer Intern -  Internal Audit & SOX Compliance](https://jobright.ai/jobs/info/69b08930dfaeda6ff59a8dd9?utm_campaign=1055&utm_source=git)** | US-TX-Addison | On Site | Mar 10 |
+| **[Concentra](http://www.concentra.com)** | **[Concentra Corporate Summer Intern -  Internal Audit & SOX Compliance](https://jobright.ai/jobs/info/69b08930dfaeda6ff59a8dd9?utm_campaign=1055&utm_source=git)** | US-TX-Addison | On Site | Mar 10 |
+| ↳ | **[Concentra Corporate Summer Intern -  Internal Audit & SOX Compliance](https://jobright.ai/jobs/info/69b084cf0b2db6275c049ba6?utm_campaign=1055&utm_source=git)** | Addison, TX, US | On Site | Mar 10 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b0a399749500645097527a?utm_campaign=1055&utm_source=git)** | SSC Irving TX | On Site | Mar 10 |
 | **[GRUNDFOS](https://grundfos.to/socialmedia)** | **[Logistics/International Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/69a921e92580d3183f01586d?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Mar 10 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Ethics Prevention Intern](https://jobright.ai/jobs/info/6994311ae0bddb6acac2975b?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 10 |
@@ -105,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Sovereign Guarantee Operations Legal Intern](https://jobright.ai/jobs/info/69942e02e0bddb6acac29407?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - SOX Compliance](https://jobright.ai/jobs/info/69b0a34174950064509750f4?utm_campaign=1055&utm_source=git)** | CT Waterbury 145 Bank St | On Site | Mar 10 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB Invest. Legal Department's Compliance Unit Intern](https://jobright.ai/jobs/info/69942a35ce78e77b4fd81ef8?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 10 |
+| ↳ | **[IDB. Transparency Support Intern](https://jobright.ai/jobs/info/6994196781476f6176abd5c2?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | **[BMO](http://www.bmo.com)** | **[Anti-Money Laundering Investigator (Co-op/Intern), Summer 2026 - 4 months](https://jobright.ai/jobs/info/69b06f960b2db6275c0459c0?utm_campaign=1055&utm_source=git)** | Toronto, ON, CAN | On Site | Mar 10 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Vendor Compliance Intern](https://jobright.ai/jobs/info/6993a48ce0bddb6acac1eb79?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Mar 10 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993d4fd81476f6176ab6fe1?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Mar 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Tower](https://www.americantower.com/)** | **[Safety & Compliance Intern](https://jobright.ai/jobs/info/69af0e266b21de023e6025ad?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 09 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/69af0e176b21de023e602571?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Mar 09 |
 | **[GSK](http://www.gsk.com)** | **[Regulatory Affairs Associate - Summer internship (4 Months)](https://jobright.ai/jobs/info/69af0c8c6b21de023e6023b2?utm_campaign=1055&utm_source=git)** | Mississauga Milverton Drive | On Site | Mar 09 |
-| **[Leidos](https://www.leidos.com)** | **[Cyber & Privacy Intern](https://jobright.ai/jobs/info/69af0c507495006450937a04?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Mar 09 |
-| **[Sierra Club](http://sierraclub.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/69af0433dfaeda6ff597096c?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
