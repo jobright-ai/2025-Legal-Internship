@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Ontario & Atlantic Offices – Opportunities in Information Technology Risk Services – Risk Analytics – Co-op/Intern – Summer 2027, Fall 2027 Start](https://jobright.ai/jobs/info/69a5f70e359fe034b1d0b9d1?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Mar 11 |
 | **[A24](http://a24films.com/)** | **[Business + Legal Affairs Intern (LA)](https://jobright.ai/jobs/info/69b102bf7495006450983692?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 10 |
 | ↳ | **[Business + Legal Affairs Intern (NY)](https://jobright.ai/jobs/info/69b10289dfaeda6ff59bdd80?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 10 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Legal, Team Sports Talent](https://jobright.ai/jobs/info/69b0d914749500645097e078?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
@@ -68,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Law Clerk (Intern)](https://jobright.ai/jobs/info/69b0b5647495006450978070?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
 | ↳ | **[Filings & Post Production Intern](https://jobright.ai/jobs/info/69b0b523dfaeda6ff59b0e1f?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
 | **[Equality Ohio](http://www.equalityohio.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69b103f50b2db6275c05fcdf?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
-| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Compliance and Staff Development Intern - Washington, DC](https://jobright.ai/jobs/info/69b107010b2db6275c0602ed?utm_campaign=1055&utm_source=git)** | Washington, DC, US | On Site | Mar 10 |
-| ↳ | **[Compliance and Staff Development Intern - Washington, DC](https://jobright.ai/jobs/info/69b10493dfaeda6ff59be00d?utm_campaign=1055&utm_source=git)** | US-DC-Washington | On Site | Mar 10 |
+| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Compliance and Staff Development Intern - Washington, DC](https://jobright.ai/jobs/info/69b10493dfaeda6ff59be00d?utm_campaign=1055&utm_source=git)** | US-DC-Washington | On Site | Mar 10 |
+| ↳ | **[Compliance and Staff Development Intern - Washington, DC](https://jobright.ai/jobs/info/69b107010b2db6275c0602ed?utm_campaign=1055&utm_source=git)** | Washington, DC, US | On Site | Mar 10 |
 | **[Richemont](https://www.richemont.com/)** | **[Product & Trade Compliance Internship](https://jobright.ai/jobs/info/69b0af6a74950064509772e9?utm_campaign=1055&utm_source=git)** | Grand Prairie, TX | On Site | Mar 10 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Legal Intern - High School](https://jobright.ai/jobs/info/69b0a9d40b2db6275c05055b?utm_campaign=1055&utm_source=git)** | Olathe, KS | On Site | Mar 10 |
 | **[CME Group](http://www.cmegroup.com)** | **[Market Regulation Trade Practice Investigator - Summer Intern](https://jobright.ai/jobs/info/69b09e260b2db6275c04e0a8?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sompo](https://www.sompo-intl.com/)** | **[Commercial Management Liability Underwriting Intern](https://jobright.ai/jobs/info/69af422edfaeda6ff5976322?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 09 |
 | **[Grifols](http://www.grifols.com)** | **[Intern - Safety Compliance & Documentation 1](https://jobright.ai/jobs/info/69af4143749500645093c59a?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 09 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[PX Compliance Intern](https://jobright.ai/jobs/info/69af39026b21de023e606916?utm_campaign=1055&utm_source=git)** | US - OH, Dayton | On Site | Mar 09 |
-| **[Durham County Government](http://www.dconc.gov)** | **[LEGAL INTERN](https://jobright.ai/jobs/info/69af327d749500645093ae01?utm_campaign=1055&utm_source=git)** | Durham, NC, US, 27701 | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
