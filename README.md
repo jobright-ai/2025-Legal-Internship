@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Legal, Team Sports Talent](https://jobright.ai/jobs/info/69b0d914749500645097e078?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
 | **[Box](http://www.box.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69b0cae50b2db6275c056321?utm_campaign=1055&utm_source=git)** | Redwood City, CA | Hybrid | Mar 10 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - SOX Compliance](https://jobright.ai/jobs/info/69b0b923dfaeda6ff59b1309?utm_campaign=1055&utm_source=git)** | Waterbury, CT | On Site | Mar 10 |
+| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-General Litigation](https://jobright.ai/jobs/info/69b0e246749500645097fbbb?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 10 |
 | **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Law Clerk (Intern)](https://jobright.ai/jobs/info/69b0b5647495006450978070?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
 | ↳ | **[Filings & Post Production Intern](https://jobright.ai/jobs/info/69b0b523dfaeda6ff59b0e1f?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
 | **[Richemont](https://www.richemont.com/)** | **[Product & Trade Compliance Internship](https://jobright.ai/jobs/info/69b0af6a74950064509772e9?utm_campaign=1055&utm_source=git)** | Grand Prairie, TX | On Site | Mar 10 |
@@ -77,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[California Appellate Project (San Francisco)](http://www.capsf.org)** | **[Paralegal Intern](https://jobright.ai/jobs/info/69b0b01c7495006450977491?utm_campaign=1055&utm_source=git)** | San Francisco, California, United States | Hybrid | Mar 10 |
 | **[Calix](http://www.calix.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b07131dfaeda6ff59a4859?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/69b07128dfaeda6ff59a4846?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 10 |
+| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69b0db66dfaeda6ff59b8fa4?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Mar 10 |
 | **[Crash Champions](https://crashchampions.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69b06daadfaeda6ff59a3d2b?utm_campaign=1055&utm_source=git)** | Westmont, IL | On Site | Mar 10 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern - Contract Management](https://jobright.ai/jobs/info/69b06ad07495006450969bbc?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 10 |
 | **[Chloé](http://www.chloe.com)** | **[Product & Trade Compliance Internship](https://jobright.ai/jobs/info/69b0a3bc74950064509752f7?utm_campaign=1055&utm_source=git)** | GRAND PRAIRIE | On Site | Mar 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Olin](http://www.olin.com/)** | **[Security and Risk Management Intern - 2026](https://jobright.ai/jobs/info/69af1ac7dfaeda6ff5971ce9?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 09 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69af31e7dfaeda6ff5974917?utm_campaign=1055&utm_source=git)** | Montreal, QC, Canada | Hybrid | Mar 09 |
 | **[State of Missouri](http://mo.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/69af0f40dfaeda6ff59713d5?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Mar 09 |
-| **[American Tower](https://www.americantower.com/)** | **[Safety & Compliance Intern](https://jobright.ai/jobs/info/69af0e266b21de023e6025ad?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 09 |
-| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/69af0e176b21de023e602571?utm_campaign=1055&utm_source=git)** | Springfield, MO | On Site | Mar 09 |
-| **[GSK](http://www.gsk.com)** | **[Regulatory Affairs Associate - Summer internship (4 Months)](https://jobright.ai/jobs/info/69af0c8c6b21de023e6023b2?utm_campaign=1055&utm_source=git)** | Mississauga Milverton Drive | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
