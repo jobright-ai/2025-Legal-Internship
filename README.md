@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Richemont](https://www.richemont.com/)** | **[Product & Trade Compliance Internship](https://jobright.ai/jobs/info/69b0af6a74950064509772e9?utm_campaign=1055&utm_source=git)** | Grand Prairie, TX | On Site | Mar 10 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Legal Intern - High School](https://jobright.ai/jobs/info/69b0a9d40b2db6275c05055b?utm_campaign=1055&utm_source=git)** | Olathe, KS | On Site | Mar 10 |
 | **[CME Group](http://www.cmegroup.com)** | **[Market Regulation Trade Practice Investigator - Summer Intern](https://jobright.ai/jobs/info/69b09e260b2db6275c04e0a8?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 10 |
 | **[EQUALITY OHIO EDUCATION FUND](https://www.linkedin.com/company/60197962)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69b097e2dfaeda6ff59abf91?utm_campaign=1055&utm_source=git)** | Ohio, United States | On Site | Mar 10 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2027 2L Summer Associate - Indianapolis](https://jobright.ai/jobs/info/69694826639b452fb57f12f4?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Mar 10 |
 | **[Box](http://www.box.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69b08766749500645096f9cc?utm_campaign=1055&utm_source=git)** | Redwood City, CA, United States | Hybrid | Mar 10 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[Property Administration Intern](https://jobright.ai/jobs/info/69b08574dfaeda6ff59a8836?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 10 |
+| **[California Appellate Project (San Francisco)](http://www.capsf.org)** | **[Paralegal Intern](https://jobright.ai/jobs/info/69b0b01c7495006450977491?utm_campaign=1055&utm_source=git)** | San Francisco, California, United States | Hybrid | Mar 10 |
 | **[Calix](http://www.calix.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b07131dfaeda6ff59a4859?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/69b07128dfaeda6ff59a4846?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 10 |
 | **[Crash Champions](https://crashchampions.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69b06daadfaeda6ff59a3d2b?utm_campaign=1055&utm_source=git)** | Westmont, IL | On Site | Mar 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/Intern Volunteer](https://jobright.ai/jobs/info/68d4c916fcd3367e8df17cdf?utm_campaign=1055&utm_source=git)** | Pueblo, CO | On Site | Mar 09 |
 | **[Jovia Financial Credit Union](https://www.joviafinancial.com)** | **[Part-Time Legal Assistant Intern](https://jobright.ai/jobs/info/69aeeab37495006450935c1e?utm_campaign=1055&utm_source=git)** | Westbury, NY | Hybrid | Mar 09 |
 | ↳ | **[Compliance Risk Intern](https://jobright.ai/jobs/info/69aeeaa06b21de023e600469?utm_campaign=1055&utm_source=git)** | Westbury, NY | Hybrid | Mar 09 |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Intern - Contract Management](https://jobright.ai/jobs/info/69aee62bdfaeda6ff596eddb?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 09 |
-| **[Frost](https://www.frostbank.com/)** | **[Summer College Intern - Compliance](https://jobright.ai/jobs/info/69b075f1dfaeda6ff59a50e4?utm_campaign=1055&utm_source=git)** | San Antonio, TX - One Frost | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
