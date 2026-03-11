@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vistra Corp.](https://vistracorp.com)** | **[Summer 2026 Regulatory Policy Intern](https://jobright.ai/jobs/info/697aa068f6fc293b0a2c87a7?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Mar 11 |
+| **[Sobi - Swedish Orphan Biovitrum AB (publ)](http://www.sobi.com/en)** | **[Legal Internship (Hybrid)](https://jobright.ai/jobs/info/697824b7fdeb8243a27b193e?utm_campaign=1055&utm_source=git)** | Waltham, MA | Hybrid | Mar 11 |
+| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Building Security Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/69aa420e1f59c56275e31b9b?utm_campaign=1055&utm_source=git)** | Pontiac, MI | On Site | Mar 11 |
 | **[ALO](https://www.aloyoga.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6995121e81476f6176acf11d?utm_campaign=1055&utm_source=git)** | Beverly Hills, CA | On Site | Mar 11 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Export Compliance Intern Summer 2026](https://jobright.ai/jobs/info/69790c9d52f3c27ec64554be?utm_campaign=1055&utm_source=git)** | Long Beach, CA | On Site | Mar 11 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Summer Legal Intern](https://jobright.ai/jobs/info/6979a9720791bc1d72307a08?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Mar 11 |
@@ -75,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Legal, Team Sports Talent](https://jobright.ai/jobs/info/69b0d914749500645097e078?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
 | **[Box](http://www.box.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69b0cae50b2db6275c056321?utm_campaign=1055&utm_source=git)** | Redwood City, CA | Hybrid | Mar 10 |
 | **[Business and Human Rights Centre](http://business-humanrights.org)** | **[Legal Research & Just Transition Intern](https://jobright.ai/jobs/info/69b1022574950064509834d4?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Music Affairs - Summer 2026](https://jobright.ai/jobs/info/69b0e92c0b2db6275c05d48d?utm_campaign=1055&utm_source=git)** | Culver City, California | On Site | Mar 10 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Music Affairs - Summer 2026](https://jobright.ai/jobs/info/69b0e6ac749500645098037d?utm_campaign=1055&utm_source=git)** | Culver City, California | On Site | Mar 10 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - SOX Compliance](https://jobright.ai/jobs/info/69b0b923dfaeda6ff59b1309?utm_campaign=1055&utm_source=git)** | Waterbury, CT | On Site | Mar 10 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-General Litigation](https://jobright.ai/jobs/info/69b0e246749500645097fbbb?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 10 |
 | **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Law Clerk (Intern)](https://jobright.ai/jobs/info/69b0b5647495006450978070?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
@@ -113,8 +116,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[LOCAL LAW STUDENT Paid Intern-Asset Forfeiture](https://jobright.ai/jobs/info/69b09e1274950064509747c4?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 10 |
 | **[Precisely](https://www.precisely.com)** | **[Legal Intern - Privacy](https://jobright.ai/jobs/info/69b061647495006450968715?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
 | **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69b0a3b474950064509752c7?utm_campaign=1055&utm_source=git)** | USA AZ - Tempe Headquarters | On Site | Mar 10 |
-| **[Concentra](http://www.concentra.com)** | **[Concentra Corporate Summer Intern -  Internal Audit & SOX Compliance](https://jobright.ai/jobs/info/69b084cf0b2db6275c049ba6?utm_campaign=1055&utm_source=git)** | Addison, TX, US | On Site | Mar 10 |
-| ↳ | **[Concentra Corporate Summer Intern -  Internal Audit & SOX Compliance](https://jobright.ai/jobs/info/69b08930dfaeda6ff59a8dd9?utm_campaign=1055&utm_source=git)** | US-TX-Addison | On Site | Mar 10 |
+| **[Concentra](http://www.concentra.com)** | **[Concentra Corporate Summer Intern -  Internal Audit & SOX Compliance](https://jobright.ai/jobs/info/69b08930dfaeda6ff59a8dd9?utm_campaign=1055&utm_source=git)** | US-TX-Addison | On Site | Mar 10 |
+| ↳ | **[Concentra Corporate Summer Intern -  Internal Audit & SOX Compliance](https://jobright.ai/jobs/info/69b084cf0b2db6275c049ba6?utm_campaign=1055&utm_source=git)** | Addison, TX, US | On Site | Mar 10 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b0a399749500645097527a?utm_campaign=1055&utm_source=git)** | SSC Irving TX | On Site | Mar 10 |
 | **[GRUNDFOS](https://grundfos.to/socialmedia)** | **[Logistics/International Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/69a921e92580d3183f01586d?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Mar 10 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Ethics Prevention Intern](https://jobright.ai/jobs/info/6994311ae0bddb6acac2975b?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GSK](http://www.gsk.com)** | **[Regulatory Affairs Associate - Summer internship (4 Months)](https://jobright.ai/jobs/info/69af6fc86b21de023e608ed2?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Mar 09 |
 | **[Human Rights First](http://www.humanrightsfirst.org)** | **[Legal Intern – Summer 2026](https://jobright.ai/jobs/info/69b07c400b2db6275c04878c?utm_campaign=1055&utm_source=git)** | LA Metro Area | Hybrid | Mar 09 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Law Intern- First Amendment Clinic](https://jobright.ai/jobs/info/69af6375dfaeda6ff59778cf?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Mar 09 |
-| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Law Department](https://jobright.ai/jobs/info/69af63656b21de023e608986?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 09 |
-| **[RLI Insurance Company](http://www.rlicorp.com/)** | **[Claim/Legal Intern-Summer 2026, Downtown Chicago/Hybrid](https://jobright.ai/jobs/info/69af5ec66b21de023e6086c7?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 09 |
-| **[Edwards Lifesciences](http://www.edwards.com)** | **[Enterprise Risk Management Intern, Summer 2026](https://jobright.ai/jobs/info/69af5ea3dfaeda6ff59775bc?utm_campaign=1055&utm_source=git)** | USA IRV-1472 Alton/DBC6-7 | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
