@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Discovery Life Sciences](http://www.conversantbio.com/)** | **[Regulatory Intern Summer 2026](https://jobright.ai/jobs/info/69b1da4ad04c69566c743ecb?utm_campaign=1055&utm_source=git)** | Huntsville, AL | Hybrid | Mar 11 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Legal Intern](https://jobright.ai/jobs/info/69b1cb9ad04c69566c7417ce?utm_campaign=1055&utm_source=git)** | USA - Miami FL 33178 | On Site | Mar 11 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Music Affairs - Summer 2026](https://jobright.ai/jobs/info/69b1c75ad04c69566c74114c?utm_campaign=1055&utm_source=git)** | Culver City, CA | On Site | Mar 11 |
+| **[Discovery Life Sciences](http://www.conversantbio.com/)** | **[Regulatory Intern - Summer 2026](https://jobright.ai/jobs/info/69b1e423548f140066e7e87b?utm_campaign=1055&utm_source=git)** | Huntsville, AL | Hybrid | Mar 11 |
 | **[Snyk](https://snyk.io   )** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69b1c21565de58104c70bdff?utm_campaign=1055&utm_source=git)** | United States - Boston Office | Hybrid | Mar 11 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern (Summer 2026)](https://jobright.ai/jobs/info/69b1c0e3548f140066e784a0?utm_campaign=1055&utm_source=git)** | Silver Spring, MD | On Site | Mar 11 |
 | **[Snyk](https://snyk.io   )** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69b1b73865de58104c70b676?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Mar 11 |
@@ -105,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Compliance and Staff Development Intern - Washington, DC](https://jobright.ai/jobs/info/69b10493dfaeda6ff59be00d?utm_campaign=1055&utm_source=git)** | US-DC-Washington | On Site | Mar 10 |
 | ↳ | **[Compliance and Staff Development Intern - Washington, DC](https://jobright.ai/jobs/info/69b107010b2db6275c0602ed?utm_campaign=1055&utm_source=git)** | Washington, DC, US | On Site | Mar 10 |
 | **[BD Nogales Norte](https://www.bd.com/es-mx/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69b1980e65de58104c70a1c2?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Mar 10 |
+| **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Law Student Intern, Fall Semester](https://jobright.ai/jobs/info/69b1df7d548f140066e7d975?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Mar 10 |
 | **[Richemont](https://www.richemont.com/)** | **[Product & Trade Compliance Internship](https://jobright.ai/jobs/info/69b0af6a74950064509772e9?utm_campaign=1055&utm_source=git)** | Grand Prairie, TX | On Site | Mar 10 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Legal Intern - High School](https://jobright.ai/jobs/info/69b0a9d40b2db6275c05055b?utm_campaign=1055&utm_source=git)** | Olathe, KS | On Site | Mar 10 |
 | **[CME Group](http://www.cmegroup.com)** | **[Market Regulation Trade Practice Investigator - Summer Intern](https://jobright.ai/jobs/info/69b09e260b2db6275c04e0a8?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IDB. Transparency Support Intern](https://jobright.ai/jobs/info/6994196781476f6176abd5c2?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | **[BMO](http://www.bmo.com)** | **[Anti-Money Laundering Investigator (Co-op/Intern), Summer 2026 - 4 months](https://jobright.ai/jobs/info/69b06f960b2db6275c0459c0?utm_campaign=1055&utm_source=git)** | Toronto, ON, CAN | On Site | Mar 10 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Vendor Compliance Intern](https://jobright.ai/jobs/info/6993a48ce0bddb6acac1eb79?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Mar 10 |
-| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Legal, Risk and Insurance](https://jobright.ai/jobs/info/6993d4fd81476f6176ab6fe1?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Mar 10 |
-| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Digital Security Group Compliance Analyst - 6 month internship](https://jobright.ai/jobs/info/69787f7152f3c27ec644d06e?utm_campaign=1055&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
