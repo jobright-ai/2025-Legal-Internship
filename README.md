@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - SOX Compliance](https://jobright.ai/jobs/info/69b0b923dfaeda6ff59b1309?utm_campaign=1055&utm_source=git)** | Waterbury, CT | On Site | Mar 10 |
+| **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Law Clerk (Intern)](https://jobright.ai/jobs/info/69b0b5647495006450978070?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
+| ↳ | **[Filings & Post Production Intern](https://jobright.ai/jobs/info/69b0b523dfaeda6ff59b0e1f?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
 | **[Richemont](https://www.richemont.com/)** | **[Product & Trade Compliance Internship](https://jobright.ai/jobs/info/69b0af6a74950064509772e9?utm_campaign=1055&utm_source=git)** | Grand Prairie, TX | On Site | Mar 10 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Legal Intern - High School](https://jobright.ai/jobs/info/69b0a9d40b2db6275c05055b?utm_campaign=1055&utm_source=git)** | Olathe, KS | On Site | Mar 10 |
 | **[CME Group](http://www.cmegroup.com)** | **[Market Regulation Trade Practice Investigator - Summer Intern](https://jobright.ai/jobs/info/69b09e260b2db6275c04e0a8?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 10 |
@@ -84,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-Asset Forfeiture](https://jobright.ai/jobs/info/69b09e1274950064509747c4?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 10 |
 | **[Precisely](https://www.precisely.com)** | **[Legal Intern - Privacy](https://jobright.ai/jobs/info/69b061647495006450968715?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
 | **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69b0a3b474950064509752c7?utm_campaign=1055&utm_source=git)** | USA AZ - Tempe Headquarters | On Site | Mar 10 |
-| **[Concentra](http://www.concentra.com)** | **[Concentra Corporate Summer Intern -  Internal Audit & SOX Compliance](https://jobright.ai/jobs/info/69b08930dfaeda6ff59a8dd9?utm_campaign=1055&utm_source=git)** | US-TX-Addison | On Site | Mar 10 |
-| ↳ | **[Concentra Corporate Summer Intern -  Internal Audit & SOX Compliance](https://jobright.ai/jobs/info/69b084cf0b2db6275c049ba6?utm_campaign=1055&utm_source=git)** | Addison, TX, US | On Site | Mar 10 |
+| **[Concentra](http://www.concentra.com)** | **[Concentra Corporate Summer Intern -  Internal Audit & SOX Compliance](https://jobright.ai/jobs/info/69b084cf0b2db6275c049ba6?utm_campaign=1055&utm_source=git)** | Addison, TX, US | On Site | Mar 10 |
+| ↳ | **[Concentra Corporate Summer Intern -  Internal Audit & SOX Compliance](https://jobright.ai/jobs/info/69b08930dfaeda6ff59a8dd9?utm_campaign=1055&utm_source=git)** | US-TX-Addison | On Site | Mar 10 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b0a399749500645097527a?utm_campaign=1055&utm_source=git)** | SSC Irving TX | On Site | Mar 10 |
 | **[GRUNDFOS](https://grundfos.to/socialmedia)** | **[Logistics/International Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/69a921e92580d3183f01586d?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Mar 10 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Ethics Prevention Intern](https://jobright.ai/jobs/info/6994311ae0bddb6acac2975b?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GSK](http://www.gsk.com)** | **[Regulatory Affairs Associate - Summer internship (4 Months)](https://jobright.ai/jobs/info/69af0c8c6b21de023e6023b2?utm_campaign=1055&utm_source=git)** | Mississauga Milverton Drive | On Site | Mar 09 |
 | **[Leidos](https://www.leidos.com)** | **[Cyber & Privacy Intern](https://jobright.ai/jobs/info/69af0c507495006450937a04?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Mar 09 |
 | **[Sierra Club](http://sierraclub.org)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/69af0433dfaeda6ff597096c?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 09 |
-| **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/Intern Volunteer](https://jobright.ai/jobs/info/68d4c916fcd3367e8df17cdf?utm_campaign=1055&utm_source=git)** | Pueblo, CO | On Site | Mar 09 |
-| **[Jovia Financial Credit Union](https://www.joviafinancial.com)** | **[Part-Time Legal Assistant Intern](https://jobright.ai/jobs/info/69aeeab37495006450935c1e?utm_campaign=1055&utm_source=git)** | Westbury, NY | Hybrid | Mar 09 |
-| ↳ | **[Compliance Risk Intern](https://jobright.ai/jobs/info/69aeeaa06b21de023e600469?utm_campaign=1055&utm_source=git)** | Westbury, NY | Hybrid | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
