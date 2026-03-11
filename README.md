@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Legal, Team Sports Talent](https://jobright.ai/jobs/info/69b0d914749500645097e078?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
 | **[Box](http://www.box.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69b0cae50b2db6275c056321?utm_campaign=1055&utm_source=git)** | Redwood City, CA | Hybrid | Mar 10 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Music Affairs - Summer 2026](https://jobright.ai/jobs/info/69b0e6ac749500645098037d?utm_campaign=1055&utm_source=git)** | Culver City, California | On Site | Mar 10 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - SOX Compliance](https://jobright.ai/jobs/info/69b0b923dfaeda6ff59b1309?utm_campaign=1055&utm_source=git)** | Waterbury, CT | On Site | Mar 10 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-General Litigation](https://jobright.ai/jobs/info/69b0e246749500645097fbbb?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 10 |
 | **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Law Clerk (Intern)](https://jobright.ai/jobs/info/69b0b5647495006450978070?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
@@ -88,7 +89,8 @@ For a complete list, click the following sortable link below:
 | **[NYC Department of Finance](http://www.nyc.gov/html/dof/html/home/home.shtml)** | **[Records & Info Law Grad Intern](https://jobright.ai/jobs/info/69b067150b2db6275c044727?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 10 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/69b0670a7495006450969392?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 10 |
 | **[Precisely](https://www.precisely.com)** | **[Legal Intern - Privacy](https://jobright.ai/jobs/info/69b063b60b2db6275c043cd6?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
-| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-Asset Forfeiture](https://jobright.ai/jobs/info/69b09e1274950064509747c4?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 10 |
+| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-Bond Forfeiture](https://jobright.ai/jobs/info/69b0e4570b2db6275c05c6eb?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 10 |
+| ↳ | **[LOCAL LAW STUDENT Paid Intern-Asset Forfeiture](https://jobright.ai/jobs/info/69b09e1274950064509747c4?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 10 |
 | **[Precisely](https://www.precisely.com)** | **[Legal Intern - Privacy](https://jobright.ai/jobs/info/69b061647495006450968715?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
 | **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69b0a3b474950064509752c7?utm_campaign=1055&utm_source=git)** | USA AZ - Tempe Headquarters | On Site | Mar 10 |
 | **[Concentra](http://www.concentra.com)** | **[Concentra Corporate Summer Intern -  Internal Audit & SOX Compliance](https://jobright.ai/jobs/info/69b08930dfaeda6ff59a8dd9?utm_campaign=1055&utm_source=git)** | US-TX-Addison | On Site | Mar 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Langley Federal Credit Union](https://www.langleyfcu.org)** | **[Legal and Compliance Intern](https://jobright.ai/jobs/info/69af28af6b21de023e605058?utm_campaign=1055&utm_source=git)** | Newport News, VA | On Site | Mar 09 |
 | **[Cornerstone Research](https://www.cornerstone.com)** | **[LEGAL INTERN](https://jobright.ai/jobs/info/69a6bc8376bbe83d3afa1dd8?utm_campaign=1055&utm_source=git)** | LA Metro Area | Hybrid | Mar 09 |
 | **[Olin](http://www.olin.com/)** | **[Security and Risk Management Intern - 2026](https://jobright.ai/jobs/info/69af1ac7dfaeda6ff5971ce9?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 09 |
-| **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69af31e7dfaeda6ff5974917?utm_campaign=1055&utm_source=git)** | Montreal, QC, Canada | Hybrid | Mar 09 |
-| **[State of Missouri](http://mo.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/69af0f40dfaeda6ff59713d5?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
