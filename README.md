@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern (Summer 2026)](https://jobright.ai/jobs/info/69b1c0e3548f140066e784a0?utm_campaign=1055&utm_source=git)** | Silver Spring, MD | On Site | Mar 11 |
+| **[Snyk](https://snyk.io   )** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69b1b73865de58104c70b676?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Mar 11 |
+| **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Legal - Commercial Transactions Intern](https://jobright.ai/jobs/info/6996289981476f6176ade4c0?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Mar 11 |
+| **[DataBank](http://www.databank.com)** | **[Contract Review & Data Integrity Analyst Intern](https://jobright.ai/jobs/info/69b1b659548f140066e77f34?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Mar 11 |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Legal Intern, NYC](https://jobright.ai/jobs/info/6940726caa598a08c3f0101e?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
+| **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69b1aaec548f140066e777fc?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Mar 11 |
 | **[Wonderful Orchards](http://wonderfulorchards.com)** | **[Property & Compliance Intern](https://jobright.ai/jobs/info/6995196cce78e77b4fd930a1?utm_campaign=1055&utm_source=git)** | Shafter, CA | On Site | Mar 11 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69b1949f65de58104c709f4b?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 11 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Compliance AI Intern](https://jobright.ai/jobs/info/6994ddf5e0bddb6acac35cbc?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 11 |
@@ -85,7 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Legal, Team Sports Talent](https://jobright.ai/jobs/info/69b0d914749500645097e078?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
 | **[Box](http://www.box.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69b0cae50b2db6275c056321?utm_campaign=1055&utm_source=git)** | Redwood City, CA | Hybrid | Mar 10 |
 | **[Business and Human Rights Centre](http://business-humanrights.org)** | **[Legal Research & Just Transition Intern](https://jobright.ai/jobs/info/69b1022574950064509834d4?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Music Affairs - Summer 2026](https://jobright.ai/jobs/info/69b0e92c0b2db6275c05d48d?utm_campaign=1055&utm_source=git)** | Culver City, California | On Site | Mar 10 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Music Affairs - Summer 2026](https://jobright.ai/jobs/info/69b0e6ac749500645098037d?utm_campaign=1055&utm_source=git)** | Culver City, California | On Site | Mar 10 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - SOX Compliance](https://jobright.ai/jobs/info/69b0b923dfaeda6ff59b1309?utm_campaign=1055&utm_source=git)** | Waterbury, CT | On Site | Mar 10 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-General Litigation](https://jobright.ai/jobs/info/69b0e246749500645097fbbb?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 10 |
 | **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Law Clerk (Intern)](https://jobright.ai/jobs/info/69b0b5647495006450978070?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/695c324922c9dc0d3d5410fe?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
 | ↳ | **[Privacy, Data Protection and Compliance Intern](https://jobright.ai/jobs/info/6975a754bc8e722e7b1a8214?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 10 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Compliance and Staff Development Intern - Washington, DC](https://jobright.ai/jobs/info/69b10d66dfaeda6ff59bf822?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 09 |
-| **[BD Nogales Norte](https://www.bd.com/es-mx/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69b10d8cdfaeda6ff59bf846?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Mar 09 |
-| **[Edwards Lifesciences](http://www.edwards.com)** | **[Enterprise Risk Management Intern, Summer 2026](https://jobright.ai/jobs/info/69afac097495006450947eb2?utm_campaign=1055&utm_source=git)** | Alton, TX | On Site | Mar 09 |
-| **[Astrion](https://astrion.us)** | **[Contracts Intern](https://jobright.ai/jobs/info/69af99947495006450943367?utm_campaign=1055&utm_source=git)** | Huntsville, AL | Hybrid | Mar 09 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Graduate Year-Round - Regulatory and Contract Law, Hybrid](https://jobright.ai/jobs/info/69af95dd7495006450941d4b?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Mar 09 |
-| **[LWCC](https://www.lwcc.com/)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/696e8b40db26b61895116859?utm_campaign=1055&utm_source=git)** | Baton Rouge Metro | On Site | Mar 09 |
-| **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program – [OIG, Law Student]](https://jobright.ai/jobs/info/69af907e74950064509410c7?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
