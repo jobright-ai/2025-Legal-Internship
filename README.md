@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ryder System, Inc.](http://ryder.com/en)** | **[Legal Intern](https://jobright.ai/jobs/info/69b229ebd04c69566c74df8c?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Mar 11 |
+| **[Las Americas Immigrant Advocacy Center](https://las-americas.org)** | **[Law Student Summer Internship](https://jobright.ai/jobs/info/69b22821d04c69566c74ddcd?utm_campaign=1055&utm_source=git)** | El Paso, Texas, United States | On Site | Mar 11 |
+| **[Dave & Buster's Inc.](http://www.daveandbusters.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b225b5d04c69566c74d9e9?utm_campaign=1055&utm_source=git)** | Coppell, TX | Hybrid | Mar 11 |
 | **[Tech Electronics](http://www.techelectronics.com/)** | **[Legal Intern- Immediate Availability](https://jobright.ai/jobs/info/69b1eb3b548f140066e7fee1?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Mar 11 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Business Affairs, SPA- Summer 2026](https://jobright.ai/jobs/info/69b1fa89548f140066e82678?utm_campaign=1055&utm_source=git)** | Los Angeles, California | On Site | Mar 11 |
 | **[Discovery Life Sciences](http://www.conversantbio.com/)** | **[Regulatory Intern Summer 2026](https://jobright.ai/jobs/info/69b1da4ad04c69566c743ecb?utm_campaign=1055&utm_source=git)** | Huntsville, AL | Hybrid | Mar 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/69b041f40b2db6275c03d737?utm_campaign=1055&utm_source=git)** | Wisconsin, United States | On Site | Mar 10 |
 | ↳ | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/69b041c50b2db6275c03d668?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Mar 10 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Paralegal Intern](https://jobright.ai/jobs/info/69b070180b2db6275c045b40?utm_campaign=1055&utm_source=git)** | Denver, CO, 80205 | Hybrid | Mar 10 |
-| **[New Era Cap](https://www.neweracap.com/)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/6993b00881476f6176ab4ae3?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | Mar 10 |
-| **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Office of Ethics Investigations Intern](https://jobright.ai/jobs/info/69941e2f81476f6176abda83?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 10 |
-| **[Systems Planning & Analysis](http://www.spa.com)** | **[Contracts/Subcontracts Intern](https://jobright.ai/jobs/info/6993c399e0bddb6acac20d2a?utm_campaign=1055&utm_source=git)** | Alexandria, VA | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
