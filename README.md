@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leidos](https://www.leidos.com)** | **[Global Regulatory Compliance Intern](https://jobright.ai/jobs/info/69b2d871ae2a534885ea0424?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Mar 12 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Paralegal Intern](https://jobright.ai/jobs/info/697986f9ca92cf0d6a82af70?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 12 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Registration Compliance Intern](https://jobright.ai/jobs/info/699a91eace78e77b4fdf6369?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 12 |
 | ↳ | **[Employee Activities Compliance Intern](https://jobright.ai/jobs/info/699a92c1e0bddb6acac9b8c3?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 12 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[2026 Summer Intern – Trade Compliance](https://jobright.ai/jobs/info/6983c5190f6f7e7a2cdd74ea?utm_campaign=1055&utm_source=git)** | Albertville, AL | On Site | Mar 12 |
@@ -73,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Las Americas Immigrant Advocacy Center](https://las-americas.org)** | **[Law Student Summer Internship](https://jobright.ai/jobs/info/69b22821d04c69566c74ddcd?utm_campaign=1055&utm_source=git)** | El Paso, Texas, United States | On Site | Mar 11 |
 | **[Dave & Buster's Inc.](http://www.daveandbusters.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b225b5d04c69566c74d9e9?utm_campaign=1055&utm_source=git)** | Coppell, TX | Hybrid | Mar 11 |
 | **[Tech Electronics](http://www.techelectronics.com/)** | **[Legal Intern- Immediate Availability](https://jobright.ai/jobs/info/69b1eb3b548f140066e7fee1?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Mar 11 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Business Affairs, SPA- Summer 2026](https://jobright.ai/jobs/info/69b1fa89548f140066e82679?utm_campaign=1055&utm_source=git)** | Los Angeles, California | On Site | Mar 11 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Business Affairs, SPA- Summer 2026](https://jobright.ai/jobs/info/69b1fa89548f140066e82678?utm_campaign=1055&utm_source=git)** | Los Angeles, California | On Site | Mar 11 |
 | **[Discovery Life Sciences](http://www.conversantbio.com/)** | **[Regulatory Intern Summer 2026](https://jobright.ai/jobs/info/69b1da4ad04c69566c743ecb?utm_campaign=1055&utm_source=git)** | Huntsville, AL | Hybrid | Mar 11 |
 | **[Dave & Buster's Inc.](http://www.daveandbusters.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b1fa8165de58104c716499?utm_campaign=1055&utm_source=git)** | Coppell, TX (Corporate) | Hybrid | Mar 11 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer 2026 EED Legal Intern](https://jobright.ai/jobs/info/69b1ff09d04c69566c74a5f1?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Mar 11 |
@@ -88,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Legal - Commercial Transactions Intern](https://jobright.ai/jobs/info/6996289981476f6176ade4c0?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Mar 11 |
 | **[DataBank](http://www.databank.com)** | **[Contract Review & Data Integrity Analyst Intern](https://jobright.ai/jobs/info/69b1b659548f140066e77f34?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Mar 11 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Legal Intern, NYC](https://jobright.ai/jobs/info/6940726caa598a08c3f0101e?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
-| **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69b1aaec548f140066e777fc?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Mar 11 |
+| **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69b1aaecd04c69566c73f136?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Mar 11 |
 | **[Wonderful Orchards](http://wonderfulorchards.com)** | **[Property & Compliance Intern](https://jobright.ai/jobs/info/6995196cce78e77b4fd930a1?utm_campaign=1055&utm_source=git)** | Shafter, CA | On Site | Mar 11 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69b1949f65de58104c709f4b?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 11 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Compliance AI Intern](https://jobright.ai/jobs/info/6994ddf5e0bddb6acac35cbc?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/69b0670a7495006450969392?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 10 |
 | **[Precisely](https://www.precisely.com)** | **[Legal Intern - Privacy](https://jobright.ai/jobs/info/69b063b60b2db6275c043cd6?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-Bond Forfeiture](https://jobright.ai/jobs/info/69b0e4570b2db6275c05c6eb?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 10 |
-| ↳ | **[LOCAL LAW STUDENT Paid Intern-Asset Forfeiture](https://jobright.ai/jobs/info/69b09e1274950064509747c4?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 10 |
-| **[Precisely](https://www.precisely.com)** | **[Legal Intern - Privacy](https://jobright.ai/jobs/info/69b061647495006450968715?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
