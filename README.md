@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bond, Schoeneck & King PLLC](https://www.bsk.com/)** | **[2027 Summer Law Clerk (Multiple Offices)](https://jobright.ai/jobs/info/69b446713b74eb1e2c8171da?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | Mar 13 |
+| **[McKesson](http://www.mckesson.com)** | **[Stagiaire en gestion des contrats – Été 2026 / Contract Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69b441563b74eb1e2c8168ff?utm_campaign=1055&utm_source=git)** | Saint-Laurent, Quebec, Canada | Hybrid | Mar 13 |
+| **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/696026607ebc25398eb6174d?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Mar 13 |
 | **[Defence Construction Canada](https://www.dcc-cdc.gc.ca)** | **[Law Student](https://jobright.ai/jobs/info/69b4264c06c1ba00c5455dee?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Mar 13 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Regulatory Analyst, Intern](https://jobright.ai/jobs/info/69b41f073b74eb1e2c812cc0?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Mar 13 |
 | **[Shumaker, Loop & Kendrick, LLP](https://www.shumaker.com)** | **[Records Intern](https://jobright.ai/jobs/info/698e19df0f6f7e7a2cea271e?utm_campaign=1055&utm_source=git)** | Sarasota, FL | On Site | Mar 13 |
@@ -74,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Steel Partners Holdings](http://www.steelpartners.com)** | **[Document Compliance Intern](https://jobright.ai/jobs/info/69b3689bae2a534885eac975?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 12 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b36587ad360c0340a87dd5?utm_campaign=1055&utm_source=git)** | HQ - San Diego, CA | On Site | Mar 12 |
 | **[VSP Vision Care](https://www.vsp.com/?utm_source=linkedin&utm_medium=social&utm_campaign=gcc_general)** | **[Internship, Compliance and Privacy Department](https://jobright.ai/jobs/info/69b36539ae2a534885eabecc?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 12 |
+| **[BD Nogales Norte](https://www.bd.com/es-mx/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69b428a1569738374138c45c?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Mar 12 |
 | **[FormFactor Inc.](http://www.formfactor.com)** | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34eb0a8ac8e70ff6789e4?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Mar 12 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34ea8a8ac8e70ff6789d8?utm_campaign=1055&utm_source=git)** | Texas, United States | Remote | Mar 12 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e77a8ac8e70ff6789b1?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Mar 12 |
@@ -113,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Harold Grinspoon Foundation](http://www.hgf.org)** | **[Legal and Human Resources Intern](https://jobright.ai/jobs/info/69b303c5ad360c0340a813a8?utm_campaign=1055&utm_source=git)** | Agawam, MA | On Site | Mar 12 |
 | **[Hayward Holdings, Inc.](http://www.hayward.com)** | **[Intern](https://jobright.ai/jobs/info/69b3264bad360c0340a8471c?utm_campaign=1055&utm_source=git)** | Charlotte, NC, US | On Site | Mar 12 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69b327e1ae2a534885ea8ab8?utm_campaign=1055&utm_source=git)** | US-NC-Charlotte | On Site | Mar 12 |
-| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Attorney Resource Center (ARC) Intern - New York](https://jobright.ai/jobs/info/69b327cfae2a534885ea89f2?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Mar 12 |
-| ↳ | **[Attorney Resource Center (ARC) Intern - New York](https://jobright.ai/jobs/info/69b32242a8ac8e70ff675181?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Mar 12 |
+| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Attorney Resource Center (ARC) Intern - New York](https://jobright.ai/jobs/info/69b32242a8ac8e70ff675181?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Mar 12 |
+| ↳ | **[Attorney Resource Center (ARC) Intern - New York](https://jobright.ai/jobs/info/69b327cfae2a534885ea89f2?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Mar 12 |
 | **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Commercial P&C Intern](https://jobright.ai/jobs/info/695ed5090badca5763af4af9?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Mar 12 |
 | **[StockX](https://stockx.com/)** | **[Marketplace Risk Intern](https://jobright.ai/jobs/info/69b2efbcad360c0340a801f1?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Mar 12 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Services Intern (Summer 2026)](https://jobright.ai/jobs/info/69b2eed4a8ac8e70ff671589?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA | Hybrid | Mar 12 |
@@ -140,7 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Dave & Buster's Inc.](http://www.daveandbusters.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b225b5d04c69566c74d9e9?utm_campaign=1055&utm_source=git)** | Coppell, TX | Hybrid | Mar 11 |
 | **[Arclin](http://arclin.com)** | **[Compliance & Sustainability Intern (Sustainability Focus)](https://jobright.ai/jobs/info/69b314b9ae2a534885ea576a?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | Hybrid | Mar 11 |
 | **[Tech Electronics](http://www.techelectronics.com/)** | **[Legal Intern- Immediate Availability](https://jobright.ai/jobs/info/69b1eb3b548f140066e7fee1?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Mar 11 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Business Affairs, SPA- Summer 2026](https://jobright.ai/jobs/info/69b1fa89548f140066e82679?utm_campaign=1055&utm_source=git)** | Los Angeles, California | On Site | Mar 11 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Business Affairs, SPA- Summer 2026](https://jobright.ai/jobs/info/69b1fa89548f140066e82678?utm_campaign=1055&utm_source=git)** | Los Angeles, California | On Site | Mar 11 |
 | **[Discovery Life Sciences](http://www.conversantbio.com/)** | **[Regulatory Intern Summer 2026](https://jobright.ai/jobs/info/69b1da4ad04c69566c743ecb?utm_campaign=1055&utm_source=git)** | Huntsville, AL | Hybrid | Mar 11 |
 | **[Dave & Buster's Inc.](http://www.daveandbusters.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b1fa8165de58104c716499?utm_campaign=1055&utm_source=git)** | Coppell, TX (Corporate) | Hybrid | Mar 11 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer 2026 EED Legal Intern](https://jobright.ai/jobs/info/69b1ff09d04c69566c74a5f1?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Mar 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Snyk](https://snyk.io   )** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69b1b73865de58104c70b676?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Mar 11 |
 | **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Legal - Commercial Transactions Intern](https://jobright.ai/jobs/info/6996289981476f6176ade4c0?utm_campaign=1055&utm_source=git)** | St Paul, MN | Hybrid | Mar 11 |
 | **[DataBank](http://www.databank.com)** | **[Contract Review & Data Integrity Analyst Intern](https://jobright.ai/jobs/info/69b1b659548f140066e77f34?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Mar 11 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Legal Intern, NYC](https://jobright.ai/jobs/info/6940726caa598a08c3f0101e?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
-| **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69b1aaeb548f140066e777f9?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Mar 11 |
-| **[Wonderful Orchards](http://wonderfulorchards.com)** | **[Property & Compliance Intern](https://jobright.ai/jobs/info/6995196cce78e77b4fd930a1?utm_campaign=1055&utm_source=git)** | Shafter, CA | On Site | Mar 11 |
-| **[Magnera Corporation](https://magnera.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69b1949f65de58104c709f4b?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
