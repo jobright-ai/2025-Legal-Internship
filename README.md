@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of New York](http://www1.nyc.gov)** | **[Sustainability Policy and Legal Intern](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d72?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| ↳ | **[Investigative Intern, Licensing](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d73?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| ↳ | **[Limited Alteration Application (LAA) Intern](https://jobright.ai/jobs/info/69b5b3dc06c1ba00c547a5ba?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| ↳ | **[Administrative Enforcement Legal Intern](https://jobright.ai/jobs/info/69b5b3db06c1ba00c547a5b8?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| ↳ | **[Cyber Risk and Compliance Intern](https://jobright.ai/jobs/info/69b5b3b73b74eb1e2c8380d1?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Summer IT Risk & Compliance Graduate Intern (R14994)](https://jobright.ai/jobs/info/69b5a87556973837413b02b1?utm_campaign=1055&utm_source=git)** | Andover, MA | On Site | Mar 14 |
 | **[Avant](https://www.avant.com)** | **[Legal Summer Internship](https://jobright.ai/jobs/info/69991f16e0bddb6acac81f68?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 14 |
 | **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/6998f365ce78e77b4fdd8731?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Mar 14 |
@@ -138,10 +143,10 @@ For a complete list, click the following sortable link below:
 | **[FormFactor Inc.](http://www.formfactor.com)** | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34eb0a8ac8e70ff6789e4?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Mar 12 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34ea8a8ac8e70ff6789d8?utm_campaign=1055&utm_source=git)** | Texas, United States | Remote | Mar 12 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e77a8ac8e70ff6789b1?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Mar 12 |
-| ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e33ae2a534885eab148?utm_campaign=1055&utm_source=git)** | Remote, OR | Remote | Mar 12 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e33ae2a534885eab147?utm_campaign=1055&utm_source=git)** | Remote, CA | Remote | Mar 12 |
-| ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34dcead360c0340a86ee7?utm_campaign=1055&utm_source=git)** | Remote, NY | Remote | Mar 12 |
+| ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e33ae2a534885eab148?utm_campaign=1055&utm_source=git)** | Remote, OR | Remote | Mar 12 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34dcead360c0340a86ee6?utm_campaign=1055&utm_source=git)** | Remote, TX | Remote | Mar 12 |
+| ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34dcead360c0340a86ee7?utm_campaign=1055&utm_source=git)** | Remote, NY | Remote | Mar 12 |
 | **[VSP Vision](https://vspglobal.com/)** | **[Internship, Compliance and Privacy Department](https://jobright.ai/jobs/info/69b34dc7a8ac8e70ff678869?utm_campaign=1055&utm_source=git)** | Remote US | Remote | Mar 12 |
 | **[FormFactor Inc.](http://www.formfactor.com)** | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34daea8ac8e70ff6787f0?utm_campaign=1055&utm_source=git)** | Remote, MA | Remote | Mar 12 |
 | **[Hayward Holdings, Inc.](http://www.hayward.com)** | **[Intern](https://jobright.ai/jobs/info/69b34b49ae2a534885eab005?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FormFactor Inc.](http://www.formfactor.com)** | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b340a4ad360c0340a86750?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | Remote | Mar 12 |
 | **[PTR Premier Truck Rental](https://rentptr.com)** | **[Intern Legal](https://jobright.ai/jobs/info/69b33e62a8ac8e70ff677f7d?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | On Site | Mar 12 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Regulatory Analyst, Intern](https://jobright.ai/jobs/info/69b3384eae2a534885eaa150?utm_campaign=1055&utm_source=git)** | Sacramento SC | Hybrid | Mar 12 |
-| ↳ | **[Regulatory Analyst, Intern](https://jobright.ai/jobs/info/69b3380ead360c0340a85f14?utm_campaign=1055&utm_source=git)** | Sacramento | Hybrid | Mar 12 |
-| **[Leidos](https://www.leidos.com)** | **[Global Regulatory Compliance Intern](https://jobright.ai/jobs/info/69b32fa1a8ac8e70ff6770fd?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Mar 12 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b32d6cae2a534885ea932d?utm_campaign=1055&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Mar 12 |
-| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Attorney Resource Center (ARC) Intern - New York](https://jobright.ai/jobs/info/69b32cb5ad360c0340a8518d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 12 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Services Intern (Summer 2026)](https://jobright.ai/jobs/info/69b32c73a8ac8e70ff676cc2?utm_campaign=1055&utm_source=git)** | Silver Spring, MD | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
