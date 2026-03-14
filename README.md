@@ -121,10 +121,10 @@ For a complete list, click the following sortable link below:
 | **[FormFactor Inc.](http://www.formfactor.com)** | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34eb0a8ac8e70ff6789e4?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Mar 12 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34ea8a8ac8e70ff6789d8?utm_campaign=1055&utm_source=git)** | Texas, United States | Remote | Mar 12 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e77a8ac8e70ff6789b1?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Mar 12 |
-| ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e33ae2a534885eab148?utm_campaign=1055&utm_source=git)** | Remote, OR | Remote | Mar 12 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e33ae2a534885eab147?utm_campaign=1055&utm_source=git)** | Remote, CA | Remote | Mar 12 |
-| ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34dcead360c0340a86ee6?utm_campaign=1055&utm_source=git)** | Remote, TX | Remote | Mar 12 |
+| ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e33ae2a534885eab148?utm_campaign=1055&utm_source=git)** | Remote, OR | Remote | Mar 12 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34dcead360c0340a86ee7?utm_campaign=1055&utm_source=git)** | Remote, NY | Remote | Mar 12 |
+| ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34dcead360c0340a86ee6?utm_campaign=1055&utm_source=git)** | Remote, TX | Remote | Mar 12 |
 | **[VSP Vision](https://vspglobal.com/)** | **[Internship, Compliance and Privacy Department](https://jobright.ai/jobs/info/69b34dc7a8ac8e70ff678869?utm_campaign=1055&utm_source=git)** | Remote US | Remote | Mar 12 |
 | **[FormFactor Inc.](http://www.formfactor.com)** | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34daea8ac8e70ff6787f0?utm_campaign=1055&utm_source=git)** | Remote, MA | Remote | Mar 12 |
 | **[Hayward Holdings, Inc.](http://www.hayward.com)** | **[Intern](https://jobright.ai/jobs/info/69b34b49ae2a534885eab005?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 12 |
