@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/697cf0133f57a3356966a200?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 14 |
+| **[Ultragenyx](http://www.ultragenyx.com)** | **[Intern, Clinical Regulatory Writing](https://jobright.ai/jobs/info/69b576113b74eb1e2c832ad9?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Mar 14 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Electric Risk and Compliance, Intern](https://jobright.ai/jobs/info/69b573333b74eb1e2c8323ca?utm_campaign=1055&utm_source=git)** | Oakland, CA | Hybrid | Mar 14 |
+| **[Howmet Aerospace](https://www.howmet.com)** | **[Trade Compliance Summer Intern](https://jobright.ai/jobs/info/697d65e93f57a335696748ad?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Mar 14 |
+| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/697cf91e137a05102565f355?utm_campaign=1055&utm_source=git)** | Newark, NJ | On Site | Mar 14 |
+| **[Beazley](http://www.beazley.com)** | **[Regulatory Law Intern](https://jobright.ai/jobs/info/6999b2c381476f6176b27bf4?utm_campaign=1055&utm_source=git)** | West Hartford, CT | On Site | Mar 14 |
+| **[Avant](https://www.avant.com)** | **[Enterprise Risk Management Summer Internship](https://jobright.ai/jobs/info/69a40d150da45516f16d1735?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 14 |
 | **[Kearfott Corporation](http://www.kearfott.com)** | **[Contracts Administration Summer Intern](https://jobright.ai/jobs/info/69b55f5f06c1ba00c5470b63?utm_campaign=1055&utm_source=git)** | Pine Brook, NJ | On Site | Mar 14 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/697cf25c727747250d57ac96?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Mar 14 |
 | **[CVR Energy, Inc.](http://www.cvrenergy.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69b5446606c1ba00c54701a3?utm_campaign=1055&utm_source=git)** | Sugar Land, TX | On Site | Mar 14 |
@@ -89,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[EmPRO Insurance](https://www.myempro.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69b475c55697383741394da7?utm_campaign=1055&utm_source=git)** | Roslyn, NY | On Site | Mar 13 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b475313b74eb1e2c81c6b1?utm_campaign=1055&utm_source=git)** | Woodland Hills, CA (Hybrid) | Hybrid | Mar 13 |
 | **[PACCAR](http://www.paccar.com/)** | **[IT Summer 2026 Intern - Internal Controls Intern](https://jobright.ai/jobs/info/69b46d2d3b74eb1e2c81b361?utm_campaign=1055&utm_source=git)** | Renton, WA | On Site | Mar 13 |
-| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-Bond Forfeiture](https://jobright.ai/jobs/info/69b4995706c1ba00c5461909?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 13 |
-| ↳ | **[LOCAL LAW STUDENT Paid Intern-Asset Forfeiture](https://jobright.ai/jobs/info/69b499815697383741397fb7?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 13 |
+| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-Asset Forfeiture](https://jobright.ai/jobs/info/69b499815697383741397fb7?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 13 |
+| ↳ | **[LOCAL LAW STUDENT Paid Intern-Bond Forfeiture](https://jobright.ai/jobs/info/69b4995706c1ba00c5461909?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 13 |
 | ↳ | **[LOCAL LAW STUDENT Paid Intern-General Litigation](https://jobright.ai/jobs/info/69b499885697383741397fd3?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 13 |
 | **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Corporate Governance Intern](https://jobright.ai/jobs/info/69b4894d06c1ba00c5460738?utm_campaign=1055&utm_source=git)** | Middletown, DE | Hybrid | Mar 13 |
 | ↳ | **[Corporate Governance Intern](https://jobright.ai/jobs/info/69b467c05697383741392817?utm_campaign=1055&utm_source=git)** | Middletown, Delaware, United States | Hybrid | Mar 13 |
@@ -128,10 +135,10 @@ For a complete list, click the following sortable link below:
 | **[FormFactor Inc.](http://www.formfactor.com)** | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34eb0a8ac8e70ff6789e4?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Mar 12 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34ea8a8ac8e70ff6789d8?utm_campaign=1055&utm_source=git)** | Texas, United States | Remote | Mar 12 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e77a8ac8e70ff6789b1?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Mar 12 |
-| ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e33ae2a534885eab147?utm_campaign=1055&utm_source=git)** | Remote, CA | Remote | Mar 12 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e33ae2a534885eab148?utm_campaign=1055&utm_source=git)** | Remote, OR | Remote | Mar 12 |
-| ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34dcead360c0340a86ee6?utm_campaign=1055&utm_source=git)** | Remote, TX | Remote | Mar 12 |
+| ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e33ae2a534885eab147?utm_campaign=1055&utm_source=git)** | Remote, CA | Remote | Mar 12 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34dcead360c0340a86ee7?utm_campaign=1055&utm_source=git)** | Remote, NY | Remote | Mar 12 |
+| ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34dcead360c0340a86ee6?utm_campaign=1055&utm_source=git)** | Remote, TX | Remote | Mar 12 |
 | **[VSP Vision](https://vspglobal.com/)** | **[Internship, Compliance and Privacy Department](https://jobright.ai/jobs/info/69b34dc7a8ac8e70ff678869?utm_campaign=1055&utm_source=git)** | Remote US | Remote | Mar 12 |
 | **[FormFactor Inc.](http://www.formfactor.com)** | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34daea8ac8e70ff6787f0?utm_campaign=1055&utm_source=git)** | Remote, MA | Remote | Mar 12 |
 | **[Hayward Holdings, Inc.](http://www.hayward.com)** | **[Intern](https://jobright.ai/jobs/info/69b34b49ae2a534885eab005?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 12 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[McKesson](http://www.mckesson.com)** | **[Stagiaire en gestion des contrats – Été 2026 / Contract Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69b32bc4a8ac8e70ff676acb?utm_campaign=1055&utm_source=git)** | CAN, QC, Montreal, Ville Saint-Laurent | Hybrid | Mar 12 |
 | **[MEMIC](https://www.memic.com/)** | **[Legal, Privacy & Risk Internship](https://jobright.ai/jobs/info/69b32aafad360c0340a84bf4?utm_campaign=1055&utm_source=git)** | Portland, ME | On Site | Mar 12 |
 | **[Appian](http://www.appian.com)** | **[Legal Operations Intern (Undergrad Students)](https://jobright.ai/jobs/info/69b32892ae2a534885ea8c8a?utm_campaign=1055&utm_source=git)** | McLean, Virginia | On Site | Mar 12 |
-| **[Cirrus](http://cirrusaircraft.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6996998581476f6176ae8085?utm_campaign=1055&utm_source=git)** | Alcoa, TN | On Site | Mar 12 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Business Affairs, SPA- Summer 2026](https://jobright.ai/jobs/info/69b31df3ad360c0340a832f7?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 12 |
-| **[Arclin](http://arclin.com)** | **[Compliance & Sustainability Intern (Sustainability Focus)](https://jobright.ai/jobs/info/69b3190ea8ac8e70ff6735e3?utm_campaign=1055&utm_source=git)** | Alpharetta, Georgia, United States | On Site | Mar 12 |
-| **[Giraffe Media Group, LLC](https://giraffemediagroup.com)** | **[Legal Operations & Corporate Governance Internship](https://jobright.ai/jobs/info/69b33930a8ac8e70ff677bb3?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL | On Site | Mar 12 |
-| ↳ | **[Corporate Finance & Legal Strategy Internship](https://jobright.ai/jobs/info/69b330ccae2a534885ea9794?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL | On Site | Mar 12 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/69aa53802ebd316bece21489?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Mar 12 |
-| **[Withings](http://www.withings.com)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/69b330c0ad360c0340a856ae?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
