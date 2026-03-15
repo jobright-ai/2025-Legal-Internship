@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Legal Internship - Spring 2026 (Dallas)](https://jobright.ai/jobs/info/697e30187f40342e15d6fdf8?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Mar 15 |
+| **[Ensono](https://www.ensono.com)** | **[Security Compliance Analyst-Intern](https://jobright.ai/jobs/info/69b6a4a33b74eb1e2c845acf?utm_campaign=1055&utm_source=git)** | Remote - United States | Remote | Mar 15 |
+| **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Legal Internship - Summer 2026 (Dallas)](https://jobright.ai/jobs/info/697e2f56ce48107c05426442?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Mar 15 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/69b694cd3b74eb1e2c8458cd?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Mar 15 |
 | **[Investors Title Company and Affiliates](http://www.invtitle.com/)** | **[Title Navigator Internship / Early Career](https://jobright.ai/jobs/info/697c6a43137a051025655651?utm_campaign=1055&utm_source=git)** | North Carolina, United States | On Site | Mar 15 |
 | **[Aeon Blue](http://www.aeonbluetechnologies.com)** | **[Intellectual Property Lawyer and draftsman](https://jobright.ai/jobs/info/69b6582256973837413b9ea6?utm_campaign=1055&utm_source=git)** | Cape Breton, Nova Scotia, Canada | Hybrid | Mar 14 |
@@ -133,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Defence Construction Canada](https://www.dcc-cdc.gc.ca)** | **[Law Student](https://jobright.ai/jobs/info/69b4264c06c1ba00c5455dee?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Mar 13 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Regulatory Analyst, Intern](https://jobright.ai/jobs/info/69b41f073b74eb1e2c812cc0?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Mar 13 |
 | **[Shumaker, Loop & Kendrick, LLP](https://www.shumaker.com)** | **[Records Intern](https://jobright.ai/jobs/info/698e19df0f6f7e7a2cea271e?utm_campaign=1055&utm_source=git)** | Sarasota, FL | On Site | Mar 13 |
+| **[Bridgepoint Research & Consultancy Private Limited](https://www.bridgepointresearch.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b6a8f73b74eb1e2c845c13?utm_campaign=1055&utm_source=git)** | Delhi, OH | On Site | Mar 13 |
 | **[Tech Electronics](http://www.techelectronics.com/)** | **[Legal Intern- Immediate Availability](https://jobright.ai/jobs/info/69b4b0493b74eb1e2c82048c?utm_campaign=1055&utm_source=git)** | Saint Louis, MO, US | On Site | Mar 13 |
 | **[Apex Clean Energy](http://apexcleanenergy.com)** | **[Land Management Summer Associate (Intern)](https://jobright.ai/jobs/info/6997bf3e81476f6176afe7f9?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Mar 13 |
 | ↳ | **[Corporate Legal Summer Associate (Intern)](https://jobright.ai/jobs/info/6997c02b81476f6176afe9ee?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Mar 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e33ae2a534885eab148?utm_campaign=1055&utm_source=git)** | Remote, OR | Remote | Mar 12 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e33ae2a534885eab147?utm_campaign=1055&utm_source=git)** | Remote, CA | Remote | Mar 12 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34dcead360c0340a86ee7?utm_campaign=1055&utm_source=git)** | Remote, NY | Remote | Mar 12 |
-| ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34dcead360c0340a86ee6?utm_campaign=1055&utm_source=git)** | Remote, TX | Remote | Mar 12 |
-| **[VSP Vision](https://vspglobal.com/)** | **[Internship, Compliance and Privacy Department](https://jobright.ai/jobs/info/69b34dc7a8ac8e70ff678869?utm_campaign=1055&utm_source=git)** | Remote US | Remote | Mar 12 |
-| **[FormFactor Inc.](http://www.formfactor.com)** | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34daea8ac8e70ff6787f0?utm_campaign=1055&utm_source=git)** | Remote, MA | Remote | Mar 12 |
-| **[Hayward Holdings, Inc.](http://www.hayward.com)** | **[Intern](https://jobright.ai/jobs/info/69b34b49ae2a534885eab005?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
