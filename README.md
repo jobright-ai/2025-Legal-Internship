@@ -105,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Circular Action Alliance](https://circularactionalliance.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b48e4906c1ba00c5460de8?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 13 |
 | **[Legal Services Corporation](https://www.lsc.gov/)** | **[Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/69b48c2c06c1ba00c5460b1f?utm_campaign=1055&utm_source=git)** | Washington, DC, US | Hybrid | Mar 13 |
 | **[Premera Blue Cross](https://www.premera.com)** | **[Claims Information Analyst Intern](https://jobright.ai/jobs/info/69b48b1006c1ba00c54609a5?utm_campaign=1055&utm_source=git)** | Mountlake Terrace WA | Hybrid | Mar 13 |
-| **[Ryder System, Inc.](http://ryder.com/en)** | **[Legal Intern](https://jobright.ai/jobs/info/69b48b0d06c1ba00c5460991?utm_campaign=1055&utm_source=git)** | USA - Coral Gables FL 33134 | On Site | Mar 13 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Electric Risk and Compliance, Intern](https://jobright.ai/jobs/info/69b480a106c1ba00c545fc25?utm_campaign=1055&utm_source=git)** | Oakland | Hybrid | Mar 13 |
 | ↳ | **[Electric Risk and Compliance, Intern](https://jobright.ai/jobs/info/69b4807d3b74eb1e2c81dbe8?utm_campaign=1055&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 13 |
 | **[Lithia & Driveway](https://www.lithiadriveway.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b47abe06c1ba00c545ef81?utm_campaign=1055&utm_source=git)** | Lithia Motors Home Office, Medford, OR 97501 | On Site | Mar 13 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[FormFactor Inc.](http://www.formfactor.com)** | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34eb0a8ac8e70ff6789e4?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Mar 12 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34ea8a8ac8e70ff6789d8?utm_campaign=1055&utm_source=git)** | Texas, United States | Remote | Mar 12 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e77a8ac8e70ff6789b1?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Mar 12 |
+| ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e33ae2a534885eab148?utm_campaign=1055&utm_source=git)** | Remote, OR | Remote | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
