@@ -70,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/69b5e23f56973837413b3b0a?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b5cb8306c1ba00c547bac7?utm_campaign=1055&utm_source=git)** | Cerritos, CA, US | On Site | Mar 14 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69b5c35606c1ba00c547b909?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
-| **[City of New York](http://www1.nyc.gov)** | **[Investigative Intern, Licensing](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d73?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
-| ↳ | **[Sustainability Policy and Legal Intern](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d72?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| **[City of New York](http://www1.nyc.gov)** | **[Sustainability Policy and Legal Intern](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d72?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| ↳ | **[Investigative Intern, Licensing](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d73?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Limited Alteration Application (LAA) Intern](https://jobright.ai/jobs/info/69b5b3dc06c1ba00c547a5ba?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Administrative Enforcement Legal Intern](https://jobright.ai/jobs/info/69b5b3db06c1ba00c547a5b8?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Cyber Risk and Compliance Intern](https://jobright.ai/jobs/info/69b5b3b73b74eb1e2c8380d1?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
@@ -116,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b475313b74eb1e2c81c6b1?utm_campaign=1055&utm_source=git)** | Woodland Hills, CA (Hybrid) | Hybrid | Mar 13 |
 | **[PACCAR](http://www.paccar.com/)** | **[IT Summer 2026 Intern - Internal Controls Intern](https://jobright.ai/jobs/info/69b46d2d3b74eb1e2c81b361?utm_campaign=1055&utm_source=git)** | Renton, WA | On Site | Mar 13 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Legal Aid Society](https://jobright.ai/jobs/info/69b5d64d56973837413b34d6?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | On Site | Mar 13 |
-| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-Bond Forfeiture](https://jobright.ai/jobs/info/69b4995706c1ba00c5461909?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 13 |
-| ↳ | **[LOCAL LAW STUDENT Paid Intern-Asset Forfeiture](https://jobright.ai/jobs/info/69b499815697383741397fb7?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 13 |
+| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-Asset Forfeiture](https://jobright.ai/jobs/info/69b499815697383741397fb7?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 13 |
+| ↳ | **[LOCAL LAW STUDENT Paid Intern-Bond Forfeiture](https://jobright.ai/jobs/info/69b4995706c1ba00c5461909?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 13 |
 | ↳ | **[LOCAL LAW STUDENT Paid Intern-General Litigation](https://jobright.ai/jobs/info/69b499885697383741397fd3?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 13 |
 | **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Corporate Governance Intern](https://jobright.ai/jobs/info/69b4894d06c1ba00c5460738?utm_campaign=1055&utm_source=git)** | Middletown, DE | Hybrid | Mar 13 |
 | ↳ | **[Corporate Governance Intern](https://jobright.ai/jobs/info/69b467c05697383741392817?utm_campaign=1055&utm_source=git)** | Middletown, Delaware, United States | Hybrid | Mar 13 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[FormFactor Inc.](http://www.formfactor.com)** | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34eb0a8ac8e70ff6789e4?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Mar 12 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34ea8a8ac8e70ff6789d8?utm_campaign=1055&utm_source=git)** | Texas, United States | Remote | Mar 12 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e77a8ac8e70ff6789b1?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Mar 12 |
-| ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e33ae2a534885eab148?utm_campaign=1055&utm_source=git)** | Remote, OR | Remote | Mar 12 |
+| ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e33ae2a534885eab147?utm_campaign=1055&utm_source=git)** | Remote, CA | Remote | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
