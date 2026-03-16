@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colorado District Attorneys'​ Council](https://coloradoprosecutors.org/)** | **[Deputy District Attorney ($5,000 sign-on bonus*)](https://jobright.ai/jobs/info/69b8760106c1ba00c54a6a99?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Mar 16 |
+| **[Safran](http://www.safran-group.com)** | **[Intern - Contracts Review](https://jobright.ai/jobs/info/69b875a106c1ba00c54a69d1?utm_campaign=1055&utm_source=git)** | Brea, CA | On Site | Mar 16 |
+| **[The NRP Group LLC](http://nrpgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b874493b74eb1e2c864368?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Mar 16 |
+| **[Canon USA](https://www.usa.canon.com)** | **[2026 Canon Insights Summer Internship - Legal](https://jobright.ai/jobs/info/69b873e856973837413dcb48?utm_campaign=1055&utm_source=git)** | Melville, NY | Hybrid | Mar 16 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Legal Intern (NYC Office)](https://jobright.ai/jobs/info/69b86bd806c1ba00c54a5d4d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
 | **[County of Tulare](https://tularecounty.ca.gov/county/)** | **[Extra Help Law Clerk](https://jobright.ai/jobs/info/69b8692106c1ba00c54a599b?utm_campaign=1055&utm_source=git)** | Visalia, CA | On Site | Mar 16 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b864593b74eb1e2c862978?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
 | ↳ | **[Subsidiary Rights & Sales Intern](https://jobright.ai/jobs/info/69b861f656973837413da618?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
-| **[The NRP Group LLC](http://nrpgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b861ed56973837413da604?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Mar 16 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal and Compliance Department - FLU Oversight Intern](https://jobright.ai/jobs/info/69b8605c56973837413da310?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Mar 16 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Servicing Summer Internship Program](https://jobright.ai/jobs/info/69b8600a56973837413da1aa?utm_campaign=1055&utm_source=git)** | Pontiac, MI, US | On Site | Mar 16 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern, Contract Design & Sourcing](https://jobright.ai/jobs/info/69b85fe356973837413da10c?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | Mar 16 |
@@ -74,7 +77,8 @@ For a complete list, click the following sortable link below:
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Servicing Summer Internship Program](https://jobright.ai/jobs/info/69b85b403b74eb1e2c860fb1?utm_campaign=1055&utm_source=git)** | Pontiac, MI | On Site | Mar 16 |
 | **[Disability Rights Wisconsin](https://disabilityrightswi.org)** | **[MANAGING ATTORNEY – Advocacy and Investigations](https://jobright.ai/jobs/info/69b85b3b3b74eb1e2c860f8b?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Mar 16 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal and Compliance Department - FLU Oversight Intern](https://jobright.ai/jobs/info/69b8551d06c1ba00c54a1aac?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 16 |
-| ↳ | **[Legal & Compliance Department - BSA/AML Compliance Intern](https://jobright.ai/jobs/info/697285fb9b83b424830e76a0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 16 |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Legal Intern (Onsite, Seattle)](https://jobright.ai/jobs/info/69b874253b74eb1e2c864297?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Mar 16 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department - BSA/AML Compliance Intern](https://jobright.ai/jobs/info/697285fb9b83b424830e76a0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 16 |
 | **[Matos Law Firm](http://matoslawfirm.com/)** | **[Law Student](https://jobright.ai/jobs/info/69b84f2d3b74eb1e2c85ed19?utm_campaign=1055&utm_source=git)** | Lakewood, CO | On Site | Mar 16 |
 | **[Noven Pharmaceuticals](http://www.noven.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69b849dc06c1ba00c54a0882?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | Hybrid | Mar 16 |
 | **[WSB](http://wsbeng.com)** | **[Intern, Environmental Compliance](https://jobright.ai/jobs/info/69b847a206c1ba00c54a077f?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Mar 16 |
@@ -105,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/69b5e23f56973837413b3b0a?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b5cb8306c1ba00c547bac7?utm_campaign=1055&utm_source=git)** | Cerritos, CA, US | On Site | Mar 14 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69b5c35606c1ba00c547b909?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
-| **[City of New York](http://www1.nyc.gov)** | **[Sustainability Policy and Legal Intern](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d72?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
-| ↳ | **[Investigative Intern, Licensing](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d73?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| **[City of New York](http://www1.nyc.gov)** | **[Investigative Intern, Licensing](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d73?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| ↳ | **[Sustainability Policy and Legal Intern](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d72?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Limited Alteration Application (LAA) Intern](https://jobright.ai/jobs/info/69b5b3dc06c1ba00c547a5ba?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Administrative Enforcement Legal Intern](https://jobright.ai/jobs/info/69b5b3db06c1ba00c547a5b8?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Cyber Risk and Compliance Intern](https://jobright.ai/jobs/info/69b5b3b73b74eb1e2c8380d1?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b475313b74eb1e2c81c6b1?utm_campaign=1055&utm_source=git)** | Woodland Hills, CA (Hybrid) | Hybrid | Mar 13 |
 | **[PACCAR](http://www.paccar.com/)** | **[IT Summer 2026 Intern - Internal Controls Intern](https://jobright.ai/jobs/info/69b46d2d3b74eb1e2c81b361?utm_campaign=1055&utm_source=git)** | Renton, WA | On Site | Mar 13 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Legal Aid Society](https://jobright.ai/jobs/info/69b7fcab56973837413d2783?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | On Site | Mar 13 |
-| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-Asset Forfeiture](https://jobright.ai/jobs/info/69b499815697383741397fb7?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 13 |
-| ↳ | **[LOCAL LAW STUDENT Paid Intern-Bond Forfeiture](https://jobright.ai/jobs/info/69b4995706c1ba00c5461909?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 13 |
-| ↳ | **[LOCAL LAW STUDENT Paid Intern-General Litigation](https://jobright.ai/jobs/info/69b499885697383741397fd3?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 13 |
-| **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Corporate Governance Intern](https://jobright.ai/jobs/info/69b4894d06c1ba00c5460738?utm_campaign=1055&utm_source=git)** | Middletown, DE | Hybrid | Mar 13 |
-| ↳ | **[Corporate Governance Intern](https://jobright.ai/jobs/info/69b467c05697383741392817?utm_campaign=1055&utm_source=git)** | Middletown, Delaware, United States | Hybrid | Mar 13 |
-| **[Sensience](https://sensience.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b47fce06c1ba00c545fb18?utm_campaign=1055&utm_source=git)** | Columbus, OH, USA | On Site | Mar 13 |
+| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-Bond Forfeiture](https://jobright.ai/jobs/info/69b4995706c1ba00c5461909?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 13 |
+| ↳ | **[LOCAL LAW STUDENT Paid Intern-Asset Forfeiture](https://jobright.ai/jobs/info/69b499815697383741397fb7?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
