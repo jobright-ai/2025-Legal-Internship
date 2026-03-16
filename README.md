@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Youth Apprentice (Internship) - District Attorney](https://jobright.ai/jobs/info/69b7d4a356973837413d1243?utm_campaign=1055&utm_source=git)** | Elkhorn, WI | On Site | Mar 16 |
 | **[Pennsylvania Music Preservation Society](https://pamusicsociety.org/)** | **[Music Industry Risk Management Intern](https://jobright.ai/jobs/info/69b737e83b74eb1e2c84cb6b?utm_campaign=1055&utm_source=git)** | Lehigh, PA | On Site | Mar 15 |
 | **[Vivacity Infrastructure Group](https://vivacitygroup.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69b714893b74eb1e2c84bf23?utm_campaign=1055&utm_source=git)** | Naperville, IL | On Site | Mar 15 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Immigration Law (Summer 2026)](https://jobright.ai/jobs/info/697f5f897f40342e15d81f67?utm_campaign=1055&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Mar 15 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Community Legal Services](https://www.clsmf.org/)** | **[CLS Summer Intern](https://jobright.ai/jobs/info/69b536633b74eb1e2c82d6b7?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Mar 14 |
 | **[PetIQ](https://petiq.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b523b756973837413a4ffb?utm_campaign=1055&utm_source=git)** | Eagle, ID | On Site | Mar 14 |
 | **[Wellfleet](https://wellfleetinsurance.com)** | **[Intern - Healthcare Analytics - Investigations Associate](https://jobright.ai/jobs/info/69b671d706c1ba00c5486846?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | Hybrid | Mar 14 |
-| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Legal Intern (Summer 2026 Cohort)](https://jobright.ai/jobs/info/69b7b4f63b74eb1e2c856075?utm_campaign=1055&utm_source=git)** | Morristown, NJ | Hybrid | Mar 13 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Healthcare Analytics - Investigations Associate](https://jobright.ai/jobs/info/69b7a8cd56973837413cc88c?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | Hybrid | Mar 13 |
 | **[Premera Blue Cross](https://www.premera.com)** | **[Claims Information Analyst Intern](https://jobright.ai/jobs/info/69b4cac03b74eb1e2c822716?utm_campaign=1055&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Mar 13 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b4ca753b74eb1e2c822630?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | Hybrid | Mar 13 |
@@ -118,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b475313b74eb1e2c81c6b1?utm_campaign=1055&utm_source=git)** | Woodland Hills, CA (Hybrid) | Hybrid | Mar 13 |
 | **[PACCAR](http://www.paccar.com/)** | **[IT Summer 2026 Intern - Internal Controls Intern](https://jobright.ai/jobs/info/69b46d2d3b74eb1e2c81b361?utm_campaign=1055&utm_source=git)** | Renton, WA | On Site | Mar 13 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Legal Aid Society](https://jobright.ai/jobs/info/69b5d64d56973837413b34d6?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | On Site | Mar 13 |
-| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-Asset Forfeiture](https://jobright.ai/jobs/info/69b499815697383741397fb7?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 13 |
-| ↳ | **[LOCAL LAW STUDENT Paid Intern-Bond Forfeiture](https://jobright.ai/jobs/info/69b4995706c1ba00c5461909?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 13 |
+| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-Bond Forfeiture](https://jobright.ai/jobs/info/69b4995706c1ba00c5461909?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 13 |
+| ↳ | **[LOCAL LAW STUDENT Paid Intern-Asset Forfeiture](https://jobright.ai/jobs/info/69b499815697383741397fb7?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 13 |
 | ↳ | **[LOCAL LAW STUDENT Paid Intern-General Litigation](https://jobright.ai/jobs/info/69b499885697383741397fd3?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 13 |
 | **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Corporate Governance Intern](https://jobright.ai/jobs/info/69b4894d06c1ba00c5460738?utm_campaign=1055&utm_source=git)** | Middletown, DE | Hybrid | Mar 13 |
 | ↳ | **[Corporate Governance Intern](https://jobright.ai/jobs/info/69b467c05697383741392817?utm_campaign=1055&utm_source=git)** | Middletown, Delaware, United States | Hybrid | Mar 13 |
