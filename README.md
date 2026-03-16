@@ -92,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Community Legal Services](https://www.clsmf.org/)** | **[CLS Summer Intern](https://jobright.ai/jobs/info/69b536633b74eb1e2c82d6b7?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Mar 14 |
 | **[PetIQ](https://petiq.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b523b756973837413a4ffb?utm_campaign=1055&utm_source=git)** | Eagle, ID | On Site | Mar 14 |
 | **[Wellfleet](https://wellfleetinsurance.com)** | **[Intern - Healthcare Analytics - Investigations Associate](https://jobright.ai/jobs/info/69b671d706c1ba00c5486846?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | Hybrid | Mar 14 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern - Healthcare Analytics - Investigations Associate](https://jobright.ai/jobs/info/69b7a8cd56973837413cc88c?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | Hybrid | Mar 13 |
 | **[Premera Blue Cross](https://www.premera.com)** | **[Claims Information Analyst Intern](https://jobright.ai/jobs/info/69b4cac03b74eb1e2c822716?utm_campaign=1055&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Mar 13 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b4ca753b74eb1e2c822630?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | Hybrid | Mar 13 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b4bd703b74eb1e2c821052?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Remote | Mar 13 |
@@ -127,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Chubb](https://www.chubb.com/us-en)** | **[Claims Compliance Internship- Summer 2026, Philadelphia](https://jobright.ai/jobs/info/69b47bca06c1ba00c545f104?utm_campaign=1055&utm_source=git)** | 436 Walnut Street, Philadelphia, PA, 19106, US | On Site | Mar 13 |
 | **[Community Legal Services](https://www.clsmf.org/)** | **[CLS Summer Intern](https://jobright.ai/jobs/info/69b4802756973837413961c6?utm_campaign=1055&utm_source=git)** | Orlando, FL, 32801, US | On Site | Mar 13 |
 | **[Circular Action Alliance](https://circularactionalliance.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b455835697383741390cd0?utm_campaign=1055&utm_source=git)** | Remote, US | Remote | Mar 13 |
-| **[Capital Blue Cross](https://capbluecross.com)** | **[Compliance and Privacy Intern](https://jobright.ai/jobs/info/69b4812b3b74eb1e2c81dce7?utm_campaign=1055&utm_source=git)** | US-PA-Harrisburg | Hybrid | Mar 13 |
-| ↳ | **[Compliance and Privacy Intern](https://jobright.ai/jobs/info/69b4813a06c1ba00c545fd51?utm_campaign=1055&utm_source=git)** | Harrisburg, PA, US | Hybrid | Mar 13 |
+| **[Capital Blue Cross](https://capbluecross.com)** | **[Compliance and Privacy Intern](https://jobright.ai/jobs/info/69b4813a06c1ba00c545fd51?utm_campaign=1055&utm_source=git)** | Harrisburg, PA, US | Hybrid | Mar 13 |
+| ↳ | **[Compliance and Privacy Intern](https://jobright.ai/jobs/info/69b4812b3b74eb1e2c81dce7?utm_campaign=1055&utm_source=git)** | US-PA-Harrisburg | Hybrid | Mar 13 |
 | **[Law Offices of Benvenuto & Gaujean](http://www.sbs-law.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69b450033b74eb1e2c81887d?utm_campaign=1055&utm_source=git)** | Roslyn, NY, US | On Site | Mar 13 |
 | **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69b44fd13b74eb1e2c818829?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Mar 13 |
 | **[First American](http://www.firstam.com)** | **[Graduate Underwriting Intern (Hybrid Opportunity)](https://jobright.ai/jobs/info/69979ebce0bddb6acac6511a?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Mar 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FormFactor Inc.](http://www.formfactor.com)** | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34eb0a8ac8e70ff6789e4?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Mar 12 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34ea8a8ac8e70ff6789d8?utm_campaign=1055&utm_source=git)** | Texas, United States | Remote | Mar 12 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e77a8ac8e70ff6789b1?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Mar 12 |
-| ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e33ae2a534885eab148?utm_campaign=1055&utm_source=git)** | Remote, OR | Remote | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
