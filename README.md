@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Lawrence, KS](https://lawrenceks.org)** | **[LEGAL INTERN](https://jobright.ai/jobs/info/69b8bb7456973837413e59b8?utm_campaign=1055&utm_source=git)** | Lawrence, KS, USA | Hybrid | Mar 16 |
+| **[Grossman Young & Hammond, LLC](https://www.grossmanyoung.com/)** | **[Immigration & Human Rights Legal Intern](https://jobright.ai/jobs/info/69b8c48056973837413e61cf?utm_campaign=1055&utm_source=git)** | Bethesda, MD, US | Hybrid | Mar 16 |
+| **[Sound Physicians](http://www.soundphysicians.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69b8c39756973837413e6132?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 16 |
+| **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - Legal](https://jobright.ai/jobs/info/69b8bced56973837413e5bb6?utm_campaign=1055&utm_source=git)** | Melville, NY, US | Hybrid | Mar 16 |
+| ↳ | **[2026 Canon Insights Summer Internship - Legal](https://jobright.ai/jobs/info/69b8bc8f06c1ba00c54aeb85?utm_campaign=1055&utm_source=git)** | US-NY-Melville | Hybrid | Mar 16 |
 | **[O.C. Tanner](http://octanner.com)** | **[Legal Internship](https://jobright.ai/jobs/info/69b89b2b3b74eb1e2c86727a?utm_campaign=1055&utm_source=git)** | USA - Utah-Salt Lake City-Headquarters | On Site | Mar 16 |
 | **[MacArthur Justice Center](https://www.macarthurjustice.org/)** | **[Litigation Paralegal - Bilingual](https://jobright.ai/jobs/info/69b8927056973837413df1cb?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 16 |
 | **[CAE](http://www.cae.com)** | **[C-LEG-200 Law Internship-EN](https://jobright.ai/jobs/info/69b8870b06c1ba00c54a830d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 16 |
@@ -136,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[PetIQ](https://petiq.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b523b756973837413a4ffb?utm_campaign=1055&utm_source=git)** | Eagle, ID | On Site | Mar 14 |
 | **[Wellfleet](https://wellfleetinsurance.com)** | **[Intern - Healthcare Analytics - Investigations Associate](https://jobright.ai/jobs/info/69b671d706c1ba00c5486846?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | Hybrid | Mar 14 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Healthcare Analytics - Investigations Associate](https://jobright.ai/jobs/info/69b7a8cd56973837413cc88c?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | Hybrid | Mar 13 |
+| **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[Graduate Intern - Attorney (Legal) Services](https://jobright.ai/jobs/info/69b8c6ba3b74eb1e2c86d0ed?utm_campaign=1055&utm_source=git)** | Downtown Seattle | On Site | Mar 13 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b8af663b74eb1e2c86a2b0?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, US | Remote | Mar 13 |
 | ↳ | **[Product and Commercial Legal Intern -- Summer 2026](https://jobright.ai/jobs/info/69b8ae7456973837413e2c01?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, US | Remote | Mar 13 |
 | **[Premera Blue Cross](https://www.premera.com)** | **[Claims Information Analyst Intern](https://jobright.ai/jobs/info/69b4cac03b74eb1e2c822716?utm_campaign=1055&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Mar 13 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Circular Action Alliance](https://circularactionalliance.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b48e4906c1ba00c5460de8?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 13 |
 | **[Legal Services Corporation](https://www.lsc.gov/)** | **[Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/69b48c2c06c1ba00c5460b1f?utm_campaign=1055&utm_source=git)** | Washington, DC, US | Hybrid | Mar 13 |
 | **[Premera Blue Cross](https://www.premera.com)** | **[Claims Information Analyst Intern](https://jobright.ai/jobs/info/69b48b1006c1ba00c54609a5?utm_campaign=1055&utm_source=git)** | Mountlake Terrace WA | Hybrid | Mar 13 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Electric Risk and Compliance, Intern](https://jobright.ai/jobs/info/69b480a106c1ba00c545fc25?utm_campaign=1055&utm_source=git)** | Oakland | Hybrid | Mar 13 |
-| ↳ | **[Electric Risk and Compliance, Intern](https://jobright.ai/jobs/info/69b4807d3b74eb1e2c81dbe8?utm_campaign=1055&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 13 |
-| **[Lithia & Driveway](https://www.lithiadriveway.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b47abe06c1ba00c545ef81?utm_campaign=1055&utm_source=git)** | Lithia Motors Home Office, Medford, OR 97501 | On Site | Mar 13 |
-| **[Aspen Aerogels](http://www.aerogel.com)** | **[Legal/HR Intern](https://jobright.ai/jobs/info/69b498c33b74eb1e2c81f7e0?utm_campaign=1055&utm_source=git)** | Northborough, MA | On Site | Mar 13 |
-| **[Sensience](https://sensience.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b4791f56973837413951d3?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Mar 13 |
-| **[LG Energy Solution](https://www.lgensol.com)** | **[Intellectual Property Internship - Summer 2026](https://jobright.ai/jobs/info/69b499165697383741397ebc?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
