@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[O.C. Tanner](http://octanner.com)** | **[Legal Internship](https://jobright.ai/jobs/info/69b89b2b3b74eb1e2c86727a?utm_campaign=1055&utm_source=git)** | USA - Utah-Salt Lake City-Headquarters | On Site | Mar 16 |
+| **[MacArthur Justice Center](https://www.macarthurjustice.org/)** | **[Litigation Paralegal - Bilingual](https://jobright.ai/jobs/info/69b8927056973837413df1cb?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 16 |
 | **[CAE](http://www.cae.com)** | **[C-LEG-200 Law Internship-EN](https://jobright.ai/jobs/info/69b8870b06c1ba00c54a830d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 16 |
 | **[O.C. Tanner](http://octanner.com)** | **[Information Security & Compliance Internship](https://jobright.ai/jobs/info/69b87e6d3b74eb1e2c865635?utm_campaign=1055&utm_source=git)** | USA - Utah-Salt Lake City-Headquarters | On Site | Mar 16 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Intern - University Counsel](https://jobright.ai/jobs/info/69b87c8556973837413dde3d?utm_campaign=1055&utm_source=git)** | Jacksonville, AL | On Site | Mar 16 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern, Contract Design & Sourcing](https://jobright.ai/jobs/info/69b85fe356973837413da10c?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | Mar 16 |
 | **[Steel Partners Holdings](http://www.steelpartners.com)** | **[Document Compliance Intern](https://jobright.ai/jobs/info/69b85e8056973837413d9fe7?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 16 |
 | **[Disability Rights Wisconsin](https://disabilityrightswi.org)** | **[MANAGING ATTORNEY – Advocacy and Investigations](https://jobright.ai/jobs/info/69b85e123b74eb1e2c8613f4?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | Hybrid | Mar 16 |
-| **[Moran Towing Corporation](http://morantug.com)** | **[1L Summer Intern](https://jobright.ai/jobs/info/69b85df356973837413d9efc?utm_campaign=1055&utm_source=git)** | New Canaan, CT | On Site | Mar 16 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern, Contract Design & Sourcing](https://jobright.ai/jobs/info/69b85db93b74eb1e2c861393?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 16 |
 | **[Swansea University / Prifysgol Abertawe](https://www.swansea.ac.uk/)** | **[RESEARCH CONTRACTS OFFICER](https://jobright.ai/jobs/info/69b85d773b74eb1e2c86132d?utm_campaign=1055&utm_source=git)** | Innovation, VA | On Site | Mar 16 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Summer 2026 Compliance Internship](https://jobright.ai/jobs/info/69b85bbf06c1ba00c54a3586?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Mar 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LG Energy Solution](https://www.lgensol.com)** | **[Intellectual Property Internship - Summer 2026](https://jobright.ai/jobs/info/69b499165697383741397ebc?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 13 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Product and Commercial Legal Intern -- Summer 2026](https://jobright.ai/jobs/info/69b476d75697383741394e88?utm_campaign=1055&utm_source=git)** | Woodland Hills, CA | Remote | Mar 13 |
 | **[EmPRO Insurance](https://www.myempro.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69b475c55697383741394da7?utm_campaign=1055&utm_source=git)** | Roslyn, NY | On Site | Mar 13 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b475313b74eb1e2c81c6b1?utm_campaign=1055&utm_source=git)** | Woodland Hills, CA (Hybrid) | Hybrid | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
