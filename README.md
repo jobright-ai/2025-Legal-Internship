@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CAE](http://www.cae.com)** | **[C-LEG-200 Law Internship-EN](https://jobright.ai/jobs/info/69b8870b06c1ba00c54a830d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 16 |
+| **[O.C. Tanner](http://octanner.com)** | **[Information Security & Compliance Internship](https://jobright.ai/jobs/info/69b87e6d3b74eb1e2c865635?utm_campaign=1055&utm_source=git)** | USA - Utah-Salt Lake City-Headquarters | On Site | Mar 16 |
+| **[Jacksonville State University](http://www.jsu.edu/)** | **[Intern - University Counsel](https://jobright.ai/jobs/info/69b87c8556973837413dde3d?utm_campaign=1055&utm_source=git)** | Jacksonville, AL | On Site | Mar 16 |
 | **[Colorado District Attorneys'​ Council](https://coloradoprosecutors.org/)** | **[Deputy District Attorney ($5,000 sign-on bonus*)](https://jobright.ai/jobs/info/69b8760106c1ba00c54a6a99?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Mar 16 |
 | **[Safran](http://www.safran-group.com)** | **[Intern - Contracts Review](https://jobright.ai/jobs/info/69b875a106c1ba00c54a69d1?utm_campaign=1055&utm_source=git)** | Brea, CA | On Site | Mar 16 |
 | **[The NRP Group LLC](http://nrpgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b874493b74eb1e2c864368?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Mar 16 |
@@ -95,6 +98,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 - National Advertising Division Externship](https://jobright.ai/jobs/info/69b8255256973837413d506e?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Mar 16 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Senior Law Clerk, Business Law](https://jobright.ai/jobs/info/69b1ce7965de58104c70eb0a?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 16 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Ethics and Regulatory Compliance Intern – Summer 2026 (May – August)](https://jobright.ai/jobs/info/6916f43d6f36db06ef05b74b?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 16 |
+| **[State of Washington](http://access.wa.gov/)** | **[Assistant Attorney General - Social & Health Services Division, Behavioral Health Section, Tumwater](https://jobright.ai/jobs/info/69b87e6706c1ba00c54a791f?utm_campaign=1055&utm_source=git)** | Bay View, WA | On Site | Mar 15 |
 | **[Pennsylvania Music Preservation Society](https://pamusicsociety.org/)** | **[Music Industry Risk Management Intern](https://jobright.ai/jobs/info/69b737e83b74eb1e2c84cb6b?utm_campaign=1055&utm_source=git)** | Lehigh, PA | On Site | Mar 15 |
 | **[Vivacity Infrastructure Group](https://vivacitygroup.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69b714893b74eb1e2c84bf23?utm_campaign=1055&utm_source=git)** | Naperville, IL | On Site | Mar 15 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/69aa81482ebd316bece23733?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Mar 15 |
@@ -109,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/69b5e23f56973837413b3b0a?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b5cb8306c1ba00c547bac7?utm_campaign=1055&utm_source=git)** | Cerritos, CA, US | On Site | Mar 14 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69b5c35606c1ba00c547b909?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
-| **[City of New York](http://www1.nyc.gov)** | **[Investigative Intern, Licensing](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d73?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
-| ↳ | **[Sustainability Policy and Legal Intern](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d72?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| **[City of New York](http://www1.nyc.gov)** | **[Sustainability Policy and Legal Intern](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d72?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| ↳ | **[Investigative Intern, Licensing](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d73?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Limited Alteration Application (LAA) Intern](https://jobright.ai/jobs/info/69b5b3dc06c1ba00c547a5ba?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Administrative Enforcement Legal Intern](https://jobright.ai/jobs/info/69b5b3db06c1ba00c547a5b8?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Cyber Risk and Compliance Intern](https://jobright.ai/jobs/info/69b5b3b73b74eb1e2c8380d1?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Product and Commercial Legal Intern -- Summer 2026](https://jobright.ai/jobs/info/69b476d75697383741394e88?utm_campaign=1055&utm_source=git)** | Woodland Hills, CA | Remote | Mar 13 |
 | **[EmPRO Insurance](https://www.myempro.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69b475c55697383741394da7?utm_campaign=1055&utm_source=git)** | Roslyn, NY | On Site | Mar 13 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b475313b74eb1e2c81c6b1?utm_campaign=1055&utm_source=git)** | Woodland Hills, CA (Hybrid) | Hybrid | Mar 13 |
-| **[PACCAR](http://www.paccar.com/)** | **[IT Summer 2026 Intern - Internal Controls Intern](https://jobright.ai/jobs/info/69b46d2d3b74eb1e2c81b361?utm_campaign=1055&utm_source=git)** | Renton, WA | On Site | Mar 13 |
-| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Legal Aid Society](https://jobright.ai/jobs/info/69b7fcab56973837413d2783?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | On Site | Mar 13 |
-| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-Bond Forfeiture](https://jobright.ai/jobs/info/69b4995706c1ba00c5461909?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 13 |
-| ↳ | **[LOCAL LAW STUDENT Paid Intern-Asset Forfeiture](https://jobright.ai/jobs/info/69b499815697383741397fb7?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
