@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[OPTrust](http://www.optrust.com)** | **[Legal Assistant Intern Student](https://jobright.ai/jobs/info/69b98db556973837413f044a?utm_campaign=1055&utm_source=git)** | Toronto, ON | Hybrid | Mar 17 |
+| **[Hayward Holdings, Inc.](http://www.hayward.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b9954c3b74eb1e2c877e97?utm_campaign=1055&utm_source=git)** | Charlotte, NC, US | On Site | Mar 17 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Governance, Risk, and Compliance](https://jobright.ai/jobs/info/69b98d553b74eb1e2c87725f?utm_campaign=1055&utm_source=git)** | Irvine, CA, United States of America | Hybrid | Mar 17 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69b97c1a06c1ba00c54b8c9d?utm_campaign=1055&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Mar 17 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Legal Operations Intern - Fall 2026](https://jobright.ai/jobs/info/69b97b4c3b74eb1e2c876a4f?utm_campaign=1055&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Mar 17 |
@@ -70,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[City of Lawrence, KS](https://lawrenceks.org)** | **[LEGAL INTERN](https://jobright.ai/jobs/info/69b8bb7456973837413e59b8?utm_campaign=1055&utm_source=git)** | Lawrence, KS, USA | Hybrid | Mar 16 |
 | **[Grossman Young & Hammond, LLC](https://www.grossmanyoung.com/)** | **[Immigration & Human Rights Legal Intern](https://jobright.ai/jobs/info/69b8c48056973837413e61cf?utm_campaign=1055&utm_source=git)** | Bethesda, MD, US | Hybrid | Mar 16 |
 | **[Sound Physicians](http://www.soundphysicians.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69b8c39756973837413e6132?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 16 |
-| **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - Legal](https://jobright.ai/jobs/info/69b8bc8f06c1ba00c54aeb85?utm_campaign=1055&utm_source=git)** | US-NY-Melville | Hybrid | Mar 16 |
-| ↳ | **[2026 Canon Insights Summer Internship - Legal](https://jobright.ai/jobs/info/69b8bced56973837413e5bb6?utm_campaign=1055&utm_source=git)** | Melville, NY, US | Hybrid | Mar 16 |
+| **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - Legal](https://jobright.ai/jobs/info/69b8bced56973837413e5bb6?utm_campaign=1055&utm_source=git)** | Melville, NY, US | Hybrid | Mar 16 |
+| ↳ | **[2026 Canon Insights Summer Internship - Legal](https://jobright.ai/jobs/info/69b8bc8f06c1ba00c54aeb85?utm_campaign=1055&utm_source=git)** | US-NY-Melville | Hybrid | Mar 16 |
 | **[O.C. Tanner](http://octanner.com)** | **[Legal Internship](https://jobright.ai/jobs/info/69b89b2b3b74eb1e2c86727a?utm_campaign=1055&utm_source=git)** | USA - Utah-Salt Lake City-Headquarters | On Site | Mar 16 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Claims Compliance Internship- Summer 2026, Philadelphia](https://jobright.ai/jobs/info/69b49f123b74eb1e2c81fadb?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Mar 16 |
 | **[MacArthur Justice Center](https://www.macarthurjustice.org/)** | **[Litigation Paralegal - Bilingual](https://jobright.ai/jobs/info/69b8927056973837413df1cb?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 16 |
@@ -130,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/69b5e23f56973837413b3b0a?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b5cb8306c1ba00c547bac7?utm_campaign=1055&utm_source=git)** | Cerritos, CA, US | On Site | Mar 14 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69b5c35606c1ba00c547b909?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
-| **[City of New York](http://www1.nyc.gov)** | **[Sustainability Policy and Legal Intern](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d72?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
-| ↳ | **[Investigative Intern, Licensing](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d73?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| **[City of New York](http://www1.nyc.gov)** | **[Investigative Intern, Licensing](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d73?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| ↳ | **[Sustainability Policy and Legal Intern](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d72?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Limited Alteration Application (LAA) Intern](https://jobright.ai/jobs/info/69b5b3dc06c1ba00c547a5ba?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Administrative Enforcement Legal Intern](https://jobright.ai/jobs/info/69b5b3db06c1ba00c547a5b8?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Cyber Risk and Compliance Intern](https://jobright.ai/jobs/info/69b5b3b73b74eb1e2c8380d1?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
