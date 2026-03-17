@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - Legal](https://jobright.ai/jobs/info/69b8bced56973837413e5bb6?utm_campaign=1055&utm_source=git)** | Melville, NY, US | Hybrid | Mar 16 |
 | ↳ | **[2026 Canon Insights Summer Internship - Legal](https://jobright.ai/jobs/info/69b8bc8f06c1ba00c54aeb85?utm_campaign=1055&utm_source=git)** | US-NY-Melville | Hybrid | Mar 16 |
 | **[O.C. Tanner](http://octanner.com)** | **[Legal Internship](https://jobright.ai/jobs/info/69b89b2b3b74eb1e2c86727a?utm_campaign=1055&utm_source=git)** | USA - Utah-Salt Lake City-Headquarters | On Site | Mar 16 |
+| **[Chubb](https://www.chubb.com/us-en)** | **[Claims Compliance Internship- Summer 2026, Philadelphia](https://jobright.ai/jobs/info/69b49f123b74eb1e2c81fadb?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Mar 16 |
 | **[MacArthur Justice Center](https://www.macarthurjustice.org/)** | **[Litigation Paralegal - Bilingual](https://jobright.ai/jobs/info/69b8927056973837413df1cb?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 16 |
 | **[CAE](http://www.cae.com)** | **[C-LEG-200 Law Internship-EN](https://jobright.ai/jobs/info/69b8870b06c1ba00c54a830d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 16 |
 | **[O.C. Tanner](http://octanner.com)** | **[Information Security & Compliance Internship](https://jobright.ai/jobs/info/69b87e6d3b74eb1e2c865635?utm_campaign=1055&utm_source=git)** | USA - Utah-Salt Lake City-Headquarters | On Site | Mar 16 |
@@ -119,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/69b5e23f56973837413b3b0a?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b5cb8306c1ba00c547bac7?utm_campaign=1055&utm_source=git)** | Cerritos, CA, US | On Site | Mar 14 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69b5c35606c1ba00c547b909?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
-| **[City of New York](http://www1.nyc.gov)** | **[Sustainability Policy and Legal Intern](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d72?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
-| ↳ | **[Investigative Intern, Licensing](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d73?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| **[City of New York](http://www1.nyc.gov)** | **[Investigative Intern, Licensing](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d73?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| ↳ | **[Sustainability Policy and Legal Intern](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d72?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Limited Alteration Application (LAA) Intern](https://jobright.ai/jobs/info/69b5b3dc06c1ba00c547a5ba?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Administrative Enforcement Legal Intern](https://jobright.ai/jobs/info/69b5b3db06c1ba00c547a5b8?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Cyber Risk and Compliance Intern](https://jobright.ai/jobs/info/69b5b3b73b74eb1e2c8380d1?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
@@ -140,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Community Legal Services](https://www.clsmf.org/)** | **[CLS Summer Intern](https://jobright.ai/jobs/info/69b536633b74eb1e2c82d6b7?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Mar 14 |
 | **[PetIQ](https://petiq.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b523b756973837413a4ffb?utm_campaign=1055&utm_source=git)** | Eagle, ID | On Site | Mar 14 |
 | **[Wellfleet](https://wellfleetinsurance.com)** | **[Intern - Healthcare Analytics - Investigations Associate](https://jobright.ai/jobs/info/69b671d706c1ba00c5486846?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | Hybrid | Mar 14 |
-| **[MedPro Group](https://www.medpro.com/)** | **[Intern - Healthcare Analytics - Investigations Associate](https://jobright.ai/jobs/info/69b7a8cd56973837413cc88c?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | Hybrid | Mar 13 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b8af663b74eb1e2c86a2b0?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, US | Remote | Mar 13 |
 | ↳ | **[Product and Commercial Legal Intern -- Summer 2026](https://jobright.ai/jobs/info/69b8ae7456973837413e2c01?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, US | Remote | Mar 13 |
 | **[Premera Blue Cross](https://www.premera.com)** | **[Claims Information Analyst Intern](https://jobright.ai/jobs/info/69b4cac03b74eb1e2c822716?utm_campaign=1055&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Mar 13 |
@@ -150,11 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, IT Analyst, Global Risk & Compliance (Summer 2026)](https://jobright.ai/jobs/info/69b4b32b5697383741398dc4?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Mar 13 |
 | **[Mission Bank](https://www.missionbank.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69b4adc45697383741398b5a?utm_campaign=1055&utm_source=git)** | Bakersfield, CA | On Site | Mar 13 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Legal Aid Society](https://jobright.ai/jobs/info/69b4a5c706c1ba00c54620d3?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 13 |
-| **[Chubb](https://www.chubb.com/us-en)** | **[Claims Compliance Internship- Summer 2026, Philadelphia](https://jobright.ai/jobs/info/69b49f123b74eb1e2c81fadb?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Mar 13 |
 | **[Lithia & Driveway](https://www.lithiadriveway.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b4991006c1ba00c54618c7?utm_campaign=1055&utm_source=git)** | Medford, OR | On Site | Mar 13 |
 | **[Sentara Health](http://www.sentara.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b48ea006c1ba00c5460e5d?utm_campaign=1055&utm_source=git)** | Virginia Beach, VA | On Site | Mar 13 |
 | **[Circular Action Alliance](https://circularactionalliance.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b48e4906c1ba00c5460de8?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 13 |
 | **[Legal Services Corporation](https://www.lsc.gov/)** | **[Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/69b48c2c06c1ba00c5460b1f?utm_campaign=1055&utm_source=git)** | Washington, DC, US | Hybrid | Mar 13 |
 | **[Premera Blue Cross](https://www.premera.com)** | **[Claims Information Analyst Intern](https://jobright.ai/jobs/info/69b48b1006c1ba00c54609a5?utm_campaign=1055&utm_source=git)** | Mountlake Terrace WA | Hybrid | Mar 13 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Electric Risk and Compliance, Intern](https://jobright.ai/jobs/info/69b480a106c1ba00c545fc25?utm_campaign=1055&utm_source=git)** | Oakland | Hybrid | Mar 13 |
+| ↳ | **[Electric Risk and Compliance, Intern](https://jobright.ai/jobs/info/69b4807d3b74eb1e2c81dbe8?utm_campaign=1055&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
