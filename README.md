@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bb0dc03b74eb1e2c896d1f?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Mar 18 |
+| **[CooperSurgical](http://www.coopersurgical.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bb0a8306c1ba00c54d6e0a?utm_campaign=1055&utm_source=git)** | Trumbull, CT | On Site | Mar 18 |
+| **[Democracy Forward](https://democracyforward.org)** | **[Democracy 2025 Summer Legal Intern](https://jobright.ai/jobs/info/69bb0a4b569738374140eca8?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Mar 18 |
+| **[New York State Unified Court System](https://www.nycourts.gov)** | **[Legal Intern (Rural Pathways)](https://jobright.ai/jobs/info/69bb066906c1ba00c54d60f4?utm_campaign=1055&utm_source=git)** | Otsego County, NY | On Site | Mar 18 |
 | **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Legal Intern](https://jobright.ai/jobs/info/69baffdd569738374140d286?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Mar 18 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69baff7906c1ba00c54d4ed6?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Mar 18 |
 | **[Kansas Department of Health and Environment](http://www.kdheks.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/69baf46f569738374140cb8b?utm_campaign=1055&utm_source=git)** | Shawnee County, KS | On Site | Mar 18 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Legal (Summer 2026)](https://jobright.ai/jobs/info/69baef5106c1ba00c54d41da?utm_campaign=1055&utm_source=git)** | Denver CO | On Site | Mar 18 |
 | **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern – Commercial Title](https://jobright.ai/jobs/info/69baef4e06c1ba00c54d41bc?utm_campaign=1055&utm_source=git)** | USA, Minnesota, Minneapolis | On Site | Mar 18 |
 | **[Centurion Land Title, Inc.](https://centurionlandtitle.com)** | **[Escrow & Title Intern - Summer 2026](https://jobright.ai/jobs/info/69bae7c2569738374140bea2?utm_campaign=1055&utm_source=git)** | Carmel,IN,US | On Site | Mar 18 |
+| **[Ocean State Job Lot](http://oceanstatejoblot.com)** | **[Property Development Internship - Procurement](https://jobright.ai/jobs/info/69bb0fb956973837414101e8?utm_campaign=1055&utm_source=git)** | North Kingstown, RI | Hybrid | Mar 18 |
+| ↳ | **[Legal Internship (Grad Students Only)](https://jobright.ai/jobs/info/69bb0fa556973837414101be?utm_campaign=1055&utm_source=git)** | North Kingstown, RI | Hybrid | Mar 18 |
 | **[MYR Group](https://myrgroup.com/)** | **[Internship: Legal (Summer 2026)](https://jobright.ai/jobs/info/69badcf33b74eb1e2c8913a7?utm_campaign=1055&utm_source=git)** | Thornton, CO | On Site | Mar 18 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Risk and Compliance Intern](https://jobright.ai/jobs/info/699fc268d643757b0e454837?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 18 |
 | ↳ | **[Privacy and Data Protection Intern](https://jobright.ai/jobs/info/69ae480d4f6bcc1828096570?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 18 |
@@ -91,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a71c7a37c712687d384c?utm_campaign=1055&utm_source=git)** | Stockton, CA | On Site | Mar 18 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Privacy Law Intern](https://jobright.ai/jobs/info/699f0c3681476f6176b890b1?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 18 |
 | **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Intern the Otsuka Way 2026 - Legal Intern](https://jobright.ai/jobs/info/699e2142e0bddb6acacd7e89?utm_campaign=1055&utm_source=git)** | Rockville, MD | On Site | Mar 18 |
-| **[Crown Castle](https://www.crowncastle.com/)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/699ed781ce78e77b4fe47a6b?utm_campaign=1055&utm_source=git)** | Canonsburg, PA | Hybrid | Mar 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Risk Governance Analyst Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69817ebb49964d25b5e47ce0?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Mar 18 |
 | **[FirstCash](https://firstcash.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ba990c5697383741405cb4?utm_campaign=1055&utm_source=git)** | Coppell, TX | On Site | Mar 18 |
 | **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Legal Innovation and AI](https://jobright.ai/jobs/info/69ba986656973837414057b0?utm_campaign=1055&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Mar 17 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Enterprise Risk Management](https://jobright.ai/jobs/info/69b9ef0206c1ba00c54c0880?utm_campaign=1055&utm_source=git)** | New York, New York | Hybrid | Mar 17 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Legal Entertainment Summer Intern](https://jobright.ai/jobs/info/69ba8c685697383741402e2d?utm_campaign=1055&utm_source=git)** | NYC Metro Area | On Site | Mar 17 |
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998f7ca81476f6176b1651d?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Mar 17 |
-| **[GEA Group](http://www.gea.com/)** | **[Hygiene Regulatory Intern](https://jobright.ai/jobs/info/69b9bd3e56973837413f4c15?utm_campaign=1055&utm_source=git)** | Romeoville | On Site | Mar 17 |
-| **[Authentic Brands Group](https://authentic.com)** | **[Legal Entertainment Summer Intern](https://jobright.ai/jobs/info/69b9bcaf56973837413f4a85?utm_campaign=1055&utm_source=git)** | New York, New York | On Site | Mar 17 |
-| **[Fortrea](https://www.fortrea.com)** | **[Intern - Graduate Law School 3L](https://jobright.ai/jobs/info/69b9bc6b3b74eb1e2c87b431?utm_campaign=1055&utm_source=git)** | Burlington NC | On Site | Mar 17 |
-| **[Appian](http://www.appian.com)** | **[Legal Operations Intern (Undergrad Students)](https://jobright.ai/jobs/info/69b32892ae2a534885ea8c8a?utm_campaign=1055&utm_source=git)** | McLean, Virginia | On Site | Mar 17 |
-| **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998f9cae0bddb6acac7eaf6?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
