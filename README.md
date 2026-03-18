@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/69b5e23f56973837413b3b0a?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b5cb8306c1ba00c547bac7?utm_campaign=1055&utm_source=git)** | Cerritos, CA, US | On Site | Mar 14 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69b5c35606c1ba00c547b909?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
-| **[City of New York](http://www1.nyc.gov)** | **[Sustainability Policy and Legal Intern](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d72?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| **[City of New York](http://www1.nyc.gov)** | **[Investigative Intern, Licensing](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d73?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
