@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centurion Land Title, Inc.](https://centurionlandtitle.com)** | **[Escrow & Title Intern - Summer 2026](https://jobright.ai/jobs/info/69bae7c2569738374140bea2?utm_campaign=1055&utm_source=git)** | Carmel,IN,US | On Site | Mar 18 |
 | **[MYR Group](https://myrgroup.com/)** | **[Internship: Legal (Summer 2026)](https://jobright.ai/jobs/info/69badcf33b74eb1e2c8913a7?utm_campaign=1055&utm_source=git)** | Thornton, CO | On Site | Mar 18 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Risk and Compliance Intern](https://jobright.ai/jobs/info/699fc268d643757b0e454837?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 18 |
 | ↳ | **[Privacy and Data Protection Intern](https://jobright.ai/jobs/info/69ae480d4f6bcc1828096570?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Professional Case Management](https://procasemanagement.com/)** | **[Legal and Compliance - Summer Intern](https://jobright.ai/jobs/info/69a19764359fe034b1ccf2f8?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Mar 17 |
 | **[Hayward Holdings, Inc.](http://www.hayward.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b9954c3b74eb1e2c877e97?utm_campaign=1055&utm_source=git)** | Charlotte, NC, US | On Site | Mar 17 |
 | **[Virginia Office of the Attorney General](http://www.oag.state.va.us)** | **[2026 Summer Attorney Internship](https://jobright.ai/jobs/info/69ba9be13b74eb1e2c88bcd3?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Mar 17 |
-| **[LawBhoomi](https://lawbhoomi.com/)** | **[Legal Associate and Legal Intern with Adv. Faiz Khan: Apply Now!](https://jobright.ai/jobs/info/69ba832156973837413ffdb4?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
