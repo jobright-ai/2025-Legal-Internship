@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gallup](http://www.gallup.com)** | **[Security Auditor Intern — Summer 2026](https://jobright.ai/jobs/info/69ba2df23b74eb1e2c88234a?utm_campaign=1055&utm_source=git)** | Omaha Riverfront | Hybrid | Mar 17 |
 | **[Liliʻuokalani Trust](https://www.onipaa.org)** | **[Intern, Risk and Compliance](https://jobright.ai/jobs/info/69ba226a3b74eb1e2c881f30?utm_campaign=1055&utm_source=git)** | Honolulu, HI, USA | On Site | Mar 17 |
 | **[Futures Without Violence](http://www.futureswithoutviolence.org/)** | **[Advancing Safety Through Employment Rights Internship](https://jobright.ai/jobs/info/69ba14c656973837413f9fe0?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 17 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[2026 Compliance, Summer Analyst](https://jobright.ai/jobs/info/69ba112306c1ba00c54c312b?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 17 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/69b5e23f56973837413b3b0a?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b5cb8306c1ba00c547bac7?utm_campaign=1055&utm_source=git)** | Cerritos, CA, US | On Site | Mar 14 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69b5c35606c1ba00c547b909?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
-| **[City of New York](http://www1.nyc.gov)** | **[Investigative Intern, Licensing](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d73?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
-| ↳ | **[Sustainability Policy and Legal Intern](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d72?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| **[City of New York](http://www1.nyc.gov)** | **[Sustainability Policy and Legal Intern](https://jobright.ai/jobs/info/69b5b3ec56973837413b0d72?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
