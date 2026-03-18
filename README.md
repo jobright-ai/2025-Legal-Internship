@@ -63,6 +63,8 @@ For a complete list, click the following sortable link below:
 | **[Authentic Brands Group](https://authentic.com)** | **[M&A Legal Summer Intern](https://jobright.ai/jobs/info/69b9db2656973837413f6ca8?utm_campaign=1055&utm_source=git)** | Miami, Florida | On Site | Mar 17 |
 | **[AV](https://www.avinc.com/)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/69b9d6c606c1ba00c54bf5ca?utm_campaign=1055&utm_source=git)** | Huntsville, AL | On Site | Mar 17 |
 | ↳ | **[Trade Compliance Intern](https://jobright.ai/jobs/info/69b9d60e3b74eb1e2c87d32e?utm_campaign=1055&utm_source=git)** | Simi Valley, CA | On Site | Mar 17 |
+| **[Mountain America Credit Union](https://www.macu.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/69b9f4b606c1ba00c54c0bf9?utm_campaign=1055&utm_source=git)** | Sandy, UT | On Site | Mar 17 |
+| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Enterprise Risk Management](https://jobright.ai/jobs/info/69b9ef0206c1ba00c54c0880?utm_campaign=1055&utm_source=git)** | New York, New York | Hybrid | Mar 17 |
 | **[The Home Depot](https://www.homedepot.com)** | **[Hiring Req - 2026 Summer Internship - Legal](https://jobright.ai/jobs/info/69b9ca1956973837413f5441?utm_campaign=1055&utm_source=git)** | STORE SUPPORT CENTER, ATLANTA - 9090 | Hybrid | Mar 17 |
 | **[GEA Group](http://www.gea.com/)** | **[Hygiene Regulatory Intern](https://jobright.ai/jobs/info/69b9bd3e56973837413f4c15?utm_campaign=1055&utm_source=git)** | Romeoville | On Site | Mar 17 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Legal Entertainment Summer Intern](https://jobright.ai/jobs/info/69b9bcaf56973837413f4a85?utm_campaign=1055&utm_source=git)** | New York, New York | On Site | Mar 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cyber Risk and Compliance Intern](https://jobright.ai/jobs/info/69b5b3b73b74eb1e2c8380d1?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Summer IT Risk & Compliance Graduate Intern (R14994)](https://jobright.ai/jobs/info/69b5a87556973837413b02b1?utm_campaign=1055&utm_source=git)** | Andover, MA | On Site | Mar 14 |
 | **[Avant](https://www.avant.com)** | **[Legal Summer Internship](https://jobright.ai/jobs/info/69991f16e0bddb6acac81f68?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 14 |
-| **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/6998f365ce78e77b4fdd8731?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Mar 14 |
-| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/697cf0133f57a3356966a200?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
