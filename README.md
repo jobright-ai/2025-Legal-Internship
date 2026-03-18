@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a72b7a37c712687d3884?utm_campaign=1055&utm_source=git)** | Union, OH | On Site | Mar 18 |
+| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Mar 18 |
+| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Global Regulatory Affairs Labeling Operations Intern](https://jobright.ai/jobs/info/699ec95f81476f6176b83d68?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Mar 18 |
+| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Internship - Enterprise Risk Management](https://jobright.ai/jobs/info/6965ba072cbf4e44756f66c8?utm_campaign=1055&utm_source=git)** | Livonia, MI | Hybrid | Mar 18 |
+| **[Boston University](https://www.bu.edu/antiracism-center/)** | **[INFOSEC COMPLIANCE ANALYST III, IS&T Information Security](https://jobright.ai/jobs/info/69a7d820637232443f653269?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Mar 18 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - AI & Legal Compliance (Summer 2026)](https://jobright.ai/jobs/info/6981df8f0f6f7e7a2cdb036d?utm_campaign=1055&utm_source=git)** | Garland, TX | On Site | Mar 18 |
+| **[Foster Garvey PC](https://www.foster.com/)** | **[2027 Summer Associate](https://jobright.ai/jobs/info/69ae48097c309707d4af807f?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Mar 18 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a71c7a37c712687d384c?utm_campaign=1055&utm_source=git)** | Stockton, CA | On Site | Mar 18 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Privacy Law Intern](https://jobright.ai/jobs/info/699f0c3681476f6176b890b1?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 18 |
 | **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Intern the Otsuka Way 2026 - Legal Intern](https://jobright.ai/jobs/info/699e2142e0bddb6acacd7e89?utm_campaign=1055&utm_source=git)** | Rockville, MD | On Site | Mar 18 |
@@ -120,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Mountain America Credit Union](https://www.macu.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/69b9f4b606c1ba00c54c0bf9?utm_campaign=1055&utm_source=git)** | Sandy, UT | On Site | Mar 17 |
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Enterprise Risk Management](https://jobright.ai/jobs/info/69b9ef0206c1ba00c54c0880?utm_campaign=1055&utm_source=git)** | New York, New York | Hybrid | Mar 17 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Legal Entertainment Summer Intern](https://jobright.ai/jobs/info/69ba8c685697383741402e2d?utm_campaign=1055&utm_source=git)** | NYC Metro Area | On Site | Mar 17 |
-| **[The Home Depot](https://www.homedepot.com)** | **[Hiring Req - 2026 Summer Internship - Legal](https://jobright.ai/jobs/info/69b9ca1956973837413f5441?utm_campaign=1055&utm_source=git)** | STORE SUPPORT CENTER, ATLANTA - 9090 | Hybrid | Mar 17 |
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998f7ca81476f6176b1651d?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Mar 17 |
 | **[GEA Group](http://www.gea.com/)** | **[Hygiene Regulatory Intern](https://jobright.ai/jobs/info/69b9bd3e56973837413f4c15?utm_campaign=1055&utm_source=git)** | Romeoville | On Site | Mar 17 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Legal Entertainment Summer Intern](https://jobright.ai/jobs/info/69b9bcaf56973837413f4a85?utm_campaign=1055&utm_source=git)** | New York, New York | On Site | Mar 17 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grossman Young & Hammond, LLC](https://www.grossmanyoung.com/)** | **[Immigration & Human Rights Legal Intern](https://jobright.ai/jobs/info/69b8c48056973837413e61cf?utm_campaign=1055&utm_source=git)** | Bethesda, MD, US | Hybrid | Mar 16 |
 | **[Sound Physicians](http://www.soundphysicians.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69b8c39756973837413e6132?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 16 |
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - Legal](https://jobright.ai/jobs/info/69b8bced56973837413e5bb6?utm_campaign=1055&utm_source=git)** | Melville, NY, US | Hybrid | Mar 16 |
-| ↳ | **[2026 Canon Insights Summer Internship - Legal](https://jobright.ai/jobs/info/69b8bc8f06c1ba00c54aeb85?utm_campaign=1055&utm_source=git)** | US-NY-Melville | Hybrid | Mar 16 |
-| **[O.C. Tanner](http://octanner.com)** | **[Legal Internship](https://jobright.ai/jobs/info/69b89b2b3b74eb1e2c86727a?utm_campaign=1055&utm_source=git)** | USA - Utah-Salt Lake City-Headquarters | On Site | Mar 16 |
-| **[CAE](http://www.cae.com)** | **[C-LEG-200 Law Internship-EN](https://jobright.ai/jobs/info/69b8870b06c1ba00c54a830d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 16 |
-| **[O.C. Tanner](http://octanner.com)** | **[Information Security & Compliance Internship](https://jobright.ai/jobs/info/69b87e6d3b74eb1e2c865635?utm_campaign=1055&utm_source=git)** | USA - Utah-Salt Lake City-Headquarters | On Site | Mar 16 |
-| **[Jacksonville State University](http://www.jsu.edu/)** | **[Intern - University Counsel](https://jobright.ai/jobs/info/69b87c8556973837413dde3d?utm_campaign=1055&utm_source=git)** | Jacksonville, AL | On Site | Mar 16 |
-| **[Colorado District Attorneys'​ Council](https://coloradoprosecutors.org/)** | **[Deputy District Attorney ($5,000 sign-on bonus*)](https://jobright.ai/jobs/info/69b8760106c1ba00c54a6a99?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
