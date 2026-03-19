@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CooperSurgical](http://www.coopersurgical.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bbb3c1569738374141c2b7?utm_campaign=1055&utm_source=git)** | Trumbull, CT | On Site | Mar 19 |
 | **[LexisNexis](http://www.lexisnexis.com)** | **[Legal Research Intern (Remote)](https://jobright.ai/jobs/info/69bba79e06c1ba00c54e3dc6?utm_campaign=1055&utm_source=git)** | Ohio, United States | Remote | Mar 19 |
 | **[UMB Bank](https://www.umb.com/)** | **[AML Intern](https://jobright.ai/jobs/info/69bb619b06c1ba00c54dd8e2?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Mar 18 |
 | **[McCain Foods](http://www.mccain.com)** | **[Functional Compliance Learning Internship](https://jobright.ai/jobs/info/69bb59635697383741415c6c?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Mar 18 |
@@ -114,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Legal Intern (Law Student)](https://jobright.ai/jobs/info/69bac3413b74eb1e2c88f727?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 18 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a64d7796a83635f09901?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Mar 18 |
 | **[Allianz Technology](https://www.allianz-technology.ch)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69badc2a06c1ba00c54d280f?utm_campaign=1055&utm_source=git)** | Twin Cities Area | Hybrid | Mar 18 |
+| **[PNC](http://www.pnc.com)** | **[Senior Estate Settlement Advisor - PNC Private Bank](https://jobright.ai/jobs/info/69bbbe5c569738374141caed?utm_campaign=1055&utm_source=git)** | Millburn, NJ | On Site | Mar 18 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a72b7a37c712687d3884?utm_campaign=1055&utm_source=git)** | Union, OH | On Site | Mar 18 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Mar 18 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Global Regulatory Affairs Labeling Operations Intern](https://jobright.ai/jobs/info/699ec95f81476f6176b83d68?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Mar 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AV](https://www.avinc.com/)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/69bb8e373b74eb1e2c8a13bf?utm_campaign=1055&utm_source=git)** | Simi Valley, CA | On Site | Mar 17 |
 | **[City of Chicago Department of Law](https://www.chicago.gov/city/en/depts/dol.html)** | **[Assistant Corporation Counsel Supervisor - Special Federal Litigation Division](https://jobright.ai/jobs/info/69a15c4cb600907a9627b39e?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 17 |
 | **[Aldridge Pite, LLP](http://www.aldridgepite.com/)** | **[Associate Attorney Internship](https://jobright.ai/jobs/info/69ba92063b74eb1e2c889400?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Mar 17 |
-| **[Christian Legal Society](https://christianlegalsociety.org)** | **[Christian Legal Society – Attorney Ministries Coordinator](https://jobright.ai/jobs/info/69bb8ebd06c1ba00c54e27d1?utm_campaign=1055&utm_source=git)** | Eugene-Springfield Area | Hybrid | Mar 17 |
-| **[Gallup](http://www.gallup.com)** | **[Security Auditor Intern — Summer 2026](https://jobright.ai/jobs/info/69ba2df23b74eb1e2c88234a?utm_campaign=1055&utm_source=git)** | Omaha Riverfront | Hybrid | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
