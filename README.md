@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UMB Bank](https://www.umb.com/)** | **[AML Intern](https://jobright.ai/jobs/info/69bb619b06c1ba00c54dd8e2?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Mar 18 |
+| **[McCain Foods](http://www.mccain.com)** | **[Functional Compliance Learning Internship](https://jobright.ai/jobs/info/69bb59635697383741415c6c?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Mar 18 |
+| **[Unigen Corporation](https://www.unigen.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69bb535006c1ba00c54dc72d?utm_campaign=1055&utm_source=git)** | Newark, CA, US | On Site | Mar 18 |
+| **[BMO](http://www.bmo.com)** | **[Legal and Regulatory Compliance Data Science Intern (Co-op/Internship), Summer 2026 - 4 months](https://jobright.ai/jobs/info/69bb52a53b74eb1e2c89bc4b?utm_campaign=1055&utm_source=git)** | Chicago, IL, USA | On Site | Mar 18 |
+| **[Allianz Technology](https://www.allianz-technology.ch)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69bb6b125697383741416667?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 18 |
 | **[DataBank](http://www.databank.com)** | **[Contract Review & Data Integrity Analyst Intern](https://jobright.ai/jobs/info/69b1b659548f140066e77f34?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Mar 18 |
 | **[Edwards Lifesciences](http://www.edwards.com)** | **[Clinical and Regulatory Internship, Summer 2026](https://jobright.ai/jobs/info/69bb43773b74eb1e2c89b452?utm_campaign=1055&utm_source=git)** | USA IRV-1472 Alton/DBC6-7 | On Site | Mar 18 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Legal Intern- Temporary Position](https://jobright.ai/jobs/info/69bb40fe56973837414143d6?utm_campaign=1055&utm_source=git)** | Oklahoma County, OK | On Site | Mar 18 |
@@ -125,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998dd72ce78e77b4fdd6d60?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Mar 17 |
 | ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998e46a81476f6176b14a5b?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Mar 17 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern - Fall 2026](https://jobright.ai/jobs/info/69ba99c506c1ba00c54ccd90?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Mar 17 |
-| **[AMH](https://www.americanhomes4rent.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ba8c193b74eb1e2c8877c5?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Mar 17 |
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998d140e0bddb6acac7bcca?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Mar 17 |
 | **[Wisconsin State Public Defender](https://www.wispd.gov/)** | **[Local Attorney Manager - West Bend Trial Office](https://jobright.ai/jobs/info/69ba97da06c1ba00c54cbed1?utm_campaign=1055&utm_source=git)** | West Bend, WI | On Site | Mar 17 |
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998d0a881476f6176b13a29?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Mar 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Liliʻuokalani Trust](https://www.onipaa.org)** | **[Intern, Risk and Compliance](https://jobright.ai/jobs/info/69ba226a3b74eb1e2c881f30?utm_campaign=1055&utm_source=git)** | Honolulu, HI, USA | On Site | Mar 17 |
 | **[EmPRO Insurance](https://www.myempro.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69b475c55697383741394da7?utm_campaign=1055&utm_source=git)** | Roslyn, NY | On Site | Mar 17 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Summer Legal Student](https://jobright.ai/jobs/info/69ba93e73b74eb1e2c889bc3?utm_campaign=1055&utm_source=git)** | Edmonton, AB | On Site | Mar 17 |
-| **[Futures Without Violence](http://www.futureswithoutviolence.org/)** | **[Advancing Safety Through Employment Rights Internship](https://jobright.ai/jobs/info/69ba14c656973837413f9fe0?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 17 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[2026 Compliance, Summer Analyst](https://jobright.ai/jobs/info/69ba986106c1ba00c54cc257?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 17 |
-| **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998ee6dce78e77b4fdd7fa7?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Mar 17 |
-| ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998f248ce78e77b4fdd8546?utm_campaign=1055&utm_source=git)** | Dayton, OH | On Site | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
