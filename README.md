@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LexisNexis](http://www.lexisnexis.com)** | **[Legal Research Intern (Remote)](https://jobright.ai/jobs/info/69bba79e06c1ba00c54e3dc6?utm_campaign=1055&utm_source=git)** | Ohio, United States | Remote | Mar 19 |
 | **[UMB Bank](https://www.umb.com/)** | **[AML Intern](https://jobright.ai/jobs/info/69bb619b06c1ba00c54dd8e2?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Mar 18 |
 | **[McCain Foods](http://www.mccain.com)** | **[Functional Compliance Learning Internship](https://jobright.ai/jobs/info/69bb59635697383741415c6c?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Mar 18 |
 | **[Unigen Corporation](https://www.unigen.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69bb535006c1ba00c54dc72d?utm_campaign=1055&utm_source=git)** | Newark, CA, US | On Site | Mar 18 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[American Regent, Inc.](http://www.americanregent.com/)** | **[Commercial Contracts and Operations Intern](https://jobright.ai/jobs/info/69bb23cd56973837414121a3?utm_campaign=1055&utm_source=git)** | Melville, NY | Hybrid | Mar 18 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Legal (Summer 2026)](https://jobright.ai/jobs/info/69bb20855697383741411f42?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Mar 18 |
 | **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern – Commercial Title](https://jobright.ai/jobs/info/69bb20743b74eb1e2c898e18?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Mar 18 |
-| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Youth Apprentice (Internship) - District Attorney](https://jobright.ai/jobs/info/69bb20565697383741411ee3?utm_campaign=1055&utm_source=git)** | Elkhorn, WI | On Site | Mar 18 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/69bb1f4b06c1ba00c54d9742?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 18 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Legal Counsel](https://jobright.ai/jobs/info/69bb190806c1ba00c54d8c78?utm_campaign=1055&utm_source=git)** | Edmonton, AB | On Site | Mar 18 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bb0dc03b74eb1e2c896d1f?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Mar 18 |
