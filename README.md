@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Chicago Department of Law](https://www.chicago.gov/city/en/depts/dol.html)** | **[Assistant Corporation Counsel III - Collections, Ownership, and Administrative Litigation Division – Special Collections Unit](https://jobright.ai/jobs/info/69a93fb879f3f4037f441bb2?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
+| **[Behaviour Interactive](http://www.bhvr.com/)** | **[Law Intern – Bar of Quebec – Internship](https://jobright.ai/jobs/info/69a091f381476f6176bae350?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Mar 20 |
+| **[National Basketball Players Association (NBPA)](https://nbpa.com/)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/69bd73a6b106024562825c1e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 20 |
+| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Compliance Specialist Intern](https://jobright.ai/jobs/info/69bd6e1f393a1008f742c3e8?utm_campaign=1055&utm_source=git)** | Hartselle, AL | On Site | Mar 20 |
+| **[PBS](http://www.pbs.org)** | **[Intern (Legal)](https://jobright.ai/jobs/info/69a9f23c1f59c56275e2bef6?utm_campaign=1055&utm_source=git)** | Arlington, VA | Hybrid | Mar 20 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk Intern – Technology Expertise (Summer 2026)](https://jobright.ai/jobs/info/6930ac31fa28370be26b238d?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Mar 20 |
 | **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part-Time)](https://jobright.ai/jobs/info/69bd61534828227293ff9955?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | Mar 20 |
 | **[Renaissance Lakewood, LLC](https://www.renpharm.com)** | **[Occupational Health Intern](https://jobright.ai/jobs/info/69a09b7381476f6176baec75?utm_campaign=1055&utm_source=git)** | Lakewood, NJ | Hybrid | Mar 20 |
@@ -74,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Intellectual Property (Summer 2026)](https://jobright.ai/jobs/info/698546bf348f733a5c398e41?utm_campaign=1055&utm_source=git)** | Peoria, IL | On Site | Mar 20 |
 | **[Tencent](https://www.tencent.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69bd209f4828227293ff61b1?utm_campaign=1055&utm_source=git)** | US-California-Palo Alto | On Site | Mar 20 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69bd1d6845e08b3dc1fa395b?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | On Site | Mar 20 |
-| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Youth Apprentice (Internship) - District Attorney](https://jobright.ai/jobs/info/69bd381b4828227293ff73ca?utm_campaign=1055&utm_source=git)** | Elkhorn, WI | On Site | Mar 20 |
 | **[Kittle Property Group](https://kittleproperties.com)** | **[Compliance Intern (LIHTC)](https://jobright.ai/jobs/info/69bcdd584828227293feed22?utm_campaign=1055&utm_source=git)** | , TX | Remote | Mar 19 |
 | **[HOLT Group](https://holtgrp.com)** | **[College Intern - Legal](https://jobright.ai/jobs/info/69bcc2ef4828227293feb201?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Mar 19 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Specialist](https://jobright.ai/jobs/info/69bcb8a445e08b3dc1f9786b?utm_campaign=1055&utm_source=git)** | Akron, OH | Hybrid | Mar 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/69bb4be13b74eb1e2c89b96b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Mar 18 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Risk Management](https://jobright.ai/jobs/info/69bb27e13b74eb1e2c8997a2?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Mar 18 |
 | **[CooperCompanies](http://www.coopercos.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bb24b15697383741412387?utm_campaign=1055&utm_source=git)** | 75 Corporate Drive, Trumbull, CT, 06611, US | On Site | Mar 18 |
-| **[American Regent, Inc.](http://www.americanregent.com/)** | **[Commercial Contracts and Operations Intern](https://jobright.ai/jobs/info/69bb23cd56973837414121a3?utm_campaign=1055&utm_source=git)** | Melville, NY | Hybrid | Mar 18 |
-| **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern – Commercial Title](https://jobright.ai/jobs/info/69bb20743b74eb1e2c898e18?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Mar 18 |
-| **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/69bb1f4b06c1ba00c54d9742?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 18 |
-| **[Government of Alberta](http://alberta.ca/)** | **[Legal Counsel](https://jobright.ai/jobs/info/69bb190806c1ba00c54d8c78?utm_campaign=1055&utm_source=git)** | Edmonton, AB | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
