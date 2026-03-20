@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kittle Property Group](https://kittleproperties.com)** | **[Compliance Intern (LIHTC)](https://jobright.ai/jobs/info/69bcdd584828227293feed22?utm_campaign=1055&utm_source=git)** | , TX | Remote | Mar 19 |
 | **[HOLT Group](https://holtgrp.com)** | **[College Intern - Legal](https://jobright.ai/jobs/info/69bcc2ef4828227293feb201?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Mar 19 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Specialist](https://jobright.ai/jobs/info/69bcb8a445e08b3dc1f9786b?utm_campaign=1055&utm_source=git)** | Akron, OH | Hybrid | Mar 19 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69bcb3c9e6a0d9792584b54e?utm_campaign=1055&utm_source=git)** | Etobicoke, ON | On Site | Mar 19 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern (Unpaid)](https://jobright.ai/jobs/info/69bca5784828227293fe8d7b?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | On Site | Mar 19 |
 | ↳ | **[Immigration Legal Services Intern (Summer 2026)](https://jobright.ai/jobs/info/69b1c0e3548f140066e784a0?utm_campaign=1055&utm_source=git)** | Silver Spring, MD | On Site | Mar 19 |
+| **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Student Employee - Pharmacy Intern - Specialty Pharmacy Compliance](https://jobright.ai/jobs/info/69bcd22645e08b3dc1f9adbf?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Mar 19 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69bc9b1545e08b3dc1f95aa0?utm_campaign=1055&utm_source=git)** | Columbia, MD | On Site | Mar 19 |
 | **[HOLT CAT](http://www.holtcat.com/)** | **[College Intern - Legal](https://jobright.ai/jobs/info/69bc87c14828227293fe666f?utm_campaign=1055&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 19 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[The Bronx Defenders 2026-2027 Social Work Internship](https://jobright.ai/jobs/info/69bc7f164828227293fe6169?utm_campaign=1055&utm_source=git)** | Sacramento, CA | On Site | Mar 19 |
@@ -110,11 +112,12 @@ For a complete list, click the following sortable link below:
 | **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bc1c145b89c002acf126bf?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Mar 19 |
 | **[Sila Services](https://silaservices.com )** | **[Legal Internship](https://jobright.ai/jobs/info/69bbf8bf45e08b3dc1f7d35d?utm_campaign=1055&utm_source=git)** | King of Prussia, PA | On Site | Mar 19 |
 | **[Rayburn Electric Cooperative](https://www.rayburnelectric.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/699f202b94ef206f184e4740?utm_campaign=1055&utm_source=git)** | Rockwall, TX | On Site | Mar 19 |
+| **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[Indirect Lending Intern](https://jobright.ai/jobs/info/69b62c1806c1ba00c5480461?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Mar 19 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6983a3d5348f733a5c36c4b4?utm_campaign=1055&utm_source=git)** | Somerset, NJ | On Site | Mar 19 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Senior Manager, Independence & Ethics](https://jobright.ai/jobs/info/69bbebff4828227293fcf6e9?utm_campaign=1055&utm_source=git)** | Edmonton, AB | Hybrid | Mar 19 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fd5ea53d97f23ee655946?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Mar 19 |
-| **[VB Spine](https://vbspineco.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69a0132e81476f6176ba1682?utm_campaign=1055&utm_source=git)** | Allendale, NJ | On Site | Mar 19 |
 | **[American Water](http://amwater.com)** | **[Health & Safety Intern](https://jobright.ai/jobs/info/69606974a1bbea1d9a7b4393?utm_campaign=1055&utm_source=git)** | Charleston, WV | On Site | Mar 19 |
+| **[VB Spine](https://vbspineco.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69a0132e81476f6176ba1682?utm_campaign=1055&utm_source=git)** | Allendale, NJ | On Site | Mar 19 |
 | **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Ambler, Risk Management](https://jobright.ai/jobs/info/69bbd22d4828227293fcb636?utm_campaign=1055&utm_source=git)** | Ambler, PA | Hybrid | Mar 19 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bbb3c1569738374141c2b7?utm_campaign=1055&utm_source=git)** | Trumbull, CT | On Site | Mar 19 |
 | **[UMB Bank](https://www.umb.com/)** | **[AML Intern](https://jobright.ai/jobs/info/69bb619b06c1ba00c54dd8e2?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Mar 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MYR Group](https://myrgroup.com/)** | **[Internship: Legal (Summer 2026)](https://jobright.ai/jobs/info/69badcf33b74eb1e2c8913a7?utm_campaign=1055&utm_source=git)** | Thornton, CO | On Site | Mar 18 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Risk and Compliance Intern](https://jobright.ai/jobs/info/699fc268d643757b0e454837?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 18 |
 | ↳ | **[Privacy and Data Protection Intern](https://jobright.ai/jobs/info/69ae480d4f6bcc1828096570?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 18 |
-| **[Authentic Brands Group](https://authentic.com)** | **[Legal Compliance Summer Intern](https://jobright.ai/jobs/info/69bad6c706c1ba00c54d2545?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Mar 18 |
-| ↳ | **[Legal Compliance Summer Intern](https://jobright.ai/jobs/info/69bad5a906c1ba00c54d2489?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Mar 18 |
-| **[Gildan](https://gildancorp.com)** | **[Intern, SOX Compliance](https://jobright.ai/jobs/info/6982224c0f6f7e7a2cdb3d99?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
