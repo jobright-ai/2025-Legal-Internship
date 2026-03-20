@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Reno)](https://jobright.ai/jobs/info/6968e0bb639b452fb57eadcb?utm_campaign=1055&utm_source=git)** | Reno, NV | On Site | Mar 20 |
+| **[Richemont](https://www.richemont.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69a0f8745218a81676723353?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 20 |
+| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Phoenix)](https://jobright.ai/jobs/info/69a552fc0da45516f16def04?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Mar 20 |
+| **[Digital Realty](http://www.digitalrealty.com)** | **[Summer Intern - Legal & Compliance](https://jobright.ai/jobs/info/69837f7501214b4cdacb2341?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Mar 20 |
+| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6983b1e001214b4cdacb88d5?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Mar 20 |
+| **[Guidewire Software](http://www.guidewire.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/698b5be6c5761b521a9acf2c?utm_campaign=1055&utm_source=git)** | San Mateo, CA | On Site | Mar 20 |
+| **[MSIG USA](https://www.msigusa.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/69a52dbeb600907a962ac83c?utm_campaign=1055&utm_source=git)** | Warren, NJ | Hybrid | Mar 20 |
 | **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Intellectual Property (Summer 2026)](https://jobright.ai/jobs/info/698540c58da7a612045fb287?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
-| **[Guidewire Software](http://www.guidewire.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6983764101214b4cdacb1cf5?utm_campaign=1055&utm_source=git)** | San Mateo, CA | On Site | Mar 20 |
 | **[Tenneco](https://www.tenneco.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69a0b5735218a8167671e00e?utm_campaign=1055&utm_source=git)** | Northville, MI | On Site | Mar 20 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Summer 2026](https://jobright.ai/jobs/info/69678d791703f05405a92bf0?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Mar 20 |
 | **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Intellectual Property (Summer 2026)](https://jobright.ai/jobs/info/698546bf348f733a5c398e41?utm_campaign=1055&utm_source=git)** | Peoria, IL | On Site | Mar 20 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bb0dc03b74eb1e2c896d1f?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Mar 18 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bb0a8306c1ba00c54d6e0a?utm_campaign=1055&utm_source=git)** | Trumbull, CT | On Site | Mar 18 |
 | **[Democracy Forward](https://democracyforward.org)** | **[Democracy 2025 Summer Legal Intern](https://jobright.ai/jobs/info/69bb0a4b569738374140eca8?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Mar 18 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Risk Management](https://jobright.ai/jobs/info/69bb273106c1ba00c54da0ba?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Mar 18 |
-| **[New York State Unified Court System](https://www.nycourts.gov)** | **[Legal Intern (Rural Pathways)](https://jobright.ai/jobs/info/69bb066906c1ba00c54d60f4?utm_campaign=1055&utm_source=git)** | Otsego County, NY | On Site | Mar 18 |
-| **[Multnomah County](https://multco.us)** | **[DCS - Transportation Records Management Internship](https://jobright.ai/jobs/info/69bb267d06c1ba00c54d9f69?utm_campaign=1055&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
-| **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Legal Intern](https://jobright.ai/jobs/info/69baffdd569738374140d286?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Mar 18 |
-| **[CME Group](http://www.cmegroup.com)** | **[Risk Policy Intern  - Summer 2026](https://jobright.ai/jobs/info/69bb19b93b74eb1e2c897d4f?utm_campaign=1055&utm_source=git)** | Chicago - 20 S. Wacker | On Site | Mar 18 |
-| **[Greater Portland Health](https://www.greaterportlandhealth.org)** | **[Intern - Compliance and Risk - Summer 2026](https://jobright.ai/jobs/info/69bb1af93b74eb1e2c897f98?utm_campaign=1055&utm_source=git)** | Brickhill, South Portland, ME, US | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
