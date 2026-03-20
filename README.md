@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Durham County Government](http://www.dconc.gov)** | **[LEGAL INTERN](https://jobright.ai/jobs/info/69bdbab548282272930015a9?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Mar 20 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Summer Government Compliance Internship](https://jobright.ai/jobs/info/69bdb698482822729300025c?utm_campaign=1055&utm_source=git)** | USA VA Falls Church | Hybrid | Mar 20 |
+| **[Guest Services, Inc.](http://www.guestservices.com)** | **[Summer Intern for Compliance - Corporate Office, Fairfax, VA](https://jobright.ai/jobs/info/69bdb5d54828227293fffdab?utm_campaign=1055&utm_source=git)** | Virginia, United States | On Site | Mar 20 |
+| **[Appian](http://www.appian.com)** | **[Legal Operations Intern (Undergrad Students)](https://jobright.ai/jobs/info/69b36ae0ad360c0340a89023?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Mar 20 |
+| **[The NRP Group LLC](http://nrpgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b861ed56973837413da604?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Mar 20 |
 | **[Rosasco Law Group, APC](www.rosascolawgroup.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/69bda4c6b106024562829088?utm_campaign=1055&utm_source=git)** | Roseville, CA | On Site | Mar 20 |
 | **[Texas Attorney General](https://texasattorneygeneral.gov/)** | **[OAG - Consumer Protection / Research Specialist IV / 26-0390](https://jobright.ai/jobs/info/69bd9f82393a1008f742f985?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Mar 20 |
 | **[State of Missouri](http://mo.gov)** | **[Legal Intern - 3DIR061](https://jobright.ai/jobs/info/69bd9f1db106024562828d2c?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Mar 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UMB Bank](https://www.umb.com/)** | **[AML Intern](https://jobright.ai/jobs/info/69bb619b06c1ba00c54dd8e2?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Mar 18 |
 | **[McCain Foods](http://www.mccain.com)** | **[Functional Compliance Learning Internship](https://jobright.ai/jobs/info/69bb59635697383741415c6c?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Mar 18 |
 | **[Unigen Corporation](https://www.unigen.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69bb535006c1ba00c54dc72d?utm_campaign=1055&utm_source=git)** | Newark, CA, US | On Site | Mar 18 |
-| **[BMO](http://www.bmo.com)** | **[Legal and Regulatory Compliance Data Science Intern (Co-op/Internship), Summer 2026 - 4 months](https://jobright.ai/jobs/info/69bb52a53b74eb1e2c89bc4b?utm_campaign=1055&utm_source=git)** | Chicago, IL, USA | On Site | Mar 18 |
-| **[Allianz Technology](https://www.allianz-technology.ch)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69bb6b125697383741416667?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 18 |
-| **[Unigen Corporation](https://www.unigen.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69bb75e706c1ba00c54df160?utm_campaign=1055&utm_source=git)** | Newark, CA | On Site | Mar 18 |
-| **[DataBank](http://www.databank.com)** | **[Contract Review & Data Integrity Analyst Intern](https://jobright.ai/jobs/info/69b1b659548f140066e77f34?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Mar 18 |
-| **[Edwards Lifesciences](http://www.edwards.com)** | **[Clinical and Regulatory Internship, Summer 2026](https://jobright.ai/jobs/info/69bb43773b74eb1e2c89b452?utm_campaign=1055&utm_source=git)** | USA IRV-1472 Alton/DBC6-7 | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
