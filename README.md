@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PIM Brands](https://pimbrands.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69bc6c675b89c002acf21f74?utm_campaign=1055&utm_source=git)** | Park Ridge, NJ | On Site | Mar 19 |
+| **[Willis Lease Finance Corporation](https://www.wlfc.global/)** | **[Intern, Legal - Aviation Law](https://jobright.ai/jobs/info/69bc6c665b89c002acf21f5f?utm_campaign=1055&utm_source=git)** | Coconut Creek, FL | On Site | Mar 19 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Property & Casualty Intern](https://jobright.ai/jobs/info/69bc6c585b89c002acf21f10?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 19 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc6b8945e08b3dc1f91991?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Mar 19 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern (Unpaid)](https://jobright.ai/jobs/info/69bc6ae44828227293fe3f31?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ USA | Hybrid | Mar 19 |
 | **[CN](http://www.cn.ca)** | **[Intern, Law (Regulatory Affairs) CA- EN](https://jobright.ai/jobs/info/69bc5f5c4828227293fe1f44?utm_campaign=1055&utm_source=git)** | Montreal, QC | On Site | Mar 19 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Law Student](https://jobright.ai/jobs/info/69bc5f075b89c002acf1f9ee?utm_campaign=1055&utm_source=git)** | Toronto, ON | Hybrid | Mar 19 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Criminal Investigations Bureau](https://jobright.ai/jobs/info/69bc5a0b4828227293fe1439?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Mar 19 |
@@ -64,7 +69,8 @@ For a complete list, click the following sortable link below:
 | **[City of Chicago Department of Law](https://www.chicago.gov/city/en/depts/dol.html)** | **[Assistant Corporation Counsel III - Special Federal Litigation Division](https://jobright.ai/jobs/info/69a1410b0da45516f16a6a1b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 19 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/6978eb5152f3c27ec6452692?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Mar 19 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Records Compliance Law Intern](https://jobright.ai/jobs/info/69bc4b3b45e08b3dc1f8bd82?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 19 |
-| **[Align Technology](http://www.aligntech.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bc441b45e08b3dc1f8ae72?utm_campaign=1055&utm_source=git)** | Morrisville, NC | On Site | Mar 19 |
+| **[Align Technology](http://www.aligntech.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69bc6bbd5b89c002acf219d6?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Mar 19 |
+| ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bc441b45e08b3dc1f8ae72?utm_campaign=1055&utm_source=git)** | Morrisville, NC | On Site | Mar 19 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b4bd703b74eb1e2c821052?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Remote | Mar 19 |
 | **[Nikon Inc.](http://www.nikonusa.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc41e94828227293fddb6b?utm_campaign=1055&utm_source=git)** | Melville, NY | Hybrid | Mar 19 |
 | **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Student Employee - Pharmacy Intern - Specialty Pharmacy Compliance](https://jobright.ai/jobs/info/69bc41bf45e08b3dc1f8a57c?utm_campaign=1055&utm_source=git)** | Little Rock | On Site | Mar 19 |
@@ -74,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[TexasBank](http://www.texasbank.com)** | **[Intern](https://jobright.ai/jobs/info/69bc3c1045e08b3dc1f89a48?utm_campaign=1055&utm_source=git)** | Fort Worth - Hulen - Fort Worth, TX 76109 | On Site | Mar 19 |
 | ↳ | **[Intern - Bilingual](https://jobright.ai/jobs/info/69bc3c075b89c002acf19757?utm_campaign=1055&utm_source=git)** | Fort Worth - Hulen - Fort Worth, TX 76109 | On Site | Mar 19 |
 | **[Segra](https://www.segra.com/)** | **[Law Clerk Intern - Kansas City, MO](https://jobright.ai/jobs/info/69bc3b505b89c002acf196ee?utm_campaign=1055&utm_source=git)** | Kansas City, MO, USA | On Site | Mar 19 |
+| **[Helsell Fetterman LLP](https://www.helsell.com)** | **[2027 Richard S. White Fellowship](https://jobright.ai/jobs/info/69bc6ba45b89c002acf21926?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Mar 19 |
 | **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Legal Intern](https://jobright.ai/jobs/info/69bc382345e08b3dc1f88b8e?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Mar 19 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[UTS - Temporary Paralegal at NC State](https://jobright.ai/jobs/info/699fa093d643757b0e451033?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Mar 19 |
 | **[Tennessee Secretary of State](https://sos.tn.gov/hr/pages/employment-opportunities)** | **[Legal Intern](https://jobright.ai/jobs/info/69a07ef30836fe79d8617abf?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Mar 19 |
@@ -111,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Risk Management](https://jobright.ai/jobs/info/69bb27e13b74eb1e2c8997a2?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Mar 18 |
 | **[CooperCompanies](http://www.coopercos.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bb24b15697383741412387?utm_campaign=1055&utm_source=git)** | 75 Corporate Drive, Trumbull, CT, 06611, US | On Site | Mar 18 |
 | **[American Regent, Inc.](http://www.americanregent.com/)** | **[Commercial Contracts and Operations Intern](https://jobright.ai/jobs/info/69bb23cd56973837414121a3?utm_campaign=1055&utm_source=git)** | Melville, NY | Hybrid | Mar 18 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Legal (Summer 2026)](https://jobright.ai/jobs/info/69bb20855697383741411f42?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Mar 18 |
 | **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern – Commercial Title](https://jobright.ai/jobs/info/69bb20743b74eb1e2c898e18?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Mar 18 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/69bb1f4b06c1ba00c54d9742?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 18 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Legal Counsel](https://jobright.ai/jobs/info/69bb190806c1ba00c54d8c78?utm_campaign=1055&utm_source=git)** | Edmonton, AB | On Site | Mar 18 |
@@ -125,10 +131,8 @@ For a complete list, click the following sortable link below:
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Compliance and Document Management Intern](https://jobright.ai/jobs/info/69bc5e145b89c002acf1f6d7?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Mar 18 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69baff7906c1ba00c54d4ed6?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Mar 18 |
 | **[CME Group](http://www.cmegroup.com)** | **[Risk Policy Intern  - Summer 2026](https://jobright.ai/jobs/info/69bb19b93b74eb1e2c897d4f?utm_campaign=1055&utm_source=git)** | Chicago - 20 S. Wacker | On Site | Mar 18 |
-| **[RTX](http://www.raytheon.com)** | **[Contracts Intern (Summer 2026)(Remote)](https://jobright.ai/jobs/info/69bb1d4306c1ba00c54d92ea?utm_campaign=1055&utm_source=git)** | US-IL-REMOTE | Remote | Mar 18 |
 | **[Greater Portland Health](https://www.greaterportlandhealth.org)** | **[Intern - Compliance and Risk - Summer 2026](https://jobright.ai/jobs/info/69bb1af93b74eb1e2c897f98?utm_campaign=1055&utm_source=git)** | Brickhill, South Portland, ME, US | On Site | Mar 18 |
 | **[Kansas Department of Health and Environment](http://www.kdheks.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/69baf46f569738374140cb8b?utm_campaign=1055&utm_source=git)** | Shawnee County, KS | On Site | Mar 18 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Legal (Summer 2026)](https://jobright.ai/jobs/info/69baef5106c1ba00c54d41da?utm_campaign=1055&utm_source=git)** | Denver CO | On Site | Mar 18 |
 | **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern – Commercial Title](https://jobright.ai/jobs/info/69baef4e06c1ba00c54d41bc?utm_campaign=1055&utm_source=git)** | USA, Minnesota, Minneapolis | On Site | Mar 18 |
 | **[Centurion Land Title, Inc.](https://centurionlandtitle.com)** | **[Escrow & Title Intern - Summer 2026](https://jobright.ai/jobs/info/69bae7c2569738374140bea2?utm_campaign=1055&utm_source=git)** | Carmel,IN,US | On Site | Mar 18 |
 | **[Ocean State Job Lot](http://oceanstatejoblot.com)** | **[Property Development Internship - Procurement](https://jobright.ai/jobs/info/69bb0fb956973837414101e8?utm_campaign=1055&utm_source=git)** | North Kingstown, RI | Hybrid | Mar 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allianz Technology](https://www.allianz-technology.ch)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69badc2a06c1ba00c54d280f?utm_campaign=1055&utm_source=git)** | Twin Cities Area | Hybrid | Mar 18 |
 | **[PNC](http://www.pnc.com)** | **[Senior Estate Settlement Advisor - PNC Private Bank](https://jobright.ai/jobs/info/69bbbe5c569738374141caed?utm_campaign=1055&utm_source=git)** | Millburn, NJ | On Site | Mar 18 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a72b7a37c712687d3884?utm_campaign=1055&utm_source=git)** | Union, OH | On Site | Mar 18 |
-| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Mar 18 |
-| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Global Regulatory Affairs Labeling Operations Intern](https://jobright.ai/jobs/info/699ec95f81476f6176b83d68?utm_campaign=1055&utm_source=git)** | Basking Ridge, NJ | On Site | Mar 18 |
-| **[Boston University](https://www.bumc.bu.edu/busm)** | **[INFOSEC COMPLIANCE ANALYST III, IS&T Information Security](https://jobright.ai/jobs/info/69a7d820637232443f653269?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Mar 18 |
-| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - AI & Legal Compliance (Summer 2026)](https://jobright.ai/jobs/info/6981df8f0f6f7e7a2cdb036d?utm_campaign=1055&utm_source=git)** | Garland, TX | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
