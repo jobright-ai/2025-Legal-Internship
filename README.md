@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rosasco Law Group, APC](www.rosascolawgroup.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/69bda4c6b106024562829088?utm_campaign=1055&utm_source=git)** | Roseville, CA | On Site | Mar 20 |
+| **[Texas Attorney General](https://texasattorneygeneral.gov/)** | **[OAG - Consumer Protection / Research Specialist IV / 26-0390](https://jobright.ai/jobs/info/69bd9f82393a1008f742f985?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Mar 20 |
+| **[State of Missouri](http://mo.gov)** | **[Legal Intern - 3DIR061](https://jobright.ai/jobs/info/69bd9f1db106024562828d2c?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Mar 20 |
+| **[Texas Attorney General](https://texasattorneygeneral.gov/)** | **[OAG - Consumer Protection / Research Specialist IV / 26-0392](https://jobright.ai/jobs/info/69bd9f13b106024562828d1c?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Mar 20 |
+| ↳ | **[OAG - Consumer Protection / Research Specialist IV / 26-0391](https://jobright.ai/jobs/info/69bd9ea34828227293ffd7a8?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Mar 20 |
+| **[DV Trading LLC](https://www.dvtrading.co)** | **[2026 Summer Internship - Risk Management](https://jobright.ai/jobs/info/69bd98c6b1060245628289a6?utm_campaign=1055&utm_source=git)** | Chicago | On Site | Mar 20 |
+| **[Authentic Brands Group](https://authentic.com)** | **[M&A Legal Summer Intern](https://jobright.ai/jobs/info/69b9db2656973837413f6ca8?utm_campaign=1055&utm_source=git)** | Miami, Florida | On Site | Mar 20 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance (Core)](https://jobright.ai/jobs/info/69bd93104828227293ffd143?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 20 |
 | **[City of Chicago Department of Law](https://www.chicago.gov/city/en/depts/dol.html)** | **[Assistant Corporation Counsel III - Collections, Ownership, and Administrative Litigation Division – Special Collections Unit](https://jobright.ai/jobs/info/69a93fb879f3f4037f441bb2?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Law Intern – Bar of Quebec – Internship](https://jobright.ai/jobs/info/69a091f381476f6176bae350?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Mar 20 |
 | **[National Basketball Players Association (NBPA)](https://nbpa.com/)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/69bd73a6b106024562825c1e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 20 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Unigen Corporation](https://www.unigen.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69bb75e706c1ba00c54df160?utm_campaign=1055&utm_source=git)** | Newark, CA | On Site | Mar 18 |
 | **[DataBank](http://www.databank.com)** | **[Contract Review & Data Integrity Analyst Intern](https://jobright.ai/jobs/info/69b1b659548f140066e77f34?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Mar 18 |
 | **[Edwards Lifesciences](http://www.edwards.com)** | **[Clinical and Regulatory Internship, Summer 2026](https://jobright.ai/jobs/info/69bb43773b74eb1e2c89b452?utm_campaign=1055&utm_source=git)** | USA IRV-1472 Alton/DBC6-7 | On Site | Mar 18 |
-| **[State of Oklahoma](https://oklahoma.gov/)** | **[Legal Intern- Temporary Position](https://jobright.ai/jobs/info/69bb40fe56973837414143d6?utm_campaign=1055&utm_source=git)** | Oklahoma County, OK | On Site | Mar 18 |
-| **[UMB Bank](https://www.umb.com/)** | **[AML Intern](https://jobright.ai/jobs/info/69bb3625569738374141315c?utm_campaign=1055&utm_source=git)** | Kansas City MO | Hybrid | Mar 18 |
-| **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[Assistant Corporation Counsel III - Collections, Ownership, and Administrative Litigation Division – Special Collections Unit](https://jobright.ai/jobs/info/69a90d627ac93962b708fe3c?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 18 |
-| **[Democracy Forward](https://democracyforward.org)** | **[Democracy 2025 Summer Legal Intern](https://jobright.ai/jobs/info/69bb2d4c06c1ba00c54da400?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 18 |
-| **[CME Group](http://www.cmegroup.com)** | **[Risk Policy Intern - Summer 2026](https://jobright.ai/jobs/info/69bb2c9f3b74eb1e2c899ba2?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 18 |
-| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/69bb4be13b74eb1e2c89b96b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Mar 18 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Risk Management](https://jobright.ai/jobs/info/69bb27e13b74eb1e2c8997a2?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Mar 18 |
-| **[CooperCompanies](http://www.coopercos.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bb24b15697383741412387?utm_campaign=1055&utm_source=git)** | 75 Corporate Drive, Trumbull, CT, 06611, US | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
