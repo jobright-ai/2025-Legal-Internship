@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Tenneco](https://www.tenneco.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69a0bb0481476f6176bb074d?utm_campaign=1055&utm_source=git)** | Northville, MI | On Site | Mar 20 |
+| **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Intellectual Property (Summer 2026)](https://jobright.ai/jobs/info/698540c58da7a612045fb287?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
+| **[Guidewire Software](http://www.guidewire.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6983764101214b4cdacb1cf5?utm_campaign=1055&utm_source=git)** | San Mateo, CA | On Site | Mar 20 |
+| **[Tenneco](https://www.tenneco.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69a0b5735218a8167671e00e?utm_campaign=1055&utm_source=git)** | Northville, MI | On Site | Mar 20 |
+| **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Summer 2026](https://jobright.ai/jobs/info/69678d791703f05405a92bf0?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Mar 20 |
 | **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Intellectual Property (Summer 2026)](https://jobright.ai/jobs/info/698546bf348f733a5c398e41?utm_campaign=1055&utm_source=git)** | Peoria, IL | On Site | Mar 20 |
 | **[Tencent](https://www.tencent.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69bd209f4828227293ff61b1?utm_campaign=1055&utm_source=git)** | US-California-Palo Alto | On Site | Mar 20 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69bd1d6845e08b3dc1fa395b?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | On Site | Mar 20 |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Youth Apprentice (Internship) - District Attorney](https://jobright.ai/jobs/info/69bd381b4828227293ff73ca?utm_campaign=1055&utm_source=git)** | Elkhorn, WI | On Site | Mar 20 |
 | **[Kittle Property Group](https://kittleproperties.com)** | **[Compliance Intern (LIHTC)](https://jobright.ai/jobs/info/69bcdd584828227293feed22?utm_campaign=1055&utm_source=git)** | , TX | Remote | Mar 19 |
 | **[HOLT Group](https://holtgrp.com)** | **[College Intern - Legal](https://jobright.ai/jobs/info/69bcc2ef4828227293feb201?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Mar 19 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Specialist](https://jobright.ai/jobs/info/69bcb8a445e08b3dc1f9786b?utm_campaign=1055&utm_source=git)** | Akron, OH | Hybrid | Mar 19 |
@@ -125,7 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Ambler, Risk Management](https://jobright.ai/jobs/info/69bbd22d4828227293fcb636?utm_campaign=1055&utm_source=git)** | Ambler, PA | Hybrid | Mar 19 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bbb3c1569738374141c2b7?utm_campaign=1055&utm_source=git)** | Trumbull, CT | On Site | Mar 19 |
 | **[UMB Bank](https://www.umb.com/)** | **[AML Intern](https://jobright.ai/jobs/info/69bb619b06c1ba00c54dd8e2?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Mar 18 |
-| **[McCain Foods](https://www.mccain.com)** | **[Functional Compliance Learning Internship](https://jobright.ai/jobs/info/69bb59635697383741415c6c?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Mar 18 |
+| **[McCain Foods](http://www.mccain.com)** | **[Functional Compliance Learning Internship](https://jobright.ai/jobs/info/69bb59635697383741415c6c?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Mar 18 |
 | **[Unigen Corporation](https://www.unigen.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69bb535006c1ba00c54dc72d?utm_campaign=1055&utm_source=git)** | Newark, CA, US | On Site | Mar 18 |
 | **[BMO](http://www.bmo.com)** | **[Legal and Regulatory Compliance Data Science Intern (Co-op/Internship), Summer 2026 - 4 months](https://jobright.ai/jobs/info/69bb52a53b74eb1e2c89bc4b?utm_campaign=1055&utm_source=git)** | Chicago, IL, USA | On Site | Mar 18 |
 | **[Allianz Technology](https://www.allianz-technology.ch)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69bb6b125697383741416667?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Legal Intern](https://jobright.ai/jobs/info/69baffdd569738374140d286?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Mar 18 |
 | **[CME Group](http://www.cmegroup.com)** | **[Risk Policy Intern  - Summer 2026](https://jobright.ai/jobs/info/69bb19b93b74eb1e2c897d4f?utm_campaign=1055&utm_source=git)** | Chicago - 20 S. Wacker | On Site | Mar 18 |
 | **[Greater Portland Health](https://www.greaterportlandhealth.org)** | **[Intern - Compliance and Risk - Summer 2026](https://jobright.ai/jobs/info/69bb1af93b74eb1e2c897f98?utm_campaign=1055&utm_source=git)** | Brickhill, South Portland, ME, US | On Site | Mar 18 |
-| **[Kansas Department of Health and Environment](http://www.kdheks.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/69baf46f569738374140cb8b?utm_campaign=1055&utm_source=git)** | Shawnee County, KS | On Site | Mar 18 |
-| **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern – Commercial Title](https://jobright.ai/jobs/info/69baef4e06c1ba00c54d41bc?utm_campaign=1055&utm_source=git)** | USA, Minnesota, Minneapolis | On Site | Mar 18 |
-| **[Centurion Land Title, Inc.](https://centurionlandtitle.com)** | **[Escrow & Title Intern - Summer 2026](https://jobright.ai/jobs/info/69bae7c2569738374140bea2?utm_campaign=1055&utm_source=git)** | Carmel,IN,US | On Site | Mar 18 |
-| **[Ocean State Job Lot](http://oceanstatejoblot.com)** | **[Legal Internship (Grad Students Only)](https://jobright.ai/jobs/info/69bb0fa556973837414101be?utm_campaign=1055&utm_source=git)** | North Kingstown, RI | Hybrid | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
