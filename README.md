@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk Intern – Technology Expertise (Summer 2026)](https://jobright.ai/jobs/info/6930ac31fa28370be26b238d?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Mar 20 |
 | **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part-Time)](https://jobright.ai/jobs/info/69bd61534828227293ff9955?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | Mar 20 |
 | **[Renaissance Lakewood, LLC](https://www.renpharm.com)** | **[Occupational Health Intern](https://jobright.ai/jobs/info/69a09b7381476f6176baec75?utm_campaign=1055&utm_source=git)** | Lakewood, NJ | Hybrid | Mar 20 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/699aae36e0bddb6acac9cecc?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Mar 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern – Commercial Title](https://jobright.ai/jobs/info/69bb20743b74eb1e2c898e18?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Mar 18 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/69bb1f4b06c1ba00c54d9742?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 18 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Legal Counsel](https://jobright.ai/jobs/info/69bb190806c1ba00c54d8c78?utm_campaign=1055&utm_source=git)** | Edmonton, AB | On Site | Mar 18 |
-| **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bb0dc03b74eb1e2c896d1f?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
