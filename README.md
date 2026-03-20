@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tenneco](https://www.tenneco.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69a0bb0481476f6176bb074d?utm_campaign=1055&utm_source=git)** | Northville, MI | On Site | Mar 20 |
+| **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Intellectual Property (Summer 2026)](https://jobright.ai/jobs/info/698546bf348f733a5c398e41?utm_campaign=1055&utm_source=git)** | Peoria, IL | On Site | Mar 20 |
+| **[Tencent](https://www.tencent.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69bd209f4828227293ff61b1?utm_campaign=1055&utm_source=git)** | US-California-Palo Alto | On Site | Mar 20 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69bd1d6845e08b3dc1fa395b?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | On Site | Mar 20 |
 | **[Kittle Property Group](https://kittleproperties.com)** | **[Compliance Intern (LIHTC)](https://jobright.ai/jobs/info/69bcdd584828227293feed22?utm_campaign=1055&utm_source=git)** | , TX | Remote | Mar 19 |
 | **[HOLT Group](https://holtgrp.com)** | **[College Intern - Legal](https://jobright.ai/jobs/info/69bcc2ef4828227293feb201?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Mar 19 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Specialist](https://jobright.ai/jobs/info/69bcb8a445e08b3dc1f9786b?utm_campaign=1055&utm_source=git)** | Akron, OH | Hybrid | Mar 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern – Commercial Title](https://jobright.ai/jobs/info/69baef4e06c1ba00c54d41bc?utm_campaign=1055&utm_source=git)** | USA, Minnesota, Minneapolis | On Site | Mar 18 |
 | **[Centurion Land Title, Inc.](https://centurionlandtitle.com)** | **[Escrow & Title Intern - Summer 2026](https://jobright.ai/jobs/info/69bae7c2569738374140bea2?utm_campaign=1055&utm_source=git)** | Carmel,IN,US | On Site | Mar 18 |
 | **[Ocean State Job Lot](http://oceanstatejoblot.com)** | **[Legal Internship (Grad Students Only)](https://jobright.ai/jobs/info/69bb0fa556973837414101be?utm_campaign=1055&utm_source=git)** | North Kingstown, RI | Hybrid | Mar 18 |
-| ↳ | **[Property Development Internship - Procurement](https://jobright.ai/jobs/info/69bb0fb956973837414101e8?utm_campaign=1055&utm_source=git)** | North Kingstown, RI | Hybrid | Mar 18 |
-| **[MYR Group](https://myrgroup.com/)** | **[Internship: Legal (Summer 2026)](https://jobright.ai/jobs/info/69badcf33b74eb1e2c8913a7?utm_campaign=1055&utm_source=git)** | Thornton, CO | On Site | Mar 18 |
-| **[ABC Fitness](http://www.abcfinancial.com)** | **[Risk and Compliance Intern](https://jobright.ai/jobs/info/699fc268d643757b0e454837?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 18 |
-| ↳ | **[Privacy and Data Protection Intern](https://jobright.ai/jobs/info/69ae480d4f6bcc1828096570?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
