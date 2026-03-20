@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part-Time)](https://jobright.ai/jobs/info/69bd61534828227293ff9955?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | Mar 20 |
+| **[Renaissance Lakewood, LLC](https://www.renpharm.com)** | **[Occupational Health Intern](https://jobright.ai/jobs/info/69a09b7381476f6176baec75?utm_campaign=1055&utm_source=git)** | Lakewood, NJ | Hybrid | Mar 20 |
+| **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/699aae36e0bddb6acac9cecc?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Mar 20 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Reno)](https://jobright.ai/jobs/info/6968e0bb639b452fb57eadcb?utm_campaign=1055&utm_source=git)** | Reno, NV | On Site | Mar 20 |
 | **[Richemont](https://www.richemont.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69a0f8745218a81676723353?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 20 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart (Phoenix)](https://jobright.ai/jobs/info/69a552fc0da45516f16def04?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Mar 20 |
@@ -80,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Student Employee - Pharmacy Intern - Specialty Pharmacy Compliance](https://jobright.ai/jobs/info/69bcd22645e08b3dc1f9adbf?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Mar 19 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69bc9b1545e08b3dc1f95aa0?utm_campaign=1055&utm_source=git)** | Columbia, MD | On Site | Mar 19 |
 | **[HOLT CAT](http://www.holtcat.com/)** | **[College Intern - Legal](https://jobright.ai/jobs/info/69bc87c14828227293fe666f?utm_campaign=1055&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 19 |
-| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[The Bronx Defenders 2026-2027 Social Work Internship](https://jobright.ai/jobs/info/69bc7f164828227293fe6169?utm_campaign=1055&utm_source=git)** | Sacramento, CA | On Site | Mar 19 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Evidence Production Paralegal](https://jobright.ai/jobs/info/69bc73e645e08b3dc1f930ac?utm_campaign=1055&utm_source=git)** | Edmonton, AB | On Site | Mar 19 |
 | **[Highgate](https://www.highgate.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc73e445e08b3dc1f93099?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | **[RWE](https://www.rwe.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69bc722c5b89c002acf2305c?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Mar 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/69bb1f4b06c1ba00c54d9742?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 18 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Legal Counsel](https://jobright.ai/jobs/info/69bb190806c1ba00c54d8c78?utm_campaign=1055&utm_source=git)** | Edmonton, AB | On Site | Mar 18 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bb0dc03b74eb1e2c896d1f?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Mar 18 |
-| **[CooperSurgical](http://www.coopersurgical.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bb0a8306c1ba00c54d6e0a?utm_campaign=1055&utm_source=git)** | Trumbull, CT | On Site | Mar 18 |
-| **[Democracy Forward](https://democracyforward.org)** | **[Democracy 2025 Summer Legal Intern](https://jobright.ai/jobs/info/69bb0a4b569738374140eca8?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
