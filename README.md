@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69b77cdc56973837413c9b2b?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Mar 21 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Summer Associate (Legal)](https://jobright.ai/jobs/info/69a232300da45516f16b7ab9?utm_campaign=1055&utm_source=git)** | Paramus, NJ | On Site | Mar 21 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Legal, Creators Talent](https://jobright.ai/jobs/info/69be1333393a1008f743eca1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 20 |
 | **[Cytek Biosciences](https://cytekbio.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69b12f540b2db6275c064e0d?utm_campaign=1055&utm_source=git)** | Fremont, CA | On Site | Mar 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Helsell Fetterman LLP](https://www.helsell.com)** | **[2027 Richard S. White Fellowship](https://jobright.ai/jobs/info/69bc6ba45b89c002acf21926?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Mar 19 |
 | **[Align Technology](http://www.aligntech.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69be43da393a1008f7442fb6?utm_campaign=1055&utm_source=git)** | Morrisville, NC, US | On Site | Mar 19 |
 | **[St. Charles County Government](http://www.sccmo.org)** | **[Legal Intern / Prosecuting Attorney's Office](https://jobright.ai/jobs/info/69bc7e904828227293fe60d1?utm_campaign=1055&utm_source=git)** | St Charles, MO | On Site | Mar 19 |
-| **[North Carolina State University](http://www.ncsu.edu/)** | **[UTS - Temporary Paralegal at NC State](https://jobright.ai/jobs/info/699fa093d643757b0e451033?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
