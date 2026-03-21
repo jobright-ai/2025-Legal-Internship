@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69bc1f4a45e08b3dc1f82fad?utm_campaign=1055&utm_source=git)** | LA Metro Area | Hybrid | Mar 21 |
+| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22442359fe034b1cd61a6?utm_campaign=1055&utm_source=git)** | Boise Metropolitan Area | Hybrid | Mar 21 |
+| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a221f1359fe034b1cd5f5e?utm_campaign=1055&utm_source=git)** | Greater Tampa Bay Area | Hybrid | Mar 21 |
+| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Tax, Holland & Hart (Denver)](https://jobright.ai/jobs/info/696904721703f05405aadf36?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Mar 21 |
+| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69851e690f6f7e7a2cdfa786?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Mar 21 |
+| **[Earthjustice](http://earthjustice.org/)** | **[Associate Attorney, Fossil Fuels Program](https://jobright.ai/jobs/info/69a24e930da45516f16b941b?utm_campaign=1055&utm_source=git)** | New Orleans, LA | On Site | Mar 21 |
+| **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a21b7db600907a962867ff?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Mar 21 |
+| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69bd185b4828227293ff4d4a?utm_campaign=1055&utm_source=git)** | Portland, Oregon Metropolitan Area | Hybrid | Mar 21 |
+| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart  (Salt Lake City)](https://jobright.ai/jobs/info/69a3d719b600907a9629d04a?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Mar 21 |
+| **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22065359fe034b1cd5dc1?utm_campaign=1055&utm_source=git)** | DFW Metroplex | Hybrid | Mar 21 |
+| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Corporate, Holland & Hart (Denver)](https://jobright.ai/jobs/info/69a556fb359fe034b1cfef22?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Mar 21 |
 | **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69b77cdc56973837413c9b2b?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Mar 21 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Summer Associate (Legal)](https://jobright.ai/jobs/info/69a232300da45516f16b7ab9?utm_campaign=1055&utm_source=git)** | Paramus, NJ | On Site | Mar 21 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Legal, Creators Talent](https://jobright.ai/jobs/info/69be1333393a1008f743eca1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 20 |
@@ -81,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Appian](http://www.appian.com)** | **[Legal Operations Intern (Undergrad Students)](https://jobright.ai/jobs/info/69b36ae0ad360c0340a89023?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Mar 20 |
 | **[The NRP Group LLC](http://nrpgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b861ed56973837413da604?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Mar 20 |
 | **[TechSmith](http://www.techsmith.com)** | **[Data Privacy and Compliance Intern - 2026 - Hybrid](https://jobright.ai/jobs/info/69bdcd1f4828227293004fdc?utm_campaign=1055&utm_source=git)** | East Lansing, Michigan | Hybrid | Mar 20 |
-| **[New York State Justice Center for the Protection of People with Special Needs](http://www.justicecenter.ny.gov)** | **[Student Assistant (Legal Intern)](https://jobright.ai/jobs/info/69bdc9c8393a1008f7436917?utm_campaign=1055&utm_source=git)** | Delmar, NY | On Site | Mar 20 |
-| ↳ | **[Student Assistant (Legal Intern)](https://jobright.ai/jobs/info/69bdc7c14828227293003eaa?utm_campaign=1055&utm_source=git)** | Plainview, NY | On Site | Mar 20 |
+| **[New York State Justice Center for the Protection of People with Special Needs](http://www.justicecenter.ny.gov)** | **[Student Assistant (Legal Intern)](https://jobright.ai/jobs/info/69bdc7c14828227293003eaa?utm_campaign=1055&utm_source=git)** | Plainview, NY | On Site | Mar 20 |
+| ↳ | **[Student Assistant (Legal Intern)](https://jobright.ai/jobs/info/69bdc9c8393a1008f7436917?utm_campaign=1055&utm_source=git)** | Delmar, NY | On Site | Mar 20 |
 | **[Rosasco Law Group, APC](www.rosascolawgroup.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/69bda4c6b106024562829088?utm_campaign=1055&utm_source=git)** | Roseville, CA | On Site | Mar 20 |
 | **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part-Time)](https://jobright.ai/jobs/info/69bdc4e1393a1008f7434ff5?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | Mar 20 |
 | **[Texas Attorney General](https://texasattorneygeneral.gov/)** | **[OAG - Consumer Protection / Research Specialist IV / 26-0390](https://jobright.ai/jobs/info/69bd9f82393a1008f742f985?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Mar 20 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Align Technology](http://www.aligntech.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69bc6bbd5b89c002acf219d6?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Mar 19 |
 | ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bc441b45e08b3dc1f8ae72?utm_campaign=1055&utm_source=git)** | Morrisville, NC | On Site | Mar 19 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b4bd703b74eb1e2c821052?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Remote | Mar 19 |
-| **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Student Employee - Pharmacy Intern - Specialty Pharmacy Compliance](https://jobright.ai/jobs/info/69bc41bf45e08b3dc1f8a57c?utm_campaign=1055&utm_source=git)** | Little Rock | On Site | Mar 19 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Product and Commercial Legal Intern -- Summer 2026](https://jobright.ai/jobs/info/69b4bd56569738374139988b?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Remote | Mar 19 |
-| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69bc41345b89c002acf1aa2d?utm_campaign=1055&utm_source=git)** | Columbia, MD | Hybrid | Mar 19 |
-| **[Jabil](https://www.jabil.com)** | **[Summer Intern - Legal](https://jobright.ai/jobs/info/69bc40dd4828227293fdd842?utm_campaign=1055&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Mar 19 |
-| **[Align Technology](http://www.aligntech.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69be438e393a1008f7442e06?utm_campaign=1055&utm_source=git)** | San Jose, CA, US | On Site | Mar 19 |
-| **[TexasBank](http://www.texasbank.com)** | **[Intern](https://jobright.ai/jobs/info/69bc3c1045e08b3dc1f89a48?utm_campaign=1055&utm_source=git)** | Fort Worth - Hulen - Fort Worth, TX 76109 | On Site | Mar 19 |
-| ↳ | **[Intern - Bilingual](https://jobright.ai/jobs/info/69bc3c075b89c002acf19757?utm_campaign=1055&utm_source=git)** | Fort Worth - Hulen - Fort Worth, TX 76109 | On Site | Mar 19 |
-| **[Segra](https://www.segra.com/)** | **[Law Clerk Intern - Kansas City, MO](https://jobright.ai/jobs/info/69bc3b505b89c002acf196ee?utm_campaign=1055&utm_source=git)** | Kansas City, MO, USA | On Site | Mar 19 |
-| **[Helsell Fetterman LLP](https://www.helsell.com)** | **[2027 Richard S. White Fellowship](https://jobright.ai/jobs/info/69bc6ba45b89c002acf21926?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Mar 19 |
-| **[Align Technology](http://www.aligntech.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69be43da393a1008f7442fb6?utm_campaign=1055&utm_source=git)** | Morrisville, NC, US | On Site | Mar 19 |
-| **[St. Charles County Government](http://www.sccmo.org)** | **[Legal Intern / Prosecuting Attorney's Office](https://jobright.ai/jobs/info/69bc7e904828227293fe60d1?utm_campaign=1055&utm_source=git)** | St Charles, MO | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
