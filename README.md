@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Legal, Creators Talent](https://jobright.ai/jobs/info/69be1333393a1008f743eca1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 20 |
 | **[Cytek Biosciences](https://cytekbio.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69b12f540b2db6275c064e0d?utm_campaign=1055&utm_source=git)** | Fremont, CA | On Site | Mar 20 |
 | **[OneTeam Partners](https://oneteam.com/)** | **[Intern, Consumer Products Licensing (College)](https://jobright.ai/jobs/info/69be059d482822729300bb7f?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 20 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - Phoenix, AZ](https://jobright.ai/jobs/info/69be233fb106024562838ed2?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Mar 20 |
+| **[Cerrowire](http://cerrowire.com)** | **[Compliance Specialist Intern](https://jobright.ai/jobs/info/69be153e393a1008f743efbd?utm_campaign=1055&utm_source=git)** | Hartselle, AL | On Site | Mar 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Services Intern (Summer 2026)](https://jobright.ai/jobs/info/69b32c73a8ac8e70ff676cc2?utm_campaign=1055&utm_source=git)** | Silver Spring, MD | On Site | Mar 20 |
 | **[State of Missouri](http://mo.gov)** | **[Legal Intern - 3DIR011](https://jobright.ai/jobs/info/69bde6dbb106024562834b6b?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Mar 20 |
 | **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69bde5ddb1060245628349a5?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Mar 20 |
@@ -109,7 +112,9 @@ For a complete list, click the following sortable link below:
 | **[Tencent](https://www.tencent.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69bd209f4828227293ff61b1?utm_campaign=1055&utm_source=git)** | US-California-Palo Alto | On Site | Mar 20 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69bd1d6845e08b3dc1fa395b?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | On Site | Mar 20 |
 | **[Kittle Property Group](https://kittleproperties.com)** | **[Compliance Intern (LIHTC)](https://jobright.ai/jobs/info/69bcdd584828227293feed22?utm_campaign=1055&utm_source=git)** | , TX | Remote | Mar 19 |
+| **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Legal Intern](https://jobright.ai/jobs/info/69be29eb393a1008f7440701?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Mar 19 |
 | **[HOLT Group](https://holtgrp.com)** | **[College Intern - Legal](https://jobright.ai/jobs/info/69bcc2ef4828227293feb201?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Mar 19 |
+| **[State of Florida](http://www.myflorida.com)** | **[OPS QUALITY CONTROL ANALYST - 65650034](https://jobright.ai/jobs/info/69be1b16393a1008f743fa10?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 19 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Compliance Specialist](https://jobright.ai/jobs/info/69bcb8a445e08b3dc1f9786b?utm_campaign=1055&utm_source=git)** | Akron, OH | Hybrid | Mar 19 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69bcb3c9e6a0d9792584b54e?utm_campaign=1055&utm_source=git)** | Etobicoke, ON | On Site | Mar 19 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern (Unpaid)](https://jobright.ai/jobs/info/69bca5784828227293fe8d7b?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | On Site | Mar 19 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Bilingual](https://jobright.ai/jobs/info/69bc3c075b89c002acf19757?utm_campaign=1055&utm_source=git)** | Fort Worth - Hulen - Fort Worth, TX 76109 | On Site | Mar 19 |
 | **[Segra](https://www.segra.com/)** | **[Law Clerk Intern - Kansas City, MO](https://jobright.ai/jobs/info/69bc3b505b89c002acf196ee?utm_campaign=1055&utm_source=git)** | Kansas City, MO, USA | On Site | Mar 19 |
 | **[Helsell Fetterman LLP](https://www.helsell.com)** | **[2027 Richard S. White Fellowship](https://jobright.ai/jobs/info/69bc6ba45b89c002acf21926?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Mar 19 |
-| **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Legal Intern](https://jobright.ai/jobs/info/69bc382345e08b3dc1f88b8e?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Mar 19 |
 | **[St. Charles County Government](http://www.sccmo.org)** | **[Legal Intern / Prosecuting Attorney's Office](https://jobright.ai/jobs/info/69bc7e904828227293fe60d1?utm_campaign=1055&utm_source=git)** | St Charles, MO | On Site | Mar 19 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[UTS - Temporary Paralegal at NC State](https://jobright.ai/jobs/info/699fa093d643757b0e451033?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Mar 19 |
 | **[Tennessee Secretary of State](https://sos.tn.gov/hr/pages/employment-opportunities)** | **[Legal Intern](https://jobright.ai/jobs/info/69a07ef30836fe79d8617abf?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Mar 19 |
 | **[First American](http://www.firstam.com)** | **[Commercial Underwriting Graduate Intern](https://jobright.ai/jobs/info/69b338b0ae2a534885eaa19c?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA | On Site | Mar 19 |
-| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | Mar 19 |
-| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL | On Site | Mar 19 |
-| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Paralegal II](https://jobright.ai/jobs/info/69bc0f015b89c002acf107fd?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 19 |
-| **[State Street](https://www.statestreet.com/)** | **[State Street - Legal Summer Internship 2026](https://jobright.ai/jobs/info/69bc0eef5b89c002acf107b7?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
