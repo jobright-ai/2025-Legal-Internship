@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cytek Biosciences](https://cytekbio.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69b12f540b2db6275c064e0d?utm_campaign=1055&utm_source=git)** | Fremont, CA | On Site | Mar 20 |
+| **[OneTeam Partners](https://oneteam.com/)** | **[Intern, Consumer Products Licensing (College)](https://jobright.ai/jobs/info/69be059d482822729300bb7f?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Services Intern (Summer 2026)](https://jobright.ai/jobs/info/69b32c73a8ac8e70ff676cc2?utm_campaign=1055&utm_source=git)** | Silver Spring, MD | On Site | Mar 20 |
 | **[State of Missouri](http://mo.gov)** | **[Legal Intern - 3DIR011](https://jobright.ai/jobs/info/69bde6dbb106024562834b6b?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Mar 20 |
 | **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69bde5ddb1060245628349a5?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Mar 20 |
@@ -74,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Appian](http://www.appian.com)** | **[Legal Operations Intern (Undergrad Students)](https://jobright.ai/jobs/info/69b36ae0ad360c0340a89023?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Mar 20 |
 | **[The NRP Group LLC](http://nrpgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69b861ed56973837413da604?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Mar 20 |
 | **[TechSmith](http://www.techsmith.com)** | **[Data Privacy and Compliance Intern - 2026 - Hybrid](https://jobright.ai/jobs/info/69bdcd1f4828227293004fdc?utm_campaign=1055&utm_source=git)** | East Lansing, Michigan | Hybrid | Mar 20 |
-| **[New York State Justice Center for the Protection of People with Special Needs](http://www.justicecenter.ny.gov)** | **[Student Assistant (Legal Intern)](https://jobright.ai/jobs/info/69bdc9c8393a1008f7436917?utm_campaign=1055&utm_source=git)** | Delmar, NY | On Site | Mar 20 |
-| ↳ | **[Student Assistant (Legal Intern)](https://jobright.ai/jobs/info/69bdc7c14828227293003eaa?utm_campaign=1055&utm_source=git)** | Plainview, NY | On Site | Mar 20 |
+| **[New York State Justice Center for the Protection of People with Special Needs](http://www.justicecenter.ny.gov)** | **[Student Assistant (Legal Intern)](https://jobright.ai/jobs/info/69bdc7c14828227293003eaa?utm_campaign=1055&utm_source=git)** | Plainview, NY | On Site | Mar 20 |
+| ↳ | **[Student Assistant (Legal Intern)](https://jobright.ai/jobs/info/69bdc9c8393a1008f7436917?utm_campaign=1055&utm_source=git)** | Delmar, NY | On Site | Mar 20 |
 | **[Rosasco Law Group, APC](www.rosascolawgroup.com)** | **[Summer Law Clerk](https://jobright.ai/jobs/info/69bda4c6b106024562829088?utm_campaign=1055&utm_source=git)** | Roseville, CA | On Site | Mar 20 |
 | **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part-Time)](https://jobright.ai/jobs/info/69bdc4e1393a1008f7434ff5?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | Mar 20 |
 | **[Texas Attorney General](https://texasattorneygeneral.gov/)** | **[OAG - Consumer Protection / Research Specialist IV / 26-0390](https://jobright.ai/jobs/info/69bd9f82393a1008f742f985?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Mar 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL | On Site | Mar 19 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Paralegal II](https://jobright.ai/jobs/info/69bc0f015b89c002acf107fd?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Legal Summer Internship 2026](https://jobright.ai/jobs/info/69bc0eef5b89c002acf107b7?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Mar 19 |
-| **[Labcorp](https://www.labcorp.com)** | **[Intern - Graduate Law School 3L](https://jobright.ai/jobs/info/69bc37615b89c002acf188ce?utm_campaign=1055&utm_source=git)** | Burlington, NC | On Site | Mar 19 |
-| **[VB Spine](https://vbspineco.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/699fbec881476f6176b977da?utm_campaign=1055&utm_source=git)** | Allendale, NJ | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
