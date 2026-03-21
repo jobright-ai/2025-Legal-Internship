@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Services Intern (Summer 2026)](https://jobright.ai/jobs/info/69b32c73a8ac8e70ff676cc2?utm_campaign=1055&utm_source=git)** | Silver Spring, MD | On Site | Mar 20 |
+| **[State of Missouri](http://mo.gov)** | **[Legal Intern - 3DIR011](https://jobright.ai/jobs/info/69bde6dbb106024562834b6b?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Mar 20 |
+| **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69bde5ddb1060245628349a5?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Mar 20 |
+| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Policy Attorney or Analyst, Healthy Housing](https://jobright.ai/jobs/info/69bdddbdb106024562834315?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Mar 20 |
+| **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[COLLEGE CO-OP MSD/OOD (LEGAL TEAM)](https://jobright.ai/jobs/info/69bddb994828227293008b8d?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Mar 20 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Regulatory](https://jobright.ai/jobs/info/69bdd6e3b1060245628328db?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | Hybrid | Mar 20 |
 | **[Confie](https://www.confie.com)** | **[Intern](https://jobright.ai/jobs/info/69bdc56348282272930032cd?utm_campaign=1055&utm_source=git)** | Huntington Beach, California, United States | On Site | Mar 20 |
 | **[First Chicago Insurance Company](https://www.firstchicagoinsurance.com/)** | **[Auto Claims Adjuster Trainee](https://jobright.ai/jobs/info/69bdc4e5482822729300306e?utm_campaign=1055&utm_source=git)** | Bedford Park, IL | On Site | Mar 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Graduate Law School 3L](https://jobright.ai/jobs/info/69bc37615b89c002acf188ce?utm_campaign=1055&utm_source=git)** | Burlington, NC | On Site | Mar 19 |
 | **[VB Spine](https://vbspineco.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/699fbec881476f6176b977da?utm_campaign=1055&utm_source=git)** | Allendale, NJ | On Site | Mar 19 |
 | **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bc1c145b89c002acf126bf?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Mar 19 |
-| **[Sila Services](https://silaservices.com )** | **[Legal Internship](https://jobright.ai/jobs/info/69bbf8bf45e08b3dc1f7d35d?utm_campaign=1055&utm_source=git)** | King of Prussia, PA | On Site | Mar 19 |
-| **[Rayburn Electric Cooperative](https://www.rayburnelectric.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/699f202b94ef206f184e4740?utm_campaign=1055&utm_source=git)** | Rockwall, TX | On Site | Mar 19 |
-| **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[Indirect Lending Intern](https://jobright.ai/jobs/info/69b62c1806c1ba00c5480461?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Mar 19 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Senior Manager, Independence & Ethics](https://jobright.ai/jobs/info/69bbebff4828227293fcf6e9?utm_campaign=1055&utm_source=git)** | Edmonton, AB | Hybrid | Mar 19 |
-| **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fd5ea53d97f23ee655946?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
