@@ -57,11 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flex](https://getflex.com)** | **[Senior Director, Product Compliance](https://jobright.ai/jobs/info/69c1e0f575f7ff1cd8103dc2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 23 |
+| ↳ | **[Senior Director, Product Compliance](https://jobright.ai/jobs/info/69c1e0e12c312363dcd517b6?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Mar 23 |
+| ↳ | **[Senior Director, Product Compliance](https://jobright.ai/jobs/info/69c1e0df75f7ff1cd8103d5e?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Mar 23 |
+| **[PHINIA](https://phinia.com)** | **[Law Clerk Intern - Year Round](https://jobright.ai/jobs/info/69c1e0a379e36d3a847eef7e?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Mar 23 |
+| **[CAPREIT](https://www.capreit.ca)** | **[Legal Student Intern](https://jobright.ai/jobs/info/69c1cfc179e36d3a847ee3ee?utm_campaign=1055&utm_source=git)** | Toronto, ON, CA | Hybrid | Mar 23 |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 GBS Accidental Death and Dismemberment Claims Internship - Pittsburgh](https://jobright.ai/jobs/info/69c1cf222c312363dcd509c7?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 23 |
+| **[American Bar Association](http://www.americanbar.org/aba.html)** | **[Commission on Sexual and Domestic Violence - Law Student Summer Internship](https://jobright.ai/jobs/info/69c1ce4e79e36d3a847ee184?utm_campaign=1055&utm_source=git)** | Washington, DC, USA | Hybrid | Mar 23 |
 | **[Sila Services](https://silaservices.com )** | **[Legal Intern](https://jobright.ai/jobs/info/69c1c54a2c312363dcd4f5bc?utm_campaign=1055&utm_source=git)** | King of Prussia, PA | Hybrid | Mar 23 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Administrative Clerk II - Clerk of Courts](https://jobright.ai/jobs/info/69c1c14d75f7ff1cd81017c6?utm_campaign=1055&utm_source=git)** | Elkhorn, WI | On Site | Mar 23 |
 | **[PNC](http://www.pnc.com)** | **[Senior Fraud Strategy & Analytics Manager](https://jobright.ai/jobs/info/69c1be6e2c312363dcd4e996?utm_campaign=1055&utm_source=git)** | Lakewood, CO | On Site | Mar 23 |
 | **[Port of Portland](https://www.portofportland.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69c1baf475f7ff1cd8100b3c?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Mar 23 |
 | **[IWK Health](https://www.iwk.nshealth.ca)** | **[Privacy Officer, Legal Services](https://jobright.ai/jobs/info/69c1bac52c312363dcd4e4dd?utm_campaign=1055&utm_source=git)** | Halifax, NS | Hybrid | Mar 23 |
+| **[CAPREIT](https://www.capreit.ca)** | **[Legal Student Intern](https://jobright.ai/jobs/info/69c1db5775f7ff1cd8103796?utm_campaign=1055&utm_source=git)** | CA-ON-Toronto | Hybrid | Mar 23 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Legal Internship - Summer 2026 (Hartford, CT)](https://jobright.ai/jobs/info/69c1b5d375f7ff1cd8100385?utm_campaign=1055&utm_source=git)** | CT - Hartford | Hybrid | Mar 23 |
 | ↳ | **[Legal Internship - Summer 2026 (Woonsocket, RI)](https://jobright.ai/jobs/info/69c1b5d275f7ff1cd810037d?utm_campaign=1055&utm_source=git)** | RI - Woonsocket | Hybrid | Mar 23 |
 | ↳ | **[Legal Internship - Summer 2026 (Parsippany, NJ)](https://jobright.ai/jobs/info/69c1b5792c312363dcd4ddaf?utm_campaign=1055&utm_source=git)** | NJ - Parsippany | Hybrid | Mar 23 |
@@ -111,9 +119,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69bc1f5545e08b3dc1f82fec?utm_campaign=1055&utm_source=git)** | Greater Phoenix Area | Hybrid | Mar 21 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22d410da45516f16b75e2?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 21 |
 | **[Vytalize Health](https://vytalizehealth.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/69a24e06b600907a962897b7?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 21 |
-| **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69beb84c4828227293017813?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | Hybrid | Mar 21 |
+| **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a222bdb600907a96286f3c?utm_campaign=1055&utm_source=git)** | Triangle Area | Hybrid | Mar 21 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a20e0fb600907a96285b7d?utm_campaign=1055&utm_source=git)** | Atlanta Metro | Hybrid | Mar 21 |
-| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a222bdb600907a96286f3c?utm_campaign=1055&utm_source=git)** | Triangle Area | Hybrid | Mar 21 |
+| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69beb84c4828227293017813?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | Hybrid | Mar 21 |
 | **[First American](http://www.firstam.com)** | **[Commercial Title Underwriting Graduate Intern (In Office)](https://jobright.ai/jobs/info/69a29af4b600907a9628f65f?utm_campaign=1055&utm_source=git)** | Pasadena, CA | On Site | Mar 21 |
 | **[Magna International](http://www.magna.com/)** | **[Intellecutual Property Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ac7ba5fc862418539e3fa?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Mar 21 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Associate Attorney, National Climate](https://jobright.ai/jobs/info/69a25bb7b600907a9628a388?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 21 |
@@ -125,19 +133,19 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[Canada Compliance Intern – Financial Security (May-August 2026)](https://jobright.ai/jobs/info/69183b3c45fb6f5ead8a341c?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Mar 21 |
 | **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a210f40da45516f16b5a7f?utm_campaign=1055&utm_source=git)** | Columbus, Ohio Metropolitan Area | Hybrid | Mar 21 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a221570da45516f16b6a2e?utm_campaign=1055&utm_source=git)** | KC Metro Area | Hybrid | Mar 21 |
+| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69be9fd34828227293015eef?utm_campaign=1055&utm_source=git)** | Greater Boston | Hybrid | Mar 21 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69b7910e06c1ba00c5494b00?utm_campaign=1055&utm_source=git)** | Charlotte Metro | Hybrid | Mar 21 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a2271cb600907a962873df?utm_campaign=1055&utm_source=git)** | Greater Seattle Area | Hybrid | Mar 21 |
-| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69be9fd34828227293015eef?utm_campaign=1055&utm_source=git)** | Greater Boston | Hybrid | Mar 21 |
-| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a2178c359fe034b1cd5588?utm_campaign=1055&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Mar 21 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22d0b359fe034b1cd6a8c?utm_campaign=1055&utm_source=git)** | SD Metro Area | Hybrid | Mar 21 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a230cc359fe034b1cd6e7f?utm_campaign=1055&utm_source=git)** | Twin Cities Area | Hybrid | Mar 21 |
+| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a2178c359fe034b1cd5588?utm_campaign=1055&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Mar 21 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69bc1f4a45e08b3dc1f82fad?utm_campaign=1055&utm_source=git)** | LA Metro Area | Hybrid | Mar 21 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22442359fe034b1cd61a6?utm_campaign=1055&utm_source=git)** | Boise Metropolitan Area | Hybrid | Mar 21 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a221f1359fe034b1cd5f5e?utm_campaign=1055&utm_source=git)** | Greater Tampa Bay Area | Hybrid | Mar 21 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Tax, Holland & Hart (Denver)](https://jobright.ai/jobs/info/696904721703f05405aadf36?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Mar 21 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69851e690f6f7e7a2cdfa786?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Mar 21 |
-| **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a21b7db600907a962867ff?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Mar 21 |
-| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69bd185b4828227293ff4d4a?utm_campaign=1055&utm_source=git)** | Portland, Oregon Metropolitan Area | Hybrid | Mar 21 |
+| **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69bd185b4828227293ff4d4a?utm_campaign=1055&utm_source=git)** | Portland, Oregon Metropolitan Area | Hybrid | Mar 21 |
+| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a21b7db600907a962867ff?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Mar 21 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart  (Salt Lake City)](https://jobright.ai/jobs/info/69a3d719b600907a9629d04a?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Mar 21 |
 | **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22065359fe034b1cd5dc1?utm_campaign=1055&utm_source=git)** | DFW Metroplex | Hybrid | Mar 21 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Corporate, Holland & Hart (Denver)](https://jobright.ai/jobs/info/69a556fb359fe034b1cfef22?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Mar 21 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Risk Advisory Intern - Summer 2026 - Phoenix, AZ](https://jobright.ai/jobs/info/69be233fb106024562838ed2?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Mar 20 |
 | **[Cerrowire](http://cerrowire.com)** | **[Compliance Specialist Intern](https://jobright.ai/jobs/info/69be153e393a1008f743efbd?utm_campaign=1055&utm_source=git)** | Hartselle, AL | On Site | Mar 20 |
 | **[State of Missouri](http://mo.gov)** | **[Legal Intern - 3DIR011](https://jobright.ai/jobs/info/69bde6dbb106024562834b6b?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Mar 20 |
-| **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69bde5ddb1060245628349a5?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Mar 20 |
-| **[City of Bloomington, IL](https://www.bloomingtonil.gov)** | **[Internship (Summer) - Legal](https://jobright.ai/jobs/info/69be0067b1060245628365d7?utm_campaign=1055&utm_source=git)** | Bloomington, IL | On Site | Mar 20 |
-| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Policy Attorney or Analyst, Healthy Housing](https://jobright.ai/jobs/info/69bdddbdb106024562834315?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Mar 20 |
-| **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[COLLEGE CO-OP MSD/OOD (LEGAL TEAM)](https://jobright.ai/jobs/info/69bddb994828227293008b8d?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Mar 20 |
-| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Regulatory](https://jobright.ai/jobs/info/69bdd6e3b1060245628328db?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | Hybrid | Mar 20 |
-| **[First Chicago Insurance Company](https://www.firstchicagoinsurance.com/)** | **[Auto Claims Adjuster Trainee](https://jobright.ai/jobs/info/69bdc4e5482822729300306e?utm_campaign=1055&utm_source=git)** | Bedford Park, IL | On Site | Mar 20 |
-| **[California State University-Sacramento](https://www.csus.edu/)** | **[Title IX/DHR Investigator](https://jobright.ai/jobs/info/69bdc1604828227293002a01?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Mar 20 |
-| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Regulatory](https://jobright.ai/jobs/info/69bdd8b7b106024562832e8a?utm_campaign=1055&utm_source=git)** | Parsippany, New Jersey, United States | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
