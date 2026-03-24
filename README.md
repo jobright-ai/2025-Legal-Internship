@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PNC](http://www.pnc.com)** | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c20a6875f7ff1cd810a9cd?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Mar 23 |
+| **[PNC](http://www.pnc.com)** | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c216c1c9ad035e829ac4ae?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Mar 23 |
+| ↳ | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c21672c9ad035e829ac469?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Mar 23 |
+| **[FirstCash](https://firstcash.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69c21171c9ad035e829abc8b?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Mar 23 |
+| **[PNC](http://www.pnc.com)** | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c2112bc9ad035e829abafb?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Mar 23 |
 | **[CAPREIT](https://www.capreit.ca)** | **[Legal Student Intern](https://jobright.ai/jobs/info/69c20926c9ad035e829a7b62?utm_campaign=1055&utm_source=git)** | Toronto, ON | Hybrid | Mar 23 |
 | **[PNC](http://www.pnc.com)** | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c2030fc9ad035e829a6bce?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Mar 23 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/69c1ff23c9ad035e829a695a?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Mar 23 |
@@ -83,6 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Henry Schein](http://www.henryschein.com)** | **[Ethics & Compliance Summer Intern](https://jobright.ai/jobs/info/69c1b56279e36d3a847eb93d?utm_campaign=1055&utm_source=git)** | Melville - New York | Hybrid | Mar 23 |
 | **[Cars Commerce](https://www.carscommerce.inc)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/69c1986775f7ff1cd80fca3e?utm_campaign=1055&utm_source=git)** | Remote - Illinois | Remote | Mar 23 |
 | **[NPR](http://www.npr.org)** | **[Legal Fellow, Ishiyama Transparency in Government](https://jobright.ai/jobs/info/69c1b13c2c312363dcd4d9f1?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 23 |
+| **[ABA Commission on Racial and Ethnic Diversity in the Profession](https://www.americanbar.org/groups/diversity/DiversityCommission/)** | **[Commission on Sexual and Domestic Violence - Undergraduate Summer Internship](https://jobright.ai/jobs/info/69c215d5c9ad035e829ac30b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Mar 23 |
+| ↳ | **[Commission on Sexual and Domestic Violence - Law Student Summer Internship](https://jobright.ai/jobs/info/69c215fec9ad035e829ac42b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Mar 23 |
 | **[MEMIC](https://www.memic.com/)** | **[Claims Internship](https://jobright.ai/jobs/info/6978ec7d88e2b47213bcfd83?utm_campaign=1055&utm_source=git)** | Portland, ME | On Site | Mar 23 |
 | **[Pokagon Band of Potawatomi](http://www.pokagonband-nsn.gov)** | **[Law Student Judicial Intern](https://jobright.ai/jobs/info/69c1a06d75f7ff1cd80fe892?utm_campaign=1055&utm_source=git)** | Dowagiac, MI, US | On Site | Mar 23 |
 | **[Nasseh Law PLLC](https://nassehlaw.com/)** | **[Paid Legal Internship: Real Estate and Estate Planning](https://jobright.ai/jobs/info/69c19d332c312363dcd4b639?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Mar 23 |
@@ -120,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[First American](http://www.firstam.com)** | **[Commercial Title Underwriting Graduate Intern (In Office)](https://jobright.ai/jobs/info/69a2297a0da45516f16b7240?utm_campaign=1055&utm_source=git)** | Pasadena, CA | On Site | Mar 21 |
 | **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ab6d45fc862418539c63a?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Mar 21 |
 | **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69bc1f5545e08b3dc1f82fec?utm_campaign=1055&utm_source=git)** | Greater Phoenix Area | Hybrid | Mar 21 |
-| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a215aa0da45516f16b5ef9?utm_campaign=1055&utm_source=git)** | Nashville Metro | Hybrid | Mar 21 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22d410da45516f16b75e2?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 21 |
+| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a215aa0da45516f16b5ef9?utm_campaign=1055&utm_source=git)** | Nashville Metro | Hybrid | Mar 21 |
 | **[Vytalize Health](https://vytalizehealth.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/69a24e06b600907a962897b7?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 21 |
 | **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a222bdb600907a96286f3c?utm_campaign=1055&utm_source=git)** | Triangle Area | Hybrid | Mar 21 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69beb84c4828227293017813?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | Hybrid | Mar 21 |
@@ -135,26 +140,21 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69b65a6106c1ba00c5483331?utm_campaign=1055&utm_source=git)** | SLC Metro Area | Hybrid | Mar 21 |
 | **[McCarthy Tétrault](http://mccarthy.ca)** | **[Practice Support Lawyer- Business Law](https://jobright.ai/jobs/info/696ae9f2350cf43803121cd4?utm_campaign=1055&utm_source=git)** | Toronto, ON | Hybrid | Mar 21 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Canada Compliance Intern – Financial Security (May-August 2026)](https://jobright.ai/jobs/info/69183b3c45fb6f5ead8a341c?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Mar 21 |
-| **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a210f40da45516f16b5a7f?utm_campaign=1055&utm_source=git)** | Columbus, Ohio Metropolitan Area | Hybrid | Mar 21 |
-| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a221570da45516f16b6a2e?utm_campaign=1055&utm_source=git)** | KC Metro Area | Hybrid | Mar 21 |
-| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69b7910e06c1ba00c5494b00?utm_campaign=1055&utm_source=git)** | Charlotte Metro | Hybrid | Mar 21 |
+| **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a221570da45516f16b6a2e?utm_campaign=1055&utm_source=git)** | KC Metro Area | Hybrid | Mar 21 |
+| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a210f40da45516f16b5a7f?utm_campaign=1055&utm_source=git)** | Columbus, Ohio Metropolitan Area | Hybrid | Mar 21 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69be9fd34828227293015eef?utm_campaign=1055&utm_source=git)** | Greater Boston | Hybrid | Mar 21 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a2271cb600907a962873df?utm_campaign=1055&utm_source=git)** | Greater Seattle Area | Hybrid | Mar 21 |
-| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22d0b359fe034b1cd6a8c?utm_campaign=1055&utm_source=git)** | SD Metro Area | Hybrid | Mar 21 |
+| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69b7910e06c1ba00c5494b00?utm_campaign=1055&utm_source=git)** | Charlotte Metro | Hybrid | Mar 21 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a230cc359fe034b1cd6e7f?utm_campaign=1055&utm_source=git)** | Twin Cities Area | Hybrid | Mar 21 |
+| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22d0b359fe034b1cd6a8c?utm_campaign=1055&utm_source=git)** | SD Metro Area | Hybrid | Mar 21 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a2178c359fe034b1cd5588?utm_campaign=1055&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Mar 21 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69bc1f4a45e08b3dc1f82fad?utm_campaign=1055&utm_source=git)** | LA Metro Area | Hybrid | Mar 21 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22442359fe034b1cd61a6?utm_campaign=1055&utm_source=git)** | Boise Metropolitan Area | Hybrid | Mar 21 |
 | ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a221f1359fe034b1cd5f5e?utm_campaign=1055&utm_source=git)** | Greater Tampa Bay Area | Hybrid | Mar 21 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Tax, Holland & Hart (Denver)](https://jobright.ai/jobs/info/696904721703f05405aadf36?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Mar 21 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69851e690f6f7e7a2cdfa786?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Mar 21 |
-| **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69bd185b4828227293ff4d4a?utm_campaign=1055&utm_source=git)** | Portland, Oregon Metropolitan Area | Hybrid | Mar 21 |
-| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a21b7db600907a962867ff?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Mar 21 |
+| **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a21b7db600907a962867ff?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Hybrid | Mar 21 |
+| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69bd185b4828227293ff4d4a?utm_campaign=1055&utm_source=git)** | Portland, Oregon Metropolitan Area | Hybrid | Mar 21 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart  (Salt Lake City)](https://jobright.ai/jobs/info/69a3d719b600907a9629d04a?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Mar 21 |
 | **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22065359fe034b1cd5dc1?utm_campaign=1055&utm_source=git)** | DFW Metroplex | Hybrid | Mar 21 |
-| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Corporate, Holland & Hart (Denver)](https://jobright.ai/jobs/info/69a556fb359fe034b1cfef22?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Mar 21 |
-| **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69b77cdc56973837413c9b2b?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Mar 21 |
-| **[AARP](http://www.aarp.org)** | **[Foundation Litigation Fellow (Fall 2026 Start - 12 months)](https://jobright.ai/jobs/info/69a13da781476f6176bb9f34?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Mar 21 |
-| **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Summer Associate (Legal)](https://jobright.ai/jobs/info/69a232300da45516f16b7ab9?utm_campaign=1055&utm_source=git)** | Paramus, NJ | On Site | Mar 21 |
-| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Legal, Creators Talent](https://jobright.ai/jobs/info/69be1333393a1008f743eca1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
