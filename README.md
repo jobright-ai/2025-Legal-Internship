@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Avid Bioservices](https://avidbio.com)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/69c35d0994007a2195dfc5f0?utm_campaign=1055&utm_source=git)** | Tustin, California | On Site | Mar 24 |
 | **[Appian](http://www.appian.com)** | **[Legal Operations Intern (Undergrad Students)](https://jobright.ai/jobs/info/69b32892ae2a534885ea8c8a?utm_campaign=1055&utm_source=git)** | McLean, Virginia | On Site | Mar 24 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Procurement & Strategic Sourcing](https://jobright.ai/jobs/info/69c34787097a024c43d94ad3?utm_campaign=1055&utm_source=git)** | Waltham, MA | Hybrid | Mar 24 |
 | **[State of Utah](http://www.utah.gov/)** | **[Internal Control Compliance Auditor](https://jobright.ai/jobs/info/69c340df753c101b2156e84c?utm_campaign=1055&utm_source=git)** | Taylorsville, UT | Hybrid | Mar 24 |
@@ -109,9 +110,9 @@ For a complete list, click the following sortable link below:
 | **[State of Tennessee](https://www.tn.gov/)** | **[FINANCIAL SERVICES INVESTIGATOR 2* - 03242026-76121](https://jobright.ai/jobs/info/69c236dcc9ad035e829aec05?utm_campaign=1055&utm_source=git)** | Davidson County, TN | On Site | Mar 24 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Ethics & Compliance Summer Intern](https://jobright.ai/jobs/info/69c27fa594007a2195de5cb0?utm_campaign=1055&utm_source=git)** | Melville, NY | Hybrid | Mar 23 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Legal Internship - Summer 2026 (Hartford, CT)](https://jobright.ai/jobs/info/69c26fcc635a1e49d1c2dbe8?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Mar 23 |
+| ↳ | **[Legal Internship - Summer 2026 (Woonsocket, RI)](https://jobright.ai/jobs/info/69c272f1ec22f8310ab036fa?utm_campaign=1055&utm_source=git)** | Woonsocket, RI | Hybrid | Mar 23 |
 | ↳ | **[Legal Internship - Summer 2026 (Parsippany, NJ)](https://jobright.ai/jobs/info/69c26fcc635a1e49d1c2dbea?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | Hybrid | Mar 23 |
 | ↳ | **[Legal Internship - Summer 2026 (Northbrook/Chicago, IL)](https://jobright.ai/jobs/info/69c26e8e2c312363dcd618e5?utm_campaign=1055&utm_source=git)** | Northbrook, IL | Hybrid | Mar 23 |
-| ↳ | **[Legal Internship - Summer 2026 (Woonsocket, RI)](https://jobright.ai/jobs/info/69c272f1ec22f8310ab036fa?utm_campaign=1055&utm_source=git)** | Woonsocket, RI | Hybrid | Mar 23 |
 | **[CAPREIT](https://www.capreit.ca)** | **[Legal Student Intern](https://jobright.ai/jobs/info/69c20926c9ad035e829a7b62?utm_campaign=1055&utm_source=git)** | Toronto, ON | Hybrid | Mar 23 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/69c1ff23c9ad035e829a695a?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Mar 23 |
 | ↳ | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/69c288e3a5b03d40c194f4e4?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Mar 23 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Legal Internship - Summer 2026 (Hartford, CT)](https://jobright.ai/jobs/info/69c1b5d375f7ff1cd8100385?utm_campaign=1055&utm_source=git)** | CT - Hartford | Hybrid | Mar 23 |
 | ↳ | **[Legal Internship - Summer 2026 (Woonsocket, RI)](https://jobright.ai/jobs/info/69c1b5d275f7ff1cd810037d?utm_campaign=1055&utm_source=git)** | RI - Woonsocket | Hybrid | Mar 23 |
 | ↳ | **[Legal Internship - Summer 2026 (Parsippany, NJ)](https://jobright.ai/jobs/info/69c1b5792c312363dcd4ddaf?utm_campaign=1055&utm_source=git)** | NJ - Parsippany | Hybrid | Mar 23 |
-| ↳ | **[Legal Internship - Summer 2026 (Northbrook/Chicago, IL)](https://jobright.ai/jobs/info/69c1b57679e36d3a847eb98e?utm_campaign=1055&utm_source=git)** | IL - Northbrook | Hybrid | Mar 23 |
 | ↳ | **[Legal Internship - Summer 2026 (Northbrook/Chicago, IL)](https://jobright.ai/jobs/info/69c1b5762c312363dcd4dda8?utm_campaign=1055&utm_source=git)** | Chicago-525 West Monroe | Hybrid | Mar 23 |
+| ↳ | **[Legal Internship - Summer 2026 (Northbrook/Chicago, IL)](https://jobright.ai/jobs/info/69c1b57679e36d3a847eb98e?utm_campaign=1055&utm_source=git)** | IL - Northbrook | Hybrid | Mar 23 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Ethics & Compliance Summer Intern](https://jobright.ai/jobs/info/69c1b56279e36d3a847eb93d?utm_campaign=1055&utm_source=git)** | Melville - New York | Hybrid | Mar 23 |
 | **[Cars Commerce](https://www.carscommerce.inc)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/69c1986775f7ff1cd80fca3e?utm_campaign=1055&utm_source=git)** | Remote - Illinois | Remote | Mar 23 |
 | **[NPR](http://www.npr.org)** | **[Legal Fellow, Ishiyama Transparency in Government](https://jobright.ai/jobs/info/69c1b13c2c312363dcd4d9f1?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Services Intern (Summer 2026)](https://jobright.ai/jobs/info/69b32c73a8ac8e70ff676cc2?utm_campaign=1055&utm_source=git)** | Silver Spring, MD | On Site | Mar 23 |
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Compliance Operations Intern](https://jobright.ai/jobs/info/69c166c879e36d3a847e1611?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Mar 23 |
 | **[Snyk](https://snyk.io   )** | **[Legal and Compliance Intern](https://jobright.ai/jobs/info/69c1613279e36d3a847e0e5d?utm_campaign=1055&utm_source=git)** | Greater Ottawa Metropolitan Area | On Site | Mar 23 |
-| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69c1588b79e36d3a847df39c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
