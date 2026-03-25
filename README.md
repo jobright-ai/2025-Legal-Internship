@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A. O. Smith Corporation](http://www.aosmithindia.com)** | **[Risk Management Intern / Ashland City, TN](https://jobright.ai/jobs/info/69c427846f4f855eeda68205?utm_campaign=1055&utm_source=git)** | Ashland City, TN | On Site | Mar 25 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/69a7670576bbe83d3afac9e0?utm_campaign=1055&utm_source=git)** | Colorado Springs, CO | On Site | Mar 25 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Equity & Compliance Coordinator (Confidential Administrative Support II), Human Resources Division](https://jobright.ai/jobs/info/698bd1dec5761b521a9b60d4?utm_campaign=1055&utm_source=git)** | San Bernardino, CA | On Site | Mar 25 |
 | **[Agile Legal](https://agilelegal.com/)** | **[Legal Operations Summer Internship](https://jobright.ai/jobs/info/69c40a416f4f855eeda661c3?utm_campaign=1055&utm_source=git)** | Middletown, DE | On Site | Mar 25 |
@@ -65,9 +66,9 @@ For a complete list, click the following sortable link below:
 | **[Greene Tweed](https://www.gtweed.com/)** | **[Summer Internship – Global Trade Compliance](https://jobright.ai/jobs/info/69a9212679f3f4037f43d5f9?utm_campaign=1055&utm_source=git)** | Lansdale, PA | On Site | Mar 25 |
 | **[Deckers Brands](http://deckers.com)** | **[Summer Intern, Corporate Legal (Law Student)](https://jobright.ai/jobs/info/69a777bc76bbe83d3afadc17?utm_campaign=1055&utm_source=git)** | Santa Barbara, CA | Hybrid | Mar 25 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698c5a4df64d441a164e4b69?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 25 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/69c40cfdd5a1016e98db15f1?utm_campaign=1055&utm_source=git)** | GA Atlanta | Remote | Mar 25 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/69c40cf833eecf310794275f?utm_campaign=1055&utm_source=git)** | GA Atlanta | Remote | Mar 25 |
+| ↳ | **[Legal Operations Intern](https://jobright.ai/jobs/info/69c40cfdd5a1016e98db15f0?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania | Remote | Mar 25 |
 | ↳ | **[Legal Operations Intern](https://jobright.ai/jobs/info/69c40cf633eecf3107942747?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia | Remote | Mar 25 |
-| ↳ | **[Legal Operations Intern](https://jobright.ai/jobs/info/69c40ef06f4f855eeda66ae1?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania | Remote | Mar 25 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Labor & Employment, Holland & Hart (Salt Lake City)](https://jobright.ai/jobs/info/696b2baf350cf43803127f7a?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Mar 25 |
 | **[Deckers Brands](http://deckers.com)** | **[Summer Intern, Corporate Legal (Undergraduate)](https://jobright.ai/jobs/info/69a9419779f3f4037f442276?utm_campaign=1055&utm_source=git)** | Santa Barbara, CA | Hybrid | Mar 25 |
 | **[Midrex Technologies, Inc.](https://www.midrex.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6980b5a249964d25b5e37e2e?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 25 |
@@ -87,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Appian](http://www.appian.com)** | **[Legal Operations Intern (Undergrad Students)](https://jobright.ai/jobs/info/69b32892ae2a534885ea8c8a?utm_campaign=1055&utm_source=git)** | McLean, Virginia | On Site | Mar 24 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Procurement & Strategic Sourcing](https://jobright.ai/jobs/info/69c34787097a024c43d94ad3?utm_campaign=1055&utm_source=git)** | Waltham, MA | Hybrid | Mar 24 |
 | **[State of Utah](http://www.utah.gov/)** | **[Internal Control Compliance Auditor](https://jobright.ai/jobs/info/69c340df753c101b2156e84c?utm_campaign=1055&utm_source=git)** | Taylorsville, UT | Hybrid | Mar 24 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Senior Manager, Independence & Ethics](https://jobright.ai/jobs/info/69c3407e94007a2195df9421?utm_campaign=1055&utm_source=git)** | Calgary, AB | Hybrid | Mar 24 |
-| ↳ | **[Senior Manager, Independence & Ethics](https://jobright.ai/jobs/info/69bbebff4828227293fcf6e9?utm_campaign=1055&utm_source=git)** | Edmonton, AB | Hybrid | Mar 24 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Senior Manager, Independence & Ethics](https://jobright.ai/jobs/info/69bbebff4828227293fcf6e9?utm_campaign=1055&utm_source=git)** | Edmonton, AB | Hybrid | Mar 24 |
+| ↳ | **[Senior Manager, Independence & Ethics](https://jobright.ai/jobs/info/69c3407e94007a2195df9421?utm_campaign=1055&utm_source=git)** | Calgary, AB | Hybrid | Mar 24 |
 | **[Family Service Association - Fall River](http://www.frfsa.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69c33c9594007a2195df91f0?utm_campaign=1055&utm_source=git)** | Fall River, MA | On Site | Mar 24 |
 | **[Halcyon](http://www.halcyon.ai)** | **[Legal Intern](https://jobright.ai/jobs/info/69c32dd694007a2195df7a35?utm_campaign=1055&utm_source=git)** | San Diego, CA | Remote | Mar 24 |
 | **[MassDevelopment](https://www.massdevelopment.com/)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/69c32d9a94007a2195df7997?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Mar 24 |
@@ -132,10 +133,10 @@ For a complete list, click the following sortable link below:
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[GTA Office – Opportunities in Forensic, Financial Crimes Analytics – Co-op – Winter 2027 or Summer 2027 Start](https://jobright.ai/jobs/info/69a5fc920da45516f16ece94?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Mar 24 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[FINANCIAL SERVICES INVESTIGATOR 2* - 03242026-76121](https://jobright.ai/jobs/info/69c236dcc9ad035e829aec05?utm_campaign=1055&utm_source=git)** | Davidson County, TN | On Site | Mar 24 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Ethics & Compliance Summer Intern](https://jobright.ai/jobs/info/69c27fa594007a2195de5cb0?utm_campaign=1055&utm_source=git)** | Melville, NY | Hybrid | Mar 23 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Legal Internship - Summer 2026 (Parsippany, NJ)](https://jobright.ai/jobs/info/69c26fcc635a1e49d1c2dbea?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | Hybrid | Mar 23 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Legal Internship - Summer 2026 (Hartford, CT)](https://jobright.ai/jobs/info/69c26fcc635a1e49d1c2dbe8?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Mar 23 |
 | ↳ | **[Legal Internship - Summer 2026 (Woonsocket, RI)](https://jobright.ai/jobs/info/69c272f1ec22f8310ab036fa?utm_campaign=1055&utm_source=git)** | Woonsocket, RI | Hybrid | Mar 23 |
 | ↳ | **[Legal Internship - Summer 2026 (Northbrook/Chicago, IL)](https://jobright.ai/jobs/info/69c26e8e2c312363dcd618e5?utm_campaign=1055&utm_source=git)** | Northbrook, IL | Hybrid | Mar 23 |
-| ↳ | **[Legal Internship - Summer 2026 (Hartford, CT)](https://jobright.ai/jobs/info/69c26fcc635a1e49d1c2dbe8?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Mar 23 |
+| ↳ | **[Legal Internship - Summer 2026 (Parsippany, NJ)](https://jobright.ai/jobs/info/69c26fcc635a1e49d1c2dbea?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | Hybrid | Mar 23 |
 | **[CAPREIT](https://www.capreit.ca)** | **[Legal Student Intern](https://jobright.ai/jobs/info/69c20926c9ad035e829a7b62?utm_campaign=1055&utm_source=git)** | Toronto, ON | Hybrid | Mar 23 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/69c1ff23c9ad035e829a695a?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Mar 23 |
 | ↳ | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/69c288e3a5b03d40c194f4e4?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Mar 23 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Legal Internship - Summer 2026 (Hartford, CT)](https://jobright.ai/jobs/info/69c1b5d375f7ff1cd8100385?utm_campaign=1055&utm_source=git)** | CT - Hartford | Hybrid | Mar 23 |
 | ↳ | **[Legal Internship - Summer 2026 (Woonsocket, RI)](https://jobright.ai/jobs/info/69c1b5d275f7ff1cd810037d?utm_campaign=1055&utm_source=git)** | RI - Woonsocket | Hybrid | Mar 23 |
 | ↳ | **[Legal Internship - Summer 2026 (Parsippany, NJ)](https://jobright.ai/jobs/info/69c1b5792c312363dcd4ddaf?utm_campaign=1055&utm_source=git)** | NJ - Parsippany | Hybrid | Mar 23 |
-| ↳ | **[Legal Internship - Summer 2026 (Northbrook/Chicago, IL)](https://jobright.ai/jobs/info/69c1b57679e36d3a847eb98e?utm_campaign=1055&utm_source=git)** | IL - Northbrook | Hybrid | Mar 23 |
 | ↳ | **[Legal Internship - Summer 2026 (Northbrook/Chicago, IL)](https://jobright.ai/jobs/info/69c1b5762c312363dcd4dda8?utm_campaign=1055&utm_source=git)** | Chicago-525 West Monroe | Hybrid | Mar 23 |
+| ↳ | **[Legal Internship - Summer 2026 (Northbrook/Chicago, IL)](https://jobright.ai/jobs/info/69c1b57679e36d3a847eb98e?utm_campaign=1055&utm_source=git)** | IL - Northbrook | Hybrid | Mar 23 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Ethics & Compliance Summer Intern](https://jobright.ai/jobs/info/69c1b56279e36d3a847eb93d?utm_campaign=1055&utm_source=git)** | Melville - New York | Hybrid | Mar 23 |
-| **[Cars Commerce](https://www.carscommerce.inc)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/69c1986775f7ff1cd80fca3e?utm_campaign=1055&utm_source=git)** | Remote - Illinois | Remote | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
