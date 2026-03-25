@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Chicago Department of Law](https://www.chicago.gov/city/en/depts/dol.html)** | **[Assistant Corporation Counsel III - Special Federal Litigation Division](https://jobright.ai/jobs/info/69a1410b0da45516f16a6a1b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 24 |
+| **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Legal Intern](https://jobright.ai/jobs/info/69c3115794007a2195df3b25?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Mar 24 |
+| **[ABB](https://global.abb/group/en)** | **[Legal Intern](https://jobright.ai/jobs/info/69c3113aec22f8310ab1234b?utm_campaign=1055&utm_source=git)** | Saint-Laurent, Quebec, Canada | On Site | Mar 24 |
+| **[Porsche Financial Services, Inc.](http://www.porsche.com/usa/pfs)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c3083094007a2195df2424?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Mar 24 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department - KYC Intern](https://jobright.ai/jobs/info/69c30093753c101b215672ee?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 24 |
 | **[Halcyon](http://www.halcyon.ai)** | **[Legal Intern](https://jobright.ai/jobs/info/69c2f776753c101b2156696d?utm_campaign=1055&utm_source=git)** | San Diego, CA | Remote | Mar 24 |
+| **[MassDevelopment](https://www.massdevelopment.com/)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/69c3141bec22f8310ab127d1?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Mar 24 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department - KYC Intern](https://jobright.ai/jobs/info/69c2ed27753c101b21565a89?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Mar 24 |
 | **[StockX](https://stockx.com/)** | **[Marketplace Risk Intern](https://jobright.ai/jobs/info/69b2efbcad360c0340a801f1?utm_campaign=1055&utm_source=git)** | Detroit, MI | Hybrid | Mar 24 |
 | **[Taiho Oncology, Inc.](https://www.taihooncology.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/69c2e8e494007a2195def6c0?utm_campaign=1055&utm_source=git)** | Pleasanton, CA | Hybrid | Mar 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Bancorp](http://www.thebancorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698807d28ca8121a3a6a804b?utm_campaign=1055&utm_source=git)** | Wilmington, Delaware, United States | On Site | Mar 22 |
 | **[Marshall Law Group - TradeMarks The Spot](http://TMTheSpot.com)** | **[Trademarks-Law Student Intern](https://jobright.ai/jobs/info/69beea7d4828227293019933?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Remote | Mar 21 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Government Compliance Intern (Cincinnati, OH)](https://jobright.ai/jobs/info/69a33052b600907a96297b49?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Mar 21 |
-| **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Ambler, Risk Management](https://jobright.ai/jobs/info/69bee636b1060245628449e1?utm_campaign=1055&utm_source=git)** | Ambler, Pennsylvania, United States | Hybrid | Mar 21 |
-| **[First American](http://www.firstam.com)** | **[Commercial Title Underwriting Graduate Intern (In Office)](https://jobright.ai/jobs/info/69a2297a0da45516f16b7240?utm_campaign=1055&utm_source=git)** | Pasadena, CA | On Site | Mar 21 |
-| **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ab6d45fc862418539c63a?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Mar 21 |
-| **[Circle](https://www.circle.com)** | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a215aa0da45516f16b5ef9?utm_campaign=1055&utm_source=git)** | Nashville Metro | Hybrid | Mar 21 |
-| ↳ | **[Legal Intern, Payments Product](https://jobright.ai/jobs/info/69a22d410da45516f16b75e2?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
