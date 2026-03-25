@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Texas Alcoholic Beverage Commission](https://www.tabc.texas.gov/)** | **[FY26 Enforcement Intern (Clerk III) San Antonio, TX](https://jobright.ai/jobs/info/69c331ef94007a2195df855b?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Mar 24 |
+| **[Appian](http://www.appian.com)** | **[Legal Operations Intern (Undergrad Students)](https://jobright.ai/jobs/info/69b32892ae2a534885ea8c8a?utm_campaign=1055&utm_source=git)** | McLean, Virginia | On Site | Mar 24 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Procurement & Strategic Sourcing](https://jobright.ai/jobs/info/69c34787097a024c43d94ad3?utm_campaign=1055&utm_source=git)** | Waltham, MA | Hybrid | Mar 24 |
+| **[State of Utah](http://www.utah.gov/)** | **[Internal Control Compliance Auditor](https://jobright.ai/jobs/info/69c340df753c101b2156e84c?utm_campaign=1055&utm_source=git)** | Taylorsville, UT | Hybrid | Mar 24 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Senior Manager, Independence & Ethics](https://jobright.ai/jobs/info/69bbebff4828227293fcf6e9?utm_campaign=1055&utm_source=git)** | Edmonton, AB | Hybrid | Mar 24 |
+| ↳ | **[Senior Manager, Independence & Ethics](https://jobright.ai/jobs/info/69c3407e94007a2195df9421?utm_campaign=1055&utm_source=git)** | Calgary, AB | Hybrid | Mar 24 |
+| **[Family Service Association - Fall River](http://www.frfsa.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69c33c9594007a2195df91f0?utm_campaign=1055&utm_source=git)** | Fall River, MA | On Site | Mar 24 |
 | **[Halcyon](http://www.halcyon.ai)** | **[Legal Intern](https://jobright.ai/jobs/info/69c32dd694007a2195df7a35?utm_campaign=1055&utm_source=git)** | San Diego, CA | Remote | Mar 24 |
 | **[MassDevelopment](https://www.massdevelopment.com/)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/69c32d9a94007a2195df7997?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Mar 24 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Trade and Customs / Atlanta Summer 2026](https://jobright.ai/jobs/info/69c32a3d753c101b2156c863?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Mar 24 |
@@ -101,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69a5b45f0da45516f16e631f?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Mar 24 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Enterprise Risk Management Department - Model Risk Management Team Intern](https://jobright.ai/jobs/info/69a6419ce567421f425733e1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 24 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[GTA Office – Opportunities in Forensic, Financial Crimes Analytics – Co-op – Winter 2027 or Summer 2027 Start](https://jobright.ai/jobs/info/69a5fc920da45516f16ece94?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Mar 24 |
-| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Administrative Clerk II - Clerk of Courts](https://jobright.ai/jobs/info/69c27b2ba5b03d40c194d706?utm_campaign=1055&utm_source=git)** | Elkhorn, WI | On Site | Mar 24 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[FINANCIAL SERVICES INVESTIGATOR 2* - 03242026-76121](https://jobright.ai/jobs/info/69c236dcc9ad035e829aec05?utm_campaign=1055&utm_source=git)** | Davidson County, TN | On Site | Mar 24 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Ethics & Compliance Summer Intern](https://jobright.ai/jobs/info/69c27fa594007a2195de5cb0?utm_campaign=1055&utm_source=git)** | Melville, NY | Hybrid | Mar 23 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Legal Internship - Summer 2026 (Hartford, CT)](https://jobright.ai/jobs/info/69c26fcc635a1e49d1c2dbe8?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Mar 23 |
@@ -111,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[CAPREIT](https://www.capreit.ca)** | **[Legal Student Intern](https://jobright.ai/jobs/info/69c20926c9ad035e829a7b62?utm_campaign=1055&utm_source=git)** | Toronto, ON | Hybrid | Mar 23 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/69c1ff23c9ad035e829a695a?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Mar 23 |
 | ↳ | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/69c288e3a5b03d40c194f4e4?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Mar 23 |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Intern - Criminal Division](https://jobright.ai/jobs/info/69c34c3c753c101b2156f280?utm_campaign=1055&utm_source=git)** | Flemington, NJ | On Site | Mar 23 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Risk Associate P1 Internship](https://jobright.ai/jobs/info/69c1e7c379e36d3a847ef3a8?utm_campaign=1055&utm_source=git)** | Rosemead, CA | Hybrid | Mar 23 |
 | **[Flex](https://getflex.com)** | **[Senior Director, Product Compliance](https://jobright.ai/jobs/info/69c1e0f575f7ff1cd8103dc2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 23 |
 | ↳ | **[Senior Director, Product Compliance](https://jobright.ai/jobs/info/69c1e0e12c312363dcd517b6?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Mar 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Compliance Operations Intern](https://jobright.ai/jobs/info/69c166c879e36d3a847e1611?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Mar 23 |
 | **[Snyk](https://snyk.io   )** | **[Legal and Compliance Intern](https://jobright.ai/jobs/info/69c1613279e36d3a847e0e5d?utm_campaign=1055&utm_source=git)** | Greater Ottawa Metropolitan Area | On Site | Mar 23 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69c1588b79e36d3a847df39c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 23 |
-| **[Sharebite](http://sharebite.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69c14ff72c312363dcd41304?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 23 |
-| **[Snyk](https://snyk.io   )** | **[Legal and Compliance Intern](https://jobright.ai/jobs/info/69c145ca75f7ff1cd80f2ecb?utm_campaign=1055&utm_source=git)** | Canada - Ottawa Local | Hybrid | Mar 23 |
-| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Commercial Litigation, Holland & Hart (Helena)](https://jobright.ai/jobs/info/6968f1b3639b452fb57ec4cb?utm_campaign=1055&utm_source=git)** | Helena, MT | On Site | Mar 23 |
-| **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[Assistant Corporation Counsel I - Collections, Ownership and Administrative Litigation](https://jobright.ai/jobs/info/69b1f338d04c69566c748bf8?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 23 |
-| **[Attorney Sharon Jackson LLC](https://sharonjacksonattorney.com/)** | **[Summer Associate Law School Student](https://jobright.ai/jobs/info/69c1232375f7ff1cd80f0d1d?utm_campaign=1055&utm_source=git)** | Lawrenceville, GA | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
