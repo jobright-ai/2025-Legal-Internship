@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KLDiscovery](https://www.kldiscovery.com/)** | **[Hebrew Fluent Document Reviewer](https://jobright.ai/jobs/info/69a9340479f3f4037f43fbf0?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 25 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Data and Technology - Legal Privacy Intern (Summer 2026)](https://jobright.ai/jobs/info/69a78bbd2672cb0acb4c0160?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 25 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Regulatory & Legal Compliance Intern](https://jobright.ai/jobs/info/69c3c17fd5a1016e98da8e36?utm_campaign=1055&utm_source=git)** | Forest Home, NY | Hybrid | Mar 25 |
+| **[Par Health](https://parsterileproducts.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69a76bee1fc3d83b78094174?utm_campaign=1055&utm_source=git)** | Hazelwood, MO | Hybrid | Mar 25 |
+| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/69a7a54176bbe83d3afb07fc?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Mar 25 |
+| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Regulatory Affairs Intern (Remote)](https://jobright.ai/jobs/info/69a79620637232443f64d830?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 25 |
+| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69c3b54b753c101b215798a8?utm_campaign=1055&utm_source=git)** | San Rafael, CA | On Site | Mar 25 |
+| **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698aa8b80f6f7e7a2ce5de63?utm_campaign=1055&utm_source=git)** | Kirkland, WA | On Site | Mar 25 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/69c3a022753c101b21578492?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Mar 25 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Regulatory & Legal Compliance Intern](https://jobright.ai/jobs/info/69c38084753c101b21575916?utm_campaign=1055&utm_source=git)** | Work From Home - New York | Remote | Mar 24 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern, Trade and Customs / Atlanta Summer 2026](https://jobright.ai/jobs/info/69c36dab7a7a0045db892a22?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Mar 24 |
@@ -111,10 +119,10 @@ For a complete list, click the following sortable link below:
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[GTA Office – Opportunities in Forensic, Financial Crimes Analytics – Co-op – Winter 2027 or Summer 2027 Start](https://jobright.ai/jobs/info/69a5fc920da45516f16ece94?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Mar 24 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[FINANCIAL SERVICES INVESTIGATOR 2* - 03242026-76121](https://jobright.ai/jobs/info/69c236dcc9ad035e829aec05?utm_campaign=1055&utm_source=git)** | Davidson County, TN | On Site | Mar 24 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Ethics & Compliance Summer Intern](https://jobright.ai/jobs/info/69c27fa594007a2195de5cb0?utm_campaign=1055&utm_source=git)** | Melville, NY | Hybrid | Mar 23 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Legal Internship - Summer 2026 (Woonsocket, RI)](https://jobright.ai/jobs/info/69c272f1ec22f8310ab036fa?utm_campaign=1055&utm_source=git)** | Woonsocket, RI | Hybrid | Mar 23 |
-| ↳ | **[Legal Internship - Summer 2026 (Hartford, CT)](https://jobright.ai/jobs/info/69c26fcc635a1e49d1c2dbe8?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Mar 23 |
-| ↳ | **[Legal Internship - Summer 2026 (Parsippany, NJ)](https://jobright.ai/jobs/info/69c26fcc635a1e49d1c2dbea?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | Hybrid | Mar 23 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Legal Internship - Summer 2026 (Parsippany, NJ)](https://jobright.ai/jobs/info/69c26fcc635a1e49d1c2dbea?utm_campaign=1055&utm_source=git)** | Parsippany, NJ | Hybrid | Mar 23 |
 | ↳ | **[Legal Internship - Summer 2026 (Northbrook/Chicago, IL)](https://jobright.ai/jobs/info/69c26e8e2c312363dcd618e5?utm_campaign=1055&utm_source=git)** | Northbrook, IL | Hybrid | Mar 23 |
+| ↳ | **[Legal Internship - Summer 2026 (Woonsocket, RI)](https://jobright.ai/jobs/info/69c272f1ec22f8310ab036fa?utm_campaign=1055&utm_source=git)** | Woonsocket, RI | Hybrid | Mar 23 |
+| ↳ | **[Legal Internship - Summer 2026 (Hartford, CT)](https://jobright.ai/jobs/info/69c26fcc635a1e49d1c2dbe8?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Mar 23 |
 | **[CAPREIT](https://www.capreit.ca)** | **[Legal Student Intern](https://jobright.ai/jobs/info/69c20926c9ad035e829a7b62?utm_campaign=1055&utm_source=git)** | Toronto, ON | Hybrid | Mar 23 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/69c1ff23c9ad035e829a695a?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Mar 23 |
 | ↳ | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/69c288e3a5b03d40c194f4e4?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Mar 23 |
@@ -133,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Legal Internship - Summer 2026 (Hartford, CT)](https://jobright.ai/jobs/info/69c1b5d375f7ff1cd8100385?utm_campaign=1055&utm_source=git)** | CT - Hartford | Hybrid | Mar 23 |
 | ↳ | **[Legal Internship - Summer 2026 (Woonsocket, RI)](https://jobright.ai/jobs/info/69c1b5d275f7ff1cd810037d?utm_campaign=1055&utm_source=git)** | RI - Woonsocket | Hybrid | Mar 23 |
 | ↳ | **[Legal Internship - Summer 2026 (Parsippany, NJ)](https://jobright.ai/jobs/info/69c1b5792c312363dcd4ddaf?utm_campaign=1055&utm_source=git)** | NJ - Parsippany | Hybrid | Mar 23 |
-| ↳ | **[Legal Internship - Summer 2026 (Northbrook/Chicago, IL)](https://jobright.ai/jobs/info/69c1b5762c312363dcd4dda8?utm_campaign=1055&utm_source=git)** | Chicago-525 West Monroe | Hybrid | Mar 23 |
 | ↳ | **[Legal Internship - Summer 2026 (Northbrook/Chicago, IL)](https://jobright.ai/jobs/info/69c1b57679e36d3a847eb98e?utm_campaign=1055&utm_source=git)** | IL - Northbrook | Hybrid | Mar 23 |
+| ↳ | **[Legal Internship - Summer 2026 (Northbrook/Chicago, IL)](https://jobright.ai/jobs/info/69c1b5762c312363dcd4dda8?utm_campaign=1055&utm_source=git)** | Chicago-525 West Monroe | Hybrid | Mar 23 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Ethics & Compliance Summer Intern](https://jobright.ai/jobs/info/69c1b56279e36d3a847eb93d?utm_campaign=1055&utm_source=git)** | Melville - New York | Hybrid | Mar 23 |
 | **[Cars Commerce](https://www.carscommerce.inc)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/69c1986775f7ff1cd80fca3e?utm_campaign=1055&utm_source=git)** | Remote - Illinois | Remote | Mar 23 |
 | **[NPR](http://www.npr.org)** | **[Legal Fellow, Ishiyama Transparency in Government](https://jobright.ai/jobs/info/69c1b13c2c312363dcd4d9f1?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 23 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 GBS Accidental Death and Dismemberment Claims Internship - Pittsburgh](https://jobright.ai/jobs/info/69c1966f79e36d3a847e7b71?utm_campaign=1055&utm_source=git)** | Pittsburgh,Parsippany,United States | Hybrid | Mar 23 |
 | **[AutoNation](http://autonation.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69c1904b75f7ff1cd80fb3ff?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 23 |
 | **[Cars Commerce](https://www.carscommerce.inc)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/69c18bd575f7ff1cd80fb0a2?utm_campaign=1055&utm_source=git)** | Illinois, United States | Hybrid | Mar 23 |
-| **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Paralegal](https://jobright.ai/jobs/info/69c183982c312363dcd472a0?utm_campaign=1055&utm_source=git)** | Austin, TX | Remote | Mar 23 |
-| **[AXA XL](https://axaxl.com)** | **[Legal Litigation Team, Intern, Americas Claims](https://jobright.ai/jobs/info/69c1838f2c312363dcd47275?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Mar 23 |
-| **[Jainam Share Consultants Pvt. Ltd.](http://www.jainam.in)** | **[Associate Vice President - Regulatory](https://jobright.ai/jobs/info/69c182e679e36d3a847e4e74?utm_campaign=1055&utm_source=git)** | House, NM | On Site | Mar 23 |
-| **[PHINIA](https://phinia.com)** | **[Law Clerk Intern - Year Round](https://jobright.ai/jobs/info/69c182302c312363dcd46f0e?utm_campaign=1055&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA | On Site | Mar 23 |
-| **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Compliance Operations Intern](https://jobright.ai/jobs/info/69c17bbd79e36d3a847e3e24?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Mar 23 |
-| **[Appian](http://www.appian.com)** | **[Legal Operations Intern (Undergrad Students)](https://jobright.ai/jobs/info/69b36ae0ad360c0340a89023?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Mar 23 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Services Intern (Summer 2026)](https://jobright.ai/jobs/info/69b32c73a8ac8e70ff676cc2?utm_campaign=1055&utm_source=git)** | Silver Spring, MD | On Site | Mar 23 |
-| **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Compliance Operations Intern](https://jobright.ai/jobs/info/69c166c879e36d3a847e1611?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
