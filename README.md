@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Inspire](https://inspirebrands.com)** | **[Supply Chain Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69c4e0f6d5a1016e98dc447f?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
 | **[R&T Deposit Solutions](https://rnt.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c4bb26d5a1016e98dc113c?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
 | ↳ | **[Operational & Third-Party Risk Management Intern](https://jobright.ai/jobs/info/69c4bb1833eecf3107952516?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
 | **[Bechtel Plant Machinery, Inc. (BPMI)](http://bpmionline.com)** | **[Intern Contract Management Specialist / Buyer (January 2027)](https://jobright.ai/jobs/info/69c4af5f6f4f855eeda75844?utm_campaign=1055&utm_source=git)** | Monroeville, PA | On Site | Mar 25 |
@@ -81,10 +82,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern 2026 - Legal](https://jobright.ai/jobs/info/69c46bfbd5a1016e98dba58e?utm_campaign=1055&utm_source=git)** | US-VA-McLean | On Site | Mar 25 |
 | **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c437ac33eecf31079462e8?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Mar 25 |
 | **[Mediaocean](http://www.mediaocean.com)** | **[Corporate Social Responsibility Intern](https://jobright.ai/jobs/info/69c437a533eecf31079462d7?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 25 |
-| **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c39?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Mar 25 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c3d?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 25 |
+| **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c3a?utm_campaign=1055&utm_source=git)** | Johnston, RI | Hybrid | Mar 25 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c3b?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Mar 25 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c3a?utm_campaign=1055&utm_source=git)** | Johnston, RI | Hybrid | Mar 25 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c3d?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 25 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c39?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Mar 25 |
 | **[SEI](http://www.seic.com)** | **[2026 Intern - IMS Reconciliation Intern](https://jobright.ai/jobs/info/69c435f533eecf3107945e48?utm_campaign=1055&utm_source=git)** | Oaks, PA | Hybrid | Mar 25 |
 | **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c435d3d5a1016e98db4af8?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Mar 25 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c435d2d5a1016e98db4aee?utm_campaign=1055&utm_source=git)** | Voorhees, NJ | Hybrid | Mar 25 |
@@ -105,9 +106,9 @@ For a complete list, click the following sortable link below:
 | **[Greene Tweed](https://www.gtweed.com/)** | **[Summer Internship – Global Trade Compliance](https://jobright.ai/jobs/info/69a9212679f3f4037f43d5f9?utm_campaign=1055&utm_source=git)** | Lansdale, PA | On Site | Mar 25 |
 | **[Deckers Brands](http://deckers.com)** | **[Summer Intern, Corporate Legal (Law Student)](https://jobright.ai/jobs/info/69a777bc76bbe83d3afadc17?utm_campaign=1055&utm_source=git)** | Santa Barbara, CA | Hybrid | Mar 25 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698c5a4df64d441a164e4b69?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 25 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/69c40cf633eecf3107942747?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia | Remote | Mar 25 |
-| ↳ | **[Legal Operations Intern](https://jobright.ai/jobs/info/69c40cfdd5a1016e98db15f0?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania | Remote | Mar 25 |
-| ↳ | **[Legal Operations Intern](https://jobright.ai/jobs/info/69c40cfdd5a1016e98db15f1?utm_campaign=1055&utm_source=git)** | GA Atlanta | Remote | Mar 25 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/69c40cfdd5a1016e98db15f0?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania | Remote | Mar 25 |
+| ↳ | **[Legal Operations Intern](https://jobright.ai/jobs/info/69c40ef06f4f855eeda66ae6?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia | Remote | Mar 25 |
+| ↳ | **[Legal Operations Intern](https://jobright.ai/jobs/info/69c40cf833eecf310794275f?utm_campaign=1055&utm_source=git)** | GA Atlanta | Remote | Mar 25 |
 | **[Deckers Brands](http://deckers.com)** | **[Summer Intern, Corporate Legal (Undergraduate)](https://jobright.ai/jobs/info/69a9419779f3f4037f442276?utm_campaign=1055&utm_source=git)** | Santa Barbara, CA | Hybrid | Mar 25 |
 | **[Midrex Technologies, Inc.](https://www.midrex.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6980b5a249964d25b5e37e2e?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 25 |
 | **[Oracle](https://www.oracle.com/)** | **[Global Procurement Contracts Intern](https://jobright.ai/jobs/info/698c2bb791fdda424d590f58?utm_campaign=1055&utm_source=git)** | Rocklin, CA | On Site | Mar 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/69c2ba12753c101b215604a1?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Mar 24 |
 | ↳ | **[Contracts Intern](https://jobright.ai/jobs/info/69c2b99f753c101b21560350?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Mar 24 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2026 Compliance Internal Audit Internship](https://jobright.ai/jobs/info/69c2b99294007a2195dead14?utm_campaign=1055&utm_source=git)** | USA NM Albuquerque | On Site | Mar 24 |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[International Trade Compliance Director](https://jobright.ai/jobs/info/6989830f8ca8121a3a6bdc24?utm_campaign=1055&utm_source=git)** | Savannah, GA | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
