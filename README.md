@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[Internship  FIU BSA Intern](https://jobright.ai/jobs/info/69c58fd683ea553769fccc88?utm_campaign=1055&utm_source=git)** | Oneonta, NY | On Site | Mar 26 |
+| **[Keenova](https://www.keenova.com)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/699f399894ef206f184e5552?utm_campaign=1055&utm_source=git)** | Malvern, PA | Hybrid | Mar 26 |
 | **[Pinal County](https://www.pinalcountyaz.gov)** | **[Law Student Intern - Registry (At-Will)](https://jobright.ai/jobs/info/69c5869a1b5ad02887375f8b?utm_campaign=1055&utm_source=git)** | Florence, AZ | On Site | Mar 26 |
 | **[First American](http://www.firstam.com)** | **[Legal & Compliance Undergraduate Internship (Hybrid Opportunity)](https://jobright.ai/jobs/info/69a904767ac93962b708efcf?utm_campaign=1055&utm_source=git)** | Idaho Falls, ID | Hybrid | Mar 26 |
 | **[SBA Communications](http://www.sbasite.com)** | **[Summer Internship 2026 – IT Systems Audit & SOX Compliance](https://jobright.ai/jobs/info/69ae5dae3de6821aaccdb49d?utm_campaign=1055&utm_source=git)** | Boca Raton, FL | On Site | Mar 26 |
@@ -64,9 +66,9 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b4bd703b74eb1e2c821052?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Remote | Mar 26 |
 | ↳ | **[Product and Commercial Legal Intern -- Summer 2026](https://jobright.ai/jobs/info/69b4bd56569738374139988b?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Remote | Mar 26 |
 | **[Kahana Feld](https://kahanafeld.com/)** | **[Houston Summer Associate 2026 - 2L (Class of 2027)](https://jobright.ai/jobs/info/69c32426ec22f8310ab15020?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Mar 26 |
+| **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[2026 Summer Internship- Legal](https://jobright.ai/jobs/info/69abdf017e1fab39d383a335?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Mar 26 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[System Protection Compliance Intern](https://jobright.ai/jobs/info/69c569001b5ad02887373452?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Mar 26 |
 | **[Temenos](http://www.temenos.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c5655faa3c2c1995dfe6a4?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Mar 26 |
-| **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[2026 Summer Internship- Legal](https://jobright.ai/jobs/info/69abdf017e1fab39d383a335?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Mar 26 |
 | **[Accuray](http://www.accuray.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69c55f4ce565c26a7000ec6f?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Mar 26 |
 | **[Temenos](http://www.temenos.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c558af1b5ad02887372807?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 26 |
 | **[SCOR](https://www.scor.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c5546583ea553769fc8b4d?utm_campaign=1055&utm_source=git)** | 28 Liberty Street, New York, NY, 10005, US | Hybrid | Mar 26 |
@@ -119,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Mediaocean](http://www.mediaocean.com)** | **[Corporate Social Responsibility Intern](https://jobright.ai/jobs/info/69c437a533eecf31079462d7?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 25 |
 | **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c3b?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Mar 25 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c3a?utm_campaign=1055&utm_source=git)** | Johnston, RI | Hybrid | Mar 25 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c3d?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 25 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c39?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Mar 25 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c3d?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 25 |
 | **[SEI](http://www.seic.com)** | **[2026 Intern - IMS Reconciliation Intern](https://jobright.ai/jobs/info/69c435f533eecf3107945e48?utm_campaign=1055&utm_source=git)** | Oaks, PA | Hybrid | Mar 25 |
 | **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c435d3d5a1016e98db4af8?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Mar 25 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c435d2d5a1016e98db4aee?utm_campaign=1055&utm_source=git)** | Voorhees, NJ | Hybrid | Mar 25 |
@@ -144,7 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698c5a4df64d441a164e4b69?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 25 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/69c40cf633eecf3107942747?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia | Remote | Mar 25 |
 | ↳ | **[Legal Operations Intern](https://jobright.ai/jobs/info/69c40cf833eecf310794275f?utm_campaign=1055&utm_source=git)** | GA Atlanta | Remote | Mar 25 |
-| ↳ | **[Legal Operations Intern](https://jobright.ai/jobs/info/69c40cfdd5a1016e98db15f0?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania | Remote | Mar 25 |
+| ↳ | **[Legal Operations Intern](https://jobright.ai/jobs/info/69c40ef06f4f855eeda66ae1?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania | Remote | Mar 25 |
 | **[Deckers Brands](http://deckers.com)** | **[Summer Intern, Corporate Legal (Undergraduate)](https://jobright.ai/jobs/info/69a9419779f3f4037f442276?utm_campaign=1055&utm_source=git)** | Santa Barbara, CA | Hybrid | Mar 25 |
 | **[Midrex Technologies, Inc.](https://www.midrex.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6980b5a249964d25b5e37e2e?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 25 |
 | **[Oracle](https://www.oracle.com/)** | **[Global Procurement Contracts Intern](https://jobright.ai/jobs/info/698c2bb791fdda424d590f58?utm_campaign=1055&utm_source=git)** | Rocklin, CA | On Site | Mar 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Proper Brands](https://www.properbrands.com)** | **[Cannabis Compliance & Safety Internship 2026](https://jobright.ai/jobs/info/69c5136967e81074795b52a5?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Mar 25 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69a76bee1fc3d83b78094174?utm_campaign=1055&utm_source=git)** | Hazelwood, MO | Hybrid | Mar 25 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/69a7a54176bbe83d3afb07fc?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Mar 25 |
-| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Regulatory Affairs Intern (Remote)](https://jobright.ai/jobs/info/69a79620637232443f64d830?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 25 |
-| **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698aa8b80f6f7e7a2ce5de63?utm_campaign=1055&utm_source=git)** | Kirkland, WA | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
