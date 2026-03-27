@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vytalize Health](https://vytalizehealth.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c5bbb783ea553769fcf124?utm_campaign=1055&utm_source=git)** | Kansas, OH | Remote | Mar 26 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern (Unpaid)](https://jobright.ai/jobs/info/69bca5784828227293fe8d7b?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | Hybrid | Mar 26 |
 | **[New York State Justice Center for the Protection of People with Special Needs](http://www.justicecenter.ny.gov)** | **[Student Assistant (Legal Intern)](https://jobright.ai/jobs/info/69c5ab97aa3c2c1995e02e71?utm_campaign=1055&utm_source=git)** | Delmar, NY | On Site | Mar 26 |
 | **[Flex](https://flex.one)** | **[Assistant General Counsel, Corporate](https://jobright.ai/jobs/info/69c5ab4daa3c2c1995e02e0b?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Farmers National Bank of Canfield](https://www.farmersbankgroup.com/)** | **[Intern - Trust & Wealth Management](https://jobright.ai/jobs/info/69c5aa0fe565c26a700136ae?utm_campaign=1055&utm_source=git)** | Boardman Twp, Ohio, United States | On Site | Mar 26 |
@@ -105,7 +107,10 @@ For a complete list, click the following sortable link below:
 | **[R&T Deposit Solutions](https://rnt.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c4bb26d5a1016e98dc113c?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
 | ↳ | **[Operational & Third-Party Risk Management Intern](https://jobright.ai/jobs/info/69c4bb1833eecf3107952516?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
 | **[Bechtel Plant Machinery, Inc. (BPMI)](http://bpmionline.com)** | **[Intern Contract Management Specialist / Buyer (January 2027)](https://jobright.ai/jobs/info/69c4af5f6f4f855eeda75844?utm_campaign=1055&utm_source=git)** | Monroeville, PA | On Site | Mar 25 |
+| **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Administrative Law Judge](https://jobright.ai/jobs/info/69c5babdaa3c2c1995e03b0f?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Mar 25 |
+| ↳ | **[Administrative Law Judge](https://jobright.ai/jobs/info/69c5b029aa9a29199e808caf?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Mar 25 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[COLLEGE CO-OP MSD/OOD (LEGAL TEAM)](https://jobright.ai/jobs/info/69c481d933eecf310794dba6?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Mar 25 |
+| **[Vytalize Health](https://vytalizehealth.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c5b51aaa3c2c1995e032cf?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 25 |
 | **[Veregy](https://www.veregy.com/)** | **[Intern - Process and Policy Aggregation](https://jobright.ai/jobs/info/69c47232d5a1016e98dbad45?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Mar 25 |
 | **[Legal Assistance Of Western New York, Inc. (LawNY)](https://www.lawny.org)** | **[Summer Fellowship - Rochester, NY](https://jobright.ai/jobs/info/69c48d226f4f855eeda71fce?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Mar 25 |
 | **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - Legal](https://jobright.ai/jobs/info/69c46c4fd5a1016e98dba60c?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Mar 25 |
@@ -121,14 +126,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c44ae36f4f855eeda6bd58?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 25 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c44ada6f4f855eeda6bd4a?utm_campaign=1055&utm_source=git)** | Roseville, MN | Hybrid | Mar 25 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c44ad06f4f855eeda6bd3b?utm_campaign=1055&utm_source=git)** | Fresno, CA | Hybrid | Mar 25 |
-| **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - Legal](https://jobright.ai/jobs/info/69c46da86f4f855eeda6fabf?utm_campaign=1055&utm_source=git)** | McLean, VA, US | On Site | Mar 25 |
-| ↳ | **[Summer Intern 2026 - Legal](https://jobright.ai/jobs/info/69c46bfbd5a1016e98dba58e?utm_campaign=1055&utm_source=git)** | US-VA-McLean | On Site | Mar 25 |
+| **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - Legal](https://jobright.ai/jobs/info/69c46bfbd5a1016e98dba58e?utm_campaign=1055&utm_source=git)** | US-VA-McLean | On Site | Mar 25 |
+| ↳ | **[Summer Intern 2026 - Legal](https://jobright.ai/jobs/info/69c46da86f4f855eeda6fabf?utm_campaign=1055&utm_source=git)** | McLean, VA, US | On Site | Mar 25 |
 | **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c437ac33eecf31079462e8?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Mar 25 |
 | **[Mediaocean](http://www.mediaocean.com)** | **[Corporate Social Responsibility Intern](https://jobright.ai/jobs/info/69c437a533eecf31079462d7?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 25 |
-| **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c3d?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 25 |
+| **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c3a?utm_campaign=1055&utm_source=git)** | Johnston, RI | Hybrid | Mar 25 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c39?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Mar 25 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c3a?utm_campaign=1055&utm_source=git)** | Johnston, RI | Hybrid | Mar 25 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c3b?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Mar 25 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c3d?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 25 |
 | **[SEI](http://www.seic.com)** | **[2026 Intern - IMS Reconciliation Intern](https://jobright.ai/jobs/info/69c435f533eecf3107945e48?utm_campaign=1055&utm_source=git)** | Oaks, PA | Hybrid | Mar 25 |
 | **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c435d3d5a1016e98db4af8?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Mar 25 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c435d2d5a1016e98db4aee?utm_campaign=1055&utm_source=git)** | Voorhees, NJ | Hybrid | Mar 25 |
@@ -137,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Veregy](https://www.veregy.com/)** | **[Intern - Process and Policy Aggregation](https://jobright.ai/jobs/info/69c450ba6f4f855eeda6c3dc?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL, US | On Site | Mar 25 |
 | **[As You Sow](http://www.asyousow.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69c451496f4f855eeda6c536?utm_campaign=1055&utm_source=git)** | REMOTE-United States | Remote | Mar 25 |
 | **[A. O. Smith Corporation](http://www.aosmithindia.com)** | **[Risk Management Intern / Ashland City, TN](https://jobright.ai/jobs/info/69c427846f4f855eeda68205?utm_campaign=1055&utm_source=git)** | Ashland City, TN | On Site | Mar 25 |
-| **[CAPREIT](https://www.capreit.ca)** | **[Legal Student Intern (Summer 2026)](https://jobright.ai/jobs/info/69c4518233eecf3107948b10?utm_campaign=1055&utm_source=git)** | Toronto, ON, CA | Hybrid | Mar 25 |
-| ↳ | **[Legal Student Intern (Summer 2026)](https://jobright.ai/jobs/info/69c4517b6f4f855eeda6c5d9?utm_campaign=1055&utm_source=git)** | CA-ON-Toronto | Hybrid | Mar 25 |
+| **[CAPREIT](https://www.capreit.ca)** | **[Legal Student Intern (Summer 2026)](https://jobright.ai/jobs/info/69c4517b6f4f855eeda6c5d9?utm_campaign=1055&utm_source=git)** | CA-ON-Toronto | Hybrid | Mar 25 |
+| ↳ | **[Legal Student Intern (Summer 2026)](https://jobright.ai/jobs/info/69c4518233eecf3107948b10?utm_campaign=1055&utm_source=git)** | Toronto, ON, CA | Hybrid | Mar 25 |
 | **[KANTER Advokatbyrå](https://kntr.se)** | **[Juriststudent till KANTER Advokatbyrå](https://jobright.ai/jobs/info/69c5163cf7bed33dee482f60?utm_campaign=1055&utm_source=git)** | Stockholm, NY | On Site | Mar 25 |
 | **[Mediaocean](http://www.mediaocean.com)** | **[Corporate Social Responsibility Intern](https://jobright.ai/jobs/info/69c4347a6f4f855eeda69877?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | On Site | Mar 25 |
 | **[Inspire](https://inspirebrands.com)** | **[Supply Chain Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69c436226f4f855eeda69c84?utm_campaign=1055&utm_source=git)** | Atlanta Support Center | On Site | Mar 25 |
@@ -150,11 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Greene Tweed](https://www.gtweed.com/)** | **[Summer Internship – Global Trade Compliance](https://jobright.ai/jobs/info/69a9212679f3f4037f43d5f9?utm_campaign=1055&utm_source=git)** | Lansdale, PA | On Site | Mar 25 |
 | **[Deckers Brands](http://deckers.com)** | **[Summer Intern, Corporate Legal (Law Student)](https://jobright.ai/jobs/info/69a777bc76bbe83d3afadc17?utm_campaign=1055&utm_source=git)** | Santa Barbara, CA | Hybrid | Mar 25 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698c5a4df64d441a164e4b69?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 25 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/69c40ef06f4f855eeda66ae6?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia | Remote | Mar 25 |
-| ↳ | **[Legal Operations Intern](https://jobright.ai/jobs/info/69c40cfdd5a1016e98db15f1?utm_campaign=1055&utm_source=git)** | GA Atlanta | Remote | Mar 25 |
-| ↳ | **[Legal Operations Intern](https://jobright.ai/jobs/info/69c40cfdd5a1016e98db15f0?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania | Remote | Mar 25 |
-| **[Deckers Brands](http://deckers.com)** | **[Summer Intern, Corporate Legal (Undergraduate)](https://jobright.ai/jobs/info/69a9419779f3f4037f442276?utm_campaign=1055&utm_source=git)** | Santa Barbara, CA | Hybrid | Mar 25 |
-| **[Midrex Technologies, Inc.](https://www.midrex.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6980b5a249964d25b5e37e2e?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 25 |
-| **[Oracle](https://www.oracle.com/)** | **[Global Procurement Contracts Intern](https://jobright.ai/jobs/info/698c2bb791fdda424d590f58?utm_campaign=1055&utm_source=git)** | Rocklin, CA | On Site | Mar 25 |
-| **[State of Minnesota](https://mn.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/69c3ebbf6f4f855eeda63583?utm_campaign=1055&utm_source=git)** | St Paul, MN | On Site | Mar 25 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/69c40cfdd5a1016e98db15f0?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania | Remote | Mar 25 |
+| ↳ | **[Legal Operations Intern](https://jobright.ai/jobs/info/69c40cf833eecf310794275f?utm_campaign=1055&utm_source=git)** | GA Atlanta | Remote | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
