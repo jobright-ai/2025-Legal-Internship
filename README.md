@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Corporate Actions Intern - S&P Global](https://jobright.ai/jobs/info/69c6daa61b5ad02887387a58?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 27 |
+| **[MEMIC](https://www.memic.com/)** | **[Claims Internship](https://jobright.ai/jobs/info/6978ec7d88e2b47213bcfd83?utm_campaign=1055&utm_source=git)** | Portland, ME | On Site | Mar 27 |
+| **[AICPA](https://www.aicpa-cima.com)** | **[Paid summer intern (Audit, Risk & Compliance)](https://jobright.ai/jobs/info/69c6d7d0aa3c2c1995e12b91?utm_campaign=1055&utm_source=git)** | Durham, North Carolina, United States | Hybrid | Mar 27 |
+| **[Shift Markets](https://www.shiftmarkets.com/)** | **[Legal & Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/69c6d690aa3c2c1995e12648?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 27 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern - Risk Department (2026)](https://jobright.ai/jobs/info/69c6cd191818a24cd84c8a69?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Mar 27 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Legal Internship - 2026 MIP Summer Associate Program](https://jobright.ai/jobs/info/69c6c95783ea553769fdd610?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Mar 27 |
 | ↳ | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69c6c94e1818a24cd84c8643?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Mar 27 |
 | ↳ | **[Legal Internship - 2026 CLC Summer Associate Program](https://jobright.ai/jobs/info/69c6c92a1b5ad02887386d82?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Mar 27 |
+| **[Midrex Technologies, Inc.](https://www.midrex.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6980b5a249964d25b5e37e2e?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 27 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c6bd15b773006330b727bb?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ, US | On Site | Mar 27 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern - Risk Department (2026)](https://jobright.ai/jobs/info/69c6bbb0e565c26a70022546?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Mar 27 |
-| ↳ | **[Fall Intern - Risk Department (2026)](https://jobright.ai/jobs/info/69c6bbb01b5ad0288738699d?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Mar 27 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern - Risk Department (2026)](https://jobright.ai/jobs/info/69c6bbb01b5ad0288738699d?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Mar 27 |
+| ↳ | **[Fall Intern - Risk Department (2026)](https://jobright.ai/jobs/info/69c6bbb0e565c26a70022546?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Mar 27 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c6bb50aa3c2c1995e11b8c?utm_campaign=1055&utm_source=git)** | US-AZ-Scottsdale | On Site | Mar 27 |
 | **[Arxada](https://www.arxada.com/)** | **[Regulatory Digitalization and Compliance Summer Intern](https://jobright.ai/jobs/info/69c6baeeaa3c2c1995e11a31?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Mar 27 |
 | **[PNC](http://www.pnc.com)** | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c6b567b773006330b72144?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Mar 27 |
@@ -85,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[Legal Internship](https://jobright.ai/jobs/info/69aa40011f59c56275e31a80?utm_campaign=1055&utm_source=git)** | Charleston, SC | On Site | Mar 27 |
 | **[Vytalize Health](https://vytalizehealth.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/69c663c11818a24cd84c5def?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Network Health WI](https://networkhealth.com)** | **[Legal Intern - Summer 2026 (part-time)](https://jobright.ai/jobs/info/69aa3fe19ca4e908ec6596f4?utm_campaign=1055&utm_source=git)** | Menasha, WI | Hybrid | Mar 27 |
-| **[PNC](http://www.pnc.com)** | **[Senior AML Sanctions Advisor](https://jobright.ai/jobs/info/69c6657daa3c2c1995e0fa28?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Mar 27 |
 | **[Denton County, Texas](https://www.dentoncounty.gov/)** | **[Bar Card Intern - District Attorney - Criminal](https://jobright.ai/jobs/info/69c63daf83ea553769fd6ef6?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Mar 27 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[Intern-County Attorney's Office](https://jobright.ai/jobs/info/69c63b3383ea553769fd6cae?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Mar 27 |
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/69c66b38b773006330b7073e?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Mar 27 |
@@ -101,6 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Community College of Allegheny County](https://caremedicalbillinginc.com/)** | **[Assistant to the Vice President for Institutional Compliance (Reg FT)](https://jobright.ai/jobs/info/69c5e1f683ea553769fd0ee5?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Mar 26 |
 | **[First American](http://www.firstam.com)** | **[Graduate Underwriting Intern (Hybrid Opportunity)](https://jobright.ai/jobs/info/69c5db5483ea553769fd0c79?utm_campaign=1055&utm_source=git)** | Stamford, CT | Hybrid | Mar 26 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Intern  - Cyber Security Operations-3](https://jobright.ai/jobs/info/69c5cea083ea553769fd03a1?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 26 |
+| **[State of Florida](http://www.myflorida.com)** | **[INSURANCE ANALYST III - 43001399 1](https://jobright.ai/jobs/info/69c6d91883ea553769fde22c?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Mar 26 |
+| ↳ | **[REGULATORY SPECIALIST I - 42003996 (FOR INTERNAL AGENY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/69c6da4db773006330b73846?utm_campaign=1055&utm_source=git)** | North Port, FL | On Site | Mar 26 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern – Legal, Office of the General Counsel – Campus 2026](https://jobright.ai/jobs/info/69c5c90c1b5ad02887379978?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Mar 26 |
 | ↳ | **[Intern – Legal, Office of the General Counsel – Campus 2026](https://jobright.ai/jobs/info/69c5c46ce565c26a70014948?utm_campaign=1055&utm_source=git)** | US - VA, McLean | On Site | Mar 26 |
 | **[Montgomery County Government](https://mcgtn.org)** | **[Intern - Mental Health Court](https://jobright.ai/jobs/info/69c5c057e565c26a700148cc?utm_campaign=1055&utm_source=git)** | Clarksville, TN | On Site | Mar 26 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Flexera](https://www.flexera.com)** | **[Legal Intern](https://jobright.ai/jobs/info/696fcea882817106e976d836?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Inspire](https://inspirebrands.com)** | **[Supply Chain Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69c4e0f6d5a1016e98dc447f?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
 | **[ND Health and Human Services](https://www.hhs.nd.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/69c62728e565c26a7001ac41?utm_campaign=1055&utm_source=git)** | Grand Forks, ND | On Site | Mar 25 |
-| **[R&T Deposit Solutions](https://rnt.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c4bb26d5a1016e98dc113c?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
-| ↳ | **[Operational & Third-Party Risk Management Intern](https://jobright.ai/jobs/info/69c4bb1833eecf3107952516?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
-| **[Bechtel Plant Machinery, Inc. (BPMI)](http://bpmionline.com)** | **[Intern Contract Management Specialist / Buyer (January 2027)](https://jobright.ai/jobs/info/69c4af5f6f4f855eeda75844?utm_campaign=1055&utm_source=git)** | Monroeville, PA | On Site | Mar 25 |
-| **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Administrative Law Judge](https://jobright.ai/jobs/info/69c5babdaa3c2c1995e03b0f?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Mar 25 |
-| ↳ | **[Administrative Law Judge](https://jobright.ai/jobs/info/69c5b029aa9a29199e808caf?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Mar 25 |
-| **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[COLLEGE CO-OP MSD/OOD (LEGAL TEAM)](https://jobright.ai/jobs/info/69c481d933eecf310794dba6?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
