@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern - Risk Department (2026)](https://jobright.ai/jobs/info/69c6cd191818a24cd84c8a69?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Mar 27 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Legal Internship - 2026 MIP Summer Associate Program](https://jobright.ai/jobs/info/69c6c95783ea553769fdd610?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Mar 27 |
+| ↳ | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69c6c94e1818a24cd84c8643?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Mar 27 |
+| ↳ | **[Legal Internship - 2026 CLC Summer Associate Program](https://jobright.ai/jobs/info/69c6c92a1b5ad02887386d82?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Mar 27 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c6bd15b773006330b727bb?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ, US | On Site | Mar 27 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern - Risk Department (2026)](https://jobright.ai/jobs/info/69c6bbb01b5ad0288738699d?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Mar 27 |
-| ↳ | **[Fall Intern - Risk Department (2026)](https://jobright.ai/jobs/info/69c6bbb0e565c26a70022546?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Mar 27 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern - Risk Department (2026)](https://jobright.ai/jobs/info/69c6bbb0e565c26a70022546?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Mar 27 |
+| ↳ | **[Fall Intern - Risk Department (2026)](https://jobright.ai/jobs/info/69c6bbb01b5ad0288738699d?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Mar 27 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c6bb50aa3c2c1995e11b8c?utm_campaign=1055&utm_source=git)** | US-AZ-Scottsdale | On Site | Mar 27 |
 | **[Arxada](https://www.arxada.com/)** | **[Regulatory Digitalization and Compliance Summer Intern](https://jobright.ai/jobs/info/69c6baeeaa3c2c1995e11a31?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Mar 27 |
 | **[PNC](http://www.pnc.com)** | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c6b567b773006330b72144?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Mar 27 |
@@ -70,11 +74,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c6b5361818a24cd84c7c0e?utm_campaign=1055&utm_source=git)** | Farmers Branch, TX | On Site | Mar 27 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Business Law Intern](https://jobright.ai/jobs/info/69c6b38c1b5ad028873862a6?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 27 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69a76bee1fc3d83b78094174?utm_campaign=1055&utm_source=git)** | Hazelwood, MO | Hybrid | Mar 27 |
+| **[Mohawk College](http://www.mohawkcollege.ca/)** | **[Paralegal](https://jobright.ai/jobs/info/69c6cb19aa3c2c1995e1233d?utm_campaign=1055&utm_source=git)** | Hamilton, ON | Hybrid | Mar 27 |
 | **[Arxada](https://www.arxada.com/)** | **[Regulatory Digitalization and Compliance Summer Intern](https://jobright.ai/jobs/info/69c6a5b01818a24cd84c75b1?utm_campaign=1055&utm_source=git)** | US - Morristown, NJ | On Site | Mar 27 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[End to End Coordinator – New Graduate](https://jobright.ai/jobs/info/69c69e75aa3c2c1995e10e0d?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Mar 27 |
 | ↳ | **[Model Risk Governance & Validation Intern – Summer 2026](https://jobright.ai/jobs/info/6971580351f726477183a3dd?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Mar 27 |
-| **[PNC](http://www.pnc.com)** | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c6be581818a24cd84c82fe?utm_campaign=1055&utm_source=git)** | Rocky Mount, NC | On Site | Mar 27 |
-| ↳ | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c6bf3e1b5ad02887386a47?utm_campaign=1055&utm_source=git)** | Farmers Branch, TX | On Site | Mar 27 |
+| **[PNC](http://www.pnc.com)** | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c6bf3e1b5ad02887386a47?utm_campaign=1055&utm_source=git)** | Farmers Branch, TX | On Site | Mar 27 |
+| ↳ | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c6be581818a24cd84c82fe?utm_campaign=1055&utm_source=git)** | Rocky Mount, NC | On Site | Mar 27 |
 | **[Center for International Environmental Law (CIEL)](https://www.ciel.org)** | **[Fall 2026 Legal Internship (US)](https://jobright.ai/jobs/info/69c68e4daa3c2c1995e107c6?utm_campaign=1055&utm_source=git)** | REMOTE-United States | Remote | Mar 27 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Risk Management & Insurance Intern](https://jobright.ai/jobs/info/69a984057f9271426f8864b8?utm_campaign=1055&utm_source=git)** | Shreveport, LA | On Site | Mar 27 |
 | **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[Legal Internship](https://jobright.ai/jobs/info/69aa40011f59c56275e31a80?utm_campaign=1055&utm_source=git)** | Charleston, SC | On Site | Mar 27 |
@@ -89,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Mohave County](https://www.mohave.gov)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69c6511c83ea553769fd99d4?utm_campaign=1055&utm_source=git)** | Kingman, AZ | On Site | Mar 26 |
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Paralegal Specialist](https://jobright.ai/jobs/info/69c60e8f1b5ad0288737c307?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Mar 26 |
 | ↳ | **[Paralegal Specialist](https://jobright.ai/jobs/info/69c60e08aa9a29199e80cd9e?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Mar 26 |
-| ↳ | **[Paralegal Specialist](https://jobright.ai/jobs/info/69c631a483ea553769fd614c?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Mar 26 |
 | ↳ | **[Paralegal Specialist](https://jobright.ai/jobs/info/69c631cee565c26a7001b7c8?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Mar 26 |
+| ↳ | **[Paralegal Specialist](https://jobright.ai/jobs/info/69c631a483ea553769fd614c?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Mar 26 |
 | ↳ | **[Paralegal Specialist](https://jobright.ai/jobs/info/69c63214aa3c2c1995e0afd8?utm_campaign=1055&utm_source=git)** | Dulles, VA | On Site | Mar 26 |
 | **[Vytalize Health](https://vytalizehealth.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c5f7b6e565c26a70016f21?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Community College of Allegheny County](https://caremedicalbillinginc.com/)** | **[Assistant to the Vice President for Institutional Compliance (Reg FT)](https://jobright.ai/jobs/info/69c5e1f683ea553769fd0ee5?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Mar 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Administrative Law Judge](https://jobright.ai/jobs/info/69c5babdaa3c2c1995e03b0f?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Mar 25 |
 | ↳ | **[Administrative Law Judge](https://jobright.ai/jobs/info/69c5b029aa9a29199e808caf?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Mar 25 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[COLLEGE CO-OP MSD/OOD (LEGAL TEAM)](https://jobright.ai/jobs/info/69c481d933eecf310794dba6?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Mar 25 |
-| **[Vytalize Health](https://vytalizehealth.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c5b51aaa3c2c1995e032cf?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 25 |
-| **[Veregy](https://www.veregy.com/)** | **[Intern - Process and Policy Aggregation](https://jobright.ai/jobs/info/69c47232d5a1016e98dbad45?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Mar 25 |
-| **[Legal Assistance Of Western New York, Inc. (LawNY)](https://www.lawny.org)** | **[Summer Fellowship - Rochester, NY](https://jobright.ai/jobs/info/69c48d226f4f855eeda71fce?utm_campaign=1055&utm_source=git)** | Rochester, NY | On Site | Mar 25 |
-| **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - Legal](https://jobright.ai/jobs/info/69c46c4fd5a1016e98dba60c?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Mar 25 |
-| **[PenAir Credit Union](http://penair.org)** | **[Fraud Assistant Intern](https://jobright.ai/jobs/info/69c489c833eecf310794e2da?utm_campaign=1055&utm_source=git)** | Pensacola, FL, US | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
