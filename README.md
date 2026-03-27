@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vytalize Health](https://vytalizehealth.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c5f7b6e565c26a70016f21?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 26 |
+| ↳ | **[Regulatory Intern](https://jobright.ai/jobs/info/69a24e06b600907a962897b7?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 26 |
+| **[Parkland Corporation](https://www.parkland.ca/)** | **[Property Administration Intern](https://jobright.ai/jobs/info/69c5ef0583ea553769fd1526?utm_campaign=1055&utm_source=git)** | Calgary, AB | On Site | Mar 26 |
+| **[Community College of Allegheny County](https://caremedicalbillinginc.com/)** | **[Assistant to the Vice President for Institutional Compliance (Reg FT)](https://jobright.ai/jobs/info/69c5e1f683ea553769fd0ee5?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Mar 26 |
 | **[First American](http://www.firstam.com)** | **[Graduate Underwriting Intern (Hybrid Opportunity)](https://jobright.ai/jobs/info/69c5db5483ea553769fd0c79?utm_campaign=1055&utm_source=git)** | Stamford, CT | Hybrid | Mar 26 |
 | **[Texas Alcoholic Beverage Commission](https://www.tabc.texas.gov/)** | **[Internship Opportunity!! Legal Intern (Law Clerk Session #1)](https://jobright.ai/jobs/info/69c5d6251818a24cd84bbaeb?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Mar 26 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Intern  - Cyber Security Operations-3](https://jobright.ai/jobs/info/69c5cea083ea553769fd03a1?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 26 |
@@ -79,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/69c59af41b5ad02887376a76?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Mar 26 |
 | **[SBA Communications](http://www.sbasite.com)** | **[Summer Internship 2026 – IT Systems Audit & SOX Compliance](https://jobright.ai/jobs/info/69ae5dae3de6821aaccdb49d?utm_campaign=1055&utm_source=git)** | Boca Raton, FL | On Site | Mar 26 |
 | **[autoMHatic Financial](https://www.automhatic.com)** | **[Licensing and Regulatory Reporting Compliance Manager](https://jobright.ai/jobs/info/69c57b111818a24cd84b5ee3?utm_campaign=1055&utm_source=git)** | Wayne, PA | Hybrid | Mar 26 |
+| **[State of Oklahoma](https://oklahoma.gov/)** | **[Legal Intern](https://jobright.ai/jobs/info/69c5f73daa9a29199e80c1f2?utm_campaign=1055&utm_source=git)** | Oklahoma County | On Site | Mar 26 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69b4bd703b74eb1e2c821052?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Remote | Mar 26 |
 | ↳ | **[Product and Commercial Legal Intern -- Summer 2026](https://jobright.ai/jobs/info/69b4bd56569738374139988b?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Remote | Mar 26 |
 | **[Kahana Feld](https://kahanafeld.com/)** | **[Houston Summer Associate 2026 - 2L (Class of 2027)](https://jobright.ai/jobs/info/69c32426ec22f8310ab15020?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Mar 26 |
@@ -114,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[R&T Deposit Solutions](https://rnt.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c4bb26d5a1016e98dc113c?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
 | ↳ | **[Operational & Third-Party Risk Management Intern](https://jobright.ai/jobs/info/69c4bb1833eecf3107952516?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
 | **[Bechtel Plant Machinery, Inc. (BPMI)](http://bpmionline.com)** | **[Intern Contract Management Specialist / Buyer (January 2027)](https://jobright.ai/jobs/info/69c4af5f6f4f855eeda75844?utm_campaign=1055&utm_source=git)** | Monroeville, PA | On Site | Mar 25 |
+| **[Centurion Land Title, Inc.](https://centurionlandtitle.com)** | **[Escrow & Title Intern - Summer 2026](https://jobright.ai/jobs/info/69c5edc01818a24cd84bc5ff?utm_campaign=1055&utm_source=git)** | Carmel, IN | On Site | Mar 25 |
 | **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Administrative Law Judge](https://jobright.ai/jobs/info/69c5babdaa3c2c1995e03b0f?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Mar 25 |
 | ↳ | **[Administrative Law Judge](https://jobright.ai/jobs/info/69c5b029aa9a29199e808caf?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Mar 25 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[COLLEGE CO-OP MSD/OOD (LEGAL TEAM)](https://jobright.ai/jobs/info/69c481d933eecf310794dba6?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Mar 25 |
@@ -133,14 +139,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c44ae36f4f855eeda6bd58?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 25 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c44ada6f4f855eeda6bd4a?utm_campaign=1055&utm_source=git)** | Roseville, MN | Hybrid | Mar 25 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c44ad06f4f855eeda6bd3b?utm_campaign=1055&utm_source=git)** | Fresno, CA | Hybrid | Mar 25 |
-| **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - Legal](https://jobright.ai/jobs/info/69c46da86f4f855eeda6fabf?utm_campaign=1055&utm_source=git)** | McLean, VA, US | On Site | Mar 25 |
-| ↳ | **[Summer Intern 2026 - Legal](https://jobright.ai/jobs/info/69c46bfbd5a1016e98dba58e?utm_campaign=1055&utm_source=git)** | US-VA-McLean | On Site | Mar 25 |
+| **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - Legal](https://jobright.ai/jobs/info/69c46bfbd5a1016e98dba58e?utm_campaign=1055&utm_source=git)** | US-VA-McLean | On Site | Mar 25 |
+| ↳ | **[Summer Intern 2026 - Legal](https://jobright.ai/jobs/info/69c46da86f4f855eeda6fabf?utm_campaign=1055&utm_source=git)** | McLean, VA, US | On Site | Mar 25 |
 | **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c437ac33eecf31079462e8?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Mar 25 |
 | **[Mediaocean](http://www.mediaocean.com)** | **[Corporate Social Responsibility Intern](https://jobright.ai/jobs/info/69c437a533eecf31079462d7?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 25 |
-| **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c3b?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Mar 25 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c39?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Mar 25 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c3d?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 25 |
+| **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c3d?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 25 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c3a?utm_campaign=1055&utm_source=git)** | Johnston, RI | Hybrid | Mar 25 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c3b?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Mar 25 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c436186f4f855eeda69c39?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Mar 25 |
 | **[SEI](http://www.seic.com)** | **[2026 Intern - IMS Reconciliation Intern](https://jobright.ai/jobs/info/69c435f533eecf3107945e48?utm_campaign=1055&utm_source=git)** | Oaks, PA | Hybrid | Mar 25 |
 | **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c435d3d5a1016e98db4af8?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Mar 25 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c435d2d5a1016e98db4aee?utm_campaign=1055&utm_source=git)** | Voorhees, NJ | Hybrid | Mar 25 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[A. O. Smith Corporation](http://www.aosmithindia.com)** | **[Risk Management Intern / Ashland City, TN](https://jobright.ai/jobs/info/69c427846f4f855eeda68205?utm_campaign=1055&utm_source=git)** | Ashland City, TN | On Site | Mar 25 |
 | **[CAPREIT](https://www.capreit.ca)** | **[Legal Student Intern (Summer 2026)](https://jobright.ai/jobs/info/69c4517b6f4f855eeda6c5d9?utm_campaign=1055&utm_source=git)** | CA-ON-Toronto | Hybrid | Mar 25 |
 | ↳ | **[Legal Student Intern (Summer 2026)](https://jobright.ai/jobs/info/69c4518233eecf3107948b10?utm_campaign=1055&utm_source=git)** | Toronto, ON, CA | Hybrid | Mar 25 |
-| **[KANTER Advokatbyrå](https://kntr.se)** | **[Juriststudent till KANTER Advokatbyrå](https://jobright.ai/jobs/info/69c5163cf7bed33dee482f60?utm_campaign=1055&utm_source=git)** | Stockholm, NY | On Site | Mar 25 |
-| **[Mediaocean](http://www.mediaocean.com)** | **[Corporate Social Responsibility Intern](https://jobright.ai/jobs/info/69c4347a6f4f855eeda69877?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | On Site | Mar 25 |
-| **[Inspire](https://inspirebrands.com)** | **[Supply Chain Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69c436226f4f855eeda69c84?utm_campaign=1055&utm_source=git)** | Atlanta Support Center | On Site | Mar 25 |
-| **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/69a7670576bbe83d3afac9e0?utm_campaign=1055&utm_source=git)** | Colorado Springs, CO | On Site | Mar 25 |
-| **[California State University-San Bernardino](https://csusb.edu)** | **[Equity & Compliance Coordinator (Confidential Administrative Support II), Human Resources Division](https://jobright.ai/jobs/info/698bd1dec5761b521a9b60d4?utm_campaign=1055&utm_source=git)** | San Bernardino, CA | On Site | Mar 25 |
-| **[Agile Legal](https://agilelegal.com/)** | **[Legal Operations Summer Internship](https://jobright.ai/jobs/info/69c40a416f4f855eeda661c3?utm_campaign=1055&utm_source=git)** | Middletown, DE | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
