@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c6bd15b773006330b727bb?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ, US | On Site | Mar 27 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern - Risk Department (2026)](https://jobright.ai/jobs/info/69c6bbb0e565c26a70022546?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Mar 27 |
+| ↳ | **[Fall Intern - Risk Department (2026)](https://jobright.ai/jobs/info/69c6bbb01b5ad0288738699d?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Mar 27 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c6bb50aa3c2c1995e11b8c?utm_campaign=1055&utm_source=git)** | US-AZ-Scottsdale | On Site | Mar 27 |
+| **[Arxada](https://www.arxada.com/)** | **[Regulatory Digitalization and Compliance Summer Intern](https://jobright.ai/jobs/info/69c6baeeaa3c2c1995e11a31?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Mar 27 |
+| **[PNC](http://www.pnc.com)** | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c6b567b773006330b72144?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Mar 27 |
+| ↳ | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c6b55eb773006330b72140?utm_campaign=1055&utm_source=git)** | Rocky Mount, NC | On Site | Mar 27 |
+| ↳ | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c6b558b773006330b72138?utm_campaign=1055&utm_source=git)** | Rocky Mount, NC | On Site | Mar 27 |
+| ↳ | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c6b5501b5ad02887386318?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Mar 27 |
+| ↳ | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c6b546e565c26a70021f63?utm_campaign=1055&utm_source=git)** | Farmers Branch, TX | On Site | Mar 27 |
+| ↳ | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c6b5361818a24cd84c7c0e?utm_campaign=1055&utm_source=git)** | Farmers Branch, TX | On Site | Mar 27 |
+| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Business Law Intern](https://jobright.ai/jobs/info/69c6b38c1b5ad028873862a6?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 27 |
+| **[Par Health](https://parsterileproducts.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69a76bee1fc3d83b78094174?utm_campaign=1055&utm_source=git)** | Hazelwood, MO | Hybrid | Mar 27 |
 | **[Arxada](https://www.arxada.com/)** | **[Regulatory Digitalization and Compliance Summer Intern](https://jobright.ai/jobs/info/69c6a5b01818a24cd84c75b1?utm_campaign=1055&utm_source=git)** | US - Morristown, NJ | On Site | Mar 27 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[End to End Coordinator – New Graduate](https://jobright.ai/jobs/info/69c69e75aa3c2c1995e10e0d?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Mar 27 |
 | ↳ | **[Model Risk Governance & Validation Intern – Summer 2026](https://jobright.ai/jobs/info/6971580351f726477183a3dd?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Mar 27 |
@@ -66,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Vytalize Health](https://vytalizehealth.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/69c663c11818a24cd84c5def?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Network Health WI](https://networkhealth.com)** | **[Legal Intern - Summer 2026 (part-time)](https://jobright.ai/jobs/info/69aa3fe19ca4e908ec6596f4?utm_campaign=1055&utm_source=git)** | Menasha, WI | Hybrid | Mar 27 |
 | **[PNC](http://www.pnc.com)** | **[Senior AML Sanctions Advisor](https://jobright.ai/jobs/info/69c6657daa3c2c1995e0fa28?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Mar 27 |
-| ↳ | **[Senior AML Sanctions Advisor](https://jobright.ai/jobs/info/69c665cae565c26a70020355?utm_campaign=1055&utm_source=git)** | East Brunswick, NJ | On Site | Mar 27 |
 | **[Denton County, Texas](https://www.dentoncounty.gov/)** | **[Bar Card Intern - District Attorney - Criminal](https://jobright.ai/jobs/info/69c63daf83ea553769fd6ef6?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Mar 27 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[Intern-County Attorney's Office](https://jobright.ai/jobs/info/69c63b3383ea553769fd6cae?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Mar 27 |
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/69c66b38b773006330b7073e?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Mar 27 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PenAir Credit Union](http://penair.org)** | **[Fraud Assistant Intern](https://jobright.ai/jobs/info/69c489c833eecf310794e2da?utm_campaign=1055&utm_source=git)** | Pensacola, FL, US | On Site | Mar 25 |
 | **[LTS Nasal and Sterile Drug Products](https://www.ltslohmann.com/en/)** | **[Occupational Health Intern](https://jobright.ai/jobs/info/69c5355baa9a29199e801c7e?utm_campaign=1055&utm_source=git)** | Lakewood, NJ | Hybrid | Mar 25 |
 | **[BrandSafway](https://www.brandsafway.com/)** | **[Intern, Legal - USA - Illinois - Remote - R26-03077](https://jobright.ai/jobs/info/69c456b26f4f855eeda6cb75?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 25 |
-| **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c44c9fd5a1016e98db6ead?utm_campaign=1055&utm_source=git)** | Miami, FL | Hybrid | Mar 25 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c44b5633eecf310794834c?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Mar 25 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c44b5033eecf310794832e?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Mar 25 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c44b3d33eecf3107948307?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c44b246f4f855eeda6bde8?utm_campaign=1055&utm_source=git)** | Buffalo, NY | Hybrid | Mar 25 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c44b0b33eecf3107948295?utm_campaign=1055&utm_source=git)** | San Antonio, TX | Hybrid | Mar 25 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c44ae36f4f855eeda6bd58?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 25 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c44ada6f4f855eeda6bd4a?utm_campaign=1055&utm_source=git)** | Roseville, MN | Hybrid | Mar 25 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c44ad06f4f855eeda6bd3b?utm_campaign=1055&utm_source=git)** | Fresno, CA | Hybrid | Mar 25 |
-| **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - Legal](https://jobright.ai/jobs/info/69c46bfbd5a1016e98dba58e?utm_campaign=1055&utm_source=git)** | US-VA-McLean | On Site | Mar 25 |
-| ↳ | **[Summer Intern 2026 - Legal](https://jobright.ai/jobs/info/69c46da86f4f855eeda6fabf?utm_campaign=1055&utm_source=git)** | McLean, VA, US | On Site | Mar 25 |
-| **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69c437ac33eecf31079462e8?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
