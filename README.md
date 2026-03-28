@@ -64,8 +64,8 @@ For a complete list, click the following sortable link below:
 | **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc34?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc35?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c80f83ea553769fe6960?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Mar 28 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900fa?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900f9?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Mar 28 |
+| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900fa?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c72faa3c2c1995e1b22a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c5421b5ad0288738fdc9?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c539aa3c2c1995e1af57?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Mar 28 |
@@ -88,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Managing Paralegal, Detained Adult Program](https://jobright.ai/jobs/info/69c7101b83ea553769fe04a9?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Mar 27 |
 | **[Corpay](https://payments.corpay.com)** | **[Corporate Dealing Internship](https://jobright.ai/jobs/info/69c70f531b5ad02887389bf2?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Mar 27 |
 | **[PNC](http://www.pnc.com)** | **[Commercial Transaction Coordinator III](https://jobright.ai/jobs/info/69c70c9c83ea553769fe002a?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Mar 27 |
-| ↳ | **[Commercial Transaction Coordinator III](https://jobright.ai/jobs/info/69c70c64b773006330b75565?utm_campaign=1055&utm_source=git)** | United, PA | Hybrid | Mar 27 |
 | **[National Alliance for Care at Home](https://www.nhpco.org/)** | **[Policy & Regulatory Affairs Intern](https://jobright.ai/jobs/info/69c70629e565c26a700251fc?utm_campaign=1055&utm_source=git)** | Alexandria, VA | Hybrid | Mar 27 |
 | **[Technip Energies](https://www.ten.com/)** | **[Reju Intern](https://jobright.ai/jobs/info/69c8040b83ea553769fe7f0f?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Mar 27 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Workforce Development Intern - Compliance](https://jobright.ai/jobs/info/69c702fe1b5ad028873894f3?utm_campaign=1055&utm_source=git)** | Abilene, TX | On Site | Mar 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[First American](http://www.firstam.com)** | **[Graduate Underwriting Intern (Hybrid Opportunity)](https://jobright.ai/jobs/info/69c5a9d283ea553769fce033?utm_campaign=1055&utm_source=git)** | USA, Connecticut, Stamford | Hybrid | Mar 26 |
 | **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[Internship  FIU BSA Intern](https://jobright.ai/jobs/info/69c58fd683ea553769fccc88?utm_campaign=1055&utm_source=git)** | Oneonta, NY | On Site | Mar 26 |
 | **[Keenova](https://www.keenova.com)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/699f399894ef206f184e5552?utm_campaign=1055&utm_source=git)** | Malvern, PA | Hybrid | Mar 26 |
+| **[Pinal County](https://www.pinalcountyaz.gov)** | **[Law Student Intern - Registry (At-Will)](https://jobright.ai/jobs/info/69c5869a1b5ad02887375f8b?utm_campaign=1055&utm_source=git)** | Florence, AZ | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
