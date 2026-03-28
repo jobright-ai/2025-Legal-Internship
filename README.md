@@ -93,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Internship - 2026 CLC Summer Associate Program](https://jobright.ai/jobs/info/69c6c92a1b5ad02887386d82?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Mar 27 |
 | **[Midrex Technologies, Inc.](https://www.midrex.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6980b5a249964d25b5e37e2e?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 27 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c6bd15b773006330b727bb?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ, US | On Site | Mar 27 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern - Risk Department (2026)](https://jobright.ai/jobs/info/69c6bbb0e565c26a70022546?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Mar 27 |
-| ↳ | **[Fall Intern - Risk Department (2026)](https://jobright.ai/jobs/info/69c6bbb01b5ad0288738699d?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Mar 27 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern - Risk Department (2026)](https://jobright.ai/jobs/info/69c6bbb01b5ad0288738699d?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Mar 27 |
+| ↳ | **[Fall Intern - Risk Department (2026)](https://jobright.ai/jobs/info/69c6bbb0e565c26a70022546?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Mar 27 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c6bb50aa3c2c1995e11b8c?utm_campaign=1055&utm_source=git)** | US-AZ-Scottsdale | On Site | Mar 27 |
 | **[Arxada](https://www.arxada.com/)** | **[Regulatory Digitalization and Compliance Summer Intern](https://jobright.ai/jobs/info/69c6baeeaa3c2c1995e11a31?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Mar 27 |
 | **[PNC](http://www.pnc.com)** | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c6b567b773006330b72144?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Mar 27 |
@@ -122,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/69c66b38b773006330b7073e?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Mar 27 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Intellectual Property Exchange Intern](https://jobright.ai/jobs/info/69c62793e565c26a7001acbd?utm_campaign=1055&utm_source=git)** | Auburn, AL | On Site | Mar 26 |
 | **[Farmers National Bank of Canfield](https://www.farmersbankgroup.com/)** | **[Intern - Trust & Wealth Management](https://jobright.ai/jobs/info/69c6260c1818a24cd84c078f?utm_campaign=1055&utm_source=git)** | Youngstown, OH | On Site | Mar 26 |
-| **[Mohave County](https://www.mohave.gov)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69c6511c83ea553769fd99d4?utm_campaign=1055&utm_source=git)** | Kingman, AZ | On Site | Mar 26 |
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Paralegal Specialist](https://jobright.ai/jobs/info/69c60e8f1b5ad0288737c307?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Mar 26 |
 | ↳ | **[Paralegal Specialist](https://jobright.ai/jobs/info/69c60e08aa9a29199e80cd9e?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Mar 26 |
 | ↳ | **[Paralegal Specialist](https://jobright.ai/jobs/info/69c631cee565c26a7001b7c8?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Mar 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[2026 Summer Internship- Legal](https://jobright.ai/jobs/info/69abdf017e1fab39d383a335?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Mar 26 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[System Protection Compliance Intern](https://jobright.ai/jobs/info/69c569001b5ad02887373452?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Mar 26 |
 | **[Temenos](http://www.temenos.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c5655faa3c2c1995dfe6a4?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Mar 26 |
+| **[Accuray](http://www.accuray.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69c55f4ce565c26a7000ec6f?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
