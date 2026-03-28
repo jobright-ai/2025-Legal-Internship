@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c7175d83ea553769fe0808?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
+| **[Corpay](https://payments.corpay.com)** | **[Corporate Dealing Internship](https://jobright.ai/jobs/info/69c715091818a24cd84cb6d0?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Mar 27 |
+| **[NorthWestern Energy](http://northwesternenergy.com)** | **[Intern Hydro License Compliance](https://jobright.ai/jobs/info/69c711ccaa3c2c1995e14fd8?utm_campaign=1055&utm_source=git)** | Helena, MT | On Site | Mar 27 |
+| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Managing Paralegal, Detained Adult Program](https://jobright.ai/jobs/info/69c7101b83ea553769fe04a9?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Mar 27 |
+| **[Corpay](https://payments.corpay.com)** | **[Corporate Dealing Internship](https://jobright.ai/jobs/info/69c70f531b5ad02887389bf2?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Mar 27 |
 | **[PNC](http://www.pnc.com)** | **[Commercial Transaction Coordinator III](https://jobright.ai/jobs/info/69c70c9c83ea553769fe002a?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Mar 27 |
 | ↳ | **[Commercial Transaction Coordinator III](https://jobright.ai/jobs/info/69c70c64b773006330b75565?utm_campaign=1055&utm_source=git)** | United, PA | Hybrid | Mar 27 |
 | ↳ | **[Commercial Transaction Coordinator III](https://jobright.ai/jobs/info/69c70c43aa3c2c1995e14a37?utm_campaign=1055&utm_source=git)** | Ohio, United States | Hybrid | Mar 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kahana Feld](https://kahanafeld.com/)** | **[Houston Summer Associate 2026 - 2L (Class of 2027)](https://jobright.ai/jobs/info/69c32426ec22f8310ab15020?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Mar 26 |
 | **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[2026 Summer Internship- Legal](https://jobright.ai/jobs/info/69abdf017e1fab39d383a335?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Mar 26 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[System Protection Compliance Intern](https://jobright.ai/jobs/info/69c569001b5ad02887373452?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Mar 26 |
-| **[Temenos](http://www.temenos.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c5655faa3c2c1995dfe6a4?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Mar 26 |
-| **[Accuray](http://www.accuray.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69c55f4ce565c26a7000ec6f?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Mar 26 |
-| **[Temenos](http://www.temenos.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c558af1b5ad02887372807?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 26 |
-| **[SCOR](https://www.scor.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c5546583ea553769fc8b4d?utm_campaign=1055&utm_source=git)** | 28 Liberty Street, New York, NY, 10005, US | Hybrid | Mar 26 |
-| **[Temenos](http://www.temenos.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c5544983ea553769fc8ad1?utm_campaign=1055&utm_source=git)** | Philadelphia | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
