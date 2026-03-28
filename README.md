@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Swiss Finance Institute](https://www.swissfinanceinstitute.ai/)** | **[Intellectual Property Litigation Intern](https://jobright.ai/jobs/info/69828b0f348f733a5c357427?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Swed Fintech AB](swedfintech.com)** | **[Securities Litigation Internship](https://jobright.ai/jobs/info/697f9e27abff4c399a9e341a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Mar 28 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Mar 28 |
 | **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc35?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc34?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c80f83ea553769fe6960?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Mar 28 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900f9?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900fa?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
+| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900f9?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c72faa3c2c1995e1b22a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c5421b5ad0288738fdc9?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c539aa3c2c1995e1af57?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Mar 28 |
@@ -91,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[PNC](http://www.pnc.com)** | **[Commercial Transaction Coordinator III](https://jobright.ai/jobs/info/69c70c9c83ea553769fe002a?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Mar 27 |
 | ↳ | **[Commercial Transaction Coordinator III](https://jobright.ai/jobs/info/69c70c64b773006330b75565?utm_campaign=1055&utm_source=git)** | United, PA | Hybrid | Mar 27 |
 | ↳ | **[Commercial Transaction Coordinator III](https://jobright.ai/jobs/info/69c70c37aa3c2c1995e14a32?utm_campaign=1055&utm_source=git)** | Texas, United States | Hybrid | Mar 27 |
-| ↳ | **[Commercial Transaction Coordinator III](https://jobright.ai/jobs/info/69c70c231b5ad02887389805?utm_campaign=1055&utm_source=git)** | Colorado, United States | Hybrid | Mar 27 |
 | **[National Alliance for Care at Home](https://www.nhpco.org/)** | **[Policy & Regulatory Affairs Intern](https://jobright.ai/jobs/info/69c70629e565c26a700251fc?utm_campaign=1055&utm_source=git)** | Alexandria, VA | Hybrid | Mar 27 |
 | **[Technip Energies](https://www.ten.com/)** | **[Reju Intern](https://jobright.ai/jobs/info/69c8040b83ea553769fe7f0f?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Mar 27 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Workforce Development Intern - Compliance](https://jobright.ai/jobs/info/69c702fe1b5ad028873894f3?utm_campaign=1055&utm_source=git)** | Abilene, TX | On Site | Mar 27 |
@@ -121,7 +121,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall Intern - Risk Department (2026)](https://jobright.ai/jobs/info/69c6bbb0e565c26a70022546?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Mar 27 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c6bb50aa3c2c1995e11b8c?utm_campaign=1055&utm_source=git)** | US-AZ-Scottsdale | On Site | Mar 27 |
 | **[Arxada](https://www.arxada.com/)** | **[Regulatory Digitalization and Compliance Summer Intern](https://jobright.ai/jobs/info/69c6baeeaa3c2c1995e11a31?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Mar 27 |
-| **[PNC](http://www.pnc.com)** | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c6b5501b5ad02887386318?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Mar 27 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Business Law Intern](https://jobright.ai/jobs/info/69c6b38c1b5ad028873862a6?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 27 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69a76bee1fc3d83b78094174?utm_campaign=1055&utm_source=git)** | Hazelwood, MO | Hybrid | Mar 27 |
 | **[Mohawk College](http://www.mohawkcollege.ca/)** | **[Paralegal](https://jobright.ai/jobs/info/69c6cb19aa3c2c1995e1233d?utm_campaign=1055&utm_source=git)** | Hamilton, ON | Hybrid | Mar 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern (Unpaid)](https://jobright.ai/jobs/info/69bca5784828227293fe8d7b?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | Hybrid | Mar 26 |
 | **[New York State Justice Center for the Protection of People with Special Needs](http://www.justicecenter.ny.gov)** | **[Student Assistant (Legal Intern)](https://jobright.ai/jobs/info/69c5ab97aa3c2c1995e02e71?utm_campaign=1055&utm_source=git)** | Delmar, NY | On Site | Mar 26 |
 | **[Farmers National Bank of Canfield](https://www.farmersbankgroup.com/)** | **[Intern - Trust & Wealth Management](https://jobright.ai/jobs/info/69c5aa0fe565c26a700136ae?utm_campaign=1055&utm_source=git)** | Boardman Twp, Ohio, United States | On Site | Mar 26 |
+| **[Leidos](https://www.leidos.com)** | **[Global Trade Intern](https://jobright.ai/jobs/info/69c5a9f21818a24cd84b92a0?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
