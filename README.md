@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/6998f365ce78e77b4fdd8731?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Mar 28 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/6972969f4ccbf64f8df290a8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 28 |
+| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69a5f4940da45516f16ec0ef?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 28 |
+| **[Precisely](https://www.precisely.com)** | **[Corporate/Compliance Legal Intern](https://jobright.ai/jobs/info/69aafd7b142d5b4265fc3f1f?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Mohave County](https://www.mohave.gov)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69c775d21b5ad0288738d02a?utm_campaign=1055&utm_source=git)** | Kingman, AZ | On Site | Mar 27 |
 | **[Office Depot](http://officedepot.com)** | **[2026 Summer Intern: Regulatory Affairs](https://jobright.ai/jobs/info/69c76821aa3c2c1995e17d23?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
 | **[Prosecuting Attorneys Association of Michigan](https://michiganprosecutor.org/)** | **[Staff Attorney 15/16 – Child Support: Financial Crimes Division – Attorney General’s Office](https://jobright.ai/jobs/info/69c73ff31b5ad0288738b5b7?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Mar 27 |
@@ -97,12 +101,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Internship - 2026 CLC Summer Associate Program](https://jobright.ai/jobs/info/69c6c92a1b5ad02887386d82?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Mar 27 |
 | **[Midrex Technologies, Inc.](https://www.midrex.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6980b5a249964d25b5e37e2e?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 27 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c6bd15b773006330b727bb?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ, US | On Site | Mar 27 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern - Risk Department (2026)](https://jobright.ai/jobs/info/69c6bbb01b5ad0288738699d?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Mar 27 |
-| ↳ | **[Fall Intern - Risk Department (2026)](https://jobright.ai/jobs/info/69c6bbb0e565c26a70022546?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Mar 27 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern - Risk Department (2026)](https://jobright.ai/jobs/info/69c6bbb0e565c26a70022546?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Mar 27 |
+| ↳ | **[Fall Intern - Risk Department (2026)](https://jobright.ai/jobs/info/69c6bbb01b5ad0288738699d?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Mar 27 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c6bb50aa3c2c1995e11b8c?utm_campaign=1055&utm_source=git)** | US-AZ-Scottsdale | On Site | Mar 27 |
 | **[Arxada](https://www.arxada.com/)** | **[Regulatory Digitalization and Compliance Summer Intern](https://jobright.ai/jobs/info/69c6baeeaa3c2c1995e11a31?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Mar 27 |
-| **[PNC](http://www.pnc.com)** | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c6b558b773006330b72138?utm_campaign=1055&utm_source=git)** | Rocky Mount, NC | On Site | Mar 27 |
-| ↳ | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c6b5501b5ad02887386318?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Mar 27 |
+| **[PNC](http://www.pnc.com)** | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c6b5501b5ad02887386318?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Mar 27 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Business Law Intern](https://jobright.ai/jobs/info/69c6b38c1b5ad028873862a6?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Mar 27 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69a76bee1fc3d83b78094174?utm_campaign=1055&utm_source=git)** | Hazelwood, MO | Hybrid | Mar 27 |
 | **[Mohawk College](http://www.mohawkcollege.ca/)** | **[Paralegal](https://jobright.ai/jobs/info/69c6cb19aa3c2c1995e1233d?utm_campaign=1055&utm_source=git)** | Hamilton, ON | Hybrid | Mar 27 |
@@ -117,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[PNC](http://www.pnc.com)** | **[Senior AML Sanctions Advisor](https://jobright.ai/jobs/info/69c70c32aa3c2c1995e14a30?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Mar 27 |
 | ↳ | **[Senior AML Sanctions Advisor](https://jobright.ai/jobs/info/69c70bfae565c26a70025486?utm_campaign=1055&utm_source=git)** | East Brunswick, NJ | On Site | Mar 27 |
 | **[Network Health WI](https://networkhealth.com)** | **[Legal Intern - Summer 2026 (part-time)](https://jobright.ai/jobs/info/69aa3fe19ca4e908ec6596f4?utm_campaign=1055&utm_source=git)** | Menasha, WI | Hybrid | Mar 27 |
+| **[Illinois Power Agency](ipa.illinois.gov)** | **[ASSOCIATE LEGAL COUNSEL - ILLINOIS SHINES](https://jobright.ai/jobs/info/69c7a5611b5ad0288738ef6b?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 27 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[Intern-County Attorney's Office](https://jobright.ai/jobs/info/69c63b3383ea553769fd6cae?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Mar 27 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Intellectual Property Exchange Intern](https://jobright.ai/jobs/info/69c62793e565c26a7001acbd?utm_campaign=1055&utm_source=git)** | Auburn, AL | On Site | Mar 26 |
 | **[Farmers National Bank of Canfield](https://www.farmersbankgroup.com/)** | **[Intern - Trust & Wealth Management](https://jobright.ai/jobs/info/69c6260c1818a24cd84c078f?utm_campaign=1055&utm_source=git)** | Youngstown, OH | On Site | Mar 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kahana Feld](https://kahanafeld.com/)** | **[Houston Summer Associate 2026 - 2L (Class of 2027)](https://jobright.ai/jobs/info/69c32426ec22f8310ab15020?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Mar 26 |
 | **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[2026 Summer Internship- Legal](https://jobright.ai/jobs/info/69abdf017e1fab39d383a335?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Mar 26 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[System Protection Compliance Intern](https://jobright.ai/jobs/info/69c569001b5ad02887373452?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Mar 26 |
-| **[Temenos](http://www.temenos.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c5655faa3c2c1995dfe6a4?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Mar 26 |
-| **[Accuray](http://www.accuray.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69c55f4ce565c26a7000ec6f?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | Mar 26 |
-| **[Temenos](http://www.temenos.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c558af1b5ad02887372807?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 26 |
-| **[SCOR](https://www.scor.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c5546583ea553769fc8b4d?utm_campaign=1055&utm_source=git)** | 28 Liberty Street, New York, NY, 10005, US | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
