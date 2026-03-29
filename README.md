@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Bothell](https://www.bothellwa.gov/)** | **[Rule 9 Legal Intern](https://jobright.ai/jobs/info/69c8fddb1b5ad0288739761b?utm_campaign=1055&utm_source=git)** | Bothell, WA | On Site | Mar 29 |
+| **[Mohave County](https://www.mohave.gov)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69c8fae483ea553769fedeb6?utm_campaign=1055&utm_source=git)** | Kingman, AZ | On Site | Mar 29 |
+| **[AltaLink](http://altalink.ca)** | **[Director, Compliance Operations](https://jobright.ai/jobs/info/69c8f877e565c26a70032f7c?utm_campaign=1055&utm_source=git)** | Parkland County, AB | On Site | Mar 29 |
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/69c8e8c7aa3c2c1995e219de?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Mar 29 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern (Unpaid)](https://jobright.ai/jobs/info/69bca5784828227293fe8d7b?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | Hybrid | Mar 28 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Graduate Underwriting Intern (Hybrid Opportunity)](https://jobright.ai/jobs/info/69c84780b773006330b7ea74?utm_campaign=1055&utm_source=git)** | Stamford, CT | Hybrid | Mar 28 |
@@ -66,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | Mar 28 |
 | **[Swed Fintech AB](swedfintech.com)** | **[Securities Litigation Internship](https://jobright.ai/jobs/info/697f9e27abff4c399a9e341a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Mar 28 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Mar 28 |
-| **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc34?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Mar 28 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc35?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 28 |
+| **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc35?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 28 |
+| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc34?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c80f83ea553769fe6960?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900f9?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900fa?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
@@ -84,8 +87,9 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/6972969f4ccbf64f8df290a8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 28 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69a5f4940da45516f16ec0ef?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 28 |
 | **[Precisely](https://www.precisely.com)** | **[Corporate/Compliance Legal Intern](https://jobright.ai/jobs/info/69aafd7b142d5b4265fc3f1f?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 28 |
-| **[PNC](http://www.pnc.com)** | **[Commercial Transaction Coordinator III](https://jobright.ai/jobs/info/69c8e5caaa3c2c1995e219ba?utm_campaign=1055&utm_source=git)** | Texas, United States | Hybrid | Mar 28 |
-| ↳ | **[Commercial Transaction Coordinator III](https://jobright.ai/jobs/info/69c8e5caaa3c2c1995e219b9?utm_campaign=1055&utm_source=git)** | Ohio, United States | Hybrid | Mar 28 |
+| **[PNC](http://www.pnc.com)** | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c8fb0eb773006330b834ae?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Mar 28 |
+| ↳ | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c8f0d61b5ad028873970f7?utm_campaign=1055&utm_source=git)** | Farmers Branch, TX | On Site | Mar 28 |
+| ↳ | **[Commercial Transaction Coordinator III](https://jobright.ai/jobs/info/69c8e5caaa3c2c1995e219ba?utm_campaign=1055&utm_source=git)** | Texas, United States | Hybrid | Mar 28 |
 | **[Mohave County](https://www.mohave.gov)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69c775d21b5ad0288738d02a?utm_campaign=1055&utm_source=git)** | Kingman, AZ | On Site | Mar 27 |
 | **[PNC](http://www.pnc.com)** | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c8c351e565c26a70030f0c?utm_campaign=1055&utm_source=git)** | Farmers Branch, TX | On Site | Mar 27 |
 | ↳ | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69c8bb461b5ad0288739523f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Mar 27 |
@@ -144,17 +148,13 @@ For a complete list, click the following sortable link below:
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Paralegal Specialist](https://jobright.ai/jobs/info/69c60e8f1b5ad0288737c307?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | Mar 26 |
 | ↳ | **[Paralegal Specialist](https://jobright.ai/jobs/info/69c60e08aa9a29199e80cd9e?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Mar 26 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Corporate Safety (Fall 2026)](https://jobright.ai/jobs/info/69c8bad6aa3c2c1995e20234?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
-| **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Paralegal Specialist](https://jobright.ai/jobs/info/69c631a483ea553769fd614c?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Mar 26 |
-| ↳ | **[Paralegal Specialist](https://jobright.ai/jobs/info/69c631cee565c26a7001b7c8?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Mar 26 |
+| **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Paralegal Specialist](https://jobright.ai/jobs/info/69c631cee565c26a7001b7c8?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Mar 26 |
+| ↳ | **[Paralegal Specialist](https://jobright.ai/jobs/info/69c631a483ea553769fd614c?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Mar 26 |
 | ↳ | **[Paralegal Specialist](https://jobright.ai/jobs/info/69c63214aa3c2c1995e0afd8?utm_campaign=1055&utm_source=git)** | Dulles, VA | On Site | Mar 26 |
 | **[Vytalize Health](https://vytalizehealth.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c5f7b6e565c26a70016f21?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Community College of Allegheny County](https://caremedicalbillinginc.com/)** | **[Assistant to the Vice President for Institutional Compliance (Reg FT)](https://jobright.ai/jobs/info/69c5e1f683ea553769fd0ee5?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Mar 26 |
 | **[First American](http://www.firstam.com)** | **[Graduate Underwriting Intern (Hybrid Opportunity)](https://jobright.ai/jobs/info/69c5db5483ea553769fd0c79?utm_campaign=1055&utm_source=git)** | Stamford, CT | Hybrid | Mar 26 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Intern  - Cyber Security Operations-3](https://jobright.ai/jobs/info/69c5cea083ea553769fd03a1?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 26 |
-| **[State of Florida](http://www.myflorida.com)** | **[INSURANCE ANALYST III - 43001399 1](https://jobright.ai/jobs/info/69c6d91883ea553769fde22c?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Mar 26 |
-| ↳ | **[REGULATORY SPECIALIST I - 42003996 (FOR INTERNAL AGENY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/69c6da4db773006330b73846?utm_campaign=1055&utm_source=git)** | North Port, FL | On Site | Mar 26 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern – Legal, Office of the General Counsel – Campus 2026](https://jobright.ai/jobs/info/69c5c90c1b5ad02887379978?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Mar 26 |
-| ↳ | **[Intern – Legal, Office of the General Counsel – Campus 2026](https://jobright.ai/jobs/info/69c5c46ce565c26a70014948?utm_campaign=1055&utm_source=git)** | US - VA, McLean | On Site | Mar 26 |
-| **[Montgomery County Government](https://mcgtn.org)** | **[Intern - Mental Health Court](https://jobright.ai/jobs/info/69c5c057e565c26a700148cc?utm_campaign=1055&utm_source=git)** | Clarksville, TN | On Site | Mar 26 |
-| **[Vytalize Health](https://vytalizehealth.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c5bbb783ea553769fcf124?utm_campaign=1055&utm_source=git)** | Kansas, OH | Remote | Mar 26 |
+| **[State of Florida](http://www.myflorida.com)** | **[REGULATORY SPECIALIST I - 42003996 (FOR INTERNAL AGENY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/69c6da4db773006330b73846?utm_campaign=1055&utm_source=git)** | North Port, FL | On Site | Mar 26 |
+| ↳ | **[INSURANCE ANALYST III - 43001399 1](https://jobright.ai/jobs/info/69c6d91883ea553769fde22c?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
