@@ -72,11 +72,11 @@ For a complete list, click the following sortable link below:
 | **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | Mar 28 |
 | **[Swed Fintech AB](swedfintech.com)** | **[Securities Litigation Internship](https://jobright.ai/jobs/info/697f9e27abff4c399a9e341a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Mar 28 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Mar 28 |
-| **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc34?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Mar 28 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc35?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 28 |
+| **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc35?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 28 |
+| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc34?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c80f83ea553769fe6960?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Mar 28 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900fa?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900f9?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Mar 28 |
+| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900fa?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c72faa3c2c1995e1b22a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c5421b5ad0288738fdc9?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c539aa3c2c1995e1af57?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Mar 28 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Community College of Allegheny County](https://caremedicalbillinginc.com/)** | **[Assistant to the Vice President for Institutional Compliance (Reg FT)](https://jobright.ai/jobs/info/69c5e1f683ea553769fd0ee5?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Mar 26 |
 | **[First American](http://www.firstam.com)** | **[Graduate Underwriting Intern (Hybrid Opportunity)](https://jobright.ai/jobs/info/69c5db5483ea553769fd0c79?utm_campaign=1055&utm_source=git)** | Stamford, CT | Hybrid | Mar 26 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Intern  - Cyber Security Operations-3](https://jobright.ai/jobs/info/69c5cea083ea553769fd03a1?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 26 |
-| **[State of Florida](http://www.myflorida.com)** | **[INSURANCE ANALYST III - 43001399 1](https://jobright.ai/jobs/info/69c6d91883ea553769fde22c?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Mar 26 |
-| ↳ | **[REGULATORY SPECIALIST I - 42003996 (FOR INTERNAL AGENY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/69c6da4db773006330b73846?utm_campaign=1055&utm_source=git)** | North Port, FL | On Site | Mar 26 |
+| **[State of Florida](http://www.myflorida.com)** | **[REGULATORY SPECIALIST I - 42003996 (FOR INTERNAL AGENY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/69c6da4db773006330b73846?utm_campaign=1055&utm_source=git)** | North Port, FL | On Site | Mar 26 |
+| ↳ | **[INSURANCE ANALYST III - 43001399 1](https://jobright.ai/jobs/info/69c6d91883ea553769fde22c?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
