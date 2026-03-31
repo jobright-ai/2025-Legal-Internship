@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cabrini Green Legal Aid](https://www.cgla.net/)** | **[Legal Admin Intern](https://jobright.ai/jobs/info/69cb8e7c1b5ad028873acf3e?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
 | **[Eisai US](http://us.eisai.com/)** | **[Compliance Summer Intern (Hybrid - Nutley, NJ)](https://jobright.ai/jobs/info/69cb58a5466f1e133aacd25e?utm_campaign=1055&utm_source=git)** | Nutley, NJ | Hybrid | Mar 30 |
 | **[World Fuel Services](https://aviation.wfscorp.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/69cb4c128fc6090c5d456902?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Mar 30 |
 | **[World Kinect](https://www.world-kinect.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/69cb46a1a8c1822476e258e5?utm_campaign=1055&utm_source=git)** | MIAMI, FL | On Site | Mar 30 |
@@ -117,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Copyright Clearance Center (CCC)](http://www.copyright.com/)** | **[Intern, Cyber Security & Compliance](https://jobright.ai/jobs/info/69cb0f73aa3c2c1995e33acc?utm_campaign=1055&utm_source=git)** | Danvers, MA | Hybrid | Mar 29 |
 | **[Vytalize Health](https://vytalizehealth.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/69caddb7aa3c2c1995e311ec?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 29 |
 | **[Morehouse School of Medicine](https://www.msm.edu/)** | **[Legal Operations Intern (On-Site)](https://jobright.ai/jobs/info/69c99b93aa3c2c1995e27286?utm_campaign=1055&utm_source=git)** | Atlanta Metro | On Site | Mar 29 |
-| **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[Legal Assistant-Unpaid](https://jobright.ai/jobs/info/69c991ba1b5ad0288739badf?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Mar 29 |
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Legal Intern (Temporary Role) - FT - Days - Legal Services @ MV](https://jobright.ai/jobs/info/69c73ffdaa3c2c1995e1697c?utm_campaign=1055&utm_source=git)** | Mountain View, CA | On Site | Mar 29 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[Intern-County Attorney's Office](https://jobright.ai/jobs/info/69c9430383ea553769fef675?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Mar 29 |
 | **[Mohave County](https://www.mohave.gov)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69c8fae483ea553769fedeb6?utm_campaign=1055&utm_source=git)** | Kingman, AZ | On Site | Mar 29 |
@@ -135,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc34?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc35?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c80f83ea553769fe6960?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Mar 28 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900fa?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900f9?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Mar 28 |
+| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900fa?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c72faa3c2c1995e1b22a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c5421b5ad0288738fdc9?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c539aa3c2c1995e1af57?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Mar 28 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Metrolinx](http://www.metrolinx.com/)** | **[Co-op/Intern Student, Payments (PRESTO) Fraud Analytics](https://jobright.ai/jobs/info/69c90a88b773006330b83bcf?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, Canada | On Site | Mar 28 |
 | **[Precisely](https://www.precisely.com)** | **[Corporate/Compliance Legal Intern](https://jobright.ai/jobs/info/69aafd7b142d5b4265fc3f1f?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Mohave County](https://www.mohave.gov)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69c775d21b5ad0288738d02a?utm_campaign=1055&utm_source=git)** | Kingman, AZ | On Site | Mar 27 |
-| **[PNC](http://www.pnc.com)** | **[Detection & Investigation Analyst Lead](https://jobright.ai/jobs/info/69cb3bfa466f1e133aacc329?utm_campaign=1055&utm_source=git)** | Rocky Mount, NC | On Site | Mar 27 |
 | **[Prosecuting Attorneys Association of Michigan](https://michiganprosecutor.org/)** | **[Word Processing Assistant 5-E7 – Financial Crimes Division – Attorney General’s Office](https://jobright.ai/jobs/info/69c9e97caa3c2c1995e28560?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Mar 27 |
 | **[Vytalize Health](https://vytalizehealth.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/69cb237b466f1e133aacb488?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 27 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Legal Services Specialist (Administrative Specialist I)](https://jobright.ai/jobs/info/69c71fd883ea553769fe0df9?utm_campaign=1055&utm_source=git)** | Lincoln, NE | On Site | Mar 27 |
 | **[TransUnion](http://www.transunion.com)** | **[Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/69c71ca983ea553769fe0d16?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 27 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c7175d83ea553769fe0808?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
