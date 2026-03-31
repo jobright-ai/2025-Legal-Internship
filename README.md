@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[World Fuel Services](https://aviation.wfscorp.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/69cb4c128fc6090c5d456902?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Mar 30 |
+| **[World Kinect](https://www.world-kinect.com/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/69cb46a1a8c1822476e258e5?utm_campaign=1055&utm_source=git)** | MIAMI, FL | On Site | Mar 30 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Legal Assistant](https://jobright.ai/jobs/info/69cb4362466f1e133aacc567?utm_campaign=1055&utm_source=git)** | Edmonton, AB | On Site | Mar 30 |
-| **[Allstate](http://www.allstate.com)** | **[IT Compliance Intern](https://jobright.ai/jobs/info/69cb422da8c1822476e25629?utm_campaign=1055&utm_source=git)** | North Carolina, United States | Remote | Mar 30 |
 | **[Broward County Public Schools](http://www.browardschools.com)** | **[ADMINISTRATOR, LEGAL OPERATIONS](https://jobright.ai/jobs/info/69cb39f88fc6090c5d455f2d?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 30 |
 | **[PNC](http://www.pnc.com)** | **[Senior Estate Settlement Advisor - PNC Private Bank](https://jobright.ai/jobs/info/69cb3712a8c1822476e24d5f?utm_campaign=1055&utm_source=git)** | Millburn, NJ | On Site | Mar 30 |
 | **[Examination Resources, LLC](http://examresources.net)** | **[Associate Examiner - Summer Intern](https://jobright.ai/jobs/info/69cb2ff5aa3c2c1995e34cff?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 30 |
@@ -122,8 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Mohave County](https://www.mohave.gov)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69c8fae483ea553769fedeb6?utm_campaign=1055&utm_source=git)** | Kingman, AZ | On Site | Mar 29 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern (Unpaid)](https://jobright.ai/jobs/info/69bca5784828227293fe8d7b?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | Hybrid | Mar 28 |
 | **[Griffith Law Office (Tyler)](www.griffithlawtyler.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ca057be565c26a70039cb3?utm_campaign=1055&utm_source=git)** | Tyler, TX | Hybrid | Mar 28 |
-| **[Prosecuting Attorneys Association of Michigan](https://michiganprosecutor.org/)** | **[Staff Attorney 15/16 – Child Support: Financial Crimes Division – Attorney General’s Office](https://jobright.ai/jobs/info/69cb0bc01b5ad028873a83bc?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Mar 28 |
-| **[Griffith Law Office (Tyler)](www.griffithlawtyler.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ca05beaa3c2c1995e292a2?utm_campaign=1055&utm_source=git)** | Tyler, TX | Hybrid | Mar 28 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69ca05beaa3c2c1995e292a2?utm_campaign=1055&utm_source=git)** | Tyler, TX | Hybrid | Mar 28 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Graduate Underwriting Intern (Hybrid Opportunity)](https://jobright.ai/jobs/info/69c84780b773006330b7ea74?utm_campaign=1055&utm_source=git)** | Stamford, CT | Hybrid | Mar 28 |
 | **[ANB Bank](http://anbbank.com)** | **[Senior IT Governance Officer, Cherry Creek](https://jobright.ai/jobs/info/69c84c9f83ea553769fe9534?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Mar 28 |
 | **[Swiss Finance Institute](https://www.swissfinanceinstitute.ai/)** | **[Intellectual Property Litigation Intern](https://jobright.ai/jobs/info/69828b0f348f733a5c357427?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 28 |
@@ -135,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc35?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc34?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c80f83ea553769fe6960?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Mar 28 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900fa?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900f9?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Mar 28 |
+| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900fa?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c72faa3c2c1995e1b22a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c5421b5ad0288738fdc9?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c539aa3c2c1995e1af57?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Mar 28 |
