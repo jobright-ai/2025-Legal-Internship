@@ -136,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc35?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc34?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c80f83ea553769fe6960?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Mar 28 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900f9?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900fa?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
+| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900f9?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c72faa3c2c1995e1b22a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c5421b5ad0288738fdc9?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c539aa3c2c1995e1af57?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Mar 28 |
