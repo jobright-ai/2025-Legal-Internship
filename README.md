@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baker Botts](http://www.bakerbotts.com)** | **[Seasonal Intern, Litigation/ESI Department](https://jobright.ai/jobs/info/69cb2546a8c1822476e245c2?utm_campaign=1055&utm_source=git)** | Austin, TX | Remote | Mar 30 |
+| **[Aflac](http://www.aflac.com)** | **[Contract Development Analyst (PLADS Policy Contracts)](https://jobright.ai/jobs/info/69cb23d88fc6090c5d45537e?utm_campaign=1055&utm_source=git)** | Columbus, GA | Remote | Mar 30 |
 | **[Trü Frü](https://trufru.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cb21d7aa3c2c1995e346e2?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Mar 30 |
 | **[Global Cellulose Fibers](https://www.globalcellulosefibers.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69cb1f5da8c1822476e24489?utm_campaign=1055&utm_source=git)** | 6400 Poplar Ave, Memphis, TN 38197, USA | On Site | Mar 30 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Reporting and Compliance Intern - Minneapolis, MN](https://jobright.ai/jobs/info/69cb1ed5a8c1822476e24199?utm_campaign=1055&utm_source=git)** | Twin Cities Area | Hybrid | Mar 30 |
@@ -91,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Richemont](https://www.richemont.com/)** | **[Intern, Compliance](https://jobright.ai/jobs/info/69cac287aa3c2c1995e2fdc0?utm_campaign=1055&utm_source=git)** | Mississauga, ON | On Site | Mar 30 |
 | **[Gerald Group](https://www.gerald.com)** | **[2026 Summer Internship - Legal Intern](https://jobright.ai/jobs/info/69cadea11b5ad028873a5e4e?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Mar 30 |
 | **[Texas Department of Motor Vehicles](https://www.txdmv.gov/)** | **[TxDMV - Legal Secretary](https://jobright.ai/jobs/info/69cab19aaa3c2c1995e2f296?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Mar 30 |
-| **[The Sentencing Foundation](thesentencingfoundation.org)** | **[Summer 2026 Judicial Intern](https://jobright.ai/jobs/info/69cab187aa3c2c1995e2f291?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 30 |
 | **[Tulane University](https://brain.tulane.edu/)** | **[Legal Fellow First Amendment](https://jobright.ai/jobs/info/69cb0951a8c1822476e23444?utm_campaign=1055&utm_source=git)** | New Orleans, LA | On Site | Mar 30 |
 | **[FAIRWINDS Credit Union](https://www.fairwinds.org)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/69caa0e3a8c1822476e1e520?utm_campaign=1055&utm_source=git)** | Orlando, Florida, United States | On Site | Mar 30 |
 | **[Align Technology](http://www.aligntech.com)** | **[AI & Corporate Governance Legal Intern](https://jobright.ai/jobs/info/69a3a807359fe034b1cea4f8?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Mar 30 |
@@ -127,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc35?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc34?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c80f83ea553769fe6960?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Mar 28 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900fa?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900f9?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Mar 28 |
+| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900fa?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c72faa3c2c1995e1b22a?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c5421b5ad0288738fdc9?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c539aa3c2c1995e1af57?utm_campaign=1055&utm_source=git)** | Little Rock, AR | On Site | Mar 28 |
@@ -145,6 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Precisely](https://www.precisely.com)** | **[Corporate/Compliance Legal Intern](https://jobright.ai/jobs/info/69aafd7b142d5b4265fc3f1f?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Mohave County](https://www.mohave.gov)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69c775d21b5ad0288738d02a?utm_campaign=1055&utm_source=git)** | Kingman, AZ | On Site | Mar 27 |
 | **[Prosecuting Attorneys Association of Michigan](https://michiganprosecutor.org/)** | **[Word Processing Assistant 5-E7 – Financial Crimes Division – Attorney General’s Office](https://jobright.ai/jobs/info/69c9e97caa3c2c1995e28560?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Mar 27 |
+| **[Vytalize Health](https://vytalizehealth.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/69cb237b466f1e133aacb488?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 27 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Legal Services Specialist (Administrative Specialist I)](https://jobright.ai/jobs/info/69c71fd883ea553769fe0df9?utm_campaign=1055&utm_source=git)** | Lincoln, NE | On Site | Mar 27 |
 | **[TransUnion](http://www.transunion.com)** | **[Compliance Internship - Summer 2026](https://jobright.ai/jobs/info/69c71ca983ea553769fe0d16?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 27 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c7175d83ea553769fe0808?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Corpay](https://payments.corpay.com)** | **[Corporate Dealing Internship](https://jobright.ai/jobs/info/69c70f531b5ad02887389bf2?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Mar 27 |
 | **[National Alliance for Care at Home](https://www.nhpco.org/)** | **[Policy & Regulatory Affairs Intern](https://jobright.ai/jobs/info/69c70629e565c26a700251fc?utm_campaign=1055&utm_source=git)** | Alexandria, VA | Hybrid | Mar 27 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Workforce Development Intern - Compliance](https://jobright.ai/jobs/info/69c702fe1b5ad028873894f3?utm_campaign=1055&utm_source=git)** | Abilene, TX | On Site | Mar 27 |
-| **[USA  Mortgage](http://www.usamortgage.com)** | **[Legal Intern - Part Time](https://jobright.ai/jobs/info/69c701551b5ad0288738913f?utm_campaign=1055&utm_source=git)** | Creve Coeur, MO | On Site | Mar 27 |
-| ↳ | **[Legal Intern - Part Time](https://jobright.ai/jobs/info/69c70133b773006330b750b2?utm_campaign=1055&utm_source=git)** | Creve Coeur,MO,US | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
