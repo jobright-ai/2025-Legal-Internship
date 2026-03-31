@@ -84,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69caf135466f1e133aac904e?utm_campaign=1055&utm_source=git)** | LOUISVILLE, KY, US | On Site | Mar 30 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69caf1268fc6090c5d45320e?utm_campaign=1055&utm_source=git)** | US-KY-LOUISVILLE | On Site | Mar 30 |
 | **[Constellation Brands New Zealand & Australia](https://www.constellationnz.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69caf0d31b5ad028873a6aee?utm_campaign=1055&utm_source=git)** | Rochester, New York | Hybrid | Mar 30 |
-| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Administrative Clerk II - Clerk of Courts](https://jobright.ai/jobs/info/69caef5e1b5ad028873a69f7?utm_campaign=1055&utm_source=git)** | Elkhorn, WI | On Site | Mar 30 |
 | **[Chenega Security SBU](http://chenegasecurity.com)** | **[Contract Operations Intern](https://jobright.ai/jobs/info/69caee37aa3c2c1995e31e28?utm_campaign=1055&utm_source=git)** | Chantilly, VA | On Site | Mar 30 |
 | **[Gaston County Government](https://gastongov.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69cb07e0466f1e133aaca292?utm_campaign=1055&utm_source=git)** | Gastonia, NC | On Site | Mar 30 |
 | **[CooperVision](http://coopervision.com)** | **[Global Regulatory Affairs Intern](https://jobright.ai/jobs/info/69cae4c1a8c1822476e21930?utm_campaign=1055&utm_source=git)** | Victor, NY | On Site | Mar 30 |
@@ -113,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[CINQCARE](https://cinq.care)** | **[Legal Intern](https://jobright.ai/jobs/info/69ca7b8b466f1e133aac4261?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Mar 30 |
 | **[Alliance Law Group](http://www.alliancelawgroup.in)** | **[Legal Intern](https://jobright.ai/jobs/info/69ca6335a8c1822476e1c8bd?utm_campaign=1055&utm_source=git)** | Delhi, OH | On Site | Mar 30 |
 | **[MSIG USA](https://www.msigusa.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69b52b7c3b74eb1e2c82cc6d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 30 |
+| **[AltaLink](http://altalink.ca)** | **[Director, Compliance Operations](https://jobright.ai/jobs/info/69cb69b4e565c26a700476cc?utm_campaign=1055&utm_source=git)** | Parkland County, AB | On Site | Mar 29 |
 | **[NCTA - The Internet & Television Association](https://www.ncta.com)** | **[Legal & Regulatory Intern](https://jobright.ai/jobs/info/69c9cef7e565c26a700389fd?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Mar 29 |
 | **[Copyright Clearance Center (CCC)](http://www.copyright.com/)** | **[Intern, Cyber Security & Compliance](https://jobright.ai/jobs/info/69cb0f73aa3c2c1995e33acc?utm_campaign=1055&utm_source=git)** | Danvers, MA | Hybrid | Mar 29 |
 | **[Vytalize Health](https://vytalizehealth.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/69caddb7aa3c2c1995e311ec?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 29 |
@@ -132,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | Mar 28 |
 | **[Swed Fintech AB](swedfintech.com)** | **[Securities Litigation Internship](https://jobright.ai/jobs/info/697f9e27abff4c399a9e341a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Mar 28 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Mar 28 |
-| **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc35?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 28 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc34?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Mar 28 |
+| **[Amplity](https://www.amplity.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc34?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Mar 28 |
+| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c84ee565c26a7002bc35?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c80f83ea553769fe6960?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900fa?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69c7c7301b5ad028873900f9?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Mar 28 |
