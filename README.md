@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dutch Bros Coffee](http://www.dutchbros.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69cd8c21cdb525785fb8bf94?utm_campaign=1055&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | On Site | Apr 01 |
 | **[After School Matters](http://www.afterschoolmatters.org/)** | **[Risk Management and Legal Intern](https://jobright.ai/jobs/info/69cd7cbecfdc6132f94191e5?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
 | **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cd72f3398fb071abf753a7?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 01 |
 | **[HelloFresh](http://www.hellofreshgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cd5ffecdb525785fb873b8?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
@@ -107,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69cc56728130af1ac8337fca?utm_campaign=1055&utm_source=git)** | Tustin, California | On Site | Mar 31 |
 | **[First American](http://www.firstam.com)** | **[Commercial Escrow Assistant Intern](https://jobright.ai/jobs/info/69cc56308130af1ac8337f20?utm_campaign=1055&utm_source=git)** | USA, Nevada, Las Vegas | On Site | Mar 31 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc9196cfdc6132f940ff5f?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Mar 31 |
-| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91d2e1921223acc79962?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91e4e1921223acc7996c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 31 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91d2e1921223acc79962?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91adcfdc6132f940ff73?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 31 |
 | **[First American](http://www.firstam.com)** | **[Commercial Escrow Assistant Intern](https://jobright.ai/jobs/info/69cc5563cfdc6132f940bb56?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Mar 31 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Legal Intern (Temporary Internship)](https://jobright.ai/jobs/info/69cca30b366bb95ba54f46e5?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Mar 31 |
@@ -146,15 +147,14 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Intern (Unpaid)](https://jobright.ai/jobs/info/69cbeb9a8130af1ac8335b27?utm_campaign=1055&utm_source=git)** | New York, NY RAI USA | Hybrid | Mar 31 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cbeb958130af1ac8335b1c?utm_campaign=1055&utm_source=git)** | Austin TX USA | On Site | Mar 31 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cbeafae1921223acc73210?utm_campaign=1055&utm_source=git)** | San Francisco CA USA | On Site | Mar 31 |
-| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cbeae9cfdc6132f94097a9?utm_campaign=1055&utm_source=git)** | New York NY USA | On Site | Mar 31 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cbeae9cfdc6132f94097ab?utm_campaign=1055&utm_source=git)** | Springfield IL USA | On Site | Mar 31 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cbeae9cfdc6132f94097a9?utm_campaign=1055&utm_source=git)** | New York NY USA | On Site | Mar 31 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cbea67366bb95ba54ecb12?utm_campaign=1055&utm_source=git)** | Los Angeles CA USA | On Site | Mar 31 |
-| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-Asset Forfeiture](https://jobright.ai/jobs/info/69cc8699891d7b11cfcaf327?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 31 |
-| ↳ | **[1L / 2L/ 3L -2026 Summer Academic Law Student Internship](https://jobright.ai/jobs/info/69cd1d9c366bb95ba54f9115?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 31 |
+| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[1L / 2L/ 3L -2026 Summer Academic Law Student Internship](https://jobright.ai/jobs/info/69cd1d9c366bb95ba54f9115?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 31 |
+| ↳ | **[LOCAL LAW STUDENT Paid Intern-Asset Forfeiture](https://jobright.ai/jobs/info/69cc8699891d7b11cfcaf327?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 31 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Digital Security Group Compliance Analyst - 6 month internship](https://jobright.ai/jobs/info/69787f7152f3c27ec644d06e?utm_campaign=1055&utm_source=git)** | Vaughan, ON | On Site | Mar 31 |
 | **[Gehi & Associates](https://gehilaw.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69cbdde4cdb525785fb7877e?utm_campaign=1055&utm_source=git)** | Queens, NY | On Site | Mar 31 |
 | **[TechnipFMC](https://www.technipfmc.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6993837ee0bddb6acac1c8aa?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 31 |
 | **[RLI Insurance Company](http://www.rlicorp.com/)** | **[Claim/Legal Intern-Summer 2026, Downtown Chicago/Hybrid](https://jobright.ai/jobs/info/69af807d6b21de023e60b738?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Mar 31 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[PX Compliance Intern](https://jobright.ai/jobs/info/69af307c749500645093ab78?utm_campaign=1055&utm_source=git)** | Dayton, OH | On Site | Mar 31 |
-| ↳ | **[PX Compliance Intern](https://jobright.ai/jobs/info/69af306f749500645093ab50?utm_campaign=1055&utm_source=git)** | Westminster, CO | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
