@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ventra Health](https://ventrahealth.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69ccd529366bb95ba54f718b?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 01 |
 | **[GEA Group](http://www.gea.com/)** | **[Hygiene Regulatory Intern](https://jobright.ai/jobs/info/69bb8c553b74eb1e2c8a0982?utm_campaign=1055&utm_source=git)** | Romeoville, IL | On Site | Apr 01 |
 | **[Ventra Health](https://ventrahealth.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69cca60a8130af1ac833ddb4?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | Mar 31 |
-| ↳ | **[Intern, Legal](https://jobright.ai/jobs/info/69cca608366bb95ba54f4c55?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 31 |
 | ↳ | **[Intern, Legal](https://jobright.ai/jobs/info/69cca5eae1921223acc7b447?utm_campaign=1055&utm_source=git)** | Remote Nationwide U.S.A. | Remote | Mar 31 |
 | **[First American](http://www.firstam.com)** | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69cca3f48130af1ac833d98a?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Mar 31 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Senior Ethics and Compliance Specialist](https://jobright.ai/jobs/info/69cc8d7de1921223acc7968f?utm_campaign=1055&utm_source=git)** | Savannah, GA | On Site | Mar 31 |
@@ -82,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Henry Schein](http://www.henryschein.com)** | **[Summer Intern - Legal](https://jobright.ai/jobs/info/69cc563ecdb525785fb7af99?utm_campaign=1055&utm_source=git)** | Melville - New York | Hybrid | Mar 31 |
 | **[First American](http://www.firstam.com)** | **[Commercial Escrow Assistant Intern](https://jobright.ai/jobs/info/69cc56308130af1ac8337f20?utm_campaign=1055&utm_source=git)** | USA, Nevada, Las Vegas | On Site | Mar 31 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc9196cfdc6132f940ff5f?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Mar 31 |
-| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91e4e1921223acc7996c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91adcfdc6132f940ff73?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 31 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91e4e1921223acc7996c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91d2e1921223acc79962?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
 | **[First American](http://www.firstam.com)** | **[Commercial Escrow Assistant Intern](https://jobright.ai/jobs/info/69cc5563cfdc6132f940bb56?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Mar 31 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Legal Intern (Temporary Internship)](https://jobright.ai/jobs/info/69cca30b366bb95ba54f46e5?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Mar 31 |
@@ -123,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Intern (Unpaid)](https://jobright.ai/jobs/info/69cbeb9a8130af1ac8335b27?utm_campaign=1055&utm_source=git)** | New York, NY RAI USA | Hybrid | Mar 31 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cbeb958130af1ac8335b1c?utm_campaign=1055&utm_source=git)** | Austin TX USA | On Site | Mar 31 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cbeafae1921223acc73210?utm_campaign=1055&utm_source=git)** | San Francisco CA USA | On Site | Mar 31 |
-| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cbeae9cfdc6132f94097a9?utm_campaign=1055&utm_source=git)** | New York NY USA | On Site | Mar 31 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cbeae9cfdc6132f94097ab?utm_campaign=1055&utm_source=git)** | Springfield IL USA | On Site | Mar 31 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cbeae9cfdc6132f94097a9?utm_campaign=1055&utm_source=git)** | New York NY USA | On Site | Mar 31 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cbea67366bb95ba54ecb12?utm_campaign=1055&utm_source=git)** | Los Angeles CA USA | On Site | Mar 31 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-Asset Forfeiture](https://jobright.ai/jobs/info/69cc8699891d7b11cfcaf327?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 31 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Claims Intern, WSP](https://jobright.ai/jobs/info/69c2a15a94007a2195de905d?utm_campaign=1055&utm_source=git)** | Berkeley Heights, NJ | On Site | Mar 31 |
