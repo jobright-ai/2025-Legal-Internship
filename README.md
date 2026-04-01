@@ -75,10 +75,11 @@ For a complete list, click the following sortable link below:
 | **[Henry Schein](http://www.henryschein.com)** | **[Summer Intern - Legal](https://jobright.ai/jobs/info/69cc563ecdb525785fb7af99?utm_campaign=1055&utm_source=git)** | Melville - New York | Hybrid | Mar 31 |
 | **[First American](http://www.firstam.com)** | **[Commercial Escrow Assistant Intern](https://jobright.ai/jobs/info/69cc56308130af1ac8337f20?utm_campaign=1055&utm_source=git)** | USA, Nevada, Las Vegas | On Site | Mar 31 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc9196cfdc6132f940ff5f?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Mar 31 |
-| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91e4e1921223acc7996c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91adcfdc6132f940ff73?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 31 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91d2e1921223acc79962?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91e4e1921223acc7996c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | **[First American](http://www.firstam.com)** | **[Commercial Escrow Assistant Intern](https://jobright.ai/jobs/info/69cc5563cfdc6132f940bb56?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Mar 31 |
+| **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Legal Intern (Temporary Internship)](https://jobright.ai/jobs/info/69cca30b366bb95ba54f46e5?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Mar 31 |
 | **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/69cc4ff6cfdc6132f940b94d?utm_campaign=1055&utm_source=git)** | US-PA-Wilkes Barre | Hybrid | Mar 31 |
 | ↳ | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/69cc4ff6891d7b11cfcabb4a?utm_campaign=1055&utm_source=git)** | Wilkes Barre, PA, US | Hybrid | Mar 31 |
 | **[Leadership Triangle](https://leadershiptriangle.com)** | **[Financial Crimes Sanctions Analyst I](https://jobright.ai/jobs/info/69cc87dae1921223acc78cbd?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Mar 31 |
@@ -137,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Examination Resources, LLC](http://examresources.net)** | **[Associate Examiner - Summer Intern](https://jobright.ai/jobs/info/69cb2ff5aa3c2c1995e34cff?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 30 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Security Risk & Compliance Intern](https://jobright.ai/jobs/info/69cb2e7ba8c1822476e24aab?utm_campaign=1055&utm_source=git)** | Tysons Corner, VA | On Site | Mar 30 |
 | **[Global Cellulose Fibers](https://www.globalcellulosefibers.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69cb2c808fc6090c5d4557b4?utm_campaign=1055&utm_source=git)** | Memphis, TN | On Site | Mar 30 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration Legal Services Intern (Unpaid)](https://jobright.ai/jobs/info/69bca5784828227293fe8d7b?utm_campaign=1055&utm_source=git)** | Elizabeth, NJ | Hybrid | Mar 30 |
 | **[Aflac](http://www.aflac.com)** | **[Contract Development Analyst (PLADS Policy Contracts)](https://jobright.ai/jobs/info/69cb23d88fc6090c5d45537e?utm_campaign=1055&utm_source=git)** | Columbus, GA | Remote | Mar 30 |
 | **[Trü Frü](https://trufru.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cb21d7aa3c2c1995e346e2?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Mar 30 |
 | **[Global Cellulose Fibers](https://www.globalcellulosefibers.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69cb1f5da8c1822476e24489?utm_campaign=1055&utm_source=git)** | 6400 Poplar Ave, Memphis, TN 38197, USA | On Site | Mar 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69caf135466f1e133aac904e?utm_campaign=1055&utm_source=git)** | LOUISVILLE, KY, US | On Site | Mar 30 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69caf1268fc6090c5d45320e?utm_campaign=1055&utm_source=git)** | US-KY-LOUISVILLE | On Site | Mar 30 |
 | **[Constellation Brands New Zealand & Australia](https://www.constellationnz.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69caf0d31b5ad028873a6aee?utm_campaign=1055&utm_source=git)** | Rochester, New York | Hybrid | Mar 30 |
-| **[Chenega Security SBU](http://chenegasecurity.com)** | **[Contract Operations Intern](https://jobright.ai/jobs/info/69caee37aa3c2c1995e31e28?utm_campaign=1055&utm_source=git)** | Chantilly, VA | On Site | Mar 30 |
-| **[Gaston County Government](https://gastongov.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69cb07e0466f1e133aaca292?utm_campaign=1055&utm_source=git)** | Gastonia, NC | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
