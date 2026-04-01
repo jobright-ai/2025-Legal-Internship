@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Beck Group](http://www.beckgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69aff3f0dfaeda6ff5990fa3?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Apr 01 |
+| **[Palette Media](https://www.palettemanagement.com)** | **[Legal Intern (Business & Legal Affairs)](https://jobright.ai/jobs/info/69ccebcc891d7b11cfcb5081?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Precisely](https://www.precisely.com)** | **[Legal Intern - Privacy](https://jobright.ai/jobs/info/69b061647495006450968715?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Ventra Health](https://ventrahealth.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69ccd529366bb95ba54f718b?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 01 |
 | **[GEA Group](http://www.gea.com/)** | **[Hygiene Regulatory Intern](https://jobright.ai/jobs/info/69bb8c553b74eb1e2c8a0982?utm_campaign=1055&utm_source=git)** | Romeoville, IL | On Site | Apr 01 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Corporate Law Intern](https://jobright.ai/jobs/info/69cc7f71e1921223acc76a45?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ | On Site | Mar 31 |
 | **[Arizona Department of Environmental Quality ADEQ](https://www.azdeq.gov)** | **[LEGAL INTERN](https://jobright.ai/jobs/info/69cc7d40891d7b11cfcacabf?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 31 |
 | **[Old World Industries](https://www.owi.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc6c62cdb525785fb7b617?utm_campaign=1055&utm_source=git)** | Old World Industries, 3100 Sanders Road, Northbrook, Illinois, United States of America | On Site | Mar 31 |
-| **[Palette Media](https://www.palettemanagement.com)** | **[Legal Intern (Business & Legal Affairs)](https://jobright.ai/jobs/info/69cca4c1cfdc6132f94116b3?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 31 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69ccacc9e1921223acc7bac0?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Mar 31 |
 | **[First American](http://www.firstam.com)** | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69cc5a22cfdc6132f940bdf6?utm_campaign=1055&utm_source=git)** | USA, Texas, Remote | Remote | Mar 31 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Summer Intern - Legal](https://jobright.ai/jobs/info/69cc8799366bb95ba54f24ad?utm_campaign=1055&utm_source=git)** | Melville, NY | On Site | Mar 31 |
@@ -84,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[First American](http://www.firstam.com)** | **[Commercial Escrow Assistant Intern](https://jobright.ai/jobs/info/69cc56308130af1ac8337f20?utm_campaign=1055&utm_source=git)** | USA, Nevada, Las Vegas | On Site | Mar 31 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc9196cfdc6132f940ff5f?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Mar 31 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91adcfdc6132f940ff73?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 31 |
-| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91d2e1921223acc79962?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91e4e1921223acc7996c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 31 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91d2e1921223acc79962?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
 | **[First American](http://www.firstam.com)** | **[Commercial Escrow Assistant Intern](https://jobright.ai/jobs/info/69cc5563cfdc6132f940bb56?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Mar 31 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Legal Intern (Temporary Internship)](https://jobright.ai/jobs/info/69cca30b366bb95ba54f46e5?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Mar 31 |
 | **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/69cc4ff6cfdc6132f940b94d?utm_campaign=1055&utm_source=git)** | US-PA-Wilkes Barre | Hybrid | Mar 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Constellation Brands](http://cbrands.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69cb0359aa3c2c1995e32e2f?utm_campaign=1055&utm_source=git)** | Rochester, NY | Hybrid | Mar 30 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Intern - Legal/Compliance Team - Product Regulatory & Environmental Regulatory Affairs](https://jobright.ai/jobs/info/69cb01d91b5ad028873a795b?utm_campaign=1055&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 30 |
 | **[Trü Frü](https://trufru.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cafca1aa3c2c1995e32b92?utm_campaign=1055&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Mar 30 |
-| **[MEMIC](https://www.memic.com/)** | **[Legal, Privacy & Risk Internship](https://jobright.ai/jobs/info/69b32aafad360c0340a84bf4?utm_campaign=1055&utm_source=git)** | Portland, ME | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
