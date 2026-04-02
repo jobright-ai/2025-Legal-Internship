@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prinston Pharmaceutical Inc.](https://www.prinstonpharm.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cdf2ba398fb071abf7f7de?utm_campaign=1055&utm_source=git)** | Somerset, NJ | On Site | Apr 01 |
+| **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[Intern-County Attorney's Office](https://jobright.ai/jobs/info/69cdf086cdb525785fb91b81?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Apr 01 |
+| **[Origence](https://origence.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69cded2bcdb525785fb90914?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
 | **[Organika Health Products](https://www.organika.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69cdd7ac398fb071abf7ce5d?utm_campaign=1055&utm_source=git)** | Vancouver, BC, CA | On Site | Apr 01 |
 | **[Cambium Learning Group](http://cambiumlearning.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cdd073366bb95ba5502f38?utm_campaign=1055&utm_source=git)** | Concord, MA | Remote | Apr 01 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69cdd05acdb525785fb8efba?utm_campaign=1055&utm_source=git)** | Dallas, TX | Remote | Apr 01 |
@@ -66,7 +69,9 @@ For a complete list, click the following sortable link below:
 | **[AECOM](http://www.aecom.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69cdb099cdb525785fb8dc82?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
 | **[American Arbitration Association](https://www.adr.org)** | **[Legal Summer Intern (Paid, Remote or In-Person)](https://jobright.ai/jobs/info/69cda8a5398fb071abf7af46?utm_campaign=1055&utm_source=git)** | New Orleans, LA | On Site | Apr 01 |
 | ↳ | **[Legal Summer Intern (Paid, Remote or In-Person)](https://jobright.ai/jobs/info/69cd9838cfdc6132f941d8a8?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 01 |
-| ↳ | **[Legal Summer Intern (Paid, Remote or In-Person)](https://jobright.ai/jobs/info/69cd931fcdb525785fb8ca46?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 01 |
+| **[AECOM](http://www.aecom.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69cdef1d366bb95ba5504bb8?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
+| **[American Arbitration Association](https://www.adr.org)** | **[Legal Summer Intern (Paid, Remote or In-Person)](https://jobright.ai/jobs/info/69cd931fcdb525785fb8ca46?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 01 |
+| ↳ | **[Legal Summer Intern (Paid, Remote or In-Person)](https://jobright.ai/jobs/info/69cdf2b7398fb071abf7f7dd?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 01 |
 | **[Dutch Bros Coffee](http://www.dutchbros.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69cd8c21cdb525785fb8bf94?utm_campaign=1055&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | On Site | Apr 01 |
 | **[City of Bothell](https://www.bothellwa.gov/)** | **[Rule 9 Legal Intern](https://jobright.ai/jobs/info/69cdd688891d7b11cfcc0673?utm_campaign=1055&utm_source=git)** | Bothell, WA | On Site | Apr 01 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Legal Assistant](https://jobright.ai/jobs/info/69cdb573cfdc6132f941ebd6?utm_campaign=1055&utm_source=git)** | Calgary, AB | On Site | Apr 01 |
@@ -128,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69cc56728130af1ac8337fca?utm_campaign=1055&utm_source=git)** | Tustin, California | On Site | Mar 31 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc9196cfdc6132f940ff5f?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Mar 31 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91d2e1921223acc79962?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
-| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91e4e1921223acc7996c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91adcfdc6132f940ff73?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 31 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91e4e1921223acc7996c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Legal Intern (Temporary Internship)](https://jobright.ai/jobs/info/69cca30b366bb95ba54f46e5?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Mar 31 |
 | **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/69cc4ff6891d7b11cfcabb4a?utm_campaign=1055&utm_source=git)** | Wilkes Barre, PA, US | Hybrid | Mar 31 |
 | ↳ | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/69cc4ff6cfdc6132f940b94d?utm_campaign=1055&utm_source=git)** | US-PA-Wilkes Barre | Hybrid | Mar 31 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69cc24d0891d7b11cfcaaac9?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Mar 31 |
 | **[NYCM Insurance](https://www.nycm.com)** | **[2026 Summer Internship (Law Office)](https://jobright.ai/jobs/info/69cc5543cfdc6132f940bb28?utm_campaign=1055&utm_source=git)** | Orchard Park, NY | Hybrid | Mar 31 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69cc23cbcfdc6132f940a7ea?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Mar 31 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Intern (Unpaid)](https://jobright.ai/jobs/info/69cc20edcdb525785fb799ff?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Mar 31 |
-| **[Professional Case Management](https://procasemanagement.com/)** | **[Legal and Compliance - Summer Intern](https://jobright.ai/jobs/info/69cc50dacfdc6132f940b9fc?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Mar 31 |
-| **[LG Electronics North America](https://www.lg.com/us)** | **[Legal Team - Intern](https://jobright.ai/jobs/info/69cc19b8cdb525785fb79849?utm_campaign=1055&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 31 |
-| **[Systems Planning & Analysis](http://www.spa.com)** | **[Contracts/Subcontracts Intern](https://jobright.ai/jobs/info/6993c399e0bddb6acac20d2a?utm_campaign=1055&utm_source=git)** | Alexandria, VA | On Site | Mar 31 |
-| **[University of Central Florida](https://www.ucf.edu)** | **[Travel & Procurement Specialist III](https://jobright.ai/jobs/info/69cc05a88130af1ac83361b9?utm_campaign=1055&utm_source=git)** | Greater Orlando | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
