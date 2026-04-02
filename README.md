@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L Law Firm PLLC](https://llawfirm.law/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ced3cd398fb071abf895b7?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Apr 02 |
+| **[Architect of the Capitol](http://www.aoc.gov/)** | **[Summer Law Internship](https://jobright.ai/jobs/info/69cece5854f00230c6d034d3?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 02 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Compliance and Corporate Social Responsibility Intern](https://jobright.ai/jobs/info/69cec4d6366bb95ba550f501?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 02 |
 | **[Merz Therapeutics](http://www.merz.com)** | **[Regulatory Affairs Summer Intern](https://jobright.ai/jobs/info/69cec320cfdc6132f942bf8d?utm_campaign=1055&utm_source=git)** | Raleigh, North Carolina, United States | Hybrid | Apr 02 |
 | **[Wonderful Orchards](http://wonderfulorchards.com)** | **[Property & Compliance Intern](https://jobright.ai/jobs/info/6995196cce78e77b4fd930a1?utm_campaign=1055&utm_source=git)** | Shafter, CA | On Site | Apr 02 |
@@ -100,11 +102,9 @@ For a complete list, click the following sortable link below:
 | **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Corporate Delivery (Legal, Compliance, Real Estate, Procurement, and EPMO)](https://jobright.ai/jobs/info/69cde3a654f00230c6cf7e61?utm_campaign=1055&utm_source=git)** | Manitoba, Canada | Hybrid | Apr 01 |
 | **[Origence](https://origence.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69cdb0bd54f00230c6cf5727?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
 | **[AECOM](http://www.aecom.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69cdb099cdb525785fb8dc82?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
-| **[American Arbitration Association](https://www.adr.org)** | **[Legal Summer Intern (Paid, Remote or In-Person)](https://jobright.ai/jobs/info/69cda8a5398fb071abf7af46?utm_campaign=1055&utm_source=git)** | New Orleans, LA | On Site | Apr 01 |
-| ↳ | **[Legal Summer Intern (Paid, Remote or In-Person)](https://jobright.ai/jobs/info/69cd9838cfdc6132f941d8a8?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 01 |
+| **[American Arbitration Association](https://www.adr.org)** | **[Legal Summer Intern (Paid, Remote or In-Person)](https://jobright.ai/jobs/info/69cd9838cfdc6132f941d8a8?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 01 |
 | **[AECOM](http://www.aecom.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69cdef1d366bb95ba5504bb8?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
 | **[American Arbitration Association](https://www.adr.org)** | **[Legal Summer Intern (Paid, Remote or In-Person)](https://jobright.ai/jobs/info/69cd931fcdb525785fb8ca46?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 01 |
-| ↳ | **[Legal Summer Intern (Paid, Remote or In-Person)](https://jobright.ai/jobs/info/69cdf5c1cfdc6132f9422dc2?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Apr 01 |
 | ↳ | **[Legal Summer Intern (Paid, Remote or In-Person)](https://jobright.ai/jobs/info/69cdf2b7398fb071abf7f7dd?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 01 |
 | **[Dutch Bros Coffee](http://www.dutchbros.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69cd8c21cdb525785fb8bf94?utm_campaign=1055&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | On Site | Apr 01 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Legal Assistant](https://jobright.ai/jobs/info/69cdb573cfdc6132f941ebd6?utm_campaign=1055&utm_source=git)** | Calgary, AB | On Site | Apr 01 |
