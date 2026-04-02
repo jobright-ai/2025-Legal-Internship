@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Paralegal Specialist](https://jobright.ai/jobs/info/69ce2730366bb95ba5508575?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 02 |
+| ↳ | **[Paralegal Specialist](https://jobright.ai/jobs/info/69ce269254f00230c6cfc374?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 02 |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Developmental Services Resource Compliance Coordinator (37.5 Hour(Hybrid)](https://jobright.ai/jobs/info/69ce23cccfdc6132f9424f56?utm_campaign=1055&utm_source=git)** | Norwich, CT | Hybrid | Apr 02 |
 | **[Homefield Fund](http://www.homefieldfund.com)** | **[Legal Intern, Alternative Investment Structures](https://jobright.ai/jobs/info/69cdf627891d7b11cfcc37a1?utm_campaign=1055&utm_source=git)** | Troy, NY | On Site | Apr 01 |
 | ↳ | **[Legal Intern, Alternative Investment Structures](https://jobright.ai/jobs/info/69cdf60dcdb525785fb923c0?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 01 |
 | ↳ | **[Legal Intern, Alternative Investment Structures](https://jobright.ai/jobs/info/69cdf60b366bb95ba55061fd?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 01 |
@@ -135,12 +138,12 @@ For a complete list, click the following sortable link below:
 | **[Edison Electric Institute](http://www.eei.org)** | **[Legal and Policy Intern](https://jobright.ai/jobs/info/69cc569f366bb95ba54ef09c?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Mar 31 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69cc56728130af1ac8337fca?utm_campaign=1055&utm_source=git)** | Tustin, California | On Site | Mar 31 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc9196cfdc6132f940ff5f?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Mar 31 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91d2e1921223acc79962?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91adcfdc6132f940ff73?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 31 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91e4e1921223acc7996c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 31 |
-| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91d2e1921223acc79962?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Legal Intern (Temporary Internship)](https://jobright.ai/jobs/info/69cca30b366bb95ba54f46e5?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Mar 31 |
-| **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/69cc4ff6cfdc6132f940b94d?utm_campaign=1055&utm_source=git)** | US-PA-Wilkes Barre | Hybrid | Mar 31 |
-| ↳ | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/69cc4ff6891d7b11cfcabb4a?utm_campaign=1055&utm_source=git)** | Wilkes Barre, PA, US | Hybrid | Mar 31 |
+| **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/69cc4ff6891d7b11cfcabb4a?utm_campaign=1055&utm_source=git)** | Wilkes Barre, PA, US | Hybrid | Mar 31 |
+| ↳ | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/69cc4ff6cfdc6132f940b94d?utm_campaign=1055&utm_source=git)** | US-PA-Wilkes Barre | Hybrid | Mar 31 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, New York, United States | On Site | Mar 31 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69cc7b7fcdb525785fb7bb6f?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Mar 31 |
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Contracts and Purchasing Intern](https://jobright.ai/jobs/info/69cc4408366bb95ba54ee8a2?utm_campaign=1055&utm_source=git)** | Glen Burnie, MD | On Site | Mar 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Quanex](http://www.quanex.com/)** | **[Risk Management & Compliance Intern](https://jobright.ai/jobs/info/69cc3418366bb95ba54ee2c2?utm_campaign=1055&utm_source=git)** | Houston, Texas, United States | On Site | Mar 31 |
 | **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc33f78130af1ac8337259?utm_campaign=1055&utm_source=git)** | California - High Bluff | Hybrid | Mar 31 |
 | **[Quanex](http://www.quanex.com/)** | **[Risk Management & Compliance Intern](https://jobright.ai/jobs/info/69cc64bdcfdc6132f940c049?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Mar 31 |
-| **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney’s Office Fall 2026 Legal Internship](https://jobright.ai/jobs/info/69cc582acfdc6132f940bd62?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Mar 31 |
-| **[Zurich Cover-More](https://www.zurich.com/products-and-services/zurich-cover-more)** | **[Audit and Compliance, Summer Intern](https://jobright.ai/jobs/info/69cc5752cdb525785fb7b0a0?utm_campaign=1055&utm_source=git)** | Stevens Point, WI | On Site | Mar 31 |
-| **[Calix](http://www.calix.com)** | **[Intellectual Property - Products Legal Intern](https://jobright.ai/jobs/info/69cc292a366bb95ba54ede3a?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
