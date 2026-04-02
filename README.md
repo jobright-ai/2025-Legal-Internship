@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leidos](https://www.leidos.com)** | **[Global Regulatory Compliance Intern](https://jobright.ai/jobs/info/69ce80da366bb95ba550bde4?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Apr 02 |
+| **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Summer Legal Intern](https://jobright.ai/jobs/info/6979a9720791bc1d72307a08?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Apr 02 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Summer Legal Intern](https://jobright.ai/jobs/info/6979a8d4ca92cf0d6a82f586?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Apr 02 |
+| **[Snyk](https://snyk.io   )** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69b1b73865de58104c70b676?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Apr 02 |
+| **[Discovery Life Sciences](http://www.conversantbio.com/)** | **[Regulatory Intern Summer 2026](https://jobright.ai/jobs/info/69b1da4ad04c69566c743ecb?utm_campaign=1055&utm_source=git)** | Huntsville, AL | On Site | Apr 02 |
+| **[Corsair](http://www.corsair.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69406d5e49a7695fbd05ef2c?utm_campaign=1055&utm_source=git)** | Milpitas, CA | On Site | Apr 02 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Associate Attorney, Washington DC Regional](https://jobright.ai/jobs/info/69b20d4c65de58104c7179a7?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 02 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ce72ce54f00230c6cff3ac?utm_campaign=1055&utm_source=git)** | Lynchburg, VA | On Site | Apr 02 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/6995398ce0bddb6acac3c220?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
@@ -146,15 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Edison Electric Institute](http://www.eei.org)** | **[Legal and Policy Intern](https://jobright.ai/jobs/info/69cc569f366bb95ba54ef09c?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Mar 31 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69cc56728130af1ac8337fca?utm_campaign=1055&utm_source=git)** | Tustin, California | On Site | Mar 31 |
 | **[Crowe](https://www.crowe.com/)** | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc9196cfdc6132f940ff5f?utm_campaign=1055&utm_source=git)** | Springfield, IL | On Site | Mar 31 |
-| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91adcfdc6132f940ff73?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 31 |
-| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91e4e1921223acc7996c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91d2e1921223acc79962?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91e4e1921223acc7996c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Mar 31 |
+| ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91adcfdc6132f940ff73?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 31 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Legal Intern (Temporary Internship)](https://jobright.ai/jobs/info/69cca30b366bb95ba54f46e5?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Mar 31 |
 | **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/69cc4ff6891d7b11cfcabb4a?utm_campaign=1055&utm_source=git)** | Wilkes Barre, PA, US | Hybrid | Mar 31 |
-| ↳ | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/69cc4ff6cfdc6132f940b94d?utm_campaign=1055&utm_source=git)** | US-PA-Wilkes Barre | Hybrid | Mar 31 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, New York, United States | On Site | Mar 31 |
-| **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69cc7b7fcdb525785fb7bb6f?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Mar 31 |
-| **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Contracts and Purchasing Intern](https://jobright.ai/jobs/info/69cc4408366bb95ba54ee8a2?utm_campaign=1055&utm_source=git)** | Glen Burnie, MD | On Site | Mar 31 |
-| **[GEHA Health](https://geha.com/)** | **[Intern – Regulatory/Accreditation Strategist](https://jobright.ai/jobs/info/69cc42f9e1921223acc74e73?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 31 |
-| ↳ | **[Intern - Legal](https://jobright.ai/jobs/info/69cc42e0cfdc6132f940b40e?utm_campaign=1055&utm_source=git)** | United States | Remote | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
