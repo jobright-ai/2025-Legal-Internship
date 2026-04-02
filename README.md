@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/6995398ce0bddb6acac3c220?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
+| **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Right-of-Entry (ROE) Specialist Intern](https://jobright.ai/jobs/info/69b1d9a965de58104c710668?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 02 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[Assistant Corporation Counsel III - Collections, Ownership, and Administrative Litigation Division – Special Collections Unit](https://jobright.ai/jobs/info/69c8cbda1b5ad02887395654?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 02 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69b1949f65de58104c709f4b?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Apr 02 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Administrative Clerk II - Clerk of Courts](https://jobright.ai/jobs/info/69ce4060cfdc6132f94266b8?utm_campaign=1055&utm_source=git)** | Elkhorn, WI | On Site | Apr 02 |
@@ -145,8 +147,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91d2e1921223acc79962?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
 | ↳ | **[Finance and Compliance Intern (CPA Track)](https://jobright.ai/jobs/info/69cc91adcfdc6132f940ff73?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Mar 31 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Legal Intern (Temporary Internship)](https://jobright.ai/jobs/info/69cca30b366bb95ba54f46e5?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Mar 31 |
-| **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/69cc4ff6cfdc6132f940b94d?utm_campaign=1055&utm_source=git)** | US-PA-Wilkes Barre | Hybrid | Mar 31 |
-| ↳ | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/69cc4ff6891d7b11cfcabb4a?utm_campaign=1055&utm_source=git)** | Wilkes Barre, PA, US | Hybrid | Mar 31 |
+| **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/69cc4ff6891d7b11cfcabb4a?utm_campaign=1055&utm_source=git)** | Wilkes Barre, PA, US | Hybrid | Mar 31 |
+| ↳ | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/69cc4ff6cfdc6132f940b94d?utm_campaign=1055&utm_source=git)** | US-PA-Wilkes Barre | Hybrid | Mar 31 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, New York, United States | On Site | Mar 31 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69cc7b7fcdb525785fb7bb6f?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Mar 31 |
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Contracts and Purchasing Intern](https://jobright.ai/jobs/info/69cc4408366bb95ba54ee8a2?utm_campaign=1055&utm_source=git)** | Glen Burnie, MD | On Site | Mar 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Denton County, Texas](https://www.dentoncounty.gov/)** | **[Bar Card Intern - District Attorney - Criminal](https://jobright.ai/jobs/info/69cc81598130af1ac8339d18?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Mar 31 |
 | **[OrthoPediatrics](http://www.orthopediatrics.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc3ca8cfdc6132f940b269?utm_campaign=1055&utm_source=git)** | Warsaw, IN | On Site | Mar 31 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Legal Intern (Temporary Internship)](https://jobright.ai/jobs/info/69cc3c99cfdc6132f940b243?utm_campaign=1055&utm_source=git)** | Denver, Colorado, United States | Hybrid | Mar 31 |
-| **[Mitsubishi HC Capital Canada](https://www.mhccna.com/en-ca)** | **[Intern, Compliance](https://jobright.ai/jobs/info/69cc7b8fe1921223acc7625c?utm_campaign=1055&utm_source=git)** | Burlington, ON | Hybrid | Mar 31 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/69cc7992cfdc6132f940c751?utm_campaign=1055&utm_source=git)** | Fond du Lac, WI | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
