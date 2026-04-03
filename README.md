@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maverick](https://www.maverickbuilders.com)** | **[Compliance Assistant Intern](https://jobright.ai/jobs/info/69d0197f366bb95ba551b588?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL, US | On Site | Apr 03 |
+| **[Johnson Outdoors](http://www.johnsonoutdoors.com/)** | **[Legal Summer Internship](https://jobright.ai/jobs/info/69d0136a366bb95ba551b242?utm_campaign=1055&utm_source=git)** | Racine, Wisconsin, United States | On Site | Apr 03 |
+| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Consumer Relations](https://jobright.ai/jobs/info/69d0135dcfdc6132f94381bc?utm_campaign=1055&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
+| **[Johnson Outdoors](http://www.johnsonoutdoors.com/)** | **[Legal Summer Internship](https://jobright.ai/jobs/info/69d00f5b891d7b11cfcd8473?utm_campaign=1055&utm_source=git)** | Racine, WI | On Site | Apr 03 |
+| **[Peraton](https://www.peraton.com/)** | **[Contracts Administration Pipeline (Intern and Entry-level)](https://jobright.ai/jobs/info/69d00f4254f00230c6d0ed5e?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Apr 03 |
+| **[Cirrus](http://cirrusaircraft.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6996998581476f6176ae8085?utm_campaign=1055&utm_source=git)** | Alcoa, TN | On Site | Apr 03 |
+| **[Earthjustice](http://earthjustice.org/)** | **[Fall 2026 Legal Externship – Clean Energy Program](https://jobright.ai/jobs/info/69d00ef90b098b7a670761d8?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Apr 03 |
+| ↳ | **[Fall 2026 Legal Externship – Washington, DC Regional Office](https://jobright.ai/jobs/info/69d00eee0b098b7a670761be?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 03 |
+| ↳ | **[Fall 2026 Legal Externship – Biodiversity Defense Program](https://jobright.ai/jobs/info/69d00ee5cfdc6132f9437fee?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Apr 03 |
+| ↳ | **[Fall 2026 Legal Externship – Biodiversity Defense Program](https://jobright.ai/jobs/info/69d00ee30b098b7a6707619b?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Apr 03 |
+| **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Summer 2026 Contracts Internship](https://jobright.ai/jobs/info/69d00d0d366bb95ba551afdc?utm_campaign=1055&utm_source=git)** | New York, New York | Hybrid | Apr 03 |
+| **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/69d00d0754f00230c6d0ec6e?utm_campaign=1055&utm_source=git)** | San Diego California | On Site | Apr 03 |
+| ↳ | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/69d00cf70b098b7a670760ee?utm_campaign=1055&utm_source=git)** | San Diego California | On Site | Apr 03 |
 | **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Summer/Fall 2026 Legal Internships - LGBTQ/HIV Advocacy Project](https://jobright.ai/jobs/info/69d0066a366bb95ba551a9b2?utm_campaign=1055&utm_source=git)** | Brooklyn Legal Services | Hybrid | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - IP and Litigation](https://jobright.ai/jobs/info/69cffb78891d7b11cfcd78bd?utm_campaign=1055&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | ↳ | **[Internship - IP and Litigation](https://jobright.ai/jobs/info/69cff804891d7b11cfcd76cd?utm_campaign=1055&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Origence](https://origence.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69cded2bcdb525785fb90914?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
 | **[Organika Health Products](https://www.organika.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69cdd7ac398fb071abf7ce5d?utm_campaign=1055&utm_source=git)** | Vancouver, BC, CA | On Site | Apr 01 |
 | **[Cambium Learning Group](http://cambiumlearning.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cdd073366bb95ba5502f38?utm_campaign=1055&utm_source=git)** | Concord, MA | Remote | Apr 01 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69cdd05acdb525785fb8efba?utm_campaign=1055&utm_source=git)** | Dallas, TX | Remote | Apr 01 |
-| **[Dutch Bros Coffee](http://www.dutchbros.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69cdb580cdb525785fb8dfbb?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Apr 01 |
-| **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Law Student Intern, Summer Semester](https://jobright.ai/jobs/info/69cef78ecfdc6132f942e7e6?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Apr 01 |
-| ↳ | **[Undergraduate Intern, Legal](https://jobright.ai/jobs/info/69cef88ccdb525785fb9dae2?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
-| ↳ | **[Law Student Intern, Fall Semester](https://jobright.ai/jobs/info/69cef783398fb071abf8b41f?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Apr 01 |
-| **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Corporate Delivery (Legal, Compliance, Real Estate, Procurement, and EPMO)](https://jobright.ai/jobs/info/69cde3a654f00230c6cf7e61?utm_campaign=1055&utm_source=git)** | Manitoba, Canada | Hybrid | Apr 01 |
-| **[Origence](https://origence.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69cdb0bd54f00230c6cf5727?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
-| **[AECOM](http://www.aecom.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69cdb099cdb525785fb8dc82?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69cdef1d366bb95ba5504bb8?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
-| **[Dutch Bros Coffee](http://www.dutchbros.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69cd8c21cdb525785fb8bf94?utm_campaign=1055&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | On Site | Apr 01 |
-| **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[Assistant Corporation Counsel I - Collections, Ownership and Administrative Litigation](https://jobright.ai/jobs/info/69c8a726b773006330b8077b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
-| **[Government of Alberta](http://alberta.ca/)** | **[Legal Assistant](https://jobright.ai/jobs/info/69cdb573cfdc6132f941ebd6?utm_campaign=1055&utm_source=git)** | Calgary, AB | On Site | Apr 01 |
-| **[Prairie State Legal Services Inc.](https://pslegal.org)** | **[Summer 2026 Law Student Internship - Bloomington, IL](https://jobright.ai/jobs/info/69cd9cdc366bb95ba5500da2?utm_campaign=1055&utm_source=git)** | Bloomington, IL | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
