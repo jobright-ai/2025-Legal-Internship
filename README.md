@@ -73,8 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Market & Federal Compliance, Intern](https://jobright.ai/jobs/info/69cefb02891d7b11cfccf0b8?utm_campaign=1055&utm_source=git)** | Rocklin | Hybrid | Apr 02 |
 | ↳ | **[Market & Federal Compliance, Intern](https://jobright.ai/jobs/info/69cefae4cdb525785fb9dd1e?utm_campaign=1055&utm_source=git)** | Oakland | Hybrid | Apr 02 |
 | **[PNC](http://www.pnc.com)** | **[Detection & Investigation Associate: Monday - Friday 12:00 PM - 8:30 PM](https://jobright.ai/jobs/info/69cf0f3b54f00230c6d063d1?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 02 |
-| ↳ | **[Detection & Investigation Associate: Monday - Friday 12:00 PM - 8:30 PM](https://jobright.ai/jobs/info/69cf0ae8398fb071abf8bbd5?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Apr 02 |
 | ↳ | **[Detection & Investigation Associate: Monday - Friday 12:00 PM - 8:30 PM](https://jobright.ai/jobs/info/69cf0f35366bb95ba5512250?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Apr 02 |
+| ↳ | **[Detection & Investigation Associate: Monday - Friday 12:00 PM - 8:30 PM](https://jobright.ai/jobs/info/69cf0ae8398fb071abf8bbd5?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Apr 02 |
 | ↳ | **[Detection & Investigation Associate: Monday - Friday 12:00 PM - 8:30 PM](https://jobright.ai/jobs/info/69cf0f2c366bb95ba5512248?utm_campaign=1055&utm_source=git)** | Portage, MI | On Site | Apr 02 |
 | **[League of Women Voters](https://www.lwv.org/)** | **[Legal Intern, Fall 2026](https://jobright.ai/jobs/info/69cf2b32cfdc6132f94303bd?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Remote | Apr 02 |
 | **[Credit One Bank](http://creditonebank.com)** | **[Compliance Risk Analyst Intern (ERS)](https://jobright.ai/jobs/info/69cee76ccdb525785fb9cfda?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Apr 02 |
@@ -133,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Cambium Learning Group](http://cambiumlearning.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cdd073366bb95ba5502f38?utm_campaign=1055&utm_source=git)** | Concord, MA | Remote | Apr 01 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69cdd05acdb525785fb8efba?utm_campaign=1055&utm_source=git)** | Dallas, TX | Remote | Apr 01 |
 | **[Dutch Bros Coffee](http://www.dutchbros.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69cdb580cdb525785fb8dfbb?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Apr 01 |
-| **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Undergraduate Intern, Legal](https://jobright.ai/jobs/info/69cef88ccdb525785fb9dae2?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
-| ↳ | **[Law Student Intern, Summer Semester](https://jobright.ai/jobs/info/69cef78ecfdc6132f942e7e6?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Apr 01 |
+| **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Law Student Intern, Summer Semester](https://jobright.ai/jobs/info/69cef78ecfdc6132f942e7e6?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Apr 01 |
+| ↳ | **[Undergraduate Intern, Legal](https://jobright.ai/jobs/info/69cef88ccdb525785fb9dae2?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
 | ↳ | **[Law Student Intern, Fall Semester](https://jobright.ai/jobs/info/69cef783398fb071abf8b41f?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Apr 01 |
 | **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Corporate Delivery (Legal, Compliance, Real Estate, Procurement, and EPMO)](https://jobright.ai/jobs/info/69cde3a654f00230c6cf7e61?utm_campaign=1055&utm_source=git)** | Manitoba, Canada | Hybrid | Apr 01 |
 | **[Origence](https://origence.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69cdb0bd54f00230c6cf5727?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
