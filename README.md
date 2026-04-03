@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MacEwan University](http://www.MacEwan.ca)** | **[Senior Advisor, Contract Management - Procurement and Contract Management Services](https://jobright.ai/jobs/info/69cf3fe6cfdc6132f9431894?utm_campaign=1055&utm_source=git)** | Edmonton, AB | On Site | Apr 02 |
+| **[Texas Alcoholic Beverage Commission](https://www.tabc.texas.gov/)** | **[Internship Opportunity!! Legal Intern (Law Clerk Session #1)](https://jobright.ai/jobs/info/69cf3eda366bb95ba5514aa5?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Apr 02 |
 | **[Windward Risk Managers](https://www.windwardriskmanagers.com)** | **[Summer Legal & Compliance Intern (Hybrid)](https://jobright.ai/jobs/info/69cf2658366bb95ba5513040?utm_campaign=1055&utm_source=git)** | Boca Raton, FL | Hybrid | Apr 02 |
 | **[American National Bank of Texas](https://www.anbtx.com/)** | **[Banking Fraud Operations Internship](https://jobright.ai/jobs/info/69cf13ffcdb525785fb9e95c?utm_campaign=1055&utm_source=git)** | Terrell, Texas, United States | On Site | Apr 02 |
 | **[Florida Peninsula Insurance Company](http://floridapeninsula.com)** | **[Summer Legal & Compliance Intern (Hybrid)](https://jobright.ai/jobs/info/69cf0f65398fb071abf8c1b2?utm_campaign=1055&utm_source=git)** | Corporate Office - Boca Raton, FL 33487 | Hybrid | Apr 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Republic Services](http://www.republicservices.com)** | **[Environmental Compliance Intern](https://jobright.ai/jobs/info/69cdb53b398fb071abf7b67e?utm_campaign=1055&utm_source=git)** | Robstown, TX | On Site | Apr 01 |
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Lead Clinical Research Protocol Coordinator](https://jobright.ai/jobs/info/69cd48be54f00230c6ceda0c?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 01 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Income Security Intern (Law Student)](https://jobright.ai/jobs/info/6940cc4c50bbaf765052d046?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 01 |
-| **[Republic Services](http://www.republicservices.com)** | **[Environmental Compliance Intern](https://jobright.ai/jobs/info/69cd405154f00230c6ced790?utm_campaign=1055&utm_source=git)** | Robstown, TX, USA | On Site | Apr 01 |
-| **[Amynta Group](https://www.amyntagroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cd3be8366bb95ba54f9d32?utm_campaign=1055&utm_source=git)** | NY - Remote | Remote | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
