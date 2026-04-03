@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69cf5372366bb95ba551571a?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
 | **[MacEwan University](http://www.MacEwan.ca)** | **[Senior Advisor, Contract Management - Procurement and Contract Management Services](https://jobright.ai/jobs/info/69cf3fe6cfdc6132f9431894?utm_campaign=1055&utm_source=git)** | Edmonton, AB | On Site | Apr 02 |
 | **[Texas Alcoholic Beverage Commission](https://www.tabc.texas.gov/)** | **[Internship Opportunity!! Legal Intern (Law Clerk Session #1)](https://jobright.ai/jobs/info/69cf3eda366bb95ba5514aa5?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Apr 02 |
 | **[Windward Risk Managers](https://www.windwardriskmanagers.com)** | **[Summer Legal & Compliance Intern (Hybrid)](https://jobright.ai/jobs/info/69cf2658366bb95ba5513040?utm_campaign=1055&utm_source=git)** | Boca Raton, FL | Hybrid | Apr 02 |
@@ -124,15 +125,16 @@ For a complete list, click the following sortable link below:
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Paralegal Specialist](https://jobright.ai/jobs/info/69ce2730366bb95ba5508575?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 02 |
 | ↳ | **[Paralegal Specialist](https://jobright.ai/jobs/info/69ce269254f00230c6cfc374?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 02 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Developmental Services Resource Compliance Coordinator (37.5 Hour(Hybrid)](https://jobright.ai/jobs/info/69ce23cccfdc6132f9424f56?utm_campaign=1055&utm_source=git)** | Norwich, CT | Hybrid | Apr 02 |
+| **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Paralegal- Intake-Focused, Detained Adult Program](https://jobright.ai/jobs/info/69cf5312cdb525785fba170b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 01 |
 | **[KIPP DC](https://www.kippdc.org/)** | **[School Health and Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/69cdf563cfdc6132f9422ae8?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 01 |
 | **[Origence](https://origence.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69cded2bcdb525785fb90914?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
 | **[Organika Health Products](https://www.organika.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69cdd7ac398fb071abf7ce5d?utm_campaign=1055&utm_source=git)** | Vancouver, BC, CA | On Site | Apr 01 |
 | **[Cambium Learning Group](http://cambiumlearning.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cdd073366bb95ba5502f38?utm_campaign=1055&utm_source=git)** | Concord, MA | Remote | Apr 01 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69cdd05acdb525785fb8efba?utm_campaign=1055&utm_source=git)** | Dallas, TX | Remote | Apr 01 |
 | **[Dutch Bros Coffee](http://www.dutchbros.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69cdb580cdb525785fb8dfbb?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Apr 01 |
-| **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Undergraduate Intern, Legal](https://jobright.ai/jobs/info/69cef88ccdb525785fb9dae2?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
-| ↳ | **[Law Student Intern, Fall Semester](https://jobright.ai/jobs/info/69cef783398fb071abf8b41f?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Apr 01 |
+| **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Law Student Intern, Fall Semester](https://jobright.ai/jobs/info/69cef783398fb071abf8b41f?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Apr 01 |
 | ↳ | **[Law Student Intern, Summer Semester](https://jobright.ai/jobs/info/69cef78ecfdc6132f942e7e6?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Apr 01 |
+| ↳ | **[Undergraduate Intern, Legal](https://jobright.ai/jobs/info/69cef88ccdb525785fb9dae2?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
 | **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Corporate Delivery (Legal, Compliance, Real Estate, Procurement, and EPMO)](https://jobright.ai/jobs/info/69cde3a654f00230c6cf7e61?utm_campaign=1055&utm_source=git)** | Manitoba, Canada | Hybrid | Apr 01 |
 | **[Origence](https://origence.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69cdb0bd54f00230c6cf5727?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
 | **[AECOM](http://www.aecom.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69cdb099cdb525785fb8dc82?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer 2026 Regulatory Policy Intern](https://jobright.ai/jobs/info/697aa068f6fc293b0a2c87a7?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Apr 01 |
 | **[Intuit](https://www.intuit.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cd7235398fb071abf7531a?utm_campaign=1055&utm_source=git)** | Mountain View, CA | Hybrid | Apr 01 |
 | **[Republic Services](http://www.republicservices.com)** | **[Environmental Compliance Intern](https://jobright.ai/jobs/info/69cdb53b398fb071abf7b67e?utm_campaign=1055&utm_source=git)** | Robstown, TX | On Site | Apr 01 |
-| **[Children's National Hospital](https://www.childrensnational.org/)** | **[Lead Clinical Research Protocol Coordinator](https://jobright.ai/jobs/info/69cd48be54f00230c6ceda0c?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 01 |
-| **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Income Security Intern (Law Student)](https://jobright.ai/jobs/info/6940cc4c50bbaf765052d046?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
