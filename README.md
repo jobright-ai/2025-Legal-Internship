@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Associate Director of Research Security and International Compliance](https://jobright.ai/jobs/info/69d0830ccfdc6132f943c112?utm_campaign=1055&utm_source=git)** | Harrisonburg, VA | On Site | Apr 03 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Contracts Intern](https://jobright.ai/jobs/info/69d073410b098b7a6707981b?utm_campaign=1055&utm_source=git)** | Middletown, IA | On Site | Apr 03 |
 | **[Guardian Pharmacy](https://guardianpharmacy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d07312cdb525785fbaa74b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
-| **[New York State Justice Center for the Protection of People with Special Needs](http://www.justicecenter.ny.gov)** | **[Student Assistant (Legal Intern)](https://jobright.ai/jobs/info/69d05fc654f00230c6d11678?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | Apr 03 |
+| **[New York State Justice Center for the Protection of People with Special Needs](http://www.justicecenter.ny.gov)** | **[Student Assistant (Legal Intern)](https://jobright.ai/jobs/info/69d0832ccdb525785fbab17f?utm_campaign=1055&utm_source=git)** | Delmar, NY | On Site | Apr 03 |
+| ↳ | **[Student Assistant (Legal Intern)](https://jobright.ai/jobs/info/69d05fc654f00230c6d11678?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | Apr 03 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Summer 2026 Contracts Internship](https://jobright.ai/jobs/info/69d05b86cfdc6132f943a957?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | **[LawBhoomi](https://lawbhoomi.com/)** | **[Associate and Long-Term Internship Opportunity at AGS Legal: Apply Now!](https://jobright.ai/jobs/info/69d058da0b098b7a670789bb?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Apr 03 |
 | **[Peet's Coffee](http://www.peets.com/)** | **[Quality & Regulatory Intern](https://jobright.ai/jobs/info/69d050f7366bb95ba551d77e?utm_campaign=1055&utm_source=git)** | Emeryville, California | On Site | Apr 03 |
@@ -76,10 +78,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CAI Compliance Intern](https://jobright.ai/jobs/info/69d02996366bb95ba551bc0e?utm_campaign=1055&utm_source=git)** | New Brunswick, New Jersey, United States of America | Hybrid | Apr 03 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Fall 2026 Legal Externship – Florida Regional Office](https://jobright.ai/jobs/info/69d024a7cfdc6132f9438a2b?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 03 |
 | ↳ | **[Fall 2026 Legal Externship – Florida Regional Office](https://jobright.ai/jobs/info/69d024a6cdb525785fba7b70?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | Hybrid | Apr 03 |
-| ↳ | **[Fall 2026 Legal Externship – Clean Energy Program](https://jobright.ai/jobs/info/69d0249954f00230c6d0f76a?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 03 |
 | ↳ | **[Fall 2026 Legal Externship – Clean Energy Program](https://jobright.ai/jobs/info/69d0249954f00230c6d0f769?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 03 |
-| ↳ | **[Fall 2026 Legal Externship – Clean Energy Program](https://jobright.ai/jobs/info/69d02498cfdc6132f94389e6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
+| ↳ | **[Fall 2026 Legal Externship – Clean Energy Program](https://jobright.ai/jobs/info/69d0249954f00230c6d0f76a?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 03 |
 | ↳ | **[Fall 2026 Legal Externship – Community Partnerships Program](https://jobright.ai/jobs/info/69d02498cfdc6132f94389dd?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 03 |
+| ↳ | **[Fall 2026 Legal Externship – Clean Energy Program](https://jobright.ai/jobs/info/69d02498cfdc6132f94389e6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | ↳ | **[Fall 2026 Legal Internship – Washington, DC Regional Office](https://jobright.ai/jobs/info/69d02491cfdc6132f94389bf?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 03 |
 | ↳ | **[Fall 2026 Legal Internship – Washington, DC Regional Office](https://jobright.ai/jobs/info/69d02490cfdc6132f94389ba?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 03 |
 | ↳ | **[Fall 2026 Legal Externship – Biodiversity Defense Program](https://jobright.ai/jobs/info/69d0248fcdb525785fba7b10?utm_campaign=1055&utm_source=git)** | Bozeman, MT | Hybrid | Apr 03 |
@@ -93,15 +95,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Legal Externship – Northeast Regional Office](https://jobright.ai/jobs/info/69d0235f366bb95ba551b9b8?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-Domestic Violence](https://jobright.ai/jobs/info/69d0231f54f00230c6d0f62b?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 03 |
 | **[Compass](http://www.prudentialcal.com/)** | **[Audit and Compliance, Summer Intern](https://jobright.ai/jobs/info/69d0215ccdb525785fba78bd?utm_campaign=1055&utm_source=git)** | Stevens Point, WI | On Site | Apr 03 |
-| **[Crete Carrier Corporation](https://cretecarrier.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69d01ad1891d7b11cfcd89d4?utm_campaign=1055&utm_source=git)** | Lincoln, NE | On Site | Apr 03 |
 | **[The Center for Climate Integrity](http://climateintegrity.org/)** | **[LEGAL INTERN - SUMMER 2026](https://jobright.ai/jobs/info/69d01a4dcfdc6132f94384eb?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Compliance Assistant Intern](https://jobright.ai/jobs/info/69d0379c891d7b11cfcd9d8f?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | Apr 03 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern - Enterprise Risk Management](https://jobright.ai/jobs/info/69d0379454f00230c6d106b6?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Apr 03 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Fall 2026 Legal Externship – Clean Energy Program](https://jobright.ai/jobs/info/69d036e7366bb95ba551ca18?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 03 |
 | ↳ | **[Fall 2026 Legal Externship – Clean Energy Program](https://jobright.ai/jobs/info/69d036ebcfdc6132f94398fe?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 03 |
 | ↳ | **[Fall 2026 Legal Externship – Clean Energy Program](https://jobright.ai/jobs/info/69d036e7366bb95ba551ca19?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Apr 03 |
-| ↳ | **[Fall 2026 Legal Externship – Biodiversity Defense Program](https://jobright.ai/jobs/info/69d036f0cdb525785fba89b4?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Apr 03 |
 | ↳ | **[Fall 2026 Legal Externship – Biodiversity Defense Program](https://jobright.ai/jobs/info/69d036f5cdb525785fba89c4?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
+| ↳ | **[Fall 2026 Legal Externship – Biodiversity Defense Program](https://jobright.ai/jobs/info/69d036f0cdb525785fba89b4?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Apr 03 |
 | **[Johnson Outdoors](http://www.johnsonoutdoors.com/)** | **[Legal Summer Internship](https://jobright.ai/jobs/info/69d0136a366bb95ba551b242?utm_campaign=1055&utm_source=git)** | Racine, Wisconsin, United States | On Site | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Consumer Relations](https://jobright.ai/jobs/info/69d0135dcfdc6132f94381bc?utm_campaign=1055&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
 | **[Johnson Outdoors](http://www.johnsonoutdoors.com/)** | **[Legal Summer Internship](https://jobright.ai/jobs/info/69d00f5b891d7b11cfcd8473?utm_campaign=1055&utm_source=git)** | Racine, WI | On Site | Apr 03 |
@@ -118,10 +119,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Legal Externship – International Program](https://jobright.ai/jobs/info/69d036f5cdb525785fba89c8?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Apr 03 |
 | ↳ | **[Fall 2026 Legal Externship – Community Partnerships Program](https://jobright.ai/jobs/info/69d0371a0b098b7a67077b32?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 03 |
 | **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Summer/Fall 2026 Legal Internships - LGBTQ/HIV Advocacy Project](https://jobright.ai/jobs/info/69d0066a366bb95ba551a9b2?utm_campaign=1055&utm_source=git)** | Brooklyn Legal Services | Hybrid | Apr 03 |
-| **[FormFactor Inc.](http://www.formfactor.com)** | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34527ae2a534885eaac98?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 03 |
+| **[FormFactor Inc.](http://www.formfactor.com)** | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e77a8ac8e70ff6789b1?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Apr 03 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34eb0a8ac8e70ff6789e4?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | Apr 03 |
-| ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34e77a8ac8e70ff6789b1?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Apr 03 |
 | ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69c76c73e565c26a70028b56?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | Remote | Apr 03 |
+| ↳ | **[1L Summer Legal & Trade Intern](https://jobright.ai/jobs/info/69b34527ae2a534885eaac98?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - IP and Litigation](https://jobright.ai/jobs/info/69cffb78891d7b11cfcd78bd?utm_campaign=1055&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | ↳ | **[Internship - IP and Litigation](https://jobright.ai/jobs/info/69cff804891d7b11cfcd76cd?utm_campaign=1055&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
 | **[MyMichigan Health](https://www.mymichigan.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69cff5c8891d7b11cfcd7664?utm_campaign=1055&utm_source=git)** | Midland, MI | On Site | Apr 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Credit One Bank](http://creditonebank.com)** | **[Compliance Risk Analyst Intern (ERS)](https://jobright.ai/jobs/info/69cee76ccdb525785fb9cfda?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Apr 02 |
 | **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Undergraduate Intern, Legal](https://jobright.ai/jobs/info/69cee43f366bb95ba5510b91?utm_campaign=1055&utm_source=git)** | Atlanta, GA, Atlanta, GA, US | On Site | Apr 02 |
 | **[Expeditors](http://www.expeditors.com)** | **[Summer Internship - Customs Brokerage](https://jobright.ai/jobs/info/69cee13d398fb071abf8a262?utm_campaign=1055&utm_source=git)** | 90650, 19701 Hamilton Ave, Torrance, CA 90502, USA | On Site | Apr 02 |
-| **[Children's Wisconsin](https://childrenswi.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69cee106891d7b11cfccda37?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
