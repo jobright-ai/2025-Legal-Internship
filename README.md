@@ -84,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Maverick](https://www.maverickbuilders.com)** | **[Compliance Assistant Intern](https://jobright.ai/jobs/info/69d031c5366bb95ba551c833?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL, US | On Site | Apr 03 |
 | **[Axiom](http://www.axiomlaw.com)** | **[Labor & Employment Counsel – Hybrid (Wilmington, MA)](https://jobright.ai/jobs/info/69d030530b098b7a670774bd?utm_campaign=1055&utm_source=git)** | Wilmington, MA | Hybrid | Apr 03 |
 | **[Crocs, Inc.](http://www.crocs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d030500b098b7a670774b8?utm_campaign=1055&utm_source=git)** | Broomfield, CO | Hybrid | Apr 03 |
-| **[City of Port St. Lucie](http://www.cityofpsl.com/)** | **[Summer Intern to Senior Deputy City Attorney- Legal Department](https://jobright.ai/jobs/info/69d02e89891d7b11cfcd9635?utm_campaign=1055&utm_source=git)** | Port St Lucie, FL | On Site | Apr 03 |
 | **[Brkthru](https://brkthru.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d02a7454f00230c6d0fde1?utm_campaign=1055&utm_source=git)** | Detroit Training Center | Southfield, MI | Hybrid | Apr 03 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[CAI Compliance Intern](https://jobright.ai/jobs/info/69d029a254f00230c6d0f86a?utm_campaign=1055&utm_source=git)** | Remote (US) | Remote | Apr 03 |
 | ↳ | **[CAI Compliance Intern](https://jobright.ai/jobs/info/69d02996366bb95ba551bc0e?utm_campaign=1055&utm_source=git)** | New Brunswick, New Jersey, United States of America | Hybrid | Apr 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[VSP Vision Care](https://www.vsp.com/?utm_source=linkedin&utm_medium=social&utm_campaign=gcc_general)** | **[Internship, Compliance and Privacy Department](https://jobright.ai/jobs/info/69b36539ae2a534885eabecc?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 03 |
 | **[American National Bank of Texas](https://www.anbtx.com/)** | **[Banking Fraud Operations Internship](https://jobright.ai/jobs/info/69cf5dab54f00230c6d09402?utm_campaign=1055&utm_source=git)** | Terrell, TX | On Site | Apr 02 |
 | **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69cf5372366bb95ba551571a?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
+| **[PNC](http://www.pnc.com)** | **[Detection & Investigation Associate: Monday - Friday 12:00 PM - 8:30 PM](https://jobright.ai/jobs/info/69d0aa0c54f00230c6d14635?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
