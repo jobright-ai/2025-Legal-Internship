@@ -111,8 +111,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Legal Externship – Florida Regional Office](https://jobright.ai/jobs/info/69d024a6cdb525785fba7b70?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | Hybrid | Apr 03 |
 | ↳ | **[Fall 2026 Legal Externship – Clean Energy Program](https://jobright.ai/jobs/info/69d0249954f00230c6d0f769?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 03 |
 | ↳ | **[Fall 2026 Legal Externship – Clean Energy Program](https://jobright.ai/jobs/info/69d0249954f00230c6d0f76a?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 03 |
-| ↳ | **[Fall 2026 Legal Externship – Clean Energy Program](https://jobright.ai/jobs/info/69d02498cfdc6132f94389e6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | ↳ | **[Fall 2026 Legal Externship – Community Partnerships Program](https://jobright.ai/jobs/info/69d02498cfdc6132f94389dd?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 03 |
+| ↳ | **[Fall 2026 Legal Externship – Clean Energy Program](https://jobright.ai/jobs/info/69d02498cfdc6132f94389e6?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | ↳ | **[Fall 2026 Legal Internship – Washington, DC Regional Office](https://jobright.ai/jobs/info/69d02491cfdc6132f94389bf?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 03 |
 | ↳ | **[Fall 2026 Legal Internship – Washington, DC Regional Office](https://jobright.ai/jobs/info/69d02490cfdc6132f94389ba?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 03 |
 | ↳ | **[Fall 2026 Legal Externship – Biodiversity Defense Program](https://jobright.ai/jobs/info/69d0248fcdb525785fba7b10?utm_campaign=1055&utm_source=git)** | Bozeman, MT | Hybrid | Apr 03 |
