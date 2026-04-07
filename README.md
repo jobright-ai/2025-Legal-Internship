@@ -113,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[City of Port St. Lucie](http://www.cityofpsl.com/)** | **[Summer Intern to Senior Deputy City Attorney- Legal Department](https://jobright.ai/jobs/info/69d378dfcfdc6132f9451801?utm_campaign=1055&utm_source=git)** | Port St Lucie, FL | On Site | Apr 06 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TxDMV - Summer Intern Specialist - Law Clerk (OAH)](https://jobright.ai/jobs/info/69d304dc891d7b11cfcedac9?utm_campaign=1055&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Apr 05 |
 | ↳ | **[TxDMV - Summer Intern Specialist - Legal Assistant](https://jobright.ai/jobs/info/69d303a3366bb95ba5530ac9?utm_campaign=1055&utm_source=git)** | Texas-AustinWork Locations | On Site | Apr 05 |
+| **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Licensing Associate Intern LTE](https://jobright.ai/jobs/info/69d44b1ce63cea7a8b6586ac?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Apr 05 |
 | **[Massachusetts Port Authority](https://www.massport.com)** | **[Legal Research Assistant Intern](https://jobright.ai/jobs/info/69d2a4f9366bb95ba552e877?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts, United States | On Site | Apr 05 |
 | **[Southern Utah University](http://www.suu.edu/)** | **[Aviation Financial Aid Counselor](https://jobright.ai/jobs/info/69d2a217cdb525785fbba63b?utm_campaign=1055&utm_source=git)** | Cedar City, UT | Hybrid | Apr 05 |
 | **[Texas Department of Motor Vehicles](https://www.txdmv.gov/)** | **[TxDMV - Summer Intern Specialist - Legal Assistant](https://jobright.ai/jobs/info/69d29ac254f00230c6d22239?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Apr 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Maverick](https://www.maverickbuilders.com)** | **[Compliance Assistant Intern](https://jobright.ai/jobs/info/69d031c5366bb95ba551c833?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL, US | On Site | Apr 03 |
 | **[Axiom](http://www.axiomlaw.com)** | **[Labor & Employment Counsel – Hybrid (Wilmington, MA)](https://jobright.ai/jobs/info/69d030530b098b7a670774bd?utm_campaign=1055&utm_source=git)** | Wilmington, MA | Hybrid | Apr 03 |
 | **[Crocs, Inc.](http://www.crocs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d030500b098b7a670774b8?utm_campaign=1055&utm_source=git)** | Broomfield, CO | Hybrid | Apr 03 |
-| **[Brkthru](https://brkthru.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d02a7454f00230c6d0fde1?utm_campaign=1055&utm_source=git)** | Detroit Training Center | Southfield, MI | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
