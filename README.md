@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Everllence](https://www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Apr 07 |
+| **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - Trade Compliance & Logistics](https://jobright.ai/jobs/info/69bc71c34828227293fe506a?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Apr 07 |
+| **[Illinois Legal Aid Online](https://www.illinoislegalaid.org/)** | **[Staff Attorney - ACLU - ACLU of Illinois](https://jobright.ai/jobs/info/69d5144ccdb525785fbce2e1?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Apr 07 |
+| **[Repligen Corporation](http://www.repligen.com)** | **[Global Regulatory Affairs Intern](https://jobright.ai/jobs/info/69b85a3e06c1ba00c54a308a?utm_campaign=1055&utm_source=git)** | Waltham, MA | On Site | Apr 07 |
 | **[MyMichigan Health](https://www.mymichigan.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69cff5c8891d7b11cfcd7664?utm_campaign=1055&utm_source=git)** | Midland, MI | On Site | Apr 07 |
 | **[Canon USA](https://www.usa.canon.com)** | **[2026 Canon Insights Summer Internship - Legal](https://jobright.ai/jobs/info/69b873e856973837413dcb48?utm_campaign=1055&utm_source=git)** | Melville, NY | Hybrid | Apr 07 |
 | **[Texas Alcoholic Beverage Commission](https://www.tabc.texas.gov/)** | **[Internship Opportunity!! Legal Intern (Law Clerk Session #1)](https://jobright.ai/jobs/info/69d4f896366bb95ba5541d03?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Apr 07 |
@@ -84,10 +88,10 @@ For a complete list, click the following sortable link below:
 | **[San Diego Community Power](https://sdcommunitypower.org)** | **[Compliance and Contract Management Analyst](https://jobright.ai/jobs/info/69d42254891d7b11cfcf7ab1?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Apr 06 |
 | **[Denton County, Texas](https://www.dentoncounty.gov/)** | **[Bar Card Intern - District Attorney - Criminal](https://jobright.ai/jobs/info/69d42213cfdc6132f9457f4a?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Apr 06 |
 | **[Netwrix Corporation](http://www.netwrix.com)** | **[Legal Intern [Summer Internship]](https://jobright.ai/jobs/info/69d41e39cfdc6132f9457e2c?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 06 |
-| **[PNC](http://www.pnc.com)** | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d501d9cdb525785fbcdc8f?utm_campaign=1055&utm_source=git)** | Farmers Branch, TX | On Site | Apr 06 |
+| **[PNC](http://www.pnc.com)** | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d5011b366bb95ba5542011?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Apr 06 |
+| ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d501d9cdb525785fbcdc8f?utm_campaign=1055&utm_source=git)** | Farmers Branch, TX | On Site | Apr 06 |
 | ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d50157cfdc6132f945f2d3?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 06 |
 | ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d501d9cdb525785fbcdc90?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Apr 06 |
-| ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d5011b366bb95ba5542011?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Apr 06 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Risk Department](https://jobright.ai/jobs/info/69d41cd5cfdc6132f9457d82?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Apr 06 |
 | **[Corpay](https://payments.corpay.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69d41cd0cfdc6132f9457d62?utm_campaign=1055&utm_source=git)** | Peachtree Corners, GA 30092, USA | Remote | Apr 06 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Risk Department](https://jobright.ai/jobs/info/69d41ca8891d7b11cfcf78c4?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Apr 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/69d0ede854f00230c6d17806?utm_campaign=1055&utm_source=git)** | US-AL-Birmingham | On Site | Apr 04 |
 | ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/69d0edd20b098b7a6707ec40?utm_campaign=1055&utm_source=git)** | Birmingham, AL, US | On Site | Apr 04 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Associate Director of Research Security and International Compliance](https://jobright.ai/jobs/info/69d0830ccfdc6132f943c112?utm_campaign=1055&utm_source=git)** | Harrisonburg, VA | On Site | Apr 03 |
-| **[Day & Zimmermann](http://dayzim.com/)** | **[Contracts Intern](https://jobright.ai/jobs/info/69d073410b098b7a6707981b?utm_campaign=1055&utm_source=git)** | Middletown, IA | On Site | Apr 03 |
-| **[Guardian Pharmacy](https://guardianpharmacy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d07312cdb525785fbaa74b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
-| **[New York State Justice Center for the Protection of People with Special Needs](http://www.justicecenter.ny.gov)** | **[Student Assistant (Legal Intern)](https://jobright.ai/jobs/info/69d0832ccdb525785fbab17f?utm_campaign=1055&utm_source=git)** | Delmar, NY | On Site | Apr 03 |
-| ↳ | **[Student Assistant (Legal Intern)](https://jobright.ai/jobs/info/69d05fc654f00230c6d11678?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
