@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corpay](https://payments.corpay.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69d45e1c891d7b11cfcf9be4?utm_campaign=1055&utm_source=git)** | Peachtree Corners, GA | Remote | Apr 06 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Safety and Operations Compliance, Intern](https://jobright.ai/jobs/info/69d45c10cfdc6132f945a15f?utm_campaign=1055&utm_source=git)** | Oakland | Hybrid | Apr 06 |
+| ↳ | **[Safety and Operations Compliance, Intern](https://jobright.ai/jobs/info/69d45b3ae63cea7a8b659127?utm_campaign=1055&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Apr 06 |
 | **[Primoris Services Corporation](http://prim.com)** | **[Contracts Analyst Intern](https://jobright.ai/jobs/info/69d44065cfdc6132f94591ff?utm_campaign=1055&utm_source=git)** | Denver, Colorado, United States | On Site | Apr 06 |
 | ↳ | **[Contracts Analyst Intern](https://jobright.ai/jobs/info/69d43c51891d7b11cfcf8b30?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 06 |
 | **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/6998f365ce78e77b4fdd8731?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 06 |
 | **[Olympus Insurance Company](http://www.olympusinsurance.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69d4398fcfdc6132f945900b?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Apr 06 |
 | **[PNC](http://www.pnc.com)** | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d431d9366bb95ba553b586?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Apr 06 |
 | ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d431cfcdb525785fbc71d6?utm_campaign=1055&utm_source=git)** | Farmers Branch, TX | On Site | Apr 06 |
-| ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d4316fcfdc6132f945872e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 06 |
 | ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d4316fcfdc6132f945872f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Apr 06 |
+| ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d4316fcfdc6132f945872e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 06 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/69d42d2c54f00230c6d2ed66?utm_campaign=1055&utm_source=git)** | Plano, TX | Hybrid | Apr 06 |
 | **[Segal](https://www.segalco.com)** | **[Intern - Legal - Summer 2026](https://jobright.ai/jobs/info/69d42861cfdc6132f94583e5?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
 | **[New Mexico Public Regulation Commission](https://www.prc.nm.gov/)** | **[NARUC-Sponsored Legal Summer Internship](https://jobright.ai/jobs/info/69d4260b366bb95ba553b172?utm_campaign=1055&utm_source=git)** | Santa Fe, NM | Hybrid | Apr 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Summer/Fall 2026 Legal Internships - LGBTQ/HIV Advocacy Project](https://jobright.ai/jobs/info/69d090f4cfdc6132f943c924?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Apr 03 |
 | **[Busey](https://www.busey.com/home/home)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69d03d9a891d7b11cfcd9f7e?utm_campaign=1055&utm_source=git)** | Champaign, IL | On Site | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Consumer Relations](https://jobright.ai/jobs/info/69d03d1d0b098b7a67077cc1?utm_campaign=1055&utm_source=git)** | Corona, CA | On Site | Apr 03 |
-| **[Maverick](https://www.maverickbuilders.com)** | **[Compliance Assistant Intern](https://jobright.ai/jobs/info/69d031c5366bb95ba551c833?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL, US | On Site | Apr 03 |
-| **[Axiom](http://www.axiomlaw.com)** | **[Labor & Employment Counsel – Hybrid (Wilmington, MA)](https://jobright.ai/jobs/info/69d030530b098b7a670774bd?utm_campaign=1055&utm_source=git)** | Wilmington, MA | Hybrid | Apr 03 |
-| **[Crocs, Inc.](http://www.crocs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d030500b098b7a670774b8?utm_campaign=1055&utm_source=git)** | Broomfield, CO | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
