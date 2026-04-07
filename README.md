@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Continental](https://www.continental.com)** | **[Intern – Legal / U.S. Intellectual Property, Summer 2026](https://jobright.ai/jobs/info/69d55800cfdc6132f94617be?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Apr 07 |
+| **[Schellman](http://schellman.com)** | **[Compliance Internship](https://jobright.ai/jobs/info/69d5574d891d7b11cfd011a6?utm_campaign=1055&utm_source=git)** | Tampa, FL | Remote | Apr 07 |
+| **[Massachusetts Department of Public Utilities](https://www.mass.gov/orgs/department-of-public-utilities)** | **[Consumer Complaint Investigation Intern - Department of Public Utilities](https://jobright.ai/jobs/info/69d552bbe63cea7a8b660340?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Apr 07 |
 | **[Continental](https://www.continental.com)** | **[Intern – Legal / U.S. Intellectual Property, Summer 2026](https://jobright.ai/jobs/info/69d54999706f771673ba1e13?utm_campaign=1055&utm_source=git)** | OH-21, Cleveland, OH, USA | Hybrid | Apr 07 |
 | **[Prinston Pharmaceutical Inc.](https://www.prinstonpharm.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69d54373366bb95ba5543a00?utm_campaign=1055&utm_source=git)** | Somerset, NJ | On Site | Apr 07 |
 | **[Prosecuting Attorneys Association of Michigan](https://michiganprosecutor.org/)** | **[Staff Attorney 15/16 – Special Litigation Division – Attorney General’s Office](https://jobright.ai/jobs/info/69d53a3e706f771673ba16b5?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Apr 07 |
@@ -83,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[CEO Lawyer Personal Injury Law Firm](https://aliawadlaw.com/)** | **[Personal Injury Law Summer Internship Program 2026](https://jobright.ai/jobs/info/69d4bccfcfdc6132f945de33?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 07 |
 | **[Boomi](https://boomi.com/)** | **[License Compliance Intern (Hybrid - Vancouver, BC)](https://jobright.ai/jobs/info/69d4aaedcfdc6132f945ce15?utm_campaign=1055&utm_source=git)** | Metro Vancouver A, BC | Hybrid | Apr 06 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69d497dbcfdc6132f945c78e?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Apr 06 |
-| ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69d49695cdb525785fbcb10a?utm_campaign=1055&utm_source=git)** | Suwanee, GA | On Site | Apr 06 |
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69d48d52e63cea7a8b65ac6c?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Apr 06 |
 | **[Boomi](https://boomi.com/)** | **[License Compliance Intern (Hybrid - Vancouver, BC)](https://jobright.ai/jobs/info/69d485eacdb525785fbca44d?utm_campaign=1055&utm_source=git)** | Canada | Hybrid | Apr 06 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69d46a3dcdb525785fbc8f10?utm_campaign=1055&utm_source=git)** | Bellevue, WA | Hybrid | Apr 06 |
@@ -100,9 +102,7 @@ For a complete list, click the following sortable link below:
 | **[San Diego Community Power](https://sdcommunitypower.org)** | **[Compliance and Contract Management Analyst](https://jobright.ai/jobs/info/69d42254891d7b11cfcf7ab1?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Apr 06 |
 | **[Denton County, Texas](https://www.dentoncounty.gov/)** | **[Bar Card Intern - District Attorney - Criminal](https://jobright.ai/jobs/info/69d42213cfdc6132f9457f4a?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Apr 06 |
 | **[Netwrix Corporation](http://www.netwrix.com)** | **[Legal Intern [Summer Internship]](https://jobright.ai/jobs/info/69d41e39cfdc6132f9457e2c?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 06 |
-| **[PNC](http://www.pnc.com)** | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d501d9cdb525785fbcdc8f?utm_campaign=1055&utm_source=git)** | Farmers Branch, TX | On Site | Apr 06 |
-| ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d5011b366bb95ba5542011?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Apr 06 |
-| ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d50157cfdc6132f945f2d3?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 06 |
+| **[PNC](http://www.pnc.com)** | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d50157cfdc6132f945f2d3?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 06 |
 | ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d501d9cdb525785fbcdc90?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Apr 06 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Risk Department](https://jobright.ai/jobs/info/69d41cd5cfdc6132f9457d82?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Apr 06 |
 | **[Corpay](https://payments.corpay.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69d41cd0cfdc6132f9457d62?utm_campaign=1055&utm_source=git)** | Peachtree Corners, GA 30092, USA | Remote | Apr 06 |
