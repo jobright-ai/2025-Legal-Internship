@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Global Security & Resilience - Internship](https://jobright.ai/jobs/info/69bb898006c1ba00c54e04f7?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Apr 07 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal and Compliance Department - FLU Oversight Intern](https://jobright.ai/jobs/info/69b8551d06c1ba00c54a1aac?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 07 |
 | **[CEO Lawyer Personal Injury Law Firm](https://aliawadlaw.com/)** | **[Personal Injury Law Summer Internship Program 2026](https://jobright.ai/jobs/info/69d4bccfcfdc6132f945de33?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 07 |
 | **[Boomi](https://boomi.com/)** | **[License Compliance Intern (Hybrid - Vancouver, BC)](https://jobright.ai/jobs/info/69d4aaedcfdc6132f945ce15?utm_campaign=1055&utm_source=git)** | Metro Vancouver A, BC | Hybrid | Apr 06 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69d497dbcfdc6132f945c78e?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Apr 06 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Contracts Analyst Intern](https://jobright.ai/jobs/info/69d43c51891d7b11cfcf8b30?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 06 |
 | **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/6998f365ce78e77b4fdd8731?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 06 |
 | **[Olympus Insurance Company](http://www.olympusinsurance.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69d4398fcfdc6132f945900b?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Apr 06 |
-| **[PNC](http://www.pnc.com)** | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d4316fcfdc6132f945872e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 06 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/69d42d2c54f00230c6d2ed66?utm_campaign=1055&utm_source=git)** | Plano, TX | Hybrid | Apr 06 |
 | **[Segal](https://www.segalco.com)** | **[Intern - Legal - Summer 2026](https://jobright.ai/jobs/info/69d42861cfdc6132f94583e5?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
 | **[New Mexico Public Regulation Commission](https://www.prc.nm.gov/)** | **[NARUC-Sponsored Legal Summer Internship](https://jobright.ai/jobs/info/69d4260b366bb95ba553b172?utm_campaign=1055&utm_source=git)** | Santa Fe, NM | Hybrid | Apr 06 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[CEO Lawyer Personal Injury Law Firm](https://aliawadlaw.com/)** | **[CEO Lawyer – Personal Injury Law Summer Internship Program (Rising 3Ls)](https://jobright.ai/jobs/info/69d41c73891d7b11cfcf780b?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 06 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Custody and Complex - Proxy Team - Summer Internship 2026](https://jobright.ai/jobs/info/69d41c52366bb95ba553aaaf?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 06 |
 | **[CEO Lawyer Personal Injury Law Firm](https://aliawadlaw.com/)** | **[Personal Injury Law Summer Internship Program 2026](https://jobright.ai/jobs/info/69d41bdee63cea7a8b6567fb?utm_campaign=1055&utm_source=git)** | Remote (United States) | Remote | Apr 06 |
-| **[Prinston Pharmaceutical Inc.](https://www.prinstonpharm.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d41751366bb95ba553a47e?utm_campaign=1055&utm_source=git)** | Somerset, NJ | On Site | Apr 06 |
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Compliance Intern / ICI](https://jobright.ai/jobs/info/69d415b3891d7b11cfcf716f?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 06 |
 | **[SOCOTEC](http://www.socotec.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69d4117c891d7b11cfcf706e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 06 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69a76bee1fc3d83b78094174?utm_campaign=1055&utm_source=git)** | Hazelwood, MO | Hybrid | Apr 06 |
