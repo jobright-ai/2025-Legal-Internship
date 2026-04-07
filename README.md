@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trü Frü](https://trufru.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d52631cfdc6132f945ff9b?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Apr 07 |
+| **[CINQCARE](https://cinq.care)** | **[Legal Intern](https://jobright.ai/jobs/info/69ca7b8b466f1e133aac4261?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 07 |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a5aa295f8e37655dffdb?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Apr 07 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Ethics and Regulatory Compliance Intern – Summer 2026 (May – August)](https://jobright.ai/jobs/info/6916f43d6f36db06ef05b74b?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Apr 07 |
+| **[Jainam Share Consultants Pvt Ltd.](http://www.jainam.in)** | **[Senior Executive - Transaction Settlement](https://jobright.ai/jobs/info/69d51bcbcfdc6132f945fbb1?utm_campaign=1055&utm_source=git)** | House, NM | On Site | Apr 07 |
 | **[Everllence](https://www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Apr 07 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - Trade Compliance & Logistics](https://jobright.ai/jobs/info/69bc71c34828227293fe506a?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Apr 07 |
 | **[Illinois Legal Aid Online](https://www.illinoislegalaid.org/)** | **[Staff Attorney - ACLU - ACLU of Illinois](https://jobright.ai/jobs/info/69d5144ccdb525785fbce2e1?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Apr 07 |
@@ -88,10 +93,10 @@ For a complete list, click the following sortable link below:
 | **[San Diego Community Power](https://sdcommunitypower.org)** | **[Compliance and Contract Management Analyst](https://jobright.ai/jobs/info/69d42254891d7b11cfcf7ab1?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Apr 06 |
 | **[Denton County, Texas](https://www.dentoncounty.gov/)** | **[Bar Card Intern - District Attorney - Criminal](https://jobright.ai/jobs/info/69d42213cfdc6132f9457f4a?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Apr 06 |
 | **[Netwrix Corporation](http://www.netwrix.com)** | **[Legal Intern [Summer Internship]](https://jobright.ai/jobs/info/69d41e39cfdc6132f9457e2c?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 06 |
-| **[PNC](http://www.pnc.com)** | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d5011b366bb95ba5542011?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Apr 06 |
-| ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d501d9cdb525785fbcdc8f?utm_campaign=1055&utm_source=git)** | Farmers Branch, TX | On Site | Apr 06 |
+| **[PNC](http://www.pnc.com)** | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d501d9cdb525785fbcdc90?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Apr 06 |
 | ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d50157cfdc6132f945f2d3?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 06 |
-| ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d501d9cdb525785fbcdc90?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Apr 06 |
+| ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d5011b366bb95ba5542011?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Apr 06 |
+| ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d501d9cdb525785fbcdc8f?utm_campaign=1055&utm_source=git)** | Farmers Branch, TX | On Site | Apr 06 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Risk Department](https://jobright.ai/jobs/info/69d41cd5cfdc6132f9457d82?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Apr 06 |
 | **[Corpay](https://payments.corpay.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69d41cd0cfdc6132f9457d62?utm_campaign=1055&utm_source=git)** | Peachtree Corners, GA 30092, USA | Remote | Apr 06 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Risk Department](https://jobright.ai/jobs/info/69d41ca8891d7b11cfcf78c4?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Apr 06 |
@@ -122,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Duke University](http://www.duke.edu)** | **[Legal Intern, DUMAC](https://jobright.ai/jobs/info/69d3cade891d7b11cfcf3d5d?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Apr 06 |
 | ↳ | **[Legal Intern, DUMAC](https://jobright.ai/jobs/info/69d3c8a2cfdc6132f9453ba9?utm_campaign=1055&utm_source=git)** | Durham, NC, US, 27710 | On Site | Apr 06 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Legal Internship - Spring 2026 (Dallas)](https://jobright.ai/jobs/info/697e30187f40342e15d6fdf8?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Apr 06 |
+| **[TechSmith](http://www.techsmith.com)** | **[Data Privacy and Compliance Intern - 2026 - Hybrid](https://jobright.ai/jobs/info/69d5262fcdb525785fbce9c5?utm_campaign=1055&utm_source=git)** | East Lansing, Michigan | Hybrid | Apr 06 |
 | **[Olympus Insurance Company](http://www.olympusinsurance.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69d4e476e63cea7a8b65daed?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Apr 06 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[Legal Assistant-Unpaid](https://jobright.ai/jobs/info/69d378e5891d7b11cfcf1319?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Apr 06 |
 | **[City of Port St. Lucie](http://www.cityofpsl.com/)** | **[Summer Intern to Senior Deputy City Attorney- Legal Department](https://jobright.ai/jobs/info/69d378dfcfdc6132f9451801?utm_campaign=1055&utm_source=git)** | Port St Lucie, FL | On Site | Apr 06 |
@@ -134,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Massachusetts Port Authority](https://www.massport.com)** | **[Legal Research Assistant Intern](https://jobright.ai/jobs/info/69d275ab54f00230c6d216c2?utm_campaign=1055&utm_source=git)** | 65 1 Harborside Drive, Boston, MA, 02128, US | On Site | Apr 05 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/69b694cd3b74eb1e2c8458cd?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Apr 05 |
 | **[Avant](https://www.avant.com)** | **[Legal Summer Internship](https://jobright.ai/jobs/info/69991f16e0bddb6acac81f68?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 05 |
-| **[Methode Electronics](http://methode.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a1f1cc359fe034b1cd317c?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | On Site | Apr 05 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Legal Internship - Summer 2026 (Dallas)](https://jobright.ai/jobs/info/697e2f56ce48107c05426442?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Apr 05 |
 | **[Denton County, Texas](https://www.dentoncounty.gov/)** | **[Bar Card Intern - District Attorney - Criminal](https://jobright.ai/jobs/info/69d23420cdb525785fbb86f0?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Apr 05 |
 | **[Imperial PFS](https://www.ipfs.com)** | **[Paralegal Intern](https://jobright.ai/jobs/info/69d1c5bf366bb95ba5528f62?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Apr 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jainam Share Consultants Pvt Ltd.](http://www.jainam.in)** | **[Team Leader - Regulatory](https://jobright.ai/jobs/info/69d11cce54f00230c6d1857e?utm_campaign=1055&utm_source=git)** | House, NM | On Site | Apr 04 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/696026607ebc25398eb6174d?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Apr 04 |
 | **[Aspen Aerogels](http://www.aerogel.com)** | **[Legal/HR Intern](https://jobright.ai/jobs/info/69b498c33b74eb1e2c81f7e0?utm_campaign=1055&utm_source=git)** | Northborough, MA | On Site | Apr 04 |
-| **[Planet](http://www.planet.com)** | **[Senior Analyst, International Trade Compliance](https://jobright.ai/jobs/info/69cb0162e565c26a7004378f?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 04 |
-| **[Apex Clean Energy](http://apexcleanenergy.com)** | **[Land Management Summer Associate (Intern)](https://jobright.ai/jobs/info/6997bf3e81476f6176afe7f9?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Apr 04 |
-| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/69d0ede854f00230c6d17806?utm_campaign=1055&utm_source=git)** | US-AL-Birmingham | On Site | Apr 04 |
-| ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/69d0edd20b098b7a6707ec40?utm_campaign=1055&utm_source=git)** | Birmingham, AL, US | On Site | Apr 04 |
-| **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Associate Director of Research Security and International Compliance](https://jobright.ai/jobs/info/69d0830ccfdc6132f943c112?utm_campaign=1055&utm_source=git)** | Harrisonburg, VA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
