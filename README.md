@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69d499c3e63cea7a8b65b9bc?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Apr 06 |
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69d497dbcfdc6132f945c78e?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Apr 06 |
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69d49713e63cea7a8b65b75f?utm_campaign=1055&utm_source=git)** | Lake Oswego, OR | On Site | Apr 06 |
-| ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69d496f7891d7b11cfcfc030?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 06 |
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69d49695cdb525785fbcb10a?utm_campaign=1055&utm_source=git)** | Suwanee, GA | On Site | Apr 06 |
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69d48d52e63cea7a8b65ac6c?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Apr 06 |
 | **[Boomi](https://boomi.com/)** | **[License Compliance Intern (Hybrid - Vancouver, BC)](https://jobright.ai/jobs/info/69d485eacdb525785fbca44d?utm_campaign=1055&utm_source=git)** | Canada | Hybrid | Apr 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Guardian Pharmacy](https://guardianpharmacy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d07312cdb525785fbaa74b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
 | **[New York State Justice Center for the Protection of People with Special Needs](http://www.justicecenter.ny.gov)** | **[Student Assistant (Legal Intern)](https://jobright.ai/jobs/info/69d0832ccdb525785fbab17f?utm_campaign=1055&utm_source=git)** | Delmar, NY | On Site | Apr 03 |
 | ↳ | **[Student Assistant (Legal Intern)](https://jobright.ai/jobs/info/69d05fc654f00230c6d11678?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | Apr 03 |
+| **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Summer 2026 Contracts Internship](https://jobright.ai/jobs/info/69d05b86cfdc6132f943a957?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
