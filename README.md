@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69d499c3e63cea7a8b65b9bc?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Apr 06 |
+| ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69d497dbcfdc6132f945c78e?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Apr 06 |
+| ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69d49713e63cea7a8b65b75f?utm_campaign=1055&utm_source=git)** | Lake Oswego, OR | On Site | Apr 06 |
+| ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69d496f7891d7b11cfcfc030?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 06 |
+| ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69d49695cdb525785fbcb10a?utm_campaign=1055&utm_source=git)** | Suwanee, GA | On Site | Apr 06 |
+| ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69d48d52e63cea7a8b65ac6c?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Apr 06 |
 | **[Boomi](https://boomi.com/)** | **[License Compliance Intern (Hybrid - Vancouver, BC)](https://jobright.ai/jobs/info/69d485eacdb525785fbca44d?utm_campaign=1055&utm_source=git)** | Canada | Hybrid | Apr 06 |
 | **[City of Port St. Lucie](http://www.cityofpsl.com/)** | **[Summer Intern to Senior Deputy City Attorney- Legal Department](https://jobright.ai/jobs/info/69d47fcacfdc6132f945b5a2?utm_campaign=1055&utm_source=git)** | Port St Lucie, FL | On Site | Apr 06 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69d46a3dcdb525785fbc8f10?utm_campaign=1055&utm_source=git)** | Bellevue, WA | Hybrid | Apr 06 |
@@ -68,9 +74,7 @@ For a complete list, click the following sortable link below:
 | **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/6998f365ce78e77b4fdd8731?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 06 |
 | **[Olympus Insurance Company](http://www.olympusinsurance.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69d4398fcfdc6132f945900b?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Apr 06 |
 | **[PNC](http://www.pnc.com)** | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d431d9366bb95ba553b586?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Apr 06 |
-| ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d431cfcdb525785fbc71d6?utm_campaign=1055&utm_source=git)** | Farmers Branch, TX | On Site | Apr 06 |
 | ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d4316fcfdc6132f945872e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 06 |
-| ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d4316fcfdc6132f945872f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Apr 06 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/69d42d2c54f00230c6d2ed66?utm_campaign=1055&utm_source=git)** | Plano, TX | Hybrid | Apr 06 |
 | **[Segal](https://www.segalco.com)** | **[Intern - Legal - Summer 2026](https://jobright.ai/jobs/info/69d42861cfdc6132f94583e5?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
 | **[New Mexico Public Regulation Commission](https://www.prc.nm.gov/)** | **[NARUC-Sponsored Legal Summer Internship](https://jobright.ai/jobs/info/69d4260b366bb95ba553b172?utm_campaign=1055&utm_source=git)** | Santa Fe, NM | Hybrid | Apr 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Guardian Pharmacy](https://guardianpharmacy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d07312cdb525785fbaa74b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
 | **[New York State Justice Center for the Protection of People with Special Needs](http://www.justicecenter.ny.gov)** | **[Student Assistant (Legal Intern)](https://jobright.ai/jobs/info/69d0832ccdb525785fbab17f?utm_campaign=1055&utm_source=git)** | Delmar, NY | On Site | Apr 03 |
 | ↳ | **[Student Assistant (Legal Intern)](https://jobright.ai/jobs/info/69d05fc654f00230c6d11678?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | Apr 03 |
-| **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Summer 2026 Contracts Internship](https://jobright.ai/jobs/info/69d05b86cfdc6132f943a957?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
-| **[Peet's Coffee](http://www.peets.com/)** | **[Quality & Regulatory Intern](https://jobright.ai/jobs/info/69d050f7366bb95ba551d77e?utm_campaign=1055&utm_source=git)** | Emeryville, California | On Site | Apr 03 |
-| **[St. Luke's Health System](https://www.stlukesonline.org)** | **[Legal Intern   -   153132](https://jobright.ai/jobs/info/69d04a5f54f00230c6d110e0?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Apr 03 |
-| **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Summer/Fall 2026 Legal Internships - LGBTQ/HIV Advocacy Project](https://jobright.ai/jobs/info/69d090f4cfdc6132f943c924?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
