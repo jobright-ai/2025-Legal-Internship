@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kahana Feld](https://kahanafeld.com/)** | **[Houston Summer Associate 2026 - 2L (Class of 2027)](https://jobright.ai/jobs/info/69d46ba854f00230c6d30c87?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Apr 06 |
+| **[Sono Bello](http://sonobello.com)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69d46a3dcdb525785fbc8f10?utm_campaign=1055&utm_source=git)** | Bellevue, WA | Hybrid | Apr 06 |
 | **[Corpay](https://payments.corpay.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69d45e1c891d7b11cfcf9be4?utm_campaign=1055&utm_source=git)** | Peachtree Corners, GA | Remote | Apr 06 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Safety and Operations Compliance, Intern](https://jobright.ai/jobs/info/69d45c10cfdc6132f945a15f?utm_campaign=1055&utm_source=git)** | Oakland | Hybrid | Apr 06 |
 | ↳ | **[Safety and Operations Compliance, Intern](https://jobright.ai/jobs/info/69d45b3ae63cea7a8b659127?utm_campaign=1055&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Apr 06 |
@@ -66,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Olympus Insurance Company](http://www.olympusinsurance.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69d4398fcfdc6132f945900b?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Apr 06 |
 | **[PNC](http://www.pnc.com)** | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d431d9366bb95ba553b586?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Apr 06 |
 | ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d431cfcdb525785fbc71d6?utm_campaign=1055&utm_source=git)** | Farmers Branch, TX | On Site | Apr 06 |
-| ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d4316fcfdc6132f945872f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Apr 06 |
 | ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d4316fcfdc6132f945872e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 06 |
+| ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d4316fcfdc6132f945872f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Apr 06 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/69d42d2c54f00230c6d2ed66?utm_campaign=1055&utm_source=git)** | Plano, TX | Hybrid | Apr 06 |
 | **[Segal](https://www.segalco.com)** | **[Intern - Legal - Summer 2026](https://jobright.ai/jobs/info/69d42861cfdc6132f94583e5?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
 | **[New Mexico Public Regulation Commission](https://www.prc.nm.gov/)** | **[NARUC-Sponsored Legal Summer Internship](https://jobright.ai/jobs/info/69d4260b366bb95ba553b172?utm_campaign=1055&utm_source=git)** | Santa Fe, NM | Hybrid | Apr 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Peet's Coffee](http://www.peets.com/)** | **[Quality & Regulatory Intern](https://jobright.ai/jobs/info/69d050f7366bb95ba551d77e?utm_campaign=1055&utm_source=git)** | Emeryville, California | On Site | Apr 03 |
 | **[St. Luke's Health System](https://www.stlukesonline.org)** | **[Legal Intern   -   153132](https://jobright.ai/jobs/info/69d04a5f54f00230c6d110e0?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Apr 03 |
 | **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Summer/Fall 2026 Legal Internships - LGBTQ/HIV Advocacy Project](https://jobright.ai/jobs/info/69d090f4cfdc6132f943c924?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Apr 03 |
-| **[Busey](https://www.busey.com/home/home)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69d03d9a891d7b11cfcd9f7e?utm_campaign=1055&utm_source=git)** | Champaign, IL | On Site | Apr 03 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Consumer Relations](https://jobright.ai/jobs/info/69d03d1d0b098b7a67077cc1?utm_campaign=1055&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
