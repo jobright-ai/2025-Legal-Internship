@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boomi](https://boomi.com/)** | **[License Compliance Intern (Hybrid - Vancouver, BC)](https://jobright.ai/jobs/info/69d485eacdb525785fbca44d?utm_campaign=1055&utm_source=git)** | Canada | Hybrid | Apr 06 |
+| **[City of Port St. Lucie](http://www.cityofpsl.com/)** | **[Summer Intern to Senior Deputy City Attorney- Legal Department](https://jobright.ai/jobs/info/69d47fcacfdc6132f945b5a2?utm_campaign=1055&utm_source=git)** | Port St Lucie, FL | On Site | Apr 06 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69d46a3dcdb525785fbc8f10?utm_campaign=1055&utm_source=git)** | Bellevue, WA | Hybrid | Apr 06 |
 | **[Corpay](https://payments.corpay.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69d45e1c891d7b11cfcf9be4?utm_campaign=1055&utm_source=git)** | Peachtree Corners, GA | Remote | Apr 06 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Safety and Operations Compliance, Intern](https://jobright.ai/jobs/info/69d45c10cfdc6132f945a15f?utm_campaign=1055&utm_source=git)** | Oakland | Hybrid | Apr 06 |
@@ -75,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[San Diego Community Power](https://sdcommunitypower.org)** | **[Compliance and Contract Management Analyst](https://jobright.ai/jobs/info/69d42254891d7b11cfcf7ab1?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Apr 06 |
 | **[Denton County, Texas](https://www.dentoncounty.gov/)** | **[Bar Card Intern - District Attorney - Criminal](https://jobright.ai/jobs/info/69d42213cfdc6132f9457f4a?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Apr 06 |
 | **[Netwrix Corporation](http://www.netwrix.com)** | **[Legal Intern [Summer Internship]](https://jobright.ai/jobs/info/69d41e39cfdc6132f9457e2c?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 06 |
-| **[PNC](http://www.pnc.com)** | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d41d95cdb525785fbc680e?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Apr 06 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Risk Department](https://jobright.ai/jobs/info/69d41cd5cfdc6132f9457d82?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Apr 06 |
 | **[Corpay](https://payments.corpay.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69d41cd0cfdc6132f9457d62?utm_campaign=1055&utm_source=git)** | Peachtree Corners, GA 30092, USA | Remote | Apr 06 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Risk Department](https://jobright.ai/jobs/info/69d41ca8891d7b11cfcf78c4?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Apr 06 |
@@ -147,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Apex Clean Energy](http://apexcleanenergy.com)** | **[Land Management Summer Associate (Intern)](https://jobright.ai/jobs/info/6997bf3e81476f6176afe7f9?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Apr 04 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Compliance](https://jobright.ai/jobs/info/69d0ede854f00230c6d17806?utm_campaign=1055&utm_source=git)** | US-AL-Birmingham | On Site | Apr 04 |
 | ↳ | **[Intern - Compliance](https://jobright.ai/jobs/info/69d0edd20b098b7a6707ec40?utm_campaign=1055&utm_source=git)** | Birmingham, AL, US | On Site | Apr 04 |
-| **[League of Women Voters](https://www.lwv.org/)** | **[Legal Intern, Fall 2026](https://jobright.ai/jobs/info/69d47c33e63cea7a8b65a4cc?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Apr 03 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Associate Director of Research Security and International Compliance](https://jobright.ai/jobs/info/69d0830ccfdc6132f943c112?utm_campaign=1055&utm_source=git)** | Harrisonburg, VA | On Site | Apr 03 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Contracts Intern](https://jobright.ai/jobs/info/69d073410b098b7a6707981b?utm_campaign=1055&utm_source=git)** | Middletown, IA | On Site | Apr 03 |
 | **[Guardian Pharmacy](https://guardianpharmacy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d07312cdb525785fbaa74b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
