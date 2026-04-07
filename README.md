@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MyMichigan Health](https://www.mymichigan.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69cff5c8891d7b11cfcd7664?utm_campaign=1055&utm_source=git)** | Midland, MI | On Site | Apr 07 |
 | **[Canon USA](https://www.usa.canon.com)** | **[2026 Canon Insights Summer Internship - Legal](https://jobright.ai/jobs/info/69b873e856973837413dcb48?utm_campaign=1055&utm_source=git)** | Melville, NY | Hybrid | Apr 07 |
 | **[Texas Alcoholic Beverage Commission](https://www.tabc.texas.gov/)** | **[Internship Opportunity!! Legal Intern (Law Clerk Session #1)](https://jobright.ai/jobs/info/69d4f896366bb95ba5541d03?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Apr 07 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Global Security & Resilience - Internship](https://jobright.ai/jobs/info/69bb898006c1ba00c54e04f7?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Apr 07 |
@@ -77,13 +78,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Contracts Analyst Intern](https://jobright.ai/jobs/info/69d43c51891d7b11cfcf8b30?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 06 |
 | **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/6998f365ce78e77b4fdd8731?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 06 |
 | **[Olympus Insurance Company](http://www.olympusinsurance.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69d4398fcfdc6132f945900b?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Apr 06 |
-| **[Crum & Forster Services India Private Limited](http://www.cfins.com/)** | **[Intern, Claims Litigation Management](https://jobright.ai/jobs/info/69d4f6c8706f771673b9fd21?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Apr 06 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/69d42d2c54f00230c6d2ed66?utm_campaign=1055&utm_source=git)** | Plano, TX | Hybrid | Apr 06 |
 | **[Segal](https://www.segalco.com)** | **[Intern - Legal - Summer 2026](https://jobright.ai/jobs/info/69d42861cfdc6132f94583e5?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
 | **[New Mexico Public Regulation Commission](https://www.prc.nm.gov/)** | **[NARUC-Sponsored Legal Summer Internship](https://jobright.ai/jobs/info/69d4260b366bb95ba553b172?utm_campaign=1055&utm_source=git)** | Santa Fe, NM | Hybrid | Apr 06 |
 | **[San Diego Community Power](https://sdcommunitypower.org)** | **[Compliance and Contract Management Analyst](https://jobright.ai/jobs/info/69d42254891d7b11cfcf7ab1?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Apr 06 |
 | **[Denton County, Texas](https://www.dentoncounty.gov/)** | **[Bar Card Intern - District Attorney - Criminal](https://jobright.ai/jobs/info/69d42213cfdc6132f9457f4a?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Apr 06 |
 | **[Netwrix Corporation](http://www.netwrix.com)** | **[Legal Intern [Summer Internship]](https://jobright.ai/jobs/info/69d41e39cfdc6132f9457e2c?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 06 |
+| **[PNC](http://www.pnc.com)** | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d501d9cdb525785fbcdc8f?utm_campaign=1055&utm_source=git)** | Farmers Branch, TX | On Site | Apr 06 |
+| ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d50157cfdc6132f945f2d3?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 06 |
+| ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d501d9cdb525785fbcdc90?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Apr 06 |
+| ↳ | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d5011b366bb95ba5542011?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | Apr 06 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Risk Department](https://jobright.ai/jobs/info/69d41cd5cfdc6132f9457d82?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Apr 06 |
 | **[Corpay](https://payments.corpay.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69d41cd0cfdc6132f9457d62?utm_campaign=1055&utm_source=git)** | Peachtree Corners, GA 30092, USA | Remote | Apr 06 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Risk Department](https://jobright.ai/jobs/info/69d41ca8891d7b11cfcf78c4?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Apr 06 |
@@ -102,9 +106,6 @@ For a complete list, click the following sortable link below:
 | **[SOCOTEC](http://www.socotec.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69d3f358cdb525785fbc4bd0?utm_campaign=1055&utm_source=git)** | 151 W 42nd St, New York, NY, United States | On Site | Apr 06 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/69d3f344891d7b11cfcf5c01?utm_campaign=1055&utm_source=git)** | Southfield, Michigan, USA | On Site | Apr 06 |
 | **[SOCOTEC USA](https://www.socotec.us/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69d3ef87e63cea7a8b655022?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 06 |
-| **[Crum & Forster](https://www.cfins.com/)** | **[Intern, Claims Litigation Management](https://jobright.ai/jobs/info/69d3eea054f00230c6d2c8a3?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Apr 06 |
-| ↳ | **[Intern, Claims Litigation Management](https://jobright.ai/jobs/info/69d3ebc2366bb95ba5538d23?utm_campaign=1055&utm_source=git)** | US-NJ-MORRISTOWN | On Site | Apr 06 |
-| ↳ | **[Intern, Claims Litigation Management](https://jobright.ai/jobs/info/69d3ebb754f00230c6d2c7b1?utm_campaign=1055&utm_source=git)** | MORRISTOWN, NJ, US | On Site | Apr 06 |
 | **[The Center for Climate Integrity](http://climateintegrity.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69d3e6fdcfdc6132f9455969?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Apr 06 |
 | **[Netwrix Corporation](http://www.netwrix.com)** | **[Legal Intern [Summer Internship]](https://jobright.ai/jobs/info/69d3e3d7e63cea7a8b65442c?utm_campaign=1055&utm_source=git)** | Remote (United States) | Remote | Apr 06 |
 | **[Texas Department of Motor Vehicles](https://www.txdmv.gov/)** | **[TxDMV - Summer Intern Specialist - Law Clerk (OAH)](https://jobright.ai/jobs/info/69d40f3154f00230c6d2dc24?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Apr 06 |
@@ -132,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Methode Electronics](http://methode.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69a1f1cc359fe034b1cd317c?utm_campaign=1055&utm_source=git)** | Rolling Meadows, IL | On Site | Apr 05 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Legal Internship - Summer 2026 (Dallas)](https://jobright.ai/jobs/info/697e2f56ce48107c05426442?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Apr 05 |
 | **[Denton County, Texas](https://www.dentoncounty.gov/)** | **[Bar Card Intern - District Attorney - Criminal](https://jobright.ai/jobs/info/69d23420cdb525785fbb86f0?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Apr 05 |
-| **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[Legal Assistant-Unpaid](https://jobright.ai/jobs/info/69d225cf0b098b7a67087745?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Apr 05 |
 | **[Imperial PFS](https://www.ipfs.com)** | **[Paralegal Intern](https://jobright.ai/jobs/info/69d1c5bf366bb95ba5528f62?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Apr 04 |
 | **[Ascend Nonprofit Solutions](https://www.childrenfamily.org/)** | **[Charlotte Center for Legal Advocacy - Paralegal-Advocate Education Law Program](https://jobright.ai/jobs/info/69d17681366bb95ba5526891?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Apr 04 |
 | **[Dorsey & Whitney LLP](http://www.dorsey.com/)** | **[Labor & Employment Associate (#1028) - Seattle](https://jobright.ai/jobs/info/6998c73981476f6176b1323b?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Apr 04 |
