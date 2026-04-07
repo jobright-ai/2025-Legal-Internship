@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canon USA](https://www.usa.canon.com)** | **[2026 Canon Insights Summer Internship - Legal](https://jobright.ai/jobs/info/69b873e856973837413dcb48?utm_campaign=1055&utm_source=git)** | Melville, NY | Hybrid | Apr 07 |
+| **[Texas Alcoholic Beverage Commission](https://www.tabc.texas.gov/)** | **[Internship Opportunity!! Legal Intern (Law Clerk Session #1)](https://jobright.ai/jobs/info/69d4f896366bb95ba5541d03?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Apr 07 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Global Security & Resilience - Internship](https://jobright.ai/jobs/info/69bb898006c1ba00c54e04f7?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Apr 07 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal and Compliance Department - FLU Oversight Intern](https://jobright.ai/jobs/info/69b8551d06c1ba00c54a1aac?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 07 |
 | **[CEO Lawyer Personal Injury Law Firm](https://aliawadlaw.com/)** | **[Personal Injury Law Summer Internship Program 2026](https://jobright.ai/jobs/info/69d4bccfcfdc6132f945de33?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 07 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69d48d52e63cea7a8b65ac6c?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Apr 06 |
 | **[Boomi](https://boomi.com/)** | **[License Compliance Intern (Hybrid - Vancouver, BC)](https://jobright.ai/jobs/info/69d485eacdb525785fbca44d?utm_campaign=1055&utm_source=git)** | Canada | Hybrid | Apr 06 |
 | **[City of Port St. Lucie](http://www.cityofpsl.com/)** | **[Summer Intern to Senior Deputy City Attorney- Legal Department](https://jobright.ai/jobs/info/69d47fcacfdc6132f945b5a2?utm_campaign=1055&utm_source=git)** | Port St Lucie, FL | On Site | Apr 06 |
-| **[Kahana Feld](https://kahanafeld.com/)** | **[Houston Summer Associate 2026 - 2L (Class of 2027)](https://jobright.ai/jobs/info/69d4e42d706f771673b9f511?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Apr 06 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69d46a3dcdb525785fbc8f10?utm_campaign=1055&utm_source=git)** | Bellevue, WA | Hybrid | Apr 06 |
 | **[Corpay](https://payments.corpay.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69d45e1c891d7b11cfcf9be4?utm_campaign=1055&utm_source=git)** | Peachtree Corners, GA | Remote | Apr 06 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Safety and Operations Compliance, Intern](https://jobright.ai/jobs/info/69d45c10cfdc6132f945a15f?utm_campaign=1055&utm_source=git)** | Oakland | Hybrid | Apr 06 |
@@ -76,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Contracts Analyst Intern](https://jobright.ai/jobs/info/69d43c51891d7b11cfcf8b30?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 06 |
 | **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/6998f365ce78e77b4fdd8731?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 06 |
 | **[Olympus Insurance Company](http://www.olympusinsurance.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69d4398fcfdc6132f945900b?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Apr 06 |
+| **[Crum & Forster Services India Private Limited](http://www.cfins.com/)** | **[Intern, Claims Litigation Management](https://jobright.ai/jobs/info/69d4f6c8706f771673b9fd21?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Apr 06 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/69d42d2c54f00230c6d2ed66?utm_campaign=1055&utm_source=git)** | Plano, TX | Hybrid | Apr 06 |
 | **[Segal](https://www.segalco.com)** | **[Intern - Legal - Summer 2026](https://jobright.ai/jobs/info/69d42861cfdc6132f94583e5?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
 | **[New Mexico Public Regulation Commission](https://www.prc.nm.gov/)** | **[NARUC-Sponsored Legal Summer Internship](https://jobright.ai/jobs/info/69d4260b366bb95ba553b172?utm_campaign=1055&utm_source=git)** | Santa Fe, NM | Hybrid | Apr 06 |
@@ -100,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[SOCOTEC](http://www.socotec.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69d3f358cdb525785fbc4bd0?utm_campaign=1055&utm_source=git)** | 151 W 42nd St, New York, NY, United States | On Site | Apr 06 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/69d3f344891d7b11cfcf5c01?utm_campaign=1055&utm_source=git)** | Southfield, Michigan, USA | On Site | Apr 06 |
 | **[SOCOTEC USA](https://www.socotec.us/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69d3ef87e63cea7a8b655022?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 06 |
-| **[Direct Travel](https://www.dt.com/gitravel/)** | **[Intern - Legal](https://jobright.ai/jobs/info/69d3eedf366bb95ba5538e4a?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Intern, Claims Litigation Management](https://jobright.ai/jobs/info/69d3eea054f00230c6d2c8a3?utm_campaign=1055&utm_source=git)** | Morristown, NJ | On Site | Apr 06 |
 | ↳ | **[Intern, Claims Litigation Management](https://jobright.ai/jobs/info/69d3ebc2366bb95ba5538d23?utm_campaign=1055&utm_source=git)** | US-NJ-MORRISTOWN | On Site | Apr 06 |
 | ↳ | **[Intern, Claims Litigation Management](https://jobright.ai/jobs/info/69d3ebb754f00230c6d2c7b1?utm_campaign=1055&utm_source=git)** | MORRISTOWN, NJ, US | On Site | Apr 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Guardian Pharmacy](https://guardianpharmacy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d07312cdb525785fbaa74b?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
 | **[New York State Justice Center for the Protection of People with Special Needs](http://www.justicecenter.ny.gov)** | **[Student Assistant (Legal Intern)](https://jobright.ai/jobs/info/69d0832ccdb525785fbab17f?utm_campaign=1055&utm_source=git)** | Delmar, NY | On Site | Apr 03 |
 | ↳ | **[Student Assistant (Legal Intern)](https://jobright.ai/jobs/info/69d05fc654f00230c6d11678?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | Apr 03 |
-| **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Summer 2026 Contracts Internship](https://jobright.ai/jobs/info/69d05b86cfdc6132f943a957?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
