@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Progyny, Inc.](https://www.progyny.com/)** | **[Legal Intern (Law Student)](https://jobright.ai/jobs/info/69bac3413b74eb1e2c88f727?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
+| **[Votorantim Cimentos North America (VCNA)](https://www.votorantimcimentos.com)** | **[Summer Student - Legal](https://jobright.ai/jobs/info/69d68cd852a5bf5800129759?utm_campaign=1055&utm_source=git)** | East York, ON | On Site | Apr 08 |
+| **[MBTA](http://mbta.com)** | **[Senior Service Contracts Intern [Graduate Students]](https://jobright.ai/jobs/info/69d689ee52a5bf58001295d1?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 08 |
+| **[CBIZ](http://www.cbiz.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69d687c3706f771673bab2c9?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 08 |
 | **[Denton County, Texas](https://www.dentoncounty.gov/)** | **[Bar Card Intern - District Attorney - Criminal](https://jobright.ai/jobs/info/69d68170e63cea7a8b6693b2?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Apr 08 |
 | **[City of Port St. Lucie](http://www.cityofpsl.com/)** | **[Summer Intern to Senior Deputy City Attorney- Legal Department](https://jobright.ai/jobs/info/69d68154366bb95ba554cf5d?utm_campaign=1055&utm_source=git)** | Port St Lucie, FL | On Site | Apr 08 |
 | **[Canary Marketing](http://canarymarketing.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69d680ece63cea7a8b6692a4?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Apr 08 |
@@ -65,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69d67104366bb95ba554c9ef?utm_campaign=1055&utm_source=git)** | Norwell, MA | On Site | Apr 08 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a64d7796a83635f09901?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Apr 08 |
 | **[Jainam Share Consultants Pvt Ltd.](http://www.jainam.in)** | **[Deputy Manager - Regulatory](https://jobright.ai/jobs/info/69d66a7dcfdc6132f9469ba2?utm_campaign=1055&utm_source=git)** | House, NM | On Site | Apr 08 |
+| **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern - Fall 2026](https://jobright.ai/jobs/info/69ba99c506c1ba00c54ccd90?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 08 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Intern Part Time - DPW-Financial Services](https://jobright.ai/jobs/info/69d66700366bb95ba554c6a5?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Apr 08 |
 | **[Times Microwave Systems](http://www.timesmicrowave.com/)** | **[Compliance Operations Intern](https://jobright.ai/jobs/info/69ba93723b74eb1e2c889b21?utm_campaign=1055&utm_source=git)** | Wallingford, CT | On Site | Apr 08 |
 | **[Architect of the Capitol](http://www.aoc.gov/)** | **[Summer Law Internship](https://jobright.ai/jobs/info/69cece5854f00230c6d034d3?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SOCOTEC](http://www.socotec.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69d4117c891d7b11cfcf706e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 06 |
 | **[Holtec International](https://holtecinternational.com/)** | **[Intern - Regulatory Assurance](https://jobright.ai/jobs/info/69d408fd366bb95ba5539f56?utm_campaign=1055&utm_source=git)** | Covert, MI | On Site | Apr 06 |
 | **[Segal Marco Advisors](http://segalmarco.com/)** | **[Intern - Legal - Summer 2026](https://jobright.ai/jobs/info/69d408e854f00230c6d2d891?utm_campaign=1055&utm_source=git)** | US-NY-New York | Hybrid | Apr 06 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/69d408e5cdb525785fbc5aed?utm_campaign=1055&utm_source=git)** | Southfield, MI | On Site | Apr 06 |
-| **[Continental](https://www.continental.com)** | **[Intern - Customs Compliance, Year-Round](https://jobright.ai/jobs/info/69d4061b366bb95ba5539c8f?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | On Site | Apr 06 |
-| **[Dr. Reddy's Laboratories](http://www.drreddys.com/)** | **[Regulatory Summer Intern](https://jobright.ai/jobs/info/69d40111366bb95ba55398f6?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Apr 06 |
-| **[SOCOTEC](http://www.socotec.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69d3f358cdb525785fbc4bd0?utm_campaign=1055&utm_source=git)** | 151 W 42nd St, New York, NY, United States | On Site | Apr 06 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/69d3f344891d7b11cfcf5c01?utm_campaign=1055&utm_source=git)** | Southfield, Michigan, USA | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
