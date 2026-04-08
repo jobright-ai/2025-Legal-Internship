@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medtronic](https://www.medtronic.com)** | **[Summer Intern - Contracts and FP&A](https://jobright.ai/jobs/info/69cde3a054f00230c6cf7e47?utm_campaign=1055&utm_source=git)** | Brampton, ON | On Site | Apr 08 |
+| **[CBIZ](http://www.cbiz.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69d671e252a5bf5800128c45?utm_campaign=1055&utm_source=git)** | 5959 Rockside Woods Blvd N, Suite 600, Cleveland, OH, 44131, US | On Site | Apr 08 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Safety and Operations Compliance, Intern](https://jobright.ai/jobs/info/69d6710852a5bf5800128b8b?utm_campaign=1055&utm_source=git)** | Oakland, CA | Hybrid | Apr 08 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69d67104366bb95ba554c9ef?utm_campaign=1055&utm_source=git)** | Norwell, MA | On Site | Apr 08 |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a64d7796a83635f09901?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Apr 08 |
 | **[Jainam Share Consultants Pvt Ltd.](http://www.jainam.in)** | **[Deputy Manager - Regulatory](https://jobright.ai/jobs/info/69d66a7dcfdc6132f9469ba2?utm_campaign=1055&utm_source=git)** | House, NM | On Site | Apr 08 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Intern Part Time - DPW-Financial Services](https://jobright.ai/jobs/info/69d66700366bb95ba554c6a5?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Apr 08 |
 | **[Times Microwave Systems](http://www.timesmicrowave.com/)** | **[Compliance Operations Intern](https://jobright.ai/jobs/info/69ba93723b74eb1e2c889b21?utm_campaign=1055&utm_source=git)** | Wallingford, CT | On Site | Apr 08 |
@@ -66,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[International Justice Mission](http://www.ijm.org)** | **[Legal Operations Intern - Fall 2026](https://jobright.ai/jobs/info/69bb89d03b74eb1e2c8a016b?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 08 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a71c7a37c712687d384c?utm_campaign=1055&utm_source=git)** | Stockton, CA | On Site | Apr 08 |
 | **[Blockchain.com](http://blockchain.com)** | **[Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/699c6494e0bddb6acacb6f83?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Apr 08 |
-| **[Devoted Health](https://devoted.com)** | **[Delegated Ops Undergrad Intern](https://jobright.ai/jobs/info/69d664f7cfdc6132f9469a1d?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Contracts Management - Intern](https://jobright.ai/jobs/info/69c8e5adaa3c2c1995e2198c?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Apr 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Risk Governance Analyst Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69817ebb49964d25b5e47ce0?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Apr 08 |
 | **[Gallup](http://www.gallup.com)** | **[Security Auditor Intern — Summer 2026](https://jobright.ai/jobs/info/69ba904c06c1ba00c54cab04?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Apr 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/69d3f344891d7b11cfcf5c01?utm_campaign=1055&utm_source=git)** | Southfield, Michigan, USA | On Site | Apr 06 |
 | **[SOCOTEC USA](https://www.socotec.us/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69d3ef87e63cea7a8b655022?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 06 |
 | **[The Center for Climate Integrity](http://climateintegrity.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69d3e6fdcfdc6132f9455969?utm_campaign=1055&utm_source=git)** | Washington, DC | Remote | Apr 06 |
-| **[Netwrix Corporation](http://www.netwrix.com)** | **[Legal Intern [Summer Internship]](https://jobright.ai/jobs/info/69d3e3d7e63cea7a8b65442c?utm_campaign=1055&utm_source=git)** | Remote (United States) | Remote | Apr 06 |
-| **[Texas Department of Motor Vehicles](https://www.txdmv.gov/)** | **[TxDMV - Summer Intern Specialist - Law Clerk (OAH)](https://jobright.ai/jobs/info/69d40f3154f00230c6d2dc24?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Apr 06 |
-| **[L Law Firm PLLC](https://llawfirm.law/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ced3cd398fb071abf895b7?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Apr 06 |
-| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/69d3dc2354f00230c6d2b985?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
