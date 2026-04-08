@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Circuit of The Americas](http://circuitoftheamericas.com/)** | **[Corporate Counsel Academic Internship: Fall 2026](https://jobright.ai/jobs/info/69d6140fe63cea7a8b66773a?utm_campaign=1055&utm_source=git)** | Del Valle, TX | On Site | Apr 08 |
+| **[FIFTH SEASON](https://fifthseason.com)** | **[Summer Internship - Business & Legal Affairs](https://jobright.ai/jobs/info/69d60bc1e63cea7a8b667538?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Apr 08 |
 | **[Logitech](https://www.logitech.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bb892b3b74eb1e2c89fc4d?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Apr 08 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TCOLE - Legal Division College Internship](https://jobright.ai/jobs/info/69d5fc7e891d7b11cfd07646?utm_campaign=1055&utm_source=git)** | Texas Comm on Law Enforcement6330 E HWY 290 | On Site | Apr 07 |
 | ↳ | **[TCOLE - Legal Division College Internship](https://jobright.ai/jobs/info/69d5fc7ecfdc6132f9467b86?utm_campaign=1055&utm_source=git)** | Texas-AustinWork Locations | On Site | Apr 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Olympus Insurance Company](http://www.olympusinsurance.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69d4e476e63cea7a8b65daed?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Apr 06 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[Legal Assistant-Unpaid](https://jobright.ai/jobs/info/69d378e5891d7b11cfcf1319?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Apr 06 |
 | **[City of Port St. Lucie](http://www.cityofpsl.com/)** | **[Summer Intern to Senior Deputy City Attorney- Legal Department](https://jobright.ai/jobs/info/69d378dfcfdc6132f9451801?utm_campaign=1055&utm_source=git)** | Port St Lucie, FL | On Site | Apr 06 |
-| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TxDMV - Summer Intern Specialist - Law Clerk (OAH)](https://jobright.ai/jobs/info/69d304dc891d7b11cfcedac9?utm_campaign=1055&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Apr 05 |
-| ↳ | **[TxDMV - Summer Intern Specialist - Legal Assistant](https://jobright.ai/jobs/info/69d303a3366bb95ba5530ac9?utm_campaign=1055&utm_source=git)** | Texas-AustinWork Locations | On Site | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
