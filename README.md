@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Montgomery County Government](https://mcgtn.org)** | **[Intern - Mental Health Court](https://jobright.ai/jobs/info/69c5c057e565c26a700148cc?utm_campaign=1055&utm_source=git)** | Clarksville, TN | On Site | Apr 07 |
 | **[Appian](http://www.appian.com)** | **[Legal Operations Intern (Undergrad Students)](https://jobright.ai/jobs/info/69b32892ae2a534885ea8c8a?utm_campaign=1055&utm_source=git)** | McLean, Virginia | On Site | Apr 07 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Intern-Chief of Staff - DPW-Financial Services](https://jobright.ai/jobs/info/69d5c3e7366bb95ba55487e2?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Apr 07 |
 | **[City of Chicago Department of Law](https://www.chicago.gov/city/en/depts/dol.html)** | **[Assistant Corporation Counsel III - Collections, Ownership, and Administrative Litigation Division – Special Collections Unit](https://jobright.ai/jobs/info/69c8faa0aa3c2c1995e2250b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 07 |
@@ -103,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Boomi](https://boomi.com/)** | **[License Compliance Intern (Hybrid - Vancouver, BC)](https://jobright.ai/jobs/info/69d4aaedcfdc6132f945ce15?utm_campaign=1055&utm_source=git)** | Metro Vancouver A, BC | Hybrid | Apr 06 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69d497dbcfdc6132f945c78e?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Apr 06 |
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69d48d52e63cea7a8b65ac6c?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Apr 06 |
+| **[LawBhoomi](https://lawbhoomi.com/)** | **[Associate and Legal Researcher/Intern at SS Legal: Apply Now!](https://jobright.ai/jobs/info/69d5e0f0891d7b11cfd067c5?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Apr 06 |
 | **[Boomi](https://boomi.com/)** | **[License Compliance Intern (Hybrid - Vancouver, BC)](https://jobright.ai/jobs/info/69d485eacdb525785fbca44d?utm_campaign=1055&utm_source=git)** | Canada | Hybrid | Apr 06 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69d46a3dcdb525785fbc8f10?utm_campaign=1055&utm_source=git)** | Bellevue, WA | Hybrid | Apr 06 |
 | **[Corpay](https://payments.corpay.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69d45e1c891d7b11cfcf9be4?utm_campaign=1055&utm_source=git)** | Peachtree Corners, GA | Remote | Apr 06 |
@@ -133,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/69d408e5cdb525785fbc5aed?utm_campaign=1055&utm_source=git)** | Southfield, MI | On Site | Apr 06 |
 | **[Continental](https://www.continental.com)** | **[Intern - Customs Compliance, Year-Round](https://jobright.ai/jobs/info/69d4061b366bb95ba5539c8f?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | On Site | Apr 06 |
 | **[Dr. Reddy's Laboratories](http://www.drreddys.com/)** | **[Regulatory Summer Intern](https://jobright.ai/jobs/info/69d40111366bb95ba55398f6?utm_campaign=1055&utm_source=git)** | Princeton, NJ | Hybrid | Apr 06 |
-| **[BMO](http://www.bmo.com)** | **[Anti Money Laundering Investigator (Co-op/Internship), Summer 2026 - 4 months](https://jobright.ai/jobs/info/69d4003bcdb525785fbc50e4?utm_campaign=1055&utm_source=git)** | Chicago, IL, USA | On Site | Apr 06 |
 | **[SOCOTEC](http://www.socotec.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69d3f358cdb525785fbc4bd0?utm_campaign=1055&utm_source=git)** | 151 W 42nd St, New York, NY, United States | On Site | Apr 06 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/69d3f344891d7b11cfcf5c01?utm_campaign=1055&utm_source=git)** | Southfield, Michigan, USA | On Site | Apr 06 |
 | **[SOCOTEC USA](https://www.socotec.us/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69d3ef87e63cea7a8b655022?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[TxDMV - Summer Intern Specialist - Legal Assistant](https://jobright.ai/jobs/info/69d303a3366bb95ba5530ac9?utm_campaign=1055&utm_source=git)** | Texas-AustinWork Locations | On Site | Apr 05 |
 | **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Licensing Associate Intern LTE](https://jobright.ai/jobs/info/69d44b1ce63cea7a8b6586ac?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Apr 05 |
 | **[Massachusetts Port Authority](https://www.massport.com)** | **[Legal Research Assistant Intern](https://jobright.ai/jobs/info/69d2a4f9366bb95ba552e877?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts, United States | On Site | Apr 05 |
-| **[Southern Utah University](http://www.suu.edu/)** | **[Aviation Financial Aid Counselor](https://jobright.ai/jobs/info/69d2a217cdb525785fbba63b?utm_campaign=1055&utm_source=git)** | Cedar City, UT | Hybrid | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
