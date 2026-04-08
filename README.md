@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Paralegal Intern](https://jobright.ai/jobs/info/69d59e2e706f771673ba4741?utm_campaign=1055&utm_source=git)** | Arizona, United States | Remote | Apr 07 |
 | **[St. Luke's Health System](https://www.stlukesonline.org)** | **[Legal Intern   -   153132](https://jobright.ai/jobs/info/69d59192891d7b11cfd02fb2?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Apr 07 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d58f45cdb525785fbd1db6?utm_campaign=1055&utm_source=git)** | Irving, TX | Hybrid | Apr 07 |
 | **[First Western Trust](https://myfw.com/)** | **[Manager, Enterprise Risk](https://jobright.ai/jobs/info/69d583d0706f771673ba3ca1?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 07 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[The Halpern Law Firm, LLC](www.halpernlawyer.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d53087cdb525785fbced78?utm_campaign=1055&utm_source=git)** | Bryn Mawr, PA | On Site | Apr 07 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Legal Intern - Massachusetts Department of Agricultural Resources](https://jobright.ai/jobs/info/69d54980cdb525785fbcf8ef?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Apr 07 |
 | ↳ | **[Consumer Complaint Investigation Intern - Department of Public Utilities](https://jobright.ai/jobs/info/69d5499fcfdc6132f9460ffd?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 South Station | On Site | Apr 07 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Consumer Complaint Investigation Intern - Department of Public Utilities](https://jobright.ai/jobs/info/69d5499fcfdc6132f9460ff7?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 South Station | On Site | Apr 07 |
-| ↳ | **[Legal Intern - Massachusetts Department of Agricultural Resources](https://jobright.ai/jobs/info/69d549a5366bb95ba5543c78?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Apr 07 |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Legal Intern - Massachusetts Department of Agricultural Resources](https://jobright.ai/jobs/info/69d549a5366bb95ba5543c78?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Apr 07 |
+| ↳ | **[Consumer Complaint Investigation Intern - Department of Public Utilities](https://jobright.ai/jobs/info/69d5499fcfdc6132f9460ff7?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 South Station | On Site | Apr 07 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69d58127cfdc6132f9462db1?utm_campaign=1055&utm_source=git)** | Lynchburg, VA | On Site | Apr 07 |
 | **[CINQCARE](https://cinq.care)** | **[Legal Intern](https://jobright.ai/jobs/info/69ca7b8b466f1e133aac4261?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 07 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a5aa295f8e37655dffdb?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Apr 07 |
@@ -102,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Safety and Operations Compliance, Intern](https://jobright.ai/jobs/info/69d45c10cfdc6132f945a15f?utm_campaign=1055&utm_source=git)** | Oakland | Hybrid | Apr 06 |
 | ↳ | **[Safety and Operations Compliance, Intern](https://jobright.ai/jobs/info/69d45b3ae63cea7a8b659127?utm_campaign=1055&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Apr 06 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[County Attorney-Fall Internship](https://jobright.ai/jobs/info/69d565e4366bb95ba5544c01?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Apr 06 |
+| **[Semperis](http://www.semperis.com)** | **[Legal Operations Intern Summer 2026](https://jobright.ai/jobs/info/69d5a4ce891d7b11cfd035c0?utm_campaign=1055&utm_source=git)** | Hoboken, NJ | Hybrid | Apr 06 |
 | **[Primoris Services Corporation](http://prim.com)** | **[Contracts Analyst Intern](https://jobright.ai/jobs/info/69d44065cfdc6132f94591ff?utm_campaign=1055&utm_source=git)** | Denver, Colorado, United States | On Site | Apr 06 |
 | ↳ | **[Contracts Analyst Intern](https://jobright.ai/jobs/info/69d43c51891d7b11cfcf8b30?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 06 |
 | **[First American](http://www.firstam.com)** | **[Undergraduate Intern - Title & Escrow (In-Office)](https://jobright.ai/jobs/info/6998f365ce78e77b4fdd8731?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 06 |
@@ -109,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/69d42d2c54f00230c6d2ed66?utm_campaign=1055&utm_source=git)** | Plano, TX | Hybrid | Apr 06 |
 | **[Segal](https://www.segalco.com)** | **[Intern - Legal - Summer 2026](https://jobright.ai/jobs/info/69d42861cfdc6132f94583e5?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
 | **[New Mexico Public Regulation Commission](https://www.prc.nm.gov/)** | **[NARUC-Sponsored Legal Summer Internship](https://jobright.ai/jobs/info/69d4260b366bb95ba553b172?utm_campaign=1055&utm_source=git)** | Santa Fe, NM | Hybrid | Apr 06 |
-| **[San Diego Community Power](https://sdcommunitypower.org)** | **[Compliance and Contract Management Analyst](https://jobright.ai/jobs/info/69d42254891d7b11cfcf7ab1?utm_campaign=1055&utm_source=git)** | San Diego, CA | Hybrid | Apr 06 |
 | **[Denton County, Texas](https://www.dentoncounty.gov/)** | **[Bar Card Intern - District Attorney - Criminal](https://jobright.ai/jobs/info/69d42213cfdc6132f9457f4a?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Apr 06 |
 | **[Netwrix Corporation](http://www.netwrix.com)** | **[Legal Intern [Summer Internship]](https://jobright.ai/jobs/info/69d41e39cfdc6132f9457e2c?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 06 |
 | **[PNC](http://www.pnc.com)** | **[LOB Risk Expert (Technology)](https://jobright.ai/jobs/info/69d501d9cdb525785fbcdc90?utm_campaign=1055&utm_source=git)** | Strongsville, OH | On Site | Apr 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Avant](https://www.avant.com)** | **[Legal Summer Internship](https://jobright.ai/jobs/info/69991f16e0bddb6acac81f68?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 05 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Legal Internship - Summer 2026 (Dallas)](https://jobright.ai/jobs/info/697e2f56ce48107c05426442?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Apr 05 |
 | **[Denton County, Texas](https://www.dentoncounty.gov/)** | **[Bar Card Intern - District Attorney - Criminal](https://jobright.ai/jobs/info/69d23420cdb525785fbb86f0?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Apr 05 |
-| **[Imperial PFS](https://www.ipfs.com)** | **[Paralegal Intern](https://jobright.ai/jobs/info/69d1c5bf366bb95ba5528f62?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
