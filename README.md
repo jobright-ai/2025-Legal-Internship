@@ -57,11 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CooperSurgical](http://www.coopersurgical.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bb0a8306c1ba00c54d6e0a?utm_campaign=1055&utm_source=git)** | Trumbull, CT | On Site | Apr 09 |
+| **[County of Berks, PA](http://www.berkspa.gov)** | **[Intern (Paid) - Solicitor's Department](https://jobright.ai/jobs/info/69d7b4d4869c7e25d858fdfe?utm_campaign=1055&utm_source=git)** | 633 Court St, Reading, PA, 19601, US | On Site | Apr 09 |
+| **[CooperSurgical](http://www.coopersurgical.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bbb3c1569738374141c2b7?utm_campaign=1055&utm_source=git)** | Trumbull, CT | On Site | Apr 09 |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Compliance Liaison (CX) - Remote in USA](https://jobright.ai/jobs/info/69d7b2a7f4ea471a51fdfb4c?utm_campaign=1055&utm_source=git)** | Georgia, United States | Remote | Apr 09 |
+| **[ABC Fitness](http://www.abcfinancial.com)** | **[Risk and Compliance Intern](https://jobright.ai/jobs/info/699fc268d643757b0e454837?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Legal Compliance Summer Intern](https://jobright.ai/jobs/info/69bad5a906c1ba00c54d2489?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Apr 09 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - AI & Legal Compliance (Summer 2026)](https://jobright.ai/jobs/info/6981df8f0f6f7e7a2cdb036d?utm_campaign=1055&utm_source=git)** | Garland, TX | On Site | Apr 09 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Privacy Law Intern](https://jobright.ai/jobs/info/699f0c3681476f6176b890b1?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fd5ea53d97f23ee655946?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Apr 09 |
+| **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[County Attorney-Fall Internship](https://jobright.ai/jobs/info/69d7b476738f2f099e896a65?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Apr 09 |
+| **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b321869c7e25d858fad3?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
+| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b332738f2f099e8967ac?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 09 |
+| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3209f97a42dc9c1665c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
+| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3229f97a42dc9c1666e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
+| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b349b67cec4f9b09678f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong EEO and Compliance Programs Intern](https://jobright.ai/jobs/info/69d7600248f0c8161d3001ca?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Developmental Services Resource Compliance Coordinator(37.5 Hour)(Hybrid)](https://jobright.ai/jobs/info/69d7ad939f97a42dc9c1587a?utm_campaign=1055&utm_source=git)** | Wallingford, CT | Hybrid | Apr 09 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Risk](https://jobright.ai/jobs/info/69d7384648f0c8161d2fe717?utm_campaign=1055&utm_source=git)** | Rochester, MN | On Site | Apr 08 |
@@ -123,6 +132,8 @@ For a complete list, click the following sortable link below:
 | **[International Justice Mission](http://www.ijm.org)** | **[Legal Operations Intern - Fall 2026](https://jobright.ai/jobs/info/69bb89d03b74eb1e2c8a016b?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 08 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a71c7a37c712687d384c?utm_campaign=1055&utm_source=git)** | Stockton, CA | On Site | Apr 08 |
 | **[Blockchain.com](http://blockchain.com)** | **[Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/699c6494e0bddb6acacb6f83?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Apr 08 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Coordinator, Executive Legal Assistant/Paralegal](https://jobright.ai/jobs/info/69d7b3869f97a42dc9c1673d?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Apr 08 |
+| **[Circuit of The Americas](http://circuitoftheamericas.com/)** | **[Corporate Counsel Academic Internship: Fall 2026](https://jobright.ai/jobs/info/69d7b3ee738f2f099e8968d4?utm_campaign=1055&utm_source=git)** | Del Valle, TX | On Site | Apr 08 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Contracts Management - Intern](https://jobright.ai/jobs/info/69c8e5adaa3c2c1995e2198c?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Apr 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Risk Governance Analyst Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69817ebb49964d25b5e47ce0?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Apr 08 |
 | **[Gallup](http://www.gallup.com)** | **[Security Auditor Intern — Summer 2026](https://jobright.ai/jobs/info/69ba904c06c1ba00c54cab04?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Apr 08 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Winnipeg](http://www.winnipeg.ca)** | **[Articling Student - Intern](https://jobright.ai/jobs/info/69d581fce63cea7a8b661e06?utm_campaign=1055&utm_source=git)** | Winnipeg, MB | On Site | Apr 07 |
 | **[Circuit of The Americas](http://circuitoftheamericas.com/)** | **[Corporate Counsel Academic Internship: Fall 2026](https://jobright.ai/jobs/info/69d57c02706f771673ba3906?utm_campaign=1055&utm_source=git)** | Del Valle,TX,US | On Site | Apr 07 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d57bdb706f771673ba3853?utm_campaign=1055&utm_source=git)** | Irving, Texas | Hybrid | Apr 07 |
-| **[apexanalytix](https://www.apexanalytix.com)** | **[Security & Compliance Intern](https://jobright.ai/jobs/info/69d578f2706f771673ba3687?utm_campaign=1055&utm_source=git)** | Greensboro, NC | On Site | Apr 07 |
-| **[DEUTZ Corporation](http://deutzamericas.com/)** | **[Intern](https://jobright.ai/jobs/info/69d568bc891d7b11cfd01b2e?utm_campaign=1055&utm_source=git)** | Norcross, GA | On Site | Apr 07 |
-| **[Trü Frü](https://trufru.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d565e6706f771673ba2dd2?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Apr 07 |
-| **[Certified Group](https://www.certifiedgroup.com)** | **[Intern](https://jobright.ai/jobs/info/69d561bb891d7b11cfd01880?utm_campaign=1055&utm_source=git)** | Turlock, CA | On Site | Apr 07 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69d561b5891d7b11cfd01876?utm_campaign=1055&utm_source=git)** | Fresno, CA | On Site | Apr 07 |
-| **[Houston Housing Authority](http://housingforhouston.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d56162cdb525785fbd06df?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 07 |
-| **[Continental](https://www.continental.com)** | **[Intern – Legal / U.S. Intellectual Property, Summer 2026](https://jobright.ai/jobs/info/69d55800cfdc6132f94617be?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Apr 07 |
-| **[Schellman](http://schellman.com)** | **[Compliance Internship](https://jobright.ai/jobs/info/69d5574d891d7b11cfd011a6?utm_campaign=1055&utm_source=git)** | Tampa, FL | Remote | Apr 07 |
-| **[Massachusetts Department of Public Utilities](https://www.mass.gov/orgs/department-of-public-utilities)** | **[Consumer Complaint Investigation Intern - Department of Public Utilities](https://jobright.ai/jobs/info/69d552bbe63cea7a8b660340?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Apr 07 |
-| **[Continental](https://www.continental.com)** | **[Intern – Legal / U.S. Intellectual Property, Summer 2026](https://jobright.ai/jobs/info/69d54999706f771673ba1e13?utm_campaign=1055&utm_source=git)** | OH-21, Cleveland, OH, USA | Hybrid | Apr 07 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Legal Intern - Massachusetts Department of Agricultural Resources](https://jobright.ai/jobs/info/69d54980cdb525785fbcf8ef?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
