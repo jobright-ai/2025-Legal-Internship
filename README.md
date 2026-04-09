@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Fall 2026 Litigation Intern](https://jobright.ai/jobs/info/69d6d85f52a5bf580012c6f6?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Risk](https://jobright.ai/jobs/info/69d6e273366bb95ba555085c?utm_campaign=1055&utm_source=git)** | Rochester, MN, United States | Hybrid | Apr 08 |
+| **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern - Risk](https://jobright.ai/jobs/info/69d6dc78e63cea7a8b66cb79?utm_campaign=1055&utm_source=git)** | Rochester, MN, United States | Hybrid | Apr 08 |
+| **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern - Risk](https://jobright.ai/jobs/info/69d6dc6b48f0c8161d2fb9c6?utm_campaign=1055&utm_source=git)** | Rochester, MN, United States | Hybrid | Apr 08 |
+| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Fall 2026 Litigation Intern](https://jobright.ai/jobs/info/69d6db48706f771673bae620?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Apr 08 |
+| ↳ | **[Fall 2026 Litigation Intern](https://jobright.ai/jobs/info/69d6d85f52a5bf580012c6f6?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Senior Paralegal](https://jobright.ai/jobs/info/69d6d281e63cea7a8b66c7cf?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Apr 08 |
 | **[Amneal Pharmaceuticals](http://amneal.com/)** | **[2026 Summer Internship - IT (Finance & IT) Brookhaven, NY](https://jobright.ai/jobs/info/69d6ccbc48f0c8161d2fb397?utm_campaign=1055&utm_source=git)** | Brookhaven, NY | On Site | Apr 08 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Fall 2026 Litigation Intern](https://jobright.ai/jobs/info/69d6cc94e63cea7a8b66c4ca?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Apr 08 |
@@ -110,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Fluor Corporation](http://www.fluor.com)** | **[Contracts Management - Intern](https://jobright.ai/jobs/info/69c1feabc9ad035e829a68a0?utm_campaign=1055&utm_source=git)** | Greenville, SC | On Site | Apr 08 |
 | **[FIFTH SEASON](https://fifthseason.com)** | **[Summer Internship - Business & Legal Affairs](https://jobright.ai/jobs/info/69d60bc1e63cea7a8b667538?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Apr 08 |
 | **[Logitech](https://www.logitech.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bb892b3b74eb1e2c89fc4d?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Apr 08 |
-| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TCOLE - Legal Division College Internship](https://jobright.ai/jobs/info/69d5fc7ecfdc6132f9467b86?utm_campaign=1055&utm_source=git)** | Texas-AustinWork Locations | On Site | Apr 07 |
-| ↳ | **[TCOLE - Legal Division College Internship](https://jobright.ai/jobs/info/69d5fc7e891d7b11cfd07646?utm_campaign=1055&utm_source=git)** | Texas Comm on Law Enforcement6330 E HWY 290 | On Site | Apr 07 |
+| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TCOLE - Legal Division College Internship](https://jobright.ai/jobs/info/69d5fc7e891d7b11cfd07646?utm_campaign=1055&utm_source=git)** | Texas Comm on Law Enforcement6330 E HWY 290 | On Site | Apr 07 |
+| ↳ | **[TCOLE - Legal Division College Internship](https://jobright.ai/jobs/info/69d5fc7ecfdc6132f9467b86?utm_campaign=1055&utm_source=git)** | Texas-AustinWork Locations | On Site | Apr 07 |
 | **[Montgomery County Government](https://mcgtn.org)** | **[Intern - Mental Health Court](https://jobright.ai/jobs/info/69c5c057e565c26a700148cc?utm_campaign=1055&utm_source=git)** | Clarksville, TN | On Site | Apr 07 |
 | **[Appian](http://www.appian.com)** | **[Legal Operations Intern (Undergrad Students)](https://jobright.ai/jobs/info/69b32892ae2a534885ea8c8a?utm_campaign=1055&utm_source=git)** | McLean, Virginia | On Site | Apr 07 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Intern-Chief of Staff - DPW-Financial Services](https://jobright.ai/jobs/info/69d5c3e7366bb95ba55487e2?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Apr 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MyMichigan Health](https://www.mymichigan.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69cff5c8891d7b11cfcd7664?utm_campaign=1055&utm_source=git)** | Midland, MI | On Site | Apr 07 |
 | **[Canon USA](https://www.usa.canon.com)** | **[2026 Canon Insights Summer Internship - Legal](https://jobright.ai/jobs/info/69b873e856973837413dcb48?utm_campaign=1055&utm_source=git)** | Melville, NY | Hybrid | Apr 07 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Global Security & Resilience - Internship](https://jobright.ai/jobs/info/69bb898006c1ba00c54e04f7?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Apr 07 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal and Compliance Department - FLU Oversight Intern](https://jobright.ai/jobs/info/69b8551d06c1ba00c54a1aac?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 07 |
-| **[CEO Lawyer Personal Injury Law Firm](https://aliawadlaw.com/)** | **[Personal Injury Law Summer Internship Program 2026](https://jobright.ai/jobs/info/69d4bccfcfdc6132f945de33?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 07 |
-| **[Boomi](https://boomi.com/)** | **[License Compliance Intern (Hybrid - Vancouver, BC)](https://jobright.ai/jobs/info/69d4aaedcfdc6132f945ce15?utm_campaign=1055&utm_source=git)** | Metro Vancouver A, BC | Hybrid | Apr 06 |
-| ↳ | **[License Compliance Intern (Hybrid - Vancouver, BC)](https://jobright.ai/jobs/info/69d485eacdb525785fbca44d?utm_campaign=1055&utm_source=git)** | Canada | Hybrid | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
