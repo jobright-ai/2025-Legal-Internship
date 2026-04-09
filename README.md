@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/69d818569f97a42dc9c1a4e8?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Apr 09 |
+| **[SECU Credit Union](https://www.secumd.org/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/69d81708869c7e25d8593a05?utm_campaign=1055&utm_source=git)** | Linthicum, MD | On Site | Apr 09 |
+| **[Wiz](https://www.wiz.io)** | **[Senior Risk Management Analyst (East Coast)](https://jobright.ai/jobs/info/69d80f8bb861c42857c4873a?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 09 |
 | **[SECU](https://www.ncsecu.org)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/69d80f0bb67cec4f9b09a606?utm_campaign=1055&utm_source=git)** | Linthicum, MD | On Site | Apr 09 |
 | **[TD](https://www.td.com)** | **[Private Trust Co-op/Intern - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis Intern / Co-Op - Winnipeg (Summer 2026)](https://jobright.ai/jobs/info/69d80e88869c7e25d85936ca?utm_campaign=1055&utm_source=git)** | Winnipeg, Manitoba | On Site | Apr 09 |
 | **[Adagio Medical Inc.](http://adagiomedical.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69d80beb869c7e25d859350a?utm_campaign=1055&utm_source=git)** | Laguna Hills, CA | On Site | Apr 09 |
@@ -90,9 +93,9 @@ For a complete list, click the following sortable link below:
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Privacy Law Intern](https://jobright.ai/jobs/info/699f0c3681476f6176b890b1?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fd5ea53d97f23ee655946?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Apr 09 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[County Attorney-Fall Internship](https://jobright.ai/jobs/info/69d7b476738f2f099e896a65?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Apr 09 |
-| **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b321869c7e25d858fad3?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
-| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b332738f2f099e8967ac?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 09 |
+| **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b332738f2f099e8967ac?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3209f97a42dc9c1665c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
+| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b321869c7e25d858fad3?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3229f97a42dc9c1666e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b349b67cec4f9b09678f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong EEO and Compliance Programs Intern](https://jobright.ai/jobs/info/69d7600248f0c8161d3001ca?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a71c7a37c712687d384c?utm_campaign=1055&utm_source=git)** | Stockton, CA | On Site | Apr 08 |
 | **[Blockchain.com](http://blockchain.com)** | **[Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/699c6494e0bddb6acacb6f83?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Apr 08 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Coordinator, Executive Legal Assistant/Paralegal](https://jobright.ai/jobs/info/69d7b3869f97a42dc9c1673d?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Apr 08 |
-| **[Fluor Corporation](http://www.fluor.com)** | **[Contracts Management - Intern](https://jobright.ai/jobs/info/69c8e5adaa3c2c1995e2198c?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Apr 08 |
-| **[TikTok](https://www.tiktok.com)** | **[Risk Governance Analyst Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69817ebb49964d25b5e47ce0?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Apr 08 |
-| **[Gallup](http://www.gallup.com)** | **[Security Auditor Intern — Summer 2026](https://jobright.ai/jobs/info/69ba904c06c1ba00c54cab04?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
