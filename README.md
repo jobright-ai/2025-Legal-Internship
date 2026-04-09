@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Bothell](https://www.bothellwa.gov/)** | **[Rule 9 Legal Intern](https://jobright.ai/jobs/info/69d82514738f2f099e89ae32?utm_campaign=1055&utm_source=git)** | Bothell, WA | On Site | Apr 09 |
+| **[EmPRO Insurance](https://www.myempro.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/69d8247ab67cec4f9b09ae78?utm_campaign=1055&utm_source=git)** | Roslyn, NY | On Site | Apr 09 |
+| **[Jurispruve](www.jurispruve.com)** | **[Legal Research Intern](https://jobright.ai/jobs/info/69d8242b869c7e25d8593f74?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Remote | Apr 09 |
+| **[Advarra](https://www.advarra.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69d823c0b67cec4f9b09ab5e?utm_campaign=1055&utm_source=git)** | United States | On Site | Apr 09 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69d82111869c7e25d8593be4?utm_campaign=1055&utm_source=git)** | Wellesley, MA | On Site | Apr 09 |
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/69d818569f97a42dc9c1a4e8?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Apr 09 |
 | **[SECU Credit Union](https://www.secumd.org/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/69d81708869c7e25d8593a05?utm_campaign=1055&utm_source=git)** | Linthicum, MD | On Site | Apr 09 |
 | **[Wiz](https://www.wiz.io)** | **[Senior Risk Management Analyst (East Coast)](https://jobright.ai/jobs/info/69d80f8bb861c42857c4873a?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 09 |
 | **[SECU](https://www.ncsecu.org)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/69d80f0bb67cec4f9b09a606?utm_campaign=1055&utm_source=git)** | Linthicum, MD | On Site | Apr 09 |
 | **[TD](https://www.td.com)** | **[Private Trust Co-op/Intern - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis Intern / Co-Op - Winnipeg (Summer 2026)](https://jobright.ai/jobs/info/69d80e88869c7e25d85936ca?utm_campaign=1055&utm_source=git)** | Winnipeg, Manitoba | On Site | Apr 09 |
-| **[Adagio Medical Inc.](http://adagiomedical.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69d80beb869c7e25d859350a?utm_campaign=1055&utm_source=git)** | Laguna Hills, CA | On Site | Apr 09 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69d80aeaf4ea471a51fe3638?utm_campaign=1055&utm_source=git)** | 500 Plaza Drive, Secaucus, NJ, 07094, US | Hybrid | Apr 09 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69d809429f97a42dc9c19b54?utm_campaign=1055&utm_source=git)** | Secaucus, NJ | Hybrid | Apr 09 |
 | **[Logistics Property Company, LLC](https://logisticspropco.com/)** | **[Legal Intern - Real Estate Transactions](https://jobright.ai/jobs/info/69d808dcb861c42857c47c08?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
@@ -94,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fd5ea53d97f23ee655946?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Apr 09 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[County Attorney-Fall Internship](https://jobright.ai/jobs/info/69d7b476738f2f099e896a65?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Apr 09 |
 | **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b332738f2f099e8967ac?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 09 |
-| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3209f97a42dc9c1665c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b321869c7e25d858fad3?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
+| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3209f97a42dc9c1665c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3229f97a42dc9c1666e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b349b67cec4f9b09678f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong EEO and Compliance Programs Intern](https://jobright.ai/jobs/info/69d7600248f0c8161d3001ca?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Architect of the Capitol](http://www.aoc.gov/)** | **[Summer Law Internship](https://jobright.ai/jobs/info/69cece5854f00230c6d034d3?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 08 |
 | **[County of Lancaster](https://www.lancastercountypa.gov)** | **[Intern](https://jobright.ai/jobs/info/69d65baa366bb95ba554c428?utm_campaign=1055&utm_source=git)** | District Attorney-50 North Duke Street, Lancaster, PA | On Site | Apr 08 |
 | **[Foster Garvey PC](https://www.foster.com/)** | **[2027 Summer Associate](https://jobright.ai/jobs/info/69ae48097c309707d4af807f?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Apr 08 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Legal Operations Intern - Fall 2026](https://jobright.ai/jobs/info/69bb89d03b74eb1e2c8a016b?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 08 |
-| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a71c7a37c712687d384c?utm_campaign=1055&utm_source=git)** | Stockton, CA | On Site | Apr 08 |
-| **[Blockchain.com](http://blockchain.com)** | **[Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/699c6494e0bddb6acacb6f83?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Apr 08 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Coordinator, Executive Legal Assistant/Paralegal](https://jobright.ai/jobs/info/69d7b3869f97a42dc9c1673d?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
