@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern – Commercial Title](https://jobright.ai/jobs/info/69bb20743b74eb1e2c898e18?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | Apr 09 |
+| **[Imperial PFS](https://www.ipfs.com)** | **[Paralegal Intern](https://jobright.ai/jobs/info/69d7f136869c7e25d85927a2?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Apr 09 |
+| **[Mercer Company](https://mercer-company.com/)** | **[LCPA Summer Intern, New York- 2026](https://jobright.ai/jobs/info/69d7ebc7869c7e25d859225c?utm_campaign=1055&utm_source=git)** | New York - 1166 | Hybrid | Apr 09 |
 | **[Gildan](https://gildancorp.com)** | **[Intern, SOX Compliance](https://jobright.ai/jobs/info/69d480b654f00230c6d31cb1?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Apr 09 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/69bb1f4b06c1ba00c54d9742?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 09 |
 | **[Law Offices of Benvenuto & Gaujean](http://www.sbs-law.com)** | **[Claims Intern](https://jobright.ai/jobs/info/69d7ddc4738f2f099e898cc0?utm_campaign=1055&utm_source=git)** | Roslyn, NY, US | On Site | Apr 09 |
@@ -78,9 +81,9 @@ For a complete list, click the following sortable link below:
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Privacy Law Intern](https://jobright.ai/jobs/info/699f0c3681476f6176b890b1?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fd5ea53d97f23ee655946?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Apr 09 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[County Attorney-Fall Internship](https://jobright.ai/jobs/info/69d7b476738f2f099e896a65?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Apr 09 |
-| **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3209f97a42dc9c1665c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
+| **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b332738f2f099e8967ac?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 09 |
+| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3209f97a42dc9c1665c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b321869c7e25d858fad3?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
-| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b332738f2f099e8967ac?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3229f97a42dc9c1666e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b349b67cec4f9b09678f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong EEO and Compliance Programs Intern](https://jobright.ai/jobs/info/69d7600248f0c8161d3001ca?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
@@ -88,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Risk](https://jobright.ai/jobs/info/69d7384648f0c8161d2fe717?utm_campaign=1055&utm_source=git)** | Rochester, MN | On Site | Apr 08 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Law Clerk](https://jobright.ai/jobs/info/69d730d8950d1a0760b7c393?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Apr 08 |
 | **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern - Part- Time Claims Coordinator](https://jobright.ai/jobs/info/69d71da4e63cea7a8b66e1fb?utm_campaign=1055&utm_source=git)** | Midlothian, TX | On Site | Apr 08 |
-| **[Denton County, Texas](https://www.dentoncounty.gov/)** | **[Bar Card Intern - District Attorney - Criminal](https://jobright.ai/jobs/info/69d74ab2366bb95ba555429d?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Apr 08 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Seasonal Intern, State and Local Regulatory & Compliance - Lottery / Albany Summer 2026](https://jobright.ai/jobs/info/69d71c94706f771673baff25?utm_campaign=1055&utm_source=git)** | Albany, NY | Hybrid | Apr 08 |
 | **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern - Part- Time Claims Coordinator](https://jobright.ai/jobs/info/69d7182e706f771673bafc8c?utm_campaign=1055&utm_source=git)** | Midlothian, TX, US | On Site | Apr 08 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d70814366bb95ba55512eb?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Montgomery County Government](https://mcgtn.org)** | **[Intern - Mental Health Court](https://jobright.ai/jobs/info/69c5c057e565c26a700148cc?utm_campaign=1055&utm_source=git)** | Clarksville, TN | On Site | Apr 07 |
 | **[Appian](http://www.appian.com)** | **[Legal Operations Intern (Undergrad Students)](https://jobright.ai/jobs/info/69b32892ae2a534885ea8c8a?utm_campaign=1055&utm_source=git)** | McLean, Virginia | On Site | Apr 07 |
 | **[City of Chicago Department of Law](https://www.chicago.gov/city/en/depts/dol.html)** | **[Assistant Corporation Counsel III - Collections, Ownership, and Administrative Litigation Division – Special Collections Unit](https://jobright.ai/jobs/info/69c8faa0aa3c2c1995e2250b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 07 |
-| ↳ | **[Chief Assistant Corporation Counsel - Employment Litigation Division](https://jobright.ai/jobs/info/69d5b374e63cea7a8b66309a?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 07 |
-| **[Semperis](http://www.semperis.com)** | **[Legal Operations Intern Summer 2026](https://jobright.ai/jobs/info/69d5b100706f771673ba4e01?utm_campaign=1055&utm_source=git)** | Hoboken, NJ | Hybrid | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
