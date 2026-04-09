@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California State University, Fresno](https://csufresno.edu)** | **[Research Compliance Officer](https://jobright.ai/jobs/info/69b32677ae2a534885ea8610?utm_campaign=1055&utm_source=git)** | Fresno, CA | On Site | Apr 09 |
+| **[Fortrea](https://www.fortrea.com)** | **[Intern - Law Department](https://jobright.ai/jobs/info/69d7c52af4ea471a51fe0563?utm_campaign=1055&utm_source=git)** | Burlington NC | On Site | Apr 09 |
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Intern (Paid) - Solicitor's Department](https://jobright.ai/jobs/info/69d7b4d4869c7e25d858fdfe?utm_campaign=1055&utm_source=git)** | 633 Court St, Reading, PA, 19601, US | On Site | Apr 09 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bbb3c1569738374141c2b7?utm_campaign=1055&utm_source=git)** | Trumbull, CT | On Site | Apr 09 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Compliance Liaison (CX) - Remote in USA](https://jobright.ai/jobs/info/69d7b2a7f4ea471a51fdfb4c?utm_campaign=1055&utm_source=git)** | Georgia, United States | Remote | Apr 09 |
@@ -67,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fd5ea53d97f23ee655946?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Apr 09 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[County Attorney-Fall Internship](https://jobright.ai/jobs/info/69d7b476738f2f099e896a65?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Apr 09 |
 | **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b321869c7e25d858fad3?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
-| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b332738f2f099e8967ac?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3209f97a42dc9c1665c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
+| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b332738f2f099e8967ac?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3229f97a42dc9c1666e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b349b67cec4f9b09678f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong EEO and Compliance Programs Intern](https://jobright.ai/jobs/info/69d7600248f0c8161d3001ca?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
@@ -78,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern - Part- Time Claims Coordinator](https://jobright.ai/jobs/info/69d71da4e63cea7a8b66e1fb?utm_campaign=1055&utm_source=git)** | Midlothian, TX | On Site | Apr 08 |
 | **[Denton County, Texas](https://www.dentoncounty.gov/)** | **[Bar Card Intern - District Attorney - Criminal](https://jobright.ai/jobs/info/69d74ab2366bb95ba555429d?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Apr 08 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Seasonal Intern, State and Local Regulatory & Compliance - Lottery / Albany Summer 2026](https://jobright.ai/jobs/info/69d71c94706f771673baff25?utm_campaign=1055&utm_source=git)** | Albany, NY | Hybrid | Apr 08 |
-| ↳ | **[Tax Intern, KPMG Law / Phoenix Summer 206](https://jobright.ai/jobs/info/69d71c59366bb95ba5551cd7?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Apr 08 |
 | **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern - Part- Time Claims Coordinator](https://jobright.ai/jobs/info/69d7182e706f771673bafc8c?utm_campaign=1055&utm_source=git)** | Midlothian, TX, US | On Site | Apr 08 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d70814366bb95ba55512eb?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Corpay](https://payments.corpay.com)** | **[Corporate Dealing Internship](https://jobright.ai/jobs/info/69d7035fe63cea7a8b66d783?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 08 |
@@ -141,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Fluor Corporation](http://www.fluor.com)** | **[Contracts Management - Intern](https://jobright.ai/jobs/info/69c1feabc9ad035e829a68a0?utm_campaign=1055&utm_source=git)** | Greenville, SC | On Site | Apr 08 |
 | **[FIFTH SEASON](https://fifthseason.com)** | **[Summer Internship - Business & Legal Affairs](https://jobright.ai/jobs/info/69d60bc1e63cea7a8b667538?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Apr 08 |
 | **[Logitech](https://www.logitech.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bb892b3b74eb1e2c89fc4d?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Apr 08 |
-| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TCOLE - Legal Division College Internship](https://jobright.ai/jobs/info/69d5fc7ecfdc6132f9467b86?utm_campaign=1055&utm_source=git)** | Texas-AustinWork Locations | On Site | Apr 07 |
-| ↳ | **[TCOLE - Legal Division College Internship](https://jobright.ai/jobs/info/69d5fc7e891d7b11cfd07646?utm_campaign=1055&utm_source=git)** | Texas Comm on Law Enforcement6330 E HWY 290 | On Site | Apr 07 |
+| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TCOLE - Legal Division College Internship](https://jobright.ai/jobs/info/69d5fc7e891d7b11cfd07646?utm_campaign=1055&utm_source=git)** | Texas Comm on Law Enforcement6330 E HWY 290 | On Site | Apr 07 |
+| ↳ | **[TCOLE - Legal Division College Internship](https://jobright.ai/jobs/info/69d5fc7ecfdc6132f9467b86?utm_campaign=1055&utm_source=git)** | Texas-AustinWork Locations | On Site | Apr 07 |
 | **[Montgomery County Government](https://mcgtn.org)** | **[Intern - Mental Health Court](https://jobright.ai/jobs/info/69c5c057e565c26a700148cc?utm_campaign=1055&utm_source=git)** | Clarksville, TN | On Site | Apr 07 |
 | **[Appian](http://www.appian.com)** | **[Legal Operations Intern (Undergrad Students)](https://jobright.ai/jobs/info/69b32892ae2a534885ea8c8a?utm_campaign=1055&utm_source=git)** | McLean, Virginia | On Site | Apr 07 |
 | **[City of Chicago Department of Law](https://www.chicago.gov/city/en/depts/dol.html)** | **[Assistant Corporation Counsel III - Collections, Ownership, and Administrative Litigation Division – Special Collections Unit](https://jobright.ai/jobs/info/69c8faa0aa3c2c1995e2250b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First Western Trust](https://myfw.com/)** | **[Manager, Enterprise Risk](https://jobright.ai/jobs/info/69d583d0706f771673ba3ca1?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 07 |
 | **[City of Winnipeg](http://www.winnipeg.ca)** | **[Articling Student - Intern](https://jobright.ai/jobs/info/69d581fce63cea7a8b661e06?utm_campaign=1055&utm_source=git)** | Winnipeg, MB | On Site | Apr 07 |
 | **[Circuit of The Americas](http://circuitoftheamericas.com/)** | **[Corporate Counsel Academic Internship: Fall 2026](https://jobright.ai/jobs/info/69d57c02706f771673ba3906?utm_campaign=1055&utm_source=git)** | Del Valle,TX,US | On Site | Apr 07 |
-| **[Vistra Corp.](https://vistracorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d57bdb706f771673ba3853?utm_campaign=1055&utm_source=git)** | Irving, Texas | Hybrid | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
