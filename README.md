@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HealthStream](http://www.healthstream.com)** | **[Intern, Regulatory Research](https://jobright.ai/jobs/info/69d96e319f97a42dc9c21826?utm_campaign=1055&utm_source=git)** | USA Remote - Nashville, TN 37203 | Remote | Apr 10 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Summer Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/69d95e80b67cec4f9b0a198d?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Apr 10 |
 | **[Hunter Strategy](http://www.hunterstrategy.net)** | **[GRC (Governance, Risk, and Compliance)  Intern](https://jobright.ai/jobs/info/69d95e2a869c7e25d859a6b2?utm_campaign=1055&utm_source=git)** | Remote (United States) | Remote | Apr 10 |
 | **[NSP](http://www.naturessunshine.com)** | **[Intern- Legal](https://jobright.ai/jobs/info/69d95e21738f2f099e8a1532?utm_campaign=1055&utm_source=git)** | Lehi,Utah,United States | Hybrid | Apr 10 |
@@ -117,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Privacy and Data Protection Intern](https://jobright.ai/jobs/info/69ae480d4f6bcc1828096570?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Apr 09 |
 | **[Nachawati Law Group](http://fnlawfirm.com)** | **[Summer Associate Internship](https://jobright.ai/jobs/info/69d7d718869c7e25d8591d85?utm_campaign=1055&utm_source=git)** | Dallas,TX,US | On Site | Apr 09 |
-| **[Advarra](https://www.advarra.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69d7d710b861c42857c46bff?utm_campaign=1055&utm_source=git)** | Wellesley, Massachusetts, United States | On Site | Apr 09 |
 | **[Knights of Columbus](http://www.kofc.org)** | **[Summer Law Intern](https://jobright.ai/jobs/info/699e2f7f81476f6176b70edd?utm_campaign=1055&utm_source=git)** | New Haven, CT | Hybrid | Apr 09 |
 | **[California State University, Fresno](https://csufresno.edu)** | **[Research Compliance Officer](https://jobright.ai/jobs/info/69b32677ae2a534885ea8610?utm_campaign=1055&utm_source=git)** | Fresno, CA | On Site | Apr 09 |
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - Law Department](https://jobright.ai/jobs/info/69d7c52af4ea471a51fe0563?utm_campaign=1055&utm_source=git)** | Burlington NC | On Site | Apr 09 |
@@ -130,10 +130,10 @@ For a complete list, click the following sortable link below:
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Privacy Law Intern](https://jobright.ai/jobs/info/699f0c3681476f6176b890b1?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fd5ea53d97f23ee655946?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Apr 09 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[County Attorney-Fall Internship](https://jobright.ai/jobs/info/69d7b476738f2f099e896a65?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Apr 09 |
-| **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b321869c7e25d858fad3?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
-| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b332738f2f099e8967ac?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 09 |
-| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b349b67cec4f9b09678f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
+| **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b332738f2f099e8967ac?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 09 |
+| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b321869c7e25d858fad3?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3229f97a42dc9c1666e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
+| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b349b67cec4f9b09678f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong EEO and Compliance Programs Intern](https://jobright.ai/jobs/info/69d7600248f0c8161d3001ca?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Developmental Services Resource Compliance Coordinator(37.5 Hour)(Hybrid)](https://jobright.ai/jobs/info/69d7ad939f97a42dc9c1587a?utm_campaign=1055&utm_source=git)** | Wallingford, CT | Hybrid | Apr 09 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Fall 2026 Litigation Intern](https://jobright.ai/jobs/info/69d89841738f2f099e89d842?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
