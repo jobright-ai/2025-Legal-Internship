@@ -57,10 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Universal Property & Casualty Insurance Company](http://universalproperty.com/)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/69d927be9f97a42dc9c1fd51?utm_campaign=1055&utm_source=git)** | Fort Lauderdale | On Site | Apr 10 |
+| **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d92795869c7e25d8599355?utm_campaign=1055&utm_source=git)** | Durham, North Carolina | On Site | Apr 10 |
+| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Federal Cyber Security Services / McLean Summer 2026](https://jobright.ai/jobs/info/69d92408738f2f099e89ffd7?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Apr 10 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Contract Negotiation](https://jobright.ai/jobs/info/69d923c8738f2f099e89ffb5?utm_campaign=1055&utm_source=git)** | 801 Cherry Street, Fort Worth, TX, 76102, US | Hybrid | Apr 10 |
+| **[CBIZ](http://www.cbiz.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69d921fd9f97a42dc9c1f9dc?utm_campaign=1055&utm_source=git)** | 5959 Rockside Woods Blvd N, Suite 600, Cleveland, OH, 44131, US | On Site | Apr 10 |
+| **[Shumaker, Loop & Kendrick, LLP](https://www.shumaker.com)** | **[Records Intern](https://jobright.ai/jobs/info/698e19df0f6f7e7a2cea271e?utm_campaign=1055&utm_source=git)** | Sarasota, FL | On Site | Apr 10 |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL | On Site | Apr 10 |
 | **[Digital Realty](http://www.digitalrealty.com)** | **[Summer Intern - Legal & Compliance](https://jobright.ai/jobs/info/69837f7501214b4cdacb2341?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Apr 10 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d9115e869c7e25d8598a68?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Apr 10 |
-| **[Shields Health](https://shields.com/)** | **[Regulatory Intern](https://jobright.ai/jobs/info/69d9094cf748bc5d08a48491?utm_campaign=1055&utm_source=git)** | Quincy, MA | On Site | Apr 10 |
 | **[Ventra Health](https://ventrahealth.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69ccd529366bb95ba54f718b?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 10 |
+| **[Planet Home Lending, LLC](https://planethomelending.com/)** | **[Escrow Specialist - Intern](https://jobright.ai/jobs/info/69d923bef748bc5d08a48fc6?utm_campaign=1055&utm_source=git)** | Meriden, CT, USA | On Site | Apr 10 |
 | **[PIM Brands](https://pimbrands.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69bc6c675b89c002acf21f74?utm_campaign=1055&utm_source=git)** | Park Ridge, NJ | On Site | Apr 10 |
 | **[VB Spine](https://vbspineco.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69a0132e81476f6176ba1682?utm_campaign=1055&utm_source=git)** | Allendale, NJ | On Site | Apr 10 |
 | **[Tenneco](https://www.tenneco.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69a0b5735218a8167671e00e?utm_campaign=1055&utm_source=git)** | Northville, MI | On Site | Apr 10 |
@@ -104,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[McCain Foods](http://www.mccain.com)** | **[Functional Compliance Learning Internship](https://jobright.ai/jobs/info/69bb59635697383741415c6c?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 09 |
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Intern (Paid) - Solicitor's Department](https://jobright.ai/jobs/info/69d7b4d4869c7e25d858fdfe?utm_campaign=1055&utm_source=git)** | 633 Court St, Reading, PA, 19601, US | On Site | Apr 09 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bbb3c1569738374141c2b7?utm_campaign=1055&utm_source=git)** | Trumbull, CT | On Site | Apr 09 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Compliance Liaison (CX) - Remote in USA](https://jobright.ai/jobs/info/69d7b2a7f4ea471a51fdfb4c?utm_campaign=1055&utm_source=git)** | Georgia, United States | Remote | Apr 09 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Risk and Compliance Intern](https://jobright.ai/jobs/info/699fc268d643757b0e454837?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Legal Compliance Summer Intern](https://jobright.ai/jobs/info/69bad5a906c1ba00c54d2489?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Apr 09 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - AI & Legal Compliance (Summer 2026)](https://jobright.ai/jobs/info/6981df8f0f6f7e7a2cdb036d?utm_campaign=1055&utm_source=git)** | Garland, TX | On Site | Apr 09 |
@@ -112,10 +118,10 @@ For a complete list, click the following sortable link below:
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fd5ea53d97f23ee655946?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Apr 09 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[County Attorney-Fall Internship](https://jobright.ai/jobs/info/69d7b476738f2f099e896a65?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Apr 09 |
 | **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b332738f2f099e8967ac?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 09 |
-| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b321869c7e25d858fad3?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3209f97a42dc9c1665c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
-| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3229f97a42dc9c1666e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
+| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b321869c7e25d858fad3?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b349b67cec4f9b09678f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
+| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3229f97a42dc9c1666e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong EEO and Compliance Programs Intern](https://jobright.ai/jobs/info/69d7600248f0c8161d3001ca?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Developmental Services Resource Compliance Coordinator(37.5 Hour)(Hybrid)](https://jobright.ai/jobs/info/69d7ad939f97a42dc9c1587a?utm_campaign=1055&utm_source=git)** | Wallingford, CT | Hybrid | Apr 09 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Fall 2026 Litigation Intern](https://jobright.ai/jobs/info/69d89841738f2f099e89d842?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69d6b775366bb95ba554f365?utm_campaign=1055&utm_source=git)** | Onalaska, WI | On Site | Apr 08 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/69d6b146e63cea7a8b66b57d?utm_campaign=1055&utm_source=git)** | Plano, TX | Hybrid | Apr 08 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/69d6acc1cfdc6132f946c4c1?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 08 |
-| ↳ | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/69d6ac94366bb95ba554ef8e?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 08 |
-| **[Leica Geosystems part of Hexagon](http://leica-geosystems.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69d6d14848f0c8161d2fb544?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | On Site | Apr 08 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Legal Intern – Policy & Public Sector (AI & Cybersecurity Focus) (Summer 2026)](https://jobright.ai/jobs/info/69d6a89e48f0c8161d2fa0a9?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 08 |
-| **[Elliott-Lewis Corporation](http://elliottlewis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d6a51ae63cea7a8b66a376?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Apr 08 |
-| **[First Tennessee Human Resource Agency (FTHRA)](https://fthra.org/)** | **[Summer Internship with Misdemeanor Probation- Paid](https://jobright.ai/jobs/info/69d6a4f7706f771673babf34?utm_campaign=1055&utm_source=git)** | Greeneville, Tennessee, United States | On Site | Apr 08 |
-| ↳ | **[Misdemeanor Probation Internship - Paid](https://jobright.ai/jobs/info/69d6a4f6706f771673babf2a?utm_campaign=1055&utm_source=git)** | Johnson City, Tennessee, United States | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
