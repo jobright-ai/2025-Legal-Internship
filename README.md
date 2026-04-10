@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Olema Oncology](https://olema.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d845b5f4ea471a51fe4ebe?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts | On Site | Apr 09 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/69d84564b861c42857c49a86?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Apr 09 |
 | **[Drax Group](https://www.drax.com/)** | **[Legal Intern - Four Month Temporary](https://jobright.ai/jobs/info/69d8375bf4ea471a51fe4af3?utm_campaign=1055&utm_source=git)** | Vancouver, BC | On Site | Apr 09 |
 | **[Malwarebytes](https://www.malwarebytes.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d82ad8869c7e25d8594244?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Apr 09 |
 | **[City of Bothell](https://www.bothellwa.gov/)** | **[Rule 9 Legal Intern](https://jobright.ai/jobs/info/69d82514738f2f099e89ae32?utm_campaign=1055&utm_source=git)** | Bothell, WA | On Site | Apr 09 |
@@ -100,10 +102,10 @@ For a complete list, click the following sortable link below:
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fd5ea53d97f23ee655946?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Apr 09 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[County Attorney-Fall Internship](https://jobright.ai/jobs/info/69d7b476738f2f099e896a65?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Apr 09 |
 | **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b332738f2f099e8967ac?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 09 |
-| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3209f97a42dc9c1665c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b321869c7e25d858fad3?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
-| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3229f97a42dc9c1666e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
+| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3209f97a42dc9c1665c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b349b67cec4f9b09678f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
+| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3229f97a42dc9c1666e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong EEO and Compliance Programs Intern](https://jobright.ai/jobs/info/69d7600248f0c8161d3001ca?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Developmental Services Resource Compliance Coordinator(37.5 Hour)(Hybrid)](https://jobright.ai/jobs/info/69d7ad939f97a42dc9c1587a?utm_campaign=1055&utm_source=git)** | Wallingford, CT | Hybrid | Apr 09 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Risk](https://jobright.ai/jobs/info/69d7384648f0c8161d2fe717?utm_campaign=1055&utm_source=git)** | Rochester, MN | On Site | Apr 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69d67104366bb95ba554c9ef?utm_campaign=1055&utm_source=git)** | Norwell, MA | On Site | Apr 08 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a64d7796a83635f09901?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Apr 08 |
 | **[Jainam Share Consultants Pvt Ltd.](http://www.jainam.in)** | **[Deputy Manager - Regulatory](https://jobright.ai/jobs/info/69d66a7dcfdc6132f9469ba2?utm_campaign=1055&utm_source=git)** | House, NM | On Site | Apr 08 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern - Fall 2026](https://jobright.ai/jobs/info/69ba99c506c1ba00c54ccd90?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 08 |
-| **[Times Microwave Systems](http://www.timesmicrowave.com/)** | **[Compliance Operations Intern](https://jobright.ai/jobs/info/69ba93723b74eb1e2c889b21?utm_campaign=1055&utm_source=git)** | Wallingford, CT | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
