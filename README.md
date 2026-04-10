@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Universal Property & Casualty Insurance Company](http://universalproperty.com/)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/69d94203b67cec4f9b0a0d9a?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 10 |
+| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69bc9b1545e08b3dc1f95aa0?utm_campaign=1055&utm_source=git)** | Columbia, MD | On Site | Apr 10 |
+| **[Rothman Orthopaedics](https://rothmanortho.com/landing/orthopaedicare)** | **[Legal Administrative Intern](https://jobright.ai/jobs/info/69d93bed9f97a42dc9c202e5?utm_campaign=1055&utm_source=git)** | Center City 833 Chestnut - Philadelphia, PA 19107 | On Site | Apr 10 |
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69d933f9869c7e25d85996d6?utm_campaign=1055&utm_source=git)** | Hopkins, MN | On Site | Apr 10 |
 | **[CBIZ](http://www.cbiz.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69d92eac9f97a42dc9c1ff05?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 10 |
 | **[BTD Manufacturing](http://btdmfg.com)** | **[Land Rights Intern](https://jobright.ai/jobs/info/69d92e319f97a42dc9c1fe99?utm_campaign=1055&utm_source=git)** | Fergus Falls, Minnesota, United States | On Site | Apr 10 |
@@ -67,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[CBIZ](http://www.cbiz.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69d921fd9f97a42dc9c1f9dc?utm_campaign=1055&utm_source=git)** | 5959 Rockside Woods Blvd N, Suite 600, Cleveland, OH, 44131, US | On Site | Apr 10 |
 | **[Shumaker, Loop & Kendrick, LLP](https://www.shumaker.com)** | **[Records Intern](https://jobright.ai/jobs/info/698e19df0f6f7e7a2cea271e?utm_campaign=1055&utm_source=git)** | Sarasota, FL | On Site | Apr 10 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL | On Site | Apr 10 |
+| **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Financial Products Intern](https://jobright.ai/jobs/info/69d93d70869c7e25d8599a4d?utm_campaign=1055&utm_source=git)** | Chicago, Illinois | On Site | Apr 10 |
 | **[Digital Realty](http://www.digitalrealty.com)** | **[Summer Intern - Legal & Compliance](https://jobright.ai/jobs/info/69837f7501214b4cdacb2341?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Apr 10 |
-| **[Jurispruve](www.jurispruve.com)** | **[Law Research Intern](https://jobright.ai/jobs/info/69d934bff748bc5d08a49b81?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Remote | Apr 10 |
 | **[Ventra Health](https://ventrahealth.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69ccd529366bb95ba54f718b?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Planet Home Lending, LLC](https://planethomelending.com/)** | **[Escrow Specialist - Intern](https://jobright.ai/jobs/info/69d923bef748bc5d08a48fc6?utm_campaign=1055&utm_source=git)** | Meriden, CT, USA | On Site | Apr 10 |
 | **[PIM Brands](https://pimbrands.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69bc6c675b89c002acf21f74?utm_campaign=1055&utm_source=git)** | Park Ridge, NJ | On Site | Apr 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Salt & Straw](https://saltandstraw.com/about/)** | **[Regulatory and Quality Assurance Intern](https://jobright.ai/jobs/info/69d6c538cfdc6132f946d271?utm_campaign=1055&utm_source=git)** | Central Kitchen Oregon - Portland, OR 97214 | On Site | Apr 08 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[UTS - Temporary Paralegal at NC State](https://jobright.ai/jobs/info/69d6c1d752a5bf580012bd75?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Apr 08 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Political Compliance Intern (Summer and Fall)](https://jobright.ai/jobs/info/69d6c1ae48f0c8161d2faf3f?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
-| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Fall 2026 Litigation Intern](https://jobright.ai/jobs/info/69d6c021366bb95ba554f9d9?utm_campaign=1055&utm_source=git)** | Washington, DC, US | Hybrid | Apr 08 |
-| ↳ | **[Fall 2026 Litigation Intern](https://jobright.ai/jobs/info/69d6c01848f0c8161d2fad3d?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Apr 08 |
-| **[SentinelOne](http://www.sentinelone.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d6bb1352a5bf580012b6e0?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
