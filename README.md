@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/69d8c3b99f97a42dc9c1e4df?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Apr 10 |
 | **[Malwarebytes](https://www.malwarebytes.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d8b2679f97a42dc9c1dd89?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Apr 10 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Law Department](https://jobright.ai/jobs/info/69d8b1fab861c42857c4c567?utm_campaign=1055&utm_source=git)** | Burlington, NC | On Site | Apr 10 |
 | **[Olema Oncology](https://olema.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d89876869c7e25d8596b65?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 09 |
@@ -105,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Privacy Law Intern](https://jobright.ai/jobs/info/699f0c3681476f6176b890b1?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fd5ea53d97f23ee655946?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Apr 09 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[County Attorney-Fall Internship](https://jobright.ai/jobs/info/69d7b476738f2f099e896a65?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Apr 09 |
-| **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3209f97a42dc9c1665c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
-| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b332738f2f099e8967ac?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 09 |
+| **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b332738f2f099e8967ac?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 09 |
+| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3209f97a42dc9c1665c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b321869c7e25d858fad3?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b349b67cec4f9b09678f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3229f97a42dc9c1666e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Ambler, Risk Management](https://jobright.ai/jobs/info/69d6a0f652a5bf5800129dfb?utm_campaign=1055&utm_source=git)** | Ambler, Pennsylvania, United States | Hybrid | Apr 08 |
 | **[Kering](https://www.kering-ventures.com)** | **[KERING Legal Intern](https://jobright.ai/jobs/info/69d69f7952a5bf5800129d91?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 08 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Legal Intern (Law Student)](https://jobright.ai/jobs/info/69bac3413b74eb1e2c88f727?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
-| **[MBTA](http://mbta.com)** | **[Senior Service Contracts Intern [Graduate Students]](https://jobright.ai/jobs/info/69d689ee52a5bf58001295d1?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
