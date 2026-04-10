@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Seattle](http://www.seattle.gov/)** | **[Summer Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/69d95e80b67cec4f9b0a198d?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Apr 10 |
+| **[Hunter Strategy](http://www.hunterstrategy.net)** | **[GRC (Governance, Risk, and Compliance)  Intern](https://jobright.ai/jobs/info/69d95e2a869c7e25d859a6b2?utm_campaign=1055&utm_source=git)** | Remote (United States) | Remote | Apr 10 |
+| **[NSP](http://www.naturessunshine.com)** | **[Intern- Legal](https://jobright.ai/jobs/info/69d95e21738f2f099e8a1532?utm_campaign=1055&utm_source=git)** | Lehi,Utah,United States | Hybrid | Apr 10 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Contract Negotiation](https://jobright.ai/jobs/info/69d95a099f97a42dc9c20ee2?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Apr 10 |
+| **[City of Chicago Department of Law](https://www.chicago.gov/city/en/depts/dol.html)** | **[Assistant Corporation Counsel III - Employment Litigation Division](https://jobright.ai/jobs/info/69d959fa869c7e25d859a2de?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
+| **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d959e5b67cec4f9b0a164c?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Apr 10 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Global Trade Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/69d95303738f2f099e8a0ff5?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Apr 10 |
 | **[Nexthink](http://www.nexthink.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d94954869c7e25d8599f52?utm_campaign=1055&utm_source=git)** | Boston, MA, USA | Hybrid | Apr 10 |
 | **[Universal Property & Casualty Insurance Company](http://universalproperty.com/)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/69d94203b67cec4f9b0a0d9a?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 10 |
@@ -92,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Malwarebytes](https://www.malwarebytes.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d82ad8869c7e25d8594244?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Apr 09 |
 | **[EmPRO Insurance](https://www.myempro.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/69d8247ab67cec4f9b09ae78?utm_campaign=1055&utm_source=git)** | Roslyn, NY | On Site | Apr 09 |
 | **[Advarra](https://www.advarra.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69d823c0b67cec4f9b09ab5e?utm_campaign=1055&utm_source=git)** | United States | On Site | Apr 09 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69d82111869c7e25d8593be4?utm_campaign=1055&utm_source=git)** | Wellesley, MA | On Site | Apr 09 |
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/69d818569f97a42dc9c1a4e8?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Apr 09 |
 | **[Wiz](https://www.wiz.io)** | **[Senior Risk Management Analyst (East Coast)](https://jobright.ai/jobs/info/69d80f8bb861c42857c4873a?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 09 |
 | **[SECU](https://www.ncsecu.org)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/69d80f0bb67cec4f9b09a606?utm_campaign=1055&utm_source=git)** | Linthicum, MD | On Site | Apr 09 |
@@ -125,8 +130,7 @@ For a complete list, click the following sortable link below:
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Privacy Law Intern](https://jobright.ai/jobs/info/699f0c3681476f6176b890b1?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fd5ea53d97f23ee655946?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Apr 09 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[County Attorney-Fall Internship](https://jobright.ai/jobs/info/69d7b476738f2f099e896a65?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Apr 09 |
-| **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3209f97a42dc9c1665c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
-| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b321869c7e25d858fad3?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
+| **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b321869c7e25d858fad3?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b332738f2f099e8967ac?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b349b67cec4f9b09678f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3229f97a42dc9c1666e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amneal Pharmaceuticals](http://amneal.com/)** | **[2026 Summer Internship - IT (Finance & IT) Brookhaven, NY](https://jobright.ai/jobs/info/69d6ccbc48f0c8161d2fb397?utm_campaign=1055&utm_source=git)** | Brookhaven, NY | On Site | Apr 08 |
 | ↳ | **[2026 Summer Internship - Legal (Legal and Intellectual Property) Bridgewater, NJ](https://jobright.ai/jobs/info/69d6cc3b366bb95ba554ff54?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | Apr 08 |
 | **[Advarra](https://www.advarra.com/)** | **[Regulatory Intern](https://jobright.ai/jobs/info/69d6ee1d366bb95ba5550b65?utm_campaign=1055&utm_source=git)** | United States | On Site | Apr 08 |
-| **[Santa Clara University](http://scu.edu)** | **[Risk Management Intern (Fixed Term)](https://jobright.ai/jobs/info/69d6c71e366bb95ba554fdf8?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | Remote | Apr 08 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong EEO and Compliance Programs Intern](https://jobright.ai/jobs/info/69d6c652366bb95ba554fd8b?utm_campaign=1055&utm_source=git)** | USA-Illinois-Chicago | On Site | Apr 08 |
-| **[Advarra](https://www.advarra.com/)** | **[Regulatory Intern](https://jobright.ai/jobs/info/69d6c64d52a5bf580012bfd2?utm_campaign=1055&utm_source=git)** | United States of America, United States | On Site | Apr 08 |
-| **[Salt & Straw](https://saltandstraw.com/about/)** | **[Regulatory and Quality Assurance Intern](https://jobright.ai/jobs/info/69d6c538cfdc6132f946d271?utm_campaign=1055&utm_source=git)** | Central Kitchen Oregon - Portland, OR 97214 | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
