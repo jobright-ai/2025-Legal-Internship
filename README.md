@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schwan's Company](http://www.schwanscompany.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69d933f9869c7e25d85996d6?utm_campaign=1055&utm_source=git)** | Hopkins, MN | On Site | Apr 10 |
+| **[CBIZ](http://www.cbiz.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69d92eac9f97a42dc9c1ff05?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 10 |
+| **[BTD Manufacturing](http://btdmfg.com)** | **[Land Rights Intern](https://jobright.ai/jobs/info/69d92e319f97a42dc9c1fe99?utm_campaign=1055&utm_source=git)** | Fergus Falls, Minnesota, United States | On Site | Apr 10 |
 | **[Universal Property & Casualty Insurance Company](http://universalproperty.com/)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/69d927be9f97a42dc9c1fd51?utm_campaign=1055&utm_source=git)** | Fort Lauderdale | On Site | Apr 10 |
 | **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d92795869c7e25d8599355?utm_campaign=1055&utm_source=git)** | Durham, North Carolina | On Site | Apr 10 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Federal Cyber Security Services / McLean Summer 2026](https://jobright.ai/jobs/info/69d92408738f2f099e89ffd7?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Apr 10 |
@@ -65,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Shumaker, Loop & Kendrick, LLP](https://www.shumaker.com)** | **[Records Intern](https://jobright.ai/jobs/info/698e19df0f6f7e7a2cea271e?utm_campaign=1055&utm_source=git)** | Sarasota, FL | On Site | Apr 10 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL | On Site | Apr 10 |
 | **[Digital Realty](http://www.digitalrealty.com)** | **[Summer Intern - Legal & Compliance](https://jobright.ai/jobs/info/69837f7501214b4cdacb2341?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Apr 10 |
-| **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d9115e869c7e25d8598a68?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Apr 10 |
+| **[Jurispruve](www.jurispruve.com)** | **[Law Research Intern](https://jobright.ai/jobs/info/69d934bff748bc5d08a49b81?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Remote | Apr 10 |
 | **[Ventra Health](https://ventrahealth.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69ccd529366bb95ba54f718b?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Planet Home Lending, LLC](https://planethomelending.com/)** | **[Escrow Specialist - Intern](https://jobright.ai/jobs/info/69d923bef748bc5d08a48fc6?utm_campaign=1055&utm_source=git)** | Meriden, CT, USA | On Site | Apr 10 |
 | **[PIM Brands](https://pimbrands.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69bc6c675b89c002acf21f74?utm_campaign=1055&utm_source=git)** | Park Ridge, NJ | On Site | Apr 10 |
@@ -118,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fd5ea53d97f23ee655946?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Apr 09 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[County Attorney-Fall Internship](https://jobright.ai/jobs/info/69d7b476738f2f099e896a65?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Apr 09 |
 | **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b332738f2f099e8967ac?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 09 |
-| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3209f97a42dc9c1665c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b321869c7e25d858fad3?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
+| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3209f97a42dc9c1665c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b349b67cec4f9b09678f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3229f97a42dc9c1666e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong EEO and Compliance Programs Intern](https://jobright.ai/jobs/info/69d7600248f0c8161d3001ca?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Fall 2026 Litigation Intern](https://jobright.ai/jobs/info/69d6c021366bb95ba554f9d9?utm_campaign=1055&utm_source=git)** | Washington, DC, US | Hybrid | Apr 08 |
 | ↳ | **[Fall 2026 Litigation Intern](https://jobright.ai/jobs/info/69d6c01848f0c8161d2fad3d?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Apr 08 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d6bb1352a5bf580012b6e0?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Apr 08 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69d6b775366bb95ba554f365?utm_campaign=1055&utm_source=git)** | Onalaska, WI | On Site | Apr 08 |
-| **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/69d6b146e63cea7a8b66b57d?utm_campaign=1055&utm_source=git)** | Plano, TX | Hybrid | Apr 08 |
-| **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/69d6acc1cfdc6132f946c4c1?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
