@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Drax Group](https://www.drax.com/)** | **[Legal Intern - Four Month Temporary](https://jobright.ai/jobs/info/69d8375bf4ea471a51fe4af3?utm_campaign=1055&utm_source=git)** | Vancouver, BC | On Site | Apr 09 |
+| **[Malwarebytes](https://www.malwarebytes.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d82ad8869c7e25d8594244?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Apr 09 |
 | **[City of Bothell](https://www.bothellwa.gov/)** | **[Rule 9 Legal Intern](https://jobright.ai/jobs/info/69d82514738f2f099e89ae32?utm_campaign=1055&utm_source=git)** | Bothell, WA | On Site | Apr 09 |
 | **[EmPRO Insurance](https://www.myempro.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/69d8247ab67cec4f9b09ae78?utm_campaign=1055&utm_source=git)** | Roslyn, NY | On Site | Apr 09 |
 | **[Jurispruve](www.jurispruve.com)** | **[Legal Research Intern](https://jobright.ai/jobs/info/69d8242b869c7e25d8593f74?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Remote | Apr 09 |
@@ -98,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fd5ea53d97f23ee655946?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Apr 09 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[County Attorney-Fall Internship](https://jobright.ai/jobs/info/69d7b476738f2f099e896a65?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Apr 09 |
 | **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b332738f2f099e8967ac?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 09 |
-| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b321869c7e25d858fad3?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3209f97a42dc9c1665c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
+| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b321869c7e25d858fad3?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3229f97a42dc9c1666e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b349b67cec4f9b09678f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong EEO and Compliance Programs Intern](https://jobright.ai/jobs/info/69d7600248f0c8161d3001ca?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
@@ -114,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Aflac](http://www.aflac.com)** | **[Enterprise Risk Mgmt Consult](https://jobright.ai/jobs/info/69d6fefa48f0c8161d2fc444?utm_campaign=1055&utm_source=git)** | Georgia, United States | Hybrid | Apr 08 |
 | **[North Texas Tollway Authority](https://www.ntta.org/)** | **[Temporary Intern Legal](https://jobright.ai/jobs/info/69d6f95852a5bf580012d2b3?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Apr 08 |
 | **[Elliott-Lewis Corporation](http://elliottlewis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d6ee1c366bb95ba5550b62?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 08 |
+| **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Legal Secretary - Limited Term Employee (Juneau Trial Office)](https://jobright.ai/jobs/info/69d833a3869c7e25d85945e5?utm_campaign=1055&utm_source=git)** | Juneau, AK | On Site | Apr 08 |
 | **[Stewart Title](https://www.stewart.com/)** | **[Escrow Operations Intern](https://jobright.ai/jobs/info/69d6e9cb52a5bf580012cda8?utm_campaign=1055&utm_source=git)** | OKC Metro Area | On Site | Apr 08 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Risk](https://jobright.ai/jobs/info/69d6e273366bb95ba555085c?utm_campaign=1055&utm_source=git)** | Rochester, MN, United States | Hybrid | Apr 08 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern - Risk](https://jobright.ai/jobs/info/69d6dc78e63cea7a8b66cb79?utm_campaign=1055&utm_source=git)** | Rochester, MN, United States | Hybrid | Apr 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jainam Share Consultants Pvt Ltd.](http://www.jainam.in)** | **[Deputy Manager - Regulatory](https://jobright.ai/jobs/info/69d66a7dcfdc6132f9469ba2?utm_campaign=1055&utm_source=git)** | House, NM | On Site | Apr 08 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Investigations & Law Enforcement Development Intern - Fall 2026](https://jobright.ai/jobs/info/69ba99c506c1ba00c54ccd90?utm_campaign=1055&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 08 |
 | **[Times Microwave Systems](http://www.timesmicrowave.com/)** | **[Compliance Operations Intern](https://jobright.ai/jobs/info/69ba93723b74eb1e2c889b21?utm_campaign=1055&utm_source=git)** | Wallingford, CT | On Site | Apr 08 |
-| **[Architect of the Capitol](http://www.aoc.gov/)** | **[Summer Law Internship](https://jobright.ai/jobs/info/69cece5854f00230c6d034d3?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 08 |
-| **[County of Lancaster](https://www.lancastercountypa.gov)** | **[Intern](https://jobright.ai/jobs/info/69d65baa366bb95ba554c428?utm_campaign=1055&utm_source=git)** | District Attorney-50 North Duke Street, Lancaster, PA | On Site | Apr 08 |
-| **[Foster Garvey PC](https://www.foster.com/)** | **[2027 Summer Associate](https://jobright.ai/jobs/info/69ae48097c309707d4af807f?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
