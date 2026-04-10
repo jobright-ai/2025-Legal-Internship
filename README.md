@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PIM Brands](https://pimbrands.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69bc6c675b89c002acf21f74?utm_campaign=1055&utm_source=git)** | Park Ridge, NJ | On Site | Apr 10 |
 | **[VB Spine](https://vbspineco.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69a0132e81476f6176ba1682?utm_campaign=1055&utm_source=git)** | Allendale, NJ | On Site | Apr 10 |
 | **[Tenneco](https://www.tenneco.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69a0b5735218a8167671e00e?utm_campaign=1055&utm_source=git)** | Northville, MI | On Site | Apr 10 |
 | **[Rayburn Electric Cooperative](https://www.rayburnelectric.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/699f202b94ef206f184e4740?utm_campaign=1055&utm_source=git)** | Rockwall, TX | On Site | Apr 10 |
@@ -74,11 +75,9 @@ For a complete list, click the following sortable link below:
 | **[Malwarebytes](https://www.malwarebytes.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d82ad8869c7e25d8594244?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Apr 09 |
 | **[City of Bothell](https://www.bothellwa.gov/)** | **[Rule 9 Legal Intern](https://jobright.ai/jobs/info/69d82514738f2f099e89ae32?utm_campaign=1055&utm_source=git)** | Bothell, WA | On Site | Apr 09 |
 | **[EmPRO Insurance](https://www.myempro.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/69d8247ab67cec4f9b09ae78?utm_campaign=1055&utm_source=git)** | Roslyn, NY | On Site | Apr 09 |
-| **[Jurispruve](www.jurispruve.com)** | **[Legal Research Intern](https://jobright.ai/jobs/info/69d8242b869c7e25d8593f74?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Remote | Apr 09 |
 | **[Advarra](https://www.advarra.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69d823c0b67cec4f9b09ab5e?utm_campaign=1055&utm_source=git)** | United States | On Site | Apr 09 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69d82111869c7e25d8593be4?utm_campaign=1055&utm_source=git)** | Wellesley, MA | On Site | Apr 09 |
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/69d818569f97a42dc9c1a4e8?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Apr 09 |
-| **[SECU Credit Union](https://www.secumd.org/)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/69d81708869c7e25d8593a05?utm_campaign=1055&utm_source=git)** | Linthicum, MD | On Site | Apr 09 |
 | **[Wiz](https://www.wiz.io)** | **[Senior Risk Management Analyst (East Coast)](https://jobright.ai/jobs/info/69d80f8bb861c42857c4873a?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 09 |
 | **[SECU](https://www.ncsecu.org)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/69d80f0bb67cec4f9b09a606?utm_campaign=1055&utm_source=git)** | Linthicum, MD | On Site | Apr 09 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69d80aeaf4ea471a51fe3638?utm_campaign=1055&utm_source=git)** | 500 Plaza Drive, Secaucus, NJ, 07094, US | Hybrid | Apr 09 |
@@ -112,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fd5ea53d97f23ee655946?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Apr 09 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[County Attorney-Fall Internship](https://jobright.ai/jobs/info/69d7b476738f2f099e896a65?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Apr 09 |
 | **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3209f97a42dc9c1665c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
-| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b321869c7e25d858fad3?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b332738f2f099e8967ac?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 09 |
+| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b321869c7e25d858fad3?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b349b67cec4f9b09678f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3229f97a42dc9c1666e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong EEO and Compliance Programs Intern](https://jobright.ai/jobs/info/69d7600248f0c8161d3001ca?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Elliott-Lewis Corporation](http://elliottlewis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d6a51ae63cea7a8b66a376?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Apr 08 |
 | **[First Tennessee Human Resource Agency (FTHRA)](https://fthra.org/)** | **[Summer Internship with Misdemeanor Probation- Paid](https://jobright.ai/jobs/info/69d6a4f7706f771673babf34?utm_campaign=1055&utm_source=git)** | Greeneville, Tennessee, United States | On Site | Apr 08 |
 | ↳ | **[Misdemeanor Probation Internship - Paid](https://jobright.ai/jobs/info/69d6a4f6706f771673babf2a?utm_campaign=1055&utm_source=git)** | Johnson City, Tennessee, United States | On Site | Apr 08 |
+| **[Santa Clara University](http://scu.edu)** | **[Risk Management Intern (Fixed Term)](https://jobright.ai/jobs/info/69d6a4b052a5bf5800129f3b?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
