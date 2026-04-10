@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Digital Realty](http://www.digitalrealty.com)** | **[Summer Intern - Legal & Compliance](https://jobright.ai/jobs/info/69837f7501214b4cdacb2341?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Apr 10 |
+| **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d9115e869c7e25d8598a68?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Apr 10 |
 | **[Shields Health](https://shields.com/)** | **[Regulatory Intern](https://jobright.ai/jobs/info/69d9094cf748bc5d08a48491?utm_campaign=1055&utm_source=git)** | Quincy, MA | On Site | Apr 10 |
 | **[Ventra Health](https://ventrahealth.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69ccd529366bb95ba54f718b?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 10 |
 | **[PIM Brands](https://pimbrands.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69bc6c675b89c002acf21f74?utm_campaign=1055&utm_source=git)** | Park Ridge, NJ | On Site | Apr 10 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[MicroVention-Terumo](http://microvention.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69d85a78869c7e25d8594f42?utm_campaign=1055&utm_source=git)** | Aliso Viejo, California, USA | Hybrid | Apr 09 |
 | **[Drax Group](https://www.drax.com/)** | **[Legal Intern - Four Month Temporary](https://jobright.ai/jobs/info/69d8375bf4ea471a51fe4af3?utm_campaign=1055&utm_source=git)** | Vancouver, BC | On Site | Apr 09 |
 | **[Malwarebytes](https://www.malwarebytes.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d82ad8869c7e25d8594244?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Apr 09 |
-| **[City of Bothell](https://www.bothellwa.gov/)** | **[Rule 9 Legal Intern](https://jobright.ai/jobs/info/69d82514738f2f099e89ae32?utm_campaign=1055&utm_source=git)** | Bothell, WA | On Site | Apr 09 |
 | **[EmPRO Insurance](https://www.myempro.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/69d8247ab67cec4f9b09ae78?utm_campaign=1055&utm_source=git)** | Roslyn, NY | On Site | Apr 09 |
 | **[Advarra](https://www.advarra.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69d823c0b67cec4f9b09ab5e?utm_campaign=1055&utm_source=git)** | United States | On Site | Apr 09 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69d82111869c7e25d8593be4?utm_campaign=1055&utm_source=git)** | Wellesley, MA | On Site | Apr 09 |
@@ -110,9 +111,9 @@ For a complete list, click the following sortable link below:
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Privacy Law Intern](https://jobright.ai/jobs/info/699f0c3681476f6176b890b1?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/699fd5ea53d97f23ee655946?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Apr 09 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[County Attorney-Fall Internship](https://jobright.ai/jobs/info/69d7b476738f2f099e896a65?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Apr 09 |
-| **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3209f97a42dc9c1665c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
-| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b332738f2f099e8967ac?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 09 |
+| **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b332738f2f099e8967ac?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b321869c7e25d858fad3?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
+| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3209f97a42dc9c1665c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3229f97a42dc9c1666e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b349b67cec4f9b09678f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong EEO and Compliance Programs Intern](https://jobright.ai/jobs/info/69d7600248f0c8161d3001ca?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Elliott-Lewis Corporation](http://elliottlewis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d6a51ae63cea7a8b66a376?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Apr 08 |
 | **[First Tennessee Human Resource Agency (FTHRA)](https://fthra.org/)** | **[Summer Internship with Misdemeanor Probation- Paid](https://jobright.ai/jobs/info/69d6a4f7706f771673babf34?utm_campaign=1055&utm_source=git)** | Greeneville, Tennessee, United States | On Site | Apr 08 |
 | ↳ | **[Misdemeanor Probation Internship - Paid](https://jobright.ai/jobs/info/69d6a4f6706f771673babf2a?utm_campaign=1055&utm_source=git)** | Johnson City, Tennessee, United States | On Site | Apr 08 |
-| **[Santa Clara University](http://scu.edu)** | **[Risk Management Intern (Fixed Term)](https://jobright.ai/jobs/info/69d6a4b052a5bf5800129f3b?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
