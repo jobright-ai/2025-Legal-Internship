@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Port St. Lucie](http://www.cityofpsl.com/)** | **[Summer Intern to Senior Deputy City Attorney- Legal Department](https://jobright.ai/jobs/info/69dabebcb67cec4f9b0ac0bc?utm_campaign=1055&utm_source=git)** | Port St Lucie, FL | On Site | Apr 11 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[Legal Assistant-Unpaid](https://jobright.ai/jobs/info/69da8f94b67cec4f9b0a9ce7?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Apr 11 |
 | **[State of Missouri](http://mo.gov)** | **[Legal Intern - 3DIR011](https://jobright.ai/jobs/info/69bde6dbb106024562834b6b?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Apr 11 |
 | ↳ | **[Legal Intern - 3DIR061](https://jobright.ai/jobs/info/69bd9f1db106024562828d2c?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Apr 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Intern (Paid) - Solicitor's Department](https://jobright.ai/jobs/info/69d7b4d4869c7e25d858fdfe?utm_campaign=1055&utm_source=git)** | 633 Court St, Reading, PA, 19601, US | On Site | Apr 09 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bbb3c1569738374141c2b7?utm_campaign=1055&utm_source=git)** | Trumbull, CT | On Site | Apr 09 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Risk and Compliance Intern](https://jobright.ai/jobs/info/699fc268d643757b0e454837?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 09 |
-| **[Authentic Brands Group](https://authentic.com)** | **[Legal Compliance Summer Intern](https://jobright.ai/jobs/info/69bad5a906c1ba00c54d2489?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
