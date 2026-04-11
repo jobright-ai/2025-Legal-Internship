@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thomson Reuters](http://thomsonreuters.com)** | **[Practical Law Intern - 2026](https://jobright.ai/jobs/info/69d9b0285356a60f40fdbb6b?utm_campaign=1055&utm_source=git)** | Eagan, MN | Hybrid | Apr 10 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/69d9ae5d5356a60f40fdb9db?utm_campaign=1055&utm_source=git)** | Hatfield, PA | On Site | Apr 10 |
 | **[Tucson Medical Center](https://www.tmcaz.com/)** | **[Student Intern - Law Clerk](https://jobright.ai/jobs/info/69d9a4dd869c7e25d859c89c?utm_campaign=1055&utm_source=git)** | Tucson, AZ | On Site | Apr 10 |
 | **[HealthStream](http://www.healthstream.com)** | **[Intern, Regulatory Research](https://jobright.ai/jobs/info/69d99601738f2f099e8a29a3?utm_campaign=1055&utm_source=git)** | Nashville, TN | Remote | Apr 10 |
 | **[Nexthink](http://www.nexthink.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d993a5738f2f099e8a2896?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Apr 10 |
 | **[Javits Center](http://javitscenter.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d993635356a60f40fda648?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Regulatory Registration/Reimbursement Intern](https://jobright.ai/jobs/info/69d99094b67cec4f9b0a29f0?utm_campaign=1055&utm_source=git)** | Kirkland, WA | Hybrid | Apr 10 |
 | **[MacArthur Justice Center](https://www.macarthurjustice.org/)** | **[Litigation Paralegal - Bilingual](https://jobright.ai/jobs/info/69b8927056973837413df1cb?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Apr 10 |
+| **[NCCU Public Administration](https://www.nccu.edu/cash/public-administration)** | **[Compliance Officer/Program Coordinator](https://jobright.ai/jobs/info/69d9ae3f5356a60f40fdb9a7?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Apr 10 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Practical Law Intern - 2026](https://jobright.ai/jobs/info/69d98211738f2f099e8a22ec?utm_campaign=1055&utm_source=git)** | United States of America, Eagan, Minnesota | Hybrid | Apr 10 |
 | ↳ | **[Practical Law Intern - 2026](https://jobright.ai/jobs/info/69d9820f869c7e25d859b3cb?utm_campaign=1055&utm_source=git)** | United States of America, New York, New York | Hybrid | Apr 10 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69d97b7bf748bc5d08a4b9ee?utm_campaign=1055&utm_source=git)** | Bellevue, WA | Hybrid | Apr 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Fall 2026 Litigation Intern](https://jobright.ai/jobs/info/69d89841738f2f099e89d842?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Risk](https://jobright.ai/jobs/info/69d7384648f0c8161d2fe717?utm_campaign=1055&utm_source=git)** | Rochester, MN | On Site | Apr 08 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Law Clerk](https://jobright.ai/jobs/info/69d730d8950d1a0760b7c393?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Apr 08 |
-| **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern - Part- Time Claims Coordinator](https://jobright.ai/jobs/info/69d71da4e63cea7a8b66e1fb?utm_campaign=1055&utm_source=git)** | Midlothian, TX | On Site | Apr 08 |
-| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Fall 2026 Litigation Intern](https://jobright.ai/jobs/info/69d8777fb67cec4f9b09cc7d?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Apr 08 |
-| **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern - Part- Time Claims Coordinator](https://jobright.ai/jobs/info/69d7182e706f771673bafc8c?utm_campaign=1055&utm_source=git)** | Midlothian, TX, US | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
