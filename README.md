@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern - 3DIR061](https://jobright.ai/jobs/info/69bd9f1db106024562828d2c?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Apr 11 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk Intern – Technology Expertise (Summer 2026)](https://jobright.ai/jobs/info/6930ac31fa28370be26b238d?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Apr 11 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Intern Part Time - DPW-Financial Services](https://jobright.ai/jobs/info/69da72a8b67cec4f9b0a97d6?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Apr 11 |
-| ↳ | **[Intern-Chief of Staff - DPW-Financial Services](https://jobright.ai/jobs/info/69da7295b67cec4f9b0a97ac?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Apr 11 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Canada Compliance Intern – Financial Security (May-August 2026)](https://jobright.ai/jobs/info/69183b3c45fb6f5ead8a341c?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Apr 11 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[The Bronx Defenders 2026-2027 Social Work Internship](https://jobright.ai/jobs/info/69da4e625356a60f40fe0bf1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Apr 11 |
 | **[Richemont](https://www.richemont.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69a0f8745218a81676723353?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Intern (Paid) - Solicitor's Department](https://jobright.ai/jobs/info/69d7b4d4869c7e25d858fdfe?utm_campaign=1055&utm_source=git)** | 633 Court St, Reading, PA, 19601, US | On Site | Apr 09 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69bbb3c1569738374141c2b7?utm_campaign=1055&utm_source=git)** | Trumbull, CT | On Site | Apr 09 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Risk and Compliance Intern](https://jobright.ai/jobs/info/699fc268d643757b0e454837?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 09 |
+| **[Authentic Brands Group](https://authentic.com)** | **[Legal Compliance Summer Intern](https://jobright.ai/jobs/info/69bad5a906c1ba00c54d2489?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
