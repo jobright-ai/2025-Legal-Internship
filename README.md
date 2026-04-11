@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - LEGAL AFFAIRS Job ID : 275074](https://jobright.ai/jobs/info/69da1e3f5356a60f40fdfb5c?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Apr 11 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Practical Law Intern - 2026](https://jobright.ai/jobs/info/69d9c02a5356a60f40fdc16d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 10 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/69d9c0069f97a42dc9c24051?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Apr 10 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Practical Law Intern - 2026](https://jobright.ai/jobs/info/69d9b0285356a60f40fdbb6b?utm_campaign=1055&utm_source=git)** | Eagan, MN | Hybrid | Apr 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Risk](https://jobright.ai/jobs/info/69d7384648f0c8161d2fe717?utm_campaign=1055&utm_source=git)** | Rochester, MN | On Site | Apr 08 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Law Clerk](https://jobright.ai/jobs/info/69d730d8950d1a0760b7c393?utm_campaign=1055&utm_source=git)** | St Louis, MO | On Site | Apr 08 |
 | **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern - Part- Time Claims Coordinator](https://jobright.ai/jobs/info/69d71da4e63cea7a8b66e1fb?utm_campaign=1055&utm_source=git)** | Midlothian, TX | On Site | Apr 08 |
-| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Fall 2026 Litigation Intern](https://jobright.ai/jobs/info/69d8777fb67cec4f9b09cc7d?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
