@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HealthStream](http://www.healthstream.com)** | **[Intern, Regulatory Research](https://jobright.ai/jobs/info/69d99601738f2f099e8a29a3?utm_campaign=1055&utm_source=git)** | Nashville, TN | Remote | Apr 10 |
+| **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - Legal](https://jobright.ai/jobs/info/69d995679f97a42dc9c224e3?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Apr 10 |
+| **[Nexthink](http://www.nexthink.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d993a5738f2f099e8a2896?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Apr 10 |
+| **[Javits Center](http://javitscenter.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d993635356a60f40fda648?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 10 |
+| **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Regulatory Registration/Reimbursement Intern](https://jobright.ai/jobs/info/69d99094b67cec4f9b0a29f0?utm_campaign=1055&utm_source=git)** | Kirkland, WA | Hybrid | Apr 10 |
+| **[MacArthur Justice Center](https://www.macarthurjustice.org/)** | **[Litigation Paralegal - Bilingual](https://jobright.ai/jobs/info/69b8927056973837413df1cb?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Apr 10 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Practical Law Intern - 2026](https://jobright.ai/jobs/info/69d98211738f2f099e8a22ec?utm_campaign=1055&utm_source=git)** | United States of America, Eagan, Minnesota | Hybrid | Apr 10 |
 | ↳ | **[Practical Law Intern - 2026](https://jobright.ai/jobs/info/69d9820f869c7e25d859b3cb?utm_campaign=1055&utm_source=git)** | United States of America, New York, New York | Hybrid | Apr 10 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69d97b7bf748bc5d08a4b9ee?utm_campaign=1055&utm_source=git)** | Bellevue, WA | Hybrid | Apr 10 |
@@ -103,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[MicroVention-Terumo](http://microvention.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69d85a78869c7e25d8594f42?utm_campaign=1055&utm_source=git)** | Aliso Viejo, California, USA | Hybrid | Apr 09 |
 | **[Drax Group](https://www.drax.com/)** | **[Legal Intern - Four Month Temporary](https://jobright.ai/jobs/info/69d8375bf4ea471a51fe4af3?utm_campaign=1055&utm_source=git)** | Vancouver, BC | On Site | Apr 09 |
 | **[Malwarebytes](https://www.malwarebytes.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d82ad8869c7e25d8594244?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Apr 09 |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a72b7a37c712687d3884?utm_campaign=1055&utm_source=git)** | Union, OH | On Site | Apr 09 |
 | **[EmPRO Insurance](https://www.myempro.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/69d8247ab67cec4f9b09ae78?utm_campaign=1055&utm_source=git)** | Roslyn, NY | On Site | Apr 09 |
 | **[Advarra](https://www.advarra.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69d823c0b67cec4f9b09ab5e?utm_campaign=1055&utm_source=git)** | United States | On Site | Apr 09 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7e7217a37c712687d6d3d?utm_campaign=1055&utm_source=git)** | West Deptford, NJ | On Site | Apr 09 |
@@ -140,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[County Attorney-Fall Internship](https://jobright.ai/jobs/info/69d7b476738f2f099e896a65?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Apr 09 |
 | **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b321869c7e25d858fad3?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b332738f2f099e8967ac?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 09 |
-| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3229f97a42dc9c1666e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
 | ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b349b67cec4f9b09678f?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
+| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69d7b3229f97a42dc9c1666e?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong EEO and Compliance Programs Intern](https://jobright.ai/jobs/info/69d7600248f0c8161d3001ca?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Developmental Services Resource Compliance Coordinator(37.5 Hour)(Hybrid)](https://jobright.ai/jobs/info/69d7ad939f97a42dc9c1587a?utm_campaign=1055&utm_source=git)** | Wallingford, CT | Hybrid | Apr 09 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Fall 2026 Litigation Intern](https://jobright.ai/jobs/info/69d89841738f2f099e89d842?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern - Part- Time Claims Coordinator](https://jobright.ai/jobs/info/69d71da4e63cea7a8b66e1fb?utm_campaign=1055&utm_source=git)** | Midlothian, TX | On Site | Apr 08 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Fall 2026 Litigation Intern](https://jobright.ai/jobs/info/69d8777fb67cec4f9b09cc7d?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Apr 08 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Seasonal Intern, State and Local Regulatory & Compliance - Lottery / Albany Summer 2026](https://jobright.ai/jobs/info/69d71c94706f771673baff25?utm_campaign=1055&utm_source=git)** | Albany, NY | Hybrid | Apr 08 |
-| **[Sunrider International](http://www.sunrider.com)** | **[Legal Intern - Part- Time Claims Coordinator](https://jobright.ai/jobs/info/69d7182e706f771673bafc8c?utm_campaign=1055&utm_source=git)** | Midlothian, TX, US | On Site | Apr 08 |
-| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Fall 2026 Litigation Intern](https://jobright.ai/jobs/info/69d86a1c9f97a42dc9c1c058?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Apr 08 |
-| **[SentinelOne](http://www.sentinelone.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d70814366bb95ba55512eb?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 08 |
-| **[Corpay](https://payments.corpay.com)** | **[Corporate Dealing Internship](https://jobright.ai/jobs/info/69d7035fe63cea7a8b66d783?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 08 |
-| **[Aflac](http://www.aflac.com)** | **[Enterprise Risk Mgmt Consult](https://jobright.ai/jobs/info/69d6fefa48f0c8161d2fc444?utm_campaign=1055&utm_source=git)** | Georgia, United States | Hybrid | Apr 08 |
-| **[North Texas Tollway Authority](https://www.ntta.org/)** | **[Temporary Intern Legal](https://jobright.ai/jobs/info/69d6f95852a5bf580012d2b3?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Apr 08 |
-| **[Elliott-Lewis Corporation](http://elliottlewis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d6ee1c366bb95ba5550b62?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
