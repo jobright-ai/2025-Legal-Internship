@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thomson Reuters](http://thomsonreuters.com)** | **[Practical Law Intern - 2026](https://jobright.ai/jobs/info/69d98211738f2f099e8a22ec?utm_campaign=1055&utm_source=git)** | United States of America, Eagan, Minnesota | Hybrid | Apr 10 |
+| ↳ | **[Practical Law Intern - 2026](https://jobright.ai/jobs/info/69d9820f869c7e25d859b3cb?utm_campaign=1055&utm_source=git)** | United States of America, New York, New York | Hybrid | Apr 10 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69d97b7bf748bc5d08a4b9ee?utm_campaign=1055&utm_source=git)** | Bellevue, WA | Hybrid | Apr 10 |
 | **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[Compliance Intern](https://jobright.ai/jobs/info/69d97939b67cec4f9b0a2409?utm_campaign=1055&utm_source=git)** | Mahwah, NJ | Hybrid | Apr 10 |
 | **[Salinas Valley Health](https://www.salinasvalleyhealth.com)** | **[Intern - Accreditation & Regulatory (On-site)](https://jobright.ai/jobs/info/69d978fb869c7e25d859b240?utm_campaign=1055&utm_source=git)** | Salinas, CA | On Site | Apr 10 |
 | **[HealthStream](http://www.healthstream.com)** | **[Intern, Regulatory Research](https://jobright.ai/jobs/info/69d96e319f97a42dc9c21826?utm_campaign=1055&utm_source=git)** | USA Remote - Nashville, TN 37203 | Remote | Apr 10 |
+| **[City of Port St. Lucie](http://www.cityofpsl.com/)** | **[Summer Intern to Senior Deputy City Attorney- Legal Department](https://jobright.ai/jobs/info/69d9889a9f97a42dc9c2213c?utm_campaign=1055&utm_source=git)** | Port St Lucie, FL | On Site | Apr 10 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Summer Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/69d95e80b67cec4f9b0a198d?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Apr 10 |
 | **[Hunter Strategy](http://www.hunterstrategy.net)** | **[GRC (Governance, Risk, and Compliance)  Intern](https://jobright.ai/jobs/info/69d95e2a869c7e25d859a6b2?utm_campaign=1055&utm_source=git)** | Remote (United States) | Remote | Apr 10 |
 | **[NSP](http://www.naturessunshine.com)** | **[Intern- Legal](https://jobright.ai/jobs/info/69d95e21738f2f099e8a1532?utm_campaign=1055&utm_source=git)** | Lehi,Utah,United States | Hybrid | Apr 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aflac](http://www.aflac.com)** | **[Enterprise Risk Mgmt Consult](https://jobright.ai/jobs/info/69d6fefa48f0c8161d2fc444?utm_campaign=1055&utm_source=git)** | Georgia, United States | Hybrid | Apr 08 |
 | **[North Texas Tollway Authority](https://www.ntta.org/)** | **[Temporary Intern Legal](https://jobright.ai/jobs/info/69d6f95852a5bf580012d2b3?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Apr 08 |
 | **[Elliott-Lewis Corporation](http://elliottlewis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d6ee1c366bb95ba5550b62?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 08 |
-| **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Legal Secretary - Limited Term Employee (Juneau Trial Office)](https://jobright.ai/jobs/info/69d833a3869c7e25d85945e5?utm_campaign=1055&utm_source=git)** | Juneau, AK | On Site | Apr 08 |
-| **[Stewart Title](https://www.stewart.com/)** | **[Escrow Operations Intern](https://jobright.ai/jobs/info/69d6e9cb52a5bf580012cda8?utm_campaign=1055&utm_source=git)** | OKC Metro Area | On Site | Apr 08 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Risk](https://jobright.ai/jobs/info/69d6e273366bb95ba555085c?utm_campaign=1055&utm_source=git)** | Rochester, MN, United States | Hybrid | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
