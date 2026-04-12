@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ab6d45fc862418539c63a?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Apr 12 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Associate Attorney, National Climate](https://jobright.ai/jobs/info/69a25bb7b600907a9628a388?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 12 |
 | **[McCarthy Tétrault](http://mccarthy.ca)** | **[Practice Support Lawyer- Business Law](https://jobright.ai/jobs/info/696ae9f2350cf43803121cd4?utm_campaign=1055&utm_source=git)** | Toronto, ON | Hybrid | Apr 12 |
 | **[Siemens Government Technologies](https://www.siemensgovt.com)** | **[Regulatory Analyst Intern](https://jobright.ai/jobs/info/69db8038869c7e25d85a7fd2?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Apr 12 |
@@ -109,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[BTD Manufacturing](http://btdmfg.com)** | **[Land Rights Intern](https://jobright.ai/jobs/info/69d92e319f97a42dc9c1fe99?utm_campaign=1055&utm_source=git)** | Fergus Falls, Minnesota, United States | On Site | Apr 10 |
 | **[Universal Property & Casualty Insurance Company](http://universalproperty.com/)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/69d927be9f97a42dc9c1fd51?utm_campaign=1055&utm_source=git)** | Fort Lauderdale | On Site | Apr 10 |
 | **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d92795869c7e25d8599355?utm_campaign=1055&utm_source=git)** | Durham, North Carolina | On Site | Apr 10 |
-| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Federal Cyber Security Services / McLean Summer 2026](https://jobright.ai/jobs/info/69d92408738f2f099e89ffd7?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Apr 10 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Contract Negotiation](https://jobright.ai/jobs/info/69d9e911738f2f099e8a5cd4?utm_campaign=1055&utm_source=git)** | 801 Cherry Street, Fort Worth, TX, 76102, US | Hybrid | Apr 10 |
 | **[CBIZ](http://www.cbiz.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69d921fd9f97a42dc9c1f9dc?utm_campaign=1055&utm_source=git)** | 5959 Rockside Woods Blvd N, Suite 600, Cleveland, OH, 44131, US | On Site | Apr 10 |
 | **[Shumaker, Loop & Kendrick, LLP](https://www.shumaker.com)** | **[Records Intern](https://jobright.ai/jobs/info/698e19df0f6f7e7a2cea271e?utm_campaign=1055&utm_source=git)** | Sarasota, FL | On Site | Apr 10 |
