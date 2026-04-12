@@ -71,7 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern - 3DIR061](https://jobright.ai/jobs/info/69bd9f1db106024562828d2c?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Apr 11 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk Intern – Technology Expertise (Summer 2026)](https://jobright.ai/jobs/info/6930ac31fa28370be26b238d?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Apr 11 |
 | ↳ | **[Canada Compliance Intern – Financial Security (May-August 2026)](https://jobright.ai/jobs/info/69183b3c45fb6f5ead8a341c?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Apr 11 |
-| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[The Bronx Defenders 2026-2027 Social Work Internship](https://jobright.ai/jobs/info/69da4e625356a60f40fe0bf1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Apr 11 |
 | **[Richemont](https://www.richemont.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69a0f8745218a81676723353?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[Cerrowire](http://cerrowire.com)** | **[Compliance Specialist Intern](https://jobright.ai/jobs/info/69be153e393a1008f743efbd?utm_campaign=1055&utm_source=git)** | Hartselle, AL | On Site | Apr 11 |
 | **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Summer 2026](https://jobright.ai/jobs/info/69678d791703f05405a92bf0?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Apr 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Apr 09 |
 | **[Nachawati Law Group](http://fnlawfirm.com)** | **[Summer Associate Internship](https://jobright.ai/jobs/info/69d7d718869c7e25d8591d85?utm_campaign=1055&utm_source=git)** | Dallas,TX,US | On Site | Apr 09 |
 | **[Knights of Columbus](http://www.kofc.org)** | **[Summer Law Intern](https://jobright.ai/jobs/info/699e2f7f81476f6176b70edd?utm_campaign=1055&utm_source=git)** | New Haven, CT | Hybrid | Apr 09 |
+| **[California State University, Fresno](https://csufresno.edu)** | **[Research Compliance Officer](https://jobright.ai/jobs/info/69b32677ae2a534885ea8610?utm_campaign=1055&utm_source=git)** | Fresno, CA | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
