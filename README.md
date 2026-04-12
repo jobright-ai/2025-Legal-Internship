@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Earthjustice](http://earthjustice.org/)** | **[Associate Attorney, National Climate](https://jobright.ai/jobs/info/69a25bb7b600907a9628a388?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 12 |
 | **[Siemens Government Technologies](https://www.siemensgovt.com)** | **[Regulatory Analyst Intern](https://jobright.ai/jobs/info/69db8038869c7e25d85a7fd2?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Apr 12 |
 | **[Continental](https://www.continental.com)** | **[Intern - Customs Compliance, Year-Round](https://jobright.ai/jobs/info/69d4061b366bb95ba5539c8f?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | On Site | Apr 12 |
 | ↳ | **[Intern – Legal / U.S. Intellectual Property, Summer 2026](https://jobright.ai/jobs/info/69d55800cfdc6132f94617be?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Apr 12 |
@@ -151,7 +152,6 @@ For a complete list, click the following sortable link below:
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/69bb1f4b06c1ba00c54d9742?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 09 |
 | **[Law Offices of Benvenuto & Gaujean](http://www.sbs-law.com)** | **[Claims Intern](https://jobright.ai/jobs/info/69d7ddc4738f2f099e898cc0?utm_campaign=1055&utm_source=git)** | Roslyn, NY, US | On Site | Apr 09 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Royalty Compliance Intern](https://jobright.ai/jobs/info/69cee6fdcfdc6132f942dc57?utm_campaign=1055&utm_source=git)** | NYC Metro Area | On Site | Apr 09 |
-| **[ABC Fitness](http://www.abcfinancial.com)** | **[Privacy and Data Protection Intern](https://jobright.ai/jobs/info/69ae480d4f6bcc1828096570?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Apr 09 |
 | **[Nachawati Law Group](http://fnlawfirm.com)** | **[Summer Associate Internship](https://jobright.ai/jobs/info/69d7d718869c7e25d8591d85?utm_campaign=1055&utm_source=git)** | Dallas,TX,US | On Site | Apr 09 |
 | **[Knights of Columbus](http://www.kofc.org)** | **[Summer Law Intern](https://jobright.ai/jobs/info/699e2f7f81476f6176b70edd?utm_campaign=1055&utm_source=git)** | New Haven, CT | Hybrid | Apr 09 |
