@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Criminal Investigations Bureau](https://jobright.ai/jobs/info/69dcad3ef748bc5d08a5c2c2?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Apr 13 |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Developmental Services Resource Compliance Coordinator(Hybrid)](https://jobright.ai/jobs/info/69dca8629f97a42dc9c328a8?utm_campaign=1055&utm_source=git)** | Norwich, CT | Hybrid | Apr 13 |
 | **[TD](https://www.td.com)** | **[Risk Management - TDS Operational Risk Management Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78bf869c7e25d85aa6b9?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
-| ↳ | **[Risk Management - Canadian Banking Compliance Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16ef?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - Compliance Testing Central Services Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16e7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Governance & Control Analyst Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78be869c7e25d85aa6b3?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
-| ↳ | **[Risk Management - Corporate Functions ORM Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78b79f97a42dc9c31430?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
+| ↳ | **[Risk Management - Canadian Banking Compliance Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16ef?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - FCRM CSG Regulatory Compliance Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78b7b67cec4f9b0b17ff?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
+| ↳ | **[Risk Management - Corporate Functions ORM Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78b79f97a42dc9c31430?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Fraud Strategy and AML Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78b4b67cec4f9b0b17f7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Governance, Risk & Control Intern/Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc75865356a60f40fe913d?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[Risk Management - Corporate Operational Risk Management Intern/Co-Op](https://jobright.ai/jobs/info/69dc75865356a60f40fe913c?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
@@ -74,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Siemens Government Technologies](https://www.siemensgovt.com)** | **[Regulatory Analyst Intern](https://jobright.ai/jobs/info/69db8038869c7e25d85a7fd2?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Apr 12 |
 | **[Continental](https://www.continental.com)** | **[Intern - Customs Compliance, Year-Round](https://jobright.ai/jobs/info/69d4061b366bb95ba5539c8f?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | On Site | Apr 12 |
 | ↳ | **[Intern – Legal / U.S. Intellectual Property, Summer 2026](https://jobright.ai/jobs/info/69d55800cfdc6132f94617be?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Apr 12 |
-| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart  (Salt Lake City)](https://jobright.ai/jobs/info/69dc9b2ef748bc5d08a5b5dd?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 11 |
 | **[Denton County, Texas](https://www.dentoncounty.gov/)** | **[Bar Card Intern - District Attorney - Criminal](https://jobright.ai/jobs/info/69dc8d0a869c7e25d85aac99?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Apr 11 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern, Legal, Risk Management and Compliance / Washington DC Summer 2026](https://jobright.ai/jobs/info/69dc5182f748bc5d08a59ddb?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 11 |
 | **[Wright State University](http://www.wright.edu/)** | **[Strategic Compliance Internal Auditor](https://jobright.ai/jobs/info/69dac68b5356a60f40fe3dd5?utm_campaign=1055&utm_source=git)** | Dayton, OH | On Site | Apr 11 |
@@ -139,7 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/69d8c3b99f97a42dc9c1e4df?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Apr 10 |
 | **[Malwarebytes](https://www.malwarebytes.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d8b2679f97a42dc9c1dd89?utm_campaign=1055&utm_source=git)** | Santa Clara, CA | On Site | Apr 10 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Law Department](https://jobright.ai/jobs/info/69d8b1fab861c42857c4c567?utm_campaign=1055&utm_source=git)** | Burlington, NC | On Site | Apr 10 |
-| **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69dc9b7ef748bc5d08a5b796?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
+| **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69dca71e5356a60f40fea0d3?utm_campaign=1055&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
+| ↳ | **[Senior Counsel](https://jobright.ai/jobs/info/69dc9b7ef748bc5d08a5b796?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
 | **[Olema Oncology](https://olema.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d89876869c7e25d8596b65?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 09 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69d8b23f9f97a42dc9c1dca2?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Apr 09 |
 | **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69dc6d035356a60f40fe8d9c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/69d818569f97a42dc9c1a4e8?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Apr 09 |
 | **[Wiz](https://www.wiz.io)** | **[Senior Risk Management Analyst (East Coast)](https://jobright.ai/jobs/info/69d80f8bb861c42857c4873a?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 09 |
 | **[SECU](https://www.ncsecu.org)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/69d80f0bb67cec4f9b09a606?utm_campaign=1055&utm_source=git)** | Linthicum, MD | On Site | Apr 09 |
-| **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69d80aeaf4ea471a51fe3638?utm_campaign=1055&utm_source=git)** | 500 Plaza Drive, Secaucus, NJ, 07094, US | Hybrid | Apr 09 |
-| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
