@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EmPRO Insurance](https://www.myempro.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/69d8247ab67cec4f9b09ae78?utm_campaign=1055&utm_source=git)** | Roslyn, NY | On Site | Apr 13 |
+| **[McMillan LLP](http://www.mcmillan.ca/)** | **[Legal Administrative Assistant Internship Program (1-year contract)](https://jobright.ai/jobs/info/69dd3801738f2f099e8b52b4?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
+| **[IMEG](http://www.imegcorp.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/69dd37d461f6ed54321fbb7e?utm_campaign=1055&utm_source=git)** | Rock Island, IL | On Site | Apr 13 |
 | **[MCN Build](http://mcnbuild.com)** | **[Contracts & Compliance Specialist Intern](https://jobright.ai/jobs/info/69dd2761738f2f099e8b4d97?utm_campaign=1055&utm_source=git)** | Washington, DC, US | On Site | Apr 13 |
 | **[Woods Lonergan PLLC](https://www.woodslaw.com)** | **[Law Clerk Externship](https://jobright.ai/jobs/info/69dd26995356a60f40fecba2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 13 |
 | **[MCN Build](http://mcnbuild.com)** | **[Contracts & Compliance Specialist Intern](https://jobright.ai/jobs/info/69dd2637738f2f099e8b4d07?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 13 |
@@ -90,14 +93,14 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Criminal Investigations Bureau](https://jobright.ai/jobs/info/69dcad3ef748bc5d08a5c2c2?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Apr 13 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Developmental Services Resource Compliance Coordinator(Hybrid)](https://jobright.ai/jobs/info/69dca8629f97a42dc9c328a8?utm_campaign=1055&utm_source=git)** | Norwich, CT | Hybrid | Apr 13 |
 | **[TD](https://www.td.com)** | **[Risk Management - TDS Operational Risk Management Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78bf869c7e25d85aa6b9?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
+| ↳ | **[Risk Management - Canadian Banking Compliance Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16ef?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Governance & Control Analyst Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78be869c7e25d85aa6b3?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[Risk Management - Compliance Testing Central Services Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16e7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
-| ↳ | **[Risk Management - Canadian Banking Compliance Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16ef?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - Corporate Functions ORM Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78b79f97a42dc9c31430?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - FCRM CSG Regulatory Compliance Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78b7b67cec4f9b0b17ff?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Fraud Strategy and AML Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78b4b67cec4f9b0b17f7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
-| ↳ | **[Risk Management - Corporate Operational Risk Management Intern/Co-Op](https://jobright.ai/jobs/info/69dc75865356a60f40fe913c?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Governance, Risk & Control Intern/Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc75865356a60f40fe913d?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
+| ↳ | **[Risk Management - Corporate Operational Risk Management Intern/Co-Op](https://jobright.ai/jobs/info/69dc75865356a60f40fe913c?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | **[Teacher Retirement System of Texas](http://www.trs.texas.gov)** | **[Healthcare Legal Specialist](https://jobright.ai/jobs/info/69dbe12c5356a60f40fe71a7?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Apr 12 |
 | **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ab6d45fc862418539c63a?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Apr 12 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Corporate, Holland & Hart (Denver)](https://jobright.ai/jobs/info/69dd0910738f2f099e8b40d3?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69d933f9869c7e25d85996d6?utm_campaign=1055&utm_source=git)** | Hopkins, MN | On Site | Apr 10 |
 | **[CBIZ](http://www.cbiz.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69d92eac9f97a42dc9c1ff05?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 10 |
 | **[BTD Manufacturing](http://btdmfg.com)** | **[Land Rights Intern](https://jobright.ai/jobs/info/69d92e319f97a42dc9c1fe99?utm_campaign=1055&utm_source=git)** | Fergus Falls, Minnesota, United States | On Site | Apr 10 |
-| **[Universal Property & Casualty Insurance Company](http://universalproperty.com/)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/69d927be9f97a42dc9c1fd51?utm_campaign=1055&utm_source=git)** | Fort Lauderdale | On Site | Apr 10 |
-| **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d92795869c7e25d8599355?utm_campaign=1055&utm_source=git)** | Durham, North Carolina | On Site | Apr 10 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Contract Negotiation](https://jobright.ai/jobs/info/69d9e911738f2f099e8a5cd4?utm_campaign=1055&utm_source=git)** | 801 Cherry Street, Fort Worth, TX, 76102, US | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
