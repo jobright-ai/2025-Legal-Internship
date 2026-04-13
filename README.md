@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[John Howard Society of Victoria](https://jhsvic.ca/)** | **[Manager, Compliance and Facilities](https://jobright.ai/jobs/info/69dd4835f748bc5d08a5ef53?utm_campaign=1055&utm_source=git)** | Victoria, BC | On Site | Apr 13 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Office of the General Counsel Fall Internship](https://jobright.ai/jobs/info/69dd44a15356a60f40fed39e?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Apr 13 |
+| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69c1588b79e36d3a847df39c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 13 |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Office of the General Counsel Fall Internship](https://jobright.ai/jobs/info/69dd3c3bbc6f6622c9911261?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Apr 13 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[TAG Legal Intern](https://jobright.ai/jobs/info/69dd39bf61f6ed54321fbec3?utm_campaign=1055&utm_source=git)** | Somerville, MA | Remote | Apr 13 |
 | **[EmPRO Insurance](https://www.myempro.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/69d8247ab67cec4f9b09ae78?utm_campaign=1055&utm_source=git)** | Roslyn, NY | On Site | Apr 13 |
 | **[McMillan LLP](http://www.mcmillan.ca/)** | **[Legal Administrative Assistant Internship Program (1-year contract)](https://jobright.ai/jobs/info/69dd3801738f2f099e8b52b4?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/69dd37d461f6ed54321fbb7e?utm_campaign=1055&utm_source=git)** | Rock Island, IL | On Site | Apr 13 |
@@ -72,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Third Party Risk Management](https://jobright.ai/jobs/info/69dd1b605356a60f40fec81f?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Apr 13 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd19c1bc6f6622c99106b5?utm_campaign=1055&utm_source=git)** | Kannapolis, NC | On Site | Apr 13 |
 | **[TD](https://www.td.com)** | **[Risk Management - Corporate Operational Risk Management Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd187bf748bc5d08a5e0a8?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
-| **[Certified Group](https://www.certifiedgroup.com)** | **[Intern](https://jobright.ai/jobs/info/69d561b5891d7b11cfd01876?utm_campaign=1055&utm_source=git)** | Fresno, CA | On Site | Apr 13 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69d561bb891d7b11cfd01880?utm_campaign=1055&utm_source=git)** | Turlock, CA | On Site | Apr 13 |
+| **[Certified Group](https://www.certifiedgroup.com)** | **[Intern](https://jobright.ai/jobs/info/69d561bb891d7b11cfd01880?utm_campaign=1055&utm_source=git)** | Turlock, CA | On Site | Apr 13 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69d561b5891d7b11cfd01876?utm_campaign=1055&utm_source=git)** | Fresno, CA | On Site | Apr 13 |
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd13d4bc6f6622c99103f5?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Apr 13 |
 | **[SPR](https://www.sprpainrelief.com)** | **[Sales Contracts Intern](https://jobright.ai/jobs/info/69dd093d9f97a42dc9c33fdf?utm_campaign=1055&utm_source=git)** | Cleveland,OH,US | Hybrid | Apr 13 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[TAG Legal Intern](https://jobright.ai/jobs/info/69dcf16161f6ed54321f9dcd?utm_campaign=1055&utm_source=git)** | Somerville-MA | Remote | Apr 13 |
@@ -93,9 +98,9 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Criminal Investigations Bureau](https://jobright.ai/jobs/info/69dcad3ef748bc5d08a5c2c2?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Apr 13 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Developmental Services Resource Compliance Coordinator(Hybrid)](https://jobright.ai/jobs/info/69dca8629f97a42dc9c328a8?utm_campaign=1055&utm_source=git)** | Norwich, CT | Hybrid | Apr 13 |
 | **[TD](https://www.td.com)** | **[Risk Management - TDS Operational Risk Management Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78bf869c7e25d85aa6b9?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
-| ↳ | **[Risk Management - Canadian Banking Compliance Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16ef?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Governance & Control Analyst Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78be869c7e25d85aa6b3?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[Risk Management - Compliance Testing Central Services Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16e7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
+| ↳ | **[Risk Management - Canadian Banking Compliance Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16ef?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - Corporate Functions ORM Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78b79f97a42dc9c31430?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - FCRM CSG Regulatory Compliance Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78b7b67cec4f9b0b17ff?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Fraud Strategy and AML Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78b4b67cec4f9b0b17f7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Contract Negotiation](https://jobright.ai/jobs/info/69da3c6c9f97a42dc9c27c16?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | Apr 10 |
 | **[Nexthink](http://www.nexthink.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d94954869c7e25d8599f52?utm_campaign=1055&utm_source=git)** | Boston, MA, USA | Hybrid | Apr 10 |
 | **[Universal Property & Casualty Insurance Company](http://universalproperty.com/)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/69d94203b67cec4f9b0a0d9a?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 10 |
-| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69bc9b1545e08b3dc1f95aa0?utm_campaign=1055&utm_source=git)** | Columbia, MD | On Site | Apr 10 |
-| **[Rothman Orthopaedics](https://rothmanortho.com/landing/orthopaedicare)** | **[Legal Administrative Intern](https://jobright.ai/jobs/info/69d93bed9f97a42dc9c202e5?utm_campaign=1055&utm_source=git)** | Center City 833 Chestnut - Philadelphia, PA 19107 | On Site | Apr 10 |
-| **[Schwan's Company](http://www.schwanscompany.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69d933f9869c7e25d85996d6?utm_campaign=1055&utm_source=git)** | Hopkins, MN | On Site | Apr 10 |
-| **[CBIZ](http://www.cbiz.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69d92eac9f97a42dc9c1ff05?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 10 |
-| **[BTD Manufacturing](http://btdmfg.com)** | **[Land Rights Intern](https://jobright.ai/jobs/info/69d92e319f97a42dc9c1fe99?utm_campaign=1055&utm_source=git)** | Fergus Falls, Minnesota, United States | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
