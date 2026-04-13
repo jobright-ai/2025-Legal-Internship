@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | **[Siemens Government Technologies](https://www.siemensgovt.com)** | **[Regulatory Analyst Intern](https://jobright.ai/jobs/info/69db8038869c7e25d85a7fd2?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Apr 12 |
 | **[Continental](https://www.continental.com)** | **[Intern - Customs Compliance, Year-Round](https://jobright.ai/jobs/info/69d4061b366bb95ba5539c8f?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | On Site | Apr 12 |
 | ↳ | **[Intern – Legal / U.S. Intellectual Property, Summer 2026](https://jobright.ai/jobs/info/69d55800cfdc6132f94617be?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Apr 12 |
+| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern, Legal, Risk Management and Compliance / Washington DC Summer 2026](https://jobright.ai/jobs/info/69dc5182f748bc5d08a59ddb?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 11 |
 | **[Wright State University](http://www.wright.edu/)** | **[Strategic Compliance Internal Auditor](https://jobright.ai/jobs/info/69dac68b5356a60f40fe3dd5?utm_campaign=1055&utm_source=git)** | Dayton, OH | On Site | Apr 11 |
 | **[City of Port St. Lucie](http://www.cityofpsl.com/)** | **[Summer Intern to Senior Deputy City Attorney- Legal Department](https://jobright.ai/jobs/info/69dabebcb67cec4f9b0ac0bc?utm_campaign=1055&utm_source=git)** | Port St Lucie, FL | On Site | Apr 11 |
 | **[Macon-Bibb County Consolidated Government](https://www.maconbibb.us/)** | **[Legal Assistant-Unpaid](https://jobright.ai/jobs/info/69da8f94b67cec4f9b0a9ce7?utm_campaign=1055&utm_source=git)** | Macon, GA | On Site | Apr 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Apr 09 |
 | **[Nachawati Law Group](http://fnlawfirm.com)** | **[Summer Associate Internship](https://jobright.ai/jobs/info/69d7d718869c7e25d8591d85?utm_campaign=1055&utm_source=git)** | Dallas,TX,US | On Site | Apr 09 |
 | **[Knights of Columbus](http://www.kofc.org)** | **[Summer Law Intern](https://jobright.ai/jobs/info/699e2f7f81476f6176b70edd?utm_campaign=1055&utm_source=git)** | New Haven, CT | Hybrid | Apr 09 |
-| **[California State University, Fresno](https://csufresno.edu)** | **[Research Compliance Officer](https://jobright.ai/jobs/info/69b32677ae2a534885ea8610?utm_campaign=1055&utm_source=git)** | Fresno, CA | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
