@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD](https://www.td.com)** | **[Governance, Risk & Control Intern/Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc75865356a60f40fe913d?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
+| ↳ | **[Risk Management - Corporate Operational Risk Management Intern/Co-Op](https://jobright.ai/jobs/info/69dc75865356a60f40fe913c?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | **[Teacher Retirement System of Texas](http://www.trs.texas.gov)** | **[Healthcare Legal Specialist](https://jobright.ai/jobs/info/69dbe12c5356a60f40fe71a7?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Apr 12 |
 | **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ab6d45fc862418539c63a?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Apr 12 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Associate Attorney, National Climate](https://jobright.ai/jobs/info/69a25bb7b600907a9628a388?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 12 |
@@ -128,7 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Law Department](https://jobright.ai/jobs/info/69d8b1fab861c42857c4c567?utm_campaign=1055&utm_source=git)** | Burlington, NC | On Site | Apr 10 |
 | **[Olema Oncology](https://olema.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d89876869c7e25d8596b65?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 09 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69d8b23f9f97a42dc9c1dca2?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Apr 09 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69d845b5f4ea471a51fe4ebe?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts | On Site | Apr 09 |
+| **[PNC](http://www.pnc.com)** | **[Senior Counsel](https://jobright.ai/jobs/info/69dc6d035356a60f40fe8d9c?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
+| **[Olema Oncology](https://olema.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d845b5f4ea471a51fe4ebe?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts | On Site | Apr 09 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/69d84564b861c42857c49a86?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Apr 09 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69d85a78869c7e25d8594f42?utm_campaign=1055&utm_source=git)** | Aliso Viejo, California, USA | Hybrid | Apr 09 |
 | **[Drax Group](https://www.drax.com/)** | **[Legal Intern - Four Month Temporary](https://jobright.ai/jobs/info/69d8375bf4ea471a51fe4af3?utm_campaign=1055&utm_source=git)** | Vancouver, BC | On Site | Apr 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/69bb1f4b06c1ba00c54d9742?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 09 |
 | **[Law Offices of Benvenuto & Gaujean](http://www.sbs-law.com)** | **[Claims Intern](https://jobright.ai/jobs/info/69d7ddc4738f2f099e898cc0?utm_campaign=1055&utm_source=git)** | Roslyn, NY, US | On Site | Apr 09 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Royalty Compliance Intern](https://jobright.ai/jobs/info/69cee6fdcfdc6132f942dc57?utm_campaign=1055&utm_source=git)** | NYC Metro Area | On Site | Apr 09 |
-| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Apr 09 |
-| **[Nachawati Law Group](http://fnlawfirm.com)** | **[Summer Associate Internship](https://jobright.ai/jobs/info/69d7d718869c7e25d8591d85?utm_campaign=1055&utm_source=git)** | Dallas,TX,US | On Site | Apr 09 |
-| **[Knights of Columbus](http://www.kofc.org)** | **[Summer Law Intern](https://jobright.ai/jobs/info/699e2f7f81476f6176b70edd?utm_campaign=1055&utm_source=git)** | New Haven, CT | Hybrid | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
