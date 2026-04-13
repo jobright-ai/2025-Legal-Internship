@@ -58,14 +58,14 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TD](https://www.td.com)** | **[Risk Management - TDS Operational Risk Management Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78bf869c7e25d85aa6b9?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
+| ↳ | **[Governance & Control Analyst Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78be869c7e25d85aa6b3?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[Risk Management - Canadian Banking Compliance Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16ef?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - Compliance Testing Central Services Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16e7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
-| ↳ | **[Governance & Control Analyst Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78be869c7e25d85aa6b3?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
-| ↳ | **[Risk Management - Corporate Functions ORM Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78b79f97a42dc9c31430?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - FCRM CSG Regulatory Compliance Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78b7b67cec4f9b0b17ff?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
+| ↳ | **[Risk Management - Corporate Functions ORM Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78b79f97a42dc9c31430?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Fraud Strategy and AML Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78b4b67cec4f9b0b17f7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
-| ↳ | **[Governance, Risk & Control Intern/Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc75865356a60f40fe913d?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[Risk Management - Corporate Operational Risk Management Intern/Co-Op](https://jobright.ai/jobs/info/69dc75865356a60f40fe913c?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
+| ↳ | **[Governance, Risk & Control Intern/Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc75865356a60f40fe913d?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | **[Teacher Retirement System of Texas](http://www.trs.texas.gov)** | **[Healthcare Legal Specialist](https://jobright.ai/jobs/info/69dbe12c5356a60f40fe71a7?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Apr 12 |
 | **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ab6d45fc862418539c63a?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Apr 12 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Associate Attorney, National Climate](https://jobright.ai/jobs/info/69a25bb7b600907a9628a388?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 12 |
@@ -74,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Siemens Government Technologies](https://www.siemensgovt.com)** | **[Regulatory Analyst Intern](https://jobright.ai/jobs/info/69db8038869c7e25d85a7fd2?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Apr 12 |
 | **[Continental](https://www.continental.com)** | **[Intern - Customs Compliance, Year-Round](https://jobright.ai/jobs/info/69d4061b366bb95ba5539c8f?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | On Site | Apr 12 |
 | ↳ | **[Intern – Legal / U.S. Intellectual Property, Summer 2026](https://jobright.ai/jobs/info/69d55800cfdc6132f94617be?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Apr 12 |
+| **[Denton County, Texas](https://www.dentoncounty.gov/)** | **[Bar Card Intern - District Attorney - Criminal](https://jobright.ai/jobs/info/69dc8d0a869c7e25d85aac99?utm_campaign=1055&utm_source=git)** | Denton, TX | On Site | Apr 11 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern, Legal, Risk Management and Compliance / Washington DC Summer 2026](https://jobright.ai/jobs/info/69dc5182f748bc5d08a59ddb?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 11 |
 | **[Wright State University](http://www.wright.edu/)** | **[Strategic Compliance Internal Auditor](https://jobright.ai/jobs/info/69dac68b5356a60f40fe3dd5?utm_campaign=1055&utm_source=git)** | Dayton, OH | On Site | Apr 11 |
 | **[City of Port St. Lucie](http://www.cityofpsl.com/)** | **[Summer Intern to Senior Deputy City Attorney- Legal Department](https://jobright.ai/jobs/info/69dabebcb67cec4f9b0ac0bc?utm_campaign=1055&utm_source=git)** | Port St Lucie, FL | On Site | Apr 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | Apr 09 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69d809429f97a42dc9c19b54?utm_campaign=1055&utm_source=git)** | Secaucus, NJ | Hybrid | Apr 09 |
 | **[Logistics Property Company, LLC](https://logisticspropco.com/)** | **[Legal Intern - Real Estate Transactions](https://jobright.ai/jobs/info/69d808dcb861c42857c47c08?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Legal Intern (Unpaid)](https://jobright.ai/jobs/info/69d712de48f0c8161d2fcc98?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
