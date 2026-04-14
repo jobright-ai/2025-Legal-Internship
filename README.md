@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leidos](https://www.leidos.com)** | **[Regulatory Document Intern](https://jobright.ai/jobs/info/69de89b8433ac8430e0da739?utm_campaign=1055&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Apr 14 |
+| **[State of Indiana](https://www.in.gov)** | **[Seasonal State Worker - DNR Legal Intern](https://jobright.ai/jobs/info/69de8780aba61f141731585b?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Apr 14 |
+| **[Ascensus](https://www2.ascensus.com/)** | **[Legal, Risk & Compliance Summer Intern](https://jobright.ai/jobs/info/69de84cd18cf504166e2d7ae?utm_campaign=1055&utm_source=git)** | Newton, MA | On Site | Apr 14 |
+| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Fall 2026 Litigation Intern](https://jobright.ai/jobs/info/69d89841738f2f099e89d842?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 14 |
+| **[Cars Commerce](https://www.carscommerce.inc)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/69c18bd575f7ff1cd80fb0a2?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 14 |
+| **[Medica](https://www.medica.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69de7ff936823d1b4258164a?utm_campaign=1055&utm_source=git)** | Hopkins, MN | Hybrid | Apr 14 |
+| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Fall 2026 Litigation Intern](https://jobright.ai/jobs/info/69d86a1c9f97a42dc9c1c058?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Apr 14 |
 | **[Law Office of Jack M. Shapiro, P.C.](https://jackshapirolaw.com/)** | **[Law Clerk - Summer 2026](https://jobright.ai/jobs/info/69de778a5913ad339813d57c?utm_campaign=1055&utm_source=git)** | Buffalo Grove, IL | On Site | Apr 14 |
 | **[Transcard](http://www.transcard.com)** | **[2026 - Fraud and Compliance Intern](https://jobright.ai/jobs/info/69de77605913ad339813d51f?utm_campaign=1055&utm_source=git)** | Chattanooga,TN,US | Hybrid | Apr 14 |
 | **[Maymont Homes](https://rentconrex.com)** | **[Transaction Coordinator Intern](https://jobright.ai/jobs/info/69c2b385ec22f8310ab095b2?utm_campaign=1055&utm_source=git)** | Charleston, SC | On Site | Apr 14 |
@@ -80,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd9acb35a2b346b20b1c21?utm_campaign=1055&utm_source=git)** | Newton Centre, MA | Hybrid | Apr 13 |
 | **[TD](https://www.td.com)** | **[Private Trust Private Client Service Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd6d31738f2f099e8b639d?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/69dd6b8161f6ed54321fd545?utm_campaign=1055&utm_source=git)** | Rock Island, IL | On Site | Apr 13 |
-| **[OpenGov Inc.](http://opengov.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd6b245356a60f40fee0e5?utm_campaign=1055&utm_source=git)** | California, United States | On Site | Apr 13 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69dd6b24738f2f099e8b6201?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | On Site | Apr 13 |
+| **[OpenGov Inc.](http://opengov.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd6b24738f2f099e8b6201?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | On Site | Apr 13 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69dd6b245356a60f40fee0e5?utm_campaign=1055&utm_source=git)** | California, United States | On Site | Apr 13 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69dd87085356a60f40fee75a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Apr 13 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69dd6926f748bc5d08a5fb02?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 13 |
 | **[UNFI](http://unfi.com)** | **[Legal Summer Intern - MN](https://jobright.ai/jobs/info/69dd68f5f748bc5d08a5fa6a?utm_campaign=1055&utm_source=git)** | Hopkins, MN | Hybrid | Apr 13 |
@@ -131,14 +138,14 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Criminal Investigations Bureau](https://jobright.ai/jobs/info/69dcad3ef748bc5d08a5c2c2?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Apr 13 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Developmental Services Resource Compliance Coordinator(Hybrid)](https://jobright.ai/jobs/info/69dca8629f97a42dc9c328a8?utm_campaign=1055&utm_source=git)** | Norwich, CT | Hybrid | Apr 13 |
 | **[TD](https://www.td.com)** | **[Risk Management - TDS Operational Risk Management Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78bf869c7e25d85aa6b9?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
-| ↳ | **[Governance & Control Analyst Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78be869c7e25d85aa6b3?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[Risk Management - Canadian Banking Compliance Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16ef?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
+| ↳ | **[Governance & Control Analyst Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78be869c7e25d85aa6b3?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[Risk Management - Compliance Testing Central Services Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16e7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - Corporate Functions ORM Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78b79f97a42dc9c31430?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - FCRM CSG Regulatory Compliance Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78b7b67cec4f9b0b17ff?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Fraud Strategy and AML Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78b4b67cec4f9b0b17f7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
-| ↳ | **[Governance, Risk & Control Intern/Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc75865356a60f40fe913d?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[Risk Management - Corporate Operational Risk Management Intern/Co-Op](https://jobright.ai/jobs/info/69dc75865356a60f40fe913c?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
+| ↳ | **[Governance, Risk & Control Intern/Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc75865356a60f40fe913d?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd6b3861f6ed54321fd4f8?utm_campaign=1055&utm_source=git)** | Kannapolis, NC | On Site | Apr 12 |
 | **[Healthesystems](https://www.healthesystems.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69dd5423bc6f6622c9911a78?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Apr 12 |
 | **[OpenGov Inc.](http://opengov.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd5108f748bc5d08a5f361?utm_campaign=1055&utm_source=git)** | US | Massachusetts | Boston | On Site | Apr 12 |
@@ -149,12 +156,5 @@ For a complete list, click the following sortable link below:
 | **[McCarthy Tétrault](http://mccarthy.ca)** | **[Practice Support Lawyer- Business Law](https://jobright.ai/jobs/info/696ae9f2350cf43803121cd4?utm_campaign=1055&utm_source=git)** | Toronto, ON | Hybrid | Apr 12 |
 | **[Nature's Sunshine Products](https://Herbal-Power.mynsp.com)** | **[Intern- Legal](https://jobright.ai/jobs/info/69dc80bf9f97a42dc9c3147d?utm_campaign=1055&utm_source=git)** | Lehi, UT, US | Hybrid | Apr 12 |
 | **[Continental](https://www.continental.com)** | **[Intern - Customs Compliance, Year-Round](https://jobright.ai/jobs/info/69d4061b366bb95ba5539c8f?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | On Site | Apr 12 |
-| ↳ | **[Intern – Legal / U.S. Intellectual Property, Summer 2026](https://jobright.ai/jobs/info/69d55800cfdc6132f94617be?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Apr 12 |
 | **[Wright State University](http://www.wright.edu/)** | **[Strategic Compliance Internal Auditor](https://jobright.ai/jobs/info/69dac68b5356a60f40fe3dd5?utm_campaign=1055&utm_source=git)** | Dayton, OH | On Site | Apr 11 |
-| **[City of Port St. Lucie](http://www.cityofpsl.com/)** | **[Summer Intern to Senior Deputy City Attorney- Legal Department](https://jobright.ai/jobs/info/69dabebcb67cec4f9b0ac0bc?utm_campaign=1055&utm_source=git)** | Port St Lucie, FL | On Site | Apr 11 |
-| **[State of Missouri](http://mo.gov)** | **[Legal Intern - 3DIR011](https://jobright.ai/jobs/info/69bde6dbb106024562834b6b?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Apr 11 |
-| ↳ | **[Legal Intern - 3DIR061](https://jobright.ai/jobs/info/69bd9f1db106024562828d2c?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Apr 11 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk Intern – Technology Expertise (Summer 2026)](https://jobright.ai/jobs/info/6930ac31fa28370be26b238d?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Apr 11 |
-| ↳ | **[Canada Compliance Intern – Financial Security (May-August 2026)](https://jobright.ai/jobs/info/69183b3c45fb6f5ead8a341c?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Apr 11 |
-| **[Richemont](https://www.richemont.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69a0f8745218a81676723353?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
