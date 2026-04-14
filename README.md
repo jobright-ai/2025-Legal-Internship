@@ -121,8 +121,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Management - Compliance Testing Central Services Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16e7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Governance & Control Analyst Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78be869c7e25d85aa6b3?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[Risk Management - Canadian Banking Compliance Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16ef?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
-| ↳ | **[Risk Management - Corporate Functions ORM Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78b79f97a42dc9c31430?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - FCRM CSG Regulatory Compliance Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78b7b67cec4f9b0b17ff?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
+| ↳ | **[Risk Management - Corporate Functions ORM Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78b79f97a42dc9c31430?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Fraud Strategy and AML Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78b4b67cec4f9b0b17f7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - Corporate Operational Risk Management Intern/Co-Op](https://jobright.ai/jobs/info/69dc75865356a60f40fe913c?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Governance, Risk & Control Intern/Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc75865356a60f40fe913d?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Practical Law Intern - 2026](https://jobright.ai/jobs/info/69d9c02a5356a60f40fdc16d?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 10 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/69d9c0069f97a42dc9c24051?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Apr 10 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Practical Law Intern - 2026](https://jobright.ai/jobs/info/69d9b0285356a60f40fdbb6b?utm_campaign=1055&utm_source=git)** | Eagan, MN | Hybrid | Apr 10 |
-| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Federal Cyber Security Services / McLean Summer 2026](https://jobright.ai/jobs/info/69ddaabe8182b27d34740e06?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Apr 10 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/69d9ae5d5356a60f40fdb9db?utm_campaign=1055&utm_source=git)** | Hatfield, PA | On Site | Apr 10 |
 | **[Tucson Medical Center](https://www.tmcaz.com/)** | **[Student Intern - Law Clerk](https://jobright.ai/jobs/info/69d9a4dd869c7e25d859c89c?utm_campaign=1055&utm_source=git)** | Tucson, AZ | On Site | Apr 10 |
 | **[HealthStream](http://www.healthstream.com)** | **[Intern, Regulatory Research](https://jobright.ai/jobs/info/69d99601738f2f099e8a29a3?utm_campaign=1055&utm_source=git)** | Nashville, TN | Remote | Apr 10 |
 | **[Nexthink](http://www.nexthink.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d993a5738f2f099e8a2896?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Apr 10 |
+| **[Javits Center](http://javitscenter.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d993635356a60f40fda648?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
