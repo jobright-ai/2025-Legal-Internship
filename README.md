@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/69deb59436823d1b42583561?utm_campaign=1055&utm_source=git)** | Illinois - Chicago | On Site | Apr 14 |
+| **[Mosaic Insurance](https://www.mosaicinsurance.com/)** | **[Transactional Liability/M&A Insurance Intern](https://jobright.ai/jobs/info/69deb1f236823d1b4258338b?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Apr 14 |
+| **[The University of Alabama System](https://uasystem.edu/)** | **[Risk and Compliance Student Intern](https://jobright.ai/jobs/info/69deb17fe34484770f1a42cf?utm_campaign=1055&utm_source=git)** | 500 University Boulevard East, Tuscaloosa, AL 35401, USA | On Site | Apr 14 |
 | **[Camping World](https://investor.campingworld.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69dea5d0433ac8430e0db78a?utm_campaign=1055&utm_source=git)** | Lincolnshire, IL | Hybrid | Apr 14 |
-| **[Mosaic Insurance](https://www.mosaicinsurance.com/)** | **[Transactional Liability/M&A Insurance Intern](https://jobright.ai/jobs/info/69dea3dd36823d1b42582c89?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 14 |
 | **[State of Minnesota](https://mn.gov)** | **[Legal Assistant-Accommodations Specialist / Affirmative Action Off 1](https://jobright.ai/jobs/info/69de9d4c18cf504166e2e838?utm_campaign=1055&utm_source=git)** | Vadnais Heights, MN | Hybrid | Apr 14 |
 | **[DAR PRO Solutions](https://www.darpro-solutions.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69de95b45913ad339813e41d?utm_campaign=1055&utm_source=git)** | Irving,TX,US | On Site | Apr 14 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - OIG- Legal](https://jobright.ai/jobs/info/69de9537aba61f141731648a?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Apr 14 |
@@ -124,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69c0c10179e36d3a847d0a35?utm_campaign=1055&utm_source=git)** | Doral, FL | On Site | Apr 13 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd1c505356a60f40fec84a?utm_campaign=1055&utm_source=git)** | Newton Massachusetts 02459 | Hybrid | Apr 13 |
 | **[TD](https://www.td.com)** | **[Risk Management - Corporate Operational Risk Management Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd187bf748bc5d08a5e0a8?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
-| **[Certified Group](https://www.certifiedgroup.com)** | **[Intern](https://jobright.ai/jobs/info/69d561bb891d7b11cfd01880?utm_campaign=1055&utm_source=git)** | Turlock, CA | On Site | Apr 13 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69d561b5891d7b11cfd01876?utm_campaign=1055&utm_source=git)** | Fresno, CA | On Site | Apr 13 |
+| **[Certified Group](https://www.certifiedgroup.com)** | **[Intern](https://jobright.ai/jobs/info/69d561b5891d7b11cfd01876?utm_campaign=1055&utm_source=git)** | Fresno, CA | On Site | Apr 13 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69d561bb891d7b11cfd01880?utm_campaign=1055&utm_source=git)** | Turlock, CA | On Site | Apr 13 |
 | **[Kootenai County](http://www.kcgov.us)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd13d4bc6f6622c99103f5?utm_campaign=1055&utm_source=git)** | Coeur d'Alene, ID | On Site | Apr 13 |
 | **[SPR](https://www.sprpainrelief.com)** | **[Sales Contracts Intern](https://jobright.ai/jobs/info/69dd093d9f97a42dc9c33fdf?utm_campaign=1055&utm_source=git)** | Cleveland,OH,US | Hybrid | Apr 13 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[TAG Legal Intern](https://jobright.ai/jobs/info/69dcf16161f6ed54321f9dcd?utm_campaign=1055&utm_source=git)** | Somerville-MA | Remote | Apr 13 |
@@ -143,18 +145,16 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Criminal Investigations Bureau](https://jobright.ai/jobs/info/69dcad3ef748bc5d08a5c2c2?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Apr 13 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Developmental Services Resource Compliance Coordinator(Hybrid)](https://jobright.ai/jobs/info/69dca8629f97a42dc9c328a8?utm_campaign=1055&utm_source=git)** | Norwich, CT | Hybrid | Apr 13 |
 | **[TD](https://www.td.com)** | **[Risk Management - TDS Operational Risk Management Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78bf869c7e25d85aa6b9?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
-| ↳ | **[Risk Management - Canadian Banking Compliance Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16ef?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - Compliance Testing Central Services Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16e7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
+| ↳ | **[Risk Management - Canadian Banking Compliance Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16ef?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Governance & Control Analyst Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78be869c7e25d85aa6b3?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[Risk Management - FCRM CSG Regulatory Compliance Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78b7b67cec4f9b0b17ff?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - Corporate Functions ORM Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78b79f97a42dc9c31430?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Fraud Strategy and AML Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78b4b67cec4f9b0b17f7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
-| ↳ | **[Governance, Risk & Control Intern/Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc75865356a60f40fe913d?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[Risk Management - Corporate Operational Risk Management Intern/Co-Op](https://jobright.ai/jobs/info/69dc75865356a60f40fe913c?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
+| ↳ | **[Governance, Risk & Control Intern/Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc75865356a60f40fe913d?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | **[City of Kannapolis](http://www.kannapolisnc.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd6b3861f6ed54321fd4f8?utm_campaign=1055&utm_source=git)** | Kannapolis, NC | On Site | Apr 12 |
 | **[Healthesystems](https://www.healthesystems.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69dd5423bc6f6622c9911a78?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Apr 12 |
-| **[OpenGov Inc.](http://opengov.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd4f72bc6f6622c991176e?utm_campaign=1055&utm_source=git)** | US | California | San Francisco | On Site | Apr 12 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69dd5108f748bc5d08a5f361?utm_campaign=1055&utm_source=git)** | US | Massachusetts | Boston | On Site | Apr 12 |
-| **[Teacher Retirement System of Texas](http://www.trs.texas.gov)** | **[Healthcare Legal Specialist](https://jobright.ai/jobs/info/69dbe12c5356a60f40fe71a7?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Apr 12 |
-| **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/696ab6d45fc862418539c63a?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Apr 12 |
+| **[OpenGov Inc.](http://opengov.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd5108f748bc5d08a5f361?utm_campaign=1055&utm_source=git)** | US | Massachusetts | Boston | On Site | Apr 12 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69dd4f72bc6f6622c991176e?utm_campaign=1055&utm_source=git)** | US | California | San Francisco | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
