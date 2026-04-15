@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Santander](https://www.santander.com/)** | **[Regulatory Relations Intern](https://jobright.ai/jobs/info/69dfd5d5aba61f141731da7d?utm_campaign=1055&utm_source=git)** | Dallas | On Site | Apr 15 |
+| ↳ | **[State Regulatory Relations- Legal Intern](https://jobright.ai/jobs/info/69dfcffeaba61f141731d948?utm_campaign=1055&utm_source=git)** | Dallas | On Site | Apr 15 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Equity & Compliance Coordinator (Confidential Administrative Support II), Human Resources Division](https://jobright.ai/jobs/info/698bd1dec5761b521a9b60d4?utm_campaign=1055&utm_source=git)** | San Bernardino, CA | On Site | Apr 15 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern – Legal, Contracts and Ethics – Campus 2026](https://jobright.ai/jobs/info/69dfc281e34484770f1aa4af?utm_campaign=1055&utm_source=git)** | US - VA, McLean | On Site | Apr 15 |
 | **[JV Global Capital, Inc.](https://jvglobalcap.com)** | **[Compliance & Administration Intern/Part-time](https://jobright.ai/jobs/info/69dfbe684920452a85dcf46c?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nebraska Medicine](https://www.nebraskamed.com)** | **[Clinical Ethics Intern](https://jobright.ai/jobs/info/69dd1c649f97a42dc9c34828?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Apr 13 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69c0c10179e36d3a847d0a35?utm_campaign=1055&utm_source=git)** | Doral, FL | On Site | Apr 13 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd1c505356a60f40fec84a?utm_campaign=1055&utm_source=git)** | Newton Massachusetts 02459 | Hybrid | Apr 13 |
-| **[TD](https://www.td.com)** | **[Risk Management - Corporate Operational Risk Management Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd187bf748bc5d08a5e0a8?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
-| **[Certified Group](https://www.certifiedgroup.com)** | **[Intern](https://jobright.ai/jobs/info/69d561bb891d7b11cfd01880?utm_campaign=1055&utm_source=git)** | Turlock, CA | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
