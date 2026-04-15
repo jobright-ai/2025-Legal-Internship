@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Street](https://www.statestreet.com/)** | **[State Street - ​Global Corporate Secretarial and Administration Team - Summer Internship 2026](https://jobright.ai/jobs/info/69dfb310433ac8430e0e189b?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts | On Site | Apr 15 |
+| **[Capitol Federal Insurance™](https://www.capfed.com/insurance)** | **[FIU Intern (Summer through Spring Semester)](https://jobright.ai/jobs/info/69dfaacf4920452a85dceb26?utm_campaign=1055&utm_source=git)** | Topeka, KS | On Site | Apr 15 |
 | **[Deckers Brands](http://deckers.com)** | **[Summer Intern, Corporate Legal (Undergraduate)](https://jobright.ai/jobs/info/69a9419779f3f4037f442276?utm_campaign=1055&utm_source=git)** | Santa Barbara, CA | Hybrid | Apr 15 |
 | **[LawBhoomi](https://lawbhoomi.com/)** | **[Junior Advocate / Legal Internship Opportunity with Adv. M. S. Deshmane & Associates: Apply Now!](https://jobright.ai/jobs/info/69df91105913ad3398144818?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Apr 15 |
 | ↳ | **[Junior Advocate & Legal Internship Opportunity at Office of Adv. Dhrumil P. Mehta: Apply Now!](https://jobright.ai/jobs/info/69df90afaba61f141731c2e4?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Apr 15 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69c0c10179e36d3a847d0a35?utm_campaign=1055&utm_source=git)** | Doral, FL | On Site | Apr 13 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd1c505356a60f40fec84a?utm_campaign=1055&utm_source=git)** | Newton Massachusetts 02459 | Hybrid | Apr 13 |
 | **[TD](https://www.td.com)** | **[Risk Management - Corporate Operational Risk Management Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd187bf748bc5d08a5e0a8?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
-| **[Certified Group](https://www.certifiedgroup.com)** | **[Intern](https://jobright.ai/jobs/info/69d561bb891d7b11cfd01880?utm_campaign=1055&utm_source=git)** | Turlock, CA | On Site | Apr 13 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69d561b5891d7b11cfd01876?utm_campaign=1055&utm_source=git)** | Fresno, CA | On Site | Apr 13 |
+| **[Certified Group](https://www.certifiedgroup.com)** | **[Intern](https://jobright.ai/jobs/info/69d561b5891d7b11cfd01876?utm_campaign=1055&utm_source=git)** | Fresno, CA | On Site | Apr 13 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69d561bb891d7b11cfd01880?utm_campaign=1055&utm_source=git)** | Turlock, CA | On Site | Apr 13 |
 | **[SPR](https://www.sprpainrelief.com)** | **[Sales Contracts Intern](https://jobright.ai/jobs/info/69dd093d9f97a42dc9c33fdf?utm_campaign=1055&utm_source=git)** | Cleveland,OH,US | Hybrid | Apr 13 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[TAG Legal Intern](https://jobright.ai/jobs/info/69dcf16161f6ed54321f9dcd?utm_campaign=1055&utm_source=git)** | Somerville-MA | Remote | Apr 13 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Risk Management - Compliance Testing Central Services Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dcc6159f97a42dc9c32d7c?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
-| ↳ | **[Governance, Risk & Control Intern/Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dcc5d2f748bc5d08a5c69f?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
-| ↳ | **[Fraud Strategy and AML Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5bef748bc5d08a5c699?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
