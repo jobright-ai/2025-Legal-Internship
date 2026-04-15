@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Goldstein & McClintock LLLP](https://www.goldmclaw.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69df2e3a433ac8430e0df6d5?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 14 |
+| **[Bellco Credit Union](https://www.bellco.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69df2bd6433ac8430e0df647?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Apr 14 |
 | **[Leidos](https://www.leidos.com)** | **[Regulatory Document Intern](https://jobright.ai/jobs/info/69df0634e34484770f1a6737?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 14 |
 | **[Camping World](https://investor.campingworld.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69deff04e34484770f1a65f6?utm_campaign=1055&utm_source=git)** | Lincolnshire, IL | Hybrid | Apr 14 |
 | **[Corpay](https://payments.corpay.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69def8df18cf504166e313fa?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 14 |
@@ -131,8 +133,7 @@ For a complete list, click the following sortable link below:
 | **[EmPRO Insurance](https://www.myempro.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/69d8247ab67cec4f9b09ae78?utm_campaign=1055&utm_source=git)** | Roslyn, NY | On Site | Apr 13 |
 | **[McMillan LLP](http://www.mcmillan.ca/)** | **[Legal Administrative Assistant Internship Program (1-year contract)](https://jobright.ai/jobs/info/69dd3801738f2f099e8b52b4?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | **[MCN Build](http://mcnbuild.com)** | **[Contracts & Compliance Specialist Intern](https://jobright.ai/jobs/info/69dd2761738f2f099e8b4d97?utm_campaign=1055&utm_source=git)** | Washington, DC, US | On Site | Apr 13 |
-| **[Woods Lonergan PLLC](https://www.woodslaw.com)** | **[Law Clerk Externship](https://jobright.ai/jobs/info/69dd26995356a60f40fecba2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 13 |
-| **[MCN Build](http://mcnbuild.com)** | **[Contracts & Compliance Specialist Intern](https://jobright.ai/jobs/info/69dd2637738f2f099e8b4d07?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 13 |
+| ↳ | **[Contracts & Compliance Specialist Intern](https://jobright.ai/jobs/info/69dd2637738f2f099e8b4d07?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 13 |
 | **[TD](https://www.td.com)** | **[Private Trust Private Client Service Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd1fa261f6ed54321fb515?utm_campaign=1055&utm_source=git)** | TD Centre - South - 79 Wellington Street West, Toronto, Ontario | On Site | Apr 13 |
 | ↳ | **[Private Trust Private Client Service Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd1f43f748bc5d08a5e3d6?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 13 |
 | **[Missouri Farm Bureau](https://mofb.org/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69dd1ca4738f2f099e8b499e?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Apr 13 |
@@ -140,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69c0c10179e36d3a847d0a35?utm_campaign=1055&utm_source=git)** | Doral, FL | On Site | Apr 13 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd1c505356a60f40fec84a?utm_campaign=1055&utm_source=git)** | Newton Massachusetts 02459 | Hybrid | Apr 13 |
 | **[TD](https://www.td.com)** | **[Risk Management - Corporate Operational Risk Management Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd187bf748bc5d08a5e0a8?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
-| **[Certified Group](https://www.certifiedgroup.com)** | **[Intern](https://jobright.ai/jobs/info/69d561b5891d7b11cfd01876?utm_campaign=1055&utm_source=git)** | Fresno, CA | On Site | Apr 13 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69d561bb891d7b11cfd01880?utm_campaign=1055&utm_source=git)** | Turlock, CA | On Site | Apr 13 |
+| **[Certified Group](https://www.certifiedgroup.com)** | **[Intern](https://jobright.ai/jobs/info/69d561bb891d7b11cfd01880?utm_campaign=1055&utm_source=git)** | Turlock, CA | On Site | Apr 13 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69d561b5891d7b11cfd01876?utm_campaign=1055&utm_source=git)** | Fresno, CA | On Site | Apr 13 |
 | **[SPR](https://www.sprpainrelief.com)** | **[Sales Contracts Intern](https://jobright.ai/jobs/info/69dd093d9f97a42dc9c33fdf?utm_campaign=1055&utm_source=git)** | Cleveland,OH,US | Hybrid | Apr 13 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[TAG Legal Intern](https://jobright.ai/jobs/info/69dcf16161f6ed54321f9dcd?utm_campaign=1055&utm_source=git)** | Somerville-MA | Remote | Apr 13 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Risk Management - Compliance Testing Central Services Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dcc6159f97a42dc9c32d7c?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TD Securities](https://www.tdsecurities.com)** | **[Risk Management - Corporate Operational Risk Management Intern/Co-Op](https://jobright.ai/jobs/info/69dccd305356a60f40feadd1?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | ↳ | **[Risk Management - FCRM CSG Regulatory Compliance Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dce303bfa7f40fd6f785eb?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Criminal Investigations Bureau](https://jobright.ai/jobs/info/69dcad3ef748bc5d08a5c2c2?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Apr 13 |
-| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Developmental Services Resource Compliance Coordinator(Hybrid)](https://jobright.ai/jobs/info/69dca8629f97a42dc9c328a8?utm_campaign=1055&utm_source=git)** | Norwich, CT | Hybrid | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
