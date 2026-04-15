@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deckers Brands](http://deckers.com)** | **[Summer Intern, Corporate Legal (Undergraduate)](https://jobright.ai/jobs/info/69a9419779f3f4037f442276?utm_campaign=1055&utm_source=git)** | Santa Barbara, CA | Hybrid | Apr 15 |
 | **[LawBhoomi](https://lawbhoomi.com/)** | **[Junior Advocate / Legal Internship Opportunity with Adv. M. S. Deshmane & Associates: Apply Now!](https://jobright.ai/jobs/info/69df91105913ad3398144818?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Apr 15 |
 | ↳ | **[Junior Advocate & Legal Internship Opportunity at Office of Adv. Dhrumil P. Mehta: Apply Now!](https://jobright.ai/jobs/info/69df90afaba61f141731c2e4?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Apr 15 |
 | ↳ | **[Associate & Legal Internship Opportunity at Legal Foxess: Apply Now!](https://jobright.ai/jobs/info/69df909c14bf245fc7a6c924?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Apr 15 |
@@ -119,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd9acb35a2b346b20b1c21?utm_campaign=1055&utm_source=git)** | Newton Centre, MA | Hybrid | Apr 13 |
 | **[TD](https://www.td.com)** | **[Private Trust Private Client Service Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd6d31738f2f099e8b639d?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/69dd6b8161f6ed54321fd545?utm_campaign=1055&utm_source=git)** | Rock Island, IL | On Site | Apr 13 |
-| **[OpenGov Inc.](http://opengov.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd6b24738f2f099e8b6201?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | On Site | Apr 13 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69dd6b245356a60f40fee0e5?utm_campaign=1055&utm_source=git)** | California, United States | On Site | Apr 13 |
+| **[OpenGov Inc.](http://opengov.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd6b245356a60f40fee0e5?utm_campaign=1055&utm_source=git)** | California, United States | On Site | Apr 13 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69dd6b24738f2f099e8b6201?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | On Site | Apr 13 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69dd87085356a60f40fee75a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Apr 13 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69dd6926f748bc5d08a5fb02?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 13 |
 | **[UNFI](http://unfi.com)** | **[Legal Summer Intern - MN](https://jobright.ai/jobs/info/69dd68f5f748bc5d08a5fa6a?utm_campaign=1055&utm_source=git)** | Hopkins, MN | Hybrid | Apr 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TD Securities](https://www.tdsecurities.com)** | **[Risk Management - Compliance Testing Central Services Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dcc6159f97a42dc9c32d7c?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | ↳ | **[Governance, Risk & Control Intern/Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dcc5d2f748bc5d08a5c69f?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | ↳ | **[Fraud Strategy and AML Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5bef748bc5d08a5c699?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
-| ↳ | **[Governance & Control Analyst Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5bcf748bc5d08a5c695?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
