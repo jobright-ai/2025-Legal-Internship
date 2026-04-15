@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[License and Applications Analyst](https://jobright.ai/jobs/info/69df4da714bf245fc7a6bd76?utm_campaign=1055&utm_source=git)** | Hartford, CT | Hybrid | Apr 15 |
 | **[Goldstein & McClintock LLLP](https://www.goldmclaw.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69df2e3a433ac8430e0df6d5?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 14 |
 | **[Bellco Credit Union](https://www.bellco.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69df2bd6433ac8430e0df647?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Apr 14 |
 | **[Leidos](https://www.leidos.com)** | **[Regulatory Document Intern](https://jobright.ai/jobs/info/69df0634e34484770f1a6737?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 14 |
@@ -141,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69c0c10179e36d3a847d0a35?utm_campaign=1055&utm_source=git)** | Doral, FL | On Site | Apr 13 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd1c505356a60f40fec84a?utm_campaign=1055&utm_source=git)** | Newton Massachusetts 02459 | Hybrid | Apr 13 |
 | **[TD](https://www.td.com)** | **[Risk Management - Corporate Operational Risk Management Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd187bf748bc5d08a5e0a8?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
-| **[Certified Group](https://www.certifiedgroup.com)** | **[Intern](https://jobright.ai/jobs/info/69d561bb891d7b11cfd01880?utm_campaign=1055&utm_source=git)** | Turlock, CA | On Site | Apr 13 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69d561b5891d7b11cfd01876?utm_campaign=1055&utm_source=git)** | Fresno, CA | On Site | Apr 13 |
+| **[Certified Group](https://www.certifiedgroup.com)** | **[Intern](https://jobright.ai/jobs/info/69d561b5891d7b11cfd01876?utm_campaign=1055&utm_source=git)** | Fresno, CA | On Site | Apr 13 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69d561bb891d7b11cfd01880?utm_campaign=1055&utm_source=git)** | Turlock, CA | On Site | Apr 13 |
 | **[SPR](https://www.sprpainrelief.com)** | **[Sales Contracts Intern](https://jobright.ai/jobs/info/69dd093d9f97a42dc9c33fdf?utm_campaign=1055&utm_source=git)** | Cleveland,OH,US | Hybrid | Apr 13 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[TAG Legal Intern](https://jobright.ai/jobs/info/69dcf16161f6ed54321f9dcd?utm_campaign=1055&utm_source=git)** | Somerville-MA | Remote | Apr 13 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Risk Management - Compliance Testing Central Services Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dcc6159f97a42dc9c32d7c?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Governance, Risk & Control Intern/Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dcc16ef748bc5d08a5c5e8?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Risk Management - Corporate Operational Risk Management Intern/Co-Op](https://jobright.ai/jobs/info/69dccd305356a60f40feadd1?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | ↳ | **[Risk Management - FCRM CSG Regulatory Compliance Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dce303bfa7f40fd6f785eb?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Criminal Investigations Bureau](https://jobright.ai/jobs/info/69dcad3ef748bc5d08a5c2c2?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
