@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMO](http://www.bmo.com)** | **[Legal and Regulatory Compliance Intern (Co-op/Internship), Summer 2026 - 4 months](https://jobright.ai/jobs/info/69dfe7fd4920452a85dd0410?utm_campaign=1055&utm_source=git)** | Toronto, ON, CAN | On Site | Apr 15 |
+| **[Idaho Power](https://www.idahopower.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69dfe3b414bf245fc7a6e5e9?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Apr 15 |
+| **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Compliance](https://jobright.ai/jobs/info/69dfdfaae34484770f1aafa1?utm_campaign=1055&utm_source=git)** | Berkeley Heights | On Site | Apr 15 |
 | **[Santander](https://www.santander.com/)** | **[Regulatory Relations Intern](https://jobright.ai/jobs/info/69dfd5d5aba61f141731da7d?utm_campaign=1055&utm_source=git)** | Dallas | On Site | Apr 15 |
 | ↳ | **[State Regulatory Relations- Legal Intern](https://jobright.ai/jobs/info/69dfcffeaba61f141731d948?utm_campaign=1055&utm_source=git)** | Dallas | On Site | Apr 15 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Equity & Compliance Coordinator (Confidential Administrative Support II), Human Resources Division](https://jobright.ai/jobs/info/698bd1dec5761b521a9b60d4?utm_campaign=1055&utm_source=git)** | San Bernardino, CA | On Site | Apr 15 |
@@ -128,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd9acb35a2b346b20b1c21?utm_campaign=1055&utm_source=git)** | Newton Centre, MA | Hybrid | Apr 13 |
 | **[TD](https://www.td.com)** | **[Private Trust Private Client Service Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd6d31738f2f099e8b639d?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/69dd6b8161f6ed54321fd545?utm_campaign=1055&utm_source=git)** | Rock Island, IL | On Site | Apr 13 |
-| **[OpenGov Inc.](http://opengov.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd6b245356a60f40fee0e5?utm_campaign=1055&utm_source=git)** | California, United States | On Site | Apr 13 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69dd6b24738f2f099e8b6201?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | On Site | Apr 13 |
+| **[OpenGov Inc.](http://opengov.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd6b24738f2f099e8b6201?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | On Site | Apr 13 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69dd6b245356a60f40fee0e5?utm_campaign=1055&utm_source=git)** | California, United States | On Site | Apr 13 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69dd87085356a60f40fee75a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Apr 13 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69dd6926f748bc5d08a5fb02?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 13 |
 | **[UNFI](http://unfi.com)** | **[Legal Summer Intern - MN](https://jobright.ai/jobs/info/69dd68f5f748bc5d08a5fa6a?utm_campaign=1055&utm_source=git)** | Hopkins, MN | Hybrid | Apr 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Private Trust Private Client Service Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd1fa261f6ed54321fb515?utm_campaign=1055&utm_source=git)** | TD Centre - South - 79 Wellington Street West, Toronto, Ontario | On Site | Apr 13 |
 | ↳ | **[Private Trust Private Client Service Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd1f43f748bc5d08a5e3d6?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 13 |
 | **[Missouri Farm Bureau](https://mofb.org/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69dd1ca4738f2f099e8b499e?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Apr 13 |
-| **[Nebraska Medicine](https://www.nebraskamed.com)** | **[Clinical Ethics Intern](https://jobright.ai/jobs/info/69dd1c649f97a42dc9c34828?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Apr 13 |
-| **[VSE Aviation](http://www.vseaviation.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69c0c10179e36d3a847d0a35?utm_campaign=1055&utm_source=git)** | Doral, FL | On Site | Apr 13 |
-| **[Bright Horizons](https://www.brighthorizons.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd1c505356a60f40fec84a?utm_campaign=1055&utm_source=git)** | Newton Massachusetts 02459 | Hybrid | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
