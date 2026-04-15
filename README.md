@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RTX](http://www.raytheon.com)** | **[Summer 2026 Contracts Intern (Remote)](https://jobright.ai/jobs/info/69dff73214bf245fc7a6f113?utm_campaign=1055&utm_source=git)** | US-AZ-TUCSON-9020 ~ 9020 S Rita Rd ~ BLDG 9020 | Remote | Apr 15 |
+| **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Legal)](https://jobright.ai/jobs/info/69dff5ff433ac8430e0e3683?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Apr 15 |
+| **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Compliance](https://jobright.ai/jobs/info/69dff06ee34484770f1ab717?utm_campaign=1055&utm_source=git)** | Berkeley Heights, NJ | On Site | Apr 15 |
 | **[BMO](http://www.bmo.com)** | **[Legal and Regulatory Compliance Intern (Co-op/Internship), Summer 2026 - 4 months](https://jobright.ai/jobs/info/69dfe7fd4920452a85dd0410?utm_campaign=1055&utm_source=git)** | Toronto, ON, CAN | On Site | Apr 15 |
 | **[Idaho Power](https://www.idahopower.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69dfe3b414bf245fc7a6e5e9?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Apr 15 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Compliance](https://jobright.ai/jobs/info/69dfdfaae34484770f1aafa1?utm_campaign=1055&utm_source=git)** | Berkeley Heights | On Site | Apr 15 |
@@ -73,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Deckers Brands](http://deckers.com)** | **[Summer Intern, Corporate Legal (Undergraduate)](https://jobright.ai/jobs/info/69a9419779f3f4037f442276?utm_campaign=1055&utm_source=git)** | Santa Barbara, CA | Hybrid | Apr 15 |
 | **[Porsche Financial Services, Inc.](http://www.porsche.com/usa/pfs)** | **[Compliance Intern](https://jobright.ai/jobs/info/69c3083094007a2195df2424?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
 | **[LawBhoomi](https://lawbhoomi.com/)** | **[Junior Advocate & Legal Internship Opportunity at Office of Adv. Dhrumil P. Mehta: Apply Now!](https://jobright.ai/jobs/info/69df90afaba61f141731c2e4?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Apr 15 |
-| ↳ | **[Associate & Legal Internship Opportunity at Legal Foxess: Apply Now!](https://jobright.ai/jobs/info/69df909c14bf245fc7a6c924?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Apr 15 |
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Paralegal Specialist](https://jobright.ai/jobs/info/69a696c2708b430a607afd23?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 15 |
 | **[Peraton](https://www.peraton.com/)** | **[Contracts Administration Pipeline (Intern and Entry-level)](https://jobright.ai/jobs/info/69df83a2aba61f141731c020?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Apr 15 |
 | **[CooperCompanies](http://www.coopercos.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c2c5be94007a2195debcf3?utm_campaign=1055&utm_source=git)** | San Ramon, CA | On Site | Apr 15 |
@@ -131,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd9acb35a2b346b20b1c21?utm_campaign=1055&utm_source=git)** | Newton Centre, MA | Hybrid | Apr 13 |
 | **[TD](https://www.td.com)** | **[Private Trust Private Client Service Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd6d31738f2f099e8b639d?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/69dd6b8161f6ed54321fd545?utm_campaign=1055&utm_source=git)** | Rock Island, IL | On Site | Apr 13 |
-| **[OpenGov Inc.](http://opengov.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd6b24738f2f099e8b6201?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | On Site | Apr 13 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69dd6b245356a60f40fee0e5?utm_campaign=1055&utm_source=git)** | California, United States | On Site | Apr 13 |
+| **[OpenGov Inc.](http://opengov.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd6b245356a60f40fee0e5?utm_campaign=1055&utm_source=git)** | California, United States | On Site | Apr 13 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69dd6b24738f2f099e8b6201?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | On Site | Apr 13 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69dd87085356a60f40fee75a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Apr 13 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69dd6926f748bc5d08a5fb02?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 13 |
 | **[UNFI](http://unfi.com)** | **[Legal Summer Intern - MN](https://jobright.ai/jobs/info/69dd68f5f748bc5d08a5fa6a?utm_campaign=1055&utm_source=git)** | Hopkins, MN | Hybrid | Apr 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MCN Build](http://mcnbuild.com)** | **[Contracts & Compliance Specialist Intern](https://jobright.ai/jobs/info/69dd2761738f2f099e8b4d97?utm_campaign=1055&utm_source=git)** | Washington, DC, US | On Site | Apr 13 |
 | ↳ | **[Contracts & Compliance Specialist Intern](https://jobright.ai/jobs/info/69dd2637738f2f099e8b4d07?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 13 |
 | **[TD](https://www.td.com)** | **[Private Trust Private Client Service Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd1fa261f6ed54321fb515?utm_campaign=1055&utm_source=git)** | TD Centre - South - 79 Wellington Street West, Toronto, Ontario | On Site | Apr 13 |
-| ↳ | **[Private Trust Private Client Service Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd1f43f748bc5d08a5e3d6?utm_campaign=1055&utm_source=git)** | Toronto, Ontario | On Site | Apr 13 |
-| **[Missouri Farm Bureau](https://mofb.org/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69dd1ca4738f2f099e8b499e?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
