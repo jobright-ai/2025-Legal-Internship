@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California State University-San Bernardino](https://csusb.edu)** | **[Equity & Compliance Coordinator (Confidential Administrative Support II), Human Resources Division](https://jobright.ai/jobs/info/698bd1dec5761b521a9b60d4?utm_campaign=1055&utm_source=git)** | San Bernardino, CA | On Site | Apr 15 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern – Legal, Contracts and Ethics – Campus 2026](https://jobright.ai/jobs/info/69dfc281e34484770f1aa4af?utm_campaign=1055&utm_source=git)** | US - VA, McLean | On Site | Apr 15 |
 | **[JV Global Capital, Inc.](https://jvglobalcap.com)** | **[Compliance & Administration Intern/Part-time](https://jobright.ai/jobs/info/69dfbe684920452a85dcf46c?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 15 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - ​Global Corporate Secretarial and Administration Team - Summer Internship 2026](https://jobright.ai/jobs/info/69dfb7fdaba61f141731cf0d?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 15 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698c5a4df64d441a164e4b69?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Apr 15 |
@@ -81,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[SentinelOne](http://www.sentinelone.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d6bb1352a5bf580012b6e0?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Apr 14 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Associate Director of Research Security and International Compliance](https://jobright.ai/jobs/info/69def47c5913ad3398141617?utm_campaign=1055&utm_source=git)** | Harrisonburg, VA | On Site | Apr 14 |
 | **[MGL LLP](https://morrisonrothman.com/)** | **[Summer 2026 Legal Intern (Rising 3L)](https://jobright.ai/jobs/info/69ded992aba61f14173181c1?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 14 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/69ded2b1aba61f1417317ff5?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Apr 14 |
 | **[Spurs Sports & Entertainment](https://www.nba.com/spurs/careers)** | **[Legal Intern](https://jobright.ai/jobs/info/69decdbf5913ad3398140390?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Apr 14 |
 | **[Transcard](http://www.transcard.com)** | **[2026 - Fraud and Compliance Intern](https://jobright.ai/jobs/info/69decdba5913ad3398140386?utm_campaign=1055&utm_source=git)** | Chattanooga, TN | Hybrid | Apr 14 |
 | **[Sentinel Technologies](https://sentinel.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69decda9aba61f1417317dfe?utm_campaign=1055&utm_source=git)** | Downers Grove, IL | On Site | Apr 14 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Bellco Credit Union](https://www.bellco.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69decccaaba61f1417317d83?utm_campaign=1055&utm_source=git)** | Bellco Corporate Offices, 7600 E Orchard Rd, Greenwood Village, Colorado, United States of America | On Site | Apr 14 |
 | **[Sentinel Technologies](https://sentinel.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69debe0e5913ad339813fbed?utm_campaign=1055&utm_source=git)** | US-IL-Downers Grove | On Site | Apr 14 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69debdb4433ac8430e0dc36b?utm_campaign=1055&utm_source=git)** | Downers Grove, IL, US | On Site | Apr 14 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Legal Associate](https://jobright.ai/jobs/info/69deb59436823d1b42583561?utm_campaign=1055&utm_source=git)** | Illinois - Chicago | On Site | Apr 14 |
 | **[The University of Alabama System](https://uasystem.edu/)** | **[Risk and Compliance Student Intern](https://jobright.ai/jobs/info/69deb17fe34484770f1a42cf?utm_campaign=1055&utm_source=git)** | 500 University Boulevard East, Tuscaloosa, AL 35401, USA | On Site | Apr 14 |
 | **[Camping World](https://investor.campingworld.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69dea5d0433ac8430e0db78a?utm_campaign=1055&utm_source=git)** | Lincolnshire, IL | Hybrid | Apr 14 |
 | **[State of Minnesota](https://mn.gov)** | **[Legal Assistant-Accommodations Specialist / Affirmative Action Off 1](https://jobright.ai/jobs/info/69de9d4c18cf504166e2e838?utm_campaign=1055&utm_source=git)** | Vadnais Heights, MN | Hybrid | Apr 14 |
@@ -126,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd9acb35a2b346b20b1c21?utm_campaign=1055&utm_source=git)** | Newton Centre, MA | Hybrid | Apr 13 |
 | **[TD](https://www.td.com)** | **[Private Trust Private Client Service Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd6d31738f2f099e8b639d?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/69dd6b8161f6ed54321fd545?utm_campaign=1055&utm_source=git)** | Rock Island, IL | On Site | Apr 13 |
-| **[OpenGov Inc.](http://opengov.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd6b24738f2f099e8b6201?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | On Site | Apr 13 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69dd6b245356a60f40fee0e5?utm_campaign=1055&utm_source=git)** | California, United States | On Site | Apr 13 |
+| **[OpenGov Inc.](http://opengov.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69dd6b245356a60f40fee0e5?utm_campaign=1055&utm_source=git)** | California, United States | On Site | Apr 13 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69dd6b24738f2f099e8b6201?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | On Site | Apr 13 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69dd87085356a60f40fee75a?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Apr 13 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69dd6926f748bc5d08a5fb02?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 13 |
 | **[UNFI](http://unfi.com)** | **[Legal Summer Intern - MN](https://jobright.ai/jobs/info/69dd68f5f748bc5d08a5fa6a?utm_campaign=1055&utm_source=git)** | Hopkins, MN | Hybrid | Apr 13 |
