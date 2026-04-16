@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[San Diego Supercomputer Center](http://www.sdsc.edu/)** | **[Compliance & Policy Analyst - Facilities - 138881](https://jobright.ai/jobs/info/69e0c2ef6c20aa114953d842?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 16 |
 | **[Flexera](https://www.flexera.com)** | **[Legal Intern](https://jobright.ai/jobs/info/696fcea882817106e976d836?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Raytheon](http://www.bbn.com)** | **[Summer 2026 Contracts Intern (Remote)](https://jobright.ai/jobs/info/69e0ae2dff71e82d604b291c?utm_campaign=1055&utm_source=git)** | Tucson, AZ | Remote | Apr 16 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Paralegal Specialist](https://jobright.ai/jobs/info/69e0b5649f8d646778e148a4?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Apr 16 |
@@ -80,12 +81,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e00971433ac8430e0e4028?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e00962e34484770f1ac435?utm_campaign=1055&utm_source=git)** | Johnston, RI | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781e?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 15 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781d?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781f?utm_campaign=1055&utm_source=git)** | Buffalo, NY | Hybrid | Apr 15 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095aaba61f141731f32f?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Apr 15 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781d?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095aaba61f141731f32e?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Apr 15 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781c?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Apr 15 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095aaba61f141731f32f?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095a5913ad339814781b?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 15 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781c?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Apr 15 |
 | **[Greystar (International)](http://www.greystar.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/69e0054514bf245fc7a6f7be?utm_campaign=1055&utm_source=git)** | Remote Texas, Remote Texas, TX | Remote | Apr 15 |
 | **[Waterstone Mortgage Corporation](http://WaterstoneMortgage.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69e001e25913ad33981474ef?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 15 |
 | **[SECURA Insurance](http://www.secura.net)** | **[Intern-Legal Administrative Assistant](https://jobright.ai/jobs/info/69e0019e4920452a85dd107c?utm_campaign=1055&utm_source=git)** | Neenah, Wisconsin, United States | On Site | Apr 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Medica](https://www.medica.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69de5a98aba61f1417314751?utm_campaign=1055&utm_source=git)** | Minnetonka, Minnesota, United States | Hybrid | Apr 14 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Intern Part Time - DPW-Financial Services](https://jobright.ai/jobs/info/69de58a018cf504166e2c80a?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Apr 14 |
 | ↳ | **[Intern-Chief of Staff - DPW-Financial Services](https://jobright.ai/jobs/info/69de587718cf504166e2c7f5?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Apr 14 |
-| **[New York Life](https://www.newyorklife.com/)** | **[2026 GBS Accidental Death and Dismemberment Claims Internship - Pittsburgh](https://jobright.ai/jobs/info/69c85c90b773006330b7ee10?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
