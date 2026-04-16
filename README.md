@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Analytical Mechanics Associates](http://www.ama-inc.com)** | **[Subcontracts Administrator Internship](https://jobright.ai/jobs/info/69e146946c20aa11495404a5?utm_campaign=1055&utm_source=git)** | Hampton, VA | On Site | Apr 16 |
+| **[Darling Ingredients](http://darlingii.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69e145f9ff71e82d604b6131?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Apr 16 |
+| **[SANY America](http://sanyamerica.com)** | **[Intern-Paralegal](https://jobright.ai/jobs/info/69e1436d6c20aa11495403f0?utm_campaign=1055&utm_source=git)** | Peachtree City, GA | On Site | Apr 16 |
 | **[MCPC](https://www.mcpc.com)** | **[Security Contracts Intern](https://jobright.ai/jobs/info/69e139bdd612782e61147889?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 16 |
 | **[KLDiscovery India](https://www.kldiscovery.com/)** | **[Ontario Document Reviewer](https://jobright.ai/jobs/info/69e13330ff71e82d604b5a31?utm_campaign=1055&utm_source=git)** | Ontario, Canada | Remote | Apr 16 |
 | **[Amerant Bank](https://www.amerantbank.com/)** | **[Undergraduate Internship - Fraud Prevention](https://jobright.ai/jobs/info/69a8bdb07ac93962b70886a7?utm_campaign=1055&utm_source=git)** | Miramar, FL | On Site | Apr 16 |
@@ -74,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Medtronic](https://www.medtronic.com)** | **[Summer Intern - Contracts and FP&A](https://jobright.ai/jobs/info/69e0f36540a62c1fa93b5c71?utm_campaign=1055&utm_source=git)** | Brampton, Ontario, Canada | On Site | Apr 16 |
 | **[FirstOntario Credit Union](https://www.firstontario.com)** | **[Summer Legal Student](https://jobright.ai/jobs/info/69e0f04facc736112f5c0eb1?utm_campaign=1055&utm_source=git)** | Stoney Creek, ON | On Site | Apr 16 |
 | **[Deckers Brands](http://deckers.com)** | **[Summer Intern, Corporate Legal (Law Student)](https://jobright.ai/jobs/info/69a777bc76bbe83d3afadc17?utm_campaign=1055&utm_source=git)** | Santa Barbara, CA | Hybrid | Apr 16 |
-| **[LawBhoomi](https://lawbhoomi.com/)** | **[Internship and Job Opportunity at eMinds Legal: Apply Now!](https://jobright.ai/jobs/info/69e0dc34ff71e82d604b3ba4?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Apr 16 |
 | **[Skanska](http://skanska.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69e0d2a6acc736112f5c0036?utm_campaign=1055&utm_source=git)** | US-NY-Queens | On Site | Apr 16 |
 | **[KLDiscovery](https://www.kldiscovery.com/)** | **[Hebrew Fluent Document Reviewer](https://jobright.ai/jobs/info/69a9340479f3f4037f43fbf0?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Skanska](http://skanska.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69e0d26afd1c0456f3faad85?utm_campaign=1055&utm_source=git)** | Queens, NY, US | On Site | Apr 16 |
@@ -95,16 +97,16 @@ For a complete list, click the following sortable link below:
 | **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e00f30e34484770f1ac5d8?utm_campaign=1055&utm_source=git)** | Fresno, CA | Hybrid | Apr 15 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[SOX Intern](https://jobright.ai/jobs/info/69debdd35913ad339813fb6e?utm_campaign=1055&utm_source=git)** | Brisbane, CA | On Site | Apr 15 |
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Third Party Risk Management](https://jobright.ai/jobs/info/69e009aae34484770f1ac478?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Apr 15 |
-| **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e00971433ac8430e0e4029?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Apr 15 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e00971433ac8430e0e4028?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Apr 15 |
+| **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e00971433ac8430e0e4028?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Apr 15 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e00971433ac8430e0e4029?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e00962e34484770f1ac435?utm_campaign=1055&utm_source=git)** | Johnston, RI | Hybrid | Apr 15 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781d?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Apr 15 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781e?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781f?utm_campaign=1055&utm_source=git)** | Buffalo, NY | Hybrid | Apr 15 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781e?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 15 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781d?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095a5913ad339814781b?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 15 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095aaba61f141731f32f?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095aaba61f141731f32e?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781c?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Apr 15 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095aaba61f141731f32f?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Apr 15 |
 | **[Greystar (International)](http://www.greystar.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/69e0054514bf245fc7a6f7be?utm_campaign=1055&utm_source=git)** | Remote Texas, Remote Texas, TX | Remote | Apr 15 |
 | **[Waterstone Mortgage Corporation](http://WaterstoneMortgage.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69e001e25913ad33981474ef?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 15 |
 | **[SECURA Insurance](http://www.secura.net)** | **[Intern-Legal Administrative Assistant](https://jobright.ai/jobs/info/69e0019e4920452a85dd107c?utm_campaign=1055&utm_source=git)** | Neenah, Wisconsin, United States | On Site | Apr 15 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Bellco Credit Union](https://www.bellco.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69df2bd6433ac8430e0df647?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO | On Site | Apr 14 |
 | **[Leidos](https://www.leidos.com)** | **[Regulatory Document Intern](https://jobright.ai/jobs/info/69df0634e34484770f1a6737?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 14 |
 | **[Camping World](https://investor.campingworld.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69deff04e34484770f1a65f6?utm_campaign=1055&utm_source=git)** | Lincolnshire, IL | Hybrid | Apr 14 |
-| **[LawBhoomi](https://lawbhoomi.com/)** | **[Junior Advocate / Legal Internship Opportunity at Adv. M. S. Deshmane & Associates: Apply Now!](https://jobright.ai/jobs/info/69e04df8c5691b27c176c753?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Apr 14 |
 | **[Corpay](https://payments.corpay.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69def8df18cf504166e313fa?utm_campaign=1055&utm_source=git)** | Toronto, ON | On Site | Apr 14 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d6bb1352a5bf580012b6e0?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Apr 14 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Associate Director of Research Security and International Compliance](https://jobright.ai/jobs/info/69def47c5913ad3398141617?utm_campaign=1055&utm_source=git)** | Harrisonburg, VA | On Site | Apr 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[SOX Intern](https://jobright.ai/jobs/info/69de936018cf504166e2e501?utm_campaign=1055&utm_source=git)** | Brisbane, CA | On Site | Apr 14 |
 | **[PDS Health](http://www.pacificdentalservices.com/)** | **[Compliance (Legal) Intern](https://jobright.ai/jobs/info/69de9251433ac8430e0dada2?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | Apr 14 |
 | **[Leidos](https://www.leidos.com)** | **[Regulatory Document Intern](https://jobright.ai/jobs/info/69de89b8433ac8430e0da739?utm_campaign=1055&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Apr 14 |
-| **[State of Indiana](https://www.in.gov)** | **[Seasonal State Worker - DNR Legal Intern](https://jobright.ai/jobs/info/69de8780aba61f141731585b?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
