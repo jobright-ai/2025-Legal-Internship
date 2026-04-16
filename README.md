@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amerant Bank](https://www.amerantbank.com/)** | **[Undergraduate Internship - Fraud Prevention](https://jobright.ai/jobs/info/69a8bdb07ac93962b70886a7?utm_campaign=1055&utm_source=git)** | Miramar, FL | On Site | Apr 16 |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Regulatory/Marketing Legal Intern -- Summer 2026](https://jobright.ai/jobs/info/69b4bd56569738374139988b?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Remote | Apr 16 |
 | **[Nebraska Methodist College](http://methodistcollege.edu)** | **[Intern - Legal](https://jobright.ai/jobs/info/69e11ca1d612782e61146f3c?utm_campaign=1055&utm_source=git)** | Methodist Corporate Office - Omaha, NE | On Site | Apr 16 |
 | **[Cantex](https://www.cantexcc.com)** | **[Compliance Internship (22259)](https://jobright.ai/jobs/info/69e119cfacc736112f5c1e41?utm_campaign=1055&utm_source=git)** | Carrollton, TX | On Site | Apr 16 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69e1148bacc736112f5c1cdd?utm_campaign=1055&utm_source=git)** | Newark, NJ | On Site | Apr 16 |
@@ -85,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Regulatory Summer Internship / Nutley, NJ, USA](https://jobright.ai/jobs/info/69e0593fba9bd32d0336fd2f?utm_campaign=1055&utm_source=git)** | Nutley, NJ | On Site | Apr 15 |
 | **[UC San Diego Health](https://health.ucsd.edu/)** | **[Compliance & Policy Analyst - Facilities - 138881](https://jobright.ai/jobs/info/69e046b35913ad3398148b0f?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 15 |
 | **[Abbott](https://www.abbott.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69e03d2f4920452a85dd25ce?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Apr 15 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Law Student Intern, Office for Interactions with Industry](https://jobright.ai/jobs/info/69e02d18433ac8430e0e4c35?utm_campaign=1055&utm_source=git)** | Somerville-MA | Hybrid | Apr 15 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern – Legal, Contracts and Ethics – Campus 2026](https://jobright.ai/jobs/info/69e121e340a62c1fa93b6c71?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Apr 15 |
 | **[GEODIS](http://www.geodis.com)** | **[Intern - Transportation Compliance](https://jobright.ai/jobs/info/69e01afe5913ad3398147d5c?utm_campaign=1055&utm_source=git)** | Brentwood, Tennessee, United States | Hybrid | Apr 15 |
 | **[Planet Home Lending, LLC](https://planethomelending.com/)** | **[Compliance - Intern](https://jobright.ai/jobs/info/69e017cf4920452a85dd19a1?utm_campaign=1055&utm_source=git)** | Hybrid, 5020 Riverside Dr., Irving, Texas, United States of America | Hybrid | Apr 15 |
 | **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e00f30e34484770f1ac5d8?utm_campaign=1055&utm_source=git)** | Fresno, CA | Hybrid | Apr 15 |
@@ -95,12 +97,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e00971433ac8430e0e4029?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e00962e34484770f1ac435?utm_campaign=1055&utm_source=git)** | Johnston, RI | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781e?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 15 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781f?utm_campaign=1055&utm_source=git)** | Buffalo, NY | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781d?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Apr 15 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095aaba61f141731f32f?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Apr 15 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095aaba61f141731f32e?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Apr 15 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095a5913ad339814781b?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 15 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781f?utm_campaign=1055&utm_source=git)** | Buffalo, NY | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781c?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Apr 15 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095aaba61f141731f32f?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Apr 15 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095a5913ad339814781b?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 15 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095aaba61f141731f32e?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Apr 15 |
 | **[Greystar (International)](http://www.greystar.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/69e0054514bf245fc7a6f7be?utm_campaign=1055&utm_source=git)** | Remote Texas, Remote Texas, TX | Remote | Apr 15 |
 | **[Waterstone Mortgage Corporation](http://WaterstoneMortgage.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69e001e25913ad33981474ef?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 15 |
 | **[SECURA Insurance](http://www.secura.net)** | **[Intern-Legal Administrative Assistant](https://jobright.ai/jobs/info/69e0019e4920452a85dd107c?utm_campaign=1055&utm_source=git)** | Neenah, Wisconsin, United States | On Site | Apr 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Indiana](https://www.in.gov)** | **[Seasonal State Worker - DNR Legal Intern](https://jobright.ai/jobs/info/69de8780aba61f141731585b?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Apr 14 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Fall 2026 Litigation Intern](https://jobright.ai/jobs/info/69d89841738f2f099e89d842?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 14 |
 | **[Cars Commerce](https://www.carscommerce.inc)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/69c18bd575f7ff1cd80fb0a2?utm_campaign=1055&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 14 |
-| **[Medica](https://www.medica.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69de7ff936823d1b4258164a?utm_campaign=1055&utm_source=git)** | Hopkins, MN | Hybrid | Apr 14 |
-| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Fall 2026 Litigation Intern](https://jobright.ai/jobs/info/69d86a1c9f97a42dc9c1c058?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
