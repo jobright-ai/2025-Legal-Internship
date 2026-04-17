@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Procurement Intern (JD)](https://jobright.ai/jobs/info/69e18b97acc736112f5c419a?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Apr 16 |
+| ↳ | **[Procurement Intern (JD)](https://jobright.ai/jobs/info/69e1883640a62c1fa93b8d1c?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Apr 16 |
 | **[Maze Therapeutics](https://www.mazetx.com)** | **[Regulatory Affairs Intern 2026](https://jobright.ai/jobs/info/69e17daeacc736112f5c3ec2?utm_campaign=1055&utm_source=git)** | South San Francisco, CA | On Site | Apr 16 |
 | **[Henderson Engineers](https://www.hendersonengineers.com)** | **[Legal - Legal Intern](https://jobright.ai/jobs/info/69e17d8bfd1c0456f3fae865?utm_campaign=1055&utm_source=git)** | Lenexa, KS | On Site | Apr 16 |
 | **[Duetti](https://duetti.co)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/69e16913ff71e82d604b6d28?utm_campaign=1055&utm_source=git)** | New York, Los Angeles, Miami | Hybrid | Apr 16 |
 | **[MAHLE](https://www.mahle.com)** | **[Foreign Trade Intern](https://jobright.ai/jobs/info/69e16856acc736112f5c3917?utm_campaign=1055&utm_source=git)** | Farmington Hills, MI | On Site | Apr 16 |
+| **[Duetti](https://duetti.co)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/69e185c7ff71e82d604b753c?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
 | **[Texas Instruments](http://www.ti.com)** | **[Global Investigations Intern](https://jobright.ai/jobs/info/69e1662f40a62c1fa93b83bc?utm_campaign=1055&utm_source=git)** | EXKC 13570 N. Central Expwy, Dallas, TX, 75243, US | On Site | Apr 16 |
 | **[Leidos](https://www.leidos.com)** | **[Cyber & Privacy Intern](https://jobright.ai/jobs/info/69e166296c20aa1149540f3a?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Apr 16 |
 | **[Maze Therapeutics](https://www.mazetx.com)** | **[Regulatory Affairs Intern 2026](https://jobright.ai/jobs/info/69e1641fff71e82d604b6b84?utm_campaign=1055&utm_source=git)** | South San Francisco, CA | On Site | Apr 16 |
@@ -71,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/69e1786d40a62c1fa93b89e1?utm_campaign=1055&utm_source=git)** | Mason, OH | On Site | Apr 16 |
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Trust Intern](https://jobright.ai/jobs/info/69e149b6acc736112f5c2f1c?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Apr 16 |
 | **[Darling Ingredients](http://darlingii.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69e145f9ff71e82d604b6131?utm_campaign=1055&utm_source=git)** | Irving, TX | On Site | Apr 16 |
+| **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69e18f03fd1c0456f3faec60?utm_campaign=1055&utm_source=git)** | Wilmington, DE | Hybrid | Apr 16 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Compliance Student](https://jobright.ai/jobs/info/69e16b04d612782e61148972?utm_campaign=1055&utm_source=git)** | Québec, QC | Hybrid | Apr 16 |
 | **[MCPC](https://www.mcpc.com)** | **[Security Contracts Intern](https://jobright.ai/jobs/info/69e139bdd612782e61147889?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 16 |
 | **[KLDiscovery India](https://www.kldiscovery.com/)** | **[Ontario Document Reviewer](https://jobright.ai/jobs/info/69e13330ff71e82d604b5a31?utm_campaign=1055&utm_source=git)** | Ontario, Canada | Remote | Apr 16 |
@@ -110,11 +114,11 @@ For a complete list, click the following sortable link below:
 | **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e00971433ac8430e0e4029?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e00971433ac8430e0e4028?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e00962e34484770f1ac435?utm_campaign=1055&utm_source=git)** | Johnston, RI | Hybrid | Apr 15 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781e?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 15 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781f?utm_campaign=1055&utm_source=git)** | Buffalo, NY | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781d?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Apr 15 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095aaba61f141731f32f?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Apr 15 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781f?utm_campaign=1055&utm_source=git)** | Buffalo, NY | Hybrid | Apr 15 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781e?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095aaba61f141731f32e?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Apr 15 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095aaba61f141731f32f?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781c?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095a5913ad339814781b?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 15 |
 | **[Greystar (International)](http://www.greystar.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/69e0054514bf245fc7a6f7be?utm_campaign=1055&utm_source=git)** | Remote Texas, Remote Texas, TX | Remote | Apr 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SentinelOne](http://www.sentinelone.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d6bb1352a5bf580012b6e0?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Apr 14 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Associate Director of Research Security and International Compliance](https://jobright.ai/jobs/info/69def47c5913ad3398141617?utm_campaign=1055&utm_source=git)** | Harrisonburg, VA | On Site | Apr 14 |
 | **[Spurs Sports & Entertainment](https://www.nba.com/spurs/careers)** | **[Legal Intern](https://jobright.ai/jobs/info/69decdbf5913ad3398140390?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | Apr 14 |
-| **[Transcard](http://www.transcard.com)** | **[2026 - Fraud and Compliance Intern](https://jobright.ai/jobs/info/69decdba5913ad3398140386?utm_campaign=1055&utm_source=git)** | Chattanooga, TN | Hybrid | Apr 14 |
-| **[Sentinel Technologies](https://sentinel.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69decda9aba61f1417317dfe?utm_campaign=1055&utm_source=git)** | Downers Grove, IL | On Site | Apr 14 |
-| **[Spurs Sports & Entertainment](https://www.nba.com/spurs/careers)** | **[Legal Intern](https://jobright.ai/jobs/info/69deccdf5913ad33981402cc?utm_campaign=1055&utm_source=git)** | San Antonio, TX, USA | On Site | Apr 14 |
-| **[Bellco Credit Union](https://www.bellco.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69decccaaba61f1417317d83?utm_campaign=1055&utm_source=git)** | Bellco Corporate Offices, 7600 E Orchard Rd, Greenwood Village, Colorado, United States of America | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
