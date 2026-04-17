@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Organon](https://www.organon.com)** | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/69e258c95c44d4710fe24e4a?utm_campaign=1055&utm_source=git)** | USA - Pennsylvania - Plymouth Meeting | On Site | Apr 17 |
+| ↳ | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/69e258c93ce36005badbddc2?utm_campaign=1055&utm_source=git)** | USA - New Jersey - Florham Park | On Site | Apr 17 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[Assistant Corporation Counsel I - Collections, Ownership and Administrative Litigation](https://jobright.ai/jobs/info/69c8a726b773006330b8077b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
 | ↳ | **[Assistant Corporation Counsel III - Collections, Ownership, and Administrative Litigation Division – Special Collections Unit](https://jobright.ai/jobs/info/69c8cbda1b5ad02887395654?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Regulatory Analyst, Intern](https://jobright.ai/jobs/info/69e24b162f286535930763fd?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Apr 17 |
@@ -128,15 +130,15 @@ For a complete list, click the following sortable link below:
 | **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e00f30e34484770f1ac5d8?utm_campaign=1055&utm_source=git)** | Fresno, CA | Hybrid | Apr 15 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[SOX Intern](https://jobright.ai/jobs/info/69debdd35913ad339813fb6e?utm_campaign=1055&utm_source=git)** | Brisbane, CA | On Site | Apr 15 |
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Third Party Risk Management](https://jobright.ai/jobs/info/69e009aae34484770f1ac478?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Apr 15 |
-| **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e00971433ac8430e0e4029?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Apr 15 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e00971433ac8430e0e4028?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Apr 15 |
+| **[American Arbitration Association](https://www.adr.org)** | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e00971433ac8430e0e4028?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Apr 15 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e00971433ac8430e0e4029?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e00962e34484770f1ac435?utm_campaign=1055&utm_source=git)** | Johnston, RI | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781f?utm_campaign=1055&utm_source=git)** | Buffalo, NY | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781e?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781d?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Apr 15 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781c?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Apr 15 |
-| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095aaba61f141731f32f?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095aaba61f141731f32e?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Apr 15 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095aaba61f141731f32f?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Apr 15 |
+| ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095b5913ad339814781c?utm_campaign=1055&utm_source=git)** | Charlotte, NC | Hybrid | Apr 15 |
 | ↳ | **[Case Administrator (Legal Services/Administrative Support)](https://jobright.ai/jobs/info/69e0095a5913ad339814781b?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 15 |
 | **[Greystar (International)](http://www.greystar.com)** | **[Legal Summer Intern](https://jobright.ai/jobs/info/69e0054514bf245fc7a6f7be?utm_campaign=1055&utm_source=git)** | Remote Texas, Remote Texas, TX | Remote | Apr 15 |
 | **[Waterstone Mortgage Corporation](http://WaterstoneMortgage.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69e001e25913ad33981474ef?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Santander](https://www.santander.com/)** | **[Regulatory Relations Intern](https://jobright.ai/jobs/info/69dfd5d5aba61f141731da7d?utm_campaign=1055&utm_source=git)** | Dallas | On Site | Apr 15 |
 | ↳ | **[State Regulatory Relations- Legal Intern](https://jobright.ai/jobs/info/69dfcffeaba61f141731d948?utm_campaign=1055&utm_source=git)** | Dallas | On Site | Apr 15 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Equity & Compliance Coordinator (Confidential Administrative Support II), Human Resources Division](https://jobright.ai/jobs/info/698bd1dec5761b521a9b60d4?utm_campaign=1055&utm_source=git)** | San Bernardino, CA | On Site | Apr 15 |
-| **[State Street](https://www.statestreet.com/)** | **[State Street - ​Global Corporate Secretarial and Administration Team - Summer Internship 2026](https://jobright.ai/jobs/info/69dfb7fdaba61f141731cf0d?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 15 |
-| **[Wealthspire](https://www.wealthspire.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698c5a4df64d441a164e4b69?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
