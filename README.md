@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alera Group, Inc.](http://aleragroup.com)** | **[Risk Management & Insurance Intern](https://jobright.ai/jobs/info/69a984057f9271426f8864b8?utm_campaign=1055&utm_source=git)** | Shreveport, LA | On Site | Apr 18 |
+| **[Association of International Certified Professional Accountants](http://www.aicpaglobal.com/)** | **[Paid summer intern (Audit, Risk & Compliance)](https://jobright.ai/jobs/info/69c6f8e183ea553769fdf4fc?utm_campaign=1055&utm_source=git)** | Durham, NC | Hybrid | Apr 18 |
+| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69a5f4940da45516f16ec0ef?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 18 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Global Financial Crimes and Compliance Internship (Coverage Strategy)  – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69e34514fcfcbd43860a5fc7?utm_campaign=1055&utm_source=git)** | 545 Washington Blvd, Jersey City, NJ, 07310, US | On Site | Apr 18 |
 | ↳ | **[2026 Global Financial Crimes and Compliance Internship (Commercial & Investment Bank)  – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69e345125c44d4710fe28666?utm_campaign=1055&utm_source=git)** | 545 Washington Blvd, Jersey City, NJ, 07310, US | On Site | Apr 18 |
 | ↳ | **[2026 Global Financial Crimes and Compliance Internship (KYC Policy)  – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69e344d43ce36005badc133a?utm_campaign=1055&utm_source=git)** | 4 Chase Metrotech Ctr, Brooklyn, NY, 11245, US | On Site | Apr 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Regulatory Summer Internship / Nutley, NJ, USA](https://jobright.ai/jobs/info/69e0593fba9bd32d0336fd2f?utm_campaign=1055&utm_source=git)** | Nutley, NJ | On Site | Apr 15 |
 | **[UC San Diego Health](https://health.ucsd.edu/)** | **[Compliance & Policy Analyst - Facilities - 138881](https://jobright.ai/jobs/info/69e046b35913ad3398148b0f?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 15 |
 | **[Abbott](https://www.abbott.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69e03d2f4920452a85dd25ce?utm_campaign=1055&utm_source=git)** | North Chicago, IL | On Site | Apr 15 |
-| **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Paralegal - Appleton](https://jobright.ai/jobs/info/69e17337ff71e82d604b7164?utm_campaign=1055&utm_source=git)** | Appleton, WI | On Site | Apr 15 |
-| **[GEODIS](http://www.geodis.com)** | **[Intern - Transportation Compliance](https://jobright.ai/jobs/info/69e01afe5913ad3398147d5c?utm_campaign=1055&utm_source=git)** | Brentwood, Tennessee, United States | Hybrid | Apr 15 |
-| **[Planet Home Lending, LLC](https://planethomelending.com/)** | **[Compliance - Intern](https://jobright.ai/jobs/info/69e017cf4920452a85dd19a1?utm_campaign=1055&utm_source=git)** | Hybrid, 5020 Riverside Dr., Irving, Texas, United States of America | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
