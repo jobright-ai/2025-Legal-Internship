@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ofi North America (Olam Food Ingredients)](http://www.ofi.com)** | **[2026 Summer Intern: Regulatory Affairs](https://jobright.ai/jobs/info/69c6ede9b773006330b742b1?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 18 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Risk Management & Insurance Intern](https://jobright.ai/jobs/info/69a984057f9271426f8864b8?utm_campaign=1055&utm_source=git)** | Shreveport, LA | On Site | Apr 18 |
 | **[Association of International Certified Professional Accountants](http://www.aicpaglobal.com/)** | **[Paid summer intern (Audit, Risk & Compliance)](https://jobright.ai/jobs/info/69c6f8e183ea553769fdf4fc?utm_campaign=1055&utm_source=git)** | Durham, NC | Hybrid | Apr 18 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69a5f4940da45516f16ec0ef?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 18 |
@@ -88,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Wavestone](https://www.wavestone.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69e27bcc3770bd5361cd8987?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 17 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Intern, Rotational Legal](https://jobright.ai/jobs/info/69e2788c5c44d4710fe25506?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 17 |
 | **[Wavestone North America](https://www.aspirant.com/)** | **[Corporate Legal Intern  (Hybrid - Pittsburgh, PA)](https://jobright.ai/jobs/info/69e28e03fcfcbd43860a36d5?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 17 |
-| **[Louisiana Blue](https://www.bcbsla.com/)** | **[CW Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69e2bc942f28653593077f1f?utm_campaign=1055&utm_source=git)** | Corporate - Baton Rouge, LA | On Site | Apr 17 |
 | **[Organon](https://www.organon.com)** | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/69e258c95c44d4710fe24e4a?utm_campaign=1055&utm_source=git)** | USA - Pennsylvania - Plymouth Meeting | On Site | Apr 17 |
 | ↳ | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/69e258c93ce36005badbddc2?utm_campaign=1055&utm_source=git)** | USA - New Jersey - Florham Park | On Site | Apr 17 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[End to End Coordinator – New Graduate](https://jobright.ai/jobs/info/69c69e75aa3c2c1995e10e0d?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
