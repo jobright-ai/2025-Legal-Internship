@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Global Financial Crimes and Compliance Internship (Sanctions Compliance)  – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69e3d88c0ddab31db6f976df?utm_campaign=1055&utm_source=git)** | 4 Chase Metrotech Ctr, Brooklyn, NY, 11245, US | On Site | Apr 18 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, New York, United States | On Site | Apr 18 |
 | **[AFL](http://www.AFLglobal.com)** | **[AFL International Trade Intern- Summer 2026](https://jobright.ai/jobs/info/698d495ef64d441a164f508c?utm_campaign=1055&utm_source=git)** | Duncan, South Carolina, United States | On Site | Apr 18 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Risk Department](https://jobright.ai/jobs/info/69d41cd5cfdc6132f9457d82?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Apr 18 |
@@ -78,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69e2d6a0fcfcbd43860a4c88?utm_campaign=1055&utm_source=git)** | Boise, ID | Hybrid | Apr 17 |
 | ↳ | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69e2d68f2f286535930786c9?utm_campaign=1055&utm_source=git)** | Vancouver, WA | Hybrid | Apr 17 |
 | **[Parold Entertainment Inc.](http://parold.com)** | **[Law Student Intern](https://jobright.ai/jobs/info/69e32f57fcfcbd43860a526f?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | Apr 17 |
+| **[Structure Therapeutics](https://structuretx.com/)** | **[2026 Summer Intern (Legal)](https://jobright.ai/jobs/info/69e3d8442664c278c1dd5681?utm_campaign=1055&utm_source=git)** | South San Francisco, California, United States | On Site | Apr 17 |
 | **[Gunvor Group](https://gunvorgroup.com/en/)** | **[EPA Compliance Intern](https://jobright.ai/jobs/info/69e34e71fcfcbd43860a64cc?utm_campaign=1055&utm_source=git)** | Houston | On Site | Apr 17 |
 | **[Organon](https://www.organon.com)** | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/69e2aad62f2865359307779b?utm_campaign=1055&utm_source=git)** | Plymouth Meeting, PA | On Site | Apr 17 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Senior Public Records and International Travel Analyst (CSUN Employees only)](https://jobright.ai/jobs/info/69e29d1b2f28653593077533?utm_campaign=1055&utm_source=git)** | Northridge, California, United States | Hybrid | Apr 17 |
@@ -92,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Wavestone](https://www.wavestone.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69e27bcc3770bd5361cd8987?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 17 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Intern, Rotational Legal](https://jobright.ai/jobs/info/69e2788c5c44d4710fe25506?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 17 |
 | **[Wavestone North America](https://www.aspirant.com/)** | **[Corporate Legal Intern  (Hybrid - Pittsburgh, PA)](https://jobright.ai/jobs/info/69e28e03fcfcbd43860a36d5?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 17 |
-| **[Organon](https://www.organon.com)** | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/69e258c93ce36005badbddc2?utm_campaign=1055&utm_source=git)** | USA - New Jersey - Florham Park | On Site | Apr 17 |
-| ↳ | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/69e258c95c44d4710fe24e4a?utm_campaign=1055&utm_source=git)** | USA - Pennsylvania - Plymouth Meeting | On Site | Apr 17 |
+| **[Organon](https://www.organon.com)** | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/69e258c95c44d4710fe24e4a?utm_campaign=1055&utm_source=git)** | USA - Pennsylvania - Plymouth Meeting | On Site | Apr 17 |
+| ↳ | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/69e258c93ce36005badbddc2?utm_campaign=1055&utm_source=git)** | USA - New Jersey - Florham Park | On Site | Apr 17 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[End to End Coordinator – New Graduate](https://jobright.ai/jobs/info/69c69e75aa3c2c1995e10e0d?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
 | ↳ | **[Model Risk Governance & Validation Intern – Summer 2026](https://jobright.ai/jobs/info/6971580351f726477183a3dd?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[Assistant Corporation Counsel I - Collections, Ownership and Administrative Litigation](https://jobright.ai/jobs/info/69c8a726b773006330b8077b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Flexera](https://www.flexera.com)** | **[Legal Intern](https://jobright.ai/jobs/info/696fcea882817106e976d836?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Raytheon](http://www.bbn.com)** | **[Summer 2026 Contracts Intern (Remote)](https://jobright.ai/jobs/info/69e0ae2dff71e82d604b291c?utm_campaign=1055&utm_source=git)** | Tucson, AZ | Remote | Apr 16 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Paralegal Specialist](https://jobright.ai/jobs/info/69e0b5649f8d646778e148a4?utm_campaign=1055&utm_source=git)** | Hartford, CT | On Site | Apr 16 |
-| **[Reckitt](https://www.reckitt.com)** | **[2026 Legal Summer Internship / Nutley, NJ, USA](https://jobright.ai/jobs/info/69e05a16b20fd532b4ae0eee?utm_campaign=1055&utm_source=git)** | Nutley, NJ | On Site | Apr 15 |
-| **[PNC](http://www.pnc.com)** | **[Senior Counsel--Investment Advisor](https://jobright.ai/jobs/info/69e059c9c17d1d5254333e20?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 15 |
-| **[Reckitt](https://www.reckitt.com)** | **[2026 Regulatory Summer Internship / Nutley, NJ, USA](https://jobright.ai/jobs/info/69e0593fba9bd32d0336fd2f?utm_campaign=1055&utm_source=git)** | Nutley, NJ | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
