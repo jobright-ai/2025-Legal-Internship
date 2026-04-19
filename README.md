@@ -83,7 +83,8 @@ For a complete list, click the following sortable link below:
 | **[SOPHiA GENETICS](https://www.sophiagenetics.com)** | **[Legal Assistant Intern](https://jobright.ai/jobs/info/69e2d6b45c44d4710fe27218?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 17 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69e2d6a0fcfcbd43860a4c88?utm_campaign=1055&utm_source=git)** | Boise, ID | Hybrid | Apr 17 |
 | ↳ | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69e2d68f2f286535930786c9?utm_campaign=1055&utm_source=git)** | Vancouver, WA | Hybrid | Apr 17 |
-| **[Structure Therapeutics](https://structuretx.com/)** | **[2026 Summer Intern (Legal)](https://jobright.ai/jobs/info/69e3d8442664c278c1dd5681?utm_campaign=1055&utm_source=git)** | South San Francisco, California, United States | On Site | Apr 17 |
+| **[Structure Therapeutics](https://structuretx.com/)** | **[2026 Summer Intern (Regulatory Affairs)](https://jobright.ai/jobs/info/69e42bb00ddab31db6f9798c?utm_campaign=1055&utm_source=git)** | South San Francisco, California, United States | On Site | Apr 17 |
+| ↳ | **[2026 Summer Intern (Legal)](https://jobright.ai/jobs/info/69e3d8442664c278c1dd5681?utm_campaign=1055&utm_source=git)** | South San Francisco, California, United States | On Site | Apr 17 |
 | **[Gunvor Group](https://gunvorgroup.com/en/)** | **[EPA Compliance Intern](https://jobright.ai/jobs/info/69e34e71fcfcbd43860a64cc?utm_campaign=1055&utm_source=git)** | Houston | On Site | Apr 17 |
 | **[Organon](https://www.organon.com)** | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/69e2aad62f2865359307779b?utm_campaign=1055&utm_source=git)** | Plymouth Meeting, PA | On Site | Apr 17 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Senior Public Records and International Travel Analyst (CSUN Employees only)](https://jobright.ai/jobs/info/69e29d1b2f28653593077533?utm_campaign=1055&utm_source=git)** | Northridge, California, United States | Hybrid | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Skanska](http://skanska.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69e0d2a6acc736112f5c0036?utm_campaign=1055&utm_source=git)** | US-NY-Queens | On Site | Apr 16 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69e0d26afd1c0456f3faad85?utm_campaign=1055&utm_source=git)** | Queens, NY, US | On Site | Apr 16 |
 | **[PNC](http://www.pnc.com)** | **[Senior Counsel--Investment Advisor](https://jobright.ai/jobs/info/69e225495a16743a729c5312?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 16 |
-| ↳ | **[Senior Counsel--Investment Advisor](https://jobright.ai/jobs/info/69e22516ed4dfe55c455f819?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
