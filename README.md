@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Overview risk landscape](https://jobright.ai/jobs/info/69e512e7f8fa2f3ec329e63c?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 19 |
 | **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698ff6e10f6f7e7a2cec3c70?utm_campaign=1055&utm_source=git)** | Middle River, MD, USA | Hybrid | Apr 19 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/6972969f4ccbf64f8df290a8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 19 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Air & Ocean Ops Intern - Chicago, IL](https://jobright.ai/jobs/info/69e4b9f83cfd986aa6f7ffe3?utm_campaign=1055&utm_source=git)** | Melrose Park. Il, US | On Site | Apr 19 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Global Financial Crimes and Compliance Internship (KYC Policy)  – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69e33856fcfcbd43860a5f3f?utm_campaign=1055&utm_source=git)** | 4 Chase Metrotech Ctr, Brooklyn, NY, 11245, US | On Site | Apr 18 |
 | ↳ | **[2026 Global Financial Crimes and Compliance Internship (Commercial & Investment Bank)  – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69e338442f28653593079988?utm_campaign=1055&utm_source=git)** | 545 Washington Blvd, Jersey City, NJ, 07310, US | On Site | Apr 18 |
 | **[SOURCES](https://www.sourcesbc.ca)** | **[[26-036] Lawyer and Manager](https://jobright.ai/jobs/info/69e4fdb8e0cd471b2f1223c1?utm_campaign=1055&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Apr 17 |
-| **[JV Global Capital, Inc.](https://jvglobalcap.com)** | **[Compliance and Admin Intern](https://jobright.ai/jobs/info/69e33dcb3ce36005badc1313?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 17 |
 | **[Stantec](http://www.stantec.com)** | **[Corporate Counsel](https://jobright.ai/jobs/info/69e32f92fcfcbd43860a5459?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Apr 17 |
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Legal Affairs Intern](https://jobright.ai/jobs/info/69e2dbc3be46fa3a4ef593ab?utm_campaign=1055&utm_source=git)** | Memphis, TN | On Site | Apr 17 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69e2d78cbe46fa3a4ef59127?utm_campaign=1055&utm_source=git)** | Portland, OR | Hybrid | Apr 17 |
