@@ -90,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Gunvor Group](https://gunvorgroup.com/en/)** | **[EPA Compliance Intern](https://jobright.ai/jobs/info/69e34e71fcfcbd43860a64cc?utm_campaign=1055&utm_source=git)** | Houston | On Site | Apr 17 |
 | **[Organon](https://www.organon.com)** | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/69e2aad62f2865359307779b?utm_campaign=1055&utm_source=git)** | Plymouth Meeting, PA | On Site | Apr 17 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Senior Public Records and International Travel Analyst (CSUN Employees only)](https://jobright.ai/jobs/info/69e29d1b2f28653593077533?utm_campaign=1055&utm_source=git)** | Northridge, California, United States | Hybrid | Apr 17 |
+| **[International Institute of New England](https://iine.org/)** | **[Internship - Training & Compliance](https://jobright.ai/jobs/info/69e4c1ab3aa0c4796438ff52?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Apr 17 |
 | **[LS Power](http://lspower.com)** | **[Legal Internship](https://jobright.ai/jobs/info/69e28df9be46fa3a4ef57a27?utm_campaign=1055&utm_source=git)** | East Brunswick, NJ | On Site | Apr 17 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c6f935e565c26a7002499e?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | Apr 17 |
 | **[SPR](https://www.sprpainrelief.com)** | **[Sales Contracts Intern](https://jobright.ai/jobs/info/69dd52af61f6ed54321fc7f8?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Medtronic](https://www.medtronic.com)** | **[Summer Intern - Contracts and FP&A](https://jobright.ai/jobs/info/69e0f36540a62c1fa93b5c71?utm_campaign=1055&utm_source=git)** | Brampton, Ontario, Canada | On Site | Apr 16 |
 | **[FirstOntario Credit Union](https://www.firstontario.com)** | **[Summer Legal Student](https://jobright.ai/jobs/info/69e0f04facc736112f5c0eb1?utm_campaign=1055&utm_source=git)** | Stoney Creek, ON | On Site | Apr 16 |
 | **[Deckers Brands](http://deckers.com)** | **[Summer Intern, Corporate Legal (Law Student)](https://jobright.ai/jobs/info/69a777bc76bbe83d3afadc17?utm_campaign=1055&utm_source=git)** | Santa Barbara, CA | Hybrid | Apr 16 |
-| **[Skanska](http://skanska.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69e0d2a6acc736112f5c0036?utm_campaign=1055&utm_source=git)** | US-NY-Queens | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
