@@ -58,7 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Overview risk landscape](https://jobright.ai/jobs/info/69e512e7f8fa2f3ec329e63c?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 19 |
-| **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698ff6e10f6f7e7a2cec3c70?utm_campaign=1055&utm_source=git)** | Middle River, MD, USA | Hybrid | Apr 19 |
+| **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | Apr 19 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698ff6e10f6f7e7a2cec3c70?utm_campaign=1055&utm_source=git)** | Middle River, MD, USA | Hybrid | Apr 19 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/6972969f4ccbf64f8df290a8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 19 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Air & Ocean Ops Intern - Chicago, IL](https://jobright.ai/jobs/info/69e4b9f83cfd986aa6f7ffe3?utm_campaign=1055&utm_source=git)** | Melrose Park. Il, US | On Site | Apr 19 |
 | **[Chase](https://www.chase.com/)** | **[2026 Global Financial Crimes and Compliance Internship (Sanctions Compliance)  – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69e3f2c1cfcea71ec9f8f97d?utm_campaign=1055&utm_source=git)** | 4 Chase Metrotech Ctr, Brooklyn, NY, 11245, US | On Site | Apr 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/69c37b82753c101b21574e72?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698c53e978b4502f12a2da79?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Apr 16 |
 | ↳ | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698c669b0f6f7e7a2ce822cb?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Apr 16 |
-| **[Medtronic](https://www.medtronic.com)** | **[Summer Intern - Contracts and FP&A](https://jobright.ai/jobs/info/69e0f36540a62c1fa93b5c71?utm_campaign=1055&utm_source=git)** | Brampton, Ontario, Canada | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
