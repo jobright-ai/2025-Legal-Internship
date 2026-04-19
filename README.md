@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698ff6e10f6f7e7a2cec3c70?utm_campaign=1055&utm_source=git)** | Middle River, MD, USA | Hybrid | Apr 19 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/6972969f4ccbf64f8df290a8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 19 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Air & Ocean Ops Intern - Chicago, IL](https://jobright.ai/jobs/info/69e4b9f83cfd986aa6f7ffe3?utm_campaign=1055&utm_source=git)** | Melrose Park. Il, US | On Site | Apr 19 |
 | **[Chase](https://www.chase.com/)** | **[2026 Global Financial Crimes and Compliance Internship (Sanctions Compliance)  – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69e3f2c1cfcea71ec9f8f97d?utm_campaign=1055&utm_source=git)** | 4 Chase Metrotech Ctr, Brooklyn, NY, 11245, US | On Site | Apr 18 |
@@ -102,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Wavestone](https://www.wavestone.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69e27bcc3770bd5361cd8987?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 17 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Intern, Rotational Legal](https://jobright.ai/jobs/info/69e2788c5c44d4710fe25506?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 17 |
 | **[Wavestone North America](https://www.aspirant.com/)** | **[Corporate Legal Intern  (Hybrid - Pittsburgh, PA)](https://jobright.ai/jobs/info/69e28e03fcfcbd43860a36d5?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 17 |
-| **[Organon](https://www.organon.com)** | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/69e258c93ce36005badbddc2?utm_campaign=1055&utm_source=git)** | USA - New Jersey - Florham Park | On Site | Apr 17 |
-| ↳ | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/69e258c95c44d4710fe24e4a?utm_campaign=1055&utm_source=git)** | USA - Pennsylvania - Plymouth Meeting | On Site | Apr 17 |
+| **[Organon](https://www.organon.com)** | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/69e258c95c44d4710fe24e4a?utm_campaign=1055&utm_source=git)** | USA - Pennsylvania - Plymouth Meeting | On Site | Apr 17 |
+| ↳ | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/69e258c93ce36005badbddc2?utm_campaign=1055&utm_source=git)** | USA - New Jersey - Florham Park | On Site | Apr 17 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[End to End Coordinator – New Graduate](https://jobright.ai/jobs/info/69c69e75aa3c2c1995e10e0d?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
 | ↳ | **[Model Risk Governance & Validation Intern – Summer 2026](https://jobright.ai/jobs/info/6971580351f726477183a3dd?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[Assistant Corporation Counsel I - Collections, Ownership and Administrative Litigation](https://jobright.ai/jobs/info/69c8a726b773006330b8077b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698c669b0f6f7e7a2ce822cb?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Apr 16 |
 | **[Medtronic](https://www.medtronic.com)** | **[Summer Intern - Contracts and FP&A](https://jobright.ai/jobs/info/69e0f36540a62c1fa93b5c71?utm_campaign=1055&utm_source=git)** | Brampton, Ontario, Canada | On Site | Apr 16 |
 | **[FirstOntario Credit Union](https://www.firstontario.com)** | **[Summer Legal Student](https://jobright.ai/jobs/info/69e0f04facc736112f5c0eb1?utm_campaign=1055&utm_source=git)** | Stoney Creek, ON | On Site | Apr 16 |
-| **[Deckers Brands](http://deckers.com)** | **[Summer Intern, Corporate Legal (Law Student)](https://jobright.ai/jobs/info/69a777bc76bbe83d3afadc17?utm_campaign=1055&utm_source=git)** | Santa Barbara, CA | Hybrid | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
