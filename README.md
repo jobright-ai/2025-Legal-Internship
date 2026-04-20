@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Third Party Risk Management](https://jobright.ai/jobs/info/69e5c7e07820c036924cd681?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Apr 19 |
 | **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Licensing Intern](https://jobright.ai/jobs/info/69e5526e3cfd986aa6f82696?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 19 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Overview risk landscape](https://jobright.ai/jobs/info/69e512e7f8fa2f3ec329e63c?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 19 |
 | **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | Apr 19 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698ff6e10f6f7e7a2cec3c70?utm_campaign=1055&utm_source=git)** | Middle River, MD, USA | Hybrid | Apr 19 |
+| **[LawBhoomi](https://lawbhoomi.com/)** | **[Senior Associate, Associate & Internship Opportunities at Elarra Law Offices: Apply Now!](https://jobright.ai/jobs/info/69e5c7d53cfd986aa6f829ee?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Apr 19 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/6972969f4ccbf64f8df290a8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 19 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Air & Ocean Ops Intern - Chicago, IL](https://jobright.ai/jobs/info/69e4b9f83cfd986aa6f7ffe3?utm_campaign=1055&utm_source=git)** | Melrose Park. Il, US | On Site | Apr 19 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c7175d83ea553769fe0808?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 18 |
@@ -84,6 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Global Financial Crimes and Compliance Internship (KYC Policy)  – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69e33856fcfcbd43860a5f3f?utm_campaign=1055&utm_source=git)** | 4 Chase Metrotech Ctr, Brooklyn, NY, 11245, US | On Site | Apr 18 |
 | ↳ | **[2026 Global Financial Crimes and Compliance Internship (Commercial & Investment Bank)  – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69e338442f28653593079988?utm_campaign=1055&utm_source=git)** | 545 Washington Blvd, Jersey City, NJ, 07310, US | On Site | Apr 18 |
 | **[SOURCES](https://www.sourcesbc.ca)** | **[[26-036] Lawyer and Manager](https://jobright.ai/jobs/info/69e4fdb8e0cd471b2f1223c1?utm_campaign=1055&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Apr 17 |
+| **[Keystone Law Group, P.C.](https://keystone-law.com)** | **[Associate Attorney](https://jobright.ai/jobs/info/69e5c7e13cfd986aa6f82a25?utm_campaign=1055&utm_source=git)** | Indiana, United States | Hybrid | Apr 17 |
 | **[Stantec](http://www.stantec.com)** | **[Corporate Counsel](https://jobright.ai/jobs/info/69e32f92fcfcbd43860a5459?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Apr 17 |
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Legal Affairs Intern](https://jobright.ai/jobs/info/69e2dbc3be46fa3a4ef593ab?utm_campaign=1055&utm_source=git)** | Memphis, TN | On Site | Apr 17 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69e2d78cbe46fa3a4ef59127?utm_campaign=1055&utm_source=git)** | Portland, OR | Hybrid | Apr 17 |
@@ -107,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Wavestone](https://www.wavestone.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69e27bcc3770bd5361cd8987?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 17 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Intern, Rotational Legal](https://jobright.ai/jobs/info/69e2788c5c44d4710fe25506?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 17 |
 | **[Wavestone North America](https://www.aspirant.com/)** | **[Corporate Legal Intern  (Hybrid - Pittsburgh, PA)](https://jobright.ai/jobs/info/69e28e03fcfcbd43860a36d5?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 17 |
-| **[Organon](https://www.organon.com)** | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/69e258c93ce36005badbddc2?utm_campaign=1055&utm_source=git)** | USA - New Jersey - Florham Park | On Site | Apr 17 |
-| ↳ | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/69e258c95c44d4710fe24e4a?utm_campaign=1055&utm_source=git)** | USA - Pennsylvania - Plymouth Meeting | On Site | Apr 17 |
+| **[Organon](https://www.organon.com)** | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/69e258c95c44d4710fe24e4a?utm_campaign=1055&utm_source=git)** | USA - Pennsylvania - Plymouth Meeting | On Site | Apr 17 |
+| ↳ | **[Research and Development Summer Intern – Regulatory Affairs AI/Automation](https://jobright.ai/jobs/info/69e258c93ce36005badbddc2?utm_campaign=1055&utm_source=git)** | USA - New Jersey - Florham Park | On Site | Apr 17 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[End to End Coordinator – New Graduate](https://jobright.ai/jobs/info/69c69e75aa3c2c1995e10e0d?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
 | ↳ | **[Model Risk Governance & Validation Intern – Summer 2026](https://jobright.ai/jobs/info/6971580351f726477183a3dd?utm_campaign=1055&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[Assistant Corporation Counsel I - Collections, Ownership and Administrative Litigation](https://jobright.ai/jobs/info/69c8a726b773006330b8077b?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Intern (Pro Bono)](https://jobright.ai/jobs/info/69e18135fd1c0456f3fae968?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/698c589f78b4502f12a2dd9f?utm_campaign=1055&utm_source=git)** | Windsor, CT | Hybrid | Apr 16 |
 | **[Prosecuting Attorneys Association of Michigan](https://michiganprosecutor.org/)** | **[Student Assistant Criminal Trials – Attorney General’s Office](https://jobright.ai/jobs/info/69e0ff4dff71e82d604b4b18?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Apr 16 |
-| **[Skanska](http://skanska.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69e0ff0cd612782e6114668e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/69c37b82753c101b21574e72?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
