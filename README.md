@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/69e5e35de0cd471b2f122e7c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 20 |
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Third Party Risk Management](https://jobright.ai/jobs/info/69e5c7e07820c036924cd681?utm_campaign=1055&utm_source=git)** | Stamford, CT | On Site | Apr 19 |
 | **[Moskowitz Legal Group, LLP](http://moskowitzlegalgroup.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69e5d4639b6eb37e26f7d761?utm_campaign=1055&utm_source=git)** | Hewlett, NY | On Site | Apr 19 |
 | **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Licensing Intern](https://jobright.ai/jobs/info/69e5526e3cfd986aa6f82696?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of New York](http://www1.nyc.gov)** | **[Trials Division Intern](https://jobright.ai/jobs/info/69e182c6acc736112f5c3f83?utm_campaign=1055&utm_source=git)** | Queens, NY | On Site | Apr 16 |
 | **[Cantex](https://www.cantexcc.com)** | **[Compliance Internship (22259)](https://jobright.ai/jobs/info/69e119cfacc736112f5c1e41?utm_campaign=1055&utm_source=git)** | Carrollton, TX | On Site | Apr 16 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69e1148bacc736112f5c1cdd?utm_campaign=1055&utm_source=git)** | Newark, NJ | On Site | Apr 16 |
-| **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Intern (Pro Bono)](https://jobright.ai/jobs/info/69e18135fd1c0456f3fae968?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
