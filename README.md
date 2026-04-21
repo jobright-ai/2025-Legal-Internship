@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Global Financial Crimes and Compliance Internship (Sanctions Compliance – Investigations)  – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69e6f1693aa0c4796439681c?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Apr 20 |
 | **[LG Electronics](http://www.lg.com)** | **[Intern - Legal/Compliance Team - Product Regulatory & Environmental Regulatory Affairs](https://jobright.ai/jobs/info/69cadd5f466f1e133aac804f?utm_campaign=1055&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 20 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Inspector General Intern - Summer 2026](https://jobright.ai/jobs/info/69e6c486f8fa2f3ec32a385b?utm_campaign=1055&utm_source=git)** | US - NJ, Newark | On Site | Apr 20 |
 | **[Boise State University School of Nursing](https://www.boisestate.edu/nursing/)** | **[Parking Compliance Officer](https://jobright.ai/jobs/info/69e6c0e83cfd986aa6f87767?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Apr 20 |
@@ -120,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Global Financial Crimes and Compliance Internship (Sanctions Compliance)  – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69e3d88c0ddab31db6f976df?utm_campaign=1055&utm_source=git)** | 4 Chase Metrotech Ctr, Brooklyn, NY, 11245, US | On Site | Apr 18 |
 | **[City of Chicago Department of Law](https://www.chicago.gov/city/en/depts/dol.html)** | **[Assistant Corporation Counsel Supervisor - Special Federal Litigation Division](https://jobright.ai/jobs/info/69e60cf73aa0c47964391d99?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 18 |
 | **[Corpay](https://payments.corpay.com)** | **[Corporate Dealing Internship](https://jobright.ai/jobs/info/69c715091818a24cd84cb6d0?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 18 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c7175d83ea553769fe0808?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 18 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, New York, United States | On Site | Apr 18 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, New York, United States | On Site | Apr 18 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69c7175d83ea553769fe0808?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 18 |
 | **[AFL](http://www.AFLglobal.com)** | **[AFL International Trade Intern- Summer 2026](https://jobright.ai/jobs/info/698d495ef64d441a164f508c?utm_campaign=1055&utm_source=git)** | Duncan, South Carolina, United States | On Site | Apr 18 |
 | **[Dave Pantos Esq., LLC](http://www.pantosesq.com)** | **[Law Intern](https://jobright.ai/jobs/info/69e3e529cfcea71ec9f8f956?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Apr 18 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Structure Therapeutics](https://structuretx.com/)** | **[2026 Summer Intern (Regulatory Affairs)](https://jobright.ai/jobs/info/69e42bb00ddab31db6f9798c?utm_campaign=1055&utm_source=git)** | South San Francisco, California, United States | On Site | Apr 17 |
 | ↳ | **[2026 Summer Intern (Legal)](https://jobright.ai/jobs/info/69e3d8442664c278c1dd5681?utm_campaign=1055&utm_source=git)** | South San Francisco, California, United States | On Site | Apr 17 |
 | **[Gunvor Group](https://gunvorgroup.com/en/)** | **[EPA Compliance Intern](https://jobright.ai/jobs/info/69e34e71fcfcbd43860a64cc?utm_campaign=1055&utm_source=git)** | Houston | On Site | Apr 17 |
-| **[California State University, Northridge](https://www.csun.edu/)** | **[Senior Public Records and International Travel Analyst (CSUN Employees only)](https://jobright.ai/jobs/info/69e29d1b2f28653593077533?utm_campaign=1055&utm_source=git)** | Northridge, California, United States | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
