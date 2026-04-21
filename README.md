@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Procter & Gamble](https://us.pg.com/)** | **[Beauty - Legal Summer Intern 2026](https://jobright.ai/jobs/info/69e77dce58811370cb11ce73?utm_campaign=1055&utm_source=git)** | CINCINNATI GENERAL OFFICES | On Site | Apr 21 |
 | **[Eisai US](http://us.eisai.com/)** | **[Compliance Summer Intern (Hybrid - Nutley, NJ)](https://jobright.ai/jobs/info/69dd8660f748bc5d08a60086?utm_campaign=1055&utm_source=git)** | Nutley, NJ | Hybrid | Apr 21 |
-| **[Richemont](https://www.richemont.com/)** | **[Intern, Compliance](https://jobright.ai/jobs/info/69cac287aa3c2c1995e2fdc0?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 21 |
 | **[Haleon](http://www.haleon.com/)** | **[Corporate Affairs Associate (12-month internship)](https://jobright.ai/jobs/info/69e770203aa0c4796439a08b?utm_campaign=1055&utm_source=git)** | Mississauga Standish Court | Hybrid | Apr 21 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Global Security & Resilience - Internship](https://jobright.ai/jobs/info/69e74f997820c036924d5999?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Apr 21 |
 | **[City of Barrie](https://www.barrie.ca)** | **[Court Administration Assistant (Student)](https://jobright.ai/jobs/info/69e74f1d3aa0c479643992ed?utm_campaign=1055&utm_source=git)** | Orillia, Ontario, Canada | On Site | Apr 21 |
@@ -69,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[LG Electronics](http://www.lg.com)** | **[Intern - Legal/Compliance Team - Product Regulatory & Environmental Regulatory Affairs](https://jobright.ai/jobs/info/69cadd5f466f1e133aac804f?utm_campaign=1055&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 20 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Inspector General Intern - Summer 2026](https://jobright.ai/jobs/info/69e6c486f8fa2f3ec32a385b?utm_campaign=1055&utm_source=git)** | US - NJ, Newark | On Site | Apr 20 |
 | **[Boise State University School of Nursing](https://www.boisestate.edu/nursing/)** | **[Parking Compliance Officer](https://jobright.ai/jobs/info/69e6c0e83cfd986aa6f87767?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Apr 20 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Legal Intern - M&A](https://jobright.ai/jobs/info/69e72cdbf8fa2f3ec32a6945?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Apr 20 |
-| ↳ | **[Legal Intern - M&A](https://jobright.ai/jobs/info/69e72cde7820c036924d53a9?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Remote | Apr 20 |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Legal Intern - M&A](https://jobright.ai/jobs/info/69e72cde7820c036924d53a9?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Remote | Apr 20 |
+| ↳ | **[Legal Intern - M&A](https://jobright.ai/jobs/info/69e72cdbf8fa2f3ec32a6945?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Apr 20 |
 | **[Carson Group](https://www.carsongroup.com/)** | **[Risk Management Internship/Recent Grad!](https://jobright.ai/jobs/info/69e746f0e0cd471b2f12aab8?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Apr 20 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Inspector General Intern - Summer 2026](https://jobright.ai/jobs/info/69e6b8879b6eb37e26f81d49?utm_campaign=1055&utm_source=git)** | US - NJ, Newark | On Site | Apr 20 |
 | **[Briggs and Morgan, P.A. (now Taft Law)](http://briggs.com)** | **[Law School Intern (Denver)](https://jobright.ai/jobs/info/69e6d5977820c036924d2609?utm_campaign=1055&utm_source=git)** | Denver, NC | On Site | Apr 20 |
@@ -116,8 +116,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[68064682 - SENIOR ATTORNEY](https://jobright.ai/jobs/info/69e6cf5d3cfd986aa6f87a0c?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 19 |
 | **[CareRx Corporation](http://www.carerx.ca/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69e6c0c83cfd986aa6f876d4?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 19 |
 | **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Licensing Intern](https://jobright.ai/jobs/info/69e5526e3cfd986aa6f82696?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 19 |
-| **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698ff6e10f6f7e7a2cec3c70?utm_campaign=1055&utm_source=git)** | Middle River, MD, USA | Hybrid | Apr 19 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | Apr 19 |
+| **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | Apr 19 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698ff6e10f6f7e7a2cec3c70?utm_campaign=1055&utm_source=git)** | Middle River, MD, USA | Hybrid | Apr 19 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Summer 2026 Legal Intern](https://jobright.ai/jobs/info/69ab937b7e1fab39d3830154?utm_campaign=1055&utm_source=git)** | Topeka, KS | Hybrid | Apr 19 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/6972969f4ccbf64f8df290a8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 19 |
 | **[University of Southern California](http://www.usc.edu)** | **[Staff Attorney, Immigration Clinic](https://jobright.ai/jobs/info/68c2afd65001f8077bf5d312?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Apr 19 |
@@ -139,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[AFL](http://www.AFLglobal.com)** | **[AFL International Trade Intern- Summer 2026](https://jobright.ai/jobs/info/698d495ef64d441a164f508c?utm_campaign=1055&utm_source=git)** | Duncan, South Carolina, United States | On Site | Apr 18 |
 | **[Dave Pantos Esq., LLC](http://www.pantosesq.com)** | **[Law Intern](https://jobright.ai/jobs/info/69e3e529cfcea71ec9f8f956?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Apr 18 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Risk Department](https://jobright.ai/jobs/info/69c6cd191818a24cd84c8a69?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 18 |
-| ↳ | **[Fall Intern 2026 - Risk Department](https://jobright.ai/jobs/info/69d41cd5cfdc6132f9457d82?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Apr 18 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Risk Department](https://jobright.ai/jobs/info/69d41cd5cfdc6132f9457d82?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Apr 18 |
+| ↳ | **[Fall Intern 2026 - Risk Department](https://jobright.ai/jobs/info/69c6cd191818a24cd84c8a69?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 18 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Risk Management & Insurance Intern](https://jobright.ai/jobs/info/69a984057f9271426f8864b8?utm_campaign=1055&utm_source=git)** | Shreveport, LA | On Site | Apr 18 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69a5f4940da45516f16ec0ef?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 18 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Global Financial Crimes and Compliance Internship (Coverage Strategy)  – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69e34514fcfcbd43860a5fc7?utm_campaign=1055&utm_source=git)** | 545 Washington Blvd, Jersey City, NJ, 07310, US | On Site | Apr 18 |
