@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Procter & Gamble](https://us.pg.com/)** | **[Beauty - Legal Summer Intern 2026](https://jobright.ai/jobs/info/69e79b027820c036924d75ea?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Apr 21 |
+| **[Leviton](https://www.leviton.com)** | **[Intern, Environmental Compliance (Year-Round)](https://jobright.ai/jobs/info/69cac7741b5ad028873a4bf3?utm_campaign=1055&utm_source=git)** | Melville, NY | On Site | Apr 21 |
 | **[Prime Medicine, Inc.](https://www.primemedicine.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69e7893b58811370cb11d42a?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Apr 21 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Beauty - Legal Summer Intern 2026](https://jobright.ai/jobs/info/69e77dce58811370cb11ce73?utm_campaign=1055&utm_source=git)** | CINCINNATI GENERAL OFFICES | On Site | Apr 21 |
 | **[Eisai US](http://us.eisai.com/)** | **[Compliance Summer Intern (Hybrid - Nutley, NJ)](https://jobright.ai/jobs/info/69dd8660f748bc5d08a60086?utm_campaign=1055&utm_source=git)** | Nutley, NJ | Hybrid | Apr 21 |
@@ -119,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Licensing Intern](https://jobright.ai/jobs/info/69e5526e3cfd986aa6f82696?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 19 |
 | **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698ff6e10f6f7e7a2cec3c70?utm_campaign=1055&utm_source=git)** | Middle River, MD, USA | Hybrid | Apr 19 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | Apr 19 |
+| **[LawBhoomi](https://lawbhoomi.com/)** | **[Associate & Legal Internship Opportunities at Buttan & Associates: Apply Now!](https://jobright.ai/jobs/info/69e7936c3aa0c4796439abf2?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Apr 19 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Summer 2026 Legal Intern](https://jobright.ai/jobs/info/69ab937b7e1fab39d3830154?utm_campaign=1055&utm_source=git)** | Topeka, KS | Hybrid | Apr 19 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/6972969f4ccbf64f8df290a8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 19 |
 | **[University of Southern California](http://www.usc.edu)** | **[Staff Attorney, Immigration Clinic](https://jobright.ai/jobs/info/68c2afd65001f8077bf5d312?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Apr 19 |
@@ -135,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Global Financial Crimes and Compliance Internship (Sanctions Compliance)  – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69e3d88c0ddab31db6f976df?utm_campaign=1055&utm_source=git)** | 4 Chase Metrotech Ctr, Brooklyn, NY, 11245, US | On Site | Apr 18 |
 | **[City of Chicago Department of Law](https://www.chicago.gov/city/en/depts/dol.html)** | **[Assistant Corporation Counsel Supervisor - Special Federal Litigation Division](https://jobright.ai/jobs/info/69e60cf73aa0c47964391d99?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 18 |
 | **[Corpay](https://payments.corpay.com)** | **[Corporate Dealing Internship](https://jobright.ai/jobs/info/69c715091818a24cd84cb6d0?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 18 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c7175d83ea553769fe0808?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 18 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, New York, United States | On Site | Apr 18 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, New York, United States | On Site | Apr 18 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69c7175d83ea553769fe0808?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 18 |
 | **[AFL](http://www.AFLglobal.com)** | **[AFL International Trade Intern- Summer 2026](https://jobright.ai/jobs/info/698d495ef64d441a164f508c?utm_campaign=1055&utm_source=git)** | Duncan, South Carolina, United States | On Site | Apr 18 |
 | **[Dave Pantos Esq., LLC](http://www.pantosesq.com)** | **[Law Intern](https://jobright.ai/jobs/info/69e3e529cfcea71ec9f8f956?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Apr 18 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gunvor Group](https://gunvorgroup.com/en/)** | **[EPA Compliance Intern](https://jobright.ai/jobs/info/69e650d1f8fa2f3ec32a0c79?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 17 |
 | **[Keystone Law Group, P.C.](https://keystone-law.com)** | **[Associate Attorney](https://jobright.ai/jobs/info/69e5c7e13cfd986aa6f82a25?utm_campaign=1055&utm_source=git)** | Indiana, United States | Hybrid | Apr 17 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Senior Compliance Officer](https://jobright.ai/jobs/info/69e651893cfd986aa6f84ba5?utm_campaign=1055&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Apr 17 |
-| **[Stantec](http://www.stantec.com)** | **[Corporate Counsel](https://jobright.ai/jobs/info/69e32f92fcfcbd43860a5459?utm_campaign=1055&utm_source=git)** | Orlando, FL | Hybrid | Apr 17 |
-| ↳ | **[Corporate Counsel](https://jobright.ai/jobs/info/69e65168e0cd471b2f124c6c?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Apr 17 |
-| ↳ | **[Corporate Counsel](https://jobright.ai/jobs/info/69e651333aa0c4796439333c?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
