@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Corporate Investigation Services Intern (8 Months)](https://jobright.ai/jobs/info/69e7eb9ef8fa2f3ec32aa77e?utm_campaign=1055&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Apr 21 |
+| **[TransMedics, Inc.](http://www.transmedics.com/wt/home/index)** | **[Legal Team Intern](https://jobright.ai/jobs/info/69e7f7b10a6e09555302d56f?utm_campaign=1055&utm_source=git)** | Andover, MA | On Site | Apr 21 |
+| **[Crown Asset Management, LLC](https://www.crownasset.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69e7f0377820c036924d9406?utm_campaign=1055&utm_source=git)** | Duluth, GA | On Site | Apr 21 |
+| **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Corporate Investigation Services Intern (8 Months)](https://jobright.ai/jobs/info/69e7eb9ef8fa2f3ec32aa786?utm_campaign=1055&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Apr 21 |
 | **[Leidos](https://www.leidos.com)** | **[Ethics & Business Integrity Intern](https://jobright.ai/jobs/info/69e7ea7558811370cb11f4cd?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Apr 21 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Legal Services Intern](https://jobright.ai/jobs/info/69e7e4827820c036924d8e17?utm_campaign=1055&utm_source=git)** | Baltimore, MD | Hybrid | Apr 21 |
-| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Legal Intern Fall 2026 - Spring 2027 (Atlantic/Cape May, Various Divisions)](https://jobright.ai/jobs/info/69e7e30858811370cb11f0ef?utm_campaign=1055&utm_source=git)** | Cape May, NJ | Hybrid | Apr 21 |
 | **[Prime Medicine, Inc.](https://www.primemedicine.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69e7e21d58811370cb11f03b?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Apr 21 |
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998e38be0bddb6acac7cdeb?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Apr 21 |
 | ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998dd72ce78e77b4fdd6d60?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Apr 21 |
@@ -77,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Washington State Office of the Insurance Commissioner](https://www.insurance.wa.gov/)** | **[Administrative Intern I - ENFORCEMENT UNIT (Legal Affairs)](https://jobright.ai/jobs/info/69e7aff67820c036924d7c5e?utm_campaign=1055&utm_source=git)** | Olympia, WA | On Site | Apr 21 |
 | **[WM India](https://www.wm.com/us/en/inside-wm/who-we-are/wm-india)** | **[Environmental Compliance Summer Intern](https://jobright.ai/jobs/info/69e7af49e0cd471b2f12cec6?utm_campaign=1055&utm_source=git)** | Germantown, WI, United States | Hybrid | Apr 21 |
 | **[WM](https://www.wm.com/)** | **[Environmental Compliance Summer Intern](https://jobright.ai/jobs/info/69e7af49e0cd471b2f12cec8?utm_campaign=1055&utm_source=git)** | W132 N10487 GRANT DRIVE, GERMANTOWN, WI, 53022, US | Hybrid | Apr 21 |
-| **[TransMedics, Inc.](http://www.transmedics.com/wt/home/index)** | **[Legal Team Intern](https://jobright.ai/jobs/info/69e7a98b58811370cb11de15?utm_campaign=1055&utm_source=git)** | Andover, MA | On Site | Apr 21 |
 | **[ICBC Standard Bank Plc](https://www.icbcstandard.com)** | **[Summer Intern Compliance](https://jobright.ai/jobs/info/69e7a82658811370cb11dd39?utm_campaign=1055&utm_source=git)** | NYC Metro Area | On Site | Apr 21 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Legal Services Intern](https://jobright.ai/jobs/info/69e7a2f0e0cd471b2f12cc0e?utm_campaign=1055&utm_source=git)** | Baltimore, MD USA | Hybrid | Apr 21 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Beauty - Legal Summer Intern 2026](https://jobright.ai/jobs/info/69e79b027820c036924d75ea?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Apr 21 |
