@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Compliance Intern - Summer 2026](https://jobright.ai/jobs/info/69e6ff7fe0cd471b2f128228?utm_campaign=1055&utm_source=git)** | Kansas City, MO | On Site | Apr 20 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Global Financial Crimes and Compliance Internship (Sanctions Compliance – Investigations)  – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69e6f1693aa0c4796439681c?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Apr 20 |
 | **[LG Electronics](http://www.lg.com)** | **[Intern - Legal/Compliance Team - Product Regulatory & Environmental Regulatory Affairs](https://jobright.ai/jobs/info/69cadd5f466f1e133aac804f?utm_campaign=1055&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 20 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Inspector General Intern - Summer 2026](https://jobright.ai/jobs/info/69e6c486f8fa2f3ec32a385b?utm_campaign=1055&utm_source=git)** | US - NJ, Newark | On Site | Apr 20 |
@@ -106,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69e691c47820c036924d132b?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | Apr 19 |
 | **[CareRx Corporation](http://www.carerx.ca/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69e6c0c83cfd986aa6f876d4?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 19 |
 | **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Licensing Intern](https://jobright.ai/jobs/info/69e5526e3cfd986aa6f82696?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 19 |
-| **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698ff6e10f6f7e7a2cec3c70?utm_campaign=1055&utm_source=git)** | Middle River, MD, USA | Hybrid | Apr 19 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | Apr 19 |
+| **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | Apr 19 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698ff6e10f6f7e7a2cec3c70?utm_campaign=1055&utm_source=git)** | Middle River, MD, USA | Hybrid | Apr 19 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/6972969f4ccbf64f8df290a8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 19 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Air & Ocean Ops Intern - Chicago, IL](https://jobright.ai/jobs/info/69e4b9f83cfd986aa6f7ffe3?utm_campaign=1055&utm_source=git)** | Melrose Park. Il, US | On Site | Apr 19 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Global Financial Crimes and Compliance Internship (Sanctions Compliance)  – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69e602dd3aa0c47964391b72?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Apr 19 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Global Financial Crimes and Compliance Internship (KYC Policy)  – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69e60d193cfd986aa6f837d6?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Apr 18 |
 | ↳ | **[2026 Global Financial Crimes and Compliance Internship (Commercial & Investment Bank)  – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69e60d1b7820c036924ce29c?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | On Site | Apr 18 |
 | ↳ | **[2026 Global Financial Crimes and Compliance Internship (Coverage Strategy)  – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69e60d30e0cd471b2f1237ca?utm_campaign=1055&utm_source=git)** | Jersey City, NJ | On Site | Apr 18 |
-| **[Guest Services, Inc.](http://www.guestservices.com)** | **[Summer Intern for Compliance - Corporate Office, Fairfax, VA](https://jobright.ai/jobs/info/69e60d319b6eb37e26f7e081?utm_campaign=1055&utm_source=git)** | Virginia, United States | On Site | Apr 18 |
-| ↳ | **[Summer Intern for Compliance - Corporate Office, Fairfax, VA](https://jobright.ai/jobs/info/69bad47f06c1ba00c54d21ca?utm_campaign=1055&utm_source=git)** | Fairfax, VA | On Site | Apr 18 |
+| **[Guest Services, Inc.](http://www.guestservices.com)** | **[Summer Intern for Compliance - Corporate Office, Fairfax, VA](https://jobright.ai/jobs/info/69bad47f06c1ba00c54d21ca?utm_campaign=1055&utm_source=git)** | Fairfax, VA | On Site | Apr 18 |
+| ↳ | **[Summer Intern for Compliance - Corporate Office, Fairfax, VA](https://jobright.ai/jobs/info/69e60d319b6eb37e26f7e081?utm_campaign=1055&utm_source=git)** | Virginia, United States | On Site | Apr 18 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Global Financial Crimes and Compliance Internship (Sanctions Compliance)  – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69e3d88c0ddab31db6f976df?utm_campaign=1055&utm_source=git)** | 4 Chase Metrotech Ctr, Brooklyn, NY, 11245, US | On Site | Apr 18 |
 | **[City of Chicago Department of Law](https://www.chicago.gov/city/en/depts/dol.html)** | **[Assistant Corporation Counsel Supervisor - Special Federal Litigation Division](https://jobright.ai/jobs/info/69e60cf73aa0c47964391d99?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 18 |
 | **[Corpay](https://payments.corpay.com)** | **[Corporate Dealing Internship](https://jobright.ai/jobs/info/69c715091818a24cd84cb6d0?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69e6513de0cd471b2f124ba6?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 17 |
 | **[Structure Therapeutics](https://structuretx.com/)** | **[2026 Summer Intern (Regulatory Affairs)](https://jobright.ai/jobs/info/69e42bb00ddab31db6f9798c?utm_campaign=1055&utm_source=git)** | South San Francisco, California, United States | On Site | Apr 17 |
 | ↳ | **[2026 Summer Intern (Legal)](https://jobright.ai/jobs/info/69e3d8442664c278c1dd5681?utm_campaign=1055&utm_source=git)** | South San Francisco, California, United States | On Site | Apr 17 |
-| **[Gunvor Group](https://gunvorgroup.com/en/)** | **[EPA Compliance Intern](https://jobright.ai/jobs/info/69e34e71fcfcbd43860a64cc?utm_campaign=1055&utm_source=git)** | Houston | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
