@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Law Student Intern, Office of the General Counsel](https://jobright.ai/jobs/info/69e7ce8be0cd471b2f12d8e5?utm_campaign=1055&utm_source=git)** | Somerville-MA | Hybrid | Apr 21 |
+| **[LG Electronics North America](https://www.lg.com/us)** | **[Intern - Legal/Compliance Team - Product Regulatory & Environmental Regulatory Affairs](https://jobright.ai/jobs/info/69cb01d91b5ad028873a795b?utm_campaign=1055&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 21 |
+| **[State of Oregon](https://www.oregon.gov)** | **[Student Intern](https://jobright.ai/jobs/info/69e7c66f3aa0c4796439bb77?utm_campaign=1055&utm_source=git)** | Portland | OMB | Hybrid | Apr 21 |
 | **[WM](https://www.wm.com/)** | **[Environmental Compliance Summer Intern](https://jobright.ai/jobs/info/69e7b8487820c036924d7e9d?utm_campaign=1055&utm_source=git)** | Germantown, WI | Hybrid | Apr 21 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Regulatory and Licensing Summer Business Internship](https://jobright.ai/jobs/info/69e7b82c7820c036924d7e37?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 21 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Legal Team - Intern](https://jobright.ai/jobs/info/69cc19b8cdb525785fb79849?utm_campaign=1055&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 21 |
-| ↳ | **[Intern - Legal/Compliance Team - Product Regulatory & Environmental Regulatory Affairs](https://jobright.ai/jobs/info/69cb01d91b5ad028873a795b?utm_campaign=1055&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 21 |
 | **[Washington State Office of the Insurance Commissioner](https://www.insurance.wa.gov/)** | **[Administrative Intern I - ENFORCEMENT UNIT (Legal Affairs)](https://jobright.ai/jobs/info/69e7aff67820c036924d7c5e?utm_campaign=1055&utm_source=git)** | Olympia, WA | On Site | Apr 21 |
 | **[WM India](https://www.wm.com/us/en/inside-wm/who-we-are/wm-india)** | **[Environmental Compliance Summer Intern](https://jobright.ai/jobs/info/69e7af49e0cd471b2f12cec6?utm_campaign=1055&utm_source=git)** | Germantown, WI, United States | Hybrid | Apr 21 |
 | **[WM](https://www.wm.com/)** | **[Environmental Compliance Summer Intern](https://jobright.ai/jobs/info/69e7af49e0cd471b2f12cec8?utm_campaign=1055&utm_source=git)** | W132 N10487 GRANT DRIVE, GERMANTOWN, WI, 53022, US | Hybrid | Apr 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AFL](http://www.AFLglobal.com)** | **[AFL International Trade Intern- Summer 2026](https://jobright.ai/jobs/info/698d495ef64d441a164f508c?utm_campaign=1055&utm_source=git)** | Duncan, South Carolina, United States | On Site | Apr 18 |
 | **[Dave Pantos Esq., LLC](http://www.pantosesq.com)** | **[Law Intern](https://jobright.ai/jobs/info/69e3e529cfcea71ec9f8f956?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Apr 18 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Risk Department](https://jobright.ai/jobs/info/69c6cd191818a24cd84c8a69?utm_campaign=1055&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 18 |
-| ↳ | **[Fall Intern 2026 - Risk Department](https://jobright.ai/jobs/info/69d41cd5cfdc6132f9457d82?utm_campaign=1055&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
