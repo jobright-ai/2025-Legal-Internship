@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prime Medicine, Inc.](https://www.primemedicine.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69e7e21d58811370cb11f03b?utm_campaign=1055&utm_source=git)** | Cambridge, MA | On Site | Apr 21 |
+| **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998e38be0bddb6acac7cdeb?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Apr 21 |
+| ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998dd72ce78e77b4fdd6d60?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Apr 21 |
+| ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998fc6181476f6176b16d43?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | Apr 21 |
+| ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998ea7be0bddb6acac7d51b?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Apr 21 |
+| **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69e7dae5f8fa2f3ec32a9d6a?utm_campaign=1055&utm_source=git)** | Secaucus, NJ | Hybrid | Apr 21 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Law Student Intern, Office of the General Counsel](https://jobright.ai/jobs/info/69e7ce8be0cd471b2f12d8e5?utm_campaign=1055&utm_source=git)** | Somerville-MA | Hybrid | Apr 21 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Intern - Legal/Compliance Team - Product Regulatory & Environmental Regulatory Affairs](https://jobright.ai/jobs/info/69cb01d91b5ad028873a795b?utm_campaign=1055&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 21 |
+| **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998f9cae0bddb6acac7eaf6?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 21 |
 | **[State of Oregon](https://www.oregon.gov)** | **[Student Intern](https://jobright.ai/jobs/info/69e7c66f3aa0c4796439bb77?utm_campaign=1055&utm_source=git)** | Portland | OMB | Hybrid | Apr 21 |
 | **[WM](https://www.wm.com/)** | **[Environmental Compliance Summer Intern](https://jobright.ai/jobs/info/69e7b8487820c036924d7e9d?utm_campaign=1055&utm_source=git)** | Germantown, WI | Hybrid | Apr 21 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Regulatory and Licensing Summer Business Internship](https://jobright.ai/jobs/info/69e7b82c7820c036924d7e37?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 21 |
@@ -133,8 +140,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[68064682 - SENIOR ATTORNEY](https://jobright.ai/jobs/info/69e6cf5d3cfd986aa6f87a0c?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 19 |
 | **[CareRx Corporation](http://www.carerx.ca/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69e6c0c83cfd986aa6f876d4?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 19 |
 | **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Licensing Intern](https://jobright.ai/jobs/info/69e5526e3cfd986aa6f82696?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 19 |
-| **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698ff6e10f6f7e7a2cec3c70?utm_campaign=1055&utm_source=git)** | Middle River, MD, USA | Hybrid | Apr 19 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | Apr 19 |
+| **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | Apr 19 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/698ff6e10f6f7e7a2cec3c70?utm_campaign=1055&utm_source=git)** | Middle River, MD, USA | Hybrid | Apr 19 |
 | **[LawBhoomi](https://lawbhoomi.com/)** | **[Associate & Legal Internship Opportunities at Buttan & Associates: Apply Now!](https://jobright.ai/jobs/info/69e7936c3aa0c4796439abf2?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Apr 19 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Summer 2026 Legal Intern](https://jobright.ai/jobs/info/69ab937b7e1fab39d3830154?utm_campaign=1055&utm_source=git)** | Topeka, KS | Hybrid | Apr 19 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/6972969f4ccbf64f8df290a8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 19 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Guest Services, Inc.](http://www.guestservices.com)** | **[Summer Intern for Compliance - Corporate Office, Fairfax, VA](https://jobright.ai/jobs/info/69bad47f06c1ba00c54d21ca?utm_campaign=1055&utm_source=git)** | Fairfax, VA | On Site | Apr 18 |
 | ↳ | **[Summer Intern for Compliance - Corporate Office, Fairfax, VA](https://jobright.ai/jobs/info/69e60d319b6eb37e26f7e081?utm_campaign=1055&utm_source=git)** | Virginia, United States | On Site | Apr 18 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Global Financial Crimes and Compliance Internship (Sanctions Compliance)  – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69e3d88c0ddab31db6f976df?utm_campaign=1055&utm_source=git)** | 4 Chase Metrotech Ctr, Brooklyn, NY, 11245, US | On Site | Apr 18 |
-| **[City of Chicago Department of Law](https://www.chicago.gov/city/en/depts/dol.html)** | **[Assistant Corporation Counsel Supervisor - Special Federal Litigation Division](https://jobright.ai/jobs/info/69e60cf73aa0c47964391d99?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 18 |
-| **[Corpay](https://payments.corpay.com)** | **[Corporate Dealing Internship](https://jobright.ai/jobs/info/69c715091818a24cd84cb6d0?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 18 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69c7175d83ea553769fe0808?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 18 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, New York, United States | On Site | Apr 18 |
-| **[AFL](http://www.AFLglobal.com)** | **[AFL International Trade Intern- Summer 2026](https://jobright.ai/jobs/info/698d495ef64d441a164f508c?utm_campaign=1055&utm_source=git)** | Duncan, South Carolina, United States | On Site | Apr 18 |
-| **[Dave Pantos Esq., LLC](http://www.pantosesq.com)** | **[Law Intern](https://jobright.ai/jobs/info/69e3e529cfcea71ec9f8f956?utm_campaign=1055&utm_source=git)** | Omaha, NE | On Site | Apr 18 |
-| **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
