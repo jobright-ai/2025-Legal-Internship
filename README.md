@@ -58,11 +58,12 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Darktrace](https://www.darktrace.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69e921394b0fa35a7076c025?utm_campaign=1055&utm_source=git)** | Austin Office, US | Hybrid | Apr 22 |
+| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69a65416e567421f42575353?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, US | Hybrid | Apr 22 |
+| **[State Street](https://www.statestreet.com/)** | **[State Street - ​Global Corporate Secretarial and Administration Team - Summer Internship 2026](https://jobright.ai/jobs/info/69dfb7fdaba61f141731cf0d?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 22 |
 | **[Justice Resource Institute](https://jri.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69e9090e7820c036924e4baf?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 22 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/69e9040a58811370cb129efc?utm_campaign=1055&utm_source=git)** | McLean, VA, US | On Site | Apr 22 |
 | **[Utah County Government](https://www.utahcounty.gov)** | **[Legal Assistant I](https://jobright.ai/jobs/info/69e923a7e0cd471b2f13affb?utm_campaign=1055&utm_source=git)** | Provo, UT | On Site | Apr 22 |
-| **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69e91f8558811370cb12a5a4?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Apr 22 |
-| ↳ | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69cc56728130af1ac8337fca?utm_campaign=1055&utm_source=git)** | Tustin, California | On Site | Apr 22 |
+| **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69cc56728130af1ac8337fca?utm_campaign=1055&utm_source=git)** | Tustin, California | On Site | Apr 22 |
+| ↳ | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69e91f8558811370cb12a5a4?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Apr 22 |
 | **[Calix](http://www.calix.com)** | **[Intellectual Property /Products Legal Intern](https://jobright.ai/jobs/info/69cc292a366bb95ba54ede3a?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 22 |
 | **[First American](http://www.firstam.com)** | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69cca3f48130af1ac833d98a?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
 | ↳ | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69d5f825891d7b11cfd07384?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
@@ -82,7 +83,7 @@ For a complete list, click the following sortable link below:
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Legal Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/69e870014b0fa35a70766827?utm_campaign=1055&utm_source=git)** | 200 North Walker, Oklahoma City, OK, 73102, US | On Site | Apr 21 |
 | **[RegASK](https://regask.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/69e8b4ad0a6e0955530360d2?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 21 |
 | **[City of Fort Worth](https://www.fortworthtexas.gov)** | **[Regulatory Environmental Intern](https://jobright.ai/jobs/info/69e848790a6e09555302fb4e?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Apr 21 |
-| **[Portland State University, College of Urban and Public Affairs](https://www.pdx.edu/urban-public-affairs/)** | **[2026 SPPE Immigration Fellowship](https://jobright.ai/jobs/info/69e79b153aa0c4796439af26?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Apr 21 |
+| **[Portland State University, College of Urban and Public Affairs](https://www.pdx.edu/urban-public-affairs/)** | **[2026 SPPE Immigration Fellowship](https://jobright.ai/jobs/info/69e864eb0a6e09555303359c?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Apr 21 |
 | **[Caps Direct](https://www.capsdirect.com)** | **[Intern - Compliance & Sustainability](https://jobright.ai/jobs/info/69e8b1907820c036924e18fe?utm_campaign=1055&utm_source=git)** | Overland Park, KS, US | On Site | Apr 21 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Corporate Investigation Services Intern (8 Months)](https://jobright.ai/jobs/info/69e848fb3aa0c4796439eca2?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 21 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) - Government Property Specialist (Supply Chain) Intern](https://jobright.ai/jobs/info/69e848d958811370cb1220ff?utm_campaign=1055&utm_source=git)** | Beavercreek, OH | Hybrid | Apr 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Continental](https://www.continental.com)** | **[Intern – Legal / U.S. Intellectual Property, Summer 2026](https://jobright.ai/jobs/info/69e6a18b9b6eb37e26f81778?utm_campaign=1055&utm_source=git)** | OH-21, Cleveland, OH, USA | Hybrid | Apr 20 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Custody and Complex Operations Team - Risk Monitoring Intern - Summer 2026](https://jobright.ai/jobs/info/69e658a4e0cd471b2f125216?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts | On Site | Apr 20 |
 | **[PSEG Long Island LLC](https://www.psegliny.com)** | **[2001B Staff Intern - Business](https://jobright.ai/jobs/info/69e6a18b9b6eb37e26f8177e?utm_campaign=1055&utm_source=git)** | Hicksville, NY, US | Hybrid | Apr 20 |
-| **[IDEMIA](https://www.idemia.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69e69ed03cfd986aa6f86f5c?utm_campaign=1055&utm_source=git)** | VA Chantilly Office | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
