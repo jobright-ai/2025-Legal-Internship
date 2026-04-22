@@ -59,11 +59,12 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Law Student Intern, Office of the General Counsel](https://jobright.ai/jobs/info/69e827b6e0cd471b2f12fcc5?utm_campaign=1055&utm_source=git)** | Somerville, MA | Hybrid | Apr 21 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[UTS - Temporary Paralegal at NC State](https://jobright.ai/jobs/info/69d6c1d752a5bf580012bd75?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Apr 21 |
+| **[FirstCash](https://firstcash.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69e843ca58811370cb120ff5?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Apr 21 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Summer 2026 - Adoption Records Internship](https://jobright.ai/jobs/info/69e82206e0cd471b2f12fa97?utm_campaign=1055&utm_source=git)** | Jackson, MS | On Site | Apr 21 |
 | **[TransMedics, Inc.](http://www.transmedics.com/wt/home/index)** | **[Legal Team Intern](https://jobright.ai/jobs/info/69e7f7b10a6e09555302d56f?utm_campaign=1055&utm_source=git)** | Andover, MA | On Site | Apr 21 |
 | **[UJA Federation of Greater Toronto](https://www.jewishtoronto.com/)** | **[Law Student](https://jobright.ai/jobs/info/69e819317820c036924da44c?utm_campaign=1055&utm_source=git)** | North York, Ontario, Canada | Hybrid | Apr 21 |
 | **[Crown Asset Management, LLC](https://www.crownasset.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69e7f0377820c036924d9406?utm_campaign=1055&utm_source=git)** | Duluth, GA | On Site | Apr 21 |
-| **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Corporate Investigation Services Intern (8 Months)](https://jobright.ai/jobs/info/69e7eb9ef8fa2f3ec32aa786?utm_campaign=1055&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Apr 21 |
+| **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Corporate Investigation Services Intern (8 Months)](https://jobright.ai/jobs/info/69e7eb9ef8fa2f3ec32aa77e?utm_campaign=1055&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Apr 21 |
 | **[Leidos](https://www.leidos.com)** | **[Ethics & Business Integrity Intern](https://jobright.ai/jobs/info/69e7ea7558811370cb11f4cd?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Apr 21 |
 | **[Cellanome](https://cellanome.com)** | **[2026 Summer Intern - Intellectual Property](https://jobright.ai/jobs/info/69e8049b58811370cb11fca8?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Apr 21 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Legal Services Intern](https://jobright.ai/jobs/info/69e7e4827820c036924d8e17?utm_campaign=1055&utm_source=git)** | Baltimore, MD | Hybrid | Apr 21 |
@@ -102,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[LG Electronics](http://www.lg.com)** | **[Intern - Legal/Compliance Team - Product Regulatory & Environmental Regulatory Affairs](https://jobright.ai/jobs/info/69cadd5f466f1e133aac804f?utm_campaign=1055&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 20 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Inspector General Intern - Summer 2026](https://jobright.ai/jobs/info/69e6c486f8fa2f3ec32a385b?utm_campaign=1055&utm_source=git)** | US - NJ, Newark | On Site | Apr 20 |
 | **[Boise State University School of Nursing](https://www.boisestate.edu/nursing/)** | **[Parking Compliance Officer](https://jobright.ai/jobs/info/69e6c0e83cfd986aa6f87767?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Apr 20 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Legal Intern - M&A](https://jobright.ai/jobs/info/69e72cde7820c036924d53a9?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Remote | Apr 20 |
-| ↳ | **[Legal Intern - M&A](https://jobright.ai/jobs/info/69e72cdbf8fa2f3ec32a6945?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Apr 20 |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Legal Intern - M&A](https://jobright.ai/jobs/info/69e72cdbf8fa2f3ec32a6945?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Apr 20 |
+| ↳ | **[Legal Intern - M&A](https://jobright.ai/jobs/info/69e72cde7820c036924d53a9?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Remote | Apr 20 |
 | **[Carson Group](https://www.carsongroup.com/)** | **[Risk Management Internship/Recent Grad!](https://jobright.ai/jobs/info/69e746f0e0cd471b2f12aab8?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Apr 20 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Inspector General Intern - Summer 2026](https://jobright.ai/jobs/info/69e6b8879b6eb37e26f81d49?utm_campaign=1055&utm_source=git)** | US - NJ, Newark | On Site | Apr 20 |
 | **[Briggs and Morgan, P.A. (now Taft Law)](http://briggs.com)** | **[Law School Intern (Denver)](https://jobright.ai/jobs/info/69e6d5977820c036924d2609?utm_campaign=1055&utm_source=git)** | Denver, NC | On Site | Apr 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Summer 2026 Legal Intern](https://jobright.ai/jobs/info/69ab937b7e1fab39d3830154?utm_campaign=1055&utm_source=git)** | Topeka, KS | Hybrid | Apr 19 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/6972969f4ccbf64f8df290a8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 19 |
 | **[University of Southern California](http://www.usc.edu)** | **[Staff Attorney, Immigration Clinic](https://jobright.ai/jobs/info/68c2afd65001f8077bf5d312?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Apr 19 |
-| **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Air & Ocean Ops Intern - Chicago, IL](https://jobright.ai/jobs/info/69e4b9f83cfd986aa6f7ffe3?utm_campaign=1055&utm_source=git)** | Melrose Park. Il, US | On Site | Apr 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
