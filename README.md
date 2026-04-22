@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Darktrace](https://www.darktrace.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69e921394b0fa35a7076c025?utm_campaign=1055&utm_source=git)** | Austin Office, US | Hybrid | Apr 22 |
 | **[Justice Resource Institute](https://jri.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69e9090e7820c036924e4baf?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 22 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/69e9040a58811370cb129efc?utm_campaign=1055&utm_source=git)** | McLean, VA, US | On Site | Apr 22 |
-| **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69cc56728130af1ac8337fca?utm_campaign=1055&utm_source=git)** | Tustin, California | On Site | Apr 22 |
+| **[Utah County Government](https://www.utahcounty.gov)** | **[Legal Assistant I](https://jobright.ai/jobs/info/69e923a7e0cd471b2f13affb?utm_campaign=1055&utm_source=git)** | Provo, UT | On Site | Apr 22 |
+| **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69e91f8558811370cb12a5a4?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Apr 22 |
+| ↳ | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69cc56728130af1ac8337fca?utm_campaign=1055&utm_source=git)** | Tustin, California | On Site | Apr 22 |
 | **[Calix](http://www.calix.com)** | **[Intellectual Property /Products Legal Intern](https://jobright.ai/jobs/info/69cc292a366bb95ba54ede3a?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 22 |
-| **[First American](http://www.firstam.com)** | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69d5f825891d7b11cfd07384?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
+| **[First American](http://www.firstam.com)** | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69cca3f48130af1ac833d98a?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
+| ↳ | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69d5f825891d7b11cfd07384?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
 | **[Fordham University](https://www.fordham.edu/)** | **[Legal Assistant, Lvl 7](https://jobright.ai/jobs/info/69b097f90b2db6275c04d322?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer 2026 Regulatory Policy Intern](https://jobright.ai/jobs/info/69d5e843e63cea7a8b666168?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Apr 22 |
 | **[Axiom](http://www.axiomlaw.com)** | **[Labor & Employment Counsel – Hybrid (Wilmington, MA)](https://jobright.ai/jobs/info/69d030530b098b7a670774bd?utm_campaign=1055&utm_source=git)** | Wilmington, MA | Hybrid | Apr 22 |
@@ -80,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[City of Fort Worth](https://www.fortworthtexas.gov)** | **[Regulatory Environmental Intern](https://jobright.ai/jobs/info/69e848790a6e09555302fb4e?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Apr 21 |
 | **[Portland State University, College of Urban and Public Affairs](https://www.pdx.edu/urban-public-affairs/)** | **[2026 SPPE Immigration Fellowship](https://jobright.ai/jobs/info/69e79b153aa0c4796439af26?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Apr 21 |
 | **[Caps Direct](https://www.capsdirect.com)** | **[Intern - Compliance & Sustainability](https://jobright.ai/jobs/info/69e8b1907820c036924e18fe?utm_campaign=1055&utm_source=git)** | Overland Park, KS, US | On Site | Apr 21 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Law Student Intern, Office of the General Counsel](https://jobright.ai/jobs/info/69e827b6e0cd471b2f12fcc5?utm_campaign=1055&utm_source=git)** | Somerville, MA | Hybrid | Apr 21 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Corporate Investigation Services Intern (8 Months)](https://jobright.ai/jobs/info/69e848fb3aa0c4796439eca2?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 21 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) - Government Property Specialist (Supply Chain) Intern](https://jobright.ai/jobs/info/69e848d958811370cb1220ff?utm_campaign=1055&utm_source=git)** | Beavercreek, OH | Hybrid | Apr 21 |
 | ↳ | **[National Security Solutions (NSS) - Government Property Specialist (Supply Chain) Intern](https://jobright.ai/jobs/info/69e848b67820c036924db9aa?utm_campaign=1055&utm_source=git)** | Ann Arbor, MI | Hybrid | Apr 21 |
@@ -104,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Interparfums, Inc.](http://www.interparfumsinc.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69e806b77820c036924d9b07?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
 | **[LLH Healthcare](https://www.livelifehealthy.com)** | **[Paralegal Intern](https://jobright.ai/jobs/info/69e8b1857820c036924e18c8?utm_campaign=1055&utm_source=git)** | Birmingham, AL, US | On Site | Apr 21 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69e7dae5f8fa2f3ec32a9d6a?utm_campaign=1055&utm_source=git)** | Secaucus, NJ | Hybrid | Apr 21 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Law Student Intern, Office of the General Counsel](https://jobright.ai/jobs/info/69e7ce8be0cd471b2f12d8e5?utm_campaign=1055&utm_source=git)** | Somerville-MA | Hybrid | Apr 21 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Intern - Legal/Compliance Team - Product Regulatory & Environmental Regulatory Affairs](https://jobright.ai/jobs/info/69cb01d91b5ad028873a795b?utm_campaign=1055&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 21 |
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998f9cae0bddb6acac7eaf6?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 21 |
 | **[State of Oregon](https://www.oregon.gov)** | **[Student Intern](https://jobright.ai/jobs/info/69e7c66f3aa0c4796439bb77?utm_campaign=1055&utm_source=git)** | Portland | OMB | Hybrid | Apr 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Custody and Complex Operations Team - Risk Monitoring Intern - Summer 2026](https://jobright.ai/jobs/info/69e658a4e0cd471b2f125216?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts | On Site | Apr 20 |
 | **[PSEG Long Island LLC](https://www.psegliny.com)** | **[2001B Staff Intern - Business](https://jobright.ai/jobs/info/69e6a18b9b6eb37e26f8177e?utm_campaign=1055&utm_source=git)** | Hicksville, NY, US | Hybrid | Apr 20 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69e69ed03cfd986aa6f86f5c?utm_campaign=1055&utm_source=git)** | VA Chantilly Office | On Site | Apr 20 |
-| **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Pro Bono Summer 2026 Undergraduate Student Internship](https://jobright.ai/jobs/info/69e699859b6eb37e26f814c9?utm_campaign=1055&utm_source=git)** | New York City,NY,US | Hybrid | Apr 20 |
-| **[JAM Industries](https://jamindustries.com/)** | **[Legal and Compliance - Legal and Compliance Intern](https://jobright.ai/jobs/info/69e692939b6eb37e26f8116c?utm_campaign=1055&utm_source=git)** | JAM Industries, 21000 Transcanadienne, Baie D'urfe, Quebec, Canada | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
