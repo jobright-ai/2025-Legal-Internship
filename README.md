@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69ea9ccc0a6e0955530420b0?utm_campaign=1055&utm_source=git)** | West Hills, CA, US | Hybrid | Apr 23 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ea91d80a6e095553041dbd?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Apr 23 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ea758d7820c036924ee285?utm_campaign=1055&utm_source=git)** | Kirkland, WA | On Site | Apr 23 |
 | **[Lakewood Cemetery](https://www.lakewoodcemetery.org/)** | **[Variable Probation Intern](https://jobright.ai/jobs/info/69ea727458811370cb133192?utm_campaign=1055&utm_source=git)** | Lakewood, CO, US | On Site | Apr 23 |
@@ -77,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Amneal Pharmaceuticals](http://amneal.com/)** | **[2026 Summer Internship - Regulatory Affairs Clinical (Scientific Affairs) Piscataway, NJ](https://jobright.ai/jobs/info/69ea1e077820c036924ec233?utm_campaign=1055&utm_source=git)** | 1045 Centennial Avenue, Piscataway, NJ, 08854, US | On Site | Apr 23 |
 | **[Takasago International Corp. (USA)](http://www.takasago.com)** | **[Summer College Intern - Legal Department](https://jobright.ai/jobs/info/69ea3b2edc35f7132c4a8b64?utm_campaign=1055&utm_source=git)** | Rockleigh, NJ | On Site | Apr 23 |
 | **[MCPC](https://www.mcpc.com)** | **[Security Contracts Intern - Cleveland, Ohio](https://jobright.ai/jobs/info/69ea21d20a6e09555303f271?utm_campaign=1055&utm_source=git)** | Ohio, United States | On Site | Apr 23 |
-| **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/6995398ce0bddb6acac3c220?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 23 |
 | **[El Paso Water](https://www.epwater.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ea01b10a6e09555303e150?utm_campaign=1055&utm_source=git)** | El Paso, TX | On Site | Apr 23 |
 | **[New Mexico Department of Health](https://www.nmhealth.org/)** | **[Legal Intern (DOH/OGC#10118762)](https://jobright.ai/jobs/info/69e9c72958811370cb12f389?utm_campaign=1055&utm_source=git)** | Santa Fe, NM | On Site | Apr 23 |
 | **[Cochise County](https://www.cochise.az.gov/jobs)** | **[Justice Court Clerk Trainee (JP5) - Sierra Vista](https://jobright.ai/jobs/info/69e9b1d90a6e09555303d1ee?utm_campaign=1055&utm_source=git)** | Sierra Vista, AZ | On Site | Apr 22 |
@@ -96,14 +96,14 @@ For a complete list, click the following sortable link below:
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, NY | On Site | Apr 22 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/69e9416958811370cb12c23b?utm_campaign=1055&utm_source=git)** | Loveland, CO | On Site | Apr 22 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong FOIA Paralegal Intern](https://jobright.ai/jobs/info/69e9369e3aa0c479643a8613?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
-| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69e9415e58811370cb12c225?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 22 |
-| ↳ | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69a65416e567421f42575353?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, US | Hybrid | Apr 22 |
+| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69a65416e567421f42575353?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, US | Hybrid | Apr 22 |
+| ↳ | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69e9415e58811370cb12c225?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 22 |
 | **[TriNetX](http://trinetx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ea73747820c036924ede8f?utm_campaign=1055&utm_source=git)** | Cambridge, MA, USA | Hybrid | Apr 22 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Global Corporate Secretarial and Administration Team - Summer Internship 2026](https://jobright.ai/jobs/info/69dfb7fdaba61f141731cf0d?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 22 |
 | **[Justice Resource Institute](https://jri.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69e9090e7820c036924e4baf?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 22 |
 | **[Utah County Government](https://www.utahcounty.gov)** | **[Legal Assistant I](https://jobright.ai/jobs/info/69e923a7e0cd471b2f13affb?utm_campaign=1055&utm_source=git)** | Provo, UT | On Site | Apr 22 |
-| **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69cc56728130af1ac8337fca?utm_campaign=1055&utm_source=git)** | Tustin, California | On Site | Apr 22 |
-| ↳ | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69e91f8558811370cb12a5a4?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Apr 22 |
+| **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69e91f8558811370cb12a5a4?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Apr 22 |
+| ↳ | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69cc56728130af1ac8337fca?utm_campaign=1055&utm_source=git)** | Tustin, California | On Site | Apr 22 |
 | **[Calix](http://www.calix.com)** | **[Intellectual Property /Products Legal Intern](https://jobright.ai/jobs/info/69cc292a366bb95ba54ede3a?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 22 |
 | **[First American](http://www.firstam.com)** | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69cca3f48130af1ac833d98a?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
 | ↳ | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69d5f825891d7b11cfd07384?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
@@ -135,7 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Summer 2026 - Adoption Records Internship](https://jobright.ai/jobs/info/69e82206e0cd471b2f12fa97?utm_campaign=1055&utm_source=git)** | Jackson, MS | On Site | Apr 21 |
 | **[UJA Federation of Greater Toronto](https://www.jewishtoronto.com/)** | **[Law Student](https://jobright.ai/jobs/info/69e819317820c036924da44c?utm_campaign=1055&utm_source=git)** | North York, Ontario, Canada | Hybrid | Apr 21 |
 | **[Crown Asset Management, LLC](https://www.crownasset.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69e7f0377820c036924d9406?utm_campaign=1055&utm_source=git)** | Duluth, GA | On Site | Apr 21 |
-| **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Corporate Investigation Services Intern (8 Months)](https://jobright.ai/jobs/info/69e7eb9ef8fa2f3ec32aa77e?utm_campaign=1055&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Apr 21 |
+| **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Corporate Investigation Services Intern (8 Months)](https://jobright.ai/jobs/info/69e7eb9ef8fa2f3ec32aa786?utm_campaign=1055&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Apr 21 |
 | **[Leidos](https://www.leidos.com)** | **[Ethics & Business Integrity Intern](https://jobright.ai/jobs/info/69e7ea7558811370cb11f4cd?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Apr 21 |
 | **[Oregon Department of Human Services](https://www.oregon.gov/Pages/index.aspx)** | **[Student Intern](https://jobright.ai/jobs/info/69e864e7e0cd471b2f1351fa?utm_campaign=1055&utm_source=git)** | Portland, OR | Hybrid | Apr 21 |
 | **[Cellanome](https://cellanome.com)** | **[2026 Summer Intern - Intellectual Property](https://jobright.ai/jobs/info/69e8049b58811370cb11fca8?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Apr 21 |
