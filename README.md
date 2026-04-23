@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amneal Pharmaceuticals](http://amneal.com/)** | **[2026 Summer Internship - Regulatory Affairs Clinical (Scientific Affairs) Piscataway, NJ](https://jobright.ai/jobs/info/69ea1e077820c036924ec233?utm_campaign=1055&utm_source=git)** | 1045 Centennial Avenue, Piscataway, NJ, 08854, US | On Site | Apr 23 |
+| **[MCPC](https://www.mcpc.com)** | **[Security Contracts Intern - Cleveland, Ohio](https://jobright.ai/jobs/info/69ea21d20a6e09555303f271?utm_campaign=1055&utm_source=git)** | Ohio, United States | On Site | Apr 23 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/6995398ce0bddb6acac3c220?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 23 |
 | **[El Paso Water](https://www.epwater.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ea01b10a6e09555303e150?utm_campaign=1055&utm_source=git)** | El Paso, TX | On Site | Apr 23 |
 | **[New Mexico Department of Health](https://www.nmhealth.org/)** | **[Legal Intern (DOH/OGC#10118762)](https://jobright.ai/jobs/info/69e9c72958811370cb12f389?utm_campaign=1055&utm_source=git)** | Santa Fe, NM | On Site | Apr 23 |
@@ -82,11 +84,11 @@ For a complete list, click the following sortable link below:
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Global Corporate Secretarial and Administration Team - Summer Internship 2026](https://jobright.ai/jobs/info/69dfb7fdaba61f141731cf0d?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 22 |
 | **[Justice Resource Institute](https://jri.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69e9090e7820c036924e4baf?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 22 |
 | **[Utah County Government](https://www.utahcounty.gov)** | **[Legal Assistant I](https://jobright.ai/jobs/info/69e923a7e0cd471b2f13affb?utm_campaign=1055&utm_source=git)** | Provo, UT | On Site | Apr 22 |
-| **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69cc56728130af1ac8337fca?utm_campaign=1055&utm_source=git)** | Tustin, California | On Site | Apr 22 |
-| ↳ | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69e91f8558811370cb12a5a4?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Apr 22 |
+| **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69e91f8558811370cb12a5a4?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Apr 22 |
+| ↳ | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69cc56728130af1ac8337fca?utm_campaign=1055&utm_source=git)** | Tustin, California | On Site | Apr 22 |
 | **[Calix](http://www.calix.com)** | **[Intellectual Property /Products Legal Intern](https://jobright.ai/jobs/info/69cc292a366bb95ba54ede3a?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 22 |
-| **[First American](http://www.firstam.com)** | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69cca3f48130af1ac833d98a?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
-| ↳ | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69d5f825891d7b11cfd07384?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
+| **[First American](http://www.firstam.com)** | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69d5f825891d7b11cfd07384?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
+| ↳ | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69cca3f48130af1ac833d98a?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/69e9416ce0cd471b2f13c211?utm_campaign=1055&utm_source=git)** | Loveland, CO | On Site | Apr 22 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer 2026 Regulatory Policy Intern](https://jobright.ai/jobs/info/69d5e843e63cea7a8b666168?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Apr 22 |
 | **[Information Technology and Innovation Foundation](http://www.itif.org)** | **[Legal Intern, Schumpeter Project on Competition Policy](https://jobright.ai/jobs/info/69e94ef1e0cd471b2f13c8e3?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 22 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[LG Electronics](http://www.lg.com)** | **[Intern - Legal/Compliance Team - Product Regulatory & Environmental Regulatory Affairs](https://jobright.ai/jobs/info/69cadd5f466f1e133aac804f?utm_campaign=1055&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 20 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Inspector General Intern - Summer 2026](https://jobright.ai/jobs/info/69e6c486f8fa2f3ec32a385b?utm_campaign=1055&utm_source=git)** | US - NJ, Newark | On Site | Apr 20 |
 | **[Boise State University School of Nursing](https://www.boisestate.edu/nursing/)** | **[Parking Compliance Officer](https://jobright.ai/jobs/info/69e6c0e83cfd986aa6f87767?utm_campaign=1055&utm_source=git)** | Boise, ID | On Site | Apr 20 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Legal Intern - M&A](https://jobright.ai/jobs/info/69e72cdbf8fa2f3ec32a6945?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Apr 20 |
-| ↳ | **[Legal Intern - M&A](https://jobright.ai/jobs/info/69e72cde7820c036924d53a9?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Remote | Apr 20 |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Legal Intern - M&A](https://jobright.ai/jobs/info/69e72cde7820c036924d53a9?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Remote | Apr 20 |
+| ↳ | **[Legal Intern - M&A](https://jobright.ai/jobs/info/69e72cdbf8fa2f3ec32a6945?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Apr 20 |
 | **[Carson Group](https://www.carsongroup.com/)** | **[Risk Management Internship/Recent Grad!](https://jobright.ai/jobs/info/69e746f0e0cd471b2f12aab8?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Apr 20 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Inspector General Intern - Summer 2026](https://jobright.ai/jobs/info/69e6b8879b6eb37e26f81d49?utm_campaign=1055&utm_source=git)** | US - NJ, Newark | On Site | Apr 20 |
 | **[Briggs and Morgan, P.A. (now Taft Law)](http://briggs.com)** | **[Law School Intern (Denver)](https://jobright.ai/jobs/info/69e6d5977820c036924d2609?utm_campaign=1055&utm_source=git)** | Denver, NC | On Site | Apr 20 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Pro Bono Summer 2026 Undergraduate Student Internship](https://jobright.ai/jobs/info/69e7c453e0cd471b2f12d462?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
-| **[One Inc](https://www.oneinc.com)** | **[Intern, Compliance](https://jobright.ai/jobs/info/69e6ab73f8fa2f3ec32a33ad?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 20 |
-| **[ATP Tour](https://www.atptour.com/)** | **[Intern, Rules & Tournament Operations](https://jobright.ai/jobs/info/69e69eb49b6eb37e26f81694?utm_campaign=1055&utm_source=git)** | Atlantic Beach, FL | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
