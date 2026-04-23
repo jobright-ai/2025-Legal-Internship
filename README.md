@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ea63997820c036924ed5ef?utm_campaign=1055&utm_source=git)** | Kirkland, WA | On Site | Apr 23 |
+| **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ea758d7820c036924ee285?utm_campaign=1055&utm_source=git)** | Kirkland, WA | On Site | Apr 23 |
+| **[Lakewood Cemetery](https://www.lakewoodcemetery.org/)** | **[Variable Probation Intern](https://jobright.ai/jobs/info/69ea727458811370cb133192?utm_campaign=1055&utm_source=git)** | Lakewood, CO, US | On Site | Apr 23 |
+| **[Draper](https://www.draper.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/69ea6b9a3aa0c479643af93c?utm_campaign=1055&utm_source=git)** | Cambridge, MA, US | Hybrid | Apr 23 |
 | **[Medtronic](https://www.medtronic.com)** | **[Intern: Regulatory Affairs](https://jobright.ai/jobs/info/69ea5df10a6e0955530407bd?utm_campaign=1055&utm_source=git)** | Brampton, Ontario, Canada | On Site | Apr 23 |
 | **[Jupiter Power](https://www.jupiterpower.io/)** | **[Regulatory Compliance Summer Intern](https://jobright.ai/jobs/info/69ea56723aa0c479643af0f6?utm_campaign=1055&utm_source=git)** | Houston, Texas, United States | Hybrid | Apr 23 |
 | **[CAC Group](https://cacgroup.com)** | **[Intern, Complex Property & Casualty](https://jobright.ai/jobs/info/69ea47e658811370cb13236a?utm_campaign=1055&utm_source=git)** | Atlanta, Georgia, US | On Site | Apr 23 |
@@ -90,16 +92,17 @@ For a complete list, click the following sortable link below:
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, NY | On Site | Apr 22 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/69e9416958811370cb12c23b?utm_campaign=1055&utm_source=git)** | Loveland, CO | On Site | Apr 22 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong FOIA Paralegal Intern](https://jobright.ai/jobs/info/69e9369e3aa0c479643a8613?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
-| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69a65416e567421f42575353?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, US | Hybrid | Apr 22 |
-| ↳ | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69e9415e58811370cb12c225?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 22 |
+| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69e9415e58811370cb12c225?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 22 |
+| ↳ | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69a65416e567421f42575353?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, US | Hybrid | Apr 22 |
+| **[TriNetX](http://trinetx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ea73747820c036924ede8f?utm_campaign=1055&utm_source=git)** | Cambridge, MA, USA | Hybrid | Apr 22 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Global Corporate Secretarial and Administration Team - Summer Internship 2026](https://jobright.ai/jobs/info/69dfb7fdaba61f141731cf0d?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 22 |
 | **[Justice Resource Institute](https://jri.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69e9090e7820c036924e4baf?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 22 |
 | **[Utah County Government](https://www.utahcounty.gov)** | **[Legal Assistant I](https://jobright.ai/jobs/info/69e923a7e0cd471b2f13affb?utm_campaign=1055&utm_source=git)** | Provo, UT | On Site | Apr 22 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69e91f8558811370cb12a5a4?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Apr 22 |
 | ↳ | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69cc56728130af1ac8337fca?utm_campaign=1055&utm_source=git)** | Tustin, California | On Site | Apr 22 |
 | **[Calix](http://www.calix.com)** | **[Intellectual Property /Products Legal Intern](https://jobright.ai/jobs/info/69cc292a366bb95ba54ede3a?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 22 |
-| **[First American](http://www.firstam.com)** | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69cca3f48130af1ac833d98a?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
-| ↳ | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69d5f825891d7b11cfd07384?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
+| **[First American](http://www.firstam.com)** | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69d5f825891d7b11cfd07384?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
+| ↳ | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69cca3f48130af1ac833d98a?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/69e9416ce0cd471b2f13c211?utm_campaign=1055&utm_source=git)** | Loveland, CO | On Site | Apr 22 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer 2026 Regulatory Policy Intern](https://jobright.ai/jobs/info/69d5e843e63cea7a8b666168?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Apr 22 |
 | **[Information Technology and Innovation Foundation](http://www.itif.org)** | **[Legal Intern, Schumpeter Project on Competition Policy](https://jobright.ai/jobs/info/69e94ef1e0cd471b2f13c8e3?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 22 |
@@ -110,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[Ethics & Business Integrity Intern](https://jobright.ai/jobs/info/69e8b3dae0cd471b2f13797a?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Apr 22 |
 | **[Quanex](http://www.quanex.com/)** | **[Risk Management & Compliance Intern](https://jobright.ai/jobs/info/69cc64bdcfdc6132f940c049?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 22 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Corporate Law Intern](https://jobright.ai/jobs/info/69cc7f71e1921223acc76a45?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ | On Site | Apr 22 |
-| **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Apr 22 |
-| ↳ | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e8bb733aa0c479643a497b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 22 |
+| **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e8bb733aa0c479643a497b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 22 |
+| ↳ | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Apr 22 |
 | **[Career Center at Portland State University](https://www.pdx.edu/careers/)** | **[2026 SPPE Immigration Fellowship](https://jobright.ai/jobs/info/69e8b0dc58811370cb127d4c?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Apr 22 |
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Legal Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/69e870014b0fa35a70766827?utm_campaign=1055&utm_source=git)** | 200 North Walker, Oklahoma City, OK, 73102, US | On Site | Apr 21 |
 | **[RegASK](https://regask.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/69e8b4ad0a6e0955530360d2?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 21 |
@@ -128,7 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Summer 2026 - Adoption Records Internship](https://jobright.ai/jobs/info/69e82206e0cd471b2f12fa97?utm_campaign=1055&utm_source=git)** | Jackson, MS | On Site | Apr 21 |
 | **[UJA Federation of Greater Toronto](https://www.jewishtoronto.com/)** | **[Law Student](https://jobright.ai/jobs/info/69e819317820c036924da44c?utm_campaign=1055&utm_source=git)** | North York, Ontario, Canada | Hybrid | Apr 21 |
 | **[Crown Asset Management, LLC](https://www.crownasset.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69e7f0377820c036924d9406?utm_campaign=1055&utm_source=git)** | Duluth, GA | On Site | Apr 21 |
-| **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Corporate Investigation Services Intern (8 Months)](https://jobright.ai/jobs/info/69e7eb9ef8fa2f3ec32aa786?utm_campaign=1055&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Apr 21 |
+| **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Corporate Investigation Services Intern (8 Months)](https://jobright.ai/jobs/info/69e7eb9ef8fa2f3ec32aa77e?utm_campaign=1055&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Apr 21 |
 | **[Leidos](https://www.leidos.com)** | **[Ethics & Business Integrity Intern](https://jobright.ai/jobs/info/69e7ea7558811370cb11f4cd?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Apr 21 |
 | **[Oregon Department of Human Services](https://www.oregon.gov/Pages/index.aspx)** | **[Student Intern](https://jobright.ai/jobs/info/69e864e7e0cd471b2f1351fa?utm_campaign=1055&utm_source=git)** | Portland, OR | Hybrid | Apr 21 |
 | **[Cellanome](https://cellanome.com)** | **[2026 Summer Intern - Intellectual Property](https://jobright.ai/jobs/info/69e8049b58811370cb11fca8?utm_campaign=1055&utm_source=git)** | Foster City, CA | On Site | Apr 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leviton](https://www.leviton.com)** | **[Intern, Environmental Compliance (Year-Round)](https://jobright.ai/jobs/info/69cac7741b5ad028873a4bf3?utm_campaign=1055&utm_source=git)** | Melville, NY | On Site | Apr 21 |
 | **[Haleon](http://www.haleon.com/)** | **[Corporate Affairs Associate (12-month internship)](https://jobright.ai/jobs/info/69e7a2b4e0cd471b2f12cb24?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Apr 21 |
 | **[Eisai US](http://us.eisai.com/)** | **[Compliance Summer Intern (Hybrid - Nutley, NJ)](https://jobright.ai/jobs/info/69dd8660f748bc5d08a60086?utm_campaign=1055&utm_source=git)** | Nutley, NJ | Hybrid | Apr 21 |
-| **[Haleon](http://www.haleon.com/)** | **[Corporate Affairs Associate (12-month internship)](https://jobright.ai/jobs/info/69e770203aa0c4796439a08b?utm_campaign=1055&utm_source=git)** | Mississauga Standish Court | Hybrid | Apr 21 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Legal Intern - M&A](https://jobright.ai/jobs/info/69e740113aa0c479643990ab?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Remote | Apr 21 |
-| ↳ | **[Legal Intern - M&A](https://jobright.ai/jobs/info/69e74f937820c036924d597f?utm_campaign=1055&utm_source=git)** | New York, NY | Remote | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
