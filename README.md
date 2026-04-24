@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Penumbra, Inc.](http://penumbrainc.com)** | **[Legal Intern T](https://jobright.ai/jobs/info/69eaa37b58811370cb1348e0?utm_campaign=1055&utm_source=git)** | Alameda, CA | On Site | Apr 23 |
 | **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69ea9ccc0a6e0955530420b0?utm_campaign=1055&utm_source=git)** | West Hills, CA, US | Hybrid | Apr 23 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ea91d80a6e095553041dbd?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Apr 23 |
+| **[Sedgwick](http://www.sedgwick.com)** | **[Property Adjuster Trainee](https://jobright.ai/jobs/info/69eaffe516b2612c2a1184b9?utm_campaign=1055&utm_source=git)** | Addison, TX | On Site | Apr 23 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ea758d7820c036924ee285?utm_campaign=1055&utm_source=git)** | Kirkland, WA | On Site | Apr 23 |
 | **[Lakewood Cemetery](https://www.lakewoodcemetery.org/)** | **[Variable Probation Intern](https://jobright.ai/jobs/info/69ea727458811370cb133192?utm_campaign=1055&utm_source=git)** | Lakewood, CO, US | On Site | Apr 23 |
 | **[Jupiter Power](https://www.jupiterpower.io/)** | **[Regulatory Compliance Summer Intern](https://jobright.ai/jobs/info/69eae81416b2612c2a118175?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Apr 23 |
@@ -97,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, NY | On Site | Apr 22 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/69e9416958811370cb12c23b?utm_campaign=1055&utm_source=git)** | Loveland, CO | On Site | Apr 22 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong FOIA Paralegal Intern](https://jobright.ai/jobs/info/69e9369e3aa0c479643a8613?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
-| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69e9415e58811370cb12c225?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 22 |
-| ↳ | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69a65416e567421f42575353?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, US | Hybrid | Apr 22 |
+| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69a65416e567421f42575353?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, US | Hybrid | Apr 22 |
+| ↳ | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69e9415e58811370cb12c225?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 22 |
 | **[TriNetX](http://trinetx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ea73747820c036924ede8f?utm_campaign=1055&utm_source=git)** | Cambridge, MA, USA | Hybrid | Apr 22 |
 | **[Justice Resource Institute](https://jri.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69e9090e7820c036924e4baf?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 22 |
 | **[Utah County Government](https://www.utahcounty.gov)** | **[Legal Assistant I](https://jobright.ai/jobs/info/69e923a7e0cd471b2f13affb?utm_campaign=1055&utm_source=git)** | Provo, UT | On Site | Apr 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ICBC Standard Bank Plc](https://www.icbcstandard.com)** | **[Summer Intern Compliance](https://jobright.ai/jobs/info/69e7a82658811370cb11dd39?utm_campaign=1055&utm_source=git)** | NYC Metro Area | On Site | Apr 21 |
 | **[Westmoreland Mining LLC](http://westmoreland.com/)** | **[Legal - Intern](https://jobright.ai/jobs/info/69e8b3707820c036924e2224?utm_campaign=1055&utm_source=git)** | Westmoreland Mining Holdings LLC, 10375 PARK MEADOWS DRIVE, Lone Tree, Colorado, United States of America | On Site | Apr 21 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Legal Services Intern](https://jobright.ai/jobs/info/69e7a2f0e0cd471b2f12cc0e?utm_campaign=1055&utm_source=git)** | Baltimore, MD USA | Hybrid | Apr 21 |
-| **[Leviton](https://www.leviton.com)** | **[Intern, Environmental Compliance (Year-Round)](https://jobright.ai/jobs/info/69cac7741b5ad028873a4bf3?utm_campaign=1055&utm_source=git)** | Melville, NY | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
