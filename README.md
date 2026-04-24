@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CareSource](https://www.caresource.com/)** | **[CareSource Legal Intern](https://jobright.ai/jobs/info/69ebd2d5dc35f7132c4b39f8?utm_campaign=1055&utm_source=git)** | Dayton WFH, US | Remote | Apr 24 |
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, Risk Advisory - Fall 2026, Cranberry Township](https://jobright.ai/jobs/info/69ebc3a616b2612c2a11e70a?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 24 |
 | **[ICU Medical](https://www.icumed.com/products/specialty/renal-systems/clearguard-hd)** | **[Legal Intern - Contract Support](https://jobright.ai/jobs/info/69ebb82558811370cb13c062?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Apr 24 |
 | **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6979517339f7f96cc6d1c945?utm_campaign=1055&utm_source=git)** | Southfield, MI | On Site | Apr 24 |
@@ -143,18 +144,17 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[Ethics & Business Integrity Intern](https://jobright.ai/jobs/info/69e8b3dae0cd471b2f13797a?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Apr 22 |
 | **[Quanex](http://www.quanex.com/)** | **[Risk Management & Compliance Intern](https://jobright.ai/jobs/info/69cc64bdcfdc6132f940c049?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 22 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Corporate Law Intern](https://jobright.ai/jobs/info/69cc7f71e1921223acc76a45?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ | On Site | Apr 22 |
-| **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Apr 22 |
-| ↳ | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e8bb733aa0c479643a497b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 22 |
+| **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e8bb733aa0c479643a497b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 22 |
+| ↳ | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Apr 22 |
 | **[Career Center at Portland State University](https://www.pdx.edu/careers/)** | **[2026 SPPE Immigration Fellowship](https://jobright.ai/jobs/info/69e8b0dc58811370cb127d4c?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Apr 22 |
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Legal Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/69e870014b0fa35a70766827?utm_campaign=1055&utm_source=git)** | 200 North Walker, Oklahoma City, OK, 73102, US | On Site | Apr 21 |
-| **[Kuehne+Nagel](https://home.kuehne-nagel.com/)** | **[Customs Summer Internship](https://jobright.ai/jobs/info/69eb4b0e4b0fa35a7077a248?utm_campaign=1055&utm_source=git)** | San Francisco, California, United States | On Site | Apr 21 |
+| **[Kuehne+Nagel](https://home.kuehne-nagel.com/)** | **[Customs Summer Internship](https://jobright.ai/jobs/info/69eb4b35dc35f7132c4af46e?utm_campaign=1055&utm_source=git)** | Laredo, Texas, United States | On Site | Apr 21 |
 | ↳ | **[Customs Summer Internship](https://jobright.ai/jobs/info/69eb4b377820c036924f2af0?utm_campaign=1055&utm_source=git)** | Torrance, California, United States | On Site | Apr 21 |
-| ↳ | **[Customs Summer Internship](https://jobright.ai/jobs/info/69eb4b377820c036924f2aee?utm_campaign=1055&utm_source=git)** | Bensenville, Illinois, United States | On Site | Apr 21 |
 | ↳ | **[Customs Summer Internship](https://jobright.ai/jobs/info/69eb4b0d4b0fa35a7077a235?utm_campaign=1055&utm_source=git)** | Jersey City, New Jersey, United States | On Site | Apr 21 |
+| ↳ | **[Customs Summer Internship](https://jobright.ai/jobs/info/69eb4b377820c036924f2aee?utm_campaign=1055&utm_source=git)** | Bensenville, Illinois, United States | On Site | Apr 21 |
 | ↳ | **[Customs Summer Internship](https://jobright.ai/jobs/info/69eb4b3258811370cb13848f?utm_campaign=1055&utm_source=git)** | Erlanger, Kentucky, United States | On Site | Apr 21 |
-| ↳ | **[Customs Summer Internship](https://jobright.ai/jobs/info/69eb4b35dc35f7132c4af46e?utm_campaign=1055&utm_source=git)** | Laredo, Texas, United States | On Site | Apr 21 |
+| ↳ | **[Customs Summer Internship](https://jobright.ai/jobs/info/69eb4b0e4b0fa35a7077a248?utm_campaign=1055&utm_source=git)** | San Francisco, California, United States | On Site | Apr 21 |
 | **[State of Florida](http://www.myflorida.com)** | **[REGULATORY SPECIALIST III - 79000061](https://jobright.ai/jobs/info/69eb581716b2612c2a11b64f?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 21 |
 | **[RegASK](https://regask.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/69e8b4ad0a6e0955530360d2?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 21 |
 | **[City of Fort Worth](https://www.fortworthtexas.gov)** | **[Regulatory Environmental Intern](https://jobright.ai/jobs/info/69e848790a6e09555302fb4e?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Apr 21 |
-| **[Portland State University, College of Urban and Public Affairs](https://www.pdx.edu/urban-public-affairs/)** | **[2026 SPPE Immigration Fellowship](https://jobright.ai/jobs/info/69e864eb0a6e09555303359c?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
