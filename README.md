@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ICU Medical](https://www.icumed.com/products/specialty/renal-systems/clearguard-hd)** | **[Legal Intern - Contract Support](https://jobright.ai/jobs/info/69ebb82558811370cb13c062?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Apr 24 |
 | **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6979517339f7f96cc6d1c945?utm_campaign=1055&utm_source=git)** | Southfield, MI | On Site | Apr 24 |
+| **[Boomi](https://boomi.com/)** | **[License Compliance Intern (Hybrid - Vancouver, BC)](https://jobright.ai/jobs/info/69ebb80e16b2612c2a11e0e4?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 24 |
+| **[PTR Premier Truck Rental](https://rentptr.com)** | **[Intern Legal](https://jobright.ai/jobs/info/69b330e5ae2a534885ea97d2?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | On Site | Apr 24 |
+| **[Corsair](http://www.corsair.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69406d5e49a7695fbd05ef2c?utm_campaign=1055&utm_source=git)** | Milpitas, CA | On Site | Apr 24 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Paralegal Intern](https://jobright.ai/jobs/info/697986f9ca92cf0d6a82af70?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Apr 24 |
 | **[Clark Hill Law](http://www.clarkhill.com/)** | **[Fidelity & Surety Law Clerk - Dallas, TX](https://jobright.ai/jobs/info/69eb7d7f7820c036924f3fd0?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
 | **[LawBhoomi](https://lawbhoomi.com/)** | **[Legal Internship Opportunity at Dugong International: Apply Now!](https://jobright.ai/jobs/info/69eb8fd2dc35f7132c4b0bf3?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Apr 24 |
@@ -142,19 +146,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e8bb733aa0c479643a497b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 22 |
 | **[Career Center at Portland State University](https://www.pdx.edu/careers/)** | **[2026 SPPE Immigration Fellowship](https://jobright.ai/jobs/info/69e8b0dc58811370cb127d4c?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Apr 22 |
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Legal Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/69e870014b0fa35a70766827?utm_campaign=1055&utm_source=git)** | 200 North Walker, Oklahoma City, OK, 73102, US | On Site | Apr 21 |
-| **[Kuehne+Nagel](https://home.kuehne-nagel.com/)** | **[Customs Summer Internship](https://jobright.ai/jobs/info/69eb4b3258811370cb13848f?utm_campaign=1055&utm_source=git)** | Erlanger, Kentucky, United States | On Site | Apr 21 |
-| ↳ | **[Customs Summer Internship](https://jobright.ai/jobs/info/69eb4b0d4b0fa35a7077a235?utm_campaign=1055&utm_source=git)** | Jersey City, New Jersey, United States | On Site | Apr 21 |
-| ↳ | **[Customs Summer Internship](https://jobright.ai/jobs/info/69eb4b35dc35f7132c4af46e?utm_campaign=1055&utm_source=git)** | Laredo, Texas, United States | On Site | Apr 21 |
-| ↳ | **[Customs Summer Internship](https://jobright.ai/jobs/info/69eb4b377820c036924f2aee?utm_campaign=1055&utm_source=git)** | Bensenville, Illinois, United States | On Site | Apr 21 |
+| **[Kuehne+Nagel](https://home.kuehne-nagel.com/)** | **[Customs Summer Internship](https://jobright.ai/jobs/info/69eb4b35dc35f7132c4af46e?utm_campaign=1055&utm_source=git)** | Laredo, Texas, United States | On Site | Apr 21 |
+| ↳ | **[Customs Summer Internship](https://jobright.ai/jobs/info/69eb4b3258811370cb13848f?utm_campaign=1055&utm_source=git)** | Erlanger, Kentucky, United States | On Site | Apr 21 |
 | ↳ | **[Customs Summer Internship](https://jobright.ai/jobs/info/69eb4b0e4b0fa35a7077a248?utm_campaign=1055&utm_source=git)** | San Francisco, California, United States | On Site | Apr 21 |
+| ↳ | **[Customs Summer Internship](https://jobright.ai/jobs/info/69eb4b377820c036924f2aee?utm_campaign=1055&utm_source=git)** | Bensenville, Illinois, United States | On Site | Apr 21 |
+| ↳ | **[Customs Summer Internship](https://jobright.ai/jobs/info/69eb4b0d4b0fa35a7077a235?utm_campaign=1055&utm_source=git)** | Jersey City, New Jersey, United States | On Site | Apr 21 |
 | ↳ | **[Customs Summer Internship](https://jobright.ai/jobs/info/69eb4b377820c036924f2af0?utm_campaign=1055&utm_source=git)** | Torrance, California, United States | On Site | Apr 21 |
 | **[State of Florida](http://www.myflorida.com)** | **[REGULATORY SPECIALIST III - 79000061](https://jobright.ai/jobs/info/69eb581716b2612c2a11b64f?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 21 |
 | **[RegASK](https://regask.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/69e8b4ad0a6e0955530360d2?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 21 |
 | **[City of Fort Worth](https://www.fortworthtexas.gov)** | **[Regulatory Environmental Intern](https://jobright.ai/jobs/info/69e848790a6e09555302fb4e?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Apr 21 |
 | **[Portland State University, College of Urban and Public Affairs](https://www.pdx.edu/urban-public-affairs/)** | **[2026 SPPE Immigration Fellowship](https://jobright.ai/jobs/info/69e864eb0a6e09555303359c?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Apr 21 |
 | **[Caps Direct](https://www.capsdirect.com)** | **[Intern - Compliance & Sustainability](https://jobright.ai/jobs/info/69e8b1907820c036924e18fe?utm_campaign=1055&utm_source=git)** | Overland Park, KS, US | On Site | Apr 21 |
-| **[ADB Companies, LLC](http://www.adbcompanies.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69e9a37f0a6e09555303d109?utm_campaign=1055&utm_source=git)** | Pacific, MO | On Site | Apr 21 |
-| **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Corporate Investigation Services Intern (8 Months)](https://jobright.ai/jobs/info/69e848fb3aa0c4796439eca2?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 21 |
-| **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) - Government Property Specialist (Supply Chain) Intern](https://jobright.ai/jobs/info/69e848d958811370cb1220ff?utm_campaign=1055&utm_source=git)** | Beavercreek, OH | Hybrid | Apr 21 |
-| **[Peachtree Group](https://www.peachtreegroup.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/69e84fd63aa0c4796439eed1?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
