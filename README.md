@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Penumbra, Inc.](http://penumbrainc.com)** | **[Legal Intern T](https://jobright.ai/jobs/info/69eaa37b58811370cb1348e0?utm_campaign=1055&utm_source=git)** | Alameda, CA | On Site | Apr 23 |
 | **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69ea9ccc0a6e0955530420b0?utm_campaign=1055&utm_source=git)** | West Hills, CA, US | Hybrid | Apr 23 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ea91d80a6e095553041dbd?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Apr 23 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ea758d7820c036924ee285?utm_campaign=1055&utm_source=git)** | Kirkland, WA | On Site | Apr 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WM](https://www.wm.com/)** | **[Environmental Compliance Summer Intern](https://jobright.ai/jobs/info/69e7af49e0cd471b2f12cec8?utm_campaign=1055&utm_source=git)** | W132 N10487 GRANT DRIVE, GERMANTOWN, WI, 53022, US | Hybrid | Apr 21 |
 | **[ICBC Standard Bank Plc](https://www.icbcstandard.com)** | **[Summer Intern Compliance](https://jobright.ai/jobs/info/69e7a82658811370cb11dd39?utm_campaign=1055&utm_source=git)** | NYC Metro Area | On Site | Apr 21 |
 | **[Westmoreland Mining LLC](http://westmoreland.com/)** | **[Legal - Intern](https://jobright.ai/jobs/info/69e8b3707820c036924e2224?utm_campaign=1055&utm_source=git)** | Westmoreland Mining Holdings LLC, 10375 PARK MEADOWS DRIVE, Lone Tree, Colorado, United States of America | On Site | Apr 21 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Legal Services Intern](https://jobright.ai/jobs/info/69e7a2f0e0cd471b2f12cc0e?utm_campaign=1055&utm_source=git)** | Baltimore, MD USA | Hybrid | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
