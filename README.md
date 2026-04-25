@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CareDx, Inc.](https://www.caredx.com/)** | **[SOX Intern](https://jobright.ai/jobs/info/69debdd35913ad339813fb6e?utm_campaign=1055&utm_source=git)** | Brisbane, CA | On Site | Apr 25 |
+| **[Day & Zimmermann](http://dayzim.com/)** | **[Contracts Intern](https://jobright.ai/jobs/info/69d073410b098b7a6707981b?utm_campaign=1055&utm_source=git)** | Middletown, IA | On Site | Apr 25 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/696026607ebc25398eb6174d?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Apr 25 |
 | **[Old Republic Title](http://www.oldrepublictitle.com/)** | **[Internship – Title Insurance Underwriting and Examination](https://jobright.ai/jobs/info/69ecda66dc35f7132c4b7a5a?utm_campaign=1055&utm_source=git)** | Maitland, FL | On Site | Apr 25 |
 | **[Busey](https://www.busey.com/home/home)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69d03d9a891d7b11cfcd9f7e?utm_campaign=1055&utm_source=git)** | Champaign, IL | On Site | Apr 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Darktrace](https://www.darktrace.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69e921394b0fa35a7076c025?utm_campaign=1055&utm_source=git)** | Austin Office, US | Hybrid | Apr 22 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, NY | On Site | Apr 22 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/69e9416958811370cb12c23b?utm_campaign=1055&utm_source=git)** | Loveland, CO | On Site | Apr 22 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong FOIA Paralegal Intern](https://jobright.ai/jobs/info/69e9369e3aa0c479643a8613?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
-| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69a65416e567421f42575353?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, US | Hybrid | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
