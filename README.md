@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Old Republic Title](http://www.oldrepublictitle.com/)** | **[Internship – Title Insurance Underwriting and Examination](https://jobright.ai/jobs/info/69ecda66dc35f7132c4b7a5a?utm_campaign=1055&utm_source=git)** | Maitland, FL | On Site | Apr 25 |
+| **[Busey](https://www.busey.com/home/home)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69d03d9a891d7b11cfcd9f7e?utm_campaign=1055&utm_source=git)** | Champaign, IL | On Site | Apr 25 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Fall 2026 Legal Internship – Washington, DC Regional Office](https://jobright.ai/jobs/info/69d02490cfdc6132f94389ba?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 25 |
 | **[Aspen Aerogels](http://www.aerogel.com)** | **[Legal/HR Intern](https://jobright.ai/jobs/info/69b498c33b74eb1e2c81f7e0?utm_campaign=1055&utm_source=git)** | Northborough, MA | On Site | Apr 25 |
 | **[Clark Hill Law](http://www.clarkhill.com/)** | **[Litigation Law Clerk - Houston, TX](https://jobright.ai/jobs/info/69ecb67cdc35f7132c4b730d?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 25 |
+| **[Peraton](https://www.peraton.com/)** | **[Contracts Administration Pipeline (Intern and Entry-level)](https://jobright.ai/jobs/info/69df83a2aba61f141731c020?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Apr 25 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Government, Risk, and Compliance Intern, Cybersecurity, NA](https://jobright.ai/jobs/info/69969054e0bddb6acac51198?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 25 |
 | **[CareSource](https://www.caresource.com/)** | **[CareSource Legal Intern - R12606](https://jobright.ai/jobs/info/69ec56d10a6e09555304dba3?utm_campaign=1055&utm_source=git)** | Dayton, OH | On Site | Apr 24 |
 | **[Applied Technical Services, LLC](http://www.atslab.com)** | **[Summer Internship - Legal](https://jobright.ai/jobs/info/69ec41804b0fa35a70781b71?utm_campaign=1055&utm_source=git)** | Marietta, GA | Hybrid | Apr 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69a65416e567421f42575353?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, US | Hybrid | Apr 22 |
 | **[TriNetX](http://trinetx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ea73747820c036924ede8f?utm_campaign=1055&utm_source=git)** | Cambridge, MA, USA | Hybrid | Apr 22 |
 | **[Justice Resource Institute](https://jri.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69e9090e7820c036924e4baf?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 22 |
-| **[Utah County Government](https://www.utahcounty.gov)** | **[Legal Assistant I](https://jobright.ai/jobs/info/69e923a7e0cd471b2f13affb?utm_campaign=1055&utm_source=git)** | Provo, UT | On Site | Apr 22 |
-| **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69cc56728130af1ac8337fca?utm_campaign=1055&utm_source=git)** | Tustin, California | On Site | Apr 22 |
-| ↳ | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69e91f8558811370cb12a5a4?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
