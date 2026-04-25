@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioTissue](https://biotissue.com/)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69ebfb9f16b2612c2a120216?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Apr 24 |
 | **[CFP Board](https://www.cfp.net/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ebe234dc35f7132c4b410c?utm_campaign=1055&utm_source=git)** | Washington, D.C., Washington, DC, US | Hybrid | Apr 24 |
 | **[BioTissue Ocular](https://biotissue.com/)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69ebe23116b2612c2a11f8b4?utm_campaign=1055&utm_source=git)** | Miami, FL, US | On Site | Apr 24 |
 | **[DeAngelus Goralczyk, PLLC](https://dglawny.com)** | **[Law Clerk summer intern for admin work](https://jobright.ai/jobs/info/69ebe22a0a6e09555304b05d?utm_campaign=1055&utm_source=git)** | Clifton Park, Clifton Park, NY, US | On Site | Apr 24 |
+| **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[Pre Law Intern](https://jobright.ai/jobs/info/69ebfdf60a6e09555304bede?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 24 |
 | **[CareSource](https://www.caresource.com/)** | **[CareSource Legal Intern](https://jobright.ai/jobs/info/69ebd2d5dc35f7132c4b39f8?utm_campaign=1055&utm_source=git)** | Dayton WFH, US | Remote | Apr 24 |
+| **[Enhanced](https://www.enhanced.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ebfc4c4b0fa35a7077ff34?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Apr 24 |
 | **[Prinston Pharmaceutical Inc.](https://www.prinstonpharm.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ebf0310a6e09555304b5ee?utm_campaign=1055&utm_source=git)** | Somerset, NJ | On Site | Apr 24 |
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, Risk Advisory - Fall 2026, Cranberry Township](https://jobright.ai/jobs/info/69ebc3a616b2612c2a11e70a?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 24 |
+| **[Dimension Energy](http://www.dimension-energy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ebfbce4b0fa35a7077fc36?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Apr 24 |
 | **[ICU Medical](https://www.icumed.com/products/specialty/renal-systems/clearguard-hd)** | **[Legal Intern - Contract Support](https://jobright.ai/jobs/info/69ebb82558811370cb13c062?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Apr 24 |
 | **[Settlement Housing Fund](https://www.settlementhousingfund.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ebdd604b0fa35a7077f329?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 24 |
 | **[Magna International](http://www.magna.com/)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6979517339f7f96cc6d1c945?utm_campaign=1055&utm_source=git)** | Southfield, MI | On Site | Apr 24 |
@@ -130,16 +134,16 @@ For a complete list, click the following sortable link below:
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, NY | On Site | Apr 22 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/69e9416958811370cb12c23b?utm_campaign=1055&utm_source=git)** | Loveland, CO | On Site | Apr 22 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong FOIA Paralegal Intern](https://jobright.ai/jobs/info/69e9369e3aa0c479643a8613?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
-| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69a65416e567421f42575353?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, US | Hybrid | Apr 22 |
-| ↳ | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69e9415e58811370cb12c225?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 22 |
+| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69e9415e58811370cb12c225?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 22 |
+| ↳ | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69a65416e567421f42575353?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, US | Hybrid | Apr 22 |
 | **[TriNetX](http://trinetx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ea73747820c036924ede8f?utm_campaign=1055&utm_source=git)** | Cambridge, MA, USA | Hybrid | Apr 22 |
 | **[Justice Resource Institute](https://jri.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69e9090e7820c036924e4baf?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 22 |
 | **[Utah County Government](https://www.utahcounty.gov)** | **[Legal Assistant I](https://jobright.ai/jobs/info/69e923a7e0cd471b2f13affb?utm_campaign=1055&utm_source=git)** | Provo, UT | On Site | Apr 22 |
-| **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69e91f8558811370cb12a5a4?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Apr 22 |
-| ↳ | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69cc56728130af1ac8337fca?utm_campaign=1055&utm_source=git)** | Tustin, California | On Site | Apr 22 |
+| **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69cc56728130af1ac8337fca?utm_campaign=1055&utm_source=git)** | Tustin, California | On Site | Apr 22 |
+| ↳ | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69e91f8558811370cb12a5a4?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Apr 22 |
 | **[Calix](http://www.calix.com)** | **[Intellectual Property /Products Legal Intern](https://jobright.ai/jobs/info/69cc292a366bb95ba54ede3a?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 22 |
-| **[First American](http://www.firstam.com)** | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69d5f825891d7b11cfd07384?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
-| ↳ | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69cca3f48130af1ac833d98a?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
+| **[First American](http://www.firstam.com)** | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69cca3f48130af1ac833d98a?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
+| ↳ | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69d5f825891d7b11cfd07384?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/69e9416ce0cd471b2f13c211?utm_campaign=1055&utm_source=git)** | Loveland, CO | On Site | Apr 22 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer 2026 Regulatory Policy Intern](https://jobright.ai/jobs/info/69d5e843e63cea7a8b666168?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Apr 22 |
 | **[Information Technology and Innovation Foundation](http://www.itif.org)** | **[Legal Intern, Schumpeter Project on Competition Policy](https://jobright.ai/jobs/info/69e94ef1e0cd471b2f13c8e3?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e8bb733aa0c479643a497b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 22 |
 | ↳ | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Apr 22 |
 | **[Career Center at Portland State University](https://www.pdx.edu/careers/)** | **[2026 SPPE Immigration Fellowship](https://jobright.ai/jobs/info/69e8b0dc58811370cb127d4c?utm_campaign=1055&utm_source=git)** | Portland, OR | On Site | Apr 22 |
-| **[City of Oklahoma City](https://www.okc.gov/)** | **[Legal Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/69e870014b0fa35a70766827?utm_campaign=1055&utm_source=git)** | 200 North Walker, Oklahoma City, OK, 73102, US | On Site | Apr 21 |
-| **[Kuehne+Nagel](https://home.kuehne-nagel.com/)** | **[Customs Summer Internship](https://jobright.ai/jobs/info/69eb4b377820c036924f2aee?utm_campaign=1055&utm_source=git)** | Bensenville, Illinois, United States | On Site | Apr 21 |
-| ↳ | **[Customs Summer Internship](https://jobright.ai/jobs/info/69eb4b3258811370cb13848f?utm_campaign=1055&utm_source=git)** | Erlanger, Kentucky, United States | On Site | Apr 21 |
-| ↳ | **[Customs Summer Internship](https://jobright.ai/jobs/info/69eb4b0e4b0fa35a7077a248?utm_campaign=1055&utm_source=git)** | San Francisco, California, United States | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
