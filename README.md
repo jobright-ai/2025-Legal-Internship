@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clark Hill Law](http://www.clarkhill.com/)** | **[Litigation Law Clerk - Houston, TX](https://jobright.ai/jobs/info/69ecb67cdc35f7132c4b730d?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 25 |
 | **[CareSource](https://www.caresource.com/)** | **[CareSource Legal Intern - R12606](https://jobright.ai/jobs/info/69ec56d10a6e09555304dba3?utm_campaign=1055&utm_source=git)** | Dayton, OH | On Site | Apr 24 |
 | **[Applied Technical Services, LLC](http://www.atslab.com)** | **[Summer Internship - Legal](https://jobright.ai/jobs/info/69ec41804b0fa35a70781b71?utm_campaign=1055&utm_source=git)** | Marietta, GA | Hybrid | Apr 24 |
 | **[Leidos](https://www.leidos.com)** | **[Ethics & Business Integrity Intern](https://jobright.ai/jobs/info/69ec416bdc35f7132c4b6483?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Apr 24 |
@@ -85,8 +86,7 @@ For a complete list, click the following sortable link below:
 | **[PTR Premier Truck Rental](https://rentptr.com)** | **[Intern Legal](https://jobright.ai/jobs/info/69b330e5ae2a534885ea97d2?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | On Site | Apr 24 |
 | **[Corsair](http://www.corsair.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69406d5e49a7695fbd05ef2c?utm_campaign=1055&utm_source=git)** | Milpitas, CA | On Site | Apr 24 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Paralegal Intern](https://jobright.ai/jobs/info/697986f9ca92cf0d6a82af70?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Apr 24 |
-| **[LawBhoomi](https://lawbhoomi.com/)** | **[Legal Internship Opportunity at Dugong International: Apply Now!](https://jobright.ai/jobs/info/69eb8fd2dc35f7132c4b0bf3?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Apr 24 |
-| ↳ | **[Legal Internship Opportunity at Weatherford: Apply Now!](https://jobright.ai/jobs/info/69eb90454b0fa35a7077c136?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Apr 24 |
+| **[LawBhoomi](https://lawbhoomi.com/)** | **[Legal Internship Opportunity at Weatherford: Apply Now!](https://jobright.ai/jobs/info/69eb90454b0fa35a7077c136?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Apr 24 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Law Intern- CEASE Clinic](https://jobright.ai/jobs/info/69eb8fd316b2612c2a11c53f?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Apr 24 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Compliance and Corporate Social Responsibility Intern](https://jobright.ai/jobs/info/69cec4d6366bb95ba550f501?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 24 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69e0fe89d612782e6114655b?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Apr 24 |
@@ -147,14 +147,14 @@ For a complete list, click the following sortable link below:
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, NY | On Site | Apr 22 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/69e9416958811370cb12c23b?utm_campaign=1055&utm_source=git)** | Loveland, CO | On Site | Apr 22 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong FOIA Paralegal Intern](https://jobright.ai/jobs/info/69e9369e3aa0c479643a8613?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
-| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69a65416e567421f42575353?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, US | Hybrid | Apr 22 |
-| ↳ | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69e9415e58811370cb12c225?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 22 |
+| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69e9415e58811370cb12c225?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 22 |
+| ↳ | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69a65416e567421f42575353?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, US | Hybrid | Apr 22 |
 | **[TriNetX](http://trinetx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ea73747820c036924ede8f?utm_campaign=1055&utm_source=git)** | Cambridge, MA, USA | Hybrid | Apr 22 |
 | **[Justice Resource Institute](https://jri.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69e9090e7820c036924e4baf?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 22 |
 | **[Utah County Government](https://www.utahcounty.gov)** | **[Legal Assistant I](https://jobright.ai/jobs/info/69e923a7e0cd471b2f13affb?utm_campaign=1055&utm_source=git)** | Provo, UT | On Site | Apr 22 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69cc56728130af1ac8337fca?utm_campaign=1055&utm_source=git)** | Tustin, California | On Site | Apr 22 |
 | ↳ | **[Intern, QA Compliance](https://jobright.ai/jobs/info/69e91f8558811370cb12a5a4?utm_campaign=1055&utm_source=git)** | Tustin, CA | On Site | Apr 22 |
 | **[Calix](http://www.calix.com)** | **[Intellectual Property /Products Legal Intern](https://jobright.ai/jobs/info/69cc292a366bb95ba54ede3a?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 22 |
-| **[First American](http://www.firstam.com)** | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69cca3f48130af1ac833d98a?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
-| ↳ | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69d5f825891d7b11cfd07384?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
+| **[First American](http://www.firstam.com)** | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69d5f825891d7b11cfd07384?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
+| ↳ | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69cca3f48130af1ac833d98a?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
