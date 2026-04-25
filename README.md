@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Regenity Biosciences](https://regenity.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/69ec382e7820c036924fa043?utm_campaign=1055&utm_source=git)** | Paramus, NJ | On Site | Apr 24 |
+| **[Applied Technical Services, LLC](http://www.atslab.com)** | **[Summer Internship - Legal (56405)](https://jobright.ai/jobs/info/69ec32d24b0fa35a70781498?utm_campaign=1055&utm_source=git)** | MARIETTA - MARIETTA, GA 30062 | Hybrid | Apr 24 |
+| **[California State University, Northridge](https://www.csun.edu/)** | **[Accessibility Compliance Analyst](https://jobright.ai/jobs/info/69ec32777820c036924f9a22?utm_campaign=1055&utm_source=git)** | Northridge, CA | Hybrid | Apr 24 |
 | **[RG&T Solutions](https://www.linkedin.com/company/112014533)** | **[Legal Summer Internship](https://jobright.ai/jobs/info/69ec17b40a6e09555304c691?utm_campaign=1055&utm_source=git)** | Racine, WI | On Site | Apr 24 |
 | **[CFP Board](https://www.cfp.net/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ec11cd0a6e09555304c5f4?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 24 |
 | **[Firstrust Bank](https://www.firstrust.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ec0aa3dc35f7132c4b53f2?utm_campaign=1055&utm_source=git)** | Conshohocken, PA | On Site | Apr 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/69e9416ce0cd471b2f13c211?utm_campaign=1055&utm_source=git)** | Loveland, CO | On Site | Apr 22 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer 2026 Regulatory Policy Intern](https://jobright.ai/jobs/info/69d5e843e63cea7a8b666168?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | On Site | Apr 22 |
 | **[Information Technology and Innovation Foundation](http://www.itif.org)** | **[Legal Intern, Schumpeter Project on Competition Policy](https://jobright.ai/jobs/info/69e94ef1e0cd471b2f13c8e3?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 22 |
-| **[Axiom](http://www.axiomlaw.com)** | **[Labor & Employment Counsel – Hybrid (Wilmington, MA)](https://jobright.ai/jobs/info/69d030530b098b7a670774bd?utm_campaign=1055&utm_source=git)** | Wilmington, MA | Hybrid | Apr 22 |
-| **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Global Financial Crimes and Compliance Internship (Sanctions Compliance – Investigations)  – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69e6f1693aa0c4796439681c?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Apr 22 |
-| **[Centurion Land Title, Inc.](https://centurionlandtitle.com)** | **[Escrow & Title Intern - Summer 2026](https://jobright.ai/jobs/info/69bae7c2569738374140bea2?utm_campaign=1055&utm_source=git)** | Carmel,IN,US | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
