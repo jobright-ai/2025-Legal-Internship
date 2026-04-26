@@ -80,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69ec25a216b2612c2a12139e?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Apr 24 |
 | **[ICU Medical](https://www.icumed.com/products/specialty/renal-systems/clearguard-hd)** | **[Legal Intern - Contract Support](https://jobright.ai/jobs/info/69ec03167820c036924f8ac2?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 24 |
 | **[Krizman Law](https://krizmanfirm.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ec02f516b2612c2a120640?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 24 |
+| **[Gale Hotels](https://www.galehotelmiami.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69edac187820c036924fd534?utm_campaign=1055&utm_source=git)** | Miami, FL, US | On Site | Apr 24 |
 | **[BioTissue](https://biotissue.com/)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69ebfb9f16b2612c2a120216?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Apr 24 |
 | **[Enhanced](https://www.enhanced.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ec02ff16b2612c2a12067f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[CFP Board](https://www.cfp.net/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ebe234dc35f7132c4b410c?utm_campaign=1055&utm_source=git)** | Washington, D.C., Washington, DC, US | Hybrid | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Darktrace](https://www.darktrace.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69e921394b0fa35a7076c025?utm_campaign=1055&utm_source=git)** | Austin Office, US | Hybrid | Apr 22 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, NY | On Site | Apr 22 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/69e9416958811370cb12c23b?utm_campaign=1055&utm_source=git)** | Loveland, CO | On Site | Apr 22 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong FOIA Paralegal Intern](https://jobright.ai/jobs/info/69e9369e3aa0c479643a8613?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
