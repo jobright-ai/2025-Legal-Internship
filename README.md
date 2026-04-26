@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Apex Clean Energy](http://apexcleanenergy.com)** | **[Land Management Summer Associate (Intern)](https://jobright.ai/jobs/info/69e86c1e3aa0c479643a3193?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Apr 26 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[SOX Intern](https://jobright.ai/jobs/info/69debdd35913ad339813fb6e?utm_campaign=1055&utm_source=git)** | Brisbane, CA | On Site | Apr 25 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Contracts Intern](https://jobright.ai/jobs/info/69d073410b098b7a6707981b?utm_campaign=1055&utm_source=git)** | Middletown, IA | On Site | Apr 25 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/696026607ebc25398eb6174d?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Apr 25 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Clark Hill Law](http://www.clarkhill.com/)** | **[Litigation Law Clerk - Houston, TX](https://jobright.ai/jobs/info/69ecb67cdc35f7132c4b730d?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 25 |
 | **[Peraton](https://www.peraton.com/)** | **[Contracts Administration Pipeline (Intern and Entry-level)](https://jobright.ai/jobs/info/69df83a2aba61f141731c020?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Apr 25 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Government, Risk, and Compliance Intern, Cybersecurity, NA](https://jobright.ai/jobs/info/69969054e0bddb6acac51198?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 25 |
-| **[CareSource](https://www.caresource.com/)** | **[CareSource Legal Intern - R12606](https://jobright.ai/jobs/info/69ec56d10a6e09555304dba3?utm_campaign=1055&utm_source=git)** | Dayton, OH | On Site | Apr 24 |
 | **[Applied Technical Services, LLC](http://www.atslab.com)** | **[Summer Internship - Legal](https://jobright.ai/jobs/info/69ec41804b0fa35a70781b71?utm_campaign=1055&utm_source=git)** | Marietta, GA | Hybrid | Apr 24 |
 | **[Leidos](https://www.leidos.com)** | **[Ethics & Business Integrity Intern](https://jobright.ai/jobs/info/69ec416bdc35f7132c4b6483?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Apr 24 |
 | **[Applied Technical Services, LLC](http://www.atslab.com)** | **[Summer Internship - Legal (56405)](https://jobright.ai/jobs/info/69ec32d24b0fa35a70781498?utm_campaign=1055&utm_source=git)** | MARIETTA - MARIETTA, GA 30062 | Hybrid | Apr 24 |
