@@ -86,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[BioTissue Ocular](https://biotissue.com/)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69ebe23116b2612c2a11f8b4?utm_campaign=1055&utm_source=git)** | Miami, FL, US | On Site | Apr 24 |
 | **[DeAngelus Goralczyk, PLLC](https://dglawny.com)** | **[Law Clerk summer intern for admin work](https://jobright.ai/jobs/info/69ebe22a0a6e09555304b05d?utm_campaign=1055&utm_source=git)** | Clifton Park, Clifton Park, NY, US | On Site | Apr 24 |
 | **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[Pre Law Intern](https://jobright.ai/jobs/info/69ebfdf60a6e09555304bede?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 24 |
-| **[CareSource](https://www.caresource.com/)** | **[CareSource Legal Intern](https://jobright.ai/jobs/info/69ebd2d5dc35f7132c4b39f8?utm_campaign=1055&utm_source=git)** | Dayton WFH, US | Remote | Apr 24 |
 | **[Enhanced](https://www.enhanced.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ebfc4c4b0fa35a7077ff34?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Apr 24 |
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, Risk Advisory - Fall 2026, Cranberry Township](https://jobright.ai/jobs/info/69ebc3a616b2612c2a11e70a?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 24 |
 | **[Dimension Energy](http://www.dimension-energy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ebfbce4b0fa35a7077fc36?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Apr 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Darktrace](https://www.darktrace.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69e921394b0fa35a7076c025?utm_campaign=1055&utm_source=git)** | Austin Office, US | Hybrid | Apr 22 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, NY | On Site | Apr 22 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/69e9416958811370cb12c23b?utm_campaign=1055&utm_source=git)** | Loveland, CO | On Site | Apr 22 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong FOIA Paralegal Intern](https://jobright.ai/jobs/info/69e9369e3aa0c479643a8613?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
