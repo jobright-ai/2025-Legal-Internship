@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time](https://jobright.ai/jobs/info/69efbb400a6e095553056f86?utm_campaign=1055&utm_source=git)** | Memphis, TN | On Site | Apr 27 |
+| **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efbb3a0a6e095553056f5c?utm_campaign=1055&utm_source=git)** | Boise, ID | Hybrid | Apr 27 |
+| **[Fenwick & West](http://fenwick.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/69efb8fde624fe645d532f16?utm_campaign=1055&utm_source=git)** | Washington, D.C., US | Hybrid | Apr 27 |
+| **[Ion Bank](http://ionbank.com)** | **[Junior Fraud Analyst Intern](https://jobright.ai/jobs/info/69efb79416b2612c2a12afc1?utm_campaign=1055&utm_source=git)** | Naugatuck, Connecticut, United States | On Site | Apr 27 |
 | **[Leidos](https://www.leidos.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/69efab12fbe0994a40eb7903?utm_campaign=1055&utm_source=git)** | Reston, VA, US | On Site | Apr 27 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Regulatory Affairs Post Market Intern](https://jobright.ai/jobs/info/69ef97624b0fa35a7078a5b5?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Apr 27 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time](https://jobright.ai/jobs/info/69ef96d8fbe0994a40eb7228?utm_campaign=1055&utm_source=git)** | Memphis, TN, US | On Site | Apr 27 |
 | ↳ | **[Legal Intern, Part-Time](https://jobright.ai/jobs/info/69ef96d34b0fa35a7078a400?utm_campaign=1055&utm_source=git)** | US-TN-Memphis | On Site | Apr 27 |
+| **[Texas Attorney General](https://texasattorneygeneral.gov/)** | **[OAG - Consumer Protection / Research Specialist IV / 26-0390](https://jobright.ai/jobs/info/69efada358811370cb147c2d?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Apr 27 |
+| ↳ | **[OAG - Consumer Protection / Research Specialist IV / 26-0392](https://jobright.ai/jobs/info/69efadba4b0fa35a7078af36?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Apr 27 |
 | **[Samsung SDS](https://www.samsungsds.com/)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/69efad5c0a6e0955530564ea?utm_campaign=1055&utm_source=git)** | Newberry, SC | On Site | Apr 27 |
 | **[JPS Composite Materials](https://jpscm.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69ef76c6fbe0994a40eb64b7?utm_campaign=1055&utm_source=git)** | Miami, FL, 33137, United States | Hybrid | Apr 27 |
 | **[Werfen](http://www.werfen.com/)** | **[Regulatory Affairs Post Market Intern](https://jobright.ai/jobs/info/69ef73dafbe0994a40eb639e?utm_campaign=1055&utm_source=git)** | Bedford, MA, US | On Site | Apr 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Florida](http://www.myflorida.com)** | **[OPS Law Clerk - 31902556](https://jobright.ai/jobs/info/69eb0bf558811370cb13659b?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 22 |
 | ↳ | **[68064880 - SENIOR ATTORNEY](https://jobright.ai/jobs/info/69eb0ba316b2612c2a118729?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 22 |
 | **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Administrative Specialist I - Compliance](https://jobright.ai/jobs/info/69eb2ffa58811370cb136dbe?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Apr 22 |
-| ↳ | **[Attorney](https://jobright.ai/jobs/info/69eb3cdbdc35f7132c4aee97?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Apr 22 |
-| **[Weld County Government](http://www.weldgov.com)** | **[District Attorney Legal Intern Part-Time](https://jobright.ai/jobs/info/69e958c40a6e09555303b531?utm_campaign=1055&utm_source=git)** | CENTENNIAL CENTER, US | On Site | Apr 22 |
-| **[ADB Companies, LLC](http://www.adbcompanies.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69e977743aa0c479643aa0a1?utm_campaign=1055&utm_source=git)** | Pacific, Missouri, United States | On Site | Apr 22 |
-| **[Acadia Realty Trust](http://www.acadiarealty.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69e977ce58811370cb12d893?utm_campaign=1055&utm_source=git)** | Rye, NY, US | On Site | Apr 22 |
-| **[Middle River Power](https://www.middleriverpower.com/)** | **[Summer Legal Internship Program](https://jobright.ai/jobs/info/69e961323aa0c479643a9a27?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
-| **[North Carolina State University](http://www.ncsu.edu)** | **[UTS - Temporary Paralegal at NC State](https://jobright.ai/jobs/info/69e956c64b0fa35a7076db74?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
