@@ -122,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Alberta New Home Warranty Program](https://www.anhwp.com)** | **[Legal Summer Student](https://jobright.ai/jobs/info/69eb41dd4b0fa35a7077a04e?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Apr 23 |
 | **[First Mutual Holding Co.](https://www.firstmutualholding.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69eb2ee64b0fa35a70778871?utm_campaign=1055&utm_source=git)** | Westlake, OH | On Site | Apr 23 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/69e0123e5913ad3398147b51?utm_campaign=1055&utm_source=git)** | Rock Island, IL | On Site | Apr 23 |
-| **[Sedgwick](http://www.sedgwick.com)** | **[Property Adjuster Trainee](https://jobright.ai/jobs/info/69eaffe516b2612c2a1184b9?utm_campaign=1055&utm_source=git)** | Addison, TX | On Site | Apr 23 |
 | **[Medtronic](https://www.medtronic.com)** | **[Intern: Regulatory Affairs](https://jobright.ai/jobs/info/69eb06fcdc35f7132c4ad24a?utm_campaign=1055&utm_source=git)** | Brampton, Ontario, Canada | On Site | Apr 23 |
 | **[CAC Group](https://cacgroup.com)** | **[Intern, Surety](https://jobright.ai/jobs/info/69eb521adc35f7132c4af6d6?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 23 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ea758d7820c036924ee285?utm_campaign=1055&utm_source=git)** | Kirkland, WA | On Site | Apr 23 |
@@ -153,8 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/69eb3cdbdc35f7132c4aee97?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Apr 22 |
 | **[Weld County Government](http://www.weldgov.com)** | **[District Attorney Legal Intern Part-Time](https://jobright.ai/jobs/info/69e958c40a6e09555303b531?utm_campaign=1055&utm_source=git)** | CENTENNIAL CENTER, US | On Site | Apr 22 |
 | **[ADB Companies, LLC](http://www.adbcompanies.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69e977743aa0c479643aa0a1?utm_campaign=1055&utm_source=git)** | Pacific, Missouri, United States | On Site | Apr 22 |
-| **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Intern](https://jobright.ai/jobs/info/69e96b6de0cd471b2f13d4f3?utm_campaign=1055&utm_source=git)** | West Orange, NJ | On Site | Apr 22 |
 | **[Acadia Realty Trust](http://www.acadiarealty.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69e977ce58811370cb12d893?utm_campaign=1055&utm_source=git)** | Rye, NY, US | On Site | Apr 22 |
 | **[Middle River Power](https://www.middleriverpower.com/)** | **[Summer Legal Internship Program](https://jobright.ai/jobs/info/69e961323aa0c479643a9a27?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[UTS - Temporary Paralegal at NC State](https://jobright.ai/jobs/info/69e956c64b0fa35a7076db74?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Apr 22 |
+| **[Darktrace](https://www.darktrace.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69e921394b0fa35a7076c025?utm_campaign=1055&utm_source=git)** | Austin Office, US | Hybrid | Apr 22 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, NY | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
