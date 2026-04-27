@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JPS Composite Materials](https://jpscm.com)** | **[Document Compliance Intern](https://jobright.ai/jobs/info/69ef4d9a4b0fa35a707888ad?utm_campaign=1055&utm_source=git)** | Miami, FL, 33137, United States | On Site | Apr 27 |
 | **[Kinetico Incorporated](https://www.kinetico.com)** | **[IT Security & Compliance Intern](https://jobright.ai/jobs/info/69ef0de20a6e0955530537a3?utm_campaign=1055&utm_source=git)** | Newbury, OH | On Site | Apr 27 |
 | **[Kinetico Incorporated](https://www.kinetico.com)** | **[IT Security & Compliance Intern](https://jobright.ai/jobs/info/69eee6054b0fa35a70787c2a?utm_campaign=1055&utm_source=git)** | Newbury Township, OH, US | On Site | Apr 26 |
 | **[Wanger Jones Helsley PC](https://www.wjhattorneys.com)** | **[Summer Clerk 2027 - Fresno or Sacramento Office](https://jobright.ai/jobs/info/69ee6ba858811370cb143e40?utm_campaign=1055&utm_source=git)** | Fresno, CA | On Site | Apr 26 |
@@ -86,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Enhanced](https://www.enhanced.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ec02ff16b2612c2a12067f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[CFP Board](https://www.cfp.net/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ebe234dc35f7132c4b410c?utm_campaign=1055&utm_source=git)** | Washington, D.C., Washington, DC, US | Hybrid | Apr 24 |
 | **[BioTissue Ocular](https://biotissue.com/)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69ebe23116b2612c2a11f8b4?utm_campaign=1055&utm_source=git)** | Miami, FL, US | On Site | Apr 24 |
-| **[DeAngelus Goralczyk, PLLC](https://dglawny.com)** | **[Law Clerk summer intern for admin work](https://jobright.ai/jobs/info/69ebe22a0a6e09555304b05d?utm_campaign=1055&utm_source=git)** | Clifton Park, Clifton Park, NY, US | On Site | Apr 24 |
+| **[DeAngelus Group, PLLC](https://dglawny.com)** | **[Law Clerk summer intern for admin work](https://jobright.ai/jobs/info/69ebe22a0a6e09555304b05d?utm_campaign=1055&utm_source=git)** | Clifton Park, Clifton Park, NY, US | On Site | Apr 24 |
 | **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[Pre Law Intern](https://jobright.ai/jobs/info/69ebfdf60a6e09555304bede?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 24 |
 | **[Enhanced](https://www.enhanced.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ebfc4c4b0fa35a7077ff34?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Apr 24 |
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, Risk Advisory - Fall 2026, Cranberry Township](https://jobright.ai/jobs/info/69ebc3a616b2612c2a11e70a?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 24 |
@@ -118,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Sedgwick](http://www.sedgwick.com)** | **[Property Adjuster Trainee](https://jobright.ai/jobs/info/69eaffe516b2612c2a1184b9?utm_campaign=1055&utm_source=git)** | Addison, TX | On Site | Apr 23 |
 | **[Medtronic](https://www.medtronic.com)** | **[Intern: Regulatory Affairs](https://jobright.ai/jobs/info/69eb06fcdc35f7132c4ad24a?utm_campaign=1055&utm_source=git)** | Brampton, Ontario, Canada | On Site | Apr 23 |
 | **[CAC Group](https://cacgroup.com)** | **[Intern, Surety](https://jobright.ai/jobs/info/69eb521adc35f7132c4af6d6?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 23 |
-| ↳ | **[Intern, Cyber](https://jobright.ai/jobs/info/69eb521bdc35f7132c4af6e1?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 23 |
 | ↳ | **[Intern, Complex Property & Casualty](https://jobright.ai/jobs/info/69eb52b458811370cb1387d0?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 23 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ea758d7820c036924ee285?utm_campaign=1055&utm_source=git)** | Kirkland, WA | On Site | Apr 23 |
 | **[Lakewood Cemetery](https://www.lakewoodcemetery.org/)** | **[Variable Probation Intern](https://jobright.ai/jobs/info/69ea727458811370cb133192?utm_campaign=1055&utm_source=git)** | Lakewood, CO, US | On Site | Apr 23 |
@@ -126,8 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Draper](https://www.draper.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/69ea6b9a3aa0c479643af93c?utm_campaign=1055&utm_source=git)** | Cambridge, MA, US | Hybrid | Apr 23 |
 | **[Jupiter Power](https://www.jupiterpower.io/)** | **[Regulatory Compliance Summer Intern](https://jobright.ai/jobs/info/69ea56723aa0c479643af0f6?utm_campaign=1055&utm_source=git)** | Houston, Texas, United States | Hybrid | Apr 23 |
 | **[Atria Health and Research Institute](https://www.atria.org)** | **[Legal Intern - NYC](https://jobright.ai/jobs/info/69e6893b7820c036924d108c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 23 |
-| **[CAC Group](https://cacgroup.com)** | **[Intern, Complex Property & Casualty](https://jobright.ai/jobs/info/69ea47e658811370cb13236a?utm_campaign=1055&utm_source=git)** | Atlanta, Georgia, US | On Site | Apr 23 |
-| ↳ | **[Intern, Surety](https://jobright.ai/jobs/info/69ea47e57820c036924ecb2b?utm_campaign=1055&utm_source=git)** | Houston, Texas, US | On Site | Apr 23 |
+| **[CAC Group](https://cacgroup.com)** | **[Intern, Surety](https://jobright.ai/jobs/info/69ea47e57820c036924ecb2b?utm_campaign=1055&utm_source=git)** | Houston, Texas, US | On Site | Apr 23 |
 | **[Bell County](http://www.bellcountytx.com)** | **[Intern - District Attorney's Office, Administrative,](https://jobright.ai/jobs/info/69ea47a84b0fa35a707731f2?utm_campaign=1055&utm_source=git)** | Belton - Justice Complex, US | On Site | Apr 23 |
 | **[CAC Group](https://cacgroup.com)** | **[Intern, Natural Resources - Oil & Gas](https://jobright.ai/jobs/info/69ea47a20a6e09555303ff2f?utm_campaign=1055&utm_source=git)** | Houston, Texas, US | On Site | Apr 23 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Children's Legal Intern (Unpaid)](https://jobright.ai/jobs/info/69d712de48f0c8161d2fcc98?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, NY | On Site | Apr 22 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/69e9416958811370cb12c23b?utm_campaign=1055&utm_source=git)** | Loveland, CO | On Site | Apr 22 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong FOIA Paralegal Intern](https://jobright.ai/jobs/info/69e9369e3aa0c479643a8613?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
+| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69a65416e567421f42575353?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, US | Hybrid | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
