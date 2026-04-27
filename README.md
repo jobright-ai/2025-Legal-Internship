@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skanska](http://skanska.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ef61e358811370cb145d12?utm_campaign=1055&utm_source=git)** | US-NY-Queens | On Site | Apr 27 |
 | **[JPS Composite Materials](https://jpscm.com)** | **[Document Compliance Intern](https://jobright.ai/jobs/info/69ef4d9a4b0fa35a707888ad?utm_campaign=1055&utm_source=git)** | Miami, FL, 33137, United States | On Site | Apr 27 |
 | **[Kinetico Incorporated](https://www.kinetico.com)** | **[IT Security & Compliance Intern](https://jobright.ai/jobs/info/69ef0de20a6e0955530537a3?utm_campaign=1055&utm_source=git)** | Newbury, OH | On Site | Apr 27 |
 | **[Kinetico Incorporated](https://www.kinetico.com)** | **[IT Security & Compliance Intern](https://jobright.ai/jobs/info/69eee6054b0fa35a70787c2a?utm_campaign=1055&utm_source=git)** | Newbury Township, OH, US | On Site | Apr 26 |
@@ -119,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Sedgwick](http://www.sedgwick.com)** | **[Property Adjuster Trainee](https://jobright.ai/jobs/info/69eaffe516b2612c2a1184b9?utm_campaign=1055&utm_source=git)** | Addison, TX | On Site | Apr 23 |
 | **[Medtronic](https://www.medtronic.com)** | **[Intern: Regulatory Affairs](https://jobright.ai/jobs/info/69eb06fcdc35f7132c4ad24a?utm_campaign=1055&utm_source=git)** | Brampton, Ontario, Canada | On Site | Apr 23 |
 | **[CAC Group](https://cacgroup.com)** | **[Intern, Surety](https://jobright.ai/jobs/info/69eb521adc35f7132c4af6d6?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 23 |
-| ↳ | **[Intern, Complex Property & Casualty](https://jobright.ai/jobs/info/69eb52b458811370cb1387d0?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 23 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ea758d7820c036924ee285?utm_campaign=1055&utm_source=git)** | Kirkland, WA | On Site | Apr 23 |
 | **[Lakewood Cemetery](https://www.lakewoodcemetery.org/)** | **[Variable Probation Intern](https://jobright.ai/jobs/info/69ea727458811370cb133192?utm_campaign=1055&utm_source=git)** | Lakewood, CO, US | On Site | Apr 23 |
 | **[Jupiter Power](https://www.jupiterpower.io/)** | **[Regulatory Compliance Summer Intern](https://jobright.ai/jobs/info/69eae81416b2612c2a118175?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Apr 23 |
