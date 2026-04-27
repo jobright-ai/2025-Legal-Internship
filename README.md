@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JPS Composite Materials](https://jpscm.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69ef76c6fbe0994a40eb64b7?utm_campaign=1055&utm_source=git)** | Miami, FL, 33137, United States | Hybrid | Apr 27 |
+| **[Werfen](http://www.werfen.com/)** | **[Regulatory Affairs Post Market Intern](https://jobright.ai/jobs/info/69ef73dafbe0994a40eb639e?utm_campaign=1055&utm_source=git)** | Bedford, MA, US | On Site | Apr 27 |
+| ↳ | **[Regulatory Affairs Post Market Intern](https://jobright.ai/jobs/info/69ef73d14b0fa35a707896fe?utm_campaign=1055&utm_source=git)** | US-MA-Bedford | On Site | Apr 27 |
+| **[USPTO](http://www.uspto.gov)** | **[Law Intern (San Jose, Bozeman, Dallas, Salt Lake City)](https://jobright.ai/jobs/info/69ef734416b2612c2a1298f2?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | On Site | Apr 27 |
+| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/69b694cd3b74eb1e2c8458cd?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Apr 27 |
+| **[Canadian Medical Association](https://www.cma.ca/)** | **[Articling Student (2027-2028 Term)](https://jobright.ai/jobs/info/69ef72c00a6e095553054d54?utm_campaign=1055&utm_source=git)** | Canada | Remote | Apr 27 |
+| **[Samsung Ads](http://www.samsungads.com)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/69ef72b816b2612c2a129670?utm_campaign=1055&utm_source=git)** | 284 Mawsons Way Newberry, SC, USA, US | On Site | Apr 27 |
 | **[Skanska](http://skanska.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ef61e358811370cb145d12?utm_campaign=1055&utm_source=git)** | US-NY-Queens | On Site | Apr 27 |
 | **[JPS Composite Materials](https://jpscm.com)** | **[Document Compliance Intern](https://jobright.ai/jobs/info/69ef4d9a4b0fa35a707888ad?utm_campaign=1055&utm_source=git)** | Miami, FL, 33137, United States | On Site | Apr 27 |
 | **[Kinetico Incorporated](https://www.kinetico.com)** | **[IT Security & Compliance Intern](https://jobright.ai/jobs/info/69ef0de20a6e0955530537a3?utm_campaign=1055&utm_source=git)** | Newbury, OH | On Site | Apr 27 |
@@ -89,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[CFP Board](https://www.cfp.net/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ebe234dc35f7132c4b410c?utm_campaign=1055&utm_source=git)** | Washington, D.C., Washington, DC, US | Hybrid | Apr 24 |
 | **[BioTissue Ocular](https://biotissue.com/)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69ebe23116b2612c2a11f8b4?utm_campaign=1055&utm_source=git)** | Miami, FL, US | On Site | Apr 24 |
 | **[DeAngelus Group, PLLC](https://dglawny.com)** | **[Law Clerk summer intern for admin work](https://jobright.ai/jobs/info/69ebe22a0a6e09555304b05d?utm_campaign=1055&utm_source=git)** | Clifton Park, Clifton Park, NY, US | On Site | Apr 24 |
-| **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[Pre Law Intern](https://jobright.ai/jobs/info/69ebfdf60a6e09555304bede?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 24 |
 | **[Enhanced](https://www.enhanced.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ebfc4c4b0fa35a7077ff34?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Apr 24 |
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, Risk Advisory - Fall 2026, Cranberry Township](https://jobright.ai/jobs/info/69ebc3a616b2612c2a11e70a?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 24 |
 | **[Dimension Energy](http://www.dimension-energy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ebfbce4b0fa35a7077fc36?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Apr 24 |
@@ -107,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Penumbra, Inc.](http://penumbrainc.com)** | **[Legal Intern T](https://jobright.ai/jobs/info/69eb4baa4b0fa35a7077a50d?utm_campaign=1055&utm_source=git)** | Alameda, CA | On Site | Apr 23 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Summer Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/69ea3b1cdc35f7132c4a8b27?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Apr 23 |
 | **[Pharmavite](http://www.pharmavite.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69eb3d9016b2612c2a11a67c?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 23 |
-| **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[Pre Law Intern](https://jobright.ai/jobs/info/69eba2640a6e0955530493a7?utm_campaign=1055&utm_source=git)** | Washington, D.C. | On Site | Apr 23 |
 | **[Jupiter Power](https://www.jupiterpower.io/)** | **[Regulatory Compliance Summer Intern](https://jobright.ai/jobs/info/69ec5e0a0a6e09555304deaf?utm_campaign=1055&utm_source=git)** | Houston, TX, US | Hybrid | Apr 23 |
 | **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Corporate Delivery (Legal, Compliance, Real Estate, Procurement, and EPMO)](https://jobright.ai/jobs/info/69cde3a654f00230c6cf7e61?utm_campaign=1055&utm_source=git)** | Manitoba, Canada | Hybrid | Apr 23 |
 | **[Aqua Finance, Inc.](https://www.aquafinance.com)** | **[Compliance Internship](https://jobright.ai/jobs/info/69eb4b3adc35f7132c4af480?utm_campaign=1055&utm_source=git)** | Wausau, WI | On Site | Apr 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Acadia Realty Trust](http://www.acadiarealty.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69e977ce58811370cb12d893?utm_campaign=1055&utm_source=git)** | Rye, NY, US | On Site | Apr 22 |
 | **[Middle River Power](https://www.middleriverpower.com/)** | **[Summer Legal Internship Program](https://jobright.ai/jobs/info/69e961323aa0c479643a9a27?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[UTS - Temporary Paralegal at NC State](https://jobright.ai/jobs/info/69e956c64b0fa35a7076db74?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Apr 22 |
-| **[Darktrace](https://www.darktrace.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69e921394b0fa35a7076c025?utm_campaign=1055&utm_source=git)** | Austin Office, US | Hybrid | Apr 22 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, NY | On Site | Apr 22 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/69e9416958811370cb12c23b?utm_campaign=1055&utm_source=git)** | Loveland, CO | On Site | Apr 22 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong FOIA Paralegal Intern](https://jobright.ai/jobs/info/69e9369e3aa0c479643a8613?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
-| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Enterprise Risk Management - Governance Intern](https://jobright.ai/jobs/info/69a65416e567421f42575353?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, US | Hybrid | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
