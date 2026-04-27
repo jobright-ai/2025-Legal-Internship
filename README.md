@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Regulatory Affairs Post Market Intern](https://jobright.ai/jobs/info/69ef97624b0fa35a7078a5b5?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Apr 27 |
+| **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time](https://jobright.ai/jobs/info/69ef96d8fbe0994a40eb7228?utm_campaign=1055&utm_source=git)** | Memphis, TN, US | On Site | Apr 27 |
+| ↳ | **[Legal Intern, Part-Time](https://jobright.ai/jobs/info/69ef96d34b0fa35a7078a400?utm_campaign=1055&utm_source=git)** | US-TN-Memphis | On Site | Apr 27 |
 | **[JPS Composite Materials](https://jpscm.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69ef76c6fbe0994a40eb64b7?utm_campaign=1055&utm_source=git)** | Miami, FL, 33137, United States | Hybrid | Apr 27 |
 | **[Werfen](http://www.werfen.com/)** | **[Regulatory Affairs Post Market Intern](https://jobright.ai/jobs/info/69ef73dafbe0994a40eb639e?utm_campaign=1055&utm_source=git)** | Bedford, MA, US | On Site | Apr 27 |
 | ↳ | **[Regulatory Affairs Post Market Intern](https://jobright.ai/jobs/info/69ef73d14b0fa35a707896fe?utm_campaign=1055&utm_source=git)** | US-MA-Bedford | On Site | Apr 27 |
@@ -131,8 +134,7 @@ For a complete list, click the following sortable link below:
 | **[Jupiter Power](https://www.jupiterpower.io/)** | **[Regulatory Compliance Summer Intern](https://jobright.ai/jobs/info/69ea56723aa0c479643af0f6?utm_campaign=1055&utm_source=git)** | Houston, Texas, United States | Hybrid | Apr 23 |
 | **[Atria Health and Research Institute](https://www.atria.org)** | **[Legal Intern - NYC](https://jobright.ai/jobs/info/69e6893b7820c036924d108c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 23 |
 | **[CAC Group](https://cacgroup.com)** | **[Intern, Surety](https://jobright.ai/jobs/info/69ea47e57820c036924ecb2b?utm_campaign=1055&utm_source=git)** | Houston, Texas, US | On Site | Apr 23 |
-| **[Bell County](http://www.bellcountytx.com)** | **[Intern - District Attorney's Office, Administrative,](https://jobright.ai/jobs/info/69ea47a84b0fa35a707731f2?utm_campaign=1055&utm_source=git)** | Belton - Justice Complex, US | On Site | Apr 23 |
-| **[CAC Group](https://cacgroup.com)** | **[Intern, Natural Resources - Oil & Gas](https://jobright.ai/jobs/info/69ea47a20a6e09555303ff2f?utm_campaign=1055&utm_source=git)** | Houston, Texas, US | On Site | Apr 23 |
+| ↳ | **[Intern, Natural Resources - Oil & Gas](https://jobright.ai/jobs/info/69ea47a20a6e09555303ff2f?utm_campaign=1055&utm_source=git)** | Houston, Texas, US | On Site | Apr 23 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Children's Legal Intern (Unpaid)](https://jobright.ai/jobs/info/69d712de48f0c8161d2fcc98?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
 | **[SOPHiA GENETICS](https://www.sophiagenetics.com)** | **[Legal Assistant Intern](https://jobright.ai/jobs/info/69e2d6b45c44d4710fe27218?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 23 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Building Security Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/69aa420e1f59c56275e31b9b?utm_campaign=1055&utm_source=git)** | Pontiac, MI | On Site | Apr 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Acadia Realty Trust](http://www.acadiarealty.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69e977ce58811370cb12d893?utm_campaign=1055&utm_source=git)** | Rye, NY, US | On Site | Apr 22 |
 | **[Middle River Power](https://www.middleriverpower.com/)** | **[Summer Legal Internship Program](https://jobright.ai/jobs/info/69e961323aa0c479643a9a27?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[UTS - Temporary Paralegal at NC State](https://jobright.ai/jobs/info/69e956c64b0fa35a7076db74?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Apr 22 |
-| **[Darktrace](https://www.darktrace.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69e921394b0fa35a7076c025?utm_campaign=1055&utm_source=git)** | Austin Office, US | Hybrid | Apr 22 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, NY | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
