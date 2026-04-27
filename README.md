@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kinetico Incorporated](https://www.kinetico.com)** | **[IT Security & Compliance Intern](https://jobright.ai/jobs/info/69ef0de20a6e0955530537a3?utm_campaign=1055&utm_source=git)** | Newbury, OH | On Site | Apr 27 |
 | **[Kinetico Incorporated](https://www.kinetico.com)** | **[IT Security & Compliance Intern](https://jobright.ai/jobs/info/69eee6054b0fa35a70787c2a?utm_campaign=1055&utm_source=git)** | Newbury Township, OH, US | On Site | Apr 26 |
 | **[Wanger Jones Helsley PC](https://www.wjhattorneys.com)** | **[Summer Clerk 2027 - Fresno or Sacramento Office](https://jobright.ai/jobs/info/69ee6ba858811370cb143e40?utm_campaign=1055&utm_source=git)** | Fresno, CA | On Site | Apr 26 |
 | **[Apex Clean Energy](http://apexcleanenergy.com)** | **[Land Management Summer Associate (Intern)](https://jobright.ai/jobs/info/69e86c1e3aa0c479643a3193?utm_campaign=1055&utm_source=git)** | Charlottesville, VA | On Site | Apr 26 |
@@ -136,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Amneal Pharmaceuticals](http://amneal.com/)** | **[2026 Summer Internship - Regulatory Affairs Clinical (Scientific Affairs) Piscataway, NJ](https://jobright.ai/jobs/info/69ea1e077820c036924ec233?utm_campaign=1055&utm_source=git)** | 1045 Centennial Avenue, Piscataway, NJ, 08854, US | On Site | Apr 23 |
 | **[Takasago International Corp. (USA)](http://www.takasago.com)** | **[Summer College Intern - Legal Department](https://jobright.ai/jobs/info/69ea3b2edc35f7132c4a8b64?utm_campaign=1055&utm_source=git)** | Rockleigh, NJ | On Site | Apr 23 |
 | **[MCPC](https://www.mcpc.com)** | **[Security Contracts Intern - Cleveland, Ohio](https://jobright.ai/jobs/info/69ea21d20a6e09555303f271?utm_campaign=1055&utm_source=git)** | Ohio, United States | On Site | Apr 23 |
-| **[SRS Acquiom](http://www.srsacquiom.com)** | **[M&A Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69eb92977820c036924f4ce9?utm_campaign=1055&utm_source=git)** | Denver, CO, US | Hybrid | Apr 23 |
 | **[New Mexico Department of Health](https://www.nmhealth.org/)** | **[Legal Intern (DOH/OGC#10118762)](https://jobright.ai/jobs/info/69e9c72958811370cb12f389?utm_campaign=1055&utm_source=git)** | Santa Fe, NM | On Site | Apr 23 |
 | **[Cochise County](https://www.cochise.az.gov/jobs)** | **[Justice Court Clerk Trainee (JP5) - Sierra Vista](https://jobright.ai/jobs/info/69e9b1d90a6e09555303d1ee?utm_campaign=1055&utm_source=git)** | Sierra Vista, AZ | On Site | Apr 22 |
 | **[DrFirst, Inc.](http://drfirst.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69e9b22b4b0fa35a7076fa54?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 22 |
