@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leidos](https://www.leidos.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/69efab12fbe0994a40eb7903?utm_campaign=1055&utm_source=git)** | Reston, VA, US | On Site | Apr 27 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Regulatory Affairs Post Market Intern](https://jobright.ai/jobs/info/69ef97624b0fa35a7078a5b5?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Apr 27 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time](https://jobright.ai/jobs/info/69ef96d8fbe0994a40eb7228?utm_campaign=1055&utm_source=git)** | Memphis, TN, US | On Site | Apr 27 |
 | ↳ | **[Legal Intern, Part-Time](https://jobright.ai/jobs/info/69ef96d34b0fa35a7078a400?utm_campaign=1055&utm_source=git)** | US-TN-Memphis | On Site | Apr 27 |
+| **[Samsung SDS](https://www.samsungsds.com/)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/69efad5c0a6e0955530564ea?utm_campaign=1055&utm_source=git)** | Newberry, SC | On Site | Apr 27 |
 | **[JPS Composite Materials](https://jpscm.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69ef76c6fbe0994a40eb64b7?utm_campaign=1055&utm_source=git)** | Miami, FL, 33137, United States | Hybrid | Apr 27 |
 | **[Werfen](http://www.werfen.com/)** | **[Regulatory Affairs Post Market Intern](https://jobright.ai/jobs/info/69ef73dafbe0994a40eb639e?utm_campaign=1055&utm_source=git)** | Bedford, MA, US | On Site | Apr 27 |
 | ↳ | **[Regulatory Affairs Post Market Intern](https://jobright.ai/jobs/info/69ef73d14b0fa35a707896fe?utm_campaign=1055&utm_source=git)** | US-MA-Bedford | On Site | Apr 27 |
@@ -91,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[RG&T Solutions](https://www.linkedin.com/company/112014533)** | **[Legal Summer Internship](https://jobright.ai/jobs/info/69ec17b40a6e09555304c691?utm_campaign=1055&utm_source=git)** | Racine, WI | On Site | Apr 24 |
 | **[CFP Board](https://www.cfp.net/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ec11cd0a6e09555304c5f4?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 24 |
 | **[Firstrust Bank](https://www.firstrust.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ec0aa3dc35f7132c4b53f2?utm_campaign=1055&utm_source=git)** | Conshohocken, PA | On Site | Apr 24 |
-| **[BD](https://www.bd.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69ec25a216b2612c2a12139e?utm_campaign=1055&utm_source=git)** | Tempe, AZ | On Site | Apr 24 |
 | **[ICU Medical](https://www.icumed.com/products/specialty/renal-systems/clearguard-hd)** | **[Legal Intern - Contract Support](https://jobright.ai/jobs/info/69ec03167820c036924f8ac2?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 24 |
 | **[Gale Hotels](https://www.galehotelmiami.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69edac187820c036924fd534?utm_campaign=1055&utm_source=git)** | Miami, FL, US | On Site | Apr 24 |
 | **[BioTissue](https://biotissue.com/)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69ebfb9f16b2612c2a120216?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Apr 24 |
@@ -149,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[SPR](https://www.sprpainrelief.com)** | **[Sales Contracts Intern](https://jobright.ai/jobs/info/69dd52af61f6ed54321fc7f8?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Apr 22 |
 | **[State of Florida](http://www.myflorida.com)** | **[OPS Law Clerk - 31902556](https://jobright.ai/jobs/info/69eb0bf558811370cb13659b?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 22 |
 | ↳ | **[68064880 - SENIOR ATTORNEY](https://jobright.ai/jobs/info/69eb0ba316b2612c2a118729?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 22 |
-| **[Darktrace](https://www.darktrace.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69e98e28e0cd471b2f13e515?utm_campaign=1055&utm_source=git)** | Austin, TX | Hybrid | Apr 22 |
 | **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Administrative Specialist I - Compliance](https://jobright.ai/jobs/info/69eb2ffa58811370cb136dbe?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | Apr 22 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/69eb3cdbdc35f7132c4aee97?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | Apr 22 |
 | **[Weld County Government](http://www.weldgov.com)** | **[District Attorney Legal Intern Part-Time](https://jobright.ai/jobs/info/69e958c40a6e09555303b531?utm_campaign=1055&utm_source=git)** | CENTENNIAL CENTER, US | On Site | Apr 22 |
