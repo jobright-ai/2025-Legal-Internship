@@ -97,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[PTR Premier Truck Rental](https://rentptr.com)** | **[Intern Legal](https://jobright.ai/jobs/info/69b330e5ae2a534885ea97d2?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | On Site | Apr 24 |
 | **[Corsair](http://www.corsair.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69406d5e49a7695fbd05ef2c?utm_campaign=1055&utm_source=git)** | Milpitas, CA | On Site | Apr 24 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Paralegal Intern](https://jobright.ai/jobs/info/697986f9ca92cf0d6a82af70?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Apr 24 |
-| **[LawBhoomi](https://lawbhoomi.com/)** | **[Legal Internship Opportunity at Weatherford: Apply Now!](https://jobright.ai/jobs/info/69eb90454b0fa35a7077c136?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Apr 24 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Law Intern- CEASE Clinic](https://jobright.ai/jobs/info/69eb8fd316b2612c2a11c53f?utm_campaign=1055&utm_source=git)** | Athens, GA | On Site | Apr 24 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Compliance and Corporate Social Responsibility Intern](https://jobright.ai/jobs/info/69cec4d6366bb95ba550f501?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 24 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69e0fe89d612782e6114655b?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Apr 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Darktrace](https://www.darktrace.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69e921394b0fa35a7076c025?utm_campaign=1055&utm_source=git)** | Austin Office, US | Hybrid | Apr 22 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, NY | On Site | Apr 22 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, Regulatory](https://jobright.ai/jobs/info/69e9416958811370cb12c23b?utm_campaign=1055&utm_source=git)** | Loveland, CO | On Site | Apr 22 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong FOIA Paralegal Intern](https://jobright.ai/jobs/info/69e9369e3aa0c479643a8613?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
