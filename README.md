@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[INX International Ink Co.](https://www.inxinternational.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f0df1eecbc8c2f732024f3?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | On Site | Apr 28 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69f0d7f962b48c6838792496?utm_campaign=1055&utm_source=git)** | 150 N Martingale Rd, Schaumburg, IL 60173, USA | On Site | Apr 28 |
+| **[SOCOTEC](http://www.socotec.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69d4117c891d7b11cfcf706e?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[the LEGO Group](http://www.lego.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f0d0ceb27fee43e8cd5a01?utm_campaign=1055&utm_source=git)** | Richmond, US | On Site | Apr 28 |
 | **[Reveleer](https://www.reveleer.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f0cfbd8d8d624381a98751?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Canon USA](https://www.usa.canon.com)** | **[2026 Canon Insights Summer Internship - Legal](https://jobright.ai/jobs/info/69b873e856973837413dcb48?utm_campaign=1055&utm_source=git)** | Melville, NY | Hybrid | Apr 28 |
 | **[FOLX Health](https://www.folxhealth.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69f0c65d8feca91f1491cc0e?utm_campaign=1055&utm_source=git)** | Remote, US | Remote | Apr 28 |
 | **[Temposonics](https://www.mtssensors.com)** | **[Quality/Regulatory Compliance Intern](https://jobright.ai/jobs/info/69f0b7ce825a315d7ca3336d?utm_campaign=1055&utm_source=git)** | Depew, NY, Depew, NY, US | On Site | Apr 28 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69f0910e62b48c683879014d?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 28 |
-| ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69f0b8088d8d624381a97448?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Apr 28 |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69f0b8088d8d624381a97448?utm_campaign=1055&utm_source=git)** | Portsmouth, NH | On Site | Apr 28 |
 | ↳ | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69f0b703b27fee43e8cd44fd?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | On Site | Apr 28 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69f047f1825a315d7ca31b90?utm_campaign=1055&utm_source=git)** | Neenah, WI | On Site | Apr 27 |
 | **[Ion Bank](http://ionbank.com)** | **[Junior Fraud Analyst Intern](https://jobright.ai/jobs/info/69f06620b27fee43e8cd3512?utm_campaign=1055&utm_source=git)** | Naugatuck, CT | On Site | Apr 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Penumbra, Inc.](http://penumbrainc.com)** | **[Legal Intern T](https://jobright.ai/jobs/info/69eaa37b58811370cb1348e0?utm_campaign=1055&utm_source=git)** | Alameda, CA | On Site | Apr 23 |
 | **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69ea9ccc0a6e0955530420b0?utm_campaign=1055&utm_source=git)** | West Hills, CA, US | Hybrid | Apr 23 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ea91d80a6e095553041dbd?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Apr 23 |
-| **[Alberta New Home Warranty Program](https://www.anhwp.com)** | **[Legal Summer Student](https://jobright.ai/jobs/info/69eb41dd4b0fa35a7077a04e?utm_campaign=1055&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Apr 23 |
-| **[First Mutual Holding Co.](https://www.firstmutualholding.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69eb2ee64b0fa35a70778871?utm_campaign=1055&utm_source=git)** | Westlake, OH | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
