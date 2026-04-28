@@ -57,16 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efee7efbe0994a40eb9a5e?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Apr 27 |
+| **[Leidos](https://www.leidos.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/69efed9258811370cb149aca?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Apr 27 |
+| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efe88b16b2612c2a12ca1f?utm_campaign=1055&utm_source=git)** | Tampa, Florida, US | Hybrid | Apr 27 |
+| ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efe83b4b0fa35a7078cca5?utm_campaign=1055&utm_source=git)** | Dallas, Texas, US | Hybrid | Apr 27 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Records Management Intern](https://jobright.ai/jobs/info/69efe5cd4b0fa35a7078c88c?utm_campaign=1055&utm_source=git)** | Arlington, VA, US | On Site | Apr 27 |
 | ↳ | **[Contracts Intern](https://jobright.ai/jobs/info/69efd872e624fe645d533aaa?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Apr 27 |
-| **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc7340a6e095553057347?utm_campaign=1055&utm_source=git)** | US-TN-Memphis | On Site | Apr 27 |
-| ↳ | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc734e624fe645d533772?utm_campaign=1055&utm_source=git)** | Memphis, TN, US | On Site | Apr 27 |
+| **[Colorado District Attorneys'​ Council](https://coloradoprosecutors.org/)** | **[Deputy District Attorney ($5,000 sign-on bonus*)](https://jobright.ai/jobs/info/69eff3c058811370cb149f60?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
+| ↳ | **[Deputy District Attorney III or IV](https://jobright.ai/jobs/info/69eff3b516b2612c2a12ceff?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
+| **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc734e624fe645d533772?utm_campaign=1055&utm_source=git)** | Memphis, TN, US | On Site | Apr 27 |
+| ↳ | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc7340a6e095553057347?utm_campaign=1055&utm_source=git)** | US-TN-Memphis | On Site | Apr 27 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efc5f4fbe0994a40eb8666?utm_campaign=1055&utm_source=git)** | Vancouver, WA | Hybrid | Apr 27 |
 | ↳ | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efbdd016b2612c2a12b87f?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 27 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time](https://jobright.ai/jobs/info/69efbb400a6e095553056f86?utm_campaign=1055&utm_source=git)** | Memphis, TN | On Site | Apr 27 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efbb3a0a6e095553056f5c?utm_campaign=1055&utm_source=git)** | Boise, ID | Hybrid | Apr 27 |
 | **[Fenwick & West](http://fenwick.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/69efb8fde624fe645d532f16?utm_campaign=1055&utm_source=git)** | Washington, D.C., US | Hybrid | Apr 27 |
-| **[TheCactusGroup](https://thecactusgroup.com/)** | **[AI Governance & DIB Compliance Intern](https://jobright.ai/jobs/info/69efd6c50a6e0955530577cd?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Ion Bank](http://ionbank.com)** | **[Junior Fraud Analyst Intern](https://jobright.ai/jobs/info/69efb79416b2612c2a12afc1?utm_campaign=1055&utm_source=git)** | Naugatuck, Connecticut, United States | On Site | Apr 27 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efd38de624fe645d533802?utm_campaign=1055&utm_source=git)** | Renton, WA | Hybrid | Apr 27 |
 | ↳ | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efd37816b2612c2a12bb82?utm_campaign=1055&utm_source=git)** | Portland, OR | Hybrid | Apr 27 |
@@ -105,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[Ethics & Business Integrity Intern](https://jobright.ai/jobs/info/69ec416bdc35f7132c4b6483?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Apr 24 |
 | **[Applied Technical Services, LLC](http://www.atslab.com)** | **[Summer Internship - Legal (56405)](https://jobright.ai/jobs/info/69ec32d24b0fa35a70781498?utm_campaign=1055&utm_source=git)** | MARIETTA - MARIETTA, GA 30062 | Hybrid | Apr 24 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Accessibility Compliance Analyst](https://jobright.ai/jobs/info/69ec32777820c036924f9a22?utm_campaign=1055&utm_source=git)** | Northridge, CA | Hybrid | Apr 24 |
-| **[RG&T Solutions](https://www.linkedin.com/company/112014533)** | **[Legal Summer Internship](https://jobright.ai/jobs/info/69ec17b40a6e09555304c691?utm_campaign=1055&utm_source=git)** | Racine, WI | On Site | Apr 24 |
 | **[CFP Board](https://www.cfp.net/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ec11cd0a6e09555304c5f4?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 24 |
 | **[ICU Medical](https://www.icumed.com/products/specialty/renal-systems/clearguard-hd)** | **[Legal Intern - Contract Support](https://jobright.ai/jobs/info/69ec03167820c036924f8ac2?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 24 |
 | **[Gale Hotels](https://www.galehotelmiami.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69edac187820c036924fd534?utm_campaign=1055&utm_source=git)** | Miami, FL, US | On Site | Apr 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Children's Legal Intern (Unpaid)](https://jobright.ai/jobs/info/69d712de48f0c8161d2fcc98?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
 | **[SOPHiA GENETICS](https://www.sophiagenetics.com)** | **[Legal Assistant Intern](https://jobright.ai/jobs/info/69e2d6b45c44d4710fe27218?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 23 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Building Security Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/69aa420e1f59c56275e31b9b?utm_campaign=1055&utm_source=git)** | Pontiac, MI | On Site | Apr 23 |
-| **[New York State Unified Court System](https://www.nycourts.gov)** | **[Legal Internship (Rural Pathways)](https://jobright.ai/jobs/info/69ea63a20a6e095553040865?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Apr 23 |
-| **[Amneal Pharmaceuticals](http://amneal.com/)** | **[2026 Summer Internship - Regulatory Affairs Clinical (Scientific Affairs) Piscataway, NJ](https://jobright.ai/jobs/info/69ea1e077820c036924ec233?utm_campaign=1055&utm_source=git)** | 1045 Centennial Avenue, Piscataway, NJ, 08854, US | On Site | Apr 23 |
-| **[Takasago International Corp. (USA)](http://www.takasago.com)** | **[Summer College Intern - Legal Department](https://jobright.ai/jobs/info/69ea3b2edc35f7132c4a8b64?utm_campaign=1055&utm_source=git)** | Rockleigh, NJ | On Site | Apr 23 |
-| **[MCPC](https://www.mcpc.com)** | **[Security Contracts Intern - Cleveland, Ohio](https://jobright.ai/jobs/info/69ea21d20a6e09555303f271?utm_campaign=1055&utm_source=git)** | Ohio, United States | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
