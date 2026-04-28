@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HPC Industrial powered by Clean Harbors](www.hpc-industrial.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69f107d862b48c683879337d?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Apr 28 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Legal Internship - 2025 SWEL Summer Associate Program](https://jobright.ai/jobs/info/69f1046c8feca91f1491e059?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, US | Hybrid | Apr 28 |
+| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT PAID INTERN- Crimes Against Children Division](https://jobright.ai/jobs/info/69f10138ecbc8c2f73203181?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 28 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69f0fe35825a315d7ca3568a?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Apr 28 |
 | **[Corpay](https://payments.corpay.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69d45e1c891d7b11cfcf9be4?utm_campaign=1055&utm_source=git)** | Peachtree Corners, GA | Remote | Apr 28 |
 | **[Jurispruve](www.jurispruve.com)** | **[Legal Research Intern](https://jobright.ai/jobs/info/69f0fb92825a315d7ca3551a?utm_campaign=1055&utm_source=git)** | NYC Metro Area | Remote | Apr 28 |
@@ -64,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[PCB Piezotronics, Inc.](http://www.pcb.com/)** | **[Quality/Regulatory Compliance Intern](https://jobright.ai/jobs/info/69f0f4b062b48c6838792d81?utm_campaign=1055&utm_source=git)** | Depew, NY | On Site | Apr 28 |
 | **[Webster First Federal Credit Union](https://www.websterfirst.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69f0eec8ecbc8c2f73202b56?utm_campaign=1055&utm_source=git)** | Operations Center, 271 Greenwood Street, Worcester, MA | On Site | Apr 28 |
 | **[CME Group](http://www.cmegroup.com)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/69f0ee67ecbc8c2f73202955?utm_campaign=1055&utm_source=git)** | Chicago - 20 S. Wacker, US | On Site | Apr 28 |
+| ↳ | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/69f10398b27fee43e8cd6a97?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
 | **[INX International Ink Co.](https://www.inxinternational.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f0df1eecbc8c2f732024f3?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | On Site | Apr 28 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69f0d7f962b48c6838792496?utm_campaign=1055&utm_source=git)** | 150 N Martingale Rd, Schaumburg, IL 60173, USA | On Site | Apr 28 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69d3da8be63cea7a8b654046?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 28 |
@@ -86,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efe88b16b2612c2a12ca1f?utm_campaign=1055&utm_source=git)** | Tampa, Florida, US | Hybrid | Apr 27 |
 | ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efe83b4b0fa35a7078cca5?utm_campaign=1055&utm_source=git)** | Dallas, Texas, US | Hybrid | Apr 27 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Records Management Intern](https://jobright.ai/jobs/info/69efe5cd4b0fa35a7078c88c?utm_campaign=1055&utm_source=git)** | Arlington, VA, US | On Site | Apr 27 |
-| **[Colorado District Attorneys'​ Council](https://coloradoprosecutors.org/)** | **[Deputy District Attorney III or IV](https://jobright.ai/jobs/info/69eff3b516b2612c2a12ceff?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
-| ↳ | **[Deputy District Attorney ($5,000 sign-on bonus*)](https://jobright.ai/jobs/info/69eff3c058811370cb149f60?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
+| **[Colorado District Attorneys'​ Council](https://coloradoprosecutors.org/)** | **[Deputy District Attorney ($5,000 sign-on bonus*)](https://jobright.ai/jobs/info/69eff3c058811370cb149f60?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
+| ↳ | **[Deputy District Attorney III or IV](https://jobright.ai/jobs/info/69eff3b516b2612c2a12ceff?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc7340a6e095553057347?utm_campaign=1055&utm_source=git)** | US-TN-Memphis | On Site | Apr 27 |
 | ↳ | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc734e624fe645d533772?utm_campaign=1055&utm_source=git)** | Memphis, TN, US | On Site | Apr 27 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efc5f4fbe0994a40eb8666?utm_campaign=1055&utm_source=git)** | Vancouver, WA | Hybrid | Apr 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Compliance and Corporate Social Responsibility Intern](https://jobright.ai/jobs/info/69cec4d6366bb95ba550f501?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 24 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69e0fe89d612782e6114655b?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Apr 24 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Legal Services Intern](https://jobright.ai/jobs/info/69e7e4827820c036924d8e17?utm_campaign=1055&utm_source=git)** | Baltimore, MD | Hybrid | Apr 23 |
-| **[Penumbra, Inc.](http://penumbrainc.com)** | **[Legal Intern T](https://jobright.ai/jobs/info/69eb4baa4b0fa35a7077a50d?utm_campaign=1055&utm_source=git)** | Alameda, CA | On Site | Apr 23 |
-| **[Pharmavite](http://www.pharmavite.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69eb3d9016b2612c2a11a67c?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 23 |
-| **[Jupiter Power](https://www.jupiterpower.io/)** | **[Regulatory Compliance Summer Intern](https://jobright.ai/jobs/info/69ec5e0a0a6e09555304deaf?utm_campaign=1055&utm_source=git)** | Houston, TX, US | Hybrid | Apr 23 |
-| **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Corporate Delivery (Legal, Compliance, Real Estate, Procurement, and EPMO)](https://jobright.ai/jobs/info/69cde3a654f00230c6cf7e61?utm_campaign=1055&utm_source=git)** | Manitoba, Canada | Hybrid | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
