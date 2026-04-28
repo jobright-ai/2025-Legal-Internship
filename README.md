@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Records Management Intern](https://jobright.ai/jobs/info/69f0281f2b095843b0311a6b?utm_campaign=1055&utm_source=git)** | Arlington, VA | Hybrid | Apr 27 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69f01fe0b27fee43e8cd2324?utm_campaign=1055&utm_source=git)** | Neenah, Wisconsin, US | On Site | Apr 27 |
 | **[Peraton](https://www.peraton.com/)** | **[Contracts Administration Pipeline (Intern and Entry-level)](https://jobright.ai/jobs/info/69df83a2aba61f141731c020?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Apr 27 |
 | **[Raymond James Ltd.](https://www.raymondjames.ca/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69eff3e7fbe0994a40eb9c39?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 27 |
@@ -135,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Magnera Corporation](https://magnera.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69e0fe89d612782e6114655b?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Apr 24 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Legal Services Intern](https://jobright.ai/jobs/info/69e7e4827820c036924d8e17?utm_campaign=1055&utm_source=git)** | Baltimore, MD | Hybrid | Apr 23 |
 | **[Penumbra, Inc.](http://penumbrainc.com)** | **[Legal Intern T](https://jobright.ai/jobs/info/69eb4baa4b0fa35a7077a50d?utm_campaign=1055&utm_source=git)** | Alameda, CA | On Site | Apr 23 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Summer Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/69ea3b1cdc35f7132c4a8b27?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Apr 23 |
 | **[Pharmavite](http://www.pharmavite.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69eb3d9016b2612c2a11a67c?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 23 |
 | **[Jupiter Power](https://www.jupiterpower.io/)** | **[Regulatory Compliance Summer Intern](https://jobright.ai/jobs/info/69ec5e0a0a6e09555304deaf?utm_campaign=1055&utm_source=git)** | Houston, TX, US | Hybrid | Apr 23 |
 | **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Corporate Delivery (Legal, Compliance, Real Estate, Procurement, and EPMO)](https://jobright.ai/jobs/info/69cde3a654f00230c6cf7e61?utm_campaign=1055&utm_source=git)** | Manitoba, Canada | Hybrid | Apr 23 |
