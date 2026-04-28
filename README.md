@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Global Risk Solutions Claims Internship - Summer 2026](https://jobright.ai/jobs/info/69f08f398d8d624381a966c5?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Apr 28 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69f047f1825a315d7ca31b90?utm_campaign=1055&utm_source=git)** | Neenah, WI | On Site | Apr 27 |
 | **[Ion Bank](http://ionbank.com)** | **[Junior Fraud Analyst Intern](https://jobright.ai/jobs/info/69f06620b27fee43e8cd3512?utm_campaign=1055&utm_source=git)** | Naugatuck, CT | On Site | Apr 27 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d6bb1352a5bf580012b6e0?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Apr 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lakewood Cemetery](https://www.lakewoodcemetery.org/)** | **[Variable Probation Intern](https://jobright.ai/jobs/info/69ea727458811370cb133192?utm_campaign=1055&utm_source=git)** | Lakewood, CO, US | On Site | Apr 23 |
 | **[Jupiter Power](https://www.jupiterpower.io/)** | **[Regulatory Compliance Summer Intern](https://jobright.ai/jobs/info/69eae81416b2612c2a118175?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Apr 23 |
 | **[Draper](https://www.draper.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/69ea6b9a3aa0c479643af93c?utm_campaign=1055&utm_source=git)** | Cambridge, MA, US | Hybrid | Apr 23 |
-| **[Jupiter Power](https://www.jupiterpower.io/)** | **[Regulatory Compliance Summer Intern](https://jobright.ai/jobs/info/69ea56723aa0c479643af0f6?utm_campaign=1055&utm_source=git)** | Houston, Texas, United States | Hybrid | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
