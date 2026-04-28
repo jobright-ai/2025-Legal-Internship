@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69f047f1825a315d7ca31b90?utm_campaign=1055&utm_source=git)** | Neenah, WI | On Site | Apr 27 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d6bb1352a5bf580012b6e0?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Apr 27 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Records Management Intern](https://jobright.ai/jobs/info/69f0281f2b095843b0311a6b?utm_campaign=1055&utm_source=git)** | Arlington, VA | Hybrid | Apr 27 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69f01fe0b27fee43e8cd2324?utm_campaign=1055&utm_source=git)** | Neenah, Wisconsin, US | On Site | Apr 27 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Contracts Intern](https://jobright.ai/jobs/info/69efd872e624fe645d533aaa?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | Apr 27 |
 | **[Colorado District Attorneys'​ Council](https://coloradoprosecutors.org/)** | **[Deputy District Attorney III or IV](https://jobright.ai/jobs/info/69eff3b516b2612c2a12ceff?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
 | ↳ | **[Deputy District Attorney ($5,000 sign-on bonus*)](https://jobright.ai/jobs/info/69eff3c058811370cb149f60?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
-| **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc7340a6e095553057347?utm_campaign=1055&utm_source=git)** | US-TN-Memphis | On Site | Apr 27 |
-| ↳ | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc734e624fe645d533772?utm_campaign=1055&utm_source=git)** | Memphis, TN, US | On Site | Apr 27 |
+| **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc734e624fe645d533772?utm_campaign=1055&utm_source=git)** | Memphis, TN, US | On Site | Apr 27 |
+| ↳ | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc7340a6e095553057347?utm_campaign=1055&utm_source=git)** | US-TN-Memphis | On Site | Apr 27 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efc5f4fbe0994a40eb8666?utm_campaign=1055&utm_source=git)** | Vancouver, WA | Hybrid | Apr 27 |
 | ↳ | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efbdd016b2612c2a12b87f?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 27 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time](https://jobright.ai/jobs/info/69efbb400a6e095553056f86?utm_campaign=1055&utm_source=git)** | Memphis, TN | On Site | Apr 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Draper](https://www.draper.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/69ea6b9a3aa0c479643af93c?utm_campaign=1055&utm_source=git)** | Cambridge, MA, US | Hybrid | Apr 23 |
 | **[Jupiter Power](https://www.jupiterpower.io/)** | **[Regulatory Compliance Summer Intern](https://jobright.ai/jobs/info/69ea56723aa0c479643af0f6?utm_campaign=1055&utm_source=git)** | Houston, Texas, United States | Hybrid | Apr 23 |
 | **[Atria Health and Research Institute](https://www.atria.org)** | **[Legal Intern - NYC](https://jobright.ai/jobs/info/69e6893b7820c036924d108c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 23 |
-| **[CAC Group](https://cacgroup.com)** | **[Intern, Surety](https://jobright.ai/jobs/info/69ea47e57820c036924ecb2b?utm_campaign=1055&utm_source=git)** | Houston, Texas, US | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
