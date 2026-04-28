@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69f01fe0b27fee43e8cd2324?utm_campaign=1055&utm_source=git)** | Neenah, Wisconsin, US | On Site | Apr 27 |
+| **[Peraton](https://www.peraton.com/)** | **[Contracts Administration Pipeline (Intern and Entry-level)](https://jobright.ai/jobs/info/69df83a2aba61f141731c020?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Apr 27 |
 | **[Raymond James Ltd.](https://www.raymondjames.ca/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69eff3e7fbe0994a40eb9c39?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 27 |
 | **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efee7efbe0994a40eb9a5e?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Apr 27 |
 | **[Leidos](https://www.leidos.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/69efed9258811370cb149aca?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Apr 27 |
@@ -106,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Earthjustice](http://earthjustice.org/)** | **[Fall 2026 Legal Internship – Washington, DC Regional Office](https://jobright.ai/jobs/info/69d02490cfdc6132f94389ba?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 25 |
 | **[Aspen Aerogels](http://www.aerogel.com)** | **[Legal/HR Intern](https://jobright.ai/jobs/info/69b498c33b74eb1e2c81f7e0?utm_campaign=1055&utm_source=git)** | Northborough, MA | On Site | Apr 25 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Fall 2026 Legal Internship – Washington, DC Regional Office](https://jobright.ai/jobs/info/69d02491cfdc6132f94389bf?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 25 |
-| **[Peraton](https://www.peraton.com/)** | **[Contracts Administration Pipeline (Intern and Entry-level)](https://jobright.ai/jobs/info/69df83a2aba61f141731c020?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Apr 25 |
 | **[Applied Technical Services, LLC](http://www.atslab.com)** | **[Summer Internship - Legal](https://jobright.ai/jobs/info/69ec41804b0fa35a70781b71?utm_campaign=1055&utm_source=git)** | Marietta, GA | Hybrid | Apr 24 |
 | **[Leidos](https://www.leidos.com)** | **[Ethics & Business Integrity Intern](https://jobright.ai/jobs/info/69ec416bdc35f7132c4b6483?utm_campaign=1055&utm_source=git)** | Reston, VA | On Site | Apr 24 |
 | **[Applied Technical Services, LLC](http://www.atslab.com)** | **[Summer Internship - Legal (56405)](https://jobright.ai/jobs/info/69ec32d24b0fa35a70781498?utm_campaign=1055&utm_source=git)** | MARIETTA - MARIETTA, GA 30062 | Hybrid | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CAC Group](https://cacgroup.com)** | **[Intern, Surety](https://jobright.ai/jobs/info/69ea47e57820c036924ecb2b?utm_campaign=1055&utm_source=git)** | Houston, Texas, US | On Site | Apr 23 |
 | ↳ | **[Intern, Natural Resources - Oil & Gas](https://jobright.ai/jobs/info/69ea47a20a6e09555303ff2f?utm_campaign=1055&utm_source=git)** | Houston, Texas, US | On Site | Apr 23 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Children's Legal Intern (Unpaid)](https://jobright.ai/jobs/info/69d712de48f0c8161d2fcc98?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
-| **[SOPHiA GENETICS](https://www.sophiagenetics.com)** | **[Legal Assistant Intern](https://jobright.ai/jobs/info/69e2d6b45c44d4710fe27218?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
