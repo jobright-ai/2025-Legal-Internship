@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LawBhoomi](https://lawbhoomi.com/)** | **[Associate and Legal Internship Opportunities at Corpresc Legal: Apply Now!](https://jobright.ai/jobs/info/69f1fc568d8d624381a9ea8a?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Apr 29 |
 | **[Busey](https://www.busey.com/home/home)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69f1ebec8feca91f14922844?utm_campaign=1055&utm_source=git)** | Champaign, IL | On Site | Apr 29 |
 | **[Democratic National Committee](https://democrats.org/)** | **[Fall 2026 DNC Civic Engagement and Voter Protection Legal Internship](https://jobright.ai/jobs/info/69f1d3deb27fee43e8cdb3bc?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 29 |
 | **[County of Santa Barbara](http://www.countyofsb.org)** | **[Deputy District Attorney I](https://jobright.ai/jobs/info/69f1b089825a315d7ca396f1?utm_campaign=1055&utm_source=git)** | California, United States | On Site | Apr 28 |
@@ -108,8 +109,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efe88b16b2612c2a12ca1f?utm_campaign=1055&utm_source=git)** | Tampa, Florida, US | Hybrid | Apr 27 |
 | ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efe83b4b0fa35a7078cca5?utm_campaign=1055&utm_source=git)** | Dallas, Texas, US | Hybrid | Apr 27 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Records Management Intern](https://jobright.ai/jobs/info/69efe5cd4b0fa35a7078c88c?utm_campaign=1055&utm_source=git)** | Arlington, VA, US | On Site | Apr 27 |
-| **[Colorado District Attorneys'​ Council](https://coloradoprosecutors.org/)** | **[Deputy District Attorney ($5,000 sign-on bonus*)](https://jobright.ai/jobs/info/69eff3c058811370cb149f60?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
-| ↳ | **[Deputy District Attorney III or IV](https://jobright.ai/jobs/info/69eff3b516b2612c2a12ceff?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
+| **[Colorado District Attorneys'​ Council](https://coloradoprosecutors.org/)** | **[Deputy District Attorney III or IV](https://jobright.ai/jobs/info/69eff3b516b2612c2a12ceff?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
+| ↳ | **[Deputy District Attorney ($5,000 sign-on bonus*)](https://jobright.ai/jobs/info/69eff3c058811370cb149f60?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc734e624fe645d533772?utm_campaign=1055&utm_source=git)** | Memphis, TN, US | On Site | Apr 27 |
 | ↳ | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc7340a6e095553057347?utm_campaign=1055&utm_source=git)** | US-TN-Memphis | On Site | Apr 27 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efc5f4fbe0994a40eb8666?utm_campaign=1055&utm_source=git)** | Vancouver, WA | Hybrid | Apr 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CFP Board](https://www.cfp.net/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ebe234dc35f7132c4b410c?utm_campaign=1055&utm_source=git)** | Washington, D.C., Washington, DC, US | Hybrid | Apr 24 |
 | **[BioTissue Ocular](https://biotissue.com/)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69ebe23116b2612c2a11f8b4?utm_campaign=1055&utm_source=git)** | Miami, FL, US | On Site | Apr 24 |
 | **[Enhanced](https://www.enhanced.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ebfc4c4b0fa35a7077ff34?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Apr 24 |
-| **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, Risk Advisory - Fall 2026, Cranberry Township](https://jobright.ai/jobs/info/69ebc3a616b2612c2a11e70a?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
