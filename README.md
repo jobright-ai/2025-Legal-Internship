@@ -117,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Ion Bank](http://ionbank.com)** | **[Junior Fraud Analyst Intern](https://jobright.ai/jobs/info/69efb79416b2612c2a12afc1?utm_campaign=1055&utm_source=git)** | Naugatuck, Connecticut, United States | On Site | Apr 27 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efd38de624fe645d533802?utm_campaign=1055&utm_source=git)** | Renton, WA | Hybrid | Apr 27 |
 | ↳ | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efd37816b2612c2a12bb82?utm_campaign=1055&utm_source=git)** | Portland, OR | Hybrid | Apr 27 |
-| **[Leidos](https://www.leidos.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/69efab12fbe0994a40eb7903?utm_campaign=1055&utm_source=git)** | Reston, VA, US | On Site | Apr 27 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Regulatory Affairs Post Market Intern](https://jobright.ai/jobs/info/69ef97624b0fa35a7078a5b5?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Apr 27 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time](https://jobright.ai/jobs/info/69ef96d8fbe0994a40eb7228?utm_campaign=1055&utm_source=git)** | Memphis, TN, US | On Site | Apr 27 |
 | ↳ | **[Legal Intern, Part-Time](https://jobright.ai/jobs/info/69ef96d34b0fa35a7078a400?utm_campaign=1055&utm_source=git)** | US-TN-Memphis | On Site | Apr 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Enhanced](https://www.enhanced.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ebfc4c4b0fa35a7077ff34?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Apr 24 |
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, Risk Advisory - Fall 2026, Cranberry Township](https://jobright.ai/jobs/info/69ebc3a616b2612c2a11e70a?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 24 |
 | **[Dimension Energy](http://www.dimension-energy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ebfbce4b0fa35a7077fc36?utm_campaign=1055&utm_source=git)** | Atlanta, GA | Hybrid | Apr 24 |
+| **[ICU Medical](https://www.icumed.com/products/specialty/renal-systems/clearguard-hd)** | **[Legal Intern - Contract Support](https://jobright.ai/jobs/info/69ebb82558811370cb13c062?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
