@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrity](https://www.integrity.com)** | **[Intern, Legal Enterprise Risk Management](https://jobright.ai/jobs/info/69f2248bab4ec4779fff7715?utm_campaign=1055&utm_source=git)** | Dallas, TX, US | On Site | Apr 29 |
+| **[apexanalytix](https://www.apexanalytix.com)** | **[Security & Compliance Intern](https://jobright.ai/jobs/info/69d578f2706f771673ba3687?utm_campaign=1055&utm_source=git)** | Greensboro, NC | On Site | Apr 29 |
+| **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - Trade Compliance & Logistics](https://jobright.ai/jobs/info/69bc71c34828227293fe506a?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Apr 29 |
 | **[LawBhoomi](https://lawbhoomi.com/)** | **[Associate and Legal Internship Opportunities at Corpresc Legal: Apply Now!](https://jobright.ai/jobs/info/69f1fc568d8d624381a9ea8a?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Apr 29 |
 | **[Busey](https://www.busey.com/home/home)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69f1ebec8feca91f14922844?utm_campaign=1055&utm_source=git)** | Champaign, IL | On Site | Apr 29 |
 | **[Democratic National Committee](https://democrats.org/)** | **[Fall 2026 DNC Civic Engagement and Voter Protection Legal Internship](https://jobright.ai/jobs/info/69f1d3deb27fee43e8cdb3bc?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 29 |
@@ -85,8 +88,6 @@ For a complete list, click the following sortable link below:
 | **[SOCOTEC USA](https://www.socotec.us/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69d3ef87e63cea7a8b655022?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[PCB Piezotronics, Inc.](http://www.pcb.com/)** | **[Quality/Regulatory Compliance Intern](https://jobright.ai/jobs/info/69f0f4b062b48c6838792d81?utm_campaign=1055&utm_source=git)** | Depew, NY | On Site | Apr 28 |
 | **[Webster First Federal Credit Union](https://www.websterfirst.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69f0eec8ecbc8c2f73202b56?utm_campaign=1055&utm_source=git)** | Operations Center, 271 Greenwood Street, Worcester, MA | On Site | Apr 28 |
-| **[CME Group](http://www.cmegroup.com)** | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/69f0ee67ecbc8c2f73202955?utm_campaign=1055&utm_source=git)** | Chicago - 20 S. Wacker, US | On Site | Apr 28 |
-| ↳ | **[Legal Internship - Summer 2026](https://jobright.ai/jobs/info/69f10398b27fee43e8cd6a97?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
 | **[INX International Ink Co.](https://www.inxinternational.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f0df1eecbc8c2f732024f3?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | On Site | Apr 28 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69f0d7f962b48c6838792496?utm_campaign=1055&utm_source=git)** | 150 N Martingale Rd, Schaumburg, IL 60173, USA | On Site | Apr 28 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69d3da8be63cea7a8b654046?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Apr 28 |
@@ -109,8 +110,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efe88b16b2612c2a12ca1f?utm_campaign=1055&utm_source=git)** | Tampa, Florida, US | Hybrid | Apr 27 |
 | ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efe83b4b0fa35a7078cca5?utm_campaign=1055&utm_source=git)** | Dallas, Texas, US | Hybrid | Apr 27 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Records Management Intern](https://jobright.ai/jobs/info/69efe5cd4b0fa35a7078c88c?utm_campaign=1055&utm_source=git)** | Arlington, VA, US | On Site | Apr 27 |
-| **[Colorado District Attorneys'​ Council](https://coloradoprosecutors.org/)** | **[Deputy District Attorney ($5,000 sign-on bonus*)](https://jobright.ai/jobs/info/69eff3c058811370cb149f60?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
-| ↳ | **[Deputy District Attorney III or IV](https://jobright.ai/jobs/info/69eff3b516b2612c2a12ceff?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
+| **[Colorado District Attorneys'​ Council](https://coloradoprosecutors.org/)** | **[Deputy District Attorney III or IV](https://jobright.ai/jobs/info/69eff3b516b2612c2a12ceff?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
+| ↳ | **[Deputy District Attorney ($5,000 sign-on bonus*)](https://jobright.ai/jobs/info/69eff3c058811370cb149f60?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc7340a6e095553057347?utm_campaign=1055&utm_source=git)** | US-TN-Memphis | On Site | Apr 27 |
 | ↳ | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc734e624fe645d533772?utm_campaign=1055&utm_source=git)** | Memphis, TN, US | On Site | Apr 27 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efc5f4fbe0994a40eb8666?utm_campaign=1055&utm_source=git)** | Vancouver, WA | Hybrid | Apr 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enhanced](https://www.enhanced.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ec02ff16b2612c2a12067f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[CFP Board](https://www.cfp.net/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ebe234dc35f7132c4b410c?utm_campaign=1055&utm_source=git)** | Washington, D.C., Washington, DC, US | Hybrid | Apr 24 |
 | **[BioTissue Ocular](https://biotissue.com/)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69ebe23116b2612c2a11f8b4?utm_campaign=1055&utm_source=git)** | Miami, FL, US | On Site | Apr 24 |
-| **[Enhanced](https://www.enhanced.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69ebfc4c4b0fa35a7077ff34?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
