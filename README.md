@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lush Fresh Handmade Cosmetics North America](https://www.lush.com)** | **[Law Clerk Intern, Summer 2026](https://jobright.ai/jobs/info/69f2a0bf8d8d624381aa1e8c?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Apr 29 |
+| **[Lush Fresh Handmade Cosmetics North America](https://www.lush.com)** | **[Law Clerk Intern, Summer 2026](https://jobright.ai/jobs/info/69f2a83034c4af7a79ab4437?utm_campaign=1055&utm_source=git)** | Houston, TX | Remote | Apr 29 |
+| ↳ | **[Law Clerk Intern, Summer 2026](https://jobright.ai/jobs/info/69f2a0bf8d8d624381aa1e8c?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Apr 29 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Contracts](https://jobright.ai/jobs/info/69f2786dab4ec4779fff952b?utm_campaign=1055&utm_source=git)** | Buffalo, NY | Hybrid | Apr 29 |
+| **[World Relief](https://worldrelief.org/)** | **[Immigration Legal Services Temporary Legal Specialist](https://jobright.ai/jobs/info/69f2aeff825a315d7ca3df01?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Apr 29 |
 | **[Helena Agri-Enterprises, LLC](https://helenaagri.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69f28b63825a315d7ca3d3ae?utm_campaign=1055&utm_source=git)** | Collierville, TN | On Site | Apr 29 |
 | **[First American](http://www.firstam.com)** | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69d5f825891d7b11cfd07384?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 29 |
 | **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027/28 Articling Student - Senior Counsel, Family (Oshawa)](https://jobright.ai/jobs/info/69f2698b825a315d7ca3c790?utm_campaign=1055&utm_source=git)** | Oshawa, Ontario, Canada | On Site | Apr 29 |
@@ -91,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Law Clerk](https://jobright.ai/jobs/info/69f1663762b48c68387955d5?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Apr 28 |
 | **[SPR](https://www.sprpainrelief.com)** | **[Sales Contracts Intern](https://jobright.ai/jobs/info/69dd52af61f6ed54321fc7f8?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Apr 28 |
 | **[State of Florida](http://www.myflorida.com)** | **[REGULATORY SPECIALIST III - 79000724](https://jobright.ai/jobs/info/69f28569ecbc8c2f7320af08?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 28 |
-| ↳ | **[PARALEGAL SPECIALIST - 60074598](https://jobright.ai/jobs/info/69f289b78feca91f149256ae?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 28 |
 | ↳ | **[REGULATORY SPECIALIST I - 79000431](https://jobright.ai/jobs/info/69f284b28d8d624381aa1440?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 28 |
+| ↳ | **[PARALEGAL SPECIALIST - 60074598](https://jobright.ai/jobs/info/69f289b78feca91f149256ae?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 28 |
 | **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Cabrini / Legal Intern](https://jobright.ai/jobs/info/69f135e28d8d624381a9af54?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 28 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Accessibility Compliance Analyst](https://jobright.ai/jobs/info/69f135b48d8d624381a9ae79?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 28 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Law Clerk](https://jobright.ai/jobs/info/69f12d0f8feca91f1491edf5?utm_campaign=1055&utm_source=git)** | Miami, FL, US | On Site | Apr 28 |
@@ -130,8 +132,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efe88b16b2612c2a12ca1f?utm_campaign=1055&utm_source=git)** | Tampa, Florida, US | Hybrid | Apr 27 |
 | ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efe83b4b0fa35a7078cca5?utm_campaign=1055&utm_source=git)** | Dallas, Texas, US | Hybrid | Apr 27 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Records Management Intern](https://jobright.ai/jobs/info/69efe5cd4b0fa35a7078c88c?utm_campaign=1055&utm_source=git)** | Arlington, VA, US | On Site | Apr 27 |
-| **[Colorado District Attorneys'​ Council](https://coloradoprosecutors.org/)** | **[Deputy District Attorney III or IV](https://jobright.ai/jobs/info/69eff3b516b2612c2a12ceff?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
-| ↳ | **[Deputy District Attorney ($5,000 sign-on bonus*)](https://jobright.ai/jobs/info/69eff3c058811370cb149f60?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
+| **[Colorado District Attorneys'​ Council](https://coloradoprosecutors.org/)** | **[Deputy District Attorney ($5,000 sign-on bonus*)](https://jobright.ai/jobs/info/69eff3c058811370cb149f60?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
+| ↳ | **[Deputy District Attorney III or IV](https://jobright.ai/jobs/info/69eff3b516b2612c2a12ceff?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc734e624fe645d533772?utm_campaign=1055&utm_source=git)** | Memphis, TN, US | On Site | Apr 27 |
 | ↳ | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc7340a6e095553057347?utm_campaign=1055&utm_source=git)** | US-TN-Memphis | On Site | Apr 27 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efc5f4fbe0994a40eb8666?utm_campaign=1055&utm_source=git)** | Vancouver, WA | Hybrid | Apr 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/69b694cd3b74eb1e2c8458cd?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Apr 27 |
 | **[Canadian Medical Association](https://www.cma.ca/)** | **[Articling Student (2027-2028 Term)](https://jobright.ai/jobs/info/69ef72c00a6e095553054d54?utm_campaign=1055&utm_source=git)** | Canada | Remote | Apr 27 |
 | **[JPS Composite Materials](https://jpscm.com)** | **[Document Compliance Intern](https://jobright.ai/jobs/info/69ef4d9a4b0fa35a707888ad?utm_campaign=1055&utm_source=git)** | Miami, FL, 33137, United States | On Site | Apr 27 |
-| **[NextFlex](https://www.nextflex.us/)** | **[Technology Projects Contracts Intern](https://jobright.ai/jobs/info/69f0370bb27fee43e8cd2c58?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Apr 26 |
-| **[Wanger Jones Helsley PC](https://www.wjhattorneys.com)** | **[Summer Clerk 2027 - Fresno or Sacramento Office](https://jobright.ai/jobs/info/69ee6ba858811370cb143e40?utm_campaign=1055&utm_source=git)** | Fresno, CA | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
