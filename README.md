@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Lush Fresh Handmade Cosmetics North America](https://www.lush.com)** | **[Law Clerk Intern, Summer 2026](https://jobright.ai/jobs/info/69f2a83034c4af7a79ab4437?utm_campaign=1055&utm_source=git)** | Houston, TX | Remote | Apr 29 |
 | ↳ | **[Law Clerk Intern, Summer 2026](https://jobright.ai/jobs/info/69f2a0bf8d8d624381aa1e8c?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Apr 29 |
+| **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efd37816b2612c2a12bb82?utm_campaign=1055&utm_source=git)** | Portland, OR | Hybrid | Apr 29 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Contracts](https://jobright.ai/jobs/info/69f2786dab4ec4779fff952b?utm_campaign=1055&utm_source=git)** | Buffalo, NY | Hybrid | Apr 29 |
 | **[World Relief](https://worldrelief.org/)** | **[Immigration Legal Services Temporary Legal Specialist](https://jobright.ai/jobs/info/69f2aeff825a315d7ca3df01?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Apr 29 |
 | **[Helena Agri-Enterprises, LLC](https://helenaagri.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69f28b63825a315d7ca3d3ae?utm_campaign=1055&utm_source=git)** | Collierville, TN | On Site | Apr 29 |
@@ -132,8 +133,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efe88b16b2612c2a12ca1f?utm_campaign=1055&utm_source=git)** | Tampa, Florida, US | Hybrid | Apr 27 |
 | ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efe83b4b0fa35a7078cca5?utm_campaign=1055&utm_source=git)** | Dallas, Texas, US | Hybrid | Apr 27 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Records Management Intern](https://jobright.ai/jobs/info/69efe5cd4b0fa35a7078c88c?utm_campaign=1055&utm_source=git)** | Arlington, VA, US | On Site | Apr 27 |
-| **[Colorado District Attorneys'​ Council](https://coloradoprosecutors.org/)** | **[Deputy District Attorney ($5,000 sign-on bonus*)](https://jobright.ai/jobs/info/69eff3c058811370cb149f60?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
-| ↳ | **[Deputy District Attorney III or IV](https://jobright.ai/jobs/info/69eff3b516b2612c2a12ceff?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
+| **[Colorado District Attorneys'​ Council](https://coloradoprosecutors.org/)** | **[Deputy District Attorney III or IV](https://jobright.ai/jobs/info/69eff3b516b2612c2a12ceff?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
+| ↳ | **[Deputy District Attorney ($5,000 sign-on bonus*)](https://jobright.ai/jobs/info/69eff3c058811370cb149f60?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc734e624fe645d533772?utm_campaign=1055&utm_source=git)** | Memphis, TN, US | On Site | Apr 27 |
 | ↳ | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc7340a6e095553057347?utm_campaign=1055&utm_source=git)** | US-TN-Memphis | On Site | Apr 27 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efc5f4fbe0994a40eb8666?utm_campaign=1055&utm_source=git)** | Vancouver, WA | Hybrid | Apr 27 |
@@ -143,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Fenwick & West](http://fenwick.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/69efb8fde624fe645d532f16?utm_campaign=1055&utm_source=git)** | Washington, D.C., US | Hybrid | Apr 27 |
 | **[Ion Bank](http://ionbank.com)** | **[Junior Fraud Analyst Intern](https://jobright.ai/jobs/info/69efb79416b2612c2a12afc1?utm_campaign=1055&utm_source=git)** | Naugatuck, Connecticut, United States | On Site | Apr 27 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efd38de624fe645d533802?utm_campaign=1055&utm_source=git)** | Renton, WA | Hybrid | Apr 27 |
-| ↳ | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efd37816b2612c2a12bb82?utm_campaign=1055&utm_source=git)** | Portland, OR | Hybrid | Apr 27 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Regulatory Affairs Post Market Intern](https://jobright.ai/jobs/info/69ef97624b0fa35a7078a5b5?utm_campaign=1055&utm_source=git)** | Bedford, MA | On Site | Apr 27 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time](https://jobright.ai/jobs/info/69ef96d8fbe0994a40eb7228?utm_campaign=1055&utm_source=git)** | Memphis, TN, US | On Site | Apr 27 |
 | ↳ | **[Legal Intern, Part-Time](https://jobright.ai/jobs/info/69ef96d34b0fa35a7078a400?utm_campaign=1055&utm_source=git)** | US-TN-Memphis | On Site | Apr 27 |
