@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenScript](http://www.genscript.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f3c32d58b23a2329da7e0d?utm_campaign=1055&utm_source=git)** | Piscataway, NJ | On Site | Apr 30 |
+| **[Nova Biomedical](https://www.novabiomedical.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/69f3c31858b23a2329da7d99?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Apr 30 |
+| **[The Khalsa Law Firm](https://khalsalaw.com)** | **[Legal Office, Marketing & Client Experience Summer Intern NYC](https://jobright.ai/jobs/info/69f3c36058b23a2329da7f00?utm_campaign=1055&utm_source=git)** | NYC Metro Area | On Site | Apr 30 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/69d6ac94366bb95ba554ef8e?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 30 |
 | **[Power Factors](http://www.powerfactors.com/)** | **[Intern- CLM Implementation & Legal Operations (Summer)](https://jobright.ai/jobs/info/69f39714343eef4fb0a9c075?utm_campaign=1055&utm_source=git)** | Québec City, Quebec, Canada | Remote | Apr 30 |
 | ↳ | **[Intern- CLM Implementation & Legal Operations (Summer)](https://jobright.ai/jobs/info/69f397121f90bd6ae23d0d97?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | Remote | Apr 30 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efe88b16b2612c2a12ca1f?utm_campaign=1055&utm_source=git)** | Tampa, Florida, US | Hybrid | Apr 27 |
 | ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efe83b4b0fa35a7078cca5?utm_campaign=1055&utm_source=git)** | Dallas, Texas, US | Hybrid | Apr 27 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Records Management Intern](https://jobright.ai/jobs/info/69efe5cd4b0fa35a7078c88c?utm_campaign=1055&utm_source=git)** | Arlington, VA, US | On Site | Apr 27 |
-| **[Colorado District Attorneys'​ Council](https://coloradoprosecutors.org/)** | **[Deputy District Attorney ($5,000 sign-on bonus*)](https://jobright.ai/jobs/info/69eff3c058811370cb149f60?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
-| ↳ | **[Deputy District Attorney III or IV](https://jobright.ai/jobs/info/69eff3b516b2612c2a12ceff?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
+| **[Colorado District Attorneys'​ Council](https://coloradoprosecutors.org/)** | **[Deputy District Attorney III or IV](https://jobright.ai/jobs/info/69eff3b516b2612c2a12ceff?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
+| ↳ | **[Deputy District Attorney ($5,000 sign-on bonus*)](https://jobright.ai/jobs/info/69eff3c058811370cb149f60?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc7340a6e095553057347?utm_campaign=1055&utm_source=git)** | US-TN-Memphis | On Site | Apr 27 |
 | ↳ | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc734e624fe645d533772?utm_campaign=1055&utm_source=git)** | Memphis, TN, US | On Site | Apr 27 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efc5f4fbe0994a40eb8666?utm_campaign=1055&utm_source=git)** | Vancouver, WA | Hybrid | Apr 27 |
 | ↳ | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efbdd016b2612c2a12b87f?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 27 |
-| **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time](https://jobright.ai/jobs/info/69efbb400a6e095553056f86?utm_campaign=1055&utm_source=git)** | Memphis, TN | On Site | Apr 27 |
-| **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efbb3a0a6e095553056f5c?utm_campaign=1055&utm_source=git)** | Boise, ID | Hybrid | Apr 27 |
-| **[Fenwick & West](http://fenwick.com)** | **[Intellectual Property Intern](https://jobright.ai/jobs/info/69efb8fde624fe645d532f16?utm_campaign=1055&utm_source=git)** | Washington, D.C., US | Hybrid | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
