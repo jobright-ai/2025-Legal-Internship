@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7e7217a37c712687d6d3d?utm_campaign=1055&utm_source=git)** | West Deptford, NJ | On Site | Apr 30 |
-| **[LawBhoomi](https://lawbhoomi.com/)** | **[Legal Associate & Assessment Internship Opportunity at Blueprint Legal: Apply Now!](https://jobright.ai/jobs/info/69f367aa343eef4fb0a9a32a?utm_campaign=1055&utm_source=git)** | Indiana, United States | Hybrid | Apr 30 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d70814366bb95ba55512eb?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Risk Governance Analyst Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69817ebb49964d25b5e47ce0?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Political Compliance Intern (Summer and Fall)](https://jobright.ai/jobs/info/69d6c1ae48f0c8161d2faf3f?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern, Part-Time](https://jobright.ai/jobs/info/69ef96d34b0fa35a7078a400?utm_campaign=1055&utm_source=git)** | US-TN-Memphis | On Site | Apr 27 |
 | **[Texas Attorney General](https://texasattorneygeneral.gov/)** | **[OAG - Consumer Protection / Research Specialist IV / 26-0390](https://jobright.ai/jobs/info/69efada358811370cb147c2d?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Apr 27 |
 | ↳ | **[OAG - Consumer Protection / Research Specialist IV / 26-0392](https://jobright.ai/jobs/info/69efadba4b0fa35a7078af36?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Apr 27 |
+| **[Samsung SDS](https://www.samsungsds.com/)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/69efad5c0a6e0955530564ea?utm_campaign=1055&utm_source=git)** | Newberry, SC | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
