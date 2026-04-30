@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Risk Governance Analyst Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69817ebb49964d25b5e47ce0?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
+| **[The E.W. Scripps Company](http://www.scripps.com)** | **[Political Compliance Intern (Summer and Fall)](https://jobright.ai/jobs/info/69d6c1ae48f0c8161d2faf3f?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 30 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Legal Intern – Policy & Public Sector (AI & Cybersecurity Focus) (Summer 2026)](https://jobright.ai/jobs/info/69d6a89e48f0c8161d2fa0a9?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 30 |
 | **[Initium Health](https://initiumhealth.org)** | **[Paid Legal Intern (2L/3L) - Public Health and Government Contracts](https://jobright.ai/jobs/info/69f2f8f78feca91f14928f19?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Apr 29 |
 | **[Black Hills Energy](https://www.blackhillsenergy.com )** | **[IT Governance Internship - Part-Time](https://jobright.ai/jobs/info/69f2f70bab4ec4779fffdc6e?utm_campaign=1055&utm_source=git)** | Rapid City, SD | On Site | Apr 29 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Legal Affairs Intern](https://jobright.ai/jobs/info/69f324ca6942c746fa6901a8?utm_campaign=1055&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Samsung SDS](https://www.samsungsds.com/)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/69efad5c0a6e0955530564ea?utm_campaign=1055&utm_source=git)** | Newberry, SC | On Site | Apr 27 |
 | **[JPS Composite Materials](https://jpscm.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69ef76c6fbe0994a40eb64b7?utm_campaign=1055&utm_source=git)** | Miami, FL, 33137, United States | Hybrid | Apr 27 |
 | **[Werfen](http://www.werfen.com/)** | **[Regulatory Affairs Post Market Intern](https://jobright.ai/jobs/info/69ef73dafbe0994a40eb639e?utm_campaign=1055&utm_source=git)** | Bedford, MA, US | On Site | Apr 27 |
-| ↳ | **[Regulatory Affairs Post Market Intern](https://jobright.ai/jobs/info/69ef73d14b0fa35a707896fe?utm_campaign=1055&utm_source=git)** | US-MA-Bedford | On Site | Apr 27 |
-| **[USPTO](http://www.uspto.gov)** | **[Law Intern (San Jose, Bozeman, Dallas, Salt Lake City)](https://jobright.ai/jobs/info/69ef734416b2612c2a1298f2?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | On Site | Apr 27 |
-| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/69b694cd3b74eb1e2c8458cd?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
