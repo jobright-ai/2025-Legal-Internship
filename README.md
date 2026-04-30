@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Fort Worth](https://www.fortworthtexas.gov)** | **[Regulatory Environmental Intern](https://jobright.ai/jobs/info/69e848790a6e09555302fb4e?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Apr 29 |
 | **[Aflac](http://www.aflac.com)** | **[Sr Mgr, Enterprise Risk Mgmt](https://jobright.ai/jobs/info/69f2bd498d8d624381aa3adb?utm_campaign=1055&utm_source=git)** | Georgia, United States | Hybrid | Apr 29 |
-| **[Regenity Biosciences](https://regenity.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/69f2d858ab4ec4779fffd6b5?utm_campaign=1055&utm_source=git)** | Paramus, NJ | On Site | Apr 29 |
 | **[Lush Fresh Handmade Cosmetics North America](https://www.lush.com)** | **[Law Clerk Intern, Summer 2026](https://jobright.ai/jobs/info/69f2a83034c4af7a79ab4437?utm_campaign=1055&utm_source=git)** | Houston, TX | Remote | Apr 29 |
 | ↳ | **[Law Clerk Intern, Summer 2026](https://jobright.ai/jobs/info/69f2a0bf8d8d624381aa1e8c?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Apr 29 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efd37816b2612c2a12bb82?utm_campaign=1055&utm_source=git)** | Portland, OR | Hybrid | Apr 29 |
@@ -94,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Law Clerk](https://jobright.ai/jobs/info/69f1663762b48c68387955d5?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Apr 28 |
 | **[SPR](https://www.sprpainrelief.com)** | **[Sales Contracts Intern](https://jobright.ai/jobs/info/69dd52af61f6ed54321fc7f8?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Apr 28 |
 | **[State of Florida](http://www.myflorida.com)** | **[REGULATORY SPECIALIST III - 79000724](https://jobright.ai/jobs/info/69f28569ecbc8c2f7320af08?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 28 |
-| ↳ | **[REGULATORY SPECIALIST I - 79000431](https://jobright.ai/jobs/info/69f284b28d8d624381aa1440?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 28 |
 | ↳ | **[PARALEGAL SPECIALIST - 60074598](https://jobright.ai/jobs/info/69f289b78feca91f149256ae?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 28 |
+| ↳ | **[REGULATORY SPECIALIST I - 79000431](https://jobright.ai/jobs/info/69f284b28d8d624381aa1440?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 28 |
 | **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Cabrini / Legal Intern](https://jobright.ai/jobs/info/69f135e28d8d624381a9af54?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 28 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Accessibility Compliance Analyst](https://jobright.ai/jobs/info/69f135b48d8d624381a9ae79?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 28 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Law Clerk](https://jobright.ai/jobs/info/69f12d0f8feca91f1491edf5?utm_campaign=1055&utm_source=git)** | Miami, FL, US | On Site | Apr 28 |
@@ -106,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Harris County Attorney's Office](https://cao.harriscountytx.gov/)** | **[LOCAL LAW STUDENT PAID INTERN- Crimes Against Children Division](https://jobright.ai/jobs/info/69f141b78feca91f1491f6ce?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 28 |
 | **[Guzman Energy](http://www.guzmanenergy.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69f1189f8feca91f1491e79c?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 28 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69f1358062b48c683879437c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 28 |
-| **[HPC Industrial powered by Clean Harbors](www.hpc-industrial.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/69f107d862b48c683879337d?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Apr 28 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Legal Internship - 2025 SWEL Summer Associate Program](https://jobright.ai/jobs/info/69f1046c8feca91f1491e059?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, US | Hybrid | Apr 28 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/69f12cc3825a315d7ca361ee?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT PAID INTERN- Crimes Against Children Division](https://jobright.ai/jobs/info/69f10138ecbc8c2f73203181?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/69b694cd3b74eb1e2c8458cd?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | Apr 27 |
 | **[Canadian Medical Association](https://www.cma.ca/)** | **[Articling Student (2027-2028 Term)](https://jobright.ai/jobs/info/69ef72c00a6e095553054d54?utm_campaign=1055&utm_source=git)** | Canada | Remote | Apr 27 |
 | **[JPS Composite Materials](https://jpscm.com)** | **[Document Compliance Intern](https://jobright.ai/jobs/info/69ef4d9a4b0fa35a707888ad?utm_campaign=1055&utm_source=git)** | Miami, FL, 33137, United States | On Site | Apr 27 |
+| **[NextFlex](https://www.nextflex.us/)** | **[Technology Projects Contracts Intern](https://jobright.ai/jobs/info/69f0370bb27fee43e8cd2c58?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
