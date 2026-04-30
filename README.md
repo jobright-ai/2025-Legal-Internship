@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7e7217a37c712687d6d3d?utm_campaign=1055&utm_source=git)** | West Deptford, NJ | On Site | Apr 30 |
+| **[LawBhoomi](https://lawbhoomi.com/)** | **[Legal Associate & Assessment Internship Opportunity at Blueprint Legal: Apply Now!](https://jobright.ai/jobs/info/69f367aa343eef4fb0a9a32a?utm_campaign=1055&utm_source=git)** | Indiana, United States | Hybrid | Apr 30 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d70814366bb95ba55512eb?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Risk Governance Analyst Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69817ebb49964d25b5e47ce0?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Political Compliance Intern (Summer and Fall)](https://jobright.ai/jobs/info/69d6c1ae48f0c8161d2faf3f?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 30 |
@@ -102,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Law Clerk](https://jobright.ai/jobs/info/69f1663762b48c68387955d5?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Apr 28 |
 | **[SPR](https://www.sprpainrelief.com)** | **[Sales Contracts Intern](https://jobright.ai/jobs/info/69dd52af61f6ed54321fc7f8?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Apr 28 |
 | **[State of Florida](http://www.myflorida.com)** | **[REGULATORY SPECIALIST III - 79000724](https://jobright.ai/jobs/info/69f28569ecbc8c2f7320af08?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 28 |
-| ↳ | **[PARALEGAL SPECIALIST - 60074598](https://jobright.ai/jobs/info/69f289b78feca91f149256ae?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 28 |
 | ↳ | **[REGULATORY SPECIALIST I - 79000431](https://jobright.ai/jobs/info/69f284b28d8d624381aa1440?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 28 |
+| ↳ | **[PARALEGAL SPECIALIST - 60074598](https://jobright.ai/jobs/info/69f289b78feca91f149256ae?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 28 |
 | **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Cabrini / Legal Intern](https://jobright.ai/jobs/info/69f135e28d8d624381a9af54?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 28 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Accessibility Compliance Analyst](https://jobright.ai/jobs/info/69f135b48d8d624381a9ae79?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 28 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Law Clerk](https://jobright.ai/jobs/info/69f12d0f8feca91f1491edf5?utm_campaign=1055&utm_source=git)** | Miami, FL, US | On Site | Apr 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern, Part-Time](https://jobright.ai/jobs/info/69ef96d34b0fa35a7078a400?utm_campaign=1055&utm_source=git)** | US-TN-Memphis | On Site | Apr 27 |
 | **[Texas Attorney General](https://texasattorneygeneral.gov/)** | **[OAG - Consumer Protection / Research Specialist IV / 26-0390](https://jobright.ai/jobs/info/69efada358811370cb147c2d?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Apr 27 |
 | ↳ | **[OAG - Consumer Protection / Research Specialist IV / 26-0392](https://jobright.ai/jobs/info/69efadba4b0fa35a7078af36?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Apr 27 |
-| **[Samsung SDS](https://www.samsungsds.com/)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/69efad5c0a6e0955530564ea?utm_campaign=1055&utm_source=git)** | Newberry, SC | On Site | Apr 27 |
-| **[JPS Composite Materials](https://jpscm.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69ef76c6fbe0994a40eb64b7?utm_campaign=1055&utm_source=git)** | Miami, FL, 33137, United States | Hybrid | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
