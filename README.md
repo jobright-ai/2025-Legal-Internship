@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acrisure](http://acrisure.com)** | **[Surety Internship](https://jobright.ai/jobs/info/69f384d7343eef4fb0a9aa70?utm_campaign=1055&utm_source=git)** | Miami Lakes, FL | On Site | Apr 30 |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Apr 30 |
+| **[Revecore](https://revecore.com/)** | **[Lien Intern](https://jobright.ai/jobs/info/69f37b70461b9b613a6207c1?utm_campaign=1055&utm_source=git)** | Franklin, TN, 37067, United States | On Site | Apr 30 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7e7217a37c712687d6d3d?utm_campaign=1055&utm_source=git)** | West Deptford, NJ | On Site | Apr 30 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d70814366bb95ba55512eb?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Risk Governance Analyst Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69817ebb49964d25b5e47ce0?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
@@ -75,12 +78,10 @@ For a complete list, click the following sortable link below:
 | **[World Relief](https://worldrelief.org/)** | **[Immigration Legal Services Temporary Legal Specialist](https://jobright.ai/jobs/info/69f2aeff825a315d7ca3df01?utm_campaign=1055&utm_source=git)** | Sacramento, CA | Hybrid | Apr 29 |
 | **[Helena Agri-Enterprises, LLC](https://helenaagri.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69f28b63825a315d7ca3d3ae?utm_campaign=1055&utm_source=git)** | Collierville, TN | On Site | Apr 29 |
 | **[First American](http://www.firstam.com)** | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/69d5f825891d7b11cfd07384?utm_campaign=1055&utm_source=git)** | Irving, TX | Remote | Apr 29 |
-| **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027/28 Articling Student - Senior Counsel, Family (Oshawa)](https://jobright.ai/jobs/info/69f2698b825a315d7ca3c790?utm_campaign=1055&utm_source=git)** | Oshawa, Ontario, Canada | On Site | Apr 29 |
 | **[Integrity](https://www.integrity.com)** | **[Intern, Legal Enterprise Risk Management](https://jobright.ai/jobs/info/69f26038825a315d7ca3c615?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
 | **[Fair Grounds Race Course & Slots](http://www.fgno.com)** | **[Compliance Analyst - Intern](https://jobright.ai/jobs/info/69f2cd158d8d624381aa3eeb?utm_campaign=1055&utm_source=git)** | New Orleans, LA | On Site | Apr 29 |
 | **[City of Worcester](https://www.worcesterma.gov)** | **[Tobacco Compliance Intern](https://jobright.ai/jobs/info/69f24d82825a315d7ca3bdbc?utm_campaign=1055&utm_source=git)** | Worcester, MA | On Site | Apr 29 |
 | **[Trü Frü](https://trufru.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d565e6706f771673ba2dd2?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Apr 29 |
-| **[Integrity](https://www.integrity.com)** | **[Intern, Legal Enterprise Risk Management](https://jobright.ai/jobs/info/69f25c5b825a315d7ca3c074?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a71c7a37c712687d384c?utm_campaign=1055&utm_source=git)** | Stockton, CA | On Site | Apr 29 |
 | **[Betenbough Companies](https://betenboughcompanies.com/)** | **[Title Intern](https://jobright.ai/jobs/info/69f23509ecbc8c2f73209506?utm_campaign=1055&utm_source=git)** | Lubbock, TX | On Site | Apr 29 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d59e2e706f771673ba4741?utm_campaign=1055&utm_source=git)** | Arizona, United States | Remote | Apr 29 |
@@ -141,8 +142,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efe88b16b2612c2a12ca1f?utm_campaign=1055&utm_source=git)** | Tampa, Florida, US | Hybrid | Apr 27 |
 | ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efe83b4b0fa35a7078cca5?utm_campaign=1055&utm_source=git)** | Dallas, Texas, US | Hybrid | Apr 27 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Records Management Intern](https://jobright.ai/jobs/info/69efe5cd4b0fa35a7078c88c?utm_campaign=1055&utm_source=git)** | Arlington, VA, US | On Site | Apr 27 |
-| **[Colorado District Attorneys'​ Council](https://coloradoprosecutors.org/)** | **[Deputy District Attorney ($5,000 sign-on bonus*)](https://jobright.ai/jobs/info/69eff3c058811370cb149f60?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
-| ↳ | **[Deputy District Attorney III or IV](https://jobright.ai/jobs/info/69eff3b516b2612c2a12ceff?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
+| **[Colorado District Attorneys'​ Council](https://coloradoprosecutors.org/)** | **[Deputy District Attorney III or IV](https://jobright.ai/jobs/info/69eff3b516b2612c2a12ceff?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
+| ↳ | **[Deputy District Attorney ($5,000 sign-on bonus*)](https://jobright.ai/jobs/info/69eff3c058811370cb149f60?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc7340a6e095553057347?utm_campaign=1055&utm_source=git)** | US-TN-Memphis | On Site | Apr 27 |
 | ↳ | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc734e624fe645d533772?utm_campaign=1055&utm_source=git)** | Memphis, TN, US | On Site | Apr 27 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efc5f4fbe0994a40eb8666?utm_campaign=1055&utm_source=git)** | Vancouver, WA | Hybrid | Apr 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern, Part-Time](https://jobright.ai/jobs/info/69ef96d34b0fa35a7078a400?utm_campaign=1055&utm_source=git)** | US-TN-Memphis | On Site | Apr 27 |
 | **[Texas Attorney General](https://texasattorneygeneral.gov/)** | **[OAG - Consumer Protection / Research Specialist IV / 26-0390](https://jobright.ai/jobs/info/69efada358811370cb147c2d?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Apr 27 |
 | ↳ | **[OAG - Consumer Protection / Research Specialist IV / 26-0392](https://jobright.ai/jobs/info/69efadba4b0fa35a7078af36?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Apr 27 |
-| **[Samsung SDS](https://www.samsungsds.com/)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/69efad5c0a6e0955530564ea?utm_campaign=1055&utm_source=git)** | Newberry, SC | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
