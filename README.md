@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Odessa, Texas](https://www.odessa-tx.gov)** | **[Internship- Deputy Court Clerk](https://jobright.ai/jobs/info/69f3e8191f90bd6ae23d2b19?utm_campaign=1055&utm_source=git)** | 201 North Grant Avenue, Odessa, TX, United States | On Site | Apr 30 |
+| **[Amneal Pharmaceuticals](http://amneal.com/)** | **[2026 Summer Internship - Intellectual Property, Legal- Bridgewater, NJ](https://jobright.ai/jobs/info/69f3dcea461b9b613a6249f2?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | Apr 30 |
+| **[Bradesco Bank](https://bradescobank.com )** | **[KYC/CIP 1-Year Internship](https://jobright.ai/jobs/info/69f3dc9f58b23a2329da854c?utm_campaign=1055&utm_source=git)** | Coral Gables, FL | On Site | Apr 30 |
 | **[Our Rescue](https://ourrescue.org)** | **[Legal Internship](https://jobright.ai/jobs/info/69f3d879461b9b613a6244d6?utm_campaign=1055&utm_source=git)** | New York, NY 10001, USA | Hybrid | Apr 30 |
 | **[GenScript](http://www.genscript.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f3d3026942c746fa6951fb?utm_campaign=1055&utm_source=git)** | Piscataway, New Jersey, United States | On Site | Apr 30 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69f3c32d58b23a2329da7e0d?utm_campaign=1055&utm_source=git)** | Piscataway, NJ | On Site | Apr 30 |
@@ -66,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/69d6ac94366bb95ba554ef8e?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 30 |
 | **[Power Factors](http://www.powerfactors.com/)** | **[Intern- CLM Implementation & Legal Operations (Summer)](https://jobright.ai/jobs/info/69f39714343eef4fb0a9c075?utm_campaign=1055&utm_source=git)** | Québec City, Quebec, Canada | Remote | Apr 30 |
 | ↳ | **[Intern- CLM Implementation & Legal Operations (Summer)](https://jobright.ai/jobs/info/69f397121f90bd6ae23d0d97?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | Remote | Apr 30 |
+| **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/69f3ddb058b23a2329da865f?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 30 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/69f393f61f90bd6ae23d0c9f?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Apr 30 |
 | **[Amneal Pharmaceuticals](http://amneal.com/)** | **[2026 Summer Internship - Intellectual Property, Legal- Bridgewater, NJ](https://jobright.ai/jobs/info/69f393d2461b9b613a621e51?utm_campaign=1055&utm_source=git)** | 400 Crossing Blvd, Bridgewater, NJ, 08807, US | On Site | Apr 30 |
 | **[PTR Premier Truck Rental](https://rentptr.com)** | **[Intern Legal](https://jobright.ai/jobs/info/69b330e5ae2a534885ea97d2?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | On Site | Apr 30 |
@@ -82,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Legal Affairs Intern](https://jobright.ai/jobs/info/69f324ca6942c746fa6901a8?utm_campaign=1055&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | **[City of Fort Worth](https://www.fortworthtexas.gov)** | **[Regulatory Environmental Intern](https://jobright.ai/jobs/info/69e848790a6e09555302fb4e?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Apr 29 |
 | **[Aflac](http://www.aflac.com)** | **[Sr Mgr, Enterprise Risk Mgmt](https://jobright.ai/jobs/info/69f2bd498d8d624381aa3adb?utm_campaign=1055&utm_source=git)** | Georgia, United States | Hybrid | Apr 29 |
+| **[RegASK](https://regask.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/69f3e3426942c746fa695b64?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 29 |
 | **[State of Florida](http://www.myflorida.com)** | **[OPS REGULATORY SPECIALIST II - 79900118](https://jobright.ai/jobs/info/69f3ad3f58b23a2329da68bc?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 29 |
 | ↳ | **[ASST INVESTIGATION MANAGER - SES - 79001477](https://jobright.ai/jobs/info/69f3ad45343eef4fb0a9c7c5?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 29 |
 | **[Lush Fresh Handmade Cosmetics North America](https://www.lush.com)** | **[Law Clerk Intern, Summer 2026](https://jobright.ai/jobs/info/69f2a0bf8d8d624381aa1e8c?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Apr 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Raymond James Ltd.](https://www.raymondjames.ca/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69eff3e7fbe0994a40eb9c39?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 27 |
 | **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efee7efbe0994a40eb9a5e?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Apr 27 |
 | ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efe88b16b2612c2a12ca1f?utm_campaign=1055&utm_source=git)** | Tampa, Florida, US | Hybrid | Apr 27 |
-| ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efe83b4b0fa35a7078cca5?utm_campaign=1055&utm_source=git)** | Dallas, Texas, US | Hybrid | Apr 27 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Records Management Intern](https://jobright.ai/jobs/info/69efe5cd4b0fa35a7078c88c?utm_campaign=1055&utm_source=git)** | Arlington, VA, US | On Site | Apr 27 |
-| **[Colorado District Attorneys'​ Council](https://coloradoprosecutors.org/)** | **[Deputy District Attorney ($5,000 sign-on bonus*)](https://jobright.ai/jobs/info/69eff3c058811370cb149f60?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
-| ↳ | **[Deputy District Attorney III or IV](https://jobright.ai/jobs/info/69eff3b516b2612c2a12ceff?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 27 |
-| **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efc734e624fe645d533772?utm_campaign=1055&utm_source=git)** | Memphis, TN, US | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
