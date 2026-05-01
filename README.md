@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/69f4726c12f2811ab5a5e6de?utm_campaign=1055&utm_source=git)** | McLean, VA | Hybrid | May 01 |
 | **[Bexar County Information Technology](http://www.bexar.org/it)** | **[Intern](https://jobright.ai/jobs/info/69f46a20db88714bcdfad56d?utm_campaign=1055&utm_source=git)** | Paul Elizondo Tower, US | On Site | Apr 30 |
 | **[International](https://www.international.com)** | **[College Intern - Legal](https://jobright.ai/jobs/info/69f4404c343eef4fb0aa03f1?utm_campaign=1055&utm_source=git)** | Lisle, IL | On Site | Apr 30 |
 | **[Our Rescue](https://ourrescue.org)** | **[Legal Internship](https://jobright.ai/jobs/info/69f45a3adb88714bcdfad2b7?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 30 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Intellectual Property/Paralegal Intern (Year-Round)](https://jobright.ai/jobs/info/69f4075f343eef4fb0a9fa62?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Apr 30 |
 | **[Jazz at Lincoln Center](http://www.jazz.org/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69f406c6c78b9e451895914d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 30 |
+| **[KIHOMAC](https://kihomac.com/)** | **[Contracts Intern with Security Clearance](https://jobright.ai/jobs/info/69f4b8dba3d34b4f76f513d6?utm_campaign=1055&utm_source=git)** | Byron, GA | On Site | Apr 30 |
 | **[Peraton](https://www.peraton.com/)** | **[Contracts Administration Pipeline (Intern and Entry-level)](https://jobright.ai/jobs/info/69df83a2aba61f141731c020?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Apr 30 |
 | **[City of Odessa, Texas](https://www.odessa-tx.gov)** | **[Internship- Deputy Court Clerk](https://jobright.ai/jobs/info/69f3e8191f90bd6ae23d2b19?utm_campaign=1055&utm_source=git)** | 201 North Grant Avenue, Odessa, TX, United States | On Site | Apr 30 |
 | **[Amneal Pharmaceuticals](http://amneal.com/)** | **[2026 Summer Internship - Intellectual Property, Legal- Bridgewater, NJ](https://jobright.ai/jobs/info/69f3dcea461b9b613a6249f2?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | Apr 30 |
