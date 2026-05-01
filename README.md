@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Attorney General](https://texasattorneygeneral.gov/)** | **[OAG - Consumer Protection / Research Specialist IV / 26-0390](https://jobright.ai/jobs/info/69f52b5743a25828a8d1786b?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | May 01 |
+| ↳ | **[OAG - Consumer Protection / Research Specialist IV / 26-0392](https://jobright.ai/jobs/info/69f529c2a3d34b4f76f53f6c?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | May 01 |
+| **[NCAA](https://www.ncaa.org)** | **[Compliance and Governance Intern](https://jobright.ai/jobs/info/69f5290243a25828a8d173b8?utm_campaign=1055&utm_source=git)** | San Bruno, CA | On Site | May 01 |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Intern REPOST (Criminal Division)](https://jobright.ai/jobs/info/69f529f30b36ff0354750e15?utm_campaign=1055&utm_source=git)** | New Brunswick, NJ | On Site | May 01 |
 | **[VSP Vision](https://vspglobal.com/)** | **[Internship, Compliance and Privacy Department](https://jobright.ai/jobs/info/69f505aaa3d34b4f76f5323a?utm_campaign=1055&utm_source=git)** | Remote US, US | Remote | May 01 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department - KYC Intern](https://jobright.ai/jobs/info/69cf4424cdb525785fba0bac?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern – Commercial Title](https://jobright.ai/jobs/info/69bb20743b74eb1e2c898e18?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | May 01 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69bc9b1545e08b3dc1f95aa0?utm_campaign=1055&utm_source=git)** | Columbia, MD | On Site | May 01 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/69bb1f4b06c1ba00c54d9742?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | May 01 |
@@ -69,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Valeo](http://www.valeo.com/en/)** | **[Intellectual Property/Paralegal Intern (Year-Round)](https://jobright.ai/jobs/info/69f4075f343eef4fb0a9fa62?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Apr 30 |
 | **[Jazz at Lincoln Center](http://www.jazz.org/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69f406c6c78b9e451895914d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 30 |
 | **[Cook County State’s Attorney’s Office](https://www.cookcountystatesattorney.org/)** | **[FALL 2026 Volunteer Internship](https://jobright.ai/jobs/info/69f4e792a3d34b4f76f52672?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Apr 30 |
+| **[State of Florida](http://www.myflorida.com)** | **[ATTORNEY SUPERVISOR - 64003604](https://jobright.ai/jobs/info/69f52ac512f2811ab5a6392e?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 30 |
 | **[KIHOMAC](https://kihomac.com/)** | **[Contracts Intern with Security Clearance](https://jobright.ai/jobs/info/69f4b8dba3d34b4f76f513d6?utm_campaign=1055&utm_source=git)** | Byron, GA | On Site | Apr 30 |
 | **[Peraton](https://www.peraton.com/)** | **[Contracts Administration Pipeline (Intern and Entry-level)](https://jobright.ai/jobs/info/69df83a2aba61f141731c020?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Apr 30 |
 | **[City of Odessa, Texas](https://www.odessa-tx.gov)** | **[Internship- Deputy Court Clerk](https://jobright.ai/jobs/info/69f3e8191f90bd6ae23d2b19?utm_campaign=1055&utm_source=git)** | 201 North Grant Avenue, Odessa, TX, United States | On Site | Apr 30 |
@@ -81,6 +87,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efbb3a0a6e095553056f5c?utm_campaign=1055&utm_source=git)** | Boise, ID | Hybrid | Apr 30 |
 | ↳ | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efc5f4fbe0994a40eb8666?utm_campaign=1055&utm_source=git)** | Vancouver, WA | Hybrid | Apr 30 |
 | **[GenScript](http://www.genscript.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f3c32d58b23a2329da7e0d?utm_campaign=1055&utm_source=git)** | Piscataway, NJ | On Site | Apr 30 |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a72b7a37c712687d3884?utm_campaign=1055&utm_source=git)** | Union, OH | On Site | Apr 30 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Intellectual Property/Paralegal Intern (Year-Round)](https://jobright.ai/jobs/info/69f3f611461b9b613a625257?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI, US | On Site | Apr 30 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/69d6ac94366bb95ba554ef8e?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 30 |
 | **[INX International Ink Co.](https://www.inxinternational.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f0df1eecbc8c2f732024f3?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | On Site | Apr 30 |
@@ -94,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Apr 30 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69d6edf7e63cea7a8b66d0bb?utm_campaign=1055&utm_source=git)** | Kansas City, MO | Hybrid | Apr 30 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7e7217a37c712687d6d3d?utm_campaign=1055&utm_source=git)** | West Deptford, NJ | On Site | Apr 30 |
-| **[SentinelOne](http://www.sentinelone.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d70814366bb95ba55512eb?utm_campaign=1055&utm_source=git)** | United States | Remote | Apr 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Risk Governance Analyst Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69817ebb49964d25b5e47ce0?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Political Compliance Intern (Summer and Fall)](https://jobright.ai/jobs/info/69d6c1ae48f0c8161d2faf3f?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 30 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Legal Intern – Policy & Public Sector (AI & Cybersecurity Focus) (Summer 2026)](https://jobright.ai/jobs/info/69d6a89e48f0c8161d2fa0a9?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 30 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Harris County Attorney's Office](https://cao.harriscountytx.gov/)** | **[LOCAL LAW STUDENT PAID INTERN- Crimes Against Children Division](https://jobright.ai/jobs/info/69f141b78feca91f1491f6ce?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 28 |
 | **[Guzman Energy](http://www.guzmanenergy.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69f1189f8feca91f1491e79c?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | Apr 28 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/69f1358062b48c683879437c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 28 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Legal Internship - 2025 SWEL Summer Associate Program](https://jobright.ai/jobs/info/69f1046c8feca91f1491e059?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, US | Hybrid | Apr 28 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/69f12cc3825a315d7ca361ee?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 28 |
-| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT PAID INTERN- Crimes Against Children Division](https://jobright.ai/jobs/info/69f10138ecbc8c2f73203181?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 28 |
-| **[Corpay](https://payments.corpay.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69d45e1c891d7b11cfcf9be4?utm_campaign=1055&utm_source=git)** | Peachtree Corners, GA | Remote | Apr 28 |
-| **[SOCOTEC USA](https://www.socotec.us/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69d3ef87e63cea7a8b655022?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 28 |
-| **[PCB Piezotronics, Inc.](http://www.pcb.com/)** | **[Quality/Regulatory Compliance Intern](https://jobright.ai/jobs/info/69f0f4b062b48c6838792d81?utm_campaign=1055&utm_source=git)** | Depew, NY | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
