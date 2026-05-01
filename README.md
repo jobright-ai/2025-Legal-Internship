@@ -62,9 +62,11 @@ For a complete list, click the following sortable link below:
 | **[Bradesco Bank](https://bradescobank.com )** | **[KYC/CIP 1-Year Internship](https://jobright.ai/jobs/info/69f3dc9f58b23a2329da854c?utm_campaign=1055&utm_source=git)** | Coral Gables, FL | On Site | Apr 30 |
 | **[Our Rescue](https://ourrescue.org)** | **[Legal Internship](https://jobright.ai/jobs/info/69f3d879461b9b613a6244d6?utm_campaign=1055&utm_source=git)** | New York, NY 10001, USA | Hybrid | Apr 30 |
 | **[GenScript](http://www.genscript.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f3d3026942c746fa6951fb?utm_campaign=1055&utm_source=git)** | Piscataway, New Jersey, United States | On Site | Apr 30 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69f3c32d58b23a2329da7e0d?utm_campaign=1055&utm_source=git)** | Piscataway, NJ | On Site | Apr 30 |
+| **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efc5f4fbe0994a40eb8666?utm_campaign=1055&utm_source=git)** | Vancouver, WA | Hybrid | Apr 30 |
+| **[GenScript](http://www.genscript.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f3c32d58b23a2329da7e0d?utm_campaign=1055&utm_source=git)** | Piscataway, NJ | On Site | Apr 30 |
 | **[Nova Biomedical](https://www.novabiomedical.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/69f3c31858b23a2329da7d99?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Apr 30 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Legal Intern Fall 2026 - Spring 2027 (Atlantic/Cape May, Various Divisions)](https://jobright.ai/jobs/info/69f3d8db1f90bd6ae23d1c65?utm_campaign=1055&utm_source=git)** | Cape May, NJ | Hybrid | Apr 30 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Intellectual Property/Paralegal Intern (Year-Round)](https://jobright.ai/jobs/info/69f3f611461b9b613a625257?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI, US | On Site | Apr 30 |
 | **[The Khalsa Law Firm](https://khalsalaw.com)** | **[Legal Office, Marketing & Client Experience Summer Intern NYC](https://jobright.ai/jobs/info/69f3c36058b23a2329da7f00?utm_campaign=1055&utm_source=git)** | NYC Metro Area | On Site | Apr 30 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/69d6ac94366bb95ba554ef8e?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 30 |
 | **[Power Factors](http://www.powerfactors.com/)** | **[Intern- CLM Implementation & Legal Operations (Summer)](https://jobright.ai/jobs/info/69f39714343eef4fb0a9c075?utm_campaign=1055&utm_source=git)** | Québec City, Quebec, Canada | Remote | Apr 30 |
@@ -121,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Law Clerk](https://jobright.ai/jobs/info/69f1663762b48c68387955d5?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Apr 28 |
 | **[SPR](https://www.sprpainrelief.com)** | **[Sales Contracts Intern](https://jobright.ai/jobs/info/69dd52af61f6ed54321fc7f8?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Apr 28 |
 | **[State of Florida](http://www.myflorida.com)** | **[REGULATORY SPECIALIST III - 79000724](https://jobright.ai/jobs/info/69f28569ecbc8c2f7320af08?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 28 |
-| ↳ | **[PARALEGAL SPECIALIST - 60074598](https://jobright.ai/jobs/info/69f289b78feca91f149256ae?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 28 |
 | ↳ | **[REGULATORY SPECIALIST I - 79000431](https://jobright.ai/jobs/info/69f284b28d8d624381aa1440?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 28 |
+| ↳ | **[PARALEGAL SPECIALIST - 60074598](https://jobright.ai/jobs/info/69f289b78feca91f149256ae?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 28 |
 | **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Cabrini / Legal Intern](https://jobright.ai/jobs/info/69f135e28d8d624381a9af54?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 28 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Accessibility Compliance Analyst](https://jobright.ai/jobs/info/69f135b48d8d624381a9ae79?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 28 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Law Clerk](https://jobright.ai/jobs/info/69f12d0f8feca91f1491edf5?utm_campaign=1055&utm_source=git)** | Miami, FL, US | On Site | Apr 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Peraton](https://www.peraton.com/)** | **[Contracts Administration Pipeline (Intern and Entry-level)](https://jobright.ai/jobs/info/69df83a2aba61f141731c020?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Apr 27 |
 | **[Webster First Federal Credit Union](https://www.websterfirst.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69f140948feca91f1491f55e?utm_campaign=1055&utm_source=git)** | Worcester, MA | On Site | Apr 27 |
 | **[Raymond James Ltd.](https://www.raymondjames.ca/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69eff3e7fbe0994a40eb9c39?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 27 |
-| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efee7efbe0994a40eb9a5e?utm_campaign=1055&utm_source=git)** | Tampa, FL | Hybrid | Apr 27 |
-| ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69efe88b16b2612c2a12ca1f?utm_campaign=1055&utm_source=git)** | Tampa, Florida, US | Hybrid | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
