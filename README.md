@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International](https://www.international.com)** | **[College Intern - Legal](https://jobright.ai/jobs/info/69f4404c343eef4fb0aa03f1?utm_campaign=1055&utm_source=git)** | Lisle, IL | On Site | Apr 30 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Intellectual Property/Paralegal Intern (Year-Round)](https://jobright.ai/jobs/info/69f4075f343eef4fb0a9fa62?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | Apr 30 |
 | **[Jazz at Lincoln Center](http://www.jazz.org/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69f406c6c78b9e451895914d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 30 |
 | **[Peraton](https://www.peraton.com/)** | **[Contracts Administration Pipeline (Intern and Entry-level)](https://jobright.ai/jobs/info/69df83a2aba61f141731c020?utm_campaign=1055&utm_source=git)** | Reston, VA | Hybrid | Apr 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Temposonics](https://www.mtssensors.com)** | **[Quality/Regulatory Compliance Intern](https://jobright.ai/jobs/info/69f0b7ce825a315d7ca3336d?utm_campaign=1055&utm_source=git)** | Depew, NY, Depew, NY, US | On Site | Apr 28 |
 | **[Ion Bank](http://ionbank.com)** | **[Junior Fraud Analyst Intern](https://jobright.ai/jobs/info/69f06620b27fee43e8cd3512?utm_campaign=1055&utm_source=git)** | Naugatuck, CT | On Site | Apr 27 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d6bb1352a5bf580012b6e0?utm_campaign=1055&utm_source=git)** | United States - Remote | Remote | Apr 27 |
-| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69f05203825a315d7ca31cc3?utm_campaign=1055&utm_source=git)** | Dallas, TX | Hybrid | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
