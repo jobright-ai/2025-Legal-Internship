@@ -59,6 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[VSP Vision](https://vspglobal.com/)** | **[Internship, Compliance and Privacy Department](https://jobright.ai/jobs/info/69f505aaa3d34b4f76f5323a?utm_campaign=1055&utm_source=git)** | Remote US, US | Remote | May 01 |
 | **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern – Commercial Title](https://jobright.ai/jobs/info/69bb20743b74eb1e2c898e18?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | May 01 |
+| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69bc9b1545e08b3dc1f95aa0?utm_campaign=1055&utm_source=git)** | Columbia, MD | On Site | May 01 |
+| **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/69bb1f4b06c1ba00c54d9742?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | May 01 |
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Compliance Assistant Intern](https://jobright.ai/jobs/info/69f4cd0881706a5bd2163220?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | May 01 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Contract Management Intern - Summer 2026](https://jobright.ai/jobs/info/69f4ecf30b36ff035474fcb2?utm_campaign=1055&utm_source=git)** | Schenectady, NY | On Site | May 01 |
 | **[Bexar County Information Technology](http://www.bexar.org/it)** | **[Intern](https://jobright.ai/jobs/info/69f46a20db88714bcdfad56d?utm_campaign=1055&utm_source=git)** | Paul Elizondo Tower, US | On Site | Apr 30 |
@@ -136,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Law Clerk](https://jobright.ai/jobs/info/69f1663762b48c68387955d5?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Apr 28 |
 | **[SPR](https://www.sprpainrelief.com)** | **[Sales Contracts Intern](https://jobright.ai/jobs/info/69dd52af61f6ed54321fc7f8?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Apr 28 |
 | **[State of Florida](http://www.myflorida.com)** | **[REGULATORY SPECIALIST III - 79000724](https://jobright.ai/jobs/info/69f28569ecbc8c2f7320af08?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 28 |
-| ↳ | **[PARALEGAL SPECIALIST - 60074598](https://jobright.ai/jobs/info/69f289b78feca91f149256ae?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 28 |
 | ↳ | **[REGULATORY SPECIALIST I - 79000431](https://jobright.ai/jobs/info/69f284b28d8d624381aa1440?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 28 |
+| ↳ | **[PARALEGAL SPECIALIST - 60074598](https://jobright.ai/jobs/info/69f289b78feca91f149256ae?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 28 |
 | **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Cabrini / Legal Intern](https://jobright.ai/jobs/info/69f135e28d8d624381a9af54?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 28 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Accessibility Compliance Analyst](https://jobright.ai/jobs/info/69f135b48d8d624381a9ae79?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 28 |
 | **[Community Financial System, Inc.](https://communityfinancialsystem.com)** | **[FIU Intern](https://jobright.ai/jobs/info/69f4d4d1a3d34b4f76f52026?utm_campaign=1055&utm_source=git)** | Rochester, NY, US | On Site | Apr 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Corpay](https://payments.corpay.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69d45e1c891d7b11cfcf9be4?utm_campaign=1055&utm_source=git)** | Peachtree Corners, GA | Remote | Apr 28 |
 | **[SOCOTEC USA](https://www.socotec.us/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69d3ef87e63cea7a8b655022?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[PCB Piezotronics, Inc.](http://www.pcb.com/)** | **[Quality/Regulatory Compliance Intern](https://jobright.ai/jobs/info/69f0f4b062b48c6838792d81?utm_campaign=1055&utm_source=git)** | Depew, NY | On Site | Apr 28 |
-| **[Webster First Federal Credit Union](https://www.websterfirst.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69f0eec8ecbc8c2f73202b56?utm_campaign=1055&utm_source=git)** | Operations Center, 271 Greenwood Street, Worcester, MA | On Site | Apr 28 |
-| **[INX International Ink Co.](https://www.inxinternational.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f0d7f962b48c6838792496?utm_campaign=1055&utm_source=git)** | 150 N Martingale Rd, Schaumburg, IL 60173, USA | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
