@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VSP Vision](https://vspglobal.com/)** | **[Internship, Compliance and Privacy Department](https://jobright.ai/jobs/info/69f505aaa3d34b4f76f5323a?utm_campaign=1055&utm_source=git)** | Remote US, US | Remote | May 01 |
 | **[First American](http://www.firstam.com)** | **[Underwriting Graduate Intern – Commercial Title](https://jobright.ai/jobs/info/69bb20743b74eb1e2c898e18?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | May 01 |
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Compliance Assistant Intern](https://jobright.ai/jobs/info/69f4cd0881706a5bd2163220?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | May 01 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Contract Management Intern - Summer 2026](https://jobright.ai/jobs/info/69f4ecf30b36ff035474fcb2?utm_campaign=1055&utm_source=git)** | Schenectady, NY | On Site | May 01 |
@@ -78,9 +79,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efbb3a0a6e095553056f5c?utm_campaign=1055&utm_source=git)** | Boise, ID | Hybrid | Apr 30 |
 | ↳ | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efc5f4fbe0994a40eb8666?utm_campaign=1055&utm_source=git)** | Vancouver, WA | Hybrid | Apr 30 |
 | **[GenScript](http://www.genscript.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f3c32d58b23a2329da7e0d?utm_campaign=1055&utm_source=git)** | Piscataway, NJ | On Site | Apr 30 |
-| **[Nova Biomedical](https://www.novabiomedical.com/)** | **[Legal & Compliance Intern](https://jobright.ai/jobs/info/69f3c31858b23a2329da7d99?utm_campaign=1055&utm_source=git)** | Norwood, MA | On Site | Apr 30 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Intellectual Property/Paralegal Intern (Year-Round)](https://jobright.ai/jobs/info/69f3f611461b9b613a625257?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI, US | On Site | Apr 30 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/69d6ac94366bb95ba554ef8e?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 30 |
+| **[INX International Ink Co.](https://www.inxinternational.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f0df1eecbc8c2f732024f3?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | On Site | Apr 30 |
 | **[Power Factors](http://www.powerfactors.com/)** | **[Intern- CLM Implementation & Legal Operations (Summer)](https://jobright.ai/jobs/info/69f39714343eef4fb0a9c075?utm_campaign=1055&utm_source=git)** | Québec City, Quebec, Canada | Remote | Apr 30 |
 | ↳ | **[Intern- CLM Implementation & Legal Operations (Summer)](https://jobright.ai/jobs/info/69f397121f90bd6ae23d0d97?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | Remote | Apr 30 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/69f3ddb058b23a2329da865f?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 30 |
@@ -135,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Law Clerk](https://jobright.ai/jobs/info/69f1663762b48c68387955d5?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Apr 28 |
 | **[SPR](https://www.sprpainrelief.com)** | **[Sales Contracts Intern](https://jobright.ai/jobs/info/69dd52af61f6ed54321fc7f8?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Apr 28 |
 | **[State of Florida](http://www.myflorida.com)** | **[REGULATORY SPECIALIST III - 79000724](https://jobright.ai/jobs/info/69f28569ecbc8c2f7320af08?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 28 |
-| ↳ | **[REGULATORY SPECIALIST I - 79000431](https://jobright.ai/jobs/info/69f284b28d8d624381aa1440?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 28 |
 | ↳ | **[PARALEGAL SPECIALIST - 60074598](https://jobright.ai/jobs/info/69f289b78feca91f149256ae?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 28 |
+| ↳ | **[REGULATORY SPECIALIST I - 79000431](https://jobright.ai/jobs/info/69f284b28d8d624381aa1440?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 28 |
 | **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Cabrini / Legal Intern](https://jobright.ai/jobs/info/69f135e28d8d624381a9af54?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 28 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Accessibility Compliance Analyst](https://jobright.ai/jobs/info/69f135b48d8d624381a9ae79?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 28 |
 | **[Community Financial System, Inc.](https://communityfinancialsystem.com)** | **[FIU Intern](https://jobright.ai/jobs/info/69f4d4d1a3d34b4f76f52026?utm_campaign=1055&utm_source=git)** | Rochester, NY, US | On Site | Apr 28 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[SOCOTEC USA](https://www.socotec.us/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69d3ef87e63cea7a8b655022?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[PCB Piezotronics, Inc.](http://www.pcb.com/)** | **[Quality/Regulatory Compliance Intern](https://jobright.ai/jobs/info/69f0f4b062b48c6838792d81?utm_campaign=1055&utm_source=git)** | Depew, NY | On Site | Apr 28 |
 | **[Webster First Federal Credit Union](https://www.websterfirst.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69f0eec8ecbc8c2f73202b56?utm_campaign=1055&utm_source=git)** | Operations Center, 271 Greenwood Street, Worcester, MA | On Site | Apr 28 |
-| **[INX International Ink Co.](https://www.inxinternational.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f0df1eecbc8c2f732024f3?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | On Site | Apr 28 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69f0d7f962b48c6838792496?utm_campaign=1055&utm_source=git)** | 150 N Martingale Rd, Schaumburg, IL 60173, USA | On Site | Apr 28 |
+| **[INX International Ink Co.](https://www.inxinternational.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f0d7f962b48c6838792496?utm_campaign=1055&utm_source=git)** | 150 N Martingale Rd, Schaumburg, IL 60173, USA | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
