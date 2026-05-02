@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[Global Trade Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/69d95303738f2f099e8a0ff5?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | May 02 |
 | **[Rayburn Electric Cooperative](https://www.rayburnelectric.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69e87aaf58811370cb126969?utm_campaign=1055&utm_source=git)** | Rockwall, TX | On Site | May 02 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69d97b7bf748bc5d08a4b9ee?utm_campaign=1055&utm_source=git)** | Bellevue, WA | Hybrid | May 02 |
+| **[VSP Vision Care](https://www.vsp.com/?utm_source=linkedin&utm_medium=social&utm_campaign=gcc_general)** | **[Internship, Compliance and Privacy Department](https://jobright.ai/jobs/info/69f5f4f212f2811ab5a664f5?utm_campaign=1055&utm_source=git)** | United States | Remote | May 02 |
 | **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d959e5b67cec4f9b0a164c?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | May 02 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/69d9c0069f97a42dc9c24051?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
 | **[Coterie Insurance](http://coterieinsurance.com)** | **[Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/69f5ebeddb88714bcdfb562e?utm_campaign=1055&utm_source=git)** | United States | Remote | May 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blockchain.com](http://blockchain.com)** | **[Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/699c6494e0bddb6acacb6f83?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - Trade Compliance & Logistics](https://jobright.ai/jobs/info/69bc71c34828227293fe506a?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Apr 29 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Ethics and Regulatory Compliance Intern – Summer 2026 (May – August)](https://jobright.ai/jobs/info/6916f43d6f36db06ef05b74b?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Apr 29 |
-| **[Busey](https://www.busey.com/home/home)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69f1ebec8feca91f14922844?utm_campaign=1055&utm_source=git)** | Champaign, IL | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
