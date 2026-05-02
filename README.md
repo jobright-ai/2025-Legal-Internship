@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Energy, Environmental, and Natural Resources, Holland & Hart  (Salt Lake City)](https://jobright.ai/jobs/info/69f60c37582f810f9c8c7eb7?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 02 |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL | On Site | May 02 |
+| **[State of Missouri](http://mo.gov)** | **[Legal Intern - 3DIR061](https://jobright.ai/jobs/info/69bd9f1db106024562828d2c?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | May 02 |
 | **[Tenneco](https://www.tenneco.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69a0b5735218a8167671e00e?utm_campaign=1055&utm_source=git)** | Northville, MI | On Site | May 02 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Global Trade Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/69d95303738f2f099e8a0ff5?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | May 02 |
 | **[Rayburn Electric Cooperative](https://www.rayburnelectric.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69e87aaf58811370cb126969?utm_campaign=1055&utm_source=git)** | Rockwall, TX | On Site | May 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Immigration Legal Intern](https://jobright.ai/jobs/info/69f23c628feca91f14923cb2?utm_campaign=1055&utm_source=git)** | Hartford,CT,US | On Site | Apr 29 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a5aa295f8e37655dffdb?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Apr 29 |
 | **[Blockchain.com](http://blockchain.com)** | **[Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/699c6494e0bddb6acacb6f83?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
-| **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - Trade Compliance & Logistics](https://jobright.ai/jobs/info/69bc71c34828227293fe506a?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
