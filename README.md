@@ -58,7 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Legal Intern – Healthcare](https://jobright.ai/jobs/info/69f56ee981706a5bd216633a?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | May 01 |
-| **[UPS](http://www.ups.com)** | **[Legal Intern - SLIP](https://jobright.ai/jobs/info/69f55fa7a3d34b4f76f54e5a?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | May 01 |
+| **[City of Port Townsend](https://cityofpt.us)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69f58bdfdb88714bcdfb3fbc?utm_campaign=1055&utm_source=git)** | Port Townsend, WA | Hybrid | May 01 |
 | **[Caliber Financial Services](https://caliberfs.com)** | **[Legal Intern - Summer](https://jobright.ai/jobs/info/69f57cbddb88714bcdfb3ed9?utm_campaign=1055&utm_source=git)** | Overland Park, KS | Hybrid | May 01 |
 | **[Cresset](https://cressetcapital.com/)** | **[Legal Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69f5532d81706a5bd2165f28?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | May 01 |
 | **[Coterie Insurance](http://coterieinsurance.com)** | **[Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/69f5528943a25828a8d184c9?utm_campaign=1055&utm_source=git)** | Remote (United States) | Remote | May 01 |
@@ -99,6 +99,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efc5f4fbe0994a40eb8666?utm_campaign=1055&utm_source=git)** | Vancouver, WA | Hybrid | Apr 30 |
 | **[GenScript](http://www.genscript.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f3c32d58b23a2329da7e0d?utm_campaign=1055&utm_source=git)** | Piscataway, NJ | On Site | Apr 30 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a72b7a37c712687d3884?utm_campaign=1055&utm_source=git)** | Union, OH | On Site | Apr 30 |
+| **[Prinston Pharmaceutical Inc.](https://www.prinstonpharm.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f58b9743a25828a8d19035?utm_campaign=1055&utm_source=git)** | Somerset, NJ | On Site | Apr 30 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Intellectual Property/Paralegal Intern (Year-Round)](https://jobright.ai/jobs/info/69f3f611461b9b613a625257?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI, US | On Site | Apr 30 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/69d6ac94366bb95ba554ef8e?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 30 |
 | **[INX International Ink Co.](https://www.inxinternational.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f0df1eecbc8c2f732024f3?utm_campaign=1055&utm_source=git)** | Schaumburg, IL | On Site | Apr 30 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Law Clerk](https://jobright.ai/jobs/info/69f1663762b48c68387955d5?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Apr 28 |
 | **[SPR](https://www.sprpainrelief.com)** | **[Sales Contracts Intern](https://jobright.ai/jobs/info/69dd52af61f6ed54321fc7f8?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Apr 28 |
 | **[State of Florida](http://www.myflorida.com)** | **[REGULATORY SPECIALIST III - 79000724](https://jobright.ai/jobs/info/69f28569ecbc8c2f7320af08?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 28 |
-| ↳ | **[REGULATORY SPECIALIST I - 79000431](https://jobright.ai/jobs/info/69f284b28d8d624381aa1440?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 28 |
 | ↳ | **[PARALEGAL SPECIALIST - 60074598](https://jobright.ai/jobs/info/69f289b78feca91f149256ae?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 28 |
-| **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Cabrini / Legal Intern](https://jobright.ai/jobs/info/69f135e28d8d624381a9af54?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Apr 28 |
+| ↳ | **[REGULATORY SPECIALIST I - 79000431](https://jobright.ai/jobs/info/69f284b28d8d624381aa1440?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
