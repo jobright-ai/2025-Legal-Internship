@@ -79,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Compliance Assistant Intern](https://jobright.ai/jobs/info/69f4cd0881706a5bd2163220?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | May 01 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Contract Management Intern - Summer 2026](https://jobright.ai/jobs/info/69f4ecf30b36ff035474fcb2?utm_campaign=1055&utm_source=git)** | Schenectady, NY | On Site | May 01 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | May 01 |
+| **[SPR](https://www.sprpainrelief.com)** | **[Sales Contracts Intern](https://jobright.ai/jobs/info/69dd52af61f6ed54321fc7f8?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | May 01 |
 | **[Bexar County Information Technology](http://www.bexar.org/it)** | **[Intern](https://jobright.ai/jobs/info/69f46a20db88714bcdfad56d?utm_campaign=1055&utm_source=git)** | Paul Elizondo Tower, US | On Site | Apr 30 |
 | **[International](https://www.international.com)** | **[College Intern - Legal](https://jobright.ai/jobs/info/69f4404c343eef4fb0aa03f1?utm_campaign=1055&utm_source=git)** | Lisle, IL | On Site | Apr 30 |
 | **[Our Rescue](https://ourrescue.org)** | **[Legal Internship](https://jobright.ai/jobs/info/69f45a3adb88714bcdfad2b7?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Apr 30 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[SOX Intern](https://jobright.ai/jobs/info/69f16e2b62b48c68387956ba?utm_campaign=1055&utm_source=git)** | Brisbane, CA | On Site | Apr 28 |
 | ↳ | **[SOX Intern](https://jobright.ai/jobs/info/69f16684825a315d7ca37aaf?utm_campaign=1055&utm_source=git)** | Brisbane, CA | On Site | Apr 28 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Law Clerk](https://jobright.ai/jobs/info/69f1663762b48c68387955d5?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | Apr 28 |
-| **[SPR](https://www.sprpainrelief.com)** | **[Sales Contracts Intern](https://jobright.ai/jobs/info/69dd52af61f6ed54321fc7f8?utm_campaign=1055&utm_source=git)** | Cleveland, OH | Hybrid | Apr 28 |
 | **[State of Florida](http://www.myflorida.com)** | **[REGULATORY SPECIALIST III - 79000724](https://jobright.ai/jobs/info/69f28569ecbc8c2f7320af08?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 28 |
-| ↳ | **[REGULATORY SPECIALIST I - 79000431](https://jobright.ai/jobs/info/69f284b28d8d624381aa1440?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 28 |
+| ↳ | **[PARALEGAL SPECIALIST - 60074598](https://jobright.ai/jobs/info/69f289b78feca91f149256ae?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
