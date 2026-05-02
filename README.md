@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UPS](http://www.ups.com)** | **[Legal Intern - SLIP](https://jobright.ai/jobs/info/69f56533a3d34b4f76f54ec1?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | May 01 |
 | **[Cresset](https://cressetcapital.com/)** | **[Legal Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69f5532d81706a5bd2165f28?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | May 01 |
 | **[Coterie Insurance](http://coterieinsurance.com)** | **[Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/69f5528943a25828a8d184c9?utm_campaign=1055&utm_source=git)** | Remote (United States) | Remote | May 01 |
 | **[Sentara Health](http://www.sentara.com)** | **[Cyber Security Compliance Intern](https://jobright.ai/jobs/info/69f543e90b36ff03547516a6?utm_campaign=1055&utm_source=git)** | Virginia Beach, VA | On Site | May 01 |
@@ -134,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Betenbough Companies](https://betenboughcompanies.com/)** | **[Title Intern](https://jobright.ai/jobs/info/69f23509ecbc8c2f73209506?utm_campaign=1055&utm_source=git)** | Lubbock, TX | On Site | Apr 29 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69d59e2e706f771673ba4741?utm_campaign=1055&utm_source=git)** | Arizona, United States | Remote | Apr 29 |
 | **[L Law Firm PLLC](https://llawfirm.law/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69f22a2f8d8d624381a9f881?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | Apr 29 |
-| **[City of Port Townsend](https://cityofpt.us)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69f254e18feca91f14924505?utm_campaign=1055&utm_source=git)** | Port Townsend, WA | Hybrid | Apr 29 |
 | **[Integrity](https://www.integrity.com)** | **[Intern, Legal Enterprise Risk Management](https://jobright.ai/jobs/info/69f2248bab4ec4779fff7715?utm_campaign=1055&utm_source=git)** | Dallas, TX, US | On Site | Apr 29 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a64d7796a83635f09901?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Apr 29 |
 | **[Everllence](https://www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Apr 29 |
