@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sentara Health](http://www.sentara.com)** | **[Cyber Security Compliance Intern](https://jobright.ai/jobs/info/69f543e90b36ff03547516a6?utm_campaign=1055&utm_source=git)** | Virginia Beach, VA | On Site | May 01 |
 | **[Texas Attorney General](https://texasattorneygeneral.gov/)** | **[OAG - Consumer Protection / Research Specialist IV / 26-0390](https://jobright.ai/jobs/info/69f52b5743a25828a8d1786b?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | May 01 |
 | ↳ | **[OAG - Consumer Protection / Research Specialist IV / 26-0392](https://jobright.ai/jobs/info/69f529c2a3d34b4f76f53f6c?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | May 01 |
 | **[NCAA](https://www.ncaa.org)** | **[Compliance and Governance Intern](https://jobright.ai/jobs/info/69f5290243a25828a8d173b8?utm_campaign=1055&utm_source=git)** | San Bruno, CA | On Site | May 01 |
 | **[Rio Tinto](http://www.riotinto.com)** | **[Stagiaire droit - 2026 - Law intern](https://jobright.ai/jobs/info/69f53bc712f2811ab5a63ef3?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 01 |
+| **[Acadia Realty Trust](http://www.acadiarealty.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69f53bf00b36ff03547514bc?utm_campaign=1055&utm_source=git)** | Rye, NY | On Site | May 01 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Intern REPOST (Criminal Division)](https://jobright.ai/jobs/info/69f529f30b36ff0354750e15?utm_campaign=1055&utm_source=git)** | New Brunswick, NJ | On Site | May 01 |
 | **[VSP Vision](https://vspglobal.com/)** | **[Internship, Compliance and Privacy Department](https://jobright.ai/jobs/info/69f505aaa3d34b4f76f5323a?utm_campaign=1055&utm_source=git)** | Remote US, US | Remote | May 01 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT PAID INTERN- Crimes Against Children Division](https://jobright.ai/jobs/info/69f52e0c12f2811ab5a63a72?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | May 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Law Clerk](https://jobright.ai/jobs/info/69f12d0f8feca91f1491edf5?utm_campaign=1055&utm_source=git)** | Miami, FL, US | On Site | Apr 28 |
 | **[the LEGO Group](http://www.lego.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f12cadb27fee43e8cd78ae?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | Apr 28 |
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998e46a81476f6176b14a5b?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Apr 28 |
-| ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998dd72ce78e77b4fdd6d60?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Apr 28 |
-| ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998f7d5e0bddb6acac7e7fc?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
