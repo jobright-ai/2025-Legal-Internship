@@ -74,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Caliber Financial Services](https://caliberfs.com)** | **[Legal Intern - Summer](https://jobright.ai/jobs/info/69f57cbddb88714bcdfb3ed9?utm_campaign=1055&utm_source=git)** | Overland Park, KS | Hybrid | May 01 |
 | **[Cresset](https://cressetcapital.com/)** | **[Legal Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69f5532d81706a5bd2165f28?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | May 01 |
 | **[Coterie Insurance](http://coterieinsurance.com)** | **[Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/69f5528943a25828a8d184c9?utm_campaign=1055&utm_source=git)** | Remote (United States) | Remote | May 01 |
-| **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027/28 Articling Student - Criminal & Family (Cornwall) - French Bilingual](https://jobright.ai/jobs/info/69f5a9ea43a25828a8d195ce?utm_campaign=1055&utm_source=git)** | Cornwall, Ontario, Canada | On Site | May 01 |
 | **[Sentara Health](http://www.sentara.com)** | **[Cyber Security Compliance Intern](https://jobright.ai/jobs/info/69f543e90b36ff03547516a6?utm_campaign=1055&utm_source=git)** | Virginia Beach, VA | On Site | May 01 |
 | **[Texas Attorney General](https://texasattorneygeneral.gov/)** | **[OAG - Consumer Protection / Research Specialist IV / 26-0390](https://jobright.ai/jobs/info/69f52b5743a25828a8d1786b?utm_campaign=1055&utm_source=git)** | San Antonio, TX | On Site | May 01 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Legal Intern](https://jobright.ai/jobs/info/69f54d0adb88714bcdfb32ac?utm_campaign=1055&utm_source=git)** | Oklahoma County, OK | On Site | May 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Everllence](https://www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Apr 29 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Security & Compliance Intern](https://jobright.ai/jobs/info/69d578f2706f771673ba3687?utm_campaign=1055&utm_source=git)** | Greensboro, NC | On Site | Apr 29 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Immigration Legal Intern](https://jobright.ai/jobs/info/69f23c628feca91f14923cb2?utm_campaign=1055&utm_source=git)** | Hartford,CT,US | On Site | Apr 29 |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a5aa295f8e37655dffdb?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
