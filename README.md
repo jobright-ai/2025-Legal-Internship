@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Missouri](http://mo.gov)** | **[Legal Intern - 3DIR011](https://jobright.ai/jobs/info/69bde6dbb106024562834b6b?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | May 03 |
+| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[Summer Law Clerk – Tax, Holland & Hart (Denver)](https://jobright.ai/jobs/info/69f748fc0b36ff03547579ea?utm_campaign=1055&utm_source=git)** | Denver, CO | On Site | May 03 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk Intern – Technology Expertise (Summer 2026)](https://jobright.ai/jobs/info/6930ac31fa28370be26b238d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 03 |
 | **[BioSpace](http://www.biospace.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69f6e7b3582f810f9c8ca908?utm_campaign=1055&utm_source=git)** | Piscataway, NJ | On Site | May 02 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[SOX Intern](https://jobright.ai/jobs/info/69f16e2b62b48c68387956ba?utm_campaign=1055&utm_source=git)** | Brisbane, CA | On Site | May 02 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69f6577a582f810f9c8c8baa?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Fort Worth](https://www.fortworthtexas.gov)** | **[Regulatory Environmental Intern](https://jobright.ai/jobs/info/69e848790a6e09555302fb4e?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Apr 29 |
 | **[Aflac](http://www.aflac.com)** | **[Sr Mgr, Enterprise Risk Mgmt](https://jobright.ai/jobs/info/69f2bd498d8d624381aa3adb?utm_campaign=1055&utm_source=git)** | Georgia, United States | Hybrid | Apr 29 |
 | **[RegASK](https://regask.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/69f3e3426942c746fa695b64?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 29 |
-| **[State of Florida](http://www.myflorida.com)** | **[OPS QUALITY CONTROL ANALYST (STAFF ASSISTANT)- 65650166](https://jobright.ai/jobs/info/69f4071458b23a2329da94f5?utm_campaign=1055&utm_source=git)** | Lakeland, FL | On Site | Apr 29 |
-| ↳ | **[OPS REGULATORY SPECIALIST II - 79900118](https://jobright.ai/jobs/info/69f3ad3f58b23a2329da68bc?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | Apr 29 |
-| ↳ | **[ASST INVESTIGATION MANAGER - SES - 79001477](https://jobright.ai/jobs/info/69f3ad45343eef4fb0a9c7c5?utm_campaign=1055&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
