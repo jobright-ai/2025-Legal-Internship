@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Resonant Clinical Solutions](https://resonantclinical.com)** | **[Legal and Contracts Intern](https://jobright.ai/jobs/info/69f8de73db88714bcdfbbc11?utm_campaign=1055&utm_source=git)** | Remote - Pennsylvania, US | Remote | May 04 |
+| ↳ | **[Legal and Contracts Intern](https://jobright.ai/jobs/info/69f8de2f81706a5bd216e754?utm_campaign=1055&utm_source=git)** | Remote - Connecticut, US | Remote | May 04 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Compliance & AML Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69f82470a3d34b4f76f5c907?utm_campaign=1055&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
 | **[State of Missouri](http://mo.gov)** | **[Legal Intern - 3DIR011](https://jobright.ai/jobs/info/69bde6dbb106024562834b6b?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | May 03 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk Intern – Technology Expertise (Summer 2026)](https://jobright.ai/jobs/info/6930ac31fa28370be26b238d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Legal Affairs Intern](https://jobright.ai/jobs/info/69f324ca6942c746fa6901a8?utm_campaign=1055&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | **[City of Fort Worth](https://www.fortworthtexas.gov)** | **[Regulatory Environmental Intern](https://jobright.ai/jobs/info/69e848790a6e09555302fb4e?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Apr 29 |
 | **[Aflac](http://www.aflac.com)** | **[Sr Mgr, Enterprise Risk Mgmt](https://jobright.ai/jobs/info/69f2bd498d8d624381aa3adb?utm_campaign=1055&utm_source=git)** | Georgia, United States | Hybrid | Apr 29 |
-| **[RegASK](https://regask.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/69f3e3426942c746fa695b64?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 29 |
-| **[State of Florida](http://www.myflorida.com)** | **[OPS QUALITY CONTROL ANALYST (STAFF ASSISTANT)- 65650166](https://jobright.ai/jobs/info/69f4071458b23a2329da94f5?utm_campaign=1055&utm_source=git)** | Lakeland, FL | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
