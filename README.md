@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[Intern / Department of Law](https://jobright.ai/jobs/info/69f8f06c81706a5bd216f101?utm_campaign=1055&utm_source=git)** | 55 Trinity Avenue SW, Atlanta, GA, 30303, US | On Site | May 04 |
+| **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[Intern / Department of Law](https://jobright.ai/jobs/info/69f8f04a582f810f9c8cef77?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | May 04 |
 | **[Resonant Clinical Solutions](https://resonantclinical.com)** | **[Legal and Contracts Intern](https://jobright.ai/jobs/info/69f8de73db88714bcdfbbc11?utm_campaign=1055&utm_source=git)** | Remote - Pennsylvania, US | Remote | May 04 |
 | ↳ | **[Legal and Contracts Intern](https://jobright.ai/jobs/info/69f8de2f81706a5bd216e754?utm_campaign=1055&utm_source=git)** | Remote - Connecticut, US | Remote | May 04 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Compliance & AML Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69f82470a3d34b4f76f5c907?utm_campaign=1055&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Initium Health](https://initiumhealth.org)** | **[Paid Legal Intern (2L/3L) - Public Health and Government Contracts](https://jobright.ai/jobs/info/69f2f8f78feca91f14928f19?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Apr 29 |
 | **[Black Hills Energy](https://www.blackhillsenergy.com )** | **[IT Governance Internship - Part-Time](https://jobright.ai/jobs/info/69f2f70bab4ec4779fffdc6e?utm_campaign=1055&utm_source=git)** | Rapid City, SD | On Site | Apr 29 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Legal Affairs Intern](https://jobright.ai/jobs/info/69f324ca6942c746fa6901a8?utm_campaign=1055&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
-| **[City of Fort Worth](https://www.fortworthtexas.gov)** | **[Regulatory Environmental Intern](https://jobright.ai/jobs/info/69e848790a6e09555302fb4e?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Apr 29 |
-| **[Aflac](http://www.aflac.com)** | **[Sr Mgr, Enterprise Risk Mgmt](https://jobright.ai/jobs/info/69f2bd498d8d624381aa3adb?utm_campaign=1055&utm_source=git)** | Georgia, United States | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
