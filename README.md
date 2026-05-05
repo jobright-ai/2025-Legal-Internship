@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CareDx, Inc.](https://www.caredx.com/)** | **[SOX Intern](https://jobright.ai/jobs/info/69f16e2b62b48c68387956ba?utm_campaign=1055&utm_source=git)** | Brisbane, CA | On Site | May 05 |
+| **[Bexar County Information Technology](http://www.bexar.org/it)** | **[Intern - Legal - District Court - Civil](https://jobright.ai/jobs/info/69fa13c10b36ff03547607a7?utm_campaign=1055&utm_source=git)** | County Courthouse, US | On Site | May 05 |
 | **[Stewart Title](https://www.stewart.com/)** | **[Escrow Operations Intern](https://jobright.ai/jobs/info/6997543981476f6176af7b0a?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | May 05 |
 | **[Certified Group](https://www.certifiedgroup.com)** | **[Intern](https://jobright.ai/jobs/info/69d561bb891d7b11cfd01880?utm_campaign=1055&utm_source=git)** | Turlock, CA | On Site | May 05 |
+| **[Ava Labs](https://avalabs.org)** | **[Part-Time Legal Intern](https://jobright.ai/jobs/info/69fa1daca3d34b4f76f63f71?utm_campaign=1055&utm_source=git)** | Remote (USA) | Remote | May 04 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ea758d7820c036924ee285?utm_campaign=1055&utm_source=git)** | Kirkland, WA | On Site | May 04 |
 | **[Roman Catholic Archdiocese of Washington](http://adw.org)** | **[Legal Intern - Office of the General Counsel - Archdiocese of Washington](https://jobright.ai/jobs/info/69f9147e0b36ff035475cfc5?utm_campaign=1055&utm_source=git)** | Hyattsville, Maryland, United States | On Site | May 04 |
 | **[Opportunity Finance Network](https://ofn.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69f90cf7db88714bcdfbd512?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | May 04 |
@@ -72,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Legal Intern - 3DIR011](https://jobright.ai/jobs/info/69bde6dbb106024562834b6b?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | May 03 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk Intern – Technology Expertise (Summer 2026)](https://jobright.ai/jobs/info/6930ac31fa28370be26b238d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 03 |
 | **[BioSpace](http://www.biospace.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69f6e7b3582f810f9c8ca908?utm_campaign=1055&utm_source=git)** | Piscataway, NJ | On Site | May 02 |
-| **[CareDx, Inc.](https://www.caredx.com/)** | **[SOX Intern](https://jobright.ai/jobs/info/69f16e2b62b48c68387956ba?utm_campaign=1055&utm_source=git)** | Brisbane, CA | On Site | May 02 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69f6577a582f810f9c8c8baa?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 02 |
 | ↳ | **[Summer Intern - Child Support - Southern Region - Litigation Assessment - Taunton location](https://jobright.ai/jobs/info/69f65776582f810f9c8c8b8f?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Taunton-540 Myles Standish Blv | On Site | May 02 |
 | ↳ | **[Summer Intern - Litigation Bureau](https://jobright.ai/jobs/info/69f65391b1fc847fc1ae3047?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | May 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7e7217a37c712687d6d3d?utm_campaign=1055&utm_source=git)** | West Deptford, NJ | On Site | Apr 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Risk Governance Analyst Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69817ebb49964d25b5e47ce0?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Political Compliance Intern (Summer and Fall)](https://jobright.ai/jobs/info/69d6c1ae48f0c8161d2faf3f?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 30 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Legal Intern – Policy & Public Sector (AI & Cybersecurity Focus) (Summer 2026)](https://jobright.ai/jobs/info/69d6a89e48f0c8161d2fa0a9?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Apr 30 |
-| **[Black Hills Energy](https://www.blackhillsenergy.com )** | **[IT Governance Internship - Part-Time](https://jobright.ai/jobs/info/69f2f70bab4ec4779fffdc6e?utm_campaign=1055&utm_source=git)** | Rapid City, SD | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
