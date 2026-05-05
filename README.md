@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Certified Group](https://www.certifiedgroup.com)** | **[Intern](https://jobright.ai/jobs/info/69d561bb891d7b11cfd01880?utm_campaign=1055&utm_source=git)** | Turlock, CA | On Site | May 05 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ea758d7820c036924ee285?utm_campaign=1055&utm_source=git)** | Kirkland, WA | On Site | May 04 |
 | **[Roman Catholic Archdiocese of Washington](http://adw.org)** | **[Legal Intern - Office of the General Counsel - Archdiocese of Washington](https://jobright.ai/jobs/info/69f9147e0b36ff035475cfc5?utm_campaign=1055&utm_source=git)** | Hyattsville, Maryland, United States | On Site | May 04 |
 | **[Opportunity Finance Network](https://ofn.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69f90cf7db88714bcdfbd512?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | May 04 |
-| **[Cross Insurance](https://www.crossagency.com/)** | **[Intern](https://jobright.ai/jobs/info/69f8f93c81706a5bd216fb03?utm_campaign=1055&utm_source=git)** | US - ME - Bangor, US | Remote | May 04 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69f8f920582f810f9c8cf91e?utm_campaign=1055&utm_source=git)** | US - ME - Bangor, US | Hybrid | May 04 |
+| **[Cross Insurance](https://www.crossagency.com/)** | **[Intern](https://jobright.ai/jobs/info/69f8f920582f810f9c8cf91e?utm_campaign=1055&utm_source=git)** | US - ME - Bangor, US | Hybrid | May 04 |
 | **[Flex](https://flex.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69f8f91e582f810f9c8cf911?utm_campaign=1055&utm_source=git)** | USA, CA, San Jose, US | On Site | May 04 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69c1588b79e36d3a847df39c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 04 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[Intern / Department of Law](https://jobright.ai/jobs/info/69f8f06c81706a5bd216f101?utm_campaign=1055&utm_source=git)** | 55 Trinity Avenue SW, Atlanta, GA, 30303, US | On Site | May 04 |
@@ -75,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[SOX Intern](https://jobright.ai/jobs/info/69f16e2b62b48c68387956ba?utm_campaign=1055&utm_source=git)** | Brisbane, CA | On Site | May 02 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69f6577a582f810f9c8c8baa?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 02 |
 | ↳ | **[Summer Intern - Child Support - Southern Region - Litigation Assessment - Taunton location](https://jobright.ai/jobs/info/69f65776582f810f9c8c8b8f?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Taunton-540 Myles Standish Blv | On Site | May 02 |
-| ↳ | **[Summer Intern - Litigation Bureau](https://jobright.ai/jobs/info/69f65391b1fc847fc1ae3047?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | May 02 |
 | ↳ | **[Summer Intern - Risk Management](https://jobright.ai/jobs/info/69f65391b1fc847fc1ae3042?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
+| ↳ | **[Summer Intern - Litigation Bureau](https://jobright.ai/jobs/info/69f65391b1fc847fc1ae3047?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Legal Intern](https://jobright.ai/jobs/info/69f6539081706a5bd2168c20?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 02 |
 | ↳ | **[Summer Intern - Municipal Finance Law Bureau](https://jobright.ai/jobs/info/69f6538f81706a5bd2168c1e?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Office of Ethics & Employee Responsibility](https://jobright.ai/jobs/info/69f6538f81706a5bd2168c1f?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
