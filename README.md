@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Isosceles Group](https://www.theisogroup.com/)** | **[International EHS Regulatory Analyst (Part-Time or 2026 Summer Internship)](https://jobright.ai/jobs/info/69f93201b1fc847fc1aeb6d8?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | Remote | May 04 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ea758d7820c036924ee285?utm_campaign=1055&utm_source=git)** | Kirkland, WA | On Site | May 04 |
 | **[Roman Catholic Archdiocese of Washington](http://adw.org)** | **[Legal Intern - Office of the General Counsel - Archdiocese of Washington](https://jobright.ai/jobs/info/69f9147e0b36ff035475cfc5?utm_campaign=1055&utm_source=git)** | Hyattsville, Maryland, United States | On Site | May 04 |
 | **[Opportunity Finance Network](https://ofn.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69f90cf7db88714bcdfbd512?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | May 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69d6edf7e63cea7a8b66d0bb?utm_campaign=1055&utm_source=git)** | Kansas City, MO | Hybrid | Apr 30 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7e7217a37c712687d6d3d?utm_campaign=1055&utm_source=git)** | West Deptford, NJ | On Site | Apr 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Risk Governance Analyst Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69817ebb49964d25b5e47ce0?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
+| **[The E.W. Scripps Company](http://www.scripps.com)** | **[Political Compliance Intern (Summer and Fall)](https://jobright.ai/jobs/info/69d6c1ae48f0c8161d2faf3f?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
