@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tsang & Associates, PLC](https://tsangslaw.com)** | **[Bilingual Legal Intern](https://jobright.ai/jobs/info/69faaa6e18b94b2515bdbc58?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | May 05 |
 | **[The AES Corporation](https://www.aes.com)** | **[Legal Intern-2](https://jobright.ai/jobs/info/69fa75ea0b36ff03547628b5?utm_campaign=1055&utm_source=git)** | US, Salt Lake City, UT, US | On Site | May 05 |
 | **[BlueHub Capital](https://bluehubcapital.org/)** | **[Impact & Compliance Intern](https://jobright.ai/jobs/info/69fa969cdb88714bcdfc3823?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | May 05 |
 | **[Cadence](https://www.cadence.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fa4ba3b1fc847fc1aef87e?utm_campaign=1055&utm_source=git)** | SAN JOSE, US | Hybrid | May 05 |
@@ -83,14 +84,15 @@ For a complete list, click the following sortable link below:
 | **[Resonant Clinical Solutions](https://resonantclinical.com)** | **[Legal and Contracts Intern](https://jobright.ai/jobs/info/69f8de73db88714bcdfbbc11?utm_campaign=1055&utm_source=git)** | Remote - Pennsylvania, US | Remote | May 04 |
 | ↳ | **[Legal and Contracts Intern](https://jobright.ai/jobs/info/69f8de2f81706a5bd216e754?utm_campaign=1055&utm_source=git)** | Remote - Connecticut, US | Remote | May 04 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Compliance & AML Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69f82470a3d34b4f76f5c907?utm_campaign=1055&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
+| **[SES Satellites](http://www.ses.com)** | **[Intern Corporate & Finance Legal](https://jobright.ai/jobs/info/69fa9f65d21cf86d1e3cc103?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | May 03 |
 | **[Guest Services, Inc.](http://www.guestservices.com)** | **[Summer Intern for Compliance - Corporate Office, Fairfax, VA](https://jobright.ai/jobs/info/69fa97c081706a5bd217652c?utm_campaign=1055&utm_source=git)** | Virginia, United States | On Site | May 03 |
 | **[State of Missouri](http://mo.gov)** | **[Legal Intern - 3DIR011](https://jobright.ai/jobs/info/69bde6dbb106024562834b6b?utm_campaign=1055&utm_source=git)** | Jefferson City, MO | On Site | May 03 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk Intern – Technology Expertise (Summer 2026)](https://jobright.ai/jobs/info/6930ac31fa28370be26b238d?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 03 |
 | **[BioSpace](http://www.biospace.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69f6e7b3582f810f9c8ca908?utm_campaign=1055&utm_source=git)** | Piscataway, NJ | On Site | May 02 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69f6577a582f810f9c8c8baa?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 02 |
 | ↳ | **[Summer Intern - Child Support - Southern Region - Litigation Assessment - Taunton location](https://jobright.ai/jobs/info/69f65776582f810f9c8c8b8f?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Taunton-540 Myles Standish Blv | On Site | May 02 |
-| ↳ | **[Summer Intern - Risk Management](https://jobright.ai/jobs/info/69f65391b1fc847fc1ae3042?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
 | ↳ | **[Summer Intern - Litigation Bureau](https://jobright.ai/jobs/info/69f65391b1fc847fc1ae3047?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | May 02 |
+| ↳ | **[Summer Intern - Risk Management](https://jobright.ai/jobs/info/69f65391b1fc847fc1ae3042?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Legal Intern](https://jobright.ai/jobs/info/69f6539081706a5bd2168c20?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 02 |
 | ↳ | **[Summer Intern - Municipal Finance Law Bureau](https://jobright.ai/jobs/info/69f6538f81706a5bd2168c1e?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Office of Ethics & Employee Responsibility](https://jobright.ai/jobs/info/69f6538f81706a5bd2168c1f?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Power Factors](http://www.powerfactors.com/)** | **[Intern- CLM Implementation & Legal Operations (Summer)](https://jobright.ai/jobs/info/69f39714343eef4fb0a9c075?utm_campaign=1055&utm_source=git)** | Québec City, Quebec, Canada | Remote | Apr 30 |
 | ↳ | **[Intern- CLM Implementation & Legal Operations (Summer)](https://jobright.ai/jobs/info/69f397121f90bd6ae23d0d97?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | Remote | Apr 30 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern- Summer 2026](https://jobright.ai/jobs/info/69f3ddb058b23a2329da865f?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Apr 30 |
-| **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/69f393f61f90bd6ae23d0c9f?utm_campaign=1055&utm_source=git)** | Plano, TX | On Site | Apr 30 |
-| **[PTR Premier Truck Rental](https://rentptr.com)** | **[Intern Legal](https://jobright.ai/jobs/info/69b330e5ae2a534885ea97d2?utm_campaign=1055&utm_source=git)** | Fort Wayne, IN | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
