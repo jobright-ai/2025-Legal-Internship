@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Keros Therapeutics](http://kerostx.com/)** | **[Legal Intern - Fall (September-December)](https://jobright.ai/jobs/info/69fbab72d21cf86d1e3d4cd2?utm_campaign=1055&utm_source=git)** | Lexington, MA (Hybrid) | Hybrid | May 06 |
+| **[CFG Merchant Solutions](https://cfgmerchantsolutions.com)** | **[2026 Risk Management Internship](https://jobright.ai/jobs/info/69fbab6ad21cf86d1e3d4cc2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[Airlines for America](http://airlines.org)** | **[Intern, Office of the General Counsel](https://jobright.ai/jobs/info/69fb985938179b6f1ae79963?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | On Site | May 06 |
 | **[Wipfli](http://www.wipfli.com)** | **[IT Procurement Internship](https://jobright.ai/jobs/info/69fb908318b94b2515be34fb?utm_campaign=1055&utm_source=git)** | United States | Remote | May 06 |
 | **[Murphy USA](https://www.murphyusa.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69fb8c1d38179b6f1ae79377?utm_campaign=1055&utm_source=git)** | El Dorado, AR | Hybrid | May 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer 2026 EED Legal Intern](https://jobright.ai/jobs/info/69f653760b36ff0354754e6d?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Office of Ethics & Employee Responsibility](https://jobright.ai/jobs/info/69f653700b36ff0354754e41?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Consumer Complaint Investigation Intern - Department of Public Utilities](https://jobright.ai/jobs/info/69f65235a3d34b4f76f5833b?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-1 South Station | On Site | May 02 |
-| ↳ | **[Summer Intern - Office of Appeals](https://jobright.ai/jobs/info/69f65234a3d34b4f76f58331?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | May 02 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Risk Management](https://jobright.ai/jobs/info/69f65221db88714bcdfb60da?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
