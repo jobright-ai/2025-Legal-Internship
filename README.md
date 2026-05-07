@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lennar](http://lennar.com)** | **[Future Builders Internship - Legal](https://jobright.ai/jobs/info/69fceed6b113035a9f8ecfe5?utm_campaign=1055&utm_source=git)** | Miami, FL (Job Posting Location), US | On Site | May 07 |
+| **[Henny Penny](http://hennypenny.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/69fcee965cff890b03f34bb0?utm_campaign=1055&utm_source=git)** | Eaton, OH (Headquarters), US | On Site | May 07 |
 | **[NMDP](https://www.nmdp.org)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69fce7696b788e7e7a5c3575?utm_campaign=1055&utm_source=git)** | United States | Remote | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Legal Undergrad (Summer 2026)](https://jobright.ai/jobs/info/69fcd9fc666f063d3d6d12cb?utm_campaign=1055&utm_source=git)** | Shelton, CT, US | Hybrid | May 07 |
 | ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69fcd8f1b113035a9f8ec194?utm_campaign=1055&utm_source=git)** | United States | Remote | May 07 |
@@ -67,6 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Intern - Regulatory Technology - East Coast](https://jobright.ai/jobs/info/69fcbda46b788e7e7a5c21f0?utm_campaign=1055&utm_source=git)** | United States | Remote | May 07 |
 | ↳ | **[Intern - Corporate Legal](https://jobright.ai/jobs/info/69fcbd0e432a3c4da8dfe9f6?utm_campaign=1055&utm_source=git)** | TX, US | On Site | May 07 |
 | **[Edgewell Personal Care](http://edgewell.com)** | **[Intern, Legal Undergrad](https://jobright.ai/jobs/info/69fcbb45b113035a9f8eb316?utm_campaign=1055&utm_source=git)** | Shelton, CT | Hybrid | May 07 |
+| **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/69c37b82753c101b21574e72?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | May 07 |
 | **[SCOR](https://www.scor.com)** | **[US Life Legal Intern](https://jobright.ai/jobs/info/69fca785432a3c4da8dfe4f3?utm_campaign=1055&utm_source=git)** | 101 South Tryon Street, Charlotte, NC, 28280, US | Hybrid | May 07 |
 | **[StarCompliance](http://www.starcompliance.com)** | **[Paid Intern - Regulatory Technology - East Coast](https://jobright.ai/jobs/info/69fca747432a3c4da8dfe495?utm_campaign=1055&utm_source=git)** | US Remote | Remote | May 07 |
 | ↳ | **[Paid Intern - Regulatory Technology - East Coast](https://jobright.ai/jobs/info/69fcc8d0666f063d3d6d0a0b?utm_campaign=1055&utm_source=git)** | United States | Remote | May 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Guidepost Solutions](http://www.guidepostsolutions.com/)** | **[Internship](https://jobright.ai/jobs/info/69fb203386d5cd46527d2bc1?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 05 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[EHS Intern - Summer 2026](https://jobright.ai/jobs/info/69fa45c3b1fc847fc1aef25c?utm_campaign=1055&utm_source=git)** | St. Louis, Missouri, United States | Hybrid | May 05 |
 | **[Allyn International](http://allynintl.com)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/69fb21ba87a4820e6da8551d?utm_campaign=1055&utm_source=git)** | Glenville, NY | On Site | May 05 |
-| **[SSP America](http://www.foodtravelexperts.com/america)** | **[Legal Intern](https://jobright.ai/jobs/info/69fb1e5418b94b2515bdf447?utm_campaign=1055&utm_source=git)** | Ashburn, VA | Remote | May 05 |
-| **[PDS Health](http://www.pacificdentalservices.com/)** | **[Compliance Legal Intern](https://jobright.ai/jobs/info/69de9251433ac8430e0dada2?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | May 05 |
-| **[Housing Opportunities Commission](https://www.hocmc.org/)** | **[Legal Department Intern](https://jobright.ai/jobs/info/69fa2e9381706a5bd217441f?utm_campaign=1055&utm_source=git)** | Silver Spring, MD, US | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
