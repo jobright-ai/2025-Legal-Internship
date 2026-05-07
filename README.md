@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Legal Undergrad (Summer 2026)](https://jobright.ai/jobs/info/69fcd9fc666f063d3d6d12cb?utm_campaign=1055&utm_source=git)** | Shelton, CT, US | Hybrid | May 07 |
+| ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69fcd8f1b113035a9f8ec194?utm_campaign=1055&utm_source=git)** | United States | Remote | May 07 |
 | **[NMDP](https://www.nmdp.org)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69fcca2b5cff890b03f33852?utm_campaign=1055&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | May 07 |
 | **[Edgewell Personal Care](http://edgewell.com)** | **[Intern, Legal Undergrad (Summer 2026)](https://jobright.ai/jobs/info/69fcc085938a651755f96440?utm_campaign=1055&utm_source=git)** | Shelton, CT, US | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Student Intern Legal Affairs](https://jobright.ai/jobs/info/69fcbdc7b113035a9f8eb471?utm_campaign=1055&utm_source=git)** | Columbia, SC, US | On Site | May 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PDS Health](http://www.pacificdentalservices.com/)** | **[Compliance Legal Intern](https://jobright.ai/jobs/info/69de9251433ac8430e0dada2?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | May 05 |
 | **[Housing Opportunities Commission](https://www.hocmc.org/)** | **[Legal Department Intern](https://jobright.ai/jobs/info/69fa2e9381706a5bd217441f?utm_campaign=1055&utm_source=git)** | Silver Spring, MD, US | On Site | May 05 |
 | **[SSP America](http://www.foodtravelexperts.com/america)** | **[Legal Intern](https://jobright.ai/jobs/info/69fa24a981706a5bd2174172?utm_campaign=1055&utm_source=git)** | SSP America Support centre | Remote | May 05 |
-| **[Porter Hedges LLP](https://www.porterhedges.com/)** | **[Legal Innovation & AI Intern](https://jobright.ai/jobs/info/69fb1eb0d21cf86d1e3cfb23?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | May 05 |
-| **[EmPRO Insurance](https://www.myempro.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/69e681d3e0cd471b2f12626f?utm_campaign=1055&utm_source=git)** | Roslyn, NY | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
