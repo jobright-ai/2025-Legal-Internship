@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SCOR](https://www.scor.com)** | **[US Life Legal Intern](https://jobright.ai/jobs/info/69fca785432a3c4da8dfe4f3?utm_campaign=1055&utm_source=git)** | 101 South Tryon Street, Charlotte, NC, 28280, US | Hybrid | May 07 |
+| **[StarCompliance](http://www.starcompliance.com)** | **[Paid Intern - Regulatory Technology - East Coast](https://jobright.ai/jobs/info/69fca747432a3c4da8dfe495?utm_campaign=1055&utm_source=git)** | US Remote | Remote | May 07 |
 | **[Gale Hotels](https://www.galehotelmiami.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fc6ec8938a651755f93c31?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/69fc6d3b666f063d3d6cd5b8?utm_campaign=1055&utm_source=git)** | United States | Remote | May 06 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Rights Management Intern](https://jobright.ai/jobs/info/69fc41563431b1292b9b5de7?utm_campaign=1055&utm_source=git)** | United States | Remote | May 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69c0c10179e36d3a847d0a35?utm_campaign=1055&utm_source=git)** | Doral, FL | On Site | May 05 |
 | **[Stewart Title](https://www.stewart.com/)** | **[Escrow Operations Intern](https://jobright.ai/jobs/info/6997543981476f6176af7b0a?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | May 05 |
 | **[ASSA ABLOY Opening Solutions Americas](http://www.assaabloydss.com)** | **[Copyright & Trademark Intern](https://jobright.ai/jobs/info/69dd703b738f2f099e8b64c9?utm_campaign=1055&utm_source=git)** | Berlin, CT | On Site | May 05 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Part-Time Legal Intern](https://jobright.ai/jobs/info/69fc6b32666f063d3d6ccf6e?utm_campaign=1055&utm_source=git)** | United States | Remote | May 04 |
-| ↳ | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/69fc6ab3b113035a9f8e82e4?utm_campaign=1055&utm_source=git)** | NY, US | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
