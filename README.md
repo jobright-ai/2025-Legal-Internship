@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NMDP](https://www.nmdp.org)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69fcca2b5cff890b03f33852?utm_campaign=1055&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | May 07 |
+| **[Edgewell Personal Care](http://edgewell.com)** | **[Intern, Legal Undergrad (Summer 2026)](https://jobright.ai/jobs/info/69fcc085938a651755f96440?utm_campaign=1055&utm_source=git)** | Shelton, CT, US | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Student Intern Legal Affairs](https://jobright.ai/jobs/info/69fcbdc7b113035a9f8eb471?utm_campaign=1055&utm_source=git)** | Columbia, SC, US | On Site | May 07 |
 | ↳ | **[Student Intern Legal Affairs](https://jobright.ai/jobs/info/69fcbdc46b788e7e7a5c21f4?utm_campaign=1055&utm_source=git)** | Greenville, SC, US | On Site | May 07 |
 | ↳ | **[Paid Intern - Regulatory Technology - East Coast](https://jobright.ai/jobs/info/69fcbda46b788e7e7a5c21f0?utm_campaign=1055&utm_source=git)** | United States | Remote | May 07 |
@@ -64,6 +66,9 @@ For a complete list, click the following sortable link below:
 | **[Edgewell Personal Care](http://edgewell.com)** | **[Intern, Legal Undergrad](https://jobright.ai/jobs/info/69fcbb45b113035a9f8eb316?utm_campaign=1055&utm_source=git)** | Shelton, CT | Hybrid | May 07 |
 | **[SCOR](https://www.scor.com)** | **[US Life Legal Intern](https://jobright.ai/jobs/info/69fca785432a3c4da8dfe4f3?utm_campaign=1055&utm_source=git)** | 101 South Tryon Street, Charlotte, NC, 28280, US | Hybrid | May 07 |
 | **[StarCompliance](http://www.starcompliance.com)** | **[Paid Intern - Regulatory Technology - East Coast](https://jobright.ai/jobs/info/69fca747432a3c4da8dfe495?utm_campaign=1055&utm_source=git)** | US Remote | Remote | May 07 |
+| ↳ | **[Paid Intern - Regulatory Technology - East Coast](https://jobright.ai/jobs/info/69fcc8d0666f063d3d6d0a0b?utm_campaign=1055&utm_source=git)** | United States | Remote | May 07 |
+| **[Prisma Health](https://www.prismahealth.org)** | **[Student Intern Legal Affairs](https://jobright.ai/jobs/info/69fcc12e938a651755f964af?utm_campaign=1055&utm_source=git)** | Columbia, SC, US | On Site | May 07 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[SUMMER GRADUATE INTERN](https://jobright.ai/jobs/info/69fcc266b113035a9f8eb725?utm_campaign=1055&utm_source=git)** | MANHATTAN | On Site | May 07 |
 | **[Gale Hotels](https://www.galehotelmiami.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fc6ec8938a651755f93c31?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/69fc6d3b666f063d3d6cd5b8?utm_campaign=1055&utm_source=git)** | United States | Remote | May 06 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Rights Management Intern](https://jobright.ai/jobs/info/69fc41563431b1292b9b5de7?utm_campaign=1055&utm_source=git)** | United States | Remote | May 06 |
@@ -98,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Pre-Law/Paralegal Intern Fall/Winter 2026/27](https://jobright.ai/jobs/info/69fbee1ea5949019c55b17e3?utm_campaign=1055&utm_source=git)** | Wickliffe, OH | On Site | May 06 |
 | **[Keros Therapeutics](http://kerostx.com/)** | **[Legal Intern - Fall (September-December)](https://jobright.ai/jobs/info/69fbab72d21cf86d1e3d4cd2?utm_campaign=1055&utm_source=git)** | Lexington, MA (Hybrid) | Hybrid | May 06 |
 | **[CFG Merchant Solutions](https://cfgmerchantsolutions.com)** | **[2026 Risk Management Internship](https://jobright.ai/jobs/info/69fbab6ad21cf86d1e3d4cc2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 06 |
-| **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Compliance Intern](https://jobright.ai/jobs/info/69fbef0576c60e7b70af0ac9?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[3CDC](https://www.3cdc.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69fbeac4c39b9a66c0c53efb?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | May 06 |
 | **[GEODIS](http://www.geodis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fbeae93160b250eb1b924f?utm_campaign=1055&utm_source=git)** | Brentwood, Tennessee, United States | On Site | May 06 |
 | **[Democracy Docket](https://www.democracydocket.com)** | **[Fall 2026 Internship - Research](https://jobright.ai/jobs/info/69fbea7fa5949019c55b0694?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SSP America](http://www.foodtravelexperts.com/america)** | **[Legal Intern](https://jobright.ai/jobs/info/69fa24a981706a5bd2174172?utm_campaign=1055&utm_source=git)** | SSP America Support centre | Remote | May 05 |
 | **[Porter Hedges LLP](https://www.porterhedges.com/)** | **[Legal Innovation & AI Intern](https://jobright.ai/jobs/info/69fb1eb0d21cf86d1e3cfb23?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | May 05 |
 | **[EmPRO Insurance](https://www.myempro.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/69e681d3e0cd471b2f12626f?utm_campaign=1055&utm_source=git)** | Roslyn, NY | On Site | May 05 |
-| **[CareDx, Inc.](https://www.caredx.com/)** | **[SOX Intern](https://jobright.ai/jobs/info/69f16e2b62b48c68387956ba?utm_campaign=1055&utm_source=git)** | Brisbane, CA | On Site | May 05 |
-| **[Amwins](http://www.amwins.com/)** | **[Amwins Accident and Health Internship - Summer 2026](https://jobright.ai/jobs/info/69fb2d1c38179b6f1ae765f3?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | May 05 |
-| **[Bexar County Information Technology](http://www.bexar.org/it)** | **[Intern - Legal - District Court - Civil](https://jobright.ai/jobs/info/69fa13c10b36ff03547607a7?utm_campaign=1055&utm_source=git)** | County Courthouse, US | On Site | May 05 |
-| **[the LEGO Group](http://www.lego.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fb138c18b94b2515bdef21?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
