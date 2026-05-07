@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[ICW Group](https://www.icwgroup.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/69fc15d176c60e7b70af210c?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | May 06 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Legal Intern, Actimize](https://jobright.ai/jobs/info/69fc318f3802c7621fd90096?utm_campaign=1055&utm_source=git)** | Hoboken, NJ, US | Hybrid | May 06 |
+| **[NiCE](http://nice.com)** | **[Legal Intern, Actimize](https://jobright.ai/jobs/info/69fc312476c60e7b70af2722?utm_campaign=1055&utm_source=git)** | Hoboken, NJ | On Site | May 06 |
 | **[Ad Populum](https://adpopulumllc.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69fbee7aa5949019c55b1944?utm_campaign=1055&utm_source=git)** | United States | Remote | May 06 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Rights Management Intern](https://jobright.ai/jobs/info/69fc16643160b250eb1bc219?utm_campaign=1055&utm_source=git)** | Remote (United States) | Remote | May 06 |
 | **[Jack Fernandes Law, APC](https://www.jackfernandeslaw.com)** | **[Legal Internship: AI Legal & Administrative Clerk — Plaintiff-Side Civil Litigation (Remote, California-based)](https://jobright.ai/jobs/info/69fc075aa5949019c55b2729?utm_campaign=1055&utm_source=git)** | San Diego, CA | Remote | May 06 |
@@ -104,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[The AES Corporation](https://www.aes.com)** | **[Legal Intern-1](https://jobright.ai/jobs/info/69fb6151d21cf86d1e3d28b3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 06 |
 | ↳ | **[Legal Intern-1](https://jobright.ai/jobs/info/69faf9de87a4820e6da8409b?utm_campaign=1055&utm_source=git)** | US, Salt Lake City, UT, US | On Site | May 06 |
 | **[ADP](http://www.adp.com)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/69fb49ab86d5cd46527d475a?utm_campaign=1055&utm_source=git)** | Roseland, NJ | On Site | May 05 |
+| **[Murphy Oil Corporation](http://www.murphyoilcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fc310ba5949019c55b36d2?utm_campaign=1055&utm_source=git)** | El Dorado, AR | Hybrid | May 05 |
 | **[Tsang & Associates, PLC](https://tsangslaw.com)** | **[Bilingual Legal Intern](https://jobright.ai/jobs/info/69faaa6e18b94b2515bdbc58?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | May 05 |
 | **[The AES Corporation](https://www.aes.com)** | **[Legal Intern-2](https://jobright.ai/jobs/info/69fb3d8f18b94b2515be0c7c?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 05 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Accessibility Compliance Analyst](https://jobright.ai/jobs/info/69fb4abf18b94b2515be1279?utm_campaign=1055&utm_source=git)** | Northridge, CA | Hybrid | May 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[Intern / Department of Law](https://jobright.ai/jobs/info/69f8f04a582f810f9c8cef77?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | May 04 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Legal](https://jobright.ai/jobs/info/69c1588b79e36d3a847df39c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 04 |
 | **[Resonant Clinical Solutions](https://resonantclinical.com)** | **[Legal and Contracts Intern](https://jobright.ai/jobs/info/69f8de73db88714bcdfbbc11?utm_campaign=1055&utm_source=git)** | Remote - Pennsylvania, US | Remote | May 04 |
-| ↳ | **[Legal and Contracts Intern](https://jobright.ai/jobs/info/69f8de2f81706a5bd216e754?utm_campaign=1055&utm_source=git)** | Remote - Connecticut, US | Remote | May 04 |
-| **[First Financial Bank](http://www.bankatfirst.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fad9cee156000841153b01?utm_campaign=1055&utm_source=git)** | Marion County, IN | On Site | May 04 |
-| **[LawBhoomi](https://lawbhoomi.com/)** | **[Junior Advocate & Legal Internship Opportunity at RJS Legal Associates: Apply Now!](https://jobright.ai/jobs/info/69fab685d21cf86d1e3cc7a7?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
