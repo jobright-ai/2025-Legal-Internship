@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Student Intern Legal Affairs](https://jobright.ai/jobs/info/69fcbdc7b113035a9f8eb471?utm_campaign=1055&utm_source=git)** | Columbia, SC, US | On Site | May 07 |
+| ↳ | **[Student Intern Legal Affairs](https://jobright.ai/jobs/info/69fcbdc46b788e7e7a5c21f4?utm_campaign=1055&utm_source=git)** | Greenville, SC, US | On Site | May 07 |
+| ↳ | **[Paid Intern - Regulatory Technology - East Coast](https://jobright.ai/jobs/info/69fcbda46b788e7e7a5c21f0?utm_campaign=1055&utm_source=git)** | United States | Remote | May 07 |
+| ↳ | **[Intern - Corporate Legal](https://jobright.ai/jobs/info/69fcbd0e432a3c4da8dfe9f6?utm_campaign=1055&utm_source=git)** | TX, US | On Site | May 07 |
+| **[Edgewell Personal Care](http://edgewell.com)** | **[Intern, Legal Undergrad](https://jobright.ai/jobs/info/69fcbb45b113035a9f8eb316?utm_campaign=1055&utm_source=git)** | Shelton, CT | Hybrid | May 07 |
 | **[SCOR](https://www.scor.com)** | **[US Life Legal Intern](https://jobright.ai/jobs/info/69fca785432a3c4da8dfe4f3?utm_campaign=1055&utm_source=git)** | 101 South Tryon Street, Charlotte, NC, 28280, US | Hybrid | May 07 |
 | **[StarCompliance](http://www.starcompliance.com)** | **[Paid Intern - Regulatory Technology - East Coast](https://jobright.ai/jobs/info/69fca747432a3c4da8dfe495?utm_campaign=1055&utm_source=git)** | US Remote | Remote | May 07 |
 | **[Gale Hotels](https://www.galehotelmiami.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fc6ec8938a651755f93c31?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | May 07 |
@@ -90,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[NiCE](http://nice.com)** | **[Legal Intern, Actimize](https://jobright.ai/jobs/info/69fbf00b2f9f6b7cf690feec?utm_campaign=1055&utm_source=git)** | USA - Hoboken, NJ | On Site | May 06 |
 | **[Great Plains Tribal Health](https://www.gptchb.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69fbef50a5949019c55b1b4e?utm_campaign=1055&utm_source=git)** | Administration, Central Office, Rapid City, SD, US | On Site | May 06 |
 | **[INX International Ink Co.](https://www.inxinternational.com)** | **[Intern Regulatory Affairs](https://jobright.ai/jobs/info/69fbef843160b250eb1ba7d4?utm_campaign=1055&utm_source=git)** | West Chicago, IL | On Site | May 06 |
-| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69fbee7f76c60e7b70af0801?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | May 06 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Pre-Law/Paralegal Intern Fall/Winter 2026/27](https://jobright.ai/jobs/info/69fbee1ea5949019c55b17e3?utm_campaign=1055&utm_source=git)** | Wickliffe, OH | On Site | May 06 |
 | **[Keros Therapeutics](http://kerostx.com/)** | **[Legal Intern - Fall (September-December)](https://jobright.ai/jobs/info/69fbab72d21cf86d1e3d4cd2?utm_campaign=1055&utm_source=git)** | Lexington, MA (Hybrid) | Hybrid | May 06 |
 | **[CFG Merchant Solutions](https://cfgmerchantsolutions.com)** | **[2026 Risk Management Internship](https://jobright.ai/jobs/info/69fbab6ad21cf86d1e3d4cc2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 06 |
@@ -111,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Scott & Associates, PC](https://www.spalaw.com)** | **[Legal Clerk / Summer Intern - Creditors' Rights Litigation](https://jobright.ai/jobs/info/69fb81bb86d5cd46527d60d8?utm_campaign=1055&utm_source=git)** | Plano, TX, US | On Site | May 06 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department - KYC Intern](https://jobright.ai/jobs/info/69cf4424cdb525785fba0bac?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[Caliber](http://www.caliber.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69fb73a618b94b2515be29f6?utm_campaign=1055&utm_source=git)** | Lewisville, TX, US | On Site | May 06 |
-| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69fb6d6287a4820e6da8824b?utm_campaign=1055&utm_source=git)** | MVW Headquarters, US | On Site | May 06 |
 | **[Advita Ortho](advita.com)** | **[Legal and Compliance - Intern](https://jobright.ai/jobs/info/69fb913986d5cd46527d663e?utm_campaign=1055&utm_source=git)** | Gainesville, FL | On Site | May 06 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/69f12cc3825a315d7ca361ee?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[Wipfli](http://www.wipfli.com)** | **[IT Procurement Internship](https://jobright.ai/jobs/info/69fb61d1ffa73664aeaff46b?utm_campaign=1055&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amwins](http://www.amwins.com/)** | **[Amwins Accident and Health Internship - Summer 2026](https://jobright.ai/jobs/info/69fb2d1c38179b6f1ae765f3?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | May 05 |
 | **[Bexar County Information Technology](http://www.bexar.org/it)** | **[Intern - Legal - District Court - Civil](https://jobright.ai/jobs/info/69fa13c10b36ff03547607a7?utm_campaign=1055&utm_source=git)** | County Courthouse, US | On Site | May 05 |
 | **[the LEGO Group](http://www.lego.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fb138c18b94b2515bdef21?utm_campaign=1055&utm_source=git)** | Richmond, VA | On Site | May 05 |
-| **[VSE Aviation](http://www.vseaviation.com)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/69c0c10179e36d3a847d0a35?utm_campaign=1055&utm_source=git)** | Doral, FL | On Site | May 05 |
-| **[Stewart Title](https://www.stewart.com/)** | **[Escrow Operations Intern](https://jobright.ai/jobs/info/6997543981476f6176af7b0a?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | May 05 |
-| **[ASSA ABLOY Opening Solutions Americas](http://www.assaabloydss.com)** | **[Copyright & Trademark Intern](https://jobright.ai/jobs/info/69dd703b738f2f099e8b64c9?utm_campaign=1055&utm_source=git)** | Berlin, CT | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
