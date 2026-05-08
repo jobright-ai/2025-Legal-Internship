@@ -139,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[The AES Corporation](https://www.aes.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69fb5f7718b94b2515be1e60?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 06 |
 | **[International](https://www.international.com)** | **[College Intern - Legal](https://jobright.ai/jobs/info/69fb563487a4820e6da874be?utm_campaign=1055&utm_source=git)** | Lisle, IL | On Site | May 06 |
 | **[Camping World](https://investor.campingworld.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69deff04e34484770f1a65f6?utm_campaign=1055&utm_source=git)** | Lincolnshire, IL | Hybrid | May 06 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Child and Adult Protection Services Internship](https://jobright.ai/jobs/info/69fd9f4bad691a11f34ea122?utm_campaign=1055&utm_source=git)** | Aurora, CO, US | On Site | May 06 |
 | **[The AES Corporation](https://www.aes.com)** | **[Legal Intern-1](https://jobright.ai/jobs/info/69fb6151d21cf86d1e3d28b3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 06 |
 | ↳ | **[Legal Intern-1](https://jobright.ai/jobs/info/69faf9de87a4820e6da8409b?utm_campaign=1055&utm_source=git)** | US, Salt Lake City, UT, US | On Site | May 06 |
 | **[Community Health Resources](https://www.chrhealth.org/)** | **[Bachelor's Level Intern: Compliance & Privacy- 6995](https://jobright.ai/jobs/info/69fc4ebb2e6c421278ddb31f?utm_campaign=1055&utm_source=git)** | Windsor, CT | On Site | May 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSC](http://www.cscglobal.com)** | **[AML/KYC Intern](https://jobright.ai/jobs/info/69fb2bcf38179b6f1ae7643a?utm_campaign=1055&utm_source=git)** | Livingston, NJ | Hybrid | May 05 |
 | ↳ | **[AML/KYC Intern](https://jobright.ai/jobs/info/69fb271f38179b6f1ae75b84?utm_campaign=1055&utm_source=git)** | Wilmington, DE | Hybrid | May 05 |
 | **[BlueHub Capital](https://bluehubcapital.org/)** | **[Impact & Compliance Intern](https://jobright.ai/jobs/info/69fa969cdb88714bcdfc3823?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | May 05 |
-| **[Guidepost Solutions](http://www.guidepostsolutions.com/)** | **[Internship](https://jobright.ai/jobs/info/69fb3af7e156000841157cbf?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
