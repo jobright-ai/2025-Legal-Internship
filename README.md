@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harlow's School Bus Service](https://www.goharlows.com)** | **[DOT Safety Auditor Intern](https://jobright.ai/jobs/info/69fd3272432a3c4da8e0233e?utm_campaign=1055&utm_source=git)** | Dousman, WI, 53118, United States | On Site | May 07 |
 | **[Empower Pharmacy](http://empowerpharmacy.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69fd2d74666f063d3d6d38f5?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Future Builders Internship - Legal](https://jobright.ai/jobs/info/69fd1335432a3c4da8e01a16?utm_campaign=1055&utm_source=git)** | Miami, FL, US | On Site | May 07 |
 | **[Payne Law PLLC](http://www.thepaynelaw.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69fd0f61666f063d3d6d2f84?utm_campaign=1055&utm_source=git)** | Winter Park, FL | On Site | May 07 |
@@ -144,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Murphy Oil Corporation](http://www.murphyoilcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fc310ba5949019c55b36d2?utm_campaign=1055&utm_source=git)** | El Dorado, AR | Hybrid | May 05 |
 | **[Tsang & Associates, PLC](https://tsangslaw.com)** | **[Bilingual Legal Intern](https://jobright.ai/jobs/info/69faaa6e18b94b2515bdbc58?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | May 05 |
 | **[The AES Corporation](https://www.aes.com)** | **[Legal Intern-2](https://jobright.ai/jobs/info/69fb3d8f18b94b2515be0c7c?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 05 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Accessibility Compliance Analyst](https://jobright.ai/jobs/info/69fb4abf18b94b2515be1279?utm_campaign=1055&utm_source=git)** | Northridge, CA | Hybrid | May 05 |
 | **[State of Florida](http://www.myflorida.com)** | **[PUBLIC DEFENDER'S OFFICE, 12TH CIRCUIT- ASSISTANT PUBLIC DEFENDER - 21010527](https://jobright.ai/jobs/info/69fb8c9818b94b2515be3326?utm_campaign=1055&utm_source=git)** | Sarasota, FL | On Site | May 05 |
 | **[Ontic](https://www.ontic.co)** | **[Legal Intern](https://jobright.ai/jobs/info/69fb3a32d21cf86d1e3d124c?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | May 05 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/69fb3ae287a4820e6da86723?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | May 05 |
