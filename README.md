@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Raytheon](http://www.bbn.com)** | **[Summer 2026 - Legal Intern (Remote)](https://jobright.ai/jobs/info/69fd87ca6bcf315dc8f51f96?utm_campaign=1055&utm_source=git)** | east hartford, Connecticut, United States of America | Remote | May 07 |
 | **[Jack Fernandes Law, APC](https://www.jackfernandeslaw.com)** | **[Legal Internship (Summer) AI Legal & Administrative Clerk — Plaintiff-Side Civil Litigation (Remote, California-based)](https://jobright.ai/jobs/info/69fd5047e7252f429d40f1ce?utm_campaign=1055&utm_source=git)** | San Diego, CA | Remote | May 07 |
 | **[Harlow's School Bus Service](https://www.goharlows.com)** | **[DOT Safety Auditor Intern](https://jobright.ai/jobs/info/69fd3272432a3c4da8e0233e?utm_campaign=1055&utm_source=git)** | Dousman, WI, 53118, United States | On Site | May 07 |
 | **[Empower Pharmacy](http://empowerpharmacy.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69fd2d74666f063d3d6d38f5?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | May 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AML/KYC Intern](https://jobright.ai/jobs/info/69fb271f38179b6f1ae75b84?utm_campaign=1055&utm_source=git)** | Wilmington, DE | Hybrid | May 05 |
 | **[BlueHub Capital](https://bluehubcapital.org/)** | **[Impact & Compliance Intern](https://jobright.ai/jobs/info/69fa969cdb88714bcdfc3823?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | May 05 |
 | **[Guidepost Solutions](http://www.guidepostsolutions.com/)** | **[Internship](https://jobright.ai/jobs/info/69fb3af7e156000841157cbf?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 05 |
-| **[Cadence](https://www.cadence.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fa4ba3b1fc847fc1aef87e?utm_campaign=1055&utm_source=git)** | SAN JOSE, US | Hybrid | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
