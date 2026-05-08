@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fenwick & West](http://fenwick.com)** | **[Social Impact and Pro Bono Intern](https://jobright.ai/jobs/info/69fe3a2f7714cd50b90fef1a?utm_campaign=1055&utm_source=git)** | Silicon Valley, US | Hybrid | May 08 |
+| ↳ | **[Social Impact and Pro Bono Intern](https://jobright.ai/jobs/info/69fe3a2df363bc4dc339c5a9?utm_campaign=1055&utm_source=git)** | San Francisco, US | Hybrid | May 08 |
+| **[CONFLUX SYSTEMS](https://www.confluxsystems.com)** | **[Customs Intern](https://jobright.ai/jobs/info/69fe3991f363bc4dc339c572?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | May 08 |
+| **[Raymond James Ltd.](https://www.raymondjames.ca/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69fe2ea04b9bbf21744aef0e?utm_campaign=1055&utm_source=git)** | CA-BC-Vancouver-Vancouver | On Site | May 08 |
 | **[School Specialty](http://www.schoolspecialty.com)** | **[Legal Intern- General Corporate Law (6 Week Internship- Remote)](https://jobright.ai/jobs/info/69fe15447714cd50b90fe1d5?utm_campaign=1055&utm_source=git)** | Downers Grove, IL 60515, USA | Remote | May 08 |
 | **[Acuity Politics, LLC](https://www.acuitypolitics.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69fe147952e2b44f558ae583?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 08 |
 | **[Capital Vacations](https://www.capitalvacations.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69fe0dbe4b9bbf21744ae143?utm_campaign=1055&utm_source=git)** | Myrtle Beach, SC | On Site | May 08 |
@@ -64,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Paid Intern - Regulatory Technology](https://jobright.ai/jobs/info/69fdf23f7714cd50b90fd24f?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
 | **[Greenworks](http://greenworkstools.com)** | **[Legal Counsel Internship](https://jobright.ai/jobs/info/69fdf1b17714cd50b90fd1fd?utm_campaign=1055&utm_source=git)** | Mooresville, NC | On Site | May 08 |
 | **[Henderson Engineers](https://www.hendersonengineers.com)** | **[Legal - Legal Intern](https://jobright.ai/jobs/info/69e17d8bfd1c0456f3fae865?utm_campaign=1055&utm_source=git)** | Lenexa, KS | On Site | May 08 |
-| **[Cantex](https://www.cantexcc.com)** | **[Compliance Internship (22259)](https://jobright.ai/jobs/info/69e119cfacc736112f5c1e41?utm_campaign=1055&utm_source=git)** | Carrollton, TX | On Site | May 08 |
 | **[Raytheon](http://www.bbn.com)** | **[Summer 2026 - Legal Intern (Remote)](https://jobright.ai/jobs/info/69fd87ca6bcf315dc8f51f96?utm_campaign=1055&utm_source=git)** | east hartford, Connecticut, United States of America | Remote | May 07 |
 | **[Jack Fernandes Law, APC](https://www.jackfernandeslaw.com)** | **[Legal Internship (Summer) AI Legal & Administrative Clerk — Plaintiff-Side Civil Litigation (Remote, California-based)](https://jobright.ai/jobs/info/69fd5047e7252f429d40f1ce?utm_campaign=1055&utm_source=git)** | San Diego, CA | Remote | May 07 |
 | **[Harlow's School Bus Service](https://www.goharlows.com)** | **[DOT Safety Auditor Intern](https://jobright.ai/jobs/info/69fd3272432a3c4da8e0233e?utm_campaign=1055&utm_source=git)** | Dousman, WI, 53118, United States | On Site | May 07 |
@@ -87,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[SCOR](https://www.scor.com)** | **[US Life Legal Intern](https://jobright.ai/jobs/info/69fca785432a3c4da8dfe4f3?utm_campaign=1055&utm_source=git)** | 101 South Tryon Street, Charlotte, NC, 28280, US | Hybrid | May 07 |
 | **[StarCompliance](http://www.starcompliance.com)** | **[Paid Intern - Regulatory Technology - East Coast](https://jobright.ai/jobs/info/69fca747432a3c4da8dfe495?utm_campaign=1055&utm_source=git)** | US Remote | Remote | May 07 |
 | ↳ | **[Paid Intern - Regulatory Technology - East Coast](https://jobright.ai/jobs/info/69fcc8d0666f063d3d6d0a0b?utm_campaign=1055&utm_source=git)** | United States | Remote | May 07 |
-| **[Prisma Health](https://www.prismahealth.org)** | **[Student Intern Legal Affairs](https://jobright.ai/jobs/info/69fcc12e938a651755f964af?utm_campaign=1055&utm_source=git)** | Columbia, SC, US | On Site | May 07 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[SUMMER GRADUATE INTERN](https://jobright.ai/jobs/info/69fcc266b113035a9f8eb725?utm_campaign=1055&utm_source=git)** | MANHATTAN | On Site | May 07 |
 | **[Gale Hotels](https://www.galehotelmiami.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fc6ec8938a651755f93c31?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | May 07 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Regulatory Summer Internship / Nutley, NJ, USA](https://jobright.ai/jobs/info/69f00d2a0a6e095553058fb1?utm_campaign=1055&utm_source=git)** | Nutley, NJ | On Site | May 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The AES Corporation](https://www.aes.com)** | **[Legal Intern-2](https://jobright.ai/jobs/info/69fb3d8f18b94b2515be0c7c?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 05 |
 | **[State of Florida](http://www.myflorida.com)** | **[PUBLIC DEFENDER'S OFFICE, 12TH CIRCUIT- ASSISTANT PUBLIC DEFENDER - 21010527](https://jobright.ai/jobs/info/69fb8c9818b94b2515be3326?utm_campaign=1055&utm_source=git)** | Sarasota, FL | On Site | May 05 |
 | **[Ontic](https://www.ontic.co)** | **[Legal Intern](https://jobright.ai/jobs/info/69fb3a32d21cf86d1e3d124c?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | May 05 |
-| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/69fb3ae287a4820e6da86723?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | May 05 |
-| **[The AES Corporation](https://www.aes.com)** | **[Legal Intern-2](https://jobright.ai/jobs/info/69fa75ea0b36ff03547628b5?utm_campaign=1055&utm_source=git)** | US, Salt Lake City, UT, US | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
