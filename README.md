@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Raymond James Ltd.](https://www.raymondjames.ca/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69fda417f363bc4dc33991d9?utm_campaign=1055&utm_source=git)** | CA-BC-Vancouver-Vancouver | On Site | May 08 |
 | **[Raytheon](http://www.bbn.com)** | **[Summer 2026 - Legal Intern (Remote)](https://jobright.ai/jobs/info/69fd87ca6bcf315dc8f51f96?utm_campaign=1055&utm_source=git)** | east hartford, Connecticut, United States of America | Remote | May 07 |
 | **[Jack Fernandes Law, APC](https://www.jackfernandeslaw.com)** | **[Legal Internship (Summer) AI Legal & Administrative Clerk — Plaintiff-Side Civil Litigation (Remote, California-based)](https://jobright.ai/jobs/info/69fd5047e7252f429d40f1ce?utm_campaign=1055&utm_source=git)** | San Diego, CA | Remote | May 07 |
 | **[Harlow's School Bus Service](https://www.goharlows.com)** | **[DOT Safety Auditor Intern](https://jobright.ai/jobs/info/69fd3272432a3c4da8e0233e?utm_campaign=1055&utm_source=git)** | Dousman, WI, 53118, United States | On Site | May 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[EHS Intern - Summer 2026](https://jobright.ai/jobs/info/69fb2ad3e15600084115745f?utm_campaign=1055&utm_source=git)** | St Louis, MO | Hybrid | May 05 |
 | **[CSC](http://www.cscglobal.com)** | **[AML/KYC Intern](https://jobright.ai/jobs/info/69fb2bcf38179b6f1ae7643a?utm_campaign=1055&utm_source=git)** | Livingston, NJ | Hybrid | May 05 |
 | ↳ | **[AML/KYC Intern](https://jobright.ai/jobs/info/69fb271f38179b6f1ae75b84?utm_campaign=1055&utm_source=git)** | Wilmington, DE | Hybrid | May 05 |
-| **[BlueHub Capital](https://bluehubcapital.org/)** | **[Impact & Compliance Intern](https://jobright.ai/jobs/info/69fa969cdb88714bcdfc3823?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
