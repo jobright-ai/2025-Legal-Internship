@@ -75,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Contract Specialist Intern](https://jobright.ai/jobs/info/69fd0951666f063d3d6d2ab5?utm_campaign=1055&utm_source=git)** | OAV N, CA | On Site | May 07 |
 | **[RTX](http://rtx.com/)** | **[Summer 2026 - Legal Intern (Remote)](https://jobright.ai/jobs/info/69fd020c6b788e7e7a5c456f?utm_campaign=1055&utm_source=git)** | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC, US | Remote | May 07 |
 | **[Henny Penny](http://hennypenny.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/69fcee965cff890b03f34bb0?utm_campaign=1055&utm_source=git)** | Eaton, OH (Headquarters), US | On Site | May 07 |
-| **[NMDP](https://www.nmdp.org)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69fce7696b788e7e7a5c3575?utm_campaign=1055&utm_source=git)** | United States | Remote | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Legal Undergrad (Summer 2026)](https://jobright.ai/jobs/info/69fcd9fc666f063d3d6d12cb?utm_campaign=1055&utm_source=git)** | Shelton, CT, US | Hybrid | May 07 |
 | ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69fcd8f1b113035a9f8ec194?utm_campaign=1055&utm_source=git)** | United States | Remote | May 07 |
 | **[Edgewell Personal Care](http://edgewell.com)** | **[Intern, Legal Undergrad (Summer 2026)](https://jobright.ai/jobs/info/69fcc085938a651755f96440?utm_campaign=1055&utm_source=git)** | Shelton, CT, US | Hybrid | May 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[State of Florida](http://www.myflorida.com)** | **[PUBLIC DEFENDER'S OFFICE, 12TH CIRCUIT- ASSISTANT PUBLIC DEFENDER - 21010527](https://jobright.ai/jobs/info/69fb8c9818b94b2515be3326?utm_campaign=1055&utm_source=git)** | Sarasota, FL | On Site | May 05 |
 | **[Ontic](https://www.ontic.co)** | **[Legal Intern](https://jobright.ai/jobs/info/69fb3a32d21cf86d1e3d124c?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | May 05 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/69fb3ae287a4820e6da86723?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | May 05 |
+| **[The AES Corporation](https://www.aes.com)** | **[Legal Intern-2](https://jobright.ai/jobs/info/69fa75ea0b36ff03547628b5?utm_campaign=1055&utm_source=git)** | US, Salt Lake City, UT, US | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
