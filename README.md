@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Law Office of Jack M. Shapiro, P.C.](https://jackshapirolaw.com/)** | **[Internship / Law Clerk - Summer 2026](https://jobright.ai/jobs/info/69fdfe0af363bc4dc339ae82?utm_campaign=1055&utm_source=git)** | Buffalo Grove, IL | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Paid Intern - Regulatory Technology](https://jobright.ai/jobs/info/69fdf23f7714cd50b90fd24f?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
 | **[Greenworks](http://greenworkstools.com)** | **[Legal Counsel Internship](https://jobright.ai/jobs/info/69fdf1b17714cd50b90fd1fd?utm_campaign=1055&utm_source=git)** | Mooresville, NC | On Site | May 08 |
 | **[Raymond James Ltd.](https://www.raymondjames.ca/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69fda417f363bc4dc33991d9?utm_campaign=1055&utm_source=git)** | CA-BC-Vancouver-Vancouver | On Site | May 08 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[NMDP](https://www.nmdp.org)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69fce7696b788e7e7a5c3575?utm_campaign=1055&utm_source=git)** | United States | Remote | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Legal Undergrad (Summer 2026)](https://jobright.ai/jobs/info/69fcd9fc666f063d3d6d12cb?utm_campaign=1055&utm_source=git)** | Shelton, CT, US | Hybrid | May 07 |
 | ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69fcd8f1b113035a9f8ec194?utm_campaign=1055&utm_source=git)** | United States | Remote | May 07 |
-| **[NMDP](https://www.nmdp.org)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69fcca2b5cff890b03f33852?utm_campaign=1055&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | May 07 |
 | **[Edgewell Personal Care](http://edgewell.com)** | **[Intern, Legal Undergrad (Summer 2026)](https://jobright.ai/jobs/info/69fcc085938a651755f96440?utm_campaign=1055&utm_source=git)** | Shelton, CT, US | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Student Intern Legal Affairs](https://jobright.ai/jobs/info/69fcbdc7b113035a9f8eb471?utm_campaign=1055&utm_source=git)** | Columbia, SC, US | On Site | May 07 |
 | ↳ | **[Student Intern Legal Affairs](https://jobright.ai/jobs/info/69fcbdc46b788e7e7a5c21f4?utm_campaign=1055&utm_source=git)** | Greenville, SC, US | On Site | May 07 |
@@ -139,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Wipfli](http://www.wipfli.com)** | **[IT Procurement Internship](https://jobright.ai/jobs/info/69fb61d1ffa73664aeaff46b?utm_campaign=1055&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 06 |
 | **[Deckers Brands](http://deckers.com)** | **[Summer Intern, Corporate Legal (Undergraduate)](https://jobright.ai/jobs/info/69a9419779f3f4037f442276?utm_campaign=1055&utm_source=git)** | Santa Barbara, CA | Hybrid | May 06 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Regulatory & Legal Compliance Intern](https://jobright.ai/jobs/info/69c3c17fd5a1016e98da8e36?utm_campaign=1055&utm_source=git)** | Forest Home, NY | Hybrid | May 06 |
-| **[The AES Corporation](https://www.aes.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69fb5f7718b94b2515be1e60?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 06 |
 | **[International](https://www.international.com)** | **[College Intern - Legal](https://jobright.ai/jobs/info/69fb563487a4820e6da874be?utm_campaign=1055&utm_source=git)** | Lisle, IL | On Site | May 06 |
 | **[Camping World](https://investor.campingworld.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69deff04e34484770f1a65f6?utm_campaign=1055&utm_source=git)** | Lincolnshire, IL | Hybrid | May 06 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Child and Adult Protection Services Internship](https://jobright.ai/jobs/info/69fd9f4bad691a11f34ea122?utm_campaign=1055&utm_source=git)** | Aurora, CO, US | On Site | May 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The AES Corporation](https://www.aes.com)** | **[Legal Intern-2](https://jobright.ai/jobs/info/69fa75ea0b36ff03547628b5?utm_campaign=1055&utm_source=git)** | US, Salt Lake City, UT, US | On Site | May 05 |
 | **[Cadence](https://www.cadence.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fb2c8486d5cd46527d376a?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | May 05 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[EHS Intern - Summer 2026](https://jobright.ai/jobs/info/69fb2ad3e15600084115745f?utm_campaign=1055&utm_source=git)** | St Louis, MO | Hybrid | May 05 |
+| **[CSC](http://www.cscglobal.com)** | **[AML/KYC Intern](https://jobright.ai/jobs/info/69fb2bcf38179b6f1ae7643a?utm_campaign=1055&utm_source=git)** | Livingston, NJ | Hybrid | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
