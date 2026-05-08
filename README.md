@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Contracted Student Intern - Human Rights](https://jobright.ai/jobs/info/69fe6319f363bc4dc339e57c?utm_campaign=1055&utm_source=git)** | Boston, MA, US | On Site | May 08 |
+| ↳ | **[P/T LEGAL INTERN](https://jobright.ai/jobs/info/69fe62ab6bcf315dc8f57442?utm_campaign=1055&utm_source=git)** | Boca Raton, FL, US | On Site | May 08 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Intern - Human Rights](https://jobright.ai/jobs/info/69fe4c54f363bc4dc339dd92?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-25 Staniford Street | On Site | May 08 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Contracted Student Intern - Human Rights](https://jobright.ai/jobs/info/69fe4a2d6bcf315dc8f56a22?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-25 Staniford Street | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Contracts & Compliance (Tech & Data Focus)](https://jobright.ai/jobs/info/69fe48c27714cd50b9100067?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Great Plains Tribal Health](https://www.gptchb.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69fc414f3431b1292b9b5dbe?utm_campaign=1055&utm_source=git)** | Rapid City, SD | On Site | May 05 |
 | **[ADP](http://www.adp.com)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/69fb49ab86d5cd46527d475a?utm_campaign=1055&utm_source=git)** | Roseland, NJ | On Site | May 05 |
 | **[Murphy Oil Corporation](http://www.murphyoilcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fc310ba5949019c55b36d2?utm_campaign=1055&utm_source=git)** | El Dorado, AR | Hybrid | May 05 |
-| **[Tsang & Associates, PLC](https://tsangslaw.com)** | **[Bilingual Legal Intern](https://jobright.ai/jobs/info/69faaa6e18b94b2515bdbc58?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | May 05 |
-| **[The AES Corporation](https://www.aes.com)** | **[Legal Intern-2](https://jobright.ai/jobs/info/69fb3d8f18b94b2515be0c7c?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
