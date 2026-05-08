@@ -85,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Prisma Health](https://www.prismahealth.org)** | **[Student Intern Legal Affairs](https://jobright.ai/jobs/info/69fcc12e938a651755f964af?utm_campaign=1055&utm_source=git)** | Columbia, SC, US | On Site | May 07 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[SUMMER GRADUATE INTERN](https://jobright.ai/jobs/info/69fcc266b113035a9f8eb725?utm_campaign=1055&utm_source=git)** | MANHATTAN | On Site | May 07 |
 | **[Gale Hotels](https://www.galehotelmiami.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fc6ec8938a651755f93c31?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | May 07 |
+| **[Reckitt](https://www.reckitt.com)** | **[2026 Regulatory Summer Internship / Nutley, NJ, USA](https://jobright.ai/jobs/info/69f00d2a0a6e095553058fb1?utm_campaign=1055&utm_source=git)** | Nutley, NJ | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/69fc6d3b666f063d3d6cd5b8?utm_campaign=1055&utm_source=git)** | United States | Remote | May 06 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Rights Management Intern](https://jobright.ai/jobs/info/69fc41563431b1292b9b5de7?utm_campaign=1055&utm_source=git)** | United States | Remote | May 06 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/69fc69a9e17071257af19b39?utm_campaign=1055&utm_source=git)** | Wheaton, IL, US | On Site | May 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cadence](https://www.cadence.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fb2c8486d5cd46527d376a?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | May 05 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[EHS Intern - Summer 2026](https://jobright.ai/jobs/info/69fb2ad3e15600084115745f?utm_campaign=1055&utm_source=git)** | St Louis, MO | Hybrid | May 05 |
 | **[CSC](http://www.cscglobal.com)** | **[AML/KYC Intern](https://jobright.ai/jobs/info/69fb2bcf38179b6f1ae7643a?utm_campaign=1055&utm_source=git)** | Livingston, NJ | Hybrid | May 05 |
-| ↳ | **[AML/KYC Intern](https://jobright.ai/jobs/info/69fb271f38179b6f1ae75b84?utm_campaign=1055&utm_source=git)** | Wilmington, DE | Hybrid | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
