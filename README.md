@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital Vacations](https://www.capitalvacations.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69fe0dbe4b9bbf21744ae143?utm_campaign=1055&utm_source=git)** | Myrtle Beach, SC | On Site | May 08 |
 | **[Law Office of Jack M. Shapiro, P.C.](https://jackshapirolaw.com/)** | **[Internship / Law Clerk - Summer 2026](https://jobright.ai/jobs/info/69fdfe0af363bc4dc339ae82?utm_campaign=1055&utm_source=git)** | Buffalo Grove, IL | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Paid Intern - Regulatory Technology](https://jobright.ai/jobs/info/69fdf23f7714cd50b90fd24f?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
 | **[Greenworks](http://greenworkstools.com)** | **[Legal Counsel Internship](https://jobright.ai/jobs/info/69fdf1b17714cd50b90fd1fd?utm_campaign=1055&utm_source=git)** | Mooresville, NC | On Site | May 08 |
+| **[Henderson Engineers](https://www.hendersonengineers.com)** | **[Legal - Legal Intern](https://jobright.ai/jobs/info/69e17d8bfd1c0456f3fae865?utm_campaign=1055&utm_source=git)** | Lenexa, KS | On Site | May 08 |
+| **[Cantex](https://www.cantexcc.com)** | **[Compliance Internship (22259)](https://jobright.ai/jobs/info/69e119cfacc736112f5c1e41?utm_campaign=1055&utm_source=git)** | Carrollton, TX | On Site | May 08 |
 | **[Raymond James Ltd.](https://www.raymondjames.ca/)** | **[Compliance Intern](https://jobright.ai/jobs/info/69fda417f363bc4dc33991d9?utm_campaign=1055&utm_source=git)** | CA-BC-Vancouver-Vancouver | On Site | May 08 |
 | **[Raytheon](http://www.bbn.com)** | **[Summer 2026 - Legal Intern (Remote)](https://jobright.ai/jobs/info/69fd87ca6bcf315dc8f51f96?utm_campaign=1055&utm_source=git)** | east hartford, Connecticut, United States of America | Remote | May 07 |
 | **[Jack Fernandes Law, APC](https://www.jackfernandeslaw.com)** | **[Legal Internship (Summer) AI Legal & Administrative Clerk — Plaintiff-Side Civil Litigation (Remote, California-based)](https://jobright.ai/jobs/info/69fd5047e7252f429d40f1ce?utm_campaign=1055&utm_source=git)** | San Diego, CA | Remote | May 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ontic](https://www.ontic.co)** | **[Legal Intern](https://jobright.ai/jobs/info/69fb3a32d21cf86d1e3d124c?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | May 05 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/69fb3ae287a4820e6da86723?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | May 05 |
 | **[The AES Corporation](https://www.aes.com)** | **[Legal Intern-2](https://jobright.ai/jobs/info/69fa75ea0b36ff03547628b5?utm_campaign=1055&utm_source=git)** | US, Salt Lake City, UT, US | On Site | May 05 |
-| **[Cadence](https://www.cadence.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fb2c8486d5cd46527d376a?utm_campaign=1055&utm_source=git)** | San Jose, CA | Hybrid | May 05 |
-| **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[EHS Intern - Summer 2026](https://jobright.ai/jobs/info/69fb2ad3e15600084115745f?utm_campaign=1055&utm_source=git)** | St Louis, MO | Hybrid | May 05 |
-| **[CSC](http://www.cscglobal.com)** | **[AML/KYC Intern](https://jobright.ai/jobs/info/69fb2bcf38179b6f1ae7643a?utm_campaign=1055&utm_source=git)** | Livingston, NJ | Hybrid | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
