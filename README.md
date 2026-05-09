@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/69fe717c7714cd50b9101266?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Contracted Student Intern - Human Rights](https://jobright.ai/jobs/info/69fe6319f363bc4dc339e57c?utm_campaign=1055&utm_source=git)** | Boston, MA, US | On Site | May 08 |
 | ↳ | **[P/T LEGAL INTERN](https://jobright.ai/jobs/info/69fe62ab6bcf315dc8f57442?utm_campaign=1055&utm_source=git)** | Boca Raton, FL, US | On Site | May 08 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Intern - Human Rights](https://jobright.ai/jobs/info/69fe4c54f363bc4dc339dd92?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-25 Staniford Street | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Community Health Resources](https://www.chrhealth.org/)** | **[Bachelor's Level Intern: Compliance & Privacy- 6995](https://jobright.ai/jobs/info/69fc4ebb2e6c421278ddb31f?utm_campaign=1055&utm_source=git)** | Windsor, CT | On Site | May 05 |
 | **[Great Plains Tribal Health](https://www.gptchb.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69fc414f3431b1292b9b5dbe?utm_campaign=1055&utm_source=git)** | Rapid City, SD | On Site | May 05 |
 | **[ADP](http://www.adp.com)** | **[Summer 2026 Legal Intern](https://jobright.ai/jobs/info/69fb49ab86d5cd46527d475a?utm_campaign=1055&utm_source=git)** | Roseland, NJ | On Site | May 05 |
-| **[Murphy Oil Corporation](http://www.murphyoilcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fc310ba5949019c55b36d2?utm_campaign=1055&utm_source=git)** | El Dorado, AR | Hybrid | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
