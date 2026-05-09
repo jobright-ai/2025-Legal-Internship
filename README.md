@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Fraud Risk)](https://jobright.ai/jobs/info/69ff238dc4b08448a0b16a0a?utm_campaign=1055&utm_source=git)** | MANHATTAN | On Site | May 09 |
 | **[Accuray](http://www.accuray.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69c55f4ce565c26a7000ec6f?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | May 09 |
 | **[A 2nd Chance Bail Bonds](https://www.a2ndchancebailbonds.com/)** | **[Monitoring Intern](https://jobright.ai/jobs/info/69febc901161630dd3b0408a?utm_campaign=1055&utm_source=git)** | Atlanta, GA 30318 | On Site | May 08 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Corporate Legal Intern  (959)](https://jobright.ai/jobs/info/69febc5b373fc1347f2d0a62?utm_campaign=1055&utm_source=git)** | Doral, FL 33122 | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wipfli](http://www.wipfli.com)** | **[IT Procurement Internship](https://jobright.ai/jobs/info/69fb908318b94b2515be34fb?utm_campaign=1055&utm_source=git)** | United States | Remote | May 06 |
 | **[Murphy USA](https://www.murphyusa.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69fb8c1d38179b6f1ae79377?utm_campaign=1055&utm_source=git)** | El Dorado, AR | Hybrid | May 06 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Pre-Law/Paralegal Intern Fall/Winter 2026/27](https://jobright.ai/jobs/info/69fb88ceffa73664aeb00163?utm_campaign=1055&utm_source=git)** | Wickliffe OH US | On Site | May 06 |
-| **[INX International Ink Co.](https://www.inxinternational.com)** | **[Intern Regulatory Affairs](https://jobright.ai/jobs/info/69fb823718b94b2515be2def?utm_campaign=1055&utm_source=git)** | Western Dr, West Chicago, IL 60185, USA | Hybrid | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
