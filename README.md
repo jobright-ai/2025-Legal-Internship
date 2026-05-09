@@ -90,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Trust Intern](https://jobright.ai/jobs/info/69e149b6acc736112f5c2f1c?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Paid Intern - Regulatory Technology](https://jobright.ai/jobs/info/69fdf23f7714cd50b90fd24f?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
 | **[Greenworks](http://greenworkstools.com)** | **[Legal Counsel Internship](https://jobright.ai/jobs/info/69fdf1b17714cd50b90fd1fd?utm_campaign=1055&utm_source=git)** | Mooresville, NC | On Site | May 08 |
+| **[Advisor360°](https://www.advisor360.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69e15e54ff71e82d604b6885?utm_campaign=1055&utm_source=git)** | Needham, MA | Hybrid | May 08 |
 | **[Henderson Engineers](https://www.hendersonengineers.com)** | **[Legal - Legal Intern](https://jobright.ai/jobs/info/69e17d8bfd1c0456f3fae865?utm_campaign=1055&utm_source=git)** | Lenexa, KS | On Site | May 08 |
 | **[Raytheon](http://www.bbn.com)** | **[Summer 2026 - Legal Intern (Remote)](https://jobright.ai/jobs/info/69fd87ca6bcf315dc8f51f96?utm_campaign=1055&utm_source=git)** | east hartford, Connecticut, United States of America | Remote | May 07 |
 | **[Harlow's School Bus Service](https://www.goharlows.com)** | **[DOT Safety Auditor Intern](https://jobright.ai/jobs/info/69fd3272432a3c4da8e0233e?utm_campaign=1055&utm_source=git)** | Dousman, WI, 53118, United States | On Site | May 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Murphy USA](https://www.murphyusa.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69fb8c1d38179b6f1ae79377?utm_campaign=1055&utm_source=git)** | El Dorado, AR | Hybrid | May 06 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Pre-Law/Paralegal Intern Fall/Winter 2026/27](https://jobright.ai/jobs/info/69fb88ceffa73664aeb00163?utm_campaign=1055&utm_source=git)** | Wickliffe OH US | On Site | May 06 |
 | **[INX International Ink Co.](https://www.inxinternational.com)** | **[Intern Regulatory Affairs](https://jobright.ai/jobs/info/69fb823718b94b2515be2def?utm_campaign=1055&utm_source=git)** | Western Dr, West Chicago, IL 60185, USA | Hybrid | May 06 |
-| **[S&A Legal Management Services, Inc](https://www.linkedin.com/company/99229457)** | **[Legal Clerk / Summer Intern - Creditors' Rights Litigation](https://jobright.ai/jobs/info/69fb81d186d5cd46527d60e8?utm_campaign=1055&utm_source=git)** | Plano, TX, US | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
