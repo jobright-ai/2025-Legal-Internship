@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Accuray](http://www.accuray.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69c55f4ce565c26a7000ec6f?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | May 09 |
 | **[A 2nd Chance Bail Bonds](https://www.a2ndchancebailbonds.com/)** | **[Monitoring Intern](https://jobright.ai/jobs/info/69febc901161630dd3b0408a?utm_campaign=1055&utm_source=git)** | Atlanta, GA 30318 | On Site | May 08 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Corporate Legal Intern  (959)](https://jobright.ai/jobs/info/69febc5b373fc1347f2d0a62?utm_campaign=1055&utm_source=git)** | Doral, FL 33122 | On Site | May 08 |
 | ↳ | **[Intern - Trade Compliance & Logistics (868)](https://jobright.ai/jobs/info/69febc431161630dd3b03e80?utm_campaign=1055&utm_source=git)** | Miami, FL 33122 | On Site | May 08 |
@@ -87,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Capital Vacations](https://www.capitalvacations.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69fe0dbe4b9bbf21744ae143?utm_campaign=1055&utm_source=git)** | Myrtle Beach, SC | On Site | May 08 |
 | **[BWC Terminals](https://www.bwcterminals.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69feb22f1161630dd3b01880?utm_campaign=1055&utm_source=git)** | Houston, TX, US | On Site | May 08 |
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Trust Intern](https://jobright.ai/jobs/info/69e149b6acc736112f5c2f1c?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | May 08 |
-| **[Law Office of Jack M. Shapiro, P.C.](https://jackshapirolaw.com/)** | **[Internship / Law Clerk - Summer 2026](https://jobright.ai/jobs/info/69fdfe0af363bc4dc339ae82?utm_campaign=1055&utm_source=git)** | Buffalo Grove, IL | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Paid Intern - Regulatory Technology](https://jobright.ai/jobs/info/69fdf23f7714cd50b90fd24f?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
 | **[Greenworks](http://greenworkstools.com)** | **[Legal Counsel Internship](https://jobright.ai/jobs/info/69fdf1b17714cd50b90fd1fd?utm_campaign=1055&utm_source=git)** | Mooresville, NC | On Site | May 08 |
 | **[Henderson Engineers](https://www.hendersonengineers.com)** | **[Legal - Legal Intern](https://jobright.ai/jobs/info/69e17d8bfd1c0456f3fae865?utm_campaign=1055&utm_source=git)** | Lenexa, KS | On Site | May 08 |
