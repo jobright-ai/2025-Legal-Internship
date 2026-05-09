@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Legal Intern (Fall Semester)](https://jobright.ai/jobs/info/69fe9aa4f363bc4dc339f713?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Office of Policy and Compliance (OPC) Graduate Intern](https://jobright.ai/jobs/info/69fe96eb6bcf315dc8f5844c?utm_campaign=1055&utm_source=git)** | QUEENS | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/69fe829e6bcf315dc8f5814d?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
 | **[Lawyering Project](https://lawyeringproject.org)** | **[Legal Intern (Fall Semester)](https://jobright.ai/jobs/info/69fe748f4b9bbf21744b1aad?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/69fe717c7714cd50b9101266?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Contracted Student Intern - Human Rights](https://jobright.ai/jobs/info/69fe6319f363bc4dc339e57c?utm_campaign=1055&utm_source=git)** | Boston, MA, US | On Site | May 08 |
 | ↳ | **[P/T LEGAL INTERN](https://jobright.ai/jobs/info/69fe62ab6bcf315dc8f57442?utm_campaign=1055&utm_source=git)** | Boca Raton, FL, US | On Site | May 08 |
+| **[INX International Ink Co.](https://www.inxinternational.com)** | **[Intern Regulatory Affairs](https://jobright.ai/jobs/info/69fbef843160b250eb1ba7d4?utm_campaign=1055&utm_source=git)** | West Chicago, IL | On Site | May 08 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Intern - Human Rights](https://jobright.ai/jobs/info/69fe4c54f363bc4dc339dd92?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-25 Staniford Street | On Site | May 08 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Contracted Student Intern - Human Rights](https://jobright.ai/jobs/info/69fe4a2d6bcf315dc8f56a22?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-25 Staniford Street | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Contracts & Compliance (Tech & Data Focus)](https://jobright.ai/jobs/info/69fe48c27714cd50b9100067?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
@@ -72,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[School Specialty](http://www.schoolspecialty.com)** | **[Legal Intern- General Corporate Law (6 Week Internship- Remote)](https://jobright.ai/jobs/info/69fe15447714cd50b90fe1d5?utm_campaign=1055&utm_source=git)** | Downers Grove, IL 60515, USA | Remote | May 08 |
 | **[Acuity Politics, LLC](https://www.acuitypolitics.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69fe147952e2b44f558ae583?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 08 |
 | **[Capital Vacations](https://www.capitalvacations.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69fe0dbe4b9bbf21744ae143?utm_campaign=1055&utm_source=git)** | Myrtle Beach, SC | On Site | May 08 |
+| **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Trust Intern](https://jobright.ai/jobs/info/69e149b6acc736112f5c2f1c?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | May 08 |
 | **[Law Office of Jack M. Shapiro, P.C.](https://jackshapirolaw.com/)** | **[Internship / Law Clerk - Summer 2026](https://jobright.ai/jobs/info/69fdfe0af363bc4dc339ae82?utm_campaign=1055&utm_source=git)** | Buffalo Grove, IL | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Paid Intern - Regulatory Technology](https://jobright.ai/jobs/info/69fdf23f7714cd50b90fd24f?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
 | **[Greenworks](http://greenworkstools.com)** | **[Legal Counsel Internship](https://jobright.ai/jobs/info/69fdf1b17714cd50b90fd1fd?utm_campaign=1055&utm_source=git)** | Mooresville, NC | On Site | May 08 |
@@ -128,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Exactech](http://www.exac.com)** | **[Legal and Compliance - Intern](https://jobright.ai/jobs/info/69fbede93802c7621fd8df0c?utm_campaign=1055&utm_source=git)** | Gainesville, FL | On Site | May 06 |
 | **[NiCE](http://nice.com)** | **[Legal Intern, Actimize](https://jobright.ai/jobs/info/69fbf00b2f9f6b7cf690feec?utm_campaign=1055&utm_source=git)** | USA - Hoboken, NJ | On Site | May 06 |
 | **[Great Plains Tribal Health](https://www.gptchb.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69fbef50a5949019c55b1b4e?utm_campaign=1055&utm_source=git)** | Administration, Central Office, Rapid City, SD, US | On Site | May 06 |
-| **[INX International Ink Co.](https://www.inxinternational.com)** | **[Intern Regulatory Affairs](https://jobright.ai/jobs/info/69fbef843160b250eb1ba7d4?utm_campaign=1055&utm_source=git)** | West Chicago, IL | On Site | May 06 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Pre-Law/Paralegal Intern Fall/Winter 2026/27](https://jobright.ai/jobs/info/69fbee1ea5949019c55b17e3?utm_campaign=1055&utm_source=git)** | Wickliffe, OH | On Site | May 06 |
 | **[Keros Therapeutics](http://kerostx.com/)** | **[Legal Intern - Fall (September-December)](https://jobright.ai/jobs/info/69fbab72d21cf86d1e3d4cd2?utm_campaign=1055&utm_source=git)** | Lexington, MA (Hybrid) | Hybrid | May 06 |
 | **[3CDC](https://www.3cdc.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69fbeac4c39b9a66c0c53efb?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | May 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International](https://www.international.com)** | **[College Intern - Legal](https://jobright.ai/jobs/info/69fb563487a4820e6da874be?utm_campaign=1055&utm_source=git)** | Lisle, IL | On Site | May 06 |
 | **[Camping World](https://investor.campingworld.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69deff04e34484770f1a65f6?utm_campaign=1055&utm_source=git)** | Lincolnshire, IL | Hybrid | May 06 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Child and Adult Protection Services Internship](https://jobright.ai/jobs/info/69fd9f4bad691a11f34ea122?utm_campaign=1055&utm_source=git)** | Aurora, CO, US | On Site | May 06 |
-| **[The AES Corporation](https://www.aes.com)** | **[Legal Intern-1](https://jobright.ai/jobs/info/69fb6151d21cf86d1e3d28b3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 06 |
-| ↳ | **[Legal Intern-1](https://jobright.ai/jobs/info/69faf9de87a4820e6da8409b?utm_campaign=1055&utm_source=git)** | US, Salt Lake City, UT, US | On Site | May 06 |
-| **[Community Health Resources](https://www.chrhealth.org/)** | **[Bachelor's Level Intern: Compliance & Privacy- 6995](https://jobright.ai/jobs/info/69fc4ebb2e6c421278ddb31f?utm_campaign=1055&utm_source=git)** | Windsor, CT | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
