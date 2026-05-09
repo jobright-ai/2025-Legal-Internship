@@ -68,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/69fe829e6bcf315dc8f5814d?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
 | **[Lawyering Project](https://lawyeringproject.org)** | **[Legal Intern (Fall Semester)](https://jobright.ai/jobs/info/69fe748f4b9bbf21744b1aad?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/69fe717c7714cd50b9101266?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | May 08 |
+| ↳ | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/69febdb11161630dd3b0477b?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Contracted Student Intern - Human Rights](https://jobright.ai/jobs/info/69fe6319f363bc4dc339e57c?utm_campaign=1055&utm_source=git)** | Boston, MA, US | On Site | May 08 |
 | ↳ | **[P/T LEGAL INTERN](https://jobright.ai/jobs/info/69fe62ab6bcf315dc8f57442?utm_campaign=1055&utm_source=git)** | Boca Raton, FL, US | On Site | May 08 |
 | **[INX International Ink Co.](https://www.inxinternational.com)** | **[Intern Regulatory Affairs](https://jobright.ai/jobs/info/69fbef843160b250eb1ba7d4?utm_campaign=1055&utm_source=git)** | West Chicago, IL | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Pre-Law/Paralegal Intern Fall/Winter 2026/27](https://jobright.ai/jobs/info/69fb88ceffa73664aeb00163?utm_campaign=1055&utm_source=git)** | Wickliffe OH US | On Site | May 06 |
 | **[INX International Ink Co.](https://www.inxinternational.com)** | **[Intern Regulatory Affairs](https://jobright.ai/jobs/info/69fb823718b94b2515be2def?utm_campaign=1055&utm_source=git)** | Western Dr, West Chicago, IL 60185, USA | Hybrid | May 06 |
 | **[S&A Legal Management Services, Inc](https://www.linkedin.com/company/99229457)** | **[Legal Clerk / Summer Intern - Creditors' Rights Litigation](https://jobright.ai/jobs/info/69fb81d186d5cd46527d60e8?utm_campaign=1055&utm_source=git)** | Plano, TX, US | On Site | May 06 |
-| **[Community Health Resources](https://www.chrhealth.org/)** | **[Bachelor's Level Intern: Compliance & Privacy- 6995](https://jobright.ai/jobs/info/69fb81bcffa73664aeafffd5?utm_campaign=1055&utm_source=git)** | Windsor, Connecticut, United States | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
