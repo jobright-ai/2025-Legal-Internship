@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69febc0815859e57591cf521?utm_campaign=1055&utm_source=git)** | Denver Office - Denver, CO 80202 | On Site | May 08 |
 | **[FWCanada, Immigration Law Firm](http://www.canadianimmigration.net)** | **[Student Law Intern - Law Firm](https://jobright.ai/jobs/info/69feba75cdb965044a86443c?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Legal Intern (Fall Semester)](https://jobright.ai/jobs/info/69fe9aa4f363bc4dc339f713?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
+| **[The AES Corporation](https://www.aes.com)** | **[Legal Intern-2](https://jobright.ai/jobs/info/69fb3d8f18b94b2515be0c7c?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 08 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Office of Policy and Compliance (OPC) Graduate Intern](https://jobright.ai/jobs/info/69fe96eb6bcf315dc8f5844c?utm_campaign=1055&utm_source=git)** | QUEENS | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/69fe829e6bcf315dc8f5814d?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
 | **[Lawyering Project](https://lawyeringproject.org)** | **[Legal Intern (Fall Semester)](https://jobright.ai/jobs/info/69fe748f4b9bbf21744b1aad?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Contracts & Compliance (Tech & Data Focus)](https://jobright.ai/jobs/info/69fe48c27714cd50b9100067?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
 | **[Mallinckrodt Pharmaceuticals](http://mallinckrodt.com)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/69feb2b71161630dd3b01b29?utm_campaign=1055&utm_source=git)** | Malvern, PA, US | Hybrid | May 08 |
 | **[TransPerfect](http://www.transperfect.com)** | **[General Counsel Intern](https://jobright.ai/jobs/info/69feb2ab1161630dd3b01ae3?utm_campaign=1055&utm_source=git)** | US-New York, NY (1250 Broadway), US | On Site | May 08 |
+| **[U.S. Bank](http://www.usbank.com)** | **[Paralegal](https://jobright.ai/jobs/info/69fbde05d21cf86d1e3d583c?utm_campaign=1055&utm_source=git)** | Earth City, MO | On Site | May 08 |
 | **[Fenwick & West](http://fenwick.com)** | **[Social Impact and Pro Bono Intern](https://jobright.ai/jobs/info/69fe3a2f7714cd50b90fef1a?utm_campaign=1055&utm_source=git)** | Silicon Valley, US | Hybrid | May 08 |
 | ↳ | **[Social Impact and Pro Bono Intern](https://jobright.ai/jobs/info/69fe3a2df363bc4dc339c5a9?utm_campaign=1055&utm_source=git)** | San Francisco, US | Hybrid | May 08 |
 | **[CONFLUX SYSTEMS](https://www.confluxsystems.com)** | **[Customs Intern](https://jobright.ai/jobs/info/69fe3991f363bc4dc339c572?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | May 08 |
@@ -104,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Henny Penny](http://hennypenny.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/69fcee965cff890b03f34bb0?utm_campaign=1055&utm_source=git)** | Eaton, OH (Headquarters), US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Legal Undergrad (Summer 2026)](https://jobright.ai/jobs/info/69fcd9fc666f063d3d6d12cb?utm_campaign=1055&utm_source=git)** | Shelton, CT, US | Hybrid | May 07 |
 | ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69fcd8f1b113035a9f8ec194?utm_campaign=1055&utm_source=git)** | United States | Remote | May 07 |
+| **[Reckitt](https://www.reckitt.com)** | **[2026 Legal Summer Internship / Nutley, NJ, USA](https://jobright.ai/jobs/info/69e05a16b20fd532b4ae0eee?utm_campaign=1055&utm_source=git)** | Nutley, NJ | On Site | May 07 |
 | **[Edgewell Personal Care](http://edgewell.com)** | **[Intern, Legal Undergrad (Summer 2026)](https://jobright.ai/jobs/info/69fcc085938a651755f96440?utm_campaign=1055&utm_source=git)** | Shelton, CT, US | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Student Intern Legal Affairs](https://jobright.ai/jobs/info/69fcbdc7b113035a9f8eb471?utm_campaign=1055&utm_source=git)** | Columbia, SC, US | On Site | May 07 |
 | ↳ | **[Student Intern Legal Affairs](https://jobright.ai/jobs/info/69fcbdc46b788e7e7a5c21f4?utm_campaign=1055&utm_source=git)** | Greenville, SC, US | On Site | May 07 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Democracy Docket](https://www.democracydocket.com)** | **[Fall 2026 Internship - Research](https://jobright.ai/jobs/info/69fbea7fa5949019c55b0694?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 06 |
 | ↳ | **[Fall 2026 Internship - Research](https://jobright.ai/jobs/info/69fbf58f76c60e7b70af0fcb?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 06 |
 | **[Airlines for America](http://airlines.org)** | **[Intern, Office of the General Counsel](https://jobright.ai/jobs/info/69fb985938179b6f1ae79963?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | On Site | May 06 |
-| **[U.S. Bank](http://www.usbank.com)** | **[Paralegal](https://jobright.ai/jobs/info/69fbde05d21cf86d1e3d583c?utm_campaign=1055&utm_source=git)** | Earth City, MO | On Site | May 06 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efbb400a6e095553056f86?utm_campaign=1055&utm_source=git)** | Memphis, TN | On Site | May 06 |
 | **[Wipfli](http://www.wipfli.com)** | **[IT Procurement Internship](https://jobright.ai/jobs/info/69fb908318b94b2515be34fb?utm_campaign=1055&utm_source=git)** | United States | Remote | May 06 |
-| **[Murphy USA](https://www.murphyusa.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69fb8c1d38179b6f1ae79377?utm_campaign=1055&utm_source=git)** | El Dorado, AR | Hybrid | May 06 |
-| **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Pre-Law/Paralegal Intern Fall/Winter 2026/27](https://jobright.ai/jobs/info/69fb88ceffa73664aeb00163?utm_campaign=1055&utm_source=git)** | Wickliffe OH US | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
