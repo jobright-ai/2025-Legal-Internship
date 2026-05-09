@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northern Justice Watch](https://linktr.ee/NorthernJusticeWatch_)** | **[Northern Justice Watch Co-op & Internship Program](https://jobright.ai/jobs/info/69ffb151a0eddc08c239a09a?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 09 |
+| **[Resonant Clinical Solutions](https://resonantclinical.com)** | **[Legal and Contracts Intern](https://jobright.ai/jobs/info/69fae8f338179b6f1ae7396b?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | On Site | May 09 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Fraud Risk)](https://jobright.ai/jobs/info/69ff238dc4b08448a0b16a0a?utm_campaign=1055&utm_source=git)** | MANHATTAN | On Site | May 09 |
 | **[Accuray](http://www.accuray.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69c55f4ce565c26a7000ec6f?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | May 09 |
 | **[A 2nd Chance Bail Bonds](https://www.a2ndchancebailbonds.com/)** | **[Monitoring Intern](https://jobright.ai/jobs/info/69febc901161630dd3b0408a?utm_campaign=1055&utm_source=git)** | Atlanta, GA 30318 | On Site | May 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GEODIS](http://www.geodis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fbeae93160b250eb1b924f?utm_campaign=1055&utm_source=git)** | Brentwood, Tennessee, United States | On Site | May 06 |
 | **[Democracy Docket](https://www.democracydocket.com)** | **[Fall 2026 Internship - Research](https://jobright.ai/jobs/info/69fbea7fa5949019c55b0694?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 06 |
 | ↳ | **[Fall 2026 Internship - Research](https://jobright.ai/jobs/info/69fbf58f76c60e7b70af0fcb?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 06 |
-| **[Airlines for America](http://airlines.org)** | **[Intern, Office of the General Counsel](https://jobright.ai/jobs/info/69fb985938179b6f1ae79963?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | On Site | May 06 |
-| **[Memphis Grizzlies](http://grizzlies.com)** | **[Legal Intern, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69efbb400a6e095553056f86?utm_campaign=1055&utm_source=git)** | Memphis, TN | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
