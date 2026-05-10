@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Compliance Assistant Intern](https://jobright.ai/jobs/info/69f4cd0881706a5bd2163220?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | May 10 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/6972969f4ccbf64f8df290a8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 10 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efd38de624fe645d533802?utm_campaign=1055&utm_source=git)** | Renton, WA | Hybrid | May 09 |
-| **[Northern Justice Watch](https://linktr.ee/NorthernJusticeWatch_)** | **[Northern Justice Watch Co-op & Internship Program](https://jobright.ai/jobs/info/69ffb151a0eddc08c239a09a?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 09 |
 | **[Resonant Clinical Solutions](https://resonantclinical.com)** | **[Legal and Contracts Intern](https://jobright.ai/jobs/info/69fae8f338179b6f1ae7396b?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | On Site | May 09 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Fraud Risk)](https://jobright.ai/jobs/info/69ff238dc4b08448a0b16a0a?utm_campaign=1055&utm_source=git)** | MANHATTAN | On Site | May 09 |
 | **[The AES Corporation](https://www.aes.com)** | **[Legal Intern-1](https://jobright.ai/jobs/info/69fb6151d21cf86d1e3d28b3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Keros Therapeutics](http://kerostx.com/)** | **[Legal Intern - Fall (September-December)](https://jobright.ai/jobs/info/69fbab72d21cf86d1e3d4cd2?utm_campaign=1055&utm_source=git)** | Lexington, MA (Hybrid) | Hybrid | May 06 |
 | **[3CDC](https://www.3cdc.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69fbeac4c39b9a66c0c53efb?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | May 06 |
 | **[GEODIS](http://www.geodis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fbeae93160b250eb1b924f?utm_campaign=1055&utm_source=git)** | Brentwood, Tennessee, United States | On Site | May 06 |
+| **[Democracy Docket](https://www.democracydocket.com)** | **[Fall 2026 Internship - Research](https://jobright.ai/jobs/info/69fbea7fa5949019c55b0694?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
