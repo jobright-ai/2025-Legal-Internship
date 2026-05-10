@@ -131,8 +131,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69fc666a2e6c421278ddbeae?utm_campaign=1055&utm_source=git)** | Cerritos, CA, US | Hybrid | May 06 |
 | ↳ | **[Pre-Law/Paralegal Intern Fall/Winter 2026/27](https://jobright.ai/jobs/info/69fc570aab1b7e27b9fa35f0?utm_campaign=1055&utm_source=git)** | Wickliffe, OH, US | On Site | May 06 |
 | ↳ | **[IT Procurement Internship](https://jobright.ai/jobs/info/69fc51e548d4483e4b638c96?utm_campaign=1055&utm_source=git)** | United States | Remote | May 06 |
-| **[ICW Group](https://www.icwgroup.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/69fc15d176c60e7b70af210c?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | May 06 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Data Management and Compliance Intern](https://jobright.ai/jobs/info/69fc4070a90a7f57e848e63f?utm_campaign=1055&utm_source=git)** | Woodbridge, VA, US | On Site | May 06 |
+| ↳ | **[Data Management and Compliance Intern](https://jobright.ai/jobs/info/69fc4070a90a7f57e848e63f?utm_campaign=1055&utm_source=git)** | Woodbridge, VA, US | On Site | May 06 |
 | ↳ | **[Music Rights Management Intern](https://jobright.ai/jobs/info/69fc4241633e68586cd3005b?utm_campaign=1055&utm_source=git)** | United States | Remote | May 06 |
 | ↳ | **[Bachelor's Level Intern: Compliance & Privacy- 6995](https://jobright.ai/jobs/info/69fc3e690940765d3b501e88?utm_campaign=1055&utm_source=git)** | Windsor, CT, US | On Site | May 06 |
 | ↳ | **[Legal Clerk / Summer Intern - Creditors' Rights Litigation](https://jobright.ai/jobs/info/69fc3d9fcbdf932e930a1fa8?utm_campaign=1055&utm_source=git)** | Plano, TX, US | On Site | May 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[GEODIS](http://www.geodis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fbeae93160b250eb1b924f?utm_campaign=1055&utm_source=git)** | Brentwood, Tennessee, United States | On Site | May 06 |
 | **[Democracy Docket](https://www.democracydocket.com)** | **[Fall 2026 Internship - Research](https://jobright.ai/jobs/info/69fbea7fa5949019c55b0694?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 06 |
 | ↳ | **[Fall 2026 Internship - Research](https://jobright.ai/jobs/info/69fbf58f76c60e7b70af0fcb?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 06 |
+| **[Airlines for America](http://airlines.org)** | **[Intern, Office of the General Counsel](https://jobright.ai/jobs/info/69fb985938179b6f1ae79963?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
