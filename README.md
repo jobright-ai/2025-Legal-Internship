@@ -66,7 +66,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Trade Compliance & Logistics (868)](https://jobright.ai/jobs/info/69febc431161630dd3b03e80?utm_campaign=1055&utm_source=git)** | Miami, FL 33122 | On Site | May 08 |
 | **[Cresset](https://cressetcapital.com/)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/69febc11d0dc596b8d119dff?utm_campaign=1055&utm_source=git)** | Chicago Office - Chicago, IL 60606 | On Site | May 08 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69febc0815859e57591cf521?utm_campaign=1055&utm_source=git)** | Denver Office - Denver, CO 80202 | On Site | May 08 |
-| **[FWCanada, Immigration Law Firm](http://www.canadianimmigration.net)** | **[Student Law Intern - Law Firm](https://jobright.ai/jobs/info/69feba75cdb965044a86443c?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Legal Intern (Fall Semester)](https://jobright.ai/jobs/info/69fe9aa4f363bc4dc339f713?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
 | **[The AES Corporation](https://www.aes.com)** | **[Legal Intern-2](https://jobright.ai/jobs/info/69fb3d8f18b94b2515be0c7c?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 08 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Office of Policy and Compliance (OPC) Graduate Intern](https://jobright.ai/jobs/info/69fe96eb6bcf315dc8f5844c?utm_campaign=1055&utm_source=git)** | QUEENS | On Site | May 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[GEODIS](http://www.geodis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fbeae93160b250eb1b924f?utm_campaign=1055&utm_source=git)** | Brentwood, Tennessee, United States | On Site | May 06 |
 | **[Democracy Docket](https://www.democracydocket.com)** | **[Fall 2026 Internship - Research](https://jobright.ai/jobs/info/69fbea7fa5949019c55b0694?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 06 |
 | ↳ | **[Fall 2026 Internship - Research](https://jobright.ai/jobs/info/69fbf58f76c60e7b70af0fcb?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 06 |
+| **[Airlines for America](http://airlines.org)** | **[Intern, Office of the General Counsel](https://jobright.ai/jobs/info/69fb985938179b6f1ae79963?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
