@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efd38de624fe645d533802?utm_campaign=1055&utm_source=git)** | Renton, WA | Hybrid | May 09 |
 | **[Northern Justice Watch](https://linktr.ee/NorthernJusticeWatch_)** | **[Northern Justice Watch Co-op & Internship Program](https://jobright.ai/jobs/info/69ffb151a0eddc08c239a09a?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 09 |
 | **[Resonant Clinical Solutions](https://resonantclinical.com)** | **[Legal and Contracts Intern](https://jobright.ai/jobs/info/69fae8f338179b6f1ae7396b?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | On Site | May 09 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Fraud Risk)](https://jobright.ai/jobs/info/69ff238dc4b08448a0b16a0a?utm_campaign=1055&utm_source=git)** | MANHATTAN | On Site | May 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GEODIS](http://www.geodis.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fbeae93160b250eb1b924f?utm_campaign=1055&utm_source=git)** | Brentwood, Tennessee, United States | On Site | May 06 |
 | **[Democracy Docket](https://www.democracydocket.com)** | **[Fall 2026 Internship - Research](https://jobright.ai/jobs/info/69fbea7fa5949019c55b0694?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 06 |
 | ↳ | **[Fall 2026 Internship - Research](https://jobright.ai/jobs/info/69fbf58f76c60e7b70af0fcb?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 06 |
-| **[Airlines for America](http://airlines.org)** | **[Intern, Office of the General Counsel](https://jobright.ai/jobs/info/69fb985938179b6f1ae79963?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
