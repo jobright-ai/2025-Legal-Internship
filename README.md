@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[INX International Ink Co.](https://www.inxinternational.com)** | **[Intern Regulatory Affairs](https://jobright.ai/jobs/info/69fbef843160b250eb1ba7d4?utm_campaign=1055&utm_source=git)** | West Chicago, IL | On Site | May 11 |
 | **[arrivia](https://www.arrivia.com/)** | **[Legal Operations & Contract Intern](https://jobright.ai/jobs/info/6a0149aa74b5407dd467b618?utm_campaign=1055&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 10 |
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Compliance Assistant Intern](https://jobright.ai/jobs/info/69f4cd0881706a5bd2163220?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | May 10 |
+| **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | May 10 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/6972969f4ccbf64f8df290a8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 10 |
 | **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Procurement & Contract Analytics Intern](https://jobright.ai/jobs/info/69c2d10794007a2195decf2d?utm_campaign=1055&utm_source=git)** | Montvale, NJ | On Site | May 10 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efbb3a0a6e095553056f5c?utm_campaign=1055&utm_source=git)** | Boise, ID | Hybrid | May 09 |
@@ -83,7 +85,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/69febdb11161630dd3b0477b?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Contracted Student Intern - Human Rights](https://jobright.ai/jobs/info/69fe6319f363bc4dc339e57c?utm_campaign=1055&utm_source=git)** | Boston, MA, US | On Site | May 08 |
 | ↳ | **[P/T LEGAL INTERN](https://jobright.ai/jobs/info/69fe62ab6bcf315dc8f57442?utm_campaign=1055&utm_source=git)** | Boca Raton, FL, US | On Site | May 08 |
-| **[INX International Ink Co.](https://www.inxinternational.com)** | **[Intern Regulatory Affairs](https://jobright.ai/jobs/info/69fbef843160b250eb1ba7d4?utm_campaign=1055&utm_source=git)** | West Chicago, IL | On Site | May 08 |
 | **[The GEO Group, Inc.](http://www.geogroup.com)** | **[P/T LEGAL INTERN](https://jobright.ai/jobs/info/6a015079238f143e8352c128?utm_campaign=1055&utm_source=git)** | Boca Raton, FL, US | On Site | May 08 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Intern - Human Rights](https://jobright.ai/jobs/info/69fe4c54f363bc4dc339dd92?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-25 Staniford Street | On Site | May 08 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Contracted Student Intern - Human Rights](https://jobright.ai/jobs/info/69fe4a2d6bcf315dc8f56a22?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-25 Staniford Street | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69fbf6d076c60e7b70af128d?utm_campaign=1055&utm_source=git)** | Cerritos, CA | Hybrid | May 06 |
 | **[Keros Therapeutics](http://kerostx.com/)** | **[Legal Intern - Fall (September-December)](https://jobright.ai/jobs/info/69fbef74c39b9a66c0c5551e?utm_campaign=1055&utm_source=git)** | Lexington, MA | On Site | May 06 |
 | **[Exactech](http://www.exac.com)** | **[Legal and Compliance - Intern](https://jobright.ai/jobs/info/69fbede93802c7621fd8df0c?utm_campaign=1055&utm_source=git)** | Gainesville, FL | On Site | May 06 |
-| **[NiCE](http://nice.com)** | **[Legal Intern, Actimize](https://jobright.ai/jobs/info/69fbf00b2f9f6b7cf690feec?utm_campaign=1055&utm_source=git)** | USA - Hoboken, NJ | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
