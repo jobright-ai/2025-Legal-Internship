@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SHA Sports](https://shahouseagency.com)** | **[Compliance intern](https://jobright.ai/jobs/info/6a02147fc2ffb31f453698c3?utm_campaign=1055&utm_source=git)** | Miami, FL | Remote | May 11 |
+| **[Novo Holdings](http://www.novoholdings.dk)** | **[Legal Intern, Novo Holdings](https://jobright.ai/jobs/info/6a020ebadf52f1450d8470d5?utm_campaign=1055&utm_source=git)** | San Francisco, California, United States | On Site | May 11 |
+| **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Internship - FALL 2026 - MDT (CJ/Criminology)](https://jobright.ai/jobs/info/6a020b53238f143e835301c7?utm_campaign=1055&utm_source=git)** | Omaha,NE,US | On Site | May 11 |
+| **[Capital Credit Union](https://www.capcu.org/)** | **[Risk Management and Compliance Intern](https://jobright.ai/jobs/info/6a0209d5c4b08448a0b22634?utm_campaign=1055&utm_source=git)** | Bismarck, ND 58501, USA | On Site | May 11 |
 | **[Moskowitz Legal Group, LLP](http://moskowitzlegalgroup.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6a01f415238f143e8352f5dc?utm_campaign=1055&utm_source=git)** | Hewlett, NY | On Site | May 11 |
 | **[Segra](https://www.segra.com/)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a01ed32fa1aa73213d95737?utm_campaign=1055&utm_source=git)** | Kansas City, MO, USA | On Site | May 11 |
 | **[INX International Ink Co.](https://www.inxinternational.com)** | **[Intern Regulatory Affairs](https://jobright.ai/jobs/info/69fbef843160b250eb1ba7d4?utm_campaign=1055&utm_source=git)** | West Chicago, IL | On Site | May 11 |
 | **[arrivia](https://www.arrivia.com/)** | **[Legal Operations & Contract Intern](https://jobright.ai/jobs/info/6a0149aa74b5407dd467b618?utm_campaign=1055&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 10 |
+| **[Super.com](https://www.super.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0207d83053db70a1173fb5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
+| ↳ | **[Fraud Analyst Intern](https://jobright.ai/jobs/info/6a0207dd238f143e8352ffa5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Fellow (Fall 2026 Start - 12 months)](https://jobright.ai/jobs/info/69a13da781476f6176bb9f34?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 10 |
 | **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | May 10 |
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Compliance Assistant Intern](https://jobright.ai/jobs/info/69f4cd0881706a5bd2163220?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | May 10 |
@@ -126,7 +132,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Intern Legal Affairs](https://jobright.ai/jobs/info/69fcbdc46b788e7e7a5c21f4?utm_campaign=1055&utm_source=git)** | Greenville, SC, US | On Site | May 07 |
 | ↳ | **[Paid Intern - Regulatory Technology - East Coast](https://jobright.ai/jobs/info/69fcbda46b788e7e7a5c21f0?utm_campaign=1055&utm_source=git)** | United States | Remote | May 07 |
 | ↳ | **[Intern - Corporate Legal](https://jobright.ai/jobs/info/69fcbd0e432a3c4da8dfe9f6?utm_campaign=1055&utm_source=git)** | TX, US | On Site | May 07 |
-| **[Edgewell Personal Care](http://edgewell.com)** | **[Intern, Legal Undergrad](https://jobright.ai/jobs/info/69fcbb45b113035a9f8eb316?utm_campaign=1055&utm_source=git)** | Shelton, CT | Hybrid | May 07 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/69c37b82753c101b21574e72?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | May 07 |
 | **[SCOR](https://www.scor.com)** | **[US Life Legal Intern](https://jobright.ai/jobs/info/69fca785432a3c4da8dfe4f3?utm_campaign=1055&utm_source=git)** | 101 South Tryon Street, Charlotte, NC, 28280, US | Hybrid | May 07 |
 | **[StarCompliance](http://www.starcompliance.com)** | **[Paid Intern - Regulatory Technology - East Coast](https://jobright.ai/jobs/info/69fca747432a3c4da8dfe495?utm_campaign=1055&utm_source=git)** | US Remote | Remote | May 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern, Actimize](https://jobright.ai/jobs/info/69fc318f3802c7621fd90096?utm_campaign=1055&utm_source=git)** | Hoboken, NJ, US | Hybrid | May 06 |
 | **[BeiGene](https://www.beigene.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/69fc46856e32960ebbbe8433?utm_campaign=1055&utm_source=git)** | Remote (US), US | Remote | May 06 |
 | **[NiCE](http://nice.com)** | **[Legal Intern, Actimize](https://jobright.ai/jobs/info/69fc312476c60e7b70af2722?utm_campaign=1055&utm_source=git)** | Hoboken, NJ | On Site | May 06 |
-| **[Ad Populum](https://adpopulumllc.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69fbee7aa5949019c55b1944?utm_campaign=1055&utm_source=git)** | United States | Remote | May 06 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Rights Management Intern](https://jobright.ai/jobs/info/69fc16643160b250eb1bc219?utm_campaign=1055&utm_source=git)** | Remote (United States) | Remote | May 06 |
-| **[Toromont Cat](https://www.toromontcat.com/)** | **[Intern - Customs Analyst](https://jobright.ai/jobs/info/69fbfbef3802c7621fd8ecf1?utm_campaign=1055&utm_source=git)** | Vaughan, Ontario, Canada | Hybrid | May 06 |
-| **[SUN PHARMA](http://www.sunpharma.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/69fc0f1ba5949019c55b2eea?utm_campaign=1055&utm_source=git)** | Brampton, ON, CA | On Site | May 06 |
-| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69fbf6d076c60e7b70af128d?utm_campaign=1055&utm_source=git)** | Cerritos, CA | Hybrid | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
