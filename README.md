@@ -69,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Segra](https://www.segra.com/)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a01ed32fa1aa73213d95737?utm_campaign=1055&utm_source=git)** | Kansas City, MO, USA | On Site | May 11 |
 | **[INX International Ink Co.](https://www.inxinternational.com)** | **[Intern Regulatory Affairs](https://jobright.ai/jobs/info/69fbef843160b250eb1ba7d4?utm_campaign=1055&utm_source=git)** | West Chicago, IL | On Site | May 11 |
 | **[arrivia](https://www.arrivia.com/)** | **[Legal Operations & Contract Intern](https://jobright.ai/jobs/info/6a0149aa74b5407dd467b618?utm_campaign=1055&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 10 |
-| **[Super.com](https://www.super.com)** | **[Fraud Analyst Intern](https://jobright.ai/jobs/info/6a0207dd238f143e8352ffa5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0207d83053db70a1173fb5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
+| **[Super.com](https://www.super.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0207d83053db70a1173fb5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
+| ↳ | **[Fraud Analyst Intern](https://jobright.ai/jobs/info/6a0207dd238f143e8352ffa5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Fellow (Fall 2026 Start - 12 months)](https://jobright.ai/jobs/info/69a13da781476f6176bb9f34?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 10 |
 | **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | May 10 |
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Compliance Assistant Intern](https://jobright.ai/jobs/info/69f4cd0881706a5bd2163220?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | May 10 |
