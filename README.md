@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[arrivia](https://www.arrivia.com/)** | **[Legal Operations & Contract Intern](https://jobright.ai/jobs/info/6a0149aa74b5407dd467b618?utm_campaign=1055&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 10 |
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Compliance Assistant Intern](https://jobright.ai/jobs/info/69f4cd0881706a5bd2163220?utm_campaign=1055&utm_source=git)** | St. Petersburg, FL | On Site | May 10 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Regulatory](https://jobright.ai/jobs/info/6972969f4ccbf64f8df290a8?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 10 |
+| **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Procurement & Contract Analytics Intern](https://jobright.ai/jobs/info/69c2d10794007a2195decf2d?utm_campaign=1055&utm_source=git)** | Montvale, NJ | On Site | May 10 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efbb3a0a6e095553056f5c?utm_campaign=1055&utm_source=git)** | Boise, ID | Hybrid | May 09 |
 | ↳ | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efc5f4fbe0994a40eb8666?utm_campaign=1055&utm_source=git)** | Vancouver, WA | Hybrid | May 09 |
 | ↳ | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efbdd016b2612c2a12b87f?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | Hybrid | May 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Keros Therapeutics](http://kerostx.com/)** | **[Legal Intern - Fall (September-December)](https://jobright.ai/jobs/info/69fbef74c39b9a66c0c5551e?utm_campaign=1055&utm_source=git)** | Lexington, MA | On Site | May 06 |
 | **[Exactech](http://www.exac.com)** | **[Legal and Compliance - Intern](https://jobright.ai/jobs/info/69fbede93802c7621fd8df0c?utm_campaign=1055&utm_source=git)** | Gainesville, FL | On Site | May 06 |
 | **[NiCE](http://nice.com)** | **[Legal Intern, Actimize](https://jobright.ai/jobs/info/69fbf00b2f9f6b7cf690feec?utm_campaign=1055&utm_source=git)** | USA - Hoboken, NJ | On Site | May 06 |
-| **[Great Plains Tribal Health](https://www.gptchb.org)** | **[Legal Intern](https://jobright.ai/jobs/info/69fbef50a5949019c55b1b4e?utm_campaign=1055&utm_source=git)** | Administration, Central Office, Rapid City, SD, US | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
