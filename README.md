@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Phibro Animal Health](http://www.pahc.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a024b55df52f1450d84981c?utm_campaign=1055&utm_source=git)** | US - Teaneck, NJ | On Site | May 11 |
+| **[The AES Corporation](https://www.aes.com)** | **[Legal Intern-2](https://jobright.ai/jobs/info/69fb3d8f18b94b2515be0c7c?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 11 |
 | **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Procurement & Contract Analytics Intern](https://jobright.ai/jobs/info/69c2d10794007a2195decf2d?utm_campaign=1055&utm_source=git)** | Montvale, NJ | On Site | May 11 |
 | **[SAG-AFTRA](http://www.sagaftra.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a022fc8df52f1450d8484d0?utm_campaign=1055&utm_source=git)** | US-CA-Los Angeles | On Site | May 11 |
 | **[Consensus Health](http://www.consensushealth.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a022554fa1aa73213d96fba?utm_campaign=1055&utm_source=git)** | Continuum Health Alliance, LLC, US | On Site | May 11 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Internship - FALL 2026 - MDT (CJ/Criminology)](https://jobright.ai/jobs/info/6a020b53238f143e835301c7?utm_campaign=1055&utm_source=git)** | Omaha,NE,US | On Site | May 11 |
 | **[Capital Credit Union](https://www.capcu.org/)** | **[Risk Management and Compliance Intern](https://jobright.ai/jobs/info/6a0209d5c4b08448a0b22634?utm_campaign=1055&utm_source=git)** | Bismarck, ND 58501, USA | On Site | May 11 |
 | **[Segra](https://www.segra.com/)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a01ed32fa1aa73213d95737?utm_campaign=1055&utm_source=git)** | Kansas City, MO, USA | On Site | May 11 |
+| **[arrivia](https://www.arrivia.com/)** | **[Legal Operations & Contract Intern](https://jobright.ai/jobs/info/6a02e38bbc4184089f22d09a?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | May 11 |
 | **[INX International Ink Co.](https://www.inxinternational.com)** | **[Intern Regulatory Affairs](https://jobright.ai/jobs/info/69fbef843160b250eb1ba7d4?utm_campaign=1055&utm_source=git)** | West Chicago, IL | On Site | May 11 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efd37816b2612c2a12bb82?utm_campaign=1055&utm_source=git)** | Portland, OR | Hybrid | May 10 |
 | **[arrivia](https://www.arrivia.com/)** | **[Legal Operations & Contract Intern](https://jobright.ai/jobs/info/6a0149aa74b5407dd467b618?utm_campaign=1055&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 10 |
@@ -92,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Cresset](https://cressetcapital.com/)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/69febc11d0dc596b8d119dff?utm_campaign=1055&utm_source=git)** | Chicago Office - Chicago, IL 60606 | On Site | May 08 |
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69febc0815859e57591cf521?utm_campaign=1055&utm_source=git)** | Denver Office - Denver, CO 80202 | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Legal Intern (Fall Semester)](https://jobright.ai/jobs/info/69fe9aa4f363bc4dc339f713?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
-| **[The AES Corporation](https://www.aes.com)** | **[Legal Intern-2](https://jobright.ai/jobs/info/69fb3d8f18b94b2515be0c7c?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 08 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Office of Policy and Compliance (OPC) Graduate Intern](https://jobright.ai/jobs/info/69fe96eb6bcf315dc8f5844c?utm_campaign=1055&utm_source=git)** | QUEENS | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/69fe829e6bcf315dc8f5814d?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
 | **[Lawyering Project](https://lawyeringproject.org)** | **[Legal Intern (Fall Semester)](https://jobright.ai/jobs/info/69fe748f4b9bbf21744b1aad?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Regulatory Affairs](https://jobright.ai/jobs/info/69fc3ae02275c9640f52cc81?utm_campaign=1055&utm_source=git)** | West Chicago, IL, US | On Site | May 06 |
 | ↳ | **[Legal Intern - Fall (September-December)](https://jobright.ai/jobs/info/69fc3899cbdf932e930a1b09?utm_campaign=1055&utm_source=git)** | Lexington, MA, US | Hybrid | May 06 |
 | ↳ | **[2026 Risk Management Internship](https://jobright.ai/jobs/info/69fc34c1cbdf932e930a1aae?utm_campaign=1055&utm_source=git)** | NY, US | On Site | May 06 |
-| ↳ | **[Legal Intern, Actimize](https://jobright.ai/jobs/info/69fc318f3802c7621fd90096?utm_campaign=1055&utm_source=git)** | Hoboken, NJ, US | Hybrid | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
