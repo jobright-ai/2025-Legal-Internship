@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NorthRock Partners](https://www.northrockpartners.com/)** | **[Advisor Practice Intern](https://jobright.ai/jobs/info/6a03935522395b6dc6d963ae?utm_campaign=1055&utm_source=git)** | Shorewood, IL 60404, USA | On Site | May 12 |
 | **[EmPRO Insurance](https://www.myempro.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/69e681d3e0cd471b2f12626f?utm_campaign=1055&utm_source=git)** | Roslyn, NY | On Site | May 12 |
 | **[Energy Fuels Inc](https://www.energyfuels.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/6a038e1b7c753c287f6e82ff?utm_campaign=1055&utm_source=git)** | Lakewood, CO, US | On Site | May 12 |
-| **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027/28 Articling Student - Senior Counsel, Family (Ottawa) - French Bilingual](https://jobright.ai/jobs/info/6a038e0dbc4184089f2338e2?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 12 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, Environmental Compliance (Year-Round)](https://jobright.ai/jobs/info/69cac7741b5ad028873a4bf3?utm_campaign=1055&utm_source=git)** | Melville, NY | On Site | May 12 |
 | **[Carson Group](https://www.carsongroup.com/)** | **[Risk Management Internship/Recent Grad!](https://jobright.ai/jobs/info/69e746f0e0cd471b2f12aab8?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | May 12 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Graduate Year-Round - Technology Partnerships Agreements, Licensing, & Intellectual Property (IP), Onsite](https://jobright.ai/jobs/info/6a036afc6c07461fe1703934?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | On Site | May 12 |
@@ -101,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[arrivia](https://www.arrivia.com/)** | **[Legal Operations & Contract Intern](https://jobright.ai/jobs/info/6a02e38bbc4184089f22d09a?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | May 11 |
 | **[INX International Ink Co.](https://www.inxinternational.com)** | **[Intern Regulatory Affairs](https://jobright.ai/jobs/info/69fbef843160b250eb1ba7d4?utm_campaign=1055&utm_source=git)** | West Chicago, IL | On Site | May 11 |
 | **[arrivia](https://www.arrivia.com/)** | **[Legal Operations & Contract Intern](https://jobright.ai/jobs/info/6a0149aa74b5407dd467b618?utm_campaign=1055&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 10 |
-| **[Super.com](https://www.super.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0207d83053db70a1173fb5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
-| ↳ | **[Fraud Analyst Intern](https://jobright.ai/jobs/info/6a0207dd238f143e8352ffa5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
+| **[Super.com](https://www.super.com)** | **[Fraud Analyst Intern](https://jobright.ai/jobs/info/6a0207dd238f143e8352ffa5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0207d83053db70a1173fb5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Fellow (Fall 2026 Start - 12 months)](https://jobright.ai/jobs/info/69a13da781476f6176bb9f34?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 10 |
 | **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | May 10 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/6a02c182ed6a637463f48cb6?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | May 10 |
