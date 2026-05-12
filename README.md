@@ -81,7 +81,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/69efd38de624fe645d533802?utm_campaign=1055&utm_source=git)** | Renton, WA | Hybrid | May 09 |
 | **[Resonant Clinical Solutions](https://resonantclinical.com)** | **[Legal and Contracts Intern](https://jobright.ai/jobs/info/69fae8f338179b6f1ae7396b?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | On Site | May 09 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Fraud Risk)](https://jobright.ai/jobs/info/69ff238dc4b08448a0b16a0a?utm_campaign=1055&utm_source=git)** | MANHATTAN | On Site | May 09 |
-| **[The AES Corporation](https://www.aes.com)** | **[Legal Intern-1](https://jobright.ai/jobs/info/69fb6151d21cf86d1e3d28b3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 09 |
 | **[Accuray](http://www.accuray.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69c55f4ce565c26a7000ec6f?utm_campaign=1055&utm_source=git)** | Madison, WI | On Site | May 09 |
 | **[A 2nd Chance Bail Bonds](https://www.a2ndchancebailbonds.com/)** | **[Monitoring Intern](https://jobright.ai/jobs/info/69febc901161630dd3b0408a?utm_campaign=1055&utm_source=git)** | Atlanta, GA 30318 | On Site | May 08 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Corporate Legal Intern  (959)](https://jobright.ai/jobs/info/69febc5b373fc1347f2d0a62?utm_campaign=1055&utm_source=git)** | Doral, FL 33122 | On Site | May 08 |
@@ -124,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Lakewood Cemetery](https://www.lakewoodcemetery.org/)** | **[Variable Judicial Legal Research Intern](https://jobright.ai/jobs/info/69fd0952666f063d3d6d2ab9?utm_campaign=1055&utm_source=git)** | Lakewood, CO, US | On Site | May 07 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Contract Specialist Intern](https://jobright.ai/jobs/info/69fd0951666f063d3d6d2ab5?utm_campaign=1055&utm_source=git)** | OAV N, CA | On Site | May 07 |
 | **[Henny Penny](http://hennypenny.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/69fcee965cff890b03f34bb0?utm_campaign=1055&utm_source=git)** | Eaton, OH (Headquarters), US | On Site | May 07 |
-| **[Nachawati Law Group](http://fnlawfirm.com)** | **[Summer Associate Internship](https://jobright.ai/jobs/info/69ff839ac2ffb31f4535f339?utm_campaign=1055&utm_source=git)** | Dallas,TX,US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Legal Undergrad (Summer 2026)](https://jobright.ai/jobs/info/69fcd9fc666f063d3d6d12cb?utm_campaign=1055&utm_source=git)** | Shelton, CT, US | Hybrid | May 07 |
 | ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69fcd8f1b113035a9f8ec194?utm_campaign=1055&utm_source=git)** | United States | Remote | May 07 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Legal Summer Internship / Nutley, NJ, USA](https://jobright.ai/jobs/info/69e05a16b20fd532b4ae0eee?utm_campaign=1055&utm_source=git)** | Nutley, NJ | On Site | May 07 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Risk Management Internship](https://jobright.ai/jobs/info/69fc34c1cbdf932e930a1aae?utm_campaign=1055&utm_source=git)** | NY, US | On Site | May 06 |
 | ↳ | **[Legal Intern, Actimize](https://jobright.ai/jobs/info/69fc318f3802c7621fd90096?utm_campaign=1055&utm_source=git)** | Hoboken, NJ, US | Hybrid | May 06 |
 | **[BeiGene](https://www.beigene.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/69fc46856e32960ebbbe8433?utm_campaign=1055&utm_source=git)** | Remote (US), US | Remote | May 06 |
+| **[NiCE](http://nice.com)** | **[Legal Intern, Actimize](https://jobright.ai/jobs/info/69fc312476c60e7b70af2722?utm_campaign=1055&utm_source=git)** | Hoboken, NJ | On Site | May 06 |
+| **[Ad Populum](https://adpopulumllc.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69fbee7aa5949019c55b1944?utm_campaign=1055&utm_source=git)** | United States | Remote | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
