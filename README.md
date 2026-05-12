@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Law Offices of Sabrina Li, P.C.](https://www.sabrinali.law/)** | **[Bilingual Legal Intern (Mandarin)](https://jobright.ai/jobs/info/6a0360c5f3d6cc51d637613f?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | May 12 |
+| ↳ | **[Bilingual Legal Intern (Mandarin)](https://jobright.ai/jobs/info/6a035aa422395b6dc6d93cea?utm_campaign=1055&utm_source=git)** | Santa Ana, California, United States | On Site | May 12 |
+| ↳ | **[Bilingual Legal Intern (Mandarin)](https://jobright.ai/jobs/info/6a035aa322395b6dc6d93ce9?utm_campaign=1055&utm_source=git)** | Pasadena, California, United States | On Site | May 12 |
+| ↳ | **[Bilingual Legal Intern (Mandarin)](https://jobright.ai/jobs/info/6a035aa222395b6dc6d93ce8?utm_campaign=1055&utm_source=git)** | Dallas, Texas, United States | On Site | May 12 |
 | **[Bexar County Information Technology](http://www.bexar.org/it)** | **[Legal Intern - District Attorney](https://jobright.ai/jobs/info/6a034e8c7c753c287f6e59d6?utm_campaign=1055&utm_source=git)** | Paul Elizondo Tower, US | On Site | May 12 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - Compliance Training and Technology](https://jobright.ai/jobs/info/6a0342926c07461fe1702570?utm_campaign=1055&utm_source=git)** | Okemos, MI | Hybrid | May 12 |
 | **[Haleon](http://www.haleon.com/)** | **[Corporate Affairs Associate (12-month internship)](https://jobright.ai/jobs/info/69e7a2b4e0cd471b2f12cb24?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 12 |
@@ -71,11 +75,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a024b55df52f1450d84981c?utm_campaign=1055&utm_source=git)** | US - Teaneck, NJ | On Site | May 11 |
 | **[Womble Bond Dickinson (US) LLP](https://www.womblebonddickinson.com/us)** | **[Legal Intern](https://jobright.ai/jobs/info/6a030adced6a637463f4bd41?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | May 11 |
 | **[Ritchie Bros.](http://www.rbauction.com)** | **[Intern](https://jobright.ai/jobs/info/6a030c3222395b6dc6d90850?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | May 11 |
-| **[SAG-AFTRA](http://www.sagaftra.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a030bc46c07461fe16ffd20?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | May 11 |
 | **[The AES Corporation](https://www.aes.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69fb3d8f18b94b2515be0c7c?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 11 |
 | **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Procurement & Contract Analytics Intern](https://jobright.ai/jobs/info/69c2d10794007a2195decf2d?utm_campaign=1055&utm_source=git)** | Montvale, NJ | On Site | May 11 |
 | **[Bond, Schoeneck & King PLLC](https://www.bsk.com/)** | **[2027 Summer Law Clerk](https://jobright.ai/jobs/info/6a03114fed6a637463f4c5a7?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | May 11 |
-| **[SAG-AFTRA](http://www.sagaftra.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a022fc8df52f1450d8484d0?utm_campaign=1055&utm_source=git)** | US-CA-Los Angeles | On Site | May 11 |
 | **[Consensus Health](http://www.consensushealth.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a022554fa1aa73213d96fba?utm_campaign=1055&utm_source=git)** | Continuum Health Alliance, LLC, US | On Site | May 11 |
 | **[Foundation Finance Company Careers](https://careers.foundationfinance.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0304aced6a637463f4b8c8?utm_campaign=1055&utm_source=git)** | Rothschild, WI | On Site | May 11 |
 | **[Stikeman Elliott LLP](http://www.stikeman.com/)** | **[Stagiaire, Adjoint(e) juridique / Intern, Legal Administrative Assistant](https://jobright.ai/jobs/info/6a030a917c753c287f6e2d1c?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 11 |
@@ -84,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Capital Credit Union](https://www.capcu.org/)** | **[Risk Management and Compliance Intern](https://jobright.ai/jobs/info/6a0209d5c4b08448a0b22634?utm_campaign=1055&utm_source=git)** | Bismarck, ND 58501, USA | On Site | May 11 |
 | **[Novo Holdings](http://www.novoholdings.dk)** | **[Legal Intern, Novo Holdings](https://jobright.ai/jobs/info/6a02ff2622395b6dc6d8fa4f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | May 11 |
 | **[Super.com](https://www.super.com)** | **[Fraud Analyst Intern](https://jobright.ai/jobs/info/6a02ff5b22395b6dc6d8fb30?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 11 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a03034a6c07461fe16ff7b4?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 11 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a03034b7c753c287f6e28dc?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 11 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a03034a6c07461fe16ff7b4?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 11 |
 | ↳ | **[Fraud Analyst Intern](https://jobright.ai/jobs/info/6a0303c722395b6dc6d9009f?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 11 |
 | **[Segra](https://www.segra.com/)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a01ed32fa1aa73213d95737?utm_campaign=1055&utm_source=git)** | Kansas City, MO, USA | On Site | May 11 |
 | **[arrivia](https://www.arrivia.com/)** | **[Legal Operations & Contract Intern](https://jobright.ai/jobs/info/6a02e38bbc4184089f22d09a?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | May 11 |
@@ -124,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Contracted Student Intern - Human Rights](https://jobright.ai/jobs/info/69fe4a2d6bcf315dc8f56a22?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-25 Staniford Street | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Contracts & Compliance (Tech & Data Focus)](https://jobright.ai/jobs/info/69fe48c27714cd50b9100067?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
 | **[TransPerfect](http://www.transperfect.com)** | **[General Counsel Intern](https://jobright.ai/jobs/info/69feb2ab1161630dd3b01ae3?utm_campaign=1055&utm_source=git)** | US-New York, NY (1250 Broadway), US | On Site | May 08 |
-| **[U.S. Bank](http://www.usbank.com)** | **[Paralegal](https://jobright.ai/jobs/info/69fbde05d21cf86d1e3d583c?utm_campaign=1055&utm_source=git)** | Earth City, MO | On Site | May 08 |
 | **[Fenwick & West](http://fenwick.com)** | **[Social Impact and Pro Bono Intern](https://jobright.ai/jobs/info/69fe3a2f7714cd50b90fef1a?utm_campaign=1055&utm_source=git)** | Silicon Valley, US | Hybrid | May 08 |
 | ↳ | **[Social Impact and Pro Bono Intern](https://jobright.ai/jobs/info/69fe3a2df363bc4dc339c5a9?utm_campaign=1055&utm_source=git)** | San Francisco, US | Hybrid | May 08 |
 | **[CONFLUX SYSTEMS](https://www.confluxsystems.com)** | **[Customs Intern](https://jobright.ai/jobs/info/69fe3991f363bc4dc339c572?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SCOR](https://www.scor.com)** | **[US Life Legal Intern](https://jobright.ai/jobs/info/69fca785432a3c4da8dfe4f3?utm_campaign=1055&utm_source=git)** | 101 South Tryon Street, Charlotte, NC, 28280, US | Hybrid | May 07 |
 | **[StarCompliance](http://www.starcompliance.com)** | **[Paid Intern - Regulatory Technology - East Coast](https://jobright.ai/jobs/info/69fca747432a3c4da8dfe495?utm_campaign=1055&utm_source=git)** | US Remote | Remote | May 07 |
 | ↳ | **[Paid Intern - Regulatory Technology - East Coast](https://jobright.ai/jobs/info/69fcc8d0666f063d3d6d0a0b?utm_campaign=1055&utm_source=git)** | United States | Remote | May 07 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[SUMMER GRADUATE INTERN](https://jobright.ai/jobs/info/69fcc266b113035a9f8eb725?utm_campaign=1055&utm_source=git)** | MANHATTAN | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
