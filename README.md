@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EmPRO Insurance](https://www.myempro.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/69e681d3e0cd471b2f12626f?utm_campaign=1055&utm_source=git)** | Roslyn, NY | On Site | May 12 |
+| **[Energy Fuels Inc](https://www.energyfuels.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/6a038e1b7c753c287f6e82ff?utm_campaign=1055&utm_source=git)** | Lakewood, CO, US | On Site | May 12 |
+| **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027/28 Articling Student - Senior Counsel, Family (Ottawa) - French Bilingual](https://jobright.ai/jobs/info/6a038e0dbc4184089f2338e2?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 12 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, Environmental Compliance (Year-Round)](https://jobright.ai/jobs/info/69cac7741b5ad028873a4bf3?utm_campaign=1055&utm_source=git)** | Melville, NY | On Site | May 12 |
 | **[Carson Group](https://www.carsongroup.com/)** | **[Risk Management Internship/Recent Grad!](https://jobright.ai/jobs/info/69e746f0e0cd471b2f12aab8?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | May 12 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Graduate Year-Round - Technology Partnerships Agreements, Licensing, & Intellectual Property (IP), Onsite](https://jobright.ai/jobs/info/6a036afc6c07461fe1703934?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | On Site | May 12 |
@@ -133,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[School Specialty](http://www.schoolspecialty.com)** | **[Legal Intern- General Corporate Law (6 Week Internship- Remote)](https://jobright.ai/jobs/info/69fe15447714cd50b90fe1d5?utm_campaign=1055&utm_source=git)** | Downers Grove, IL 60515, USA | Remote | May 08 |
 | **[Acuity Politics, LLC](https://www.acuitypolitics.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69fe147952e2b44f558ae583?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 08 |
 | **[Capital Vacations](https://www.capitalvacations.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69fe0dbe4b9bbf21744ae143?utm_campaign=1055&utm_source=git)** | Myrtle Beach, SC | On Site | May 08 |
-| **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Trust Intern](https://jobright.ai/jobs/info/69e149b6acc736112f5c2f1c?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Paid Intern - Regulatory Technology](https://jobright.ai/jobs/info/69fdf23f7714cd50b90fd24f?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
 | **[Greenworks](http://greenworkstools.com)** | **[Legal Counsel Internship](https://jobright.ai/jobs/info/69fdf1b17714cd50b90fd1fd?utm_campaign=1055&utm_source=git)** | Mooresville, NC | On Site | May 08 |
 | **[Advisor360°](https://www.advisor360.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69e15e54ff71e82d604b6885?utm_campaign=1055&utm_source=git)** | Needham, MA | Hybrid | May 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Corporate Legal](https://jobright.ai/jobs/info/69fcbd0e432a3c4da8dfe9f6?utm_campaign=1055&utm_source=git)** | TX, US | On Site | May 07 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/69c37b82753c101b21574e72?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | May 07 |
 | **[SCOR](https://www.scor.com)** | **[US Life Legal Intern](https://jobright.ai/jobs/info/69fca785432a3c4da8dfe4f3?utm_campaign=1055&utm_source=git)** | 101 South Tryon Street, Charlotte, NC, 28280, US | Hybrid | May 07 |
-| **[StarCompliance](http://www.starcompliance.com)** | **[Paid Intern - Regulatory Technology - East Coast](https://jobright.ai/jobs/info/69fca747432a3c4da8dfe495?utm_campaign=1055&utm_source=git)** | US Remote | Remote | May 07 |
-| ↳ | **[Paid Intern - Regulatory Technology - East Coast](https://jobright.ai/jobs/info/69fcc8d0666f063d3d6d0a0b?utm_campaign=1055&utm_source=git)** | United States | Remote | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
