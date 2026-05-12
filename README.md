@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Future Secure AI](https://futuresecure.ai/)** | **[General Counsel Intern](https://jobright.ai/jobs/info/6a03ac38bc4184089f234de0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[NorthRock Partners](https://www.northrockpartners.com/)** | **[Advisor Practice Intern](https://jobright.ai/jobs/info/6a03935522395b6dc6d963ae?utm_campaign=1055&utm_source=git)** | Shorewood, IL 60404, USA | On Site | May 12 |
 | **[EmPRO Insurance](https://www.myempro.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/69e681d3e0cd471b2f12626f?utm_campaign=1055&utm_source=git)** | Roslyn, NY | On Site | May 12 |
 | **[Energy Fuels Inc](https://www.energyfuels.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/6a038e1b7c753c287f6e82ff?utm_campaign=1055&utm_source=git)** | Lakewood, CO, US | On Site | May 12 |
@@ -74,8 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Haleon](http://www.haleon.com/)** | **[Corporate Affairs Associate (12-month internship)](https://jobright.ai/jobs/info/69e7a2b4e0cd471b2f12cb24?utm_campaign=1055&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 12 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, AML High Risk Client Management Intern (4 Months - Bedford, NS & Toronto, ON)](https://jobright.ai/jobs/info/69e681ede0cd471b2f126312?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 12 |
 | **[EarthRights International](https://www.earthrights.org/)** | **[U.S. Fall Legal Internship](https://jobright.ai/jobs/info/6a033efb6c07461fe170230f?utm_campaign=1055&utm_source=git)** | REMOTE-United States | Remote | May 12 |
-| **[Rosie’s Gaming and Colonial Downs](http://www.colonialdowns.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a033da7bc4184089f2307a0?utm_campaign=1055&utm_source=git)** | LA Fairgrounds, New Orleans | On Site | May 12 |
-| **[EarthRights International](https://www.earthrights.org/)** | **[Fall Legal Intern](https://jobright.ai/jobs/info/6a03445cf3d6cc51d637516b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 12 |
+| ↳ | **[Fall Legal Intern](https://jobright.ai/jobs/info/6a03445cf3d6cc51d637516b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 12 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - Compliance Training and Technology](https://jobright.ai/jobs/info/6a031c727c753c287f6e3cbd?utm_campaign=1055&utm_source=git)** | Okemos, MI, US | Hybrid | May 12 |
 | **[Resonant Clinical Solutions](https://resonantclinical.com)** | **[Legal and Contracts Intern](https://jobright.ai/jobs/info/69fae8f338179b6f1ae7396b?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | On Site | May 12 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Records Management Intern](https://jobright.ai/jobs/info/6a032de06c07461fe1701328?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | May 11 |
@@ -94,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Capital Credit Union](https://www.capcu.org/)** | **[Risk Management and Compliance Intern](https://jobright.ai/jobs/info/6a0209d5c4b08448a0b22634?utm_campaign=1055&utm_source=git)** | Bismarck, ND 58501, USA | On Site | May 11 |
 | **[Novo Holdings](http://www.novoholdings.dk)** | **[Legal Intern, Novo Holdings](https://jobright.ai/jobs/info/6a02ff2622395b6dc6d8fa4f?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | May 11 |
 | **[Super.com](https://www.super.com)** | **[Fraud Analyst Intern](https://jobright.ai/jobs/info/6a02ff5b22395b6dc6d8fb30?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 11 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a03034b7c753c287f6e28dc?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 11 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a03034a6c07461fe16ff7b4?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 11 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a03034b7c753c287f6e28dc?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 11 |
 | ↳ | **[Fraud Analyst Intern](https://jobright.ai/jobs/info/6a0303c722395b6dc6d9009f?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 11 |
 | **[Segra](https://www.segra.com/)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a01ed32fa1aa73213d95737?utm_campaign=1055&utm_source=git)** | Kansas City, MO, USA | On Site | May 11 |
 | **[arrivia](https://www.arrivia.com/)** | **[Legal Operations & Contract Intern](https://jobright.ai/jobs/info/6a02e38bbc4184089f22d09a?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | May 11 |
