@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cloudflare Area 1 Security](https://www.area1security.com/)** | **[Legal Intern – Policy & Public Sector (AI & Cybersecurity Focus) (Summer 2026)](https://jobright.ai/jobs/info/6a041c107c753c287f6ecf7b?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 12 |
+| ↳ | **[Global Trade Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0419e022395b6dc6d9aa39?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | May 12 |
 | **[Rectangle Health](https://www.rectanglehealth.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a03c5fb7c753c287f6ea3cc?utm_campaign=1055&utm_source=git)** | Valhalla, New York, United States, Remote | Remote | May 12 |
 | **[NYC Public Schools](https://www.schools.nyc.gov/)** | **[Office of General Counsel - Special Education Case Management (SECM) Law Student Intern (Graduate) - 26426](https://jobright.ai/jobs/info/6a03c42922395b6dc6d97c17?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
 | **[Future Secure AI](https://futuresecure.ai/)** | **[General Counsel Intern](https://jobright.ai/jobs/info/6a03ac38bc4184089f234de0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 12 |
@@ -81,10 +83,10 @@ For a complete list, click the following sortable link below:
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - Compliance Training and Technology](https://jobright.ai/jobs/info/6a031c727c753c287f6e3cbd?utm_campaign=1055&utm_source=git)** | Okemos, MI, US | Hybrid | May 12 |
 | **[Resonant Clinical Solutions](https://resonantclinical.com)** | **[Legal and Contracts Intern](https://jobright.ai/jobs/info/69fae8f338179b6f1ae7396b?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | On Site | May 12 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Records Management Intern](https://jobright.ai/jobs/info/6a032de06c07461fe1701328?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | May 11 |
-| **[St. Michael's Inc.](http://www.stmichaelsinc.com)** | **[Data Management and Compliance Intern](https://jobright.ai/jobs/info/6a0410c2f3d6cc51d637c0cf?utm_campaign=1055&utm_source=git)** | Woodbridge, VA | On Site | May 11 |
+| **[Stewart Title](https://www.stewart.com/)** | **[Escrow Operations Intern](https://jobright.ai/jobs/info/6a0419516c07461fe1709d8d?utm_campaign=1055&utm_source=git)** | Brookfield, WI | On Site | May 11 |
 | **[Ritchie Bros.](http://www.rbauction.com)** | **[Intern](https://jobright.ai/jobs/info/6a040f90f811a043696073af?utm_campaign=1055&utm_source=git)** | Westchester, IL | Hybrid | May 11 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/6a04143722395b6dc6d9a194?utm_campaign=1055&utm_source=git)** | Southfield, MI | Remote | May 11 |
 | **[State of New Hampshire](https://www.oplc.nh.gov/board-accountancy)** | **[LEGAL AIDE INTERN](https://jobright.ai/jobs/info/6a03c5777c753c287f6ea207?utm_campaign=1055&utm_source=git)** | New Hampshire, United States | On Site | May 11 |
-| **[Procter & Gamble](https://us.pg.com/)** | **[2027 Legal Patent 2L Summer Intern](https://jobright.ai/jobs/info/6a040ec3f3d6cc51d637baac?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | May 11 |
 | **[Phibro Animal Health](http://www.pahc.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a03115a22395b6dc6d90fd3?utm_campaign=1055&utm_source=git)** | Teaneck, NJ | On Site | May 11 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a024b55df52f1450d84981c?utm_campaign=1055&utm_source=git)** | US - Teaneck, NJ | On Site | May 11 |
 | **[Womble Bond Dickinson (US) LLP](https://www.womblebonddickinson.com/us)** | **[Legal Intern](https://jobright.ai/jobs/info/6a030adced6a637463f4bd41?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | May 11 |
@@ -134,8 +136,7 @@ For a complete list, click the following sortable link below:
 | **[TransPerfect](http://www.transperfect.com)** | **[General Counsel Intern](https://jobright.ai/jobs/info/69feb2ab1161630dd3b01ae3?utm_campaign=1055&utm_source=git)** | US-New York, NY (1250 Broadway), US | On Site | May 08 |
 | **[Fenwick & West](http://fenwick.com)** | **[Social Impact and Pro Bono Intern](https://jobright.ai/jobs/info/69fe3a2f7714cd50b90fef1a?utm_campaign=1055&utm_source=git)** | Silicon Valley, US | Hybrid | May 08 |
 | ↳ | **[Social Impact and Pro Bono Intern](https://jobright.ai/jobs/info/69fe3a2df363bc4dc339c5a9?utm_campaign=1055&utm_source=git)** | San Francisco, US | Hybrid | May 08 |
-| **[CONFLUX SYSTEMS](https://www.confluxsystems.com)** | **[Customs Intern](https://jobright.ai/jobs/info/69fe3991f363bc4dc339c572?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | May 08 |
-| **[Fenwick & West](http://fenwick.com)** | **[Social Impact and Pro Bono Intern](https://jobright.ai/jobs/info/69feb2871161630dd3b01a0c?utm_campaign=1055&utm_source=git)** | Seattle, US | Hybrid | May 08 |
+| ↳ | **[Social Impact and Pro Bono Intern](https://jobright.ai/jobs/info/69feb2871161630dd3b01a0c?utm_campaign=1055&utm_source=git)** | Seattle, US | Hybrid | May 08 |
 | **[School Specialty](http://www.schoolspecialty.com)** | **[Legal Intern- General Corporate Law (6 Week Internship- Remote)](https://jobright.ai/jobs/info/69fe15447714cd50b90fe1d5?utm_campaign=1055&utm_source=git)** | Downers Grove, IL 60515, USA | Remote | May 08 |
 | **[Acuity Politics, LLC](https://www.acuitypolitics.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/69fe147952e2b44f558ae583?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 08 |
 | **[Capital Vacations](https://www.capitalvacations.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69fe0dbe4b9bbf21744ae143?utm_campaign=1055&utm_source=git)** | Myrtle Beach, SC | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69fcd8f1b113035a9f8ec194?utm_campaign=1055&utm_source=git)** | United States | Remote | May 07 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Legal Summer Internship / Nutley, NJ, USA](https://jobright.ai/jobs/info/69e05a16b20fd532b4ae0eee?utm_campaign=1055&utm_source=git)** | Nutley, NJ | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Student Intern Legal Affairs](https://jobright.ai/jobs/info/69fcbdc7b113035a9f8eb471?utm_campaign=1055&utm_source=git)** | Columbia, SC, US | On Site | May 07 |
-| ↳ | **[Student Intern Legal Affairs](https://jobright.ai/jobs/info/69fcbdc46b788e7e7a5c21f4?utm_campaign=1055&utm_source=git)** | Greenville, SC, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
