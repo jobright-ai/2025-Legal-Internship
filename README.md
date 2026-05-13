@@ -58,14 +58,15 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[US Claro](https://www.usclaro.com)** | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a04c9a1f3d6cc51d6382c57?utm_campaign=1055&utm_source=git)** | United States | Remote | May 13 |
-| ↳ | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a04c876f3d6cc51d6382a95?utm_campaign=1055&utm_source=git)** | UNAVAILABLE, FL, US | Remote | May 13 |
 | ↳ | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a04c876f3d6cc51d6382a96?utm_campaign=1055&utm_source=git)** | US-FL- | Remote | May 13 |
+| ↳ | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a04c876f3d6cc51d6382a95?utm_campaign=1055&utm_source=git)** | UNAVAILABLE, FL, US | Remote | May 13 |
 | **[Dodge Industrial](https://dodgeindustrial.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a04c764bc4184089f23ebba?utm_campaign=1055&utm_source=git)** | Oxford, Connecticut, United States | On Site | May 13 |
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Quality and Compliance Intern](https://jobright.ai/jobs/info/6a04c63122395b6dc6da0a12?utm_campaign=1055&utm_source=git)** | Windsor Mill, MD 21224 | Remote | May 13 |
 | **[Prairie Meadows](https://www.prairiemeadows.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a04c5b2bc4184089f23ea41?utm_campaign=1055&utm_source=git)** | Altoona, IA, US | On Site | May 13 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[SOX Intern](https://jobright.ai/jobs/info/69f16e2b62b48c68387956ba?utm_campaign=1055&utm_source=git)** | Brisbane, CA | On Site | May 13 |
 | **[Sallie Mae](https://www.salliemae.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a04c00b22395b6dc6da04ae?utm_campaign=1055&utm_source=git)** | Sterling, VA | Hybrid | May 13 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a04b9f7f811a0436960df22?utm_campaign=1055&utm_source=git)** | Newark, DE | Hybrid | May 13 |
+| **[Prairie Meadows](https://www.prairiemeadows.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a04dda17c753c287f6f42cf?utm_campaign=1055&utm_source=git)** | Altoona, IA | On Site | May 13 |
 | **[State of Missouri](http://mo.gov)** | **[Law Student Legal Intern - Missouri State Public Defender System](https://jobright.ai/jobs/info/6a0498cc7c753c287f6f171f?utm_campaign=1055&utm_source=git)** | Missouri, United States | On Site | May 13 |
 | **[TransPerfect](http://www.transperfect.com)** | **[Compliance Investigations Intern](https://jobright.ai/jobs/info/6a0492e322395b6dc6d9e905?utm_campaign=1055&utm_source=git)** | US-New York, NY, US | On Site | May 13 |
 | **[Busek](http://busek.com)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/6a0489096c07461fe170df9d?utm_campaign=1055&utm_source=git)** | Natick, MA | On Site | May 13 |
@@ -120,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[arrivia](https://www.arrivia.com/)** | **[Legal Operations & Contract Intern](https://jobright.ai/jobs/info/6a02e38bbc4184089f22d09a?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | May 11 |
 | **[INX International Ink Co.](https://www.inxinternational.com)** | **[Intern Regulatory Affairs](https://jobright.ai/jobs/info/69fbef843160b250eb1ba7d4?utm_campaign=1055&utm_source=git)** | West Chicago, IL | On Site | May 11 |
 | **[arrivia](https://www.arrivia.com/)** | **[Legal Operations & Contract Intern](https://jobright.ai/jobs/info/6a0149aa74b5407dd467b618?utm_campaign=1055&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 10 |
-| **[Super.com](https://www.super.com)** | **[Fraud Analyst Intern](https://jobright.ai/jobs/info/6a0207dd238f143e8352ffa5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0207d83053db70a1173fb5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
+| **[Super.com](https://www.super.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0207d83053db70a1173fb5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
+| ↳ | **[Fraud Analyst Intern](https://jobright.ai/jobs/info/6a0207dd238f143e8352ffa5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Fellow (Fall 2026 Start - 12 months)](https://jobright.ai/jobs/info/69a13da781476f6176bb9f34?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 10 |
 | **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | May 10 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | May 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Paid Intern - Regulatory Technology](https://jobright.ai/jobs/info/69fdf23f7714cd50b90fd24f?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
 | **[Greenworks](http://greenworkstools.com)** | **[Legal Counsel Internship](https://jobright.ai/jobs/info/69fdf1b17714cd50b90fd1fd?utm_campaign=1055&utm_source=git)** | Mooresville, NC | On Site | May 08 |
 | **[Advisor360°](https://www.advisor360.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/69e15e54ff71e82d604b6885?utm_campaign=1055&utm_source=git)** | Needham, MA | Hybrid | May 08 |
-| **[Henderson Engineers](https://www.hendersonengineers.com)** | **[Legal - Legal Intern](https://jobright.ai/jobs/info/69e17d8bfd1c0456f3fae865?utm_campaign=1055&utm_source=git)** | Lenexa, KS | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
