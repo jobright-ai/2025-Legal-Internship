@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Missouri](http://mo.gov)** | **[Law Student Legal Intern - Missouri State Public Defender System](https://jobright.ai/jobs/info/6a0498cc7c753c287f6f171f?utm_campaign=1055&utm_source=git)** | Missouri, United States | On Site | May 13 |
+| **[TransPerfect](http://www.transperfect.com)** | **[Compliance Investigations Intern](https://jobright.ai/jobs/info/6a0492e322395b6dc6d9e905?utm_campaign=1055&utm_source=git)** | US-New York, NY, US | On Site | May 13 |
 | **[Busek](http://busek.com)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/6a0489096c07461fe170df9d?utm_campaign=1055&utm_source=git)** | Natick, MA | On Site | May 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Corporate Investigation Services Intern (8 Months)](https://jobright.ai/jobs/info/69e848fb3aa0c4796439eca2?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 13 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Legal College Intern-Summer 2026](https://jobright.ai/jobs/info/6a043c6ff3d6cc51d637d59b?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Cuyahoga County-Cleveland | On Site | May 13 |
 | **[Cloudflare Area 1 Security](https://www.area1security.com/)** | **[Legal Intern – Policy & Public Sector (AI & Cybersecurity Focus) (Summer 2026)](https://jobright.ai/jobs/info/6a041c107c753c287f6ecf7b?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 12 |
 | ↳ | **[Global Trade Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0419e022395b6dc6d9aa39?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | May 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Payne Law PLLC](http://www.thepaynelaw.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/69fd0f61666f063d3d6d2f84?utm_campaign=1055&utm_source=git)** | Winter Park, FL | On Site | May 07 |
 | **[Lakewood Cemetery](https://www.lakewoodcemetery.org/)** | **[Variable Judicial Legal Research Intern](https://jobright.ai/jobs/info/69fd0952666f063d3d6d2ab9?utm_campaign=1055&utm_source=git)** | Lakewood, CO, US | On Site | May 07 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Contract Specialist Intern](https://jobright.ai/jobs/info/69fd0951666f063d3d6d2ab5?utm_campaign=1055&utm_source=git)** | OAV N, CA | On Site | May 07 |
-| **[Henny Penny](http://hennypenny.com)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/69fcee965cff890b03f34bb0?utm_campaign=1055&utm_source=git)** | Eaton, OH (Headquarters), US | On Site | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Legal Undergrad (Summer 2026)](https://jobright.ai/jobs/info/69fcd9fc666f063d3d6d12cb?utm_campaign=1055&utm_source=git)** | Shelton, CT, US | Hybrid | May 07 |
-| ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/69fcd8f1b113035a9f8ec194?utm_campaign=1055&utm_source=git)** | United States | Remote | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
