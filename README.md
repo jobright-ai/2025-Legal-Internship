@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[OREM Science Education and Internship Program: Legal Fellow](https://jobright.ai/jobs/info/6a05d0656c07461fe1718c22?utm_campaign=1055&utm_source=git)** | Oak Ridge, TN | On Site | May 14 |
 | **[DrFirst, Inc.](http://drfirst.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/6a03df1f6c07461fe1707db8?utm_campaign=1055&utm_source=git)** | United States | Remote | May 14 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Fall 2026 Legal Internship – Washington, DC Regional Office](https://jobright.ai/jobs/info/69d02490cfdc6132f94389ba?utm_campaign=1055&utm_source=git)** | United States | Remote | May 14 |
 | **[BCI](https://www.bci.ca/)** | **[Legal Affairs Co-op/Internship (Fall 2026)](https://jobright.ai/jobs/info/6a057785f3d6cc51d63894e1?utm_campaign=1055&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
@@ -72,8 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Law Student Intern, Office of the General Counsel](https://jobright.ai/jobs/info/6a04f7db6c07461fe17123e6?utm_campaign=1055&utm_source=git)** | Somerville-MA, US | Hybrid | May 13 |
 | **[NCAA](https://www.ncaa.org)** | **[Athletic Compliance - Intern](https://jobright.ai/jobs/info/6a053299f3d6cc51d6387723?utm_campaign=1055&utm_source=git)** | Greeneville, TN | On Site | May 13 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Investment Compliance Intern](https://jobright.ai/jobs/info/6a04ebbd6c07461fe1711cd1?utm_campaign=1055&utm_source=git)** | San Mateo, California, United States of America | On Site | May 13 |
-| **[Suburban Propane](http://www.suburbanpropane.com)** | **[Licensing & Title Intern](https://jobright.ai/jobs/info/6a04e74c7c753c287f6f4957?utm_campaign=1055&utm_source=git)** | US-NJ-Whippany | On Site | May 13 |
-| ↳ | **[Licensing & Title Intern](https://jobright.ai/jobs/info/6a04e7467c753c287f6f4950?utm_campaign=1055&utm_source=git)** | Whippany, NJ, US | On Site | May 13 |
+| **[Suburban Propane](http://www.suburbanpropane.com)** | **[Licensing & Title Intern](https://jobright.ai/jobs/info/6a04e7467c753c287f6f4950?utm_campaign=1055&utm_source=git)** | Whippany, NJ, US | On Site | May 13 |
 | **[Gulf Coast Authority](https://www.linkedin.com/company/1440118)** | **[COMPLIANCE INTERN](https://jobright.ai/jobs/info/6a04e68c6c07461fe1711b03?utm_campaign=1055&utm_source=git)** | 40-Acre (Texas City, TX), US | On Site | May 13 |
 | **[Busek](http://busek.com)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/6a04f2724373b07358a38407?utm_campaign=1055&utm_source=git)** | Natick, MA | On Site | May 13 |
 | **[US Claro](https://www.usclaro.com)** | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a04f25bbc4184089f240df5?utm_campaign=1055&utm_source=git)** | Brandon, FL | On Site | May 13 |
@@ -140,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[INX International Ink Co.](https://www.inxinternational.com)** | **[Intern Regulatory Affairs](https://jobright.ai/jobs/info/69fbef843160b250eb1ba7d4?utm_campaign=1055&utm_source=git)** | West Chicago, IL | On Site | May 11 |
 | **[arrivia](https://www.arrivia.com/)** | **[Legal Operations & Contract Intern](https://jobright.ai/jobs/info/6a0149aa74b5407dd467b618?utm_campaign=1055&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 10 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[CO-OP/INTERN 2- ECONOMIC INCLUSION COMPLIANCE INTERN (SEASONGOOD PROGRAM)](https://jobright.ai/jobs/info/6a0526806c07461fe171440a?utm_campaign=1055&utm_source=git)** | Centennial II, Human Resources Department, 805 Central Avenue, Suite 200, Cincinnati, Ohio 45202, OH | On Site | May 10 |
-| **[Super.com](https://www.super.com)** | **[Fraud Analyst Intern](https://jobright.ai/jobs/info/6a0207dd238f143e8352ffa5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0207d83053db70a1173fb5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
+| **[Super.com](https://www.super.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0207d83053db70a1173fb5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
+| ↳ | **[Fraud Analyst Intern](https://jobright.ai/jobs/info/6a0207dd238f143e8352ffa5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Fellow (Fall 2026 Start - 12 months)](https://jobright.ai/jobs/info/69a13da781476f6176bb9f34?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 10 |
 | **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | May 10 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | May 10 |
