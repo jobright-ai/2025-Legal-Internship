@@ -66,7 +66,9 @@ For a complete list, click the following sortable link below:
 | **[Gulf Coast Authority](https://www.linkedin.com/company/1440118)** | **[COMPLIANCE INTERN](https://jobright.ai/jobs/info/6a04e68c6c07461fe1711b03?utm_campaign=1055&utm_source=git)** | 40-Acre (Texas City, TX), US | On Site | May 13 |
 | **[Busek](http://busek.com)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/6a04f2724373b07358a38407?utm_campaign=1055&utm_source=git)** | Natick, MA | On Site | May 13 |
 | **[US Claro](https://www.usclaro.com)** | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a04f25bbc4184089f240df5?utm_campaign=1055&utm_source=git)** | Brandon, FL | On Site | May 13 |
-| ↳ | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a04c9a1f3d6cc51d6382c57?utm_campaign=1055&utm_source=git)** | United States | Remote | May 13 |
+| **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a050fdb6c07461fe17136b1?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | May 13 |
+| **[SSP America](http://www.foodtravelexperts.com/america)** | **[Legal Intern](https://jobright.ai/jobs/info/6a050da14373b07358a3997a?utm_campaign=1055&utm_source=git)** | Ashburn, VA | Remote | May 13 |
+| **[US Claro](https://www.usclaro.com)** | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a04c9a1f3d6cc51d6382c57?utm_campaign=1055&utm_source=git)** | United States | Remote | May 13 |
 | ↳ | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a04c876f3d6cc51d6382a95?utm_campaign=1055&utm_source=git)** | UNAVAILABLE, FL, US | Remote | May 13 |
 | ↳ | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a04c876f3d6cc51d6382a96?utm_campaign=1055&utm_source=git)** | US-FL- | Remote | May 13 |
 | **[Dodge Industrial](https://dodgeindustrial.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a04c764bc4184089f23ebba?utm_campaign=1055&utm_source=git)** | Oxford, Connecticut, United States | On Site | May 13 |
@@ -129,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[arrivia](https://www.arrivia.com/)** | **[Legal Operations & Contract Intern](https://jobright.ai/jobs/info/6a02e38bbc4184089f22d09a?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | May 11 |
 | **[INX International Ink Co.](https://www.inxinternational.com)** | **[Intern Regulatory Affairs](https://jobright.ai/jobs/info/69fbef843160b250eb1ba7d4?utm_campaign=1055&utm_source=git)** | West Chicago, IL | On Site | May 11 |
 | **[arrivia](https://www.arrivia.com/)** | **[Legal Operations & Contract Intern](https://jobright.ai/jobs/info/6a0149aa74b5407dd467b618?utm_campaign=1055&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 10 |
-| **[Super.com](https://www.super.com)** | **[Fraud Analyst Intern](https://jobright.ai/jobs/info/6a0207dd238f143e8352ffa5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0207d83053db70a1173fb5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
+| **[Super.com](https://www.super.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0207d83053db70a1173fb5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
+| ↳ | **[Fraud Analyst Intern](https://jobright.ai/jobs/info/6a0207dd238f143e8352ffa5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Fellow (Fall 2026 Start - 12 months)](https://jobright.ai/jobs/info/69a13da781476f6176bb9f34?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 10 |
 | **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | May 10 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | May 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Intern - Human Rights](https://jobright.ai/jobs/info/69fe4c54f363bc4dc339dd92?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-25 Staniford Street | On Site | May 08 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Contracted Student Intern - Human Rights](https://jobright.ai/jobs/info/69fe4a2d6bcf315dc8f56a22?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-25 Staniford Street | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Contracts & Compliance (Tech & Data Focus)](https://jobright.ai/jobs/info/69fe48c27714cd50b9100067?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
-| **[TransPerfect](http://www.transperfect.com)** | **[General Counsel Intern](https://jobright.ai/jobs/info/69feb2ab1161630dd3b01ae3?utm_campaign=1055&utm_source=git)** | US-New York, NY (1250 Broadway), US | On Site | May 08 |
-| **[Fenwick & West](http://fenwick.com)** | **[Social Impact and Pro Bono Intern](https://jobright.ai/jobs/info/69fe3a2f7714cd50b90fef1a?utm_campaign=1055&utm_source=git)** | Silicon Valley, US | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
