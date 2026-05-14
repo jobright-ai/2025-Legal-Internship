@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Belmark inc](https://www.belmark.com/)** | **[Quality Compliance Intern](https://jobright.ai/jobs/info/6a05075d7c753c287f6f61cd?utm_campaign=1055&utm_source=git)** | De Pere, WI | On Site | May 13 |
+| **[Suburban Propane](http://www.suburbanpropane.com)** | **[Licensing & Title Intern](https://jobright.ai/jobs/info/6a04ff7f22395b6dc6da3091?utm_campaign=1055&utm_source=git)** | Whippany, NJ | On Site | May 13 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Law Student Intern, Office of the General Counsel](https://jobright.ai/jobs/info/6a04f7db6c07461fe17123e6?utm_campaign=1055&utm_source=git)** | Somerville-MA, US | Hybrid | May 13 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Investment Compliance Intern](https://jobright.ai/jobs/info/6a04ebbd6c07461fe1711cd1?utm_campaign=1055&utm_source=git)** | San Mateo, California, United States of America | On Site | May 13 |
 | **[Suburban Propane](http://www.suburbanpropane.com)** | **[Licensing & Title Intern](https://jobright.ai/jobs/info/6a04e74c7c753c287f6f4957?utm_campaign=1055&utm_source=git)** | US-NJ-Whippany | On Site | May 13 |
@@ -65,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Busek](http://busek.com)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/6a04f2724373b07358a38407?utm_campaign=1055&utm_source=git)** | Natick, MA | On Site | May 13 |
 | **[US Claro](https://www.usclaro.com)** | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a04f25bbc4184089f240df5?utm_campaign=1055&utm_source=git)** | Brandon, FL | On Site | May 13 |
 | ↳ | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a04c9a1f3d6cc51d6382c57?utm_campaign=1055&utm_source=git)** | United States | Remote | May 13 |
-| ↳ | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a04c876f3d6cc51d6382a96?utm_campaign=1055&utm_source=git)** | US-FL- | Remote | May 13 |
 | ↳ | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a04c876f3d6cc51d6382a95?utm_campaign=1055&utm_source=git)** | UNAVAILABLE, FL, US | Remote | May 13 |
+| ↳ | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a04c876f3d6cc51d6382a96?utm_campaign=1055&utm_source=git)** | US-FL- | Remote | May 13 |
 | **[Dodge Industrial](https://dodgeindustrial.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a04c764bc4184089f23ebba?utm_campaign=1055&utm_source=git)** | Oxford, Connecticut, United States | On Site | May 13 |
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Quality and Compliance Intern](https://jobright.ai/jobs/info/6a04c63122395b6dc6da0a12?utm_campaign=1055&utm_source=git)** | Windsor Mill, MD 21224 | Remote | May 13 |
 | **[Prairie Meadows](https://www.prairiemeadows.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a04c5b2bc4184089f23ea41?utm_campaign=1055&utm_source=git)** | Altoona, IA, US | On Site | May 13 |
@@ -120,15 +122,15 @@ For a complete list, click the following sortable link below:
 | **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Internship - FALL 2026 - MDT (CJ/Criminology)](https://jobright.ai/jobs/info/6a020b53238f143e835301c7?utm_campaign=1055&utm_source=git)** | Omaha,NE,US | On Site | May 11 |
 | **[Capital Credit Union](https://www.capcu.org/)** | **[Risk Management and Compliance Intern](https://jobright.ai/jobs/info/6a0209d5c4b08448a0b22634?utm_campaign=1055&utm_source=git)** | Bismarck, ND 58501, USA | On Site | May 11 |
 | **[Super.com](https://www.super.com)** | **[Fraud Analyst Intern](https://jobright.ai/jobs/info/6a02ff5b22395b6dc6d8fb30?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 11 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a03034a6c07461fe16ff7b4?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 11 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a03034b7c753c287f6e28dc?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 11 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a03034a6c07461fe16ff7b4?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 11 |
 | ↳ | **[Fraud Analyst Intern](https://jobright.ai/jobs/info/6a0303c722395b6dc6d9009f?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 11 |
 | **[Segra](https://www.segra.com/)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a01ed32fa1aa73213d95737?utm_campaign=1055&utm_source=git)** | Kansas City, MO, USA | On Site | May 11 |
 | **[arrivia](https://www.arrivia.com/)** | **[Legal Operations & Contract Intern](https://jobright.ai/jobs/info/6a02e38bbc4184089f22d09a?utm_campaign=1055&utm_source=git)** | Scottsdale, AZ | On Site | May 11 |
 | **[INX International Ink Co.](https://www.inxinternational.com)** | **[Intern Regulatory Affairs](https://jobright.ai/jobs/info/69fbef843160b250eb1ba7d4?utm_campaign=1055&utm_source=git)** | West Chicago, IL | On Site | May 11 |
 | **[arrivia](https://www.arrivia.com/)** | **[Legal Operations & Contract Intern](https://jobright.ai/jobs/info/6a0149aa74b5407dd467b618?utm_campaign=1055&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 10 |
-| **[Super.com](https://www.super.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0207d83053db70a1173fb5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
-| ↳ | **[Fraud Analyst Intern](https://jobright.ai/jobs/info/6a0207dd238f143e8352ffa5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
+| **[Super.com](https://www.super.com)** | **[Fraud Analyst Intern](https://jobright.ai/jobs/info/6a0207dd238f143e8352ffa5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0207d83053db70a1173fb5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Fellow (Fall 2026 Start - 12 months)](https://jobright.ai/jobs/info/69a13da781476f6176bb9f34?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 10 |
 | **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | May 10 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | May 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Contracts & Compliance (Tech & Data Focus)](https://jobright.ai/jobs/info/69fe48c27714cd50b9100067?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
 | **[TransPerfect](http://www.transperfect.com)** | **[General Counsel Intern](https://jobright.ai/jobs/info/69feb2ab1161630dd3b01ae3?utm_campaign=1055&utm_source=git)** | US-New York, NY (1250 Broadway), US | On Site | May 08 |
 | **[Fenwick & West](http://fenwick.com)** | **[Social Impact and Pro Bono Intern](https://jobright.ai/jobs/info/69fe3a2f7714cd50b90fef1a?utm_campaign=1055&utm_source=git)** | Silicon Valley, US | Hybrid | May 08 |
-| ↳ | **[Social Impact and Pro Bono Intern](https://jobright.ai/jobs/info/69fe3a2df363bc4dc339c5a9?utm_campaign=1055&utm_source=git)** | San Francisco, US | Hybrid | May 08 |
-| ↳ | **[Social Impact and Pro Bono Intern](https://jobright.ai/jobs/info/69feb2871161630dd3b01a0c?utm_campaign=1055&utm_source=git)** | Seattle, US | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
