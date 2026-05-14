@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Earthjustice](http://earthjustice.org/)** | **[Fall 2026 Legal Internship – Washington, DC Regional Office](https://jobright.ai/jobs/info/69d02490cfdc6132f94389ba?utm_campaign=1055&utm_source=git)** | United States | Remote | May 14 |
+| **[BCI](https://www.bci.ca/)** | **[Legal Affairs Co-op/Internship (Fall 2026)](https://jobright.ai/jobs/info/6a057785f3d6cc51d63894e1?utm_campaign=1055&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
+| **[Capital Credit Union](https://www.capcu.org/)** | **[Risk Management and Compliance Intern](https://jobright.ai/jobs/info/6a05716df3d6cc51d638919c?utm_campaign=1055&utm_source=git)** | Bismarck, ND 58501, USA | On Site | May 13 |
 | **[South Carolina Department of Corrections](www.JoinSCDC.com)** | **[Law Clerk - Intern (#022100) Office of General Counsel, Columbia (RICHLAND)](https://jobright.ai/jobs/info/6a0568a4fbf3d169d3c5eb81?utm_campaign=1055&utm_source=git)** | Columbia, SC | On Site | May 13 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Law Clerk - Intern (#022100) Office of General Counsel, Columbia (RICHLAND)](https://jobright.ai/jobs/info/6a054fe87c753c287f6f8756?utm_campaign=1055&utm_source=git)** | Richland County, SC | On Site | May 13 |
 | **[City of Port Townsend](https://cityofpt.us)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6a05487d6c07461fe1715610?utm_campaign=1055&utm_source=git)** | Port Townsend, WA | Hybrid | May 13 |
@@ -77,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a050fdb6c07461fe17136b1?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | May 13 |
 | **[SSP America](http://www.foodtravelexperts.com/america)** | **[Legal Intern](https://jobright.ai/jobs/info/6a050da14373b07358a3997a?utm_campaign=1055&utm_source=git)** | Ashburn, VA | Remote | May 13 |
 | **[US Claro](https://www.usclaro.com)** | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a04c9a1f3d6cc51d6382c57?utm_campaign=1055&utm_source=git)** | United States | Remote | May 13 |
-| ↳ | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a04c876f3d6cc51d6382a95?utm_campaign=1055&utm_source=git)** | UNAVAILABLE, FL, US | Remote | May 13 |
 | ↳ | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a04c876f3d6cc51d6382a96?utm_campaign=1055&utm_source=git)** | US-FL- | Remote | May 13 |
+| ↳ | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a04c876f3d6cc51d6382a95?utm_campaign=1055&utm_source=git)** | UNAVAILABLE, FL, US | Remote | May 13 |
 | **[Dodge Industrial](https://dodgeindustrial.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a04c764bc4184089f23ebba?utm_campaign=1055&utm_source=git)** | Oxford, Connecticut, United States | On Site | May 13 |
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Quality and Compliance Intern](https://jobright.ai/jobs/info/6a04c63122395b6dc6da0a12?utm_campaign=1055&utm_source=git)** | Windsor Mill, MD 21224 | Remote | May 13 |
 | **[Prairie Meadows](https://www.prairiemeadows.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a04c5b2bc4184089f23ea41?utm_campaign=1055&utm_source=git)** | Altoona, IA, US | On Site | May 13 |
@@ -138,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[INX International Ink Co.](https://www.inxinternational.com)** | **[Intern Regulatory Affairs](https://jobright.ai/jobs/info/69fbef843160b250eb1ba7d4?utm_campaign=1055&utm_source=git)** | West Chicago, IL | On Site | May 11 |
 | **[arrivia](https://www.arrivia.com/)** | **[Legal Operations & Contract Intern](https://jobright.ai/jobs/info/6a0149aa74b5407dd467b618?utm_campaign=1055&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 10 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[CO-OP/INTERN 2- ECONOMIC INCLUSION COMPLIANCE INTERN (SEASONGOOD PROGRAM)](https://jobright.ai/jobs/info/6a0526806c07461fe171440a?utm_campaign=1055&utm_source=git)** | Centennial II, Human Resources Department, 805 Central Avenue, Suite 200, Cincinnati, Ohio 45202, OH | On Site | May 10 |
-| **[Super.com](https://www.super.com)** | **[Fraud Analyst Intern](https://jobright.ai/jobs/info/6a0207dd238f143e8352ffa5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0207d83053db70a1173fb5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
+| **[Super.com](https://www.super.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0207d83053db70a1173fb5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
+| ↳ | **[Fraud Analyst Intern](https://jobright.ai/jobs/info/6a0207dd238f143e8352ffa5?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 10 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Fellow (Fall 2026 Start - 12 months)](https://jobright.ai/jobs/info/69a13da781476f6176bb9f34?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 10 |
 | **[Prometric](https://www.prometric.com)** | **[Legal Intern](https://jobright.ai/jobs/info/698f64a60cc8ea15f1d9e94f?utm_campaign=1055&utm_source=git)** | Middle River, MD | Hybrid | May 10 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | May 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/69febc0815859e57591cf521?utm_campaign=1055&utm_source=git)** | Denver Office - Denver, CO 80202 | On Site | May 08 |
 | **[City of New York](http://www1.nyc.gov)** | **[Summer College Intern - Executive and Legal](https://jobright.ai/jobs/info/6a0540ec6c07461fe1715192?utm_campaign=1055&utm_source=git)** | New York City, NY | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Legal Intern (Fall Semester)](https://jobright.ai/jobs/info/69fe9aa4f363bc4dc339f713?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Office of Policy and Compliance (OPC) Graduate Intern](https://jobright.ai/jobs/info/69fe96eb6bcf315dc8f5844c?utm_campaign=1055&utm_source=git)** | QUEENS | On Site | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/69fe829e6bcf315dc8f5814d?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
-| **[Lawyering Project](https://lawyeringproject.org)** | **[Legal Intern (Fall Semester)](https://jobright.ai/jobs/info/69fe748f4b9bbf21744b1aad?utm_campaign=1055&utm_source=git)** | United States | Remote | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
