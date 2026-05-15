@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zeta Charter Schools](https://zetaschools.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/673f8a7eca939923901e9eb1?utm_campaign=1055&utm_source=git)** | New York City, NY | Hybrid | May 15 |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a06e58ff400923a0090b2f1?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 15 |
 | **[Diablo Canyon Power Plant](https://www.pge.com/en/about/pge-systems/nuclear-power.html)** | **[Electric Risk and Compliance, Intern](https://jobright.ai/jobs/info/6a06d91438dbee7915cf710b?utm_campaign=1055&utm_source=git)** | Oakland, CA | Hybrid | May 15 |
-| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a06c8e9f400923a0090aa1a?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 15 |
 | **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a06c37433c2ed3770bc93f5?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, US | On Site | May 14 |
 | ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a06c2fc33c2ed3770bc93b3?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | May 14 |
 | ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a06c2fb33c2ed3770bc93ae?utm_campaign=1055&utm_source=git)** | Houston, TX, US | On Site | May 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Resonant Clinical Solutions](https://resonantclinical.com)** | **[Legal and Contracts Intern](https://jobright.ai/jobs/info/69fae8f338179b6f1ae7396b?utm_campaign=1055&utm_source=git)** | Massachusetts, United States | On Site | May 12 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Records Management Intern](https://jobright.ai/jobs/info/6a032de06c07461fe1701328?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | May 11 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/6a04143722395b6dc6d9a194?utm_campaign=1055&utm_source=git)** | Southfield, MI | Remote | May 11 |
-| **[State of New Hampshire](https://www.oplc.nh.gov/board-accountancy)** | **[LEGAL AIDE INTERN](https://jobright.ai/jobs/info/6a03c5777c753c287f6ea207?utm_campaign=1055&utm_source=git)** | New Hampshire, United States | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
