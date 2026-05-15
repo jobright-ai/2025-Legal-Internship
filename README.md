@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a06757c320bff2205eacd26?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 14 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Intern - Courts](https://jobright.ai/jobs/info/6a066473a88ea73abf7fb532?utm_campaign=1055&utm_source=git)** | SUPERIOR COURT, US | On Site | May 14 |
 | **[Pratt Institute](https://www.pratt.edu)** | **[Office of Legal Counsel Intern (71109)](https://jobright.ai/jobs/info/6a066156320bff2205eac19c?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | May 14 |
-| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a06590f320bff2205eabe10?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 14 |
 | **[Northern Tool + Equipment](http://www.northerntool.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0657d7f3d6cc51d6392bf8?utm_campaign=1055&utm_source=git)** | Burnsville, MN, United States | Hybrid | May 14 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Regulatory Intern](https://jobright.ai/jobs/info/6a06572dbc4184089f24ec22?utm_campaign=1055&utm_source=git)** | Hatfield, PA | On Site | May 14 |
 | **[Ritchie Bros.](http://www.rbauction.com)** | **[Intern](https://jobright.ai/jobs/info/6a040f90f811a043696073af?utm_campaign=1055&utm_source=git)** | Westchester, IL | Hybrid | May 14 |
@@ -91,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, Corporate Legal (Law Student)](https://jobright.ai/jobs/info/6a0620f56c07461fe171c974?utm_campaign=1055&utm_source=git)** | Santa Barbara, CA | Hybrid | May 14 |
 | **[City of New York](http://www1.nyc.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0632e9f3d6cc51d6390b37?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | May 14 |
 | **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a060207bc4184089f249f44?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 14 |
-| **[Florida Rural Legal Services, Inc. (FRLS)](https://www.frls.org)** | **[Certified Legal Intern](https://jobright.ai/jobs/info/6a0600c96c07461fe171b339?utm_campaign=1055&utm_source=git)** | Ft. Myers, FL, US | Hybrid | May 14 |
-| ↳ | **[Certified Legal Intern](https://jobright.ai/jobs/info/6a0600c96c07461fe171b338?utm_campaign=1055&utm_source=git)** | Immokalee, FL, US | Hybrid | May 14 |
+| **[Florida Rural Legal Services, Inc. (FRLS)](https://www.frls.org)** | **[Certified Legal Intern](https://jobright.ai/jobs/info/6a0600c96c07461fe171b338?utm_campaign=1055&utm_source=git)** | Immokalee, FL, US | Hybrid | May 14 |
+| ↳ | **[Certified Legal Intern](https://jobright.ai/jobs/info/6a0600c96c07461fe171b339?utm_campaign=1055&utm_source=git)** | Ft. Myers, FL, US | Hybrid | May 14 |
 | ↳ | **[Certified Legal Intern](https://jobright.ai/jobs/info/6a0600c86c07461fe171b337?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL, US | Hybrid | May 14 |
 | ↳ | **[Certified Legal Intern](https://jobright.ai/jobs/info/6a0600c86c07461fe171b336?utm_campaign=1055&utm_source=git)** | Lakeland, FL, US | Hybrid | May 14 |
 | **[Samsung SDS](https://www.samsungsds.com/)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/6a063661bc4184089f24cf04?utm_campaign=1055&utm_source=git)** | Newberry, SC | On Site | May 14 |
