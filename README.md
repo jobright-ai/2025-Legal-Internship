@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CareSouth Medical & Dental](https://caresouth.org)** | **[Compliance Program Intern](https://jobright.ai/jobs/info/6a07831fa203b1052e43bb00?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, USA, 70806 | On Site | May 15 |
+| **[PwC](http://pwc.com)** | **[L&F Intern](https://jobright.ai/jobs/info/6a077ef7939a5f01db9508bf?utm_campaign=1055&utm_source=git)** | Hamilton, WA | On Site | May 15 |
+| **[moomoo](https://www.moomoo.com)** | **[Unpaid - Compliance Intern - Trade Surveillance Support](https://jobright.ai/jobs/info/6a077b428f3e371eb61778c5?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | May 15 |
+| **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Quality and Compliance Intern](https://jobright.ai/jobs/info/6a077b376186f4685987f7a6?utm_campaign=1055&utm_source=git)** | Baltimore, MD | On Site | May 15 |
+| **[Fearless](http://fearless.tech)** | **[IT Security & Compliance Intern](https://jobright.ai/jobs/info/69f551eb0b36ff03547518ea?utm_campaign=1055&utm_source=git)** | Baltimore, MD | Hybrid | May 15 |
 | **[gategroup](http://www.gategroup.com/home)** | **[Intern, Legal](https://jobright.ai/jobs/info/6a07711b403fc339507e4286?utm_campaign=1055&utm_source=git)** | Reston, VA, USA, US | On Site | May 15 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Undergraduate Criminal Defense Intern, Fall 2026](https://jobright.ai/jobs/info/6a0765d23b54ed42d74ccf2f?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 15 |
 | **[Metrea](https://www.metrea.aero)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/6a075b16a203b1052e439cbc?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 15 |
@@ -66,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Metrea](https://www.metrea.aero)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/6a0734eaa203b1052e438829?utm_campaign=1055&utm_source=git)** | MAM HQ, Washington, DC, US | On Site | May 15 |
 | **[Corsair](http://www.corsair.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69406d5e49a7695fbd05ef2c?utm_campaign=1055&utm_source=git)** | Milpitas, CA | On Site | May 15 |
 | **[Discovery Life Sciences](http://www.conversantbio.com/)** | **[Regulatory Intern Summer 2026](https://jobright.ai/jobs/info/6a03f5fa6c07461fe1708b4d?utm_campaign=1055&utm_source=git)** | Huntsville, AL | On Site | May 15 |
-| **[iCapital](https://icapital.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a072886078fec52738ab2db?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | May 15 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a072886078fec52738ab2d8?utm_campaign=1055&utm_source=git)** | US NY - New York City | On Site | May 15 |
+| **[iCapital](https://icapital.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a072886078fec52738ab2d8?utm_campaign=1055&utm_source=git)** | US NY - New York City | On Site | May 15 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a072886078fec52738ab2db?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | May 15 |
 | **[Clark Hill Law](http://www.clarkhill.com/)** | **[Fidelity & Surety Law Clerk - Dallas, TX](https://jobright.ai/jobs/info/6a0720f8078fec52738aa32e?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | May 15 |
 | **[Rectangle Health](https://www.rectanglehealth.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a070719078fec52738a70ad?utm_campaign=1055&utm_source=git)** | Valhalla, New York, United States | Hybrid | May 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0707194a0a6a7e7d821bb3?utm_campaign=1055&utm_source=git)** | United States | Remote | May 15 |
@@ -131,8 +136,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, Corporate Legal (Law Student)](https://jobright.ai/jobs/info/6a0620f56c07461fe171c974?utm_campaign=1055&utm_source=git)** | Santa Barbara, CA | Hybrid | May 14 |
 | **[City of New York](http://www1.nyc.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0632e9f3d6cc51d6390b37?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | May 14 |
 | **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a060207bc4184089f249f44?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 14 |
-| **[Florida Rural Legal Services, Inc. (FRLS)](https://www.frls.org)** | **[Certified Legal Intern](https://jobright.ai/jobs/info/6a0600c96c07461fe171b339?utm_campaign=1055&utm_source=git)** | Ft. Myers, FL, US | Hybrid | May 14 |
-| ↳ | **[Certified Legal Intern](https://jobright.ai/jobs/info/6a0600c96c07461fe171b338?utm_campaign=1055&utm_source=git)** | Immokalee, FL, US | Hybrid | May 14 |
+| **[Florida Rural Legal Services, Inc. (FRLS)](https://www.frls.org)** | **[Certified Legal Intern](https://jobright.ai/jobs/info/6a0600c96c07461fe171b338?utm_campaign=1055&utm_source=git)** | Immokalee, FL, US | Hybrid | May 14 |
+| ↳ | **[Certified Legal Intern](https://jobright.ai/jobs/info/6a0600c96c07461fe171b339?utm_campaign=1055&utm_source=git)** | Ft. Myers, FL, US | Hybrid | May 14 |
 | ↳ | **[Certified Legal Intern](https://jobright.ai/jobs/info/6a0600c86c07461fe171b337?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL, US | Hybrid | May 14 |
 | ↳ | **[Certified Legal Intern](https://jobright.ai/jobs/info/6a0600c86c07461fe171b336?utm_campaign=1055&utm_source=git)** | Lakeland, FL, US | Hybrid | May 14 |
 | **[Samsung SDS](https://www.samsungsds.com/)** | **[2026 Summer Intern - Legal](https://jobright.ai/jobs/info/6a063661bc4184089f24cf04?utm_campaign=1055&utm_source=git)** | Newberry, SC | On Site | May 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Earthjustice](http://earthjustice.org/)** | **[Fall 2026 Legal Internship – Washington, DC Regional Office](https://jobright.ai/jobs/info/69d02491cfdc6132f94389bf?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 13 |
 | **[Belmark inc](https://www.belmark.com/)** | **[Quality Compliance Intern](https://jobright.ai/jobs/info/6a05075d7c753c287f6f61cd?utm_campaign=1055&utm_source=git)** | De Pere, WI | On Site | May 13 |
 | **[RBC Bearings](http://www.rbcbearings.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a052d0abc4184089f24344a?utm_campaign=1055&utm_source=git)** | Oxford, CT | On Site | May 13 |
-| **[NCAA](https://www.ncaa.org)** | **[Athletic Compliance - Intern](https://jobright.ai/jobs/info/6a053299f3d6cc51d6387723?utm_campaign=1055&utm_source=git)** | Greeneville, TN | On Site | May 13 |
-| **[Franklin Templeton](http://www.franklintempleton.com)** | **[Investment Compliance Intern](https://jobright.ai/jobs/info/6a04ebbd6c07461fe1711cd1?utm_campaign=1055&utm_source=git)** | San Mateo, California, United States of America | On Site | May 13 |
-| **[Gulf Coast Authority](https://www.linkedin.com/company/1440118)** | **[COMPLIANCE INTERN](https://jobright.ai/jobs/info/6a04e68c6c07461fe1711b03?utm_campaign=1055&utm_source=git)** | 40-Acre (Texas City, TX), US | On Site | May 13 |
-| **[Busek](http://busek.com)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/6a04f2724373b07358a38407?utm_campaign=1055&utm_source=git)** | Natick, MA | On Site | May 13 |
-| **[US Claro](https://www.usclaro.com)** | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a04f25bbc4184089f240df5?utm_campaign=1055&utm_source=git)** | Brandon, FL | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
