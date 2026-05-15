@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Diablo Canyon Power Plant](https://www.pge.com/en/about/pge-systems/nuclear-power.html)** | **[Electric Risk and Compliance, Intern](https://jobright.ai/jobs/info/6a06d91438dbee7915cf710b?utm_campaign=1055&utm_source=git)** | Oakland, CA | Hybrid | May 15 |
 | **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a06c8e9f400923a0090aa1a?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 15 |
 | **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a06c37433c2ed3770bc93f5?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, US | On Site | May 14 |
 | ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a06c2fc33c2ed3770bc93b3?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | May 14 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Unpaid - Compliance Intern - Trade Surveillance Support](https://jobright.ai/jobs/info/6a063e5cf3d6cc51d63916a1?utm_campaign=1055&utm_source=git)** | Jersey City, New Jersey, United States | On Site | May 14 |
 | ↳ | **[Unpaid - Compliance Intern - Trade Surveillance Support](https://jobright.ai/jobs/info/6a063e5bf3d6cc51d639169f?utm_campaign=1055&utm_source=git)** | Dallas, Texas, United States | On Site | May 14 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[2027 Legal 2L Summer Intern](https://jobright.ai/jobs/info/6a066632f3d6cc51d6393213?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | May 14 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a063a4d320bff2205eaa3ff?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 14 |
-| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a063a4d320bff2205eaa3fe?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 14 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a063a4d320bff2205eaa3fe?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 14 |
+| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a063a4d320bff2205eaa3ff?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 14 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Summer Intern - Administrative AI Solutions and Compliance Review](https://jobright.ai/jobs/info/6a0638a87c753c287f700d4a?utm_campaign=1055&utm_source=git)** | AUSTIN, TX, US | On Site | May 14 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Legal](https://jobright.ai/jobs/info/6a06368a320bff2205eaa133?utm_campaign=1055&utm_source=git)** | Columbia, MD | On Site | May 14 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Law Clerk](https://jobright.ai/jobs/info/6a0632e4bc4184089f24cc06?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | May 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Records Management Intern](https://jobright.ai/jobs/info/6a032de06c07461fe1701328?utm_campaign=1055&utm_source=git)** | Arlington, VA | On Site | May 11 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/6a04143722395b6dc6d9a194?utm_campaign=1055&utm_source=git)** | Southfield, MI | Remote | May 11 |
 | **[State of New Hampshire](https://www.oplc.nh.gov/board-accountancy)** | **[LEGAL AIDE INTERN](https://jobright.ai/jobs/info/6a03c5777c753c287f6ea207?utm_campaign=1055&utm_source=git)** | New Hampshire, United States | On Site | May 11 |
-| **[Phibro Animal Health](http://www.pahc.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a03115a22395b6dc6d90fd3?utm_campaign=1055&utm_source=git)** | Teaneck, NJ | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
