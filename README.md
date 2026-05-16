@@ -85,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[iCapital](https://icapital.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a072886078fec52738ab2d8?utm_campaign=1055&utm_source=git)** | US NY - New York City | On Site | May 15 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a072886078fec52738ab2db?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | May 15 |
 | **[Clark Hill Law](http://www.clarkhill.com/)** | **[Fidelity & Surety Law Clerk - Dallas, TX](https://jobright.ai/jobs/info/6a0720f8078fec52738aa32e?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | May 15 |
-| **[Rectangle Health](https://www.rectanglehealth.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0707194a0a6a7e7d821bb3?utm_campaign=1055&utm_source=git)** | United States | Remote | May 15 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a070719078fec52738a70ad?utm_campaign=1055&utm_source=git)** | Valhalla, New York, United States | Hybrid | May 15 |
+| **[Rectangle Health](https://www.rectanglehealth.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a070719078fec52738a70ad?utm_campaign=1055&utm_source=git)** | Valhalla, New York, United States | Hybrid | May 15 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0707194a0a6a7e7d821bb3?utm_campaign=1055&utm_source=git)** | United States | Remote | May 15 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/6a0706214a0a6a7e7d8215a5?utm_campaign=1055&utm_source=git)** | Redwood City, CA | Hybrid | May 15 |
 | ↳ | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/69d9a50b869c7e25d859c8ae?utm_campaign=1055&utm_source=git)** | Redwood City, California, United States | Hybrid | May 15 |
 | **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Summer/Fall 2026 Legal Internships - LGBTQ/HIV Advocacy Project](https://jobright.ai/jobs/info/6a0705564a0a6a7e7d821194?utm_campaign=1055&utm_source=git)** | Brooklyn, New York | Hybrid | May 15 |
@@ -127,8 +127,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Unpaid - Compliance Intern - Trade Surveillance Support](https://jobright.ai/jobs/info/6a063e5cf3d6cc51d63916a1?utm_campaign=1055&utm_source=git)** | Jersey City, New Jersey, United States | On Site | May 14 |
 | ↳ | **[Unpaid - Compliance Intern - Trade Surveillance Support](https://jobright.ai/jobs/info/6a063e5bf3d6cc51d639169f?utm_campaign=1055&utm_source=git)** | Dallas, Texas, United States | On Site | May 14 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[2027 Legal 2L Summer Intern](https://jobright.ai/jobs/info/6a066632f3d6cc51d6393213?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | May 14 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a063a4d320bff2205eaa3ff?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 14 |
-| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a063a4d320bff2205eaa3fe?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 14 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a063a4d320bff2205eaa3fe?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 14 |
+| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a063a4d320bff2205eaa3ff?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 14 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Summer Intern - Administrative AI Solutions and Compliance Review](https://jobright.ai/jobs/info/6a0638a87c753c287f700d4a?utm_campaign=1055&utm_source=git)** | AUSTIN, TX, US | On Site | May 14 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Legal](https://jobright.ai/jobs/info/6a06368a320bff2205eaa133?utm_campaign=1055&utm_source=git)** | Columbia, MD | On Site | May 14 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Law Clerk](https://jobright.ai/jobs/info/6a0632e4bc4184089f24cc06?utm_campaign=1055&utm_source=git)** | Miami, FL | On Site | May 14 |
