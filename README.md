@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a0bf7950411d7417a1b53f6?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 18 |
 | **[Elevate](http://elevate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0bd82fa235d749afa88e86?utm_campaign=1055&utm_source=git)** | Addison, TX | On Site | May 18 |
 | **[Corpay](https://payments.corpay.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a0bd6d1963f7a67d95d356b?utm_campaign=1055&utm_source=git)** | Buckhead, GA | On Site | May 18 |
+| **[Elevate](http://elevate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0c005f22d0d34036c90e81?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | May 18 |
 | **[Forward Majority](https://forwardmajority.org/)** | **[Operations and Compliance Internship](https://jobright.ai/jobs/info/6a0bc5a7538d03366dc88904?utm_campaign=1055&utm_source=git)** | United States | Remote | May 18 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Tenant Rep Summer Internship](https://jobright.ai/jobs/info/6a0bbd474d93203636873cb3?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 18 |
 | **[IGT](http://www.probability.co.uk)** | **[Intern Technical](https://jobright.ai/jobs/info/6a0ba7154d93203636873089?utm_campaign=1055&utm_source=git)** | Las Vegas, NV, US, 89113 | On Site | May 18 |
@@ -97,9 +98,9 @@ For a complete list, click the following sortable link below:
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b518f3e371eb61803b3?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 16 |
 | ↳ | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b4f8f3e371eb61803b0?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | May 16 |
 | **[US Claro](https://www.usclaro.com)** | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a0868f36186f468598884be?utm_campaign=1055&utm_source=git)** | Miramar, FL | On Site | May 16 |
-| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a0868896186f4685988846e?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | May 16 |
-| ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a0868896186f4685988846d?utm_campaign=1055&utm_source=git)** | Houston, TX, US | On Site | May 16 |
+| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a0868896186f4685988846d?utm_campaign=1055&utm_source=git)** | Houston, TX, US | On Site | May 16 |
 | ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a0868896186f4685988846c?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, US | On Site | May 16 |
+| ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a0868896186f4685988846e?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | May 16 |
 | **[Settlement Housing Fund](https://www.settlementhousingfund.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ebdd604b0fa35a7077f329?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | May 16 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 16 |
 | ↳ | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/6a08510a8f3e371eb617f716?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/69e5e35de0cd471b2f122e7c?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 15 |
 | **[ImprimisRx® - A Harrow Company](https://www.imprimisrx.com/)** | **[Quality Assurance Compliance Intern, CMO](https://jobright.ai/jobs/info/6a071e5c078fec52738a9bc8?utm_campaign=1055&utm_source=git)** | United States | Remote | May 15 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/6a06f58324dcb03739f1ac9a?utm_campaign=1055&utm_source=git)** | WA - Bellevue | Hybrid | May 15 |
-| **[Zeta Charter Schools](https://zetaschools.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/673f8a7eca939923901e9eb1?utm_campaign=1055&utm_source=git)** | New York City, NY | Hybrid | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
