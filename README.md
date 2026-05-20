@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Summer/Fall 2026 Legal Internships - LGBTQ/HIV Advocacy Project](https://jobright.ai/jobs/info/6a0705564a0a6a7e7d821194?utm_campaign=1055&utm_source=git)** | Brooklyn, New York | Hybrid | May 15 |
 | **[Future Secure AI](https://futuresecure.ai/)** | **[General Counsel Intern](https://jobright.ai/jobs/info/6a07044f9f57175bd581ed51?utm_campaign=1055&utm_source=git)** | Remote - USA | Remote | May 15 |
 | ↳ | **[General Counsel Intern](https://jobright.ai/jobs/info/6a03aa6dbc4184089f234bc6?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 15 |
-| **[FOLX Health](https://www.folxhealth.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69f0c65d8feca91f1491cc0e?utm_campaign=1055&utm_source=git)** | Remote, US | Remote | May 15 |
+| **[FOLX Health](https://www.folxhealth.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6a0703fe9f57175bd581e973?utm_campaign=1055&utm_source=git)** | United States | Remote | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
