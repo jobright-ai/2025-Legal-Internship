@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kobalt Music](http://www.kobaltmusic.com)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/6a0e1f0180bf0430c7629bbe?utm_campaign=1055&utm_source=git)** | Nashville, Tennessee, United States | Hybrid | May 20 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, E&C Program & Control (Fall 2026)](https://jobright.ai/jobs/info/6a0e1c50c152ac782448366c?utm_campaign=1055&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 20 |
 | **[Florida Crystals](https://www.floridacrystals.com/)** | **[Legal - Intern](https://jobright.ai/jobs/info/6a0e1bb909ecfd704b3e601a?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL | On Site | May 20 |
 | **[American Sugar Refining, Inc.](https://www.asr-group.com)** | **[Legal - Intern](https://jobright.ai/jobs/info/6a0e122147fea1610bca68fc?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL, US | On Site | May 20 |
-| **[National Healthcare Properties](http://www.healthcaretrustinc.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0e11d3beb4d73cb622e81b?utm_campaign=1055&utm_source=git)** | New York, United States | Remote | May 20 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[PH Legal Counsel Externship -  E-internship](https://jobright.ai/jobs/info/6a0e0c0b83d714428981512c?utm_campaign=1055&utm_source=git)** | 200 Piedmont Ave. SE Atlanta, GA | Remote | May 20 |
 | **[Ignite Digital](https://ignite-digital.com)** | **[Contracts/Legal Summer Internship](https://jobright.ai/jobs/info/6a0dfdb209ecfd704b3e4b5f?utm_campaign=1055&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | May 20 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Global Operations - Fraud Program Management & Design Internship/Coop - Fall 2026](https://jobright.ai/jobs/info/6a0dfa6e47fea1610bca5971?utm_campaign=1055&utm_source=git)** | Toronto, ON, CA | On Site | May 20 |
@@ -130,9 +130,9 @@ For a complete list, click the following sortable link below:
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b518f3e371eb61803b3?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 16 |
 | ↳ | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b4f8f3e371eb61803b0?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | May 16 |
 | **[US Claro](https://www.usclaro.com)** | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a0868f36186f468598884be?utm_campaign=1055&utm_source=git)** | Miramar, FL | On Site | May 16 |
-| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a0868896186f4685988846e?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | May 16 |
+| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a0868896186f4685988846c?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, US | On Site | May 16 |
+| ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a0868896186f4685988846e?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | May 16 |
 | ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a0868896186f4685988846d?utm_campaign=1055&utm_source=git)** | Houston, TX, US | On Site | May 16 |
-| ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a0868896186f4685988846c?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, US | On Site | May 16 |
 | **[Settlement Housing Fund](https://www.settlementhousingfund.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ebdd604b0fa35a7077f329?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | May 16 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 16 |
 | ↳ | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/6a08510a8f3e371eb617f716?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 16 |
