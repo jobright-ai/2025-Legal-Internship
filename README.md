@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Greenberg Traurig Amsterdam](https://www.gtlaw.com/en/locations/amsterdam)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0db40abeb4d73cb622aaf5?utm_campaign=1055&utm_source=git)** | Washington, D.C., US | On Site | May 20 |
 | **[Mérieux NutriSciences - North America](http://www.merieuxnutrisciences.com/na)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0d3160a235d749afa94108?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | May 19 |
 | **[CHAS Health](https://chas.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0d15a7538d03366dc93dc9?utm_campaign=1055&utm_source=git)** | Spokane, WA | On Site | May 19 |
 | **[MAA](https://ir.maac.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0d109222d0d34036c9b4c1?utm_campaign=1055&utm_source=git)** | Germantown, TN | On Site | May 19 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Aramark](http://www.aramark.com)** | **[Contract Planning & Support Intern](https://jobright.ai/jobs/info/6a0c8f8ca235d749afa8dfb5?utm_campaign=1055&utm_source=git)** | Rockville, MD | On Site | May 19 |
 | **[American Credit Acceptance](http://www.americancreditacceptance.com/)** | **[Intern - Legal Operations](https://jobright.ai/jobs/info/6a0c8b0fa235d749afa8d978?utm_campaign=1055&utm_source=git)** | Spartanburg, SC | On Site | May 19 |
 | **[GrayWolf](https://www.graywolf.com)** | **[Clerk/Summer Intern in Rincon, GA](https://jobright.ai/jobs/info/6a0c85b7963f7a67d95d892e?utm_campaign=1055&utm_source=git)** | Rincon, GA, US | On Site | May 19 |
-| **[Total Quality Logistics](http://www.tql.com/)** | **[Legal Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0c8512538d03366dc8e171?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | May 19 |
 | **[Milco National Constructors](https://www.milconational.com/)** | **[Clerk/Summer Intern in Rincon, GA](https://jobright.ai/jobs/info/6a0c7cb20411d7417a1b9173?utm_campaign=1055&utm_source=git)** | Rincon, GA, US | On Site | May 19 |
 | **[Advanced Regenerative Manufacturing Institute (ARMI) | BioFabUSA](https://www.armiusa.org/)** | **[Contracting Intern](https://jobright.ai/jobs/info/6a0c761222d0d34036c94829?utm_campaign=1055&utm_source=git)** | 500 North Commercial Street, Manchester, NH, USA | On Site | May 19 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/69b694cd3b74eb1e2c8458cd?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | May 19 |
@@ -126,8 +126,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/6a0850fd6186f468598879f8?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 16 |
 | ↳ | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/6a0850fc6186f468598879f1?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 16 |
 | **[Touro College of Dental Medicine](http://dental.touro.edu/)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a084e663b54ed42d74d62b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | Hybrid | May 16 |
-| ↳ | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a084e633b54ed42d74d6293?utm_campaign=1055&utm_source=git)** | New York, NY, US | Hybrid | May 16 |
 | ↳ | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a084e633b54ed42d74d6297?utm_campaign=1055&utm_source=git)** | US | Hybrid | May 16 |
+| ↳ | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a084e633b54ed42d74d6293?utm_campaign=1055&utm_source=git)** | New York, NY, US | Hybrid | May 16 |
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Public Defender's Certified Legal Intern](https://jobright.ai/jobs/info/6a0848f4939a5f01db957a8d?utm_campaign=1055&utm_source=git)** | 633 Court St, Reading, PA, 19601, US | On Site | May 16 |
 | **[Democratic National Committee](https://democrats.org/)** | **[Fall 2026 DNC Legal Internship](https://jobright.ai/jobs/info/6a0825f5939a5f01db956754?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 16 |
 | **[Sabre Systems, LLC](http://www.sabresystems.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/6a07fd8b939a5f01db9556a6?utm_campaign=1055&utm_source=git)** | Lexington Park, MD | On Site | May 15 |
