@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sonova Group](http://www.sonova.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a0f4556619335383fb2a7b0?utm_campaign=1055&utm_source=git)** | Aurora, IL | Hybrid | May 21 |
+| **[Texas Attorney General](https://texasattorneygeneral.gov/)** | **[OAG - Special Litigation / Research Specialist V / 26-0097](https://jobright.ai/jobs/info/6a0f3a78619335383fb2a34c?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | May 21 |
+| **[Sonova Group](http://www.sonova.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a0f35d680bf0430c76319f8?utm_campaign=1055&utm_source=git)** | Aurora (IL), United States | Hybrid | May 21 |
 | **[BMO](http://www.bmo.com)** | **[Legal and Regulatory Compliance Intern, Summer 2026 (Co-op/Internship) - 1o Weeks](https://jobright.ai/jobs/info/6a0f321380bf0430c76317a8?utm_campaign=1055&utm_source=git)** | Chicago, IL, USA, US | On Site | May 21 |
 | **[Fogo de Chão](http://www.fogodechao.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0f228c9f654b3359ce2efc?utm_campaign=1055&utm_source=git)** | Dallas, Texas, US | On Site | May 21 |
 | **[Uniphore](http://www.uniphore.com)** | **[Legal & Finance Intern](https://jobright.ai/jobs/info/6a0f1f5c83d714428981d02c?utm_campaign=1055&utm_source=git)** | USA - CA - Palo Alto, US | On Site | May 21 |
@@ -64,6 +67,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Managing Attorney's Office (MAO) Intern - Los Angeles](https://jobright.ai/jobs/info/6a0f1e5080bf0430c7630fb7?utm_campaign=1055&utm_source=git)** | US-CA-Los Angeles | On Site | May 21 |
 | **[Yale University](https://www.yale.edu)** | **[Summer Intern, YCEJ](https://jobright.ai/jobs/info/6a0f024c72b52f7225f3a5b3?utm_campaign=1055&utm_source=git)** | Sage-Bowers Hall, US | Hybrid | May 21 |
 | **[Dickinson Wright](http://www.dickinson-wright.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6a0efa6b83d714428981c2c0?utm_campaign=1055&utm_source=git)** | Austin, Texas, United States | On Site | May 21 |
+| **[LawBhoomi](https://lawbhoomi.com/)** | **[Legal Internship Opportunity at Mosaic Wellness: Apply Now!](https://jobright.ai/jobs/info/6a0f3910619335383fb2a199?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | May 21 |
+| **[Whitley Law Firm Injury Lawyers](https://whitleylawfirm.com)** | **[Associate Attorney (Entry-Level)](https://jobright.ai/jobs/info/6a0f348272b52f7225f3baf3?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | May 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Risk Governance Analyst Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69817ebb49964d25b5e47ce0?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | May 21 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Legal Intern – Policy & Public Sector (AI & Cybersecurity Focus) (Summer 2026)](https://jobright.ai/jobs/info/69d6a89e48f0c8161d2fa0a9?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 21 |
 | **[Cook County State’s Attorney’s Office](https://www.cookcountystatesattorney.org/)** | **[FALL 2026 Volunteer Internship](https://jobright.ai/jobs/info/6a0ec23d12f8b43cf3979592?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | May 21 |
@@ -76,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Scotiabank](https://www.scotiabank.com)** | **[Global Operations - Fraud Program Management & Design Internship/Coop - Fall 2026](https://jobright.ai/jobs/info/6a0e2a4647fea1610bca7ac7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 20 |
 | **[Kobalt Music](http://www.kobaltmusic.com)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/6a0e1f0180bf0430c7629bbe?utm_campaign=1055&utm_source=git)** | Nashville, Tennessee, United States | Hybrid | May 20 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, E&C Program & Control (Fall 2026)](https://jobright.ai/jobs/info/6a0e1c50c152ac782448366c?utm_campaign=1055&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 20 |
-| **[Florida Crystals](https://www.floridacrystals.com/)** | **[Legal - Intern](https://jobright.ai/jobs/info/6a0e1bb909ecfd704b3e601a?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL | On Site | May 20 |
 | **[Ignite Digital](https://ignite-digital.com)** | **[Contracts/Legal Summer Internship](https://jobright.ai/jobs/info/6a0dfdb209ecfd704b3e4b5f?utm_campaign=1055&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | May 20 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Global Operations - Fraud Program Management & Design Internship/Coop - Fall 2026](https://jobright.ai/jobs/info/6a0dfa6e47fea1610bca5971?utm_campaign=1055&utm_source=git)** | Toronto, ON, CA | On Site | May 20 |
 | **[OPTrust](http://www.optrust.com)** | **[Legal Assistant Intern Student](https://jobright.ai/jobs/info/6a0df92dbeb4d73cb622d842?utm_campaign=1055&utm_source=git)** | Toronto, ON, CA | Hybrid | May 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Public Defender's Certified Legal Intern](https://jobright.ai/jobs/info/6a0848f4939a5f01db957a8d?utm_campaign=1055&utm_source=git)** | 633 Court St, Reading, PA, 19601, US | On Site | May 16 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Global Operations - Detection and Application Fraud Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/6a0ed4a49f654b3359ce1392?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 16 |
 | **[Democratic National Committee](https://democrats.org/)** | **[Fall 2026 DNC Legal Internship](https://jobright.ai/jobs/info/6a0825f5939a5f01db956754?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 16 |
-| **[Recor Medical](http://recormedical.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a07c15a8f3e371eb617a543?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | On Site | May 15 |
-| **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - NYC Law Scholars Program](https://jobright.ai/jobs/info/6a07a9618f3e371eb617981f?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 15 |
-| **[American Credit Acceptance](http://www.americancreditacceptance.com/)** | **[Intern - Legal](https://jobright.ai/jobs/info/6a07973f6186f46859881263?utm_campaign=1055&utm_source=git)** | Spartanburg, SC | On Site | May 15 |
-| **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Cabrini / Legal Intern](https://jobright.ai/jobs/info/6a07956e8f3e371eb6178bee?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
