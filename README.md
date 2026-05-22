@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Renesas Electronics](https://www.renesas.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a10914b9fdbf21f36caf776?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | May 22 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Intellectual Property/Paralegal Intern (Year-Round)](https://jobright.ai/jobs/info/6a108ee369bd827926aef31d?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | May 22 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1089a3619335383fb3332c?utm_campaign=1055&utm_source=git)** | San Jose, CALIFORNIA | On Site | May 22 |
 | **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Co-op Paralegal Intern](https://jobright.ai/jobs/info/6a106db569bd827926aee3b9?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | May 22 |
@@ -117,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Clinical Pathology Laboratories](http://www.cpllabs.com)** | **[Intern - Legal and Compliance](https://jobright.ai/jobs/info/6a0dea49beb4d73cb622d10a?utm_campaign=1055&utm_source=git)** | Dallas, TX, US | On Site | May 20 |
 | **[Syntax](http://www.syntax.com/)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/6a0de73f09ecfd704b3e3f0f?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 20 |
 | **[Tooele County](http://TooeleCo.org)** | **[Law Clerk Summer Intern](https://jobright.ai/jobs/info/6a0de1c247fea1610bca49c7?utm_campaign=1055&utm_source=git)** | Tooele,UT,US | On Site | May 20 |
-| **[Ignite Digital](https://ignite-digital.com)** | **[Contracts/Legal Summer Internship](https://jobright.ai/jobs/info/6a0dde3a47fea1610bca4605?utm_campaign=1055&utm_source=git)** | Charleston, South Carolina | On Site | May 20 |
-| ↳ | **[Contracts/Legal Summer Internship](https://jobright.ai/jobs/info/6a0dde3a47fea1610bca4606?utm_campaign=1055&utm_source=git)** | Charleston, South Carolina, United States | On Site | May 20 |
+| **[Ignite Digital](https://ignite-digital.com)** | **[Contracts/Legal Summer Internship](https://jobright.ai/jobs/info/6a0dde3a47fea1610bca4606?utm_campaign=1055&utm_source=git)** | Charleston, South Carolina, United States | On Site | May 20 |
+| ↳ | **[Contracts/Legal Summer Internship](https://jobright.ai/jobs/info/6a0dde3a47fea1610bca4605?utm_campaign=1055&utm_source=git)** | Charleston, South Carolina | On Site | May 20 |
 | **[Everllence](https://www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | May 20 |
 | **[Hard Rock International](https://www.hardrockhotels.com)** | **[Intern - Legal Affairs](https://jobright.ai/jobs/info/6a0dce2c83d7144289812a62?utm_campaign=1055&utm_source=git)** | Support Services Headquarters Building, US | On Site | May 20 |
 | **[Blockchain.com](http://blockchain.com)** | **[Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/699c6494e0bddb6acacb6f83?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | May 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Orbis](https://www.orbisoperations.com)** | **[Legal, Summer Intern](https://jobright.ai/jobs/info/6a0b1ee2963f7a67d95cc2e7?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | May 18 |
 | **[American Credit Acceptance](http://www.americancreditacceptance.com/)** | **[Intern - Compliance Project Management](https://jobright.ai/jobs/info/6a0b186ea235d749afa817cf?utm_campaign=1055&utm_source=git)** | Spartanburg, SC, United States | On Site | May 18 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/6a0accd8a203b1052e44eee6?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | May 18 |
-| ↳ | **[Fall 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/6a0abd73403fc339507f832c?utm_campaign=1055&utm_source=git)** | Los Angeles, California, USA, US | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
