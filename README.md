@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[College Intern - Law](https://jobright.ai/jobs/info/6a105a9d69bd827926aed972?utm_campaign=1055&utm_source=git)** | One Renaissance Center - 345 High Street, Hamilton, OH | On Site | May 22 |
+| **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/6a10582e69bd827926aed85b?utm_campaign=1055&utm_source=git)** | Plano, TX | Hybrid | May 22 |
+| **[LawBhoomi](https://lawbhoomi.com/)** | **[Junior Associate and Legal Internship Opportunity at SRK Legal: Apply Now!](https://jobright.ai/jobs/info/6a104a4b9f654b3359ceac4f?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | May 22 |
 | **[GenScript](http://www.genscript.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f3c32d58b23a2329da7e0d?utm_campaign=1055&utm_source=git)** | Piscataway, NJ | On Site | May 22 |
 | **[Acrisure](http://acrisure.com)** | **[Surety Internship](https://jobright.ai/jobs/info/69f3812d1f90bd6ae23cf7d0?utm_campaign=1055&utm_source=git)** | Miami Lakes, FL | On Site | May 22 |
 | **[IMP](http://www.impconsults.com)** | **[Associate Intern](https://jobright.ai/jobs/info/6a101b5980bf0430c7637bae?utm_campaign=1055&utm_source=git)** | Boston, MA, USA | Hybrid | May 22 |
@@ -108,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Clinical Pathology Laboratories](http://www.cpllabs.com)** | **[Intern - Legal and Compliance](https://jobright.ai/jobs/info/6a0dea49beb4d73cb622d10a?utm_campaign=1055&utm_source=git)** | Dallas, TX, US | On Site | May 20 |
 | **[Syntax](http://www.syntax.com/)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/6a0de73f09ecfd704b3e3f0f?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 20 |
 | **[Tooele County](http://TooeleCo.org)** | **[Law Clerk Summer Intern](https://jobright.ai/jobs/info/6a0de1c247fea1610bca49c7?utm_campaign=1055&utm_source=git)** | Tooele,UT,US | On Site | May 20 |
-| **[Ignite Digital](https://ignite-digital.com)** | **[Contracts/Legal Summer Internship](https://jobright.ai/jobs/info/6a0dde3a47fea1610bca4605?utm_campaign=1055&utm_source=git)** | Charleston, South Carolina | On Site | May 20 |
-| ↳ | **[Contracts/Legal Summer Internship](https://jobright.ai/jobs/info/6a0dde3a47fea1610bca4606?utm_campaign=1055&utm_source=git)** | Charleston, South Carolina, United States | On Site | May 20 |
+| **[Ignite Digital](https://ignite-digital.com)** | **[Contracts/Legal Summer Internship](https://jobright.ai/jobs/info/6a0dde3a47fea1610bca4606?utm_campaign=1055&utm_source=git)** | Charleston, South Carolina, United States | On Site | May 20 |
+| ↳ | **[Contracts/Legal Summer Internship](https://jobright.ai/jobs/info/6a0dde3a47fea1610bca4605?utm_campaign=1055&utm_source=git)** | Charleston, South Carolina | On Site | May 20 |
 | **[Everllence](https://www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | May 20 |
 | **[Hard Rock International](https://www.hardrockhotels.com)** | **[Intern - Legal Affairs](https://jobright.ai/jobs/info/6a0dce2c83d7144289812a62?utm_campaign=1055&utm_source=git)** | Support Services Headquarters Building, US | On Site | May 20 |
 | **[Blockchain.com](http://blockchain.com)** | **[Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/699c6494e0bddb6acacb6f83?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | May 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/696026607ebc25398eb6174d?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | May 17 |
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, Risk Advisory - Fall 2026, Cranberry Township](https://jobright.ai/jobs/info/6a0f21d4619335383fb2961a?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | May 16 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b518f3e371eb61803b3?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 16 |
-| ↳ | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b4f8f3e371eb61803b0?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | May 16 |
-| **[US Claro](https://www.usclaro.com)** | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a0868f36186f468598884be?utm_campaign=1055&utm_source=git)** | Miramar, FL | On Site | May 16 |
-| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a0868896186f4685988846c?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, US | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
