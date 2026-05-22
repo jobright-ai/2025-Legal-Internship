@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[iRhythm Technologies, Inc.](http://www.irhythmtech.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a0f984412f8b43cf39807a9?utm_campaign=1055&utm_source=git)** | United States | Remote | May 21 |
+| **[MicroVention-Terumo](http://microvention.com)** | **[Intern, Legal IP](https://jobright.ai/jobs/info/6a0f8a6583d7144289821455?utm_campaign=1055&utm_source=git)** | Aliso Viejo, California, USA | Hybrid | May 21 |
 | **[Reading Partners](https://readingpartners.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0f76359f654b3359ce6020?utm_campaign=1055&utm_source=git)** | California, United States | Remote | May 21 |
 | **[Continental](https://www.continental.com)** | **[Intern - Customs Compliance, Year-Round](https://jobright.ai/jobs/info/6a0f75e912f8b43cf397f515?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | On Site | May 21 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Managing Attorney's Office (MAO) Intern - Los Angeles](https://jobright.ai/jobs/info/6a0f70bf619335383fb2c6a3?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | May 21 |
@@ -69,12 +71,12 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Legal and Regulatory Compliance Intern, Summer 2026 (Co-op/Internship) - 1o Weeks](https://jobright.ai/jobs/info/6a0f321380bf0430c76317a8?utm_campaign=1055&utm_source=git)** | Chicago, IL, USA, US | On Site | May 21 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Indirect Tax Counsel (Fall 2026)](https://jobright.ai/jobs/info/6a0f4c5e9f654b3359ce4431?utm_campaign=1055&utm_source=git)** | Hayward, CA | On Site | May 21 |
 | **[Fogo de Chão](http://www.fogodechao.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0f228c9f654b3359ce2efc?utm_campaign=1055&utm_source=git)** | Dallas, Texas, US | On Site | May 21 |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a71c7a37c712687d384c?utm_campaign=1055&utm_source=git)** | Stockton, CA | On Site | May 21 |
 | **[Uniphore](http://www.uniphore.com)** | **[Legal & Finance Intern](https://jobright.ai/jobs/info/6a0f1f5c83d714428981d02c?utm_campaign=1055&utm_source=git)** | USA - CA - Palo Alto, US | On Site | May 21 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Managing Attorney's Office (MAO) Intern - Los Angeles](https://jobright.ai/jobs/info/6a0f1e5180bf0430c7630fba?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, US | On Site | May 21 |
 | ↳ | **[Managing Attorney's Office (MAO) Intern - Los Angeles](https://jobright.ai/jobs/info/6a0f1e5080bf0430c7630fb7?utm_campaign=1055&utm_source=git)** | US-CA-Los Angeles | On Site | May 21 |
 | **[Yale University](https://www.yale.edu)** | **[Summer Intern, YCEJ](https://jobright.ai/jobs/info/6a0f024c72b52f7225f3a5b3?utm_campaign=1055&utm_source=git)** | Sage-Bowers Hall, US | Hybrid | May 21 |
 | **[Dickinson Wright](http://www.dickinson-wright.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6a0efa6b83d714428981c2c0?utm_campaign=1055&utm_source=git)** | Austin, Texas, United States | On Site | May 21 |
-| **[LawBhoomi](https://lawbhoomi.com/)** | **[Legal Internship Opportunity at Mosaic Wellness: Apply Now!](https://jobright.ai/jobs/info/6a0f3910619335383fb2a199?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | May 21 |
 | **[Whitley Law Firm Injury Lawyers](https://whitleylawfirm.com)** | **[Associate Attorney (Entry-Level)](https://jobright.ai/jobs/info/6a0f348272b52f7225f3baf3?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | May 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Risk Governance Analyst Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69817ebb49964d25b5e47ce0?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | May 21 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Legal Intern – Policy & Public Sector (AI & Cybersecurity Focus) (Summer 2026)](https://jobright.ai/jobs/info/69d6a89e48f0c8161d2fa0a9?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 21 |
@@ -147,14 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b518f3e371eb61803b3?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 16 |
 | ↳ | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b4f8f3e371eb61803b0?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | May 16 |
 | **[US Claro](https://www.usclaro.com)** | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a0868f36186f468598884be?utm_campaign=1055&utm_source=git)** | Miramar, FL | On Site | May 16 |
-| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a0868896186f4685988846c?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, US | On Site | May 16 |
-| ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a0868896186f4685988846e?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | May 16 |
+| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a0868896186f4685988846e?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | May 16 |
 | ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a0868896186f4685988846d?utm_campaign=1055&utm_source=git)** | Houston, TX, US | On Site | May 16 |
+| ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a0868896186f4685988846c?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, US | On Site | May 16 |
 | **[Settlement Housing Fund](https://www.settlementhousingfund.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ebdd604b0fa35a7077f329?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | May 16 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 16 |
 | ↳ | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/6a08510a8f3e371eb617f716?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 16 |
 | ↳ | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/6a0851058f3e371eb617f709?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 16 |
 | ↳ | **[Legal and Compliance Department - Consumer and Regulatory Compliance Team Intern](https://jobright.ai/jobs/info/6a085101403fc339507ecfd7?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 16 |
-| ↳ | **[Legal and Compliance Department - Consumer and Regulatory Compliance Team Intern](https://jobright.ai/jobs/info/6a085100403fc339507ecfd0?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 16 |
-| ↳ | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/6a0850fd6186f468598879f8?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
