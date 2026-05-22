@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMP](http://www.impconsults.com)** | **[Associate Intern](https://jobright.ai/jobs/info/6a101b5980bf0430c7637bae?utm_campaign=1055&utm_source=git)** | Boston, MA, USA | Hybrid | May 22 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Contracts & Financial Operations Intern](https://jobright.ai/jobs/info/6a0fe8c972b52f7225f40f60?utm_campaign=1055&utm_source=git)** | 4200 28th St S, Arlington, VA, 22206, US | Hybrid | May 21 |
 | **[Taulia](http://www.taulia.com)** | **[Risk, Compliance & AI Innovation Intern](https://jobright.ai/jobs/info/6a0fcf009f654b3359ce86d9?utm_campaign=1055&utm_source=git)** | San Francisco, CA, US, 94103 | Remote | May 21 |
 | **[City of Somerville](http://www.somervillema.gov)** | **[Project Assistant (City Counsel Intern)](https://jobright.ai/jobs/info/6a0fa47212f8b43cf3980bf1?utm_campaign=1055&utm_source=git)** | United States | On Site | May 21 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b518f3e371eb61803b3?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 16 |
 | ↳ | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b4f8f3e371eb61803b0?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | May 16 |
 | **[US Claro](https://www.usclaro.com)** | **[Contract Data & Analysis Intern](https://jobright.ai/jobs/info/6a0868f36186f468598884be?utm_campaign=1055&utm_source=git)** | Miramar, FL | On Site | May 16 |
-| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a0868896186f4685988846d?utm_campaign=1055&utm_source=git)** | Houston, TX, US | On Site | May 16 |
-| ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a0868896186f4685988846e?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | May 16 |
+| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a0868896186f4685988846e?utm_campaign=1055&utm_source=git)** | US-TX-Houston | On Site | May 16 |
+| ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a0868896186f4685988846d?utm_campaign=1055&utm_source=git)** | Houston, TX, US | On Site | May 16 |
 | ↳ | **[Project Compliance Intern](https://jobright.ai/jobs/info/6a0868896186f4685988846c?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, US | On Site | May 16 |
-| **[Settlement Housing Fund](https://www.settlementhousingfund.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/69ebdd604b0fa35a7077f329?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
