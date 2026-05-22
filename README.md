@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valeo](http://www.valeo.com/en/)** | **[Intellectual Property/Paralegal Intern (Year-Round)](https://jobright.ai/jobs/info/6a108ee369bd827926aef31d?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI | On Site | May 22 |
+| **[Renesas Electronics](https://www.renesas.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1089a3619335383fb3332c?utm_campaign=1055&utm_source=git)** | San Jose, CALIFORNIA | On Site | May 22 |
 | **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Co-op Paralegal Intern](https://jobright.ai/jobs/info/6a106db569bd827926aee3b9?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | May 22 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69d6edf7e63cea7a8b66d0bb?utm_campaign=1055&utm_source=git)** | Kansas City, MO | Hybrid | May 22 |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 22 |
 | **[Catalent](https://www.catalent.com)** | **[Legal Intern (Summer)](https://jobright.ai/jobs/info/6a10673a12f8b43cf3984e71?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ, US | On Site | May 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[College Intern - Law](https://jobright.ai/jobs/info/6a105a9d69bd827926aed972?utm_campaign=1055&utm_source=git)** | One Renaissance Center - 345 High Street, Hamilton, OH | On Site | May 22 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/6a10582e69bd827926aed85b?utm_campaign=1055&utm_source=git)** | Plano, TX | Hybrid | May 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Credit Acceptance](http://www.americancreditacceptance.com/)** | **[Intern - Compliance Project Management](https://jobright.ai/jobs/info/6a0b186ea235d749afa817cf?utm_campaign=1055&utm_source=git)** | Spartanburg, SC, United States | On Site | May 18 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/6a0accd8a203b1052e44eee6?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | May 18 |
 | ↳ | **[Fall 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/6a0abd73403fc339507f832c?utm_campaign=1055&utm_source=git)** | Los Angeles, California, USA, US | On Site | May 18 |
-| **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Mortgage Title Operations Undergraduate Intern (Remote Opportunity)](https://jobright.ai/jobs/info/6a0a1de96186f4685988f5f7?utm_campaign=1055&utm_source=git)** | California, United States | Remote | May 17 |
-| **[East Penn Manufacturing Co.](https://www.eastpennmanufacturing.com/)** | **[LEGAL INTERNSHIP- (2026-SUMMER INTERN)](https://jobright.ai/jobs/info/6a09f377939a5f01db960784?utm_campaign=1055&utm_source=git)** | Lyon Station, PA, US | On Site | May 17 |
-| **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Licensing Intern](https://jobright.ai/jobs/info/69e74356f8fa2f3ec32a6b54?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | May 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
