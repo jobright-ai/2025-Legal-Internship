@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arlington County Government](https://www.arlingtonva.us)** | **[Contracts & Financial Operations Intern](https://jobright.ai/jobs/info/6a0fe8c972b52f7225f40f60?utm_campaign=1055&utm_source=git)** | 4200 28th St S, Arlington, VA, 22206, US | Hybrid | May 21 |
 | **[Taulia](http://www.taulia.com)** | **[Risk, Compliance & AI Innovation Intern](https://jobright.ai/jobs/info/6a0fcf009f654b3359ce86d9?utm_campaign=1055&utm_source=git)** | San Francisco, CA, US, 94103 | Remote | May 21 |
 | **[City of Somerville](http://www.somervillema.gov)** | **[Project Assistant (City Counsel Intern)](https://jobright.ai/jobs/info/6a0fa47212f8b43cf3980bf1?utm_campaign=1055&utm_source=git)** | United States | On Site | May 21 |
 | **[iRhythm Technologies, Inc.](http://www.irhythmtech.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a0f984412f8b43cf39807a9?utm_campaign=1055&utm_source=git)** | United States | Remote | May 21 |
@@ -86,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Cook County State’s Attorney’s Office](https://www.cookcountystatesattorney.org/)** | **[FALL 2026 Volunteer Internship](https://jobright.ai/jobs/info/6a0ec23d12f8b43cf3979592?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | May 21 |
 | **[MaxLinear](http://www.maxlinear.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0e960d47fea1610bcab37a?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | May 20 |
 | **[Cochise County](https://www.cochise.az.gov/jobs)** | **[Justice Court Clerk Trainee (JP5) - Sierra Vista](https://jobright.ai/jobs/info/6a0e7cfb09ecfd704b3e9889?utm_campaign=1055&utm_source=git)** | Sierra Vista, AZ | On Site | May 20 |
+| **[UNDP Careers](https://www.undp.org/careers)** | **[Intern – Investigations Section (5 internship posts)](https://jobright.ai/jobs/info/6a0b7d11538d03366dc86085?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | May 20 |
 | **[MaxLinear](http://www.maxlinear.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0e595883d7144289818713?utm_campaign=1055&utm_source=git)** | US-CA-San Jose | On Site | May 20 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0e595783d7144289818712?utm_campaign=1055&utm_source=git)** | San Jose, CA, US | On Site | May 20 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/6a0e3533c152ac782448495a?utm_campaign=1055&utm_source=git)** | Tustin, California | On Site | May 20 |
@@ -123,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/69b694cd3b74eb1e2c8458cd?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | May 19 |
 | **[Swed Fintech AB](swedfintech.com)** | **[Securities Litigation Internship](https://jobright.ai/jobs/info/697f9e27abff4c399a9e341a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | May 19 |
 | **[IGT](http://www.probability.co.uk)** | **[Intern Technical](https://jobright.ai/jobs/info/6a0c08370411d7417a1b56f5?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | May 18 |
-| **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027/28 Articling Student - Senior Counsel, Family (Ottawa) - French Bilingual](https://jobright.ai/jobs/info/6a0fd18012f8b43cf3981d7f?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 18 |
 | **[Elevate](http://elevate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0bd82fa235d749afa88e86?utm_campaign=1055&utm_source=git)** | Addison, TX | On Site | May 18 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0c005f22d0d34036c90e81?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | May 18 |
 | **[Forward Majority](https://forwardmajority.org/)** | **[Operations and Compliance Internship](https://jobright.ai/jobs/info/6a0bc5a7538d03366dc88904?utm_campaign=1055&utm_source=git)** | United States | Remote | May 18 |
@@ -132,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[IGT](http://www.probability.co.uk)** | **[Intern Technical](https://jobright.ai/jobs/info/6a0ba7154d93203636873089?utm_campaign=1055&utm_source=git)** | Las Vegas, NV, US, 89113 | On Site | May 18 |
 | **[Elevate](http://elevate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0b907c4d932036368724f1?utm_campaign=1055&utm_source=git)** | Addison, TX, US | Hybrid | May 18 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0b90764d932036368724e7?utm_campaign=1055&utm_source=git)** | Fort Worth, TX, US | Hybrid | May 18 |
-| **[UNDP Careers](https://www.undp.org/careers)** | **[Intern – Investigations Section (5 internship posts)](https://jobright.ai/jobs/info/6a0b7d11538d03366dc86085?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | May 18 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Tenant Rep Summer Internship](https://jobright.ai/jobs/info/6a0b751e22d0d34036c8c8be?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, USA, US | On Site | May 18 |
 | **[Aramark UK](aramark.co.uk)** | **[Contract Planning & Support Intern](https://jobright.ai/jobs/info/6a0b6eec4d93203636870cfb?utm_campaign=1055&utm_source=git)** | Rockville, MD, US, 20850 | On Site | May 18 |
 | **[Anchor Glass Container LLC](http://www.anchorglass.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0b59e64d932036368700ba?utm_campaign=1055&utm_source=git)** | Tampa, US | On Site | May 18 |
