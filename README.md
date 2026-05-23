@@ -109,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Cochise County](https://www.cochise.az.gov/jobs)** | **[Justice Court Clerk Trainee (JP5) - Sierra Vista](https://jobright.ai/jobs/info/6a0e7cfb09ecfd704b3e9889?utm_campaign=1055&utm_source=git)** | Sierra Vista, AZ | On Site | May 20 |
 | **[UNDP Careers](https://www.undp.org/careers)** | **[Intern – Investigations Section (5 internship posts)](https://jobright.ai/jobs/info/6a0b7d11538d03366dc86085?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | May 20 |
 | **[MaxLinear](http://www.maxlinear.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0e595883d7144289818713?utm_campaign=1055&utm_source=git)** | US-CA-San Jose | On Site | May 20 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0e595783d7144289818712?utm_campaign=1055&utm_source=git)** | San Jose, CA, US | On Site | May 20 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/6a0e3533c152ac782448495a?utm_campaign=1055&utm_source=git)** | Tustin, California | On Site | May 20 |
 | **[Kobalt Music](http://www.kobaltmusic.com)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/6a0e2a8480bf0430c762a41d?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | May 20 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Global Operations - Fraud Program Management & Design Internship/Coop - Fall 2026](https://jobright.ai/jobs/info/6a0e2a4647fea1610bca7ac7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 20 |
@@ -125,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Clinical Pathology Laboratories](http://www.cpllabs.com)** | **[Intern - Legal and Compliance](https://jobright.ai/jobs/info/6a0dea49beb4d73cb622d10a?utm_campaign=1055&utm_source=git)** | Dallas, TX, US | On Site | May 20 |
 | **[Syntax](http://www.syntax.com/)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/6a0de73f09ecfd704b3e3f0f?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 20 |
 | **[Tooele County](http://TooeleCo.org)** | **[Law Clerk Summer Intern](https://jobright.ai/jobs/info/6a0de1c247fea1610bca49c7?utm_campaign=1055&utm_source=git)** | Tooele,UT,US | On Site | May 20 |
-| **[Ignite Digital](https://ignite-digital.com)** | **[Contracts/Legal Summer Internship](https://jobright.ai/jobs/info/6a0dde3a47fea1610bca4606?utm_campaign=1055&utm_source=git)** | Charleston, South Carolina, United States | On Site | May 20 |
-| ↳ | **[Contracts/Legal Summer Internship](https://jobright.ai/jobs/info/6a0dde3a47fea1610bca4605?utm_campaign=1055&utm_source=git)** | Charleston, South Carolina | On Site | May 20 |
+| **[Ignite Digital](https://ignite-digital.com)** | **[Contracts/Legal Summer Internship](https://jobright.ai/jobs/info/6a0dde3a47fea1610bca4605?utm_campaign=1055&utm_source=git)** | Charleston, South Carolina | On Site | May 20 |
+| ↳ | **[Contracts/Legal Summer Internship](https://jobright.ai/jobs/info/6a0dde3a47fea1610bca4606?utm_campaign=1055&utm_source=git)** | Charleston, South Carolina, United States | On Site | May 20 |
 | **[Everllence](https://www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | May 20 |
 | **[Hard Rock International](https://www.hardrockhotels.com)** | **[Intern - Legal Affairs](https://jobright.ai/jobs/info/6a0dce2c83d7144289812a62?utm_campaign=1055&utm_source=git)** | Support Services Headquarters Building, US | On Site | May 20 |
 | **[Blockchain.com](http://blockchain.com)** | **[Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/699c6494e0bddb6acacb6f83?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | May 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0b90764d932036368724e7?utm_campaign=1055&utm_source=git)** | Fort Worth, TX, US | Hybrid | May 18 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Tenant Rep Summer Internship](https://jobright.ai/jobs/info/6a0b751e22d0d34036c8c8be?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, USA, US | On Site | May 18 |
 | **[Aramark UK](aramark.co.uk)** | **[Contract Planning & Support Intern](https://jobright.ai/jobs/info/6a0b6eec4d93203636870cfb?utm_campaign=1055&utm_source=git)** | Rockville, MD, US, 20850 | On Site | May 18 |
+| **[Anchor Glass Container LLC](http://www.anchorglass.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0b59e64d932036368700ba?utm_campaign=1055&utm_source=git)** | Tampa, US | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
