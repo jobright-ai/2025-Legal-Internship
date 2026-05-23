@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a11de7312f8b43cf398b800?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 23 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69d97b7bf748bc5d08a4b9ee?utm_campaign=1055&utm_source=git)** | Bellevue, WA | Hybrid | May 23 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Summer Associate (Legal)](https://jobright.ai/jobs/info/69a232300da45516f16b7ab9?utm_campaign=1055&utm_source=git)** | Paramus, NJ | On Site | May 22 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Legal Assistant Intern (Unpaid) (1925)](https://jobright.ai/jobs/info/6a1110439f654b3359cefa78?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | May 22 |
 | **[Catalent](https://www.catalent.com)** | **[Legal Intern (Summer)](https://jobright.ai/jobs/info/6a110c7a9fdbf21f36cb2727?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | May 22 |
 | **[Save the Children US](http://savethechildren.org)** | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a11166c83d714428982a69e?utm_campaign=1055&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
 | ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a1116ef9fdbf21f36cb2c74?utm_campaign=1055&utm_source=git)** | United States | Remote | May 22 |
-| ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a11166d83d714428982a6a0?utm_campaign=1055&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
 | ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a1116d3619335383fb36a7b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 22 |
+| ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a11166d83d714428982a6a0?utm_campaign=1055&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
 | **[Morehouse School of Medicine](https://www.msm.edu/)** | **[Legal Operations Intern (On-Site)](https://jobright.ai/jobs/info/6a10f5c469bd827926af176c?utm_campaign=1055&utm_source=git)** | Atlanta Metro | On Site | May 22 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Import/Export Intern](https://jobright.ai/jobs/info/6a10c0f112f8b43cf398726e?utm_campaign=1055&utm_source=git)** | Rolla, MO | On Site | May 22 |
 | **[PURIS](https://teamipr.com/)** | **[Intern](https://jobright.ai/jobs/info/6a10f3e2619335383fb35a30?utm_campaign=1055&utm_source=git)** | The Woodlands, TX | On Site | May 22 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Aretum](https://www.aretum.com)** | **[Summer Intern - Contracts](https://jobright.ai/jobs/info/6a0dee0347fea1610bca53df?utm_campaign=1055&utm_source=git)** | McLean, Virginia, United States | On Site | May 20 |
 | **[Syntax](http://www.syntax.com/)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/6a0de73f09ecfd704b3e3f0f?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 20 |
 | **[Tooele County](http://TooeleCo.org)** | **[Law Clerk Summer Intern](https://jobright.ai/jobs/info/6a0de1c247fea1610bca49c7?utm_campaign=1055&utm_source=git)** | Tooele,UT,US | On Site | May 20 |
-| **[Ignite Digital](https://ignite-digital.com)** | **[Contracts/Legal Summer Internship](https://jobright.ai/jobs/info/6a0dde3a47fea1610bca4605?utm_campaign=1055&utm_source=git)** | Charleston, South Carolina | On Site | May 20 |
-| ↳ | **[Contracts/Legal Summer Internship](https://jobright.ai/jobs/info/6a0dde3a47fea1610bca4606?utm_campaign=1055&utm_source=git)** | Charleston, South Carolina, United States | On Site | May 20 |
+| **[Ignite Digital](https://ignite-digital.com)** | **[Contracts/Legal Summer Internship](https://jobright.ai/jobs/info/6a0dde3a47fea1610bca4606?utm_campaign=1055&utm_source=git)** | Charleston, South Carolina, United States | On Site | May 20 |
+| ↳ | **[Contracts/Legal Summer Internship](https://jobright.ai/jobs/info/6a0dde3a47fea1610bca4605?utm_campaign=1055&utm_source=git)** | Charleston, South Carolina | On Site | May 20 |
 | **[Everllence](https://www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | May 20 |
 | **[Blockchain.com](http://blockchain.com)** | **[Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/699c6494e0bddb6acacb6f83?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | May 20 |
 | **[Montgomery County, PA](https://www.montcopa.org)** | **[Public Defender Summer Legal INTERN](https://jobright.ai/jobs/info/6a115a2e83d714428982b3bc?utm_campaign=1055&utm_source=git)** | Norristown, PA | On Site | May 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Elevate](http://elevate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0b907c4d932036368724f1?utm_campaign=1055&utm_source=git)** | Addison, TX, US | Hybrid | May 18 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0b90764d932036368724e7?utm_campaign=1055&utm_source=git)** | Fort Worth, TX, US | Hybrid | May 18 |
 | **[Aramark UK](aramark.co.uk)** | **[Contract Planning & Support Intern](https://jobright.ai/jobs/info/6a0b6eec4d93203636870cfb?utm_campaign=1055&utm_source=git)** | Rockville, MD, US, 20850 | On Site | May 18 |
-| **[Anchor Glass Container LLC](http://www.anchorglass.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0b59e64d932036368700ba?utm_campaign=1055&utm_source=git)** | Tampa, US | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
