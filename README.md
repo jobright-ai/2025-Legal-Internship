@@ -57,8 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a146660dc845f4be5bd200c?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 25 |
-| **[LawBhoomi](https://lawbhoomi.com/)** | **[Internship and Job Opportunity at Garg & Garg Advocates: Apply Now!](https://jobright.ai/jobs/info/6a146da4c48b503aeffbeea1?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | May 25 |
+| **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a148319dc845f4be5bd24a7?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 25 |
 | **[PURIS](https://teamipr.com/)** | **[Intern](https://jobright.ai/jobs/info/6a13a3b29f654b3359cf6656?utm_campaign=1055&utm_source=git)** | Spring, TX | On Site | May 24 |
 | **[T5 Data Centers](http://www.t5datacenters.com)** | **[2026 Legal Intern](https://jobright.ai/jobs/info/6a13074912f8b43cf398e2b6?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | May 24 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Global Trade Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/69d95303738f2f099e8a0ff5?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | May 24 |
@@ -79,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Catalent](https://www.catalent.com)** | **[Legal Intern (Summer)](https://jobright.ai/jobs/info/6a110c7a9fdbf21f36cb2727?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | May 22 |
 | **[Save the Children US](http://savethechildren.org)** | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a11166c83d714428982a69e?utm_campaign=1055&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
 | ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a1116ef9fdbf21f36cb2c74?utm_campaign=1055&utm_source=git)** | United States | Remote | May 22 |
-| ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a11166d83d714428982a6a0?utm_campaign=1055&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
 | ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a1116d3619335383fb36a7b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 22 |
+| ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a11166d83d714428982a6a0?utm_campaign=1055&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
 | **[Morehouse School of Medicine](https://www.msm.edu/)** | **[Legal Operations Intern (On-Site)](https://jobright.ai/jobs/info/6a10f5c469bd827926af176c?utm_campaign=1055&utm_source=git)** | Atlanta Metro | On Site | May 22 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Import/Export Intern](https://jobright.ai/jobs/info/6a10c0f112f8b43cf398726e?utm_campaign=1055&utm_source=git)** | Rolla, MO | On Site | May 22 |
 | **[PURIS](https://teamipr.com/)** | **[Intern](https://jobright.ai/jobs/info/6a10f3e2619335383fb35a30?utm_campaign=1055&utm_source=git)** | The Woodlands, TX | On Site | May 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Aramark](http://www.aramark.com)** | **[Contract Planning & Support Intern](https://jobright.ai/jobs/info/6a0c8f8ca235d749afa8dfb5?utm_campaign=1055&utm_source=git)** | Rockville, MD | On Site | May 19 |
 | **[American Credit Acceptance](http://www.americancreditacceptance.com/)** | **[Intern - Legal Operations](https://jobright.ai/jobs/info/6a0c8b0fa235d749afa8d978?utm_campaign=1055&utm_source=git)** | Spartanburg, SC | On Site | May 19 |
 | **[Advanced Regenerative Manufacturing Institute (ARMI) | BioFabUSA](https://www.armiusa.org/)** | **[Contracting Intern](https://jobright.ai/jobs/info/6a0c761222d0d34036c94829?utm_campaign=1055&utm_source=git)** | 500 North Commercial Street, Manchester, NH, USA | On Site | May 19 |
+| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Compliance, Auditing & Analyst Internships](https://jobright.ai/jobs/info/69b694cd3b74eb1e2c8458cd?utm_campaign=1055&utm_source=git)** | Sandusky, OH | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
