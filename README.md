@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a14b9f7dc845f4be5bd2f5e?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 25 |
+| **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a14f22ddc845f4be5bd377c?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 25 |
 | **[PURIS](https://teamipr.com/)** | **[Intern](https://jobright.ai/jobs/info/6a13a3b29f654b3359cf6656?utm_campaign=1055&utm_source=git)** | Spring, TX | On Site | May 24 |
 | **[T5 Data Centers](http://www.t5datacenters.com)** | **[2026 Legal Intern](https://jobright.ai/jobs/info/6a13074912f8b43cf398e2b6?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | May 24 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Global Trade Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/69d95303738f2f099e8a0ff5?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | May 24 |
