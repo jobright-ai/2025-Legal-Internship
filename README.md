@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a152b59dc845f4be5bd464a?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 25 |
+| **[Goldstein & McClintock LLLP](https://www.goldmclaw.com/)** | **[Part-time Legal Intern](https://jobright.ai/jobs/info/6a15464c1935fa61b3c67002?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | May 26 |
 | **[Keenova](https://www.keenova.com)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/6a1525b7c48b503aeffc10d6?utm_campaign=1055&utm_source=git)** | Malvern, PA | Hybrid | May 25 |
 | **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1521a1128680351d95f8d4?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | May 25 |
 | **[Mallinckrodt Pharmaceuticals](http://mallinckrodt.com)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/6a151e2bbc9bff375af03031?utm_campaign=1055&utm_source=git)** | Malvern, PA, US | Hybrid | May 25 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Investment Company Institute](http://www.ici.org)** | **[Fall Law Intern](https://jobright.ai/jobs/info/6a0d073a538d03366dc939ce?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 19 |
 | ↳ | **[Fall Law Intern](https://jobright.ai/jobs/info/6a0cd5504d9320363687c918?utm_campaign=1055&utm_source=git)** | Washington, DC, US | Hybrid | May 19 |
 | **[Trove Brands](https://trovebrands.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0cc1fa4d9320363687b872?utm_campaign=1055&utm_source=git)** | Lehi, Utah | On Site | May 19 |
-| **[Save the Children US](http://savethechildren.org)** | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a10a6b212f8b43cf3986955?utm_campaign=1055&utm_source=git)** | Lexington, Kentucky, United States | Hybrid | May 19 |
-| ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a10a6b212f8b43cf3986954?utm_campaign=1055&utm_source=git)** | Fairfield, Town of, Connecticut, United States | Hybrid | May 19 |
+| **[Save the Children US](http://savethechildren.org)** | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a10a6b212f8b43cf3986954?utm_campaign=1055&utm_source=git)** | Fairfield, Town of, Connecticut, United States | Hybrid | May 19 |
+| ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a10a6b212f8b43cf3986955?utm_campaign=1055&utm_source=git)** | Lexington, Kentucky, United States | Hybrid | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
