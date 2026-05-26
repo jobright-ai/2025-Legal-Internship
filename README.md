@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Schwegman Lundberg & Woessner, P.A.](http://www.slwip.com)** | **[Summer Internship – Law Students](https://jobright.ai/jobs/info/6a157fd3554b0e12c058343b?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | May 26 |
-| ↳ | **[Summer Internship – Law Students](https://jobright.ai/jobs/info/6a157fd3554b0e12c058343a?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | May 26 |
+| **[Schwegman Lundberg & Woessner, P.A.](http://www.slwip.com)** | **[Summer Internship – Law Students](https://jobright.ai/jobs/info/6a157fd3554b0e12c058343a?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | May 26 |
+| ↳ | **[Summer Internship – Law Students](https://jobright.ai/jobs/info/6a157fd3554b0e12c058343b?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | May 26 |
 | **[Adams, Duerk & Kamenstein LLP](https://www.adkfirm.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a157cc9554b0e12c0583275?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | May 26 |
 | **[River Road Asset Management](http://riverroadam.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a157c84dc845f4be5bd631a?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | May 26 |
 | **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a156460dc845f4be5bd5560?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 26 |
@@ -69,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Mallinckrodt Pharmaceuticals](http://mallinckrodt.com)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/6a151e2bbc9bff375af03031?utm_campaign=1055&utm_source=git)** | Malvern, PA, US | Hybrid | May 25 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL | On Site | May 24 |
 | **[PURIS](https://teamipr.com/)** | **[Intern](https://jobright.ai/jobs/info/6a13a3b29f654b3359cf6656?utm_campaign=1055&utm_source=git)** | Spring, TX | On Site | May 24 |
-| **[T5 Data Centers](http://www.t5datacenters.com)** | **[2026 Legal Intern](https://jobright.ai/jobs/info/6a13074912f8b43cf398e2b6?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | May 24 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Global Trade Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/69d95303738f2f099e8a0ff5?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | May 24 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Legal Assistant Intern (Unpaid)  (1925)](https://jobright.ai/jobs/info/6a129e5e9f654b3359cf420f?utm_campaign=1055&utm_source=git)** | 105 - BakerRipley Central - Houston, TX 77011 | On Site | May 23 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Legal Intern – Policy & Public Sector (AI & Cybersecurity Focus) (Summer 2026)](https://jobright.ai/jobs/info/6a1226e29fdbf21f36cb57fd?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Blockchain.com](http://blockchain.com)** | **[Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/699c6494e0bddb6acacb6f83?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | May 20 |
 | **[Montgomery County, PA](https://www.montcopa.org)** | **[Public Defender Summer Legal INTERN](https://jobright.ai/jobs/info/6a115a2e83d714428982b3bc?utm_campaign=1055&utm_source=git)** | Norristown, PA | On Site | May 20 |
 | **[MAA](https://ir.maac.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0d109222d0d34036c9b4c1?utm_campaign=1055&utm_source=git)** | Germantown, TN | On Site | May 19 |
+| **[Investment Company Institute](http://www.ici.org)** | **[Fall Law Intern](https://jobright.ai/jobs/info/6a0d073a538d03366dc939ce?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
