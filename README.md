@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mallinckrodt Pharmaceuticals](http://mallinckrodt.com)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/6a151e2bbc9bff375af03031?utm_campaign=1055&utm_source=git)** | Malvern, PA, US | Hybrid | May 25 |
 | **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a150fb7dc845f4be5bd3cd5?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 25 |
 | **[PURIS](https://teamipr.com/)** | **[Intern](https://jobright.ai/jobs/info/6a13a3b29f654b3359cf6656?utm_campaign=1055&utm_source=git)** | Spring, TX | On Site | May 24 |
 | **[T5 Data Centers](http://www.t5datacenters.com)** | **[2026 Legal Intern](https://jobright.ai/jobs/info/6a13074912f8b43cf398e2b6?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | May 24 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | May 23 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69d97b7bf748bc5d08a4b9ee?utm_campaign=1055&utm_source=git)** | Bellevue, WA | Hybrid | May 23 |
 | **[White & Case LLP](http://www.whitecase.com)** | **[Legal Assistant Intern](https://jobright.ai/jobs/info/6a13fb8212f8b43cf39916db?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 22 |
-| **[LawBhoomi](https://lawbhoomi.com/)** | **[Junior Associate and Legal Internship Opportunity at SRK Legal: Apply Now!](https://jobright.ai/jobs/info/6a150ee9c48b503aeffc08a5?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | May 22 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Summer Associate (Legal)](https://jobright.ai/jobs/info/69a232300da45516f16b7ab9?utm_campaign=1055&utm_source=git)** | Paramus, NJ | On Site | May 22 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Legal Assistant Intern (Unpaid) (1925)](https://jobright.ai/jobs/info/6a1110439f654b3359cefa78?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | May 22 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a72b7a37c712687d3884?utm_campaign=1055&utm_source=git)** | Union, OH | On Site | May 22 |
@@ -152,8 +152,8 @@ For a complete list, click the following sortable link below:
 | **[Investment Company Institute](http://www.ici.org)** | **[Fall Law Intern](https://jobright.ai/jobs/info/6a0d073a538d03366dc939ce?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 19 |
 | ↳ | **[Fall Law Intern](https://jobright.ai/jobs/info/6a0cd5504d9320363687c918?utm_campaign=1055&utm_source=git)** | Washington, DC, US | Hybrid | May 19 |
 | **[Trove Brands](https://trovebrands.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0cc1fa4d9320363687b872?utm_campaign=1055&utm_source=git)** | Lehi, Utah | On Site | May 19 |
-| **[Save the Children US](http://savethechildren.org)** | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a10a6b212f8b43cf3986954?utm_campaign=1055&utm_source=git)** | Fairfield, Town of, Connecticut, United States | Hybrid | May 19 |
-| ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a10a6b212f8b43cf3986955?utm_campaign=1055&utm_source=git)** | Lexington, Kentucky, United States | Hybrid | May 19 |
+| **[Save the Children US](http://savethechildren.org)** | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a10a6b212f8b43cf3986955?utm_campaign=1055&utm_source=git)** | Lexington, Kentucky, United States | Hybrid | May 19 |
+| ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a10a6b212f8b43cf3986954?utm_campaign=1055&utm_source=git)** | Fairfield, Town of, Connecticut, United States | Hybrid | May 19 |
 | **[Oakmont Senior Living](http://oakmontseniorliving.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0caaba963f7a67d95da3f3?utm_campaign=1055&utm_source=git)** | Irvine, CA | On Site | May 19 |
 | **[Aramark](http://www.aramark.com)** | **[Contract Planning & Support Intern](https://jobright.ai/jobs/info/6a0c8f8ca235d749afa8dfb5?utm_campaign=1055&utm_source=git)** | Rockville, MD | On Site | May 19 |
 | **[American Credit Acceptance](http://www.americancreditacceptance.com/)** | **[Intern - Legal Operations](https://jobright.ai/jobs/info/6a0c8b0fa235d749afa8d978?utm_campaign=1055&utm_source=git)** | Spartanburg, SC | On Site | May 19 |
