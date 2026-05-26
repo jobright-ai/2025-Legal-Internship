@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Appalachian Regional Healthcare (ARH)](https://arh.org)** | **[Legal Intern](https://jobright.ai/jobs/info/6a160e3fdc845f4be5bdbff2?utm_campaign=1055&utm_source=git)** | Lexington, KY, US | On Site | May 26 |
-| **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a160b0f0073182bd92af951?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 26 |
+| **[Appalachian Regional Healthcare (ARH)](https://arh.org)** | **[Legal Intern](https://jobright.ai/jobs/info/6a161d9d1935fa61b3c6eff0?utm_campaign=1055&utm_source=git)** | Lexington, KY | On Site | May 26 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a160e3fdc845f4be5bdbff2?utm_campaign=1055&utm_source=git)** | Lexington, KY, US | On Site | May 26 |
 | **[Carter Mario Law Firm](https://cartermario.com)** | **[Legal Internship - Fall 2026 and Spring 2027](https://jobright.ai/jobs/info/6a16084ca429fd279da94f91?utm_campaign=1055&utm_source=git)** | Milford,CT,US | On Site | May 26 |
 | **[Denali Therapeutics](https://www.denalitherapeutics.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/6a160466dc845f4be5bdba2b?utm_campaign=1055&utm_source=git)** | South San Francisco, CA | On Site | May 26 |
 | ↳ | **[Intern, Legal](https://jobright.ai/jobs/info/6a1600aca429fd279da94a38?utm_campaign=1055&utm_source=git)** | South San Francisco, US | On Site | May 26 |
