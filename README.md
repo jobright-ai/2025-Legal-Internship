@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a1660c31b2f6918b0e31800?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 26 |
 | **[Convergint](http://www.convergint.com)** | **[Summer Intern - Legal and Risk](https://jobright.ai/jobs/info/6a164d41dc845f4be5bde2c9?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | Remote | May 26 |
 | ↳ | **[Summer Intern - Legal and Risk](https://jobright.ai/jobs/info/6a163d93a429fd279da970da?utm_campaign=1055&utm_source=git)** | Hoffman Estates, Illinois, United States | Remote | May 26 |
 | **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Summer/Fall 2026 Legal Internships - LGBTQ/HIV Advocacy Project](https://jobright.ai/jobs/info/6a163668554b0e12c058a2b7?utm_campaign=1055&utm_source=git)** | Brooklyn, New York | Hybrid | May 26 |
@@ -120,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[GenScript](http://www.genscript.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f3c32d58b23a2329da7e0d?utm_campaign=1055&utm_source=git)** | Piscataway, NJ | On Site | May 22 |
 | **[IMP](http://www.impconsults.com)** | **[Associate Intern](https://jobright.ai/jobs/info/6a101b5980bf0430c7637bae?utm_campaign=1055&utm_source=git)** | Boston, MA, USA | Hybrid | May 22 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Contracts & Financial Operations Intern](https://jobright.ai/jobs/info/6a0fe8c972b52f7225f40f60?utm_campaign=1055&utm_source=git)** | 4200 28th St S, Arlington, VA, 22206, US | Hybrid | May 21 |
-| **[Taulia](http://www.taulia.com)** | **[Risk, Compliance & AI Innovation Intern](https://jobright.ai/jobs/info/6a0fcf009f654b3359ce86d9?utm_campaign=1055&utm_source=git)** | San Francisco, CA, US, 94103 | Remote | May 21 |
 | **[City of Somerville](http://www.somervillema.gov)** | **[Project Assistant (City Counsel Intern)](https://jobright.ai/jobs/info/6a0fa47212f8b43cf3980bf1?utm_campaign=1055&utm_source=git)** | United States | On Site | May 21 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a64d7796a83635f09901?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | May 21 |
 | **[iRhythm Technologies, Inc.](http://www.irhythmtech.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a0f984412f8b43cf39807a9?utm_campaign=1055&utm_source=git)** | United States | Remote | May 21 |
