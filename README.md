@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a1698fc1b2f6918b0e32fc2?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 27 |
 | **[Convergint](http://www.convergint.com)** | **[Summer Intern - Legal and Risk](https://jobright.ai/jobs/info/6a164d41dc845f4be5bde2c9?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | Remote | May 26 |
 | ↳ | **[Summer Intern - Legal and Risk](https://jobright.ai/jobs/info/6a163d93a429fd279da970da?utm_campaign=1055&utm_source=git)** | Hoffman Estates, Illinois, United States | Remote | May 26 |
 | **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Summer/Fall 2026 Legal Internships - LGBTQ/HIV Advocacy Project](https://jobright.ai/jobs/info/6a163668554b0e12c058a2b7?utm_campaign=1055&utm_source=git)** | Brooklyn, New York | Hybrid | May 26 |
@@ -97,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Catalent](https://www.catalent.com)** | **[Legal Intern (Summer)](https://jobright.ai/jobs/info/6a110c7a9fdbf21f36cb2727?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | May 22 |
 | **[Save the Children US](http://savethechildren.org)** | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a11166c83d714428982a69e?utm_campaign=1055&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
 | ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a1116ef9fdbf21f36cb2c74?utm_campaign=1055&utm_source=git)** | United States | Remote | May 22 |
-| ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a1116d3619335383fb36a7b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a11166d83d714428982a6a0?utm_campaign=1055&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
+| ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a1116d3619335383fb36a7b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | **[Morehouse School of Medicine](https://www.msm.edu/)** | **[Legal Operations Intern (On-Site)](https://jobright.ai/jobs/info/6a10f5c469bd827926af176c?utm_campaign=1055&utm_source=git)** | Atlanta Metro | On Site | May 22 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Import/Export Intern](https://jobright.ai/jobs/info/6a10c0f112f8b43cf398726e?utm_campaign=1055&utm_source=git)** | Rolla, MO | On Site | May 22 |
 | **[White & Case LLP](http://www.whitecase.com)** | **[Legal Assistant Intern](https://jobright.ai/jobs/info/6a10b63212f8b43cf3986ded?utm_campaign=1055&utm_source=git)** | New York, US | On Site | May 22 |
@@ -114,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69d6edf7e63cea7a8b66d0bb?utm_campaign=1055&utm_source=git)** | Kansas City, MO | Hybrid | May 22 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 22 |
 | **[Catalent](https://www.catalent.com)** | **[Legal Intern (Summer)](https://jobright.ai/jobs/info/6a10673a12f8b43cf3984e71?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ, US | On Site | May 22 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[College Intern - Law](https://jobright.ai/jobs/info/6a105a9d69bd827926aed972?utm_campaign=1055&utm_source=git)** | One Renaissance Center - 345 High Street, Hamilton, OH | On Site | May 22 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/6a10582e69bd827926aed85b?utm_campaign=1055&utm_source=git)** | Plano, TX | Hybrid | May 22 |
 | **[GenScript](http://www.genscript.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f3c32d58b23a2329da7e0d?utm_campaign=1055&utm_source=git)** | Piscataway, NJ | On Site | May 22 |
 | **[IMP](http://www.impconsults.com)** | **[Associate Intern](https://jobright.ai/jobs/info/6a101b5980bf0430c7637bae?utm_campaign=1055&utm_source=git)** | Boston, MA, USA | Hybrid | May 22 |
