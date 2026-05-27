@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBTS - Institute for Building Technology and Safety](https://www.ibts.org/)** | **[Intern - Contracts Administration](https://jobright.ai/jobs/info/6a16eecb5b0a497d52106b7f?utm_campaign=1055&utm_source=git)** | US-VA-Ashburn | On Site | May 27 |
+| ↳ | **[Intern - Contracts Administration](https://jobright.ai/jobs/info/6a16eec05b0a497d52106b77?utm_campaign=1055&utm_source=git)** | Ashburn, VA, US | On Site | May 27 |
+| **[LawBhoomi](https://lawbhoomi.com/)** | **[Legal Internship Opportunity and Associate at Kumar & Tanwar Associates: Apply Now!](https://jobright.ai/jobs/info/6a16d9b6b091c7417c4f88df?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | May 27 |
 | **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a16d1b05b0a497d52106133?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 27 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Opportunities - Summer 2026 - Public Defender Division - Statewide](https://jobright.ai/jobs/info/6a16d0c2f45c6530ce9a69a4?utm_campaign=1055&utm_source=git)** | Boston, MA, US | On Site | May 27 |
 | ↳ | **[Internship Opportunities - Summer 2026 - Public Defender Division - Statewide](https://jobright.ai/jobs/info/6a16d0bdf45c6530ce9a69a2?utm_campaign=1055&utm_source=git)** | US-MA-Boston | On Site | May 27 |
@@ -106,7 +109,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a1116d3619335383fb36a7b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | **[Morehouse School of Medicine](https://www.msm.edu/)** | **[Legal Operations Intern (On-Site)](https://jobright.ai/jobs/info/6a10f5c469bd827926af176c?utm_campaign=1055&utm_source=git)** | Atlanta Metro | On Site | May 22 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Import/Export Intern](https://jobright.ai/jobs/info/6a10c0f112f8b43cf398726e?utm_campaign=1055&utm_source=git)** | Rolla, MO | On Site | May 22 |
-| **[White & Case LLP](http://www.whitecase.com)** | **[Legal Assistant Intern](https://jobright.ai/jobs/info/6a10b63212f8b43cf3986ded?utm_campaign=1055&utm_source=git)** | New York, US | On Site | May 22 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/6a10ee7783d71442898291a9?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | May 22 |
 | **[JHNA](http://jhna.com/)** | **[Contracting Intern](https://jobright.ai/jobs/info/6a10ebf983d7144289829159?utm_campaign=1055&utm_source=git)** | Manchester, NH | On Site | May 22 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[2027 Legal 2L Summer Intern](https://jobright.ai/jobs/info/6a05e5a36c07461fe1719d52?utm_campaign=1055&utm_source=git)** | CINCINNATI GENERAL OFFICES, US | On Site | May 22 |
@@ -149,6 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/6a0e3533c152ac782448495a?utm_campaign=1055&utm_source=git)** | Tustin, California | On Site | May 20 |
 | **[Kobalt Music](http://www.kobaltmusic.com)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/6a0e2a8480bf0430c762a41d?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | May 20 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Global Operations - Fraud Program Management & Design Internship/Coop - Fall 2026](https://jobright.ai/jobs/info/6a0e2a4647fea1610bca7ac7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 20 |
-| **[Kobalt Music](http://www.kobaltmusic.com)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/6a0e1f0180bf0430c7629bbe?utm_campaign=1055&utm_source=git)** | Nashville, Tennessee, United States | Hybrid | May 20 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, E&C Program & Control (Fall 2026)](https://jobright.ai/jobs/info/6a0e1c50c152ac782448366c?utm_campaign=1055&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
