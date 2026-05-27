@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CareSource](https://www.caresource.com/)** | **[CareSource Legal Intern-1](https://jobright.ai/jobs/info/6a1762761430333075cd0a09?utm_campaign=1055&utm_source=git)** | Dayton WFH, US | Remote | May 27 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6a176274f45c6530ce9ac1e3?utm_campaign=1055&utm_source=git)** | 595 Harbor Street, 93442, Morro Bay, CA | On Site | May 27 |
 | **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a175f0a5b0a497d5210bab2?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 27 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Staff Counsel Intern](https://jobright.ai/jobs/info/6a175ed99005d858e94f9423?utm_campaign=1055&utm_source=git)** | NEW YORK, NY, US | On Site | May 27 |
 | **[Bosch Building Technologies North America](https://www.boschbuildingtechnologies.com/na/en/)** | **[Contracts Administrator Intern](https://jobright.ai/jobs/info/6a175e029005d858e94f936b?utm_campaign=1055&utm_source=git)** | Phoenix, AZ, US | On Site | May 27 |
@@ -132,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a72b7a37c712687d3884?utm_campaign=1055&utm_source=git)** | Union, OH | On Site | May 22 |
 | **[Catalent](https://www.catalent.com)** | **[Legal Intern (Summer)](https://jobright.ai/jobs/info/6a110c7a9fdbf21f36cb2727?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | May 22 |
 | **[Save the Children US](http://savethechildren.org)** | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a11166c83d714428982a69e?utm_campaign=1055&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
-| ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a1116d3619335383fb36a7b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a11166d83d714428982a6a0?utm_campaign=1055&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
+| ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a1116d3619335383fb36a7b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | **[Morehouse School of Medicine](https://www.msm.edu/)** | **[Legal Operations Intern (On-Site)](https://jobright.ai/jobs/info/6a10f5c469bd827926af176c?utm_campaign=1055&utm_source=git)** | Atlanta Metro | On Site | May 22 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Import/Export Intern](https://jobright.ai/jobs/info/6a10c0f112f8b43cf398726e?utm_campaign=1055&utm_source=git)** | Rolla, MO | On Site | May 22 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/6a10ee7783d71442898291a9?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | May 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Contracts & Financial Operations Intern](https://jobright.ai/jobs/info/6a0fe8c972b52f7225f40f60?utm_campaign=1055&utm_source=git)** | 4200 28th St S, Arlington, VA, 22206, US | Hybrid | May 21 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a64d7796a83635f09901?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | May 21 |
 | **[iRhythm Technologies, Inc.](http://www.irhythmtech.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a0f984412f8b43cf39807a9?utm_campaign=1055&utm_source=git)** | United States | Remote | May 21 |
-| **[MicroVention-Terumo](http://microvention.com)** | **[Intern, Legal IP](https://jobright.ai/jobs/info/6a0f8a6583d7144289821455?utm_campaign=1055&utm_source=git)** | Aliso Viejo, California, USA | Hybrid | May 21 |
-| **[Reading Partners](https://readingpartners.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0f76359f654b3359ce6020?utm_campaign=1055&utm_source=git)** | California, United States | Remote | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
