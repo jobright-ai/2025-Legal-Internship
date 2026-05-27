@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Summer/Fall 2026 Legal Internships - LGBTQ/HIV Advocacy Project](https://jobright.ai/jobs/info/6a163668554b0e12c058a2b7?utm_campaign=1055&utm_source=git)** | Brooklyn, New York | Hybrid | May 26 |
+| **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a1628080073182bd92b0c08?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 26 |
 | **[Appalachian Regional Healthcare (ARH)](https://arh.org)** | **[Legal Intern](https://jobright.ai/jobs/info/6a161d9d1935fa61b3c6eff0?utm_campaign=1055&utm_source=git)** | Lexington, KY | On Site | May 26 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a160e3fdc845f4be5bdbff2?utm_campaign=1055&utm_source=git)** | Lexington, KY, US | On Site | May 26 |
 | **[Carter Mario Law Firm](https://cartermario.com)** | **[Legal Internship - Fall 2026 and Spring 2027](https://jobright.ai/jobs/info/6a16084ca429fd279da94f91?utm_campaign=1055&utm_source=git)** | Milford,CT,US | On Site | May 26 |
@@ -153,5 +155,4 @@ For a complete list, click the following sortable link below:
 | **[Syntax](http://www.syntax.com/)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/6a0de73f09ecfd704b3e3f0f?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 20 |
 | **[Everllence](https://www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | May 20 |
 | **[Blockchain.com](http://blockchain.com)** | **[Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/699c6494e0bddb6acacb6f83?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | May 20 |
-| **[Montgomery County, PA](https://www.montcopa.org)** | **[Public Defender Summer Legal INTERN](https://jobright.ai/jobs/info/6a115a2e83d714428982b3bc?utm_campaign=1055&utm_source=git)** | Norristown, PA | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
