@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a1698fc1b2f6918b0e32fc2?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 27 |
+| **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a16d1b05b0a497d52106133?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 27 |
+| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Opportunities - Summer 2026 - Public Defender Division - Statewide](https://jobright.ai/jobs/info/6a16d0c2f45c6530ce9a69a4?utm_campaign=1055&utm_source=git)** | Boston, MA, US | On Site | May 27 |
+| ↳ | **[Internship Opportunities - Summer 2026 - Public Defender Division - Statewide](https://jobright.ai/jobs/info/6a16d0bdf45c6530ce9a69a2?utm_campaign=1055&utm_source=git)** | US-MA-Boston | On Site | May 27 |
+| **[FOLX Health](https://www.folxhealth.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6a16c4dcb5aeb143caa941e9?utm_campaign=1055&utm_source=git)** | Remote, US | Remote | May 27 |
+| ↳ | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6a16c4d9b5aeb143caa941e1?utm_campaign=1055&utm_source=git)** | United States | Remote | May 27 |
 | **[Convergint](http://www.convergint.com)** | **[Summer Intern - Legal and Risk](https://jobright.ai/jobs/info/6a164d41dc845f4be5bde2c9?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | Remote | May 26 |
 | ↳ | **[Summer Intern - Legal and Risk](https://jobright.ai/jobs/info/6a163d93a429fd279da970da?utm_campaign=1055&utm_source=git)** | Hoffman Estates, Illinois, United States | Remote | May 26 |
 | **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Summer/Fall 2026 Legal Internships - LGBTQ/HIV Advocacy Project](https://jobright.ai/jobs/info/6a163668554b0e12c058a2b7?utm_campaign=1055&utm_source=git)** | Brooklyn, New York | Hybrid | May 26 |
@@ -74,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Co-op Paralegal Intern](https://jobright.ai/jobs/info/6a10fb6583d7144289829b23?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | On Site | May 26 |
 | **[SCAN](https://www.thescangroup.org/)** | **[Medicare Compliance, Summer Intern](https://jobright.ai/jobs/info/6a15b6fd1935fa61b3c6a5f5?utm_campaign=1055&utm_source=git)** | Long Beach, CA | Remote | May 26 |
 | **[Second Wind Pro](https://secondwind.pro/)** | **[JD Summer Internship](https://jobright.ai/jobs/info/6a15a059554b0e12c0584495?utm_campaign=1055&utm_source=git)** | United States | Remote | May 26 |
-| **[Schwegman Lundberg & Woessner, P.A.](http://www.slwip.com)** | **[Summer Internship – Law Students](https://jobright.ai/jobs/info/6a157fd3554b0e12c058343b?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | May 26 |
-| ↳ | **[Summer Internship – Law Students](https://jobright.ai/jobs/info/6a157fd3554b0e12c058343a?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | May 26 |
+| **[Schwegman Lundberg & Woessner, P.A.](http://www.slwip.com)** | **[Summer Internship – Law Students](https://jobright.ai/jobs/info/6a157fd3554b0e12c058343a?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | May 26 |
+| ↳ | **[Summer Internship – Law Students](https://jobright.ai/jobs/info/6a157fd3554b0e12c058343b?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | May 26 |
 | **[Adams, Duerk & Kamenstein LLP](https://www.adkfirm.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a157cc9554b0e12c0583275?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | May 26 |
 | **[River Road Asset Management](http://riverroadam.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a157c84dc845f4be5bd631a?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | May 26 |
 | **[Blockchain.com](http://blockchain.com)** | **[Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/6a155783438198796a26b2dc?utm_campaign=1055&utm_source=git)** | Dallas | Hybrid | May 26 |
