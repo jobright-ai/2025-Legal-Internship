@@ -98,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Catalent](https://www.catalent.com)** | **[Legal Intern (Summer)](https://jobright.ai/jobs/info/6a110c7a9fdbf21f36cb2727?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | May 22 |
 | **[Save the Children US](http://savethechildren.org)** | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a11166c83d714428982a69e?utm_campaign=1055&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
 | ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a1116ef9fdbf21f36cb2c74?utm_campaign=1055&utm_source=git)** | United States | Remote | May 22 |
-| ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a1116d3619335383fb36a7b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a11166d83d714428982a6a0?utm_campaign=1055&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
+| ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a1116d3619335383fb36a7b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | **[Morehouse School of Medicine](https://www.msm.edu/)** | **[Legal Operations Intern (On-Site)](https://jobright.ai/jobs/info/6a10f5c469bd827926af176c?utm_campaign=1055&utm_source=git)** | Atlanta Metro | On Site | May 22 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Import/Export Intern](https://jobright.ai/jobs/info/6a10c0f112f8b43cf398726e?utm_campaign=1055&utm_source=git)** | Rolla, MO | On Site | May 22 |
 | **[White & Case LLP](http://www.whitecase.com)** | **[Legal Assistant Intern](https://jobright.ai/jobs/info/6a10b63212f8b43cf3986ded?utm_campaign=1055&utm_source=git)** | New York, US | On Site | May 22 |
@@ -147,6 +147,4 @@ For a complete list, click the following sortable link below:
 | **[Scotiabank](https://www.scotiabank.com)** | **[Global Operations - Fraud Program Management & Design Internship/Coop - Fall 2026](https://jobright.ai/jobs/info/6a0e2a4647fea1610bca7ac7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 20 |
 | **[Kobalt Music](http://www.kobaltmusic.com)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/6a0e1f0180bf0430c7629bbe?utm_campaign=1055&utm_source=git)** | Nashville, Tennessee, United States | Hybrid | May 20 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, E&C Program & Control (Fall 2026)](https://jobright.ai/jobs/info/6a0e1c50c152ac782448366c?utm_campaign=1055&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 20 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[Global Operations - Fraud Program Management & Design Internship/Coop - Fall 2026](https://jobright.ai/jobs/info/6a0dfa6e47fea1610bca5971?utm_campaign=1055&utm_source=git)** | Toronto, ON, CA | On Site | May 20 |
-| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a5aa295f8e37655dffdb?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
