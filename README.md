@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Intern - Legal Department](https://jobright.ai/jobs/info/6a16f0641430333075ccb9e8?utm_campaign=1055&utm_source=git)** | Work at Home - Florida, US | Remote | May 27 |
 | **[IBTS - Institute for Building Technology and Safety](https://www.ibts.org/)** | **[Intern - Contracts Administration](https://jobright.ai/jobs/info/6a16eecb5b0a497d52106b7f?utm_campaign=1055&utm_source=git)** | US-VA-Ashburn | On Site | May 27 |
 | ↳ | **[Intern - Contracts Administration](https://jobright.ai/jobs/info/6a16eec05b0a497d52106b77?utm_campaign=1055&utm_source=git)** | Ashburn, VA, US | On Site | May 27 |
 | **[LawBhoomi](https://lawbhoomi.com/)** | **[Legal Internship Opportunity and Associate at Kumar & Tanwar Associates: Apply Now!](https://jobright.ai/jobs/info/6a16d9b6b091c7417c4f88df?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | May 27 |
@@ -81,11 +82,10 @@ For a complete list, click the following sortable link below:
 | **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Co-op Paralegal Intern](https://jobright.ai/jobs/info/6a10fb6583d7144289829b23?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | On Site | May 26 |
 | **[SCAN](https://www.thescangroup.org/)** | **[Medicare Compliance, Summer Intern](https://jobright.ai/jobs/info/6a15b6fd1935fa61b3c6a5f5?utm_campaign=1055&utm_source=git)** | Long Beach, CA | Remote | May 26 |
 | **[Second Wind Pro](https://secondwind.pro/)** | **[JD Summer Internship](https://jobright.ai/jobs/info/6a15a059554b0e12c0584495?utm_campaign=1055&utm_source=git)** | United States | Remote | May 26 |
-| **[Schwegman Lundberg & Woessner, P.A.](http://www.slwip.com)** | **[Summer Internship – Law Students](https://jobright.ai/jobs/info/6a157fd3554b0e12c058343a?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | May 26 |
-| ↳ | **[Summer Internship – Law Students](https://jobright.ai/jobs/info/6a157fd3554b0e12c058343b?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | May 26 |
+| **[Schwegman Lundberg & Woessner, P.A.](http://www.slwip.com)** | **[Summer Internship – Law Students](https://jobright.ai/jobs/info/6a157fd3554b0e12c058343b?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | May 26 |
+| ↳ | **[Summer Internship – Law Students](https://jobright.ai/jobs/info/6a157fd3554b0e12c058343a?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | May 26 |
 | **[Adams, Duerk & Kamenstein LLP](https://www.adkfirm.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a157cc9554b0e12c0583275?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | May 26 |
 | **[River Road Asset Management](http://riverroadam.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a157c84dc845f4be5bd631a?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | May 26 |
-| **[Blockchain.com](http://blockchain.com)** | **[Legal & Compliance Summer Intern](https://jobright.ai/jobs/info/6a155783438198796a26b2dc?utm_campaign=1055&utm_source=git)** | Dallas | Hybrid | May 26 |
 | **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1521a1128680351d95f8d4?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | May 25 |
 | **[KIHOMAC](https://kihomac.com/)** | **[Contracts Intern with Security Clearance](https://jobright.ai/jobs/info/6a15a138dc845f4be5bd7458?utm_campaign=1055&utm_source=git)** | Byron, GA | On Site | May 25 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL | On Site | May 24 |
@@ -149,6 +149,4 @@ For a complete list, click the following sortable link below:
 | **[Cochise County](https://www.cochise.az.gov/jobs)** | **[Justice Court Clerk Trainee (JP5) - Sierra Vista](https://jobright.ai/jobs/info/6a0e7cfb09ecfd704b3e9889?utm_campaign=1055&utm_source=git)** | Sierra Vista, AZ | On Site | May 20 |
 | **[UNDP Careers](https://www.undp.org/careers)** | **[Intern – Investigations Section (5 internship posts)](https://jobright.ai/jobs/info/6a0b7d11538d03366dc86085?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | May 20 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, QA Compliance](https://jobright.ai/jobs/info/6a0e3533c152ac782448495a?utm_campaign=1055&utm_source=git)** | Tustin, California | On Site | May 20 |
-| **[Kobalt Music](http://www.kobaltmusic.com)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/6a0e2a8480bf0430c762a41d?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | May 20 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[Global Operations - Fraud Program Management & Design Internship/Coop - Fall 2026](https://jobright.ai/jobs/info/6a0e2a4647fea1610bca7ac7?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
