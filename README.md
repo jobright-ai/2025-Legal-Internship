@@ -151,5 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a5aa295f8e37655dffdb?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | May 20 |
 | **[Aretum](https://www.aretum.com)** | **[Summer Intern - Contracts](https://jobright.ai/jobs/info/6a0df635beb4d73cb622d6bd?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | May 20 |
 | ↳ | **[Summer Intern - Contracts](https://jobright.ai/jobs/info/6a0dee0347fea1610bca53df?utm_campaign=1055&utm_source=git)** | McLean, Virginia, United States | On Site | May 20 |
-| **[Syntax](http://www.syntax.com/)** | **[Enterprise Risk Management Intern](https://jobright.ai/jobs/info/6a0de73f09ecfd704b3e3f0f?utm_campaign=1055&utm_source=git)** | Canada | Remote | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
