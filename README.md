@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alpek Polyester USA](https://alpekpolyesterusacareers.com/)** | **[INTERN – TRADE COMPLIANCE JOB GASTON, SC](https://jobright.ai/jobs/info/6a172027d6a04f21602e345d?utm_campaign=1055&utm_source=git)** | Gaston, SC | On Site | May 27 |
+| **[Bon Secours](https://www.bonsecours.com/)** | **[Intern - Legal Department](https://jobright.ai/jobs/info/6a17196eb091c7417c4fa9d3?utm_campaign=1055&utm_source=git)** | Work at Home, Any city in Florida, FL 32301, United States of America | Remote | May 27 |
+| ↳ | **[Intern - Legal Department](https://jobright.ai/jobs/info/6a17196ab091c7417c4fa9d1?utm_campaign=1055&utm_source=git)** | Tallahassee, Florida, United States | Remote | May 27 |
 | **[NYC Campaign Finance Board](http://www.nyccfb.info/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1718bf9005d858e94f5bed?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | May 27 |
 | **[Lyten](http://www.lyten.com)** | **[Intern - Corporate Legal](https://jobright.ai/jobs/info/6a170b1c9005d858e94f53a0?utm_campaign=1055&utm_source=git)** | San Jose, CA, US | On Site | May 27 |
 | ↳ | **[Intern - Commercial Legal](https://jobright.ai/jobs/info/6a170b195b0a497d52107a74?utm_campaign=1055&utm_source=git)** | San Jose, CA, US | On Site | May 27 |
@@ -125,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/69d6ac94366bb95ba554ef8e?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | May 22 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a10914b9fdbf21f36caf776?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | May 22 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a1089a3619335383fb3332c?utm_campaign=1055&utm_source=git)** | San Jose, CALIFORNIA | On Site | May 22 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[College Intern - Law](https://jobright.ai/jobs/info/6a171d58b091c7417c4faef7?utm_campaign=1055&utm_source=git)** | One Renaissance Center - 345 High Street, Hamilton, OH | On Site | May 22 |
 | **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Co-op Paralegal Intern](https://jobright.ai/jobs/info/6a106db569bd827926aee3b9?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | May 22 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69d6edf7e63cea7a8b66d0bb?utm_campaign=1055&utm_source=git)** | Kansas City, MO | Hybrid | May 22 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 22 |
@@ -153,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Risk Governance Analyst Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69817ebb49964d25b5e47ce0?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | May 21 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Legal Intern – Policy & Public Sector (AI & Cybersecurity Focus) (Summer 2026)](https://jobright.ai/jobs/info/69d6a89e48f0c8161d2fa0a9?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 21 |
 | **[Cook County State’s Attorney’s Office](https://www.cookcountystatesattorney.org/)** | **[FALL 2026 Volunteer Internship](https://jobright.ai/jobs/info/6a0ec23d12f8b43cf3979592?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | May 21 |
-| **[Cochise County](https://www.cochise.az.gov/jobs)** | **[Justice Court Clerk Trainee (JP5) - Sierra Vista](https://jobright.ai/jobs/info/6a0e7cfb09ecfd704b3e9889?utm_campaign=1055&utm_source=git)** | Sierra Vista, AZ | On Site | May 20 |
-| **[UNDP Careers](https://www.undp.org/careers)** | **[Intern – Investigations Section (5 internship posts)](https://jobright.ai/jobs/info/6a0b7d11538d03366dc86085?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
