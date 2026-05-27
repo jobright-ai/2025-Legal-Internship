@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allyn International](http://allynintl.com)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/69fb21ba87a4820e6da8551d?utm_campaign=1055&utm_source=git)** | Glenville, NY | On Site | May 27 |
+| **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a1725ec5b0a497d52108dde?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 27 |
 | **[Alpek Polyester USA](https://alpekpolyesterusacareers.com/)** | **[INTERN – TRADE COMPLIANCE JOB GASTON, SC](https://jobright.ai/jobs/info/6a172027d6a04f21602e345d?utm_campaign=1055&utm_source=git)** | Gaston, SC | On Site | May 27 |
 | **[Bon Secours](https://www.bonsecours.com/)** | **[Intern - Legal Department](https://jobright.ai/jobs/info/6a17196eb091c7417c4fa9d3?utm_campaign=1055&utm_source=git)** | Work at Home, Any city in Florida, FL 32301, United States of America | Remote | May 27 |
 | ↳ | **[Intern - Legal Department](https://jobright.ai/jobs/info/6a17196ab091c7417c4fa9d1?utm_campaign=1055&utm_source=git)** | Tallahassee, Florida, United States | Remote | May 27 |
@@ -110,14 +112,13 @@ For a complete list, click the following sortable link below:
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/69bb1f4b06c1ba00c54d9742?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | May 23 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | May 23 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69d97b7bf748bc5d08a4b9ee?utm_campaign=1055&utm_source=git)** | Bellevue, WA | Hybrid | May 23 |
-| **[White & Case LLP](http://www.whitecase.com)** | **[Legal Assistant Intern](https://jobright.ai/jobs/info/6a13fb8212f8b43cf39916db?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 22 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Summer Associate (Legal)](https://jobright.ai/jobs/info/69a232300da45516f16b7ab9?utm_campaign=1055&utm_source=git)** | Paramus, NJ | On Site | May 22 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a72b7a37c712687d3884?utm_campaign=1055&utm_source=git)** | Union, OH | On Site | May 22 |
 | **[Catalent](https://www.catalent.com)** | **[Legal Intern (Summer)](https://jobright.ai/jobs/info/6a110c7a9fdbf21f36cb2727?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | May 22 |
 | **[Save the Children US](http://savethechildren.org)** | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a11166c83d714428982a69e?utm_campaign=1055&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
 | ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a1116ef9fdbf21f36cb2c74?utm_campaign=1055&utm_source=git)** | United States | Remote | May 22 |
-| ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a1116d3619335383fb36a7b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a11166d83d714428982a6a0?utm_campaign=1055&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
+| ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a1116d3619335383fb36a7b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | **[Morehouse School of Medicine](https://www.msm.edu/)** | **[Legal Operations Intern (On-Site)](https://jobright.ai/jobs/info/6a10f5c469bd827926af176c?utm_campaign=1055&utm_source=git)** | Atlanta Metro | On Site | May 22 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Import/Export Intern](https://jobright.ai/jobs/info/6a10c0f112f8b43cf398726e?utm_campaign=1055&utm_source=git)** | Rolla, MO | On Site | May 22 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/6a10ee7783d71442898291a9?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | May 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Whitley Law Firm Injury Lawyers](https://whitleylawfirm.com)** | **[Associate Attorney (Entry-Level)](https://jobright.ai/jobs/info/6a0f348272b52f7225f3baf3?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | May 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Risk Governance Analyst Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69817ebb49964d25b5e47ce0?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | May 21 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Legal Intern – Policy & Public Sector (AI & Cybersecurity Focus) (Summer 2026)](https://jobright.ai/jobs/info/69d6a89e48f0c8161d2fa0a9?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 21 |
-| **[Cook County State’s Attorney’s Office](https://www.cookcountystatesattorney.org/)** | **[FALL 2026 Volunteer Internship](https://jobright.ai/jobs/info/6a0ec23d12f8b43cf3979592?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
