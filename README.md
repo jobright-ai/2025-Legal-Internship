@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a175f0a5b0a497d5210bab2?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 27 |
+| **[Crum & Forster](https://www.cfins.com/)** | **[Staff Counsel Intern](https://jobright.ai/jobs/info/6a175ed99005d858e94f9423?utm_campaign=1055&utm_source=git)** | NEW YORK, NY, US | On Site | May 27 |
+| **[Bosch Building Technologies North America](https://www.boschbuildingtechnologies.com/na/en/)** | **[Contracts Administrator Intern](https://jobright.ai/jobs/info/6a175e029005d858e94f936b?utm_campaign=1055&utm_source=git)** | Phoenix, AZ, US | On Site | May 27 |
+| **[Circle the City](https://www.circlethecity.org/)** | **[Compliance and Privacy Intern (59816)](https://jobright.ai/jobs/info/6a1758d31430333075cd0544?utm_campaign=1055&utm_source=git)** | Admin Office - Phoenix, AZ 85013 | On Site | May 27 |
+| **[Harris County Attorney's Office](https://cao.harriscountytx.gov/)** | **[1L / 2L/ 3L -2026 Summer Academic Law Student Internship](https://jobright.ai/jobs/info/6a1758365b0a497d5210b704?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | May 27 |
+| **[HIAS](http://hias.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1757799005d858e94f9050?utm_campaign=1055&utm_source=git)** | Hybrid - New York, NY, United States | Hybrid | May 27 |
+| **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Intern - Policy & Compliance Enablement](https://jobright.ai/jobs/info/6a174ff2d6a04f21602e5584?utm_campaign=1055&utm_source=git)** | Office - USA - CA - Headquarters, US | On Site | May 27 |
+| **[Save the Children US](http://savethechildren.org)** | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a1116ef9fdbf21f36cb2c74?utm_campaign=1055&utm_source=git)** | United States | Remote | May 27 |
 | **[Nassau County District Attorney](https://nassauda.org)** | **[Intern (Summer 2026)](https://jobright.ai/jobs/info/6a174743f45c6530ce9aae88?utm_campaign=1055&utm_source=git)** | Hempstead, NY | On Site | May 27 |
 | ↳ | **[Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1746f6b091c7417c4fcc8e?utm_campaign=1055&utm_source=git)** | Mineola, NY | On Site | May 27 |
 | **[Rapiscan Systems](http://www.rapiscansystems.com/)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/6a1740f7d6a04f21602e4d43?utm_campaign=1055&utm_source=git)** | Billerica, MA | On Site | May 27 |
@@ -124,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a72b7a37c712687d3884?utm_campaign=1055&utm_source=git)** | Union, OH | On Site | May 22 |
 | **[Catalent](https://www.catalent.com)** | **[Legal Intern (Summer)](https://jobright.ai/jobs/info/6a110c7a9fdbf21f36cb2727?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | May 22 |
 | **[Save the Children US](http://savethechildren.org)** | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a11166c83d714428982a69e?utm_campaign=1055&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
-| ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a1116ef9fdbf21f36cb2c74?utm_campaign=1055&utm_source=git)** | United States | Remote | May 22 |
 | ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a1116d3619335383fb36a7b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a11166d83d714428982a6a0?utm_campaign=1055&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
 | **[Morehouse School of Medicine](https://www.msm.edu/)** | **[Legal Operations Intern (On-Site)](https://jobright.ai/jobs/info/6a10f5c469bd827926af176c?utm_campaign=1055&utm_source=git)** | Atlanta Metro | On Site | May 22 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[iRhythm Technologies, Inc.](http://www.irhythmtech.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a0f984412f8b43cf39807a9?utm_campaign=1055&utm_source=git)** | United States | Remote | May 21 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Intern, Legal IP](https://jobright.ai/jobs/info/6a0f8a6583d7144289821455?utm_campaign=1055&utm_source=git)** | Aliso Viejo, California, USA | Hybrid | May 21 |
 | **[Reading Partners](https://readingpartners.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0f76359f654b3359ce6020?utm_campaign=1055&utm_source=git)** | California, United States | Remote | May 21 |
-| **[Continental](https://www.continental.com)** | **[Intern - Customs Compliance, Year-Round](https://jobright.ai/jobs/info/6a0f75e912f8b43cf397f515?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | On Site | May 21 |
-| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Managing Attorney's Office (MAO) Intern - Los Angeles](https://jobright.ai/jobs/info/6a0f70bf619335383fb2c6a3?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | May 21 |
-| **[WellRithms, Inc.](https://www.wellrithms.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0f70ac619335383fb2c66a?utm_campaign=1055&utm_source=git)** | Portland, OR 97239, USA | On Site | May 21 |
-| **[iRhythm Technologies, Inc.](http://www.irhythmtech.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a0f4bb89f654b3359ce4379?utm_campaign=1055&utm_source=git)** | Remote - US, US | Remote | May 21 |
-| **[Sonova Group](http://www.sonova.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a0f4556619335383fb2a7b0?utm_campaign=1055&utm_source=git)** | Aurora, IL | Hybrid | May 21 |
-| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/6a0f35d680bf0430c76319f8?utm_campaign=1055&utm_source=git)** | Aurora (IL), United States | Hybrid | May 21 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Indirect Tax Counsel (Fall 2026)](https://jobright.ai/jobs/info/6a0f4c5e9f654b3359ce4431?utm_campaign=1055&utm_source=git)** | Hayward, CA | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
