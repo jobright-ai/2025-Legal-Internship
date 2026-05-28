@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a17eb6754962c1bb4b05897?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 28 |
+| **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a1807ba54962c1bb4b06832?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 28 |
+| **[Wipfli](http://www.wipfli.com)** | **[IT Procurement Internship](https://jobright.ai/jobs/info/6a180544ac2d34081458adfc?utm_campaign=1055&utm_source=git)** | United States | Remote | May 28 |
+| **[Beazer Homes](http://beazer.com)** | **[Legal Secretary Intern](https://jobright.ai/jobs/info/6a1802e254962c1bb4b0668b?utm_campaign=1055&utm_source=git)** | Fairbanks, AK | On Site | May 28 |
 | **[Abacus Technology Corporation](http://www.abacustech.com)** | **[Internship Opportunities - Summer 2026 - Private Counsel Division & Specialty Units - Statewide](https://jobright.ai/jobs/info/6a17de205b0a497d5210fe9f?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | May 27 |
 | ↳ | **[Internship Opportunities - Summer 2026 - Mental Health Litigation Division - Statewide](https://jobright.ai/jobs/info/6a17dd6d1430333075cd49c6?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | May 27 |
 | ↳ | **[Internship Opportunities - Summer 2026 - Public Defender Division - Statewide](https://jobright.ai/jobs/info/6a17dc8181fe455c705ac43c?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | May 27 |
@@ -69,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[HRchitect](https://www.hrchitect.com/)** | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/6a17ca0cda08264614c90624?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 27 |
 | ↳ | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/6a17ca0cda08264614c90623?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 27 |
 | **[CareSource](https://www.caresource.com/)** | **[CareSource Legal Intern-1 - R12815](https://jobright.ai/jobs/info/6a17c5bb1430333075cd40fe?utm_campaign=1055&utm_source=git)** | Dayton, OH | On Site | May 27 |
+| **[Highlight](http://highlighttech.com/)** | **[Law Clerk (Intern)](https://jobright.ai/jobs/info/6a17fb73c8110e28b75b1d40?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | May 27 |
 | **[Nasuni](https://www.nasuni.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a17c0eaf45c6530ce9af417?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | May 27 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a17c0e7f45c6530ce9af413?utm_campaign=1055&utm_source=git)** | Boston | Hybrid | May 27 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a17b9bb81fe455c705ab3f6?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | May 27 |
@@ -119,6 +122,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Opportunities - Summer 2026 - Public Defender Division - Statewide](https://jobright.ai/jobs/info/6a16d0bdf45c6530ce9a69a2?utm_campaign=1055&utm_source=git)** | US-MA-Boston | On Site | May 27 |
 | **[FOLX Health](https://www.folxhealth.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6a16c4dcb5aeb143caa941e9?utm_campaign=1055&utm_source=git)** | Remote, US | Remote | May 27 |
 | ↳ | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6a16c4d9b5aeb143caa941e1?utm_campaign=1055&utm_source=git)** | United States | Remote | May 27 |
+| **[Bosch Building Technologies North America](https://www.boschbuildingtechnologies.com/na/en/)** | **[Contracts Administrator Intern](https://jobright.ai/jobs/info/6a18059fba12bb0249bb640d?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | May 27 |
+| **[Conduit Health Partners](https://www.conduithp.com)** | **[Intern - Legal Department](https://jobright.ai/jobs/info/6a18056481f8da15dc7d51a0?utm_campaign=1055&utm_source=git)** | Tallahassee, FL | On Site | May 27 |
 | **[Convergint](http://www.convergint.com)** | **[Summer Intern - Legal and Risk](https://jobright.ai/jobs/info/6a164d41dc845f4be5bde2c9?utm_campaign=1055&utm_source=git)** | Hoffman Estates, IL | Remote | May 26 |
 | ↳ | **[Summer Intern - Legal and Risk](https://jobright.ai/jobs/info/6a163d93a429fd279da970da?utm_campaign=1055&utm_source=git)** | Hoffman Estates, Illinois, United States | Remote | May 26 |
 | **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Summer/Fall 2026 Legal Internships - LGBTQ/HIV Advocacy Project](https://jobright.ai/jobs/info/6a163668554b0e12c058a2b7?utm_campaign=1055&utm_source=git)** | Brooklyn, New York | Hybrid | May 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2026 Summer Legal Intern – Healthcare](https://jobright.ai/jobs/info/69f56ee981706a5bd216633a?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | May 23 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Contract Administration](https://jobright.ai/jobs/info/69bb1f4b06c1ba00c54d9742?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | May 23 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | May 23 |
-| **[Sono Bello](http://sonobello.com)** | **[Intern- Legal & Compliance](https://jobright.ai/jobs/info/69d97b7bf748bc5d08a4b9ee?utm_campaign=1055&utm_source=git)** | Bellevue, WA | Hybrid | May 23 |
-| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a72b7a37c712687d3884?utm_campaign=1055&utm_source=git)** | Union, OH | On Site | May 22 |
-| **[Catalent](https://www.catalent.com)** | **[Legal Intern (Summer)](https://jobright.ai/jobs/info/6a110c7a9fdbf21f36cb2727?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | May 22 |
-| **[Save the Children US](http://savethechildren.org)** | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a11166c83d714428982a69e?utm_campaign=1055&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
-| ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a1116d3619335383fb36a7b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
