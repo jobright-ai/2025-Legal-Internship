@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crum & Forster](https://www.cfins.com/)** | **[Staff Counsel Intern](https://jobright.ai/jobs/info/6a177882b091c7417c4feffb?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 27 |
+| **[HIAS](http://hias.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1777789005d858e94fa486?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 27 |
+| **[First Command Financial Services, Inc.](http://www.firstcommand.com)** | **[Supervision and Surveillance Intern](https://jobright.ai/jobs/info/6a17731c9005d858e94fa2f4?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | May 27 |
+| **[City of Morro Bay](https://www.morrobayca.gov)** | **[Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6a176e595b0a497d5210c643?utm_campaign=1055&utm_source=git)** | City of Morro Bay | On Site | May 27 |
 | **[CareSource](https://www.caresource.com/)** | **[CareSource Legal Intern-1](https://jobright.ai/jobs/info/6a1762761430333075cd0a09?utm_campaign=1055&utm_source=git)** | Dayton WFH, US | Remote | May 27 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6a176274f45c6530ce9ac1e3?utm_campaign=1055&utm_source=git)** | 595 Harbor Street, 93442, Morro Bay, CA | On Site | May 27 |
 | **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a175f0a5b0a497d5210bab2?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Catalent](https://www.catalent.com)** | **[Legal Intern (Summer)](https://jobright.ai/jobs/info/6a10673a12f8b43cf3984e71?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ, US | On Site | May 22 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/6a10582e69bd827926aed85b?utm_campaign=1055&utm_source=git)** | Plano, TX | Hybrid | May 22 |
 | **[GenScript](http://www.genscript.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69f3c32d58b23a2329da7e0d?utm_campaign=1055&utm_source=git)** | Piscataway, NJ | On Site | May 22 |
-| **[IMP](http://www.impconsults.com)** | **[Associate Intern](https://jobright.ai/jobs/info/6a101b5980bf0430c7637bae?utm_campaign=1055&utm_source=git)** | Boston, MA, USA | Hybrid | May 22 |
-| **[Arlington County Government](https://www.arlingtonva.us)** | **[Contracts & Financial Operations Intern](https://jobright.ai/jobs/info/6a0fe8c972b52f7225f40f60?utm_campaign=1055&utm_source=git)** | 4200 28th St S, Arlington, VA, 22206, US | Hybrid | May 21 |
-| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a64d7796a83635f09901?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | May 21 |
-| **[iRhythm Technologies, Inc.](http://www.irhythmtech.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a0f984412f8b43cf39807a9?utm_campaign=1055&utm_source=git)** | United States | Remote | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
