@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[A Safe Place](http://www.asafeplaceforhelp.org)** | **[Legal Advocacy Internship](https://jobright.ai/jobs/info/6a17a0e15b0a497d5210df61?utm_campaign=1055&utm_source=git)** | Waukegan, IL | On Site | May 27 |
+| **[City of Morro Bay](https://www.morrobayca.gov)** | **[Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6a17aa8c1430333075cd31e7?utm_campaign=1055&utm_source=git)** | Morro Bay, CA | On Site | May 27 |
+| **[Cotti Foods Corporation](https://www.linkedin.com/company/9785578)** | **[Summer Intern - Legal Department](https://jobright.ai/jobs/info/6a17a7d95b0a497d5210e385?utm_campaign=1055&utm_source=git)** | Rancho Santa Margarita, CA | On Site | May 27 |
 | **[HIAS Europe](https://hias.org/hias-eu/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1797f4b091c7417c500030?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 27 |
 | **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a1796491430333075cd2853?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 27 |
 | **[Cotti Foods Corporation](https://www.linkedin.com/company/9785578)** | **[Summer Intern - Legal Department](https://jobright.ai/jobs/info/6a178d3ab091c7417c4ffcbb?utm_campaign=1055&utm_source=git)** | X66 Corporate HQ, Rancho Santa Margarita, CA, US | On Site | May 27 |
@@ -120,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Co-op Paralegal Intern](https://jobright.ai/jobs/info/6a10fb6583d7144289829b23?utm_campaign=1055&utm_source=git)** | Greater Philadelphia | On Site | May 26 |
 | **[SCAN](https://www.thescangroup.org/)** | **[Medicare Compliance, Summer Intern](https://jobright.ai/jobs/info/6a15b6fd1935fa61b3c6a5f5?utm_campaign=1055&utm_source=git)** | Long Beach, CA | Remote | May 26 |
 | **[Second Wind Pro](https://secondwind.pro/)** | **[JD Summer Internship](https://jobright.ai/jobs/info/6a15a059554b0e12c0584495?utm_campaign=1055&utm_source=git)** | United States | Remote | May 26 |
-| **[Schwegman Lundberg & Woessner, P.A.](http://www.slwip.com)** | **[Summer Internship – Law Students](https://jobright.ai/jobs/info/6a157fd3554b0e12c058343b?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | May 26 |
-| ↳ | **[Summer Internship – Law Students](https://jobright.ai/jobs/info/6a157fd3554b0e12c058343a?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | May 26 |
+| **[Schwegman Lundberg & Woessner, P.A.](http://www.slwip.com)** | **[Summer Internship – Law Students](https://jobright.ai/jobs/info/6a157fd3554b0e12c058343a?utm_campaign=1055&utm_source=git)** | San Jose, CA | On Site | May 26 |
+| ↳ | **[Summer Internship – Law Students](https://jobright.ai/jobs/info/6a157fd3554b0e12c058343b?utm_campaign=1055&utm_source=git)** | Minneapolis, MN | On Site | May 26 |
 | **[Adams, Duerk & Kamenstein LLP](https://www.adkfirm.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a157cc9554b0e12c0583275?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | May 26 |
 | **[River Road Asset Management](http://riverroadam.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a157c84dc845f4be5bd631a?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | May 26 |
 | **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1521a1128680351d95f8d4?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | May 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[College Intern - Law](https://jobright.ai/jobs/info/6a171d58b091c7417c4faef7?utm_campaign=1055&utm_source=git)** | One Renaissance Center - 345 High Street, Hamilton, OH | On Site | May 22 |
 | **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Co-op Paralegal Intern](https://jobright.ai/jobs/info/6a106db569bd827926aee3b9?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | May 22 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69d6edf7e63cea7a8b66d0bb?utm_campaign=1055&utm_source=git)** | Kansas City, MO | Hybrid | May 22 |
-| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
