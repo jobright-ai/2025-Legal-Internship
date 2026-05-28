@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A Safe Place](http://www.asafeplaceforhelp.org)** | **[Legal Advocacy Internship](https://jobright.ai/jobs/info/6a17a0e15b0a497d5210df61?utm_campaign=1055&utm_source=git)** | Waukegan, IL | On Site | May 27 |
 | **[HIAS Europe](https://hias.org/hias-eu/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1797f4b091c7417c500030?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 27 |
 | **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a1796491430333075cd2853?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 27 |
 | **[Cotti Foods Corporation](https://www.linkedin.com/company/9785578)** | **[Summer Intern - Legal Department](https://jobright.ai/jobs/info/6a178d3ab091c7417c4ffcbb?utm_campaign=1055&utm_source=git)** | X66 Corporate HQ, Rancho Santa Margarita, CA, US | On Site | May 27 |
@@ -140,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a72b7a37c712687d3884?utm_campaign=1055&utm_source=git)** | Union, OH | On Site | May 22 |
 | **[Catalent](https://www.catalent.com)** | **[Legal Intern (Summer)](https://jobright.ai/jobs/info/6a110c7a9fdbf21f36cb2727?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ | On Site | May 22 |
 | **[Save the Children US](http://savethechildren.org)** | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a11166c83d714428982a69e?utm_campaign=1055&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
-| ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a1116d3619335383fb36a7b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a11166d83d714428982a6a0?utm_campaign=1055&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
+| ↳ | **[Safeguarding Intern (Legal)](https://jobright.ai/jobs/info/6a1116d3619335383fb36a7b?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | **[Morehouse School of Medicine](https://www.msm.edu/)** | **[Legal Operations Intern (On-Site)](https://jobright.ai/jobs/info/6a10f5c469bd827926af176c?utm_campaign=1055&utm_source=git)** | Atlanta Metro | On Site | May 22 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Import/Export Intern](https://jobright.ai/jobs/info/6a10c0f112f8b43cf398726e?utm_campaign=1055&utm_source=git)** | Rolla, MO | On Site | May 22 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/6a10ee7783d71442898291a9?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | May 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Co-op Paralegal Intern](https://jobright.ai/jobs/info/6a106db569bd827926aee3b9?utm_campaign=1055&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | May 22 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69d6edf7e63cea7a8b66d0bb?utm_campaign=1055&utm_source=git)** | Kansas City, MO | Hybrid | May 22 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | May 22 |
-| **[Catalent](https://www.catalent.com)** | **[Legal Intern (Summer)](https://jobright.ai/jobs/info/6a10673a12f8b43cf3984e71?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ, US | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
