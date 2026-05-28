@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a182715dbc80963f9340aa1?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 28 |
 | **[Democracy Docket](https://www.democracydocket.com)** | **[Fall 2026 Internship - Research](https://jobright.ai/jobs/info/69fbf58f76c60e7b70af0fcb?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 28 |
 | **[The University of Kansas School of Business](http://www.business.ku.edu/)** | **[Audit, Risk &amp; Compliance Student Intern](https://jobright.ai/jobs/info/6a181b106be92a6820d15c31?utm_campaign=1055&utm_source=git)** | University of Kansas Lawrence Campus | On Site | May 28 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/6a0f384c83d714428981db65?utm_campaign=1055&utm_source=git)** | United States | Remote | May 28 |
-| **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a1807ba54962c1bb4b06832?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 28 |
 | **[Wipfli](http://www.wipfli.com)** | **[IT Procurement Internship](https://jobright.ai/jobs/info/6a180544ac2d34081458adfc?utm_campaign=1055&utm_source=git)** | United States | Remote | May 28 |
 | **[Beazer Homes](http://beazer.com)** | **[Legal Secretary Intern](https://jobright.ai/jobs/info/6a1802e254962c1bb4b0668b?utm_campaign=1055&utm_source=git)** | Fairbanks, AK | On Site | May 28 |
 | **[Abacus Technology Corporation](http://www.abacustech.com)** | **[Internship Opportunities - Summer 2026 - Private Counsel Division & Specialty Units - Statewide](https://jobright.ai/jobs/info/6a17de205b0a497d5210fe9f?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | May 27 |
