@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a182715dbc80963f9340aa1?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 28 |
+| **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a183ef5abc8f63abac7603a?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 28 |
+| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69fbf6d076c60e7b70af128d?utm_campaign=1055&utm_source=git)** | Cerritos, CA | Hybrid | May 28 |
 | **[Democracy Docket](https://www.democracydocket.com)** | **[Fall 2026 Internship - Research](https://jobright.ai/jobs/info/69fbf58f76c60e7b70af0fcb?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 28 |
 | **[The University of Kansas School of Business](http://www.business.ku.edu/)** | **[Audit, Risk &amp; Compliance Student Intern](https://jobright.ai/jobs/info/6a181b106be92a6820d15c31?utm_campaign=1055&utm_source=git)** | University of Kansas Lawrence Campus | On Site | May 28 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/6a0f384c83d714428981db65?utm_campaign=1055&utm_source=git)** | United States | Remote | May 28 |
@@ -71,8 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a17cc1bb091c7417c501968?utm_campaign=1055&utm_source=git)** | US-NY-New York | Hybrid | May 27 |
 | **[The Ware Group](https://thewaregrouprealestate.com/)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a17caca5b0a497d5210f602?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 27 |
 | ↳ | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a17cac85b0a497d5210f601?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | May 27 |
-| **[HRchitect](https://www.hrchitect.com/)** | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/6a17ca0cda08264614c90624?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 27 |
-| ↳ | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/6a17ca0cda08264614c90623?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 27 |
+| **[HRchitect](https://www.hrchitect.com/)** | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/6a17ca0cda08264614c90623?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 27 |
+| ↳ | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/6a17ca0cda08264614c90624?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 27 |
 | **[CareSource](https://www.caresource.com/)** | **[CareSource Legal Intern-1 - R12815](https://jobright.ai/jobs/info/6a17c5bb1430333075cd40fe?utm_campaign=1055&utm_source=git)** | Dayton, OH | On Site | May 27 |
 | **[Highlight](http://highlighttech.com/)** | **[Law Clerk (Intern)](https://jobright.ai/jobs/info/6a17fb73c8110e28b75b1d40?utm_campaign=1055&utm_source=git)** | Madison, WI | Hybrid | May 27 |
 | **[Nasuni](https://www.nasuni.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a17c0eaf45c6530ce9af417?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | May 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[Legal Intern – Policy & Public Sector (AI & Cybersecurity Focus) (Summer 2026)](https://jobright.ai/jobs/info/6a1226e29fdbf21f36cb57fd?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 23 |
 | **[ACLU of New Jersey](https://www.aclu-nj.org/)** | **[Summer Legal Intern- ACLU-NJ](https://jobright.ai/jobs/info/6a120b4b619335383fb39369?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | May 23 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[2027 Legal Patent 2L Summer Intern](https://jobright.ai/jobs/info/6a060f56320bff2205ea760b?utm_campaign=1055&utm_source=git)** | CINCINNATI GENERAL OFFICES, US | On Site | May 23 |
-| ↳ | **[2027 Legal Patent 2L Summer Intern](https://jobright.ai/jobs/info/6a060f58320bff2205ea760d?utm_campaign=1055&utm_source=git)** | BOSTON GO & TECH CENTER, US | On Site | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
