@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Phibro Animal Health](http://www.pahc.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a199c536b135014dbc845a0?utm_campaign=1055&utm_source=git)** | US - Teaneck, NJ - Remote | Remote | May 29 |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a199630e24ef36525825905?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 29 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Office of the Chief Legal Officer Intern (Fall Semester)](https://jobright.ai/jobs/info/6a193cc3abc8f63abac7fa0e?utm_campaign=1055&utm_source=git)** | Ohio Judicial Center, 65 South Front Street, Columbus, OH | On Site | May 29 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[Office of the Chief Legal Officer Intern (Fall Semester)](https://jobright.ai/jobs/info/6a1937dc17492d3a389bd09d?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | May 28 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Legal Intern – Communications Division](https://jobright.ai/jobs/info/6a191f296243320e8d16a79b?utm_campaign=1055&utm_source=git)** | Lincoln, NE, US | On Site | May 28 |
@@ -103,8 +105,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/6a185c4954a441713ae83796?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 28 |
 | ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 28 |
 | ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b8?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 28 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c2717492d3a389b5192?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 28 |
-| ↳ | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c2717492d3a389b5191?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | May 28 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c2717492d3a389b5191?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | May 28 |
+| ↳ | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c2717492d3a389b5192?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 28 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Opportunities - Summer 2026 - Public Defender Division - Statewide](https://jobright.ai/jobs/info/6a185bf5dbc80963f9342d8a?utm_campaign=1055&utm_source=git)** | Boston, MA, US | On Site | May 28 |
 | ↳ | **[Internship Opportunities - Summer 2026 - Public Defender Division - Statewide](https://jobright.ai/jobs/info/6a185bf3dbc80963f9342d7c?utm_campaign=1055&utm_source=git)** | US-MA-Boston | On Site | May 28 |
 | ↳ | **[Internship Opportunities - Summer 2026 - Private Counsel Division & Specialty Units - Statewide](https://jobright.ai/jobs/info/6a185b8517492d3a389b4fe2?utm_campaign=1055&utm_source=git)** | US-MA-Boston | On Site | May 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pennsylvania Auditor General](https://www.paauditor.gov/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a172ef6d6a04f21602e3c63?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | Hybrid | May 27 |
 | **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Intern - Legal Department](https://jobright.ai/jobs/info/6a16f0641430333075ccb9e8?utm_campaign=1055&utm_source=git)** | Work at Home - Florida, US | Remote | May 27 |
 | **[FOLX Health](https://www.folxhealth.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6a16c4dcb5aeb143caa941e9?utm_campaign=1055&utm_source=git)** | Remote, US | Remote | May 27 |
-| ↳ | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6a16c4d9b5aeb143caa941e1?utm_campaign=1055&utm_source=git)** | United States | Remote | May 27 |
-| **[Bosch Building Technologies North America](https://www.boschbuildingtechnologies.com/na/en/)** | **[Contracts Administrator Intern](https://jobright.ai/jobs/info/6a18059fba12bb0249bb640d?utm_campaign=1055&utm_source=git)** | Phoenix, AZ | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
