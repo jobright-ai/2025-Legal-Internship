@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a1b5651e24ef3652582fd84?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 30 |
 | **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a1b522b9111f771d1a10d2c?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 30 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[1L / 2L/ 3L -2026 Summer Academic Law Student Internship](https://jobright.ai/jobs/info/6a1a630a2b206f3955eb45db?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | May 29 |
 | **[Blue Wave](https://www.bluewavepolitics.com)** | **[Compliance Internship](https://jobright.ai/jobs/info/6a19eddc2b206f3955eb17f3?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 29 |
@@ -73,14 +74,14 @@ For a complete list, click the following sortable link below:
 | **[City of Cheyenne](https://www.cheyennecity.org)** | **[City Attorney Legal Intern (Seasonal)](https://jobright.ai/jobs/info/6a18c6e554a441713ae880f0?utm_campaign=1055&utm_source=git)** | 1- Municipal Building - Cheyenne, WY 82001 | On Site | May 28 |
 | **[Supreme Court of Ohio](http://supremecourt.ohio.gov)** | **[Office of the Chief Legal Officer Intern (Fall Semester)](https://jobright.ai/jobs/info/6a18ba886243320e8d16756f?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | May 28 |
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998d327e0bddb6acac7be70?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | May 28 |
-| ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998ef6f81476f6176b157d6?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | May 28 |
 | ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998fc6181476f6176b16d43?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | May 28 |
+| ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998ef6f81476f6176b157d6?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | May 28 |
 | ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998efbfce78e77b4fdd8150?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | May 28 |
 | ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998e5c0e0bddb6acac7cf8c?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | May 28 |
 | ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998f5f9e0bddb6acac7e4fc?utm_campaign=1055&utm_source=git)** | Dayton, OH | On Site | May 28 |
 | ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998ee6dce78e77b4fdd7fa7?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | May 28 |
-| **[CannonDesign](http://www.cannondesign.com/)** | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188832dbc80963f934516d?utm_campaign=1055&utm_source=git)** | Buffalo | On Site | May 28 |
-| ↳ | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188835dbc80963f934516e?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | May 28 |
+| **[CannonDesign](http://www.cannondesign.com/)** | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188835dbc80963f934516e?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | May 28 |
+| ↳ | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188832dbc80963f934516d?utm_campaign=1055&utm_source=git)** | Buffalo | On Site | May 28 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Legal Intern - Technology & Intellectual Property](https://jobright.ai/jobs/info/6a18ae4454a441713ae872d5?utm_campaign=1055&utm_source=git)** | United States | Remote | May 28 |
 | **[Edwards Estate & Elder Law](https://edwardsestatelaw.com/)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6a1b4941e24ef3652582fc1e?utm_campaign=1055&utm_source=git)** | Watchung,NJ,US | On Site | May 28 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Pre-Law/Paralegal Intern Fall/Winter 2026/27](https://jobright.ai/jobs/info/69fbee1ea5949019c55b17e3?utm_campaign=1055&utm_source=git)** | Wickliffe, OH | On Site | May 28 |
@@ -113,8 +114,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Opportunities - Summer 2026 - Private Counsel Division & Specialty Units - Statewide](https://jobright.ai/jobs/info/6a185b8517492d3a389b4fe2?utm_campaign=1055&utm_source=git)** | US-MA-Boston | On Site | May 28 |
 | **[Bond, Schoeneck & King PLLC](https://www.bsk.com/)** | **[2027 Summer Law Clerk](https://jobright.ai/jobs/info/6a03114fed6a637463f4c5a7?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | May 28 |
 | **[Touro College of Dental Medicine](http://dental.touro.edu/)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a18598dabc8f63abac7716d?utm_campaign=1055&utm_source=git)** | US-NY-New York | Hybrid | May 28 |
-| ↳ | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a18598babc8f63abac77143?utm_campaign=1055&utm_source=git)** | New York, NY, US | Hybrid | May 28 |
 | ↳ | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a18598babc8f63abac7714b?utm_campaign=1055&utm_source=git)** | US | Hybrid | May 28 |
+| ↳ | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a18598babc8f63abac77143?utm_campaign=1055&utm_source=git)** | New York, NY, US | Hybrid | May 28 |
 | **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69fbf6d076c60e7b70af128d?utm_campaign=1055&utm_source=git)** | Cerritos, CA | Hybrid | May 28 |
 | **[The University of Kansas School of Business](http://www.business.ku.edu/)** | **[Audit, Risk &amp; Compliance Student Intern](https://jobright.ai/jobs/info/6a181b106be92a6820d15c31?utm_campaign=1055&utm_source=git)** | University of Kansas Lawrence Campus | On Site | May 28 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/6a0f384c83d714428981db65?utm_campaign=1055&utm_source=git)** | United States | Remote | May 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[EHS Intern - Summer 2026](https://jobright.ai/jobs/info/69fb2ad3e15600084115745f?utm_campaign=1055&utm_source=git)** | St Louis, MO | Hybrid | May 27 |
 | **[Pennsylvania Auditor General](https://www.paauditor.gov/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a172ef6d6a04f21602e3c63?utm_campaign=1055&utm_source=git)** | Harrisburg, PA | Hybrid | May 27 |
 | **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Intern - Legal Department](https://jobright.ai/jobs/info/6a16f0641430333075ccb9e8?utm_campaign=1055&utm_source=git)** | Work at Home - Florida, US | Remote | May 27 |
-| **[FOLX Health](https://www.folxhealth.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6a16c4dcb5aeb143caa941e9?utm_campaign=1055&utm_source=git)** | Remote, US | Remote | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
