@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a1ca6c1e24ef36525834a2a?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 31 |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a1cc456e24ef36525834fd9?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 31 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Legal Intern – Communications Division](https://jobright.ai/jobs/info/6a191f296243320e8d16a79b?utm_campaign=1055&utm_source=git)** | Lincoln, NE, US | On Site | May 31 |
 | **[Gunvor Group](https://gunvorgroup.com/en/)** | **[EPA Compliance Intern](https://jobright.ai/jobs/info/69e34e71fcfcbd43860a64cc?utm_campaign=1055&utm_source=git)** | Houston | On Site | May 31 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ba304056973837413faf8b?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | May 31 |
