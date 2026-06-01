@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OWL Services](https://owlservices.com)** | **[Intern](https://jobright.ai/jobs/info/6a1dd719c2a87d6cd3e0e2a5?utm_campaign=1055&utm_source=git)** | Plymouth Meeting, PA | On Site | Jun 01 |
+| **[Pinellas County Government](http://www.pinellascounty.org/emergency)** | **[County Attorney Intern](https://jobright.ai/jobs/info/6a1dd264e24ef3652583a2f3?utm_campaign=1055&utm_source=git)** | HR-New Courthouse, Florida, 33756, US | On Site | Jun 01 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[TAG Legal Intern](https://jobright.ai/jobs/info/6a1dccee6b135014dbc9883d?utm_campaign=1055&utm_source=git)** | Somerville-MA, US | Remote | Jun 01 |
+| **[CTBC Bank Corp. (USA)](http://www.ctbcbankusa.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a1dc48f9111f771d1a1ace0?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, US | On Site | Jun 01 |
+| ↳ | **[Compliance Intern](https://jobright.ai/jobs/info/6a1dc48b6b135014dbc98391?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, US | On Site | Jun 01 |
 | **[Intuit](https://www.intuit.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1dbb0ec2a87d6cd3e0d3d4?utm_campaign=1055&utm_source=git)** | Mountain View, CA | Hybrid | Jun 01 |
 | **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Public Benefits Law Unit (Fall)](https://jobright.ai/jobs/info/6a1db8473e538a28c204b601?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | Jun 01 |
 | ↳ | **[Intern, Housing Law Unit (Fall)](https://jobright.ai/jobs/info/6a1db843e24ef365258395d4?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | Jun 01 |
@@ -73,9 +78,8 @@ For a complete list, click the following sortable link below:
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Legal Intern – Communications Division](https://jobright.ai/jobs/info/6a191f296243320e8d16a79b?utm_campaign=1055&utm_source=git)** | Lincoln, NE, US | On Site | May 31 |
 | **[Gunvor Group](https://gunvorgroup.com/en/)** | **[EPA Compliance Intern](https://jobright.ai/jobs/info/69e34e71fcfcbd43860a64cc?utm_campaign=1055&utm_source=git)** | Houston | On Site | May 31 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ba304056973837413faf8b?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | May 31 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Office of Appeals](https://jobright.ai/jobs/info/6a1c12c3c2a87d6cd3e06b3d?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | May 31 |
-| **[CannonDesign](http://www.cannondesign.com/)** | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188835dbc80963f934516e?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | May 31 |
-| ↳ | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188832dbc80963f934516d?utm_campaign=1055&utm_source=git)** | Buffalo | On Site | May 31 |
+| **[CannonDesign](http://www.cannondesign.com/)** | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188832dbc80963f934516d?utm_campaign=1055&utm_source=git)** | Buffalo | On Site | May 31 |
+| ↳ | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188835dbc80963f934516e?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | May 31 |
 | **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a186cb2dbc80963f9343da1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 30 |
 | ↳ | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a186cb2dbc80963f9343da0?utm_campaign=1055&utm_source=git)** | New York | On Site | May 30 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[1L / 2L/ 3L -2026 Summer Academic Law Student Internship](https://jobright.ai/jobs/info/6a1a630a2b206f3955eb45db?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | May 29 |
@@ -93,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[City of Cheyenne](https://www.cheyennecity.org)** | **[City Attorney Legal Intern (Seasonal)](https://jobright.ai/jobs/info/6a18c6e554a441713ae880f0?utm_campaign=1055&utm_source=git)** | 1- Municipal Building - Cheyenne, WY 82001 | On Site | May 28 |
 | **[Supreme Court of Ohio](http://supremecourt.ohio.gov)** | **[Office of the Chief Legal Officer Intern (Fall Semester)](https://jobright.ai/jobs/info/6a18ba886243320e8d16756f?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | May 28 |
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998d327e0bddb6acac7be70?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | May 28 |
-| ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998ef6f81476f6176b157d6?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | May 28 |
 | ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998fc6181476f6176b16d43?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | May 28 |
+| ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998ef6f81476f6176b157d6?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | May 28 |
 | ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998efbfce78e77b4fdd8150?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | May 28 |
 | ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998e5c0e0bddb6acac7cf8c?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | May 28 |
 | ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998f5f9e0bddb6acac7e4fc?utm_campaign=1055&utm_source=git)** | Dayton, OH | On Site | May 28 |
@@ -119,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department - KYC Intern](https://jobright.ai/jobs/info/6a185c5f6243320e8d1636d0?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 28 |
 | ↳ | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379e?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 28 |
 | ↳ | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/6a185c4954a441713ae83796?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 28 |
-| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 28 |
 | ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b8?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 28 |
+| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 28 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c2717492d3a389b5192?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 28 |
 | ↳ | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c2717492d3a389b5191?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | May 28 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Opportunities - Summer 2026 - Public Defender Division - Statewide](https://jobright.ai/jobs/info/6a185bf5dbc80963f9342d8a?utm_campaign=1055&utm_source=git)** | Boston, MA, US | On Site | May 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[Global Trade Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/6a17360d5b0a497d52109c33?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | May 27 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/69fb3ae287a4820e6da86723?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | May 27 |
 | **[Mercy Health](http://www.mercy.com/)** | **[Intern - Legal Department](https://jobright.ai/jobs/info/6a172fa61430333075cce217?utm_campaign=1055&utm_source=git)** | Tallahassee, Florida, United States | Remote | May 27 |
-| ↳ | **[Intern - Legal Department](https://jobright.ai/jobs/info/6a172fa51430333075cce216?utm_campaign=1055&utm_source=git)** | Work at Home, Any city in Florida, FL 32301, United States of America | Remote | May 27 |
-| **[Alpek Polyester USA](https://alpekpolyesterusacareers.com/)** | **[INTERN – TRADE COMPLIANCE JOB GASTON, SC](https://jobright.ai/jobs/info/6a172027d6a04f21602e345d?utm_campaign=1055&utm_source=git)** | Gaston, SC | On Site | May 27 |
-| **[Bon Secours](https://www.bonsecours.com/)** | **[Intern - Legal Department](https://jobright.ai/jobs/info/6a17196eb091c7417c4fa9d3?utm_campaign=1055&utm_source=git)** | Work at Home, Any city in Florida, FL 32301, United States of America | Remote | May 27 |
-| ↳ | **[Intern - Legal Department](https://jobright.ai/jobs/info/6a17196ab091c7417c4fa9d1?utm_campaign=1055&utm_source=git)** | Tallahassee, Florida, United States | Remote | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
