@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 4](https://jobright.ai/jobs/info/6a1d9b213e538a28c204a7d5?utm_campaign=1055&utm_source=git)** | Arlington Virginia | Hybrid | Jun 01 |
+| **[OWL Services](https://owlservices.com)** | **[Intern](https://jobright.ai/jobs/info/6a1d9889b524ae49285a705f?utm_campaign=1055&utm_source=git)** | Plymouth Meeting, PA, US | On Site | Jun 01 |
+| **[BAE Systems](http://www.baesystems.com)** | **[Corporate Legal Intern (Hybrid)](https://jobright.ai/jobs/info/6a1d9884e24ef3652583878e?utm_campaign=1055&utm_source=git)** | Arlington Virginia | Hybrid | Jun 01 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d80edb524ae49285a67f0?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Jun 01 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d67029111f771d1a189cf?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Jun 01 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d313b9111f771d1a17e28?utm_campaign=1055&utm_source=git)** | Calabasas, CA, USA, US | On Site | Jun 01 |
@@ -121,8 +124,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Opportunities - Summer 2026 - Private Counsel Division & Specialty Units - Statewide](https://jobright.ai/jobs/info/6a185b8517492d3a389b4fe2?utm_campaign=1055&utm_source=git)** | US-MA-Boston | On Site | May 28 |
 | **[Bond, Schoeneck & King PLLC](https://www.bsk.com/)** | **[2027 Summer Law Clerk](https://jobright.ai/jobs/info/6a03114fed6a637463f4c5a7?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | May 28 |
 | **[Touro College of Dental Medicine](http://dental.touro.edu/)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a18598dabc8f63abac7716d?utm_campaign=1055&utm_source=git)** | US-NY-New York | Hybrid | May 28 |
-| ↳ | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a18598babc8f63abac7714b?utm_campaign=1055&utm_source=git)** | US | Hybrid | May 28 |
 | ↳ | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a18598babc8f63abac77143?utm_campaign=1055&utm_source=git)** | New York, NY, US | Hybrid | May 28 |
+| ↳ | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a18598babc8f63abac7714b?utm_campaign=1055&utm_source=git)** | US | Hybrid | May 28 |
 | **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Summer 2026](https://jobright.ai/jobs/info/69fbf6d076c60e7b70af128d?utm_campaign=1055&utm_source=git)** | Cerritos, CA | Hybrid | May 28 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/6a0f384c83d714428981db65?utm_campaign=1055&utm_source=git)** | United States | Remote | May 28 |
 | **[Wipfli](http://www.wipfli.com)** | **[IT Procurement Internship](https://jobright.ai/jobs/info/6a180544ac2d34081458adfc?utm_campaign=1055&utm_source=git)** | United States | Remote | May 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NYC Campaign Finance Board](http://www.nyccfb.info/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1718bf9005d858e94f5bed?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | May 27 |
 | **[Lyten](http://www.lyten.com)** | **[Intern - Corporate Legal](https://jobright.ai/jobs/info/6a170b1c9005d858e94f53a0?utm_campaign=1055&utm_source=git)** | San Jose, CA, US | On Site | May 27 |
 | ↳ | **[Intern - Commercial Legal](https://jobright.ai/jobs/info/6a170b195b0a497d52107a74?utm_campaign=1055&utm_source=git)** | San Jose, CA, US | On Site | May 27 |
-| **[ZOLL Medical Corporation](https://www.lifevest.zoll.com)** | **[Regulatory Affairs Intern/Co-op](https://jobright.ai/jobs/info/6a17097b9005d858e94f52ca?utm_campaign=1055&utm_source=git)** | Chelmsford, MA | Hybrid | May 27 |
-| **[ZOLL Cardiac Management Solutions](https://cardiac.zoll.com/)** | **[Regulatory Affairs Intern/Co-op](https://jobright.ai/jobs/info/6a1707969005d858e94f5203?utm_campaign=1055&utm_source=git)** | Chelmsford, MA, US | Hybrid | May 27 |
-| **[A Safe Place](http://www.asafeplaceforhelp.org)** | **[Legal Advocacy Internship](https://jobright.ai/jobs/info/6a17050ed6a04f21602e2227?utm_campaign=1055&utm_source=git)** | Waukegan,IL,US | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
