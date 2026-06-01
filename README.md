@@ -57,16 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a1cfcc77c457b279080d7b3?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | May 31 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Legal Capstone Internship (Fall 2025) 1](https://jobright.ai/jobs/info/6a1cf4846b135014dbc945b0?utm_campaign=1055&utm_source=git)** | Wickliffe, OH | On Site | May 31 |
 | ↳ | **[Legal Capstone Internship (Fall 2025) 1](https://jobright.ai/jobs/info/6a1ce6e8e24ef36525835715?utm_campaign=1055&utm_source=git)** | Wickliffe OH US | On Site | May 31 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Legal Intern – Communications Division](https://jobright.ai/jobs/info/6a191f296243320e8d16a79b?utm_campaign=1055&utm_source=git)** | Lincoln, NE, US | On Site | May 31 |
 | **[Gunvor Group](https://gunvorgroup.com/en/)** | **[EPA Compliance Intern](https://jobright.ai/jobs/info/69e34e71fcfcbd43860a64cc?utm_campaign=1055&utm_source=git)** | Houston | On Site | May 31 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ba304056973837413faf8b?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | May 31 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Office of Appeals](https://jobright.ai/jobs/info/6a1c12c3c2a87d6cd3e06b3d?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | May 31 |
-| **[CannonDesign](http://www.cannondesign.com/)** | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188832dbc80963f934516d?utm_campaign=1055&utm_source=git)** | Buffalo | On Site | May 31 |
-| ↳ | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188835dbc80963f934516e?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | May 31 |
-| **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a186cb2dbc80963f9343da0?utm_campaign=1055&utm_source=git)** | New York | On Site | May 30 |
-| ↳ | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a186cb2dbc80963f9343da1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 30 |
+| **[CannonDesign](http://www.cannondesign.com/)** | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188835dbc80963f934516e?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | May 31 |
+| ↳ | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188832dbc80963f934516d?utm_campaign=1055&utm_source=git)** | Buffalo | On Site | May 31 |
+| **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a186cb2dbc80963f9343da1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 30 |
+| ↳ | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a186cb2dbc80963f9343da0?utm_campaign=1055&utm_source=git)** | New York | On Site | May 30 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[1L / 2L/ 3L -2026 Summer Academic Law Student Internship](https://jobright.ai/jobs/info/6a1a630a2b206f3955eb45db?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | May 29 |
 | **[Blue Wave](https://www.bluewavepolitics.com)** | **[Compliance Internship](https://jobright.ai/jobs/info/6a19eddc2b206f3955eb17f3?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 29 |
 | **[SOSi](http://www.sosi.com)** | **[Law Student Internship](https://jobright.ai/jobs/info/6a19e10de24ef365258283dc?utm_campaign=1055&utm_source=git)** | Reston, VA, USA | On Site | May 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ZOLL Medical Corporation](https://www.lifevest.zoll.com)** | **[Regulatory Affairs Intern/Co-op](https://jobright.ai/jobs/info/6a17097b9005d858e94f52ca?utm_campaign=1055&utm_source=git)** | Chelmsford, MA | Hybrid | May 27 |
 | **[ZOLL Cardiac Management Solutions](https://cardiac.zoll.com/)** | **[Regulatory Affairs Intern/Co-op](https://jobright.ai/jobs/info/6a1707969005d858e94f5203?utm_campaign=1055&utm_source=git)** | Chelmsford, MA, US | Hybrid | May 27 |
 | **[A Safe Place](http://www.asafeplaceforhelp.org)** | **[Legal Advocacy Internship](https://jobright.ai/jobs/info/6a17050ed6a04f21602e2227?utm_campaign=1055&utm_source=git)** | Waukegan,IL,US | On Site | May 27 |
-| **[Nassau County District Attorney](https://nassauda.org)** | **[Intern (Summer 2026)](https://jobright.ai/jobs/info/6a17017b5b0a497d521076ea?utm_campaign=1055&utm_source=git)** | Hempstead, NY | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
