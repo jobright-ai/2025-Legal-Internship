@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d80edb524ae49285a67f0?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Jun 01 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d67029111f771d1a189cf?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Jun 01 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d313b9111f771d1a17e28?utm_campaign=1055&utm_source=git)** | Calabasas, CA, USA, US | On Site | Jun 01 |
 | **[Mesivta Yesodei Yeshurun](http://www.touro.edu)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a1d10429111f771d1a17652?utm_campaign=1055&utm_source=git)** | US-NY-New York | Hybrid | May 31 |
@@ -64,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[Gunvor Group](https://gunvorgroup.com/en/)** | **[EPA Compliance Intern](https://jobright.ai/jobs/info/69e34e71fcfcbd43860a64cc?utm_campaign=1055&utm_source=git)** | Houston | On Site | May 31 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ba304056973837413faf8b?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | May 31 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Office of Appeals](https://jobright.ai/jobs/info/6a1c12c3c2a87d6cd3e06b3d?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | May 31 |
-| **[CannonDesign](http://www.cannondesign.com/)** | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188835dbc80963f934516e?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | May 31 |
-| ↳ | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188832dbc80963f934516d?utm_campaign=1055&utm_source=git)** | Buffalo | On Site | May 31 |
+| **[CannonDesign](http://www.cannondesign.com/)** | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188832dbc80963f934516d?utm_campaign=1055&utm_source=git)** | Buffalo | On Site | May 31 |
+| ↳ | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188835dbc80963f934516e?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | May 31 |
 | **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a186cb2dbc80963f9343da1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 30 |
 | ↳ | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a186cb2dbc80963f9343da0?utm_campaign=1055&utm_source=git)** | New York | On Site | May 30 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[1L / 2L/ 3L -2026 Summer Academic Law Student Internship](https://jobright.ai/jobs/info/6a1a630a2b206f3955eb45db?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | May 29 |
@@ -134,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[HIAS](http://hias.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1777789005d858e94fa486?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 27 |
 | **[First Command Financial Services, Inc.](http://www.firstcommand.com)** | **[Supervision and Surveillance Intern](https://jobright.ai/jobs/info/6a17731c9005d858e94fa2f4?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | Hybrid | May 27 |
 | **[City of Morro Bay](https://www.morrobayca.gov)** | **[Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6a176e595b0a497d5210c643?utm_campaign=1055&utm_source=git)** | City of Morro Bay | On Site | May 27 |
-| **[CareSource](https://www.caresource.com/)** | **[CareSource Legal Intern-1](https://jobright.ai/jobs/info/6a1762761430333075cd0a09?utm_campaign=1055&utm_source=git)** | Dayton WFH, US | Remote | May 27 |
 | **[Bosch Building Technologies North America](https://www.boschbuildingtechnologies.com/na/en/)** | **[Contracts Administrator Intern](https://jobright.ai/jobs/info/6a175e029005d858e94f936b?utm_campaign=1055&utm_source=git)** | Phoenix, AZ, US | On Site | May 27 |
 | **[Circle the City](https://www.circlethecity.org/)** | **[Compliance and Privacy Intern (59816)](https://jobright.ai/jobs/info/6a1758d31430333075cd0544?utm_campaign=1055&utm_source=git)** | Admin Office - Phoenix, AZ 85013 | On Site | May 27 |
 | **[Harris County Attorney's Office](https://cao.harriscountytx.gov/)** | **[1L / 2L/ 3L -2026 Summer Academic Law Student Internship](https://jobright.ai/jobs/info/6a1758365b0a497d5210b704?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | May 27 |
