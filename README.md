@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carson Group](https://www.carsongroup.com/)** | **[Risk Management Internship/Recent Grad!](https://jobright.ai/jobs/info/6a0cba62a235d749afa8fd84?utm_campaign=1055&utm_source=git)** | Omaha, NE | Hybrid | Jun 02 |
+| **[Procter & Gamble](https://us.pg.com/)** | **[2027 Legal Patent 2L Summer Intern](https://jobright.ai/jobs/info/6a1ef753c5277c00c6481cc3?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jun 02 |
+| **[The Law Office of Kevin Seaver](https://www.seaverdcflawyer.com/)** | **[Legal Intern (Fall 2026) – Seaver Law Office](https://jobright.ai/jobs/info/6a1ef715a507373dff6bc7ba?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jun 02 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Probation Officer - Internship](https://jobright.ai/jobs/info/6a1ee95880491567811653e5?utm_campaign=1055&utm_source=git)** | Sherburne County Government Center, 13880 Business Center Drive NW, Elk River 55330-1692, MN | On Site | Jun 02 |
+| **[SCIENTIFIC GAMES](https://www.scientificgames.com/)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6a1ee3c1c5277c00c6481306?utm_campaign=1055&utm_source=git)** | Alpharetta, GA, US | On Site | Jun 02 |
 | **[Womble Bond Dickinson (US) LLP](https://www.womblebonddickinson.com/us)** | **[Legal Intern](https://jobright.ai/jobs/info/6a030adced6a637463f4bd41?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jun 02 |
 | **[Novo Holdings](http://www.novoholdings.dk)** | **[Legal Intern, Novo Holdings](https://jobright.ai/jobs/info/6a1ec8c0a507373dff6bb7a4?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 02 |
-| **[WHSmith North America](http://www.marshallretailgroup.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1ec842dce5db1256d0fffd?utm_campaign=1055&utm_source=git)** | Support Center - Las Vegas, NV 89119 US (Primary) | On Site | Jun 02 |
 | **[Ampion, PBC.](https://ampion.net)** | **[Compliance & Operations Support Internship](https://jobright.ai/jobs/info/6a1ec36180491567811647c2?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Jun 02 |
 | **[Sentara Health](http://www.sentara.com)** | **[Cyber Security Compliance Intern](https://jobright.ai/jobs/info/6a1e816d8049156781163829?utm_campaign=1055&utm_source=git)** | Virginia Beach, VA, US | Remote | Jun 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1e635a09442629a68537f9?utm_campaign=1055&utm_source=git)** | Piscataway, NJ | On Site | Jun 01 |
@@ -70,7 +74,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Civil Practice Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a1e8bf809442629a6853f8b?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 01 |
 | ↳ | **[Criminal Defense Practice Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a1e1a709111f771d1a1d383?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 01 |
 | ↳ | **[Law Reform Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a1e1a219111f771d1a1d373?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 01 |
-| **[National MS Society](http://www.nationalmssociety.org)** | **[Legal & Risk Management Intern](https://jobright.ai/jobs/info/6a1df6ea6b135014dbc99c58?utm_campaign=1055&utm_source=git)** | Flexible, US | Hybrid | Jun 01 |
 | **[The D. E. Shaw Group](https://www.deshaw.com)** | **[Legal & Compliance Intern (New York) – Summer 2027](https://jobright.ai/jobs/info/6a1e06d3e24ef3652583ba4d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 01 |
 | **[Harris Teeter](http://www.harristeeter.com)** | **[Greensboro Distribution Center Internship](https://jobright.ai/jobs/info/6a1e04d26b135014dbc9a1db?utm_campaign=1055&utm_source=git)** | GREENSBORO, NORTH CAROLINA, GREENSBORO WHSE-ADMIN | On Site | Jun 01 |
 | **[Arapahoe County](https://www.arapahoegov.com)** | **[DA Intern Non Legal - County Court](https://jobright.ai/jobs/info/6a1e02a4b524ae49285aa1f6?utm_campaign=1055&utm_source=git)** | Centennial, CO, US | On Site | Jun 01 |
@@ -117,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[City of Cheyenne](https://www.cheyennecity.org)** | **[City Attorney Legal Intern (Seasonal)](https://jobright.ai/jobs/info/6a18c6e554a441713ae880f0?utm_campaign=1055&utm_source=git)** | 1- Municipal Building - Cheyenne, WY 82001 | On Site | May 28 |
 | **[Supreme Court of Ohio](http://supremecourt.ohio.gov)** | **[Office of the Chief Legal Officer Intern (Fall Semester)](https://jobright.ai/jobs/info/6a18ba886243320e8d16756f?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | May 28 |
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998d327e0bddb6acac7be70?utm_campaign=1055&utm_source=git)** | Detroit, MI | On Site | May 28 |
-| ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998ef6f81476f6176b157d6?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | May 28 |
 | ↳ | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998fc6181476f6176b16d43?utm_campaign=1055&utm_source=git)** | Louisville, KY | On Site | May 28 |
+| ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998ef6f81476f6176b157d6?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA | On Site | May 28 |
 | ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998efbfce78e77b4fdd8150?utm_campaign=1055&utm_source=git)** | Cleveland, OH | On Site | May 28 |
 | ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998e5c0e0bddb6acac7cf8c?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | May 28 |
 | ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998f5f9e0bddb6acac7e4fc?utm_campaign=1055&utm_source=git)** | Dayton, OH | On Site | May 28 |
@@ -143,18 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department - KYC Intern](https://jobright.ai/jobs/info/6a185c5f6243320e8d1636d0?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 28 |
 | ↳ | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379e?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 28 |
 | ↳ | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/6a185c4954a441713ae83796?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 28 |
-| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 28 |
 | ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b8?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 28 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c2717492d3a389b5191?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | May 28 |
-| ↳ | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c2717492d3a389b5192?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 28 |
+| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 28 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c2717492d3a389b5192?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 28 |
+| ↳ | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c2717492d3a389b5191?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | May 28 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Opportunities - Summer 2026 - Public Defender Division - Statewide](https://jobright.ai/jobs/info/6a185bf5dbc80963f9342d8a?utm_campaign=1055&utm_source=git)** | Boston, MA, US | On Site | May 28 |
 | ↳ | **[Internship Opportunities - Summer 2026 - Public Defender Division - Statewide](https://jobright.ai/jobs/info/6a185bf3dbc80963f9342d7c?utm_campaign=1055&utm_source=git)** | US-MA-Boston | On Site | May 28 |
 | ↳ | **[Internship Opportunities - Summer 2026 - Private Counsel Division & Specialty Units - Statewide](https://jobright.ai/jobs/info/6a185b8517492d3a389b4fe2?utm_campaign=1055&utm_source=git)** | US-MA-Boston | On Site | May 28 |
 | **[Bond, Schoeneck & King PLLC](https://www.bsk.com/)** | **[2027 Summer Law Clerk](https://jobright.ai/jobs/info/6a03114fed6a637463f4c5a7?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | May 28 |
 | **[Touro College of Dental Medicine](http://dental.touro.edu/)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a18598dabc8f63abac7716d?utm_campaign=1055&utm_source=git)** | US-NY-New York | Hybrid | May 28 |
-| ↳ | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a18598babc8f63abac7714b?utm_campaign=1055&utm_source=git)** | US | Hybrid | May 28 |
 | ↳ | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a18598babc8f63abac77143?utm_campaign=1055&utm_source=git)** | New York, NY, US | Hybrid | May 28 |
-| **[BeOne Medicines](www.beonemedicines.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/6a0f384c83d714428981db65?utm_campaign=1055&utm_source=git)** | United States | Remote | May 28 |
-| **[Wipfli](http://www.wipfli.com)** | **[IT Procurement Internship](https://jobright.ai/jobs/info/6a180544ac2d34081458adfc?utm_campaign=1055&utm_source=git)** | United States | Remote | May 28 |
-| **[Nasuni](https://www.nasuni.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a17c0eaf45c6530ce9af417?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | May 27 |
+| ↳ | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a18598babc8f63abac7714b?utm_campaign=1055&utm_source=git)** | US | Hybrid | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
