@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National MS Society](http://www.nationalmssociety.org)** | **[Legal & Risk Management Intern](https://jobright.ai/jobs/info/6a1df6ea6b135014dbc99c58?utm_campaign=1055&utm_source=git)** | Flexible, US | Hybrid | Jun 01 |
+| **[The D. E. Shaw Group](https://www.deshaw.com)** | **[Legal & Compliance Intern (New York) – Summer 2027](https://jobright.ai/jobs/info/6a1e06d3e24ef3652583ba4d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 01 |
 | **[Harris Teeter](http://www.harristeeter.com)** | **[Greensboro Distribution Center Internship](https://jobright.ai/jobs/info/6a1e04d26b135014dbc9a1db?utm_campaign=1055&utm_source=git)** | GREENSBORO, NORTH CAROLINA, GREENSBORO WHSE-ADMIN | On Site | Jun 01 |
 | **[Arapahoe County](https://www.arapahoegov.com)** | **[DA Intern Non Legal - County Court](https://jobright.ai/jobs/info/6a1e02a4b524ae49285aa1f6?utm_campaign=1055&utm_source=git)** | Centennial, CO, US | On Site | Jun 01 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Criminal Defense Practice Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a1dfdcbb524ae49285aa07f?utm_campaign=1055&utm_source=git)** | 49 Thomas Street, New York, NY10013 | On Site | Jun 01 |
 | ↳ | **[Juvenile Rights Practice Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a1dfdc86b135014dbc99f13?utm_campaign=1055&utm_source=git)** | 60 Lafayette Street Room 9A, New York, NY10013 | On Site | Jun 01 |
-| **[National MS Society](http://www.nationalmssociety.org)** | **[Legal & Risk Management Intern](https://jobright.ai/jobs/info/6a1df6ea6b135014dbc99c58?utm_campaign=1055&utm_source=git)** | Flexible, US | Hybrid | Jun 01 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Leasing Tenant Representation Intern](https://jobright.ai/jobs/info/6a1deaeee24ef3652583ae03?utm_campaign=1055&utm_source=git)** | Ontario, California, USA, US | On Site | Jun 01 |
 | **[ACLU of New Jersey](https://www.aclu-nj.org/)** | **[Summer Legal Intern- ACLU-NJ](https://jobright.ai/jobs/info/6a1de898b524ae49285a973f?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Jun 01 |
 | **[Pinellas County Government](http://www.pinellascounty.org/emergency)** | **[County Attorney Intern](https://jobright.ai/jobs/info/6a1dd264e24ef3652583a2f3?utm_campaign=1055&utm_source=git)** | HR-New Courthouse, Florida, 33756, US | On Site | Jun 01 |
@@ -88,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ba304056973837413faf8b?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | May 31 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188835dbc80963f934516e?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | May 31 |
 | ↳ | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188832dbc80963f934516d?utm_campaign=1055&utm_source=git)** | Buffalo | On Site | May 31 |
-| **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a186cb2dbc80963f9343da1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 30 |
-| ↳ | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a186cb2dbc80963f9343da0?utm_campaign=1055&utm_source=git)** | New York | On Site | May 30 |
+| **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a186cb2dbc80963f9343da0?utm_campaign=1055&utm_source=git)** | New York | On Site | May 30 |
+| ↳ | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a186cb2dbc80963f9343da1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 30 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[1L / 2L/ 3L -2026 Summer Academic Law Student Internship](https://jobright.ai/jobs/info/6a1a630a2b206f3955eb45db?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | May 29 |
 | **[Blue Wave](https://www.bluewavepolitics.com)** | **[Compliance Internship](https://jobright.ai/jobs/info/6a19eddc2b206f3955eb17f3?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 29 |
 | **[SOSi](http://www.sosi.com)** | **[Law Student Internship](https://jobright.ai/jobs/info/6a19e10de24ef365258283dc?utm_campaign=1055&utm_source=git)** | Reston, VA, USA | On Site | May 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Circle the City](https://www.circlethecity.org/)** | **[Compliance and Privacy Intern (59816)](https://jobright.ai/jobs/info/6a1758d31430333075cd0544?utm_campaign=1055&utm_source=git)** | Admin Office - Phoenix, AZ 85013 | On Site | May 27 |
 | **[Harris County Attorney's Office](https://cao.harriscountytx.gov/)** | **[1L / 2L/ 3L -2026 Summer Academic Law Student Internship](https://jobright.ai/jobs/info/6a1758365b0a497d5210b704?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | May 27 |
 | **[HIAS](http://hias.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1757799005d858e94f9050?utm_campaign=1055&utm_source=git)** | Hybrid - New York, NY, United States | Hybrid | May 27 |
-| **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Intern - Policy & Compliance Enablement](https://jobright.ai/jobs/info/6a174ff2d6a04f21602e5584?utm_campaign=1055&utm_source=git)** | Office - USA - CA - Headquarters, US | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
