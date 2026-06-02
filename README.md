@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Womble Bond Dickinson (US) LLP](https://www.womblebonddickinson.com/us)** | **[Legal Intern](https://jobright.ai/jobs/info/6a030adced6a637463f4bd41?utm_campaign=1055&utm_source=git)** | Atlanta, GA | On Site | Jun 02 |
+| **[Novo Holdings](http://www.novoholdings.dk)** | **[Legal Intern, Novo Holdings](https://jobright.ai/jobs/info/6a1ec8c0a507373dff6bb7a4?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 02 |
+| **[WHSmith North America](http://www.marshallretailgroup.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1ec842dce5db1256d0fffd?utm_campaign=1055&utm_source=git)** | Support Center - Las Vegas, NV 89119 US (Primary) | On Site | Jun 02 |
+| **[Ampion, PBC.](https://ampion.net)** | **[Compliance & Operations Support Internship](https://jobright.ai/jobs/info/6a1ec36180491567811647c2?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Jun 02 |
 | **[Sentara Health](http://www.sentara.com)** | **[Cyber Security Compliance Intern](https://jobright.ai/jobs/info/6a1e816d8049156781163829?utm_campaign=1055&utm_source=git)** | Virginia Beach, VA, US | Remote | Jun 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1e635a09442629a68537f9?utm_campaign=1055&utm_source=git)** | Piscataway, NJ | On Site | Jun 01 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Law Reform Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a1e34c0b524ae49285ab3bb?utm_campaign=1055&utm_source=git)** | City Wide, New York, NY 10038 | On Site | Jun 01 |
@@ -148,13 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Opportunities - Summer 2026 - Private Counsel Division & Specialty Units - Statewide](https://jobright.ai/jobs/info/6a185b8517492d3a389b4fe2?utm_campaign=1055&utm_source=git)** | US-MA-Boston | On Site | May 28 |
 | **[Bond, Schoeneck & King PLLC](https://www.bsk.com/)** | **[2027 Summer Law Clerk](https://jobright.ai/jobs/info/6a03114fed6a637463f4c5a7?utm_campaign=1055&utm_source=git)** | Syracuse, NY | On Site | May 28 |
 | **[Touro College of Dental Medicine](http://dental.touro.edu/)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a18598dabc8f63abac7716d?utm_campaign=1055&utm_source=git)** | US-NY-New York | Hybrid | May 28 |
-| ↳ | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a18598babc8f63abac77143?utm_campaign=1055&utm_source=git)** | New York, NY, US | Hybrid | May 28 |
 | ↳ | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a18598babc8f63abac7714b?utm_campaign=1055&utm_source=git)** | US | Hybrid | May 28 |
+| ↳ | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a18598babc8f63abac77143?utm_campaign=1055&utm_source=git)** | New York, NY, US | Hybrid | May 28 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/6a0f384c83d714428981db65?utm_campaign=1055&utm_source=git)** | United States | Remote | May 28 |
 | **[Wipfli](http://www.wipfli.com)** | **[IT Procurement Internship](https://jobright.ai/jobs/info/6a180544ac2d34081458adfc?utm_campaign=1055&utm_source=git)** | United States | Remote | May 28 |
 | **[Nasuni](https://www.nasuni.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a17c0eaf45c6530ce9af417?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | May 27 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a17c0e7f45c6530ce9af413?utm_campaign=1055&utm_source=git)** | Boston | Hybrid | May 27 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a17b9bb81fe455c705ab3f6?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | May 27 |
-| **[City of Morro Bay](https://www.morrobayca.gov)** | **[Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6a17aa8c1430333075cd31e7?utm_campaign=1055&utm_source=git)** | Morro Bay, CA | On Site | May 27 |
-| **[HIAS Europe](https://hias.org/hias-eu/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1797f4b091c7417c500030?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
