@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Training & eTracking Solutions](https://www.yourtrainingprovider.com)** | **[Public Policy & Compliance Research Intern](https://jobright.ai/jobs/info/6a2079db3a5f0145f4c14c6d?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 03 |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Ombudsman/Trial Court Administration Intern (Hourly Position)](https://jobright.ai/jobs/info/6a20863e4bdf8a5a96bd135c?utm_campaign=1055&utm_source=git)** | Camden, NJ | On Site | Jun 03 |
 | **[Whataburger](http://www.whataburger.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a206c7b902d19201c7b20c5?utm_campaign=1055&utm_source=git)** | 300 Concord Plaza Dr San Antonio TX 78216-6903, US | Hybrid | Jun 03 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Ombudsman/Trial Court Administration Intern (Hourly Position)](https://jobright.ai/jobs/info/6a2064e8902d19201c7b1ed1?utm_campaign=1055&utm_source=git)** | Camden Vicinage, 101 South 5th Street, Camden, NJ | On Site | Jun 03 |
 | **[Fortune Brands Innovations](http://www.fbhs.com)** | **[Supply Chain Intern - Trade & Customs Compliance](https://jobright.ai/jobs/info/6a206036902d19201c7b1d16?utm_campaign=1055&utm_source=git)** | 1 Horizon Way, Deerfield, ILLINOIS | Hybrid | Jun 03 |
