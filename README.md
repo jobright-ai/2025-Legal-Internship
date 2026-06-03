@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Training & eTracking Solutions](https://www.yourtrainingprovider.com)** | **[Public Policy & Compliance Research Intern](https://jobright.ai/jobs/info/6a2079db3a5f0145f4c14c6d?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 03 |
+| **[Whataburger](http://www.whataburger.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a206c7b902d19201c7b20c5?utm_campaign=1055&utm_source=git)** | 300 Concord Plaza Dr San Antonio TX 78216-6903, US | Hybrid | Jun 03 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Ombudsman/Trial Court Administration Intern (Hourly Position)](https://jobright.ai/jobs/info/6a2064e8902d19201c7b1ed1?utm_campaign=1055&utm_source=git)** | Camden Vicinage, 101 South 5th Street, Camden, NJ | On Site | Jun 03 |
 | **[Fortune Brands Innovations](http://www.fbhs.com)** | **[Supply Chain Intern - Trade & Customs Compliance](https://jobright.ai/jobs/info/6a206036902d19201c7b1d16?utm_campaign=1055&utm_source=git)** | 1 Horizon Way, Deerfield, ILLINOIS | Hybrid | Jun 03 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/Intern Volunteer](https://jobright.ai/jobs/info/6a2054c1902d19201c7b1851?utm_campaign=1055&utm_source=git)** | Pueblo, CO | On Site | Jun 03 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department - KYC Intern](https://jobright.ai/jobs/info/6a185c5f6243320e8d1636d0?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 28 |
 | ↳ | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379e?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 28 |
 | ↳ | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/6a185c4954a441713ae83796?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 28 |
-| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b8?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 28 |
 | ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 28 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c2717492d3a389b5192?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 28 |
-| ↳ | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c2717492d3a389b5191?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | May 28 |
+| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b8?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
