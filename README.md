@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colorado Housing and Finance Authority](https://www.chfainfo.com/)** | **[Privacy Program Intern](https://jobright.ai/jobs/info/6a20af20338c01230511afd9?utm_campaign=1055&utm_source=git)** | Denver - Denver, CO 80202 | Hybrid | Jun 03 |
+| **[Affinity Gaming](http://affinitygaming.com/)** | **[General Counsel Intern](https://jobright.ai/jobs/info/6a20ae40338c01230511af74?utm_campaign=1055&utm_source=git)** | Las Vegas, Nevada, United States | On Site | Jun 03 |
+| **[Husch Blackwell](http://www.huschblackwell.com/)** | **[Intern - Information Governance (Records)](https://jobright.ai/jobs/info/6a20ad964bdf8a5a96bd2878?utm_campaign=1055&utm_source=git)** | Bloomington, Illinois, United States | On Site | Jun 03 |
 | **[Catalent](https://www.catalent.com)** | **[Legal Intern (Summer)](https://jobright.ai/jobs/info/6a209b28902d19201c7b3743?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ, US | On Site | Jun 03 |
 | **[Quanterix](http://www.quanterix.com)** | **[Summer Internship: Legal Department](https://jobright.ai/jobs/info/6a2096d73a5f0145f4c15a0b?utm_campaign=1055&utm_source=git)** | Billerica, MA | On Site | Jun 03 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Call Center Compliance Investigator Intern](https://jobright.ai/jobs/info/6a208eff4bdf8a5a96bd191e?utm_campaign=1055&utm_source=git)** | Remote, CO, USA, CO | Remote | Jun 03 |
@@ -122,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Legal Intern – Communications Division](https://jobright.ai/jobs/info/6a191f296243320e8d16a79b?utm_campaign=1055&utm_source=git)** | Lincoln, NE, US | On Site | May 31 |
 | **[Gunvor Group](https://gunvorgroup.com/en/)** | **[EPA Compliance Intern](https://jobright.ai/jobs/info/69e34e71fcfcbd43860a64cc?utm_campaign=1055&utm_source=git)** | Houston | On Site | May 31 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ba304056973837413faf8b?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | May 31 |
-| **[CannonDesign](http://www.cannondesign.com/)** | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188832dbc80963f934516d?utm_campaign=1055&utm_source=git)** | Buffalo | On Site | May 31 |
-| ↳ | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188835dbc80963f934516e?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | May 31 |
+| **[CannonDesign](http://www.cannondesign.com/)** | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188835dbc80963f934516e?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | May 31 |
+| ↳ | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188832dbc80963f934516d?utm_campaign=1055&utm_source=git)** | Buffalo | On Site | May 31 |
 | **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a186cb2dbc80963f9343da0?utm_campaign=1055&utm_source=git)** | New York | On Site | May 30 |
 | ↳ | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a186cb2dbc80963f9343da1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 30 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[1L / 2L/ 3L -2026 Summer Academic Law Student Internship](https://jobright.ai/jobs/info/6a1a630a2b206f3955eb45db?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | May 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lakewood Cemetery](https://www.lakewoodcemetery.org/)** | **[Variable Probation Intern](https://jobright.ai/jobs/info/6a185cd3c2a87d6cd3df02cf?utm_campaign=1055&utm_source=git)** | Lakewood, CO, US | On Site | May 28 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/6a185c78abc8f63abac779ca?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 28 |
 | ↳ | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/6a185c73abc8f63abac77995?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | May 28 |
-| **[IBTS - Institute for Building Technology and Safety](https://www.ibts.org/)** | **[Intern - Contracts Administration](https://jobright.ai/jobs/info/6a185c6f54a441713ae8385c?utm_campaign=1055&utm_source=git)** | Ashburn, VA, US | On Site | May 28 |
-| ↳ | **[Intern - Contracts Administration](https://jobright.ai/jobs/info/6a185c6e54a441713ae83848?utm_campaign=1055&utm_source=git)** | US-VA-Ashburn | On Site | May 28 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal & Compliance Department - KYC Intern](https://jobright.ai/jobs/info/6a185c5f6243320e8d1636d0?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
