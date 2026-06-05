@@ -57,18 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kuehne+Nagel](https://home.kuehne-nagel.com/)** | **[Customs Summer Internship](https://jobright.ai/jobs/info/6a094ee0939a5f01db95ddc5?utm_campaign=1055&utm_source=git)** | East Point, Georgia, United States | On Site | Jun 05 |
+| **[Kuehne+Nagel](https://home.kuehne-nagel.com/)** | **[Customs Summer Internship](https://jobright.ai/jobs/info/6a1923fc54a441713ae8ab13?utm_campaign=1055&utm_source=git)** | Plymouth, Michigan, United States | On Site | Jun 05 |
+| ↳ | **[Customs Summer Internship](https://jobright.ai/jobs/info/6a094ee0939a5f01db95ddc5?utm_campaign=1055&utm_source=git)** | East Point, Georgia, United States | On Site | Jun 05 |
 | ↳ | **[Customs Summer Internship](https://jobright.ai/jobs/info/6a094ede939a5f01db95ddc3?utm_campaign=1055&utm_source=git)** | Laredo, Texas, United States | On Site | Jun 05 |
-| ↳ | **[Customs Summer Internship](https://jobright.ai/jobs/info/6a1923fc54a441713ae8ab13?utm_campaign=1055&utm_source=git)** | Plymouth, Michigan, United States | On Site | Jun 05 |
 | **[Futu Holdings Limited](https://hk.futuhk.com)** | **[Unpaid - Compliance Intern - Trade Surveillance Support](https://jobright.ai/jobs/info/6a064933bc4184089f24dd3d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jun 05 |
 | **[Swed Fintech AB](swedfintech.com)** | **[Securities Litigation Internship](https://jobright.ai/jobs/info/697f9e27abff4c399a9e341a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a22aa8614de9460dc842d49?utm_campaign=1055&utm_source=git)** | Seattle | On Site | Jun 05 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b8?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 05 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 05 |
 | ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 05 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Legal / Communications Internship  (General Application) – SY 2026-27](https://jobright.ai/jobs/info/6a226eb3d1ab07243c7f8059?utm_campaign=1055&utm_source=git)** | Administration Building - South Bend, Indiana | On Site | Jun 04 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, IT Analyst, Global Risk & Compliance (Fall 2026)](https://jobright.ai/jobs/info/6a222acf338c0123051230d4?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jun 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Arbitration Strategy Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a221d507c30cc2cc516d773?utm_campaign=1055&utm_source=git)** | Los Angeles | On Site | Jun 04 |
-| **[First Chicago Insurance Company](https://www.firstchicagoinsurance.com/)** | **[Product Forms & Compliance Intern](https://jobright.ai/jobs/info/6a21c3e1338c0123051207a7?utm_campaign=1055&utm_source=git)** | Bedford Park,IL,US | On Site | Jun 04 |
 | **[Belmark inc](https://www.belmark.com/)** | **[Quality Compliance Intern](https://jobright.ai/jobs/info/6a21c3df4bdf8a5a96bd7f93?utm_campaign=1055&utm_source=git)** | De Pere, WI | On Site | Jun 04 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, NY | On Site | Jun 04 |
 | **[Sands Anderson PC](http://sandsanderson.com)** | **[Summer Legal File Clerk (Paid Internship)](https://jobright.ai/jobs/info/6a21c21e338c012305120652?utm_campaign=1055&utm_source=git)** | Virginia Beach, VA | On Site | Jun 04 |
@@ -135,9 +134,9 @@ For a complete list, click the following sortable link below:
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d67029111f771d1a189cf?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Jun 01 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship / Law Clerk (Fall 2026)](https://jobright.ai/jobs/info/6a200304c00e701fe83670e3?utm_campaign=1055&utm_source=git)** | Los Angeles City Hall - East | On Site | Jun 01 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d313b9111f771d1a17e28?utm_campaign=1055&utm_source=git)** | Calabasas, CA, USA, US | On Site | Jun 01 |
-| **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Housing Law Unit (Fall)](https://jobright.ai/jobs/info/6a210504338c01230511c941?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | May 31 |
-| ↳ | **[Intern, Public Benefits Law Unit (Fall)](https://jobright.ai/jobs/info/6a21050b4bdf8a5a96bd4267?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | May 31 |
+| **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Public Benefits Law Unit (Fall)](https://jobright.ai/jobs/info/6a21050b4bdf8a5a96bd4267?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | May 31 |
 | ↳ | **[Intern, Reentry Justice Project (Fall)](https://jobright.ai/jobs/info/6a210504902d19201c7b5cb3?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | May 31 |
+| ↳ | **[Intern, Housing Law Unit (Fall)](https://jobright.ai/jobs/info/6a210504338c01230511c941?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | May 31 |
 | **[Mesivta Yesodei Yeshurun](http://www.touro.edu)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a1d10429111f771d1a17652?utm_campaign=1055&utm_source=git)** | US-NY-New York | Hybrid | May 31 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | May 31 |
 | **[Gunvor Group](https://gunvorgroup.com/en/)** | **[EPA Compliance Intern](https://jobright.ai/jobs/info/69e650d1f8fa2f3ec32a0c79?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | May 31 |
