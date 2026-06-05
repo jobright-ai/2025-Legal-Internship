@@ -133,20 +133,19 @@ For a complete list, click the following sortable link below:
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d67029111f771d1a189cf?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Jun 01 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship / Law Clerk (Fall 2026)](https://jobright.ai/jobs/info/6a200304c00e701fe83670e3?utm_campaign=1055&utm_source=git)** | Los Angeles City Hall - East | On Site | Jun 01 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d313b9111f771d1a17e28?utm_campaign=1055&utm_source=git)** | Calabasas, CA, USA, US | On Site | Jun 01 |
-| **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Housing Law Unit (Fall)](https://jobright.ai/jobs/info/6a210504338c01230511c941?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | May 31 |
+| **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Public Benefits Law Unit (Fall)](https://jobright.ai/jobs/info/6a21050b4bdf8a5a96bd4267?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | May 31 |
+| ↳ | **[Intern, Housing Law Unit (Fall)](https://jobright.ai/jobs/info/6a210504338c01230511c941?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | May 31 |
 | ↳ | **[Intern, Reentry Justice Project (Fall)](https://jobright.ai/jobs/info/6a210504902d19201c7b5cb3?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | May 31 |
-| ↳ | **[Intern, Public Benefits Law Unit (Fall)](https://jobright.ai/jobs/info/6a21050b4bdf8a5a96bd4267?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | May 31 |
 | **[Mesivta Yesodei Yeshurun](http://www.touro.edu)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a1d10429111f771d1a17652?utm_campaign=1055&utm_source=git)** | US-NY-New York | Hybrid | May 31 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | May 31 |
 | **[Gunvor Group](https://gunvorgroup.com/en/)** | **[EPA Compliance Intern](https://jobright.ai/jobs/info/69e650d1f8fa2f3ec32a0c79?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | May 31 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Legal Intern – Communications Division](https://jobright.ai/jobs/info/6a191f296243320e8d16a79b?utm_campaign=1055&utm_source=git)** | Lincoln, NE, US | On Site | May 31 |
 | **[Gunvor Group](https://gunvorgroup.com/en/)** | **[EPA Compliance Intern](https://jobright.ai/jobs/info/69e34e71fcfcbd43860a64cc?utm_campaign=1055&utm_source=git)** | Houston | On Site | May 31 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ba304056973837413faf8b?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | May 31 |
-| **[CannonDesign](http://www.cannondesign.com/)** | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188832dbc80963f934516d?utm_campaign=1055&utm_source=git)** | Buffalo | On Site | May 31 |
-| ↳ | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188835dbc80963f934516e?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | May 31 |
-| **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a186cb2dbc80963f9343da1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 30 |
-| ↳ | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a186cb2dbc80963f9343da0?utm_campaign=1055&utm_source=git)** | New York | On Site | May 30 |
+| **[CannonDesign](http://www.cannondesign.com/)** | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188835dbc80963f934516e?utm_campaign=1055&utm_source=git)** | Buffalo, NY | On Site | May 31 |
+| ↳ | **[Legal Student Intern](https://jobright.ai/jobs/info/6a188832dbc80963f934516d?utm_campaign=1055&utm_source=git)** | Buffalo | On Site | May 31 |
+| **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a186cb2dbc80963f9343da0?utm_campaign=1055&utm_source=git)** | New York | On Site | May 30 |
+| ↳ | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a186cb2dbc80963f9343da1?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | May 30 |
 | **[Blue Wave](https://www.bluewavepolitics.com)** | **[Compliance Internship](https://jobright.ai/jobs/info/6a19eddc2b206f3955eb17f3?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | May 29 |
 | **[SOSi](http://www.sosi.com)** | **[Law Student Internship](https://jobright.ai/jobs/info/6a19e10de24ef365258283dc?utm_campaign=1055&utm_source=git)** | Reston, VA, USA | On Site | May 29 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[County Court at Law Intern](https://jobright.ai/jobs/info/6a19cd406b135014dbc86455?utm_campaign=1055&utm_source=git)** | 712 South Stagecoach Trail, San Marcos, TX | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
