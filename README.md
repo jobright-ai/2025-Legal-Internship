@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, Risk Advisory - Fall 2026, Cranberry Township](https://jobright.ai/jobs/info/6a0f21d4619335383fb2961a?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Jun 06 |
+| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/6a23f952757ade085b6af747?utm_campaign=1055&utm_source=git)** | San Rafael, CA | On Site | Jun 06 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Legal Intern Fall 2026 - Spring 2027 (Atlantic/Cape May, Various Divisions)](https://jobright.ai/jobs/info/6a23d371757ade085b6af274?utm_campaign=1055&utm_source=git)** | Cape May, NJ | Hybrid | Jun 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a238ff34239a4353887e829?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jun 05 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Expert Services](https://jobright.ai/jobs/info/6a2364be757ade085b6ae07a?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 05 |
@@ -139,9 +141,9 @@ For a complete list, click the following sortable link below:
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d67029111f771d1a189cf?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Jun 01 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship / Law Clerk (Fall 2026)](https://jobright.ai/jobs/info/6a200304c00e701fe83670e3?utm_campaign=1055&utm_source=git)** | Los Angeles City Hall - East | On Site | Jun 01 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d313b9111f771d1a17e28?utm_campaign=1055&utm_source=git)** | Calabasas, CA, USA, US | On Site | Jun 01 |
-| **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Public Benefits Law Unit (Fall)](https://jobright.ai/jobs/info/6a21050b4bdf8a5a96bd4267?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | May 31 |
-| ↳ | **[Intern, Housing Law Unit (Fall)](https://jobright.ai/jobs/info/6a210504338c01230511c941?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | May 31 |
+| **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Housing Law Unit (Fall)](https://jobright.ai/jobs/info/6a210504338c01230511c941?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | May 31 |
 | ↳ | **[Intern, Reentry Justice Project (Fall)](https://jobright.ai/jobs/info/6a210504902d19201c7b5cb3?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | May 31 |
+| ↳ | **[Intern, Public Benefits Law Unit (Fall)](https://jobright.ai/jobs/info/6a21050b4bdf8a5a96bd4267?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | May 31 |
 | **[Mesivta Yesodei Yeshurun](http://www.touro.edu)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a1d10429111f771d1a17652?utm_campaign=1055&utm_source=git)** | US-NY-New York | Hybrid | May 31 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | May 31 |
 | **[Gunvor Group](https://gunvorgroup.com/en/)** | **[EPA Compliance Intern](https://jobright.ai/jobs/info/69e650d1f8fa2f3ec32a0c79?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | May 31 |
