@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a238ff34239a4353887e829?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jun 05 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Expert Services](https://jobright.ai/jobs/info/6a2364be757ade085b6ae07a?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 05 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[OREM Science Education and Internship Program: Legal Fellow](https://jobright.ai/jobs/info/6a23640dd46c0f7996084b4c?utm_campaign=1055&utm_source=git)** | Oak Ridge, TN | On Site | Jun 05 |
 | **[Migliaccio & Rathod LLP](https://classlawdc.com)** | **[Intern](https://jobright.ai/jobs/info/6a236a754239a4353887e19e?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 05 |
-| **[Kuehne+Nagel](https://home.kuehne-nagel.com/)** | **[Customs Summer Internship](https://jobright.ai/jobs/info/6a1923fc54a441713ae8ab13?utm_campaign=1055&utm_source=git)** | Plymouth, Michigan, United States | On Site | Jun 05 |
-| ↳ | **[Customs Summer Internship](https://jobright.ai/jobs/info/6a094ee0939a5f01db95ddc5?utm_campaign=1055&utm_source=git)** | East Point, Georgia, United States | On Site | Jun 05 |
+| **[Kuehne+Nagel](https://home.kuehne-nagel.com/)** | **[Customs Summer Internship](https://jobright.ai/jobs/info/6a094ee0939a5f01db95ddc5?utm_campaign=1055&utm_source=git)** | East Point, Georgia, United States | On Site | Jun 05 |
+| ↳ | **[Customs Summer Internship](https://jobright.ai/jobs/info/6a1923fc54a441713ae8ab13?utm_campaign=1055&utm_source=git)** | Plymouth, Michigan, United States | On Site | Jun 05 |
 | **[Futu Holdings Limited](https://hk.futuhk.com)** | **[Unpaid - Compliance Intern - Trade Surveillance Support](https://jobright.ai/jobs/info/6a064933bc4184089f24dd3d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jun 05 |
 | **[Swed Fintech AB](swedfintech.com)** | **[Securities Litigation Internship](https://jobright.ai/jobs/info/697f9e27abff4c399a9e341a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a22aa8614de9460dc842d49?utm_campaign=1055&utm_source=git)** | Seattle | On Site | Jun 05 |
