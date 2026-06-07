@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Chicago Insurance Company](https://www.firstchicagoinsurance.com/)** | **[Product Forms & Compliance Intern](https://jobright.ai/jobs/info/6a25c79b14de9460dc8487da?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 07 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a24738a4239a435388807ab?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jun 06 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Expert Services](https://jobright.ai/jobs/info/6a245614757ade085b6b0233?utm_campaign=1055&utm_source=git)** | Toronto, ONT, Canada | On Site | Jun 06 |
 | **[Hernandez Consulting & Construction](https://www.hernandezconsulting.com/)** | **[JD/MBA Legal & Finance Intern](https://jobright.ai/jobs/info/6a244654757ade085b6b000a?utm_campaign=1055&utm_source=git)** | New Orleans, LA | On Site | Jun 06 |
@@ -69,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Futu Holdings Limited](https://hk.futuhk.com)** | **[Unpaid - Compliance Intern - Trade Surveillance Support](https://jobright.ai/jobs/info/6a064933bc4184089f24dd3d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jun 05 |
 | **[Swed Fintech AB](swedfintech.com)** | **[Securities Litigation Internship](https://jobright.ai/jobs/info/697f9e27abff4c399a9e341a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a22aa8614de9460dc842d49?utm_campaign=1055&utm_source=git)** | Seattle | On Site | Jun 05 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 05 |
-| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b8?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 05 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 05 |
+| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 05 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Jun 05 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Legal / Communications Internship  (General Application) – SY 2026-27](https://jobright.ai/jobs/info/6a226eb3d1ab07243c7f8059?utm_campaign=1055&utm_source=git)** | Administration Building - South Bend, Indiana | On Site | Jun 04 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, IT Analyst, Global Risk & Compliance (Fall 2026)](https://jobright.ai/jobs/info/6a222acf338c0123051230d4?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jun 04 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Sands Anderson PC](http://sandsanderson.com)** | **[Summer Legal File Clerk (Paid Internship)](https://jobright.ai/jobs/info/6a21c21e338c012305120652?utm_campaign=1055&utm_source=git)** | Virginia Beach, VA | On Site | Jun 04 |
 | **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Summer/Fall 2026 Legal Internships - LGBTQ/HIV Advocacy Project](https://jobright.ai/jobs/info/6a21bf96338c0123051203cc?utm_campaign=1055&utm_source=git)** | Brooklyn, New York | Hybrid | Jun 04 |
 | **[Training & eTracking Solutions](https://www.yourtrainingprovider.com)** | **[Public Policy & Compliance Research Intern](https://jobright.ai/jobs/info/6a21add14bdf8a5a96bd732e?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 04 |
-| **[TikTok](https://www.tiktok.com)** | **[Arbitration Strategy Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2145df902d19201c7b6cba?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jun 04 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a210917338c01230511ca9a?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | Jun 03 |
 | ↳ | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a210915338c01230511ca97?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jun 03 |
 | **[Touro College of Dental Medicine](http://dental.touro.edu/)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a21079fca8f0b365d7a496e?utm_campaign=1055&utm_source=git)** | New York, NY, US | Hybrid | Jun 03 |
@@ -124,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Law Reform Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a1e34c0b524ae49285ab3bb?utm_campaign=1055&utm_source=git)** | City Wide, New York, NY 10038 | On Site | Jun 01 |
 | **[The Law Offices of Benjamin T. McLawhorn](www.mclawfirmnc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1e2450c2a87d6cd3e1047e?utm_campaign=1055&utm_source=git)** | Greenville, NC | On Site | Jun 01 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Juvenile Rights Practice Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a1e8c08dce5db1256d0f0d0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 01 |
-| ↳ | **[Civil Practice Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a1e8bf809442629a6853f8b?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 01 |
 | ↳ | **[Criminal Defense Practice Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a1e1a709111f771d1a1d383?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 01 |
 | ↳ | **[Law Reform Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a1e1a219111f771d1a1d373?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 01 |
 | **[The D. E. Shaw Group](https://www.deshaw.com)** | **[Legal & Compliance Intern (New York) – Summer 2027](https://jobright.ai/jobs/info/6a1e06d3e24ef3652583ba4d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 01 |
