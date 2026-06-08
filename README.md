@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aretum](https://www.aretum.com)** | **[Summer Intern - Contracts](https://jobright.ai/jobs/info/6a27170d7d827633afff88e6?utm_campaign=1055&utm_source=git)** | McLean, VA | On Site | Jun 08 |
+| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Litigation Specialist Intern](https://jobright.ai/jobs/info/6a2716f52056260dd6e85169?utm_campaign=1055&utm_source=git)** | Costa Mesa, CA, US | Hybrid | Jun 08 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6a27167830042e7539086fe6?utm_campaign=1055&utm_source=git)** | Dallas, US | On Site | Jun 08 |
 | **[Ampion, PBC.](https://ampion.net)** | **[Compliance & Operations Support Internship](https://jobright.ai/jobs/info/6a270c7d12f02023422623f1?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Jun 08 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - NYC Law Scholars Program](https://jobright.ai/jobs/info/6a07a9618f3e371eb617981f?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 08 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Rocket Software](http://www.zephyrcorp.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a26bf1130042e7539084cd3?utm_campaign=1055&utm_source=git)** | United States, US | Remote | Jun 08 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Fall 2026 - Ethics & Compliance Student Internship](https://jobright.ai/jobs/info/6a2658016624e500cad10b72?utm_campaign=1055&utm_source=git)** | Tampa, Flor, US | On Site | Jun 07 |
 | ↳ | **[Fall 2026 - Ethics & Compliance Student Internship](https://jobright.ai/jobs/info/6a264ca7dedf78312c7b1ab7?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Jun 07 |
+| **[City of Millbrae](http://www.ci.millbrae.ca.us)** | **[Intern (Administrative)](https://jobright.ai/jobs/info/6a271afcca77fd3096d25609?utm_campaign=1055&utm_source=git)** | Millbrae, CA | On Site | Jun 07 |
 | **[First Chicago Insurance Company](https://www.firstchicagoinsurance.com/)** | **[Product Forms & Compliance Intern](https://jobright.ai/jobs/info/6a25c79b14de9460dc8487da?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 07 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Expert Services](https://jobright.ai/jobs/info/6a245614757ade085b6b0233?utm_campaign=1055&utm_source=git)** | Toronto, ONT, Canada | On Site | Jun 06 |
 | **[Hernandez Consulting & Construction](https://www.hernandezconsulting.com/)** | **[JD/MBA Legal & Finance Intern](https://jobright.ai/jobs/info/6a244654757ade085b6b000a?utm_campaign=1055&utm_source=git)** | New Orleans, LA | On Site | Jun 06 |
