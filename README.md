@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Innocence Program - Fall 2026](https://jobright.ai/jobs/info/6a26d9ff12f0202342260cd9?utm_campaign=1055&utm_source=git)** | Malden, MA, US | Hybrid | Jun 08 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Import/Export Intern](https://jobright.ai/jobs/info/6a26d66130042e753908538d?utm_campaign=1055&utm_source=git)** | Rolla, MO | On Site | Jun 08 |
 | **[Westcor Land Title Insurance Company®](http://wltic.com)** | **[Claims Intern - Westcor Land Title Insurance Company](https://jobright.ai/jobs/info/6a26d5e02056260dd6e835aa?utm_campaign=1055&utm_source=git)** | Maitland, Florida, United States | On Site | Jun 08 |
 | **[Alliance Technical Group](https://alliancetg.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a26d5987d827633afff6d4c?utm_campaign=1055&utm_source=git)** | Louisville, Kentucky, United States | Hybrid | Jun 08 |
@@ -78,7 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Futu Holdings Limited](https://hk.futuhk.com)** | **[Unpaid - Compliance Intern - Trade Surveillance Support](https://jobright.ai/jobs/info/6a064933bc4184089f24dd3d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jun 05 |
 | **[Swed Fintech AB](swedfintech.com)** | **[Securities Litigation Internship](https://jobright.ai/jobs/info/697f9e27abff4c399a9e341a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a22aa8614de9460dc842d49?utm_campaign=1055&utm_source=git)** | Seattle | On Site | Jun 05 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 05 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b8?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 05 |
 | ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 05 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Jun 05 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Legal / Communications Internship  (General Application) – SY 2026-27](https://jobright.ai/jobs/info/6a226eb3d1ab07243c7f8059?utm_campaign=1055&utm_source=git)** | Administration Building - South Bend, Indiana | On Site | Jun 04 |
@@ -90,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, NY | On Site | Jun 04 |
 | **[Sands Anderson PC](http://sandsanderson.com)** | **[Summer Legal File Clerk (Paid Internship)](https://jobright.ai/jobs/info/6a21c21e338c012305120652?utm_campaign=1055&utm_source=git)** | Virginia Beach, VA | On Site | Jun 04 |
 | **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Summer/Fall 2026 Legal Internships - LGBTQ/HIV Advocacy Project](https://jobright.ai/jobs/info/6a21bf96338c0123051203cc?utm_campaign=1055&utm_source=git)** | Brooklyn, New York | Hybrid | Jun 04 |
-| **[Training & eTracking Solutions](https://www.yourtrainingprovider.com)** | **[Public Policy & Compliance Research Intern](https://jobright.ai/jobs/info/6a21add14bdf8a5a96bd732e?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 04 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a210917338c01230511ca9a?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | Jun 03 |
 | ↳ | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a210915338c01230511ca97?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jun 03 |
 | **[Touro College of Dental Medicine](http://dental.touro.edu/)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a21079fca8f0b365d7a496e?utm_campaign=1055&utm_source=git)** | New York, NY, US | Hybrid | Jun 03 |
@@ -133,7 +133,4 @@ For a complete list, click the following sortable link below:
 | **[Sentara Health](http://www.sentara.com)** | **[Cyber Security Compliance Intern](https://jobright.ai/jobs/info/6a1e816d8049156781163829?utm_campaign=1055&utm_source=git)** | Virginia Beach, VA, US | Remote | Jun 02 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Law Reform Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a1e34c0b524ae49285ab3bb?utm_campaign=1055&utm_source=git)** | City Wide, New York, NY 10038 | On Site | Jun 01 |
 | **[The Law Offices of Benjamin T. McLawhorn](www.mclawfirmnc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1e2450c2a87d6cd3e1047e?utm_campaign=1055&utm_source=git)** | Greenville, NC | On Site | Jun 01 |
-| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Juvenile Rights Practice Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a1e8c08dce5db1256d0f0d0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 01 |
-| ↳ | **[Criminal Defense Practice Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a1e1a709111f771d1a1d383?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 01 |
-| ↳ | **[Law Reform Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a1e1a219111f771d1a1d373?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
