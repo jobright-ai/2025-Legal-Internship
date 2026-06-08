@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Alliance Technical Group](https://alliancetg.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a26cba1ca77fd3096d23391?utm_campaign=1055&utm_source=git)** | Louisville, KY | Hybrid | Jun 08 |
+| **[Brewer Science](http://www.brewerscience.com)** | **[Import/Export Intern](https://jobright.ai/jobs/info/6a26d66130042e753908538d?utm_campaign=1055&utm_source=git)** | Rolla, MO | On Site | Jun 08 |
+| **[Westcor Land Title Insurance Company®](http://wltic.com)** | **[Claims Intern - Westcor Land Title Insurance Company](https://jobright.ai/jobs/info/6a26d5e02056260dd6e835aa?utm_campaign=1055&utm_source=git)** | Maitland, Florida, United States | On Site | Jun 08 |
+| **[Alliance Technical Group](https://alliancetg.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a26d5987d827633afff6d4c?utm_campaign=1055&utm_source=git)** | Louisville, Kentucky, United States | Hybrid | Jun 08 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a26cba1ca77fd3096d23391?utm_campaign=1055&utm_source=git)** | Louisville, KY | Hybrid | Jun 08 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/6a0abd73403fc339507f832c?utm_campaign=1055&utm_source=git)** | Los Angeles, California, USA, US | On Site | Jun 08 |
 | **[Rocket Software](http://www.zephyrcorp.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a26bf1130042e7539084cd3?utm_campaign=1055&utm_source=git)** | United States, US | Remote | Jun 08 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Fall 2026 - Ethics & Compliance Student Internship](https://jobright.ai/jobs/info/6a2658016624e500cad10b72?utm_campaign=1055&utm_source=git)** | Tampa, Flor, US | On Site | Jun 07 |
@@ -133,6 +136,4 @@ For a complete list, click the following sortable link below:
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Juvenile Rights Practice Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a1e8c08dce5db1256d0f0d0?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 01 |
 | ↳ | **[Criminal Defense Practice Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a1e1a709111f771d1a1d383?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 01 |
 | ↳ | **[Law Reform Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a1e1a219111f771d1a1d373?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 01 |
-| **[The D. E. Shaw Group](https://www.deshaw.com)** | **[Legal & Compliance Intern (New York) – Summer 2027](https://jobright.ai/jobs/info/6a1e06d3e24ef3652583ba4d?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 01 |
-| **[Harris Teeter](http://www.harristeeter.com)** | **[Greensboro Distribution Center Internship](https://jobright.ai/jobs/info/6a1e04d26b135014dbc9a1db?utm_campaign=1055&utm_source=git)** | GREENSBORO, NORTH CAROLINA, GREENSBORO WHSE-ADMIN | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
