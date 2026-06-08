@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Fall 2026 - Ethics & Compliance Student Internship](https://jobright.ai/jobs/info/6a2658016624e500cad10b72?utm_campaign=1055&utm_source=git)** | Tampa, Flor, US | On Site | Jun 07 |
 | ↳ | **[Fall 2026 - Ethics & Compliance Student Internship](https://jobright.ai/jobs/info/6a264ca7dedf78312c7b1ab7?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Jun 07 |
 | **[First Chicago Insurance Company](https://www.firstchicagoinsurance.com/)** | **[Product Forms & Compliance Intern](https://jobright.ai/jobs/info/6a25c79b14de9460dc8487da?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 07 |
-| **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a24738a4239a435388807ab?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jun 06 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Expert Services](https://jobright.ai/jobs/info/6a245614757ade085b6b0233?utm_campaign=1055&utm_source=git)** | Toronto, ONT, Canada | On Site | Jun 06 |
 | **[Hernandez Consulting & Construction](https://www.hernandezconsulting.com/)** | **[JD/MBA Legal & Finance Intern](https://jobright.ai/jobs/info/6a244654757ade085b6b000a?utm_campaign=1055&utm_source=git)** | New Orleans, LA | On Site | Jun 06 |
 | **[Recor Medical](http://recormedical.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a07c15a8f3e371eb617a543?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | On Site | Jun 06 |
@@ -138,6 +137,4 @@ For a complete list, click the following sortable link below:
 | **[ACLU of New Jersey](https://www.aclu-nj.org/)** | **[Summer Legal Intern- ACLU-NJ](https://jobright.ai/jobs/info/6a1de898b524ae49285a973f?utm_campaign=1055&utm_source=git)** | Newark, NJ | Hybrid | Jun 01 |
 | **[Pinellas County Government](http://www.pinellascounty.org/emergency)** | **[County Attorney Intern](https://jobright.ai/jobs/info/6a1dd264e24ef3652583a2f3?utm_campaign=1055&utm_source=git)** | HR-New Courthouse, Florida, 33756, US | On Site | Jun 01 |
 | **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Immigration Law Unit (Fall)](https://jobright.ai/jobs/info/6a1db842b524ae49285a7de5?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | Jun 01 |
-| **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 4](https://jobright.ai/jobs/info/6a1d9b213e538a28c204a7d5?utm_campaign=1055&utm_source=git)** | Arlington Virginia | Hybrid | Jun 01 |
-| ↳ | **[Corporate Legal Intern (Hybrid)](https://jobright.ai/jobs/info/6a1d9884e24ef3652583878e?utm_campaign=1055&utm_source=git)** | Arlington Virginia | Hybrid | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
