@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[1L / 2L/ 3L -2026 Summer Academic Law Student Internship](https://jobright.ai/jobs/info/6a27930f2d6c332ee52e1ed8?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 08 |
+| **[Kostelanetz LLP](https://kostelanetz.com/)** | **[Spelman Pre-Law Paralegal Internship (Summer 2026)](https://jobright.ai/jobs/info/6a279124fd37e62bb47a4ecd?utm_campaign=1055&utm_source=git)** | Washington, D.C. | On Site | Jun 08 |
+| ↳ | **[Spelman Pre-Law Paralegal Internship (Summer 2026)](https://jobright.ai/jobs/info/6a279122fd37e62bb47a4ecc?utm_campaign=1055&utm_source=git)** | New York City, NY | On Site | Jun 08 |
+| **[Hilcorp](http://www.hilcorp.com)** | **[I-26121 - Compliance Reporting Part-Time Intern](https://jobright.ai/jobs/info/6a27888dfd37e62bb47a4c2e?utm_campaign=1055&utm_source=git)** | Anchorage, AK | On Site | Jun 08 |
 | **[Desjardins](https://www.desjardins.com)** | **[Intern Law, Quebec Bar](https://jobright.ai/jobs/info/6a276c7c2056260dd6e870bd?utm_campaign=1055&utm_source=git)** | Lévis, Quebec, Canada | Hybrid | Jun 08 |
 | ↳ | **[Intern Law, Quebec Bar](https://jobright.ai/jobs/info/6a276c7b12f02023422646ec?utm_campaign=1055&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | Jun 08 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Innocence Program - Fall 2026](https://jobright.ai/jobs/info/6a26d9ff12f0202342260cd9?utm_campaign=1055&utm_source=git)** | Malden, MA, US | Hybrid | Jun 08 |
@@ -94,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Futu Holdings Limited](https://hk.futuhk.com)** | **[Unpaid - Compliance Intern - Trade Surveillance Support](https://jobright.ai/jobs/info/6a064933bc4184089f24dd3d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jun 05 |
 | **[Swed Fintech AB](swedfintech.com)** | **[Securities Litigation Internship](https://jobright.ai/jobs/info/697f9e27abff4c399a9e341a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a22aa8614de9460dc842d49?utm_campaign=1055&utm_source=git)** | Seattle | On Site | Jun 05 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 05 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b8?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 05 |
 | ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 05 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Jun 05 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Legal / Communications Internship  (General Application) – SY 2026-27](https://jobright.ai/jobs/info/6a226eb3d1ab07243c7f8059?utm_campaign=1055&utm_source=git)** | Administration Building - South Bend, Indiana | On Site | Jun 04 |
