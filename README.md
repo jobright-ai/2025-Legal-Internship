@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Summer 2026 Internship, Democracy and Security Network, Legal](https://jobright.ai/jobs/info/6a272c407d827633afff92c8?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | Jun 09 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[1L / 2L/ 3L -2026 Summer Academic Law Student Internship](https://jobright.ai/jobs/info/6a27930f2d6c332ee52e1ed8?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 08 |
 | **[Kostelanetz LLP](https://kostelanetz.com/)** | **[Spelman Pre-Law Paralegal Internship (Summer 2026)](https://jobright.ai/jobs/info/6a279124fd37e62bb47a4ecd?utm_campaign=1055&utm_source=git)** | Washington, D.C. | On Site | Jun 08 |
 | ↳ | **[Spelman Pre-Law Paralegal Internship (Summer 2026)](https://jobright.ai/jobs/info/6a279122fd37e62bb47a4ecc?utm_campaign=1055&utm_source=git)** | New York City, NY | On Site | Jun 08 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Litigation Specialist Intern](https://jobright.ai/jobs/info/6a2716f52056260dd6e85169?utm_campaign=1055&utm_source=git)** | Costa Mesa, CA, US | Hybrid | Jun 08 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-26121 - Compliance Reporting Part-Time Intern](https://jobright.ai/jobs/info/6a274cb74ec8d737d6dff243?utm_campaign=1055&utm_source=git)** | Anchorage, AK, US | On Site | Jun 08 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Legal Intern (Unpaid) (2038)](https://jobright.ai/jobs/info/6a2749c24ec8d737d6dff13d?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 08 |
-| **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Summer 2026 Internship, Democracy and Security Network, Legal](https://jobright.ai/jobs/info/6a272c407d827633afff92c8?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | Jun 08 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Import/Export Intern](https://jobright.ai/jobs/info/6a26d66130042e753908538d?utm_campaign=1055&utm_source=git)** | Rolla, MO | On Site | Jun 08 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Legal Intern (Unpaid) (2038)](https://jobright.ai/jobs/info/6a2729e62056260dd6e85a08?utm_campaign=1055&utm_source=git)** | 270 - Savoy Immigration - Houston, TX 77036 | On Site | Jun 08 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6a27167830042e7539086fe6?utm_campaign=1055&utm_source=git)** | Dallas, US | On Site | Jun 08 |
@@ -99,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Futu Holdings Limited](https://hk.futuhk.com)** | **[Unpaid - Compliance Intern - Trade Surveillance Support](https://jobright.ai/jobs/info/6a064933bc4184089f24dd3d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jun 05 |
 | **[Swed Fintech AB](swedfintech.com)** | **[Securities Litigation Internship](https://jobright.ai/jobs/info/697f9e27abff4c399a9e341a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a22aa8614de9460dc842d49?utm_campaign=1055&utm_source=git)** | Seattle | On Site | Jun 05 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 05 |
-| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b8?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 05 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 05 |
+| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 05 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Jun 05 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Legal / Communications Internship  (General Application) – SY 2026-27](https://jobright.ai/jobs/info/6a226eb3d1ab07243c7f8059?utm_campaign=1055&utm_source=git)** | Administration Building - South Bend, Indiana | On Site | Jun 04 |
 | **[Waukesha County Health & Human Services](http://www.waukeshacounty.gov/hhs)** | **[Intern - District Attorney's Office](https://jobright.ai/jobs/info/6a265afe6624e500cad10bf1?utm_campaign=1055&utm_source=git)** | Waukesha, WI, US | On Site | Jun 04 |
@@ -135,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Group 1001](https://group1001.com/)** | **[Enterprise Risk Management Intern (Fall)](https://jobright.ai/jobs/info/6a2054bfc00e701fe8368a91?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 03 |
 | **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1521a1128680351d95f8d4?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Jun 03 |
 | **[Group 1001](https://group1001.com/)** | **[Enterprise Risk Management Intern (Fall)](https://jobright.ai/jobs/info/6a2038a1ca8f0b365d79f9ff?utm_campaign=1055&utm_source=git)** | Zionsville, Indiana, US | Hybrid | Jun 03 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Compliance Strategic Initiatives, Intern](https://jobright.ai/jobs/info/6a1f18ada507373dff6bd6c0?utm_campaign=1055&utm_source=git)** | Oakland | Hybrid | Jun 03 |
 | **[Novastone Capital Advisors](https://www.novastone-ca.com)** | **[Internship: Legal/Paralegal](https://jobright.ai/jobs/info/6a1fdf653a5f0145f4c11c39?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 03 |
 | **[Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)](http://cmhc.ca/en)** | **[Fall 2026 Internship - Collections Assistant](https://jobright.ai/jobs/info/6a1f8f32dce5db1256d1617e?utm_campaign=1055&utm_source=git)** | Ottawa | Hybrid | Jun 02 |
 | **[Palm Beach County Public Defender's Office, 15th Judicial Circuit](https://pd15.org/index.htm)** | **[Certified Legal Intern: Academic Year 2026-2027](https://jobright.ai/jobs/info/6a1f8cffa507373dff6c1c71?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL | On Site | Jun 02 |
@@ -144,6 +143,4 @@ For a complete list, click the following sortable link below:
 | **[Procter & Gamble](https://us.pg.com/)** | **[2027 Legal Patent 2L Summer Intern](https://jobright.ai/jobs/info/6a1275a469bd827926af5d72?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jun 02 |
 | **[First National Bank Alaska](https://www.fnbalaska.com/)** | **[Intern II - Corp. Compliance](https://jobright.ai/jobs/info/6a1f1f91dce5db1256d12a5b?utm_campaign=1055&utm_source=git)** | Anchorage, AK, US | On Site | Jun 02 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Global Trade Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/6a17360d5b0a497d52109c33?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jun 02 |
-| **[Procter & Gamble](https://us.pg.com/)** | **[2027 Legal Patent 2L Summer Intern](https://jobright.ai/jobs/info/6a1ef753c5277c00c6481cc3?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jun 02 |
-| **[The Law Office of Kevin Seaver](https://www.seaverdcflawyer.com/)** | **[Legal Intern (Fall 2026) – Seaver Law Office](https://jobright.ai/jobs/info/6a1ef715a507373dff6bc7ba?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
