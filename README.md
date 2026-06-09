@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Desjardins](https://www.desjardins.com)** | **[Intern Law, Quebec Bar](https://jobright.ai/jobs/info/6a276c7c2056260dd6e870bd?utm_campaign=1055&utm_source=git)** | Lévis, Quebec, Canada | Hybrid | Jun 08 |
+| ↳ | **[Intern Law, Quebec Bar](https://jobright.ai/jobs/info/6a276c7b12f02023422646ec?utm_campaign=1055&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | Jun 08 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Innocence Program - Fall 2026](https://jobright.ai/jobs/info/6a26d9ff12f0202342260cd9?utm_campaign=1055&utm_source=git)** | Malden, MA, US | Hybrid | Jun 08 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Litigation Specialist Intern](https://jobright.ai/jobs/info/6a2716f52056260dd6e85169?utm_campaign=1055&utm_source=git)** | Costa Mesa, CA, US | Hybrid | Jun 08 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-26121 - Compliance Reporting Part-Time Intern](https://jobright.ai/jobs/info/6a274cb74ec8d737d6dff243?utm_campaign=1055&utm_source=git)** | Anchorage, AK, US | On Site | Jun 08 |
@@ -72,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Westcor Land Title Insurance Company®](http://wltic.com)** | **[Claims Intern - Westcor Land Title Insurance Company](https://jobright.ai/jobs/info/6a2733ea2056260dd6e85f33?utm_campaign=1055&utm_source=git)** | Maitland, FL | On Site | Jun 08 |
 | **[MBTA](http://mbta.com)** | **[Senior Legal Intern (Office of General Counsel) [Juris Doctor Students]](https://jobright.ai/jobs/info/6a26f3187d827633afff79e8?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jun 08 |
 | **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Practice Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a26f23a30042e753908606e?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 08 |
+| **[Vericasa](https://www.vericasa.com/)** | **[U.S. Expansion Intern — AI Real Estate Compliance](https://jobright.ai/jobs/info/6a277fab3877102eafa2d582?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Jun 08 |
 | **[Westcor Land Title Insurance Company®](http://wltic.com)** | **[Claims Intern - Westcor Land Title Insurance Company](https://jobright.ai/jobs/info/6a26d5e02056260dd6e835aa?utm_campaign=1055&utm_source=git)** | Maitland, Florida, United States | On Site | Jun 08 |
 | **[Alliance Technical Group](https://alliancetg.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a26d5987d827633afff6d4c?utm_campaign=1055&utm_source=git)** | Louisville, Kentucky, United States | Hybrid | Jun 08 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a26cba1ca77fd3096d23391?utm_campaign=1055&utm_source=git)** | Louisville, KY | Hybrid | Jun 08 |
@@ -91,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Futu Holdings Limited](https://hk.futuhk.com)** | **[Unpaid - Compliance Intern - Trade Surveillance Support](https://jobright.ai/jobs/info/6a064933bc4184089f24dd3d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jun 05 |
 | **[Swed Fintech AB](swedfintech.com)** | **[Securities Litigation Internship](https://jobright.ai/jobs/info/697f9e27abff4c399a9e341a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a22aa8614de9460dc842d49?utm_campaign=1055&utm_source=git)** | Seattle | On Site | Jun 05 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 05 |
-| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b8?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 05 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 05 |
+| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 05 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Jun 05 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Legal / Communications Internship  (General Application) – SY 2026-27](https://jobright.ai/jobs/info/6a226eb3d1ab07243c7f8059?utm_campaign=1055&utm_source=git)** | Administration Building - South Bend, Indiana | On Site | Jun 04 |
 | **[Waukesha County Health & Human Services](http://www.waukeshacounty.gov/hhs)** | **[Intern - District Attorney's Office](https://jobright.ai/jobs/info/6a265afe6624e500cad10bf1?utm_campaign=1055&utm_source=git)** | Waukesha, WI, US | On Site | Jun 04 |
@@ -141,5 +144,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Probation Officer - Internship](https://jobright.ai/jobs/info/6a1ee95880491567811653e5?utm_campaign=1055&utm_source=git)** | Sherburne County Government Center, 13880 Business Center Drive NW, Elk River 55330-1692, MN | On Site | Jun 02 |
 | **[SCIENTIFIC GAMES](https://www.scientificgames.com/)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6a1ee3c1c5277c00c6481306?utm_campaign=1055&utm_source=git)** | Alpharetta, GA, US | On Site | Jun 02 |
 | **[Novo Holdings](http://www.novoholdings.dk)** | **[Legal Intern, Novo Holdings](https://jobright.ai/jobs/info/6a1ec8c0a507373dff6bb7a4?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 02 |
-| **[Sentara Health](http://www.sentara.com)** | **[Cyber Security Compliance Intern](https://jobright.ai/jobs/info/6a1e816d8049156781163829?utm_campaign=1055&utm_source=git)** | Virginia Beach, VA, US | Remote | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
