@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Elevate](http://elevate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0b907c4d932036368724f1?utm_campaign=1055&utm_source=git)** | Addison, TX, US | Hybrid | Jun 09 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0b90764d932036368724e7?utm_campaign=1055&utm_source=git)** | Fort Worth, TX, US | Hybrid | Jun 09 |
+| **[TransitMatters](https://transitmatters.org)** | **[Fall/Spring Intern - 2026/2027](https://jobright.ai/jobs/info/6a284787883c0d3be6540f21?utm_campaign=1055&utm_source=git)** | Boston, MA 02110, USA | On Site | Jun 09 |
+| **[HARMAN International](https://www.harman.com/)** | **[Supply Chain ESG & Compliance Analyst Intern](https://jobright.ai/jobs/info/6a28429c883c0d3be6540cc1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 09 |
+| **[PIPESTONE](https://www.pipestone.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a2840727061b51a3a5f4789?utm_campaign=1055&utm_source=git)** | 304 South Splitrock Blvd
+Suite 205, Brandon, SD57005 | Hybrid | Jun 09 |
+| **[Elevate](http://elevate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0b90764d932036368724e7?utm_campaign=1055&utm_source=git)** | Fort Worth, TX, US | Hybrid | Jun 09 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0b907c4d932036368724f1?utm_campaign=1055&utm_source=git)** | Addison, TX, US | Hybrid | Jun 09 |
 | **[GlobalLogic](http://www.globallogic.com)** | **[Summer Legal Intern IRC295386](https://jobright.ai/jobs/info/6a283037883c0d3be6540319?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 09 |
 | **[Olson Kundig](http://olsonkundig.com)** | **[Legal & Contracts Internship](https://jobright.ai/jobs/info/6a281e9b40ac8e329329effd?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
 | **[Palm Beach County Public Defender's Office, 15th Judicial Circuit](https://pd15.org/index.htm)** | **[Certified Legal Intern: Academic Year 2026-2027](https://jobright.ai/jobs/info/6a281e4bfd37e62bb47a6ae0?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL | On Site | Jun 09 |
-| **[AdventHealth](https://www.adventhealth.com/)** | **[Student Intern – Section 1557 Compliance](https://jobright.ai/jobs/info/6a283d10fd37e62bb47a7b6a?utm_campaign=1055&utm_source=git)** | Altamonte Springs, FL | On Site | Jun 09 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Criminal Investigations Bureau](https://jobright.ai/jobs/info/6a27ef367061b51a3a5f29af?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Jun 09 |
 | **[IGT](http://www.probability.co.uk)** | **[Intern Technical](https://jobright.ai/jobs/info/6a0ba7154d93203636873089?utm_campaign=1055&utm_source=git)** | Las Vegas, NV, US, 89113 | On Site | Jun 09 |
 | **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Summer 2026 Internship, Democracy and Security Network, Legal](https://jobright.ai/jobs/info/6a272c407d827633afff92c8?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | Jun 09 |
@@ -73,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Desjardins](https://www.desjardins.com)** | **[Intern Law, Quebec Bar](https://jobright.ai/jobs/info/6a276c7c2056260dd6e870bd?utm_campaign=1055&utm_source=git)** | Lévis, Quebec, Canada | Hybrid | Jun 08 |
 | ↳ | **[Intern Law, Quebec Bar](https://jobright.ai/jobs/info/6a276c7b12f02023422646ec?utm_campaign=1055&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | Jun 08 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Innocence Program - Fall 2026](https://jobright.ai/jobs/info/6a26d9ff12f0202342260cd9?utm_campaign=1055&utm_source=git)** | Malden, MA, US | Hybrid | Jun 08 |
-| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Litigation Specialist Intern](https://jobright.ai/jobs/info/6a2716f52056260dd6e85169?utm_campaign=1055&utm_source=git)** | Costa Mesa, CA, US | Hybrid | Jun 08 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-26121 - Compliance Reporting Part-Time Intern](https://jobright.ai/jobs/info/6a274cb74ec8d737d6dff243?utm_campaign=1055&utm_source=git)** | Anchorage, AK, US | On Site | Jun 08 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Legal Intern (Unpaid) (2038)](https://jobright.ai/jobs/info/6a2749c24ec8d737d6dff13d?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 08 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Import/Export Intern](https://jobright.ai/jobs/info/6a26d66130042e753908538d?utm_campaign=1055&utm_source=git)** | Rolla, MO | On Site | Jun 08 |
@@ -104,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Continental](https://www.continental.com)** | **[Intern - Customs Compliance, Year-Round](https://jobright.ai/jobs/info/6a0f75e912f8b43cf397f515?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | On Site | Jun 05 |
 | **[Swed Fintech AB](swedfintech.com)** | **[Securities Litigation Internship](https://jobright.ai/jobs/info/697f9e27abff4c399a9e341a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a22aa8614de9460dc842d49?utm_campaign=1055&utm_source=git)** | Seattle | On Site | Jun 05 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 05 |
-| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 05 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b8?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 05 |
+| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 05 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Jun 05 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Legal / Communications Internship  (General Application) – SY 2026-27](https://jobright.ai/jobs/info/6a226eb3d1ab07243c7f8059?utm_campaign=1055&utm_source=git)** | Administration Building - South Bend, Indiana | On Site | Jun 04 |
 | **[Waukesha County Health & Human Services](http://www.waukeshacounty.gov/hhs)** | **[Intern - District Attorney's Office](https://jobright.ai/jobs/info/6a265afe6624e500cad10bf1?utm_campaign=1055&utm_source=git)** | Waukesha, WI, US | On Site | Jun 04 |
