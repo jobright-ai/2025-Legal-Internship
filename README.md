@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hilcorp](http://www.hilcorp.com)** | **[I-26121 - Compliance Reporting Part-Time Intern](https://jobright.ai/jobs/info/6a274cb74ec8d737d6dff243?utm_campaign=1055&utm_source=git)** | Anchorage, AK, US | On Site | Jun 08 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Legal Intern (Unpaid) (2038)](https://jobright.ai/jobs/info/6a2749c24ec8d737d6dff13d?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 08 |
 | **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Summer 2026 Internship, Democracy and Security Network, Legal](https://jobright.ai/jobs/info/6a272c407d827633afff92c8?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | Jun 08 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Import/Export Intern](https://jobright.ai/jobs/info/6a26d66130042e753908538d?utm_campaign=1055&utm_source=git)** | Rolla, MO | On Site | Jun 08 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Futu Holdings Limited](https://hk.futuhk.com)** | **[Unpaid - Compliance Intern - Trade Surveillance Support](https://jobright.ai/jobs/info/6a064933bc4184089f24dd3d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jun 05 |
 | **[Swed Fintech AB](swedfintech.com)** | **[Securities Litigation Internship](https://jobright.ai/jobs/info/697f9e27abff4c399a9e341a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a22aa8614de9460dc842d49?utm_campaign=1055&utm_source=git)** | Seattle | On Site | Jun 05 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 05 |
-| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 05 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 05 |
+| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b8?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 05 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Jun 05 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Legal / Communications Internship  (General Application) – SY 2026-27](https://jobright.ai/jobs/info/6a226eb3d1ab07243c7f8059?utm_campaign=1055&utm_source=git)** | Administration Building - South Bend, Indiana | On Site | Jun 04 |
 | **[Waukesha County Health & Human Services](http://www.waukeshacounty.gov/hhs)** | **[Intern - District Attorney's Office](https://jobright.ai/jobs/info/6a265afe6624e500cad10bf1?utm_campaign=1055&utm_source=git)** | Waukesha, WI, US | On Site | Jun 04 |
