@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BakerRipley](https://www.bakerripley.org)** | **[Legal Intern (Unpaid) (2038)](https://jobright.ai/jobs/info/6a2749c24ec8d737d6dff13d?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 08 |
 | **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Summer 2026 Internship, Democracy and Security Network, Legal](https://jobright.ai/jobs/info/6a272c407d827633afff92c8?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | Jun 08 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Import/Export Intern](https://jobright.ai/jobs/info/6a26d66130042e753908538d?utm_campaign=1055&utm_source=git)** | Rolla, MO | On Site | Jun 08 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Legal Intern (Unpaid) (2038)](https://jobright.ai/jobs/info/6a2729e62056260dd6e85a08?utm_campaign=1055&utm_source=git)** | 270 - Savoy Immigration - Houston, TX 77036 | On Site | Jun 08 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6a27167830042e7539086fe6?utm_campaign=1055&utm_source=git)** | Dallas, US | On Site | Jun 08 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Legal Intern Fall 2026 - Spring 2027 (Atlantic/Cape May, Various Divisions)](https://jobright.ai/jobs/info/6a23d371757ade085b6af274?utm_campaign=1055&utm_source=git)** | Cape May, NJ | Hybrid | Jun 08 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Litigation Specialist Intern](https://jobright.ai/jobs/info/6a2716f52056260dd6e85169?utm_campaign=1055&utm_source=git)** | Costa Mesa, CA, US | Hybrid | Jun 08 |
+| **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - NYC Law Scholars Program](https://jobright.ai/jobs/info/6a07ae1d8f3e371eb61799c7?utm_campaign=1055&utm_source=git)** | NYC Metro Area | On Site | Jun 08 |
 | **[Ampion, PBC.](https://ampion.net)** | **[Compliance & Operations Support Internship](https://jobright.ai/jobs/info/6a270c7d12f02023422623f1?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Jun 08 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - NYC Law Scholars Program](https://jobright.ai/jobs/info/6a07a9618f3e371eb617981f?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 08 |
 | **[Westcor Land Title Insurance Company®](http://wltic.com)** | **[Claims Intern - Westcor Land Title Insurance Company](https://jobright.ai/jobs/info/6a2733ea2056260dd6e85f33?utm_campaign=1055&utm_source=git)** | Maitland, FL | On Site | Jun 08 |
@@ -88,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Futu Holdings Limited](https://hk.futuhk.com)** | **[Unpaid - Compliance Intern - Trade Surveillance Support](https://jobright.ai/jobs/info/6a064933bc4184089f24dd3d?utm_campaign=1055&utm_source=git)** | Dallas, TX | On Site | Jun 05 |
 | **[Swed Fintech AB](swedfintech.com)** | **[Securities Litigation Internship](https://jobright.ai/jobs/info/697f9e27abff4c399a9e341a?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a22aa8614de9460dc842d49?utm_campaign=1055&utm_source=git)** | Seattle | On Site | Jun 05 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b8?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 05 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 05 |
 | ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 05 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Jun 05 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Legal / Communications Internship  (General Application) – SY 2026-27](https://jobright.ai/jobs/info/6a226eb3d1ab07243c7f8059?utm_campaign=1055&utm_source=git)** | Administration Building - South Bend, Indiana | On Site | Jun 04 |
