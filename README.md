@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elevate](http://elevate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0b907c4d932036368724f1?utm_campaign=1055&utm_source=git)** | Addison, TX, US | Hybrid | Jun 09 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0b90764d932036368724e7?utm_campaign=1055&utm_source=git)** | Fort Worth, TX, US | Hybrid | Jun 09 |
+| **[GlobalLogic](http://www.globallogic.com)** | **[Summer Legal Intern IRC295386](https://jobright.ai/jobs/info/6a283037883c0d3be6540319?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 09 |
 | **[Olson Kundig](http://olsonkundig.com)** | **[Legal & Contracts Internship](https://jobright.ai/jobs/info/6a281e9b40ac8e329329effd?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
 | **[Palm Beach County Public Defender's Office, 15th Judicial Circuit](https://pd15.org/index.htm)** | **[Certified Legal Intern: Academic Year 2026-2027](https://jobright.ai/jobs/info/6a281e4bfd37e62bb47a6ae0?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL | On Site | Jun 09 |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Student Intern – Section 1557 Compliance](https://jobright.ai/jobs/info/6a283d10fd37e62bb47a7b6a?utm_campaign=1055&utm_source=git)** | Altamonte Springs, FL | On Site | Jun 09 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Criminal Investigations Bureau](https://jobright.ai/jobs/info/6a27ef367061b51a3a5f29af?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Jun 09 |
 | **[IGT](http://www.probability.co.uk)** | **[Intern Technical](https://jobright.ai/jobs/info/6a0ba7154d93203636873089?utm_campaign=1055&utm_source=git)** | Las Vegas, NV, US, 89113 | On Site | Jun 09 |
 | **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Summer 2026 Internship, Democracy and Security Network, Legal](https://jobright.ai/jobs/info/6a272c407d827633afff92c8?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | Jun 09 |
@@ -79,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - NYC Law Scholars Program](https://jobright.ai/jobs/info/6a07ae1d8f3e371eb61799c7?utm_campaign=1055&utm_source=git)** | NYC Metro Area | On Site | Jun 08 |
 | ↳ | **[Intern - NYC Law Scholars Program](https://jobright.ai/jobs/info/6a07a9618f3e371eb617981f?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 08 |
 | **[Westcor Land Title Insurance Company®](http://wltic.com)** | **[Claims Intern - Westcor Land Title Insurance Company](https://jobright.ai/jobs/info/6a2733ea2056260dd6e85f33?utm_campaign=1055&utm_source=git)** | Maitland, FL | On Site | Jun 08 |
+| **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Practice Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2838617061b51a3a5f4328?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 08 |
 | **[MBTA](http://mbta.com)** | **[Senior Legal Intern (Office of General Counsel) [Juris Doctor Students]](https://jobright.ai/jobs/info/6a26f3187d827633afff79e8?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jun 08 |
 | **[Vericasa](https://www.vericasa.com/)** | **[U.S. Expansion Intern — AI Real Estate Compliance](https://jobright.ai/jobs/info/6a281f251dbd8437bebc8d06?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area | Hybrid | Jun 08 |
 | **[Westcor Land Title Insurance Company®](http://wltic.com)** | **[Claims Intern - Westcor Land Title Insurance Company](https://jobright.ai/jobs/info/6a26d5e02056260dd6e835aa?utm_campaign=1055&utm_source=git)** | Maitland, Florida, United States | On Site | Jun 08 |
@@ -137,5 +142,4 @@ For a complete list, click the following sortable link below:
 | **[Novastone Capital Advisors](https://www.novastone-ca.com)** | **[Internship: Legal/Paralegal](https://jobright.ai/jobs/info/6a1fdf653a5f0145f4c11c39?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 03 |
 | **[Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)](http://cmhc.ca/en)** | **[Fall 2026 Internship - Collections Assistant](https://jobright.ai/jobs/info/6a1f8f32dce5db1256d1617e?utm_campaign=1055&utm_source=git)** | Ottawa | Hybrid | Jun 02 |
 | **[International Refugee Assistance Project](https://refugeerights.org/)** | **[IRAP Law Student Fellowship 2026-2027](https://jobright.ai/jobs/info/6a1f848bb61b2c65b37b2f77?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 02 |
-| **[Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)](http://cmhc.ca/en)** | **[Fall 2026 Internship - Collections Assistant](https://jobright.ai/jobs/info/6a1f865dc5277c00c6486f75?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
