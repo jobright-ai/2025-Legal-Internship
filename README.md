@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Innocence Program - Fall 2026](https://jobright.ai/jobs/info/6a26d9ff12f0202342260cd9?utm_campaign=1055&utm_source=git)** | Malden, MA, US | Hybrid | Jun 08 |
+| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Litigation Specialist Intern](https://jobright.ai/jobs/info/6a2716f52056260dd6e85169?utm_campaign=1055&utm_source=git)** | Costa Mesa, CA, US | Hybrid | Jun 08 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-26121 - Compliance Reporting Part-Time Intern](https://jobright.ai/jobs/info/6a274cb74ec8d737d6dff243?utm_campaign=1055&utm_source=git)** | Anchorage, AK, US | On Site | Jun 08 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Legal Intern (Unpaid) (2038)](https://jobright.ai/jobs/info/6a2749c24ec8d737d6dff13d?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 08 |
 | **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Summer 2026 Internship, Democracy and Security Network, Legal](https://jobright.ai/jobs/info/6a272c407d827633afff92c8?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | Jun 08 |
@@ -64,14 +66,12 @@ For a complete list, click the following sortable link below:
 | **[BakerRipley](https://www.bakerripley.org)** | **[Legal Intern (Unpaid) (2038)](https://jobright.ai/jobs/info/6a2729e62056260dd6e85a08?utm_campaign=1055&utm_source=git)** | 270 - Savoy Immigration - Houston, TX 77036 | On Site | Jun 08 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6a27167830042e7539086fe6?utm_campaign=1055&utm_source=git)** | Dallas, US | On Site | Jun 08 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Legal Intern Fall 2026 - Spring 2027 (Atlantic/Cape May, Various Divisions)](https://jobright.ai/jobs/info/6a23d371757ade085b6af274?utm_campaign=1055&utm_source=git)** | Cape May, NJ | Hybrid | Jun 08 |
-| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Litigation Specialist Intern](https://jobright.ai/jobs/info/6a2716f52056260dd6e85169?utm_campaign=1055&utm_source=git)** | Costa Mesa, CA, US | Hybrid | Jun 08 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - NYC Law Scholars Program](https://jobright.ai/jobs/info/6a07ae1d8f3e371eb61799c7?utm_campaign=1055&utm_source=git)** | NYC Metro Area | On Site | Jun 08 |
 | **[Ampion, PBC.](https://ampion.net)** | **[Compliance & Operations Support Internship](https://jobright.ai/jobs/info/6a270c7d12f02023422623f1?utm_campaign=1055&utm_source=git)** | Boston, MA | Remote | Jun 08 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - NYC Law Scholars Program](https://jobright.ai/jobs/info/6a07a9618f3e371eb617981f?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 08 |
 | **[Westcor Land Title Insurance Company®](http://wltic.com)** | **[Claims Intern - Westcor Land Title Insurance Company](https://jobright.ai/jobs/info/6a2733ea2056260dd6e85f33?utm_campaign=1055&utm_source=git)** | Maitland, FL | On Site | Jun 08 |
 | **[MBTA](http://mbta.com)** | **[Senior Legal Intern (Office of General Counsel) [Juris Doctor Students]](https://jobright.ai/jobs/info/6a26f3187d827633afff79e8?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jun 08 |
 | **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Practice Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a26f23a30042e753908606e?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 08 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Innocence Program - Fall 2026](https://jobright.ai/jobs/info/6a26d9ff12f0202342260cd9?utm_campaign=1055&utm_source=git)** | Malden, MA, US | Hybrid | Jun 08 |
 | **[Westcor Land Title Insurance Company®](http://wltic.com)** | **[Claims Intern - Westcor Land Title Insurance Company](https://jobright.ai/jobs/info/6a26d5e02056260dd6e835aa?utm_campaign=1055&utm_source=git)** | Maitland, Florida, United States | On Site | Jun 08 |
 | **[Alliance Technical Group](https://alliancetg.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a26d5987d827633afff6d4c?utm_campaign=1055&utm_source=git)** | Louisville, Kentucky, United States | Hybrid | Jun 08 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a26cba1ca77fd3096d23391?utm_campaign=1055&utm_source=git)** | Louisville, KY | Hybrid | Jun 08 |
