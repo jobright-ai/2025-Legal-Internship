@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Center for Liberty](https://jobright.ai/jobs/info/6a285771883c0d3be65414cc?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 09 |
+| ↳ | **[Fall 2026 Legal Intern, Center for Liberty](https://jobright.ai/jobs/info/6a285770883c0d3be65414cb?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-Washington D.C. | Remote | Jun 09 |
+| ↳ | **[Fall 2026 Legal Intern, Immigrants' Rights Project- New York](https://jobright.ai/jobs/info/6a2857622d6c332ee52e5545?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 09 |
+| **[Ovation Healthcare](https://ovationhc.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/6a2848d01dbd8437bebca2bb?utm_campaign=1055&utm_source=git)** | Ovation Healthcare - Brentwood, TN, US | On Site | Jun 09 |
 | **[TransitMatters](https://transitmatters.org)** | **[Fall/Spring Intern - 2026/2027](https://jobright.ai/jobs/info/6a284787883c0d3be6540f21?utm_campaign=1055&utm_source=git)** | Boston, MA 02110, USA | On Site | Jun 09 |
 | **[HARMAN International](https://www.harman.com/)** | **[Supply Chain ESG & Compliance Analyst Intern](https://jobright.ai/jobs/info/6a28429c883c0d3be6540cc1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 09 |
 | **[PIPESTONE](https://www.pipestone.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a2840727061b51a3a5f4789?utm_campaign=1055&utm_source=git)** | 304 South Splitrock Blvd
 Suite 205, Brandon, SD57005 | Hybrid | Jun 09 |
-| **[Elevate](http://elevate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0b90764d932036368724e7?utm_campaign=1055&utm_source=git)** | Fort Worth, TX, US | Hybrid | Jun 09 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0b907c4d932036368724f1?utm_campaign=1055&utm_source=git)** | Addison, TX, US | Hybrid | Jun 09 |
+| **[Elevate](http://elevate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0b907c4d932036368724f1?utm_campaign=1055&utm_source=git)** | Addison, TX, US | Hybrid | Jun 09 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0b90764d932036368724e7?utm_campaign=1055&utm_source=git)** | Fort Worth, TX, US | Hybrid | Jun 09 |
 | **[GlobalLogic](http://www.globallogic.com)** | **[Summer Legal Intern IRC295386](https://jobright.ai/jobs/info/6a283037883c0d3be6540319?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 09 |
 | **[Olson Kundig](http://olsonkundig.com)** | **[Legal & Contracts Internship](https://jobright.ai/jobs/info/6a281e9b40ac8e329329effd?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
 | **[Palm Beach County Public Defender's Office, 15th Judicial Circuit](https://pd15.org/index.htm)** | **[Certified Legal Intern: Academic Year 2026-2027](https://jobright.ai/jobs/info/6a281e4bfd37e62bb47a6ae0?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL | On Site | Jun 09 |
@@ -117,7 +121,6 @@ Suite 205, Brandon, SD57005 | Hybrid | Jun 09 |
 | **[Belmark inc](https://www.belmark.com/)** | **[Quality Compliance Intern](https://jobright.ai/jobs/info/6a21c3df4bdf8a5a96bd7f93?utm_campaign=1055&utm_source=git)** | De Pere, WI | On Site | Jun 04 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, NY | On Site | Jun 04 |
 | **[Sands Anderson PC](http://sandsanderson.com)** | **[Summer Legal File Clerk (Paid Internship)](https://jobright.ai/jobs/info/6a21c21e338c012305120652?utm_campaign=1055&utm_source=git)** | Virginia Beach, VA | On Site | Jun 04 |
-| **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Summer/Fall 2026 Legal Internships - LGBTQ/HIV Advocacy Project](https://jobright.ai/jobs/info/6a21bf96338c0123051203cc?utm_campaign=1055&utm_source=git)** | Brooklyn, New York | Hybrid | Jun 04 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a210917338c01230511ca9a?utm_campaign=1055&utm_source=git)** | US-Remote | Remote | Jun 03 |
 | ↳ | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a210915338c01230511ca97?utm_campaign=1055&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jun 03 |
 | **[Touro College of Dental Medicine](http://dental.touro.edu/)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a21079fca8f0b365d7a496e?utm_campaign=1055&utm_source=git)** | New York, NY, US | Hybrid | Jun 03 |
@@ -143,5 +146,4 @@ Suite 205, Brandon, SD57005 | Hybrid | Jun 09 |
 | **[Group 1001](https://group1001.com/)** | **[Enterprise Risk Management Intern (Fall)](https://jobright.ai/jobs/info/6a2038a1ca8f0b365d79f9ff?utm_campaign=1055&utm_source=git)** | Zionsville, Indiana, US | Hybrid | Jun 03 |
 | **[Novastone Capital Advisors](https://www.novastone-ca.com)** | **[Internship: Legal/Paralegal](https://jobright.ai/jobs/info/6a1fdf653a5f0145f4c11c39?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 03 |
 | **[Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)](http://cmhc.ca/en)** | **[Fall 2026 Internship - Collections Assistant](https://jobright.ai/jobs/info/6a1f8f32dce5db1256d1617e?utm_campaign=1055&utm_source=git)** | Ottawa | Hybrid | Jun 02 |
-| **[International Refugee Assistance Project](https://refugeerights.org/)** | **[IRAP Law Student Fellowship 2026-2027](https://jobright.ai/jobs/info/6a1f848bb61b2c65b37b2f77?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
