@@ -57,15 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBTS - Institute for Building Technology and Safety](https://www.ibts.org/)** | **[Intern - Governance, Risk, and Compliance (GRC)](https://jobright.ai/jobs/info/6a289cca1dbd8437bebcc5c9?utm_campaign=1055&utm_source=git)** | Ashburn, VA, US | On Site | Jun 09 |
+| **[Liebherr USA](https://www.liebherr.com/en-us/group/start-page-3782471)** | **[Intern - Contract Management](https://jobright.ai/jobs/info/6a2899fd2d6c332ee52e7192?utm_campaign=1055&utm_source=git)** | Newport News, VA | On Site | Jun 09 |
 | **[Envoy Global](https://www.envoyglobal.com/)** | **[Immigration Operations Specialist - Internship](https://jobright.ai/jobs/info/6a288f927061b51a3a5f698a?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jun 09 |
 | ↳ | **[Immigration Operations Specialist - Internship](https://jobright.ai/jobs/info/6a288f8f7061b51a3a5f6987?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 09 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Abortion Criminal Defense Initiative](https://jobright.ai/jobs/info/6a28736940ac8e32932a1a69?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 09 |
-| ↳ | **[Fall 2026 Legal Intern, Abortion Criminal Defense Initiative](https://jobright.ai/jobs/info/6a28736740ac8e32932a1a67?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-Washington D.C. | Remote | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Litigation Department](https://jobright.ai/jobs/info/6a2873672d6c332ee52e6225?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
+| ↳ | **[Fall 2026 Legal Intern, Abortion Criminal Defense Initiative](https://jobright.ai/jobs/info/6a28736740ac8e32932a1a67?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-Washington D.C. | Remote | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Litigation Department](https://jobright.ai/jobs/info/6a2873662d6c332ee52e6224?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Criminal Law Reform Project](https://jobright.ai/jobs/info/6a2873631dbd8437bebcb488?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 09 |
-| ↳ | **[Fall Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a287362fd37e62bb47a93d8?utm_campaign=1055&utm_source=git)** | Hybrid- New York City | Hybrid | Jun 09 |
 | ↳ | **[Fall Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a287362fd37e62bb47a93d7?utm_campaign=1055&utm_source=git)** | Hybrid- Durham, N.C. | Hybrid | Jun 09 |
+| ↳ | **[Fall Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a287362fd37e62bb47a93d8?utm_campaign=1055&utm_source=git)** | Hybrid- New York City | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Criminal Law Reform Project](https://jobright.ai/jobs/info/6a2873601dbd8437bebcb484?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-Washington DC | Remote | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/6a287360883c0d3be6542205?utm_campaign=1055&utm_source=git)** | Hybrid-Washington D.C. | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, State Supreme Court Initiative](https://jobright.ai/jobs/info/6a28735ffd37e62bb47a93d4?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 09 |
@@ -90,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Ovation Healthcare](https://ovationhc.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/6a2848d01dbd8437bebca2bb?utm_campaign=1055&utm_source=git)** | Ovation Healthcare - Brentwood, TN, US | On Site | Jun 09 |
 | **[TransitMatters](https://transitmatters.org)** | **[Fall/Spring Intern - 2026/2027](https://jobright.ai/jobs/info/6a284787883c0d3be6540f21?utm_campaign=1055&utm_source=git)** | Boston, MA 02110, USA | On Site | Jun 09 |
 | **[HARMAN International](https://www.harman.com/)** | **[Supply Chain ESG & Compliance Analyst Intern](https://jobright.ai/jobs/info/6a28429c883c0d3be6540cc1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 09 |
-| **[Elevate](http://elevate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0b90764d932036368724e7?utm_campaign=1055&utm_source=git)** | Fort Worth, TX, US | Hybrid | Jun 09 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0b907c4d932036368724f1?utm_campaign=1055&utm_source=git)** | Addison, TX, US | Hybrid | Jun 09 |
+| **[Elevate](http://elevate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0b907c4d932036368724f1?utm_campaign=1055&utm_source=git)** | Addison, TX, US | Hybrid | Jun 09 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0b90764d932036368724e7?utm_campaign=1055&utm_source=git)** | Fort Worth, TX, US | Hybrid | Jun 09 |
 | **[Olson Kundig](http://olsonkundig.com)** | **[Legal & Contracts Internship](https://jobright.ai/jobs/info/6a281e9b40ac8e329329effd?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
 | **[Palm Beach County Public Defender's Office, 15th Judicial Circuit](https://pd15.org/index.htm)** | **[Certified Legal Intern: Academic Year 2026-2027](https://jobright.ai/jobs/info/6a281e4bfd37e62bb47a6ae0?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL | On Site | Jun 09 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Criminal Investigations Bureau](https://jobright.ai/jobs/info/6a27ef367061b51a3a5f29af?utm_campaign=1055&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Jun 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Affinity Gaming](http://affinitygaming.com/)** | **[General Counsel Intern](https://jobright.ai/jobs/info/6a20ae40338c01230511af74?utm_campaign=1055&utm_source=git)** | Las Vegas, Nevada, United States | On Site | Jun 03 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Contract Administration (Fall 2026)](https://jobright.ai/jobs/info/6a20fffdc00e701fe836ca93?utm_campaign=1055&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 03 |
 | **[Whataburger](http://www.whataburger.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a206c7b902d19201c7b20c5?utm_campaign=1055&utm_source=git)** | 300 Concord Plaza Dr San Antonio TX 78216-6903, US | Hybrid | Jun 03 |
-| **[Colorado Housing and Finance Authority](https://www.chfainfo.com/)** | **[Privacy Program Intern](https://jobright.ai/jobs/info/6a20af20338c01230511afd9?utm_campaign=1055&utm_source=git)** | Denver - Denver, CO 80202 | Hybrid | Jun 03 |
-| **[Husch Blackwell](http://www.huschblackwell.com/)** | **[Intern - Information Governance (Records)](https://jobright.ai/jobs/info/6a20ad964bdf8a5a96bd2878?utm_campaign=1055&utm_source=git)** | Bloomington, Illinois, United States | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
