@@ -57,19 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - CAFL Lowell - Fall 2026](https://jobright.ai/jobs/info/6a2864befd37e62bb47a8d37?utm_campaign=1055&utm_source=git)** | Lowell, MA, US | On Site | Jun 09 |
+| ↳ | **[Internship - YAD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a2864bb2d6c332ee52e5b26?utm_campaign=1055&utm_source=git)** | Worcester, MA, US | On Site | Jun 09 |
+| ↳ | **[Internship Fall 2026 - PDD Fall River](https://jobright.ai/jobs/info/6a2864c040ac8e32932a132f?utm_campaign=1055&utm_source=git)** | Fall River, MA, US | On Site | Jun 09 |
+| ↳ | **[Internship - PDD Quincy - Fall 2026](https://jobright.ai/jobs/info/6a2864c12d6c332ee52e5b27?utm_campaign=1055&utm_source=git)** | Quincy, MA, US | On Site | Jun 09 |
 | **[IBTS - Institute for Building Technology and Safety](https://www.ibts.org/)** | **[Intern - Governance, Risk, and Compliance (GRC)](https://jobright.ai/jobs/info/6a289cca1dbd8437bebcc5c9?utm_campaign=1055&utm_source=git)** | Ashburn, VA, US | On Site | Jun 09 |
 | **[Liebherr USA](https://www.liebherr.com/en-us/group/start-page-3782471)** | **[Intern - Contract Management](https://jobright.ai/jobs/info/6a2899fd2d6c332ee52e7192?utm_campaign=1055&utm_source=git)** | Newport News, VA | On Site | Jun 09 |
 | **[Envoy Global](https://www.envoyglobal.com/)** | **[Immigration Operations Specialist - Internship](https://jobright.ai/jobs/info/6a288f927061b51a3a5f698a?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jun 09 |
 | ↳ | **[Immigration Operations Specialist - Internship](https://jobright.ai/jobs/info/6a288f8f7061b51a3a5f6987?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 09 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Abortion Criminal Defense Initiative](https://jobright.ai/jobs/info/6a28736940ac8e32932a1a69?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 09 |
-| ↳ | **[Fall 2026 Legal Intern, Abortion Criminal Defense Initiative](https://jobright.ai/jobs/info/6a28736740ac8e32932a1a67?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-Washington D.C. | Remote | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Litigation Department](https://jobright.ai/jobs/info/6a2873672d6c332ee52e6225?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
+| ↳ | **[Fall 2026 Legal Intern, Abortion Criminal Defense Initiative](https://jobright.ai/jobs/info/6a28736740ac8e32932a1a67?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-Washington D.C. | Remote | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Litigation Department](https://jobright.ai/jobs/info/6a2873662d6c332ee52e6224?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Criminal Law Reform Project](https://jobright.ai/jobs/info/6a2873631dbd8437bebcb488?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 09 |
 | ↳ | **[Fall Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a287362fd37e62bb47a93d8?utm_campaign=1055&utm_source=git)** | Hybrid- New York City | Hybrid | Jun 09 |
 | ↳ | **[Fall Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a287362fd37e62bb47a93d7?utm_campaign=1055&utm_source=git)** | Hybrid- Durham, N.C. | Hybrid | Jun 09 |
-| ↳ | **[Fall 2026 Legal Intern, Criminal Law Reform Project](https://jobright.ai/jobs/info/6a2873601dbd8437bebcb484?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-Washington DC | Remote | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/6a287360883c0d3be6542205?utm_campaign=1055&utm_source=git)** | Hybrid-Washington D.C. | Hybrid | Jun 09 |
+| ↳ | **[Fall 2026 Legal Intern, Criminal Law Reform Project](https://jobright.ai/jobs/info/6a2873601dbd8437bebcb484?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-Washington DC | Remote | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, State Supreme Court Initiative](https://jobright.ai/jobs/info/6a28735ffd37e62bb47a93d4?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/6a28735e883c0d3be6542204?utm_campaign=1055&utm_source=git)** | Hybrid-New York City | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Disability Rights Program](https://jobright.ai/jobs/info/6a28735cfd37e62bb47a93d1?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-Washington D.C. | Remote | Jun 09 |
@@ -82,10 +86,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Legal Intern, Reproductive Freedom Project](https://jobright.ai/jobs/info/6a2873461dbd8437bebcb46f?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 09 |
 | **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a28676e883c0d3be6541c6f?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Jun 09 |
 | **[IBTS - Institute for Building Technology and Safety](https://www.ibts.org/)** | **[Governance, Risk, and Compliance (GRC) Intern](https://jobright.ai/jobs/info/6a2865752d6c332ee52e5b80?utm_campaign=1055&utm_source=git)** | Ashburn, VA, US | On Site | Jun 09 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Quincy - Fall 2026](https://jobright.ai/jobs/info/6a2864c12d6c332ee52e5b27?utm_campaign=1055&utm_source=git)** | Quincy, MA, US | On Site | Jun 09 |
-| ↳ | **[Internship Fall 2026 - PDD Fall River](https://jobright.ai/jobs/info/6a2864c040ac8e32932a132f?utm_campaign=1055&utm_source=git)** | Fall River, MA, US | On Site | Jun 09 |
-| ↳ | **[Internship - CAFL Lowell - Fall 2026](https://jobright.ai/jobs/info/6a2864befd37e62bb47a8d37?utm_campaign=1055&utm_source=git)** | Lowell, MA, US | On Site | Jun 09 |
-| ↳ | **[Internship - YAD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a2864bb2d6c332ee52e5b26?utm_campaign=1055&utm_source=git)** | Worcester, MA, US | On Site | Jun 09 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Center for Liberty](https://jobright.ai/jobs/info/6a285771883c0d3be65414cc?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Center for Liberty](https://jobright.ai/jobs/info/6a285770883c0d3be65414cb?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-Washington D.C. | Remote | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Immigrants' Rights Project- New York](https://jobright.ai/jobs/info/6a2857622d6c332ee52e5545?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 09 |
@@ -107,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Desjardins](https://www.desjardins.com)** | **[Intern Law, Quebec Bar](https://jobright.ai/jobs/info/6a276c7c2056260dd6e870bd?utm_campaign=1055&utm_source=git)** | Lévis, Quebec, Canada | Hybrid | Jun 08 |
 | ↳ | **[Intern Law, Quebec Bar](https://jobright.ai/jobs/info/6a276c7b12f02023422646ec?utm_campaign=1055&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | Jun 08 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Innocence Program - Fall 2026](https://jobright.ai/jobs/info/6a26d9ff12f0202342260cd9?utm_campaign=1055&utm_source=git)** | Malden, MA, US | Hybrid | Jun 08 |
+| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/6a0accd8a203b1052e44eee6?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jun 08 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-26121 - Compliance Reporting Part-Time Intern](https://jobright.ai/jobs/info/6a274cb74ec8d737d6dff243?utm_campaign=1055&utm_source=git)** | Anchorage, AK, US | On Site | Jun 08 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Legal Intern (Unpaid) (2038)](https://jobright.ai/jobs/info/6a2749c24ec8d737d6dff13d?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 08 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Import/Export Intern](https://jobright.ai/jobs/info/6a26d66130042e753908538d?utm_campaign=1055&utm_source=git)** | Rolla, MO | On Site | Jun 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/6a185c73abc8f63abac77995?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 03 |
 | ↳ | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/6a185c78abc8f63abac779ca?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 03 |
 | **[Affinity Gaming](http://affinitygaming.com/)** | **[General Counsel Intern](https://jobright.ai/jobs/info/6a20ae40338c01230511af74?utm_campaign=1055&utm_source=git)** | Las Vegas, Nevada, United States | On Site | Jun 03 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Contract Administration (Fall 2026)](https://jobright.ai/jobs/info/6a20fffdc00e701fe836ca93?utm_campaign=1055&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
