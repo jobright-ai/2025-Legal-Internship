@@ -92,8 +92,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Legal Intern, Criminal Law Reform Project](https://jobright.ai/jobs/info/6a2873631dbd8437bebcb488?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 09 |
 | ↳ | **[Fall Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a287362fd37e62bb47a93d7?utm_campaign=1055&utm_source=git)** | Hybrid- Durham, N.C. | Hybrid | Jun 09 |
 | ↳ | **[Fall Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a287362fd37e62bb47a93d8?utm_campaign=1055&utm_source=git)** | Hybrid- New York City | Hybrid | Jun 09 |
-| ↳ | **[Fall 2026 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/6a287360883c0d3be6542205?utm_campaign=1055&utm_source=git)** | Hybrid-Washington D.C. | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Criminal Law Reform Project](https://jobright.ai/jobs/info/6a2873601dbd8437bebcb484?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-Washington DC | Remote | Jun 09 |
+| ↳ | **[Fall 2026 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/6a287360883c0d3be6542205?utm_campaign=1055&utm_source=git)** | Hybrid-Washington D.C. | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, State Supreme Court Initiative](https://jobright.ai/jobs/info/6a28735ffd37e62bb47a93d4?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/6a28735e883c0d3be6542204?utm_campaign=1055&utm_source=git)** | Hybrid-New York City | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Disability Rights Program](https://jobright.ai/jobs/info/6a28735cfd37e62bb47a93d1?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-Washington D.C. | Remote | Jun 09 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Procter & Gamble](https://us.pg.com/)** | **[2027 Legal 2L Summer Intern](https://jobright.ai/jobs/info/6a12797612f8b43cf398cae6?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jun 05 |
 | **[Continental](https://www.continental.com)** | **[Intern - Customs Compliance, Year-Round](https://jobright.ai/jobs/info/6a0f75e912f8b43cf397f515?utm_campaign=1055&utm_source=git)** | Fort Mill, SC | On Site | Jun 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a22aa8614de9460dc842d49?utm_campaign=1055&utm_source=git)** | Seattle | On Site | Jun 05 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 05 |
-| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b8?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 05 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b8?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 05 |
+| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 05 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Jun 05 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Legal / Communications Internship  (General Application) – SY 2026-27](https://jobright.ai/jobs/info/6a226eb3d1ab07243c7f8059?utm_campaign=1055&utm_source=git)** | Administration Building - South Bend, Indiana | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
