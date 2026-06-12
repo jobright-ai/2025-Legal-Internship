@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Law Offices of Sabrina Li, P.C.](https://www.sabrinali.law)** | **[Bilingual Legal Intern (Spanish)](https://jobright.ai/jobs/info/6a2b91771de59e0682a89c14?utm_campaign=1055&utm_source=git)** | Dallas, Texas, United States | On Site | Jun 11 |
 | **[SECU](https://www.ncsecu.org/)** | **[Legal Process Intern](https://jobright.ai/jobs/info/6a2b24a9c07d4b6ae1c4989f?utm_campaign=1055&utm_source=git)** | Raleigh - Salisbury St, US | Hybrid | Jun 11 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Fall 2026 - MHLD Brockton Commitment Unit](https://jobright.ai/jobs/info/6a2acf750ad4053b108c8d66?utm_campaign=1055&utm_source=git)** | Boston, MA, US | On Site | Jun 11 |
-| ↳ | **[Internship Fall 2026 - PDD Brockton](https://jobright.ai/jobs/info/6a2acf64d3ec8317fe145271?utm_campaign=1055&utm_source=git)** | Brockton, MA, US | On Site | Jun 11 |
+| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Fall 2026 - PDD Brockton](https://jobright.ai/jobs/info/6a2acf64d3ec8317fe145271?utm_campaign=1055&utm_source=git)** | Brockton, MA, US | On Site | Jun 11 |
+| ↳ | **[Internship - Fall 2026 - MHLD Brockton Commitment Unit](https://jobright.ai/jobs/info/6a2acf750ad4053b108c8d66?utm_campaign=1055&utm_source=git)** | Boston, MA, US | On Site | Jun 11 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Fall 2026 - Ethics & Compliance Student Internship](https://jobright.ai/jobs/info/6a264ca7dedf78312c7b1ab7?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Jun 11 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Customs Intern](https://jobright.ai/jobs/info/6a2b36981de59e0682a889e7?utm_campaign=1055&utm_source=git)** | Troy, MI | On Site | Jun 11 |
 | **[Universal Creative](https://linktr.ee/universalcreative)** | **[Internship – Legal Affairs, Universal Creative (Spring 2027)](https://jobright.ai/jobs/info/6a2b1e371de59e0682a881dd?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Jun 11 |
@@ -92,10 +93,10 @@ For a complete list, click the following sortable link below:
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Legal Research Intern Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a2920be40ac8e32932a5687?utm_campaign=1055&utm_source=git)** | Palo Alto, CA, CA, US | On Site | Jun 10 |
 | ↳ | **[Intern - Financial Compliance Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a2920a8883c0d3be6545f18?utm_campaign=1055&utm_source=git)** | Amelia, OH, US | Hybrid | Jun 10 |
 | **[Liebherr Group](http://www.liebherr.com)** | **[Intern - Contract Management](https://jobright.ai/jobs/info/6a291e767061b51a3a5f9af0?utm_campaign=1055&utm_source=git)** | Newport News, VA | On Site | Jun 10 |
-| **[Envoy Global](https://www.envoyglobal.com/)** | **[Immigration Operations Specialist - Internship](https://jobright.ai/jobs/info/6a288f927061b51a3a5f698a?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jun 09 |
-| ↳ | **[Immigration Operations Specialist - Internship](https://jobright.ai/jobs/info/6a288f8f7061b51a3a5f6987?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 09 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - CAFL Lowell - Fall 2026](https://jobright.ai/jobs/info/6a2864befd37e62bb47a8d37?utm_campaign=1055&utm_source=git)** | Lowell, MA, US | On Site | Jun 09 |
-| ↳ | **[Internship - YAD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a2864bb2d6c332ee52e5b26?utm_campaign=1055&utm_source=git)** | Worcester, MA, US | On Site | Jun 09 |
+| **[Envoy Global](https://www.envoyglobal.com/)** | **[Immigration Operations Specialist - Internship](https://jobright.ai/jobs/info/6a288f8f7061b51a3a5f6987?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 09 |
+| ↳ | **[Immigration Operations Specialist - Internship](https://jobright.ai/jobs/info/6a288f927061b51a3a5f698a?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jun 09 |
+| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - YAD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a2864bb2d6c332ee52e5b26?utm_campaign=1055&utm_source=git)** | Worcester, MA, US | On Site | Jun 09 |
+| ↳ | **[Internship - CAFL Lowell - Fall 2026](https://jobright.ai/jobs/info/6a2864befd37e62bb47a8d37?utm_campaign=1055&utm_source=git)** | Lowell, MA, US | On Site | Jun 09 |
 | ↳ | **[Internship Fall 2026 - PDD Fall River](https://jobright.ai/jobs/info/6a2864c040ac8e32932a132f?utm_campaign=1055&utm_source=git)** | Fall River, MA, US | On Site | Jun 09 |
 | ↳ | **[Internship - PDD Quincy - Fall 2026](https://jobright.ai/jobs/info/6a2864c12d6c332ee52e5b27?utm_campaign=1055&utm_source=git)** | Quincy, MA, US | On Site | Jun 09 |
 | **[IBTS - Institute for Building Technology and Safety](https://www.ibts.org/)** | **[Intern - Governance, Risk, and Compliance (GRC)](https://jobright.ai/jobs/info/6a289cca1dbd8437bebcc5c9?utm_campaign=1055&utm_source=git)** | Ashburn, VA, US | On Site | Jun 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First Chicago Insurance Company](https://www.firstchicagoinsurance.com/)** | **[Product Forms & Compliance Intern](https://jobright.ai/jobs/info/6a25c79b14de9460dc8487da?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 07 |
 | **[Hernandez Consulting & Construction](https://www.hernandezconsulting.com/)** | **[JD/MBA Legal & Finance Intern](https://jobright.ai/jobs/info/6a244654757ade085b6b000a?utm_campaign=1055&utm_source=git)** | New Orleans, LA | On Site | Jun 06 |
 | **[Recor Medical](http://recormedical.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a07c15a8f3e371eb617a543?utm_campaign=1055&utm_source=git)** | Palo Alto, CA | On Site | Jun 06 |
-| **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, Risk Advisory - Fall 2026, Cranberry Township](https://jobright.ai/jobs/info/6a0f21d4619335383fb2961a?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Jun 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
