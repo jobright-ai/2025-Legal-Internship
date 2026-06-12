@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Expeditors](http://www.expeditors.com)** | **[Full-Time Internship - Customs Brokerage](https://jobright.ai/jobs/info/6a2c759efc0644749054a1c1?utm_campaign=1055&utm_source=git)** | 90650, 19701 Hamilton Ave, Torrance, CA 90502, USA | On Site | Jun 12 |
+| **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern (Contracts & Acquisitions) - Fall 2026](https://jobright.ai/jobs/info/6a2c7179f1751b183c8188b6?utm_campaign=1055&utm_source=git)** | United States of America-OHIO | On Site | Jun 12 |
+| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Corporate Legal](https://jobright.ai/jobs/info/6a2c709ba1d15e3c552fbce3?utm_campaign=1055&utm_source=git)** | Business Office - Oklahoma City, OK 73102 | On Site | Jun 12 |
+| **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[College Intern (Contracts & Acquisitions) - Fall 2026](https://jobright.ai/jobs/info/6a2c6facf1751b183c8187e6?utm_campaign=1055&utm_source=git)** | United States of America-OHIO | On Site | Jun 12 |
 | **[Bradley Arant Boult Cummings LLP](https://www.bradley.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a2c591ac260bb1b8ae15f79?utm_campaign=1055&utm_source=git)** | Bradley, 1221 Broadway, Nashville, Tennessee, United States of America | On Site | Jun 12 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/69d6ac94366bb95ba554ef8e?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jun 12 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - CAFL Appeals Unit Worcester - Fall 2026](https://jobright.ai/jobs/info/6a2c205cf1751b183c816ebb?utm_campaign=1055&utm_source=git)** | Worcester, MA, US | Hybrid | Jun 12 |
@@ -103,22 +107,22 @@ For a complete list, click the following sortable link below:
 | **[Liebherr Group](http://www.liebherr.com)** | **[Intern - Contract Management](https://jobright.ai/jobs/info/6a291e767061b51a3a5f9af0?utm_campaign=1055&utm_source=git)** | Newport News, VA | On Site | Jun 10 |
 | **[Envoy Global](https://www.envoyglobal.com/)** | **[Immigration Operations Specialist - Internship](https://jobright.ai/jobs/info/6a288f8f7061b51a3a5f6987?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 09 |
 | ↳ | **[Immigration Operations Specialist - Internship](https://jobright.ai/jobs/info/6a288f927061b51a3a5f698a?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jun 09 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - YAD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a2864bb2d6c332ee52e5b26?utm_campaign=1055&utm_source=git)** | Worcester, MA, US | On Site | Jun 09 |
-| ↳ | **[Internship - CAFL Lowell - Fall 2026](https://jobright.ai/jobs/info/6a2864befd37e62bb47a8d37?utm_campaign=1055&utm_source=git)** | Lowell, MA, US | On Site | Jun 09 |
+| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - CAFL Lowell - Fall 2026](https://jobright.ai/jobs/info/6a2864befd37e62bb47a8d37?utm_campaign=1055&utm_source=git)** | Lowell, MA, US | On Site | Jun 09 |
+| ↳ | **[Internship - YAD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a2864bb2d6c332ee52e5b26?utm_campaign=1055&utm_source=git)** | Worcester, MA, US | On Site | Jun 09 |
 | ↳ | **[Internship Fall 2026 - PDD Fall River](https://jobright.ai/jobs/info/6a2864c040ac8e32932a132f?utm_campaign=1055&utm_source=git)** | Fall River, MA, US | On Site | Jun 09 |
 | ↳ | **[Internship - PDD Quincy - Fall 2026](https://jobright.ai/jobs/info/6a2864c12d6c332ee52e5b27?utm_campaign=1055&utm_source=git)** | Quincy, MA, US | On Site | Jun 09 |
 | **[IBTS - Institute for Building Technology and Safety](https://www.ibts.org/)** | **[Intern - Governance, Risk, and Compliance (GRC)](https://jobright.ai/jobs/info/6a289cca1dbd8437bebcc5c9?utm_campaign=1055&utm_source=git)** | Ashburn, VA, US | On Site | Jun 09 |
 | **[Liebherr USA](https://www.liebherr.com/en-us/group/start-page-3782471)** | **[Intern - Contract Management](https://jobright.ai/jobs/info/6a2899fd2d6c332ee52e7192?utm_campaign=1055&utm_source=git)** | Newport News, VA | On Site | Jun 09 |
 | **[Elevate](http://elevate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0bd82fa235d749afa88e86?utm_campaign=1055&utm_source=git)** | Addison, TX | On Site | Jun 09 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Abortion Criminal Defense Initiative](https://jobright.ai/jobs/info/6a28736940ac8e32932a1a69?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 09 |
-| ↳ | **[Fall 2026 Legal Intern, Abortion Criminal Defense Initiative](https://jobright.ai/jobs/info/6a28736740ac8e32932a1a67?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-Washington D.C. | Remote | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Litigation Department](https://jobright.ai/jobs/info/6a2873672d6c332ee52e6225?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
+| ↳ | **[Fall 2026 Legal Intern, Abortion Criminal Defense Initiative](https://jobright.ai/jobs/info/6a28736740ac8e32932a1a67?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-Washington D.C. | Remote | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Litigation Department](https://jobright.ai/jobs/info/6a2873662d6c332ee52e6224?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Criminal Law Reform Project](https://jobright.ai/jobs/info/6a2873631dbd8437bebcb488?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 09 |
 | ↳ | **[Fall Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a287362fd37e62bb47a93d7?utm_campaign=1055&utm_source=git)** | Hybrid- Durham, N.C. | Hybrid | Jun 09 |
 | ↳ | **[Fall Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a287362fd37e62bb47a93d8?utm_campaign=1055&utm_source=git)** | Hybrid- New York City | Hybrid | Jun 09 |
-| ↳ | **[Fall 2026 Legal Intern, Criminal Law Reform Project](https://jobright.ai/jobs/info/6a2873601dbd8437bebcb484?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-Washington DC | Remote | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/6a287360883c0d3be6542205?utm_campaign=1055&utm_source=git)** | Hybrid-Washington D.C. | Hybrid | Jun 09 |
+| ↳ | **[Fall 2026 Legal Intern, Criminal Law Reform Project](https://jobright.ai/jobs/info/6a2873601dbd8437bebcb484?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-Washington DC | Remote | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, State Supreme Court Initiative](https://jobright.ai/jobs/info/6a28735ffd37e62bb47a93d4?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/6a28735e883c0d3be6542204?utm_campaign=1055&utm_source=git)** | Hybrid-New York City | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Disability Rights Program](https://jobright.ai/jobs/info/6a28735cfd37e62bb47a93d1?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-Washington D.C. | Remote | Jun 09 |
@@ -136,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Ovation Healthcare](https://ovationhc.com/)** | **[Intern, Legal](https://jobright.ai/jobs/info/6a2848d01dbd8437bebca2bb?utm_campaign=1055&utm_source=git)** | Ovation Healthcare - Brentwood, TN, US | On Site | Jun 09 |
 | **[HARMAN International](https://www.harman.com/)** | **[Part Time Intern - Supply Chain ESG & Compliance Analyst](https://jobright.ai/jobs/info/6a28429c883c0d3be6540cc1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 09 |
 | **[TransitMatters](https://transitmatters.org)** | **[Fall/Spring Intern - 2026/2027](https://jobright.ai/jobs/info/6a284787883c0d3be6540f21?utm_campaign=1055&utm_source=git)** | Boston, MA 02110, USA | On Site | Jun 09 |
-| **[Elevate](http://elevate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0b907c4d932036368724f1?utm_campaign=1055&utm_source=git)** | Addison, TX, US | Hybrid | Jun 09 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0b90764d932036368724e7?utm_campaign=1055&utm_source=git)** | Fort Worth, TX, US | Hybrid | Jun 09 |
+| **[Elevate](http://elevate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0b90764d932036368724e7?utm_campaign=1055&utm_source=git)** | Fort Worth, TX, US | Hybrid | Jun 09 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a0b907c4d932036368724f1?utm_campaign=1055&utm_source=git)** | Addison, TX, US | Hybrid | Jun 09 |
 | **[Olson Kundig](http://www.olsonkundig.com)** | **[Legal & Contracts Internship](https://jobright.ai/jobs/info/6a281e9b40ac8e329329effd?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
 | **[Palm Beach County Public Defender's Office, 15th Judicial Circuit](https://pd15.org/index.htm)** | **[Certified Legal Intern: Academic Year 2026-2027](https://jobright.ai/jobs/info/6a281e4bfd37e62bb47a6ae0?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL | On Site | Jun 09 |
 | **[IGT](http://www.gtech.com)** | **[Intern Technical](https://jobright.ai/jobs/info/6a0c08370411d7417a1b56f5?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Jun 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-26121 - Compliance Reporting Part-Time Intern](https://jobright.ai/jobs/info/6a274cb74ec8d737d6dff243?utm_campaign=1055&utm_source=git)** | Anchorage, AK, US | On Site | Jun 08 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Import/Export Intern](https://jobright.ai/jobs/info/6a26d66130042e753908538d?utm_campaign=1055&utm_source=git)** | Rolla, MO | On Site | Jun 08 |
 | **[Westcor Land Title Insurance Company®](http://wltic.com)** | **[Claims Intern - Westcor Land Title Insurance Company](https://jobright.ai/jobs/info/6a2733ea2056260dd6e85f33?utm_campaign=1055&utm_source=git)** | Maitland, FL | On Site | Jun 08 |
-| **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Practice Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2838617061b51a3a5f4328?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 08 |
-| **[MBTA](http://mbta.com)** | **[Senior Legal Intern (Office of General Counsel) [Juris Doctor Students]](https://jobright.ai/jobs/info/6a26f3187d827633afff79e8?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jun 08 |
-| **[Westcor Land Title Insurance Company®](http://wltic.com)** | **[Claims Intern - Westcor Land Title Insurance Company](https://jobright.ai/jobs/info/6a26d5e02056260dd6e835aa?utm_campaign=1055&utm_source=git)** | Maitland, Florida, United States | On Site | Jun 08 |
-| **[Alliance Technical Group](https://alliancetg.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a26d5987d827633afff6d4c?utm_campaign=1055&utm_source=git)** | Louisville, Kentucky, United States | Hybrid | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
