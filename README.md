@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harbinger](https://harbingermotors.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/6a2cbb55c260bb1b8ae17966?utm_campaign=1055&utm_source=git)** | Garden Grove, CA | On Site | Jun 12 |
+| **[Tanner-Flomberg Law Group](www.tannerflomberg.com)** | **[Legal Assistant Intern](https://jobright.ai/jobs/info/6a2cb38d7cd40a338fae787d?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jun 12 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - CAFL Appeals Unit Worcester - Fall 2026](https://jobright.ai/jobs/info/6a2cacfea1d15e3c552fcdd2?utm_campaign=1055&utm_source=git)** | Worcester, MA | On Site | Jun 12 |
+| ↳ | **[Internship - PDD Lowell - Fall 2026](https://jobright.ai/jobs/info/6a2c2000fc06447490548535?utm_campaign=1055&utm_source=git)** | Lowell, MA, US | On Site | Jun 12 |
 | **[LawBhoomi](https://lawbhoomi.com/)** | **[Internship Opportunity and Associates at NS Chambers: Apply by June 18](https://jobright.ai/jobs/info/6a2c9d01d3ec94183f4bdc2d?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Jun 12 |
 | **[Ohio Department of Job and Family Services](https://jfs.ohio.gov/)** | **[College Intern (Contracts & Acquisitions) - Fall 2026](https://jobright.ai/jobs/info/6a2c81fef1751b183c818dce?utm_campaign=1055&utm_source=git)** | Ohio, United States | On Site | Jun 12 |
 | **[Expeditors](http://www.expeditors.com)** | **[Full-Time Internship - Customs Brokerage](https://jobright.ai/jobs/info/6a2c759efc0644749054a1c1?utm_campaign=1055&utm_source=git)** | 90650, 19701 Hamilton Ave, Torrance, CA 90502, USA | On Site | Jun 12 |
@@ -68,14 +71,13 @@ For a complete list, click the following sortable link below:
 | **[Bradley Arant Boult Cummings LLP](https://www.bradley.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a2c591ac260bb1b8ae15f79?utm_campaign=1055&utm_source=git)** | Bradley, 1221 Broadway, Nashville, Tennessee, United States of America | On Site | Jun 12 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/69d6ac94366bb95ba554ef8e?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jun 12 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - CAFL Appeals Unit Worcester - Fall 2026](https://jobright.ai/jobs/info/6a2c205cf1751b183c816ebb?utm_campaign=1055&utm_source=git)** | Worcester, MA, US | Hybrid | Jun 12 |
-| ↳ | **[Internship - PDD Lowell - Fall 2026](https://jobright.ai/jobs/info/6a2c2000fc06447490548535?utm_campaign=1055&utm_source=git)** | Lowell, MA, US | On Site | Jun 12 |
 | **[Schloemer Law Firm, S.C.](https://schloemerlaw.com)** | **[Litigation & Real Estate Attorney](https://jobright.ai/jobs/info/6a2c1c1c7cd40a338fae4b97?utm_campaign=1055&utm_source=git)** | West Bend, WI | On Site | Jun 12 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Attorney, Global Technology & Innovation (Spring 2027)](https://jobright.ai/jobs/info/6a2bb8430ad4053b108ccbd0?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | ↳ | **[Internship – UDX Operational Alignment & Compliance, Part-Time (Spring 2027)](https://jobright.ai/jobs/info/6a2bb833c07d4b6ae1c4b5c4?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | **[Law Offices of Sabrina Li, P.C.](https://www.sabrinali.law)** | **[Bilingual Legal Intern (Spanish)](https://jobright.ai/jobs/info/6a2b91771de59e0682a89c14?utm_campaign=1055&utm_source=git)** | Dallas, Texas, United States | On Site | Jun 11 |
 | **[Boston Consulting Group (BCG)](https://www.allofus.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a2bba6e2cde2824469c747f?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jun 11 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Fall 2026 - MHLD Brockton Commitment Unit](https://jobright.ai/jobs/info/6a2acf750ad4053b108c8d66?utm_campaign=1055&utm_source=git)** | Boston, MA, US | On Site | Jun 11 |
-| ↳ | **[Internship Fall 2026 - PDD Brockton](https://jobright.ai/jobs/info/6a2acf64d3ec8317fe145271?utm_campaign=1055&utm_source=git)** | Brockton, MA, US | On Site | Jun 11 |
+| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Fall 2026 - PDD Brockton](https://jobright.ai/jobs/info/6a2acf64d3ec8317fe145271?utm_campaign=1055&utm_source=git)** | Brockton, MA, US | On Site | Jun 11 |
+| ↳ | **[Internship - Fall 2026 - MHLD Brockton Commitment Unit](https://jobright.ai/jobs/info/6a2acf750ad4053b108c8d66?utm_campaign=1055&utm_source=git)** | Boston, MA, US | On Site | Jun 11 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Fall 2026 - Ethics & Compliance Student Internship](https://jobright.ai/jobs/info/6a264ca7dedf78312c7b1ab7?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Jun 11 |
 | **[Universal Creative](https://linktr.ee/universalcreative)** | **[Internship, Universal Creative – Legal Affairs (Spring 2027)](https://jobright.ai/jobs/info/6a2b1e371de59e0682a881dd?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Jun 11 |
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a2b019bd3ec8317fe1467eb?utm_campaign=1055&utm_source=git)** | Windsor Mill, MD 21224 | Remote | Jun 11 |
@@ -111,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Liebherr Group](http://www.liebherr.com)** | **[Intern - Contract Management](https://jobright.ai/jobs/info/6a291e767061b51a3a5f9af0?utm_campaign=1055&utm_source=git)** | Newport News, VA | On Site | Jun 10 |
 | **[Envoy Global](https://www.envoyglobal.com/)** | **[Immigration Operations Specialist - Internship](https://jobright.ai/jobs/info/6a288f927061b51a3a5f698a?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jun 09 |
 | ↳ | **[Immigration Operations Specialist - Internship](https://jobright.ai/jobs/info/6a288f8f7061b51a3a5f6987?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 09 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - YAD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a2864bb2d6c332ee52e5b26?utm_campaign=1055&utm_source=git)** | Worcester, MA, US | On Site | Jun 09 |
-| ↳ | **[Internship - CAFL Lowell - Fall 2026](https://jobright.ai/jobs/info/6a2864befd37e62bb47a8d37?utm_campaign=1055&utm_source=git)** | Lowell, MA, US | On Site | Jun 09 |
+| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - CAFL Lowell - Fall 2026](https://jobright.ai/jobs/info/6a2864befd37e62bb47a8d37?utm_campaign=1055&utm_source=git)** | Lowell, MA, US | On Site | Jun 09 |
+| ↳ | **[Internship - YAD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a2864bb2d6c332ee52e5b26?utm_campaign=1055&utm_source=git)** | Worcester, MA, US | On Site | Jun 09 |
 | ↳ | **[Internship Fall 2026 - PDD Fall River](https://jobright.ai/jobs/info/6a2864c040ac8e32932a132f?utm_campaign=1055&utm_source=git)** | Fall River, MA, US | On Site | Jun 09 |
 | ↳ | **[Internship - PDD Quincy - Fall 2026](https://jobright.ai/jobs/info/6a2864c12d6c332ee52e5b27?utm_campaign=1055&utm_source=git)** | Quincy, MA, US | On Site | Jun 09 |
 | **[IBTS - Institute for Building Technology and Safety](https://www.ibts.org/)** | **[Intern - Governance, Risk, and Compliance (GRC)](https://jobright.ai/jobs/info/6a289cca1dbd8437bebcc5c9?utm_campaign=1055&utm_source=git)** | Ashburn, VA, US | On Site | Jun 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kostelanetz LLP](https://kostelanetz.com/)** | **[Spelman Pre-Law Paralegal Internship (Summer 2026)](https://jobright.ai/jobs/info/6a279124fd37e62bb47a4ecd?utm_campaign=1055&utm_source=git)** | Washington, D.C. | On Site | Jun 08 |
 | ↳ | **[Spelman Pre-Law Paralegal Internship (Summer 2026)](https://jobright.ai/jobs/info/6a279122fd37e62bb47a4ecc?utm_campaign=1055&utm_source=git)** | New York City, NY | On Site | Jun 08 |
 | **[Desjardins](https://www.desjardins.com/ca/about-us/desjardins/governance-democracy/structure/desjardins-securities/)** | **[Intern Law, Quebec Bar](https://jobright.ai/jobs/info/6a276c7c2056260dd6e870bd?utm_campaign=1055&utm_source=git)** | Lévis, Quebec, Canada | Hybrid | Jun 08 |
-| ↳ | **[Intern Law, Quebec Bar](https://jobright.ai/jobs/info/6a276c7b12f02023422646ec?utm_campaign=1055&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | Jun 08 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Innocence Program - Fall 2026](https://jobright.ai/jobs/info/6a26d9ff12f0202342260cd9?utm_campaign=1055&utm_source=git)** | Malden, MA, US | Hybrid | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
