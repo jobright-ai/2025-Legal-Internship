@@ -63,7 +63,6 @@ For a complete list, click the following sortable link below:
 | **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a2d1cb8c260bb1b8ae184f4?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Jun 13 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/6a2cbb55c260bb1b8ae17966?utm_campaign=1055&utm_source=git)** | Garden Grove, CA | On Site | Jun 12 |
 | **[OfferUp](https://offerup.com)** | **[Legal Intern- Summer 2026 (Hybrid @ Bellevue, WA)](https://jobright.ai/jobs/info/6a2ccd15d3ec94183f4be66a?utm_campaign=1055&utm_source=git)** | Bellevue, WA | Hybrid | Jun 12 |
-| **[Tanner-Flomberg Law Group](www.tannerflomberg.com)** | **[Legal Assistant Intern](https://jobright.ai/jobs/info/6a2cb38d7cd40a338fae787d?utm_campaign=1055&utm_source=git)** | Chicago, IL | Hybrid | Jun 12 |
 | **[King County Sheriff's Office](https://www.kingcounty.gov/depts/sheriff.aspx)** | **[Rule 9 Legal Interns for Summer 2027 - Civil Division - Recruiting Rising 2Ls](https://jobright.ai/jobs/info/6a2d02aec260bb1b8ae182f6?utm_campaign=1055&utm_source=git)** | Seattle, WA | On Site | Jun 12 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - CAFL Appeals Unit Worcester - Fall 2026](https://jobright.ai/jobs/info/6a2cacfea1d15e3c552fcdd2?utm_campaign=1055&utm_source=git)** | Worcester, MA | On Site | Jun 12 |
 | ↳ | **[Internship - PDD Lowell - Fall 2026](https://jobright.ai/jobs/info/6a2c2000fc06447490548535?utm_campaign=1055&utm_source=git)** | Lowell, MA, US | On Site | Jun 12 |
@@ -126,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Liebherr USA](https://www.liebherr.com/en-us/group/start-page-3782471)** | **[Intern - Contract Management](https://jobright.ai/jobs/info/6a2899fd2d6c332ee52e7192?utm_campaign=1055&utm_source=git)** | Newport News, VA | On Site | Jun 09 |
 | **[Elevate](http://elevate.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a0bd82fa235d749afa88e86?utm_campaign=1055&utm_source=git)** | Addison, TX | On Site | Jun 09 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Abortion Criminal Defense Initiative](https://jobright.ai/jobs/info/6a28736940ac8e32932a1a69?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 09 |
-| ↳ | **[Fall 2026 Legal Intern, Litigation Department](https://jobright.ai/jobs/info/6a2873672d6c332ee52e6225?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Abortion Criminal Defense Initiative](https://jobright.ai/jobs/info/6a28736740ac8e32932a1a67?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-Washington D.C. | Remote | Jun 09 |
+| ↳ | **[Fall 2026 Legal Intern, Litigation Department](https://jobright.ai/jobs/info/6a2873672d6c332ee52e6225?utm_campaign=1055&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Litigation Department](https://jobright.ai/jobs/info/6a2873662d6c332ee52e6224?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Criminal Law Reform Project](https://jobright.ai/jobs/info/6a2873631dbd8437bebcb488?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 09 |
 | ↳ | **[Fall Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a287362fd37e62bb47a93d8?utm_campaign=1055&utm_source=git)** | Hybrid- New York City | Hybrid | Jun 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Palm Beach County Public Defender's Office, 15th Judicial Circuit](https://pd15.org/index.htm)** | **[Certified Legal Intern: Academic Year 2026-2027](https://jobright.ai/jobs/info/6a281e4bfd37e62bb47a6ae0?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL | On Site | Jun 09 |
 | **[IGT](http://www.gtech.com)** | **[Intern Technical](https://jobright.ai/jobs/info/6a0c08370411d7417a1b56f5?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Jun 09 |
 | ↳ | **[Intern Technical](https://jobright.ai/jobs/info/6a0ba7154d93203636873089?utm_campaign=1055&utm_source=git)** | Las Vegas, NV, US, 89113 | On Site | Jun 09 |
+| **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Summer 2026 Internship, Democracy and Security Network, Legal](https://jobright.ai/jobs/info/6a272c407d827633afff92c8?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
