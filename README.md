@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Seattle](http://www.seattle.gov/)** | **[Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/6a10ee7783d71442898291a9?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Jun 13 |
 | **[Catalent](https://www.catalent.com)** | **[Legal Intern (Summer)](https://jobright.ai/jobs/info/6a209b28902d19201c7b3743?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ, US | On Site | Jun 13 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a72b7a37c712687d3884?utm_campaign=1055&utm_source=git)** | Union, OH | On Site | Jun 13 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Jun 13 |
@@ -82,8 +83,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship – UDX Operational Alignment & Compliance, Part-Time (Spring 2027)](https://jobright.ai/jobs/info/6a2bb833c07d4b6ae1c4b5c4?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | **[Law Offices of Sabrina Li, P.C.](https://www.sabrinali.law)** | **[Bilingual Legal Intern (Spanish)](https://jobright.ai/jobs/info/6a2b91771de59e0682a89c14?utm_campaign=1055&utm_source=git)** | Dallas, Texas, United States | On Site | Jun 11 |
 | **[Boston Consulting Group (BCG)](https://www.allofus.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a2bba6e2cde2824469c747f?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jun 11 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Fall 2026 - PDD Brockton](https://jobright.ai/jobs/info/6a2acf64d3ec8317fe145271?utm_campaign=1055&utm_source=git)** | Brockton, MA, US | On Site | Jun 11 |
-| ↳ | **[Internship - Fall 2026 - MHLD Brockton Commitment Unit](https://jobright.ai/jobs/info/6a2acf750ad4053b108c8d66?utm_campaign=1055&utm_source=git)** | Boston, MA, US | On Site | Jun 11 |
+| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Fall 2026 - MHLD Brockton Commitment Unit](https://jobright.ai/jobs/info/6a2acf750ad4053b108c8d66?utm_campaign=1055&utm_source=git)** | Boston, MA, US | On Site | Jun 11 |
+| ↳ | **[Internship Fall 2026 - PDD Brockton](https://jobright.ai/jobs/info/6a2acf64d3ec8317fe145271?utm_campaign=1055&utm_source=git)** | Brockton, MA, US | On Site | Jun 11 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Fall 2026 - Ethics & Compliance Student Internship](https://jobright.ai/jobs/info/6a264ca7dedf78312c7b1ab7?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Jun 11 |
 | **[Universal Creative](https://linktr.ee/universalcreative)** | **[Internship, Universal Creative – Legal Affairs (Spring 2027)](https://jobright.ai/jobs/info/6a2b1e371de59e0682a881dd?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Jun 11 |
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a2b019bd3ec8317fe1467eb?utm_campaign=1055&utm_source=git)** | Windsor Mill, MD 21224 | Remote | Jun 11 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Legal Intern, Criminal Law Reform Project](https://jobright.ai/jobs/info/6a2873631dbd8437bebcb488?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 09 |
 | ↳ | **[Fall Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a287362fd37e62bb47a93d8?utm_campaign=1055&utm_source=git)** | Hybrid- New York City | Hybrid | Jun 09 |
 | ↳ | **[Fall Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a287362fd37e62bb47a93d7?utm_campaign=1055&utm_source=git)** | Hybrid- Durham, N.C. | Hybrid | Jun 09 |
-| ↳ | **[Fall 2026 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/6a287360883c0d3be6542205?utm_campaign=1055&utm_source=git)** | Hybrid-Washington D.C. | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Criminal Law Reform Project](https://jobright.ai/jobs/info/6a2873601dbd8437bebcb484?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-Washington DC | Remote | Jun 09 |
+| ↳ | **[Fall 2026 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/6a287360883c0d3be6542205?utm_campaign=1055&utm_source=git)** | Hybrid-Washington D.C. | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, State Supreme Court Initiative](https://jobright.ai/jobs/info/6a28735ffd37e62bb47a93d4?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/6a28735e883c0d3be6542204?utm_campaign=1055&utm_source=git)** | Hybrid-New York City | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026 Legal Intern, Disability Rights Program](https://jobright.ai/jobs/info/6a28735cfd37e62bb47a93d1?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-Washington D.C. | Remote | Jun 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Palm Beach County Public Defender's Office, 15th Judicial Circuit](https://pd15.org/index.htm)** | **[Certified Legal Intern: Academic Year 2026-2027](https://jobright.ai/jobs/info/6a281e4bfd37e62bb47a6ae0?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL | On Site | Jun 09 |
 | **[IGT](http://www.gtech.com)** | **[Intern Technical](https://jobright.ai/jobs/info/6a0c08370411d7417a1b56f5?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Jun 09 |
 | ↳ | **[Intern Technical](https://jobright.ai/jobs/info/6a0ba7154d93203636873089?utm_campaign=1055&utm_source=git)** | Las Vegas, NV, US, 89113 | On Site | Jun 09 |
-| **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Summer 2026 Internship, Democracy and Security Network, Legal](https://jobright.ai/jobs/info/6a272c407d827633afff92c8?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
