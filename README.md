@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Evaluation, Compliance, and Risk Management Intern Job ID : 279371](https://jobright.ai/jobs/info/6a31acba35e80310003a8897?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jun 16 |
+| **[Inland Empire Utilities Agency](https://www.ieua.org/)** | **[Intern (Contracts & Procurement)](https://jobright.ai/jobs/info/6a31a99159588169700160fc?utm_campaign=1055&utm_source=git)** | Chino, CA | On Site | Jun 16 |
+| **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a31a210c477a5075f48e325?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jun 16 |
 | **[Monachus Solutions](https://monachus.co)** | **[Governance, Risk & Compliance Intern](https://jobright.ai/jobs/info/6a31a025c477a5075f48e286?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 16 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern (Contracts & Procurement)](https://jobright.ai/jobs/info/6a3196832ee3ac1b4beefd01?utm_campaign=1055&utm_source=git)** | 6075 Kimball Ave., Chino, CA 91708 | On Site | Jun 16 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, SCOTUS](https://jobright.ai/jobs/info/6a3192780ff23769fdb1ed14?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 16 |
@@ -73,7 +76,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - PDD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a314a2a2ee3ac1b4beedfa6?utm_campaign=1055&utm_source=git)** | Worcester, MA | On Site | Jun 16 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Legal & Compliance](https://jobright.ai/jobs/info/6a3123830ff23769fdb1c3cf?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 16 |
 | **[S3 AeroDefense](https://s3aerodefense.com/company/)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/6a30828e524fd5657fe115b9?utm_campaign=1055&utm_source=git)** | Milwaukee,WI,US | On Site | Jun 15 |
-| **[Moskowitz Legal Group, LLP](http://moskowitzlegalgroup.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6a308b5dafabbe533fb8bab5?utm_campaign=1055&utm_source=git)** | Hewlett, NY | On Site | Jun 15 |
 | **[Dialight](http://www.dialight.com/)** | **[GRC/SOC Intern](https://jobright.ai/jobs/info/6a306e14afabbe533fb8b166?utm_campaign=1055&utm_source=git)** | Farmingdale, NJ, US | On Site | Jun 15 |
 | **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6a3028f7afabbe533fb8953f?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Jun 15 |
 | **[CIBC](https://www.cibc.com)** | **[Procurement Associate Co-op](https://jobright.ai/jobs/info/6a30289a43732c05812e0c9e?utm_campaign=1055&utm_source=git)** | Toronto, ON, CA | On Site | Jun 15 |
