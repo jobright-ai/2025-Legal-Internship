@@ -140,6 +140,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Legal Affairs Internship– Fall 2026](https://jobright.ai/jobs/info/6a2994f32cde2824469bd208?utm_campaign=1055&utm_source=git)** | Headquarters, 1615 H Street, NW, Washington, District Of Columbia, United States of America | Hybrid | Jun 10 |
 | **[EnergyHub](http://www.energyhub.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a298ca4c07d4b6ae1c41149?utm_campaign=1055&utm_source=git)** | Brooklyn, New York | On Site | Jun 10 |
 | ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a2980c20c4972328e7e3cb4?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Jun 10 |
-| **[American Modern Insurance Group](https://www.amig.com/)** | **[Legal Research Intern Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a2920be40ac8e32932a5687?utm_campaign=1055&utm_source=git)** | Palo Alto, CA, CA, US | On Site | Jun 10 |
-| ↳ | **[Intern - Financial Compliance Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a2920a8883c0d3be6545f18?utm_campaign=1055&utm_source=git)** | Amelia, OH, US | Hybrid | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
