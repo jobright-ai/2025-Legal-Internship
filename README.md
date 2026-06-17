@@ -57,12 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lyten](http://www.lyten.com)** | **[Intern - Commercial Legal](https://jobright.ai/jobs/info/6a170b195b0a497d52107a74?utm_campaign=1055&utm_source=git)** | San Jose, CA, US | On Site | Jun 16 |
 | **[KNAPP North America](https://knapp.us)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/6a32220459588169700184a0?utm_campaign=1055&utm_source=git)** | Kennesaw, GA, US | On Site | Jun 16 |
 | **[Array Digital Infrastructure, Inc.](https://www.arrayinc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3188e7c477a5075f48d7b9?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3189cde7b7d514a3bd3f05?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
-| **[Sleeper](https://sleeper.com)** | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911b35e80310003a7c26?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 16 |
-| ↳ | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911635e80310003a7c23?utm_campaign=1055&utm_source=git)** | New Jersey | Hybrid | Jun 16 |
+| **[Sleeper](https://sleeper.com)** | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911635e80310003a7c23?utm_campaign=1055&utm_source=git)** | New Jersey | Hybrid | Jun 16 |
+| ↳ | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911b35e80310003a7c26?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 16 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Evaluation, Compliance, and Risk Management Intern Job ID : 279371](https://jobright.ai/jobs/info/6a31acba35e80310003a8897?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jun 16 |
 | **[Inland Empire Utilities Agency](https://www.ieua.org/)** | **[Intern (Contracts & Procurement)](https://jobright.ai/jobs/info/6a31a99159588169700160fc?utm_campaign=1055&utm_source=git)** | Chino, CA | On Site | Jun 16 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a31a210c477a5075f48e325?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jun 16 |
@@ -140,5 +139,4 @@ For a complete list, click the following sortable link below:
 | **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Intern (Practice Manaagement)](https://jobright.ai/jobs/info/6a2995ebd3ec8317fe13ef91?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 10 |
 | **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Legal Affairs Internship– Fall 2026](https://jobright.ai/jobs/info/6a2994f32cde2824469bd208?utm_campaign=1055&utm_source=git)** | Headquarters, 1615 H Street, NW, Washington, District Of Columbia, United States of America | Hybrid | Jun 10 |
 | **[EnergyHub](http://www.energyhub.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a298ca4c07d4b6ae1c41149?utm_campaign=1055&utm_source=git)** | Brooklyn, New York | On Site | Jun 10 |
-| ↳ | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a2980c20c4972328e7e3cb4?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
