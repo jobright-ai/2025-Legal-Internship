@@ -130,6 +130,4 @@ For a complete list, click the following sortable link below:
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Human Rights Program](https://jobright.ai/jobs/info/6a2a321cc07d4b6ae1c44e34?utm_campaign=1055&utm_source=git)** | New York | Hybrid | Jun 10 |
 | **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Legal Affairs Internship– Fall 2026](https://jobright.ai/jobs/info/6a29d913d3ec8317fe140e76?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Jun 10 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, E&C Program & Control (Fall 2026)](https://jobright.ai/jobs/info/6a0e1c50c152ac782448366c?utm_campaign=1055&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 10 |
-| **[FilePoint](http://www.filepoint.com)** | **[Regulatory Production Intern](https://jobright.ai/jobs/info/6a29b345c07d4b6ae1c42513?utm_campaign=1055&utm_source=git)** | Raleigh,NC,US | On Site | Jun 10 |
-| **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1521a1128680351d95f8d4?utm_campaign=1055&utm_source=git)** | Bronx, NY | On Site | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
