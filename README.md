@@ -128,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Palm Beach County](https://discover.pbcgov.org/Pages/default.aspx)** | **[Certified Legal Intern: Academic Year 2026-2027](https://jobright.ai/jobs/info/6a2a4dccc07d4b6ae1c45559?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL | On Site | Jun 10 |
 | **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Public Law & Policy Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2a2cce0c4972328e7e7558?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 10 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Human Rights Program](https://jobright.ai/jobs/info/6a2a321cc07d4b6ae1c44e34?utm_campaign=1055&utm_source=git)** | New York | Hybrid | Jun 10 |
-| **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Legal Affairs Internship– Fall 2026](https://jobright.ai/jobs/info/6a29d913d3ec8317fe140e76?utm_campaign=1055&utm_source=git)** | DC-Baltimore Area | Hybrid | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
