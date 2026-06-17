@@ -126,6 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Syniti](http://www.syniti.com)** | **[Intern Job Details / Syniti](https://jobright.ai/jobs/info/6a2a3d011de59e0682a83be5?utm_campaign=1055&utm_source=git)** | Remote, US | Remote | Jun 10 |
 | **[State of Florida](http://www.myflorida.com)** | **[LAW CLERK INTERNSHIP Job Details / State of Florida](https://jobright.ai/jobs/info/6a2a2a27d3ec8317fe142769?utm_campaign=1055&utm_source=git)** | TALLAHASSEE, FL, US, 32399 | On Site | Jun 10 |
 | **[Palm Beach County](https://discover.pbcgov.org/Pages/default.aspx)** | **[Certified Legal Intern: Academic Year 2026-2027](https://jobright.ai/jobs/info/6a2a4dccc07d4b6ae1c45559?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL | On Site | Jun 10 |
-| **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Public Law & Policy Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2a2cce0c4972328e7e7558?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 10 |
-| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Human Rights Program](https://jobright.ai/jobs/info/6a2a321cc07d4b6ae1c44e34?utm_campaign=1055&utm_source=git)** | New York | Hybrid | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
