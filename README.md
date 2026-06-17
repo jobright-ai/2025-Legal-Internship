@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KNAPP North America](https://knapp.us)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/6a32220459588169700184a0?utm_campaign=1055&utm_source=git)** | Kennesaw, GA, US | On Site | Jun 16 |
 | **[Array Digital Infrastructure, Inc.](https://www.arrayinc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3188e7c477a5075f48d7b9?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3189cde7b7d514a3bd3f05?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
-| **[Sleeper](https://sleeper.com)** | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911b35e80310003a7c26?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 16 |
-| ↳ | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911635e80310003a7c23?utm_campaign=1055&utm_source=git)** | New Jersey | Hybrid | Jun 16 |
+| **[Sleeper](https://sleeper.com)** | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911635e80310003a7c23?utm_campaign=1055&utm_source=git)** | New Jersey | Hybrid | Jun 16 |
+| ↳ | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911b35e80310003a7c26?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 16 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Evaluation, Compliance, and Risk Management Intern Job ID : 279371](https://jobright.ai/jobs/info/6a31acba35e80310003a8897?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jun 16 |
 | **[Inland Empire Utilities Agency](https://www.ieua.org/)** | **[Intern (Contracts & Procurement)](https://jobright.ai/jobs/info/6a31a99159588169700160fc?utm_campaign=1055&utm_source=git)** | Chino, CA | On Site | Jun 16 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a31a210c477a5075f48e325?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jun 16 |
@@ -118,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[CAE](http://www.cae.de)** | **[C-DS-115 Contract Administration Internship](https://jobright.ai/jobs/info/6a2afcdcc07d4b6ae1c48800?utm_campaign=1055&utm_source=git)** | Montreal (St. Laurent), CA | Hybrid | Jun 11 |
 | **[Bristol Bay Services](https://www.bbrs-llc.com)** | **[Corporate Internship Program](https://jobright.ai/jobs/info/6a2aec262cde2824469c3ed0?utm_campaign=1055&utm_source=git)** | San Antonio, TX, USA | Hybrid | Jun 11 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a64d7796a83635f09901?utm_campaign=1055&utm_source=git)** | Jacksonville, FL | On Site | Jun 11 |
-| **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[REV Legal Internship](https://jobright.ai/jobs/info/6a2ac1b29bf7365df089a2fd?utm_campaign=1055&utm_source=git)** | Arlington, TX, US | On Site | Jun 11 |
 | **[Everllence](https://www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Jun 11 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[LCD BSA/AML Compliance Intern](https://jobright.ai/jobs/info/6a2ab4fac07d4b6ae1c46d29?utm_campaign=1055&utm_source=git)** | US-IL-Chicago | On Site | Jun 11 |
 | ↳ | **[LCD BSA/AML Compliance Intern](https://jobright.ai/jobs/info/6a2ab4f7c07d4b6ae1c46d28?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | On Site | Jun 11 |
