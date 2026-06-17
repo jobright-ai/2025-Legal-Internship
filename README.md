@@ -64,8 +64,8 @@ For a complete list, click the following sortable link below:
 | **[NYC Campaign Finance Board](http://www.nyccfb.info/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a32c69b649fdf16292ee8b7?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Jun 17 |
 | **[Array Digital Infrastructure, Inc.](https://www.arrayinc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3188e7c477a5075f48d7b9?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3189cde7b7d514a3bd3f05?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
-| **[Sleeper](https://sleeper.com)** | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911b35e80310003a7c26?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 16 |
-| ↳ | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911635e80310003a7c23?utm_campaign=1055&utm_source=git)** | New Jersey | Hybrid | Jun 16 |
+| **[Sleeper](https://sleeper.com)** | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911635e80310003a7c23?utm_campaign=1055&utm_source=git)** | New Jersey | Hybrid | Jun 16 |
+| ↳ | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911b35e80310003a7c26?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 16 |
 | **[Inland Empire Utilities Agency](https://www.ieua.org/)** | **[Intern (Contracts & Procurement)](https://jobright.ai/jobs/info/6a31a99159588169700160fc?utm_campaign=1055&utm_source=git)** | Chino, CA | On Site | Jun 16 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a31a210c477a5075f48e325?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jun 16 |
 | **[Monachus Solutions](https://monachus.co)** | **[Governance, Risk & Compliance Intern](https://jobright.ai/jobs/info/6a31a025c477a5075f48e286?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 16 |
@@ -129,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Prosperity Life](https://prosperitylife.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a2aa00ed3ec8317fe14450a?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 11 |
 | **[Syniti](http://www.syniti.com)** | **[Intern Job Details / Syniti](https://jobright.ai/jobs/info/6a2a3d011de59e0682a83be5?utm_campaign=1055&utm_source=git)** | Remote, US | Remote | Jun 10 |
 | **[State of Florida](http://www.myflorida.com)** | **[LAW CLERK INTERNSHIP Job Details / State of Florida](https://jobright.ai/jobs/info/6a2a2a27d3ec8317fe142769?utm_campaign=1055&utm_source=git)** | TALLAHASSEE, FL, US, 32399 | On Site | Jun 10 |
-| **[Palm Beach County](https://discover.pbcgov.org/Pages/default.aspx)** | **[Certified Legal Intern: Academic Year 2026-2027](https://jobright.ai/jobs/info/6a2a4dccc07d4b6ae1c45559?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL | On Site | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
