@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Array Digital Infrastructure, Inc.](https://www.arrayinc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3188e7c477a5075f48d7b9?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3189cde7b7d514a3bd3f05?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
 | **[Sleeper](https://sleeper.com)** | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911b35e80310003a7c26?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 16 |
 | ↳ | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911635e80310003a7c23?utm_campaign=1055&utm_source=git)** | New Jersey | Hybrid | Jun 16 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern (Contracts & Procurement)](https://jobright.ai/jobs/info/6a3196832ee3ac1b4beefd01?utm_campaign=1055&utm_source=git)** | 6075 Kimball Ave., Chino, CA 91708 | On Site | Jun 16 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, SCOTUS](https://jobright.ai/jobs/info/6a3192780ff23769fdb1ed14?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-New York City | Remote | Jun 16 |
 | ↳ | **[Fall 2026 Legal Intern, SCOTUS](https://jobright.ai/jobs/info/6a3192770ff23769fdb1ed13?utm_campaign=1055&utm_source=git)** | Remote/Hybrid-San Francisco, CA | Remote | Jun 16 |
-| **[Array Digital Infrastructure, Inc.](https://www.arrayinc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3188e7c477a5075f48d7b9?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
 | **[Legacy.com](https://www.legacy.com/)** | **[Intern-Legal](https://jobright.ai/jobs/info/6a3186e5e7b7d514a3bd3e26?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
 | **[Michigan Supreme Court](https://www.courts.michigan.gov)** | **[Fall 2026 Internship to Justice Elizabeth M. Welch](https://jobright.ai/jobs/info/6a3178cf2ee3ac1b4beef00f?utm_campaign=1055&utm_source=git)** | Lansing, MI | Hybrid | Jun 16 |
 | **[Wheels Up](http://wheelsup.com/)** | **[Legal Team Intern - Fall 2026](https://jobright.ai/jobs/info/6a3174e1e7b7d514a3bd3764?utm_campaign=1055&utm_source=git)** | US | On Site | Jun 16 |
@@ -87,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[Global Trade Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/69d95303738f2f099e8a0ff5?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jun 15 |
 | **[Northern News Services](https://www.nnsl.com/)** | **[Various Positions](https://jobright.ai/jobs/info/6a2fd7adeace377055eb3887?utm_campaign=1055&utm_source=git)** | Yellowknife, Northwest Territories, Canada | On Site | Jun 14 |
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a2b019bd3ec8317fe1467eb?utm_campaign=1055&utm_source=git)** | Windsor Mill, MD 21224 | Remote | Jun 14 |
+| **[OfferUp](https://offerup.com)** | **[Legal Intern - Summer 2026 (Hybrid @ Bellevue, WA)](https://jobright.ai/jobs/info/6a2ccd15d3ec94183f4be66a?utm_campaign=1055&utm_source=git)** | Bellevue, WA | Hybrid | Jun 13 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/6a10ee7783d71442898291a9?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Jun 13 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | Jun 13 |
 | **[Catalent](https://www.catalent.com)** | **[Legal Intern (Summer)](https://jobright.ai/jobs/info/6a209b28902d19201c7b3743?utm_campaign=1055&utm_source=git)** | Bridgewater, NJ, US | On Site | Jun 13 |
@@ -94,7 +95,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Jun 13 |
 | **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a2d1cb8c260bb1b8ae184f4?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Jun 13 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/6a2cbb55c260bb1b8ae17966?utm_campaign=1055&utm_source=git)** | Garden Grove, CA | On Site | Jun 12 |
-| **[OfferUp](https://offerup.com)** | **[Legal Intern- Summer 2026 (Hybrid @ Bellevue, WA)](https://jobright.ai/jobs/info/6a2ccd15d3ec94183f4be66a?utm_campaign=1055&utm_source=git)** | Bellevue, WA | Hybrid | Jun 12 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Lowell - Fall 2026](https://jobright.ai/jobs/info/6a2c2000fc06447490548535?utm_campaign=1055&utm_source=git)** | Lowell, MA, US | On Site | Jun 12 |
 | **[LawBhoomi](https://lawbhoomi.com/)** | **[Internship Opportunity and Associates at NS Chambers: Apply by June 18](https://jobright.ai/jobs/info/6a2c9d01d3ec94183f4bdc2d?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Jun 12 |
 | **[Ohio Department of Job and Family Services](https://jfs.ohio.gov/)** | **[College Intern (Contracts & Acquisitions) - Fall 2026](https://jobright.ai/jobs/info/6a2c81fef1751b183c818dce?utm_campaign=1055&utm_source=git)** | Ohio, United States | On Site | Jun 12 |
