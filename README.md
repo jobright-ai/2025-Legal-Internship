@@ -65,8 +65,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e5649fdf16292ee8ed?utm_campaign=1055&utm_source=git)** | Hybrid- New York City | Hybrid | Jun 17 |
 | **[Array Digital Infrastructure, Inc.](https://www.arrayinc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3188e7c477a5075f48d7b9?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3189cde7b7d514a3bd3f05?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
-| **[Sleeper](https://sleeper.com)** | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911635e80310003a7c23?utm_campaign=1055&utm_source=git)** | New Jersey | Hybrid | Jun 16 |
-| ↳ | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911b35e80310003a7c26?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 16 |
+| **[Sleeper](https://sleeper.com)** | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911b35e80310003a7c26?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 16 |
+| ↳ | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911635e80310003a7c23?utm_campaign=1055&utm_source=git)** | New Jersey | Hybrid | Jun 16 |
 | **[Inland Empire Utilities Agency](https://www.ieua.org/)** | **[Intern (Contracts & Procurement)](https://jobright.ai/jobs/info/6a31a99159588169700160fc?utm_campaign=1055&utm_source=git)** | Chino, CA | On Site | Jun 16 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a31a210c477a5075f48e325?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jun 16 |
 | **[Monachus Solutions](https://monachus.co)** | **[Governance, Risk & Compliance Intern](https://jobright.ai/jobs/info/6a31a025c477a5075f48e286?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 16 |
@@ -83,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Dialight](http://www.dialight.com/)** | **[GRC/SOC Intern](https://jobright.ai/jobs/info/6a306e14afabbe533fb8b166?utm_campaign=1055&utm_source=git)** | Farmingdale, NJ, US | On Site | Jun 15 |
 | **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6a3028f7afabbe533fb8953f?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Jun 15 |
 | **[CIBC](https://www.cibc.com)** | **[Procurement Associate Co-op](https://jobright.ai/jobs/info/6a30289a43732c05812e0c9e?utm_campaign=1055&utm_source=git)** | Toronto, ON, CA | On Site | Jun 15 |
-| **[Hilcorp](http://www.hilcorp.com)** | **[I-26121 - Compliance Reporting Part-Time Intern](https://jobright.ai/jobs/info/6a30719189f8f147d37358a7?utm_campaign=1055&utm_source=git)** | Anchorage, AK | On Site | Jun 15 |
 | **[Riverside Research](http://riversideresearch.org)** | **[Contracts & Procurement - Intern](https://jobright.ai/jobs/info/6a300ace43732c05812e033b?utm_campaign=1055&utm_source=git)** | Fairfax, VA, US | On Site | Jun 15 |
 | **[Connect Service Solutions](https://connectservicesolutions.com/)** | **[Intern - Risk Management](https://jobright.ai/jobs/info/6a303218afabbe533fb89b11?utm_campaign=1055&utm_source=git)** | Sheridan, AR 72150, USA | On Site | Jun 15 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL | On Site | Jun 15 |
