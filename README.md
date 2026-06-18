@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of New Mexico Foundation, Inc.](https://www.unmfund.org/)** | **[Legal Counsel & HR Intern](https://jobright.ai/jobs/info/6a345ef21232144fb155fc22?utm_campaign=1055&utm_source=git)** | Albuquerque, NM, US | On Site | Jun 18 |
 | **[Wheels Up](http://wheelsup.com/)** | **[Data Privacy - Legal Team Intern (Fall 2026)](https://jobright.ai/jobs/info/6a34493cf6b55d12c791bf0c?utm_campaign=1055&utm_source=git)** | US | On Site | Jun 18 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Fall 2026 Legal Intern, Foreclosure Prevention Project](https://jobright.ai/jobs/info/6a3438b87f3fdd180d4c95f1?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jun 18 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a3437b3f6b55d12c791b99f?utm_campaign=1055&utm_source=git)** | Atlanta, GA, US | On Site | Jun 18 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Ivy Legal, LLC](www.ivylegalllc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a31f412c477a5075f490120?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Jun 16 |
 | **[Array Digital Infrastructure, Inc.](https://www.arrayinc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3188e7c477a5075f48d7b9?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3189cde7b7d514a3bd3f05?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
-| **[Sleeper](https://sleeper.com)** | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911b35e80310003a7c26?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 16 |
-| ↳ | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911635e80310003a7c23?utm_campaign=1055&utm_source=git)** | New Jersey | Hybrid | Jun 16 |
+| **[Sleeper](https://sleeper.com)** | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911635e80310003a7c23?utm_campaign=1055&utm_source=git)** | New Jersey | Hybrid | Jun 16 |
+| ↳ | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911b35e80310003a7c26?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 16 |
 | **[Inland Empire Utilities Agency](https://www.ieua.org/)** | **[Intern (Contracts & Procurement)](https://jobright.ai/jobs/info/6a31a99159588169700160fc?utm_campaign=1055&utm_source=git)** | Chino, CA | On Site | Jun 16 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a31a210c477a5075f48e325?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jun 16 |
 | **[Monachus Solutions](https://monachus.co)** | **[Governance, Risk & Compliance Intern](https://jobright.ai/jobs/info/6a31a025c477a5075f48e286?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 16 |
@@ -122,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a71c7a37c712687d384c?utm_campaign=1055&utm_source=git)** | Stockton, CA | On Site | Jun 12 |
 | **[Schloemer Law Firm, S.C.](https://schloemerlaw.com)** | **[Litigation & Real Estate Attorney](https://jobright.ai/jobs/info/6a2c1c1c7cd40a338fae4b97?utm_campaign=1055&utm_source=git)** | West Bend, WI | On Site | Jun 12 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – UDX Operational Alignment & Compliance, Part-Time (Spring 2027)](https://jobright.ai/jobs/info/6a2bb833c07d4b6ae1c4b5c4?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
-| **[Law Offices of Sabrina Li, P.C.](https://www.sabrinali.law)** | **[Bilingual Legal Intern (Spanish)](https://jobright.ai/jobs/info/6a2b91771de59e0682a89c14?utm_campaign=1055&utm_source=git)** | Dallas, Texas, United States | On Site | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
