@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Political Law Intern](https://jobright.ai/jobs/info/6a31637b0ff23769fdb1dbde?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 17 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a32f65a649fdf16292efd1e?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jun 17 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e9649fdf16292ee8f0?utm_campaign=1055&utm_source=git)** | Remote, Durham, N.C. | Remote | Jun 17 |
 | ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e8649fdf16292ee8ef?utm_campaign=1055&utm_source=git)** | Hybrid- Durham, N.C. | Hybrid | Jun 17 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Legacy.com](https://www.legacy.com/)** | **[Intern-Legal](https://jobright.ai/jobs/info/6a3186e5e7b7d514a3bd3e26?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
 | **[Michigan Supreme Court](https://www.courts.michigan.gov)** | **[Fall 2026 Internship to Justice Elizabeth M. Welch](https://jobright.ai/jobs/info/6a3178cf2ee3ac1b4beef00f?utm_campaign=1055&utm_source=git)** | Lansing, MI | Hybrid | Jun 16 |
 | **[Wheels Up](http://wheelsup.com/)** | **[Legal Team Intern - Fall 2026](https://jobright.ai/jobs/info/6a3174e1e7b7d514a3bd3764?utm_campaign=1055&utm_source=git)** | US | On Site | Jun 16 |
-| **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Political Law Intern](https://jobright.ai/jobs/info/6a31637b0ff23769fdb1dbde?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 16 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a314dd55958816970013f85?utm_campaign=1055&utm_source=git)** | Worcester, MA, US | On Site | Jun 16 |
 | ↳ | **[Internship - PDD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a314a2a2ee3ac1b4beedfa6?utm_campaign=1055&utm_source=git)** | Worcester, MA | On Site | Jun 16 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Legal & Compliance](https://jobright.ai/jobs/info/6a3123830ff23769fdb1c3cf?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 16 |
