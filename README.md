@@ -75,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[NYC Campaign Finance Board](http://www.nyccfb.info/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a33f1c51232144fb155d644?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Jun 17 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e9649fdf16292ee8f0?utm_campaign=1055&utm_source=git)** | Remote, Durham, N.C. | Remote | Jun 17 |
 | ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e8649fdf16292ee8ef?utm_campaign=1055&utm_source=git)** | Hybrid- Durham, N.C. | Hybrid | Jun 17 |
-| ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e5649fdf16292ee8ed?utm_campaign=1055&utm_source=git)** | Hybrid- New York City | Hybrid | Jun 17 |
 | ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e5649fdf16292ee8e9?utm_campaign=1055&utm_source=git)** | Remote, New York City | Remote | Jun 17 |
+| ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e5649fdf16292ee8ed?utm_campaign=1055&utm_source=git)** | Hybrid- New York City | Hybrid | Jun 17 |
 | **[Ivy Legal, LLC](www.ivylegalllc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a31f412c477a5075f490120?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Jun 16 |
 | **[Array Digital Infrastructure, Inc.](https://www.arrayinc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3188e7c477a5075f48d7b9?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3189cde7b7d514a3bd3f05?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
@@ -124,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/69d6ac94366bb95ba554ef8e?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jun 12 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a71c7a37c712687d384c?utm_campaign=1055&utm_source=git)** | Stockton, CA | On Site | Jun 12 |
 | **[Schloemer Law Firm, S.C.](https://schloemerlaw.com)** | **[Litigation & Real Estate Attorney](https://jobright.ai/jobs/info/6a2c1c1c7cd40a338fae4b97?utm_campaign=1055&utm_source=git)** | West Bend, WI | On Site | Jun 12 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – UDX Operational Alignment & Compliance, Part-Time (Spring 2027)](https://jobright.ai/jobs/info/6a2bb833c07d4b6ae1c4b5c4?utm_campaign=1055&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
