@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Danone](http://www.danone.be/fr)** | **[Danone Ventures Legal Intern (H2 2026)](https://jobright.ai/jobs/info/6a1880ebdbc80963f934482e?utm_campaign=1055&utm_source=git)** | New City, NY | On Site | Jun 19 |
+| **[Danone](https://danone.co.uk)** | **[Danone Ventures Legal Intern (H2 2026)](https://jobright.ai/jobs/info/6a1880ebdbc80963f934482e?utm_campaign=1055&utm_source=git)** | New City, NY | On Site | Jun 19 |
 | **[Wheels Up](http://wheelsup.com/)** | **[Data Privacy - Legal Intern (Fall 2026)](https://jobright.ai/jobs/info/6a352df57f3fdd180d4cc998?utm_campaign=1055&utm_source=git)** | US | On Site | Jun 19 |
 | **[BeOne Medicines](https://beonemedicines.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/6a0f384c83d714428981db65?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 19 |
 | **[AMETEK](http://www.ametek.com)** | **[IT Compliance Intern](https://jobright.ai/jobs/info/6a34b21bce501060b5cf22bf?utm_campaign=1055&utm_source=git)** | Berwyn, PA | On Site | Jun 18 |
@@ -78,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Wipfli](http://www.wipfli.com)** | **[IT Procurement Internship](https://jobright.ai/jobs/info/6a180544ac2d34081458adfc?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 18 |
 | ↳ | **[IT Procurement Internship](https://jobright.ai/jobs/info/69fb61d1ffa73664aeaff46b?utm_campaign=1055&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | Jun 18 |
 | **[Washington Lawyers'​ Committee for Civil Rights and Urban Affairs](https://www.washlaw.org/)** | **[DC Area Civil Rights Legal Internship](https://jobright.ai/jobs/info/6a339fa6910b7349107159fa?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 18 |
-| **[Danone](http://www.danone.be/fr)** | **[Regulatory Affairs Intern (Fall 2026)](https://jobright.ai/jobs/info/6a342499649fdf16292f44a4?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 17 |
+| **[Danone](https://danone.co.uk)** | **[Regulatory Affairs Intern (Fall 2026)](https://jobright.ai/jobs/info/6a342499649fdf16292f44a4?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 17 |
 | **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Political Law Intern](https://jobright.ai/jobs/info/6a31637b0ff23769fdb1dbde?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 17 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e9649fdf16292ee8f0?utm_campaign=1055&utm_source=git)** | Remote, Durham, N.C. | Remote | Jun 17 |
 | ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e8649fdf16292ee8ef?utm_campaign=1055&utm_source=git)** | Hybrid- Durham, N.C. | Hybrid | Jun 17 |
@@ -87,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Ivy Legal, LLC](www.ivylegalllc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a31f412c477a5075f490120?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Jun 16 |
 | **[Array Digital Infrastructure, Inc.](https://www.arrayinc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3188e7c477a5075f48d7b9?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3189cde7b7d514a3bd3f05?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
-| **[Sleeper](https://sleeper.com)** | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911b35e80310003a7c26?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 16 |
-| ↳ | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911635e80310003a7c23?utm_campaign=1055&utm_source=git)** | New Jersey | Hybrid | Jun 16 |
+| **[Sleeper](https://sleeper.com)** | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911635e80310003a7c23?utm_campaign=1055&utm_source=git)** | New Jersey | Hybrid | Jun 16 |
+| ↳ | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911b35e80310003a7c26?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 16 |
 | **[Inland Empire Utilities Agency](https://www.ieua.org/)** | **[Intern (Contracts & Procurement)](https://jobright.ai/jobs/info/6a31a99159588169700160fc?utm_campaign=1055&utm_source=git)** | Chino, CA | On Site | Jun 16 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a31a210c477a5075f48e325?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jun 16 |
 | **[Monachus Solutions](https://monachus.co)** | **[Governance, Risk & Compliance Intern](https://jobright.ai/jobs/info/6a31a025c477a5075f48e286?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 16 |
@@ -117,5 +117,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Jun 13 |
 | **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a2d1cb8c260bb1b8ae184f4?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Jun 13 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/6a2cbb55c260bb1b8ae17966?utm_campaign=1055&utm_source=git)** | Garden Grove, CA | On Site | Jun 12 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Lowell - Fall 2026](https://jobright.ai/jobs/info/6a2c2000fc06447490548535?utm_campaign=1055&utm_source=git)** | Lowell, MA, US | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
