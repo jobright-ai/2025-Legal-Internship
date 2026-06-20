@@ -115,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[OfferUp](https://offerup.com)** | **[Legal Intern - Summer 2026 (Hybrid @ Bellevue, WA)](https://jobright.ai/jobs/info/6a2ccd15d3ec94183f4be66a?utm_campaign=1055&utm_source=git)** | Bellevue, WA | Hybrid | Jun 13 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/6a10ee7783d71442898291a9?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Jun 13 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | Jun 13 |
-| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a72b7a37c712687d3884?utm_campaign=1055&utm_source=git)** | Union, OH | On Site | Jun 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
