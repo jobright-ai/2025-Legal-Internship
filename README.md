@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[College Intern (Contracts & Acquisitions) - Fall 2026](https://jobright.ai/jobs/info/6a361fcf7f3fdd180d4cf86e?utm_campaign=1055&utm_source=git)** | United States of America-OHIO | On Site | Jun 19 |
 | **[Danone](https://danone.co.uk)** | **[Danone Ventures Legal Intern (H2 2026)](https://jobright.ai/jobs/info/6a1880ebdbc80963f934482e?utm_campaign=1055&utm_source=git)** | New City, NY | On Site | Jun 19 |
 | **[Wheels Up](http://wheelsup.com/)** | **[Data Privacy - Legal Intern (Fall 2026)](https://jobright.ai/jobs/info/6a352df57f3fdd180d4cc998?utm_campaign=1055&utm_source=git)** | US | On Site | Jun 19 |
 | **[BeOne Medicines](https://beonemedicines.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/6a0f384c83d714428981db65?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 19 |
@@ -82,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Political Law Intern](https://jobright.ai/jobs/info/6a31637b0ff23769fdb1dbde?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 17 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e9649fdf16292ee8f0?utm_campaign=1055&utm_source=git)** | Remote, Durham, N.C. | Remote | Jun 17 |
 | ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e8649fdf16292ee8ef?utm_campaign=1055&utm_source=git)** | Hybrid- Durham, N.C. | Hybrid | Jun 17 |
-| ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e5649fdf16292ee8e9?utm_campaign=1055&utm_source=git)** | Remote, New York City | Remote | Jun 17 |
 | ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e5649fdf16292ee8ed?utm_campaign=1055&utm_source=git)** | Hybrid- New York City | Hybrid | Jun 17 |
+| ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e5649fdf16292ee8e9?utm_campaign=1055&utm_source=git)** | Remote, New York City | Remote | Jun 17 |
 | **[Ivy Legal, LLC](www.ivylegalllc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a31f412c477a5075f490120?utm_campaign=1055&utm_source=git)** | Milwaukee, WI | On Site | Jun 16 |
 | **[Array Digital Infrastructure, Inc.](https://www.arrayinc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3188e7c477a5075f48d7b9?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3189cde7b7d514a3bd3f05?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
@@ -115,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[City of Seattle](http://www.seattle.gov/)** | **[Rule 9 Licensed Legal Intern / Criminal Division](https://jobright.ai/jobs/info/6a10ee7783d71442898291a9?utm_campaign=1055&utm_source=git)** | Seattle, WA | Hybrid | Jun 13 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | Jun 13 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a72b7a37c712687d3884?utm_campaign=1055&utm_source=git)** | Union, OH | On Site | Jun 13 |
-| ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Jun 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
