@@ -101,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a314dd55958816970013f85?utm_campaign=1055&utm_source=git)** | Worcester, MA, US | On Site | Jun 16 |
 | ↳ | **[Internship - PDD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a314a2a2ee3ac1b4beedfa6?utm_campaign=1055&utm_source=git)** | Worcester, MA | On Site | Jun 16 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Legal & Compliance](https://jobright.ai/jobs/info/6a3123830ff23769fdb1c3cf?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 16 |
+| **[Lyten](http://www.lyten.com)** | **[Intern - Commercial Legal](https://jobright.ai/jobs/info/6a35e9d429c90c607e4e3fd0?utm_campaign=1055&utm_source=git)** | San Jose, CA, US | On Site | Jun 15 |
 | **[S3 AeroDefense](https://s3aerodefense.com/company/)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/6a30828e524fd5657fe115b9?utm_campaign=1055&utm_source=git)** | Milwaukee,WI,US | On Site | Jun 15 |
 | **[Dialight](http://www.dialight.com/)** | **[GRC/SOC Intern](https://jobright.ai/jobs/info/6a306e14afabbe533fb8b166?utm_campaign=1055&utm_source=git)** | Farmingdale, NJ, US | On Site | Jun 15 |
 | **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6a3028f7afabbe533fb8953f?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Jun 15 |
@@ -115,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | Jun 13 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a72b7a37c712687d3884?utm_campaign=1055&utm_source=git)** | Union, OH | On Site | Jun 13 |
 | ↳ | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Jun 13 |
-| **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a2d1cb8c260bb1b8ae184f4?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Jun 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
