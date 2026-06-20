@@ -113,5 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Colorado Housing and Finance Authority](https://www.chfainfo.com/)** | **[Privacy Program Intern](https://jobright.ai/jobs/info/6a20af20338c01230511afd9?utm_campaign=1055&utm_source=git)** | Denver - Denver, CO 80202 | Hybrid | Jun 15 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Global Trade Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/69d95303738f2f099e8a0ff5?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jun 15 |
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a2b019bd3ec8317fe1467eb?utm_campaign=1055&utm_source=git)** | Windsor Mill, MD 21224 | Remote | Jun 14 |
-| **[OfferUp](https://offerup.com)** | **[Legal Intern - Summer 2026 (Hybrid @ Bellevue, WA)](https://jobright.ai/jobs/info/6a2ccd15d3ec94183f4be66a?utm_campaign=1055&utm_source=git)** | Bellevue, WA | Hybrid | Jun 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
