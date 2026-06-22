@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d67029111f771d1a189cf?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Jun 22 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Compliance and Regulation Internship - Fall 2026](https://jobright.ai/jobs/info/6a392af906a4fd4b1fab8aed?utm_campaign=1055&utm_source=git)** | Lansing, MI | Hybrid | Jun 22 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Fall 2026 Legal Intern, Community Access Programs Unit](https://jobright.ai/jobs/info/6a390e381232144fb1569921?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[Cedar Employment Law, APC](https://grow.clio.com/form_templates/167876)** | **[2L or 3L Legal Intern](https://jobright.ai/jobs/info/6a38b0d8ce501060b5cf9e52?utm_campaign=1055&utm_source=git)** | California, United States | On Site | Jun 21 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Fall 2026 Legal Intern, Community Access Programs Unit](https://jobright.ai/jobs/info/6a3912daa0f3e56e86d6ecdc?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jun 21 |
-| **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a383926649fdf16292fe197?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jun 21 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Jun 21 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69ba304056973837413faf8b?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Jun 21 |
 | **[Evangelical Council for Abuse Prevention](http://www.ecap.net)** | **[Law Student Internship](https://jobright.ai/jobs/info/6a36ebeba0f3e56e86d6c094?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Jun 20 |
@@ -113,6 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Lyten](http://www.lyten.com)** | **[Intern - Commercial Legal](https://jobright.ai/jobs/info/6a35e9d429c90c607e4e3fd0?utm_campaign=1055&utm_source=git)** | San Jose, CA, US | On Site | Jun 15 |
 | **[S3 AeroDefense](https://s3aerodefense.com/company/)** | **[Trade Compliance Intern](https://jobright.ai/jobs/info/6a30828e524fd5657fe115b9?utm_campaign=1055&utm_source=git)** | Milwaukee,WI,US | On Site | Jun 15 |
 | **[Dialight](http://www.dialight.com/)** | **[GRC/SOC Intern](https://jobright.ai/jobs/info/6a306e14afabbe533fb8b166?utm_campaign=1055&utm_source=git)** | Farmingdale, NJ, US | On Site | Jun 15 |
-| **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6a3028f7afabbe533fb8953f?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Jun 15 |
-| **[CIBC](https://www.cibc.com)** | **[Procurement Associate Co-op](https://jobright.ai/jobs/info/6a30289a43732c05812e0c9e?utm_campaign=1055&utm_source=git)** | Toronto, ON, CA | On Site | Jun 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
