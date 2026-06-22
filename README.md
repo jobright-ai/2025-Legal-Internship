@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Busek](http://busek.com)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/6a0489096c07461fe170df9d?utm_campaign=1055&utm_source=git)** | Natick, MA | On Site | Jun 22 |
 | **[LangPal](https://www.lang-pal.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a398ffe06a4fd4b1fabacd4?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 22 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a398ddf649fdf16293018eb?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jun 22 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/6a394f526484fb75f2b30ad2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 22 |
@@ -77,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Danone](https://danone.co.uk)** | **[Danone Ventures Legal Intern (H2 2026)](https://jobright.ai/jobs/info/6a1880ebdbc80963f934482e?utm_campaign=1055&utm_source=git)** | New City, NY | On Site | Jun 19 |
 | **[Wheels Up](http://wheelsup.com/)** | **[Data Privacy - Legal Intern (Fall 2026)](https://jobright.ai/jobs/info/6a352df57f3fdd180d4cc998?utm_campaign=1055&utm_source=git)** | US | On Site | Jun 19 |
 | **[BeOne Medicines](https://beonemedicines.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/6a0f384c83d714428981db65?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 19 |
-| **[AMETEK](http://www.ametek.com)** | **[IT Compliance Intern](https://jobright.ai/jobs/info/6a34b21bce501060b5cf22bf?utm_campaign=1055&utm_source=git)** | Berwyn, PA | On Site | Jun 18 |
 | **[Shield HealthCare - Medical Supplies for Care at Home Since 1957](http://shieldhealthcare.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a3495b7f6b55d12c791d754?utm_campaign=1055&utm_source=git)** | Valencia, CA, US | On Site | Jun 18 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Mental Health Litigation Division Brockton - Fall 2026](https://jobright.ai/jobs/info/6a34979f29c90c607e4dfeb6?utm_campaign=1055&utm_source=git)** | Brockton, MA | On Site | Jun 18 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Reproductive Rights and Health Legal Internship](https://jobright.ai/jobs/info/6a34773a649fdf16292f619d?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jun 18 |
@@ -87,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a3437b3f6b55d12c791b99f?utm_campaign=1055&utm_source=git)** | Atlanta, GA, US | On Site | Jun 18 |
 | **[Novastone Capital Advisors](https://www.novastone-ca.com)** | **[Internship: Legal/Paralegal](https://jobright.ai/jobs/info/6a3428e0649fdf16292f45ed?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Franklin County Data Center (FCDC)](https://datacenter.franklincountyohio.gov)** | **[2026 Fall Legal Intern](https://jobright.ai/jobs/info/6a342536f6b55d12c791b40e?utm_campaign=1055&utm_source=git)** | Columbus, OH 43215, USA | On Site | Jun 18 |
-| **[UDT](http://www.udtonline.com)** | **[Intern - Legal](https://jobright.ai/jobs/info/6a346d2e1232144fb156000c?utm_campaign=1055&utm_source=git)** | Miramar, FL | On Site | Jun 18 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Mental Health Litigation Division Brockton - Fall 2026](https://jobright.ai/jobs/info/6a3409b51232144fb155dd76?utm_campaign=1055&utm_source=git)** | Brockton, MA, US | On Site | Jun 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Arbitration Strategy Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a34023ace501060b5ceedd6?utm_campaign=1055&utm_source=git)** | Los Angeles | On Site | Jun 18 |
 | **[Wipfli](http://www.wipfli.com)** | **[IT Procurement Internship](https://jobright.ai/jobs/info/6a180544ac2d34081458adfc?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 18 |
@@ -97,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Political Law Intern](https://jobright.ai/jobs/info/6a31637b0ff23769fdb1dbde?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 17 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e9649fdf16292ee8f0?utm_campaign=1055&utm_source=git)** | Remote, Durham, N.C. | Remote | Jun 17 |
 | ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e8649fdf16292ee8ef?utm_campaign=1055&utm_source=git)** | Hybrid- Durham, N.C. | Hybrid | Jun 17 |
-| ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e5649fdf16292ee8e9?utm_campaign=1055&utm_source=git)** | Remote, New York City | Remote | Jun 17 |
 | ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e5649fdf16292ee8ed?utm_campaign=1055&utm_source=git)** | Hybrid- New York City | Hybrid | Jun 17 |
+| ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e5649fdf16292ee8e9?utm_campaign=1055&utm_source=git)** | Remote, New York City | Remote | Jun 17 |
 | **[Array Digital Infrastructure, Inc.](https://www.arrayinc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3188e7c477a5075f48d7b9?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3189cde7b7d514a3bd3f05?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
 | **[Sleeper](https://sleeper.com)** | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911635e80310003a7c23?utm_campaign=1055&utm_source=git)** | New Jersey | Hybrid | Jun 16 |
