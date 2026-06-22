@@ -89,6 +89,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e8649fdf16292ee8ef?utm_campaign=1055&utm_source=git)** | Hybrid- Durham, N.C. | Hybrid | Jun 17 |
 | ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e5649fdf16292ee8e9?utm_campaign=1055&utm_source=git)** | Remote, New York City | Remote | Jun 17 |
 | ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e5649fdf16292ee8ed?utm_campaign=1055&utm_source=git)** | Hybrid- New York City | Hybrid | Jun 17 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Evaluation, Compliance, and Risk Management Intern Job ID : 279371](https://jobright.ai/jobs/info/6a387e19a0f3e56e86d6df4d?utm_campaign=1055&utm_source=git)** | New York, United States | On Site | Jun 16 |
 | **[Array Digital Infrastructure, Inc.](https://www.arrayinc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3188e7c477a5075f48d7b9?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3189cde7b7d514a3bd3f05?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
 | **[Sleeper](https://sleeper.com)** | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911b35e80310003a7c26?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 16 |
