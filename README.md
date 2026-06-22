@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rackspace Technology](https://www.rackspace.com)** | **[Privacy - Legal Intern](https://jobright.ai/jobs/info/6a39b58f1232144fb156cfea?utm_campaign=1055&utm_source=git)** | US-Work from Home, US | Remote | Jun 22 |
+| **[Palm Beach County](https://discover.pbcgov.org/Pages/default.aspx)** | **[Certified Legal Intern: Academic Year 2026-2027](https://jobright.ai/jobs/info/6a39ab5706a4fd4b1fabb8bf?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL | On Site | Jun 22 |
 | **[Busek](http://busek.com)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/6a0489096c07461fe170df9d?utm_campaign=1055&utm_source=git)** | Natick, MA | On Site | Jun 22 |
 | **[LangPal](https://www.lang-pal.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a398ffe06a4fd4b1fabacd4?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 22 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a398ddf649fdf16293018eb?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jun 22 |
