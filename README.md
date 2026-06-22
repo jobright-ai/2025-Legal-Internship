@@ -113,5 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Dialight](http://www.dialight.com/)** | **[GRC/SOC Intern](https://jobright.ai/jobs/info/6a306e14afabbe533fb8b166?utm_campaign=1055&utm_source=git)** | Farmingdale, NJ, US | On Site | Jun 15 |
 | **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6a3028f7afabbe533fb8953f?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Jun 15 |
 | **[CIBC](https://www.cibc.com)** | **[Procurement Associate Co-op](https://jobright.ai/jobs/info/6a30289a43732c05812e0c9e?utm_campaign=1055&utm_source=git)** | Toronto, ON, CA | On Site | Jun 15 |
-| **[Riverside Research](http://riversideresearch.org)** | **[Contracts & Procurement - Intern](https://jobright.ai/jobs/info/6a300ace43732c05812e033b?utm_campaign=1055&utm_source=git)** | Fairfax, VA, US | On Site | Jun 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
