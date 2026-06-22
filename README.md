@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/6a394f526484fb75f2b30ad2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 22 |
+| ↳ | **[Fall 2026 Legal Department Undergraduate Internship](https://jobright.ai/jobs/info/6a394bdaf6b55d12c792715b?utm_campaign=1055&utm_source=git)** | Washington D.C., DC | On Site | Jun 22 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d67029111f771d1a189cf?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Jun 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Compliance and Regulation Internship - Fall 2026](https://jobright.ai/jobs/info/6a392af906a4fd4b1fab8aed?utm_campaign=1055&utm_source=git)** | Lansing, MI | Hybrid | Jun 22 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Fall 2026 Legal Intern, Community Access Programs Unit](https://jobright.ai/jobs/info/6a390e381232144fb1569921?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 22 |
