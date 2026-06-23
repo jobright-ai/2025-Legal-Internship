@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Legal Services Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3a9337dbedbf5680c70049?utm_campaign=1055&utm_source=git)** | Silver Spring, MD, United States | Hybrid | Jun 23 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a39d8ab06a4fd4b1fabc488?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Jun 22 |
 | **[ENGIE](http://www.engie.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a39d6a36484fb75f2b33d54?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | Hybrid | Jun 22 |
 | **[Rackspace Technology](https://www.rackspace.com)** | **[Privacy - Legal Intern](https://jobright.ai/jobs/info/6a39b58f1232144fb156cfea?utm_campaign=1055&utm_source=git)** | US-Work from Home, US | Remote | Jun 22 |
@@ -100,5 +101,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e8649fdf16292ee8ef?utm_campaign=1055&utm_source=git)** | Hybrid- Durham, N.C. | Hybrid | Jun 17 |
 | ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e5649fdf16292ee8ed?utm_campaign=1055&utm_source=git)** | Hybrid- New York City | Hybrid | Jun 17 |
 | ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e5649fdf16292ee8e9?utm_campaign=1055&utm_source=git)** | Remote, New York City | Remote | Jun 17 |
-| **[Array Digital Infrastructure, Inc.](https://www.arrayinc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3188e7c477a5075f48d7b9?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
