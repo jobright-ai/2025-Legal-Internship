@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dolby Laboratories](http://www.dolby.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3af18a06a4fd4b1fabfa75?utm_campaign=1055&utm_source=git)** | San Francisco, US | Hybrid | Jun 23 |
+| **[Central Garden & Pet](http://www.central.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3aec06dbedbf5680c71d0d?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA, United States | On Site | Jun 23 |
 | **[Americans United for Separation of Church and State](https://www.au.org/)** | **[Fall/Spring Constitutional Litigation Internships](https://jobright.ai/jobs/info/6a3ab781dbedbf5680c70adf?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 23 |
 | ↳ | **[2027 Summer Constitutional Litigation Internship](https://jobright.ai/jobs/info/6a3ab77bdd879c60912b0060?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 23 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal and Compliance Department - Compliance Training Team Intern](https://jobright.ai/jobs/info/6a3ab4c01232144fb156f8d1?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 23 |
