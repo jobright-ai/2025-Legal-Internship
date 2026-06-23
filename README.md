@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Americans United for Separation of Church and State](https://www.au.org/)** | **[Fall/Spring Constitutional Litigation Internships](https://jobright.ai/jobs/info/6a3ab781dbedbf5680c70adf?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 23 |
+| ↳ | **[2027 Summer Constitutional Litigation Internship](https://jobright.ai/jobs/info/6a3ab77bdd879c60912b0060?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 23 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal and Compliance Department - Compliance Training Team Intern](https://jobright.ai/jobs/info/6a3ab4c01232144fb156f8d1?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 23 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Legal Services Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3a9337dbedbf5680c70049?utm_campaign=1055&utm_source=git)** | Silver Spring, MD, United States | Hybrid | Jun 23 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a39d8ab06a4fd4b1fabc488?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Jun 22 |
 | **[ENGIE](http://www.engie.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a39d6a36484fb75f2b33d54?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | Hybrid | Jun 22 |
