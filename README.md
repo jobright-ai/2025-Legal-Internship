@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SCIENTIFIC GAMES](https://www.scientificgames.com/)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6a3af70606a4fd4b1fabfc34?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | On Site | Jun 23 |
+| **[Lighthouse Immigrant Advocates](http://lia-michigan.org)** | **[Legal Services Intern](https://jobright.ai/jobs/info/6a3af68d1232144fb157102f?utm_campaign=1055&utm_source=git)** | Holland, MI | On Site | Jun 23 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3af18a06a4fd4b1fabfa75?utm_campaign=1055&utm_source=git)** | San Francisco, US | Hybrid | Jun 23 |
 | **[Central Garden & Pet](http://www.central.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3aec06dbedbf5680c71d0d?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA, United States | On Site | Jun 23 |
+| **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a3afbc5797099171917cb5a?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jun 23 |
 | **[Americans United for Separation of Church and State](https://www.au.org/)** | **[Fall/Spring Constitutional Litigation Internships](https://jobright.ai/jobs/info/6a3ab781dbedbf5680c70adf?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 23 |
 | ↳ | **[2027 Summer Constitutional Litigation Internship](https://jobright.ai/jobs/info/6a3ab77bdd879c60912b0060?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 23 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal and Compliance Department - Compliance Training Team Intern](https://jobright.ai/jobs/info/6a3ab4c01232144fb156f8d1?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 23 |
@@ -104,6 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Political Law Intern](https://jobright.ai/jobs/info/6a31637b0ff23769fdb1dbde?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 17 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e9649fdf16292ee8f0?utm_campaign=1055&utm_source=git)** | Remote, Durham, N.C. | Remote | Jun 17 |
 | ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e8649fdf16292ee8ef?utm_campaign=1055&utm_source=git)** | Hybrid- Durham, N.C. | Hybrid | Jun 17 |
-| ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e5649fdf16292ee8e9?utm_campaign=1055&utm_source=git)** | Remote, New York City | Remote | Jun 17 |
 | ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e5649fdf16292ee8ed?utm_campaign=1055&utm_source=git)** | Hybrid- New York City | Hybrid | Jun 17 |
+| ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e5649fdf16292ee8e9?utm_campaign=1055&utm_source=git)** | Remote, New York City | Remote | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
