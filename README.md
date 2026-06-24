@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hernandez Consulting & Construction](https://www.hernandezconsulting.com/)** | **[JD/MBA Legal & Finance Intern](https://jobright.ai/jobs/info/6a3b5aa6dd879c60912b2a9b?utm_campaign=1055&utm_source=git)** | New Orleans, LA | On Site | Jun 23 |
 | **[Cortina Solutions](https://www.cortinasolutions.com)** | **[Legal Compliance Intern](https://jobright.ai/jobs/info/6a3b43df649fdf1629307b4f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 23 |
 | ↳ | **[Legal Compliance Intern](https://jobright.ai/jobs/info/6a3b43ce649fdf1629307b4a?utm_campaign=1055&utm_source=git)** | Huntsville, Alabama, United States | Remote | Jun 23 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3af18a06a4fd4b1fabfa75?utm_campaign=1055&utm_source=git)** | San Francisco, US | Hybrid | Jun 23 |
