@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Amica Center for Immigrant Rights](https://amicacenter.org)** | **[Legal Internship, Detained Adult Program - Direct Representation](https://jobright.ai/jobs/info/6a3bb40dd261407de97fb128?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 24 |
+| ↳ | **[Legal Internship, Immigration Impact LAB](https://jobright.ai/jobs/info/6a3be23dd261407de97fb609?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 24 |
 | **[Via Licensing Alliance](https://www.via-la.com)** | **[Legal Intern /](https://jobright.ai/jobs/info/6a3b88d5649fdf1629308482?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 24 |
 | **[Central Garden & Pet](http://www.central.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3aec06dbedbf5680c71d0d?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA, United States | On Site | Jun 23 |
 | **[Hernandez Consulting & Construction](https://www.hernandezconsulting.com/)** | **[JD/MBA Legal & Finance Intern](https://jobright.ai/jobs/info/6a3b5aa6dd879c60912b2a9b?utm_campaign=1055&utm_source=git)** | New Orleans, LA | On Site | Jun 23 |
@@ -111,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Wipfli](http://www.wipfli.com)** | **[IT Procurement Internship](https://jobright.ai/jobs/info/69fb61d1ffa73664aeaff46b?utm_campaign=1055&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | Jun 18 |
 | **[Washington Lawyers'​ Committee for Civil Rights and Urban Affairs](https://www.washlaw.org/)** | **[DC Area Civil Rights Legal Internship](https://jobright.ai/jobs/info/6a339fa6910b7349107159fa?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 18 |
 | **[Danone](https://www.danone.com)** | **[Regulatory Affairs Intern (Fall 2026)](https://jobright.ai/jobs/info/6a342499649fdf16292f44a4?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 17 |
-| **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Political Law Intern](https://jobright.ai/jobs/info/6a31637b0ff23769fdb1dbde?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
