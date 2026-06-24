@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Central Garden & Pet](http://www.central.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3aec06dbedbf5680c71d0d?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA, United States | On Site | Jun 23 |
 | **[Hernandez Consulting & Construction](https://www.hernandezconsulting.com/)** | **[JD/MBA Legal & Finance Intern](https://jobright.ai/jobs/info/6a3b5aa6dd879c60912b2a9b?utm_campaign=1055&utm_source=git)** | New Orleans, LA | On Site | Jun 23 |
 | **[Cortina Solutions](https://www.cortinasolutions.com)** | **[Legal Compliance Intern](https://jobright.ai/jobs/info/6a3b43df649fdf1629307b4f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 23 |
 | ↳ | **[Legal Compliance Intern](https://jobright.ai/jobs/info/6a3b43ce649fdf1629307b4a?utm_campaign=1055&utm_source=git)** | Huntsville, Alabama, United States | Remote | Jun 23 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Child Support Law Clerk Internship](https://jobright.ai/jobs/info/6a3b1727dd879c60912b1ee8?utm_campaign=1055&utm_source=git)** | Santa Rosa, CA | On Site | Jun 23 |
 | **[SCIENTIFIC GAMES](https://www.scientificgames.com/)** | **[Corporate Legal Intern](https://jobright.ai/jobs/info/6a3af70606a4fd4b1fabfc34?utm_campaign=1055&utm_source=git)** | Alpharetta, GA | On Site | Jun 23 |
 | **[Lighthouse Immigrant Advocates](http://lia-michigan.org)** | **[Legal Services Intern](https://jobright.ai/jobs/info/6a3af68d1232144fb157102f?utm_campaign=1055&utm_source=git)** | Holland, MI | On Site | Jun 23 |
-| **[Central Garden & Pet](http://www.central.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3aec06dbedbf5680c71d0d?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA, United States | On Site | Jun 23 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a3afbc5797099171917cb5a?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jun 23 |
 | **[Americans United for Separation of Church and State](https://www.au.org/)** | **[Fall/Spring Constitutional Litigation Internships](https://jobright.ai/jobs/info/6a3ab781dbedbf5680c70adf?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 23 |
 | ↳ | **[2027 Summer Constitutional Litigation Internship](https://jobright.ai/jobs/info/6a3ab77bdd879c60912b0060?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 23 |
