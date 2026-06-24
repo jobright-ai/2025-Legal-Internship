@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 4](https://jobright.ai/jobs/info/6a3c09224d047136e092f30e?utm_campaign=1055&utm_source=git)** | Arlington Virginia | Hybrid | Jun 24 |
 | **[Amica Center for Immigrant Rights](https://amicacenter.org)** | **[Legal Internship, Detained Adult Program - Direct Representation](https://jobright.ai/jobs/info/6a3bb40dd261407de97fb128?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 24 |
 | ↳ | **[Legal Internship, Immigration Impact LAB](https://jobright.ai/jobs/info/6a3be23dd261407de97fb609?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 24 |
 | **[Via Licensing Alliance](https://www.via-la.com)** | **[Legal Intern /](https://jobright.ai/jobs/info/6a3b88d5649fdf1629308482?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 24 |
