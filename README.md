@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Via Licensing Alliance](https://www.via-la.com)** | **[Legal Intern /](https://jobright.ai/jobs/info/6a3b88d5649fdf1629308482?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 24 |
 | **[Central Garden & Pet](http://www.central.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3aec06dbedbf5680c71d0d?utm_campaign=1055&utm_source=git)** | Walnut Creek, CA, United States | On Site | Jun 23 |
 | **[Hernandez Consulting & Construction](https://www.hernandezconsulting.com/)** | **[JD/MBA Legal & Finance Intern](https://jobright.ai/jobs/info/6a3b5aa6dd879c60912b2a9b?utm_campaign=1055&utm_source=git)** | New Orleans, LA | On Site | Jun 23 |
 | **[Cortina Solutions](https://www.cortinasolutions.com)** | **[Legal Compliance Intern](https://jobright.ai/jobs/info/6a3b43df649fdf1629307b4f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 23 |
@@ -112,6 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Political Law Intern](https://jobright.ai/jobs/info/6a31637b0ff23769fdb1dbde?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 17 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e9649fdf16292ee8f0?utm_campaign=1055&utm_source=git)** | Remote, Durham, N.C. | Remote | Jun 17 |
 | ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e8649fdf16292ee8ef?utm_campaign=1055&utm_source=git)** | Hybrid- Durham, N.C. | Hybrid | Jun 17 |
-| ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e5649fdf16292ee8ed?utm_campaign=1055&utm_source=git)** | Hybrid- New York City | Hybrid | Jun 17 |
 | ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e5649fdf16292ee8e9?utm_campaign=1055&utm_source=git)** | Remote, New York City | Remote | Jun 17 |
+| ↳ | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a32c6e5649fdf16292ee8ed?utm_campaign=1055&utm_source=git)** | Hybrid- New York City | Hybrid | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
