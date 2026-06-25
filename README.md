@@ -64,9 +64,9 @@ For a complete list, click the following sortable link below:
 | **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027 2L Summer Law Student - Criminal (Toronto)](https://jobright.ai/jobs/info/6a3c3813122f340d29cecff5?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Criminal (Barrie)](https://jobright.ai/jobs/info/6a3c3811882f121f56a33dac?utm_campaign=1055&utm_source=git)** | Barrie, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Immigration & Refugee(Toronto)](https://jobright.ai/jobs/info/6a3c380e882f121f56a33dab?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
-| ↳ | **[2027 2L Summer Law Student - Criminal & Family (Toronto)](https://jobright.ai/jobs/info/6a3c38044d047136e092ff58?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Family (Ottawa)](https://jobright.ai/jobs/info/6a3c3804122f340d29cecfee?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Criminal & Family (Kingston)](https://jobright.ai/jobs/info/6a3c3804882f121f56a33da9?utm_campaign=1055&utm_source=git)** | Kingston, Ontario, Canada | On Site | Jun 24 |
+| ↳ | **[2027 2L Summer Law Student - Criminal & Family (Toronto)](https://jobright.ai/jobs/info/6a3c38044d047136e092ff58?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Criminal & Family (Oshawa)](https://jobright.ai/jobs/info/6a3c3802882f121f56a33da8?utm_campaign=1055&utm_source=git)** | Oshawa, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Immigration & Refugee (Hamilton)](https://jobright.ai/jobs/info/6a3c3801122f340d29cecfed?utm_campaign=1055&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Family (Newmarket)](https://jobright.ai/jobs/info/6a3c37ffd261407de97fcd7f?utm_campaign=1055&utm_source=git)** | Newmarket, Ontario, Canada | On Site | Jun 24 |
@@ -76,6 +76,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Internship - Collections Assistant](https://jobright.ai/jobs/info/6a1f865dc5277c00c6486f75?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jun 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Legal Internship](https://jobright.ai/jobs/info/6a3d0fcf4d047136e0932205?utm_campaign=1055&utm_source=git)** | New York, NY, US | Hybrid | Jun 24 |
 | **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 4](https://jobright.ai/jobs/info/6a3c09224d047136e092f30e?utm_campaign=1055&utm_source=git)** | Arlington Virginia | Hybrid | Jun 24 |
+| **[Novo Holdings](http://www.novoholdings.dk)** | **[Legal Intern, Novo Holdings](https://jobright.ai/jobs/info/6a1ec8c0a507373dff6bb7a4?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 24 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d80edb524ae49285a67f0?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Jun 24 |
 | **[Amica Center for Immigrant Rights](https://amicacenter.org)** | **[Legal Internship, Detained Adult Program - Direct Representation](https://jobright.ai/jobs/info/6a3bb40dd261407de97fb128?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 24 |
 | ↳ | **[Legal Internship, Immigration Impact LAB](https://jobright.ai/jobs/info/6a3be23dd261407de97fb609?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 24 |
