@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Fall Legal Intern](https://jobright.ai/jobs/info/6a3d6f25d261407de98006a2?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 25 |
+| ↳ | **[2026 Fall Legal Intern](https://jobright.ai/jobs/info/6a3d6c448bfad862bc99cfa6?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jun 25 |
 | **[Child and Family Services of Erie County, Inc.](https://cfsbny.org)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/6a3d5bd5d261407de97fffd3?utm_campaign=1055&utm_source=git)** | Cheektowaga, New York, United States | Hybrid | Jun 25 |
 | **[Anchor Home](https://anchorhomeinc.com)** | **[Nursing Quality & Compliance Internship [Fall 2026]](https://jobright.ai/jobs/info/6a3d3b60882f121f56a36833?utm_campaign=1055&utm_source=git)** | Timonium, MD | On Site | Jun 25 |
 | **[Group 1001](https://group1001.com/)** | **[Enterprise Risk Management Intern (Fall)](https://jobright.ai/jobs/info/6a2054bfc00e701fe8368a91?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 25 |
@@ -69,13 +71,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 2L Summer Law Student - Criminal (Barrie)](https://jobright.ai/jobs/info/6a3c3811882f121f56a33dac?utm_campaign=1055&utm_source=git)** | Barrie, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Immigration & Refugee(Toronto)](https://jobright.ai/jobs/info/6a3c380e882f121f56a33dab?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Family (Ottawa)](https://jobright.ai/jobs/info/6a3c3804122f340d29cecfee?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jun 24 |
-| ↳ | **[2027 2L Summer Law Student - Criminal & Family (Toronto)](https://jobright.ai/jobs/info/6a3c38044d047136e092ff58?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Criminal & Family (Kingston)](https://jobright.ai/jobs/info/6a3c3804882f121f56a33da9?utm_campaign=1055&utm_source=git)** | Kingston, Ontario, Canada | On Site | Jun 24 |
+| ↳ | **[2027 2L Summer Law Student - Criminal & Family (Toronto)](https://jobright.ai/jobs/info/6a3c38044d047136e092ff58?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Criminal & Family (Oshawa)](https://jobright.ai/jobs/info/6a3c3802882f121f56a33da8?utm_campaign=1055&utm_source=git)** | Oshawa, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Immigration & Refugee (Hamilton)](https://jobright.ai/jobs/info/6a3c3801122f340d29cecfed?utm_campaign=1055&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Family (Newmarket)](https://jobright.ai/jobs/info/6a3c37ffd261407de97fcd7f?utm_campaign=1055&utm_source=git)** | Newmarket, Ontario, Canada | On Site | Jun 24 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Asylum Seeker Legal Team Intern (Unpaid)](https://jobright.ai/jobs/info/6a3c36eb8bfad862bc9997ed?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 24 |
 | ↳ | **[Immigration Legal Team Intern (Unpaid)](https://jobright.ai/jobs/info/6a3c3627122f340d29cecf49?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 24 |
+| **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027 2L Summer Law Student - Family (Sarnia)](https://jobright.ai/jobs/info/6a3d6c26882f121f56a3759d?utm_campaign=1055&utm_source=git)** | Sarnia, Ontario, Canada | On Site | Jun 24 |
+| ↳ | **[2027 2L Summer Law Student - Family (Windsor)](https://jobright.ai/jobs/info/6a3d6c1bd261407de98004c6?utm_campaign=1055&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jun 24 |
+| ↳ | **[2027 2L Summer Law Student - Criminal & Family (Sudbury)](https://jobright.ai/jobs/info/6a3d6c218bfad862bc99cf9a?utm_campaign=1055&utm_source=git)** | Sudbury, Ontario, Canada | On Site | Jun 24 |
 | **[Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)](https://lebizcanada.com)** | **[Fall 2026 Internship - Collections Assistant](https://jobright.ai/jobs/info/6a1f8f32dce5db1256d1617e?utm_campaign=1055&utm_source=git)** | Ottawa | Hybrid | Jun 24 |
 | ↳ | **[Fall 2026 Internship - Collections Assistant](https://jobright.ai/jobs/info/6a1f865dc5277c00c6486f75?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jun 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Legal Internship](https://jobright.ai/jobs/info/6a3d0fcf4d047136e0932205?utm_campaign=1055&utm_source=git)** | New York, NY, US | Hybrid | Jun 24 |
@@ -123,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Wheels Up](http://wheelsup.com/)** | **[Data Privacy - Legal Intern (Fall 2026)](https://jobright.ai/jobs/info/6a352df57f3fdd180d4cc998?utm_campaign=1055&utm_source=git)** | US | On Site | Jun 19 |
 | **[BeOne Medicines](https://beonemedicines.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/6a0f384c83d714428981db65?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 19 |
 | **[Shield HealthCare - Medical Supplies for Care at Home Since 1957](http://shieldhealthcare.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a3495b7f6b55d12c791d754?utm_campaign=1055&utm_source=git)** | Valencia, CA, US | On Site | Jun 18 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Mental Health Litigation Division Brockton - Fall 2026](https://jobright.ai/jobs/info/6a34979f29c90c607e4dfeb6?utm_campaign=1055&utm_source=git)** | Brockton, MA | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
