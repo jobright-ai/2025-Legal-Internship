@@ -64,9 +64,9 @@ For a complete list, click the following sortable link below:
 | **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027 2L Summer Law Student - Criminal (Toronto)](https://jobright.ai/jobs/info/6a3c3813122f340d29cecff5?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Criminal (Barrie)](https://jobright.ai/jobs/info/6a3c3811882f121f56a33dac?utm_campaign=1055&utm_source=git)** | Barrie, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Immigration & Refugee(Toronto)](https://jobright.ai/jobs/info/6a3c380e882f121f56a33dab?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
-| ↳ | **[2027 2L Summer Law Student - Family (Ottawa)](https://jobright.ai/jobs/info/6a3c3804122f340d29cecfee?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jun 24 |
-| ↳ | **[2027 2L Summer Law Student - Criminal & Family (Kingston)](https://jobright.ai/jobs/info/6a3c3804882f121f56a33da9?utm_campaign=1055&utm_source=git)** | Kingston, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Criminal & Family (Toronto)](https://jobright.ai/jobs/info/6a3c38044d047136e092ff58?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| ↳ | **[2027 2L Summer Law Student - Criminal & Family (Kingston)](https://jobright.ai/jobs/info/6a3c3804882f121f56a33da9?utm_campaign=1055&utm_source=git)** | Kingston, Ontario, Canada | On Site | Jun 24 |
+| ↳ | **[2027 2L Summer Law Student - Family (Ottawa)](https://jobright.ai/jobs/info/6a3c3804122f340d29cecfee?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Criminal & Family (Oshawa)](https://jobright.ai/jobs/info/6a3c3802882f121f56a33da8?utm_campaign=1055&utm_source=git)** | Oshawa, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Immigration & Refugee (Hamilton)](https://jobright.ai/jobs/info/6a3c3801122f340d29cecfed?utm_campaign=1055&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Family (Newmarket)](https://jobright.ai/jobs/info/6a3c37ffd261407de97fcd7f?utm_campaign=1055&utm_source=git)** | Newmarket, Ontario, Canada | On Site | Jun 24 |
@@ -126,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Novastone Capital Advisors](https://www.novastone-ca.com)** | **[Internship: Legal/Paralegal](https://jobright.ai/jobs/info/6a3428e0649fdf16292f45ed?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Franklin County Data Center (FCDC)](https://datacenter.franklincountyohio.gov)** | **[2026 Fall Legal Intern](https://jobright.ai/jobs/info/6a342536f6b55d12c791b40e?utm_campaign=1055&utm_source=git)** | Columbus, OH 43215, USA | On Site | Jun 18 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Mental Health Litigation Division Brockton - Fall 2026](https://jobright.ai/jobs/info/6a3409b51232144fb155dd76?utm_campaign=1055&utm_source=git)** | Brockton, MA, US | On Site | Jun 18 |
-| **[TikTok](https://www.tiktok.com)** | **[Arbitration Strategy Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a34023ace501060b5ceedd6?utm_campaign=1055&utm_source=git)** | Los Angeles | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
