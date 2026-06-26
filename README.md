@@ -80,8 +80,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 2L Summer Law Student - Criminal (Toronto)](https://jobright.ai/jobs/info/6a3c3813122f340d29cecff5?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Criminal (Barrie)](https://jobright.ai/jobs/info/6a3c3811882f121f56a33dac?utm_campaign=1055&utm_source=git)** | Barrie, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Immigration & Refugee(Toronto)](https://jobright.ai/jobs/info/6a3c380e882f121f56a33dab?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
-| ↳ | **[2027 2L Summer Law Student - Family (Ottawa)](https://jobright.ai/jobs/info/6a3c3804122f340d29cecfee?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Criminal & Family (Toronto)](https://jobright.ai/jobs/info/6a3c38044d047136e092ff58?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| ↳ | **[2027 2L Summer Law Student - Family (Ottawa)](https://jobright.ai/jobs/info/6a3c3804122f340d29cecfee?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Criminal & Family (Kingston)](https://jobright.ai/jobs/info/6a3c3804882f121f56a33da9?utm_campaign=1055&utm_source=git)** | Kingston, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Criminal & Family (Oshawa)](https://jobright.ai/jobs/info/6a3c3802882f121f56a33da8?utm_campaign=1055&utm_source=git)** | Oshawa, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Immigration & Refugee (Hamilton)](https://jobright.ai/jobs/info/6a3c3801122f340d29cecfed?utm_campaign=1055&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jun 24 |
@@ -127,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Fall 2026 Legal Intern, Community Access Programs Unit](https://jobright.ai/jobs/info/6a390e381232144fb1569921?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[Cedar Employment Law, APC](https://grow.clio.com/form_templates/167876)** | **[2L or 3L Legal Intern](https://jobright.ai/jobs/info/6a38b0d8ce501060b5cf9e52?utm_campaign=1055&utm_source=git)** | California, United States | On Site | Jun 21 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Fall 2026 Legal Intern, Community Access Programs Unit](https://jobright.ai/jobs/info/6a3912daa0f3e56e86d6ecdc?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jun 21 |
-| **[State of Michigan](http://www.michigan.gov)** | **[Business Compliance and Regulation Internship - Fall 2026](https://jobright.ai/jobs/info/6a3966176484fb75f2b314a8?utm_campaign=1055&utm_source=git)** | Lansing, MI | On Site | Jun 21 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Jun 21 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69ba304056973837413faf8b?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Jun 21 |
 | **[Evangelical Council for Abuse Prevention](http://www.ecap.net)** | **[Law Student Internship](https://jobright.ai/jobs/info/6a36ebeba0f3e56e86d6c094?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Jun 20 |
