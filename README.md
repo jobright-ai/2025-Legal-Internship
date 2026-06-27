@@ -57,18 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OfferUp](https://offerup.com)** | **[Legal Intern - Summer 2026 (Hybrid @ Bellevue, WA)](https://jobright.ai/jobs/info/6a3f2f5d78237a036d5e6ac5?utm_campaign=1055&utm_source=git)** | Hybrid @ Bellevue, WA | Hybrid | Jun 26 |
 | **[Betner-Gray Law Office](https://www.betnergraylaw.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a3f0093ce7cce40b3422c65?utm_campaign=1055&utm_source=git)** | Mount Holly, NJ | On Site | Jun 26 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[INTERNSHIP - Client Position Regulatory Reporting Analyst - Chicago](https://jobright.ai/jobs/info/6a3ef571d261407de9805367?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 26 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance (Core)](https://jobright.ai/jobs/info/6a3d77a6122f340d29cf0b76?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 26 |
+| ↳ | **[Intern, Investigations Diligence and Compliance (Core)](https://jobright.ai/jobs/info/6a3d77a34d047136e0933bbb?utm_campaign=1055&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jun 26 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-Financial Crimes Division](https://jobright.ai/jobs/info/6a3c55e7d261407de97fd6b3?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 26 |
-| **[Cortina Solutions](https://www.cortinasolutions.com)** | **[Legal Compliance Intern](https://jobright.ai/jobs/info/6a3b43df649fdf1629307b4f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 26 |
-| ↳ | **[Legal Compliance Intern](https://jobright.ai/jobs/info/6a3b43ce649fdf1629307b4a?utm_campaign=1055&utm_source=git)** | Huntsville, Alabama, United States | Remote | Jun 26 |
+| **[Cortina Solutions](https://www.cortinasolutions.com)** | **[Legal Compliance Intern](https://jobright.ai/jobs/info/6a3b43ce649fdf1629307b4a?utm_campaign=1055&utm_source=git)** | Huntsville, Alabama, United States | Remote | Jun 26 |
+| ↳ | **[Legal Compliance Intern](https://jobright.ai/jobs/info/6a3b43df649fdf1629307b4f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 26 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, NY | On Site | Jun 26 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b8?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 26 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 26 |
 | ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 26 |
 | **[Sleeper](https://sleeper.com)** | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911635e80310003a7c23?utm_campaign=1055&utm_source=git)** | New Jersey | Hybrid | Jun 26 |
 | ↳ | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911b35e80310003a7c26?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 26 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance (Core)](https://jobright.ai/jobs/info/6a3d77a34d047136e0933bbb?utm_campaign=1055&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jun 25 |
-| ↳ | **[Intern, Investigations Diligence and Compliance (Core)](https://jobright.ai/jobs/info/6a3d77a6122f340d29cf0b76?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 25 |
 | **[Colorado Department of Public Health and Environment](https://www.colorado.gov/cdphe)** | **[Enforcement Advisor - EP Intern.](https://jobright.ai/jobs/info/6a3de36978237a036d5e2ff0?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Jun 25 |
 | **[BC Securities Commission](http://bcsc.bc.ca/)** | **[Law Intern](https://jobright.ai/jobs/info/6a3da11d78237a036d5e23a5?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 25 |
 | **[Actus Nutrition](https://actus.com)** | **[International Compliance Intern](https://jobright.ai/jobs/info/6a3d936b78237a036d5e2059?utm_campaign=1055&utm_source=git)** | Eden Prairie, Minnesota, United States | On Site | Jun 25 |
@@ -89,9 +90,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 2L Summer Law Student - Criminal (Toronto)](https://jobright.ai/jobs/info/6a3c3813122f340d29cecff5?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Criminal (Barrie)](https://jobright.ai/jobs/info/6a3c3811882f121f56a33dac?utm_campaign=1055&utm_source=git)** | Barrie, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Immigration & Refugee(Toronto)](https://jobright.ai/jobs/info/6a3c380e882f121f56a33dab?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
-| ↳ | **[2027 2L Summer Law Student - Family (Ottawa)](https://jobright.ai/jobs/info/6a3c3804122f340d29cecfee?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Criminal & Family (Kingston)](https://jobright.ai/jobs/info/6a3c3804882f121f56a33da9?utm_campaign=1055&utm_source=git)** | Kingston, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Criminal & Family (Toronto)](https://jobright.ai/jobs/info/6a3c38044d047136e092ff58?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| ↳ | **[2027 2L Summer Law Student - Family (Ottawa)](https://jobright.ai/jobs/info/6a3c3804122f340d29cecfee?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Criminal & Family (Oshawa)](https://jobright.ai/jobs/info/6a3c3802882f121f56a33da8?utm_campaign=1055&utm_source=git)** | Oshawa, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Immigration & Refugee (Hamilton)](https://jobright.ai/jobs/info/6a3c3801122f340d29cecfed?utm_campaign=1055&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Family (Newmarket)](https://jobright.ai/jobs/info/6a3c37ffd261407de97fcd7f?utm_campaign=1055&utm_source=git)** | Newmarket, Ontario, Canada | On Site | Jun 24 |
@@ -137,5 +138,4 @@ For a complete list, click the following sortable link below:
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Jun 21 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69ba304056973837413faf8b?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Jun 21 |
 | **[Evangelical Council for Abuse Prevention](http://www.ecap.net)** | **[Law Student Internship](https://jobright.ai/jobs/info/6a36ebeba0f3e56e86d6c094?utm_campaign=1055&utm_source=git)** | Indiana, United States | On Site | Jun 20 |
-| **[The Greater Oklahoma City Hispanic Chamber of Commerce](http://www.okchispanicchamber.org)** | **[Intern, Corporate Legal](https://jobright.ai/jobs/info/6a3789d8f6b55d12c79245c0?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK | On Site | Jun 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
