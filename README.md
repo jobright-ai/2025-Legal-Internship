@@ -134,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Massachusetts Attorney General's Office](http://www.mass.gov/ago)** | **[2026 Fall Legal Internship / Boston & Regional Offices (Multiple Bureaus & Divisions)](https://jobright.ai/jobs/info/6a422fe1d528ac2915f98695?utm_campaign=1055&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Jun 23 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a39d8ab06a4fd4b1fabc488?utm_campaign=1055&utm_source=git)** | Houston, TX | Hybrid | Jun 22 |
 | **[ENGIE](http://www.engie.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a39d6a36484fb75f2b33d54?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | Hybrid | Jun 22 |
-| **[Rackspace Technology](https://www.rackspace.com)** | **[Privacy - Legal Intern](https://jobright.ai/jobs/info/6a39b58f1232144fb156cfea?utm_campaign=1055&utm_source=git)** | US-Work from Home, US | Remote | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
