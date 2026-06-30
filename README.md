@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cartesia](https://www.cartesia.ai)** | **[Legal Intern (3L) - Fall 2026](https://jobright.ai/jobs/info/6a43410ae09ecb4959643bdf?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 29 |
 | **[Vincennes University](http://www.vinu.edu/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4332bec8bca56ab2246705?utm_campaign=1055&utm_source=git)** | Vincennes, IN 47591, USA | On Site | Jun 29 |
 | **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6a432c92e09ecb49596424c8?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Jun 29 |
-| **[City of Indianapolis](https://www.indy.gov/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4323a7c662c35651adb8a1?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Jun 29 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6a42e2ab6c326942b4e848a0?utm_campaign=1055&utm_source=git)** | Scottsdale,Arizona,United States | On Site | Jun 29 |
 | **[Tsang & Associates, PLC](https://tsangslaw.com)** | **[Bilingual Legal Intern](https://jobright.ai/jobs/info/6a42f9ca1cc9cc2b12fed90e?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | Jun 29 |
 | **[Gardner-Webb University](http://gardner-webb.edu)** | **[Athletics Graduate Intern - Compliance](https://jobright.ai/jobs/info/6a42bbbc6faf756060967c8d?utm_campaign=1055&utm_source=git)** | Boiling Springs, NC, United States | On Site | Jun 29 |
@@ -87,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Cortina Solutions](https://www.cortinasolutions.com)** | **[Legal Compliance Intern](https://jobright.ai/jobs/info/6a3b43ce649fdf1629307b4a?utm_campaign=1055&utm_source=git)** | Huntsville, Alabama, United States | Remote | Jun 26 |
 | ↳ | **[Legal Compliance Intern](https://jobright.ai/jobs/info/6a3b43df649fdf1629307b4f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 26 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, NY | On Site | Jun 26 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b8?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 26 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 26 |
 | ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 26 |
 | **[Sleeper](https://sleeper.com)** | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911635e80310003a7c23?utm_campaign=1055&utm_source=git)** | New Jersey | Hybrid | Jun 26 |
 | ↳ | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911b35e80310003a7c26?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 26 |
@@ -111,8 +111,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 2L Summer Law Student - Criminal (Toronto)](https://jobright.ai/jobs/info/6a3c3813122f340d29cecff5?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Criminal (Barrie)](https://jobright.ai/jobs/info/6a3c3811882f121f56a33dac?utm_campaign=1055&utm_source=git)** | Barrie, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Immigration & Refugee(Toronto)](https://jobright.ai/jobs/info/6a3c380e882f121f56a33dab?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
-| ↳ | **[2027 2L Summer Law Student - Criminal & Family (Kingston)](https://jobright.ai/jobs/info/6a3c3804882f121f56a33da9?utm_campaign=1055&utm_source=git)** | Kingston, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Family (Ottawa)](https://jobright.ai/jobs/info/6a3c3804122f340d29cecfee?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jun 24 |
+| ↳ | **[2027 2L Summer Law Student - Criminal & Family (Kingston)](https://jobright.ai/jobs/info/6a3c3804882f121f56a33da9?utm_campaign=1055&utm_source=git)** | Kingston, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Criminal & Family (Toronto)](https://jobright.ai/jobs/info/6a3c38044d047136e092ff58?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Criminal & Family (Oshawa)](https://jobright.ai/jobs/info/6a3c3802882f121f56a33da8?utm_campaign=1055&utm_source=git)** | Oshawa, Ontario, Canada | On Site | Jun 24 |
 | ↳ | **[2027 2L Summer Law Student - Immigration & Refugee (Hamilton)](https://jobright.ai/jobs/info/6a3c3801122f340d29cecfed?utm_campaign=1055&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jun 24 |
