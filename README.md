@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[City of Indianapolis](https://www.indy.gov/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a451728f1ab552f90d07d49?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | On Site | Jul 01 |
+| **[EverPass Media](https://everpass.com)** | **[Content Protection & Compliance Intern](https://jobright.ai/jobs/info/6a45573f0dd56c76cc2f318c?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jul 01 |
+| **[TikTok](https://www.tiktok.com)** | **[Arbitration Strategy Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a34023ace501060b5ceedd6?utm_campaign=1055&utm_source=git)** | Los Angeles | On Site | Jul 01 |
+| **[Chemence](http://chemence.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a45406c4f64ba41dcb4cb96?utm_campaign=1055&utm_source=git)** | Alpharetta, GA, US | On Site | Jul 01 |
 | **[LatinoJustice PRLDEF](https://www.latinojustice.org/en)** | **[Legal Intern I Fall 2026](https://jobright.ai/jobs/info/6a44eaa151d0d05163ccc857?utm_campaign=1055&utm_source=git)** | New York, NY, US | Hybrid | Jul 01 |
 | **[Community Legal Aid](http://www.communitylegal.org)** | **[Public Interest Law Student Internship](https://jobright.ai/jobs/info/6a447cfa65e80d3c99f2cb82?utm_campaign=1055&utm_source=git)** | 370 Main Street, Worcester, MA, USA | On Site | Jun 30 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Spanish-fluent Immigration Legal Services Intern](https://jobright.ai/jobs/info/6a4477dc65e80d3c99f2cac0?utm_campaign=1055&utm_source=git)** | Bridgeport, CT | On Site | Jun 30 |
@@ -86,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Tsang & Associates, PLC](https://tsangslaw.com)** | **[Bilingual Legal Intern](https://jobright.ai/jobs/info/6a42f9ca1cc9cc2b12fed90e?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | Jun 29 |
 | **[Gardner-Webb University](http://gardner-webb.edu)** | **[Athletics Graduate Intern - Compliance](https://jobright.ai/jobs/info/6a42bbbc6faf756060967c8d?utm_campaign=1055&utm_source=git)** | Boiling Springs, NC, United States | On Site | Jun 29 |
 | **[Validity Inc.](https://www.validity.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a42a2dba5e15b1068379a07?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jun 29 |
+| **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/6a29050e1dbd8437bebce8e3?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Jun 29 |
 | **[Eskenazi Health](http://www.eskenazihealth.edu/)** | **[COMPLIANCE INTERN (50080449)](https://jobright.ai/jobs/info/6a42a0c16c326942b4e83860?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, US, 46205 | On Site | Jun 29 |
 | **[Validity Inc.](https://www.validity.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4378ffb0f2553559ed0651?utm_campaign=1055&utm_source=git)** | Boston, MA, US | Hybrid | Jun 29 |
 | **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a417e9e1afc66714d3cad14?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 28 |
@@ -98,10 +101,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Legal & Compliance](https://jobright.ai/jobs/info/6a3123830ff23769fdb1c3cf?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 27 |
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, Risk Advisory - Fall 2026, Cranberry Township](https://jobright.ai/jobs/info/6a0f21d4619335383fb2961a?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Jun 27 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e8bb733aa0c479643a497b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 27 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a3f9d4d54db074376c6869a?utm_campaign=1055&utm_source=git)** | Charlotte, NC | On Site | Jun 27 |
-| **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Jun 27 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance (Core)](https://jobright.ai/jobs/info/6a3d77a34d047136e0933bbb?utm_campaign=1055&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jun 26 |
-| ↳ | **[Intern, Investigations Diligence and Compliance (Core)](https://jobright.ai/jobs/info/6a3d77a6122f340d29cf0b76?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 26 |
+| ↳ | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Jun 27 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance (Core)](https://jobright.ai/jobs/info/6a3d77a6122f340d29cf0b76?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 26 |
+| ↳ | **[Intern, Investigations Diligence and Compliance (Core)](https://jobright.ai/jobs/info/6a3d77a34d047136e0933bbb?utm_campaign=1055&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jun 26 |
 | **[OfferUp](https://offerup.com)** | **[Legal Intern - Summer 2026 (Hybrid @ Bellevue, WA)](https://jobright.ai/jobs/info/6a3f2f5d78237a036d5e6ac5?utm_campaign=1055&utm_source=git)** | Hybrid @ Bellevue, WA | Hybrid | Jun 26 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Fall 2026 - Ethics & Compliance Student Internship](https://jobright.ai/jobs/info/6a264ca7dedf78312c7b1ab7?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Jun 26 |
 | **[Take Back The Night](https://takebackthenight.org/)** | **[Law School & Pre-Law Student Internship for Largest International Org to End Sexual Violence](https://jobright.ai/jobs/info/6a3f430bd261407de9805f75?utm_campaign=1055&utm_source=git)** | Wayne County, PA | Remote | Jun 26 |
@@ -127,6 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/Intern Volunteer](https://jobright.ai/jobs/info/6a2054c1902d19201c7b1851?utm_campaign=1055&utm_source=git)** | Pueblo, CO | On Site | Jun 25 |
 | **[Group 1001](https://group1001.com/)** | **[Enterprise Risk Management Intern (Fall)](https://jobright.ai/jobs/info/6a2054bfc00e701fe8368a91?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 25 |
 | **[Fortune Brands Innovations](http://www.fbhs.com)** | **[Supply Chain Intern - Trade & Customs Compliance](https://jobright.ai/jobs/info/6a206036902d19201c7b1d16?utm_campaign=1055&utm_source=git)** | 1 Horizon Way, Deerfield, ILLINOIS | Hybrid | Jun 25 |
-| **[Harris County Attorney's Office](https://cao.harriscountytx.gov/)** | **[LOCAL LAW STUDENT Paid Intern-Financial Crimes Division](https://jobright.ai/jobs/info/6a3d79bad261407de9800a84?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 25 |
-| **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Legal Internship](https://jobright.ai/jobs/info/6a3c87a0d261407de97fded2?utm_campaign=1055&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
