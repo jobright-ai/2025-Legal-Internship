@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centric Brands](https://centricbrands.com)** | **[On-site Fall 2026 Internship - Customs Compliance (Greensboro, NC)](https://jobright.ai/jobs/info/6a4681873dbab558e29a761a?utm_campaign=1055&utm_source=git)** | Greensboro, NC, US | On Site | Jul 02 |
+| ↳ | **[On-site Fall 2026 Internship - Chargeback Compliance (Greensboro, NC)](https://jobright.ai/jobs/info/6a468178c2d11a6a4666f47b?utm_campaign=1055&utm_source=git)** | Greensboro, NC, US | On Site | Jul 02 |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a5aa295f8e37655dffdb?utm_campaign=1055&utm_source=git)** | Fort Worth, TX | On Site | Jul 02 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Mental Health Litigation Division Brockton - Fall 2026](https://jobright.ai/jobs/info/6a3409b51232144fb155dd76?utm_campaign=1055&utm_source=git)** | Brockton, MA, US | On Site | Jul 02 |
 | **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Pro Bono Program (Fall)](https://jobright.ai/jobs/info/6a46486b4f64ba41dcb51cce?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | Jul 02 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Liberty and National Security Legal Internship](https://jobright.ai/jobs/info/6a462559c2d11a6a4666c69d?utm_campaign=1055&utm_source=git)** | Washington D.C., DC | On Site | Jul 02 |
@@ -119,9 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Fall 2026 - Ethics & Compliance Student Internship](https://jobright.ai/jobs/info/6a264ca7dedf78312c7b1ab7?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Jun 26 |
 | **[Take Back The Night](https://takebackthenight.org/)** | **[Law School & Pre-Law Student Internship for Largest International Org to End Sexual Violence](https://jobright.ai/jobs/info/6a3f430bd261407de9805f75?utm_campaign=1055&utm_source=git)** | Wayne County, PA | Remote | Jun 26 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[INTERNSHIP - Client Position Regulatory Reporting Analyst - Chicago](https://jobright.ai/jobs/info/6a3ef571d261407de9805367?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jun 26 |
-| **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[LOCAL LAW STUDENT Paid Intern-Financial Crimes Division](https://jobright.ai/jobs/info/6a3c55e7d261407de97fd6b3?utm_campaign=1055&utm_source=git)** | Houston, TX | On Site | Jun 26 |
-| **[Cortina Solutions](https://www.cortinasolutions.com)** | **[Legal Compliance Intern](https://jobright.ai/jobs/info/6a3b43df649fdf1629307b4f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 26 |
-| ↳ | **[Legal Compliance Intern](https://jobright.ai/jobs/info/6a3b43ce649fdf1629307b4a?utm_campaign=1055&utm_source=git)** | Huntsville, Alabama, United States | Remote | Jun 26 |
+| **[Cortina Solutions](https://www.cortinasolutions.com)** | **[Legal Compliance Intern](https://jobright.ai/jobs/info/6a3b43ce649fdf1629307b4a?utm_campaign=1055&utm_source=git)** | Huntsville, Alabama, United States | Remote | Jun 26 |
+| ↳ | **[Legal Compliance Intern](https://jobright.ai/jobs/info/6a3b43df649fdf1629307b4f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 26 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, NY | On Site | Jun 26 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 26 |
 | ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 26 |
