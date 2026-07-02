@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Pro Bono Program (Fall)](https://jobright.ai/jobs/info/6a46486b4f64ba41dcb51cce?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | Jul 02 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Liberty and National Security Legal Internship](https://jobright.ai/jobs/info/6a462559c2d11a6a4666c69d?utm_campaign=1055&utm_source=git)** | Washington D.C., DC | On Site | Jul 02 |
 | **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a2d1cb8c260bb1b8ae184f4?utm_campaign=1055&utm_source=git)** | Denver, CO | Remote | Jul 01 |
 | **[Beacon Bank](https://www.beaconbank.com/)** | **[Fraud Investigator Intern](https://jobright.ai/jobs/info/6a459b4048d2f00f2a86e1d6?utm_campaign=1055&utm_source=git)** | 131 Clarendon St, Boston, MA,02117 | On Site | Jul 01 |
@@ -123,13 +124,12 @@ For a complete list, click the following sortable link below:
 | **[Cortina Solutions](https://www.cortinasolutions.com)** | **[Legal Compliance Intern](https://jobright.ai/jobs/info/6a3b43ce649fdf1629307b4a?utm_campaign=1055&utm_source=git)** | Huntsville, Alabama, United States | Remote | Jun 26 |
 | ↳ | **[Legal Compliance Intern](https://jobright.ai/jobs/info/6a3b43df649fdf1629307b4f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 26 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, NY | On Site | Jun 26 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 26 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b8?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 26 |
 | ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 26 |
-| **[Sleeper](https://sleeper.com)** | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911635e80310003a7c23?utm_campaign=1055&utm_source=git)** | New Jersey | Hybrid | Jun 26 |
-| ↳ | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911b35e80310003a7c26?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 26 |
+| **[Sleeper](https://sleeper.com)** | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911b35e80310003a7c26?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 26 |
+| ↳ | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911635e80310003a7c23?utm_campaign=1055&utm_source=git)** | New Jersey | Hybrid | Jun 26 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Contract Administration (Fall 2026)](https://jobright.ai/jobs/info/6a20fffdc00e701fe836ca93?utm_campaign=1055&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 26 |
 | **[Colorado Department of Public Health and Environment](https://www.colorado.gov/cdphe)** | **[Enforcement Advisor - EP Intern.](https://jobright.ai/jobs/info/6a3de36978237a036d5e2ff0?utm_campaign=1055&utm_source=git)** | Denver, CO | Hybrid | Jun 25 |
 | **[BC Securities Commission](http://bcsc.bc.ca/)** | **[Law Intern](https://jobright.ai/jobs/info/6a3da11d78237a036d5e23a5?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 25 |
 | **[Actus Nutrition](https://actus.com)** | **[International Compliance Intern](https://jobright.ai/jobs/info/6a3d936b78237a036d5e2059?utm_campaign=1055&utm_source=git)** | Eden Prairie, Minnesota, United States | On Site | Jun 25 |
-| **[Child and Family Services of Erie County, Inc.](https://cfsbny.org)** | **[Corporate Compliance Intern](https://jobright.ai/jobs/info/6a3d5bd5d261407de97fffd3?utm_campaign=1055&utm_source=git)** | Cheektowaga, New York, United States | Hybrid | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
