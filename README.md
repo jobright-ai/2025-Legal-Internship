@@ -86,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[IGT](http://www.gtech.com)** | **[Intern Technical](https://jobright.ai/jobs/info/6a0c08370411d7417a1b56f5?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Jun 30 |
 | ↳ | **[Intern Technical](https://jobright.ai/jobs/info/6a0ba7154d93203636873089?utm_campaign=1055&utm_source=git)** | Las Vegas, NV, US, 89113 | On Site | Jun 30 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Mental Health Litigation Division Brockton - Fall 2026](https://jobright.ai/jobs/info/6a3409b51232144fb155dd76?utm_campaign=1055&utm_source=git)** | Brockton, MA, US | On Site | Jun 30 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a461803076271587529f8f3?utm_campaign=1055&utm_source=git)** | US | Remote | Jun 30 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - ECCO, Global Intra-Group Arrangements Intern (4 Months)](https://jobright.ai/jobs/info/6a4613c13dbab558e29a36d5?utm_campaign=1055&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Jun 30 |
 | **[Cartesia](https://www.cartesia.ai)** | **[Legal Intern (3L) - Fall 2026](https://jobright.ai/jobs/info/6a43410ae09ecb4959643bdf?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 29 |
 | **[Vincennes University](http://www.vinu.edu/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4332bec8bca56ab2246705?utm_campaign=1055&utm_source=git)** | Vincennes, IN 47591, USA | On Site | Jun 29 |
@@ -119,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Cortina Solutions](https://www.cortinasolutions.com)** | **[Legal Compliance Intern](https://jobright.ai/jobs/info/6a3b43df649fdf1629307b4f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jun 26 |
 | ↳ | **[Legal Compliance Intern](https://jobright.ai/jobs/info/6a3b43ce649fdf1629307b4a?utm_campaign=1055&utm_source=git)** | Huntsville, Alabama, United States | Remote | Jun 26 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, NY | On Site | Jun 26 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 26 |
-| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 26 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 26 |
+| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 26 |
 | **[Sleeper](https://sleeper.com)** | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911635e80310003a7c23?utm_campaign=1055&utm_source=git)** | New Jersey | Hybrid | Jun 26 |
 | ↳ | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911b35e80310003a7c26?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 26 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Contract Administration (Fall 2026)](https://jobright.ai/jobs/info/6a20fffdc00e701fe836ca93?utm_campaign=1055&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 26 |
