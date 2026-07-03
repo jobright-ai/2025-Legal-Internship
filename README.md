@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CAMBA](https://camba.org/)** | **[Summer Legal Intern, CAMBA Legal Services](https://jobright.ai/jobs/info/6a4803313dbab558e29abd32?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Jul 03 |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Legal Department Undergraduate Internship](https://jobright.ai/jobs/info/6a394bdaf6b55d12c792715b?utm_campaign=1055&utm_source=git)** | Washington D.C., DC | On Site | Jul 03 |
 | **[Novastone Capital Advisors](https://www.novastone-ca.com)** | **[Internship: Legal/Paralegal](https://jobright.ai/jobs/info/6a3428e0649fdf16292f45ed?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 03 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a314dd55958816970013f85?utm_campaign=1055&utm_source=git)** | Worcester, MA, US | On Site | Jul 03 |
-| **[County of Sonoma](https://sonomacounty.ca.gov/)** | **[Child Support Law Clerk Internship](https://jobright.ai/jobs/info/6a47d341f9cbb100d1ab1054?utm_campaign=1055&utm_source=git)** | Santa Rosa, CA | On Site | Jul 03 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - YAD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a2864bb2d6c332ee52e5b26?utm_campaign=1055&utm_source=git)** | Worcester, MA, US | On Site | Jul 03 |
+| ↳ | **[Internship - YAD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a2864bb2d6c332ee52e5b26?utm_campaign=1055&utm_source=git)** | Worcester, MA, US | On Site | Jul 03 |
 | **[Locus Robotics](http://www.locusrobotics.com)** | **[Enterprise Security, Risk and Compliance Co-Op/Internship](https://jobright.ai/jobs/info/6a44221eef17a815538a3004?utm_campaign=1055&utm_source=git)** | Wilmington, MA | Hybrid | Jul 03 |
 | **[Validity Inc.](https://www.validity.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4737178204a812e98cb533?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jul 02 |
 | **[Bottlenotes Inc.](http://www.bottlenotes.com)** | **[Policy and Document Management Intern](https://jobright.ai/jobs/info/6a47b4b63dbab558e29ab0b6?utm_campaign=1055&utm_source=git)** | Sewickley, PA | On Site | Jul 02 |
@@ -132,6 +133,6 @@ For a complete list, click the following sortable link below:
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, Risk Advisory - Fall 2026, Cranberry Township](https://jobright.ai/jobs/info/6a0f21d4619335383fb2961a?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Jun 27 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e8bb733aa0c479643a497b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 27 |
 | ↳ | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Jun 27 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance (Core)](https://jobright.ai/jobs/info/6a3d77a6122f340d29cf0b76?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 26 |
-| ↳ | **[Intern, Investigations Diligence and Compliance (Core)](https://jobright.ai/jobs/info/6a3d77a34d047136e0933bbb?utm_campaign=1055&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jun 26 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance (Core)](https://jobright.ai/jobs/info/6a3d77a34d047136e0933bbb?utm_campaign=1055&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jun 26 |
+| ↳ | **[Intern, Investigations Diligence and Compliance (Core)](https://jobright.ai/jobs/info/6a3d77a6122f340d29cf0b76?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
