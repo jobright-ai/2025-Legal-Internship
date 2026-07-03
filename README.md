@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Validity Inc.](https://www.validity.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4737178204a812e98cb533?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jul 02 |
 | **[Chemence](http://chemence.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a45406c4f64ba41dcb4cb96?utm_campaign=1055&utm_source=git)** | Alpharetta, GA, US | On Site | Jul 02 |
 | **[Vincennes University](http://www.vinu.edu/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4332bec8bca56ab2246705?utm_campaign=1055&utm_source=git)** | Vincennes, IN 47591, USA | On Site | Jul 02 |
 | **[State of Ohio](http://ohio.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4720714f64ba41dcb55f61?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jul 02 |
@@ -76,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Pro Bono Program (Fall)](https://jobright.ai/jobs/info/6a46486b4f64ba41dcb51cce?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | Jul 02 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Liberty and National Security Legal Internship](https://jobright.ai/jobs/info/6a462559c2d11a6a4666c69d?utm_campaign=1055&utm_source=git)** | Washington D.C., DC | On Site | Jul 02 |
 | **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a2d1cb8c260bb1b8ae184f4?utm_campaign=1055&utm_source=git)** | Denver, CO | Remote | Jul 01 |
+| **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027 2L Summer Law Student - Family (Windsor)](https://jobright.ai/jobs/info/6a3d6c1bd261407de98004c6?utm_campaign=1055&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jul 01 |
 | **[Beacon Bank](https://www.beaconbank.com/)** | **[Fraud Investigator Intern](https://jobright.ai/jobs/info/6a459b4048d2f00f2a86e1d6?utm_campaign=1055&utm_source=git)** | 131 Clarendon St, Boston, MA,02117 | On Site | Jul 01 |
 | **[EverPass Media](https://everpass.com)** | **[Content Protection & Compliance Intern](https://jobright.ai/jobs/info/6a45573f0dd56c76cc2f318c?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jul 01 |
 | **[Death Penalty Information Center](http://www.deathpenaltyinfo.org)** | **[Fall 2026 Legal Intern](https://jobright.ai/jobs/info/6a45d6d20dd56c76cc2f4665?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 01 |
