@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Sonoma](https://sonomacounty.ca.gov/)** | **[Child Support Law Clerk Internship](https://jobright.ai/jobs/info/6a47d341f9cbb100d1ab1054?utm_campaign=1055&utm_source=git)** | Santa Rosa, CA | On Site | Jul 03 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - YAD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a2864bb2d6c332ee52e5b26?utm_campaign=1055&utm_source=git)** | Worcester, MA, US | On Site | Jul 03 |
 | **[Locus Robotics](http://www.locusrobotics.com)** | **[Enterprise Security, Risk and Compliance Co-Op/Internship](https://jobright.ai/jobs/info/6a44221eef17a815538a3004?utm_campaign=1055&utm_source=git)** | Wilmington, MA | Hybrid | Jul 03 |
 | **[Validity Inc.](https://www.validity.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4737178204a812e98cb533?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jul 02 |
@@ -107,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[IGT](http://www.gtech.com)** | **[Intern Technical](https://jobright.ai/jobs/info/6a0c08370411d7417a1b56f5?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Jun 30 |
 | ↳ | **[Intern Technical](https://jobright.ai/jobs/info/6a0ba7154d93203636873089?utm_campaign=1055&utm_source=git)** | Las Vegas, NV, US, 89113 | On Site | Jun 30 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a461803076271587529f8f3?utm_campaign=1055&utm_source=git)** | US | Remote | Jun 30 |
-| **[RBC](https://www.rbc.com)** | **[2026 Fall - ECCO, Global Intra-Group Arrangements Intern (4 Months)](https://jobright.ai/jobs/info/6a4613c13dbab558e29a36d5?utm_campaign=1055&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Jun 30 |
 | **[Cartesia](https://www.cartesia.ai)** | **[Legal Intern (3L) - Fall 2026](https://jobright.ai/jobs/info/6a43410ae09ecb4959643bdf?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 29 |
 | **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6a432c92e09ecb49596424c8?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Jun 29 |
 | **[Community Legal Aid](http://www.communitylegal.org)** | **[Public Interest Law Student Internship](https://jobright.ai/jobs/info/6a45b5d43dbab558e29a2019?utm_campaign=1055&utm_source=git)** | 370 Main Street, Worcester, MA, USA | On Site | Jun 29 |
@@ -131,5 +131,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Jun 27 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence and Compliance (Core)](https://jobright.ai/jobs/info/6a3d77a6122f340d29cf0b76?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 26 |
 | ↳ | **[Intern, Investigations Diligence and Compliance (Core)](https://jobright.ai/jobs/info/6a3d77a34d047136e0933bbb?utm_campaign=1055&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jun 26 |
-| **[Tampa Electric](http://www.tampaelectric.com)** | **[Fall 2026 - Ethics & Compliance Student Internship](https://jobright.ai/jobs/info/6a264ca7dedf78312c7b1ab7?utm_campaign=1055&utm_source=git)** | Tampa, FL | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
