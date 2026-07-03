@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Locus Robotics](http://www.locusrobotics.com)** | **[Enterprise Security, Risk and Compliance Co-Op/Internship](https://jobright.ai/jobs/info/6a44221eef17a815538a3004?utm_campaign=1055&utm_source=git)** | Wilmington, MA | Hybrid | Jul 03 |
 | **[Validity Inc.](https://www.validity.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4737178204a812e98cb533?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jul 02 |
+| **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2026/27 Articling Student - Criminal & Family (Timmins)](https://jobright.ai/jobs/info/6a477d0b0dd56c76cc2fce46?utm_campaign=1055&utm_source=git)** | Timmins, Ontario, Canada | On Site | Jul 02 |
 | **[Chemence](http://chemence.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a45406c4f64ba41dcb4cb96?utm_campaign=1055&utm_source=git)** | Alpharetta, GA, US | On Site | Jul 02 |
 | **[Vincennes University](http://www.vinu.edu/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4332bec8bca56ab2246705?utm_campaign=1055&utm_source=git)** | Vincennes, IN 47591, USA | On Site | Jul 02 |
 | **[State of Ohio](http://ohio.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4720714f64ba41dcb55f61?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jul 02 |
@@ -90,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Spanish-fluent Immigration Legal Services Intern](https://jobright.ai/jobs/info/6a4477dc65e80d3c99f2cac0?utm_campaign=1055&utm_source=git)** | Bridgeport, CT | On Site | Jun 30 |
 | **[Desjardins](https://www.desjardins.com/ca/about-us/desjardins/governance-democracy/structure/desjardins-securities/)** | **[Intern Law, Quebec Bar](https://jobright.ai/jobs/info/6a276c7c2056260dd6e870bd?utm_campaign=1055&utm_source=git)** | Lévis, Quebec, Canada | Hybrid | Jun 30 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[SPFHS-2026-7i State Parks Legal Intern](https://jobright.ai/jobs/info/6a443ebdef17a815538a380b?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Jun 30 |
-| **[Locus Robotics](http://www.locusrobotics.com)** | **[Enterprise Security, Risk and Compliance Co-Op/Internship](https://jobright.ai/jobs/info/6a44221eef17a815538a3004?utm_campaign=1055&utm_source=git)** | Wilmington, MA | Hybrid | Jun 30 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Customer Compliance Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6a44283565e80d3c99f2bd26?utm_campaign=1055&utm_source=git)** | Fort Wayne, Indiana | On Site | Jun 30 |
 | **[BAE Systems, Inc.](https://jobs.baesystems.com/global/en)** | **[Customer Compliance Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6a4427420153061b8b3df858?utm_campaign=1055&utm_source=git)** | Fort Wayne, Indiana, United States | On Site | Jun 30 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[CSRR-2026-8i Enforcement and Investigation Intern](https://jobright.ai/jobs/info/6a44069957ffc22029405f69?utm_campaign=1055&utm_source=git)** | Trenton, NJ | On Site | Jun 30 |
