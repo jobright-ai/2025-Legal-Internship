@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novastone Capital Advisors](https://www.novastone-ca.com)** | **[Internship: Legal/Paralegal](https://jobright.ai/jobs/info/6a3428e0649fdf16292f45ed?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 03 |
+| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a314dd55958816970013f85?utm_campaign=1055&utm_source=git)** | Worcester, MA, US | On Site | Jul 03 |
 | **[County of Sonoma](https://sonomacounty.ca.gov/)** | **[Child Support Law Clerk Internship](https://jobright.ai/jobs/info/6a47d341f9cbb100d1ab1054?utm_campaign=1055&utm_source=git)** | Santa Rosa, CA | On Site | Jul 03 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - YAD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a2864bb2d6c332ee52e5b26?utm_campaign=1055&utm_source=git)** | Worcester, MA, US | On Site | Jul 03 |
 | **[Locus Robotics](http://www.locusrobotics.com)** | **[Enterprise Security, Risk and Compliance Co-Op/Internship](https://jobright.ai/jobs/info/6a44221eef17a815538a3004?utm_campaign=1055&utm_source=git)** | Wilmington, MA | Hybrid | Jul 03 |
@@ -87,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027 2L Summer Law Student - Family (Windsor)](https://jobright.ai/jobs/info/6a3d6c1bd261407de98004c6?utm_campaign=1055&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jul 01 |
 | **[Beacon Bank](https://www.beaconbank.com/)** | **[Fraud Investigator Intern](https://jobright.ai/jobs/info/6a459b4048d2f00f2a86e1d6?utm_campaign=1055&utm_source=git)** | 131 Clarendon St, Boston, MA,02117 | On Site | Jul 01 |
 | **[EverPass Media](https://everpass.com)** | **[Content Protection & Compliance Intern](https://jobright.ai/jobs/info/6a45573f0dd56c76cc2f318c?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jul 01 |
-| **[Death Penalty Information Center](http://www.deathpenaltyinfo.org)** | **[Fall 2026 Legal Intern](https://jobright.ai/jobs/info/6a45d6d20dd56c76cc2f4665?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 01 |
 | **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027 2L Summer Law Student - Family (Toronto)](https://jobright.ai/jobs/info/6a3d51bb122f340d29cefedd?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Arbitration Strategy Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a34023ace501060b5ceedd6?utm_campaign=1055&utm_source=git)** | Los Angeles | On Site | Jul 01 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Spanish-fluent Immigration Legal Services Intern](https://jobright.ai/jobs/info/6a45f62c4f64ba41dcb4f74f?utm_campaign=1055&utm_source=git)** | Bridgeport, CT, US | On Site | Jul 01 |
@@ -117,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Validity Inc.](https://www.validity.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a42a2dba5e15b1068379a07?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jun 29 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/6a29050e1dbd8437bebce8e3?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Jun 29 |
 | **[Eskenazi Health](http://www.eskenazihealth.edu/)** | **[COMPLIANCE INTERN (50080449)](https://jobright.ai/jobs/info/6a42a0c16c326942b4e83860?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, US, 46205 | On Site | Jun 29 |
+| **[First Chicago Insurance Company](https://www.firstchicagoinsurance.com/)** | **[Product Forms & Compliance Intern](https://jobright.ai/jobs/info/6a47e34d4f64ba41dcb5797e?utm_campaign=1055&utm_source=git)** | Bedford Park,IL,US | On Site | Jun 29 |
 | **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Policy and Procedure](https://jobright.ai/jobs/info/6a4622d43dbab558e29a463c?utm_campaign=1055&utm_source=git)** | Smithfield,RI,US | On Site | Jun 29 |
 | **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a417e9e1afc66714d3cad14?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 28 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Legal Intern – Commercial Legal (Fall 2026)](https://jobright.ai/jobs/info/6a3b68261232144fb1572959?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jun 28 |
