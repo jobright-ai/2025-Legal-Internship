@@ -133,6 +133,4 @@ For a complete list, click the following sortable link below:
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69cc4ba1cdb525785fb7aace?utm_campaign=1055&utm_source=git)** | Whitestone, NY | On Site | Jun 26 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b8?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jun 26 |
 | ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jun 26 |
-| **[Sleeper](https://sleeper.com)** | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911635e80310003a7c23?utm_campaign=1055&utm_source=git)** | New Jersey | Hybrid | Jun 26 |
-| ↳ | **[Fraud Operations Analyst Intern](https://jobright.ai/jobs/info/6a31911b35e80310003a7c26?utm_campaign=1055&utm_source=git)** | New York City | Hybrid | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
