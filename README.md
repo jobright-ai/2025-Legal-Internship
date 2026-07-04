@@ -130,7 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a417e9e1afc66714d3cad14?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 28 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Legal Intern – Commercial Legal (Fall 2026)](https://jobright.ai/jobs/info/6a3b68261232144fb1572959?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jun 28 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer - Intern Volunteer](https://jobright.ai/jobs/info/6a3ff54c3bfa967791ebfbba?utm_campaign=1055&utm_source=git)** | Greeley, CO | On Site | Jun 27 |
-| **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a3fe30f9dd7f954cafe759c?utm_campaign=1055&utm_source=git)** | San Diego California | On Site | Jun 27 |
-| **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 4](https://jobright.ai/jobs/info/6a3fe22f9dd7f954cafe7504?utm_campaign=1055&utm_source=git)** | Arlington Virginia | Hybrid | Jun 27 |
-| ↳ | **[Corporate Legal Intern (Hybrid)](https://jobright.ai/jobs/info/6a3fdff1d528ac2915f95ddc?utm_campaign=1055&utm_source=git)** | Arlington, Virginia | Hybrid | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
