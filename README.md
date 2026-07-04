@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CAMBA](https://camba.org/)** | **[Summer Legal Intern, CAMBA Legal Services](https://jobright.ai/jobs/info/6a4803313dbab558e29abd32?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Jul 03 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Legal Department Undergraduate Internship](https://jobright.ai/jobs/info/6a394bdaf6b55d12c792715b?utm_campaign=1055&utm_source=git)** | Washington D.C., DC | On Site | Jul 03 |
+| **[Array Digital Infrastructure, Inc.](https://www.arrayinc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3188e7c477a5075f48d7b9?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jul 03 |
+| **[CAMBA](https://camba.org/)** | **[Summer Legal Intern, CAMBA Legal Services](https://jobright.ai/jobs/info/6a4803313dbab558e29abd32?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Jul 03 |
 | **[Novastone Capital Advisors](https://www.novastone-ca.com)** | **[Internship: Legal/Paralegal](https://jobright.ai/jobs/info/6a3428e0649fdf16292f45ed?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 03 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a314dd55958816970013f85?utm_campaign=1055&utm_source=git)** | Worcester, MA, US | On Site | Jul 03 |
 | ↳ | **[Internship - YAD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a2864bb2d6c332ee52e5b26?utm_campaign=1055&utm_source=git)** | Worcester, MA, US | On Site | Jul 03 |
@@ -121,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Validity Inc.](https://www.validity.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a42a2dba5e15b1068379a07?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jun 29 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/6a29050e1dbd8437bebce8e3?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Jun 29 |
 | **[Eskenazi Health](http://www.eskenazihealth.edu/)** | **[COMPLIANCE INTERN (50080449)](https://jobright.ai/jobs/info/6a42a0c16c326942b4e83860?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, US, 46205 | On Site | Jun 29 |
-| **[First Chicago Insurance Company](https://www.firstchicagoinsurance.com/)** | **[Product Forms & Compliance Intern](https://jobright.ai/jobs/info/6a47e34d4f64ba41dcb5797e?utm_campaign=1055&utm_source=git)** | Bedford Park,IL,US | On Site | Jun 29 |
 | **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Policy and Procedure](https://jobright.ai/jobs/info/6a4622d43dbab558e29a463c?utm_campaign=1055&utm_source=git)** | Smithfield,RI,US | On Site | Jun 29 |
 | **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a417e9e1afc66714d3cad14?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 28 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Legal Intern – Commercial Legal (Fall 2026)](https://jobright.ai/jobs/info/6a3b68261232144fb1572959?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jun 28 |
