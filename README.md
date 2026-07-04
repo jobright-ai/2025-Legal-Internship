@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a8a3295f8e37655e02a3?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT | On Site | Jul 04 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Legal](https://jobright.ai/jobs/info/6a2cbb55c260bb1b8ae17966?utm_campaign=1055&utm_source=git)** | Garden Grove, CA | On Site | Jul 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Arbitration Strategy Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a34023ace501060b5ceedd6?utm_campaign=1055&utm_source=git)** | Los Angeles | On Site | Jul 04 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Customer Compliance Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6a44283565e80d3c99f2bd26?utm_campaign=1055&utm_source=git)** | Fort Wayne Indiana | On Site | Jul 03 |
