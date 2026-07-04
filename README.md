@@ -134,6 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Legal & Compliance](https://jobright.ai/jobs/info/6a313fab2ee3ac1b4beed83e?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jun 27 |
 | ↳ | **[Intern, Legal & Compliance](https://jobright.ai/jobs/info/6a3123830ff23769fdb1c3cf?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 27 |
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, Risk Advisory - Fall 2026, Cranberry Township](https://jobright.ai/jobs/info/6a0f21d4619335383fb2961a?utm_campaign=1055&utm_source=git)** | Cranberry Township, PA | Hybrid | Jun 27 |
-| **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e8bb733aa0c479643a497b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 27 |
-| ↳ | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
