@@ -133,6 +133,4 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a3fe30f9dd7f954cafe759c?utm_campaign=1055&utm_source=git)** | San Diego California | On Site | Jun 27 |
 | **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 4](https://jobright.ai/jobs/info/6a3fe22f9dd7f954cafe7504?utm_campaign=1055&utm_source=git)** | Arlington Virginia | Hybrid | Jun 27 |
 | ↳ | **[Corporate Legal Intern (Hybrid)](https://jobright.ai/jobs/info/6a3fdff1d528ac2915f95ddc?utm_campaign=1055&utm_source=git)** | Arlington, Virginia | Hybrid | Jun 27 |
-| **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Legal & Compliance](https://jobright.ai/jobs/info/6a313fab2ee3ac1b4beed83e?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jun 27 |
-| ↳ | **[Intern, Legal & Compliance](https://jobright.ai/jobs/info/6a3123830ff23769fdb1c3cf?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
