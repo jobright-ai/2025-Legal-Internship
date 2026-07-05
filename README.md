@@ -129,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/6a29050e1dbd8437bebce8e3?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Jun 29 |
 | **[Eskenazi Health](http://www.eskenazihealth.edu/)** | **[COMPLIANCE INTERN (50080449)](https://jobright.ai/jobs/info/6a42a0c16c326942b4e83860?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, US, 46205 | On Site | Jun 29 |
 | **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a417e9e1afc66714d3cad14?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jun 28 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Legal Intern – Commercial Legal (Fall 2026)](https://jobright.ai/jobs/info/6a3b68261232144fb1572959?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jun 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
