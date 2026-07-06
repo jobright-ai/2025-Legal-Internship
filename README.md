@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Global Trade Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/69d95303738f2f099e8a0ff5?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jul 06 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a4b79b05d7b097d2df3d6bc?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jul 05 |
 | **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a28676e883c0d3be6541c6f?utm_campaign=1055&utm_source=git)** | Denver, CO | Remote | Jul 05 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | Jul 05 |
@@ -83,7 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2026/27 Articling Student - Criminal & Family (Timmins)](https://jobright.ai/jobs/info/6a477d0b0dd56c76cc2fce46?utm_campaign=1055&utm_source=git)** | Timmins, Ontario, Canada | On Site | Jul 02 |
 | **[Chemence](http://chemence.com/)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a45406c4f64ba41dcb4cb96?utm_campaign=1055&utm_source=git)** | Alpharetta, GA, US | On Site | Jul 02 |
 | **[Vincennes University](http://www.vinu.edu/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4332bec8bca56ab2246705?utm_campaign=1055&utm_source=git)** | Vincennes, IN 47591, USA | On Site | Jul 02 |
-| **[State of Ohio](https://www.odh.ohio.gov/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4720714f64ba41dcb55f61?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jul 02 |
+| **[State of Ohio](http://ohio.gov/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4720714f64ba41dcb55f61?utm_campaign=1055&utm_source=git)** | Columbus, OH | On Site | Jul 02 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Reproductive Rights and Health Legal Internship](https://jobright.ai/jobs/info/6a46e06f8204a812e98ca500?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Remote | Jul 02 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, E&C Program & Control (Fall 2026)](https://jobright.ai/jobs/info/6a0e1c50c152ac782448366c?utm_campaign=1055&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jul 02 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6a46b6990dd56c76cc2fa9b3?utm_campaign=1055&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jul 02 |
@@ -126,5 +127,4 @@ For a complete list, click the following sortable link below:
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Legal Intern (Legal Aide)](https://jobright.ai/jobs/info/6a43cc050153061b8b3dc904?utm_campaign=1055&utm_source=git)** | Albany, NY, 12220 | Hybrid | Jun 29 |
 | **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Undergraduate Intern, Legal](https://jobright.ai/jobs/info/69cee43f366bb95ba5510b91?utm_campaign=1055&utm_source=git)** | Atlanta, GA, Atlanta, GA, US | On Site | Jun 29 |
 | **[Tsang & Associates, PLC](https://tsangslaw.com)** | **[Bilingual Legal Intern](https://jobright.ai/jobs/info/6a42f9ca1cc9cc2b12fed90e?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | Jun 29 |
-| **[Gardner-Webb University](http://gardner-webb.edu)** | **[Athletics Graduate Intern - Compliance](https://jobright.ai/jobs/info/6a42bbbc6faf756060967c8d?utm_campaign=1055&utm_source=git)** | Boiling Springs, NC, United States | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
