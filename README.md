@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Syntiant Corp.](https://www.syntiant.com)** | **[Product Compliance Intern](https://jobright.ai/jobs/info/6a4c1c666189f64e437f12ed?utm_campaign=1055&utm_source=git)** | Itasca, Illinois, United States | On Site | Jul 06 |
 | **[Dentons](http://www.dentons.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4c17adc2d11a6a46679f85?utm_campaign=1055&utm_source=git)** | New York City, New York | On Site | Jul 06 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a4c0a3a5d7b097d2df3f2c2?utm_campaign=1055&utm_source=git)** | 300 Wyandotte, Kansas City, MO 64105, United States of America | Hybrid | Jul 06 |
 | **[UG2](https://ug2.com/)** | **[Legal Intern - (Part-Time – up to 20 Hours/Week)](https://jobright.ai/jobs/info/6a4c0500971cd25b06f993f5?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jul 06 |
 | **[The Jeffcoat Firm](https://scinjurylawfirm.com)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/6a4bfcad4eb370649b27bd0c?utm_campaign=1055&utm_source=git)** | Columbia, SC | On Site | Jul 06 |
 | **[CAE](http://www.cae.de)** | **[C-DS-115 Contract Administration Internship-EN](https://jobright.ai/jobs/info/6a4bfe255d7b097d2df3f077?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jul 06 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/6a394f526484fb75f2b30ad2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 06 |
-| **[Moskowitz Legal Group, LLP](http://moskowitzlegalgroup.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6a4bb25f971cd25b06f97f11?utm_campaign=1055&utm_source=git)** | Hewlett, NY | On Site | Jul 06 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Fall 2026 Legal Intern, Community Access Programs Unit](https://jobright.ai/jobs/info/6a390e381232144fb1569921?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 06 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Global Trade Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/69d95303738f2f099e8a0ff5?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jul 06 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a4b79b05d7b097d2df3d6bc?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jul 05 |
@@ -130,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[IGT](http://www.gtech.com)** | **[Intern Technical](https://jobright.ai/jobs/info/6a0c08370411d7417a1b56f5?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Jun 30 |
 | ↳ | **[Intern Technical](https://jobright.ai/jobs/info/6a0ba7154d93203636873089?utm_campaign=1055&utm_source=git)** | Las Vegas, NV, US, 89113 | On Site | Jun 30 |
 | **[Wells Fargo](http://financial.wellsfargo.com)** | **[2027 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a461803076271587529f8f3?utm_campaign=1055&utm_source=git)** | US | Remote | Jun 30 |
-| **[Cartesia](https://www.cartesia.ai)** | **[Legal Intern (3L) - Fall 2026](https://jobright.ai/jobs/info/6a43410ae09ecb4959643bdf?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
