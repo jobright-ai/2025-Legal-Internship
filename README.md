@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moskowitz Legal Group, LLP](http://moskowitzlegalgroup.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6a4bb25f971cd25b06f97f11?utm_campaign=1055&utm_source=git)** | Hewlett, NY | On Site | Jul 06 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Fall 2026 Legal Intern, Community Access Programs Unit](https://jobright.ai/jobs/info/6a390e381232144fb1569921?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 06 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Global Trade Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/69d95303738f2f099e8a0ff5?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jul 06 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a4b79b05d7b097d2df3d6bc?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jul 05 |
