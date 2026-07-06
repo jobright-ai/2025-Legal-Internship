@@ -116,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[FourPoints Health](fourpointshealth.org)** | **[Legal Internship](https://jobright.ai/jobs/info/6a43f354105260150b72049f?utm_campaign=1055&utm_source=git)** | Utah, United States | Remote | Jun 30 |
 | **[NYS Division of Human Rights](https://dhr.ny.gov)** | **[Legal Intern (Legal Aide)](https://jobright.ai/jobs/info/6a43efa5ef17a815538a24e6?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Jun 30 |
 | **[Brady: United Against Gun Violence](https://www.bradyunited.org/)** | **[Law Student Legal Intern](https://jobright.ai/jobs/info/6a43d2ca105260150b71e459?utm_campaign=1055&utm_source=git)** | Washington, DC, US | On Site | Jun 30 |
-| **[Fox Corporation](https://www.foxcorporation.com)** | **[Fall 2026 FOX Corporation Internship Program - Business and Legal Affairs](https://jobright.ai/jobs/info/6a0accd8a203b1052e44eee6?utm_campaign=1055&utm_source=git)** | Los Angeles, CA | On Site | Jun 30 |
 | **[IGT](http://www.gtech.com)** | **[Intern Technical](https://jobright.ai/jobs/info/6a0c08370411d7417a1b56f5?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Jun 30 |
 | ↳ | **[Intern Technical](https://jobright.ai/jobs/info/6a0ba7154d93203636873089?utm_campaign=1055&utm_source=git)** | Las Vegas, NV, US, 89113 | On Site | Jun 30 |
 | **[Wells Fargo](http://financial.wellsfargo.com)** | **[2027 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a461803076271587529f8f3?utm_campaign=1055&utm_source=git)** | US | Remote | Jun 30 |
@@ -127,7 +126,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Undergraduate Intern, Legal](https://jobright.ai/jobs/info/69cee43f366bb95ba5510b91?utm_campaign=1055&utm_source=git)** | Atlanta, GA, Atlanta, GA, US | On Site | Jun 29 |
 | **[Tsang & Associates, PLC](https://tsangslaw.com)** | **[Bilingual Legal Intern](https://jobright.ai/jobs/info/6a42f9ca1cc9cc2b12fed90e?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | Jun 29 |
 | **[Gardner-Webb University](http://gardner-webb.edu)** | **[Athletics Graduate Intern - Compliance](https://jobright.ai/jobs/info/6a42bbbc6faf756060967c8d?utm_campaign=1055&utm_source=git)** | Boiling Springs, NC, United States | On Site | Jun 29 |
-| **[Validity Inc.](https://www.validity.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a42a2dba5e15b1068379a07?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jun 29 |
-| **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/6a29050e1dbd8437bebce8e3?utm_campaign=1055&utm_source=git)** | Centennial, CO | On Site | Jun 29 |
-| **[Eskenazi Health](http://www.eskenazihealth.edu/)** | **[COMPLIANCE INTERN (50080449)](https://jobright.ai/jobs/info/6a42a0c16c326942b4e83860?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, US, 46205 | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
