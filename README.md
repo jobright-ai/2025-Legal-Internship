@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Legal Assistance Group](https://www.nylag.org)** | **[Fall 2026 Legal Intern, Community Access Programs Unit](https://jobright.ai/jobs/info/6a390e381232144fb1569921?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 06 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Global Trade Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/69d95303738f2f099e8a0ff5?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jul 06 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a4b79b05d7b097d2df3d6bc?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jul 05 |
 | **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a28676e883c0d3be6541c6f?utm_campaign=1055&utm_source=git)** | Denver, CO | Remote | Jul 05 |
@@ -118,12 +119,12 @@ For a complete list, click the following sortable link below:
 | **[FourPoints Health](fourpointshealth.org)** | **[Legal Internship](https://jobright.ai/jobs/info/6a43f354105260150b72049f?utm_campaign=1055&utm_source=git)** | Utah, United States | Remote | Jun 30 |
 | **[NYS Division of Human Rights](https://dhr.ny.gov)** | **[Legal Intern (Legal Aide)](https://jobright.ai/jobs/info/6a43efa5ef17a815538a24e6?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Jun 30 |
 | **[Brady: United Against Gun Violence](https://www.bradyunited.org/)** | **[Law Student Legal Intern](https://jobright.ai/jobs/info/6a43d2ca105260150b71e459?utm_campaign=1055&utm_source=git)** | Washington, DC, US | On Site | Jun 30 |
+| **[Community Legal Aid](http://www.communitylegal.org)** | **[Public Interest Law Student Internship](https://jobright.ai/jobs/info/6a4ba4914eb370649b27a7a6?utm_campaign=1055&utm_source=git)** | 370 Main Street, Worcester, MA, USA | On Site | Jun 30 |
 | **[IGT](http://www.gtech.com)** | **[Intern Technical](https://jobright.ai/jobs/info/6a0c08370411d7417a1b56f5?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Jun 30 |
 | ↳ | **[Intern Technical](https://jobright.ai/jobs/info/6a0ba7154d93203636873089?utm_campaign=1055&utm_source=git)** | Las Vegas, NV, US, 89113 | On Site | Jun 30 |
 | **[Wells Fargo](http://financial.wellsfargo.com)** | **[2027 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a461803076271587529f8f3?utm_campaign=1055&utm_source=git)** | US | Remote | Jun 30 |
 | **[Cartesia](https://www.cartesia.ai)** | **[Legal Intern (3L) - Fall 2026](https://jobright.ai/jobs/info/6a43410ae09ecb4959643bdf?utm_campaign=1055&utm_source=git)** | San Francisco, CA | On Site | Jun 29 |
 | **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6a432c92e09ecb49596424c8?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Jun 29 |
-| **[Community Legal Aid](http://www.communitylegal.org)** | **[Public Interest Law Student Internship](https://jobright.ai/jobs/info/6a45b5d43dbab558e29a2019?utm_campaign=1055&utm_source=git)** | 370 Main Street, Worcester, MA, USA | On Site | Jun 29 |
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Legal Intern (Legal Aide)](https://jobright.ai/jobs/info/6a43cc050153061b8b3dc904?utm_campaign=1055&utm_source=git)** | Albany, NY, 12220 | Hybrid | Jun 29 |
 | **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Undergraduate Intern, Legal](https://jobright.ai/jobs/info/69cee43f366bb95ba5510b91?utm_campaign=1055&utm_source=git)** | Atlanta, GA, Atlanta, GA, US | On Site | Jun 29 |
 | **[Tsang & Associates, PLC](https://tsangslaw.com)** | **[Bilingual Legal Intern](https://jobright.ai/jobs/info/6a42f9ca1cc9cc2b12fed90e?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | Jun 29 |
