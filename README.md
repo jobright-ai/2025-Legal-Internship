@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Jeffcoat Firm](https://scinjurylawfirm.com)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/6a4bfcad4eb370649b27bd0c?utm_campaign=1055&utm_source=git)** | Columbia, SC | On Site | Jul 06 |
+| **[CAE](http://www.cae.de)** | **[C-DS-115 Contract Administration Internship-EN](https://jobright.ai/jobs/info/6a4bfe255d7b097d2df3f077?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jul 06 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/6a394f526484fb75f2b30ad2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 06 |
 | **[Moskowitz Legal Group, LLP](http://moskowitzlegalgroup.com)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6a4bb25f971cd25b06f97f11?utm_campaign=1055&utm_source=git)** | Hewlett, NY | On Site | Jul 06 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Fall 2026 Legal Intern, Community Access Programs Unit](https://jobright.ai/jobs/info/6a390e381232144fb1569921?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 06 |
