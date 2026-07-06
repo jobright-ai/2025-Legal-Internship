@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dentons](http://www.dentons.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4c17adc2d11a6a46679f85?utm_campaign=1055&utm_source=git)** | New York City, New York | On Site | Jul 06 |
+| **[Sporting Kansas City](http://www.sportingkc.com)** | **[Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a4c0a3a5d7b097d2df3f2c2?utm_campaign=1055&utm_source=git)** | 300 Wyandotte, Kansas City, MO 64105, United States of America | Hybrid | Jul 06 |
+| **[UG2](https://ug2.com/)** | **[Legal Intern - (Part-Time – up to 20 Hours/Week)](https://jobright.ai/jobs/info/6a4c0500971cd25b06f993f5?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jul 06 |
 | **[The Jeffcoat Firm](https://scinjurylawfirm.com)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/6a4bfcad4eb370649b27bd0c?utm_campaign=1055&utm_source=git)** | Columbia, SC | On Site | Jul 06 |
 | **[CAE](http://www.cae.de)** | **[C-DS-115 Contract Administration Internship-EN](https://jobright.ai/jobs/info/6a4bfe255d7b097d2df3f077?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jul 06 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/6a394f526484fb75f2b30ad2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 06 |
