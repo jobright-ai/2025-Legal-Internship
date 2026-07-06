@@ -128,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6a432c92e09ecb49596424c8?utm_campaign=1055&utm_source=git)** | Durham, NC | On Site | Jun 29 |
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Legal Intern (Legal Aide)](https://jobright.ai/jobs/info/6a43cc050153061b8b3dc904?utm_campaign=1055&utm_source=git)** | Albany, NY, 12220 | Hybrid | Jun 29 |
 | **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Undergraduate Intern, Legal](https://jobright.ai/jobs/info/69cee43f366bb95ba5510b91?utm_campaign=1055&utm_source=git)** | Atlanta, GA, Atlanta, GA, US | On Site | Jun 29 |
-| **[Tsang & Associates, PLC](https://tsangslaw.com)** | **[Bilingual Legal Intern](https://jobright.ai/jobs/info/6a42f9ca1cc9cc2b12fed90e?utm_campaign=1055&utm_source=git)** | Cerritos, CA | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
