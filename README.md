@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Law Library & Records Management Intern](https://jobright.ai/jobs/info/6a4c2c994f64ba41dcb5ec8c?utm_campaign=1055&utm_source=git)** | 712 South Stagecoach Trail, San Marcos, TX | On Site | Jul 06 |
 | **[Syntiant Corp.](https://www.syntiant.com)** | **[Product Compliance Intern](https://jobright.ai/jobs/info/6a4c1c666189f64e437f12ed?utm_campaign=1055&utm_source=git)** | Itasca, Illinois, United States | On Site | Jul 06 |
 | **[Dentons](http://www.dentons.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4c17adc2d11a6a46679f85?utm_campaign=1055&utm_source=git)** | New York City, New York | On Site | Jul 06 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a4c0a3a5d7b097d2df3f2c2?utm_campaign=1055&utm_source=git)** | 300 Wyandotte, Kansas City, MO 64105, United States of America | Hybrid | Jul 06 |
