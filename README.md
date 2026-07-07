@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBSS](http://ibsscorp.com)** | **[CMMC Analyst Intern](https://jobright.ai/jobs/info/6a4d5ea83122a76a8fd553c6?utm_campaign=1055&utm_source=git)** | Silver Spring, MD, United States | Hybrid | Jul 07 |
+| **[Bexar County Information Technology](http://www.bexar.org/it)** | **[Intern - Legal - District Court - Civil](https://jobright.ai/jobs/info/6a4d520f3122a76a8fd550de?utm_campaign=1055&utm_source=git)** | County Courthouse, United States | On Site | Jul 07 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Paralegal Intern- Fall 2026](https://jobright.ai/jobs/info/6a4d42d399523700cbff4faf?utm_campaign=1055&utm_source=git)** | AL, United States | Remote | Jul 07 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Intern](https://jobright.ai/jobs/info/6a4d226535e45603c4bb2b0d?utm_campaign=1055&utm_source=git)** | MORRISTOWN, NJ, US | On Site | Jul 07 |
 | **[New Mexico Mutual](https://www.newmexicomutual.com/)** | **[Claims Administration Intern](https://jobright.ai/jobs/info/6a4d31f0c643fd23fed3c16d?utm_campaign=1055&utm_source=git)** | Albuquerque, NM, United States | On Site | Jul 07 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL, United States | On Site | Jul 07 |
+| **[Guest and Gray Law Firm](https://www.guestandgray.com)** | **[Law Student Intern](https://jobright.ai/jobs/info/6a4d51983122a76a8fd550c4?utm_campaign=1055&utm_source=git)** | Forney, TX, United States | On Site | Jul 07 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[CSRR-2026-8i Enforcement and Investigation Intern](https://jobright.ai/jobs/info/6a44069957ffc22029405f69?utm_campaign=1055&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 06 |
 | **[Washington Lawyers'​ Committee for Civil Rights and Urban Affairs](https://www.washlaw.org/)** | **[DC Area Civil Rights Legal Internship](https://jobright.ai/jobs/info/6a39b76f6484fb75f2b335c7?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 06 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Law Library & Records Management Intern](https://jobright.ai/jobs/info/6a4c2c994f64ba41dcb5ec8c?utm_campaign=1055&utm_source=git)** | 712 South Stagecoach Trail, San Marcos, TX | On Site | Jul 06 |
