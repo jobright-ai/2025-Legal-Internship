@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IBSS](http://ibsscorp.com)** | **[CMMC Analyst Intern](https://jobright.ai/jobs/info/6a4d5ea83122a76a8fd553c6?utm_campaign=1055&utm_source=git)** | Silver Spring, MD, United States | Hybrid | Jul 07 |
+| **[Wipfli](http://www.wipfli.com)** | **[IT Procurement Internship](https://jobright.ai/jobs/info/6a4d6a2d4c6c9f7a619f7bd0?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Bexar County Information Technology](http://www.bexar.org/it)** | **[Intern - Legal - District Court - Civil](https://jobright.ai/jobs/info/6a4d520f3122a76a8fd550de?utm_campaign=1055&utm_source=git)** | County Courthouse, United States | On Site | Jul 07 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Paralegal Intern- Fall 2026](https://jobright.ai/jobs/info/6a4d42d399523700cbff4faf?utm_campaign=1055&utm_source=git)** | AL, United States | Remote | Jul 07 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Intern](https://jobright.ai/jobs/info/6a4d226535e45603c4bb2b0d?utm_campaign=1055&utm_source=git)** | MORRISTOWN, NJ, US | On Site | Jul 07 |
+| **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Law Clerk - Intern](https://jobright.ai/jobs/info/6a46b7928204a812e98c9a88?utm_campaign=1055&utm_source=git)** | Topeka, KS, United States | On Site | Jul 07 |
 | **[New Mexico Mutual](https://www.newmexicomutual.com/)** | **[Claims Administration Intern](https://jobright.ai/jobs/info/6a4d31f0c643fd23fed3c16d?utm_campaign=1055&utm_source=git)** | Albuquerque, NM, United States | On Site | Jul 07 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL, United States | On Site | Jul 07 |
 | **[Guest and Gray Law Firm](https://www.guestandgray.com)** | **[Law Student Intern](https://jobright.ai/jobs/info/6a4d51983122a76a8fd550c4?utm_campaign=1055&utm_source=git)** | Forney, TX, United States | On Site | Jul 07 |
@@ -117,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Immigration Intern (UNPAID)](https://jobright.ai/jobs/info/6a46a8068204a812e98c9595?utm_campaign=1055&utm_source=git)** | Wichita, KS USA, United States of America | On Site | Jul 02 |
 | **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Pro Bono Program (Fall)](https://jobright.ai/jobs/info/6a46486b4f64ba41dcb51cce?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | Jul 02 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Liberty and National Security Legal Internship](https://jobright.ai/jobs/info/6a462559c2d11a6a4666c69d?utm_campaign=1055&utm_source=git)** | Washington D.C., DC | On Site | Jul 02 |
-| **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Law Clerk - Intern](https://jobright.ai/jobs/info/6a46b7928204a812e98c9a88?utm_campaign=1055&utm_source=git)** | Topeka, KS, United States | On Site | Jul 01 |
 | **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a2d1cb8c260bb1b8ae184f4?utm_campaign=1055&utm_source=git)** | Denver, CO | Remote | Jul 01 |
 | **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027 2L Summer Law Student - Family (Windsor)](https://jobright.ai/jobs/info/6a3d6c1bd261407de98004c6?utm_campaign=1055&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jul 01 |
 | **[EnergyHub](http://www.energyhub.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a2980c20c4972328e7e3cb4?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Jul 01 |
