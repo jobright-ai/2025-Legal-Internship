@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Paralegal Intern- Fall 2026](https://jobright.ai/jobs/info/6a4d42d399523700cbff4faf?utm_campaign=1055&utm_source=git)** | AL, United States | Remote | Jul 07 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Intern](https://jobright.ai/jobs/info/6a4d226535e45603c4bb2b0d?utm_campaign=1055&utm_source=git)** | MORRISTOWN, NJ, US | On Site | Jul 07 |
 | **[New Mexico Mutual](https://www.newmexicomutual.com/)** | **[Claims Administration Intern](https://jobright.ai/jobs/info/6a4d31f0c643fd23fed3c16d?utm_campaign=1055&utm_source=git)** | Albuquerque, NM, United States | On Site | Jul 07 |
-| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL | On Site | Jul 07 |
+| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL, United States | On Site | Jul 07 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[CSRR-2026-8i Enforcement and Investigation Intern](https://jobright.ai/jobs/info/6a44069957ffc22029405f69?utm_campaign=1055&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 06 |
 | **[Washington Lawyers'​ Committee for Civil Rights and Urban Affairs](https://www.washlaw.org/)** | **[DC Area Civil Rights Legal Internship](https://jobright.ai/jobs/info/6a39b76f6484fb75f2b335c7?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 06 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Law Library & Records Management Intern](https://jobright.ai/jobs/info/6a4c2c994f64ba41dcb5ec8c?utm_campaign=1055&utm_source=git)** | 712 South Stagecoach Trail, San Marcos, TX | On Site | Jul 06 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/6a394f526484fb75f2b30ad2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 06 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Fall 2026 Legal Intern, Community Access Programs Unit](https://jobright.ai/jobs/info/6a390e381232144fb1569921?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 06 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Global Trade Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/69d95303738f2f099e8a0ff5?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jul 06 |
-| **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a4b79b05d7b097d2df3d6bc?utm_campaign=1055&utm_source=git)** | Nashville, TN | On Site | Jul 05 |
 | **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a28676e883c0d3be6541c6f?utm_campaign=1055&utm_source=git)** | Denver, CO | Remote | Jul 05 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | Jul 05 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Quincy - Fall 2026](https://jobright.ai/jobs/info/6a2864c12d6c332ee52e5b27?utm_campaign=1055&utm_source=git)** | Quincy, MA, US | On Site | Jul 04 |
@@ -123,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027 2L Summer Law Student - Family (Toronto)](https://jobright.ai/jobs/info/6a3d51bb122f340d29cefedd?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 01 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Spanish-fluent Immigration Legal Services Intern](https://jobright.ai/jobs/info/6a45f62c4f64ba41dcb4f74f?utm_campaign=1055&utm_source=git)** | Bridgeport, CT, US | On Site | Jul 01 |
 | **[LatinoJustice PRLDEF](https://www.latinojustice.org/en)** | **[Legal Intern I Fall 2026](https://jobright.ai/jobs/info/6a44eaa151d0d05163ccc857?utm_campaign=1055&utm_source=git)** | New York, NY, US | Hybrid | Jul 01 |
-| **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Spanish-fluent Immigration Legal Services Intern](https://jobright.ai/jobs/info/6a4477dc65e80d3c99f2cac0?utm_campaign=1055&utm_source=git)** | Bridgeport, CT | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
