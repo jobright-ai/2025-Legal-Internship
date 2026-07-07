@@ -130,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Community Legal Aid](http://www.communitylegal.org)** | **[Public Interest Law Student Internship](https://jobright.ai/jobs/info/6a4ba4914eb370649b27a7a6?utm_campaign=1055&utm_source=git)** | 370 Main Street, Worcester, MA, USA | On Site | Jun 30 |
 | **[IGT](http://www.gtech.com)** | **[Intern Technical](https://jobright.ai/jobs/info/6a0c08370411d7417a1b56f5?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Jun 30 |
 | ↳ | **[Intern Technical](https://jobright.ai/jobs/info/6a0ba7154d93203636873089?utm_campaign=1055&utm_source=git)** | Las Vegas, NV, US, 89113 | On Site | Jun 30 |
-| **[Wells Fargo](http://financial.wellsfargo.com)** | **[2027 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a461803076271587529f8f3?utm_campaign=1055&utm_source=git)** | US | Remote | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
