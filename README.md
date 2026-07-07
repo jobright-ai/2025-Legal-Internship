@@ -129,6 +129,4 @@ For a complete list, click the following sortable link below:
 | **[NYS Division of Human Rights](https://dhr.ny.gov)** | **[Legal Intern (Legal Aide)](https://jobright.ai/jobs/info/6a43efa5ef17a815538a24e6?utm_campaign=1055&utm_source=git)** | Albany, NY | On Site | Jun 30 |
 | **[Brady: United Against Gun Violence](https://www.bradyunited.org/)** | **[Law Student Legal Intern](https://jobright.ai/jobs/info/6a43d2ca105260150b71e459?utm_campaign=1055&utm_source=git)** | Washington, DC, US | On Site | Jun 30 |
 | **[Community Legal Aid](http://www.communitylegal.org)** | **[Public Interest Law Student Internship](https://jobright.ai/jobs/info/6a4ba4914eb370649b27a7a6?utm_campaign=1055&utm_source=git)** | 370 Main Street, Worcester, MA, USA | On Site | Jun 30 |
-| **[IGT](http://www.gtech.com)** | **[Intern Technical](https://jobright.ai/jobs/info/6a0c08370411d7417a1b56f5?utm_campaign=1055&utm_source=git)** | Las Vegas, NV | On Site | Jun 30 |
-| ↳ | **[Intern Technical](https://jobright.ai/jobs/info/6a0ba7154d93203636873089?utm_campaign=1055&utm_source=git)** | Las Vegas, NV, US, 89113 | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
