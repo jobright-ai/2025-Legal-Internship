@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Morro Bay](https://www.morrobayca.gov)** | **[Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6a4db063c643fd23fed3db5f?utm_campaign=1055&utm_source=git)** | Morro Bay, CA, United States | On Site | Jul 07 |
+| **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Child Support Law Clerk Internship](https://jobright.ai/jobs/info/6a4da8263122a76a8fd5634e?utm_campaign=1055&utm_source=git)** | Santa Rosa, CA, United States | On Site | Jul 07 |
 | **[Shield HealthCare - Medical Supplies for Care at Home Since 1957](http://shieldhealthcare.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a3495b7f6b55d12c791d754?utm_campaign=1055&utm_source=git)** | Valencia, CA, US | On Site | Jul 07 |
 | **[Wipfli](http://www.wipfli.com)** | **[IT Procurement Internship](https://jobright.ai/jobs/info/6a4d6a2d4c6c9f7a619f7bd0?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Bexar County Information Technology](http://www.bexar.org/it)** | **[Intern - Legal - District Court - Civil](https://jobright.ai/jobs/info/6a4d520f3122a76a8fd550de?utm_campaign=1055&utm_source=git)** | County Courthouse, United States | On Site | Jul 07 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Paralegal Intern- Fall 2026](https://jobright.ai/jobs/info/6a4d42d399523700cbff4faf?utm_campaign=1055&utm_source=git)** | AL, United States | Remote | Jul 07 |
+| **[Triumph Law, P.C.](https://www.triumphlaw.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/6a4da5480209ea6fd6852dfc?utm_campaign=1055&utm_source=git)** | Folsom, CA, United States | On Site | Jul 07 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Intern](https://jobright.ai/jobs/info/6a4d226535e45603c4bb2b0d?utm_campaign=1055&utm_source=git)** | MORRISTOWN, NJ, US | On Site | Jul 07 |
 | **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Law Clerk - Intern](https://jobright.ai/jobs/info/6a46b7928204a812e98c9a88?utm_campaign=1055&utm_source=git)** | Topeka, KS, United States | On Site | Jul 07 |
 | **[New Mexico Mutual](https://www.newmexicomutual.com/)** | **[Claims Administration Intern](https://jobright.ai/jobs/info/6a4d31f0c643fd23fed3c16d?utm_campaign=1055&utm_source=git)** | Albuquerque, NM, United States | On Site | Jul 07 |
