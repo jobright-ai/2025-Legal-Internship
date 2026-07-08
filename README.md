@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2026 Compliance Internship](https://jobright.ai/jobs/info/6a4eadea0ea38951a6ff4180?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 08 |
 | **[Amica Center for Immigrant Rights](https://amicacenter.org)** | **[Undergraduate Internship, Detained Adult Program - Direct Representation](https://jobright.ai/jobs/info/6a4e7d021544d7246c0d2fb7?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Jul 08 |
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Law Student Intern](https://jobright.ai/jobs/info/6a4e5f3a9469c0662034af51?utm_campaign=1055&utm_source=git)** | New York, NY, 10006 | Hybrid | Jul 08 |
 | **[Dentons](http://www.dentons.com)** | **[Legal Intern Job Details / Dentons](https://jobright.ai/jobs/info/6a4e4a750ea38951a6ff2943?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Paralegal Intern- Fall 2026](https://jobright.ai/jobs/info/6a4d42d399523700cbff4faf?utm_campaign=1055&utm_source=git)** | AL, United States | Remote | Jul 07 |
 | **[Triumph Law, P.C.](https://www.triumphlaw.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/6a4da5480209ea6fd6852dfc?utm_campaign=1055&utm_source=git)** | Folsom, CA, United States | On Site | Jul 07 |
 | **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Law Clerk - Intern](https://jobright.ai/jobs/info/6a46b7928204a812e98c9a88?utm_campaign=1055&utm_source=git)** | Topeka, KS, United States | On Site | Jul 07 |
-| **[Guest and Gray Law Firm](http://guestandgray.com)** | **[Law Student Intern](https://jobright.ai/jobs/info/6a4d51983122a76a8fd550c4?utm_campaign=1055&utm_source=git)** | Forney, TX, United States | On Site | Jul 07 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[CSRR-2026-8i Enforcement and Investigation Intern](https://jobright.ai/jobs/info/6a44069957ffc22029405f69?utm_campaign=1055&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 06 |
 | **[Washington Lawyers'​ Committee for Civil Rights and Urban Affairs](https://www.washlaw.org/)** | **[DC Area Civil Rights Legal Internship](https://jobright.ai/jobs/info/6a39b76f6484fb75f2b335c7?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 06 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Law Library & Records Management Intern](https://jobright.ai/jobs/info/6a4c2c994f64ba41dcb5ec8c?utm_campaign=1055&utm_source=git)** | 712 South Stagecoach Trail, San Marcos, TX | On Site | Jul 06 |
@@ -119,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Immigration Intern (UNPAID)](https://jobright.ai/jobs/info/6a46a8068204a812e98c9595?utm_campaign=1055&utm_source=git)** | Wichita, KS USA, United States of America | On Site | Jul 02 |
 | **[Legal Aid DC](https://www.legalaiddc.org)** | **[Intern, Pro Bono Program (Fall)](https://jobright.ai/jobs/info/6a46486b4f64ba41dcb51cce?utm_campaign=1055&utm_source=git)** | Washington,DC,US | Hybrid | Jul 02 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Liberty and National Security Legal Internship](https://jobright.ai/jobs/info/6a462559c2d11a6a4666c69d?utm_campaign=1055&utm_source=git)** | Washington D.C., DC | On Site | Jul 02 |
-| **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a2d1cb8c260bb1b8ae184f4?utm_campaign=1055&utm_source=git)** | Denver, CO | Remote | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
