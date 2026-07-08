@@ -127,5 +127,4 @@ For a complete list, click the following sortable link below:
 | **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027 2L Summer Law Student - Family (Windsor)](https://jobright.ai/jobs/info/6a3d6c1bd261407de98004c6?utm_campaign=1055&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jul 01 |
 | **[EnergyHub](http://www.energyhub.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a2980c20c4972328e7e3cb4?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Jul 01 |
 | **[Beacon Bank](https://www.beaconbank.com/)** | **[Fraud Investigator Intern](https://jobright.ai/jobs/info/6a459b4048d2f00f2a86e1d6?utm_campaign=1055&utm_source=git)** | 131 Clarendon St, Boston, MA,02117 | On Site | Jul 01 |
-| **[EverPass Media](https://everpass.com)** | **[Content Protection & Compliance Intern](https://jobright.ai/jobs/info/6a45573f0dd56c76cc2f318c?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
