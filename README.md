@@ -126,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a2d1cb8c260bb1b8ae184f4?utm_campaign=1055&utm_source=git)** | Denver, CO | Remote | Jul 01 |
 | **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027 2L Summer Law Student - Family (Windsor)](https://jobright.ai/jobs/info/6a3d6c1bd261407de98004c6?utm_campaign=1055&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jul 01 |
 | **[EnergyHub](http://www.energyhub.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a2980c20c4972328e7e3cb4?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | On Site | Jul 01 |
-| **[Beacon Bank](https://www.beaconbank.com/)** | **[Fraud Investigator Intern](https://jobright.ai/jobs/info/6a459b4048d2f00f2a86e1d6?utm_campaign=1055&utm_source=git)** | 131 Clarendon St, Boston, MA,02117 | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
