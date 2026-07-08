@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Airbus Aircraft](http://www.airbus.com)** | **[Long-term Internship - Ethics & Compliance](https://jobright.ai/jobs/info/6a4e03cdbc9c765d1ef83bb9?utm_campaign=1055&utm_source=git)** | Herndon, VA, United States | On Site | Jul 08 |
+| **[New Mexico Mutual](https://www.newmexicomutual.com/)** | **[Claims Administration Intern](https://jobright.ai/jobs/info/6a4d31f0c643fd23fed3c16d?utm_campaign=1055&utm_source=git)** | Albuquerque, NM, United States | On Site | Jul 08 |
 | **[City of Morro Bay](https://www.morrobayca.gov)** | **[Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6a4db063c643fd23fed3db5f?utm_campaign=1055&utm_source=git)** | Morro Bay, CA, United States | On Site | Jul 07 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Child Support Law Clerk Internship](https://jobright.ai/jobs/info/6a4da8263122a76a8fd5634e?utm_campaign=1055&utm_source=git)** | Santa Rosa, CA, United States | On Site | Jul 07 |
 | **[Shield HealthCare - Medical Supplies for Care at Home Since 1957](http://shieldhealthcare.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a3495b7f6b55d12c791d754?utm_campaign=1055&utm_source=git)** | Valencia, CA, US | On Site | Jul 07 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Paralegal Intern- Fall 2026](https://jobright.ai/jobs/info/6a4d42d399523700cbff4faf?utm_campaign=1055&utm_source=git)** | AL, United States | Remote | Jul 07 |
 | **[Triumph Law, P.C.](https://www.triumphlaw.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/6a4da5480209ea6fd6852dfc?utm_campaign=1055&utm_source=git)** | Folsom, CA, United States | On Site | Jul 07 |
 | **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Law Clerk - Intern](https://jobright.ai/jobs/info/6a46b7928204a812e98c9a88?utm_campaign=1055&utm_source=git)** | Topeka, KS, United States | On Site | Jul 07 |
-| **[New Mexico Mutual](https://www.newmexicomutual.com/)** | **[Claims Administration Intern](https://jobright.ai/jobs/info/6a4d31f0c643fd23fed3c16d?utm_campaign=1055&utm_source=git)** | Albuquerque, NM, United States | On Site | Jul 07 |
 | **[Baltimore Witness](https://baltimorewitness.org)** | **[Protective Order Case Tracker Fall Internship](https://jobright.ai/jobs/info/6a4db5e9d27b2c4dda9b85f1?utm_campaign=1055&utm_source=git)** | Baltimore, MD, United States | On Site | Jul 07 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a6577796a83635f0991c?utm_campaign=1055&utm_source=git)** | Matteson, IL, United States | On Site | Jul 07 |
 | **[Guest and Gray Law Firm](https://www.guestandgray.com)** | **[Law Student Intern](https://jobright.ai/jobs/info/6a4d51983122a76a8fd550c4?utm_campaign=1055&utm_source=git)** | Forney, TX, United States | On Site | Jul 07 |
