@@ -117,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Graduate Year-Round - Regulatory and Contract Law, Hybrid](https://jobright.ai/jobs/info/6a4692fd971cd25b06f8f3a9?utm_campaign=1055&utm_source=git)** | Albuquerque, NM | Hybrid | Jul 02 |
 | **[Centric Brands](https://centricbrands.com)** | **[On-site Fall 2026 Internship - Customs Compliance (Greensboro, NC)](https://jobright.ai/jobs/info/6a4681873dbab558e29a761a?utm_campaign=1055&utm_source=git)** | Greensboro, NC, US | On Site | Jul 02 |
 | ↳ | **[On-site Fall 2026 Internship - Chargeback Compliance (Greensboro, NC)](https://jobright.ai/jobs/info/6a468178c2d11a6a4666f47b?utm_campaign=1055&utm_source=git)** | Greensboro, NC, US | On Site | Jul 02 |
-| **[Everllence](https://www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6837e25415a8280daf514dbc?utm_campaign=1055&utm_source=git)** | Brookshire, TX | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
