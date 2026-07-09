@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Indiana Legal Services, Inc.](https://www.indianalegalservices.org/)** | **[Part-Time Legal Internship](https://jobright.ai/jobs/info/6a4fed9cfc327f422fef71b0?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Jul 09 |
+| **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Estate Planning Intern](https://jobright.ai/jobs/info/6a4fe30c397d8d353c28cfdb?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 09 |
+| **[Euna Solutions](https://eunasolutions.com/)** | **[Contract Reconciliation Analyst/Internship](https://jobright.ai/jobs/info/6a4fdd65fc327f422fef6cef?utm_campaign=1055&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Jul 09 |
+| **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Estate Planning Intern](https://jobright.ai/jobs/info/6a4fd9e3fc327f422fef6c71?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 09 |
 | **[The Khalsa Law Firm](https://khalsalaw.com)** | **[Legal Office, Marketing & Client Experience Fall Intern NYC](https://jobright.ai/jobs/info/6a4fd533f57ed168c3416fb6?utm_campaign=1055&utm_source=git)** | NYC Metro Area | On Site | Jul 09 |
 | **[Anchor Home](https://anchorhomeinc.com)** | **[Nursing Quality & Compliance Internship [Fall 2026]](https://jobright.ai/jobs/info/6a3d3b60882f121f56a36833?utm_campaign=1055&utm_source=git)** | Timonium, MD, United States | On Site | Jul 09 |
 | **[W. W. Norton & Company, Inc.](http://www.wwnorton.com)** | **[Contracts Department Internship, Fall 2026](https://jobright.ai/jobs/info/6a4fc5a24649561ec08aed85?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
@@ -68,8 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Impact Litigation Intern](https://jobright.ai/jobs/info/6a4ed3b815b4965afd584cae?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | On Site | Jul 08 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2026 Compliance Internship](https://jobright.ai/jobs/info/6a4eadea0ea38951a6ff4180?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 08 |
 | **[Lyten](http://www.lyten.com)** | **[Intern - Commercial Legal](https://jobright.ai/jobs/info/6a35e9d429c90c607e4e3fd0?utm_campaign=1055&utm_source=git)** | San Jose, CA, US | On Site | Jul 08 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jul 08 |
-| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jul 08 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jul 08 |
+| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jul 08 |
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Law Student Intern](https://jobright.ai/jobs/info/6a4e5f3a9469c0662034af51?utm_campaign=1055&utm_source=git)** | New York, NY, 10006 | Hybrid | Jul 08 |
 | **[Dentons](http://www.dentons.com)** | **[Legal Intern Job Details / Dentons](https://jobright.ai/jobs/info/6a4e4a750ea38951a6ff2943?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3189cde7b7d514a3bd3f05?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jul 08 |
@@ -84,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Bexar County Information Technology](http://www.bexar.org/it)** | **[Intern - Legal - District Court - Civil](https://jobright.ai/jobs/info/6a4d520f3122a76a8fd550de?utm_campaign=1055&utm_source=git)** | County Courthouse, United States | On Site | Jul 07 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Paralegal Intern- Fall 2026](https://jobright.ai/jobs/info/6a4d42d399523700cbff4faf?utm_campaign=1055&utm_source=git)** | AL, United States | Remote | Jul 07 |
 | **[Triumph Law, P.C.](https://www.triumphlaw.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/6a4da5480209ea6fd6852dfc?utm_campaign=1055&utm_source=git)** | Folsom, CA, United States | On Site | Jul 07 |
-| **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Law Clerk - Intern](https://jobright.ai/jobs/info/6a46b7928204a812e98c9a88?utm_campaign=1055&utm_source=git)** | Topeka, KS, United States | On Site | Jul 07 |
 | **[Airbus](https://us.airbus.com)** | **[Long-term Internship - Ethics & Compliance](https://jobright.ai/jobs/info/6a4f9119f57ed168c3416056?utm_campaign=1055&utm_source=git)** | Herndon Area, VA, United States of America | Hybrid | Jul 07 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[CSRR-2026-8i Enforcement and Investigation Intern](https://jobright.ai/jobs/info/6a44069957ffc22029405f69?utm_campaign=1055&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 06 |
 | **[Washington Lawyers'​ Committee for Civil Rights and Urban Affairs](https://www.washlaw.org/)** | **[DC Area Civil Rights Legal Internship](https://jobright.ai/jobs/info/6a39b76f6484fb75f2b335c7?utm_campaign=1055&utm_source=git)** | Washington, DC | Hybrid | Jul 06 |
@@ -113,6 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Fairview LLC](https://fairviewinvest.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a481229c2d11a6a46673aef?utm_campaign=1055&utm_source=git)** | Raleigh, NC | On Site | Jul 03 |
 | **[Locus Robotics](http://www.locusrobotics.com)** | **[Enterprise Security, Risk and Compliance Co-Op/Internship](https://jobright.ai/jobs/info/6a44221eef17a815538a3004?utm_campaign=1055&utm_source=git)** | Wilmington, MA | Hybrid | Jul 03 |
 | **[Validity Inc.](https://www.validity.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4737178204a812e98cb533?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jul 02 |
-| **[Bottlenotes Inc.](http://www.bottlenotes.com)** | **[Policy and Document Management Intern](https://jobright.ai/jobs/info/6a47b4b63dbab558e29ab0b6?utm_campaign=1055&utm_source=git)** | Sewickley, PA | On Site | Jul 02 |
-| **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2026/27 Articling Student - Criminal & Family (Timmins)](https://jobright.ai/jobs/info/6a477d0b0dd56c76cc2fce46?utm_campaign=1055&utm_source=git)** | Timmins, Ontario, Canada | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
