@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ENGIE](http://www.engie.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a5040591544d7246c0d83de?utm_campaign=1055&utm_source=git)** | USA_Houston_TX2 | Hybrid | Jul 09 |
 | **[Sony](https://www.sony.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a502235397d8d353c28e032?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jul 09 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Temporary Student Intern - Regulatory Compliance](https://jobright.ai/jobs/info/6a50131bf57ed168c3417ecd?utm_campaign=1055&utm_source=git)** | 3512 Michelson, Irvine, CA, United States | On Site | Jul 09 |
 | **[Bronx County District Attorney Office](https://www.bronxda.nyc.gov/html/home/home.shtml)** | **[Law School Summer (2L) Intern 2027](https://jobright.ai/jobs/info/6a502cdefc327f422fef8184?utm_campaign=1055&utm_source=git)** | Bronx, NY, United States | On Site | Jul 09 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Department Governance Intern](https://jobright.ai/jobs/info/6a4ffcbf397d8d353c28d605?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
-| **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Child Support Law Clerk Internship](https://jobright.ai/jobs/info/6a4ff8d3f57ed168c34177d3?utm_campaign=1055&utm_source=git)** | Santa Rosa, CA, United States | On Site | Jul 09 |
 | **[Indiana Legal Services, Inc.](https://www.indianalegalservices.org/)** | **[Part-Time Legal Internship](https://jobright.ai/jobs/info/6a4fed9cfc327f422fef71b0?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Jul 09 |
 | **[Euna Solutions](https://eunasolutions.com/)** | **[Contract Reconciliation Analyst/Internship](https://jobright.ai/jobs/info/6a4fdd65fc327f422fef6cef?utm_campaign=1055&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Jul 09 |
 | **[Anchor Home](https://anchorhomeinc.com)** | **[Nursing Quality & Compliance Internship [Fall 2026]](https://jobright.ai/jobs/info/6a3d3b60882f121f56a36833?utm_campaign=1055&utm_source=git)** | Timonium, MD, United States | On Site | Jul 09 |
