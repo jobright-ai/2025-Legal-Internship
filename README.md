@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BeiGene](https://www.beigene.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/69fc46856e32960ebbbe8433?utm_campaign=1055&utm_source=git)** | Remote (US), US | Remote | Jul 10 |
+| **[Wipfli](http://www.wipfli.com)** | **[IT Procurement Internship](https://jobright.ai/jobs/info/6a4d6a2d4c6c9f7a619f7bd0?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 10 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a505f394649561ec08b107c?utm_campaign=1055&utm_source=git)** | Whitestone, NY, United States | On Site | Jul 09 |
 | **[ENGIE](http://www.engie.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a5040591544d7246c0d83de?utm_campaign=1055&utm_source=git)** | USA_Houston_TX2 | Hybrid | Jul 09 |
 | **[Sony](https://www.sony.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a502235397d8d353c28e032?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jul 09 |
@@ -87,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Airbus Aircraft](http://www.airbus.com)** | **[Long-term Internship - Ethics & Compliance](https://jobright.ai/jobs/info/6a4e03cdbc9c765d1ef83bb9?utm_campaign=1055&utm_source=git)** | Herndon, VA, United States | On Site | Jul 08 |
 | **[City of Morro Bay](https://www.morrobayca.gov)** | **[Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6a4db063c643fd23fed3db5f?utm_campaign=1055&utm_source=git)** | Morro Bay, CA, United States | On Site | Jul 07 |
 | **[Shield HealthCare - Medical Supplies for Care at Home Since 1957](http://shieldhealthcare.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a3495b7f6b55d12c791d754?utm_campaign=1055&utm_source=git)** | Valencia, CA, US | On Site | Jul 07 |
-| **[Wipfli](http://www.wipfli.com)** | **[IT Procurement Internship](https://jobright.ai/jobs/info/6a4d6a2d4c6c9f7a619f7bd0?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Bexar County Information Technology](http://www.bexar.org/it)** | **[Intern - Legal - District Court - Civil](https://jobright.ai/jobs/info/6a4d520f3122a76a8fd550de?utm_campaign=1055&utm_source=git)** | County Courthouse, United States of America | On Site | Jul 07 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Paralegal Intern- Fall 2026](https://jobright.ai/jobs/info/6a4d42d399523700cbff4faf?utm_campaign=1055&utm_source=git)** | AL, United States | Remote | Jul 07 |
 | **[Triumph Law, P.C.](https://www.triumphlaw.com/)** | **[Legal Internship](https://jobright.ai/jobs/info/6a4da5480209ea6fd6852dfc?utm_campaign=1055&utm_source=git)** | Folsom, CA, United States | On Site | Jul 07 |
@@ -114,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Arbitration Strategy Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a34023ace501060b5ceedd6?utm_campaign=1055&utm_source=git)** | Los Angeles | On Site | Jul 04 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Customer Compliance Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6a44283565e80d3c99f2bd26?utm_campaign=1055&utm_source=git)** | Fort Wayne Indiana | On Site | Jul 03 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Legal Department Undergraduate Internship](https://jobright.ai/jobs/info/6a394bdaf6b55d12c792715b?utm_campaign=1055&utm_source=git)** | Washington D.C., DC | On Site | Jul 03 |
-| **[CAMBA](https://camba.org/)** | **[Summer Legal Intern, CAMBA Legal Services](https://jobright.ai/jobs/info/6a4803313dbab558e29abd32?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
