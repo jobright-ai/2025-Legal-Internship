@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a505f394649561ec08b107c?utm_campaign=1055&utm_source=git)** | Whitestone, NY, United States | On Site | Jul 09 |
 | **[ENGIE](http://www.engie.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a5040591544d7246c0d83de?utm_campaign=1055&utm_source=git)** | USA_Houston_TX2 | Hybrid | Jul 09 |
 | **[Sony](https://www.sony.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a502235397d8d353c28e032?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jul 09 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Temporary Student Intern - Regulatory Compliance](https://jobright.ai/jobs/info/6a50131bf57ed168c3417ecd?utm_campaign=1055&utm_source=git)** | 3512 Michelson, Irvine, CA, United States | On Site | Jul 09 |
