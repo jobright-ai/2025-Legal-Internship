@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Immigration Impact Unit - Fall 2026](https://jobright.ai/jobs/info/6a51261078e364789ca59558?utm_campaign=1055&utm_source=git)** | Malden, MA, United States | Hybrid | Jul 10 |
 | **[EverPass Media](https://everpass.com)** | **[Content Protection & Compliance Intern](https://jobright.ai/jobs/info/6a45573f0dd56c76cc2f318c?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Jul 10 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op/Intern – Forensic Disputes & Investigation (FDI) Calgary or Vancouver / January – April 2027](https://jobright.ai/jobs/info/6a50eacdae4052672fe95569?utm_campaign=1055&utm_source=git)** | Vancouver, Canada | Hybrid | Jul 10 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, SCOTUS](https://jobright.ai/jobs/info/6a510628ae4052672fe96303?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 10 |
