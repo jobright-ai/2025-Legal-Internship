@@ -114,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[CAMBA](https://camba.org/)** | **[Summer Legal Intern, CAMBA Legal Services](https://jobright.ai/jobs/info/6a4803313dbab558e29abd32?utm_campaign=1055&utm_source=git)** | Brooklyn, NY | Hybrid | Jul 03 |
 | **[Novastone Capital Advisors](https://www.novastone-ca.com)** | **[Internship: Legal/Paralegal](https://jobright.ai/jobs/info/6a3428e0649fdf16292f45ed?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 03 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a314dd55958816970013f85?utm_campaign=1055&utm_source=git)** | Worcester, MA, US | On Site | Jul 03 |
-| **[Prosperity Life](https://prosperitylife.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a48895bc2d11a6a46674a58?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
