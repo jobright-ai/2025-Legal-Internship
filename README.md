@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op/Intern – Forensic Disputes & Investigation (FDI) Calgary or Vancouver / January – April 2027](https://jobright.ai/jobs/info/6a50eacdae4052672fe95569?utm_campaign=1055&utm_source=git)** | Vancouver, Canada | Hybrid | Jul 10 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, SCOTUS](https://jobright.ai/jobs/info/6a510628ae4052672fe96303?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 10 |
 | **[Dickinson Wright](http://www.dickinson-wright.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6a510127ae4052672fe95f1f?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 10 |
 | **[Mesivta Yesodei Yeshurun](http://www.touro.edu)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a50f840ae4052672fe95a94?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op/Intern – Forensic Disputes & Investigation (FDI) Calgary or Vancouver / January – April 2027](https://jobright.ai/jobs/info/6a50eacdae4052672fe95569?utm_campaign=1055&utm_source=git)** | Vancouver, Canada | Hybrid | Jul 10 |
 | **[Cook County State’s Attorney’s Office](https://www.cookcountystatesattorney.org/)** | **[FALL 2026 Volunteer Internship](https://jobright.ai/jobs/info/6a50e2ab0cdd7f5d975cccc8?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Jul 10 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Fall 2026 Legal Intern, Foreclosure Prevention Project](https://jobright.ai/jobs/info/6a3438b87f3fdd180d4c95f1?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[BeiGene](https://www.beigene.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/69fc46856e32960ebbbe8433?utm_campaign=1055&utm_source=git)** | Remote (US), US | Remote | Jul 10 |
