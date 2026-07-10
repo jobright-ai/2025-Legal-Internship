@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/69fb3ae287a4820e6da86723?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | Jul 10 |
 | **[PICTON Investments](https://www.pictoninvestments.com/en)** | **[Intern, PICTON Investment Counsel](https://jobright.ai/jobs/info/6a513cf8ae4052672fe981eb?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 10 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a51382457513b72e0c64e70?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jul 10 |
 | **[Paths Management Services](https://www.linkedin.com/company/98504846)** | **[Legal Intern](https://jobright.ai/jobs/info/6a51373678e364789ca59d1a?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
