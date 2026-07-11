@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Women's Rights Project](https://jobright.ai/jobs/info/6a51cababf63b66c7997cc21?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 10 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Immigration Intern (UNPAID)](https://jobright.ai/jobs/info/6a46a8068204a812e98c9595?utm_campaign=1055&utm_source=git)** | Wichita, KS USA, United States of America | On Site | Jul 10 |
+| **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[SPFHS-2026-7i State Parks Legal Intern](https://jobright.ai/jobs/info/6a443ebdef17a815538a380b?utm_campaign=1055&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 10 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Immigration Impact Unit - Fall 2026](https://jobright.ai/jobs/info/6a51261078e364789ca59558?utm_campaign=1055&utm_source=git)** | Malden, MA, United States | Hybrid | Jul 10 |
 | **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a417e9e1afc66714d3cad14?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[Tuff City Records](http://www.tuffcity.com)** | **[Legal Intern (100% on site)](https://jobright.ai/jobs/info/6a51c19602522b5b722eaf29?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[IBTS - Institute for Building Technology and Safety](https://www.ibts.org/)** | **[Intern - Governance, Risk, and Compliance (GRC)](https://jobright.ai/jobs/info/6a289cca1dbd8437bebcc5c9?utm_campaign=1055&utm_source=git)** | Ashburn, VA, United States | On Site | Jul 10 |
-| **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[SPFHS-2026-7i State Parks Legal Intern](https://jobright.ai/jobs/info/6a443ebdef17a815538a380b?utm_campaign=1055&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 10 |
 | **[SI-BONE](http://si-bone.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a51b000bf63b66c7997af40?utm_campaign=1055&utm_source=git)** | Santa Clara, CA, United States | On Site | Jul 10 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Legal & Compliance](https://jobright.ai/jobs/info/6a3123830ff23769fdb1c3cf?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jul 10 |
 | **[Palm Beach County](https://discover.pbcgov.org/Pages/default.aspx)** | **[Legal Intern: SUMMER 2027](https://jobright.ai/jobs/info/6a51b276bf63b66c7997b0f7?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL, United States | On Site | Jul 10 |
