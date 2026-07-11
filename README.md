@@ -138,5 +138,4 @@ For a complete list, click the following sortable link below:
 | **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a28676e883c0d3be6541c6f?utm_campaign=1055&utm_source=git)** | Denver, CO | Remote | Jul 05 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | Jul 05 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Quincy - Fall 2026](https://jobright.ai/jobs/info/6a2864c12d6c332ee52e5b27?utm_campaign=1055&utm_source=git)** | Quincy, MA, US | On Site | Jul 04 |
-| **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a71c7a37c712687d384c?utm_campaign=1055&utm_source=git)** | Stockton, CA | On Site | Jul 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
