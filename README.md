@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/6a522a038576ec69c014ab88?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 11 |
+| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Racial Justice Program](https://jobright.ai/jobs/info/6a523893d007ee02d95f694b?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 11 |
+| ↳ | **[Fall 2026 Legal Intern, Abortion Criminal Defense Initiative](https://jobright.ai/jobs/info/6a523399e726ec56126a1fb7?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 11 |
+| ↳ | **[Fall 2026 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/6a522a038576ec69c014ab88?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 11 |
 | **[Sila Services](https://silaservices.com )** | **[Legal Internship](https://jobright.ai/jobs/info/6a52152a8ef95364ead8cc02?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 11 |
 | **[Law Office of Shelly M. Ingram, LLC](http://www.shellyingramlaw.com)** | **[Legal Studies Internship](https://jobright.ai/jobs/info/6a5226c2e726ec56126a1cee?utm_campaign=1055&utm_source=git)** | Shelly, MN, United States | On Site | Jul 11 |
 | **[Touro University](https://dental.touro.edu)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a5206b58576ec69c014a17c?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Remote | Jul 11 |
@@ -110,8 +112,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Impact Litigation Intern](https://jobright.ai/jobs/info/6a4ed3b815b4965afd584cae?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | On Site | Jul 08 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2026 Compliance Internship](https://jobright.ai/jobs/info/6a4eadea0ea38951a6ff4180?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 08 |
 | **[Lyten](http://www.lyten.com)** | **[Intern - Commercial Legal](https://jobright.ai/jobs/info/6a35e9d429c90c607e4e3fd0?utm_campaign=1055&utm_source=git)** | San Jose, CA, US | On Site | Jul 08 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jul 08 |
-| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jul 08 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jul 08 |
+| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jul 08 |
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Law Student Intern](https://jobright.ai/jobs/info/6a4e5f3a9469c0662034af51?utm_campaign=1055&utm_source=git)** | New York, NY, 10006 | Hybrid | Jul 08 |
 | **[Dentons](http://www.dentons.com)** | **[Legal Intern Job Details / Dentons](https://jobright.ai/jobs/info/6a4e4a750ea38951a6ff2943?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3189cde7b7d514a3bd3f05?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jul 08 |
