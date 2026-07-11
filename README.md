@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Disability Rights Program](https://jobright.ai/jobs/info/6a526dee8576ec69c014bdfd?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 11 |
 | **[CAMBA](https://camba.org/)** | **[Housing Summer Intern, CAMBA Legal Services, Brooklyn](https://jobright.ai/jobs/info/6a526b4f9fbdab22fe13b6fd?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Jul 11 |
-| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Racial Justice Program](https://jobright.ai/jobs/info/6a523893d007ee02d95f694b?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 11 |
+| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Disability Rights Program](https://jobright.ai/jobs/info/6a526dee8576ec69c014bdfd?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 11 |
+| ↳ | **[Fall 2026 Legal Intern, Racial Justice Program](https://jobright.ai/jobs/info/6a523893d007ee02d95f694b?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 11 |
 | ↳ | **[Fall 2026 Legal Intern, Abortion Criminal Defense Initiative](https://jobright.ai/jobs/info/6a523399e726ec56126a1fb7?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 11 |
 | ↳ | **[Fall 2026 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/6a522a038576ec69c014ab88?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 11 |
 | **[Sila Services](https://silaservices.com )** | **[Legal Internship](https://jobright.ai/jobs/info/6a52152a8ef95364ead8cc02?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 11 |
