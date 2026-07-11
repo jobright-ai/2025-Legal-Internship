@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Immigration Impact Unit - Fall 2026](https://jobright.ai/jobs/info/6a51261078e364789ca59558?utm_campaign=1055&utm_source=git)** | Malden, MA, United States | Hybrid | Jul 10 |
+| **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[SPFHS-2026-7i State Parks Legal Intern](https://jobright.ai/jobs/info/6a443ebdef17a815538a380b?utm_campaign=1055&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 10 |
+| **[SI-BONE](http://si-bone.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a51b000bf63b66c7997af40?utm_campaign=1055&utm_source=git)** | Santa Clara, CA, United States | On Site | Jul 10 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Legal & Compliance](https://jobright.ai/jobs/info/6a3123830ff23769fdb1c3cf?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jul 10 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/69fb3ae287a4820e6da86723?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | Jul 10 |
 | **[PICTON Investments](https://www.pictoninvestments.com/en)** | **[Intern, PICTON Investment Counsel](https://jobright.ai/jobs/info/6a513cf8ae4052672fe981eb?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 10 |
@@ -130,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d84f277796a83635f10733?utm_campaign=1055&utm_source=git)** | Mount Juliet, TN | On Site | Jul 05 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Quincy - Fall 2026](https://jobright.ai/jobs/info/6a2864c12d6c332ee52e5b27?utm_campaign=1055&utm_source=git)** | Quincy, MA, US | On Site | Jul 04 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2026](https://jobright.ai/jobs/info/68d7a71c7a37c712687d384c?utm_campaign=1055&utm_source=git)** | Stockton, CA | On Site | Jul 04 |
-| **[TikTok](https://www.tiktok.com)** | **[Arbitration Strategy Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a34023ace501060b5ceedd6?utm_campaign=1055&utm_source=git)** | Los Angeles | On Site | Jul 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
