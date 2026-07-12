@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Lowell - Fall 2026](https://jobright.ai/jobs/info/6a52e9398576ec69c014df49?utm_campaign=1055&utm_source=git)** | Lowell, MA, United States | On Site | Jul 11 |
 | **[Locus Robotics](http://www.locusrobotics.com)** | **[Enterprise Security, Risk and Compliance Co-Op/Internship](https://jobright.ai/jobs/info/6a44221eef17a815538a3004?utm_campaign=1055&utm_source=git)** | Wilmington, MA, United States | Hybrid | Jul 11 |
 | **[CAMBA](https://camba.org/)** | **[Housing Summer Intern, CAMBA Legal Services, Brooklyn](https://jobright.ai/jobs/info/6a526b4f9fbdab22fe13b6fd?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Jul 11 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Disability Rights Program](https://jobright.ai/jobs/info/6a526dee8576ec69c014bdfd?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 11 |
@@ -77,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a417e9e1afc66714d3cad14?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[Tuff City Records](http://www.tuffcity.com)** | **[Legal Intern (100% on site)](https://jobright.ai/jobs/info/6a51c19602522b5b722eaf29?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[IBTS - Institute for Building Technology and Safety](https://www.ibts.org/)** | **[Intern - Governance, Risk, and Compliance (GRC)](https://jobright.ai/jobs/info/6a289cca1dbd8437bebcc5c9?utm_campaign=1055&utm_source=git)** | Ashburn, VA, United States | On Site | Jul 10 |
+| **[National Women's Law Center](http://www.nwlc.org/)** | **[Reproductive Rights and Health Legal Internship](https://jobright.ai/jobs/info/6a34773a649fdf16292f619d?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jul 10 |
 | **[Purpose. Dignity. Action. (PDA)](https://wearepda.org/)** | **[Legal Internship/Externship (Fall/Winter 2026)](https://jobright.ai/jobs/info/6a51d9ca8d7d3e6cf1cc3d5a?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 10 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Legal & Compliance](https://jobright.ai/jobs/info/6a3123830ff23769fdb1c3cf?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jul 10 |
 | **[Palm Beach County](https://discover.pbcgov.org/Pages/default.aspx)** | **[Legal Intern: SUMMER 2027](https://jobright.ai/jobs/info/6a51b276bf63b66c7997b0f7?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL, United States | On Site | Jul 10 |
