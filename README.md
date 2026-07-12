@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a538ae78ef95364ead927f8?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Jul 12 |
 | **[Mesivta Yesodei Yeshurun](http://www.touro.edu)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a50f840ae4052672fe95a94?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Jul 12 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a536d928a74e077472f84f5?utm_campaign=1055&utm_source=git)** | AL, United States | Remote | Jul 12 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Reproductive Freedom Project](https://jobright.ai/jobs/info/6a534de29fbdab22fe13ef2c?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 12 |
@@ -147,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[UG2](https://ug2.com/)** | **[Legal Intern - (Part-Time – up to 20 Hours/Week)](https://jobright.ai/jobs/info/6a509cdfddd293054ccaa360?utm_campaign=1055&utm_source=git)** | 101 Huntington Avenue, Boston, MA,02199 | On Site | Jul 06 |
 | **[CAE](http://www.cae.de)** | **[C-DS-115 Contract Administration Internship-EN](https://jobright.ai/jobs/info/6a4bfe255d7b097d2df3f077?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jul 06 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/6a394f526484fb75f2b30ad2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 06 |
+| **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Policy and Procedure](https://jobright.ai/jobs/info/6a538845d007ee02d95fbac0?utm_campaign=1055&utm_source=git)** | Smithfield, RI, United States | On Site | Jul 06 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Fall 2026 Legal Intern, Community Access Programs Unit](https://jobright.ai/jobs/info/6a390e381232144fb1569921?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 06 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Global Trade Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/69d95303738f2f099e8a0ff5?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jul 06 |
 | **[CAE](http://www.cae.de)** | **[C-DS-115 Contract Administration Internship](https://jobright.ai/jobs/info/6a50ad91ddd293054ccab73a?utm_campaign=1055&utm_source=git)** | Montreal (St. Laurent), Canada | Hybrid | Jul 06 |
