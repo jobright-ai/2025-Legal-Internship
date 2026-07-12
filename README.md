@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zealot](https://zealotlabs.co)** | **[Legal Intern](https://jobright.ai/jobs/info/6a53a6208a74e077472f920f?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a538ae78ef95364ead927f8?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Jul 12 |
 | **[Mesivta Yesodei Yeshurun](http://www.touro.edu)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a50f840ae4052672fe95a94?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Jul 12 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a536d928a74e077472f84f5?utm_campaign=1055&utm_source=git)** | AL, United States | Remote | Jul 12 |
