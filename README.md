@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Belmark inc](https://www.belmark.com/)** | **[Quality Compliance Intern](https://jobright.ai/jobs/info/6a5411ae8ef95364ead944ce?utm_campaign=1055&utm_source=git)** | De Pere, WI, United States | On Site | Jul 12 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Human Rights Program](https://jobright.ai/jobs/info/6a53f7b3e726ec56126a89f4?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Jul 12 |
 | **[EnergyHub](http://www.energyhub.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a53cac2e726ec56126a806f?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 12 |
 | **[Colorado Housing and Finance Authority](https://www.chfainfo.com/)** | **[Privacy Program Intern](https://jobright.ai/jobs/info/6a53c4f68576ec69c0150dcc?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | On Site | Jul 12 |
