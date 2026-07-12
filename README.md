@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EnergyHub](http://www.energyhub.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a53cac2e726ec56126a806f?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 12 |
+| **[Colorado Housing and Finance Authority](https://www.chfainfo.com/)** | **[Privacy Program Intern](https://jobright.ai/jobs/info/6a53c4f68576ec69c0150dcc?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | On Site | Jul 12 |
 | **[Zealot](https://zealotlabs.co)** | **[Legal Intern](https://jobright.ai/jobs/info/6a53a6208a74e077472f920f?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a538ae78ef95364ead927f8?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Jul 12 |
 | **[Mesivta Yesodei Yeshurun](http://www.touro.edu)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a50f840ae4052672fe95a94?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Jul 12 |
