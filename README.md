@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Risk Management Intern- Fall 2026](https://jobright.ai/jobs/info/6a536d928a74e077472f84f5?utm_campaign=1055&utm_source=git)** | AL, United States | Remote | Jul 12 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Reproductive Freedom Project](https://jobright.ai/jobs/info/6a534de29fbdab22fe13ef2c?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 12 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Immigrants' Rights Project- San Francisco](https://jobright.ai/jobs/info/6a52ff27d007ee02d95f9e05?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 11 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Lowell - Fall 2026](https://jobright.ai/jobs/info/6a52e9398576ec69c014df49?utm_campaign=1055&utm_source=git)** | Lowell, MA, United States | On Site | Jul 11 |
