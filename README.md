@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Fall Legal Intern](https://jobright.ai/jobs/info/6a3d6f25d261407de98006a2?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 12 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a542dbdc8eb0843027af047?utm_campaign=1055&utm_source=git)** | Durham, NC, United States | Hybrid | Jul 12 |
 | **[Belmark inc](https://www.belmark.com/)** | **[Quality Compliance Intern](https://jobright.ai/jobs/info/6a5411ae8ef95364ead944ce?utm_campaign=1055&utm_source=git)** | De Pere, WI, United States | On Site | Jul 12 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Human Rights Program](https://jobright.ai/jobs/info/6a53f7b3e726ec56126a89f4?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Jul 12 |
@@ -117,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[NYC Campaign Finance Board](http://www.nyccfb.info/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a471cc1971cd25b06f91360?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Jul 09 |
 | **[Anchor Home](https://anchorhomeinc.com)** | **[Nursing Quality & Compliance Internship [Fall 2026]](https://jobright.ai/jobs/info/6a3d3b60882f121f56a36833?utm_campaign=1055&utm_source=git)** | Timonium, MD, United States | On Site | Jul 09 |
 | **[W. W. Norton & Company, Inc.](http://www.wwnorton.com)** | **[Contracts Department Internship, Fall 2026](https://jobright.ai/jobs/info/6a4fc5a24649561ec08aed85?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
-| **[Sony Electronics](http://www.sonyjobs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4fc3444649561ec08aed21?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jul 09 |
 | **[Amica Center for Immigrant Rights](https://amicacenter.org)** | **[Undergraduate Internship, Detained Adult Program - Direct Representation](https://jobright.ai/jobs/info/6a4e7d021544d7246c0d2fb7?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Jul 09 |
+| **[Sony Electronics](http://www.sonyjobs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4fc3444649561ec08aed21?utm_campaign=1055&utm_source=git)** | New York, United States of America | Hybrid | Jul 08 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Clerk of the Superior Court Intern](https://jobright.ai/jobs/info/6a4ef9bb1544d7246c0d4b73?utm_campaign=1055&utm_source=git)** | Superior Courthouse - 971 Jason Lopez Circle Bldg. A, Florence AZ 85132, AZ | On Site | Jul 08 |
 | **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney’s Office Fall 2026 Legal Internship](https://jobright.ai/jobs/info/6a4ef31a1544d7246c0d4aa3?utm_campaign=1055&utm_source=git)** | Kew Gardens, NY, United States | On Site | Jul 08 |
 | **[Irvine Ranch Water District (IRWD)](https://www.irwd.com/)** | **[Temporary Student Intern - Regulatory Compliance](https://jobright.ai/jobs/info/6a542d28e726ec56126a95bb?utm_campaign=1055&utm_source=git)** | Irvine, CA, United States | On Site | Jul 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/6a394f526484fb75f2b30ad2?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 06 |
 | **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Policy and Procedure](https://jobright.ai/jobs/info/6a538845d007ee02d95fbac0?utm_campaign=1055&utm_source=git)** | Smithfield, RI, United States | On Site | Jul 06 |
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Fall 2026 Legal Intern, Community Access Programs Unit](https://jobright.ai/jobs/info/6a390e381232144fb1569921?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Jul 06 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Global Trade Compliance Intern (Summer 2026)](https://jobright.ai/jobs/info/69d95303738f2f099e8a0ff5?utm_campaign=1055&utm_source=git)** | Austin, TX | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
