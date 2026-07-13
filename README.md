@@ -154,6 +154,4 @@ For a complete list, click the following sortable link below:
 | **[Syntiant Corp.](https://www.syntiant.com)** | **[Product Compliance Intern](https://jobright.ai/jobs/info/6a4c1c666189f64e437f12ed?utm_campaign=1055&utm_source=git)** | Itasca, Illinois, United States | On Site | Jul 06 |
 | **[Dentons](http://www.dentons.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4c17adc2d11a6a46679f85?utm_campaign=1055&utm_source=git)** | New York City, New York | On Site | Jul 06 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a4c0a3a5d7b097d2df3f2c2?utm_campaign=1055&utm_source=git)** | 300 Wyandotte, Kansas City, MO 64105, United States of America | Hybrid | Jul 06 |
-| **[UG2](https://ug2.com/)** | **[Legal Intern - (Part-Time – up to 20 Hours/Week)](https://jobright.ai/jobs/info/6a4c0500971cd25b06f993f5?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jul 06 |
-| **[The Jeffcoat Firm](https://scinjurylawfirm.com)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/6a4bfcad4eb370649b27bd0c?utm_campaign=1055&utm_source=git)** | Columbia, SC | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
