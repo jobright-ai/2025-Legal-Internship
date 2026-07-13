@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/6a54bb3a85072f1a8a2518ec?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[Legal Intern](https://jobright.ai/jobs/info/6a46b6990dd56c76cc2fa9b3?utm_campaign=1055&utm_source=git)** | Franklin County, OH, United States | On Site | Jul 12 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Criminal Law Reform Project](https://jobright.ai/jobs/info/6a548aac8576ec69c015383e?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Remote | Jul 12 |
 | ↳ | **[Fall 2026 Legal Intern, State Supreme Court Initiative](https://jobright.ai/jobs/info/6a54835e8a74e077472fc093?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Remote | Jul 12 |
@@ -130,8 +131,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Impact Litigation Intern](https://jobright.ai/jobs/info/6a4ed3b815b4965afd584cae?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | On Site | Jul 08 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2026 Compliance Internship](https://jobright.ai/jobs/info/6a4eadea0ea38951a6ff4180?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 08 |
 | **[Lyten](http://www.lyten.com)** | **[Intern - Commercial Legal](https://jobright.ai/jobs/info/6a35e9d429c90c607e4e3fd0?utm_campaign=1055&utm_source=git)** | San Jose, CA, US | On Site | Jul 08 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jul 08 |
-| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jul 08 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jul 08 |
+| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jul 08 |
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Law Student Intern](https://jobright.ai/jobs/info/6a4e5f3a9469c0662034af51?utm_campaign=1055&utm_source=git)** | New York, NY, 10006 | Hybrid | Jul 08 |
 | **[Dentons](http://www.dentons.com)** | **[Legal Intern Job Details / Dentons](https://jobright.ai/jobs/info/6a4e4a750ea38951a6ff2943?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3189cde7b7d514a3bd3f05?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jul 08 |
@@ -155,6 +156,4 @@ For a complete list, click the following sortable link below:
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a4c0a3a5d7b097d2df3f2c2?utm_campaign=1055&utm_source=git)** | 300 Wyandotte, Kansas City, MO 64105, United States of America | Hybrid | Jul 06 |
 | **[UG2](https://ug2.com/)** | **[Legal Intern - (Part-Time – up to 20 Hours/Week)](https://jobright.ai/jobs/info/6a4c0500971cd25b06f993f5?utm_campaign=1055&utm_source=git)** | Boston, MA | On Site | Jul 06 |
 | **[The Jeffcoat Firm](https://scinjurylawfirm.com)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/6a4bfcad4eb370649b27bd0c?utm_campaign=1055&utm_source=git)** | Columbia, SC | On Site | Jul 06 |
-| **[UG2](https://ug2.com/)** | **[Legal Intern - (Part-Time – up to 20 Hours/Week)](https://jobright.ai/jobs/info/6a509cdfddd293054ccaa360?utm_campaign=1055&utm_source=git)** | 101 Huntington Avenue, Boston, MA,02199 | On Site | Jul 06 |
-| **[CAE](http://www.cae.de)** | **[C-DS-115 Contract Administration Internship-EN](https://jobright.ai/jobs/info/6a4bfe255d7b097d2df3f077?utm_campaign=1055&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
