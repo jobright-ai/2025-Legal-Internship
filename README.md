@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Peraton](https://www.peraton.com/)** | **[Contracts Administration Pipeline (Intern and Entry-level)](https://jobright.ai/jobs/info/6a555d0c2084cd792b478105?utm_campaign=1055&utm_source=git)** | Reston, VA, United States | On Site | Jul 13 |
 | **[MFA](https://www.managedfunds.org/)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/6a555403f2c46727285f17d1?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 13 |
 | **[Hudson Institute](http://www.hudson.org/)** | **[Legal Internship, Forum for Intellectual Property, Fall 2026](https://jobright.ai/jobs/info/6a554fefae07d60a8d010799?utm_campaign=1055&utm_source=git)** | USA | Remote | Jul 13 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Legal Department Undergraduate Internship](https://jobright.ai/jobs/info/6a394bdaf6b55d12c792715b?utm_campaign=1055&utm_source=git)** | Washington D.C., DC, United States | On Site | Jul 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New Mexico Mutual](https://www.newmexicomutual.com/)** | **[Claims Administration Intern](https://jobright.ai/jobs/info/6a4d31f0c643fd23fed3c16d?utm_campaign=1055&utm_source=git)** | Albuquerque, NM, United States | On Site | Jul 08 |
 | **[Airbus Aircraft](http://www.airbus.com)** | **[Long-term Internship - Ethics & Compliance](https://jobright.ai/jobs/info/6a4e03cdbc9c765d1ef83bb9?utm_campaign=1055&utm_source=git)** | Herndon, VA, United States | On Site | Jul 08 |
 | **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2026/27 Articling Student - Criminal & Family (Timmins)](https://jobright.ai/jobs/info/6a477d0b0dd56c76cc2fce46?utm_campaign=1055&utm_source=git)** | Timmins, Ontario, Canada | On Site | Jul 07 |
-| **[City of Morro Bay](https://www.morrobayca.gov)** | **[Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6a4db063c643fd23fed3db5f?utm_campaign=1055&utm_source=git)** | Morro Bay, CA, United States | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
