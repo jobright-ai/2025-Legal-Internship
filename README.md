@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CAE](http://www.cae.de)** | **[C-DS-115 Contract Administration Internship](https://jobright.ai/jobs/info/6a56468610c4d945d864873d?utm_campaign=1055&utm_source=git)** | Montreal (St. Laurent), Canada | Hybrid | Jul 14 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a51b10a78e364789ca5b04a?utm_campaign=1055&utm_source=git)** | Calabasas, CA, United States | On Site | Jul 14 |
 | **[Adams, Duerk & Kamenstein LLP](https://www.adkfirm.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a56288bf7517b519ad53eda?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 14 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Human Rights Program](https://jobright.ai/jobs/info/6a53f7b3e726ec56126a89f4?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amica Center for Immigrant Rights](https://amicacenter.org)** | **[Undergraduate Internship, Detained Adult Program - Direct Representation](https://jobright.ai/jobs/info/6a4e7d021544d7246c0d2fb7?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Jul 09 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4fc3444649561ec08aed21?utm_campaign=1055&utm_source=git)** | New York, United States of America | Hybrid | Jul 08 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Clerk of the Superior Court Intern](https://jobright.ai/jobs/info/6a4ef9bb1544d7246c0d4b73?utm_campaign=1055&utm_source=git)** | Superior Courthouse - 971 Jason Lopez Circle Bldg. A, Florence AZ 85132, AZ | On Site | Jul 08 |
-| **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney’s Office Fall 2026 Legal Internship](https://jobright.ai/jobs/info/6a4ef31a1544d7246c0d4aa3?utm_campaign=1055&utm_source=git)** | Kew Gardens, NY, United States | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
