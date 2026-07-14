@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adams, Duerk & Kamenstein LLP](https://www.adkfirm.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a56288bf7517b519ad53eda?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 14 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Human Rights Program](https://jobright.ai/jobs/info/6a53f7b3e726ec56126a89f4?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 14 |
 | **[Everllence](https://www.everllence.com)** | **[Procurement One - Intern](https://jobright.ai/jobs/info/6a56179e21f64463ad3528e9?utm_campaign=1055&utm_source=git)** | Brookshire, TX, United States | On Site | Jul 14 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a51382457513b72e0c64e70?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
@@ -150,7 +151,6 @@ For a complete list, click the following sortable link below:
 | **[Indiana Legal Services, Inc.](https://www.indianalegalservices.org/)** | **[Part-Time Legal Internship](https://jobright.ai/jobs/info/6a4fed9cfc327f422fef71b0?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Jul 09 |
 | **[Euna Solutions](https://eunasolutions.com/)** | **[Contract Reconciliation Analyst/Internship](https://jobright.ai/jobs/info/6a4fdd65fc327f422fef6cef?utm_campaign=1055&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Jul 09 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[2L Fall Intern (District Attorney’s Office)](https://jobright.ai/jobs/info/6a5521cb377f983ce8a9802e?utm_campaign=1055&utm_source=git)** | Castle Rock, CO, United States | On Site | Jul 09 |
-| **[NYC Campaign Finance Board](http://www.nyccfb.info/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a471cc1971cd25b06f91360?utm_campaign=1055&utm_source=git)** | Manhattan, NY | On Site | Jul 09 |
 | **[Anchor Home](https://anchorhomeinc.com)** | **[Nursing Quality & Compliance Internship [Fall 2026]](https://jobright.ai/jobs/info/6a3d3b60882f121f56a36833?utm_campaign=1055&utm_source=git)** | Timonium, MD, United States | On Site | Jul 09 |
 | **[W. W. Norton & Company, Inc.](http://www.wwnorton.com)** | **[Contracts Department Internship, Fall 2026](https://jobright.ai/jobs/info/6a4fc5a24649561ec08aed85?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
 | **[Amica Center for Immigrant Rights](https://amicacenter.org)** | **[Undergraduate Internship, Detained Adult Program - Direct Representation](https://jobright.ai/jobs/info/6a4e7d021544d7246c0d2fb7?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Jul 09 |
