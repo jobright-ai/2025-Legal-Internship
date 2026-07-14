@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Law Office of Shelly M. Ingram, LLC](http://www.shellyingramlaw.com)** | **[Legal Studies Internship](https://jobright.ai/jobs/info/6a55d2ce05c65f7c8f4c8682?utm_campaign=1055&utm_source=git)** | Shelly, MN, United States | On Site | Jul 13 |
+| **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a55d24dec54dd532d814300?utm_campaign=1055&utm_source=git)** | Windsor Mill, MD 21224, United States | Remote | Jul 13 |
+| **[Medpace](http://www.medpace.com)** | **[Study Start-Up Intern- Fall 2026](https://jobright.ai/jobs/info/6a55cff5fdf4fa71202b59f8?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 13 |
+| **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Quality and Compliance Intern](https://jobright.ai/jobs/info/6a55cc67ef22935f2e3f73ee?utm_campaign=1055&utm_source=git)** | Windsor Mill, MD, United States | Remote | Jul 13 |
+| **[Direction Home Akron Canton Area Agency on Aging & Disabilities](https://www.dhad.org)** | **[Elder Rights Intern](https://jobright.ai/jobs/info/6a55cc47fdf4fa71202b540c?utm_campaign=1055&utm_source=git)** | Dennison, OH, United States | On Site | Jul 13 |
 | **[AFL](http://www.AFLglobal.com)** | **[International Trade Intern- Fall 2026](https://jobright.ai/jobs/info/6a55877fae07d60a8d011d78?utm_campaign=1055&utm_source=git)** | Duncan, South Carolina, United States | On Site | Jul 13 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[1L / 2L/ 3L -2026 Summer Academic Law Student Internship](https://jobright.ai/jobs/info/6a55b89714f1040fa611ae5c?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | On Site | Jul 13 |
 | **[Peraton](https://www.peraton.com/)** | **[Contracts Administration Pipeline (Intern and Entry-level)](https://jobright.ai/jobs/info/6a555d0c2084cd792b478105?utm_campaign=1055&utm_source=git)** | Reston, VA, United States | On Site | Jul 13 |
 | **[MFA](https://www.managedfunds.org/)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/6a555403f2c46727285f17d1?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 13 |
 | **[Hudson Institute](http://www.hudson.org/)** | **[Legal Internship, Forum for Intellectual Property, Fall 2026](https://jobright.ai/jobs/info/6a554fefae07d60a8d010799?utm_campaign=1055&utm_source=git)** | USA | Remote | Jul 13 |
+| **[AFL](http://www.AFLglobal.com)** | **[International Trade Intern- Fall 2026](https://jobright.ai/jobs/info/6a55d0d32ce8bf79a13a172c?utm_campaign=1055&utm_source=git)** | Duncan, SC, United States | On Site | Jul 13 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Legal Department Undergraduate Internship](https://jobright.ai/jobs/info/6a394bdaf6b55d12c792715b?utm_campaign=1055&utm_source=git)** | Washington D.C., DC, United States | On Site | Jul 13 |
 | **[Associated Electric Cooperative Inc.](https://www.aeci.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a5544d7268af95237bea64f?utm_campaign=1055&utm_source=git)** | Springfield, Missouri, United States of America | On Site | Jul 13 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Immigrants' Rights Project- New York](https://jobright.ai/jobs/info/6a5539d42084cd792b4770d5?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Remote | Jul 13 |
@@ -149,12 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Impact Litigation Intern](https://jobright.ai/jobs/info/6a4ed3b815b4965afd584cae?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | On Site | Jul 08 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2026 Compliance Internship](https://jobright.ai/jobs/info/6a4eadea0ea38951a6ff4180?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 08 |
 | **[Lyten](http://www.lyten.com)** | **[Intern - Commercial Legal](https://jobright.ai/jobs/info/6a35e9d429c90c607e4e3fd0?utm_campaign=1055&utm_source=git)** | San Jose, CA, US | On Site | Jul 08 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jul 08 |
-| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jul 08 |
-| **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Law Student Intern](https://jobright.ai/jobs/info/6a4e5f3a9469c0662034af51?utm_campaign=1055&utm_source=git)** | New York, NY, 10006 | Hybrid | Jul 08 |
-| **[Dentons](http://www.dentons.com)** | **[Legal Intern Job Details / Dentons](https://jobright.ai/jobs/info/6a4e4a750ea38951a6ff2943?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
-| **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3189cde7b7d514a3bd3f05?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jul 08 |
-| **[Array Digital Infrastructure, Inc.](https://www.arrayinc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3188e7c477a5075f48d7b9?utm_campaign=1055&utm_source=git)** | Chicago, IL, US | Hybrid | Jul 08 |
-| **[Enhesa](http://www.enhesa.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/6a4e3d66fc327f422fef218f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 08 |
-| **[Etaily](https://etaily.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a4e292b9469c0662034a81e?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 08 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a08510ca203b1052e443834?utm_campaign=1055&utm_source=git)** | New York, NY, US | On Site | Jul 08 |
+| ↳ | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c3cc2a87d6cd3df00b5?utm_campaign=1055&utm_source=git)** | US-NY-New York | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
