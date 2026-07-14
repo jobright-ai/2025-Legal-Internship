@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Continental](http://www.continentaltire.com)** | **[Intern - Customs Compliance, Year-Round](https://jobright.ai/jobs/info/6a568b9753b3962b910b0f3e?utm_campaign=1055&utm_source=git)** | 1794 MacMillan Park Dr, Fort Mill, SC 29707, USA | Hybrid | Jul 14 |
+| **[The Sentencing Foundation](thesentencingfoundation.org)** | **[Fall 2026 Judicial Intern](https://jobright.ai/jobs/info/6a56883710c4d945d864a4b2?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Jul 14 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Paralegal Intern- Fall 2026](https://jobright.ai/jobs/info/6a4d42d399523700cbff4faf?utm_campaign=1055&utm_source=git)** | AL, United States | Remote | Jul 14 |
 | **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer - Sectoral Regulatory Efficiency Assessments Intern](https://jobright.ai/jobs/info/6a567b84e9b77f668bd63977?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Jul 14 |
 | ↳ | **[WBG Pioneer - International Centre for Settlement of Investment Disputes (ICSID) Intern](https://jobright.ai/jobs/info/6a567b82f7517b519ad55ef1?utm_campaign=1055&utm_source=git)** | Washington, DC, , US | On Site | Jul 14 |
@@ -102,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d67029111f771d1a189cf?utm_campaign=1055&utm_source=git)** | Calabasas, CA, United States | On Site | Jul 13 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Liberty and National Security Legal Internship](https://jobright.ai/jobs/info/6a462559c2d11a6a4666c69d?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Jul 13 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/6a54bb3a85072f1a8a2518ec?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
-| **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[Legal Intern](https://jobright.ai/jobs/info/6a46b6990dd56c76cc2fa9b3?utm_campaign=1055&utm_source=git)** | Franklin County, OH, United States | On Site | Jul 12 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Criminal Law Reform Project](https://jobright.ai/jobs/info/6a548aac8576ec69c015383e?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Remote | Jul 12 |
 | ↳ | **[Fall 2026 Legal Intern, State Supreme Court Initiative](https://jobright.ai/jobs/info/6a54835e8a74e077472fc093?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Remote | Jul 12 |
 | **[Big Tech Company](https://www.bigtech.company)** | **[Product Counsel Intern](https://jobright.ai/jobs/info/6a5570aaae07d60a8d0117b4?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Maritime Group | PLLC](https://maritime.law)** | **[Legal Intern](https://jobright.ai/jobs/info/6a50ffc802522b5b722e67b7?utm_campaign=1055&utm_source=git)** | Seattle, WA, United States | On Site | Jul 10 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a505f394649561ec08b107c?utm_campaign=1055&utm_source=git)** | Whitestone, NY, United States | On Site | Jul 09 |
 | **[Sony](https://www.sony.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a502235397d8d353c28e032?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jul 09 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Temporary Student Intern - Regulatory Compliance](https://jobright.ai/jobs/info/6a50131bf57ed168c3417ecd?utm_campaign=1055&utm_source=git)** | 3512 Michelson, Irvine, CA, United States | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
