@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Continental](http://www.continentaltire.com)** | **[Intern - Customs Compliance, Year-Round](https://jobright.ai/jobs/info/6a568b9753b3962b910b0f3e?utm_campaign=1055&utm_source=git)** | 1794 MacMillan Park Dr, Fort Mill, SC 29707, USA | Hybrid | Jul 14 |
+| **[Michigan Court of Appeals](https://www.courts.michigan.gov/courts/court-of-appeals/)** | **[Fall 2026 Externship/Internship to Judge Andrew J. Lievense](https://jobright.ai/jobs/info/6a56945ce9b77f668bd643c6?utm_campaign=1055&utm_source=git)** | Detroit, MI, United States | On Site | Jul 14 |
 | **[The Sentencing Foundation](thesentencingfoundation.org)** | **[Fall 2026 Judicial Intern](https://jobright.ai/jobs/info/6a56883710c4d945d864a4b2?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Jul 14 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Paralegal Intern- Fall 2026](https://jobright.ai/jobs/info/6a4d42d399523700cbff4faf?utm_campaign=1055&utm_source=git)** | AL, United States | Remote | Jul 14 |
 | **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer - Sectoral Regulatory Efficiency Assessments Intern](https://jobright.ai/jobs/info/6a567b84e9b77f668bd63977?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Jul 14 |
@@ -88,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[1L / 2L/ 3L -2026 Summer Academic Law Student Internship](https://jobright.ai/jobs/info/6a55b89714f1040fa611ae5c?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | On Site | Jul 13 |
 | **[Peraton](https://www.peraton.com/)** | **[Contracts Administration Pipeline (Intern and Entry-level)](https://jobright.ai/jobs/info/6a555d0c2084cd792b478105?utm_campaign=1055&utm_source=git)** | Reston, VA, United States | On Site | Jul 13 |
 | **[MFA](https://www.managedfunds.org/)** | **[Intern, Regulatory Affairs](https://jobright.ai/jobs/info/6a555403f2c46727285f17d1?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 13 |
-| **[Adwar Ivko](https://www.adwarivko.com/)** | **[Art & Entertainment Law Extern for Fall 2026](https://jobright.ai/jobs/info/6a5551d0268af95237beae0d?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
+| **[Adwar Ivko](https://www.adwarivko.com/)** | **[Entertainment Law Extern Fall 2026 RISING 3L ONLY](https://jobright.ai/jobs/info/6a5551d0268af95237beae0d?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 | **[Hudson Institute](http://www.hudson.org/)** | **[Legal Internship, Forum for Intellectual Property, Fall 2026](https://jobright.ai/jobs/info/6a554fefae07d60a8d010799?utm_campaign=1055&utm_source=git)** | USA | Remote | Jul 13 |
 | **[AFL](http://www.AFLglobal.com)** | **[International Trade Intern- Fall 2026](https://jobright.ai/jobs/info/6a55d0d32ce8bf79a13a172c?utm_campaign=1055&utm_source=git)** | Duncan, SC, United States | On Site | Jul 13 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Legal Department Undergraduate Internship](https://jobright.ai/jobs/info/6a394bdaf6b55d12c792715b?utm_campaign=1055&utm_source=git)** | Washington D.C., DC, United States | On Site | Jul 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BeiGene](https://www.beigene.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/69fc46856e32960ebbbe8433?utm_campaign=1055&utm_source=git)** | Remote (US), US | Remote | Jul 10 |
 | **[International Maritime Group | PLLC](https://maritime.law)** | **[Legal Intern](https://jobright.ai/jobs/info/6a50ffc802522b5b722e67b7?utm_campaign=1055&utm_source=git)** | Seattle, WA, United States | On Site | Jul 10 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a505f394649561ec08b107c?utm_campaign=1055&utm_source=git)** | Whitestone, NY, United States | On Site | Jul 09 |
-| **[Sony](https://www.sony.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a502235397d8d353c28e032?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
