@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UHY-US](https://uhy-us.com/)** | **[2026 Fall Risk Advisory Internship - Remote DC, MD, VA, TX](https://jobright.ai/jobs/info/6a57e6769838a11e5d835719?utm_campaign=1055&utm_source=git)** | Columbia, MD, United States | Remote | Jul 15 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/6a57dfb672fe7a7b98dcb712?utm_campaign=1055&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jul 15 |
+| **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027 2L Summer Law Student - Criminal & Family (Kenora)](https://jobright.ai/jobs/info/6a57dfad72fe7a7b98dcb706?utm_campaign=1055&utm_source=git)** | Kenora, Ontario, Canada | On Site | Jul 15 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/6a57de0f9838a11e5d835412?utm_campaign=1055&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jul 15 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2026 Reproductive Rights and Health Legal Internship](https://jobright.ai/jobs/info/6a46e06f8204a812e98ca500?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Remote | Jul 15 |
 | **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer - Investigative Analyst Intern](https://jobright.ai/jobs/info/6a57ce3de9b77f668bd6ae15?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Jul 15 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[ABC Commission Legal Intern (Fall 2026)](https://jobright.ai/jobs/info/6a57affbefb06a45240dc5be?utm_campaign=1055&utm_source=git)** | Wake County, NC, United States | Hybrid | Jul 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Reproductive Rights and Health Legal Internship](https://jobright.ai/jobs/info/6a34773a649fdf16292f619d?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jul 10 |
 | **[Purpose. Dignity. Action. (PDA)](https://wearepda.org/)** | **[Legal Internship/Externship (Fall/Winter 2026)](https://jobright.ai/jobs/info/6a51d9ca8d7d3e6cf1cc3d5a?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 10 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Legal & Compliance](https://jobright.ai/jobs/info/6a3123830ff23769fdb1c3cf?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jul 10 |
-| **[Palm Beach County](https://discover.pbcgov.org/Pages/default.aspx)** | **[Legal Intern: SUMMER 2027](https://jobright.ai/jobs/info/6a51b276bf63b66c7997b0f7?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL, United States | On Site | Jul 10 |
-| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/69fb3ae287a4820e6da86723?utm_campaign=1055&utm_source=git)** | Wheaton, IL, United States | On Site | Jul 10 |
-| **[PICTON Investments](https://www.pictoninvestments.com/en)** | **[Intern, PICTON Investment Counsel](https://jobright.ai/jobs/info/6a513cf8ae4052672fe981eb?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 10 |
-| **[Paths Management Services](https://www.linkedin.com/company/98504846)** | **[Legal Intern](https://jobright.ai/jobs/info/6a51373678e364789ca59d1a?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
