@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a57ef093330ca6f993c21e1?utm_campaign=1055&utm_source=git)** | Nashville, TN, United States | On Site | Jul 15 |
+| **[Major League Baseball (MLB)](https://www.mlb.com/indians)** | **[Investigative Intern (Fall)](https://jobright.ai/jobs/info/6a57b7e2a791c6211bf00853?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
+| ↳ | **[Legal Intern (Fall)](https://jobright.ai/jobs/info/6a57b7d8a791c6211bf00830?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
 | **[UHY-US](https://uhy-us.com/)** | **[2026 Fall Risk Advisory Internship - Remote DC, MD, VA, TX](https://jobright.ai/jobs/info/6a57e6769838a11e5d835719?utm_campaign=1055&utm_source=git)** | Columbia, MD, United States | Remote | Jul 15 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/6a57dfb672fe7a7b98dcb712?utm_campaign=1055&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jul 15 |
 | **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027 2L Summer Law Student - Criminal & Family (Kenora)](https://jobright.ai/jobs/info/6a57dfad72fe7a7b98dcb706?utm_campaign=1055&utm_source=git)** | Kenora, Ontario, Canada | On Site | Jul 15 |
@@ -65,8 +68,6 @@ For a complete list, click the following sortable link below:
 | **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer - Investigative Analyst Intern](https://jobright.ai/jobs/info/6a57ce3de9b77f668bd6ae15?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Jul 15 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[ABC Commission Legal Intern (Fall 2026)](https://jobright.ai/jobs/info/6a57affbefb06a45240dc5be?utm_campaign=1055&utm_source=git)** | Wake County, NC, United States | Hybrid | Jul 15 |
 | **[Pratt Institute](https://www.pratt.edu)** | **[Office of Legal Counsel Intern (71109)](https://jobright.ai/jobs/info/6a57be1f10c4d945d8650c2d?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Jul 15 |
-| **[Major League Baseball (MLB)](https://www.mlb.com/indians)** | **[Investigative Intern (Fall)](https://jobright.ai/jobs/info/6a57b7e2a791c6211bf00853?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
-| ↳ | **[Legal Intern (Fall)](https://jobright.ai/jobs/info/6a57b7d8a791c6211bf00830?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
 | **[Commonwealth of Massachusetts](http://www.mass.gov)** | **[Office of the General Counsel Fall Internship](https://jobright.ai/jobs/info/6a57ad5fa791c6211beffe69?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Jul 15 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Racial Justice Program](https://jobright.ai/jobs/info/6a523893d007ee02d95f694b?utm_campaign=1055&utm_source=git)** | New York City, United States | Remote | Jul 15 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3af18a06a4fd4b1fabfa75?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 15 |
@@ -120,7 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Berkshire Hathaway HomeServices Indiana Realty](http://bhhsinrealty.com)** | **[Law Intern - Title Insurance and Real Estate](https://jobright.ai/jobs/info/6a55281bae07d60a8d00f443?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 13 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/ Intern Volunteer](https://jobright.ai/jobs/info/6a5525b8ae07d60a8d00f2f3?utm_campaign=1055&utm_source=git)** | Lakewood, CO, United States | On Site | Jul 13 |
 | **[ACLU of Illinois](http://www.aclu-il.org/)** | **[Legal Internship - Fall 2026](https://jobright.ai/jobs/info/6a551a6b268af95237be94ac?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 13 |
-| **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a54de0031f2d15a8d813b4c?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Jul 13 |
+| **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ba304056973837413faf8b?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Jul 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Arbitration Strategy Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a34023ace501060b5ceedd6?utm_campaign=1055&utm_source=git)** | Los Angeles | On Site | Jul 13 |
 | ↳ | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a22aa8614de9460dc842d49?utm_campaign=1055&utm_source=git)** | Seattle | On Site | Jul 13 |
 | **[ACLU of New Jersey](https://www.aclu-nj.org/)** | **[Summer Legal Intern- ACLU-NJ](https://jobright.ai/jobs/info/6a5509e5377f983ce8a97529?utm_campaign=1055&utm_source=git)** | Newark, NJ, United States | Hybrid | Jul 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tuff City Records](http://www.tuffcity.com)** | **[Legal Intern (100% on site)](https://jobright.ai/jobs/info/6a51c19602522b5b722eaf29?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Reproductive Rights and Health Legal Internship](https://jobright.ai/jobs/info/6a34773a649fdf16292f619d?utm_campaign=1055&utm_source=git)** | Washington, DC | On Site | Jul 10 |
 | **[Purpose. Dignity. Action. (PDA)](https://wearepda.org/)** | **[Legal Internship/Externship (Fall/Winter 2026)](https://jobright.ai/jobs/info/6a51d9ca8d7d3e6cf1cc3d5a?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 10 |
-| **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Legal & Compliance](https://jobright.ai/jobs/info/6a3123830ff23769fdb1c3cf?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
