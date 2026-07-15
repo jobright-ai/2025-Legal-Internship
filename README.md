@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Racial Justice Program](https://jobright.ai/jobs/info/6a523893d007ee02d95f694b?utm_campaign=1055&utm_source=git)** | New York City, United States | Remote | Jul 15 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3af18a06a4fd4b1fabfa75?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 15 |
 | **[MAHLE Senica](https://www.jobs.mahle.com/slovakia/sk/)** | **[Foreign Trade Intern](https://jobright.ai/jobs/info/6a572530efb06a45240d9555?utm_campaign=1055&utm_source=git)** | Farmington, MI, United States | On Site | Jul 14 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Women's Rights Project](https://jobright.ai/jobs/info/6a51cababf63b66c7997cc21?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Remote | Jul 14 |
@@ -130,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Lowell - Fall 2026](https://jobright.ai/jobs/info/6a52e9398576ec69c014df49?utm_campaign=1055&utm_source=git)** | Lowell, MA, United States | On Site | Jul 11 |
 | **[Locus Robotics](http://www.locusrobotics.com)** | **[Enterprise Security, Risk and Compliance Co-Op/Internship](https://jobright.ai/jobs/info/6a44221eef17a815538a3004?utm_campaign=1055&utm_source=git)** | Wilmington, MA, United States | Hybrid | Jul 11 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Disability Rights Program](https://jobright.ai/jobs/info/6a526dee8576ec69c014bdfd?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 11 |
-| ↳ | **[Fall 2026 Legal Intern, Racial Justice Program](https://jobright.ai/jobs/info/6a523893d007ee02d95f694b?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 11 |
 | ↳ | **[Fall 2026 Legal Intern, Abortion Criminal Defense Initiative](https://jobright.ai/jobs/info/6a523399e726ec56126a1fb7?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 11 |
 | ↳ | **[Fall 2026 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/6a522a038576ec69c014ab88?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 11 |
 | **[Sila Services](https://silaservices.com )** | **[Legal Internship](https://jobright.ai/jobs/info/6a52152a8ef95364ead8cc02?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 11 |
