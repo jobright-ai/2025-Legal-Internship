@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Intern Pro Bono Program (Fall)](https://jobright.ai/jobs/info/6a56cfd8f7517b519ad58331?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 14 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2026 Nominations & Democracy  Legal Intern](https://jobright.ai/jobs/info/6a56a23853b3962b910b1a51?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Remote | Jul 14 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2026 Compliance Internship](https://jobright.ai/jobs/info/6a4eadea0ea38951a6ff4180?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 14 |
 | **[Continental](http://www.continentaltire.com)** | **[Intern - Customs Compliance, Year-Round](https://jobright.ai/jobs/info/6a568b9753b3962b910b0f3e?utm_campaign=1055&utm_source=git)** | 1794 MacMillan Park Dr, Fort Mill, SC 29707, USA | Hybrid | Jul 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York Legal Assistance Group](https://www.nylag.org)** | **[Fall 2026 Legal Intern, Foreclosure Prevention Project](https://jobright.ai/jobs/info/6a3438b87f3fdd180d4c95f1?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[BeOne Medicines](https://beonemedicines.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/6a0f384c83d714428981db65?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 10 |
 | **[BeiGene](https://www.beigene.com)** | **[Intern - Regulatory Affairs, CMC (year-round)](https://jobright.ai/jobs/info/69fc46856e32960ebbbe8433?utm_campaign=1055&utm_source=git)** | Remote (US), US | Remote | Jul 10 |
-| **[International Maritime Group | PLLC](https://maritime.law)** | **[Legal Intern](https://jobright.ai/jobs/info/6a50ffc802522b5b722e67b7?utm_campaign=1055&utm_source=git)** | Seattle, WA, United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
