@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Farm](https://www.statefarm.com)** | **[Fall 2026/Spring 2027 Law Intern Tempe, AZ](https://jobright.ai/jobs/info/6a56e31021f64463ad357583?utm_campaign=1055&utm_source=git)** | Tempe, AZ, United States | Hybrid | Jul 14 |
 | **[National Legal Aid & Defender Association](https://www.nlada.org/)** | **[Intern Pro Bono Program (Fall)](https://jobright.ai/jobs/info/6a56cfd8f7517b519ad58331?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 14 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2026 Nominations & Democracy  Legal Intern](https://jobright.ai/jobs/info/6a56a23853b3962b910b1a51?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Remote | Jul 14 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2026 Compliance Internship](https://jobright.ai/jobs/info/6a4eadea0ea38951a6ff4180?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 14 |
@@ -101,7 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Berkshire Hathaway HomeServices Indiana Realty](http://bhhsinrealty.com)** | **[Law Intern - Title Insurance and Real Estate](https://jobright.ai/jobs/info/6a55281bae07d60a8d00f443?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 13 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/ Intern Volunteer](https://jobright.ai/jobs/info/6a5525b8ae07d60a8d00f2f3?utm_campaign=1055&utm_source=git)** | Lakewood, CO, United States | On Site | Jul 13 |
 | **[ACLU of Illinois](http://www.aclu-il.org/)** | **[Legal Internship - Fall 2026](https://jobright.ai/jobs/info/6a551a6b268af95237be94ac?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 13 |
-| **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ba304056973837413faf8b?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Jul 13 |
+| **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a54de0031f2d15a8d813b4c?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Jul 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Arbitration Strategy Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a34023ace501060b5ceedd6?utm_campaign=1055&utm_source=git)** | Los Angeles | On Site | Jul 13 |
 | ↳ | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a22aa8614de9460dc842d49?utm_campaign=1055&utm_source=git)** | Seattle | On Site | Jul 13 |
 | **[ACLU of New Jersey](https://www.aclu-nj.org/)** | **[Summer Legal Intern- ACLU-NJ](https://jobright.ai/jobs/info/6a5509e5377f983ce8a97529?utm_campaign=1055&utm_source=git)** | Newark, NJ, United States | Hybrid | Jul 13 |
@@ -110,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/6a54bb3a85072f1a8a2518ec?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Criminal Law Reform Project](https://jobright.ai/jobs/info/6a548aac8576ec69c015383e?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Remote | Jul 12 |
 | ↳ | **[Fall 2026 Legal Intern, State Supreme Court Initiative](https://jobright.ai/jobs/info/6a54835e8a74e077472fc093?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Remote | Jul 12 |
-| **[Big Tech Company](https://www.bigtech.company)** | **[Product Counsel Intern](https://jobright.ai/jobs/info/6a5570aaae07d60a8d0117b4?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 12 |
 | **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Fall Legal Intern](https://jobright.ai/jobs/info/6a3d6f25d261407de98006a2?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 12 |
 | **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Undergraduate Intern, Legal](https://jobright.ai/jobs/info/69cee43f366bb95ba5510b91?utm_campaign=1055&utm_source=git)** | Atlanta, GA, Atlanta, GA, US | On Site | Jul 12 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a542dbdc8eb0843027af047?utm_campaign=1055&utm_source=git)** | Durham, NC, United States | Hybrid | Jul 12 |
