@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MAHLE Senica](https://www.jobs.mahle.com/slovakia/sk/)** | **[Foreign Trade Intern](https://jobright.ai/jobs/info/6a572530efb06a45240d9555?utm_campaign=1055&utm_source=git)** | Farmington, MI, United States | On Site | Jul 14 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Women's Rights Project](https://jobright.ai/jobs/info/6a51cababf63b66c7997cc21?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Remote | Jul 14 |
 | **[TransitMatters](https://transitmatters.org)** | **[Fall/Spring Intern - 2026/2027](https://jobright.ai/jobs/info/6a56f6ffe9b77f668bd66696?utm_campaign=1055&utm_source=git)** | Boston, MA 02110, United States | On Site | Jul 14 |
 | **[BGBx](http://bgbgroup.com/)** | **[Fall 2026 Contracts Management Internship](https://jobright.ai/jobs/info/6a56eb6953b3962b910b31d5?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 14 |
@@ -106,7 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Berkshire Hathaway HomeServices Indiana Realty](http://bhhsinrealty.com)** | **[Law Intern - Title Insurance and Real Estate](https://jobright.ai/jobs/info/6a55281bae07d60a8d00f443?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 13 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/ Intern Volunteer](https://jobright.ai/jobs/info/6a5525b8ae07d60a8d00f2f3?utm_campaign=1055&utm_source=git)** | Lakewood, CO, United States | On Site | Jul 13 |
 | **[ACLU of Illinois](http://www.aclu-il.org/)** | **[Legal Internship - Fall 2026](https://jobright.ai/jobs/info/6a551a6b268af95237be94ac?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 13 |
-| **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a54de0031f2d15a8d813b4c?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Jul 13 |
+| **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ba304056973837413faf8b?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Jul 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Arbitration Strategy Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a34023ace501060b5ceedd6?utm_campaign=1055&utm_source=git)** | Los Angeles | On Site | Jul 13 |
 | ↳ | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a22aa8614de9460dc842d49?utm_campaign=1055&utm_source=git)** | Seattle | On Site | Jul 13 |
 | **[ACLU of New Jersey](https://www.aclu-nj.org/)** | **[Summer Legal Intern- ACLU-NJ](https://jobright.ai/jobs/info/6a5509e5377f983ce8a97529?utm_campaign=1055&utm_source=git)** | Newark, NJ, United States | Hybrid | Jul 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op/Intern – Forensic Disputes & Investigation (FDI) Calgary or Vancouver / January – April 2027](https://jobright.ai/jobs/info/6a50eacdae4052672fe95569?utm_campaign=1055&utm_source=git)** | Vancouver, Canada | Hybrid | Jul 10 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, SCOTUS](https://jobright.ai/jobs/info/6a510628ae4052672fe96303?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 10 |
 | **[Dickinson Wright](http://www.dickinson-wright.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6a510127ae4052672fe95f1f?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 10 |
-| **[Cook County State’s Attorney’s Office](https://www.cookcountystatesattorney.org/)** | **[FALL 2026 Volunteer Internship](https://jobright.ai/jobs/info/6a50e2ab0cdd7f5d975cccc8?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
