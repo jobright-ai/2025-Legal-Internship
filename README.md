@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Legal & Compliance](https://jobright.ai/jobs/info/6a3123830ff23769fdb1c3cf?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jul 15 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op/Intern – Forensic Disputes & Investigation (FDI) Calgary or Vancouver / January – April 2027](https://jobright.ai/jobs/info/6a50eacdae4052672fe95569?utm_campaign=1055&utm_source=git)** | Vancouver, Canada | Hybrid | Jul 15 |
 | **[Notion](https://www.notion.com)** | **[Governance, Risk, and Compliance Intern (Fall 2026)](https://jobright.ai/jobs/info/6a58172f72fe7a7b98dccefc?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 15 |
 | **[Touro University](https://dental.touro.edu)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a5206b58576ec69c014a17c?utm_campaign=1055&utm_source=git)** | New York, NY, US | Remote | Jul 15 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Sila Services](https://silaservices.com )** | **[Legal Internship](https://jobright.ai/jobs/info/6a52152a8ef95364ead8cc02?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 11 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, National Prison Project](https://jobright.ai/jobs/info/6a52045eae4052672fe9d37f?utm_campaign=1055&utm_source=git)** | Washington D.C., United States | Hybrid | Jul 11 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/6a5202b2bf63b66c7997f34a?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
+| **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2026 Reproductive Rights and Health Legal Internship](https://jobright.ai/jobs/info/6a34773a649fdf16292f619d?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Jul 10 |
 | **[SI-BONE](http://si-bone.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a51b000bf63b66c7997af40?utm_campaign=1055&utm_source=git)** | Santa Clara, CA, United States | On Site | Jul 10 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Immigration Intern (UNPAID)](https://jobright.ai/jobs/info/6a46a8068204a812e98c9595?utm_campaign=1055&utm_source=git)** | Wichita, KS USA, United States of America | On Site | Jul 10 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[SPFHS-2026-7i State Parks Legal Intern](https://jobright.ai/jobs/info/6a443ebdef17a815538a380b?utm_campaign=1055&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 10 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Immigration Impact Unit - Fall 2026](https://jobright.ai/jobs/info/6a51261078e364789ca59558?utm_campaign=1055&utm_source=git)** | Malden, MA, United States | Hybrid | Jul 10 |
-| **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Legal](https://jobright.ai/jobs/info/6a417e9e1afc66714d3cad14?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
