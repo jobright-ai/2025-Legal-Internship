@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer - CAO Dispute Resolution Intern](https://jobright.ai/jobs/info/6a58e610686b4755d1e0d017?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Jul 16 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Asylum Seeker Legal Team Intern (Unpaid)](https://jobright.ai/jobs/info/6a461c57076271587529fc6c?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Jul 16 |
 | ↳ | **[Immigration Legal Team Intern (Unpaid)](https://jobright.ai/jobs/info/6a461c3f0dd56c76cc2f6005?utm_campaign=1055&utm_source=git)** | New York, NY RAI USA, United States of America | Hybrid | Jul 16 |
 | **[FOLX Health](https://www.folxhealth.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6a58a9f968d16a30e24146dd?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 16 |
@@ -64,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[Environment America](http://environmentamerica.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a2d1cb8c260bb1b8ae184f4?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | Remote | Jul 15 |
 | **[Institute for Civic & Community Engagement](https://icce.sfsu.edu/)** | **[DPA's Law & Justice Reform Internship Program](https://jobright.ai/jobs/info/6a587b6e72fe7a7b98dcea90?utm_campaign=1055&utm_source=git)** | Justice, IL, United States | Hybrid | Jul 15 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Legal & Compliance](https://jobright.ai/jobs/info/6a3123830ff23769fdb1c3cf?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jul 15 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/6a57de0f9838a11e5d835412?utm_campaign=1055&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jul 15 |
-| ↳ | **[Intern, Investigations Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/6a57dfb672fe7a7b98dcb712?utm_campaign=1055&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jul 15 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/6a57dfb672fe7a7b98dcb712?utm_campaign=1055&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jul 15 |
+| ↳ | **[Intern, Investigations Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/6a57de0f9838a11e5d835412?utm_campaign=1055&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jul 15 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op/Intern – Forensic Disputes & Investigation (FDI) Calgary or Vancouver / January – April 2027](https://jobright.ai/jobs/info/6a50eacdae4052672fe95569?utm_campaign=1055&utm_source=git)** | Vancouver, Canada | Hybrid | Jul 15 |
 | **[Notion](https://www.notion.com)** | **[Governance, Risk, and Compliance Intern (Fall 2026)](https://jobright.ai/jobs/info/6a58172f72fe7a7b98dccefc?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 15 |
 | **[Touro University](https://dental.touro.edu)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a5206b58576ec69c014a17c?utm_campaign=1055&utm_source=git)** | New York, NY, US | Remote | Jul 15 |
@@ -132,7 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Berkshire Hathaway HomeServices Indiana Realty](http://bhhsinrealty.com)** | **[Law Intern - Title Insurance and Real Estate](https://jobright.ai/jobs/info/6a55281bae07d60a8d00f443?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 13 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/ Intern Volunteer](https://jobright.ai/jobs/info/6a5525b8ae07d60a8d00f2f3?utm_campaign=1055&utm_source=git)** | Lakewood, CO, United States | On Site | Jul 13 |
 | **[ACLU of Illinois](http://www.aclu-il.org/)** | **[Legal Internship - Fall 2026](https://jobright.ai/jobs/info/6a551a6b268af95237be94ac?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 13 |
-| **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a54de0031f2d15a8d813b4c?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Jul 13 |
+| **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69ba304056973837413faf8b?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Jul 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Arbitration Strategy Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a34023ace501060b5ceedd6?utm_campaign=1055&utm_source=git)** | Los Angeles | On Site | Jul 13 |
 | ↳ | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a22aa8614de9460dc842d49?utm_campaign=1055&utm_source=git)** | Seattle | On Site | Jul 13 |
 | **[ACLU of New Jersey](https://www.aclu-nj.org/)** | **[Summer Legal Intern- ACLU-NJ](https://jobright.ai/jobs/info/6a5509e5377f983ce8a97529?utm_campaign=1055&utm_source=git)** | Newark, NJ, United States | Hybrid | Jul 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Legal Intern, Abortion Criminal Defense Initiative](https://jobright.ai/jobs/info/6a523399e726ec56126a1fb7?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 11 |
 | ↳ | **[Fall 2026 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/6a522a038576ec69c014ab88?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 11 |
 | **[Sila Services](https://silaservices.com )** | **[Legal Internship](https://jobright.ai/jobs/info/6a52152a8ef95364ead8cc02?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 11 |
-| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, National Prison Project](https://jobright.ai/jobs/info/6a52045eae4052672fe9d37f?utm_campaign=1055&utm_source=git)** | Washington D.C., United States | Hybrid | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
