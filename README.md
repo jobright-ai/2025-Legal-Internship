@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Touro University](https://dental.touro.edu)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a5206b58576ec69c014a17c?utm_campaign=1055&utm_source=git)** | New York, NY, US | Remote | Jul 15 |
 | **[Notion](https://www.notion.com)** | **[Governance, Risk, and Compliance Intern (Fall 2026)](https://jobright.ai/jobs/info/6a58172f72fe7a7b98dccefc?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 15 |
 | **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer - Trade Intern](https://jobright.ai/jobs/info/6a5804f372fe7a7b98dcc6f1?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Jul 15 |
 | **[UHY-US](https://uhy-us.com/)** | **[2026 Fall Risk Advisory Internship - Remote DC, MD, VA, TX](https://jobright.ai/jobs/info/6a57e6769838a11e5d835719?utm_campaign=1055&utm_source=git)** | Columbia, MD, United States | Remote | Jul 15 |
@@ -148,7 +149,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Legal Intern, Abortion Criminal Defense Initiative](https://jobright.ai/jobs/info/6a523399e726ec56126a1fb7?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 11 |
 | ↳ | **[Fall 2026 Legal Intern, Voting Rights Project](https://jobright.ai/jobs/info/6a522a038576ec69c014ab88?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 11 |
 | **[Sila Services](https://silaservices.com )** | **[Legal Internship](https://jobright.ai/jobs/info/6a52152a8ef95364ead8cc02?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 11 |
-| **[Touro University](https://dental.touro.edu)** | **[Summer 2026 Legal Internship](https://jobright.ai/jobs/info/6a5206b58576ec69c014a17c?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Remote | Jul 11 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, National Prison Project](https://jobright.ai/jobs/info/6a52045eae4052672fe9d37f?utm_campaign=1055&utm_source=git)** | Washington D.C., United States | Hybrid | Jul 11 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/6a5202b2bf63b66c7997f34a?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
 | **[SI-BONE](http://si-bone.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a51b000bf63b66c7997af40?utm_campaign=1055&utm_source=git)** | Santa Clara, CA, United States | On Site | Jul 10 |
