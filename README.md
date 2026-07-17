@@ -57,16 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998f9cae0bddb6acac7eaf6?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jul 16 |
+| **[GT Restructuring](http://gtrestructuring.com)** | **[Intern](https://jobright.ai/jobs/info/6a595fa863a8f619507c21e3?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 16 |
+| **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998f5f9e0bddb6acac7e4fc?utm_campaign=1055&utm_source=git)** | Dayton, OH, United States | On Site | Jul 16 |
+| ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998f9cae0bddb6acac7eaf6?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jul 16 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2026 Regulatory Internship](https://jobright.ai/jobs/info/6a5949a563a8f619507c1907?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Jul 16 |
 | **[Center for U.S. Immigration Services](http://cfuis.com/)** | **[Entry Level Immigration paralegal](https://jobright.ai/jobs/info/6a5949163ac7627fe9ffe947?utm_campaign=1055&utm_source=git)** | Tampa, FL, United States | On Site | Jul 16 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6a5948273ac7627fe9ffe8f9?utm_campaign=1055&utm_source=git)** | Columbus, OH, United States | On Site | Jul 16 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Intern](https://jobright.ai/jobs/info/6a594554686b4755d1e0f8fb?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 16 |
 | **[AARP](http://www.aarp.org)** | **[Ethics and Compliance Intern](https://jobright.ai/jobs/info/6a593979856af468ab002863?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 16 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a3437b3f6b55d12c791b99f?utm_campaign=1055&utm_source=git)** | Atlanta, GA, US | On Site | Jul 16 |
-| ↳ | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6a536698d007ee02d95fb405?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA, United States of America | Hybrid | Jul 16 |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a52038c78e364789ca5f1f8?utm_campaign=1055&utm_source=git)** | Atlanta, GA USA, United States of America | On Site | Jul 16 |
 | ↳ | **[Immigration Intern](https://jobright.ai/jobs/info/6a591db6c8e3a473cb8a5093?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 16 |
-| ↳ | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a52038c78e364789ca5f1f8?utm_campaign=1055&utm_source=git)** | Atlanta, GA USA, United States of America | On Site | Jul 16 |
+| ↳ | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6a536698d007ee02d95fb405?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA, United States of America | Hybrid | Jul 16 |
+| ↳ | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a3437b3f6b55d12c791b99f?utm_campaign=1055&utm_source=git)** | Atlanta, GA, US | On Site | Jul 16 |
 | ↳ | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6908880dd046ab6061ccba0a?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA | Hybrid | Jul 16 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2026 Compliance Internship](https://jobright.ai/jobs/info/6a592d0863a8f619507c0c5f?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Women's Rights Project](https://jobright.ai/jobs/info/6a51cababf63b66c7997cc21?utm_campaign=1055&utm_source=git)** | New York City, United States | Remote | Jul 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a22aa8614de9460dc842d49?utm_campaign=1055&utm_source=git)** | Seattle | On Site | Jul 13 |
 | **[ACLU of New Jersey](https://www.aclu-nj.org/)** | **[Summer Legal Intern- ACLU-NJ](https://jobright.ai/jobs/info/6a5509e5377f983ce8a97529?utm_campaign=1055&utm_source=git)** | Newark, NJ, United States | Hybrid | Jul 13 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d67029111f771d1a189cf?utm_campaign=1055&utm_source=git)** | Calabasas, CA, United States | On Site | Jul 13 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Liberty and National Security Legal Internship](https://jobright.ai/jobs/info/6a462559c2d11a6a4666c69d?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Jul 13 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Operational Risk Management Governance Intern](https://jobright.ai/jobs/info/6a54bb3a85072f1a8a2518ec?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
