@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Legal Intern - Pittsburgh, PA](https://jobright.ai/jobs/info/6a5e73b4f29acc1a11747a94?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 20 |
 | **[Robins Kaplan LLP](http://robinskaplan.com)** | **[Fall Paralegal Internship](https://jobright.ai/jobs/info/6a5e4ff2270e3033b045d0f7?utm_campaign=1055&utm_source=git)** | Minneapolis, Minnesota, United States | On Site | Jul 20 |
 | **[Death Penalty Information Center](http://www.deathpenaltyinfo.org)** | **[Fall 2026 Legal Intern](https://jobright.ai/jobs/info/6a5e47a5270e3033b045cc96?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 20 |
 | **[Human Rights First](http://www.humanrightsfirst.org)** | **[Human Rights Accountability Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a4ed3d9fc327f422fef450e?utm_campaign=1055&utm_source=git)** | Washington DC, United States | Remote | Jul 20 |
@@ -128,10 +129,10 @@ For a complete list, click the following sortable link below:
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2026 Regulatory Internship](https://jobright.ai/jobs/info/6a5949a563a8f619507c1907?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Jul 16 |
 | **[Center for U.S. Immigration Services](http://cfuis.com/)** | **[Entry Level Immigration paralegal](https://jobright.ai/jobs/info/6a5949163ac7627fe9ffe947?utm_campaign=1055&utm_source=git)** | Tampa, FL, United States | On Site | Jul 16 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6a5be59163a8f619507cc365?utm_campaign=1055&utm_source=git)** | Sacramento County, CA, United States | On Site | Jul 16 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6908880dd046ab6061ccba0a?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA | Hybrid | Jul 16 |
-| ↳ | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a3437b3f6b55d12c791b99f?utm_campaign=1055&utm_source=git)** | Atlanta, GA, US | On Site | Jul 16 |
-| ↳ | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6a536698d007ee02d95fb405?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA, United States of America | Hybrid | Jul 16 |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6a536698d007ee02d95fb405?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA, United States of America | Hybrid | Jul 16 |
+| ↳ | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6908880dd046ab6061ccba0a?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA | Hybrid | Jul 16 |
 | ↳ | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a52038c78e364789ca5f1f8?utm_campaign=1055&utm_source=git)** | Atlanta, GA USA, United States of America | On Site | Jul 16 |
+| ↳ | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a3437b3f6b55d12c791b99f?utm_campaign=1055&utm_source=git)** | Atlanta, GA, US | On Site | Jul 16 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2026 Compliance Internship](https://jobright.ai/jobs/info/6a592d0863a8f619507c0c5f?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Women's Rights Project](https://jobright.ai/jobs/info/6a51cababf63b66c7997cc21?utm_campaign=1055&utm_source=git)** | New York City, United States | Remote | Jul 16 |
 | **[Danone](https://danone.ie)** | **[Regulatory Affairs Intern (Fall 2026)](https://jobright.ai/jobs/info/6a342499649fdf16292f44a4?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jul 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer - Trade Intern](https://jobright.ai/jobs/info/6a5804f372fe7a7b98dcc6f1?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Jul 15 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a57ef093330ca6f993c21e1?utm_campaign=1055&utm_source=git)** | Nashville, TN, United States | On Site | Jul 15 |
 | **[Major League Baseball (MLB)](https://www.mlb.com/)** | **[Investigative Intern (Fall)](https://jobright.ai/jobs/info/6a57b7e2a791c6211bf00853?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
-| ↳ | **[Legal Intern (Fall)](https://jobright.ai/jobs/info/6a57b7d8a791c6211bf00830?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
