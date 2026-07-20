@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Robins Kaplan LLP](http://robinskaplan.com)** | **[Fall Paralegal Internship](https://jobright.ai/jobs/info/6a5e4ff2270e3033b045d0f7?utm_campaign=1055&utm_source=git)** | Minneapolis, Minnesota, United States | On Site | Jul 20 |
 | **[Death Penalty Information Center](http://www.deathpenaltyinfo.org)** | **[Fall 2026 Legal Intern](https://jobright.ai/jobs/info/6a5e47a5270e3033b045cc96?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 20 |
 | **[Human Rights First](http://www.humanrightsfirst.org)** | **[Human Rights Accountability Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a4ed3d9fc327f422fef450e?utm_campaign=1055&utm_source=git)** | Washington DC, United States | Remote | Jul 20 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Law Clerk Internship](https://jobright.ai/jobs/info/6a29050e1dbd8437bebce8e3?utm_campaign=1055&utm_source=git)** | Centennial, CO, United States | On Site | Jul 20 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Legal & Compliance](https://jobright.ai/jobs/info/6a3123830ff23769fdb1c3cf?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jul 18 |
 | **[Legacy.com](https://www.legacy.com/)** | **[Intern-Legal](https://jobright.ai/jobs/info/6a5b7694c8e3a473cb8b024e?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 18 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e8bb733aa0c479643a497b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 18 |
-| ↳ | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Jul 18 |
 | ↳ | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/6a54b4d6ea8dc8115ea9aad9?utm_campaign=1055&utm_source=git)** | Toronto, Canada | On Site | Jul 18 |
+| ↳ | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Jul 18 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Fraud Prevention Intern](https://jobright.ai/jobs/info/6a5b431763a8f619507cabf1?utm_campaign=1055&utm_source=git)** | Lehi, UT, United States | On Site | Jul 18 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Fraud Prevention Intern](https://jobright.ai/jobs/info/6a5b3d90856af468ab00c4ce?utm_campaign=1055&utm_source=git)** | Lehi, UT, United States | On Site | Jul 18 |
 | **[State of Indiana](https://www.in.gov)** | **[Intern Job Details / State of Indiana](https://jobright.ai/jobs/info/6a5b3d7a856af468ab00c4c2?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 18 |
@@ -127,10 +128,10 @@ For a complete list, click the following sortable link below:
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2026 Regulatory Internship](https://jobright.ai/jobs/info/6a5949a563a8f619507c1907?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Jul 16 |
 | **[Center for U.S. Immigration Services](http://cfuis.com/)** | **[Entry Level Immigration paralegal](https://jobright.ai/jobs/info/6a5949163ac7627fe9ffe947?utm_campaign=1055&utm_source=git)** | Tampa, FL, United States | On Site | Jul 16 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6a5be59163a8f619507cc365?utm_campaign=1055&utm_source=git)** | Sacramento County, CA, United States | On Site | Jul 16 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a52038c78e364789ca5f1f8?utm_campaign=1055&utm_source=git)** | Atlanta, GA USA, United States of America | On Site | Jul 16 |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6908880dd046ab6061ccba0a?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA | Hybrid | Jul 16 |
 | ↳ | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a3437b3f6b55d12c791b99f?utm_campaign=1055&utm_source=git)** | Atlanta, GA, US | On Site | Jul 16 |
-| ↳ | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6908880dd046ab6061ccba0a?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA | Hybrid | Jul 16 |
 | ↳ | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6a536698d007ee02d95fb405?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA, United States of America | Hybrid | Jul 16 |
+| ↳ | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a52038c78e364789ca5f1f8?utm_campaign=1055&utm_source=git)** | Atlanta, GA USA, United States of America | On Site | Jul 16 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2026 Compliance Internship](https://jobright.ai/jobs/info/6a592d0863a8f619507c0c5f?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Women's Rights Project](https://jobright.ai/jobs/info/6a51cababf63b66c7997cc21?utm_campaign=1055&utm_source=git)** | New York City, United States | Remote | Jul 16 |
 | **[Danone](https://danone.ie)** | **[Regulatory Affairs Intern (Fall 2026)](https://jobright.ai/jobs/info/6a342499649fdf16292f44a4?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jul 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a57ef093330ca6f993c21e1?utm_campaign=1055&utm_source=git)** | Nashville, TN, United States | On Site | Jul 15 |
 | **[Major League Baseball (MLB)](https://www.mlb.com/)** | **[Investigative Intern (Fall)](https://jobright.ai/jobs/info/6a57b7e2a791c6211bf00853?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
 | ↳ | **[Legal Intern (Fall)](https://jobright.ai/jobs/info/6a57b7d8a791c6211bf00830?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
-| **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027 2L Summer Law Student - Criminal & Family (Kenora)](https://jobright.ai/jobs/info/6a57dfad72fe7a7b98dcb706?utm_campaign=1055&utm_source=git)** | Kenora, Ontario, Canada | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
