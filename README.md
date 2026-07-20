@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Law Reform Legal Intern, 2L - Fall 2026](https://jobright.ai/jobs/info/6a5da901c8e3a473cb8b530f?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 19 |
+| ↳ | **[Civil Practice Legal Intern, 2L - Fall 2026](https://jobright.ai/jobs/info/6a5da89c79547a520df5ea24?utm_campaign=1055&utm_source=git)** | City Wide, New York, NY,10038 | On Site | Jul 19 |
+| ↳ | **[Juvenile Rights Practice Legal Intern, 2L- Fall 2026](https://jobright.ai/jobs/info/6a5da894686b4755d1e1ea62?utm_campaign=1055&utm_source=git)** | 60 Lafayette Street Room 9A, New York, NY,10013 | On Site | Jul 19 |
+| ↳ | **[Criminal Defense Practice Legal Intern, 2L - Fall 2026](https://jobright.ai/jobs/info/6a5da89363a8f619507d03c9?utm_campaign=1055&utm_source=git)** | 49 Thomas Street, New York, NY,10013 | On Site | Jul 19 |
 | **[Conservation Law Foundation](https://www.clf.org/)** | **[Fall/Spring Intern - 2026/2027](https://jobright.ai/jobs/info/6a5d8d70856af468ab011457?utm_campaign=1055&utm_source=git)** | Boston, MA 02110, United States | On Site | Jul 19 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - CAFL Lowell - Fall 2026](https://jobright.ai/jobs/info/6a59f35c63a8f619507c466f?utm_campaign=1055&utm_source=git)** | Lowell, MA, US | On Site | Jul 19 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer - Intern Volunteer](https://jobright.ai/jobs/info/6a3ff54c3bfa967791ebfbba?utm_campaign=1055&utm_source=git)** | Greeley, CO, United States | On Site | Jul 19 |
@@ -67,9 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Legal & Compliance](https://jobright.ai/jobs/info/6a313fab2ee3ac1b4beed83e?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jul 18 |
 | ↳ | **[Intern, Legal & Compliance](https://jobright.ai/jobs/info/6a3123830ff23769fdb1c3cf?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jul 18 |
 | **[Legacy.com](https://www.legacy.com/)** | **[Intern-Legal](https://jobright.ai/jobs/info/6a5b7694c8e3a473cb8b024e?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 18 |
-| **[Societe Generale](https://www.societegenerale.com)** | **[INTERNSHIP - Client Position Regulatory Reporting Analyst - Chicago](https://jobright.ai/jobs/info/6a3ef571d261407de9805367?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Jul 18 |
-| **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Jul 18 |
-| ↳ | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/6a54b4d6ea8dc8115ea9aad9?utm_campaign=1055&utm_source=git)** | Toronto, Canada | On Site | Jul 18 |
+| **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/6a54b4d6ea8dc8115ea9aad9?utm_campaign=1055&utm_source=git)** | Toronto, Canada | On Site | Jul 18 |
+| ↳ | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Jul 18 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Fraud Prevention Intern](https://jobright.ai/jobs/info/6a5b431763a8f619507cabf1?utm_campaign=1055&utm_source=git)** | Lehi, UT, United States | On Site | Jul 18 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Fraud Prevention Intern](https://jobright.ai/jobs/info/6a5b3d90856af468ab00c4ce?utm_campaign=1055&utm_source=git)** | Lehi, UT, United States | On Site | Jul 18 |
 | **[State of Indiana](https://www.in.gov)** | **[Intern Job Details / State of Indiana](https://jobright.ai/jobs/info/6a5b3d7a856af468ab00c4c2?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 18 |
@@ -119,9 +122,9 @@ For a complete list, click the following sortable link below:
 | **[Center for U.S. Immigration Services](http://cfuis.com/)** | **[Entry Level Immigration paralegal](https://jobright.ai/jobs/info/6a5949163ac7627fe9ffe947?utm_campaign=1055&utm_source=git)** | Tampa, FL, United States | On Site | Jul 16 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6a5be59163a8f619507cc365?utm_campaign=1055&utm_source=git)** | Sacramento County, CA, United States | On Site | Jul 16 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6908880dd046ab6061ccba0a?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA | Hybrid | Jul 16 |
-| ↳ | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6a536698d007ee02d95fb405?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA, United States of America | Hybrid | Jul 16 |
-| ↳ | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a3437b3f6b55d12c791b99f?utm_campaign=1055&utm_source=git)** | Atlanta, GA, US | On Site | Jul 16 |
 | ↳ | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a52038c78e364789ca5f1f8?utm_campaign=1055&utm_source=git)** | Atlanta, GA USA, United States of America | On Site | Jul 16 |
+| ↳ | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a3437b3f6b55d12c791b99f?utm_campaign=1055&utm_source=git)** | Atlanta, GA, US | On Site | Jul 16 |
+| ↳ | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6a536698d007ee02d95fb405?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA, United States of America | Hybrid | Jul 16 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2026 Compliance Internship](https://jobright.ai/jobs/info/6a592d0863a8f619507c0c5f?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Women's Rights Project](https://jobright.ai/jobs/info/6a51cababf63b66c7997cc21?utm_campaign=1055&utm_source=git)** | New York City, United States | Remote | Jul 16 |
 | **[Danone](https://www.danone.com)** | **[Regulatory Affairs Intern (Fall 2026)](https://jobright.ai/jobs/info/6a342499649fdf16292f44a4?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jul 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Via Licensing Alliance](https://www.via-la.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a581a6d3330ca6f993c3472?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 15 |
 | **[Pratt Institute](https://www.pratt.edu)** | **[Office of Legal Counsel Intern (71109)](https://jobright.ai/jobs/info/6a57be1f10c4d945d8650c2d?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Jul 15 |
 | **[Commonwealth of Massachusetts](http://www.mass.gov)** | **[Office of the General Counsel Fall Internship](https://jobright.ai/jobs/info/6a57ad5fa791c6211beffe69?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Jul 15 |
-| **[UHY-US](https://uhy-us.com/)** | **[2026 Fall Risk Advisory Internship - Remote DC, MD, VA, TX](https://jobright.ai/jobs/info/6a57e6769838a11e5d835719?utm_campaign=1055&utm_source=git)** | Columbia, MD, United States | Remote | Jul 15 |
-| **[Dolby Laboratories](http://www.dolby.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a3af18a06a4fd4b1fabfa75?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 15 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigations Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/6a59f3cf4da96a42cfd9353d?utm_campaign=1055&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
