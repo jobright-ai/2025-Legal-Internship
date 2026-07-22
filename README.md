@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance – Specialist](https://jobright.ai/jobs/info/6a60e04cab14335fc0f15a98?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 22 |
+| ↳ | **[Intern, Investigation Diligence & Compliance – Specialist](https://jobright.ai/jobs/info/6a60de93ab9bd46763248c58?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 22 |
+| **[Wells Fargo](https://www.wellsfargo.com/com/securities/)** | **[2027 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a461803076271587529f8f3?utm_campaign=1055&utm_source=git)** | US | Remote | Jul 22 |
 | **[FOLX Health](https://www.folxhealth.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6a58a9f968d16a30e24146dd?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 22 |
 | **[Park City Municipal Corporation](https://parkcity.org)** | **[LAW CLERK INTERNSHIP](https://jobright.ai/jobs/info/6a60cfd4c752926c226823ac?utm_campaign=1055&utm_source=git)** | Park City, UT, United States | Hybrid | Jul 22 |
 | **[Center for Civilians in Conflict](https://www.civiliansinconflict.org)** | **[Advocacy and Legal Intern/Fellow (Washington DC)](https://jobright.ai/jobs/info/6a60baa7193c4d692385f2a4?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 22 |
@@ -67,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, State Supreme Court Initiative](https://jobright.ai/jobs/info/6a54835e8a74e077472fc093?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Remote | Jul 22 |
 | **[MAHLE](https://www.mahle.com)** | **[Foreign Trade Intern Job Details / MAHLE](https://jobright.ai/jobs/info/6a590acfc8e3a473cb8a4a7a?utm_campaign=1055&utm_source=git)** | Farmington Hills, MI, United States | On Site | Jul 21 |
 | ↳ | **[Foreign Trade Intern](https://jobright.ai/jobs/info/6a56678953b3962b910b000a?utm_campaign=1055&utm_source=git)** | Farmington Hills, MI, United States | On Site | Jul 21 |
-| **[Sila Services](https://silaservices.com )** | **[Legal Internship](https://jobright.ai/jobs/info/6a52152a8ef95364ead8cc02?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 21 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, SCOTUS](https://jobright.ai/jobs/info/6a510628ae4052672fe96303?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Remote | Jul 21 |
 | **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6a560d6153b3962b910add8c?utm_campaign=1055&utm_source=git)** | Durham, NC, United States | On Site | Jul 21 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Child Support Law Clerk Internship](https://jobright.ai/jobs/info/6a60292d33ef5c58b4001f34?utm_campaign=1055&utm_source=git)** | Santa Rosa, CA, United States | On Site | Jul 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Immigration Impact Unit - Fall 2026](https://jobright.ai/jobs/info/6a59f35e63a8f619507c4671?utm_campaign=1055&utm_source=git)** | Malden, MA, United States | Hybrid | Jul 17 |
 | **[Doyon Technology Group](https://doyontechgroup.com/)** | **[Legal Secretary Intern](https://jobright.ai/jobs/info/6a59f1eb4da96a42cfd93413?utm_campaign=1055&utm_source=git)** | Fairbanks, AK, United States | On Site | Jul 17 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Mental Health Litigation Division Brockton - Fall 2026](https://jobright.ai/jobs/info/6a59f14f63a8f619507c457d?utm_campaign=1055&utm_source=git)** | Brockton, MA, United States | On Site | Jul 17 |
-| ↳ | **[Internship - YAD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a59efb2686b4755d1e12834?utm_campaign=1055&utm_source=git)** | Worcester, MA, United States | On Site | Jul 17 |
-| ↳ | **[Internship - PDD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a59ef8b856af468ab005e4a?utm_campaign=1055&utm_source=git)** | Worcester, MA, United States | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
