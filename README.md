@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Regulatory Advocacy Internship](https://jobright.ai/jobs/info/6a60f02411edf44d7915eb2e?utm_campaign=1055&utm_source=git)** | Boulder, CO, United States | On Site | Jul 22 |
+| **[Belmark inc](https://www.belmark.com/)** | **[Quality Compliance Intern](https://jobright.ai/jobs/info/6a5411ae8ef95364ead944ce?utm_campaign=1055&utm_source=git)** | De Pere, WI, United States | On Site | Jul 22 |
+| **[City of Boulder](https://bouldercolorado.gov)** | **[Regulatory Advocacy Internship](https://jobright.ai/jobs/info/6a60eb18eaa37f43e758648b?utm_campaign=1055&utm_source=git)** | Boulder, CO, United States | On Site | Jul 22 |
+| **[International Rescue Committee](http://www.rescue.org)** | **[NY Children's Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6a60e7d511edf44d7915e785?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Jul 22 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance – Specialist](https://jobright.ai/jobs/info/6a60e04cab14335fc0f15a98?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 22 |
 | ↳ | **[Intern, Investigation Diligence & Compliance – Specialist](https://jobright.ai/jobs/info/6a60de93ab9bd46763248c58?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 22 |
 | **[Wells Fargo](https://www.wellsfargo.com/com/securities/)** | **[2027 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a461803076271587529f8f3?utm_campaign=1055&utm_source=git)** | US | Remote | Jul 22 |
@@ -90,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Juvenile Rights Practice Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a5da894686b4755d1e1ea62?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Immigration Impact Unit - Fall 2026](https://jobright.ai/jobs/info/6a51261078e364789ca59558?utm_campaign=1055&utm_source=git)** | Malden, MA, United States | Hybrid | Jul 21 |
 | **[HARMAN International](https://www.harman.com/)** | **[Part Time Intern - Supply Chain ESG & Compliance Analyst](https://jobright.ai/jobs/info/6a28429c883c0d3be6540cc1?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 21 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Law Student Intern](https://jobright.ai/jobs/info/6a5faa32193b511309679edf?utm_campaign=1055&utm_source=git)** | Hamilton, OH, United States | On Site | Jul 21 |
 | **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Co-op Paralegal Intern](https://jobright.ai/jobs/info/6a5faa0e33ef5c58b4fff48f?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 21 |
 | **[Synergy Services](http://www.synergyservices.org)** | **[Internship: Victim Advocate](https://jobright.ai/jobs/info/6a5604c110c4d945d8646dfc?utm_campaign=1055&utm_source=git)** | Gladstone, MO, United States | On Site | Jul 21 |
 | **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a5f86a9f68dd368023e70e4?utm_campaign=1055&utm_source=git)** | Cerritos, CA, United States | Hybrid | Jul 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Quality and Compliance Intern](https://jobright.ai/jobs/info/6a5a238fc8e3a473cb8aa10a?utm_campaign=1055&utm_source=git)** | Windsor Mill, MD 21224 | Remote | Jul 17 |
 | **[Franklin County](https://www.franklincountyohio.gov/)** | **[2026 Fall Legal Intern](https://jobright.ai/jobs/info/6a5a0cdc4da96a42cfd93ef8?utm_campaign=1055&utm_source=git)** | 1. Columbus, OH 43215, USA | On Site | Jul 17 |
 | **[Group 1001](https://group1001.com/)** | **[Enterprise Risk Management Intern (Fall)](https://jobright.ai/jobs/info/6a51b2c6bf63b66c7997b13b?utm_campaign=1055&utm_source=git)** | Zionsville, IN, United States | Hybrid | Jul 17 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Immigration Impact Unit - Fall 2026](https://jobright.ai/jobs/info/6a59f35e63a8f619507c4671?utm_campaign=1055&utm_source=git)** | Malden, MA, United States | Hybrid | Jul 17 |
-| **[Doyon Technology Group](https://doyontechgroup.com/)** | **[Legal Secretary Intern](https://jobright.ai/jobs/info/6a59f1eb4da96a42cfd93413?utm_campaign=1055&utm_source=git)** | Fairbanks, AK, United States | On Site | Jul 17 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Mental Health Litigation Division Brockton - Fall 2026](https://jobright.ai/jobs/info/6a59f14f63a8f619507c457d?utm_campaign=1055&utm_source=git)** | Brockton, MA, United States | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
