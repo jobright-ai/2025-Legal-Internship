@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FOLX Health](https://www.folxhealth.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6a58a9f968d16a30e24146dd?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 22 |
+| **[Park City Municipal Corporation](https://parkcity.org)** | **[LAW CLERK INTERNSHIP](https://jobright.ai/jobs/info/6a60cfd4c752926c226823ac?utm_campaign=1055&utm_source=git)** | Park City, UT, United States | Hybrid | Jul 22 |
 | **[Center for Civilians in Conflict](https://www.civiliansinconflict.org)** | **[Advocacy and Legal Intern/Fellow (Washington DC)](https://jobright.ai/jobs/info/6a60baa7193c4d692385f2a4?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 22 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2026 Compliance Internship](https://jobright.ai/jobs/info/6a4eadea0ea38951a6ff4180?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 22 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Immigrants' Rights Project- San Francisco](https://jobright.ai/jobs/info/6a52ff27d007ee02d95f9e05?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Remote | Jul 22 |
 | **[Commonwealth of Massachusetts](http://www.mass.gov)** | **[Office of the General Counsel Fall Internship](https://jobright.ai/jobs/info/6a6087d0129b652e9cd290a7?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Jul 22 |
 | **[Hernandez Consulting & Construction](https://www.hernandezconsulting.com/)** | **[JD/MBA Legal & Finance Intern](https://jobright.ai/jobs/info/6a3b5aa6dd879c60912b2a9b?utm_campaign=1055&utm_source=git)** | New Orleans, LA, United States | On Site | Jul 22 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, State Supreme Court Initiative](https://jobright.ai/jobs/info/6a54835e8a74e077472fc093?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Remote | Jul 22 |
-| **[MAHLE](https://www.mahle.com)** | **[Foreign Trade Intern](https://jobright.ai/jobs/info/6a56678953b3962b910b000a?utm_campaign=1055&utm_source=git)** | Farmington Hills, MI, United States | On Site | Jul 21 |
-| ↳ | **[Foreign Trade Intern Job Details / MAHLE](https://jobright.ai/jobs/info/6a590acfc8e3a473cb8a4a7a?utm_campaign=1055&utm_source=git)** | Farmington Hills, MI, United States | On Site | Jul 21 |
+| **[MAHLE](https://www.mahle.com)** | **[Foreign Trade Intern Job Details / MAHLE](https://jobright.ai/jobs/info/6a590acfc8e3a473cb8a4a7a?utm_campaign=1055&utm_source=git)** | Farmington Hills, MI, United States | On Site | Jul 21 |
+| ↳ | **[Foreign Trade Intern](https://jobright.ai/jobs/info/6a56678953b3962b910b000a?utm_campaign=1055&utm_source=git)** | Farmington Hills, MI, United States | On Site | Jul 21 |
 | **[Sila Services](https://silaservices.com )** | **[Legal Internship](https://jobright.ai/jobs/info/6a52152a8ef95364ead8cc02?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 21 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, SCOTUS](https://jobright.ai/jobs/info/6a510628ae4052672fe96303?utm_campaign=1055&utm_source=git)** | New York City, NY, United States | Remote | Jul 21 |
 | **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6a560d6153b3962b910add8c?utm_campaign=1055&utm_source=git)** | Durham, NC, United States | On Site | Jul 21 |
@@ -124,8 +126,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Legal & Compliance](https://jobright.ai/jobs/info/6a3123830ff23769fdb1c3cf?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jul 18 |
 | **[Legacy.com](https://www.legacy.com/)** | **[Intern-Legal](https://jobright.ai/jobs/info/6a5b7694c8e3a473cb8b024e?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 18 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e8bb733aa0c479643a497b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 18 |
-| ↳ | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/6a54b4d6ea8dc8115ea9aad9?utm_campaign=1055&utm_source=git)** | Toronto, Canada | On Site | Jul 18 |
 | ↳ | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Jul 18 |
+| ↳ | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/6a54b4d6ea8dc8115ea9aad9?utm_campaign=1055&utm_source=git)** | Toronto, Canada | On Site | Jul 18 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Fraud Prevention Intern](https://jobright.ai/jobs/info/6a5b431763a8f619507cabf1?utm_campaign=1055&utm_source=git)** | Lehi, UT, United States | On Site | Jul 18 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Fraud Prevention Intern](https://jobright.ai/jobs/info/6a5b3d90856af468ab00c4ce?utm_campaign=1055&utm_source=git)** | Lehi, UT, United States | On Site | Jul 18 |
 | **[State of Indiana](https://www.in.gov)** | **[Intern Job Details / State of Indiana](https://jobright.ai/jobs/info/6a5b3d7a856af468ab00c4c2?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Mental Health Litigation Division Brockton - Fall 2026](https://jobright.ai/jobs/info/6a59f14f63a8f619507c457d?utm_campaign=1055&utm_source=git)** | Brockton, MA, United States | On Site | Jul 17 |
 | ↳ | **[Internship - YAD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a59efb2686b4755d1e12834?utm_campaign=1055&utm_source=git)** | Worcester, MA, United States | On Site | Jul 17 |
 | ↳ | **[Internship - PDD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a59ef8b856af468ab005e4a?utm_campaign=1055&utm_source=git)** | Worcester, MA, United States | On Site | Jul 17 |
-| ↳ | **[Internship - PDD Lowell - Fall 2026](https://jobright.ai/jobs/info/6a59ef7cc8e3a473cb8a9078?utm_campaign=1055&utm_source=git)** | Lowell, MA, United States | On Site | Jul 17 |
-| **[Law Office of Shelly M. Ingram, LLC](http://www.shellyingramlaw.com)** | **[Legal Studies Internship](https://jobright.ai/jobs/info/6a5a221c686b4755d1e1384b?utm_campaign=1055&utm_source=git)** | Shelly, MN, United States | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
