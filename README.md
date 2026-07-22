@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6a560d6153b3962b910add8c?utm_campaign=1055&utm_source=git)** | Durham, NC, United States | On Site | Jul 21 |
+| **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Child Support Law Clerk Internship](https://jobright.ai/jobs/info/6a60292d33ef5c58b4001f34?utm_campaign=1055&utm_source=git)** | Santa Rosa, CA, United States | On Site | Jul 21 |
 | **[FNBO](https://www.fnbo.com)** | **[Intern - Enterprise Risk Management (Omaha, NE)](https://jobright.ai/jobs/info/6a5ff3c98c7fd835513bc1b1?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Jul 21 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Fall 2026 - MHLD](https://jobright.ai/jobs/info/6a5faa346e0c3c7c7d3d841f?utm_campaign=1055&utm_source=git)** | Salem, MA, United States | Hybrid | Jul 21 |
 | ↳ | **[Internship - Fall 2026 - MHLD](https://jobright.ai/jobs/info/6a5fa39a33ef5c58b4fff0f8?utm_campaign=1055&utm_source=git)** | Salem, MA, United States | On Site | Jul 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998f9cae0bddb6acac7eaf6?utm_campaign=1055&utm_source=git)** | San Diego, CA | On Site | Jul 16 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2026 Regulatory Internship](https://jobright.ai/jobs/info/6a5949a563a8f619507c1907?utm_campaign=1055&utm_source=git)** | New York, New York, United States | On Site | Jul 16 |
 | **[Center for U.S. Immigration Services](http://cfuis.com/)** | **[Entry Level Immigration paralegal](https://jobright.ai/jobs/info/6a5949163ac7627fe9ffe947?utm_campaign=1055&utm_source=git)** | Tampa, FL, United States | On Site | Jul 16 |
-| **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6a5be59163a8f619507cc365?utm_campaign=1055&utm_source=git)** | Sacramento County, CA, United States | On Site | Jul 16 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6a536698d007ee02d95fb405?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA, United States of America | Hybrid | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
