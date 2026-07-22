@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hernandez Consulting & Construction](https://www.hernandezconsulting.com/)** | **[JD/MBA Legal & Finance Intern](https://jobright.ai/jobs/info/6a3b5aa6dd879c60912b2a9b?utm_campaign=1055&utm_source=git)** | New Orleans, LA, United States | On Site | Jul 22 |
+| **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, State Supreme Court Initiative](https://jobright.ai/jobs/info/6a54835e8a74e077472fc093?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Remote | Jul 22 |
 | **[MAHLE](https://www.mahle.com)** | **[Foreign Trade Intern Job Details / MAHLE](https://jobright.ai/jobs/info/6a590acfc8e3a473cb8a4a7a?utm_campaign=1055&utm_source=git)** | Farmington Hills, MI, United States | On Site | Jul 21 |
 | ↳ | **[Foreign Trade Intern](https://jobright.ai/jobs/info/6a56678953b3962b910b000a?utm_campaign=1055&utm_source=git)** | Farmington Hills, MI, United States | On Site | Jul 21 |
 | **[Sila Services](https://silaservices.com )** | **[Legal Internship](https://jobright.ai/jobs/info/6a52152a8ef95364ead8cc02?utm_campaign=1055&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 21 |
@@ -64,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Intern - Regulatory Affairs](https://jobright.ai/jobs/info/6a560d6153b3962b910add8c?utm_campaign=1055&utm_source=git)** | Durham, NC, United States | On Site | Jul 21 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Child Support Law Clerk Internship](https://jobright.ai/jobs/info/6a60292d33ef5c58b4001f34?utm_campaign=1055&utm_source=git)** | Santa Rosa, CA, United States | On Site | Jul 21 |
 | **[FNBO](https://www.fnbo.com)** | **[Intern - Enterprise Risk Management (Omaha, NE)](https://jobright.ai/jobs/info/6a5ff3c98c7fd835513bc1b1?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Jul 21 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Fall 2026 - MHLD](https://jobright.ai/jobs/info/6a5faa346e0c3c7c7d3d841f?utm_campaign=1055&utm_source=git)** | Salem, MA, United States | Hybrid | Jul 21 |
-| ↳ | **[Internship - Fall 2026 - MHLD](https://jobright.ai/jobs/info/6a5fa39a33ef5c58b4fff0f8?utm_campaign=1055&utm_source=git)** | Salem, MA, United States | On Site | Jul 21 |
+| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Fall 2026 - MHLD](https://jobright.ai/jobs/info/6a5fa39a33ef5c58b4fff0f8?utm_campaign=1055&utm_source=git)** | Salem, MA, United States | On Site | Jul 21 |
+| ↳ | **[Internship - Fall 2026 - MHLD](https://jobright.ai/jobs/info/6a5faa346e0c3c7c7d3d841f?utm_campaign=1055&utm_source=git)** | Salem, MA, United States | Hybrid | Jul 21 |
 | **[Human Rights First](http://www.humanrightsfirst.org)** | **[Human Rights Accountability Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a4ed3d9fc327f422fef450e?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Jul 21 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Legal Intern, Capital Punishment Project](https://jobright.ai/jobs/info/6a542dbdc8eb0843027af047?utm_campaign=1055&utm_source=git)** | Durham, NC, United States | Remote | Jul 21 |
 | **[Major League Baseball (MLB)](https://www.mlb.com/angels/community/angels-5k)** | **[Investigative Intern (Fall)](https://jobright.ai/jobs/info/6a57b7e2a791c6211bf00853?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
@@ -118,8 +120,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Legal & Compliance](https://jobright.ai/jobs/info/6a3123830ff23769fdb1c3cf?utm_campaign=1055&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jul 18 |
 | **[Legacy.com](https://www.legacy.com/)** | **[Intern-Legal](https://jobright.ai/jobs/info/6a5b7694c8e3a473cb8b024e?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 18 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e8bb733aa0c479643a497b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 18 |
-| ↳ | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Jul 18 |
 | ↳ | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/6a54b4d6ea8dc8115ea9aad9?utm_campaign=1055&utm_source=git)** | Toronto, Canada | On Site | Jul 18 |
+| ↳ | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e658c77820c036924cfda1?utm_campaign=1055&utm_source=git)** | Toronto | On Site | Jul 18 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Fraud Prevention Intern](https://jobright.ai/jobs/info/6a5b431763a8f619507cabf1?utm_campaign=1055&utm_source=git)** | Lehi, UT, United States | On Site | Jul 18 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Fraud Prevention Intern](https://jobright.ai/jobs/info/6a5b3d90856af468ab00c4ce?utm_campaign=1055&utm_source=git)** | Lehi, UT, United States | On Site | Jul 18 |
 | **[State of Indiana](https://www.in.gov)** | **[Intern Job Details / State of Indiana](https://jobright.ai/jobs/info/6a5b3d7a856af468ab00c4c2?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998efbfce78e77b4fdd8150?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 16 |
 | **[AARP](http://www.aarp.org)** | **[Ethics and Compliance Intern](https://jobright.ai/jobs/info/6a593979856af468ab002863?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 16 |
 | **[GT Restructuring](http://gtrestructuring.com)** | **[Intern](https://jobright.ai/jobs/info/6a595fa863a8f619507c21e3?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 16 |
-| **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L Summer Associates (2028 JD) for 2027 Summer Associate Program](https://jobright.ai/jobs/info/6998dd72ce78e77b4fdd6d60?utm_campaign=1055&utm_source=git)** | Cincinnati, OH | On Site | Jul 16 |
-| ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998f5f9e0bddb6acac7e4fc?utm_campaign=1055&utm_source=git)** | Dayton, OH, United States | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
