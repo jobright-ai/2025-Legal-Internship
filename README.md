@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Evans & Dixon, LLC](http://evans-dixon.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a665f02979290281c70972b?utm_campaign=1055&utm_source=git)** | Joliet, IL, United States | On Site | Jul 26 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a3fe30f9dd7f954cafe759c?utm_campaign=1055&utm_source=git)** | San Diego California | On Site | Jul 26 |
 | **[Beacon Bank](https://www.beaconbank.com)** | **[Fraud Investigator Intern](https://jobright.ai/jobs/info/6a5da2fcc8e3a473cb8b4a97?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Jul 26 |
 | ↳ | **[Fraud Investigator Intern](https://jobright.ai/jobs/info/6a459b4048d2f00f2a86e1d6?utm_campaign=1055&utm_source=git)** | 131 Clarendon St, Boston, MA,02117 | On Site | Jul 26 |
@@ -72,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5e7d0b27bf767ea68f6ff3?utm_campaign=1055&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 24 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Fall 2026 - MHLD](https://jobright.ai/jobs/info/6a5faa346e0c3c7c7d3d841f?utm_campaign=1055&utm_source=git)** | Salem, MA, United States | On Site | Jul 24 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Legal Intern (Unpaid) - Colorado Springs, CO](https://jobright.ai/jobs/info/6a638340979290281c702840?utm_campaign=1055&utm_source=git)** | Colorado Springs, CO, United States | Hybrid | Jul 24 |
-| **[Lyten](http://www.lyten.com)** | **[Intern - Commercial Legal](https://jobright.ai/jobs/info/6a53a9498a74e077472f9302?utm_campaign=1055&utm_source=git)** | San Jose, CA, United States | On Site | Jul 24 |
-| ↳ | **[Intern - Commercial Legal](https://jobright.ai/jobs/info/6a35e9d429c90c607e4e3fd0?utm_campaign=1055&utm_source=git)** | San Jose, CA, US | On Site | Jul 24 |
+| **[Lyten](http://www.lyten.com)** | **[Intern - Commercial Legal](https://jobright.ai/jobs/info/6a35e9d429c90c607e4e3fd0?utm_campaign=1055&utm_source=git)** | San Jose, CA, US | On Site | Jul 24 |
+| ↳ | **[Intern - Commercial Legal](https://jobright.ai/jobs/info/6a53a9498a74e077472f9302?utm_campaign=1055&utm_source=git)** | San Jose, CA, United States | On Site | Jul 24 |
 | **[Bank of China USA](https://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a51382457513b72e0c64e70?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 | **[FNBO](https://www.fnbo.com)** | **[Intern - Enterprise Risk Management (Omaha, NE)](https://jobright.ai/jobs/info/6a5ff3c98c7fd835513bc1b1?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Jul 24 |
 | **[Palm Beach County Public Defender's Office, 15th Judicial Circuit](https://pd15.org/index.htm)** | **[Certified Legal Intern: SUMMER '27 / ACADEMIC YR 2026-2027](https://jobright.ai/jobs/info/6a513554ae4052672fe97cd1?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL, United States | On Site | Jul 24 |
@@ -107,20 +106,20 @@ For a complete list, click the following sortable link below:
 | **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Extra Help/Compliance Intern](https://jobright.ai/jobs/info/6a624e201e089c0cc884bb15?utm_campaign=1055&utm_source=git)** | Little Rock, AR, United States | On Site | Jul 23 |
 | **[NYC Public Schools](https://www.schools.nyc.gov/)** | **[Implementation Unit Legal Intern, OGC - 26713](https://jobright.ai/jobs/info/6a62c5c41ed5b0056a938a19?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 23 |
 | ↳ | **[Special Education Case Management Legal Intern, OGC - 26711](https://jobright.ai/jobs/info/6a62c5c71ed5b0056a938a1c?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 23 |
-| **[NASTAD](https://www.nastad.org/)** | **[Intern, Legal Research](https://jobright.ai/jobs/info/6a61820aab9bd4676324bb54?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Jul 23 |
+| **[NASTAD](https://www.nastad.org/)** | **[Intern, Legal Research](https://jobright.ai/jobs/info/6a622b2ec28982326de95139?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Jul 23 |
 | ↳ | **[Intern, Legal Research](https://jobright.ai/jobs/info/6a613bc7ab14335fc0f17016?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Jul 23 |
 | **[Validity Inc.](https://www.validity.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a42a2dba5e15b1068379a07?utm_campaign=1055&utm_source=git)** | Boston, MA | Hybrid | Jul 23 |
 | **[Enhesa](http://www.enhesa.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/6a4e3d66fc327f422fef218f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 23 |
 | **[RegASK](https://regask.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/6a62044611edf44d791638c3?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Policy and Procedure](https://jobright.ai/jobs/info/6a648f8a979290281c70665b?utm_campaign=1055&utm_source=git)** | Smithfield, RI, United States | On Site | Jul 23 |
 | **[HIAS](http://hias.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a61cdcbeaa37f43e758a251?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 23 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6908880dd046ab6061ccba0a?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA | Hybrid | Jul 23 |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6a536698d007ee02d95fb405?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA, United States of America | Hybrid | Jul 23 |
+| ↳ | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6908880dd046ab6061ccba0a?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA | Hybrid | Jul 23 |
+| ↳ | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a52038c78e364789ca5f1f8?utm_campaign=1055&utm_source=git)** | Atlanta, GA USA, United States of America | On Site | Jul 23 |
 | ↳ | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a3437b3f6b55d12c791b99f?utm_campaign=1055&utm_source=git)** | Atlanta, GA, US | On Site | Jul 23 |
 | ↳ | **[Immigration Intern](https://jobright.ai/jobs/info/6a591db6c8e3a473cb8a5093?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT USA, United States of America | On Site | Jul 23 |
-| ↳ | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6a536698d007ee02d95fb405?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA, United States of America | Hybrid | Jul 23 |
-| ↳ | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a52038c78e364789ca5f1f8?utm_campaign=1055&utm_source=git)** | Atlanta, GA USA, United States of America | On Site | Jul 23 |
 | **[OSI Electronics](https://www.osielectronics.com)** | **[OPTO Trade Compliance Intern](https://jobright.ai/jobs/info/6a61c59111edf44d791621e2?utm_campaign=1055&utm_source=git)** | Hawthorne, CA, United States | On Site | Jul 23 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Lending)](https://jobright.ai/jobs/info/6a614bcaab14335fc0f1799a?utm_campaign=1055&utm_source=git)** | Pensacola, FL, United States | On Site | Jul 23 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Lending)](https://jobright.ai/jobs/info/6a615423ab9bd4676324ae51?utm_campaign=1055&utm_source=git)** | Pensacola, FL, United States | On Site | Jul 23 |
 | **[OSI Optoelectronics](https://www.osioptoelectronics.com)** | **[OPTO Trade Compliance Intern](https://jobright.ai/jobs/info/6a61bce87196365a6f00c09b?utm_campaign=1055&utm_source=git)** | Hawthorne, CA, United States | On Site | Jul 23 |
 | **[Direction Home Akron Canton Area Agency on Aging & Disabilities](https://www.dhad.org)** | **[Elder Rights Intern](https://jobright.ai/jobs/info/6a55f7e4392ae330b30e8577?utm_campaign=1055&utm_source=git)** | Uniontown, OH, United States | On Site | Jul 22 |
 | **[Cook County State’s Attorney’s Office](https://www.cookcountystatesattorney.org/)** | **[FALL 2026 Volunteer Internship](https://jobright.ai/jobs/info/6a50e2ab0cdd7f5d975cccc8?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Jul 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Fall 2026 - MHLD](https://jobright.ai/jobs/info/6a5fa39a33ef5c58b4fff0f8?utm_campaign=1055&utm_source=git)** | Salem, MA, United States | On Site | Jul 21 |
 | **[Human Rights First](http://www.humanrightsfirst.org)** | **[Human Rights Accountability Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a4ed3d9fc327f422fef450e?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Jul 21 |
 | **[Major League Baseball (MLB)](https://www.mlb.com/)** | **[Investigative Intern (Fall)](https://jobright.ai/jobs/info/6a57b7e2a791c6211bf00853?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
+| **[Dentons](http://www.dentons.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a5fde3fb0f20036bc633adb?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
