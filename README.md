@@ -57,15 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HIAS Europe](https://hias.org/hias-eu/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a67fbef2bda4d2842856986?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
 | **[General Legal (YC26)](https://general.legal)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6a55f59521f64463ad351178?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 27 |
-| **[HIAS](http://hias.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a1757799005d858e94f9050?utm_campaign=1055&utm_source=git)** | Hybrid - New York, NY, United States | Hybrid | Jul 27 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a67bc38872eb74f9eadaaab?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
 | **[Advanced Space](https://advancedspace.com/)** | **[2026 Legal & Contracts Fall Internship](https://jobright.ai/jobs/info/6a67db902bf1fb2b719274f1?utm_campaign=1055&utm_source=git)** | Westminster, CO, United States | On Site | Jul 27 |
+| **[HIAS](http://hias.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a67bc38872eb74f9eadaaab?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Temporary Post Bar Law Clerk (Classification: Intern/Trainee)](https://jobright.ai/jobs/info/6a67cdf93b5e6b116a550b13?utm_campaign=1055&utm_source=git)** | San Luis Obispo, CA, United States | On Site | Jul 27 |
 | **[Wasserman](https://the.team/)** | **[Fall 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/6a67c498d0fb4c3df393ea98?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 27 |
 | ↳ | **[Fall 2026 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/6a67beda5d2a117fb9ced033?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 27 |
 | **[Rimini Street](http://riministreet.com)** | **[Vendor Risk Management Intern](https://jobright.ai/jobs/info/6a67a7bc2bda4d284285508c?utm_campaign=1055&utm_source=git)** | California, United States | Remote | Jul 27 |
+| **[Ventra Health](https://ventrahealth.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a68005e5d2a117fb9cee3ed?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Orion Policy Institute](https://www.orionpolicy.org/)** | **[Intern (ROCCA) Posting](https://jobright.ai/jobs/info/6a67b0f22bf1fb2b71926839?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Jul 27 |
+| **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a680490d0fb4c3df393fccf?utm_campaign=1055&utm_source=git)** | Nashville, TN, United States | On Site | Jul 27 |
 | **[First Liberty Institute](https://firstliberty.org)** | **[2027 Summer Intern - Legal](https://jobright.ai/jobs/info/6a67a7173b5e6b116a54fdc0?utm_campaign=1055&utm_source=git)** | Plano, TX, United States | On Site | Jul 27 |
 | **[Migliaccio & Rathod LLP](https://classlawdc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a67b9b02bda4d2842855626?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Jul 27 |
 | **[Anderson & Harrison, PLLC](andersonharrison.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a67a1593b5e6b116a54fafc?utm_campaign=1055&utm_source=git)** | Nashville, TN, United States | Hybrid | Jul 27 |
@@ -128,12 +130,12 @@ For a complete list, click the following sortable link below:
 | **[RegASK](https://regask.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/6a62044611edf44d791638c3?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/6a50c6acddd293054ccac115?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | Jul 23 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a3437b3f6b55d12c791b99f?utm_campaign=1055&utm_source=git)** | Atlanta, GA, US | On Site | Jul 23 |
-| ↳ | **[Immigration Intern](https://jobright.ai/jobs/info/6a591db6c8e3a473cb8a5093?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT USA, United States of America | On Site | Jul 23 |
 | ↳ | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6a536698d007ee02d95fb405?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA, United States of America | Hybrid | Jul 23 |
+| ↳ | **[Immigration Intern](https://jobright.ai/jobs/info/6a591db6c8e3a473cb8a5093?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT USA, United States of America | On Site | Jul 23 |
 | ↳ | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a52038c78e364789ca5f1f8?utm_campaign=1055&utm_source=git)** | Atlanta, GA USA, United States of America | On Site | Jul 23 |
 | ↳ | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6908880dd046ab6061ccba0a?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA | Hybrid | Jul 23 |
 | **[OSI Electronics](https://www.osielectronics.com)** | **[OPTO Trade Compliance Intern](https://jobright.ai/jobs/info/6a61c59111edf44d791621e2?utm_campaign=1055&utm_source=git)** | Hawthorne, CA, United States | On Site | Jul 23 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Lending)](https://jobright.ai/jobs/info/6a615423ab9bd4676324ae51?utm_campaign=1055&utm_source=git)** | Pensacola, FL, United States | On Site | Jul 23 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Lending)](https://jobright.ai/jobs/info/6a614bcaab14335fc0f1799a?utm_campaign=1055&utm_source=git)** | Pensacola, FL, United States | On Site | Jul 23 |
 | **[OSI Optoelectronics](https://www.osioptoelectronics.com)** | **[OPTO Trade Compliance Intern](https://jobright.ai/jobs/info/6a61bce87196365a6f00c09b?utm_campaign=1055&utm_source=git)** | Hawthorne, CA, United States | On Site | Jul 23 |
 | **[Direction Home Akron Canton Area Agency on Aging & Disabilities](https://www.dhad.org)** | **[Elder Rights Intern](https://jobright.ai/jobs/info/6a55f7e4392ae330b30e8577?utm_campaign=1055&utm_source=git)** | Uniontown, OH, United States | On Site | Jul 22 |
 | **[Cook County State’s Attorney’s Office](https://www.cookcountystatesattorney.org/)** | **[FALL 2026 Volunteer Internship](https://jobright.ai/jobs/info/6a50e2ab0cdd7f5d975cccc8?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Jul 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2027 Legal Intern](https://jobright.ai/jobs/info/6a6142e8eaa37f43e75879ee?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Regulatory Advocacy Internship](https://jobright.ai/jobs/info/6a60f02411edf44d7915eb2e?utm_campaign=1055&utm_source=git)** | Boulder, CO, United States | On Site | Jul 22 |
 | **[Belmark inc](https://www.belmark.com/)** | **[Quality Compliance Intern](https://jobright.ai/jobs/info/6a5411ae8ef95364ead944ce?utm_campaign=1055&utm_source=git)** | De Pere, WI, United States | On Site | Jul 22 |
-| **[City of Boulder](https://bouldercolorado.gov)** | **[Regulatory Advocacy Internship](https://jobright.ai/jobs/info/6a60eb18eaa37f43e758648b?utm_campaign=1055&utm_source=git)** | Boulder, CO, United States | On Site | Jul 22 |
-| **[FOLX Health](https://www.folxhealth.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6a58a9f968d16a30e24146dd?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
