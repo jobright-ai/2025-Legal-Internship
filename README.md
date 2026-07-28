@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adams, Duerk & Kamenstein LLP](https://www.adkfirm.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a56288bf7517b519ad53eda?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 28 |
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Quality and Compliance Intern](https://jobright.ai/jobs/info/6a55cc67ef22935f2e3f73ee?utm_campaign=1055&utm_source=git)** | Windsor Mill, MD, United States | Remote | Jul 28 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Mental Health Litigation Division Brockton - Fall 2026](https://jobright.ai/jobs/info/6a59f14f63a8f619507c457d?utm_campaign=1055&utm_source=git)** | Brockton, MA, United States | On Site | Jul 27 |
 | **[HIAS Europe](https://hias.org/hias-eu/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a67fbef2bda4d2842856986?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
@@ -123,18 +124,18 @@ For a complete list, click the following sortable link below:
 | **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Extra Help/Compliance Intern](https://jobright.ai/jobs/info/6a624e201e089c0cc884bb15?utm_campaign=1055&utm_source=git)** | Little Rock, AR, United States | On Site | Jul 23 |
 | **[NYC Public Schools](https://www.schools.nyc.gov/)** | **[Implementation Unit Legal Intern, OGC - 26713](https://jobright.ai/jobs/info/6a62c5c41ed5b0056a938a19?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 23 |
 | ↳ | **[Special Education Case Management Legal Intern, OGC - 26711](https://jobright.ai/jobs/info/6a62c5c71ed5b0056a938a1c?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 23 |
-| **[NASTAD](https://www.nastad.org/)** | **[Intern, Legal Research](https://jobright.ai/jobs/info/6a622b2ec28982326de95139?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Jul 23 |
-| ↳ | **[Intern, Legal Research](https://jobright.ai/jobs/info/6a613bc7ab14335fc0f17016?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Jul 23 |
+| **[NASTAD](https://www.nastad.org/)** | **[Intern, Legal Research](https://jobright.ai/jobs/info/6a613bc7ab14335fc0f17016?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Jul 23 |
+| ↳ | **[Intern, Legal Research](https://jobright.ai/jobs/info/6a61820aab9bd4676324bb54?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Jul 23 |
 | **[Enhesa](http://www.enhesa.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/6a4e3d66fc327f422fef218f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 23 |
 | **[RegASK](https://regask.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/6a62044611edf44d791638c3?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/6a50c6acddd293054ccac115?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | Jul 23 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a3437b3f6b55d12c791b99f?utm_campaign=1055&utm_source=git)** | Atlanta, GA, US | On Site | Jul 23 |
-| ↳ | **[Immigration Intern](https://jobright.ai/jobs/info/6a591db6c8e3a473cb8a5093?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT USA, United States of America | On Site | Jul 23 |
-| ↳ | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a52038c78e364789ca5f1f8?utm_campaign=1055&utm_source=git)** | Atlanta, GA USA, United States of America | On Site | Jul 23 |
-| ↳ | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6a536698d007ee02d95fb405?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA, United States of America | Hybrid | Jul 23 |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a52038c78e364789ca5f1f8?utm_campaign=1055&utm_source=git)** | Atlanta, GA USA, United States of America | On Site | Jul 23 |
 | ↳ | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6908880dd046ab6061ccba0a?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA | Hybrid | Jul 23 |
+| ↳ | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a3437b3f6b55d12c791b99f?utm_campaign=1055&utm_source=git)** | Atlanta, GA, US | On Site | Jul 23 |
+| ↳ | **[Immigration Intern](https://jobright.ai/jobs/info/6a591db6c8e3a473cb8a5093?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT USA, United States of America | On Site | Jul 23 |
+| ↳ | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6a536698d007ee02d95fb405?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA, United States of America | Hybrid | Jul 23 |
 | **[OSI Electronics](https://www.osielectronics.com)** | **[OPTO Trade Compliance Intern](https://jobright.ai/jobs/info/6a61c59111edf44d791621e2?utm_campaign=1055&utm_source=git)** | Hawthorne, CA, United States | On Site | Jul 23 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Lending)](https://jobright.ai/jobs/info/6a614bcaab14335fc0f1799a?utm_campaign=1055&utm_source=git)** | Pensacola, FL, United States | On Site | Jul 23 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Lending)](https://jobright.ai/jobs/info/6a615423ab9bd4676324ae51?utm_campaign=1055&utm_source=git)** | Pensacola, FL, United States | On Site | Jul 23 |
 | **[OSI Optoelectronics](https://www.osioptoelectronics.com)** | **[OPTO Trade Compliance Intern](https://jobright.ai/jobs/info/6a61bce87196365a6f00c09b?utm_campaign=1055&utm_source=git)** | Hawthorne, CA, United States | On Site | Jul 23 |
 | **[Direction Home Akron Canton Area Agency on Aging & Disabilities](https://www.dhad.org)** | **[Elder Rights Intern](https://jobright.ai/jobs/info/6a55f7e4392ae330b30e8577?utm_campaign=1055&utm_source=git)** | Uniontown, OH, United States | On Site | Jul 22 |
 | **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Policy and Procedure](https://jobright.ai/jobs/info/6a682fbfb9adcd752800e0e2?utm_campaign=1055&utm_source=git)** | Smithfield, RI, United States | On Site | Jul 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[NY Children's Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6a60e7d511edf44d7915e785?utm_campaign=1055&utm_source=git)** | New York, New York, United States | Hybrid | Jul 22 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2027 Legal Intern](https://jobright.ai/jobs/info/6a6142e8eaa37f43e75879ee?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Regulatory Advocacy Internship](https://jobright.ai/jobs/info/6a60f02411edf44d7915eb2e?utm_campaign=1055&utm_source=git)** | Boulder, CO, United States | On Site | Jul 22 |
-| **[Belmark inc](https://www.belmark.com/)** | **[Quality Compliance Intern](https://jobright.ai/jobs/info/6a5411ae8ef95364ead944ce?utm_campaign=1055&utm_source=git)** | De Pere, WI, United States | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
