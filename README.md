@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Cyber Strategy Intern - Summer 2027](https://jobright.ai/jobs/info/6a68c23568652d68b314a154?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | On Site | Jul 29 |
+| **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a55d24dec54dd532d814300?utm_campaign=1055&utm_source=git)** | Windsor Mill, MD, United States | Remote | Jul 28 |
 | **[Bank of China USA](https://www.bocusa.com)** | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/6a5202b2bf63b66c7997f34a?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 | **[ACLU of Texas](https://www.aclutx.org)** | **[Intern: Legal Team](https://jobright.ai/jobs/info/6a694ce436d36c1ff29993fa?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | Remote | Jul 28 |
 | **[Fried Frank](http://www.friedfrank.com/)** | **[Paralegal Intern](https://jobright.ai/jobs/info/6a68f1dc36d36c1ff2997222?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
@@ -72,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a4c0a3a5d7b097d2df3f2c2?utm_campaign=1055&utm_source=git)** | 300 Wyandotte, Kansas City, MO 64105, United States of America | Hybrid | Jul 28 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[FALL Consumer Complaint Investigation Intern](https://jobright.ai/jobs/info/6a68c60705bae84301b58452?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Jul 28 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[FALL Consumer Complaint Investigation Intern](https://jobright.ai/jobs/info/6a68c483207d4f2e632e4a65?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Jul 28 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Cyber Strategy Intern - Summer 2027](https://jobright.ai/jobs/info/6a68c23568652d68b314a154?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | On Site | Jul 28 |
 | **[Adams, Duerk & Kamenstein LLP](https://www.adkfirm.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a56288bf7517b519ad53eda?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 28 |
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Quality and Compliance Intern](https://jobright.ai/jobs/info/6a55cc67ef22935f2e3f73ee?utm_campaign=1055&utm_source=git)** | Windsor Mill, MD, United States | Remote | Jul 28 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Mental Health Litigation Division Brockton - Fall 2026](https://jobright.ai/jobs/info/6a59f14f63a8f619507c457d?utm_campaign=1055&utm_source=git)** | Brockton, MA, United States | On Site | Jul 27 |
@@ -141,10 +142,10 @@ For a complete list, click the following sortable link below:
 | **[Enhesa](http://www.enhesa.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/6a4e3d66fc327f422fef218f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 23 |
 | **[RegASK](https://regask.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/6a62044611edf44d791638c3?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/6a50c6acddd293054ccac115?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | Jul 23 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Intern](https://jobright.ai/jobs/info/6a591db6c8e3a473cb8a5093?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT USA, United States of America | On Site | Jul 23 |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6a536698d007ee02d95fb405?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA, United States of America | Hybrid | Jul 23 |
 | ↳ | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a52038c78e364789ca5f1f8?utm_campaign=1055&utm_source=git)** | Atlanta, GA USA, United States of America | On Site | Jul 23 |
+| ↳ | **[Immigration Intern](https://jobright.ai/jobs/info/6a591db6c8e3a473cb8a5093?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT USA, United States of America | On Site | Jul 23 |
 | ↳ | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6908880dd046ab6061ccba0a?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA | Hybrid | Jul 23 |
-| ↳ | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6a536698d007ee02d95fb405?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA, United States of America | Hybrid | Jul 23 |
 | ↳ | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a3437b3f6b55d12c791b99f?utm_campaign=1055&utm_source=git)** | Atlanta, GA, US | On Site | Jul 23 |
 | **[OSI Electronics](https://www.osielectronics.com)** | **[OPTO Trade Compliance Intern](https://jobright.ai/jobs/info/6a61c59111edf44d791621e2?utm_campaign=1055&utm_source=git)** | Hawthorne, CA, United States | On Site | Jul 23 |
 | **[OSI Optoelectronics](https://www.osioptoelectronics.com)** | **[OPTO Trade Compliance Intern](https://jobright.ai/jobs/info/6a61bce87196365a6f00c09b?utm_campaign=1055&utm_source=git)** | Hawthorne, CA, United States | On Site | Jul 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CAMBA](https://camba.org/)** | **[CAMBA Legal Services - Consumer Summer Intern](https://jobright.ai/jobs/info/6a617fb2eaa37f43e7588ea5?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Jul 22 |
 | **[Palm Beach County Public Defender's Office, 15th Judicial Circuit](https://pd15.org/index.htm)** | **[Legal Intern: SUMMER 2027](https://jobright.ai/jobs/info/6a51352d02522b5b722e85ae?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL, United States | On Site | Jul 22 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Fall - Legal](https://jobright.ai/jobs/info/6a61746bab14335fc0f184dd?utm_campaign=1055&utm_source=git)** | Harrison, NJ, United States | Hybrid | Jul 22 |
-| **[Expeditors](http://www.expeditors.com)** | **[Full-Time Internship - Customs Brokerage](https://jobright.ai/jobs/info/6a616c6ceaa37f43e75888a3?utm_campaign=1055&utm_source=git)** | Torrance, CA, United States | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
