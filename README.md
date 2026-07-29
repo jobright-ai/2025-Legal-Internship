@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Edwards Lifesciences](http://www.edwards.com)** | **[Clinical & Regulatory Internship, Summer 2027](https://jobright.ai/jobs/info/6a6a6f678693c23e7fb7acaf?utm_campaign=1055&utm_source=git)** | Irvine, CA, United States | On Site | Jul 29 |
 | **[Migliaccio & Rathod LLP](https://classlawdc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a6a6c748693c23e7fb7aba5?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
 | **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney’s Office Spring 2027 Legal Internship](https://jobright.ai/jobs/info/6a6a67e50b42f866b619893a?utm_campaign=1055&utm_source=git)** | Kew Gardens, NY, United States | On Site | Jul 29 |
 | **[First Mutual Holding Co.](https://www.firstmutualholding.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a6a509c48355b3f12bf0484?utm_campaign=1055&utm_source=git)** | Westlake, OH, United States | Hybrid | Jul 29 |
@@ -110,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](https://the.team/)** | **[Fall 2026 Internship - Legal, Creators Talent](https://jobright.ai/jobs/info/6a67beda5d2a117fb9ced033?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 26 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - CAFL Lowell - Fall 2026](https://jobright.ai/jobs/info/6a56669ce9b77f668bd631cf?utm_campaign=1055&utm_source=git)** | Lowell, MA, United States | Hybrid | Jul 26 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a3fe30f9dd7f954cafe759c?utm_campaign=1055&utm_source=git)** | San Diego California | On Site | Jul 26 |
-| **[Beacon Bank](https://www.beaconbank.com)** | **[Fraud Investigator Intern](https://jobright.ai/jobs/info/6a5da2fcc8e3a473cb8b4a97?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Jul 26 |
-| ↳ | **[Fraud Investigator Intern](https://jobright.ai/jobs/info/6a459b4048d2f00f2a86e1d6?utm_campaign=1055&utm_source=git)** | 131 Clarendon St, Boston, MA,02117 | On Site | Jul 26 |
+| **[Beacon Bank](https://www.beaconbank.com)** | **[Fraud Investigator Intern](https://jobright.ai/jobs/info/6a459b4048d2f00f2a86e1d6?utm_campaign=1055&utm_source=git)** | 131 Clarendon St, Boston, MA,02117 | On Site | Jul 26 |
+| ↳ | **[Fraud Investigator Intern](https://jobright.ai/jobs/info/6a5da2fcc8e3a473cb8b4a97?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Jul 26 |
 | **[CAMBA](https://camba.org/)** | **[Housing Summer Intern, CAMBA Legal Services, Brooklyn](https://jobright.ai/jobs/info/6a526b4f9fbdab22fe13b6fd?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Jul 25 |
 | **[Direction Home Akron Canton Area Agency on Aging & Disabilities](https://www.dhad.org)** | **[Elder Rights Intern](https://jobright.ai/jobs/info/6a55cc47fdf4fa71202b540c?utm_campaign=1055&utm_source=git)** | Dennison, OH, United States | On Site | Jul 25 |
 | **[Kostelanetz LLP](https://kostelanetz.com/)** | **[Spelman Pre-Law Paralegal Internship (Summer 2026)](https://jobright.ai/jobs/info/6a560f08f7517b519ad538d4?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[RegASK](https://regask.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/6a62044611edf44d791638c3?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/6a50c6acddd293054ccac115?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | Jul 23 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6a536698d007ee02d95fb405?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA, United States of America | Hybrid | Jul 23 |
-| ↳ | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a52038c78e364789ca5f1f8?utm_campaign=1055&utm_source=git)** | Atlanta, GA USA, United States of America | On Site | Jul 23 |
 | ↳ | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a3437b3f6b55d12c791b99f?utm_campaign=1055&utm_source=git)** | Atlanta, GA, US | On Site | Jul 23 |
 | ↳ | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6908880dd046ab6061ccba0a?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA | Hybrid | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
