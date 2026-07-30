@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Foundation Litigation Intern (Summer 2027)](https://jobright.ai/jobs/info/6a6ba42532f9300c3a3e00fb?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
 | **[Oakmont Senior Living](http://oakmontseniorliving.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a6b94abacb0a61f9dbc1ab4?utm_campaign=1055&utm_source=git)** | Irvine, CA, United States | On Site | Jul 30 |
 | **[City of Suffolk, VA](www.suffolkva.us)** | **[Legal Intern](https://jobright.ai/jobs/info/6a6b82d557120971bf3a7517?utm_campaign=1055&utm_source=git)** | Norfolk, VA, United States | On Site | Jul 30 |
 | **[Hildebrand Law Firm, LLC](https://hildebrandlawfirm.net)** | **[Legal Intern](https://jobright.ai/jobs/info/6a6b820432f9300c3a3df4ee?utm_campaign=1055&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 30 |
@@ -107,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[ACLU of Texas](https://www.aclutx.org)** | **[Intern: Legal Team](https://jobright.ai/jobs/info/6a694ce436d36c1ff29993fa?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | Remote | Jul 28 |
 | **[Fried Frank](http://www.friedfrank.com/)** | **[Paralegal Intern](https://jobright.ai/jobs/info/6a68f1dc36d36c1ff2997222?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Legal Intern (Unpaid) - Colorado Springs, CO](https://jobright.ai/jobs/info/6a69048a36d36c1ff29979d3?utm_campaign=1055&utm_source=git)** | Colorado Springs, CO, United States | Hybrid | Jul 28 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Legislative Legal Services Intern](https://jobright.ai/jobs/info/6a6ba6a557120971bf3a8198?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | On Site | Jul 28 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a6901d43b549b0b531d3559?utm_campaign=1055&utm_source=git)** | Nashville, TN, United States | On Site | Jul 28 |
 | **[National Center on Sexual Exploitation](https://endsexualexploitation.org/)** | **[Internship: Legal (Summer 2027)](https://jobright.ai/jobs/info/6a68f77e3b549b0b531d3072?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 28 |
 | ↳ | **[Internship: Legal (Winter 2027)](https://jobright.ai/jobs/info/6a6b137d57120971bf3a4889?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 28 |
@@ -145,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Tuff City Records](http://www.tuffcity.com)** | **[Legal Intern (100% on site)](https://jobright.ai/jobs/info/6a51c19602522b5b722eaf29?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5e7d0b27bf767ea68f6ff3?utm_campaign=1055&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 24 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Fall 2026 - MHLD](https://jobright.ai/jobs/info/6a5faa346e0c3c7c7d3d841f?utm_campaign=1055&utm_source=git)** | Salem, MA, United States | On Site | Jul 24 |
-| **[Lyten](http://www.lyten.com)** | **[Intern - Commercial Legal](https://jobright.ai/jobs/info/6a53a9498a74e077472f9302?utm_campaign=1055&utm_source=git)** | San Jose, CA, United States | On Site | Jul 24 |
-| ↳ | **[Intern - Commercial Legal](https://jobright.ai/jobs/info/6a35e9d429c90c607e4e3fd0?utm_campaign=1055&utm_source=git)** | San Jose, CA, US | On Site | Jul 24 |
+| **[Lyten](http://www.lyten.com)** | **[Intern - Commercial Legal](https://jobright.ai/jobs/info/6a35e9d429c90c607e4e3fd0?utm_campaign=1055&utm_source=git)** | San Jose, CA, US | On Site | Jul 24 |
+| ↳ | **[Intern - Commercial Legal](https://jobright.ai/jobs/info/6a53a9498a74e077472f9302?utm_campaign=1055&utm_source=git)** | San Jose, CA, United States | On Site | Jul 24 |
 | **[Bank of China USA](https://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a51382457513b72e0c64e70?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 | **[Palm Beach County Public Defender's Office, 15th Judicial Circuit](https://pd15.org/index.htm)** | **[Certified Legal Intern: SUMMER '27 / ACADEMIC YR 2026-2027](https://jobright.ai/jobs/info/6a513554ae4052672fe97cd1?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL, United States | On Site | Jul 24 |
 | **[DeGioia Law, PLLC](http://degioialaw.com)** | **[College Legal Intern](https://jobright.ai/jobs/info/6a63b18f5c7e2d715ebad63e?utm_campaign=1055&utm_source=git)** | Fairfax, VA, United States | On Site | Jul 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[G2](https://www.g2.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a637b9b8d536034496028a2?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Legal Intern - Spring 2027](https://jobright.ai/jobs/info/6a63830b5c7e2d715ebac5a8?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | On Site | Jul 24 |
 | **[Prosperity Life](https://prosperitylife.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a48895bc2d11a6a46674a58?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 24 |
-| **[New York Legal Assistance Group](https://www.nylag.org)** | **[Fall 2026 Legal Intern, Foreclosure Prevention Project](https://jobright.ai/jobs/info/6a3438b87f3fdd180d4c95f1?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Legal Intern - Spring 2027](https://jobright.ai/jobs/info/6a635ae7e8d8d22e32928586?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
