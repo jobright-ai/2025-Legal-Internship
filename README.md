@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legal Services Corporation](https://www.lsc.gov/)** | **[Compliance Intern - Fall 2026](https://jobright.ai/jobs/info/6a6b73325c54bc4752ce8ff3?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
 | **[HPC Industrial powered by Clean Harbors](https://www.hpc-industrial.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b6f1e5c54bc4752ce8e8d?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b69965c54bc4752ce8cfb?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
 | ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b61c0acb0a61f9dbc074c?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[City of Santa Fe Springs](https://www.santafesprings.org)** | **[Legal Intern (Part-Time)](https://jobright.ai/jobs/info/6a6add63ca1f9338465f6c02?utm_campaign=1055&utm_source=git)** | Suffolk, VA, United States | On Site | Jul 26 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - CAFL Lowell - Fall 2026](https://jobright.ai/jobs/info/6a56669ce9b77f668bd631cf?utm_campaign=1055&utm_source=git)** | Lowell, MA, United States | Hybrid | Jul 26 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a3fe30f9dd7f954cafe759c?utm_campaign=1055&utm_source=git)** | San Diego California | On Site | Jul 26 |
-| **[Beacon Bank](https://www.beaconbank.com)** | **[Fraud Investigator Intern](https://jobright.ai/jobs/info/6a5da2fcc8e3a473cb8b4a97?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Jul 26 |
-| ↳ | **[Fraud Investigator Intern](https://jobright.ai/jobs/info/6a459b4048d2f00f2a86e1d6?utm_campaign=1055&utm_source=git)** | 131 Clarendon St, Boston, MA,02117 | On Site | Jul 26 |
+| **[Beacon Bank](https://www.beaconbank.com)** | **[Fraud Investigator Intern](https://jobright.ai/jobs/info/6a459b4048d2f00f2a86e1d6?utm_campaign=1055&utm_source=git)** | 131 Clarendon St, Boston, MA,02117 | On Site | Jul 26 |
+| ↳ | **[Fraud Investigator Intern](https://jobright.ai/jobs/info/6a5da2fcc8e3a473cb8b4a97?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Jul 26 |
 | **[Direction Home Akron Canton Area Agency on Aging & Disabilities](https://www.dhad.org)** | **[Elder Rights Intern](https://jobright.ai/jobs/info/6a55cc47fdf4fa71202b540c?utm_campaign=1055&utm_source=git)** | Dennison, OH, United States | On Site | Jul 25 |
 | **[Kostelanetz LLP](https://kostelanetz.com/)** | **[Spelman Pre-Law Paralegal Internship (Summer 2026)](https://jobright.ai/jobs/info/6a560f08f7517b519ad538d4?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Legal Student Intern](https://jobright.ai/jobs/info/6a5674b8f7517b519ad55ce6?utm_campaign=1055&utm_source=git)** | Buffalo, NY, United States | On Site | Jul 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - YAD Worcester - Fall 2026](https://jobright.ai/jobs/info/6a59efb2686b4755d1e12834?utm_campaign=1055&utm_source=git)** | Worcester, MA, United States | On Site | Jul 24 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Financial Compliance Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a632778185082502f485466?utm_campaign=1055&utm_source=git)** | Amelia, OH, United States | Hybrid | Jul 24 |
 | ↳ | **[Legal Research Intern Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a63269b1ed5b0056a93a26a?utm_campaign=1055&utm_source=git)** | Palo Alto, CA, United States | On Site | Jul 24 |
-| **[Mid-Minnesota Legal Aid](https://mylegalaid.org/)** | **[Paralegal Intern](https://jobright.ai/jobs/info/6a630a137c70964cbb055381?utm_campaign=1055&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
