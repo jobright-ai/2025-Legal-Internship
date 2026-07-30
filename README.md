@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Larimer County Department of Health and Environment](http://www.larimer.gov/health)** | **[District Attorney Legal Intern Fall 2026](https://jobright.ai/jobs/info/6a6a8bf816c69119640fefe0?utm_campaign=1055&utm_source=git)** | La Porte, Colorado, United States | On Site | Jul 29 |
+| **[Larimer County](https://www.larimer.gov)** | **[District Attorney Legal Intern Fall 2026](https://jobright.ai/jobs/info/6a6a8be148355b3f12bf19b9?utm_campaign=1055&utm_source=git)** | Fort Collins, CO, United States | On Site | Jul 29 |
+| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a6a85058693c23e7fb7b46c?utm_campaign=1055&utm_source=git)** | Remote, GA, United States | Remote | Jul 29 |
+| **[Zeno Group](http://www.zenogroup.com)** | **[Intern, Corporate Affairs](https://jobright.ai/jobs/info/6a5faac5193b511309679f20?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Jul 29 |
 | **[Edwards Lifesciences](http://www.edwards.com)** | **[Clinical & Regulatory Internship, Summer 2027](https://jobright.ai/jobs/info/6a6a6f678693c23e7fb7acaf?utm_campaign=1055&utm_source=git)** | Irvine, CA, United States | On Site | Jul 29 |
 | **[Migliaccio & Rathod LLP](https://classlawdc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a6a6c748693c23e7fb7aba5?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
 | **[Queens District Attorney's Office](https://queensda.org/)** | **[Queens District Attorney’s Office Spring 2027 Legal Internship](https://jobright.ai/jobs/info/6a6a67e50b42f866b619893a?utm_campaign=1055&utm_source=git)** | Kew Gardens, NY, United States | On Site | Jul 29 |
@@ -120,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Tuff City Records](http://www.tuffcity.com)** | **[Legal Intern (100% on site)](https://jobright.ai/jobs/info/6a51c19602522b5b722eaf29?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5e7d0b27bf767ea68f6ff3?utm_campaign=1055&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 24 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Fall 2026 - MHLD](https://jobright.ai/jobs/info/6a5faa346e0c3c7c7d3d841f?utm_campaign=1055&utm_source=git)** | Salem, MA, United States | On Site | Jul 24 |
-| **[Lyten](http://www.lyten.com)** | **[Intern - Commercial Legal](https://jobright.ai/jobs/info/6a35e9d429c90c607e4e3fd0?utm_campaign=1055&utm_source=git)** | San Jose, CA, US | On Site | Jul 24 |
-| ↳ | **[Intern - Commercial Legal](https://jobright.ai/jobs/info/6a53a9498a74e077472f9302?utm_campaign=1055&utm_source=git)** | San Jose, CA, United States | On Site | Jul 24 |
+| **[Lyten](http://www.lyten.com)** | **[Intern - Commercial Legal](https://jobright.ai/jobs/info/6a53a9498a74e077472f9302?utm_campaign=1055&utm_source=git)** | San Jose, CA, United States | On Site | Jul 24 |
+| ↳ | **[Intern - Commercial Legal](https://jobright.ai/jobs/info/6a35e9d429c90c607e4e3fd0?utm_campaign=1055&utm_source=git)** | San Jose, CA, US | On Site | Jul 24 |
 | **[Bank of China USA](https://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a51382457513b72e0c64e70?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 | **[Palm Beach County Public Defender's Office, 15th Judicial Circuit](https://pd15.org/index.htm)** | **[Certified Legal Intern: SUMMER '27 / ACADEMIC YR 2026-2027](https://jobright.ai/jobs/info/6a513554ae4052672fe97cd1?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL, United States | On Site | Jul 24 |
 | **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Fall Legal Intern](https://jobright.ai/jobs/info/6a3d6f25d261407de98006a2?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Special Education Case Management Legal Intern, OGC - 26711](https://jobright.ai/jobs/info/6a62c5c71ed5b0056a938a1c?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 23 |
 | **[Enhesa](http://www.enhesa.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/6a4e3d66fc327f422fef218f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 23 |
 | **[RegASK](https://regask.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/6a62044611edf44d791638c3?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 23 |
-| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Court Advocate DuPage](https://jobright.ai/jobs/info/6a50c6acddd293054ccac115?utm_campaign=1055&utm_source=git)** | Wheaton, IL | On Site | Jul 23 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6a536698d007ee02d95fb405?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA, United States of America | Hybrid | Jul 23 |
-| ↳ | **[Fall 2026 Immigration Intern - UNPAID](https://jobright.ai/jobs/info/6a3437b3f6b55d12c791b99f?utm_campaign=1055&utm_source=git)** | Atlanta, GA, US | On Site | Jul 23 |
-| ↳ | **[Immigration Intern (Spring 2026)](https://jobright.ai/jobs/info/6908880dd046ab6061ccba0a?utm_campaign=1055&utm_source=git)** | Silver Spring, MD USA | Hybrid | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
