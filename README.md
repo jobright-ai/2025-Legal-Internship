@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of South Dakota](https://dss.sd.gov)** | **[Intern- Human Rights Investigator (Spring)](https://jobright.ai/jobs/info/6a6c2c065c54bc4752cecc7b?utm_campaign=1055&utm_source=git)** | Pierre, SD, United States | On Site | Jul 30 |
+| **[Conservation Law Foundation](https://www.clf.org/)** | **[Fall/Spring Intern - 2026/2027](https://jobright.ai/jobs/info/6a6c2a28ca1f9338465fe207?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Jul 30 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a6c17a75c54bc4752cec81c?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
 | ↳ | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a6c1415acb0a61f9dbc4378?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Intern (Summer 2027)](https://jobright.ai/jobs/info/6a6ba42532f9300c3a3e00fb?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b69965c54bc4752ce8cfb?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
-| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b61c0acb0a61f9dbc074c?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b61c0acb0a61f9dbc074c?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
+| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b6939acb0a61f9dbc0a94?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
 | **[Panasonic Connect North America](https://connect.na.panasonic.com/)** | **[Customs Compliance Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6bd2c357120971bf3a90e0?utm_campaign=1055&utm_source=git)** | Newark, NJ, United States | On Site | Jul 30 |
 | **[The Surfrider Foundation](http://www.surfrider.org)** | **[Summer 2027 Legal Internship Program](https://jobright.ai/jobs/info/6a6bce75acb0a61f9dbc2e7d?utm_campaign=1055&utm_source=git)** | San Clemente, CA, United States | Remote | Jul 30 |
 | **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a6a85058693c23e7fb7b46c?utm_campaign=1055&utm_source=git)** | Remote, GA, United States | Remote | Jul 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](https://www.bocusa.com)** | **[Legal Office - FLU Risk Management Intern](https://jobright.ai/jobs/info/6a51382457513b72e0c64e70?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 | **[Palm Beach County Public Defender's Office, 15th Judicial Circuit](https://pd15.org/index.htm)** | **[Certified Legal Intern: SUMMER '27 / ACADEMIC YR 2026-2027](https://jobright.ai/jobs/info/6a513554ae4052672fe97cd1?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL, United States | On Site | Jul 24 |
 | **[DeGioia Law, PLLC](http://degioialaw.com)** | **[College Legal Intern](https://jobright.ai/jobs/info/6a63b18f5c7e2d715ebad63e?utm_campaign=1055&utm_source=git)** | Fairfax, VA, United States | On Site | Jul 24 |
-| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Criminal Defense Practice Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a5da89363a8f619507d03c9?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
-| **[International Institute of New England](https://iine.org/)** | **[Training & Compliance Internship](https://jobright.ai/jobs/info/6a638f6b87cef057612c9321?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
