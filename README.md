@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Child Support Law Clerk Internship](https://jobright.ai/jobs/info/6a6d583c32f9300c3a3e7eae?utm_campaign=1055&utm_source=git)** | Santa Rosa, CA, United States | On Site | Jul 31 |
+| **[UBC](http://ubc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a6d06d05c54bc4752cf0ada?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 31 |
 | **[City of Morro Bay](https://www.morrobayca.gov)** | **[Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6a4db063c643fd23fed3db5f?utm_campaign=1055&utm_source=git)** | Morro Bay, CA, United States | On Site | Jul 31 |
 | **[Kaplan Law Firm](http://www.kaplanlawatx.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a6d1723ba7efe79c2f686d9?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | Remote | Jul 31 |
-| **[UBC](http://ubc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a6d0bfdacb0a61f9dbc8aa4?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 31 |
 | **[MAHLE](https://www.mahle.com)** | **[Foreign Trade Intern Job Details / MAHLE](https://jobright.ai/jobs/info/6a590acfc8e3a473cb8a4a7a?utm_campaign=1055&utm_source=git)** | Farmington Hills, MI, United States | On Site | Jul 31 |
 | **[Sony](https://www.sony.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a502235397d8d353c28e032?utm_campaign=1055&utm_source=git)** | New York, United States | Hybrid | Jul 31 |
 | **[Defender Association of Philadelphia](https://phillydefenders.org)** | **[Intern](https://jobright.ai/jobs/info/6a6cc7e957120971bf3ad040?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a3fe30f9dd7f954cafe759c?utm_campaign=1055&utm_source=git)** | San Diego California | On Site | Jul 26 |
 | **[Beacon Bank](https://www.beaconbank.com)** | **[Fraud Investigator Intern](https://jobright.ai/jobs/info/6a459b4048d2f00f2a86e1d6?utm_campaign=1055&utm_source=git)** | 131 Clarendon St, Boston, MA,02117 | On Site | Jul 26 |
 | ↳ | **[Fraud Investigator Intern](https://jobright.ai/jobs/info/6a5da2fcc8e3a473cb8b4a97?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Jul 26 |
-| **[Direction Home Akron Canton Area Agency on Aging & Disabilities](https://www.dhad.org)** | **[Elder Rights Intern](https://jobright.ai/jobs/info/6a55cc47fdf4fa71202b540c?utm_campaign=1055&utm_source=git)** | Dennison, OH, United States | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
