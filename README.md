@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of China USA](https://www.bocusa.com)** | **[Legal and Compliance Department - Compliance Training Team Intern](https://jobright.ai/jobs/info/6a5ccb3a63a8f619507ce20a?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 02 |
 | **[Massachusetts Department of Public Utilities](https://www.mass.gov/orgs/department-of-public-utilities)** | **[FALL Consumer Complaint Investigation Intern](https://jobright.ai/jobs/info/6a6eea80ad0fe2053db9ea91?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Aug 01 |
 | **[Circle the City](https://www.circlethecity.org/)** | **[Compliance and Privacy Intern (59816)](https://jobright.ai/jobs/info/6a5c1d8563a8f619507cca55?utm_campaign=1055&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 01 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a6e4818cd3bac13d3706f5f?utm_campaign=1055&utm_source=git)** | Nashville, TN, United States | On Site | Aug 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Temporary Post Bar Law Clerk (Classification: Intern/Trainee)](https://jobright.ai/jobs/info/6a67cdf93b5e6b116a550b13?utm_campaign=1055&utm_source=git)** | San Luis Obispo, CA, United States | On Site | Jul 27 |
 | **[Ventra Health](https://ventrahealth.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a68005e5d2a117fb9cee3ed?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Orion Policy Institute](https://www.orionpolicy.org/)** | **[Intern (ROCCA) Posting](https://jobright.ai/jobs/info/6a67b0f22bf1fb2b71926839?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Jul 27 |
-| **[First Liberty Institute](https://firstliberty.org)** | **[2027 Summer Intern - Legal](https://jobright.ai/jobs/info/6a67a7173b5e6b116a54fdc0?utm_campaign=1055&utm_source=git)** | Plano, TX, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
