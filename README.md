@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Pre-trial Services Paid Intern - Criminal Division](https://jobright.ai/jobs/info/6a70a620cb96192a3684494c?utm_campaign=1055&utm_source=git)** | Newark, NJ, United States | On Site | Aug 03 |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Pre-trial Services Paid Intern - Criminal Division](https://jobright.ai/jobs/info/6a709cec357dfc6ff2b39d3c?utm_campaign=1055&utm_source=git)** | Newark, NJ, United States | On Site | Aug 03 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Intellectual Property Legal Intern IV, Fall 2026 (Hybrid)](https://jobright.ai/jobs/info/6a709682e2b7476e7b20999a?utm_campaign=1055&utm_source=git)** | Nashua, NH, United States | Hybrid | Aug 03 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a5dfbbc67b2850e77deec80?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 03 |
 | **[Busek](http://busek.com)** | **[Legal Operations Intern](https://jobright.ai/jobs/info/6a5ae07863a8f619507c8bee?utm_campaign=1055&utm_source=git)** | Natick, MA, United States | On Site | Aug 03 |
@@ -109,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Legal Services Corporation](https://www.lsc.gov/)** | **[Compliance Intern - Fall 2026](https://jobright.ai/jobs/info/6a6b73325c54bc4752ce8ff3?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
 | **[HPC Industrial powered by Clean Harbors](https://www.hpc-industrial.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b6f1e5c54bc4752ce8e8d?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Regulatory & Marketing Legal Intern](https://jobright.ai/jobs/info/6a5ad08c3ac7627fe9005211?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 30 |
+| **[Panasonic Appliances Refrigeration Systems de México S. A. de C. V.](https://www.hussmann.com/en)** | **[Customs Compliance Intern (Fall 2026)](https://jobright.ai/jobs/info/6a70a2661003bd7b70d6b836?utm_campaign=1055&utm_source=git)** | Newark, NJ, United States | Hybrid | Jul 30 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Democracy Legal Internship](https://jobright.ai/jobs/info/6a6b2667acb0a61f9dbbf474?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 30 |
 | **[CAMBA](https://camba.org/)** | **[Housing Summer Intern, CAMBA Legal Services, Brooklyn](https://jobright.ai/jobs/info/6a6b2657ca1f9338465f8ced?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Jul 30 |
 | **[Etaily](https://etaily.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a6b25e9c00ae03109f8257c?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HIAS Europe](https://hias.org/hias-eu/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a67fbef2bda4d2842856986?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
 | **[General Legal (YC26)](https://general.legal)** | **[Summer Legal Intern](https://jobright.ai/jobs/info/6a55f59521f64463ad351178?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Advanced Space](https://advancedspace.com/)** | **[2026 Legal & Contracts Fall Internship](https://jobright.ai/jobs/info/6a67db902bf1fb2b719274f1?utm_campaign=1055&utm_source=git)** | Westminster, CO, United States | On Site | Jul 27 |
-| **[HIAS](http://hias.org/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a67bc38872eb74f9eadaaab?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
-| **[Wasserman](https://the.team/)** | **[Fall 2026 Internship - Legal, Team Sports Talent](https://jobright.ai/jobs/info/6a67c498d0fb4c3df393ea98?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 27 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Temporary Post Bar Law Clerk (Classification: Intern/Trainee)](https://jobright.ai/jobs/info/6a67cdf93b5e6b116a550b13?utm_campaign=1055&utm_source=git)** | San Luis Obispo, CA, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
