@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Environmental Defense Fund](https://www.edf.org/)** | **[Legal Intern, Clean Air](https://jobright.ai/jobs/info/6a70dc2102d93145bf88cba2?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 03 |
+| ↳ | **[Legal Intern, Climate Risk](https://jobright.ai/jobs/info/6a70dc11357dfc6ff2b3b875?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 03 |
+| ↳ | **[Legal Intern, Clean Affordable Power](https://jobright.ai/jobs/info/6a70dc0771acd469eeda0274?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Avania](https://www.avaniaclinical.com/)** | **[Regulatory & Market Access Intern](https://jobright.ai/jobs/info/6a70c68502d93145bf88c25a?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Aug 03 |
 | ↳ | **[Regulatory & Market Access Intern](https://jobright.ai/jobs/info/6a70c661357dfc6ff2b3af6e?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 03 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Pre-trial Services Paid Intern - Criminal Division](https://jobright.ai/jobs/info/6a70a620cb96192a3684494c?utm_campaign=1055&utm_source=git)** | Newark, NJ, United States | On Site | Aug 03 |
@@ -95,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a6c17a75c54bc4752cec81c?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
 | ↳ | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a6c1415acb0a61f9dbc4378?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Intern (Summer 2027)](https://jobright.ai/jobs/info/6a6ba42532f9300c3a3e00fb?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b6939acb0a61f9dbc0a94?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
-| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b61c0acb0a61f9dbc074c?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b61c0acb0a61f9dbc074c?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
+| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b6939acb0a61f9dbc0a94?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
 | **[Panasonic Connect North America](https://connect.na.panasonic.com/)** | **[Customs Compliance Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6bd2c357120971bf3a90e0?utm_campaign=1055&utm_source=git)** | Newark, NJ, United States | On Site | Jul 30 |
 | **[The Surfrider Foundation](http://www.surfrider.org)** | **[Summer 2027 Legal Internship Program](https://jobright.ai/jobs/info/6a6bce75acb0a61f9dbc2e7d?utm_campaign=1055&utm_source=git)** | San Clemente, CA, United States | Remote | Jul 30 |
 | **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a6a85058693c23e7fb7b46c?utm_campaign=1055&utm_source=git)** | Remote, GA, United States | Remote | Jul 30 |
@@ -154,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Quality and Compliance Intern](https://jobright.ai/jobs/info/6a55cc67ef22935f2e3f73ee?utm_campaign=1055&utm_source=git)** | Windsor Mill, MD, United States | Remote | Jul 28 |
 | **[Rapiscan Systems](http://www.rapiscansystems.com/)** | **[OPTO Trade Compliance Intern (HYBRID)](https://jobright.ai/jobs/info/6a6af56557120971bf3a3e50?utm_campaign=1055&utm_source=git)** | Hawthorne, CA, United States | Hybrid | Jul 27 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Mental Health Litigation Division Brockton - Fall 2026](https://jobright.ai/jobs/info/6a59f14f63a8f619507c457d?utm_campaign=1055&utm_source=git)** | Brockton, MA, United States | On Site | Jul 27 |
-| **[State of Colorado](https://www.colorado.gov/pacific/sipa)** | **[Legislative Legal Services Intern](https://jobright.ai/jobs/info/6a6c226832f9300c3a3e27cf?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
