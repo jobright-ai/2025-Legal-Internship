@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Logan Houston for Louisiana House of Representatives District 80](https://www.linkedin.com/company/117874086)** | **[Intern Legal Advisor](https://jobright.ai/jobs/info/6a70e6e11003bd7b70d6d63f?utm_campaign=1055&utm_source=git)** | Metairie, LA, United States | Remote | Aug 03 |
 | **[Environmental Defense Fund](https://www.edf.org/)** | **[Legal Intern, Clean Air](https://jobright.ai/jobs/info/6a70dc2102d93145bf88cba2?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 03 |
 | ↳ | **[Legal Intern, Climate Risk](https://jobright.ai/jobs/info/6a70dc11357dfc6ff2b3b875?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 03 |
 | ↳ | **[Legal Intern, Clean Affordable Power](https://jobright.ai/jobs/info/6a70dc0771acd469eeda0274?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 03 |
@@ -98,7 +99,7 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a6c17a75c54bc4752cec81c?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
 | ↳ | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a6c1415acb0a61f9dbc4378?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Intern (Summer 2027)](https://jobright.ai/jobs/info/6a6ba42532f9300c3a3e00fb?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b61c0acb0a61f9dbc074c?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b5f36c00ae03109f837c7?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
 | ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b6939acb0a61f9dbc0a94?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
 | **[Panasonic Connect North America](https://connect.na.panasonic.com/)** | **[Customs Compliance Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6bd2c357120971bf3a90e0?utm_campaign=1055&utm_source=git)** | Newark, NJ, United States | On Site | Jul 30 |
 | **[The Surfrider Foundation](http://www.surfrider.org)** | **[Summer 2027 Legal Internship Program](https://jobright.ai/jobs/info/6a6bce75acb0a61f9dbc2e7d?utm_campaign=1055&utm_source=git)** | San Clemente, CA, United States | Remote | Jul 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[FALL Consumer Complaint Investigation Intern](https://jobright.ai/jobs/info/6a68c483207d4f2e632e4a65?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Jul 28 |
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Quality and Compliance Intern](https://jobright.ai/jobs/info/6a55cc67ef22935f2e3f73ee?utm_campaign=1055&utm_source=git)** | Windsor Mill, MD, United States | Remote | Jul 28 |
 | **[Rapiscan Systems](http://www.rapiscansystems.com/)** | **[OPTO Trade Compliance Intern (HYBRID)](https://jobright.ai/jobs/info/6a6af56557120971bf3a3e50?utm_campaign=1055&utm_source=git)** | Hawthorne, CA, United States | Hybrid | Jul 27 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - Mental Health Litigation Division Brockton - Fall 2026](https://jobright.ai/jobs/info/6a59f14f63a8f619507c457d?utm_campaign=1055&utm_source=git)** | Brockton, MA, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
