@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Immigrant Justice Center](https://immigrantjustice.org/)** | **[Public Interest Law Initiative (PILI) Fall Intern NIJC](https://jobright.ai/jobs/info/6a6ffe3fc56c0956e8add751?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Remote | Aug 02 |
 | **[Bank of China USA](https://www.bocusa.com)** | **[Legal and Compliance Department - Compliance Training Team Intern](https://jobright.ai/jobs/info/6a5ccb3a63a8f619507ce20a?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 02 |
 | **[Circle the City](https://www.circlethecity.org/)** | **[Compliance and Privacy Intern (59816)](https://jobright.ai/jobs/info/6a5c1d8563a8f619507cca55?utm_campaign=1055&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 01 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2026 Reproductive Rights and Health Legal Internship](https://jobright.ai/jobs/info/6a34773a649fdf16292f619d?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Aug 01 |
@@ -86,12 +87,12 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a6c17a75c54bc4752cec81c?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
 | ↳ | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a6c1415acb0a61f9dbc4378?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Intern (Summer 2027)](https://jobright.ai/jobs/info/6a6ba42532f9300c3a3e00fb?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b5f36c00ae03109f837c7?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b61c0acb0a61f9dbc074c?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
 | ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b6939acb0a61f9dbc0a94?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
 | **[Panasonic Connect North America](https://connect.na.panasonic.com/)** | **[Customs Compliance Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6bd2c357120971bf3a90e0?utm_campaign=1055&utm_source=git)** | Newark, NJ, United States | On Site | Jul 30 |
 | **[The Surfrider Foundation](http://www.surfrider.org)** | **[Summer 2027 Legal Internship Program](https://jobright.ai/jobs/info/6a6bce75acb0a61f9dbc2e7d?utm_campaign=1055&utm_source=git)** | San Clemente, CA, United States | Remote | Jul 30 |
-| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a6a85058693c23e7fb7b46c?utm_campaign=1055&utm_source=git)** | Remote, GA, United States | Remote | Jul 30 |
-| ↳ | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a5f86a9f68dd368023e70e4?utm_campaign=1055&utm_source=git)** | Cerritos, CA, United States | Hybrid | Jul 30 |
+| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a5f86a9f68dd368023e70e4?utm_campaign=1055&utm_source=git)** | Cerritos, CA, United States | Hybrid | Jul 30 |
+| ↳ | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a6a85058693c23e7fb7b46c?utm_campaign=1055&utm_source=git)** | Remote, GA, United States | Remote | Jul 30 |
 | **[State of Colorado](https://dpo.colorado.gov/)** | **[Legislative Legal Services Intern.](https://jobright.ai/jobs/info/6a6bb396ca1f9338465fbe9d?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | On Site | Jul 30 |
 | **[Oakmont Senior Living](http://oakmontseniorliving.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a6b94abacb0a61f9dbc1ab4?utm_campaign=1055&utm_source=git)** | Irvine, CA, United States | On Site | Jul 30 |
 | **[City of Suffolk, VA](www.suffolkva.us)** | **[Legal Intern](https://jobright.ai/jobs/info/6a6b82d557120971bf3a7517?utm_campaign=1055&utm_source=git)** | Norfolk, VA, United States | On Site | Jul 30 |
@@ -99,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Sample Supports](https://www.samplesupports.com/)** | **[Bachelor Level Intern – Residential Services](https://jobright.ai/jobs/info/6a6b7e86acb0a61f9dbc129e?utm_campaign=1055&utm_source=git)** | Fort Collins, CO, United States | On Site | Jul 30 |
 | ↳ | **[Bachelor Level Intern – Residential Services](https://jobright.ai/jobs/info/6a6b7e55acb0a61f9dbc1281?utm_campaign=1055&utm_source=git)** | Longmont, CO, United States | On Site | Jul 30 |
 | ↳ | **[Bachelor Level Intern – Residential Services](https://jobright.ai/jobs/info/6a6b7e5332f9300c3a3df2f0?utm_campaign=1055&utm_source=git)** | Thornton, CO, United States | On Site | Jul 30 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/6a6b53cb5c54bc4752ce8581?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Remote | Jul 30 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Investigation Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/6a6b54985c54bc4752ce85db?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Remote | Jul 30 |
 | **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall  2026](https://jobright.ai/jobs/info/6a6b7c5dca1f9338465fa9c1?utm_campaign=1055&utm_source=git)** | San Jose, CA, United States | Hybrid | Jul 30 |
 | **[Legal Services Corporation](https://www.lsc.gov/)** | **[Compliance Intern - Fall 2026](https://jobright.ai/jobs/info/6a6b73325c54bc4752ce8ff3?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
 | **[HPC Industrial powered by Clean Harbors](https://www.hpc-industrial.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b6f1e5c54bc4752ce8e8d?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
@@ -136,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[ACLU of Texas](https://www.aclutx.org)** | **[Intern: Legal Team](https://jobright.ai/jobs/info/6a694ce436d36c1ff29993fa?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | Remote | Jul 28 |
 | **[Fried Frank](http://www.friedfrank.com/)** | **[Paralegal Intern](https://jobright.ai/jobs/info/6a68f1dc36d36c1ff2997222?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Legislative Legal Services Intern](https://jobright.ai/jobs/info/6a6ba6a557120971bf3a8198?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | On Site | Jul 28 |
-| **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Law Student - Public Defender (Fall)](https://jobright.ai/jobs/info/6a6901d43b549b0b531d3559?utm_campaign=1055&utm_source=git)** | Nashville, TN, United States | On Site | Jul 28 |
 | **[National Center on Sexual Exploitation](https://endsexualexploitation.org/)** | **[Internship: Legal (Summer 2027)](https://jobright.ai/jobs/info/6a68f77e3b549b0b531d3072?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 28 |
 | ↳ | **[Internship: Legal (Winter 2027)](https://jobright.ai/jobs/info/6a6b137d57120971bf3a4889?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 28 |
 | **[Louisiana Blue](https://lablue.com)** | **[CW Compliance and Ethics Intern - Fall](https://jobright.ai/jobs/info/6a68f3e7b22f1b56a6029c32?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 28 |
