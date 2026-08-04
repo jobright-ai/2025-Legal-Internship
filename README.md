@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harris County Attorney's Office](https://cao.harriscountytx.gov/)** | **[1L / 2L/ 3L -2026 Summer Academic Law Student Internship](https://jobright.ai/jobs/info/6a725743ee751e0c793487ac?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | On Site | Aug 04 |
+| **[Clarios](https://www.clarios.com/)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a72541c02d93145bf894294?utm_campaign=1055&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Aug 04 |
+| **[Arapahoe County](https://www.arapahoegov.com)** | **[Fall (2026) 3L Student Practice Act Internship](https://jobright.ai/jobs/info/6a725327cb96192a3684d81d?utm_campaign=1055&utm_source=git)** | Centennial, CO, United States | On Site | Aug 04 |
 | **[Ventra Health](https://ventrahealth.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a68005e5d2a117fb9cee3ed?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 04 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[IT Policy and Compliance Intern - IE](https://jobright.ai/jobs/info/6a723bb2cb96192a3684cda1?utm_campaign=1055&utm_source=git)** | Harrisonburg, VA, United States | On Site | Aug 04 |
 | **[DV Trading LLC](https://www.dvtrading.co)** | **[2027 Summer Internship - Risk Management](https://jobright.ai/jobs/info/6a7237b402d93145bf89358c?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Aug 04 |
@@ -64,9 +67,9 @@ For a complete list, click the following sortable link below:
 | **[Trichell Law Firm](https://trichellfirm.com)** | **[Law Clerk/Legal Intern](https://jobright.ai/jobs/info/6a72335c02d93145bf8933ba?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, United States | On Site | Aug 04 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[ABC Commission Legal Intern (Fall 2026)](https://jobright.ai/jobs/info/6a72303d45b6af1c30dbd208?utm_campaign=1055&utm_source=git)** | Wake County, NC, United States | Hybrid | Aug 04 |
 | **[Eagle Rock Properties](https://www.eaglerockproperties.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6a722ed3e2b7476e7b211bfe?utm_campaign=1055&utm_source=git)** | Plainview, NY, United States | On Site | Aug 04 |
-| **[AARP](http://www.aarp.org)** | **[Legal Counsel for the Elderly Intern](https://jobright.ai/jobs/info/6a6af385ca1f9338465f7640?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 04 |
-| **[AFL](http://www.AFLglobal.com)** | **[International Trade Intern- Fall 2026](https://jobright.ai/jobs/info/6a55877fae07d60a8d011d78?utm_campaign=1055&utm_source=git)** | Duncan, South Carolina, United States | On Site | Aug 04 |
-| ↳ | **[International Trade Intern- Fall 2026](https://jobright.ai/jobs/info/6a55d0d32ce8bf79a13a172c?utm_campaign=1055&utm_source=git)** | Duncan, SC, United States | On Site | Aug 04 |
+| **[AARP](http://www.aarp.org)** | **[Legal Counsel for the Elderly Intern](https://jobright.ai/jobs/info/6a59ca6d686b4755d1e11d4c?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 04 |
+| **[AFL](http://www.AFLglobal.com)** | **[International Trade Intern- Fall 2026](https://jobright.ai/jobs/info/6a55d0d32ce8bf79a13a172c?utm_campaign=1055&utm_source=git)** | Duncan, SC, United States | On Site | Aug 04 |
+| ↳ | **[International Trade Intern- Fall 2026](https://jobright.ai/jobs/info/6a55877fae07d60a8d011d78?utm_campaign=1055&utm_source=git)** | Duncan, South Carolina, United States | On Site | Aug 04 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d67029111f771d1a189cf?utm_campaign=1055&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 04 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Aug 04 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69ba304056973837413faf8b?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Aug 04 |
@@ -129,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a6c17a75c54bc4752cec81c?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
 | ↳ | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a6c1415acb0a61f9dbc4378?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Intern (Summer 2027)](https://jobright.ai/jobs/info/6a6ba42532f9300c3a3e00fb?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b69965c54bc4752ce8cfb?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
-| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b5f36c00ae03109f837c7?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b5f36c00ae03109f837c7?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
+| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b69965c54bc4752ce8cfb?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
 | **[Panasonic Connect North America](https://connect.na.panasonic.com/)** | **[Customs Compliance Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6bd2c357120971bf3a90e0?utm_campaign=1055&utm_source=git)** | Newark, NJ, United States | On Site | Jul 30 |
 | **[The Surfrider Foundation](http://www.surfrider.org)** | **[Summer 2027 Legal Internship Program](https://jobright.ai/jobs/info/6a6bce75acb0a61f9dbc2e7d?utm_campaign=1055&utm_source=git)** | San Clemente, CA, United States | Remote | Jul 30 |
 | **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a5f86a9f68dd368023e70e4?utm_campaign=1055&utm_source=git)** | Cerritos, CA, United States | Hybrid | Jul 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 + Spring 2027 Legal Intern, Tenants' Rights Unit (Bronx)](https://jobright.ai/jobs/info/6a6b24585c54bc4752ce7348?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Jul 30 |
 | ↳ | **[Fall 2026 Legal Intern, Community Access Programs Unit](https://jobright.ai/jobs/info/6a6b245132f9300c3a3dd1ee?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 30 |
 | ↳ | **[Fall 2026 + Spring 2027 Legal Intern, Consumer Protection Unit](https://jobright.ai/jobs/info/6a6b244bca1f9338465f8999?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Jul 30 |
-| ↳ | **[Fall 2026 + Spring 2027 Legal Intern, Estate Planning Project](https://jobright.ai/jobs/info/6a6b244a57120971bf3a508b?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Jul 30 |
-| **[RegASK](https://regask.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/6a6b23faca1f9338465f8901?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 30 |
-| **[Palm Beach County Public Defender's Office, 15th Judicial Circuit](https://pd15.org/index.htm)** | **[Legal Intern: SUMMER 2027](https://jobright.ai/jobs/info/6a6b22b0acb0a61f9dbbee7c?utm_campaign=1055&utm_source=git)** | West Palm Beach, FL, United States | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
