@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5ef5c5f3674a0545d2b654?utm_campaign=1055&utm_source=git)** | Seattle, WA, United States | On Site | Aug 04 |
+| ↳ | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a22aa8614de9460dc842d49?utm_campaign=1055&utm_source=git)** | Seattle | On Site | Aug 04 |
+| ↳ | **[Arbitration Strategy Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a34023ace501060b5ceedd6?utm_campaign=1055&utm_source=git)** | Los Angeles | On Site | Aug 04 |
+| **[Medpace](http://www.medpace.com)** | **[Study Start-Up Intern- Fall 2026](https://jobright.ai/jobs/info/6a55cff5fdf4fa71202b59f8?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 04 |
 | **[National Immigrant Justice Center](https://immigrantjustice.org/)** | **[Public Interest Law Initiative (PILI) Fall Intern NIJC](https://jobright.ai/jobs/info/6a6ffe3fc56c0956e8add751?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Remote | Aug 04 |
 | **[TransitMatters](https://transitmatters.org)** | **[Fall/Spring Intern - 2026/2027](https://jobright.ai/jobs/info/6a5efc5ff3674a0545d2b854?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Aug 03 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Copyright Specialist Intern](https://jobright.ai/jobs/info/6a70fb22e2b7476e7b20c331?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 03 |
@@ -112,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a6c17a75c54bc4752cec81c?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
 | ↳ | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a6c1415acb0a61f9dbc4378?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Intern (Summer 2027)](https://jobright.ai/jobs/info/6a6ba42532f9300c3a3e00fb?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b5f36c00ae03109f837c7?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
-| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b6939acb0a61f9dbc0a94?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b69965c54bc4752ce8cfb?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
+| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b61c0acb0a61f9dbc074c?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
 | **[Panasonic Connect North America](https://connect.na.panasonic.com/)** | **[Customs Compliance Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6bd2c357120971bf3a90e0?utm_campaign=1055&utm_source=git)** | Newark, NJ, United States | On Site | Jul 30 |
 | **[The Surfrider Foundation](http://www.surfrider.org)** | **[Summer 2027 Legal Internship Program](https://jobright.ai/jobs/info/6a6bce75acb0a61f9dbc2e7d?utm_campaign=1055&utm_source=git)** | San Clemente, CA, United States | Remote | Jul 30 |
 | **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a6a85058693c23e7fb7b46c?utm_campaign=1055&utm_source=git)** | Remote, GA, United States | Remote | Jul 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RPM International Inc.](http://www.rpminc.com/)** | **[Legal and Compliance Intern](https://jobright.ai/jobs/info/6a6a41b919d76667a2abe8c7?utm_campaign=1055&utm_source=git)** | Medina, OH, United States | On Site | Jul 29 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[District Attorney Legal Intern Fall 2026](https://jobright.ai/jobs/info/6a6a38f08693c23e7fb797fe?utm_campaign=1055&utm_source=git)** | Colorado, United States | On Site | Jul 29 |
 | **[International Institute of New England](https://iine.org/)** | **[Fall 2026 Immigration Legal Services Internship](https://jobright.ai/jobs/info/6a6a26cd19d76667a2abde85?utm_campaign=1055&utm_source=git)** | Lowell, MA, United States | On Site | Jul 29 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Lowell - Fall 2026](https://jobright.ai/jobs/info/6a59ef7cc8e3a473cb8a9078?utm_campaign=1055&utm_source=git)** | Lowell, MA, United States | On Site | Jul 29 |
-| **[Edwards Lifesciences](http://www.edwards.com)** | **[Clinical & Regulatory Internship, Summer 2027](https://jobright.ai/jobs/info/6a6a6f678693c23e7fb7acaf?utm_campaign=1055&utm_source=git)** | Alton, Illinois, United States | On Site | Jul 29 |
-| **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a55d24dec54dd532d814300?utm_campaign=1055&utm_source=git)** | Windsor Mill, MD, United States | Remote | Jul 28 |
-| **[Bank of China USA](https://www.bocusa.com)** | **[Operational Risk Management Department New Activities Risk Management/Issues Management Intern](https://jobright.ai/jobs/info/6a5202b2bf63b66c7997f34a?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
