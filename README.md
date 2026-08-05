@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siegwerk](https://www.siegwerk.com/)** | **[Governance Risk And Compliance Intern](https://jobright.ai/jobs/info/6a731d1fe55c73319eb158ab?utm_campaign=1055&utm_source=git)** | Cairo, NY, United States | On Site | Aug 05 |
 | **[National Immigrant Justice Center](https://immigrantjustice.org/)** | **[Public Interest Law Initiative (PILI) Fall Intern NIJC](https://jobright.ai/jobs/info/6a6ffe3fc56c0956e8add751?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Remote | Aug 05 |
 | **[City of New Haven](https://www.newhavenct.gov)** | **[Law Student Intern](https://jobright.ai/jobs/info/6a72e3a65049141ad172b916?utm_campaign=1055&utm_source=git)** | New Haven, CT, United States | Hybrid | Aug 04 |
 | **[Investinit](https://www.invest-in-it.com)** | **[Governance, Risk, and Compliance Intern (Fall 2026)](https://jobright.ai/jobs/info/6a72da4adc0f425389118070?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 04 |
@@ -79,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[NYC Department of Finance](http://www.nyc.gov/html/dof/html/home/home.shtml)** | **[Real Property Attorney Intern](https://jobright.ai/jobs/info/6a72d36102d93145bf895cb8?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d67029111f771d1a189cf?utm_campaign=1055&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 04 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Aug 04 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a54de0031f2d15a8d813b4c?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Aug 04 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69ba304056973837413faf8b?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Aug 04 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a5dfbbc67b2850e77deec80?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 04 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a51b10a78e364789ca5b04a?utm_campaign=1055&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5ef5c5f3674a0545d2b654?utm_campaign=1055&utm_source=git)** | Seattle, WA, United States | On Site | Aug 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HPC Industrial powered by Clean Harbors](https://www.hpc-industrial.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b6f1e5c54bc4752ce8e8d?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Regulatory & Marketing Legal Intern](https://jobright.ai/jobs/info/6a5ad08c3ac7627fe9005211?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Panasonic Appliances Refrigeration Systems de México S. A. de C. V.](https://www.hussmann.com/en)** | **[Customs Compliance Intern (Fall 2026)](https://jobright.ai/jobs/info/6a70a2661003bd7b70d6b836?utm_campaign=1055&utm_source=git)** | Newark, NJ, United States | Hybrid | Jul 30 |
-| **[CAMBA](https://camba.org/)** | **[Housing Summer Intern, CAMBA Legal Services, Brooklyn](https://jobright.ai/jobs/info/6a6b2657ca1f9338465f8ced?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
