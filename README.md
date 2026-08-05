@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Avania](https://www.avaniaclinical.com/)** | **[Regulatory & Market Access Intern](https://jobright.ai/jobs/info/6a70c68502d93145bf88c25a?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 04 |
+| **[Clarios](https://www.clarios.com/)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a72541c02d93145bf894294?utm_campaign=1055&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Aug 04 |
 | **[Aptar](https://www.aptar.com/pharmaceutical/)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/6a728cc4cb96192a3684e88d?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 04 |
 | **[Dispatch Energy](https://www.dispatchenergy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a725c2de2b7476e7b213007?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
 | **[Harris County Attorney's Office](https://cao.harriscountytx.gov/)** | **[1L / 2L/ 3L -2026 Summer Academic Law Student Internship](https://jobright.ai/jobs/info/6a725743ee751e0c793487ac?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | On Site | Aug 04 |
-| **[Clarios](https://www.clarios.com/)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a72541c02d93145bf894294?utm_campaign=1055&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Aug 04 |
 | **[Arapahoe County](https://www.arapahoegov.com)** | **[Fall (2026) 3L Student Practice Act Internship](https://jobright.ai/jobs/info/6a725327cb96192a3684d81d?utm_campaign=1055&utm_source=git)** | Centennial, CO, United States | On Site | Aug 04 |
 | **[Ventra Health](https://ventrahealth.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a68005e5d2a117fb9cee3ed?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 04 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[IT Policy and Compliance Intern - IE](https://jobright.ai/jobs/info/6a723bb2cb96192a3684cda1?utm_campaign=1055&utm_source=git)** | Harrisonburg, VA, United States | On Site | Aug 04 |
@@ -69,12 +70,12 @@ For a complete list, click the following sortable link below:
 | **[Trichell Law Firm](https://trichellfirm.com)** | **[Law Clerk/Legal Intern](https://jobright.ai/jobs/info/6a72335c02d93145bf8933ba?utm_campaign=1055&utm_source=git)** | Baton Rouge, LA, United States | On Site | Aug 04 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[ABC Commission Legal Intern (Fall 2026)](https://jobright.ai/jobs/info/6a72303d45b6af1c30dbd208?utm_campaign=1055&utm_source=git)** | Wake County, NC, United States | Hybrid | Aug 04 |
 | **[Eagle Rock Properties](https://www.eaglerockproperties.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6a722ed3e2b7476e7b211bfe?utm_campaign=1055&utm_source=git)** | Plainview, NY, United States | On Site | Aug 04 |
-| **[AARP](http://www.aarp.org)** | **[Legal Counsel for the Elderly Intern](https://jobright.ai/jobs/info/6a6af385ca1f9338465f7640?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 04 |
+| **[AARP](http://www.aarp.org)** | **[Legal Counsel for the Elderly Intern](https://jobright.ai/jobs/info/6a59ca6d686b4755d1e11d4c?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 04 |
 | **[AFL](http://www.AFLglobal.com)** | **[International Trade Intern- Fall 2026](https://jobright.ai/jobs/info/6a55d0d32ce8bf79a13a172c?utm_campaign=1055&utm_source=git)** | Duncan, SC, United States | On Site | Aug 04 |
 | ↳ | **[International Trade Intern- Fall 2026](https://jobright.ai/jobs/info/6a55877fae07d60a8d011d78?utm_campaign=1055&utm_source=git)** | Duncan, South Carolina, United States | On Site | Aug 04 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d67029111f771d1a189cf?utm_campaign=1055&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 04 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Aug 04 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69ba304056973837413faf8b?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Aug 04 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a54de0031f2d15a8d813b4c?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Aug 04 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a5dfbbc67b2850e77deec80?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 04 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a51b10a78e364789ca5b04a?utm_campaign=1055&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a22aa8614de9460dc842d49?utm_campaign=1055&utm_source=git)** | Seattle | On Site | Aug 04 |
@@ -98,8 +99,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Intern, Climate Risk](https://jobright.ai/jobs/info/6a70dc11357dfc6ff2b3b875?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 03 |
 | ↳ | **[Legal Intern, Clean Air](https://jobright.ai/jobs/info/6a70dc2102d93145bf88cba2?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Logan Houston for Louisiana House of Representatives District 80](https://www.linkedin.com/company/117874086)** | **[Intern Legal Advisor](https://jobright.ai/jobs/info/6a70e6e11003bd7b70d6d63f?utm_campaign=1055&utm_source=git)** | Metairie, LA, United States | Remote | Aug 03 |
-| **[Avania](https://www.avaniaclinical.com/)** | **[Regulatory & Market Access Intern](https://jobright.ai/jobs/info/6a70c68502d93145bf88c25a?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Aug 03 |
-| ↳ | **[Regulatory & Market Access Intern](https://jobright.ai/jobs/info/6a70c661357dfc6ff2b3af6e?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 03 |
+| **[Avania](https://www.avaniaclinical.com/)** | **[Regulatory & Market Access Intern](https://jobright.ai/jobs/info/6a70c661357dfc6ff2b3af6e?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 03 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Pre-trial Services Paid Intern - Criminal Division](https://jobright.ai/jobs/info/6a70a620cb96192a3684494c?utm_campaign=1055&utm_source=git)** | Newark, NJ, United States | On Site | Aug 03 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Pre-trial Services Paid Intern - Criminal Division](https://jobright.ai/jobs/info/6a709cec357dfc6ff2b39d3c?utm_campaign=1055&utm_source=git)** | Newark, NJ, United States | On Site | Aug 03 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Intellectual Property Legal Intern IV, Fall 2026 (Hybrid)](https://jobright.ai/jobs/info/6a709682e2b7476e7b20999a?utm_campaign=1055&utm_source=git)** | Nashua, NH, United States | Hybrid | Aug 03 |
@@ -134,12 +134,12 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a6c17a75c54bc4752cec81c?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
 | ↳ | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a6c1415acb0a61f9dbc4378?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
 | **[AARP](http://www.aarp.org)** | **[Foundation Litigation Intern (Summer 2027)](https://jobright.ai/jobs/info/6a6ba42532f9300c3a3e00fb?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b69965c54bc4752ce8cfb?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
-| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b61c0acb0a61f9dbc074c?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b61c0acb0a61f9dbc074c?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
+| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b6939acb0a61f9dbc0a94?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
 | **[Panasonic Connect North America](https://connect.na.panasonic.com/)** | **[Customs Compliance Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6bd2c357120971bf3a90e0?utm_campaign=1055&utm_source=git)** | Newark, NJ, United States | On Site | Jul 30 |
 | **[The Surfrider Foundation](http://www.surfrider.org)** | **[Summer 2027 Legal Internship Program](https://jobright.ai/jobs/info/6a6bce75acb0a61f9dbc2e7d?utm_campaign=1055&utm_source=git)** | San Clemente, CA, United States | Remote | Jul 30 |
-| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a5f86a9f68dd368023e70e4?utm_campaign=1055&utm_source=git)** | Cerritos, CA, United States | Hybrid | Jul 30 |
-| ↳ | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a6a85058693c23e7fb7b46c?utm_campaign=1055&utm_source=git)** | Remote, GA, United States | Remote | Jul 30 |
+| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a6a85058693c23e7fb7b46c?utm_campaign=1055&utm_source=git)** | Remote, GA, United States | Remote | Jul 30 |
+| ↳ | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a5f86a9f68dd368023e70e4?utm_campaign=1055&utm_source=git)** | Cerritos, CA, United States | Hybrid | Jul 30 |
 | **[State of Colorado](https://www.colorado.gov/pacific/sipa)** | **[Legislative Legal Services Intern.](https://jobright.ai/jobs/info/6a6bb396ca1f9338465fbe9d?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | On Site | Jul 30 |
 | **[Oakmont Senior Living](http://oakmontseniorliving.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a6b94abacb0a61f9dbc1ab4?utm_campaign=1055&utm_source=git)** | Irvine, CA, United States | On Site | Jul 30 |
 | **[City of Suffolk, VA](www.suffolkva.us)** | **[Legal Intern](https://jobright.ai/jobs/info/6a6b82d557120971bf3a7517?utm_campaign=1055&utm_source=git)** | Norfolk, VA, United States | On Site | Jul 30 |
