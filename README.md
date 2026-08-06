@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Via Licensing Alliance](https://www.via-la.com)** | **[Compliance Analyst Intern](https://jobright.ai/jobs/info/6a74b984b17cba5690357294?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 06 |
+| **[LS Power](http://lspower.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6a74b89d37da8525e8cda26d?utm_campaign=1055&utm_source=git)** | East Brunswick, NJ, United States | On Site | Aug 06 |
 | **[Pratt Institute](https://www.pratt.edu)** | **[Office of Legal Counsel Intern (71109)](https://jobright.ai/jobs/info/6a57be1f10c4d945d8650c2d?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Aug 06 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Deputy Probation Officer/Intern Volunteer](https://jobright.ai/jobs/info/6a2054c1902d19201c7b1851?utm_campaign=1055&utm_source=git)** | Pueblo, CO, United States | On Site | Aug 06 |
 | **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Legal Regulatory Internships 2027](https://jobright.ai/jobs/info/6a749e72b17cba569035683b?utm_campaign=1055&utm_source=git)** | Greenwich, CT, United States | On Site | Aug 06 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[National Asset Recovery Specialists, Inc.](https://www.narsrepo.com/)** | **[Asset Investigations PAID- Intern (Skip Tracing Focus)](https://jobright.ai/jobs/info/6a749d8720b26a6e93f47cb3?utm_campaign=1055&utm_source=git)** | Middleburg Heights, OH, United States | On Site | Aug 06 |
 | **[The Fowler Center for Outdoor Learning](https://www.thefowlercenter.org)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a74133b37da8525e8cd7cff?utm_campaign=1055&utm_source=git)** | Redford, MI, United States | On Site | Aug 05 |
 | **[Tandem](https://tandemai.io/)** | **[IT Compliance Intern](https://jobright.ai/jobs/info/6a73d6f1e55c73319eb197cc?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area, United States | Remote | Aug 05 |
+| **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Law Clerk - Intern](https://jobright.ai/jobs/info/6a74b749bb6ca93ae560b6fe?utm_campaign=1055&utm_source=git)** | Topeka, KS, United States | On Site | Aug 05 |
 | **[UnCommon Law](https://www.uncommonlaw.org)** | **[Legal Internship (Fall and Spring)](https://jobright.ai/jobs/info/6a73bbad8dc3d52d8eda1397?utm_campaign=1055&utm_source=git)** | Oakland, CA, United States | Hybrid | Aug 05 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2027 Legal Intern](https://jobright.ai/jobs/info/6a613457ab9bd46763249eb7?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 05 |
 | ↳ | **[Summer 2027 Legal Intern](https://jobright.ai/jobs/info/6a6142e8eaa37f43e75879ee?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 05 |
@@ -94,13 +97,14 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[ABC Commission Legal Intern (Fall 2026)](https://jobright.ai/jobs/info/6a72303d45b6af1c30dbd208?utm_campaign=1055&utm_source=git)** | Wake County, NC, United States | Hybrid | Aug 04 |
 | **[Eagle Rock Properties](https://www.eaglerockproperties.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6a722ed3e2b7476e7b211bfe?utm_campaign=1055&utm_source=git)** | Plainview, NY, United States | On Site | Aug 04 |
 | **[AARP](http://www.aarp.org)** | **[Legal Counsel for the Elderly Intern](https://jobright.ai/jobs/info/6a59ca6d686b4755d1e11d4c?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 04 |
+| **[Dolby Laboratories](http://www.dolby.com)** | **[Compliance Analyst Intern](https://jobright.ai/jobs/info/6a74b7ef972ac843c6996bdf?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 04 |
 | **[AFL](http://www.AFLglobal.com)** | **[International Trade Intern- Fall 2026](https://jobright.ai/jobs/info/6a55d0d32ce8bf79a13a172c?utm_campaign=1055&utm_source=git)** | Duncan, SC, United States | On Site | Aug 04 |
 | ↳ | **[International Trade Intern- Fall 2026](https://jobright.ai/jobs/info/6a55877fae07d60a8d011d78?utm_campaign=1055&utm_source=git)** | Duncan, South Carolina, United States | On Site | Aug 04 |
 | **[NYC Department of Finance](http://www.nyc.gov/html/dof/html/home/home.shtml)** | **[Real Property Attorney Intern](https://jobright.ai/jobs/info/6a72d36102d93145bf895cb8?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d67029111f771d1a189cf?utm_campaign=1055&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 04 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Aug 04 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69ba304056973837413faf8b?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Aug 04 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a5dfbbc67b2850e77deec80?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 04 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69ba304056973837413faf8b?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Aug 04 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a51b10a78e364789ca5b04a?utm_campaign=1055&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5ef5c5f3674a0545d2b654?utm_campaign=1055&utm_source=git)** | Seattle, WA, United States | On Site | Aug 04 |
 | ↳ | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a22aa8614de9460dc842d49?utm_campaign=1055&utm_source=git)** | Seattle | On Site | Aug 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enhesa](http://www.enhesa.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/6a4e3d66fc327f422fef218f?utm_campaign=1055&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Conservation Law Foundation](https://www.clf.org/)** | **[Fall/Spring Intern - 2026/2027](https://jobright.ai/jobs/info/6a6c2a28ca1f9338465fe207?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Jul 30 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a6c17a75c54bc4752cec81c?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
-| ↳ | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a6c1415acb0a61f9dbc4378?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
-| **[AARP](http://www.aarp.org)** | **[Foundation Litigation Intern (Summer 2027)](https://jobright.ai/jobs/info/6a6ba42532f9300c3a3e00fb?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b6939acb0a61f9dbc0a94?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
-| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b61c0acb0a61f9dbc074c?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
