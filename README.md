@@ -57,18 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Legal Team Intern (Unpaid)](https://jobright.ai/jobs/info/6a461c3f0dd56c76cc2f6005?utm_campaign=1055&utm_source=git)** | New York, NY RAI USA, United States of America | Hybrid | Aug 07 |
 | **[Dentons](http://www.dentons.com)** | **[Legal Intern Job Details / Dentons](https://jobright.ai/jobs/info/6a4e4a750ea38951a6ff2943?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
 | **[Kenvue](https://www.kenvue.com)** | **[Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a759bf6bb6ca93ae560f0ec?utm_campaign=1055&utm_source=git)** | Markham, ON, Canada | Hybrid | Aug 07 |
 | **[MAHLE Senica](https://www.jobs.mahle.com/slovakia/sk/)** | **[Foreign Trade Intern](https://jobright.ai/jobs/info/6a758b564817aa4307044b3a?utm_campaign=1055&utm_source=git)** | Farmington Hills, MI, United States | On Site | Aug 07 |
-| **[Cook County State’s Attorney’s Office](https://www.cookcountystatesattorney.org/)** | **[FALL 2026 Volunteer Internship](https://jobright.ai/jobs/info/6a0ec23d12f8b43cf3979592?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 06 |
-| ↳ | **[FALL 2026 Volunteer Internship](https://jobright.ai/jobs/info/6a50e2ab0cdd7f5d975cccc8?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Aug 06 |
+| **[Cook County State’s Attorney’s Office](https://www.cookcountystatesattorney.org/)** | **[FALL 2026 Volunteer Internship](https://jobright.ai/jobs/info/6a50e2ab0cdd7f5d975cccc8?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Aug 06 |
+| ↳ | **[FALL 2026 Volunteer Internship](https://jobright.ai/jobs/info/6a0ec23d12f8b43cf3979592?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 06 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[M&A Legal Intern](https://jobright.ai/jobs/info/6a74d3ac37da8525e8cdac07?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 06 |
 | **[Malaysia Automotive, Robotics and IoT Institute (MARii)](https://marii.my)** | **[Legal and Secretarial Internship](https://jobright.ai/jobs/info/6a755ba4972ac843c6999b37?utm_campaign=1055&utm_source=git)** | Legal, AB, Canada | On Site | Aug 06 |
 | **[TikTok](https://www.tiktok.com)** | **[NA Regional & Product Policy Project Intern (Business Integrity) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a7527dfbb6ca93ae560de06?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
-| **[FOLX Health](https://www.folxhealth.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6a16c4d9b5aeb143caa941e1?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 06 |
+| **[FOLX Health](https://www.folxhealth.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6a58a9f968d16a30e24146dd?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 06 |
 | ↳ | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6a0703fe9f57175bd581e973?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 06 |
+| ↳ | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6a16c4d9b5aeb143caa941e1?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 06 |
 | ↳ | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69f0c65d8feca91f1491cc0e?utm_campaign=1055&utm_source=git)** | Remote, US | Remote | Aug 06 |
-| ↳ | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6a58a9f968d16a30e24146dd?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Legal Intern (Unpaid Course Credit Only)](https://jobright.ai/jobs/info/6a750fd737da8525e8cdc47f?utm_campaign=1055&utm_source=git)** | Culver City, CA, United States | On Site | Aug 06 |
 | **[Volvo Financial Services](http://www.vfsco.com)** | **[Intern: Legal (Fall 2026)](https://jobright.ai/jobs/info/6a75067bbb6ca93ae560d4c0?utm_campaign=1055&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 06 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Law Reform Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a5da901c8e3a473cb8b530f?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
@@ -125,7 +126,7 @@ For a complete list, click the following sortable link below:
 | **[NYC Department of Finance](http://www.nyc.gov/html/dof/html/home/home.shtml)** | **[Real Property Attorney Intern](https://jobright.ai/jobs/info/6a72d36102d93145bf895cb8?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d67029111f771d1a189cf?utm_campaign=1055&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 04 |
 | **[Almo Corporation](http://www.almo.com)** | **[Legal Intern](https://jobright.ai/jobs/info/69bc26fc5b89c002acf1582b?utm_campaign=1055&utm_source=git)** | Philadelphia, PA | On Site | Aug 04 |
-| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/69ba304056973837413faf8b?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Aug 04 |
+| ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a54de0031f2d15a8d813b4c?utm_campaign=1055&utm_source=git)** | Almo Corporation - Philadelphia, PA 19154 | On Site | Aug 04 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a5dfbbc67b2850e77deec80?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 04 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a51b10a78e364789ca5b04a?utm_campaign=1055&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Listing Governance Product Compliance Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5ef5c5f3674a0545d2b654?utm_campaign=1055&utm_source=git)** | Seattle, WA, United States | On Site | Aug 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](https://www.bocusa.com)** | **[Legal and Compliance Department - Compliance Training Team Intern](https://jobright.ai/jobs/info/6a5ccb3a63a8f619507ce20a?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 02 |
 | **[Circle the City](https://www.circlethecity.org/)** | **[Compliance and Privacy Intern (59816)](https://jobright.ai/jobs/info/6a5c1d8563a8f619507cca55?utm_campaign=1055&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 01 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2026 Reproductive Rights and Health Legal Internship](https://jobright.ai/jobs/info/6a34773a649fdf16292f619d?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Aug 01 |
-| ↳ | **[Fall 2026 Reproductive Rights and Health Legal Internship](https://jobright.ai/jobs/info/6a46e06f8204a812e98ca500?utm_campaign=1055&utm_source=git)** | Washington, District of Columbia, United States | Remote | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
