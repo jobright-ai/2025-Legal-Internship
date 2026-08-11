@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part-Time)](https://jobright.ai/jobs/info/6a7b21a9ecfd29770753707b?utm_campaign=1055&utm_source=git)** | Brookfield, WI, United States | On Site | Aug 11 |
 | **[ARM Institute](http://arminstitute.org/)** | **[Contracts and Grants Administrative Intern](https://jobright.ai/jobs/info/6a7ae047b17cba5690368431?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Aug 11 |
 | **[LA Clippers](http://www.clippers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a7a69cd9ee17f276dbf2f3b?utm_campaign=1055&utm_source=git)** | Inglewood, CA, United States | On Site | Aug 10 |
 | **[TikTok](https://www.tiktok.com)** | **[NA Regional & Product Policy Project Intern (Business Integrity) - 2026 Start](https://jobright.ai/jobs/info/6a7a9334a26ccc369f83ed38?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 10 |
@@ -93,7 +94,7 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Legal Team Intern (Unpaid)](https://jobright.ai/jobs/info/6a3c3627122f340d29cecf49?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 08 |
 | **[Fairview LLC](https://fairviewinvest.com)** | **[Risk Associate Intern](https://jobright.ai/jobs/info/6a763c6ab17cba569035d414?utm_campaign=1055&utm_source=git)** | Raleigh, NC, United States | On Site | Aug 08 |
 | **[Tuff City Records](http://www.tuffcity.com)** | **[Legal Intern (100% on site)](https://jobright.ai/jobs/info/6a51c19602522b5b722eaf29?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
-| **[KPMG Canada](https://www.kpmg.se)** | **[Risk Services (Non-CPA) - Forensic Financial Crimes Intern/Co-op - Toronto - Winter, Summer or Fall 2027](https://jobright.ai/jobs/info/6a762996a26ccc369f8340d4?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 07 |
+| **[KPMG Canada](https://www.kpmg.se)** | **[Risk Services (Non-CPA) - Forensic Financial Crimes Intern/Co-op - Toronto - Winter, Summer or Fall 2027](https://jobright.ai/jobs/info/6a762ae07b3417772ade714a?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 07 |
 | ↳ | **[Risk Services - Regulatory and Risk Advisory Intern/Co-op - Toronto - Summer or Fall 2027](https://jobright.ai/jobs/info/6a765ba3b17cba569035de2d?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 07 |
 | ↳ | **[Risk Services (CPA) - Forensic Disputes & Investigations Intern/Co-op - Toronto - Summer or Fall 2027](https://jobright.ai/jobs/info/6a762adb7b3417772ade7148?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 07 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Compliance Analyst Intern Job Details / Dolby Laboratories, Inc.](https://jobright.ai/jobs/info/6a767fa1b17cba569035e747?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 07 |
@@ -132,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Notion](https://www.notion.com)** | **[Governance, Risk, and Compliance Intern (Fall 2026)](https://jobright.ai/jobs/info/6a58172f72fe7a7b98dccefc?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 06 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Asylum Seeker Legal Team Intern (Unpaid)](https://jobright.ai/jobs/info/6a3c36eb8bfad862bc9997ed?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | ↳ | **[Asylum Seeker Legal Team Intern (Unpaid)](https://jobright.ai/jobs/info/6a461c57076271587529fc6c?utm_campaign=1055&utm_source=git)** | New York, NY RAI USA, United States of America | Hybrid | Aug 06 |
-| **[National Asset Recovery Specialists, Inc.](https://www.narsrepo.com/)** | **[Asset Investigations PAID- Intern (Skip Tracing Focus)](https://jobright.ai/jobs/info/6a749d8720b26a6e93f47cb3?utm_campaign=1055&utm_source=git)** | Middleburg Heights, OH, United States | On Site | Aug 06 |
 | **[OSI Electronics](https://www.osielectronics.com)** | **[OPTO Trade Compliance Intern (HYBRID)](https://jobright.ai/jobs/info/6a61c59111edf44d791621e2?utm_campaign=1055&utm_source=git)** | Hawthorne, CA, United States | Hybrid | Aug 05 |
 | **[The Fowler Center for Outdoor Learning](https://www.thefowlercenter.org)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a74133b37da8525e8cd7cff?utm_campaign=1055&utm_source=git)** | Redford, MI, United States | On Site | Aug 05 |
 | **[Tandem](https://tandemai.io/)** | **[IT Compliance Intern](https://jobright.ai/jobs/info/6a73d6f1e55c73319eb197cc?utm_campaign=1055&utm_source=git)** | San Francisco Bay Area, United States | Remote | Aug 05 |
@@ -154,5 +154,4 @@ For a complete list, click the following sortable link below:
 | **[Aptar](https://www.aptar.com/pharmaceutical/)** | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/6a728cc4cb96192a3684e88d?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 04 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d80edb524ae49285a67f0?utm_campaign=1055&utm_source=git)** | Calabasas, CA | On Site | Aug 04 |
 | **[Dispatch Energy](https://www.dispatchenergy.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a725c2de2b7476e7b213007?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
-| **[Arapahoe County](https://www.arapahoegov.com)** | **[Fall (2026) 3L Student Practice Act Internship](https://jobright.ai/jobs/info/6a725327cb96192a3684d81d?utm_campaign=1055&utm_source=git)** | Centennial, CO, United States | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
