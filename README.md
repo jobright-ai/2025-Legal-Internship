@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Segal](https://www.segalco.com)** | **[2027 Summer Intern - Compliance](https://jobright.ai/jobs/info/6a7e1aa3b56bea5779c03cfd?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 13 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Law Student Intern, Office of the General Counsel](https://jobright.ai/jobs/info/6a7e0c860cd4a0703257d69e?utm_campaign=1055&utm_source=git)** | Somerville, MA, United States | Hybrid | Aug 13 |
 | **[FirstCash](https://firstcash.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a7e07a9e51a1e18a240b84a?utm_campaign=1055&utm_source=git)** | Fort Worth, TX, United States | On Site | Aug 13 |
 | **[CAMBA](https://camba.org/)** | **[Consumer Intern, CAMBA Legal Services, Brooklyn](https://jobright.ai/jobs/info/6a7dfe750cd4a0703257d00b?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Aug 13 |
-| ↳ | **[Housing Intern, CAMBA Legal Services, Brooklyn](https://jobright.ai/jobs/info/6a7df75b19ce4e6e9d930739?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Aug 13 |
+| **[AARP](http://www.aarp.org)** | **[Ethics and Compliance Intern](https://jobright.ai/jobs/info/6a593979856af468ab002863?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 13 |
+| **[CAMBA](https://camba.org/)** | **[Housing Intern, CAMBA Legal Services, Brooklyn](https://jobright.ai/jobs/info/6a7df75b19ce4e6e9d930739?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Aug 13 |
 | ↳ | **[Legal Intern, CAMBA Legal Services](https://jobright.ai/jobs/info/6a7df758b56bea5779c02b59?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Aug 13 |
 | **[Montgomery County Prosecutor's Office](https://mcpo.com)** | **[Assistant Prosecuting Attorney](https://jobright.ai/jobs/info/6a7e103e19ce4e6e9d931127?utm_campaign=1055&utm_source=git)** | Dayton, OH, United States | Hybrid | Aug 13 |
 | ↳ | **[Assistant Prosecuting Attorney](https://jobright.ai/jobs/info/6a7e100fb56bea5779c03697?utm_campaign=1055&utm_source=git)** | Dayton, OH, United States | Hybrid | Aug 13 |
@@ -76,11 +79,9 @@ For a complete list, click the following sortable link below:
 | **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Legal Intern](https://jobright.ai/jobs/info/6a7ce3697c52154b59f5d0ca?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | On Site | Aug 12 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Customs and Export Control Automation Intern](https://jobright.ai/jobs/info/6a7d2eee7c52154b59f5e1c1?utm_campaign=1055&utm_source=git)** | Spartanburg, SC, United States | On Site | Aug 12 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Law Student Intern, Office for Interactions with Industry](https://jobright.ai/jobs/info/6a7e0cb7b56bea5779c03450?utm_campaign=1055&utm_source=git)** | Somerville, MA, United States | Hybrid | Aug 12 |
-| ↳ | **[Law Student Intern, Office of the General Counsel](https://jobright.ai/jobs/info/6a7e0c860cd4a0703257d69e?utm_campaign=1055&utm_source=git)** | Somerville, MA, United States | Hybrid | Aug 12 |
 | **[Maslon LLP](http://maslon.com)** | **[Dual 1L and 2L Position (2027 and 2028 Summer Program)](https://jobright.ai/jobs/info/6a7d0739a346cb6c8d5f1687?utm_campaign=1055&utm_source=git)** | Tohatchi, NM, United States | On Site | Aug 12 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Judicial Law Clerk Intern](https://jobright.ai/jobs/info/6a7ce68577d5f033c4b91603?utm_campaign=1055&utm_source=git)** | Lubbock, TX, United States | On Site | Aug 12 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Legal Intern- Temporary Position](https://jobright.ai/jobs/info/6a7c9c8ea346cb6c8d5eeb8b?utm_campaign=1055&utm_source=git)** | Oklahoma County, Oklahoma, United States | On Site | Aug 12 |
-| **[AARP](http://www.aarp.org)** | **[Ethics and Compliance Intern](https://jobright.ai/jobs/info/6a593979856af468ab002863?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 12 |
 | **[Southern Environmental Law Center](https://southernenvironment.org)** | **[2L Summer Legal Intern](https://jobright.ai/jobs/info/6a7d0ea3dc3dff2d1c0ca8c8?utm_campaign=1055&utm_source=git)** | Birmingham, AL, United States | Hybrid | Aug 12 |
 | ↳ | **[2L Summer Legal Intern](https://jobright.ai/jobs/info/6a7ce272a346cb6c8d5f0aa1?utm_campaign=1055&utm_source=git)** | Nashville, TN, United States | Hybrid | Aug 12 |
 | **[Enhesa](http://www.enhesa.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/6a4e3d66fc327f422fef218f?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Legal Team Intern (Unpaid)](https://jobright.ai/jobs/info/6a3c3627122f340d29cecf49?utm_campaign=1055&utm_source=git)** | New York, NY | On Site | Aug 08 |
 | **[Fairview LLC](https://fairviewinvest.com)** | **[Risk Associate Intern](https://jobright.ai/jobs/info/6a763c6ab17cba569035d414?utm_campaign=1055&utm_source=git)** | Raleigh, NC, United States | On Site | Aug 08 |
 | **[Tuff City Records](http://www.tuffcity.com)** | **[Legal Intern (100% on site)](https://jobright.ai/jobs/info/6a51c19602522b5b722eaf29?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
-| **[KPMG Canada](https://www.kpmg.se)** | **[Risk Services (Non-CPA) - Forensic Financial Crimes Intern/Co-op - Toronto - Winter, Summer or Fall 2027](https://jobright.ai/jobs/info/6a762ae07b3417772ade714a?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
