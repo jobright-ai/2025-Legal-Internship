@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arapahoe County](https://www.arapahoegov.com)** | **[Fall (2026) 3L Student Practice Act Internship Job Details / Arapahoe County](https://jobright.ai/jobs/info/6a7d4dd283621355407add99?utm_campaign=1055&utm_source=git)** | Centennial, CO, United States | On Site | Aug 12 |
+| **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Legal Intern](https://jobright.ai/jobs/info/6a7ce3697c52154b59f5d0ca?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | On Site | Aug 12 |
+| **[BMW Group](http://www.bmwgroup.com)** | **[Customs and Export Control Automation Intern](https://jobright.ai/jobs/info/6a7d2eee7c52154b59f5e1c1?utm_campaign=1055&utm_source=git)** | Spartanburg, SC, United States | On Site | Aug 12 |
 | **[Maslon LLP](http://maslon.com)** | **[Dual 1L and 2L Position (2027 and 2028 Summer Program)](https://jobright.ai/jobs/info/6a7d0739a346cb6c8d5f1687?utm_campaign=1055&utm_source=git)** | Tohatchi, NM, United States | On Site | Aug 12 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Judicial Law Clerk Intern](https://jobright.ai/jobs/info/6a7ce68577d5f033c4b91603?utm_campaign=1055&utm_source=git)** | Lubbock, TX, United States | On Site | Aug 12 |
+| **[State of Oklahoma](https://oklahoma.gov/)** | **[Legal Intern- Temporary Position](https://jobright.ai/jobs/info/6a7c9c8ea346cb6c8d5eeb8b?utm_campaign=1055&utm_source=git)** | Oklahoma County, Oklahoma, United States | On Site | Aug 12 |
 | **[AARP](http://www.aarp.org)** | **[Ethics and Compliance Intern](https://jobright.ai/jobs/info/6a593979856af468ab002863?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 12 |
-| **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Legal Intern](https://jobright.ai/jobs/info/6a7ce3697c52154b59f5d0ca?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | On Site | Aug 12 |
 | **[Southern Environmental Law Center](https://southernenvironment.org)** | **[2L Summer Legal Intern](https://jobright.ai/jobs/info/6a7d0ea3dc3dff2d1c0ca8c8?utm_campaign=1055&utm_source=git)** | Birmingham, AL, United States | Hybrid | Aug 12 |
 | ↳ | **[2L Summer Legal Intern](https://jobright.ai/jobs/info/6a7ce272a346cb6c8d5f0aa1?utm_campaign=1055&utm_source=git)** | Nashville, TN, United States | Hybrid | Aug 12 |
 | **[Enhesa](http://www.enhesa.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/6a4e3d66fc327f422fef218f?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 12 |
@@ -82,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - CAFL Boston - Fall 2026](https://jobright.ai/jobs/info/6a7b44e2b933773d16be62d6?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 11 |
 | **[New York State Justice Center for the Protection of People with Special Needs](http://www.justicecenter.ny.gov)** | **[Student Assistant (Legal Intern)](https://jobright.ai/jobs/info/6a7c046477d5f033c4b8d721?utm_campaign=1055&utm_source=git)** | Queens County, NY, United States | On Site | Aug 11 |
 | **[Allata](https://www.allata.com/)** | **[Institutional Effectiveness and Compliance Specialist](https://jobright.ai/jobs/info/6a7bc933bc05d77f2bde0e98?utm_campaign=1055&utm_source=git)** | San Jose, CA, United States | On Site | Aug 11 |
-| **[State of Oklahoma](https://oklahoma.gov/)** | **[Legal Intern- Temporary Position](https://jobright.ai/jobs/info/6a7c9c8ea346cb6c8d5eeb8b?utm_campaign=1055&utm_source=git)** | Oklahoma County, Oklahoma, United States | On Site | Aug 11 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Legal Winter Intern](https://jobright.ai/jobs/info/6a7d1413a346cb6c8d5f1988?utm_campaign=1055&utm_source=git)** | Trenton, NJ, United States | On Site | Aug 11 |
 | **[Anders](http://anderscpa.com/)** | **[Compliance/Loan Review Intern - Summer 2027](https://jobright.ai/jobs/info/6a7b8c7c3b399d106e4d7623?utm_campaign=1055&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 11 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Legal Aid Society](https://jobright.ai/jobs/info/6a7b6553b933773d16be6f73?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Aug 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FALL 2026 Volunteer Internship](https://jobright.ai/jobs/info/6a0ec23d12f8b43cf3979592?utm_campaign=1055&utm_source=git)** | Chicago, IL | On Site | Aug 06 |
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[NY Summer 2027 Legal Intern](https://jobright.ai/jobs/info/6a76235ca26ccc369f833e5a?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
 | **[TikTok](https://www.tiktok.com)** | **[NA Regional & Product Policy Project Intern (Business Integrity) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a7527dfbb6ca93ae560de06?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
-| **[FOLX Health](https://www.folxhealth.com)** | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69f0c65d8feca91f1491cc0e?utm_campaign=1055&utm_source=git)** | Remote, US | Remote | Aug 06 |
-| ↳ | **[Legal Intern - Summer 2026](https://jobright.ai/jobs/info/6a58a9f968d16a30e24146dd?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
