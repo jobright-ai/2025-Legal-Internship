@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Rule 9 to Deputy Prosecuting Attorney I](https://jobright.ai/jobs/info/6a7f34a9927c79391ad06fdd?utm_campaign=1055&utm_source=git)** | Montesano, WA, United States | On Site | Aug 14 |
 | **[KPMG Canada](https://www.kpmg.se)** | **[QC- Risk Services - Intern Governance, Risk and Compliance Services (GRC) - 2027](https://jobright.ai/jobs/info/6a7f1876927c79391ad063bd?utm_campaign=1055&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 14 |
 | ↳ | **[QC - Risk Services Intern Financial Risk Management (FRM) - 2027](https://jobright.ai/jobs/info/6a7f1873e2030208f276bc4e?utm_campaign=1055&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 14 |
 | **[Centric Brands](https://centricbrands.com)** | **[On-site Fall 2026 Internship - Chargeback Compliance (Greensboro, NC)](https://jobright.ai/jobs/info/6a468178c2d11a6a4666f47b?utm_campaign=1055&utm_source=git)** | Greensboro, NC, US | On Site | Aug 14 |
@@ -73,7 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Undergrad Legal & Compliance Rotational Internship – Wichita](https://jobright.ai/jobs/info/6a7e4a9ee2030208f2768bfb?utm_campaign=1055&utm_source=git)** | Wichita, KS, United States | On Site | Aug 13 |
 | **[CAMBA](https://camba.org/)** | **[Consumer Intern, CAMBA Legal Services, Brooklyn](https://jobright.ai/jobs/info/6a7dfe750cd4a0703257d00b?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Aug 13 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2027 Legal Intern](https://jobright.ai/jobs/info/6a6142e8eaa37f43e75879ee?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 13 |
-| **[Segal](https://www.segalco.com)** | **[2027 Summer Intern - Compliance](https://jobright.ai/jobs/info/6a7e1aa3b56bea5779c03cfd?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 13 |
+| **[Segal](https://www.segalco.com)** | **[2027 Summer Intern - Compliance](https://jobright.ai/jobs/info/6a7e2a5a0cd4a0703257e489?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 13 |
 | **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Legal Regulatory Internships 2027](https://jobright.ai/jobs/info/6a7df5f6e2030208f2766b3c?utm_campaign=1055&utm_source=git)** | Greenwich, CT, United States | On Site | Aug 13 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[SUBSIDIARY RIGHTS & SALES INTERN](https://jobright.ai/jobs/info/6a7e1402e2030208f2767812?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Aug 13 |
 | **[FirstCash](https://firstcash.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a7e07a9e51a1e18a240b84a?utm_campaign=1055&utm_source=git)** | Fort Worth, TX, United States | On Site | Aug 13 |
@@ -99,13 +100,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2L Summer Legal Intern](https://jobright.ai/jobs/info/6a7ce272a346cb6c8d5f0aa1?utm_campaign=1055&utm_source=git)** | Nashville, TN, United States | Hybrid | Aug 12 |
 | **[Enhesa](http://www.enhesa.com/)** | **[Regulatory Intelligence Intern](https://jobright.ai/jobs/info/6a4e3d66fc327f422fef218f?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Hydrite](http://www.hydrite.com)** | **[Product Regulatory Intern (Part-Time)](https://jobright.ai/jobs/info/6a7b21a9ecfd29770753707b?utm_campaign=1055&utm_source=git)** | Brookfield, WI, United States | On Site | Aug 12 |
-| **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Summer 2027 Litigation Intern](https://jobright.ai/jobs/info/6a7c7e6177d5f033c4b8e6fb?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Aug 12 |
+| **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Summer 2027 Litigation Intern](https://jobright.ai/jobs/info/6a7c7dcda346cb6c8d5edda9?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Aug 12 |
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[Norfolk, VA  Summer 2027 Legal Intern](https://jobright.ai/jobs/info/6a7cb2a077d5f033c4b900ea?utm_campaign=1055&utm_source=git)** | Norfolk, VA, United States | On Site | Aug 12 |
 | **[City of New York](https://www.nyc.gov)** | **[2027 Summer Legal Intern 2L](https://jobright.ai/jobs/info/6a7c5fb87c52154b59f59d2f?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 12 |
 | **[FWCanada, Immigration Law Firm](https://canadianimmigration.net)** | **[Student Law Intern - Law Firm](https://jobright.ai/jobs/info/6a7cb0cfa346cb6c8d5ef646?utm_campaign=1055&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 12 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a6c1415acb0a61f9dbc4378?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Aug 12 |
-| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a5f86a9f68dd368023e70e4?utm_campaign=1055&utm_source=git)** | Cerritos, CA, United States | Hybrid | Aug 12 |
-| ↳ | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a6a85058693c23e7fb7b46c?utm_campaign=1055&utm_source=git)** | Remote, GA, United States | Remote | Aug 12 |
+| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a6a85058693c23e7fb7b46c?utm_campaign=1055&utm_source=git)** | Remote, GA, United States | Remote | Aug 12 |
+| ↳ | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a5f86a9f68dd368023e70e4?utm_campaign=1055&utm_source=git)** | Cerritos, CA, United States | Hybrid | Aug 12 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[2027 Summer Legal Intern 2L](https://jobright.ai/jobs/info/6a7c678c77d5f033c4b8e242?utm_campaign=1055&utm_source=git)** | Bronx, NY, United States | On Site | Aug 12 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Intern, Corporate Affairs](https://jobright.ai/jobs/info/6a5faac5193b511309679f20?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Aug 12 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a7c35c983621355407a91d4?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | Hybrid | Aug 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Interac Corp.](http://www.interac.ca)** | **[Indigenous Legal, Compliance, Regulatory (LCR) Summer Intern](https://jobright.ai/jobs/info/69e8bb733aa0c479643a497b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | On Site | Aug 08 |
 | **[Gogo](https://business.gogoair.com/)** | **[Regulatory Intern](https://jobright.ai/jobs/info/6a3d782d78237a036d5e1816?utm_campaign=1055&utm_source=git)** | Denver Metropolitan Area | On Site | Aug 08 |
 | ↳ | **[Regulatory Intern](https://jobright.ai/jobs/info/6a462df1971cd25b06f8c861?utm_campaign=1055&utm_source=git)** | Broomfield, CO United States, United States of America | On Site | Aug 08 |
-| **[LawBhoomi](https://lawbhoomi.com/)** | **[Associate and Assessment Intern at Arthaat Legal [Remote/Job]: Apply by Aug 8](https://jobright.ai/jobs/info/6a776ee567a1ad0bc53cc73c?utm_campaign=1055&utm_source=git)** | Indiana, United States | Remote | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
