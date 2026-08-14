@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Indianapolis](https://www.indy.gov/)** | **[Intern-Chief of Staff - DPW-Financial Services](https://jobright.ai/jobs/info/6a7e7eb7e51a1e18a240e3c8?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 13 |
 | **[Earthjustice](http://earthjustice.org/)** | **[2027 Biodiversity Defense Clerkship](https://jobright.ai/jobs/info/6a55b814ec54dd532d812804?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 13 |
 | ↳ | **[2027 Mid-Pacific Clerkship](https://jobright.ai/jobs/info/6a4eae2c0ea38951a6ff4190?utm_campaign=1055&utm_source=git)** | Honolulu, HI, United States | Hybrid | Aug 13 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Law Student Intern, Office of the General Counsel](https://jobright.ai/jobs/info/6a7e0c860cd4a0703257d69e?utm_campaign=1055&utm_source=git)** | Somerville, MA, United States | Hybrid | Aug 13 |
@@ -65,7 +66,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Undergrad Legal & Compliance Rotational Internship – Wichita](https://jobright.ai/jobs/info/6a7e4a9ee2030208f2768bfb?utm_campaign=1055&utm_source=git)** | Wichita, KS, United States | On Site | Aug 13 |
 | **[CAMBA](https://camba.org/)** | **[Consumer Intern, CAMBA Legal Services, Brooklyn](https://jobright.ai/jobs/info/6a7dfe750cd4a0703257d00b?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Aug 13 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2027 Legal Intern](https://jobright.ai/jobs/info/6a6142e8eaa37f43e75879ee?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 13 |
-| **[Segal](https://www.segalco.com)** | **[2027 Summer Intern - Compliance](https://jobright.ai/jobs/info/6a7e1aa3b56bea5779c03cfd?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 13 |
+| **[Segal](https://www.segalco.com)** | **[2027 Summer Intern - Compliance](https://jobright.ai/jobs/info/6a7e2a5a0cd4a0703257e489?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 13 |
+| **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Legal Regulatory Internships 2027](https://jobright.ai/jobs/info/6a7df5f6e2030208f2766b3c?utm_campaign=1055&utm_source=git)** | Greenwich, CT, United States | On Site | Aug 13 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[SUBSIDIARY RIGHTS & SALES INTERN](https://jobright.ai/jobs/info/6a7e1402e2030208f2767812?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Aug 13 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Law Student Intern, Office for Interactions with Industry](https://jobright.ai/jobs/info/6a7e0cb7b56bea5779c03450?utm_campaign=1055&utm_source=git)** | Somerville, MA, United States | Hybrid | Aug 13 |
 | **[FirstCash](https://firstcash.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a7e07a9e51a1e18a240b84a?utm_campaign=1055&utm_source=git)** | Fort Worth, TX, United States | On Site | Aug 13 |
@@ -80,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[OSI Optoelectronics](https://www.osioptoelectronics.com)** | **[OPTO Trade Compliance Intern (HYBRID)](https://jobright.ai/jobs/info/6a61bce87196365a6f00c09b?utm_campaign=1055&utm_source=git)** | Hawthorne, CA, United States | Hybrid | Aug 13 |
 | **[ACLU of New Hampshire](http://www.aclu-nh.org)** | **[2027 Summer Legal Intern](https://jobright.ai/jobs/info/6a7da951e51a1e18a240a08a?utm_campaign=1055&utm_source=git)** | Concord, NH, United States | On Site | Aug 13 |
 | **[National Asset Recovery Specialists, Inc.](https://www.narsrepo.com/)** | **[Asset Investigations PAID- Intern (Skip Tracing Focus)](https://jobright.ai/jobs/info/6a7de040ad9ff00c26ba8ed8?utm_campaign=1055&utm_source=git)** | Middleburg Heights, OH, United States | On Site | Aug 13 |
-| **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Legal Regulatory Internships 2027](https://jobright.ai/jobs/info/6a7df5f6e2030208f2766b3c?utm_campaign=1055&utm_source=git)** | Greenwich, CT, United States | On Site | Aug 13 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[NY Children's Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6a60e7d511edf44d7915e785?utm_campaign=1055&utm_source=git)** | New York, New York, United States | Hybrid | Aug 13 |
 | **[Arapahoe County](https://www.arapahoegov.com)** | **[Fall (2026) 3L Student Practice Act Internship Job Details / Arapahoe County](https://jobright.ai/jobs/info/6a7d4dd283621355407add99?utm_campaign=1055&utm_source=git)** | Centennial, CO, United States | On Site | Aug 12 |
 | **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Legal Intern](https://jobright.ai/jobs/info/6a7ce5c7dc3dff2d1c0c9d7e?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | On Site | Aug 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LawBhoomi](https://lawbhoomi.com/)** | **[Associate and Assessment Intern at Arthaat Legal [Remote/Job]: Apply by Aug 8](https://jobright.ai/jobs/info/6a776ee567a1ad0bc53cc73c?utm_campaign=1055&utm_source=git)** | Indiana, United States | Remote | Aug 08 |
 | **[AcreTrader](https://www.acretrader.com)** | **[Legal Intern (Compliance)](https://jobright.ai/jobs/info/6a7677b04817aa43070487a8?utm_campaign=1055&utm_source=git)** | Fayetteville, AR, United States | On Site | Aug 08 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Compliance Investigator Intern](https://jobright.ai/jobs/info/6a764080b17cba569035d519?utm_campaign=1055&utm_source=git)** | Colorado, United States | Remote | Aug 08 |
-| **[Group 1001](https://group1001.com/)** | **[Enterprise Risk Management Intern (Fall)](https://jobright.ai/jobs/info/6a2054bfc00e701fe8368a91?utm_campaign=1055&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
