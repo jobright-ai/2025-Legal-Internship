@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Eide Bailly](http://www.eidebailly.com)** | **[Healthcare Regulatory Intern](https://jobright.ai/jobs/info/6a802173e2030208f2773589?utm_campaign=1055&utm_source=git)** | Omaha, Nebraska, United States | On Site | Aug 15 |
+| **[Medpace](http://www.medpace.com)** | **[Site Contracts Intern- Fall 2026](https://jobright.ai/jobs/info/6a7fcd4319ce4e6e9d93b5d3?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 15 |
+| **[Eide Bailly](http://www.eidebailly.com)** | **[Healthcare Regulatory Intern](https://jobright.ai/jobs/info/6a8033bbe2030208f2773a49?utm_campaign=1055&utm_source=git)** | Omaha, Nebraska, United States | On Site | Aug 15 |
+| **[KPMG Canada](https://www.kpmg.se)** | **[QC- Risk Services - Intern Governance, Risk and Compliance Services (GRC) - 2027](https://jobright.ai/jobs/info/6a80314d927c79391ad0f7db?utm_campaign=1055&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 15 |
 | **[Sony Electronics](http://www.sony.com)** | **[Legal & Business Affairs Intern, Extreme Music & Bleeding Fingers Music](https://jobright.ai/jobs/info/6a7fbba3927c79391ad0c77e?utm_campaign=1055&utm_source=git)** | Santa Monica, CA, United States | On Site | Aug 14 |
 | **[ACLU of Massachusetts](https://www.aclum.org)** | **[Summer 2027 Legal Internship](https://jobright.ai/jobs/info/6a7f7ee5e51a1e18a24133f9?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 14 |
 | **[KPMG Canada](https://www.kpmg.se)** | **[QC - Risk Services Intern Financial Risk Management (FRM) - 2027](https://jobright.ai/jobs/info/6a7fce05e2030208f277195b?utm_campaign=1055&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 14 |
@@ -123,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[Norfolk, VA  Summer 2027 Legal Intern](https://jobright.ai/jobs/info/6a7cb2a077d5f033c4b900ea?utm_campaign=1055&utm_source=git)** | Norfolk, VA, United States | On Site | Aug 12 |
 | **[City of New York](https://www.nyc.gov)** | **[2027 Summer Legal Intern 2L](https://jobright.ai/jobs/info/6a7c5fb87c52154b59f59d2f?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 12 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a6c1415acb0a61f9dbc4378?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Aug 12 |
-| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a5f86a9f68dd368023e70e4?utm_campaign=1055&utm_source=git)** | Cerritos, CA, United States | Hybrid | Aug 12 |
-| ↳ | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a6a85058693c23e7fb7b46c?utm_campaign=1055&utm_source=git)** | Remote, GA, United States | Remote | Aug 12 |
+| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a6a85058693c23e7fb7b46c?utm_campaign=1055&utm_source=git)** | Remote, GA, United States | Remote | Aug 12 |
+| ↳ | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a5f86a9f68dd368023e70e4?utm_campaign=1055&utm_source=git)** | Cerritos, CA, United States | Hybrid | Aug 12 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[2027 Summer Legal Intern 2L](https://jobright.ai/jobs/info/6a7c678c77d5f033c4b8e242?utm_campaign=1055&utm_source=git)** | Bronx, NY, United States | On Site | Aug 12 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Intern, Corporate Affairs](https://jobright.ai/jobs/info/6a5faac5193b511309679f20?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Aug 12 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a7c35c983621355407a91d4?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | Hybrid | Aug 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[NA Regional & Product Policy Project Intern (Business Integrity) - 2026 Start](https://jobright.ai/jobs/info/6a7a9334a26ccc369f83ed38?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 10 |
 | **[Hook](https://hookmusic.com)** | **[Legal Affairs Intern](https://jobright.ai/jobs/info/6a7a3b4c9ee17f276dbf20c5?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Aug 10 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Juvenile Rights Practice Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a7a851cbb6ca93ae561c0db?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 10 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Children's Legal Services Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6a607a8693c23e7fb7a5c3?utm_campaign=1055&utm_source=git)** | Baltimore, MD, United States | Hybrid | Aug 10 |
-| **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Legal Intern](https://jobright.ai/jobs/info/6a7b57dfecf5194164fbd65f?utm_campaign=1055&utm_source=git)** | Irving, TX, United States | On Site | Aug 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
