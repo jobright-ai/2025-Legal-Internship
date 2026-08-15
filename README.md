@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Eide Bailly](http://www.eidebailly.com)** | **[Healthcare Regulatory Intern](https://jobright.ai/jobs/info/6a7feff8e2030208f2772611?utm_campaign=1055&utm_source=git)** | Omaha, Nebraska, United States | On Site | Aug 14 |
-| **[KPMG Canada](https://www.kpmg.se)** | **[QC- Risk Services - Intern Governance, Risk and Compliance Services (GRC) - 2027](https://jobright.ai/jobs/info/6a7fe690927c79391ad0dcb6?utm_campaign=1055&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 14 |
+| **[Eide Bailly](http://www.eidebailly.com)** | **[Healthcare Regulatory Intern](https://jobright.ai/jobs/info/6a7ffbcf927c79391ad0e4ca?utm_campaign=1055&utm_source=git)** | Omaha, Nebraska, United States | On Site | Aug 14 |
+| **[KPMG Canada](https://www.kpmg.se)** | **[QC- Risk Services - Intern Governance, Risk and Compliance Services (GRC) - 2027](https://jobright.ai/jobs/info/6a7ff90f927c79391ad0e43d?utm_campaign=1055&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 14 |
+| ↳ | **[QC - Risk Services Intern Financial Risk Management (FRM) - 2027](https://jobright.ai/jobs/info/6a7ff90fe2030208f2772909?utm_campaign=1055&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 14 |
 | **[Sony Electronics](http://www.sony.com)** | **[Legal & Business Affairs Intern, Extreme Music & Bleeding Fingers Music](https://jobright.ai/jobs/info/6a7fbba3927c79391ad0c77e?utm_campaign=1055&utm_source=git)** | Santa Monica, CA, United States | On Site | Aug 14 |
 | **[ACLU of Massachusetts](https://www.aclum.org)** | **[Summer 2027 Legal Internship](https://jobright.ai/jobs/info/6a7f7ee5e51a1e18a24133f9?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 14 |
-| **[KPMG Canada](https://www.kpmg.se)** | **[QC - Risk Services Intern Financial Risk Management (FRM) - 2027](https://jobright.ai/jobs/info/6a7fce05e2030208f277195b?utm_campaign=1055&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 14 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Intern-Chief of Staff - DPW-Financial Services](https://jobright.ai/jobs/info/6a7fdecdad9ff00c26bb0c5a?utm_campaign=1055&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 14 |
 | **[Earthjustice](http://earthjustice.org/)** | **[2027 Community Partnerships Clerkship](https://jobright.ai/jobs/info/6a4e9a74397d8d353c289a43?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 14 |
 | **[Pacific Legal Foundation](https://pacificlegal.org)** | **[Litigation Fellowship, Property Rights (Fall 2027)](https://jobright.ai/jobs/info/6a7f5b4c19ce4e6e9d937264?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 14 |
