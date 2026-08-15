@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Eide Bailly](http://www.eidebailly.com)** | **[Healthcare Regulatory Intern](https://jobright.ai/jobs/info/6a809a24e2030208f2775374?utm_campaign=1055&utm_source=git)** | Omaha, Nebraska, United States | On Site | Aug 15 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2027](https://jobright.ai/jobs/info/6a809ac2e51a1e18a2419ca2?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 15 |
 | ↳ | **[Loss Prevention Specialist Intern 2027](https://jobright.ai/jobs/info/6a805556927c79391ad1014b?utm_campaign=1055&utm_source=git)** | Fort Worth, TX, United States | On Site | Aug 15 |
 | **[Sony Electronics](http://www.sony.com)** | **[Legal & Business Affairs Intern, Extreme Music & Bleeding Fingers Music](https://jobright.ai/jobs/info/6a7fbba3927c79391ad0c77e?utm_campaign=1055&utm_source=git)** | Santa Monica, CA, United States | On Site | Aug 14 |
@@ -122,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[Norfolk, VA  Summer 2027 Legal Intern](https://jobright.ai/jobs/info/6a7cb2a077d5f033c4b900ea?utm_campaign=1055&utm_source=git)** | Norfolk, VA, United States | On Site | Aug 12 |
 | **[City of New York](https://www.nyc.gov)** | **[2027 Summer Legal Intern 2L](https://jobright.ai/jobs/info/6a7c5fb87c52154b59f59d2f?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 12 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a6c1415acb0a61f9dbc4378?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Aug 12 |
-| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a6a85058693c23e7fb7b46c?utm_campaign=1055&utm_source=git)** | Remote, GA, United States | Remote | Aug 12 |
-| ↳ | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a5f86a9f68dd368023e70e4?utm_campaign=1055&utm_source=git)** | Cerritos, CA, United States | Hybrid | Aug 12 |
+| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a5f86a9f68dd368023e70e4?utm_campaign=1055&utm_source=git)** | Cerritos, CA, United States | Hybrid | Aug 12 |
+| ↳ | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a6a85058693c23e7fb7b46c?utm_campaign=1055&utm_source=git)** | Remote, GA, United States | Remote | Aug 12 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[2027 Summer Legal Intern 2L](https://jobright.ai/jobs/info/6a7c678c77d5f033c4b8e242?utm_campaign=1055&utm_source=git)** | Bronx, NY, United States | On Site | Aug 12 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Intern, Corporate Affairs](https://jobright.ai/jobs/info/6a5faac5193b511309679f20?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Aug 12 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a7c35c983621355407a91d4?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | Hybrid | Aug 12 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Children's Legal Services Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6a607a8693c23e7fb7a5c3?utm_campaign=1055&utm_source=git)** | Baltimore, MD, United States | Hybrid | Aug 10 |
 | **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Legal Intern](https://jobright.ai/jobs/info/6a7b57dfecf5194164fbd65f?utm_campaign=1055&utm_source=git)** | Irving, TX, United States | On Site | Aug 10 |
 | **[GOAT USA](https://www.goatusa.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a7a3a0bab1385611f8fe19e?utm_campaign=1055&utm_source=git)** | Plainview, NY, United States | On Site | Aug 10 |
+| **[Montana-Dakota Utilities Co.](https://www.montana-dakota.com/)** | **[Intern-- Legal](https://jobright.ai/jobs/info/6a7a3748ab1385611f8fdfe6?utm_campaign=1055&utm_source=git)** | Bismarck, ND, United States | On Site | Aug 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
