@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Eide Bailly](http://www.eidebailly.com)** | **[Healthcare Regulatory Intern](https://jobright.ai/jobs/info/6a8062c8e2030208f27745af?utm_campaign=1055&utm_source=git)** | Omaha, Nebraska, United States | On Site | Aug 15 |
+| **[Eide Bailly](http://www.eidebailly.com)** | **[Healthcare Regulatory Intern](https://jobright.ai/jobs/info/6a806db5e2030208f27748bc?utm_campaign=1055&utm_source=git)** | Omaha, Nebraska, United States | On Site | Aug 15 |
 | **[KPMG Canada](https://www.kpmg.se)** | **[QC- Risk Services - Intern Governance, Risk and Compliance Services (GRC) - 2027](https://jobright.ai/jobs/info/6a80627e927c79391ad1060a?utm_campaign=1055&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 15 |
 | **[Amazon](https://amazon.com)** | **[Loss Prevention Specialist Intern 2027](https://jobright.ai/jobs/info/6a805556927c79391ad1014b?utm_campaign=1055&utm_source=git)** | Fort Worth, TX, United States | On Site | Aug 15 |
 | **[Sony Electronics](http://www.sony.com)** | **[Legal & Business Affairs Intern, Extreme Music & Bleeding Fingers Music](https://jobright.ai/jobs/info/6a7fbba3927c79391ad0c77e?utm_campaign=1055&utm_source=git)** | Santa Monica, CA, United States | On Site | Aug 14 |
@@ -96,7 +96,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Undergrad Legal & Compliance Rotational Internship – Wichita](https://jobright.ai/jobs/info/6a7e4a9ee2030208f2768bfb?utm_campaign=1055&utm_source=git)** | Wichita, KS, United States | On Site | Aug 13 |
 | **[CAMBA](https://camba.org/)** | **[Consumer Intern, CAMBA Legal Services, Brooklyn](https://jobright.ai/jobs/info/6a7dfe750cd4a0703257d00b?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Aug 13 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2027 Legal Intern](https://jobright.ai/jobs/info/6a6142e8eaa37f43e75879ee?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 13 |
-| **[Segal](https://www.segalco.com)** | **[2027 Summer Intern - Compliance](https://jobright.ai/jobs/info/6a7e2a5a0cd4a0703257e489?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 13 |
+| **[Segal](https://www.segalco.com)** | **[2027 Summer Intern - Compliance](https://jobright.ai/jobs/info/6a7e2b0419ce4e6e9d931b4b?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 13 |
 | **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Legal Regulatory Internships 2027](https://jobright.ai/jobs/info/6a7df5f6e2030208f2766b3c?utm_campaign=1055&utm_source=git)** | Greenwich, CT, United States | On Site | Aug 13 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[SUBSIDIARY RIGHTS & SALES INTERN](https://jobright.ai/jobs/info/6a7e1402e2030208f2767812?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Aug 13 |
 | **[FirstCash](https://firstcash.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a7e07a9e51a1e18a240b84a?utm_campaign=1055&utm_source=git)** | Fort Worth, TX, United States | On Site | Aug 13 |
