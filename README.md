@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hilton](https://www.hilton.com/en/)** | **[2027 Corporate Summer Internship - Corporate Affairs](https://jobright.ai/jobs/info/6a82992f2dbaf907b07645f8?utm_campaign=1055&utm_source=git)** | McLean, VA, United States | On Site | Aug 16 |
+| ↳ | **[2027 Corporate Summer Internship - Legal](https://jobright.ai/jobs/info/6a829915b5a0ac0e84a21903?utm_campaign=1055&utm_source=git)** | McLean, VA, United States | On Site | Aug 16 |
 | **[General Atomics](http://www.ga.com)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a6c1415acb0a61f9dbc4378?utm_campaign=1055&utm_source=git)** | San Diego, CA, United States | On Site | Aug 16 |
 | **[Conservation Law Foundation](https://www.clf.org/)** | **[Fall/Spring Intern - 2026/2027](https://jobright.ai/jobs/info/6a815e88e2030208f2779d6a?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Aug 15 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Compliance Investigator Intern](https://jobright.ai/jobs/info/6a764080b17cba569035d519?utm_campaign=1055&utm_source=git)** | Colorado, United States | Remote | Aug 15 |
@@ -113,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[National Asset Recovery Specialists, Inc.](https://www.narsrepo.com/)** | **[Asset Investigations PAID- Intern (Skip Tracing Focus)](https://jobright.ai/jobs/info/6a7de040ad9ff00c26ba8ed8?utm_campaign=1055&utm_source=git)** | Middleburg Heights, OH, United States | On Site | Aug 13 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[NY Children's Legal Intern (Unpaid)](https://jobright.ai/jobs/info/6a60e7d511edf44d7915e785?utm_campaign=1055&utm_source=git)** | New York, New York, United States | Hybrid | Aug 13 |
 | **[Arapahoe County](https://www.arapahoegov.com)** | **[Fall (2026) 3L Student Practice Act Internship Job Details / Arapahoe County](https://jobright.ai/jobs/info/6a7d4dd283621355407add99?utm_campaign=1055&utm_source=git)** | Centennial, CO, United States | On Site | Aug 12 |
-| **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Legal Intern](https://jobright.ai/jobs/info/6a7ce3697c52154b59f5d0ca?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | On Site | Aug 12 |
+| **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Legal Intern](https://jobright.ai/jobs/info/6a7ce5c7dc3dff2d1c0c9d7e?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | On Site | Aug 12 |
 | **[Utah Judiciary](https://utcourts.applicantpro.com/jobs/)** | **[Remote Time-Limited Intern - Administrative Office of the Courts - Salt Lake City](https://jobright.ai/jobs/info/6a7e6195e2030208f2768fe7?utm_campaign=1055&utm_source=git)** | Salt Lake City, UT, United States | Remote | Aug 12 |
 | **[The Hartford](https://www.thehartford.com)** | **[Intern, Enterprise Risk Management](https://jobright.ai/jobs/info/6a7e3b35e51a1e18a240ce15?utm_campaign=1055&utm_source=git)** | Hartford, CT, United States | Hybrid | Aug 12 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Judicial Law Clerk Intern](https://jobright.ai/jobs/info/6a7ce68577d5f033c4b91603?utm_campaign=1055&utm_source=git)** | Lubbock, TX, United States | On Site | Aug 12 |
@@ -125,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Summer 2027 Litigation Intern](https://jobright.ai/jobs/info/6a7c7e6177d5f033c4b8e6fb?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Aug 12 |
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[Norfolk, VA  Summer 2027 Legal Intern](https://jobright.ai/jobs/info/6a7cb2a077d5f033c4b900ea?utm_campaign=1055&utm_source=git)** | Norfolk, VA, United States | On Site | Aug 12 |
 | **[City of New York](https://www.nyc.gov)** | **[2027 Summer Legal Intern 2L](https://jobright.ai/jobs/info/6a7c5fb87c52154b59f59d2f?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 12 |
-| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a5f86a9f68dd368023e70e4?utm_campaign=1055&utm_source=git)** | Cerritos, CA, United States | Hybrid | Aug 12 |
-| ↳ | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a6a85058693c23e7fb7b46c?utm_campaign=1055&utm_source=git)** | Remote, GA, United States | Remote | Aug 12 |
+| **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a6a85058693c23e7fb7b46c?utm_campaign=1055&utm_source=git)** | Remote, GA, United States | Remote | Aug 12 |
+| ↳ | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a5f86a9f68dd368023e70e4?utm_campaign=1055&utm_source=git)** | Cerritos, CA, United States | Hybrid | Aug 12 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[2027 Summer Legal Intern 2L](https://jobright.ai/jobs/info/6a7c678c77d5f033c4b8e242?utm_campaign=1055&utm_source=git)** | Bronx, NY, United States | On Site | Aug 12 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Intern, Corporate Affairs](https://jobright.ai/jobs/info/6a5faac5193b511309679f20?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Aug 12 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a7c35c983621355407a91d4?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | Hybrid | Aug 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LA Clippers](http://www.clippers.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a7a69cd9ee17f276dbf2f3b?utm_campaign=1055&utm_source=git)** | Inglewood, CA, United States | On Site | Aug 10 |
 | **[TikTok](https://www.tiktok.com)** | **[NA Regional & Product Policy Project Intern (Business Integrity) - 2026 Start](https://jobright.ai/jobs/info/6a7a9334a26ccc369f83ed38?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 10 |
 | **[Hook](https://hookmusic.com)** | **[Legal Affairs Intern](https://jobright.ai/jobs/info/6a7a3b4c9ee17f276dbf20c5?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Aug 10 |
-| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Juvenile Rights Practice Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a7a851cbb6ca93ae561c0db?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 10 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Children's Legal Services Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6a607a8693c23e7fb7a5c3?utm_campaign=1055&utm_source=git)** | Baltimore, MD, United States | Hybrid | Aug 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
