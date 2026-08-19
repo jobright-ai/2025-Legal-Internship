@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Interim, Specialist, Regulatory](https://jobright.ai/jobs/info/6a67c9065d2a117fb9ced50c?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 19 |
 | **[Earthjustice](http://earthjustice.org/)** | **[2027 Healthy Communities Clerkship](https://jobright.ai/jobs/info/6a4eae319469c0662034c479?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Aug 19 |
 | ↳ | **[2027 Tribal Partnership Clerkship](https://jobright.ai/jobs/info/6a5529f02084cd792b476913?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 19 |
 | **[Immigrant Welcome Center](https://www.immigrantwelcomecenter.org)** | **[General Intern](https://jobright.ai/jobs/info/6a856da4d34f700f87fbcb66?utm_campaign=1055&utm_source=git)** | Greater Indianapolis, United States | On Site | Aug 19 |
@@ -88,10 +89,10 @@ For a complete list, click the following sortable link below:
 | **[Earthjustice](http://earthjustice.org/)** | **[2027 Fossil Fuels Clerkship](https://jobright.ai/jobs/info/6a56974053b3962b910b128d?utm_campaign=1055&utm_source=git)** | New Orleans, LA, United States | Hybrid | Aug 18 |
 | ↳ | **[2027 Strategic Legal Advocacy Clerkship](https://jobright.ai/jobs/info/6a615b6ed51f6101c8fbb419?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 18 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship / Public Safety – Corporate Security & Risk Management / 2026-2027](https://jobright.ai/jobs/info/6a845a30e459fa3baa85dc70?utm_campaign=1055&utm_source=git)** | Towson, MD, United States | On Site | Aug 18 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern, Contracts](https://jobright.ai/jobs/info/6a84216ed34f700f87fb7519?utm_campaign=1055&utm_source=git)** | Anaheim, CA, United States | On Site | Aug 18 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern, Contracts](https://jobright.ai/jobs/info/6a83e6d2e021cc586fb68e4e?utm_campaign=1055&utm_source=git)** | Plano, TX, United States | On Site | Aug 18 |
 | ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a83e6d971574661bc51f317?utm_campaign=1055&utm_source=git)** | Greenville, TX, United States | On Site | Aug 18 |
-| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a83e6d2e021cc586fb68e4e?utm_campaign=1055&utm_source=git)** | Plano, TX, United States | On Site | Aug 18 |
 | ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a8420ee0b610f7a3d0e40b0?utm_campaign=1055&utm_source=git)** | Millersville, Maryland, United States | On Site | Aug 18 |
+| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a84216ed34f700f87fb7519?utm_campaign=1055&utm_source=git)** | Anaheim, CA, United States | On Site | Aug 18 |
 | ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a84581458ded76ad8fe693b?utm_campaign=1055&utm_source=git)** | Camden, NJ, United States | On Site | Aug 18 |
 | ↳ | **[Contracts Intern](https://jobright.ai/jobs/info/6a84210f8d793736c6133d2b?utm_campaign=1055&utm_source=git)** | Waco, TX, United States | On Site | Aug 18 |
 | **[FNBO](https://www.fnbo.com)** | **[Intern - Enterprise Risk Management (Omaha, NE)](https://jobright.ai/jobs/info/6a5ff3c98c7fd835513bc1b1?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Aug 18 |
@@ -124,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[GRC Team Intern (Fall 2026)](https://jobright.ai/jobs/info/6a82baaa2dbaf907b0764a97?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 17 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Gemini Compliance Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8304633eeac101cfa9cea7?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK, United States | On Site | Aug 17 |
 | **[Canadian Natural Resources Limited (CNRL)](http://cnrl.com)** | **[Law Student](https://jobright.ai/jobs/info/6a840f7bf1685316891d4208?utm_campaign=1055&utm_source=git)** | Calgary, AB, Canada | On Site | Aug 17 |
-| ↳ | **[Environmental Regulatory Compliance Student (Calgary & Field)](https://jobright.ai/jobs/info/6a840fc7c72fae4bcc8d6ac7?utm_campaign=1055&utm_source=git)** | Calgary, AB, Canada | On Site | Aug 17 |
 | ↳ | **[Document Control Student](https://jobright.ai/jobs/info/6a840e64e021cc586fb69444?utm_campaign=1055&utm_source=git)** | Calgary, AB, Canada | On Site | Aug 17 |
+| ↳ | **[Environmental Regulatory Compliance Student (Calgary & Field)](https://jobright.ai/jobs/info/6a840fc7c72fae4bcc8d6ac7?utm_campaign=1055&utm_source=git)** | Calgary, AB, Canada | On Site | Aug 17 |
 | **[Hilton](https://www.hilton.com/en/)** | **[2027 Corporate Summer Internship - Corporate Affairs](https://jobright.ai/jobs/info/6a82ae0d9b859b227766ac34?utm_campaign=1055&utm_source=git)** | McLean, VA, United States | On Site | Aug 17 |
 | ↳ | **[2027 Corporate Summer Internship - Legal](https://jobright.ai/jobs/info/6a829915b5a0ac0e84a21903?utm_campaign=1055&utm_source=git)** | McLean, VA, United States | On Site | Aug 17 |
 | **[A Safe Place](http://www.asafeplaceforhelp.org)** | **[Legal Advocacy Internship](https://jobright.ai/jobs/info/6a83262c2dbaf907b0766abb?utm_campaign=1055&utm_source=git)** | Waukegan, IL, United States | On Site | Aug 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Eide Bailly](http://www.eidebailly.com)** | **[Healthcare Regulatory Intern](https://jobright.ai/jobs/info/6a832fd6379c304e892f56ca?utm_campaign=1055&utm_source=git)** | Omaha, Nebraska, United States | On Site | Aug 14 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Rule 9 to Deputy Prosecuting Attorney I](https://jobright.ai/jobs/info/6a7f34a9927c79391ad06fdd?utm_campaign=1055&utm_source=git)** | Montesano, WA, United States | On Site | Aug 14 |
 | **[Centric Brands](https://centricbrands.com)** | **[On-site Fall 2026 Internship - Chargeback Compliance (Greensboro, NC)](https://jobright.ai/jobs/info/6a468178c2d11a6a4666f47b?utm_campaign=1055&utm_source=git)** | Greensboro, NC, US | On Site | Aug 14 |
-| ↳ | **[On-site Fall 2026 Internship - Customs Compliance (Greensboro, NC)](https://jobright.ai/jobs/info/6a4681873dbab558e29a761a?utm_campaign=1055&utm_source=git)** | Greensboro, NC, US | On Site | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
