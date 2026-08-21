@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Legal Aid Society](https://jobright.ai/jobs/info/6a87a261680f314a29d3a033?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
+| **[Desert Financial Credit Union](https://www.desertfinancial.com)** | **[Compliance Program Analyst Intern](https://jobright.ai/jobs/info/6a878f9425fc4e7ae3dadcf7?utm_campaign=1055&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 20 |
+| **[Mid-Minnesota Legal Aid](https://mylegalaid.org/)** | **[Immigration Hub Student Law Clerk, Fall Term](https://jobright.ai/jobs/info/6a7e64a8ad9ff00c26baae1b?utm_campaign=1055&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Aug 20 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Risk Advisory Services - Montreal - January 2027](https://jobright.ai/jobs/info/6a85c1bee459fa3baa8639db?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Aug 20 |
 | **[Children's Law Center of California](https://www.clccal.org/)** | **[2027 SUMMER LAW CLERK](https://jobright.ai/jobs/info/6a8772c14afae74a08348ad9?utm_campaign=1055&utm_source=git)** | Monterey Park, CA, United States | On Site | Aug 20 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern - Forensic Disputes & Investigations - Toronto - January 2027](https://jobright.ai/jobs/info/6a8319692dbaf907b076650f?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Aug 20 |
 | ↳ | **[Co-op or Intern - Risk Advisory Services - Toronto - January 2027](https://jobright.ai/jobs/info/6a8319582dbaf907b076650b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Aug 20 |
 | **[7 17 Credit Union](https://www.717cu.com/)** | **[RISK MANAGEMENT INTERN](https://jobright.ai/jobs/info/6a87675de8b6601d129036ea?utm_campaign=1055&utm_source=git)** | Warren, OH, United States | On Site | Aug 20 |
-| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Legal Aid Society](https://jobright.ai/jobs/info/6a87a261680f314a29d3a033?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
-| **[Desert Financial Credit Union](https://www.desertfinancial.com)** | **[Compliance Program Analyst Intern](https://jobright.ai/jobs/info/6a878f9425fc4e7ae3dadcf7?utm_campaign=1055&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 20 |
 | **[KeyBank](https://www.key.com/about/corporate-responsibility/keybank-foundation.jsp)** | **[2027 Summer Key Technology & Services: Security, Business & Strategy Track Internship- Cleveland](https://jobright.ai/jobs/info/6a834ce21081a745e970e43f?utm_campaign=1055&utm_source=git)** | Brooklyn, OH, United States | Hybrid | Aug 20 |
 | **[Loop Capital](http://www.loopcapital.com)** | **[Legal & Compliance 2027 Summer Intern](https://jobright.ai/jobs/info/6a8784494afae74a08349091?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Law Reform Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a877cbd4afae74a08348d73?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
@@ -116,11 +117,11 @@ For a complete list, click the following sortable link below:
 | **[Legacy.com](https://www.legacy.com/)** | **[Intern-Legal](https://jobright.ai/jobs/info/6a85b01074e02153f1457c3b?utm_campaign=1055&utm_source=git)** | Madison, WI, United States | Remote | Aug 19 |
 | **[Doherty Enterprises](http://dohertyinc.com)** | **[Real Estate & Legal Intern](https://jobright.ai/jobs/info/6a859ebce459fa3baa8630ed?utm_campaign=1055&utm_source=git)** | Allendale, NJ, United States | On Site | Aug 19 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern, Contracts](https://jobright.ai/jobs/info/6a83e6d971574661bc51f317?utm_campaign=1055&utm_source=git)** | Greenville, TX, United States | On Site | Aug 19 |
-| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a85018bd34f700f87fbbcb3?utm_campaign=1055&utm_source=git)** | Melbourne, FL, United States | On Site | Aug 19 |
 | ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a84216ed34f700f87fb7519?utm_campaign=1055&utm_source=git)** | Anaheim, CA, United States | On Site | Aug 19 |
+| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a8420ee0b610f7a3d0e40b0?utm_campaign=1055&utm_source=git)** | Millersville, Maryland, United States | On Site | Aug 19 |
+| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a85018bd34f700f87fbbcb3?utm_campaign=1055&utm_source=git)** | Melbourne, FL, United States | On Site | Aug 19 |
 | ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a83e6d2e021cc586fb68e4e?utm_campaign=1055&utm_source=git)** | Plano, TX, United States | On Site | Aug 19 |
 | ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a84581458ded76ad8fe693b?utm_campaign=1055&utm_source=git)** | Camden, NJ, United States | On Site | Aug 19 |
-| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a8420ee0b610f7a3d0e40b0?utm_campaign=1055&utm_source=git)** | Millersville, Maryland, United States | On Site | Aug 19 |
 | **[City of Doraville, Georgia](https://www.doravillega.us)** | **[Deputy Court Clerk Intern - PT](https://jobright.ai/jobs/info/6a85e7a12f4f0014cae26d7e?utm_campaign=1055&utm_source=git)** | Doraville, GA, United States | On Site | Aug 19 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Undergrad Legal & Compliance Rotational Internship – Atlanta](https://jobright.ai/jobs/info/6a8592cad34f700f87fbd466?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 19 |
 | ↳ | **[Summer 2027 Undergrad Legal & Compliance Rotational Internship – Wichita](https://jobright.ai/jobs/info/6a8592c6cc81eb647e9ee4e7?utm_campaign=1055&utm_source=git)** | Wichita, KS, United States | On Site | Aug 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Advanced Space](https://advancedspace.com/)** | **[2026 Legal & Contracts Fall Internship](https://jobright.ai/jobs/info/6a67db902bf1fb2b719274f1?utm_campaign=1055&utm_source=git)** | Westminster, CO, United States | On Site | Aug 18 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2026 Reproductive Rights and Health Legal Internship](https://jobright.ai/jobs/info/6a34773a649fdf16292f619d?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Remote | Aug 18 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[LEGAL CO-OP (Summer 2027)](https://jobright.ai/jobs/info/6a84806ce459fa3baa85ebde?utm_campaign=1055&utm_source=git)** | Erlanger, KY, United States | On Site | Aug 18 |
-| **[Food & Water Watch](https://www.foodandwaterwatch.org/)** | **[Legal Intern Spring 2027](https://jobright.ai/jobs/info/6a8470a358ded76ad8fe71a3?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
