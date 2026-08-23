@@ -85,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Earthjustice](http://earthjustice.org/)** | **[2027 Strategic Legal Advocacy Clerkship](https://jobright.ai/jobs/info/6a615b6ed51f6101c8fbb419?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 21 |
 | **[The Citco Group Limited](https://www.citco.com)** | **[Regulatory AML Compliance Intern (12-Month Fixed-Term Contract)](https://jobright.ai/jobs/info/6a8682f22f4f0014cae29b96?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 21 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b5f36c00ae03109f837c7?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Aug 21 |
-| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a840f6d6cd9495f31074afe?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Aug 21 |
+| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b69965c54bc4752ce8cfb?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Aug 21 |
 | **[Carter Mario Law Firm](https://cartermario.com)** | **[Legal Internship - Spring 2027](https://jobright.ai/jobs/info/6a888c36e8b6601d1290755a?utm_campaign=1055&utm_source=git)** | Milford, CT, United States | On Site | Aug 21 |
 | **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a28676e883c0d3be6541c6f?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | Hybrid | Aug 21 |
 | **[Earthjustice](http://earthjustice.org/)** | **[2027 Northeast Regional Clerkship](https://jobright.ai/jobs/info/6a613f26ab14335fc0f17183?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Aug 21 |
@@ -114,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Earthjustice](http://earthjustice.org/)** | **[2027 Community Partnerships Clerkship](https://jobright.ai/jobs/info/6a4e9a74397d8d353c289a43?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 20 |
 | **[ACLU of the District of Columbia](http://acludc.org)** | **[2L Legal Internship](https://jobright.ai/jobs/info/6a873019d34f700f87fc4046?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 20 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Regulatory & Marketing Legal Intern](https://jobright.ai/jobs/info/6a5ad08c3ac7627fe9005211?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 20 |
-| **[Ogletree Deakins](http://www.ogletreedeakins.com)** | **[2027 2L Summer Associate (Baltimore, MD)](https://jobright.ai/jobs/info/6a83f0566cd9495f31074642?utm_campaign=1055&utm_source=git)** | Baltimore, MD, United States | On Site | Aug 20 |
-| ↳ | **[2027 2L Summer Associate](https://jobright.ai/jobs/info/6a7f69bd19ce4e6e9d937a8a?utm_campaign=1055&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 20 |
+| **[Ogletree Deakins](http://www.ogletreedeakins.com)** | **[2027 2L Summer Associate](https://jobright.ai/jobs/info/6a7f69bd19ce4e6e9d937a8a?utm_campaign=1055&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 20 |
+| ↳ | **[2027 2L Summer Associate (Baltimore, MD)](https://jobright.ai/jobs/info/6a83f0566cd9495f31074642?utm_campaign=1055&utm_source=git)** | Baltimore, MD, United States | On Site | Aug 20 |
 | **[Law Office of Jack M. Shapiro, P.C.](https://jackshapirolaw.com/)** | **[Internship / Law Clerk - Fall/Winter 2026](https://jobright.ai/jobs/info/6a871438680f314a29d36c31?utm_campaign=1055&utm_source=git)** | Buffalo Grove, IL, United States | On Site | Aug 20 |
 | **[PIMCO](http://www.pimco.com)** | **[2027 Summer Intern - Legal &amp; Compliance Analyst](https://jobright.ai/jobs/info/6a8710ff25fc4e7ae3dab084?utm_campaign=1055&utm_source=git)** | Newport Beach, CA, United States | On Site | Aug 20 |
 | **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a6a85058693c23e7fb7b46c?utm_campaign=1055&utm_source=git)** | Remote, GA, United States | Remote | Aug 20 |
@@ -150,11 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Fried Frank](http://www.friedfrank.com/)** | **[Paralegal Intern](https://jobright.ai/jobs/info/6a68f1dc36d36c1ff2997222?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 19 |
 | **[Legacy.com](https://www.legacy.com/)** | **[Intern-Legal](https://jobright.ai/jobs/info/6a85b01074e02153f1457c3b?utm_campaign=1055&utm_source=git)** | Madison, WI, United States | Remote | Aug 19 |
 | **[Doherty Enterprises](http://dohertyinc.com)** | **[Real Estate & Legal Intern](https://jobright.ai/jobs/info/6a859ebce459fa3baa8630ed?utm_campaign=1055&utm_source=git)** | Allendale, NJ, United States | On Site | Aug 19 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern, Contracts](https://jobright.ai/jobs/info/6a84581458ded76ad8fe693b?utm_campaign=1055&utm_source=git)** | Camden, NJ, United States | On Site | Aug 19 |
-| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a84216ed34f700f87fb7519?utm_campaign=1055&utm_source=git)** | Anaheim, CA, United States | On Site | Aug 19 |
-| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a85018bd34f700f87fbbcb3?utm_campaign=1055&utm_source=git)** | Melbourne, FL, United States | On Site | Aug 19 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern, Contracts](https://jobright.ai/jobs/info/6a85018bd34f700f87fbbcb3?utm_campaign=1055&utm_source=git)** | Melbourne, FL, United States | On Site | Aug 19 |
+| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a84581458ded76ad8fe693b?utm_campaign=1055&utm_source=git)** | Camden, NJ, United States | On Site | Aug 19 |
 | ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a8420ee0b610f7a3d0e40b0?utm_campaign=1055&utm_source=git)** | Millersville, Maryland, United States | On Site | Aug 19 |
 | ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a83e6d2e021cc586fb68e4e?utm_campaign=1055&utm_source=git)** | Plano, TX, United States | On Site | Aug 19 |
 | ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a83e6d971574661bc51f317?utm_campaign=1055&utm_source=git)** | Greenville, TX, United States | On Site | Aug 19 |
+| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a84216ed34f700f87fb7519?utm_campaign=1055&utm_source=git)** | Anaheim, CA, United States | On Site | Aug 19 |
 | **[City of Doraville, Georgia](https://www.doravillega.us)** | **[Deputy Court Clerk Intern - PT](https://jobright.ai/jobs/info/6a85e7a12f4f0014cae26d7e?utm_campaign=1055&utm_source=git)** | Doraville, GA, United States | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
