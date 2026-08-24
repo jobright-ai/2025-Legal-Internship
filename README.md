@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Expeditors](http://www.expeditors.com)** | **[Full-Time Internship - Customs Brokerage](https://jobright.ai/jobs/info/6a616c6ceaa37f43e75888a3?utm_campaign=1055&utm_source=git)** | Torrance, California, United States | On Site | Aug 24 |
 | **[Earthjustice](http://earthjustice.org/)** | **[2027 Alaska Regional Clerkship](https://jobright.ai/jobs/info/6a4eae401544d7246c0d3cac?utm_campaign=1055&utm_source=git)** | Anchorage, AK, United States | Hybrid | Aug 23 |
 | **[Cashably](https://cashably.com)** | **[Strategic Partnerships intern](https://jobright.ai/jobs/info/6a8b4ad34afae74a08350a00?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Aug 23 |
 | **[Veltrana Group](veltranagroup.com)** | **[Corporate Law Expert](https://jobright.ai/jobs/info/6a8b26af680f314a29d40d82?utm_campaign=1055&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 23 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Earthjustice](http://earthjustice.org/)** | **[2027 Northeast Regional Clerkship](https://jobright.ai/jobs/info/6a613f26ab14335fc0f17183?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Aug 21 |
 | **[Advocates for Children of New York](http://www.advocatesforchildren.org)** | **[Summer Law Student Intern Program in Education Advocacy](https://jobright.ai/jobs/info/6a87f8bb4afae74a0834a579?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Aug 21 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Legal Aid Society](https://jobright.ai/jobs/info/6a87a261680f314a29d3a033?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
-| **[Desert Financial Credit Union](https://www.desertfinancial.com)** | **[Compliance Program Analyst Intern](https://jobright.ai/jobs/info/6a878f9425fc4e7ae3dadcf7?utm_campaign=1055&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 20 |
 | **[Mid-Minnesota Legal Aid](https://mylegalaid.org/)** | **[Immigration Hub Student Law Clerk, Fall Term](https://jobright.ai/jobs/info/6a7e64a8ad9ff00c26baae1b?utm_campaign=1055&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Aug 20 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Risk Advisory Services - Montreal - January 2027](https://jobright.ai/jobs/info/6a85c1bee459fa3baa8639db?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Aug 20 |
 | **[Children's Law Center of California](https://www.clccal.org/)** | **[2027 SUMMER LAW CLERK](https://jobright.ai/jobs/info/6a8772c14afae74a08348ad9?utm_campaign=1055&utm_source=git)** | Monterey Park, CA, United States | On Site | Aug 20 |
@@ -100,7 +100,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-op or Intern - Risk Advisory Services - Toronto - January 2027](https://jobright.ai/jobs/info/6a8319582dbaf907b076650b?utm_campaign=1055&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Aug 20 |
 | **[LPL Financial](https://www.lpl.com)** | **[Intern 2027 - FAR Program - Risk, Operations, and Compliance](https://jobright.ai/jobs/info/6a888a2d680f314a29d3c842?utm_campaign=1055&utm_source=git)** | Fort Mill, SC, United States | On Site | Aug 20 |
 | **[Georgia System Operations Corporation](https://www.gasoc.com/Pages/gasochome.aspx)** | **[Cybersecurity Operations & Compliance Intern](https://jobright.ai/jobs/info/6a88d1add34f700f87fcaa84?utm_campaign=1055&utm_source=git)** | Tucker, GA, United States | On Site | Aug 20 |
-| **[KeyBank](https://www.key.com/businesses-institutions/solutions/institutional-advisors.html)** | **[2027 Summer Key Technology & Services: Security, Business & Strategy Track Internship- Cleveland](https://jobright.ai/jobs/info/6a834ce21081a745e970e43f?utm_campaign=1055&utm_source=git)** | Brooklyn, OH, United States | Hybrid | Aug 20 |
+| **[KeyBank](https://www.key.com/about/corporate-responsibility/keybank-foundation.jsp)** | **[2027 Summer Key Technology & Services: Security, Business & Strategy Track Internship- Cleveland](https://jobright.ai/jobs/info/6a834ce21081a745e970e43f?utm_campaign=1055&utm_source=git)** | Brooklyn, OH, United States | Hybrid | Aug 20 |
 | **[Loop Capital](http://www.loopcapital.com)** | **[Legal & Compliance 2027 Summer Intern](https://jobright.ai/jobs/info/6a8784494afae74a08349091?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Aug 20 |
 | **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Law Reform Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a877cbd4afae74a08348d73?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | **[Lambda](https://lambda.ai)** | **[Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a87401dd34f700f87fc459b?utm_campaign=1055&utm_source=git)** | San Francisco, California, United States | Hybrid | Aug 20 |
@@ -150,11 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Fried Frank](http://www.friedfrank.com/)** | **[Paralegal Intern](https://jobright.ai/jobs/info/6a68f1dc36d36c1ff2997222?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 19 |
 | **[Legacy.com](https://www.legacy.com/)** | **[Intern-Legal](https://jobright.ai/jobs/info/6a85b01074e02153f1457c3b?utm_campaign=1055&utm_source=git)** | Madison, WI, United States | Remote | Aug 19 |
 | **[Doherty Enterprises](http://dohertyinc.com)** | **[Real Estate & Legal Intern](https://jobright.ai/jobs/info/6a859ebce459fa3baa8630ed?utm_campaign=1055&utm_source=git)** | Allendale, NJ, United States | On Site | Aug 19 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern, Contracts](https://jobright.ai/jobs/info/6a84216ed34f700f87fb7519?utm_campaign=1055&utm_source=git)** | Anaheim, CA, United States | On Site | Aug 19 |
-| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a83e6d2e021cc586fb68e4e?utm_campaign=1055&utm_source=git)** | Plano, TX, United States | On Site | Aug 19 |
-| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a83e6d971574661bc51f317?utm_campaign=1055&utm_source=git)** | Greenville, TX, United States | On Site | Aug 19 |
-| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a8420ee0b610f7a3d0e40b0?utm_campaign=1055&utm_source=git)** | Millersville, Maryland, United States | On Site | Aug 19 |
-| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a84581458ded76ad8fe693b?utm_campaign=1055&utm_source=git)** | Camden, NJ, United States | On Site | Aug 19 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern, Contracts](https://jobright.ai/jobs/info/6a83e6d2e021cc586fb68e4e?utm_campaign=1055&utm_source=git)** | Plano, TX, United States | On Site | Aug 19 |
 | ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a85018bd34f700f87fbbcb3?utm_campaign=1055&utm_source=git)** | Melbourne, FL, United States | On Site | Aug 19 |
+| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a83e6d971574661bc51f317?utm_campaign=1055&utm_source=git)** | Greenville, TX, United States | On Site | Aug 19 |
+| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a84581458ded76ad8fe693b?utm_campaign=1055&utm_source=git)** | Camden, NJ, United States | On Site | Aug 19 |
+| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a84216ed34f700f87fb7519?utm_campaign=1055&utm_source=git)** | Anaheim, CA, United States | On Site | Aug 19 |
+| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a8420ee0b610f7a3d0e40b0?utm_campaign=1055&utm_source=git)** | Millersville, Maryland, United States | On Site | Aug 19 |
 | **[City of Doraville, Georgia](https://www.doravillega.us)** | **[Deputy Court Clerk Intern - PT](https://jobright.ai/jobs/info/6a85e7a12f4f0014cae26d7e?utm_campaign=1055&utm_source=git)** | Doraville, GA, United States | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
