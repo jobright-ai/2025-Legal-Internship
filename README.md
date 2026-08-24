@@ -80,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova PCS Legal Intern - Summer 2027](https://jobright.ai/jobs/info/6a8871984afae74a0834baba?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 21 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Internship IT Risk & Compliance - Cyber Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a886f07680f314a29d3bea9?utm_campaign=1055&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 21 |
 | **[Michigan Advocacy Program](https://miadvocacy.org/)** | **[MPLP Fall Law Clerk](https://jobright.ai/jobs/info/6a888255cde3717f9e9b59bd?utm_campaign=1055&utm_source=git)** | Ypsilanti, MI, United States | Remote | Aug 21 |
-| **[Kroll](http://www.kroll.com)** | **[Intern, Investigations Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/6a71434b9a0ca4480c7d3a2d?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Remote | Aug 21 |
+| **[Kroll](http://www.kroll.com)** | **[Intern, Investigations Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/6a71426171acd469eeda243c?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Remote | Aug 21 |
 | ↳ | **[Intern, Investigations Diligence & Compliance (Specialist)](https://jobright.ai/jobs/info/6a7140929a0ca4480c7d39d7?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | Remote | Aug 21 |
 | **[TD](https://www.td.com)** | **[Risk Management Intern/Co-op (Summer 2027)](https://jobright.ai/jobs/info/6a8876564afae74a0834bbce?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 21 |
 | **[Earthjustice](http://earthjustice.org/)** | **[2027 Strategic Legal Advocacy Clerkship](https://jobright.ai/jobs/info/6a615b6ed51f6101c8fbb419?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 21 |
@@ -151,10 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Fried Frank](http://www.friedfrank.com/)** | **[Paralegal Intern](https://jobright.ai/jobs/info/6a68f1dc36d36c1ff2997222?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 19 |
 | **[Legacy.com](https://www.legacy.com/)** | **[Intern-Legal](https://jobright.ai/jobs/info/6a85b01074e02153f1457c3b?utm_campaign=1055&utm_source=git)** | Madison, WI, United States | Remote | Aug 19 |
 | **[Doherty Enterprises](http://dohertyinc.com)** | **[Real Estate & Legal Intern](https://jobright.ai/jobs/info/6a859ebce459fa3baa8630ed?utm_campaign=1055&utm_source=git)** | Allendale, NJ, United States | On Site | Aug 19 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern, Contracts](https://jobright.ai/jobs/info/6a8420ee0b610f7a3d0e40b0?utm_campaign=1055&utm_source=git)** | Millersville, Maryland, United States | On Site | Aug 19 |
-| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a85018bd34f700f87fbbcb3?utm_campaign=1055&utm_source=git)** | Melbourne, FL, United States | On Site | Aug 19 |
-| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a83e6d971574661bc51f317?utm_campaign=1055&utm_source=git)** | Greenville, TX, United States | On Site | Aug 19 |
-| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a83e6d2e021cc586fb68e4e?utm_campaign=1055&utm_source=git)** | Plano, TX, United States | On Site | Aug 19 |
-| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a84581458ded76ad8fe693b?utm_campaign=1055&utm_source=git)** | Camden, NJ, United States | On Site | Aug 19 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern, Contracts](https://jobright.ai/jobs/info/6a84581458ded76ad8fe693b?utm_campaign=1055&utm_source=git)** | Camden, NJ, United States | On Site | Aug 19 |
 | ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a84216ed34f700f87fb7519?utm_campaign=1055&utm_source=git)** | Anaheim, CA, United States | On Site | Aug 19 |
+| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a83e6d971574661bc51f317?utm_campaign=1055&utm_source=git)** | Greenville, TX, United States | On Site | Aug 19 |
+| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a8420ee0b610f7a3d0e40b0?utm_campaign=1055&utm_source=git)** | Millersville, Maryland, United States | On Site | Aug 19 |
+| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a83e6d2e021cc586fb68e4e?utm_campaign=1055&utm_source=git)** | Plano, TX, United States | On Site | Aug 19 |
+| ↳ | **[Intern, Contracts](https://jobright.ai/jobs/info/6a85018bd34f700f87fbbcb3?utm_campaign=1055&utm_source=git)** | Melbourne, FL, United States | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
