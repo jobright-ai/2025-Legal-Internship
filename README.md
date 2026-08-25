@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Internship (Fall 2026)](https://jobright.ai/jobs/info/6a8c703b581f2d7bfdfe38cb?utm_campaign=1055&utm_source=git)** | Falls Church, VA, United States | Hybrid | Aug 24 |
 | **[Bank of China USA](https://www.bocusa.com)** | **[Legal & Compliance Department - FLU Oversight Intern](https://jobright.ai/jobs/info/6a8caefc2f736c304f2a748b?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
 | **[Gogo](https://business.gogoair.com/)** | **[Regulatory Intern](https://jobright.ai/jobs/info/6a462df1971cd25b06f8c861?utm_campaign=1055&utm_source=git)** | Broomfield, CO United States, United States of America | On Site | Aug 24 |
 | **[Advanced Space](https://advancedspace.com/)** | **[2026 Legal & Contracts Fall Internship](https://jobright.ai/jobs/info/6a67db902bf1fb2b719274f1?utm_campaign=1055&utm_source=git)** | Westminster, CO, United States | On Site | Aug 24 |
@@ -83,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Onal Gallant](https://www.ogplawfirm.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a8c3bf225fc4e7ae3db72ba?utm_campaign=1055&utm_source=git)** | Elmwood Park, NJ, United States | On Site | Aug 24 |
 | **[Earthjustice](http://earthjustice.org/)** | **[2027 California Regional Clerkship](https://jobright.ai/jobs/info/6a60421771c79e639619aba9?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 24 |
 | **[Expeditors](http://www.expeditors.com)** | **[Full-Time Internship - Customs Brokerage](https://jobright.ai/jobs/info/6a616c6ceaa37f43e75888a3?utm_campaign=1055&utm_source=git)** | Torrance, California, United States | On Site | Aug 24 |
-| **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Legal Internship (Fall 2026)](https://jobright.ai/jobs/info/6a8c703b581f2d7bfdfe38cb?utm_campaign=1055&utm_source=git)** | Falls Church, VA, United States | Hybrid | Aug 24 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Legal Research Intern](https://jobright.ai/jobs/info/6a8c57d5581f2d7bfdfe2fd4?utm_campaign=1055&utm_source=git)** | Bloomfield, CT, United States | Hybrid | Aug 23 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Alternative Risk Intern](https://jobright.ai/jobs/info/6a8cee0ed34f700f87fd33ac?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Aug 23 |
 | **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[12-Month Legal Internship](https://jobright.ai/jobs/info/6a8c74ed1d96e6541c8c0e4c?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 23 |
@@ -115,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Risk Management Intern/Co-op (Summer 2027)](https://jobright.ai/jobs/info/6a8876564afae74a0834bbce?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 21 |
 | **[Earthjustice](http://earthjustice.org/)** | **[2027 Strategic Legal Advocacy Clerkship](https://jobright.ai/jobs/info/6a615b6ed51f6101c8fbb419?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 21 |
 | **[The Citco Group Limited](https://www.citco.com)** | **[Regulatory AML Compliance Intern (12-Month Fixed-Term Contract)](https://jobright.ai/jobs/info/6a8682f22f4f0014cae29b96?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 21 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b6939acb0a61f9dbc0a94?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Aug 21 |
-| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b61c0acb0a61f9dbc074c?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Aug 21 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a840f6d6cd9495f31074afe?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Aug 21 |
+| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b5f36c00ae03109f837c7?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Aug 21 |
 | **[Carter Mario Law Firm](https://cartermario.com)** | **[Legal Internship - Spring 2027](https://jobright.ai/jobs/info/6a888c36e8b6601d1290755a?utm_campaign=1055&utm_source=git)** | Milford, CT, United States | On Site | Aug 21 |
 | **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a28676e883c0d3be6541c6f?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | Hybrid | Aug 21 |
 | **[Earthjustice](http://earthjustice.org/)** | **[2027 Northeast Regional Clerkship](https://jobright.ai/jobs/info/6a613f26ab14335fc0f17183?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Aug 21 |
@@ -140,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Earthjustice](http://earthjustice.org/)** | **[2027 Community Partnerships Clerkship](https://jobright.ai/jobs/info/6a4e9a74397d8d353c289a43?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 20 |
 | **[ACLU of the District of Columbia](http://acludc.org)** | **[2L Legal Internship](https://jobright.ai/jobs/info/6a873019d34f700f87fc4046?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 20 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Regulatory & Marketing Legal Intern](https://jobright.ai/jobs/info/6a5ad08c3ac7627fe9005211?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 20 |
-| **[Ogletree Deakins](http://www.ogletreedeakins.com)** | **[2027 2L Summer Associate (Baltimore, MD)](https://jobright.ai/jobs/info/6a83f0566cd9495f31074642?utm_campaign=1055&utm_source=git)** | Baltimore, MD, United States | On Site | Aug 20 |
-| ↳ | **[2027 2L Summer Associate](https://jobright.ai/jobs/info/6a7f69bd19ce4e6e9d937a8a?utm_campaign=1055&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 20 |
+| **[Ogletree Deakins](http://www.ogletreedeakins.com)** | **[2027 2L Summer Associate](https://jobright.ai/jobs/info/6a7f69bd19ce4e6e9d937a8a?utm_campaign=1055&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 20 |
+| ↳ | **[2027 2L Summer Associate (Baltimore, MD)](https://jobright.ai/jobs/info/6a83f0566cd9495f31074642?utm_campaign=1055&utm_source=git)** | Baltimore, MD, United States | On Site | Aug 20 |
 | **[PIMCO](http://www.pimco.com)** | **[2027 Summer Intern - Legal &amp; Compliance Analyst](https://jobright.ai/jobs/info/6a8710ff25fc4e7ae3dab084?utm_campaign=1055&utm_source=git)** | Newport Beach, CA, United States | On Site | Aug 20 |
 | **[Kemper](http://kemper.com)** | **[Law Clerk Intern - Fall 2026](https://jobright.ai/jobs/info/6a6a85058693c23e7fb7b46c?utm_campaign=1055&utm_source=git)** | Remote, GA, United States | Remote | Aug 20 |
 | **[Earthjustice](http://earthjustice.org/)** | **[2027 Enforcement Clerkship](https://jobright.ai/jobs/info/6a4eae36fc327f422fef3bee?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 19 |
