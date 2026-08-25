@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Freestone Property Group](https://www.freestonepropertymgmt.com)** | **[Intern Compliance](https://jobright.ai/jobs/info/6a8cd200d34f700f87fd2d0b?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
+| **[Hernandez Consulting & Construction](https://www.hernandezconsulting.com/)** | **[Legal Intern - Tulane/Loyola Law Student Preferred](https://jobright.ai/jobs/info/6a8cc9fe2f736c304f2a7d5a?utm_campaign=1055&utm_source=git)** | New Orleans, LA, United States | On Site | Aug 24 |
 | **[SRC](https://www.srcinc.com/)** | **[Contracts (Intern - Summer 2027)](https://jobright.ai/jobs/info/6a8c88aa25fc4e7ae3db8f19?utm_campaign=1055&utm_source=git)** | Syracuse, NY, United States | On Site | Aug 24 |
 | **[RPIA Capital Management](https://www.rpia.ca)** | **[Intern, Compliance](https://jobright.ai/jobs/info/6a8c7edbcde3717f9e9bd851?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 24 |
 | **[DESRI](https://www.desri.com)** | **[Legal Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8cb352581f2d7bfdfe558f?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
@@ -110,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Risk Management Intern/Co-op (Summer 2027)](https://jobright.ai/jobs/info/6a8876564afae74a0834bbce?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 21 |
 | **[Earthjustice](http://earthjustice.org/)** | **[2027 Strategic Legal Advocacy Clerkship](https://jobright.ai/jobs/info/6a615b6ed51f6101c8fbb419?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 21 |
 | **[The Citco Group Limited](https://www.citco.com)** | **[Regulatory AML Compliance Intern (12-Month Fixed-Term Contract)](https://jobright.ai/jobs/info/6a8682f22f4f0014cae29b96?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 21 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a840f6d6cd9495f31074afe?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Aug 21 |
-| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b5f36c00ae03109f837c7?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Aug 21 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b61c0acb0a61f9dbc074c?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Aug 21 |
+| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a840f6d6cd9495f31074afe?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Aug 21 |
 | **[Carter Mario Law Firm](https://cartermario.com)** | **[Legal Internship - Spring 2027](https://jobright.ai/jobs/info/6a888c36e8b6601d1290755a?utm_campaign=1055&utm_source=git)** | Milford, CT, United States | On Site | Aug 21 |
 | **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[In House Legal Intern/Extern](https://jobright.ai/jobs/info/6a28676e883c0d3be6541c6f?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | Hybrid | Aug 21 |
 | **[Earthjustice](http://earthjustice.org/)** | **[2027 Northeast Regional Clerkship](https://jobright.ai/jobs/info/6a613f26ab14335fc0f17183?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Aug 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998f5f9e0bddb6acac7e4fc?utm_campaign=1055&utm_source=git)** | Dayton, OH, United States | On Site | Aug 19 |
 | ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998efbfce78e77b4fdd8150?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | On Site | Aug 19 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Spring 2027 Legal Externship – Biodiversity Defense Program](https://jobright.ai/jobs/info/6a85f11ee459fa3baa864e95?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 19 |
-| **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998ee6dce78e77b4fdd7fa7?utm_campaign=1055&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 19 |
-| **[Earthjustice](http://earthjustice.org/)** | **[Spring 2027 Legal Externship – International Program](https://jobright.ai/jobs/info/6a85f12274e02153f145978c?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
