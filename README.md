@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Univest](http://www.univest.net/)** | **[Mortgage Intern - Part-time](https://jobright.ai/jobs/info/6a8e4581ef981311b92fbcac?utm_campaign=1055&utm_source=git)** | Pennsylvania, United States | On Site | Aug 25 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Compliance Data Analyst](https://jobright.ai/jobs/info/6a8dc34947679c68bf5e46e6?utm_campaign=1055&utm_source=git)** | Worcester, MA, United States | On Site | Aug 25 |
 | **[MAHLE](https://www.mahle.com)** | **[Foreign Trade Intern (2/2)](https://jobright.ai/jobs/info/6a8dfe69d34f700f87fd748c?utm_campaign=1055&utm_source=git)** | Farmington Hills, MI, United States | On Site | Aug 25 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Legal Assistant Intern (Unpaid) (2418)](https://jobright.ai/jobs/info/6a7b8a52b933773d16be8273?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | On Site | Aug 25 |
@@ -72,10 +73,10 @@ For a complete list, click the following sortable link below:
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dd0d947679c68bf5e4ea8?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 25 |
 | **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Governance & Reporting Intern [2027 EDGE Program]](https://jobright.ai/jobs/info/6a8dfabb47679c68bf5e5e85?utm_campaign=1055&utm_source=git)** | Tampa, FL, United States | Hybrid | Aug 25 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Legal (Office of General Counsel)](https://jobright.ai/jobs/info/6a8dc351a5639a48103275d1?utm_campaign=1055&utm_source=git)** | Worcester, MA, United States | Hybrid | Aug 25 |
-| ↳ | **[Intern - Information Governance & e-Discovery](https://jobright.ai/jobs/info/6a8dc33dcc0cf27068524f62?utm_campaign=1055&utm_source=git)** | Worcester, MA, United States | On Site | Aug 25 |
+| ↳ | **[Intern - Information Governance & e-Discovery](https://jobright.ai/jobs/info/6a8dc34025fc4e7ae3dbd861?utm_campaign=1055&utm_source=git)** | Worcester, MA, United States | On Site | Aug 25 |
 | **[Grant Thornton Isle of Man](http://www.grantthornton.co.im)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dd905a5639a481032806e?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 25 |
 | **[Grant Thornton (NI) LLP](http://www.grantthorntonni.com/brexit/)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dd85247679c68bf5e510a?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 25 |
-| **[AFL](http://www.AFLglobal.com)** | **[International Trade Intern- Fall 2026](https://jobright.ai/jobs/info/6a55877fae07d60a8d011d78?utm_campaign=1055&utm_source=git)** | Duncan, SC, United States | On Site | Aug 25 |
+| **[AFL](http://www.AFLglobal.com)** | **[International Trade Intern- Fall 2026](https://jobright.ai/jobs/info/6a55d0d32ce8bf79a13a172c?utm_campaign=1055&utm_source=git)** | Duncan, SC, United States | On Site | Aug 25 |
 | **[Univest](http://www.univest.net/)** | **[Mortgage Intern - Part-time](https://jobright.ai/jobs/info/6a8dd2fccc0cf270685257ed?utm_campaign=1055&utm_source=git)** | Pennsylvania, United States | On Site | Aug 25 |
 | **[Grant Thornton Ireland](https://www.grantthornton.ie)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dcfad25fc4e7ae3dbdf26?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 25 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Legal Extern 2026](https://jobright.ai/jobs/info/6a8e167325fc4e7ae3dbfa4e?utm_campaign=1055&utm_source=git)** | Frisco, TX, United States | On Site | Aug 25 |
@@ -121,8 +122,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Northwest Regional Clerkship](https://jobright.ai/jobs/info/6a54b9498215bf1b856b6c44?utm_campaign=1055&utm_source=git)** | Seattle, WA, United States | Hybrid | Aug 24 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Risk, Resilience - Summer 2027 (New York)](https://jobright.ai/jobs/info/6a8c6186d34f700f87fd0179?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
 | **[BNY](https://www.bny.com)** | **[2027 BNY Summer Internship Program - Risk and Compliance (Pittsburgh, PA)](https://jobright.ai/jobs/info/6a8c3f5fcde3717f9e9bc03b?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Aug 24 |
-| ↳ | **[2027 BNY Summer Internship Program - Risk and Compliance (New York, NY)](https://jobright.ai/jobs/info/6a8c3f561d96e6541c8bfb84?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Aug 24 |
 | ↳ | **[2027 BNY Summer Internship Program - Risk and Compliance (Lake Mary, FL)](https://jobright.ai/jobs/info/6a8c3f56d34f700f87fcf67b?utm_campaign=1055&utm_source=git)** | Lake Mary, FL, United States | Hybrid | Aug 24 |
+| ↳ | **[2027 BNY Summer Internship Program - Risk and Compliance (New York, NY)](https://jobright.ai/jobs/info/6a8c3f561d96e6541c8bfb84?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Aug 24 |
 | **[Onal Gallant](https://www.ogplawfirm.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a8c3bf225fc4e7ae3db72ba?utm_campaign=1055&utm_source=git)** | Elmwood Park, NJ, United States | On Site | Aug 24 |
 | **[Earthjustice](http://earthjustice.org/)** | **[2027 California Regional Clerkship](https://jobright.ai/jobs/info/6a60421771c79e639619aba9?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 24 |
 | **[Expeditors](http://www.expeditors.com)** | **[Full-Time Internship - Customs Brokerage](https://jobright.ai/jobs/info/6a616c6ceaa37f43e75888a3?utm_campaign=1055&utm_source=git)** | Torrance, California, United States | On Site | Aug 24 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Risk Management Intern/Co-op (Summer 2027)](https://jobright.ai/jobs/info/6a8876564afae74a0834bbce?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 21 |
 | **[Earthjustice](http://earthjustice.org/)** | **[2027 Strategic Legal Advocacy Clerkship](https://jobright.ai/jobs/info/6a615b6ed51f6101c8fbb419?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 21 |
 | **[The Citco Group Limited](https://www.citco.com)** | **[Regulatory AML Compliance Intern (12-Month Fixed-Term Contract)](https://jobright.ai/jobs/info/6a8682f22f4f0014cae29b96?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 21 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a6b5f36c00ae03109f837c7?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Aug 21 |
-| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a840f6d6cd9495f31074afe?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Aug 21 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a840f6d6cd9495f31074afe?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
