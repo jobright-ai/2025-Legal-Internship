@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BAE Systems](http://www.baesystems.com)** | **[Corporate Legal Intern IV, Fall 2026 (Hybrid)](https://jobright.ai/jobs/info/6a92f36e8e5968545337a269?utm_campaign=1055&utm_source=git)** | Arlington, VA, United States | Hybrid | Aug 29 |
 | **[Koch Engineered Solutions](http://www.kochengineeredsolutions.com/)** | **[Summer 2027 Undergrad Legal & Compliance Rotational Internship – Wichita](https://jobright.ai/jobs/info/6a92c2a58e59685453379ca7?utm_campaign=1055&utm_source=git)** | Wichita, KS, United States | On Site | Aug 29 |
 | ↳ | **[Summer 2027 Undergrad Legal & Compliance Rotational Internship – Atlanta](https://jobright.ai/jobs/info/6a92c29f9864261ccd2a1076?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 29 |
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[NY Summer 2027 Legal Intern](https://jobright.ai/jobs/info/6a76235ca26ccc369f833e5a?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 29 |
@@ -84,10 +85,10 @@ For a complete list, click the following sortable link below:
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Spring 2027 Litigation Intern](https://jobright.ai/jobs/info/6a91a9dc9864261ccd29e156?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Aug 28 |
 | ↳ | **[Spring 2027 Litigation Intern](https://jobright.ai/jobs/info/6a91a7c0c12c90443efc732f?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Aug 28 |
 | **[Grant Thornton Isle of Man](http://www.grantthornton.co.im)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a91a6bbd18f756748279249?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Aug 28 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dd0d947679c68bf5e4ea8?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 28 |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a904f5a8ffa38557e6cc19b?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 28 |
 | ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8e194647679c68bf5e6a80?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 28 |
+| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dd0d947679c68bf5e4ea8?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 28 |
 | ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a903b442e254e06fb9efb87?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | Hybrid | Aug 28 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a904f5a8ffa38557e6cc19b?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 28 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Legal Team Intern (Unpaid)](https://jobright.ai/jobs/info/6a461c3f0dd56c76cc2f6005?utm_campaign=1055&utm_source=git)** | New York, NY RAI USA, United States of America | Hybrid | Aug 28 |
 | **[UHY-US](https://uhy-us.com/)** | **[2027 Risk Advisory Summer Internship - Maryland](https://jobright.ai/jobs/info/6a910b7a7c32860d14cfbfa1?utm_campaign=1055&utm_source=git)** | Columbia, MD, United States | On Site | Aug 28 |
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[Summer Associate 2027 Risk Solutions - Alabama, Atlanta, Charlotte, Florida](https://jobright.ai/jobs/info/6a74b3ab972ac843c69969f9?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 28 |
@@ -117,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Grant Thornton Isle of Man](http://www.grantthornton.co.im)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a9059767c32860d14cf8d18?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 27 |
 | **[Grant Thornton Ireland](https://www.grantthornton.ie)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a9059722e254e06fb9f05a5?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 27 |
 | **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Compliance Intern [2027 Internship Program]](https://jobright.ai/jobs/info/6a90535d8ffa38557e6cc321?utm_campaign=1055&utm_source=git)** | Jersey City, NJ, United States | Hybrid | Aug 27 |
-| **[Grant Thornton (NI) LLP](http://www.grantthorntonni.com/brexit/)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a90503ba19886486676058c?utm_campaign=1055&utm_source=git)** | Southfield, MI, United States | Hybrid | Aug 27 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a90503bd96ad228f12607e1?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | Hybrid | Aug 27 |
+| **[Grant Thornton (NI) LLP](http://www.grantthorntonni.com/brexit/)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a90503bd96ad228f12607e1?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | Hybrid | Aug 27 |
+| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a90503ba19886486676058c?utm_campaign=1055&utm_source=git)** | Southfield, MI, United States | Hybrid | Aug 27 |
 | ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a905039d96ad228f12607df?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 27 |
 | **[BBB National Programs](https://bbbprograms.org/)** | **[Fall 2026: Global Privacy Initiatives Externship](https://jobright.ai/jobs/info/6a904ede7c32860d14cf8919?utm_campaign=1055&utm_source=git)** | McLean, VA, United States | On Site | Aug 27 |
 | **[Grant Thornton Ireland](https://www.grantthornton.ie)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a904b66a198864866760314?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | Hybrid | Aug 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[99](https://99app.com/)** | **[Legal Intern Talent Pool](https://jobright.ai/jobs/info/6a8ef6703ac3a34f92d7ebc4?utm_campaign=1055&utm_source=git)** | Bogotá, CO, United States | On Site | Aug 26 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a1d67029111f771d1a189cf?utm_campaign=1055&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 26 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Legal Intern](https://jobright.ai/jobs/info/6a51b10a78e364789ca5b04a?utm_campaign=1055&utm_source=git)** | Calabasas, CA, United States | On Site | Aug 26 |
-| **[Clarios](https://www.clarios.com/)** | **[Legal Intern (Year-Round)](https://jobright.ai/jobs/info/6a72541c02d93145bf894294?utm_campaign=1055&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
