@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Legal Aid Society](https://legalaidnyc.org/)** | **[Civil Practice Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a82a8cb379c304e892f3235?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 30 |
+| **[First Internet Bank](https://www.firstib.com)** | **[Risk Intern](https://jobright.ai/jobs/info/6a95233fd18f7567482801ec?utm_campaign=1055&utm_source=git)** | Fishers, IN, United States | On Site | Aug 30 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Masters Summer Internship Program - 2027, Global Risk & Compliance - New York, NY](https://jobright.ai/jobs/info/6a9514eb1e67aa542830d929?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Aug 30 |
 | **[IBM](http://www.ibm.com)** | **[2027 Risk Management & Controls Intern – Americas](https://jobright.ai/jobs/info/6a94e7e2c12c90443efcdfde?utm_campaign=1055&utm_source=git)** | Armonk, NY, United States | Hybrid | Aug 30 |
 | **[Harris County District Attorney's Office](https://www.harriscountyda.com)** | **[2027 Pre-commit (February & July 2027 Bar Takers)](https://jobright.ai/jobs/info/6a94e326c12c90443efcdfa6?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | On Site | Aug 30 |
@@ -100,9 +102,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2027 Litigation Intern](https://jobright.ai/jobs/info/6a91a7c0c12c90443efc732f?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | On Site | Aug 28 |
 | **[Grant Thornton Isle of Man](http://www.grantthornton.co.im)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a91a6bbd18f756748279249?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Aug 28 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a904f5a8ffa38557e6cc19b?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 28 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dd0d947679c68bf5e4ea8?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 28 |
 | ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a903b442e254e06fb9efb87?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | Hybrid | Aug 28 |
 | ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8e194647679c68bf5e6a80?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 28 |
+| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dd0d947679c68bf5e4ea8?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 28 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Immigration Legal Team Intern (Unpaid)](https://jobright.ai/jobs/info/6a461c3f0dd56c76cc2f6005?utm_campaign=1055&utm_source=git)** | New York, NY RAI USA, United States of America | Hybrid | Aug 28 |
 | **[UHY-US](https://uhy-us.com/)** | **[2027 Risk Advisory Summer Internship - Maryland](https://jobright.ai/jobs/info/6a910b7a7c32860d14cfbfa1?utm_campaign=1055&utm_source=git)** | Columbia, MD, United States | On Site | Aug 28 |
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[Summer Associate 2027 Risk Solutions - Alabama, Atlanta, Charlotte, Florida](https://jobright.ai/jobs/info/6a74b3ab972ac843c69969f9?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 28 |
@@ -122,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Legal Intern](https://jobright.ai/jobs/info/6a90ac988ffa38557e6ce5ae?utm_campaign=1055&utm_source=git)** | Grand Prairie, TX, United States | On Site | Aug 27 |
 | **[Woods Hole Oceanographic Institution](https://www.whoi.edu)** | **[Intellectual Property Portfolio Management Internship](https://jobright.ai/jobs/info/6a9058378ffa38557e6cc4be?utm_campaign=1055&utm_source=git)** | Woods Hole, MA, United States | Hybrid | Aug 27 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[RULE 9 INTERN - SUMMER INTERNSHIP 2027](https://jobright.ai/jobs/info/6a90905ba198864866761d41?utm_campaign=1055&utm_source=git)** | Everett, WA, United States | On Site | Aug 27 |
-| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Compliance Data Analyst](https://jobright.ai/jobs/info/6a9048f38ffa38557e6cbe9f?utm_campaign=1055&utm_source=git)** | Worcester, MA, United States | On Site | Aug 27 |
-| ↳ | **[Intern - Information Governance & e-Discovery](https://jobright.ai/jobs/info/6a903ae17c32860d14cf8348?utm_campaign=1055&utm_source=git)** | Worcester, MA, United States | On Site | Aug 27 |
+| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Compliance Data Analyst](https://jobright.ai/jobs/info/6a903ae0a19886486675ff1d?utm_campaign=1055&utm_source=git)** | Worcester, MA, United States | On Site | Aug 27 |
+| ↳ | **[Intern - Information Governance & e-Discovery](https://jobright.ai/jobs/info/6a9048f00bd89e205d2495c2?utm_campaign=1055&utm_source=git)** | Worcester, MA, United States | On Site | Aug 27 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Legal Intern: Summer 2027](https://jobright.ai/jobs/info/6a93b610a27a2d3c9848e6ac?utm_campaign=1055&utm_source=git)** | Albany, NY, United States | Hybrid | Aug 27 |
 | **[Lehi City](https://www.lehi-ut.gov/)** | **[Prosecution Internship](https://jobright.ai/jobs/info/6a8dfad1d34f700f87fd72d5?utm_campaign=1055&utm_source=git)** | Lehi, UT, United States | On Site | Aug 27 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Regulatory & Marketing Legal Intern](https://jobright.ai/jobs/info/6a5ad08c3ac7627fe9005211?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Florida](http://www.myflorida.com)** | **[DOT INTERN - D7 - 55990906](https://jobright.ai/jobs/info/6a9059e8d96ad228f1260b36?utm_campaign=1055&utm_source=git)** | Tampa, FL, United States | On Site | Aug 26 |
 | ↳ | **[DOT INTERN - D7 - 55990906](https://jobright.ai/jobs/info/6a906cdfa1988648667610b5?utm_campaign=1055&utm_source=git)** | Tampa, FL, United States | On Site | Aug 26 |
 | **[Acres](https://www.acres.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a8f7367d96ad228f125dca5?utm_campaign=1055&utm_source=git)** | Fayetteville, AR, United States | On Site | Aug 26 |
-| **[Wikimedia Foundation](http://wikimediafoundation.org)** | **[Legal Fellow (Spring 2027)](https://jobright.ai/jobs/info/6a8f2d37d7c91d0cf446dfcf?utm_campaign=1055&utm_source=git)** | Arizona, United States | Remote | Aug 26 |
-| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Contract Surety Underwriting](https://jobright.ai/jobs/info/6a8ef067382b237ac80c353d?utm_campaign=1055&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
