@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a9659e54c22023a07938fd3?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | Hybrid | Sep 02 |
 | **[Textron](http://textron.com)** | **[2027 Intern - Intellectual Property - Hunt Valley, MD](https://jobright.ai/jobs/info/6a97ebafaf954907d6570df3?utm_campaign=1055&utm_source=git)** | Hunt Valley, MD, United States | On Site | Sep 02 |
 | ↳ | **[2027 Trade Compliance Intern](https://jobright.ai/jobs/info/6a97eba2c8ed473c5c761926?utm_campaign=1055&utm_source=git)** | Augusta, GA, United States | On Site | Sep 02 |
 | ↳ | **[2027 Intern - Contracts - Hunt Valley, MD](https://jobright.ai/jobs/info/6a97eae4c8ed473c5c76190a?utm_campaign=1055&utm_source=git)** | Hunt Valley, MD, United States | On Site | Sep 02 |
@@ -74,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[SENIOR LAW CLERK](https://jobright.ai/jobs/info/6a975242b22f636c8141756e?utm_campaign=1055&utm_source=git)** | Los Angeles County, CA, United States | On Site | Sep 01 |
 | **[Public Counsel](https://publiccounsel.org)** | **[2027 Summer Intern - Opportunity Under Law Project](https://jobright.ai/jobs/info/6a973664f5337b2cf7320ad2?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 01 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov)** | **[FDA Global Generic Drug Regulatory Research Fellow](https://jobright.ai/jobs/info/6a97693db22f636c81417b57?utm_campaign=1055&utm_source=git)** | Silver Spring, MD, United States | On Site | Sep 01 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Capital Markets Compliance Data & Analytics (Year-Round)](https://jobright.ai/jobs/info/6a972925246d697dcee03b2a?utm_campaign=1055&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 01 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Capital Markets Compliance Data & Analytics (Year-Round)](https://jobright.ai/jobs/info/6a973157246d697dcee03d4a?utm_campaign=1055&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 01 |
 | **[Community Bank, N.A.](https://cbna.com/locations/naples)** | **[FIU BSA Intern](https://jobright.ai/jobs/info/6a971f70b22f636c81416012?utm_campaign=1055&utm_source=git)** | Syracuse, NY, United States | On Site | Sep 01 |
 | **[Union Pacific Railroad](http://www.up.com)** | **[Year Round Intern - Risk Management](https://jobright.ai/jobs/info/6a97574cd13b4819f39e0b05?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Sep 01 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Compliance Data Intern](https://jobright.ai/jobs/info/6a84c5bb58ded76ad8fe9737?utm_campaign=1055&utm_source=git)** | Topeka, KS, United States | On Site | Sep 01 |
@@ -87,11 +88,11 @@ For a complete list, click the following sortable link below:
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2027 Trade Compliance Intern](https://jobright.ai/jobs/info/6a974235d13b4819f39e03ad?utm_campaign=1055&utm_source=git)** | Augusta, GA, United States | On Site | Sep 01 |
 | **[Textron Aviation](http://txtav.com)** | **[2027 Trade Compliance Intern](https://jobright.ai/jobs/info/6a97437e246d697dcee048da?utm_campaign=1055&utm_source=git)** | Augusta, GA, United States | On Site | Sep 01 |
 | **[Torres & Zheng at Law, P.C.](www.torresbusinesslaw.com)** | **[NYC Law Firm - Legal Intern](https://jobright.ai/jobs/info/6a97383ee4e60e4b8da5cd07?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8e194647679c68bf5e6a80?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 01 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dd0d947679c68bf5e4ea8?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 01 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a904f5a8ffa38557e6cc19b?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 01 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a96f9a1f5337b2cf731efb0?utm_campaign=1055&utm_source=git)** | Newport Beach, CA, United States | Hybrid | Sep 01 |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a96f9a1f5337b2cf731efb0?utm_campaign=1055&utm_source=git)** | Newport Beach, CA, United States | Hybrid | Sep 01 |
+| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8e194647679c68bf5e6a80?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 01 |
 | ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a903b442e254e06fb9efb87?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | Hybrid | Sep 01 |
+| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a904f5a8ffa38557e6cc19b?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 01 |
+| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dd0d947679c68bf5e4ea8?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 01 |
 | ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95c93a9fcec5442372f0c2?utm_campaign=1055&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 01 |
 | ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95c93cc8763a3a87ffc077?utm_campaign=1055&utm_source=git)** | Arlington, VA, United States | On Site | Sep 01 |
 | ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95a00a3843db0159906186?utm_campaign=1055&utm_source=git)** | Charlotte, NC, United States | Hybrid | Sep 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Legal College Intern - Labor Relations & HR Policy](https://jobright.ai/jobs/info/6a931552a27a2d3c9848d6b4?utm_campaign=1055&utm_source=git)** | Columbus, OH, United States | On Site | Aug 31 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2027 Internship - RA/QA - Regulatory Affairs - Michigan](https://jobright.ai/jobs/info/6a95b8069fcec5442372ea6e?utm_campaign=1055&utm_source=git)** | Portage, MI, United States | On Site | Aug 31 |
 | **[US Tiger Securities, Inc.](https://www.itigerup.com/?lang=en_US)** | **[Brokerage Compliance Intern](https://jobright.ai/jobs/info/6a95fbe84c22023a079374b6?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 31 |
-| **[Leidos](https://www.leidos.com)** | **[Regulatory Document Intern](https://jobright.ai/jobs/info/6a95ac7a3843db0159906669?utm_campaign=1055&utm_source=git)** | United States | Remote | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
