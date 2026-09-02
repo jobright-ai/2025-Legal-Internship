@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lockton](https://www.lockton.com/offices/uk)** | **[Risk Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a973921246d697dcee04261?utm_campaign=1055&utm_source=git)** | Saint Louis, MO, United States | On Site | Sep 01 |
-| ↳ | **[Risk Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a975450e4e60e4b8da5d9f6?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
+| **[Community Legal Services of Philadelphia](https://clsphila.org/)** | **[Summer 2027 Law Student Internship](https://jobright.ai/jobs/info/6a97c5941e082875c173e7a5?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Sep 01 |
+| **[Stellantis](https://www.stellantis.com/)** | **[2027 Technical Safety & Regulatory Compliance (TSRC) Summer Internship](https://jobright.ai/jobs/info/6a97c4011e082875c173e754?utm_campaign=1055&utm_source=git)** | Auburn Hills, MI, United States | On Site | Sep 01 |
+| **[Lockton](https://www.lockton.com/offices/uk)** | **[Risk Solutions Intern - June 2027](https://jobright.ai/jobs/info/6a9738feb22f636c81416a3c?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
 | **[POET](http://www.poet.com)** | **[Financial Compliance Intern - Summer 2027](https://jobright.ai/jobs/info/6a97235a455eaf6a08c1ae55?utm_campaign=1055&utm_source=git)** | Sioux Falls, SD, United States | On Site | Sep 01 |
 | **[Cranfill Sumner LLP](http://cshlaw.com)** | **[2027 Summer Clerk Program - Charlotte/Raleigh/Wilmington](https://jobright.ai/jobs/info/6a38a2491232144fb1568de6?utm_campaign=1055&utm_source=git)** | Raleigh, NC, United States | On Site | Sep 01 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2027 Anti-Money Laundering Intern](https://jobright.ai/jobs/info/6a96ed5eb22f636c814148d0?utm_campaign=1055&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 01 |
@@ -79,14 +80,14 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2027 Trade Compliance Intern](https://jobright.ai/jobs/info/6a9741f8e4e60e4b8da5d3bd?utm_campaign=1055&utm_source=git)** | Augusta, GA, United States | On Site | Sep 01 |
 | **[Textron Aviation](http://txtav.com)** | **[2027 Trade Compliance Intern](https://jobright.ai/jobs/info/6a97437e246d697dcee048da?utm_campaign=1055&utm_source=git)** | Augusta, GA, United States | On Site | Sep 01 |
 | **[Torres & Zheng at Law, P.C.](www.torresbusinesslaw.com)** | **[NYC Law Firm - Legal Intern](https://jobright.ai/jobs/info/6a97383ee4e60e4b8da5cd07?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95c93cc8763a3a87ffc077?utm_campaign=1055&utm_source=git)** | Arlington, VA, United States | On Site | Sep 01 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a903b442e254e06fb9efb87?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | Hybrid | Sep 01 |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a903b442e254e06fb9efb87?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | Hybrid | Sep 01 |
 | ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95a00a3843db0159906186?utm_campaign=1055&utm_source=git)** | Charlotte, NC, United States | Hybrid | Sep 01 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8e194647679c68bf5e6a80?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 01 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dd0d947679c68bf5e4ea8?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 01 |
 | ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95c93a9fcec5442372f0c2?utm_campaign=1055&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 01 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a904f5a8ffa38557e6cc19b?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 01 |
 | ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a96f9a1f5337b2cf731efb0?utm_campaign=1055&utm_source=git)** | Newport Beach, CA, United States | Hybrid | Sep 01 |
+| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95c93cc8763a3a87ffc077?utm_campaign=1055&utm_source=git)** | Arlington, VA, United States | On Site | Sep 01 |
+| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dd0d947679c68bf5e4ea8?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 01 |
+| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8e194647679c68bf5e6a80?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 01 |
+| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a904f5a8ffa38557e6cc19b?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 01 |
 | **[ACLU of Pennsylvania](https://www.aclupa.org/)** | **[Summer 2027 Legal Intern - Second Year Law Student](https://jobright.ai/jobs/info/6a96d771b22f636c81413f57?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Sep 01 |
 | **[Merchants Bonding Company](http://merchantsbonding.com)** | **[Surety Underwriting Intern](https://jobright.ai/jobs/info/6a96765d69b865490a6322cd?utm_campaign=1055&utm_source=git)** | West Des Moines, IA, United States | On Site | Sep 01 |
 | **[Community Financial System, Inc.](https://communityfinancialsystem.com)** | **[FIU BSA Intern](https://jobright.ai/jobs/info/6a9723dd455eaf6a08c1ae88?utm_campaign=1055&utm_source=git)** | Syracuse, NY, United States | On Site | Sep 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Football League (NFL)](http://www.nfl.com)** | **[Law Clerk](https://jobright.ai/jobs/info/6a8368a29b859b227766e96e?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Aug 31 |
 | **[Grant Thornton Ireland](https://www.grantthornton.ie)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95d66d4c22023a0793635d?utm_campaign=1055&utm_source=git)** | Arlington, VA, United States | On Site | Aug 31 |
 | **[Grant Thornton (NI) LLP](http://www.grantthorntonni.com/brexit/)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95d663cabc9f6703e1a4a8?utm_campaign=1055&utm_source=git)** | Arlington, VA, United States | On Site | Aug 31 |
-| **[Grant Thornton Isle of Man](http://www.grantthornton.co.im)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95d4e14c22023a079362c1?utm_campaign=1055&utm_source=git)** | Arlington, VA, United States | On Site | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
