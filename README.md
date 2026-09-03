@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Corporate Compliance Student - (4 Months) - Winter 2027](https://jobright.ai/jobs/info/6a99a942551435518ebf02f8?utm_campaign=1055&utm_source=git)** | Oakville, ON, Canada | On Site | Sep 03 |
 | **[Array Digital Infrastructure, Inc.](https://www.arrayinc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a99b71c8a8b765bc55f5002?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 03 |
 | **[Grant Thornton Ireland](https://www.grantthornton.ie)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a99ad81138838706058f941?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Sep 03 |
 | **[Grant Thornton (NI) LLP](http://www.grantthorntonni.com/brexit/)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a99a84a040e5c3d07597eb5?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Sep 03 |
@@ -95,9 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Earthjustice](http://earthjustice.org/)** | **[2027 Strategic Legal Advocacy Clerkship](https://jobright.ai/jobs/info/6a615b6ed51f6101c8fbb419?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 02 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Regulatory Intern (Summer 2027)](https://jobright.ai/jobs/info/6a959d12f28891320e85cc15?utm_campaign=1055&utm_source=git)** | Ohio, United States | On Site | Sep 02 |
 | **[State of Missouri](http://mo.gov)** | **[Summer Intern - Springfield Right of Way](https://jobright.ai/jobs/info/6a99043c11f73b6462c8ffa7?utm_campaign=1055&utm_source=git)** | Springfield, MO, United States | On Site | Sep 02 |
-| **[RTX](http://rtx.com/)** | **[Contracts Coop (Spring/Summer 2027)](https://jobright.ai/jobs/info/6a99817990a313642c6509d4?utm_campaign=1055&utm_source=git)** | Windsor Locks, CT, United States | Hybrid | Sep 02 |
-| ↳ | **[Contracts Coop ( Spring/Summer 2027)](https://jobright.ai/jobs/info/6a998186138838706058e2c0?utm_campaign=1055&utm_source=git)** | Everett, WA, United States | Remote | Sep 02 |
-| **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Corporate Compliance Student - (4 Months) - Winter 2027](https://jobright.ai/jobs/info/6a99a942551435518ebf02f8?utm_campaign=1055&utm_source=git)** | Oakville, ON, Canada | On Site | Sep 02 |
+| **[RTX](http://rtx.com/)** | **[Contracts Coop ( Spring/Summer 2027)](https://jobright.ai/jobs/info/6a998186138838706058e2c0?utm_campaign=1055&utm_source=git)** | Everett, WA, United States | Remote | Sep 02 |
+| ↳ | **[Contracts Coop (Spring/Summer 2027)](https://jobright.ai/jobs/info/6a99817990a313642c6509d4?utm_campaign=1055&utm_source=git)** | Windsor Locks, CT, United States | Hybrid | Sep 02 |
 | **[Panasonic Appliances Refrigeration Systems de México S. A. de C. V.](https://www.hussmann.com/en)** | **[Intern - Trade Compliance](https://jobright.ai/jobs/info/6a983df1c8ed473c5c762c68?utm_campaign=1055&utm_source=git)** | Bridgeton, MO, United States | On Site | Sep 02 |
 | **[Robins Kaplan LLP](http://robinskaplan.com)** | **[Fall Paralegal Internship](https://jobright.ai/jobs/info/6a5e4ff2270e3033b045d0f7?utm_campaign=1055&utm_source=git)** | Minneapolis, MN, United States | On Site | Sep 02 |
 | **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[Intern (Ethics)](https://jobright.ai/jobs/info/6a989c2711f73b6462c8fa42?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 02 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Humana](http://www.humana.com)** | **[Quality Compliance Professional](https://jobright.ai/jobs/info/6a98649111f73b6462c8e604?utm_campaign=1055&utm_source=git)** | South Carolina, United States | Remote | Sep 01 |
 | **[Howden](http://www.howdengroup.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/6a987ad4af954907d6573923?utm_campaign=1055&utm_source=git)** | Edina, MN, United States | Remote | Sep 01 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Intern - Assoc Customer Contracts Administrator](https://jobright.ai/jobs/info/6a998fbf040e5c3d07596fb9?utm_campaign=1055&utm_source=git)** | Richmond, VA, United States | On Site | Sep 01 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Capital Markets Compliance Data & Analytics (Year-Round)](https://jobright.ai/jobs/info/6a972925246d697dcee03b2a?utm_campaign=1055&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 01 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Capital Markets Compliance Data & Analytics (Year-Round)](https://jobright.ai/jobs/info/6a973157246d697dcee03d4a?utm_campaign=1055&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 01 |
 | **[Community Bank, N.A.](https://cbna.com/locations/naples)** | **[FIU BSA Intern](https://jobright.ai/jobs/info/6a971f70b22f636c81416012?utm_campaign=1055&utm_source=git)** | Syracuse, NY, United States | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
