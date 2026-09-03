@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a9993638a8b765bc55f3c5e?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 03 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Salem - Spring 2027](https://jobright.ai/jobs/info/6a9985c5138838706058e429?utm_campaign=1055&utm_source=git)** | Salem, MA, United States | On Site | Sep 03 |
 | **[Sands Anderson PC](http://sandsanderson.com)** | **[Law Student Intern - Williamsburg Office](https://jobright.ai/jobs/info/6a998171ad752e2ad54ffd8d?utm_campaign=1055&utm_source=git)** | Williamsburg, VA, United States | On Site | Sep 03 |
 | **[City of New York](https://www.nyc.gov)** | **[LEGAL AFFAIRS - COLLEGE AIDE](https://jobright.ai/jobs/info/6a99760390a313642c6506cc?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | On Site | Sep 03 |
@@ -71,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Spring 2027 - CAFL Hyannis](https://jobright.ai/jobs/info/6a983f1fdd171c728579101d?utm_campaign=1055&utm_source=git)** | Hyannis, MA, United States | Hybrid | Sep 02 |
 | ↳ | **[Internship - CAFL Lowell - Spring 2027](https://jobright.ai/jobs/info/6a983efbaf954907d6572224?utm_campaign=1055&utm_source=git)** | Lowell, MA, United States | On Site | Sep 02 |
 | ↳ | **[Internship - YAD Worcester - Spring 2027](https://jobright.ai/jobs/info/6a983f0e83fc6333576304d3?utm_campaign=1055&utm_source=git)** | Worcester, MA, United States | Hybrid | Sep 02 |
-| **[RBC](https://www.rbc.com)** | **[2027 Winter - CLAO, Procurement Solutions Desk Intern (4 Months)](https://jobright.ai/jobs/info/6a988680af954907d6573d27?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 02 |
+| **[RBC](https://www.rbc.com)** | **[2027 Winter - CLAO, Procurement Solutions Desk Intern (4 Months)](https://jobright.ai/jobs/info/6a988c63c8ed473c5c764b88?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 02 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Quincy - Spring 2027](https://jobright.ai/jobs/info/6a983efac8ed473c5c762cc9?utm_campaign=1055&utm_source=git)** | Quincy, MA, United States | On Site | Sep 02 |
 | ↳ | **[Internship Spring 2027 - PDD Brockton](https://jobright.ai/jobs/info/6a983efec8ed473c5c762ccc?utm_campaign=1055&utm_source=git)** | Brockton, MA, United States | On Site | Sep 02 |
 | ↳ | **[Internship Spring 2027 - PDD Fall River](https://jobright.ai/jobs/info/6a983eefdd171c7285791003?utm_campaign=1055&utm_source=git)** | Fall River, MA, United States | On Site | Sep 02 |
@@ -109,8 +110,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - PDD Quincy - Spring 2027](https://jobright.ai/jobs/info/6a983a3283fc63335763032c?utm_campaign=1055&utm_source=git)** | Quincy, MA, United States | On Site | Sep 02 |
 | ↳ | **[Internship Spring 2027 - PDD Brockton](https://jobright.ai/jobs/info/6a983a26c8ed473c5c762b10?utm_campaign=1055&utm_source=git)** | Brockton, MA, United States | On Site | Sep 02 |
 | ↳ | **[Internship Spring 2027 - CAFL Hyannis](https://jobright.ai/jobs/info/6a983a23c8ed473c5c762b0e?utm_campaign=1055&utm_source=git)** | Hyannis, MA, United States | Hybrid | Sep 02 |
-| ↳ | **[Internship - CAFL Lowell - Spring 2027](https://jobright.ai/jobs/info/6a983a1edd171c7285790e68?utm_campaign=1055&utm_source=git)** | Lowell, MA, United States | Hybrid | Sep 02 |
 | ↳ | **[Internship - YAD Worcester - Spring 2027](https://jobright.ai/jobs/info/6a983a1edd171c7285790e6a?utm_campaign=1055&utm_source=git)** | Worcester, MA, United States | On Site | Sep 02 |
+| ↳ | **[Internship - CAFL Lowell - Spring 2027](https://jobright.ai/jobs/info/6a983a1edd171c7285790e68?utm_campaign=1055&utm_source=git)** | Lowell, MA, United States | Hybrid | Sep 02 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[PIP Paralegal Intern](https://jobright.ai/jobs/info/6a95e189f28891320e85e9bd?utm_campaign=1055&utm_source=git)** | Woodbridge, NJ, United States | On Site | Sep 02 |
 | **[Lawyering Project](https://lawyeringproject.org)** | **[Summer 2027 Legal Intern](https://jobright.ai/jobs/info/6a983452c8ed473c5c762838?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 02 |
 | **[Teacher Retirement System of Texas](https://www.trs.texas.gov/Pages/Homepage.aspx)** | **[Legal and Compliance Intern (Fall 2026)](https://jobright.ai/jobs/info/6a8c875fd34f700f87fd1181?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 02 |
@@ -140,7 +141,8 @@ For a complete list, click the following sortable link below:
 | **[IAT Insurance Group](https://www.iatinsurancegroup.com)** | **[Surety Underwriting Internship (Commercial Surety)](https://jobright.ai/jobs/info/6a9977df551435518ebee8e0?utm_campaign=1055&utm_source=git)** | Norristown, PA, United States | Hybrid | Sep 01 |
 | **[Humana](http://www.humana.com)** | **[Quality Compliance Professional](https://jobright.ai/jobs/info/6a98649111f73b6462c8e604?utm_campaign=1055&utm_source=git)** | South Carolina, United States | Remote | Sep 01 |
 | **[Howden](http://www.howdengroup.com)** | **[Contracts Intern](https://jobright.ai/jobs/info/6a987ad4af954907d6573923?utm_campaign=1055&utm_source=git)** | Edina, MN, United States | Remote | Sep 01 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Capital Markets Compliance Data & Analytics (Year-Round)](https://jobright.ai/jobs/info/6a972925246d697dcee03b2a?utm_campaign=1055&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 01 |
+| **[Dominion Energy](http://www.dominionenergy.com)** | **[Intern - Assoc Customer Contracts Administrator](https://jobright.ai/jobs/info/6a998fbf040e5c3d07596fb9?utm_campaign=1055&utm_source=git)** | Richmond, VA, United States | On Site | Sep 01 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Capital Markets Compliance Data & Analytics (Year-Round)](https://jobright.ai/jobs/info/6a973157246d697dcee03d4a?utm_campaign=1055&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 01 |
 | **[Community Bank, N.A.](https://cbna.com/locations/naples)** | **[FIU BSA Intern](https://jobright.ai/jobs/info/6a971f70b22f636c81416012?utm_campaign=1055&utm_source=git)** | Syracuse, NY, United States | On Site | Sep 01 |
 | **[Union Pacific Railroad](http://www.up.com)** | **[Year Round Intern - Risk Management](https://jobright.ai/jobs/info/6a97574cd13b4819f39e0b05?utm_campaign=1055&utm_source=git)** | Omaha, NE, United States | On Site | Sep 01 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Compliance Data Intern](https://jobright.ai/jobs/info/6a84c5bb58ded76ad8fe9737?utm_campaign=1055&utm_source=git)** | Topeka, KS, United States | On Site | Sep 01 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2027 Trade Compliance Intern](https://jobright.ai/jobs/info/6a974235d13b4819f39e03ad?utm_campaign=1055&utm_source=git)** | Augusta, GA, United States | On Site | Sep 01 |
 | **[Textron Aviation](http://txtav.com)** | **[2027 Trade Compliance Intern](https://jobright.ai/jobs/info/6a97437e246d697dcee048da?utm_campaign=1055&utm_source=git)** | Augusta, GA, United States | On Site | Sep 01 |
 | **[Torres & Zheng at Law, P.C.](www.torresbusinesslaw.com)** | **[NYC Law Firm - Legal Intern](https://jobright.ai/jobs/info/6a97383ee4e60e4b8da5cd07?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95c93a9fcec5442372f0c2?utm_campaign=1055&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 01 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8e194647679c68bf5e6a80?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 01 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a904f5a8ffa38557e6cc19b?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 01 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dd0d947679c68bf5e4ea8?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 01 |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8e194647679c68bf5e6a80?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 01 |
+| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95c93a9fcec5442372f0c2?utm_campaign=1055&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
