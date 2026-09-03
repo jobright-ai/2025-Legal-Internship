@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mona Shah & Partners Global](http://www.mshahlaw.com)** | **[Legal Internship](https://jobright.ai/jobs/info/6a9956e48a8b765bc55f282d?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 03 |
 | **[IAT Insurance Group](https://www.iatinsurancegroup.com)** | **[Surety Underwriting Internship (Contract & Commercial Surety)](https://jobright.ai/jobs/info/6a9896ccdd171c7285793260?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO, United States | Hybrid | Sep 02 |
 | **[IBM](http://www.ibm.com)** | **[2027 Risk Management & Controls Intern – Americas](https://jobright.ai/jobs/info/6a9917a1dd171c7285793b74?utm_campaign=1055&utm_source=git)** | Armonk, NY, United States | Hybrid | Sep 02 |
 | **[Segal](https://www.segalco.com)** | **[2027 Summer Intern - Compliance](https://jobright.ai/jobs/info/6a990bba11f73b6462c90279?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 02 |
@@ -65,7 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Spring 2027 - CAFL Hyannis](https://jobright.ai/jobs/info/6a983f1fdd171c728579101d?utm_campaign=1055&utm_source=git)** | Hyannis, MA, United States | Hybrid | Sep 02 |
 | ↳ | **[Internship - CAFL Lowell - Spring 2027](https://jobright.ai/jobs/info/6a983efbaf954907d6572224?utm_campaign=1055&utm_source=git)** | Lowell, MA, United States | On Site | Sep 02 |
 | ↳ | **[Internship - YAD Worcester - Spring 2027](https://jobright.ai/jobs/info/6a983f0e83fc6333576304d3?utm_campaign=1055&utm_source=git)** | Worcester, MA, United States | Hybrid | Sep 02 |
-| **[RBC](https://www.rbc.com)** | **[2027 Winter - CLAO, Procurement Solutions Desk Intern (4 Months)](https://jobright.ai/jobs/info/6a988c63c8ed473c5c764b88?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 02 |
+| **[RBC](https://www.rbc.com)** | **[2027 Winter - CLAO, Procurement Solutions Desk Intern (4 Months)](https://jobright.ai/jobs/info/6a988680af954907d6573d27?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 02 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Quincy - Spring 2027](https://jobright.ai/jobs/info/6a983efac8ed473c5c762cc9?utm_campaign=1055&utm_source=git)** | Quincy, MA, United States | On Site | Sep 02 |
 | ↳ | **[Internship Spring 2027 - PDD Brockton](https://jobright.ai/jobs/info/6a983efec8ed473c5c762ccc?utm_campaign=1055&utm_source=git)** | Brockton, MA, United States | On Site | Sep 02 |
 | ↳ | **[Internship Spring 2027 - PDD Fall River](https://jobright.ai/jobs/info/6a983eefdd171c7285791003?utm_campaign=1055&utm_source=git)** | Fall River, MA, United States | On Site | Sep 02 |
@@ -142,19 +143,18 @@ For a complete list, click the following sortable link below:
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2027 Trade Compliance Intern](https://jobright.ai/jobs/info/6a974235d13b4819f39e03ad?utm_campaign=1055&utm_source=git)** | Augusta, GA, United States | On Site | Sep 01 |
 | **[Textron Aviation](http://txtav.com)** | **[2027 Trade Compliance Intern](https://jobright.ai/jobs/info/6a97437e246d697dcee048da?utm_campaign=1055&utm_source=git)** | Augusta, GA, United States | On Site | Sep 01 |
 | **[Torres & Zheng at Law, P.C.](www.torresbusinesslaw.com)** | **[NYC Law Firm - Legal Intern](https://jobright.ai/jobs/info/6a97383ee4e60e4b8da5cd07?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dd0d947679c68bf5e4ea8?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 01 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a904f5a8ffa38557e6cc19b?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 01 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95c93cc8763a3a87ffc077?utm_campaign=1055&utm_source=git)** | Arlington, VA, United States | On Site | Sep 01 |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8e194647679c68bf5e6a80?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 01 |
 | ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a903b442e254e06fb9efb87?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | Hybrid | Sep 01 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8e194647679c68bf5e6a80?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 01 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95a00a3843db0159906186?utm_campaign=1055&utm_source=git)** | Charlotte, NC, United States | Hybrid | Sep 01 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a96f9a1f5337b2cf731efb0?utm_campaign=1055&utm_source=git)** | Newport Beach, CA, United States | Hybrid | Sep 01 |
+| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95c93cc8763a3a87ffc077?utm_campaign=1055&utm_source=git)** | Arlington, VA, United States | On Site | Sep 01 |
+| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dd0d947679c68bf5e4ea8?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 01 |
 | ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95c93a9fcec5442372f0c2?utm_campaign=1055&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 01 |
+| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a96f9a1f5337b2cf731efb0?utm_campaign=1055&utm_source=git)** | Newport Beach, CA, United States | Hybrid | Sep 01 |
+| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95a00a3843db0159906186?utm_campaign=1055&utm_source=git)** | Charlotte, NC, United States | Hybrid | Sep 01 |
+| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a904f5a8ffa38557e6cc19b?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 01 |
 | **[ACLU of Pennsylvania](https://www.aclupa.org/)** | **[Summer 2027 Legal Intern - Second Year Law Student](https://jobright.ai/jobs/info/6a96d771b22f636c81413f57?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Sep 01 |
 | **[Merchants Bonding Company](http://merchantsbonding.com)** | **[Surety Underwriting Intern](https://jobright.ai/jobs/info/6a96765d69b865490a6322cd?utm_campaign=1055&utm_source=git)** | West Des Moines, IA, United States | On Site | Sep 01 |
 | **[Community Financial System, Inc.](https://communityfinancialsystem.com)** | **[FIU BSA Intern](https://jobright.ai/jobs/info/6a9723dd455eaf6a08c1ae88?utm_campaign=1055&utm_source=git)** | Syracuse, NY, United States | On Site | Sep 01 |
 | **[Public Counsel](https://publiccounsel.org)** | **[2027 Summer Intern - Homelessness Prevention Law Project](https://jobright.ai/jobs/info/6a9714a3d13b4819f39def2c?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 01 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Internship, Supervision and Risk Management (SRM)- Summer 2027- Oklahoma City](https://jobright.ai/jobs/info/6a96e309d13b4819f39dd82c?utm_campaign=1055&utm_source=git)** | Oklahoma City, OK, United States | Hybrid | Sep 01 |
 | ↳ | **[Internship, Supervision and Risk Management (SRM)- Summer 2027- Denver](https://jobright.ai/jobs/info/6a96e324e4e60e4b8da5a819?utm_campaign=1055&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 01 |
-| **[FMC Corporation](http://www.fmc.com)** | **[2027 Summer Intern - Legal](https://jobright.ai/jobs/info/6a96f6e1d13b4819f39ddf88?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
