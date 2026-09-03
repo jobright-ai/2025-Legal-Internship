@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Array Digital Infrastructure, Inc.](https://www.arrayinc.com)** | **[Legal Intern](https://jobright.ai/jobs/info/6a99b71c8a8b765bc55f5002?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 03 |
 | **[Grant Thornton Ireland](https://www.grantthornton.ie)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a99ad81138838706058f941?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Sep 03 |
 | **[Grant Thornton (NI) LLP](http://www.grantthorntonni.com/brexit/)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a99a84a040e5c3d07597eb5?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Sep 03 |
 | **[Anchor Glass Container LLC](http://www.anchorglass.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a99a7a3ad752e2ad5500ff0?utm_campaign=1055&utm_source=git)** | Tampa, FL, United States | On Site | Sep 03 |
@@ -67,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Credit & Fraud Analytics Intern (Winter 2027)](https://jobright.ai/jobs/info/6a999ddb8a8b765bc55f436e?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 03 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Intern-Legal](https://jobright.ai/jobs/info/6a85aeff4afae74a08340a08?utm_campaign=1055&utm_source=git)** | Madison, WI, United States | Remote | Sep 03 |
 | ↳ | **[Legal Intern](https://jobright.ai/jobs/info/6a9993638a8b765bc55f3c5e?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 03 |
-| **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Summer 2027 Litigation Intern](https://jobright.ai/jobs/info/6a7c7dcda346cb6c8d5edda9?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Sep 03 |
+| **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Summer 2027 Litigation Intern](https://jobright.ai/jobs/info/6a7c7e6177d5f033c4b8e6fb?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Sep 03 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Salem - Spring 2027](https://jobright.ai/jobs/info/6a9985c5138838706058e429?utm_campaign=1055&utm_source=git)** | Salem, MA, United States | On Site | Sep 03 |
 | **[Sands Anderson PC](http://sandsanderson.com)** | **[Law Student Intern - Williamsburg Office](https://jobright.ai/jobs/info/6a998171ad752e2ad54ffd8d?utm_campaign=1055&utm_source=git)** | Williamsburg, VA, United States | On Site | Sep 03 |
 | **[City of New York](https://www.nyc.gov)** | **[LEGAL AFFAIRS - COLLEGE AIDE](https://jobright.ai/jobs/info/6a99760390a313642c6506cc?utm_campaign=1055&utm_source=git)** | Brooklyn, NY, United States | On Site | Sep 03 |
@@ -83,7 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Spring 2027 - CAFL Hyannis](https://jobright.ai/jobs/info/6a983f1fdd171c728579101d?utm_campaign=1055&utm_source=git)** | Hyannis, MA, United States | Hybrid | Sep 02 |
 | ↳ | **[Internship - CAFL Lowell - Spring 2027](https://jobright.ai/jobs/info/6a983efbaf954907d6572224?utm_campaign=1055&utm_source=git)** | Lowell, MA, United States | On Site | Sep 02 |
 | ↳ | **[Internship - YAD Worcester - Spring 2027](https://jobright.ai/jobs/info/6a983f0e83fc6333576304d3?utm_campaign=1055&utm_source=git)** | Worcester, MA, United States | Hybrid | Sep 02 |
-| **[RBC](https://www.rbc.com)** | **[2027 Winter - CLAO, Procurement Solutions Desk Intern (4 Months)](https://jobright.ai/jobs/info/6a988680af954907d6573d27?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 02 |
+| **[RBC](https://www.rbc.com)** | **[2027 Winter - CLAO, Procurement Solutions Desk Intern (4 Months)](https://jobright.ai/jobs/info/6a988c63c8ed473c5c764b88?utm_campaign=1055&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 02 |
 | **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship - PDD Quincy - Spring 2027](https://jobright.ai/jobs/info/6a983efac8ed473c5c762cc9?utm_campaign=1055&utm_source=git)** | Quincy, MA, United States | On Site | Sep 02 |
 | ↳ | **[Internship Spring 2027 - PDD Brockton](https://jobright.ai/jobs/info/6a983efec8ed473c5c762ccc?utm_campaign=1055&utm_source=git)** | Brockton, MA, United States | On Site | Sep 02 |
 | ↳ | **[Internship Spring 2027 - PDD Fall River](https://jobright.ai/jobs/info/6a983eefdd171c7285791003?utm_campaign=1055&utm_source=git)** | Fall River, MA, United States | On Site | Sep 02 |
@@ -129,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Lawyering Project](https://lawyeringproject.org)** | **[Summer 2027 Legal Intern](https://jobright.ai/jobs/info/6a983452c8ed473c5c762838?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 02 |
 | **[Teacher Retirement System of Texas](https://www.trs.texas.gov/Pages/Homepage.aspx)** | **[Legal and Compliance Intern (Fall 2026)](https://jobright.ai/jobs/info/6a8c875fd34f700f87fd1181?utm_campaign=1055&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 02 |
 | **[Captive Resources, LLC](http://www.captiveresources.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a98247911f73b6462c8ccad?utm_campaign=1055&utm_source=git)** | Itasca, IL, United States | Hybrid | Sep 02 |
-| **[Delta Air Lines](https://www.delta.com)** | **[Graduate Intern, Corporate Compliance Quality (Spring 2027)](https://jobright.ai/jobs/info/6a7b6d66ecf5194164fbddb3?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 02 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Compliance Intern](https://jobright.ai/jobs/info/6a9659e54c22023a07938fd3?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | Hybrid | Sep 02 |
 | **[Orleans Public Defenders](https://opdla.org/)** | **[Client Advocate Internship Program, Spring, 2027](https://jobright.ai/jobs/info/6a9846dcc8ed473c5c762f86?utm_campaign=1055&utm_source=git)** | New Orleans, Louisiana, United States | On Site | Sep 02 |
 | **[Textron](http://textron.com)** | **[2027 Intern - Intellectual Property - Hunt Valley, MD](https://jobright.ai/jobs/info/6a97ebafaf954907d6570df3?utm_campaign=1055&utm_source=git)** | Hunt Valley, MD, United States | On Site | Sep 02 |
