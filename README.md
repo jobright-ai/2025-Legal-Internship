@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IAT Insurance Group](https://www.iatinsurancegroup.com)** | **[Surety Underwriting Internship (Contract & Commercial Surety)](https://jobright.ai/jobs/info/6a9896ccdd171c7285793260?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO, United States | Hybrid | Sep 02 |
+| **[IBM](http://www.ibm.com)** | **[2027 Risk Management & Controls Intern – Americas](https://jobright.ai/jobs/info/6a9917a1dd171c7285793b74?utm_campaign=1055&utm_source=git)** | Armonk, NY, United States | Hybrid | Sep 02 |
 | **[Segal](https://www.segalco.com)** | **[2027 Summer Intern - Compliance](https://jobright.ai/jobs/info/6a990bba11f73b6462c90279?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 02 |
 | **[Shure](http://www.shure.com)** | **[Information Security Governance, Risk & Compliance Intern](https://jobright.ai/jobs/info/6a989de983fc633357632931?utm_campaign=1055&utm_source=git)** | Niles, IL, United States | On Site | Sep 02 |
 | ↳ | **[Global Trade Compliance Intern](https://jobright.ai/jobs/info/6a989df9c8ed473c5c76521b?utm_campaign=1055&utm_source=git)** | Niles, IL, United States | Remote | Sep 02 |
@@ -66,8 +68,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Spring 2027 - PDD Fall River](https://jobright.ai/jobs/info/6a983eefdd171c7285791003?utm_campaign=1055&utm_source=git)** | Fall River, MA, United States | On Site | Sep 02 |
 | ↳ | **[Internship - PDD Malden - Spring 2027](https://jobright.ai/jobs/info/6a983a1c83fc63335763031e?utm_campaign=1055&utm_source=git)** | Malden, MA, United States | On Site | Sep 02 |
 | **[Nationwide](https://www.nationwide.com)** | **[Summer 2027 Surety Underwriting Intern](https://jobright.ai/jobs/info/6a989a6bdef18223c855069f?utm_campaign=1055&utm_source=git)** | Avon, CT, United States | Hybrid | Sep 02 |
-| **[IAT Insurance Group](https://www.iatinsurancegroup.com)** | **[Surety Underwriting Internship (Contract & Commercial Surety)](https://jobright.ai/jobs/info/6a9896ccdd171c7285793260?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO, United States | Hybrid | Sep 02 |
-| ↳ | **[Surety Underwriting Internship (Contract Surety)](https://jobright.ai/jobs/info/6a985d8aaf954907d6572f8d?utm_campaign=1055&utm_source=git)** | Plano, TX, United States | Hybrid | Sep 02 |
+| **[IAT Insurance Group](https://www.iatinsurancegroup.com)** | **[Surety Underwriting Internship (Contract Surety)](https://jobright.ai/jobs/info/6a985d8aaf954907d6572f8d?utm_campaign=1055&utm_source=git)** | Plano, TX, United States | Hybrid | Sep 02 |
 | **[Earthjustice](http://earthjustice.org/)** | **[2027 Strategic Legal Advocacy Clerkship](https://jobright.ai/jobs/info/6a615b6ed51f6101c8fbb419?utm_campaign=1055&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 02 |
 | **[State of Missouri](http://mo.gov)** | **[Summer Intern - Springfield Right of Way](https://jobright.ai/jobs/info/6a99043c11f73b6462c8ffa7?utm_campaign=1055&utm_source=git)** | Springfield, MO, United States | On Site | Sep 02 |
 | **[Panasonic Appliances Refrigeration Systems de México S. A. de C. V.](https://www.hussmann.com/en)** | **[Intern - Trade Compliance](https://jobright.ai/jobs/info/6a983df1c8ed473c5c762c68?utm_campaign=1055&utm_source=git)** | Bridgeton, MO, United States | On Site | Sep 02 |
@@ -137,13 +138,13 @@ For a complete list, click the following sortable link below:
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2027 Trade Compliance Intern](https://jobright.ai/jobs/info/6a974235d13b4819f39e03ad?utm_campaign=1055&utm_source=git)** | Augusta, GA, United States | On Site | Sep 01 |
 | **[Textron Aviation](http://txtav.com)** | **[2027 Trade Compliance Intern](https://jobright.ai/jobs/info/6a97437e246d697dcee048da?utm_campaign=1055&utm_source=git)** | Augusta, GA, United States | On Site | Sep 01 |
 | **[Torres & Zheng at Law, P.C.](www.torresbusinesslaw.com)** | **[NYC Law Firm - Legal Intern](https://jobright.ai/jobs/info/6a97383ee4e60e4b8da5cd07?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
-| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dd0d947679c68bf5e4ea8?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 01 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95c93cc8763a3a87ffc077?utm_campaign=1055&utm_source=git)** | Arlington, VA, United States | On Site | Sep 01 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95c93a9fcec5442372f0c2?utm_campaign=1055&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 01 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a96f9a1f5337b2cf731efb0?utm_campaign=1055&utm_source=git)** | Newport Beach, CA, United States | Hybrid | Sep 01 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a904f5a8ffa38557e6cc19b?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 01 |
-| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95a00a3843db0159906186?utm_campaign=1055&utm_source=git)** | Charlotte, NC, United States | Hybrid | Sep 01 |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95c93a9fcec5442372f0c2?utm_campaign=1055&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 01 |
+| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dd0d947679c68bf5e4ea8?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 01 |
 | ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a8e194647679c68bf5e6a80?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 01 |
+| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95a00a3843db0159906186?utm_campaign=1055&utm_source=git)** | Charlotte, NC, United States | Hybrid | Sep 01 |
+| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a904f5a8ffa38557e6cc19b?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 01 |
+| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a95c93cc8763a3a87ffc077?utm_campaign=1055&utm_source=git)** | Arlington, VA, United States | On Site | Sep 01 |
+| ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a96f9a1f5337b2cf731efb0?utm_campaign=1055&utm_source=git)** | Newport Beach, CA, United States | Hybrid | Sep 01 |
 | ↳ | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a903b442e254e06fb9efb87?utm_campaign=1055&utm_source=git)** | Cleveland, OH, United States | Hybrid | Sep 01 |
 | **[ACLU of Pennsylvania](https://www.aclupa.org/)** | **[Summer 2027 Legal Intern - Second Year Law Student](https://jobright.ai/jobs/info/6a96d771b22f636c81413f57?utm_campaign=1055&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Sep 01 |
 | **[Merchants Bonding Company](http://merchantsbonding.com)** | **[Surety Underwriting Intern](https://jobright.ai/jobs/info/6a96765d69b865490a6322cd?utm_campaign=1055&utm_source=git)** | West Des Moines, IA, United States | On Site | Sep 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship, Supervision and Risk Management (SRM)- Summer 2027- Kansas City](https://jobright.ai/jobs/info/6a96e2ffd13b4819f39dd828?utm_campaign=1055&utm_source=git)** | Kansas City, MO, United States | Hybrid | Sep 01 |
 | **[CNO Financial Group](http://www.cnoinc.com)** | **[Legal Intern Summer 2027 - REMOTE](https://jobright.ai/jobs/info/6a96cefe246d697dcee01558?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Washington National Insurance Company](http://www.washingtonnational.com/)** | **[Legal Intern Summer 2027 - REMOTE](https://jobright.ai/jobs/info/6a973b93455eaf6a08c1b899?utm_campaign=1055&utm_source=git)** | Carmel, IN, United States | Remote | Sep 01 |
-| **[Grant Thornton Isle of Man](http://www.grantthornton.co.im)** | **[Risk Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a970cfe246d697dcee03163?utm_campaign=1055&utm_source=git)** | Newport Beach, CA, United States | Hybrid | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
