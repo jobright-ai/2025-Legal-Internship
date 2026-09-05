@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Barclays](https://home.barclays)** | **[2027 Compliance Analyst Summer Internship Program New York](https://jobright.ai/jobs/info/6a9c361d68f82b4036735eec?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 05 |
+| **[Eide Bailly](http://www.eidebailly.com)** | **[Healthcare Regulatory Intern](https://jobright.ai/jobs/info/6a83a1c0379c304e892f8761?utm_campaign=1055&utm_source=git)** | Omaha, Nebraska, United States | On Site | Sep 05 |
+| **[Barclays](https://home.barclays)** | **[2027 Compliance Analyst Summer Internship Program Whippany](https://jobright.ai/jobs/info/6a9c3541dacf777321a8dcd1?utm_campaign=1055&utm_source=git)** | Whippany, NJ, United States | On Site | Sep 05 |
+| **[Sony Electronics](http://www.sony.com)** | **[Legal & Business Affairs Intern, Extreme Music & Bleeding Fingers Music](https://jobright.ai/jobs/info/6a7fbba3927c79391ad0c77e?utm_campaign=1055&utm_source=git)** | Santa Monica, CA, United States | On Site | Sep 05 |
+| **[Aon](http://www.aon.com)** | **[Early Careers: Risk Management and Insurance Internship](https://jobright.ai/jobs/info/6a932d7e9864261ccd2a276a?utm_campaign=1055&utm_source=git)** | Halifax, NS, Canada | On Site | Sep 05 |
 | **[Pacific Legal Foundation](https://pacificlegal.org)** | **[Litigation Fellowship, Environment & Natural Resources (Fall 2027)](https://jobright.ai/jobs/info/6a7f5adc927c79391ad081fd?utm_campaign=1055&utm_source=git)** | Arlington, VA, United States | Remote | Sep 05 |
 | **[KPMG Canada](https://www.kpmg.se)** | **[QC- Risk Services - Intern Governance, Risk and Compliance Services (GRC) - 2027](https://jobright.ai/jobs/info/6a919a8536036300991934bb?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Sep 05 |
 | ↳ | **[QC - Risk Services Intern Financial Risk Management (FRM) - 2027](https://jobright.ai/jobs/info/6a919a8fd18f756748278e51?utm_campaign=1055&utm_source=git)** | Montreal, Quebec, Canada | On Site | Sep 05 |
@@ -115,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6a9ac4519c24314c35f95557?utm_campaign=1055&utm_source=git)** | Carmel, IN, United States | On Site | Sep 04 |
 | **[HPC Industrial powered by Clean Harbors](https://www.hpc-industrial.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a9abd5290a313642c6561ea?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Sep 04 |
 | **[MAHLE](https://www.mahle.com)** | **[Foreign Trade Intern Job Details / MAHLE](https://jobright.ai/jobs/info/6a9abcfc90a313642c6561e0?utm_campaign=1055&utm_source=git)** | Farmington Hills, MI, United States | On Site | Sep 04 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a9ae39afe45b8490f604bd0?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Sep 04 |
-| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a9ae28dd5ff1f3f1c39b965?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Sep 04 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a9ae28dd5ff1f3f1c39b965?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Sep 04 |
+| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a9ae3af9c24314c35f95b6a?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Sep 04 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Real Property Attorney Intern](https://jobright.ai/jobs/info/6a9aba63fe45b8490f6044a2?utm_campaign=1055&utm_source=git)** | Manhattan, NY, United States | Hybrid | Sep 04 |
 | **[City of New York](https://www.nyc.gov)** | **[Real Property Attorney Intern](https://jobright.ai/jobs/info/6a9ab846fe45b8490f60446f?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Sep 04 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Regulatory Compliance and Governance (NTS)](https://jobright.ai/jobs/info/6a9a0f0d551435518ebf2d94?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO, United States | On Site | Sep 04 |
@@ -127,8 +132,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Intern: Law Clerk - Corporate](https://jobright.ai/jobs/info/6a99d72690a313642c65319a?utm_campaign=1055&utm_source=git)** | Stamford, CT, United States | On Site | Sep 04 |
 | ↳ | **[2027 Summer Intern: Law Clerk (Privacy & Cybersecurity) - Corporate](https://jobright.ai/jobs/info/6a99d72a90a313642c6531a0?utm_campaign=1055&utm_source=git)** | Stamford, CT, United States | On Site | Sep 04 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern – Consumer Protection (Summer)](https://jobright.ai/jobs/info/6a9a5068138838706059329a?utm_campaign=1055&utm_source=git)** | Pierre, SD, United States | On Site | Sep 04 |
-| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Paralegal (Summer)](https://jobright.ai/jobs/info/6a9a506be6c97d4b970aeed8?utm_campaign=1055&utm_source=git)** | Rapid City, SD, United States | On Site | Sep 03 |
-| ↳ | **[Intern - Paralegal (Summer)](https://jobright.ai/jobs/info/6a9a50681388387060593299?utm_campaign=1055&utm_source=git)** | Pierre, SD, United States | On Site | Sep 03 |
+| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Paralegal (Summer)](https://jobright.ai/jobs/info/6a9a50681388387060593299?utm_campaign=1055&utm_source=git)** | Pierre, SD, United States | On Site | Sep 03 |
+| ↳ | **[Intern - Paralegal (Summer)](https://jobright.ai/jobs/info/6a9a506be6c97d4b970aeed8?utm_campaign=1055&utm_source=git)** | Rapid City, SD, United States | On Site | Sep 03 |
 | ↳ | **[Intern - Administrative Law (Summer)](https://jobright.ai/jobs/info/6a9a50666c308f08f89c575d?utm_campaign=1055&utm_source=git)** | Pierre, SD, United States | On Site | Sep 03 |
 | **[KeyBank](https://www.key.com/businesses-institutions/industry-expertise/commercial-real-estate/capital-community-development-banking.html)** | **[2027 Summer Key Technology & Services: Security, Business & Strategy Track Internship- Cleveland](https://jobright.ai/jobs/info/6a9b008e1388387060596213?utm_campaign=1055&utm_source=git)** | Brooklyn, OH 44144, United States | Hybrid | Sep 03 |
 | **[EY](http://www.ey.com)** | **[USA - Assurance - Technology Risk - 360 Careers - Intern - Summer 2027](https://jobright.ai/jobs/info/6a9afeccd5ff1f3f1c39d1c4?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cavers Summer 2027 Intern- New Hampshire](https://jobright.ai/jobs/info/6a99fcc290a313642c653f3a?utm_campaign=1055&utm_source=git)** | Concord, NH, United States | On Site | Sep 03 |
 | ↳ | **[Cavers Summer 2027 Intern- Rhode Island](https://jobright.ai/jobs/info/6a99fcba551435518ebf2729?utm_campaign=1055&utm_source=git)** | Providence, RI 02908, United States | On Site | Sep 03 |
 | ↳ | **[Cavers Summer 2027 Intern-- Connecticut](https://jobright.ai/jobs/info/6a99fcb1040e5c3d0759a180?utm_campaign=1055&utm_source=git)** | New Haven, CT, United States | On Site | Sep 03 |
-| ↳ | **[Cavers Summer 2027 Intern- Maine](https://jobright.ai/jobs/info/6a99fc68040e5c3d0759a16d?utm_campaign=1055&utm_source=git)** | Portland, ME, United States | On Site | Sep 03 |
-| **[DIRECTV](https://www.directv.com/)** | **[Legal Intern](https://jobright.ai/jobs/info/6a99ec42551435518ebf2135?utm_campaign=1055&utm_source=git)** | El Segundo, CA, United States | Remote | Sep 03 |
-| **[Conservation Law Foundation](https://www.clf.org/)** | **[Cavers Summer 2027 Intern- Vermont](https://jobright.ai/jobs/info/6a99fb261388387060591d0c?utm_campaign=1055&utm_source=git)** | Montpelier, VT, United States | On Site | Sep 03 |
-| ↳ | **[Cavers Summer 2027 Intern - Massachusetts](https://jobright.ai/jobs/info/6a99faba90a313642c653ef7?utm_campaign=1055&utm_source=git)** | Boston, MA, United States | On Site | Sep 03 |
-| ↳ | **[Cavers Summer 2027 Intern- New Hampshire](https://jobright.ai/jobs/info/6a99faad551435518ebf26e0?utm_campaign=1055&utm_source=git)** | Concord, NH, United States | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
