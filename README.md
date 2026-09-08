@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hilton](https://www.hilton.com/en/)** | **[2027 Corporate Summer Internship - Corporate Affairs](https://jobright.ai/jobs/info/6a82992f2dbaf907b07645f8?utm_campaign=1055&utm_source=git)** | McLean, VA, United States | On Site | Sep 08 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[Law Clerk](https://jobright.ai/jobs/info/6a8368a29b859b227766e96e?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 08 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[M&A Legal Intern](https://jobright.ai/jobs/info/6a74d3ac37da8525e8cdac07?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | Remote | Sep 08 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Cyber Compliance Intern - Summer 2027](https://jobright.ai/jobs/info/6a9f6ee4f6ea002358298332?utm_campaign=1055&utm_source=git)** | McLean, VA, United States | On Site | Sep 08 |
@@ -116,12 +117,12 @@ For a complete list, click the following sortable link below:
 | **[Kroll](http://www.kroll.com)** | **[Intern, Trade and Customs](https://jobright.ai/jobs/info/6a9b1fe91388387060596b6b?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 04 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[2027 / Americas / Houston/ Investment Banking / Summer Associate](https://jobright.ai/jobs/info/6a9b2afd1388387060596e76?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | On Site | Sep 04 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Undergrad Legal & Compliance Rotational Internship – Atlanta](https://jobright.ai/jobs/info/6a7e4af8e51a1e18a240d307?utm_campaign=1055&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 04 |
-| **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Legal](https://jobright.ai/jobs/info/6a9aec942cdc5958f53e8f45?utm_campaign=1055&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 04 |
+| **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Legal](https://jobright.ai/jobs/info/6a9ae91f9c24314c35f95ce5?utm_campaign=1055&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 04 |
 | ↳ | **[Program Intern, Legal](https://jobright.ai/jobs/info/6a9b17ca9c24314c35f97b8c?utm_campaign=1055&utm_source=git)** | Houston, TX, United States | On Site | Sep 04 |
 | **[County of Berks, PA](http://www.berkspa.gov)** | **[Intern (Paid) - Public Defender](https://jobright.ai/jobs/info/6a9b312290a313642c65904c?utm_campaign=1055&utm_source=git)** | Reading, PA, United States | On Site | Sep 04 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[2027 / Americas / New York City / Investment Banking /  Summer Associate](https://jobright.ai/jobs/info/6a9b2b061388387060596e7d?utm_campaign=1055&utm_source=git)** | New York, NY, United States | On Site | Sep 04 |
-| ↳ | **[2027 / Americas / Chicago / Investment Banking / Summer Associate](https://jobright.ai/jobs/info/6a9b2afd1388387060596e77?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Sep 04 |
 | ↳ | **[2027 / Americas / San Francisco / Investment Banking / Summer Associate](https://jobright.ai/jobs/info/6a9b2afd1388387060596e78?utm_campaign=1055&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 04 |
+| ↳ | **[2027 / Americas / Chicago / Investment Banking / Summer Associate](https://jobright.ai/jobs/info/6a9b2afd1388387060596e77?utm_campaign=1055&utm_source=git)** | Chicago, IL, United States | On Site | Sep 04 |
 | ↳ | **[2027 / Americas / Los Angeles / Investment Banking / Summer Associate](https://jobright.ai/jobs/info/6a9b2afd90a313642c658dac?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 04 |
 | **[Tennessee Comptroller of the Treasury](https://comptroller.tn.gov/careers.html)** | **[Investigations Intern- Summer 2027](https://jobright.ai/jobs/info/6a9ad4ebd5ff1f3f1c39b651?utm_campaign=1055&utm_source=git)** | Nashville, TN, United States | On Site | Sep 04 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[2027 / Americas / Los Angeles / Investment Banking / Summer Associate](https://jobright.ai/jobs/info/6a9b212dd5ff1f3f1c39dbfd?utm_campaign=1055&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 04 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[HPC Industrial powered by Clean Harbors](https://www.hpc-industrial.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a9abd5290a313642c6561ea?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Sep 04 |
 | **[MAHLE](https://www.mahle.com)** | **[Foreign Trade Intern Job Details / MAHLE](https://jobright.ai/jobs/info/6a9abcfc90a313642c6561e0?utm_campaign=1055&utm_source=git)** | Farmington Hills, MI, United States | On Site | Sep 04 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a9af006fe45b8490f605001?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Sep 04 |
-| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a9ae3af9c24314c35f95b6a?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Sep 04 |
+| ↳ | **[Law Clerk Intern](https://jobright.ai/jobs/info/6a9ae39afe45b8490f604bd0?utm_campaign=1055&utm_source=git)** | Norwell, MA, United States | On Site | Sep 04 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Real Property Attorney Intern](https://jobright.ai/jobs/info/6a9aba63fe45b8490f6044a2?utm_campaign=1055&utm_source=git)** | Manhattan, NY, United States | Hybrid | Sep 04 |
 | **[City of New York](https://www.nyc.gov)** | **[Real Property Attorney Intern](https://jobright.ai/jobs/info/6a9ab846fe45b8490f60446f?utm_campaign=1055&utm_source=git)** | New York, NY, United States | Hybrid | Sep 04 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Regulatory Compliance and Governance (NTS)](https://jobright.ai/jobs/info/6a9a0f0d551435518ebf2d94?utm_campaign=1055&utm_source=git)** | Greenwood Village, CO, United States | On Site | Sep 04 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Postdoctoral Regulatory Affairs Fellow - Product Strategy](https://jobright.ai/jobs/info/6a9a8722fe45b8490f603db8?utm_campaign=1055&utm_source=git)** | United States | Remote | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
